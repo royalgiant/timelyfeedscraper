@@ -1,0 +1,42 @@
+{
+  "dev": {
+    "host": "localhost",
+    "user": "root",
+    "password" : "admin",
+    "database": "timely-dev",
+    "driver": "mysql",
+    "multipleStatements": true
+  },
+
+  "test": {
+    "host": "localhost",
+    "user": "root",
+    "password" : "admin",
+    "database": "timely-test",
+    "driver": "mysql",
+    "multipleStatements": true
+  },
+
+  "prod": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "root"
+  },
+
+  "pg": {
+    "driver": "pg",
+    "user": "test",
+    "password": "test",
+    "host": "localhost",
+    "database": "mydb",
+    "schema": "my_schema"
+  },
+
+  "mongo": {
+    "driver": "mongodb",
+    "database": "my_db",
+    "host": "localhost"
+  },
+
+  "other": "postgres://uname:pw@server.com/dbname"
+}
