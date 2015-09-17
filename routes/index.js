@@ -1,7 +1,8 @@
 var fs = require('fs');
 var express = require('express');
 var router = express.Router();
-var icalendar = require('icalendar')
+var orm = require('orm');
+var icalendar = require('icalendar');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
@@ -13,7 +14,7 @@ router.get('/', function(req, res, next) {
 	  	var events = ical.events();
 
 	  	var app = express
-	  	var orm = require('orm');
+	  	
 
 		orm.connect('mysql://root:admin@127.0.0.1/timely-dev', function(err, db) {
 		  	if (err) return console.error('Connection error: ' + err);
@@ -215,6 +216,84 @@ router.get('/', function(req, res, next) {
 	  } 
 	});
   	res.render('index', { title: 'Expression' });
+});
+
+router.get('/modelDefine', function(req, res, next) {
+	orm.connect('mysql://root:admin@127.0.0.1/timely-dev', function(err, db) {
+		if (err) return console.error('Connection error: ' + err);
+
+	  	var Event = db.define( 'event', {
+			id:  {type: 'serial', key: true}, // the auto-incrementing primary key
+			attach: {type: 'text'},
+			attendee: {type: 'text'},
+			uid: {type: 'text'},
+			comment: {type: 'text'},
+			contact: {type: 'text'},
+			description: {type: 'text', size: 5000 },
+			created: {type: 'date', time: true},
+			dtstamp: {type: 'date', time: true},
+			dtstart: {type: 'date', time: true},
+			dtend: {type: 'date'},
+			duration: {type: 'text'},
+			exdate: {type: 'date' },
+			rxrule: {type: 'text'},
+			last_modified: {type: 'text'},
+			sequence: {type: 'integer'},
+			summary: {type: 'text', size: 5000 },
+			rdate: {type: 'date'},
+			exception_date: {type: 'date'},
+			recurrence_id: {type: 'integer'},
+			related_to: {type: 'text'},
+			resources: {type: 'text'},
+			rrule: {type: 'text'},
+			exception_rule: {type: 'text'},
+			request_status: {type: 'text'},
+			status: {type: 'text'},
+			transp: {type: 'text'},
+			timezone_name: {type: 'text'},
+			allday: {type: 'text'},
+			priority: {type: 'text'},
+			organizer: {type: 'text'},
+			url: {type: 'text'},
+			x_tickets_url: {type: 'text'},
+			x_instant_event: {type: 'text'},
+			x_cost: {type: 'number'},
+			x_class: {type: 'text'},
+			show_map: {type: 'boolean'},
+			show_coordinates: {type: 'boolean'},
+			venue_id: {type: 'integer'},
+			organizer_id: {type: 'integer'},
+			ical_id: {type: 'integer'},
+			parent_event_id: {type: 'integer'},
+		});
+		
+		var Category = db.define( 'category', {
+			id:  {type: 'serial', key: true},
+			category_name: {type: 'text'}
+		});
+
+		Event.hasMany('categories', Category, { why: String }, { reverse: 'events', key: true })
+
+		var Venue = db.define( 'venue', {
+			id:  {type: 'serial', key: true},
+			name: {type: 'text'},
+			address: {type: 'text'},
+			city: {type: 'text'},
+			province: {type: 'text'},
+			postal_code: {type: 'text'},
+			country: {type: 'text'},
+			longitude: {type: 'text'},
+			latitude: {type: 'text'},
+		});
+
+		Event.hasOne("venue", Venue)
+
+		db.sync(function(err) {
+			if (err) throw err;		
+		});
+	});
+
+	res.render('modelDefine');
 });
 
 module.exports = router;
