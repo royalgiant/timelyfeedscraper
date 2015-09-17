@@ -84,135 +84,132 @@ router.get('/', function(req, res, next) {
 			});
 
 			Event.hasOne("venue", Venue)
+
+			events.forEach (function (e){
+		  		var newRecord = {};
+
+		  		if (e.properties["UID"]) {
+		  			newRecord.uid = e.properties["UID"][0]["value"];
+		  		}
+		  		if (e.properties["ATTACH"]) {
+		  			newRecord.attach = e.properties["ATTACH"][0]["value"];
+		  		}
+		  		if (e.properties["ATTENDEE"]) {
+		  			newRecord.attendee = e.properties["ATTENDEE"][0]["value"];
+		  		}
+		  		if (e.properties["DESCRIPTION"]) {
+		  			newRecord.description = String(e.properties["DESCRIPTION"][0]["value"]);
+		  		}
+		  		if (e.properties["DTSTAMP"]) {
+		  			newRecord.dtstamp = e.properties["DTSTAMP"][0]["value"];
+		  		}
+		  		if (e.properties["DTSTART"]) {
+		  			newRecord.dtstart = e.properties["DTSTART"][0]["value"];
+		  		}
+		  		if (e.properties["DTEND"]) {
+		  			newRecord.dtend = e.properties["DTEND"][0]["value"];
+		  		}
+		  		if (e.properties["CONTACT"]) {
+		  			newRecord.contact = e.properties["CONTACT"][0]["value"];
+		  		}
+		  		if (e.properties["COMMENT"]) {
+		  			newRecord.comment = e.properties["COMMENT"][0]["value"];
+		  		}
+		  		if (e.properties["CREATED"]) {
+		  			newRecord.created = e.properties["CREATED"][0]["value"];
+		  		}
+		  		if (e.properties["CLASS"]) {
+		  			newRecord.x_class= e.properties["CLASS"][0]["value"];
+		  		}
+		  		if (e.properties["DURATION"]) {
+		  			newRecord.duration = e.properties["DURATION"][0]["value"];
+		  		}
+		  		if (e.properties["EXDATE"]) {
+		  			newRecord.exdate = e.properties["EXDATE"][0]["value"];
+		  		}
+		  		if (e.properties["RXRULE"]) {
+		  			newRecord.rxrule = e.properties["RXRULE"][0]["value"];
+		  		}
+		  		if (e.properties["RRULE"]) {
+		  			newRecord.rrule = e.properties["RRULE"][0]["value"];
+		  		}
+		  		if (e.properties["RDATE"]) {
+		  			newRecord.rdate = e.properties["RDATE"][0]["value"];
+		  		}
+		  		if (e.properties["RECURRENCE-ID"]) {
+		  			newRecord.recurrrence_id = e.properties["RECURRENCE-ID"][0]["value"];
+		  		}
+		  		if (e.properties["RELATED-TO"]) {
+		  			newRecord.related_to = e.properties["RELATED-TO"][0]["value"];
+		  		}
+		  		if (e.properties["RESOURCES"]) {
+		  			newRecord.resources = e.properties["RESOURCES"][0]["value"];
+		  		}
+		  		if (e.properties["REQUESTED-STATUS"]) {
+		  			newRecord.requested_status = e.properties["REQUESTED-STATUS"][0]["value"];
+		  		}
+		  		if (e.properties["STATUS"]) {
+		  			newRecord.status = e.properties["STATUS"][0]["value"];
+		  		}
+		  		if (e.properties["TRANSP"]) {
+		  			newRecord.transp = e.properties["TRANSP"][0]["value"];
+		  		}
+		  		if (e.properties["PRIORITY"]) {
+		  			newRecord.priority = e.properties["PRIORITY"][0]["value"];
+		  		}
+		  		if (e.properties["ORGANIZER"]) {
+		  			newRecord.organizer = e.properties["ORGANIZER"][0]["value"];
+		  		}
+		  		if (e.properties["LOCATION"]) {
+		  			newRecord.location = e.properties["LOCATION"][0]["value"];
+		  		}	  		
+		  		if (e.properties["SEQUENCE"]) {
+		  			newRecord.sequence = e.properties["SEQUENCE"][0]["value"];
+		  		}
+		  		if (e.properties["SUMMARY"]) {
+		  			newRecord.summary = e.properties["SUMMARY"][0]["value"];
+		  		}
+		  		if (e.properties["URL"]) {
+		  			newRecord.url = e.properties["URL"][0]["value"];
+		  		}
+		  		if (e.properties["LAST-MODIFIED"]) {
+		  			newRecord.last_modified = e.properties["LAST-MODIFIED"][0]["value"];	
+		  		}
+		  		if (e.properties["X-TICKETS-URL"]) {
+		  			newRecord.x_tickets_url = e.properties["X-TICKETS-URL"][0]["value"];
+		  		}
+		  		if (e.properties["X-INSTANT-EVENT"]) {
+		  			newRecord.x_instant_event = e.properties["X-INSTANT-EVENT"][0]["value"];
+		  		}
+		  		if (e.properties["X-COST"]) {
+		  			newRecord.x_cost = e.properties["X-COST"][0]["value"];
+		  		}
+
+		  		db.sync(function(err) {
+					if (err) throw err;
+				
+					Event.create(newRecord, function(err, results){});
+				});
+		  		
+
+		  		// if (e.properties["CATEGORIES"]) {
+		  		// 	var categories = String(e.properties["CATEGORIES"][0]["value"].split("\,");
+		  		// 	for (var i in categories){
+		  		// 		categories[i] = categories[i].replace("\\", "");
+		  		// 		categories[i] = decodeURI(categories[i]);
+		  		// 	};
+		  		// 	console.log(categories);
+		  		// }
+
+		  		// if (e.properties["GEO"]) {
+		  		// 	var geo = String(e.properties["GEO"][0]["value"].split(";")
+		  		// 	console.log(geo);
+		  		// }
+		  		// console.log(= e.properties);
+		  	});
 		});
 
-		events.forEach (function (e){
-	  		var newRecord = {};
-
-	  		if (e.properties["UID"]) {
-	  			newRecord.uid = e.properties["UID"][0]["value"];
-	  		}
-	  		if (e.properties["ATTACH"]) {
-	  			newRecord.attach = e.properties["ATTACH"][0]["value"];
-	  		}
-	  		if (e.properties["ATTENDEE"]) {
-	  			newRecord.attendee = e.properties["ATTENDEE"][0]["value"];
-	  		}
-	  		if (e.properties["DESCRIPTION"]) {
-	  			newRecord.description = e.properties["DESCRIPTION"][0]["value"];
-	  		}
-	  		if (e.properties["DTSTAMP"]) {
-	  			newRecord.dtstamp = e.properties["DTSTAMP"][0]["value"];
-	  		}
-	  		if (e.properties["DTSTART"]) {
-	  			newRecord.dtstart = e.properties["DTSTART"][0]["value"];
-	  		}
-	  		if (e.properties["DTEND"]) {
-	  			newRecord.dtend = e.properties["DTEND"][0]["value"];
-	  		}
-	  		if (e.properties["CONTACT"]) {
-	  			newRecord.contact = e.properties["CONTACT"][0]["value"];
-	  		}
-	  		if (e.properties["COMMENT"]) {
-	  			newRecord.comment = e.properties["COMMENT"][0]["value"];
-	  		}
-	  		if (e.properties["CREATED"]) {
-	  			newRecord.created = e.properties["CREATED"][0]["value"];
-	  		}
-	  		if (e.properties["CLASS"]) {
-	  			newRecord.x_class= e.properties["CLASS"][0]["value"];
-	  		}
-	  		if (e.properties["DURATION"]) {
-	  			newRecord.duration = e.properties["DURATION"][0]["value"];
-	  		}
-	  		if (e.properties["EXDATE"]) {
-	  			newRecord.exdate = e.properties["EXDATE"][0]["value"];
-	  		}
-	  		if (e.properties["RXRULE"]) {
-	  			newRecord.rxrule = e.properties["RXRULE"][0]["value"];
-	  		}
-	  		if (e.properties["RRULE"]) {
-	  			newRecord.rrule = e.properties["RRULE"][0]["value"];
-	  		}
-	  		if (e.properties["RDATE"]) {
-	  			newRecord.rdate = e.properties["RDATE"][0]["value"];
-	  		}
-	  		if (e.properties["RECURRENCE-ID"]) {
-	  			newRecord.recurrrence_id = e.properties["RECURRENCE-ID"][0]["value"];
-	  		}
-	  		if (e.properties["RELATED-TO"]) {
-	  			newRecord.related_to = e.properties["RELATED-TO"][0]["value"];
-	  		}
-	  		if (e.properties["RESOURCES"]) {
-	  			newRecord.resources = e.properties["RESOURCES"][0]["value"];
-	  		}
-	  		if (e.properties["REQUESTED-STATUS"]) {
-	  			newRecord.requested_status = e.properties["REQUESTED-STATUS"][0]["value"];
-	  		}
-	  		if (e.properties["STATUS"]) {
-	  			newRecord.status = e.properties["STATUS"][0]["value"];
-	  		}
-	  		if (e.properties["TRANSP"]) {
-	  			newRecord.transp = e.properties["TRANSP"][0]["value"];
-	  		}
-	  		if (e.properties["PRIORITY"]) {
-	  			newRecord.priority = e.properties["PRIORITY"][0]["value"];
-	  		}
-	  		if (e.properties["ORGANIZER"]) {
-	  			newRecord.organizer = e.properties["ORGANIZER"][0]["value"];
-	  		}
-	  		if (e.properties["LOCATION"]) {
-	  			newRecord.location = e.properties["LOCATION"][0]["value"];
-	  		}	  		
-	  		if (e.properties["SEQUENCE"]) {
-	  			newRecord.sequence = e.properties["SEQUENCE"][0]["value"];
-	  		}
-	  		if (e.properties["SUMMARY"]) {
-	  			newRecord.summary = e.properties["SUMMARY"][0]["value"];
-	  		}
-	  		if (e.properties["URL"]) {
-	  			newRecord.url = e.properties["URL"][0]["value"];
-	  		}
-	  		if (e.properties["LAST-MODIFIED"]) {
-	  			newRecord.last_modified = e.properties["LAST-MODIFIED"][0]["value"];	
-	  		}
-	  		if (e.properties["X-TICKETS-URL"]) {
-	  			newRecord.x_tickets_url = e.properties["X-TICKETS-URL"][0]["value"];
-	  		}
-	  		if (e.properties["X-INSTANT-EVENT"]) {
-	  			newRecord.x_instant_event = e.properties["X-INSTANT-EVENT"][0]["value"];
-	  		}
-	  		if (e.properties["X-COST"]) {
-	  			newRecord.x_cost = e.properties["X-COST"][0]["value"];
-	  		}
-
-	  		db.sync(function(err) {
-				if (err) throw err;
-			
-				Event.create(newRecord, function(err, results){
-	  				if (err) throw err;
-	  			});
-			});
-	  		
-
-	  		// if (e.properties["CATEGORIES"]) {
-	  		// 	var categories = String(e.properties["CATEGORIES"][0]["value"].split("\,");
-	  		// 	for (var i in categories){
-	  		// 		categories[i] = categories[i].replace("\\", "");
-	  		// 		categories[i] = decodeURI(categories[i]);
-	  		// 	};
-	  		// 	console.log(categories);
-	  		// }
-
-	  		// if (e.properties["GEO"]) {
-	  		// 	var geo = String(e.properties["GEO"][0]["value"].split(";")
-	  		// 	console.log(geo);
-	  		// }
-	  		// console.log(= e.properties);
-	  	});
-
 		console.log('Done');
-		
 	  } 
 	});
   	res.render('index', { title: 'Expression' });
@@ -257,7 +254,7 @@ router.get('/modelDefine', function(req, res, next) {
 			url: {type: 'text'},
 			x_tickets_url: {type: 'text'},
 			x_instant_event: {type: 'text'},
-			x_cost: {type: 'number'},
+			x_cost: {type: 'text'},
 			x_class: {type: 'text'},
 			show_map: {type: 'boolean'},
 			show_coordinates: {type: 'boolean'},
