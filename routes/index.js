@@ -184,22 +184,52 @@ router.get('/', function(req, res, next) {
 		  		if (e.properties["X-COST"]) {
 		  			newRecord.x_cost = e.properties["X-COST"][0]["value"];
 		  		}
+		  		if (e.properties["CATEGORIES"]) {
+		  			var categories = String(e.properties["CATEGORIES"][0]["value"]).split("\,");
+		  			for (var i in categories){
+		  				categories[i] = categories[i].replace("\\", "");
+		  				categories[i] = decodeURI(categories[i]);
+		  			};
+		  		}
 
 		  		db.sync(function(err) {
-					if (err) throw err;
-				
-					Event.create(newRecord, function(err, results){});
+					
+					Event.find({uid:newRecord.uid}, function(err, results){
+						if(results.length == 0){ // Record doesn't exist; create it.
+							Event.create(newRecord, function(err, results){
+								// Loop through categories
+								Event.addCategory(categories, function(err){});
+								for (var x in categories) {
+									// Check if it exists in database
+									// Efficiency note - can we do a bulk find, and then add categories to events?
+									Category.find({category_name:String(categories[x])}, function(err, results) {
+										if(results.length == 1){
+										// 	// If it's already associated with the category do nothing
+											console.log([categories[x]]);
+											Event.hasCategories([categories[x]], function(err, eventHasCategoryx) {
+												if (eventHasCategoryx){}
+												else{ // Else associate the category 
+													Event.addCategory(category, {why: String(categories[x])}, function(err){});
+												}
+											}); 							
+										} 
+										else { //Category didn't exist, create it, and associate it with the Event
+											console.log(results);
+											results.addCategory([categories[x]], function(err){});
+											categorys.addEvents(Event, function(err){});
+										}
+									});
+									// If it does, take categories_id and events_id and pop it in db
+									// Else it doesn't, add it to categories and pop its id and Event.id
+									// into events-categories
+								}
+							});
+						}
+					});
 				});
 		  		
 
-		  		// if (e.properties["CATEGORIES"]) {
-		  		// 	var categories = String(e.properties["CATEGORIES"][0]["value"].split("\,");
-		  		// 	for (var i in categories){
-		  		// 		categories[i] = categories[i].replace("\\", "");
-		  		// 		categories[i] = decodeURI(categories[i]);
-		  		// 	};
-		  		// 	console.log(categories);
-		  		// }
+		  		
 
 		  		// if (e.properties["GEO"]) {
 		  		// 	var geo = String(e.properties["GEO"][0]["value"].split(";")
