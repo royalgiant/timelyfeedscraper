@@ -236,29 +236,15 @@ router.get('/', function(req, res, next) {
 				   		})
 			   		}	
 			    } else {
+			    	// Find the Venue or Create it and Associate it with the Event.
 			    	Venue.findOrCreate({where: location, defaults: location}).spread( function(venue, venue_created){
-			   			// if (venue_created){
-			   			// 	event_created.setAssociation(venue_created);
-			   			// 	console.log("Venue created - venueId: "+event_created.venueId);
-			   			// } else{
-			   			// 	event_created.setAssociation(venue);
-			   			// 	console.log("Venue  - venueId: "+event_created.venueId)
-			   			// }
-			   			if (venue) {
-			   				console.log("The veeeeeennnuuueeeeeee issssss");
-			   				console.log(venue.id);
-			   				console.log(tevent.uid)
+			   			if (venue) { // Venue existed, associate to event
 			   				tevent.venueId = venue.id;
-			 
 			   				tevent.save();
-			   			} else {
-			   				console.log("The veeeeeennnuuueeeeeee creeaaaatttee");
-			   				console.log(venue_created.id);
-			   				console.log(tevent.uid)
-
+			   			} else {	// Venue did not exist, create it, and then associate to event.
+			   				tevent.venueId = venue_created.id;
 			   				tevent.save();
 			   			}	
-			   			
 				   	})
 			    }
 	  		})
