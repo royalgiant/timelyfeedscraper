@@ -381,18 +381,18 @@ router.get('/read', function(req, res, next) {
 	// });
 
 	
-
 	
-	var download = function(uri, filename, callback){
-	  request.head(uri, function(err, res, body){
-	  	console.log(uri);
-	  	console.log('done');
-	    console.log('content-type:', res.headers['content-type']);
-	    console.log('content-length:', res.headers['content-length']);
+	
+	// var download = function(uri, filename, callback){
+	//   request.head(uri, function(err, res, body){
+	//   	console.log(uri);
+	//   	console.log('done');
+	//     console.log('content-type:', res.headers['content-type']);
+	//     console.log('content-length:', res.headers['content-length']);
 
-	    request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
-	  });
-	};
+	//     request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+	//   });
+	// };
 	
 	var stream = fs.createReadStream('/Users/donaldlee/Desktop/wordpress_calendars.csv');
 	var csvStream = csv()
@@ -400,11 +400,7 @@ router.get('/read', function(req, res, next) {
     	//links.push(String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events");
         // console.log(String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events");
     	url = String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events";
-    	console.log(url);
-    	console.log('head');
-    	download("http://www.blackabbeybrewing.com/main/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events", 'import.ics', function(){
-		  console.log('done');
-		});
+    	request(url).pipe(fs.createWriteStream('download.ics'));
     	
 		
     })
