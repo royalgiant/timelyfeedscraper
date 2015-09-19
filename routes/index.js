@@ -393,14 +393,19 @@ router.get('/read', function(req, res, next) {
 	//     request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
 	//   });
 	// };
-	
+	var counter = 0;
 	var stream = fs.createReadStream('/Users/donaldlee/Desktop/wordpress_calendars.csv');
 	var csvStream = csv()
     .on("data", function(data){
     	//links.push(String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events");
         // console.log(String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events");
     	url = String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events";
-    	request(url).pipe(fs.createWriteStream('download.ics'));
+    	counter = counter + 1;
+    	request.get(url,{timeout: 5000})
+		  .on('error', function(err) {
+		    console.log(err);
+		  })
+		  .pipe(fs.createWriteStream("./icsfiles/"+counter+".ics"));
     	
 		
     })
