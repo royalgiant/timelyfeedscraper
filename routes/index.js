@@ -224,33 +224,37 @@ router.get('/', function(req, res, next) {
 						//     }
 						// })
 			   //  	}
+
+			   		// If location actually had a value.
 			   		if (location) {
+			   			// Find the Venue or Create it and Associate it with the Event.
 			   			Venue.findOrCreate({where: location, defaults: location}).spread( function(venue, venue_created){
-				   			if (venue_created){
-				   				event_created.setAssociation(venue_created);
-				   				console.log("Venue created - venueId: "+event_created.venueId);
-				   			} else{
-				   				event_created.setAssociation(venue);
-				   				console.log("Venue  - venueId: "+event_created.venueId)
+				   			if (venue_created){ // Venue did not exist, create it, and then associate to event.
+				   				event_created.venueId = venue_created.id;
+			   					event_created.save();
+				   			} else{ // Venue existed, associate to even
+				   				event_created.venueId = venue.id;
+			   					event_created.save();
 				   			}
 				   		})
 			   		}	
 			    } else {
-			    	// Find the Venue or Create it and Associate it with the Event.
-			    	Venue.findOrCreate({where: location, defaults: location}).spread( function(venue, venue_created){
-			   			if (venue) { // Venue existed, associate to event
-			   				tevent.venueId = venue.id;
-			   				tevent.save();
-			   			} else {	// Venue did not exist, create it, and then associate to event.
-			   				tevent.venueId = venue_created.id;
-			   				tevent.save();
-			   			}	
-				   	})
+			    	if (location) {
+			    		// Find the Venue or Create it and Associate it with the Event.
+				    	Venue.findOrCreate({where: location, defaults: location}).spread( function(venue, venue_created){
+				   			if (venue) { // Venue existed, associate to event
+				   				tevent.venueId = venue.id;
+				   				tevent.save();
+				   			} else {	// Venue did not exist, create it, and then associate to event.
+				   				tevent.venueId = venue_created.id;
+				   				tevent.save();
+				   			}	
+					   	})
+			    	}	
 			    }
 	  		})
 	  	});
 		
-
 		console.log('Done');
 	  } 
 	});
