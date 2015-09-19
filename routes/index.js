@@ -210,20 +210,23 @@ router.get('/', function(req, res, next) {
 
 	  		Event.findOrCreate({where: {uid: newRecord.uid}, defaults: newRecord}).spread( function(tevent, event_created){
 			    if(event_created) {
-			   //  	for (x in categories) {
-			   //  		Category.findOrCreate({where: {category_name: categories[x]}, defaults: {category_name: categories[x]}}).spread( function(cat, created){
-				  // 			console.log(cat.get({
-						//       plain: true
-						//     }))
-						//     if(created) {
-						//     	console.log("Created: "+created);
-						//     	Event.addCategory(created);
-						//     } else {
-						//     	Event.addCategory(cat);
-						//     	console.log("Added: "+cat);
-						//     }
-						// })
-			   //  	}
+			   		for (x in categories) { // Loop through categories
+			    		if (categories[x].length > 0 ) { // If category is not empty
+			    			// Find the category in DB / create it
+			    			Category.findOrCreate({where: {category_name: categories[x].trim()}, defaults: {category_name: categories[x].trim()}}).spread( function(cat, created){
+					  			console.log(cat.get({
+							      plain: true
+							    }))
+							    if(created) { // If it was created, assoiate it with event
+							    	console.log("Created: "+created);
+							    	tevent.addCategory(created);
+							    } else { // It existed, associated it with event.
+							    	tevent.addCategory(cat);
+							    	console.log("Added: "+cat);
+							    }
+							})
+			    		}
+			    	}
 
 			   		// If location actually had a value.
 			   		if (location) {
@@ -239,6 +242,25 @@ router.get('/', function(req, res, next) {
 				   		})
 			   		}	
 			    } else {
+
+			    	for (x in categories) { // Loop through categories
+			    		if (categories[x].length > 0 ) { // If category is not empty
+			    			// Find the category in DB / create it
+			    			Category.findOrCreate({where: {category_name: categories[x].trim()}, defaults: {category_name: categories[x].trim()}}).spread( function(cat, created){
+					  			console.log(cat.get({
+							      plain: true
+							    }))
+							    if(created) { // If it was created, assoiate it with event
+							    	console.log("Created: "+created);
+							    	tevent.addCategory(created);
+							    } else { // It existed, associated it with event.
+							    	tevent.addCategory(cat);
+							    	console.log("Added: "+cat);
+							    }
+							})
+			    		}
+			    	}
+
 			    	if (location) {
 			    		// Find the Venue or Create it and Associate it with the Event.
 				    	Venue.findOrCreate({where: location, defaults: location}).spread( function(venue, venue_created){
