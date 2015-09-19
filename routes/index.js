@@ -5,6 +5,8 @@ var router = express.Router();
 var icalendar = require('icalendar');
 var Sequelize = require('sequelize');
 var csv = require('fast-csv');
+var request = require('request');
+
 /* GET home page. */
 router.get('/', function(req, res, next) {
 	fs.readFile('/Users/donaldlee/Downloads/+_95KnQ1.ics', 'utf8', function (err,data) {
@@ -366,6 +368,9 @@ router.get('/modelDefine', function(req, res, next) {
 	res.render('modelDefine');
 });
 
+
+
+
 router.get('/read', function(req, res, next) {
 	// fs.readFile('/Users/donaldlee/Desktop/wordpress_calendars.csv', 'utf8', function (err,data) {
 	//   	if (err) {
@@ -375,16 +380,38 @@ router.get('/read', function(req, res, next) {
 	//   	}
 	// });
 
+	
+
+	
+	var download = function(uri, filename, callback){
+	  request.head(uri, function(err, res, body){
+	  	console.log(uri);
+	  	console.log('done');
+	    console.log('content-type:', res.headers['content-type']);
+	    console.log('content-length:', res.headers['content-length']);
+
+	    request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+	  });
+	};
+	
 	var stream = fs.createReadStream('/Users/donaldlee/Desktop/wordpress_calendars.csv');
 	var csvStream = csv()
     .on("data", function(data){
-         console.log(String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events");
+    	//links.push(String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events");
+        // console.log(String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events");
+    	url = String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events";
+    	console.log(url);
+    	console.log('head');
+    	download("http://www.blackabbeybrewing.com/main/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events", 'import.ics', function(){
+		  console.log('done');
+		});
+    	
+		
     })
     .on("end", function(){
          console.log("done");
     });
     stream.pipe(csvStream);
-
     res.render('modelDefine');
 });
 
