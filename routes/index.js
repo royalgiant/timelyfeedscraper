@@ -1,8 +1,10 @@
+var http = require('http');
 var fs = require('fs');
 var express = require('express');
 var router = express.Router();
 var icalendar = require('icalendar');
 var Sequelize = require('sequelize');
+var csv = require('fast-csv');
 /* GET home page. */
 router.get('/', function(req, res, next) {
 	fs.readFile('/Users/donaldlee/Downloads/+_95KnQ1.ics', 'utf8', function (err,data) {
@@ -364,4 +366,34 @@ router.get('/modelDefine', function(req, res, next) {
 	res.render('modelDefine');
 });
 
+router.get('/read', function(req, res, next) {
+	// fs.readFile('/Users/donaldlee/Desktop/wordpress_calendars.csv', 'utf8', function (err,data) {
+	//   	if (err) {
+	//     	return console.log(err);
+	//   	} else {
+
+	//   	}
+	// });
+
+	var stream = fs.createReadStream('/Users/donaldlee/Desktop/wordpress_calendars.csv');
+	var csvStream = csv()
+    .on("data", function(data){
+         console.log(String(data).replace(/\/$/, "")+"/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events");
+    })
+    .on("end", function(){
+         console.log("done");
+    });
+    stream.pipe(csvStream);
+
+    res.render('modelDefine');
+});
+
 module.exports = router;
+
+
+// Loop through CSV file
+// Append ?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events to end of link
+// Download File in Location
+// Run Script
+// Delete File
+
