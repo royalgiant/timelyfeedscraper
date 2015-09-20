@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//208.97.158.141//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.sfc-fans.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-605@www.sfc-fans.co.uk
+DTSTAMP:20150920T002212Z
+CATEGORIES;LANGUAGE=en-GB:WPL
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/www.sfc-fans.co.uk/wp-content/uploads/2015/08/Sholing.png?fit
+ =300%2C300' width='' height='' /></div>
+DTSTART;TZID=Europe/London:20150919T150000
+DTEND;TZID=Europe/London:20150919T170000
+GEO:+50.891785;-1.338452
+LOCATION:The Silverlake Arena @ Southampton\, Southampton SO19 9PW\, UK
+SEQUENCE:0
+SUMMARY:WPL Sholing FC v Salisbury FC
+URL:http://www.sfc-fans.co.uk/event/wpl-sholing-fc-v-salisbury-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-607@www.sfc-fans.co.uk
+DTSTAMP:20150920T002212Z
+CATEGORIES;LANGUAGE=en-GB:WPL
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i1.wp.com/www.sfc-fans.co.uk/wp-content/uploads/2015/08/cowes-sports-fc
+ -news-2-e1440884369751.jpg?fit=300%2C300' width='' height='' /></div>
+DTSTART;TZID=Europe/London:20150926T150000
+DTEND;TZID=Europe/London:20150926T170000
+SEQUENCE:0
+SUMMARY:WPL Salisbury FC v Cowes Sport FC
+URL:http://www.sfc-fans.co.uk/event/wpl-salisbury-fc-v-cowes-sport-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-730@www.sfc-fans.co.uk
+DTSTAMP:20150920T002212Z
+CATEGORIES;LANGUAGE=en-GB:FAV
+CONTACT:
+DESCRIPTION:<p>This is the 2nd qualifying round of the FA Vase. The match a
+ gainst AFC Fawley that was scheduled for this day has been moved to Tuesda
+ y\, 6th October.</p>
+DTSTART;TZID=Europe/London:20151003T150000
+DTEND;TZID=Europe/London:20151003T170000
+GEO:+51.104007;-1.786237
+LOCATION:Raymond McEnhill Stadium @ Salisbury\, Wiltshire SP4 6PU\, UK
+SEQUENCE:0
+SUMMARY:FAV Salisbury FC v Folland Sports FC
+URL:http://www.sfc-fans.co.uk/event/fav-salisbury-fc-v-folland-sports-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-731@www.sfc-fans.co.uk
+DTSTAMP:20150920T002212Z
+CATEGORIES;LANGUAGE=en-GB:WPL
+CONTACT:
+DESCRIPTION:<p>This is a rearranged fixture.</p>
+DTSTART;TZID=Europe/London:20151006T194500
+DTEND;TZID=Europe/London:20151006T214500
+GEO:+51.104007;-1.786237
+LOCATION:Raymond McEnhill Stadium @ Salisbury\, Wiltshire SP4 6PU\, UK
+SEQUENCE:0
+SUMMARY:WPL Salisbury FC v AFC Fawley
+URL:http://www.sfc-fans.co.uk/event/wpl-salisbury-fc-v-afc-fawley/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-732@www.sfc-fans.co.uk
+DTSTAMP:20150920T002212Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151010T150000
+DTEND;TZID=Europe/London:20151010T170000
+GEO:+50.81381;-1.059329
+LOCATION:Moneyfields Sports Group @ Portsmouth\, Portsmouth\, Portsmouth PO
+ 3 6LA\, UK
+SEQUENCE:0
+SUMMARY:WPL Moneyfields FC v Salisbury FC
+URL:http://www.sfc-fans.co.uk/event/wpl-moneyfields-fc-v-salisbury-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-733@www.sfc-fans.co.uk
+DTSTAMP:20150920T002212Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151017T150000
+DTEND;TZID=Europe/London:20151017T170000
+GEO:+51.222151;-1.338168
+LOCATION:Longmeadow @ Whitchurch\, Hampshire RG28 7RB\, UK
+SEQUENCE:0
+SUMMARY:WPL Whitchurch Utd v Salisbury FC
+URL:http://www.sfc-fans.co.uk/event/wpl-whitchurch-utd-v-salisbury-fc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-734@www.sfc-fans.co.uk
+DTSTAMP:20150920T002212Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151024T150000
+DTEND;TZID=Europe/London:20151024T170000
+GEO:+51.104007;-1.786237
+LOCATION:Raymond McEnhill Stadium @ Salisbury\, Wiltshire SP4 6PU\, UK
+SEQUENCE:0
+SUMMARY:WPL Salisbury FC v Blackfield & Langley FC
+URL:http://www.sfc-fans.co.uk/event/wpl-salisbury-fc-v-blackfield-langley-f
+ c/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-735@www.sfc-fans.co.uk
+DTSTAMP:20150920T002212Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151031T105400
+DTEND;TZID=Europe/London:20151031T115400
+GEO:+50.7145;-2.002342
+LOCATION:The County Ground @ Poole\, Poole\, Poole BH15 4BF\, UK
+SEQUENCE:0
+SUMMARY:WPL Hamworthy Utd v Salisbury FC
+URL:http://www.sfc-fans.co.uk/event/wpl-hamworthy-utd-v-salisbury-fc/
+END:VEVENT
+END:VCALENDAR

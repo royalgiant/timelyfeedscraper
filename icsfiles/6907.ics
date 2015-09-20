@@ -1,0 +1,319 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//206.190.150.166//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://chnyc.us
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-800@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Water
+CONTACT:Marina Manager\; 401-841-3283
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151101
+GEO:+41.504417;-71.327493
+LOCATION:Navy MWR Marina @ 17 Perry Road\, Newport\, RI 02841\, USA
+RRULE:FREQ=DAILY;COUNT=2;INTERVAL=365
+SEQUENCE:0
+SUMMARY:Marina Closed for Season
+URL:http://chnyc.us/event/navy-marina-closed-for-season/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-863@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Business
+CONTACT:https://chnyc.us/online-membership/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2014/11/chnyc-membership-annual-dues1.
+ jpg' width='275' height='275' /></div><p>The membership year is from April
+  1 to March 31 of the calendar year following. The Commodore\, Vice Commod
+ ore\, and Secretary may begin issuing memberships for the upcoming members
+ hip year within a period not to exceed 90 days prior to the beginning of t
+ hat year.</p>
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+LOCATION:CHNYC Website
+RRULE:FREQ=YEARLY;COUNT=15;BYMONTH=1
+SEQUENCE:0
+SUMMARY:CHNYC Membership Renewal Available
+URL:http://chnyc.us/event/chnyc-membership-renewal-available/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-864@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Business
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2014/11/chnyc-membership-annual-dues1.
+ jpg' width='275' height='275' /></div><p>The membership year is from April
+  1 to March 31 of the calendar year following. The Commodore\, Vice Commod
+ ore\, and Secretary may begin issuing memberships for the upcoming members
+ hip year within a period not to exceed 90 days prior to the beginning of t
+ hat year.</p>
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+RRULE:FREQ=YEARLY;COUNT=15;BYMONTH=1
+SEQUENCE:0
+SUMMARY:CHNYC Membership Year Starts
+URL:http://chnyc.us/event/chnyc-membership-year-starts/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-801@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Water
+CONTACT:Marina Manager\; 401-841-3283
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2014/11/DSCN00701-300x188.jpg' width='
+ 300' height='188' /></div>
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+GEO:+41.504417;-71.327493
+LOCATION:Navy MWR Marina @ 17 Perry Road\, Newport\, RI 02841\, USA
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Marina Open for Season
+URL:http://chnyc.us/event/navy-marina-open-for-season/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-802@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Water
+CONTACT:Marina Manager\; 401-841-3283
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161031
+DTEND;VALUE=DATE:20161101
+LOCATION:Navy MWR Marina @ 17 Perry Road\, Newport\, RI 02841\, USA
+RRULE:FREQ=DAILY;COUNT=3;INTERVAL=365
+SEQUENCE:0
+SUMMARY:Marina Closed for Season
+URL:http://chnyc.us/event/marina-closed-for-season/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-860@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Water
+CONTACT:http://jyc.org/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2015/04/phrf-231x300.jpg' width='231' 
+ height='300' /></div>
+DTSTART;TZID=America/New_York:20150920T133000
+DTEND;TZID=America/New_York:20150920T153000
+LOCATION:Jamestown YC
+RRULE:FREQ=WEEKLY;UNTIL=20151005T235959Z
+SEQUENCE:0
+SUMMARY:PHRF Racing Fall Series
+URL:http://chnyc.us/event/phrf-racing-fall-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1054@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Water
+CONTACT:Jane Eaton\; race.chair@chnyc.us\; http://chnyc.us/wednesday-night-
+ racing/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2015/04/rhodes-race-series-300x300.jpg
+ ' width='300' height='300' /></div><table border='2' width='80%' cellspaci
+ ng='2' cellpadding='0'>\n<tbody>\n<tr>\n<td align='center' valign='top' wi
+ dth='156' height='23'><strong>Series Event</strong></td>\n<td align='cente
+ r' valign='top' width='173' height='23'><strong>Time for First Signal</str
+ ong></td>\n</tr>\n<tr>\n<td valign='top' width='350' height='23'>Season Op
+ ener Practice Race: 13 May 2015</td>\n<td valign='top' width='100' height=
+ '23'>1730</td>\n</tr>\n<tr>\n<td valign='top' width='350' height='23'>Spri
+ ng Series: 20 May – 22 July 2015</td>\n<td valign='top' width='100' height
+ ='23'>1730</td>\n</tr>\n<tr>\n<td valign='top' width='350' height='23'>Sum
+ mer Series: 29 July – 26 August 2015</td>\n<td valign='top' width='100' he
+ ight='23'>1730</td>\n</tr>\n<tr>\n<td valign='top' width='350' height='23'
+ >Summer Series Continues: 2 September – 30 September 2015</td>\n<td valign
+ ='top' width='100' height='23'>1700</td>\n</tr>\n</tbody>\n</table>
+DTSTART;TZID=America/New_York:20150923T170000
+DTEND;TZID=America/New_York:20150923T183000
+GEO:+41.504417;-71.327493
+LOCATION:Navy MWR Marina @ 17 Perry Road\, Newport\, RI 02841\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151001T235959Z
+SEQUENCE:0
+SUMMARY:Rhodes 19 Summer Series
+URL:http://chnyc.us/event/rhodes-19-summer-series-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1085@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Water
+CONTACT:Ron Oard\; shields@chnyc.us\; http://shieldsfleet9.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2015/04/shields-300x300.jpg' width='30
+ 0' height='300' /></div><p>Shields Wednesday Racing with Fleet 9 (Newport)
+ <br />\nWhen: Every Wednesday\, beginning 13 May thu 30 Sep. 5:35PM-7:30PM
+  (note: after Labor Day\, the 5:00-7:00PM)<br />\nWhere: Navy MWR Marina</
+ p>
+DTSTART;TZID=America/New_York:20150923T170000
+DTEND;TZID=America/New_York:20150923T190000
+GEO:+41.504417;-71.327493
+LOCATION:Navy MWR Marina @ 17 Perry Road\, Newport\, RI 02841\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151001T235959Z
+SEQUENCE:0
+SUMMARY:Shields Summer Series
+URL:http://chnyc.us/event/shields-summer-series-sept/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1110@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Water
+CONTACT:Sail Newport\; (401) 846-1983\; info@sailnewport.org\; http://www.s
+ ailnewport.org/regattas/sailForPride/sfh2015.html
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2015/05/SFH-Logo-265x300.jpg' width='2
+ 65' height='300' /></div><p>Several CHNYC boats participate in this race a
+ nd fundraising event.</p>\n<p> </p>\n<div>2015 marks the 15th running of S
+ ail for Hope.  In 2001\, in the wake of the terrorist attacks on the World
+  Trade Center\, Pentagon\, and in the skies over Pennsylvania\, a few loca
+ l sailing enthusiasts scrambled to organize a regatta to honor and support
+  those affected.</div>\n<div></div>\n<div>The first Sail For Pride Regatta
+  rallied over 180 boats and $110\,000 designated for charities to support 
+ the NYFD firefighters\, police and the victims of the attacks and their fa
+ milies.</div>\n<div></div>\n<div>The display of patriotism and generosity 
+ on and off the water made a lasting impression in the sailing community. A
+ fter the inaugural year\, the organizers retired the name Sail for Pride\,
+  but continued the event as Sail For Hope\, reflecting the Rhode Island st
+ ate motto and aimed at supporting local charities.  Charities supported ov
+ er the years have included RI Red Cross\, Seamen’s Church Institute\, Newp
+ ort Harbormaster’s Emergency Equipment Fund\, local public high school sai
+ ling teams\, US Olympic Sailing Trials and many more\, including a huge fu
+ nd-raising year in 2005 after Hurricane Katrina’s devastation of New Orlea
+ ns and the Gulf Coast.</div>\n<div></div>\n<div>2014 marked another great 
+ year for the Sail for Hope regatta.  On a great day for sailing\, over 80 
+ teams circled Conanicut Island on Saturday\, October 4.  Ranging from spee
+ dy Marstom 32s to a Hobie 14 to our fleet of J/22s\, we were happy to rais
+ e money for the Wounded Warrior Project and RI Red Cross.</div>\n<div></di
+ v>\n<div>To date\, nearly $1\,000\,000 has been raised for various chariti
+ es. For more information on the 2015 running of Sail for Hope\, email our 
+ <a href='mailto:kim.cooper@sailnewport.org?subject=2014%20Sail%20for%20Hop
+ e'>Race Manager</a> today.</div>
+DTSTART;TZID=America/New_York:20151003T110000
+DTEND;TZID=America/New_York:20151003T163000
+LOCATION:Start off Rose Island
+SEQUENCE:0
+SUMMARY:Sail for Hope
+URL:http://chnyc.us/event/sail-for-hope/
+X-TICKETS-URL:http://www.sailnewport.org/regattas/sailForPride/sfh2015.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-909@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Business
+CONTACT:Mary Saluto\; secretary@chnyc.us
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2014/12/3-D-burgee-web.jpg' width='144
+ ' height='108' /></div>
+DTSTART;TZID=America/New_York:20151015T173000
+DTEND;TZID=America/New_York:20151015T190000
+GEO:+41.505193;-71.327916
+LOCATION:Officer's Club Topside @ 95 Perry Street\, Newport\, RI 02840\, US
+ A
+SEQUENCE:0
+SUMMARY:CHNYC Board Meeting
+URL:http://chnyc.us/event/chnyc-board-meeting-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-910@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Business
+CONTACT:Mary Saluto\; secretary@chnyc.us
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2014/12/3-D-burgee-web.jpg' width='144
+ ' height='108' /></div>
+DTSTART;TZID=America/New_York:20151110T173000
+DTEND;TZID=America/New_York:20151110T190000
+GEO:+41.505193;-71.327916
+LOCATION:Officer's Club Topside @ 95 Perry Street\, Newport\, RI 02840\, US
+ A
+SEQUENCE:0
+SUMMARY:CHNYC Board Meeting
+URL:http://chnyc.us/event/chnyc-board-meeting-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-963@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Social
+CONTACT:CHNYC Social Coordinators\; social@chnyc.us
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2015/02/601-e1423574455820-300x288.jpg
+ ' width='300' height='288' /></div><p><strong><span style='color: #0000ff\
+ ;'>Join us to celebrate the 2015 Coasters Harbor Navy Yacht Club season.  
+ We will recognize club volunteers and enjoy the fellowship of everyone wit
+ h cocktails and dinner</span></strong> This event will be held at the Offi
+ cer’s Club\, NAVSTA\, Newport\, RI on Saturday\, November 14th\, beginning
+  at 6:00 p.m.</p>
+DTSTART;TZID=America/New_York:20151114T180000
+DTEND;TZID=America/New_York:20151114T220000
+GEO:+41.505193;-71.327916
+LOCATION:Officer's Club Bay Room @ 95 Perry Street\, Newport\, RI 02840\, U
+ SA
+SEQUENCE:0
+SUMMARY:CHNYC Fall Awards Dinner
+URL:http://chnyc.us/event/chnyc-fall-dinner/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-911@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Business
+CONTACT:Mary Saluto\; secretary@chnyc.us
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2014/12/3-D-burgee-web.jpg' width='144
+ ' height='108' /></div>
+DTSTART;TZID=America/New_York:20151209T173000
+DTEND;TZID=America/New_York:20151209T190000
+GEO:+41.505193;-71.327916
+LOCATION:Officer's Club Topside @ 95 Perry Street\, Newport\, RI 02840\, US
+ A
+SEQUENCE:0
+SUMMARY:CHNYC Board Meeting
+URL:http://chnyc.us/event/chnyc-board-meeting-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1205@chnyc.us/blog
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Social
+CONTACT:CHNYC Social Coordinators\; social@chnyc.us
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2014/11/ARMY-NAVY-GAME-LOGO-300x200.pn
+ g' width='300' height='200' /></div><p>Join CHNYC to watch the Army-Navy G
+ ame on the big screen Topside at the O’Club\, <span class='aBn' tabindex='
+ 0' data-term='goog_398734129'><span class='aQJ'>Saturday\, December 12th</
+ span></span>.  Topside will open one hour prior to kick off.  Kick off is 
+ <span class='aBn' tabindex='0' data-term='goog_398734130'><span class='aQJ
+ '>3 p.m.</span></span>  As usual we will have a table so all CHNYC attende
+ es can sit together to cheer on their favorite team.  Attendees are respon
+ sible for their own check for any food/drink consumed.  Please RSVP via th
+ e Evite by <span class='aBn' tabindex='0' data-term='goog_398734131'><span
+  class='aQJ'>December 10th</span></span>.  If you can arrive at <span clas
+ s='aBn' tabindex='0' data-term='goog_398734132'><span class='aQJ'>2 p.m.</
+ span></span> to help hold the table\, that would be appreciated.</p>
+DTSTART;TZID=America/New_York:20151212T150000
+DTEND;TZID=America/New_York:20151212T173000
+GEO:+41.505193;-71.327916
+LOCATION:Officer's Club Topside @ 95 Perry Street\, Newport\, RI 02840\, US
+ A
+SEQUENCE:0
+SUMMARY:Army – Navy Game Party
+URL:http://chnyc.us/event/army-navy-game-party-2/
+END:VEVENT
+END:VCALENDAR

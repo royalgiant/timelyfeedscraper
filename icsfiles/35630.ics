@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//213.168.248.236//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.m2mdaily.com
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-15931@m2mdaily.com/
+DTSTAMP:20150920T002354Z
+CATEGORIES;LANGUAGE=en-GB:IoT Events
+CONTACT:Maria Relaki\; +49 (0)30 52 10 70 3 - 43\; maria.relaki@we-conect.c
+ om\; http://www.industryofthingsworld.com/en/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.m2mdaily.com/wp-content/uploads/2015/02/indastry_of_things-300x106-
+ 300x106.jpg' width='300' height='106' /></div><p>The <strong>Industry of T
+ hings World</strong> is a new international knowledge exchange platform br
+ inging together all stakeholders who play an active role in the industrial
+  Internet of Things scene. The 2 day event is a combination of inspiration
+ al keynotes and well moderated\, interactive world café sessions\, worksho
+ ps\, briefings\, panel discussions and networking activities.<br />\nJoin 
+ the conversations at the Industry of Things World in September to accelera
+ te market adoption and gain a deeper business and technical understanding 
+ of Industry 4.0.</p>\n<h3>Our Mission</h3>\n<p>Assess the business cases f
+ or IoT:</p>\n<ul>\n<li>Identify added value profitable opportunities acros
+ s the Industry 4.0 ecosystem</li>\n<li>Cover the full scope of industrial 
+ IoT systems from the market leaders</li>\n<li>Learn about the new disrupti
+ ve technologies enabling IoT for smart manufacturing and the factories of 
+ the future</li>\n</ul>\n<p>The event addresses the opportunity for IoT. It
+  does not cover hype and unrealistic dreams but identifies the successful 
+ business models\, case studies\, actions\, profitability strategies and ga
+ ps. The event is designed to assess business strategies\, the technical\, 
+ consumer and governmental challenges\, new business models and opportuniti
+ es.</p>\n<h3>5 things you can expect at the Industry of Things World 2015<
+ /h3>\n<ul>\n<li>High level <strong>strategic content</strong> on the lates
+ t impacts IoT has across all <strong>major industry verticals</strong></li
+ >\n<li>Key experts who will work and <strong>share</strong> their <strong>
+ experiences</strong> with you over 2 days</li>\n<li>Proven i<strong>nterac
+ tive formats</strong> that make learning and absorbing information easier 
+ and fun</li>\n<li><strong>Networking activities</strong> that are designed
+  to make the most out of your time at the event</li>\n<li>All IoT stakehol
+ ders under one roof for 2 days covering your <strong>knowledge and practic
+ al needs</strong> from conception and strategy\, through to implementation
+  and successful case studies</li>\n</ul>\n<h3>Key themes this year include
+ </h3>\n<ul>\n<li><strong>Business model:</strong> Understand the impact Io
+ T will have on your current business model and how to stay ahead of the cu
+ rb</li>\n<li><strong>New markets:</strong> Find out how to capitalize on I
+ oT to take advantage of the new markets in this connected world</li>\n<li>
+ <strong>Product lifecycle management: </strong>Discover the secrets behind
+  efficient and effective product and lifecycle management for your future 
+ strategies</li>\n<li><strong>Data:</strong> Be part of conversations that 
+ matter about next generation data handling strategies. How is IoT determin
+ ing the value of data?</li>\n<li><strong>Organizational structure: </stron
+ g>Realise the potential of IoT in your current business and how it will af
+ fect your organizational structure</li>\n<li><strong>Security:</strong> Le
+ arn how to secure your operational technology and IoT applications for a s
+ afer business ecosystem</li>\n</ul>
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150923
+GEO:+52.520007;+13.404954
+LOCATION:BCC Berlin Congress Center @ Berlin\, Germany
+SEQUENCE:0
+SUMMARY:Industry of Things World 2015
+URL:http://www.m2mdaily.com/event/industry-of-things-world-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16000@m2mdaily.com/engine
+DTSTAMP:20150920T002354Z
+CATEGORIES;LANGUAGE=en-GB:IoT Events
+CONTACT:Joshua Bishop\; +65 6322 2705 \; joshua.bishop@terrapinn.com \; htt
+ p://www.terrapinn.com/exhibition/iotshow/index.stm
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.m2mdaily.com/wp-content/uploads/2015/02/iot_show.gif' width='170' h
+ eight='90' /></div><p>The IOT Show will address the new business possibili
+ ties from the internet of things and contextual technology. It will explor
+ e new business models\, facilitate new collaborations and partnerships and
+  generate new ideas and thinking. The IOT Show is about getting the protot
+ ypes out of the lab and into the market.</p>\n<p>The Conference<br />\nThe
+  Conference will be where the C suite\, the influencers and the disruptors
+  live. The high caliber speaker line up\, the future focused agenda and a 
+ close relationship with our partners are the key to delivering the audienc
+ e. Each day the conference will start with visionary keynote presentations
+  and then split into focused industry dedicated tracks covering:</p>\n<ul>
+ \n<li>Manufacturing and logistics</li>\n<li>Cities and government</li>\n<l
+ i>Cars and transport</li>\n<li>Energy and home</li>\n</ul>
+DTSTART;VALUE=DATE:20150922
+DTEND;VALUE=DATE:20150924
+GEO:+01.352083;+103.819836
+LOCATION:Suntec Convention & Exhibition Centre @ Singapore
+SEQUENCE:0
+SUMMARY:ASIA’S IOT EXPO & CONFERENCE
+URL:http://www.m2mdaily.com/event/asias-iot-expo-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16033@m2mdaily.com/engine
+DTSTAMP:20150920T002354Z
+CATEGORIES;LANGUAGE=en-GB:IoT Events
+CONTACT:Martin Recke\; +49 40 39 88 55-181\; martin@nextconf.eu\; http://ne
+ xtconf.eu/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.m2mdaily.com/wp-content/uploads/2015/02/next1.png' width='100' heig
+ ht='100' /></div><section class='article-content article-wrapper'>\n<div c
+ lass='page-body'>\n<p>NEXT is the must-go business conference that connect
+ s international tech wizards\, entrepreneurs + marketing guys.</p>\n<p>Wit
+ h over 10\,000 visitors from 40 countries\, NEXT has established itself in
+  recent years as a premier conference in Germany for the digital economy. 
+ Founded by SinnerSchrader in Hamburg in 2006\, the event has taken place i
+ n Berlin since 2010. Now NEXT is returning to its roots\, to merge with Ge
+ rmany‘s largest club festival – the Reeperbahn Festival\, and to come up w
+ ith a programme platform which will bring together representatives of the 
+ music and digital economy in a unique way.</p>\n<p>From 2015 on\, NEXT wil
+ l be jointly organised by the agencies SinnerSchrader and FAKTOR 3\, who a
+ re developing new programme formats for digital decision-makers in compani
+ es\, agencies and start-ups.</p>\n<p>In addition\, NEXT organises the NEXT
+  Executive Circle\, a personal network for digital decision-makers in the 
+ DACH region and beyond. It will continue to grow its network of CDOs with 
+ invitation only events in several German cities.</p>\n<p><strong>About Sin
+ nerSchrader</strong><br />\nSinnerSchrader is one of Europe’s leading digi
+ tal agencies. With a focus on e-commerce\, strategy and communication\, Si
+ nnerSchrader offers the full range of digital agency services: conception\
+ , design and development of web platforms\, mobile apps\, service design\,
+  campaigns\, media\, analytics and audience management. SinnerSchrader sta
+ nds for technological excellence. More than 500 employees – around 200 of 
+ whom are developers – realise marketing solutions for brands such as Allia
+ nz\, Beck’s\, comdirect bank\, Commerzbank\, Holy Fashion Group\, REWE\, s
+ imyo\, Tchibo and TUI. SinnerSchrader was founded in 1996\, went public in
+  1999 and has offices in Hamburg\, Berlin\, Frankfurt am Main\, Munich\, P
+ rague and Hanover.</p>\n<p><strong>About Faktor 3</strong><br />\nThe Hamb
+ urg communications agency FAKTOR 3 AG has been creating integrated communi
+ cations solutions for clients from the information technology\, telecommun
+ ications\, media & entertainment\, food and automotive sectors since 1995.
+  With ca. 150 staff\, FAKTOR 3 AG’s current clients include Samsung\, Beie
+ rsdorf\, Coca Cola\, Spiegel\, Microsoft\, Velux\, Electronic Arts and Twi
+ tter\, among others.</p>\n</div>\n</section>
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150926
+GEO:+53.549425;+9.964915
+LOCATION:Schmidts Tivoli theatre @ Spielbudenplatz\, 20359 Hamburg\, German
+ y
+SEQUENCE:0
+SUMMARY:NEXT Berlin 2015
+URL:http://www.m2mdaily.com/event/next-berlin-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15983@m2mdaily.com/engine
+DTSTAMP:20150920T002354Z
+CATEGORIES;LANGUAGE=en-GB:m2m
+CONTACT:Keith Kreisher\; +44 20.7596.8777\;  keith.kreisher@im2mc.org\; htt
+ p://www.im2mc.org/5g-iot
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.m2mdaily.com/wp-content/uploads/2015/02/5GIoTlogo_2014_cr.jpg' widt
+ h='154' height='100' /></div><p><strong>The International M2M Council </st
+ rong>— the global trade association for Machine-to-Machine Communications 
+ – invites network operators\, telecom infrastructure vendors\, IoT solutio
+ ns providers\, and enterprise adopters of M2M technology to join China’s l
+ eading mobile operators at a single forum to discuss the concurrent develo
+ pment of 5G standards and large-scale deployment of M2M Systems & IoT Appl
+ ications in the Chinese market.</p>\n<p>China became the world’s largest M
+ 2M market in 2013\, when it tallied almost 40 million connections (20% of 
+ the world total)\, and it’s growing at an astounding 50% annually.  And no
+  country has been more aggressive in promoting 5G research\, with governme
+ nt’s 863-5G project calling for the development of network architecture th
+ at provides 10-fold increases in spectrum capacity and energy efficiency t
+ o be delivered in two years.</p>\n<p>Experts at China Mobile (the world’s 
+ largest M2M network operator) believe that planning for IoT and 5G go hand
+ -in-hand – indeed\, anticipated improvements in 5G network capacity\, secu
+ rity\, and energy efficiency are requisites for enabling and sustaining th
+ e forecast growth of connected devices and embedded systems.</p>\n<p>Join 
+ the IoT and 5G R&D teams\, as well as M2M field-business units from China 
+ Mobile and China Unicom for a 2-day informative\, interactive\, industry-d
+ riven forum on tomorrow’s networked ecosystems.</p>\n<p>Showcase your prod
+ ucts and services and share your own strategic technology roadmap with del
+ egates from the Chinese and global wireless vendor communities\, and Chine
+ se enterprise adopter markets\, including smart cities\, energy\, automoti
+ ve\, logistics\, and healthcare.</p>\n<h5>PROGRAMME CONTENT – TECHNICAL CO
+ NFERENCE PLUS!</h5>\n<p>5G-IoT China’s technical conference programme will
+  be hands-on and commercially focused. Keynotes and plenary sessions will 
+ address the unifying technological concepts and market enablers for M2M Co
+ mmunications Systems\, IoT Application Environments\, and 5G Infrastructur
+ e. Tracks will feature technical research presentations\, expert roundtabl
+ e discussions\, market research reviews.<br />\nSessions will include:</p>
+ \n<ul>\n<li>Device-Level Design: distributed intelligence\, energy efficie
+ ncy\, life-cycle management</li>\n<li>Network-Level Cellular & RF Engineer
+ ing: spectral efficiency\, HetNets\, MIMO\, ultra-high frequency</li>\n<li
+ >Data Architecture & Systems Integration: Big Data\, mass M2M in the cloud
+ \, middleware\, billing</li>\n<li>Security: end-to-end\, trusted environme
+ nts\, encryption\, regulatory compliance</li>\n<li>Business Use-Cases: cos
+ t savings\, subscription revenue\, disruptive models</li>\n<li>The PRC’s 5
+ -Year Plan: making the PRC the epicenter of IoT</li>\n<li>Telecom Roundtab
+ le: top carriers from PRC\, US\, and Europe discuss lessons from 3G & 4G</
+ li>\n</ul>
+DTSTART;VALUE=DATE:20151013
+DTEND;VALUE=DATE:20151015
+GEO:+39.989222;+116.402606
+LOCATION:Beijing International Convention Center Asian Games Village @ Beij
+ ing International Convention Center\, Asian Games Village\, Chaoyang\, Bei
+ jing\, China\, 100101
+SEQUENCE:0
+SUMMARY:5G-IoT CHINA
+URL:http://www.m2mdaily.com/event/5g-iot-china/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16003@m2mdaily.com/engine
+DTSTAMP:20150920T002354Z
+CATEGORIES;LANGUAGE=en-GB:IoT Events
+CONTACT:Conference Administrator\; 01865 286958\; telecoms@conted.ox.ac.uk 
+ \; https://www.conted.ox.ac.uk/courses/H600-71
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.m2mdaily.com/wp-content/uploads/2015/02/oxford.gif' width='185' hei
+ ght='87' /></div><p>The theme for the 2015 ForumOxford conference will be 
+ the <b>Internet of Things</b> (<b>IoT</b>).</p>\n<p>Spend a day with us at
+  ForumOxford as we look at what will really happen when things\, homes and
+  cities become smart in the connected world of the future.</p>\n<p><b>Who 
+ is speaking at this event?</b></p>\n<p>We are currently confirming details
+  but here is a sample of who will be speaking:</p>\n<ul>\n<li><b>Jeremy Ge
+ elan</b>\, Industry Commentator\, Web Executive\, and Founder & Chair of t
+ he IoT Expo conference series\, Chairman & CEO\, 21st Century Internet Gro
+ up\, Inc.</li>\n<li><b>Yodit Stanton</b>\, Founder & CEO\, OpenSensors.io<
+ /li>\n<li><b>Bogdana Rakova</b>\, Computer Scientist\, Internet of Things 
+ and AI Hacker and Research Engineer\, Think Tank Team – Samsung Research\,
+  America</li>\n<li><b>Ajit Jaokar</b>\, Author\, Telecoms Specialist and F
+ ounder\, futuretext</li>\n<li><b>Tomi Ahonen</b>\, Author and Consultant\,
+  Communities Dominate Brands</li>\n</ul>\n<p>The annual ForumOxford confer
+ ence is aimed at web and mobile technology experts and visionaries\, telec
+ oms leaders and anyone who has an interest in future mobile technologies w
+ ith an emphasis on all the interesting things going on in the world of mob
+ ile.</p>\n<p>If you have significant expertise in the <b>Internet of Thing
+ s</b> and/or <b>IPv6</b> and would like to speak at this event\, please em
+ ail us.</p>\n<p>Sponsorship packages are available. Please email us for de
+ tails.</p>
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151107
+GEO:+51.757224;-1.262156
+LOCATION:Rewley House @ 1 Wellington Square\, Oxford\, Oxfordshire OX1 2HY\
+ , UK
+SEQUENCE:0
+SUMMARY:ForumOxford: Internet of Things Conference 2015
+URL:http://www.m2mdaily.com/event/forumoxford-internet-of-things-conference
+ -2015/
+END:VEVENT
+END:VCALENDAR

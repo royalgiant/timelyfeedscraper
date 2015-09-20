@@ -1,0 +1,358 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.30.212.55//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://rkvejle.dk/booking
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+X-LIC-LOCATION:Europe/Copenhagen
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-112@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Lars Lund\; ll@teammeal.dk\; http://rkvejle.dk/aktiviteter/landsind
+ samling/
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151004
+DTEND;VALUE=DATE:20151005
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Landsindsamling
+URL:http://rkvejle.dk/booking/event/landsindsamling/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-172@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Henrik Mamsen\; hemam@rodekors.dk
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20150919T080000
+DTEND;TZID=Europe/Copenhagen:20150919T180000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Førstehjælp
+URL:http://rkvejle.dk/booking/event/foerstehjaelp-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-75@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Marian Halberg Christiansen\; marianhalberg@hotmail.com
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20150921T153000
+DTEND;TZID=Europe/Copenhagen:20150921T200000
+EXDATE;TZID=Europe/Copenhagen:20150223T153000
+EXDATE;TZID=Europe/Copenhagen:20150406T153000
+EXDATE;TZID=Europe/Copenhagen:20150713T153000
+EXDATE;TZID=Europe/Copenhagen:20150727T153000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+RRULE:FREQ=WEEKLY;UNTIL=20151214T235959Z;INTERVAL=2
+SEQUENCE:0
+SUMMARY:M-net
+URL:http://rkvejle.dk/booking/event/m-net/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-154@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Henrik Mamsen\; hemam@rodekors.dk
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20150926T090000
+DTEND;TZID=Europe/Copenhagen:20150926T180000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Førstehjælp
+URL:http://rkvejle.dk/booking/event/foerstehjaelp-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-104@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Frida Klejstrup\; fridaklejstrup@aol.dk
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20150929T090000
+DTEND;TZID=Europe/Copenhagen:20150929T140000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+RRULE:FREQ=WEEKLY;UNTIL=20151208T235959Z;INTERVAL=2;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Nørklerne
+URL:http://rkvejle.dk/booking/event/noerklerne-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-122@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Mariann Salskov\; salskov@hr-support.net
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20150930T100000
+DTEND;TZID=Europe/Copenhagen:20150930T120000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+RRULE:FREQ=WEEKLY;UNTIL=20151231T235959Z;INTERVAL=2;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Qnet
+URL:http://rkvejle.dk/booking/event/qnet/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-46@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151001T190000
+DTEND;TZID=Europe/Copenhagen:20151001T220000
+EXDATE;TZID=Europe/Copenhagen:20150305T190000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+RRULE:FREQ=WEEKLY;UNTIL=20151210T235959Z;INTERVAL=2
+SEQUENCE:0
+SUMMARY:Samaritterne
+URL:http://rkvejle.dk/booking/event/samaritterne/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-64@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151006T150000
+DTEND;TZID=Europe/Copenhagen:20151006T200000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Integrations Café
+URL:http://rkvejle.dk/booking/event/integrations-cafe-3-2-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-163@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Hanne Feld\; Hanne.Feld@skolekom.dk
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151008T130000
+DTEND;TZID=Europe/Copenhagen:20151008T173000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Besøgstjenesten
+URL:http://rkvejle.dk/booking/event/reserveret/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-144@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Kirsten Pedersen\; pedersen.kirsten1@gmail.com
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151013T190000
+DTEND;TZID=Europe/Copenhagen:20151013T203000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Integration
+URL:http://rkvejle.dk/booking/event/integration-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-65@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151103T150000
+DTEND;TZID=Europe/Copenhagen:20151103T200000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Integrations Café
+URL:http://rkvejle.dk/booking/event/integrations-cafe-3-2-2-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-170@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Bodil Klindt\; bklindt7@gmail.com
+DESCRIPTION:<p>Fyraftensmøde for butikspersonalet</p>
+DTSTART;TZID=Europe/Copenhagen:20151104T153000
+DTEND;TZID=Europe/Copenhagen:20151104T170000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Genbrugsbutikken
+URL:http://rkvejle.dk/booking/event/genbrugsbutikken-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-56@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151104T170000
+DTEND;TZID=Europe/Copenhagen:20151104T220000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Bestyrelsen
+URL:http://rkvejle.dk/booking/event/bestyrelsen-2-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-69@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Liana Ligneul\; grejsdalsvej227@email.dk
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151109T153000
+DTEND;TZID=Europe/Copenhagen:20151109T203000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Sygehusbesøgstjenesten
+URL:http://rkvejle.dk/booking/event/sygehusbesoegstjenesten-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-145@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Kirsten Pedersen\; pedersen.kirsten1@gmail.com
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151110T190000
+DTEND;TZID=Europe/Copenhagen:20151110T203000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Integration
+URL:http://rkvejle.dk/booking/event/integration-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:URK's lokale
+CONTACT:Mette Maibom\; Jens.mette.maibom@gmail.com
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151126T170000
+DTEND;TZID=Europe/Copenhagen:20151126T210000
+GEO:+55.709459;+9.526775
+LOCATION:URK's lokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Vågetjenesten
+URL:http://rkvejle.dk/booking/event/rk-huset-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-70@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Liana Ligneul\; grejsdalsvej227@email.dk
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151127T153000
+DTEND;TZID=Europe/Copenhagen:20151127T203000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Sygehusbesøgstjenesten
+URL:http://rkvejle.dk/booking/event/sygehusbesoegstjenesten-2-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-146@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Kirsten Pederesen\; pedersen.kirsten1@gmail.com
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20151208T190000
+DTEND;TZID=Europe/Copenhagen:20151208T203000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Integration
+URL:http://rkvejle.dk/booking/event/integration-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-57@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:
+DESCRIPTION:<p>Bestyrelsesmøde kl. 17.00.<br />\nMed aktivitetsledere kl. 1
+ 8.00.<br />\nHerefter fælles julefrokost.</p>
+DTSTART;TZID=Europe/Copenhagen:20151209T170000
+DTEND;TZID=Europe/Copenhagen:20151209T220000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Bestyrelsen
+URL:http://rkvejle.dk/booking/event/bestyrelsen-2-2-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-166@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Bodil Klindt\; bklindt7@gmail.com
+DESCRIPTION:<p>Fyraftensmøde for butikspersonalet</p>
+DTSTART;TZID=Europe/Copenhagen:20160203T153000
+DTEND;TZID=Europe/Copenhagen:20160203T180000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Genbrugsbutikken
+URL:http://rkvejle.dk/booking/event/genbrugsbutikken/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-167@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Bodil Klindt\; bklindt7@gmail.com
+DESCRIPTION:<p>Fyraftensmøde for butikspersonalet.</p>
+DTSTART;TZID=Europe/Copenhagen:20160504T153000
+DTEND;TZID=Europe/Copenhagen:20160504T180000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Genbrugsbutikken
+URL:http://rkvejle.dk/booking/event/genbrugsbutikken-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-168@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Bodil Klindt\; bklindt7@gmail.com
+DESCRIPTION:<p>Fyraftensmøde for butikspersonalet</p>
+DTSTART;TZID=Europe/Copenhagen:20160907T153000
+DTEND;TZID=Europe/Copenhagen:20160907T180000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Genbrugsbutikken
+URL:http://rkvejle.dk/booking/event/genbrugsbutikken-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-169@rkvejle.dk/booking
+DTSTAMP:20150920T002209Z
+CATEGORIES;LANGUAGE=da-DK:Stort mødelokale
+CONTACT:Bodil Klindt\; bklindt7@gmail.com
+DESCRIPTION:<p>Fyraftensmøde for butikspersonalet</p>
+DTSTART;TZID=Europe/Copenhagen:20161102T153000
+DTEND;TZID=Europe/Copenhagen:20161102T180000
+GEO:+55.709459;+9.526775
+LOCATION:Stort mødelokale @ Flegmade 11A\, 7100 Vejle\, Danmark
+SEQUENCE:0
+SUMMARY:Genbrugsbutikken
+URL:http://rkvejle.dk/booking/event/genbrugsbutikken-5/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.13.150.36//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://dev.achensee.com/
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4879@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Wassersport
+CONTACT:Segelclub TWV Achensee\; +43(676)88441592  \; office@sctwv.at \; ht
+ tp://www.sctwv.at/ownext/regatta/index.php
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Segelb
+ egeisterte Zuschauer sind sehr herzlich eingeladen.</strong></p>\n<p>Die S
+ tartzeiten können variieren\, je nach Wetterlage. Nähere Informationen und
+  Anmeldemöglichkeiten finden Sie auf der Homepage des Segelclub TWV Achens
+ ee: <a href='http://www.sctwv.at' target='_blank'>www.sctwv.at</a></p></bo
+ dy></html>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150927
+LOCATION:Am Achensee\, Seeuferstrasse @ Achensee\, Österreich
+RRULE:FREQ=DAILY;UNTIL=20150926T235959Z
+SEQUENCE:0
+SUMMARY:Absegeln – Tiroler Schülermeisterschaft
+URL:http://dev.achensee.com/event/absegeln/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6924@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition\,TVB
+CONTACT:Achensee Tourismus\; +43(5243)5355-0\; maurach@achensee.com\; https
+ ://achensee.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2012/09/Traktorfest_Maurach-640x360
+ .jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC '-//W3C//DTD 
+ HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/loose.dtd'>\n<
+ html><body><p>Beim kultigen Treffen der Sammler besiedeln ein Wochenende l
+ ang <strong>über 500 gepflegte und mit viel Liebe geschmückte Traktoren</s
+ trong> den Achensee. Am Badestrand Buchau sorgen Zeltfest\, großer Traktor
+ eneinzug und Flohmarkt für reges Treiben. <!--more-->Alte Modelle klangvol
+ ler Marken von Traktorenherstellern – angefangen von Deutz\, John Deere\, 
+ Fendt bis hin zu Ford\, Lindner\, Steyr oder Ursus begeistern Jung und Alt
+  gleichermaßen.</p>\n<p><strong>Freitag\, 2. Oktober:</strong> Um 20.00 Uh
+ r Bieranstich und Eröffnung\, ab 20.30 Uhr Musik- und Showprogramm mit der
+  Gruppe <strong>„Orig. Almrauschklang“.</strong></p>\n<p><strong>Samstag\,
+  3. Oktober:</strong> Großer Flohmarkt und Ausstellung der Oldtimer und Tr
+ aktoren. Ab 11.00 Uhr Musik und Unterhaltung mit dem Duo <strong>„Pseirer<
+ /strong> <strong>Spatzen“</strong>\, ab 15.00 Uhr Stimmung mit<strong> „DJ
+  Ernesto“\,</strong> und ab 20.30 Uhr Musik und Unterhaltung mit den <stro
+ ng>„Pseirer Spatzen“.</strong></p>\n<p><strong>Sonntag\, 4. Oktober:</stro
+ ng> Ab 10.00 Uhr Umzug der Oldtimer und Traktoren durch Maurach bis zum Fe
+ stzelt. Highlights: Flohmarkt\, griechisch-römischer Streitwagen und Bierw
+ agen. Ab 11.00 Uhr Frühschoppen mit der Gruppe <strong>„Hoch Tirol“.</stro
+ ng> Eintritt frei.</p></body></html>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151003
+GEO:+47.43074;+11.737515
+LOCATION:Badestrand Buchau @ 6212 Maurach\, Österreich
+RRULE:FREQ=DAILY;UNTIL=20151003T235959Z
+SEQUENCE:0
+SUMMARY:Traktorfest und Oldtimertreffen
+URL:http://dev.achensee.com/event/traktorfest-und-oldtimertreffen-2/
+X-COST:Eintritt Freitag und Samstag ab ca. 18.00 Uhr EUR 7\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15529@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik
+CONTACT:DAS KRONTHALER\; +43(5246)6389\; welcome@daskronthaler.com\; http:/
+ /www.daskronthaler.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Achensee Jazzf
+ estival im Hotel „Das Kronthaler“. Es präsentieren sich unter anderem Tulj
+ a Komi und Kim Barth.<!--more--></p>\n<p>Nähere Informationen finden Sie a
+ uf <a href='http://www.daskronthaler.com/alpine-lifestyle/jazzfestival/' t
+ arget='_blank'>www.daskronthaler.com</a></p></body></html>
+DTSTART;VALUE=DATE:20151120
+DTEND;VALUE=DATE:20151121
+GEO:+47.516667;+11.683333
+LOCATION:DAS KRONTHALER\, Am Waldweg 105a @ 6215 Achenkirch\, Österreich
+RRULE:FREQ=DAILY;UNTIL=20151121T235959Z
+SEQUENCE:0
+SUMMARY:Achensee Jazzfestival
+URL:http://dev.achensee.com/event/achensee-jazzfestival-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3307@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Langlaufen\,TVB
+CONTACT:Walter Egger\; +43(664)1311154\; eggerw@gmail.com\; http://achensee
+ .com/events/winter-events/raiffeisen-steinoel-trophy/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2013/01/Start_Skating_2013_Sportfot
+ ograf-Andre-640x360.jpg' width='480' height='270' /></div><!DOCTYPE html P
+ UBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-ht
+ ml40/loose.dtd'>\n<html><body><p>Wer einmal Rennluft schnuppern möchte\, i
+ st beim Nordischen Achenseelauf in Achenkirch\, der Raiffeisen-Steinöl-Tro
+ phy\, am 9. und 10. Januar 2016 genau richtig: Über 15 oder 30 Kilometer g
+ eht es klassisch oder im Skatingstil ins Achenkircher Oberautal. Auch für 
+ die „Loipen-Minis“ gibt es eigene Bewerbe.</p>\n<p><a href='https://devtou
+ ch.achensee.com/events/winter-events/raiffeisen-steinoel-trophy/'>Details 
+ zur Veranstaltung folgen. </a></p></body></html>
+DTSTART;VALUE=DATE:20160109
+DTEND;VALUE=DATE:20160111
+GEO:+47.499767;+11.705907
+LOCATION:Eventgelände beim Alpen Caravan Park Achensee @ 6215 Achenkirch\, 
+ Österreich
+RRULE:FREQ=DAILY;UNTIL=20160110T235959Z
+SEQUENCE:0
+SUMMARY:11. Nordischer Achenseelauf 2016
+URL:http://dev.achensee.com/event/10-nordischer-achenseelauf/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16037@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Skibergsteigen\,TVB
+CONTACT:Achensee Tourismus\, Maria Wirtenberger\; +43(5246)5300-0\; maria.w
+ irtenberger@achensee.com\; https://www.achensee.com/wp-content/uploads/201
+ 4/09/Flyer_Achensee_Skitourencamp.pdf
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2014/09/skitourencamp-rofan-wi-640x
+ 360.jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC '-//W3C//D
+ TD HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/loose.dtd'>
+ \n<html><body><p>Erfahrene Coaches erklären in Sicherheitsschulungen wie m
+ an sich – nicht nur in Notfallsituationen – richtig am Berg verhält. Dazu 
+ gehört natürlich auch der Umgang mit Lawinenpiepser\, Sonde\, Schaufel und
+  <!--more-->Lawinenairbag. Und vor allem\, wie man Routen\, das Gelände un
+ d besonders seine persönliche Verfassung adäquat einschätzt. Nach den theo
+ retischen Grundlagen bleibt ausreichend Zeit für die Praxis: Hierfür stell
+ en die namhaften Ausrüster „Dynafit“ und „Ortovox“ ihr neuestes Equipment 
+ zur Verfügung\, bevor es an der Seite von Profis bei geführten Touren zu d
+ en schönsten Flecken des Rofangebirges geht.</p>\n<p>Bis zu 40 Teilnehmer 
+ können sich bei Achensee Tourismus\, <a href='mailto:%20maria.wirtenberger
+ @achensee.com' target='_blank'>maria.wirtenberger@achensee.com</a> anmelde
+ n.</p>\n<p><a href='https://devtouch.achensee.com/wp-content/uploads/2014/
+ 09/Flyer_Achensee_Skitourencamp.pdf' target='_blank'>Hier geht’s zum Infof
+ lyer.</a></p></body></html>
+DTSTART;VALUE=DATE:20160130
+DTEND;VALUE=DATE:20160131
+GEO:+47.44166;+11.76365
+LOCATION:Rofangebirge @ 6212 Maurach\, Österreich
+RRULE:FREQ=DAILY;UNTIL=20160131T235959Z
+SEQUENCE:0
+SUMMARY:Achensee Skitourencamp
+URL:http://dev.achensee.com/event/achensee-skitourencamp/
+X-COST:EUR 99\,- pro Teilnehmer
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13695@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Skibergsteigen\,TVB
+CONTACT:Achensee Tourismus\, Maria Wirtenberger\; +43(5246)5300-0\; maria.w
+ irtenberger@achensee.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2014/09/skitourencamp-rofan-wi-640x
+ 360.jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC '-//W3C//D
+ TD HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/loose.dtd'>
+ \n<html><body><p>Wer noch nicht ganz mit den Cracks mithalten kann\, melde
+ t sich einfach für das neue Skitourencamp an. Erfahrene Coaches erklären i
+ n Sicherheitsschulungen wie man sich – nicht nur in Notfallsituationen – r
+ ichtig<!--more--> am Berg verhält. Dazu gehört natürlich auch der Umgang m
+ it Lawinenpiepser\, Sonde\, Schaufel und Lawinenairbag. Und vor allem\, wi
+ e man Routen\, das Gelände und besonders seine persönliche Verfassung adäq
+ uat einschätzt. Nach den theoretischen Grundlagen bleibt ausreichend Zeit 
+ für die Praxis: Hierfür stellen die namhaften Ausrüster „Dynafit“ und „Ort
+ ovox“ ihr neuestes Equipment zur Verfügung\, bevor es an der Seite von Pro
+ fis bei geführten Touren zu den schönsten Flecken des Rofangebirges geht.<
+ /p>\n<p>Bis zu 40 Teilnehmer können sich bei Achensee Tourismus\, <a href=
+ 'mailto:%20maria.wirtenberger@achensee.com' target='_blank'>maria.wirtenbe
+ rger@achensee.com</a> anmelden.</p>\n<p><a href='https://devtouch.achensee
+ .com/wp-content/uploads/2014/09/Flyer_Achensee_Skitourencamp.pdf' target='
+ _blank'>Hier geht’s zum Infoflyer.</a></p></body></html>
+DTSTART;VALUE=DATE:20160206
+DTEND;VALUE=DATE:20160207
+GEO:+47.44166;+11.76365
+LOCATION:Rofangebirge @ 6212 Maurach\, Österreich
+RRULE:FREQ=DAILY;UNTIL=20160207T235959Z
+SEQUENCE:0
+SUMMARY:Achensee Skitourencamp
+URL:http://dev.achensee.com/event/achensee-skitourencamp-powered-by-dynafit
+ -und-ortovox/
+X-COST:EUR 99\,- pro Teilnehmer
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12613@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Langlaufen\,TVB
+CONTACT:endorphine multi sports\; +43(5246)5300-0\; info@achensee.com\; htt
+ p://www.achensee.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2014/02/2013-02-23_at_nl_achensee-3
+ -taeler-lauf_3_bearbeitet-1-640x360.jpg' width='480' height='270' /></div>
+ <!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' 'http://www.
+ w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Nach der Wiederbelebung 2
+ 010 zählt der <strong>Achensee 3-Täler-Lauf wieder zu einem Highlight</str
+ ong> unter den Volkslanglaufbewerben. Am 28. Februar 2016 heißt es für Ska
+ ter und klassische Langläufer ab in die drei Karwendeltäler.<br><a href='h
+ ttps://devtouch.achensee.com/events/winter-events/achensee-3-taeler-lauf/'
+ >Zu den Details zum Achensee 3-Täler-Lauf 2016</a></p></body></html>
+DTSTART;VALUE=DATE:20160228
+DTEND;VALUE=DATE:20160229
+GEO:+47.43849;+11.69131
+LOCATION:Beginn Karwendeltäler - Loipenzentrum @ 6213 Pertisau\, Österreich
+SEQUENCE:0
+SUMMARY:Achensee 3-Täler-Lauf
+URL:http://dev.achensee.com/event/achensee-3-taeler-lauf-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16187@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Lesung\,TVB
+CONTACT:Achensee Tourismus\; +43(5246)5300-0\; info@achensee.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2015/08/bernhard-aichner-bei-der-ac
+ hensee-literatour©fotowerk-aichner-480x270.jpg' width='480' height='270' /
+ ></div><!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' 'http
+ ://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Die landschaftlich
+ e Schönheit der Region Achensee diente zahlreichen Schriftstellern als Que
+ ll der Inspiration. An diese Tradition knüpft die achensee.literatour an\,
+  das junge Literaturformat in Tirol\, das von 12. bis 14. Mai 2016 seine b
+ ereits fünfte Auflage erlebt.</p>\n<p>Das Programm folgt in Kürze.</p></bo
+ dy></html>
+DTSTART;VALUE=DATE:20160512
+DTEND;VALUE=DATE:20160513
+GEO:+47.527428;+11.707378
+LOCATION:Altes Widum @ Hnr. 387\, 6215 Achenkirch
+RRULE:FREQ=DAILY;UNTIL=20160513T235959Z
+SEQUENCE:0
+SUMMARY:achensee.literatour 2016
+URL:http://dev.achensee.com/event/achensee-literatour-2016/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15558@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Laufen
+CONTACT:Sportalpen.com\; +43(662)820209\; magazin@sportalpen.com\; http://w
+ ww.sportalpen.com/trainingscamps/sportalpen-laufopening-am-achensee
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2013/01/laufcamp-achensee-480x270.j
+ pg' width='480' height='270' /></div><!DOCTYPE html PUBLIC '-//W3C//DTD HT
+ ML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/loose.dtd'>\n<ht
+ ml><body><p>Mit dem Laufcamp wird  die Saison für Laufsportbegeisterte am 
+ Achensee eröffnet.<br>\nDie perfekte Gelegenheit für Hobby- bis Halbmarath
+ onläufer ihrem Sportjahr einen wirkungsvollen Startschuss zu verpassen. Am
+  Programm des <!--more-->Laufseminars stehen Laktat- und Produkttests\, nü
+ tzliche Tipps von Experten und wunderschöne geführte Laufrunden.</p>\n<p>B
+ uchbar und weitere Infos finden Sie hier.</p></body></html>
+DTSTART;VALUE=DATE:20160519
+DTEND;VALUE=DATE:20160520
+LOCATION:Hotel Zillertalerhof @ 6215 Achenkirch Nr. 104
+RRULE:FREQ=DAILY;UNTIL=20160522T235959Z
+SEQUENCE:0
+SUMMARY:Laufopening am Achensee
+URL:http://dev.achensee.com/event/laufopening-am-achensee/
+X-COST:EUR 495\,- für 3 Nächte\, HP\, Laufprogramm und Isotonische Getränke
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15560@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Laufen\,TVB
+CONTACT:Sportalpen.com\; +43(662)820209\; magazin@sportalpen.com\; http://w
+ ww.sportalpen.com/trainingscamps/trailrunning-camp-2015
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2014/04/trailrunningcamp©sportalpen
+ .com_-640x360.jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC 
+ '-//W3C//DTD HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/l
+ oose.dtd'>\n<html><body><p>Das Sportalpen Trailrunning Camp findet zur Vor
+ bereitung auf den Karwendelmarsch statt. Nähere Details folgen!</p>\n<p> <
+ /p></body></html>
+DTSTART;VALUE=DATE:20160623
+DTEND;VALUE=DATE:20160624
+LOCATION:Hotel Zillertalerhof und Falkenhütte @ 6215 Achenkirch Nr. 104
+RRULE:FREQ=DAILY;UNTIL=20160625T235959Z
+SEQUENCE:0
+SUMMARY:Trailrunning Camp am Achensee
+URL:http://dev.achensee.com/event/trailrunning-camp-am-achensee/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4490@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition\,TVB
+CONTACT:Tourismusverband Achensee\, Infobüro Wiesing\; +43(5244)62510-0\; w
+ iesing@achensee.com\; https://www.achensee.com/wp-content/uploads/2015/08/
+ Flyer_Herbstfest_Wiesing_A4.pdf
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Ab 11.00 Uhr u
+ nterhalten die „Orig. Ziller Musig“ und anschließend sorgen die „Zillertal
+ er BergGranaten“ für tolle Stimmung.<br>\nEinzug der geschmückten Almtiere
+  am frühen Nachmittag.<br>\nFür das leibliche Wohl mit Tiroler Spezialität
+ en\, wie „Melchermuas“\, selbstgemachte Zillertaler Krapfen und vieles meh
+ r ist bestens gesorgt.</p>\n<p>Auf Ihren Besuch freuen sich die Wiesinger 
+ Vereine.</p>\n<p><a href='https://devtouch.achensee.com/wp-content/uploads
+ /2015/08/Flyer_Herbstfest_Wiesing_A4.pdf' target='_blank'>Hier geht’s Flye
+ r.</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20150919T110000
+DTEND;TZID=Europe/Vienna:20150919T190000
+GEO:+47.404313;+11.797878
+LOCATION:Gemeindehaus Wiesing @ Dorf 19\, 6210 Wiesing\, Österreich
+SEQUENCE:0
+SUMMARY:Herbstfest in Wiesing
+URL:http://dev.achensee.com/event/herbstfest-in-wiesing/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5924@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition\,TVB
+CONTACT:Familie Prantl\; +43(5243)6110\; hansi@felderer-stadl.achenseer.inf
+ o\; http://www.felderer-stadl.achenseer.info
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>Traditionelle
+ s Almfest in Maurach beim Felderer Stadl!</h2>\n<p>Für lustige musikalisch
+ e Unterhaltung und das leibliche Wohl ist bestens gesorgt – bei Schönwette
+ r wird gegrillt!<!--more--></p>\n<p>Die geschmückten Kühe kommen in mehrer
+ en Partien von den Almen ins Tal und marschieren durch den Ort.</p>\n<p> <
+ /p></body></html>
+DTSTART;TZID=Europe/Vienna:20150919T120000
+DTEND;TZID=Europe/Vienna:20150919T173000
+GEO:+47.42321;+11.75292
+LOCATION:Felderer Stadl\, Dorfstr. 36 @ 6212 Maurach\, Österreich
+SEQUENCE:0
+SUMMARY:Almabtriebsfest beim Felderer Stadl
+URL:http://dev.achensee.com/event/almabtriebsfest-beim-felderer-stadl/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4748@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Pfarrhaus Eben\; +43(5243)5889\; pertisau@sr-achental.at
+DESCRIPTION:
+DTSTART;TZID=Europe/Vienna:20150919T163000
+DTEND;TZID=Europe/Vienna:20150919T173000
+EXRULE:FREQ=DAILY;UNTIL=20150404T235959Z;BYDAY=SA;WKST=MO
+LOCATION:Pfarrkirche Pertisau @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Samstagsgottesdienst in der Pfarrkirche Pertisau
+URL:http://dev.achensee.com/event/samstagsgottesdienst-in-der-pfarrkirche-p
+ ertisau/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5946@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition\,TVB
+CONTACT:Notburga-Museum\; +43(664)3914186\; info@notburga-museum.at\; https
+ ://www.achensee.com/wp-content/uploads/2015/07/Nachterlebnis_Flyer_2015.pd
+ f
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2013/10/Angebot-Abendrundfahrt-640x
+ 360.jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC '-//W3C//D
+ TD HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/loose.dtd'>
+ \n<html><body><p>Am 19. September 2015 wird am Achensee eine „Nachtschicht
+ “ eingelegt. Im Rahmen des fünften „Nachterlebnis“ können <strong>Besucher
+  von 17.00 bis 24.00 Uhr zahlreiche Attraktionen entdecken</strong>. Mit d
+ abei sind neben vier Museen auch die Achenseeschiffahrt\, die Achenseebahn
+ \, die Rofanseilbahn sowie die Karwendel-Bergbahn.</p>\n<p>Mehr Informatio
+ nen zur Veranstaltung finden Sie <a href='https://devtouch.achensee.com/wp
+ -content/uploads/2015/07/Nachterlebnis_Flyer_2015.pdf' target='_blank'>hie
+ r</a>.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150919T170000
+DTEND;TZID=Europe/Vienna:20150919T234500
+LOCATION:Rund um den Achensee @ 6215 Achenkirch\, Österreich
+SEQUENCE:0
+SUMMARY:Nachterlebnis am Achensee
+URL:http://dev.achensee.com/event/nachterlebnis-am-achensee/
+X-COST:Kombi-Ticket EUR 15\,- und Kinder EUR 7\,50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4751@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Mag. Albert Pichler\; +43(664)2636500\; dekanatsstelle@aon.at
+DESCRIPTION:
+DTSTART;TZID=Europe/Vienna:20150919T180000
+LOCATION:Pfarrkirche Wiesing @ 6210 Wiesing\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Samstagsgottesdienst in der Pfarrkirche Wiesing
+URL:http://dev.achensee.com/event/samstagsgottesdienst-pfarrkirche-wiesing/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15594@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kulinarik
+CONTACT:Familie Renate Rupprechter\; +43(5243)5846\; info@hotelkarlwirt.at\
+ ; http://www.hotelkarlwirt.at/das-hotel/langlaufstueberl/
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>Hüttenabend m
+ it Tanzmusik</h2>\n<p>Es spielen die „Original Karwendelecho“. Traditionel
+ les Spanferkelessen mit Bayrischem Kraut und Semmelknödel. Tischreservieru
+ ng erbeten.<br>\nBitte den Plakataushang beachten.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150919T193000
+DTEND;TZID=Europe/Vienna:20150919T230000
+EXDATE;TZID=Europe/Vienna:20150711T193000
+GEO:+47.439419;+11.686332
+LOCATION:Langlaufstüberl\, Eingang Karwendeltäler @ 6213 Pertisau\, Österre
+ ich
+RRULE:FREQ=WEEKLY;UNTIL=20151024T235959Z;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Hüttenabend im Langlaufstüberl
+URL:http://dev.achensee.com/event/huettenabend-im-langlaufstueberl-2-2/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4739@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Pfarrkurator André Nardin\; +43(5246)6238\; achental@sr-achental.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Die Pf
+ arrkirche ist dem Hl. Johannes dem Täufer geweiht.<br></strong><br>\nSamst
+ ag Vorabendmesse: 18.00 Uhr<br>\nSonntagsgottesdienst: 09.00 Uhr</p>\n<p>W
+ ochentags laut Aushang an der Kirchentür.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150919T180000
+DTEND;TZID=Europe/Vienna:20150919T190000
+EXRULE:FREQ=DAILY;UNTIL=20150404T235959Z;BYDAY=SA;WKST=MO
+GEO:+47.516667;+11.683333
+LOCATION:Pfarrkirche Achenkirch @ 6215 Achenkirch\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Samstagsgottesdienst in der Pfarrei Achental
+URL:http://dev.achensee.com/event/samstagsgottesdienst-in-achenkirch/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3946@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Tanz
+CONTACT:Familie Josef Rieser \; +43(5243)5284\; info@karwendel-achensee.com
+ \; http://www.karwendel-achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Tanzmusik auf 
+ Bestellung mit DJ Ernesto.</p>\n<p> </p></body></html>
+DTSTART;TZID=Europe/Vienna:20150919T203000
+DTEND;TZID=Europe/Vienna:20150919T233000
+GEO:+47.43849;+11.69131
+LOCATION:Hotel Karwendel\, Hnr. 54a @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151017T235959Z;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Tanzmusik auf Bestellung im Hotel Karwendel
+URL:http://dev.achensee.com/event/tanzmusik-auf-bestellung-im-hotel-karwend
+ el-2/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12876@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Tanz
+CONTACT:Familie Kostenzer\; +43(5243)5293\; info@alpenrose.at\; http://www.
+ alpenrose.at
+DESCRIPTION:
+DTSTART;TZID=Europe/Vienna:20150919T210000
+DTEND;TZID=Europe/Vienna:20150919T234500
+LOCATION:Wellness Residenz Alpenrose\, Mühltalweg 10 @ 6212 Maurach\, Öster
+ reich
+RRULE:FREQ=WEEKLY;BYDAY=MO,WE,TH,FR,SA;WKST=undefined
+SEQUENCE:0
+SUMMARY:Tanz- und Unterhaltungsabend in der Wellness Residenz Alpenrose – R
+ ondobar
+URL:http://dev.achensee.com/event/tanz-und-unterhaltungsabend-in-der-alpenr
+ ose/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4750@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Mag. Albert Pichler\; +43(664)2636500\; dekanatsstelle@aon.at
+DESCRIPTION:
+DTSTART;TZID=Europe/Vienna:20150920T083000
+EXDATE;TZID=Europe/Vienna:20150614T083000
+LOCATION:Pfarrkirche Wiesing @ 6210 Wiesing\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Sonntags-Eucharistiefeier in der Pfarrkirche Wiesing
+URL:http://dev.achensee.com/event/sonntagsgottesdienst-in-der-pfarrkirche-w
+ iesing/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4737@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Pfarrkurator André Nardin\; +43(5246)6238\; achental@sr-achental.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Die Pf
+ arrkirche ist dem Hl. Johannes dem Täufer geweiht</strong>.</p>\n<p>Samsta
+ g Vorabendmesse: 18.00 Uhr<br>\nSonntagsgottesdienst: 09.00 Uhr</p>\n<p>Wo
+ chentags laut Aushang an der Kirchentür.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150920T090000
+DTEND;TZID=Europe/Vienna:20150920T100000
+EXDATE;TZID=Europe/Vienna:20140629T090000
+LOCATION:Pfarrkirche Achenkirch @ 6215 Achenkirch\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Gottesdienst in der Pfarrei Achental
+URL:http://dev.achensee.com/event/gottesdienst-in-der-pfarrei-achental/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4752@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Pfarramt Steinberg\; +43(5248)202 ‎
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Samstag Vorabe
+ ndmesse im Sommer um 19.00 Uhr\, im Winter um 16.00 Uhr.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150920T090000
+DTEND;TZID=Europe/Vienna:20150920T100000
+EXDATE;TZID=Europe/Vienna:20140629T090000
+LOCATION:Pfarrkirche St. Lambert @ 6215 Steinberg am Rofan\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Gottesdienst in der Pfarrkirche Steinberg
+URL:http://dev.achensee.com/event/gottesdienst-in-der-pfarrkirche-steinberg
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4741@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Pfarre Eben\; +43(5243)5227\; eben@sr-achental.at
+DESCRIPTION:
+DTSTART;TZID=Europe/Vienna:20150920T090000
+DTEND;TZID=Europe/Vienna:20150920T100000
+EXDATE;TZID=Europe/Vienna:20150705T090000
+LOCATION:St. Notburgakirche\, Ebener Str. 94 @ 6212 Maurach\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Gottesdienst in der St. Notburgakirche
+URL:http://dev.achensee.com/event/gottesdienst-in-der-notburgakirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12658@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Wandern
+CONTACT:Familie Braunhofer\; +43(5243)5391\; info@rotspitz.at\; http://www.
+ rotspitz.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Mit Erklärung 
+ der Umgebung und Einkehrschwung in der „Seealm Grillalm“. Treffpunkt vor d
+ em Hotel Rotspitz.</p>\n<p>Um Anmeldung wird gebeten.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150920T103000
+DTEND;TZID=Europe/Vienna:20150920T120000
+LOCATION:Hotel Rotspitz\, Eggweg 5 @ 6212 Maurach\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151025T235959Z;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Geführte Ortswanderung mit Bobby
+URL:http://dev.achensee.com/event/gefuehrte-ortswanderung-mit-bobby/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4747@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Pfarrhaus Eben\; +43(5243)5889\; pertisau@sr-achental.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Wochentags lau
+ t Anschlag!</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150920T103000
+DTEND;TZID=Europe/Vienna:20150920T113000
+EXDATE;TZID=Europe/Vienna:20150705T103000
+LOCATION:Pfarrkirche Pertisau @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Gottesdienst in der Pfarrkirche Pertisau
+URL:http://dev.achensee.com/event/gottesdienst-in-der-pfarrkirche-pertisau/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5687@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition\,Kulinarik
+CONTACT:Maria Rieser\; +43(5243)5361\; info@hotel-christina.at\; http://www
+ .hotel-christina.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>Tiroler Live-
+ Musik mit kulinarischen Schmankerln!</h2>\n<p>Stimmung und Unterhaltung be
+ i jeder Witterung!</p>\n<p>Weitere Informationen auf <a href='http://www.h
+ otel-christina.at' target='_blank'>www.hotel-christina.at</a>.</p></body><
+ /html>
+DTSTART;TZID=Europe/Vienna:20150920T110000
+DTEND;TZID=Europe/Vienna:20150920T140000
+LOCATION:Hotel Christina\, Pertisau 61 @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151004T235959Z;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Frühschoppen beim Hotel Christina
+URL:http://dev.achensee.com/event/fruehschoppen/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14526@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Bergrettung Achenkirch\, Obmann Emanuel Angerer\; +43 (676) 4092049
+ \; manuel.angerer@aon.at\; http://www.bergrettung-achenkirch.at/
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Die Bergrettun
+ g Achenkirch lädt herzlich zur Gipfelmesse auf der Seekarspitze.<br>\nDie 
+ Messe beginnt um 11:00 Uhr.</p>\n<p>Hier geht’s zur Wegbeschreibung auf di
+ e <a href='http://maps.achensee.com/seekarspitze' target='_blank'>Seekarsp
+ itze (Startpunkt Achenkirch)</a>. Die Seekarspitze kann auch von Pertisau 
+ über die Seebergspitze erreicht werden\, Gehzeit ca. 3\,5 Stunden.</p></bo
+ dy></html>
+DTSTART;TZID=Europe/Vienna:20150920T110000
+DTEND;TZID=Europe/Vienna:20150920T120000
+LOCATION:Seekarspitze @ 6215 Achenkirch
+SEQUENCE:0
+SUMMARY:Gipfelmesse auf der Seekarspitze
+URL:http://dev.achensee.com/event/gipfelmesse-auf-der-seekarspitze/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5686@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition
+CONTACT:Gabi und Adi Rieser\; +43(5243)5166\; info@gramaialm.at\; http://ww
+ w.gramaialm.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>Mit „Peter un
+ d Martin“ – Urig und echt!</h2>\n<p>Bei jeder Witterung. Tischreservierung
+ en unter +43(5243)5166 erbeten. Weitere Informationen auf <a href='http://
+ www.gramaialm.at' target='_blank'>www.gramaialm.at</a>.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150920T120000
+DTEND;TZID=Europe/Vienna:20150920T160000
+EXDATE;TZID=Europe/Vienna:20150607T120000
+EXDATE;TZID=Europe/Vienna:20150705T120000
+EXDATE;TZID=Europe/Vienna:20150802T120000
+EXDATE;TZID=Europe/Vienna:20150906T120000
+EXDATE;TZID=Europe/Vienna:20151004T120000
+LOCATION:Gramai Alm\, Karwendeltäler\, Hnr. 23a @ 6213 Pertisau\, Österreic
+ h
+RRULE:FREQ=WEEKLY;UNTIL=20151018T235959Z;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Volksmusik auf der Gramai Alm
+URL:http://dev.achensee.com/event/volksmusik-auf-der-gramai-alm/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6593@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik
+CONTACT:Familie Manfred Rieser\; +43(5243)6275\; info@kirchenwirt-achensee.
+ at\; http://www.kirchenwirt-achensee.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Jeden Sonntag 
+ ab 13.00 Uhr Livemusik auf der Sonnenterrasse oder im Restaurant mit unser
+ en Hausmusikanten!</p>\n<p>Nähere Informationen auf<a href='http://www.kir
+ chenwirt-achensee.at' target='_blank'> www.kirchenwirt-achensee.at</a></p>
+ </body></html>
+DTSTART;TZID=Europe/Vienna:20150920T130000
+DTEND;TZID=Europe/Vienna:20150920T170000
+EXRULE:FREQ=WEEKLY;UNTIL=20150322T235959Z;BYDAY=SU;WKST=MO
+GEO:+47.42321;+11.75292
+LOCATION:Restaurant Kirchenwirt\, Ebener Str. 101 @ 6212 Maurach\, Österrei
+ ch
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Livemusik beim Kirchenwirt in Eben
+URL:http://dev.achensee.com/event/live-musik-beim-kirchenwirt-in-eben/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4744@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Pfarre Eben\; +43(5243)5227\; eben@sr-achental.at
+DESCRIPTION:
+DTSTART;TZID=Europe/Vienna:20150920T160000
+DTEND;TZID=Europe/Vienna:20150920T170000
+LOCATION:Marienkirche\, gegenüber Tourismusverband Maurach @ 6212 Maurach\,
+  Achenseestr. 5
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Vesper in der Marienkirche
+URL:http://dev.achensee.com/event/vesper-in-der-marienkirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12655@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Fun
+CONTACT:Familie Rieser\; +43(5243)5284\; info@karwendel-achensee.com\; http
+ ://www.karwendel-achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>„Black Jack“ A
+ bend an der Hotelbar. Tolle Sachpreise warten auf Sie.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150920T210000
+DTEND;TZID=Europe/Vienna:20150920T233000
+LOCATION:Hotel Karwendel\, Nr. 54a @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151122T235959Z;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:„Black Jack“ Abend im Hotel Karwendel
+URL:http://dev.achensee.com/event/black-jack-im-hotel-karwendel-3-2/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4467@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Wandern\,TVB
+CONTACT:Tourismusverband Achensee\; +43(5246)5300-0\; wanderprogramm@achens
+ ee.com\; http://achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Zusammen mit d
+ en Rangern des Naturpark Karwendel begeben Sie sich auf einen 3\,5 stündig
+ en Entdeckungs-Spaziergang und erhalten einen Einblick in die faszinierend
+ e Naturlandschaft rund um die Gramai Alm.</p>\n<p><!--more-->Nicht nur all
+ gemeine Informationen zum Naturpark Karwendel\, zur täglichen Arbeit der R
+ anger\, sondern auch die geologischen Besonderheiten des Achensee Gebiets 
+ werden Sie beeindrucken. Tasten Sie sich in die faszinierende Welt der Tie
+ rspuren vor oder beobachten Sie ganz einfach die Gämsen hautnah durch das 
+ Spektiv – diese Wanderung lässt Sie noch mehr in die Welt des Karwendels e
+ intauchen.</p>\n<p><strong>Treffpunkt:</strong> 10.30 Uhr vor der Sennhütt
+ e bei der Gramai Alm<br><strong>Rückkehr:</strong> ca. 14.00 Uhr</p>\n<p><
+ strong>Anmeldung: </strong>Die Teilnahme an der Wanderung ist nur mit vorh
+ eriger Anmeldung bis 17.00 Uhr am Vortag möglich.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150921T103000
+DTEND;TZID=Europe/Vienna:20150921T140000
+LOCATION:Karwendeltäler @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151026T235959Z;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Auf den Spuren der Natur im Karwendel
+URL:http://dev.achensee.com/event/auf-den-spuren-der-natur-im-karwendel/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15686@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Golf
+CONTACT:Golfclub Posthotel Alpengolf Achenkirch\; +43(5246)6604\; golf@post
+ hotel.at\; http://golfclub-achenkirch.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Für alle\, die
+  schon immer mit dem Gedanken gespielt haben\, den kleinen weißen Ball in 
+ den Himmel zu schlagen\, oder einfach wissen möchten\, was man unter der F
+ aszination Golf versteht.<!--more--></p>\n<p>Hierzu sind alle herzlich wil
+ lkommen\, die Lust haben\, Golf unverbindlich auszuprobieren.</p>\n<p>Bitt
+ e kommen Sie eine Viertelstunde vor Kursbeginn ins Clubhaus des GC Posthot
+ el Alpengolf Achenkirch!<br>\nAnmeldeschluss ist immer am Sonntag um 17.30
+  Uhr im Golfsekretariat in Achenkirch.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150921T110000
+DTEND;TZID=Europe/Vienna:20150921T120000
+GEO:+47.527036;+11.703358
+LOCATION:Golfclub Posthotel  Alpengolf  @ Achenkirch 382\, 6215 Achenkirch\
+ , Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20150928T235959Z;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Schnuppergolfen in Achenkirch
+URL:http://dev.achensee.com/event/schnuppergolfen-achenkirch/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5539@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik
+CONTACT:Familie Rieser\; +43(5243)5284\; info@karwendel-achensee.com\; http
+ ://www.karwendel-achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Live-M
+ usik mit „Pepi“ in gepflegter Atmosphäre.</strong></p></body></html>
+DTSTART;TZID=Europe/Vienna:20150921T203000
+DTEND;TZID=Europe/Vienna:20150921T230000
+LOCATION:Hotel Karwendel\, Pertisau 54a @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151116T235959Z;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Livemusik im Hotel Karwendel
+URL:http://dev.achensee.com/event/live-musik-im-hotel-karwendel/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4134@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Tanz
+CONTACT:Familie Prantl\; +43(5243)6110\; hansi@felderer-stadl.achenseer.inf
+ o\; http://www.felderer-stadl.achenseer.info
+DESCRIPTION:
+DTSTART;TZID=Europe/Vienna:20150921T203000
+DTEND;TZID=Europe/Vienna:20150921T230000
+LOCATION:Café Felderer-Stadl\, Dorfstraße 36 @ 6212 Maurach\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20150928T235959Z;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Tanzabend mit Live-Musik im Felderer Stadl
+URL:http://dev.achensee.com/event/tanzabend-mit-live-musik-im-felderer-stad
+ l-2/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4152@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kulinarik
+CONTACT:Familie Waldhart\; +43(5246)5303\; info@achentalerhof.at\; http://a
+ chentalerhof.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Mit Di
+ pl. Som. Franz Waldhart in der Vinothek „Korki“.</strong><br>\nWeinprobe b
+ zw. Kurzweinseminar inkl. sechs Weinen\, Verkostungsunterlagen\, Käse und 
+ Brot.<br>\nVoranmeldung bis 17.00 Uhr erwünscht.<!--more--></p>\n<p>Weiter
+ e Informationen auf <a href='http://www.achentalerhof.at' target='_blank'>
+ www.achentalerhof.at</a>.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150921T203000
+DTEND;TZID=Europe/Vienna:20150921T223000
+LOCATION:Wanderhotel Achentalerhof\, Nr. 115 @ 6215 Achenkirch\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151105T235959Z;BYDAY=MO,TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Weinverkostung im Wanderhotel Achentalerhof
+URL:http://dev.achensee.com/event/weinverkostung/
+X-COST:EUR 18\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4486@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Wandern\,TVB
+CONTACT:Tourismusverband Achensee\; +43(5246)5300-0\; wanderprogramm@achens
+ ee.com\; https://www.achensee.com/aktivurlaub/sommerurlaub/wanderurlaub/wa
+ nderprogramm/
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Von der Ortsmi
+ tte wandern wir zum Biomasse-Heizwerk\, dann folgen wir dem Forstweg (Natu
+ rrodelbahn) zum Adlerhorst (1.230m). Nach kurzem Aufstieg erreichen wir de
+ n Panoramasteig zur Zöhreralm (1.334m). Einkehr in der <!--more-->„Gourmet
+ -Alm“ mit fantastischem Blick auf Tal und See. Am Fahrweg geht es talwärts
+  zurück zum Ausgangspunkt.</p>\n<p><strong>Treffpunkt:</strong> 09.45 Uhr 
+ vor dem Informationsbüro Achenkirch (Bushaltestelle Gemeindeamt)<br><stron
+ g>Rückkehr:</strong> zwischen 14.00 und 15.00 Uhr zum Informationsbüro Ach
+ enkirch</p>\n<p><strong>Anmeldung</strong> bis Montag\, 17.00 Uhr im örtli
+ chen Infobüro oder unter Tel. +43(5246)5300-0 bis 18.00 Uhr.</p>\n<p><stro
+ ng>Anmeldung per E-Mail</strong>: <a href='mailto%20wanderprogramm@achense
+ e.com' target='_blank'>wanderprogramm@achensee.com</a> bis 20.00 Uhr mögli
+ ch.</p>\n<p>Hier geht’s zu weiteren<a href='https://devtouch.achensee.com/
+ aktivurlaub/sommerurlaub/wanderurlaub/wanderprogramm/'> Informationen</a>.
+ </p></body></html>
+DTSTART;TZID=Europe/Vienna:20150922T094500
+DTEND;TZID=Europe/Vienna:20150922T150000
+LOCATION:Informationsbüro Achenkirch @ 6215 Achenkirch\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151027T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Panoramawanderung in Achenkirch
+URL:http://dev.achensee.com/event/panoramawanderung-in-achenkirch/
+X-COST:Gratis mit der AchenseeCard. Ohne AchenseeCard EUR 29\,- pro Person.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3701@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kulinarik
+CONTACT:Familie Braunhofer\; +43(5243)5391\; info@rotspitz.at\; http://www.
+ rotspitz.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Galadi
+ nner mit Aperitif\, Kerzenlicht und Zithermusik.</strong></p></body></html
+ >
+DTSTART;TZID=Europe/Vienna:20150922T180000
+DTEND;TZID=Europe/Vienna:20150922T210000
+LOCATION:Familienhotel Rotspitz\, Eggweg 5 @ 6212 Maurach\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151027T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Galadinner im Hotel Rotspitz
+URL:http://dev.achensee.com/event/galadinner-im-hotel-rotspitz/
+X-COST:EUR 17\,50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15590@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik
+CONTACT:Familie Rieser\; +43(5243)5284\; info@karwendel-achensee.com\; http
+ ://www.karwendel-achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Live-M
+ usik mit „Egon“ in gepflegter Atmosphäre.</strong></p></body></html>
+DTSTART;TZID=Europe/Vienna:20150922T203000
+DTEND;TZID=Europe/Vienna:20150922T230000
+LOCATION:Hotel Karwendel\, Pertisau 54a @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151117T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Livemusik im Hotel Karwendel
+URL:http://dev.achensee.com/event/live-musik-im-hotel-karwendel-3/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15230@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik
+CONTACT:Familie Hlebaina\; +43(5246)6561 600\; info@sporthotel-achensee.com
+ \; http://www.sporthotel-achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>Pianomusik mi
+ t Andy Moos in der Seealm am „kleinen Achensee“.</h2>\n<p>Genießen Sie ein
+  romantisches Abendessen bei klangvoller Pianomusik.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150922T203000
+DTEND;TZID=Europe/Vienna:20150922T230000
+LOCATION:Seealm am kleinen Achensee\, Nr. 114 @ 6215 Achenkirch\, Österreic
+ h
+RRULE:FREQ=WEEKLY;UNTIL=20151027T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Pianonight in der Seealm
+URL:http://dev.achensee.com/event/pianoabend-2/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6006@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik
+CONTACT:Familie Sponring\; +43(5243)5287\; info@jodlerwirt-achensee.at\; ht
+ tp://www.jodlerwirt-achensee.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>TANZ- 
+ und Unterhaltungsabend mit LIVE-Musik\, dem „JODLERWIRTSDUO“.</strong></p>
+ \n<p>Nähere Informationen auf<a href='http://www.jodlerwirt-achensee.at' t
+ arget='_blank'> www.jodlerwirt-achensee.at</a>.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150922T210000
+DTEND;TZID=Europe/Vienna:20150922T230000
+GEO:+47.42321;+11.75292
+LOCATION:Café-Restaurant Jodlerwirt\, Dorfstr. 34 @ 6212 Maurach\, Österrei
+ ch
+RRULE:FREQ=WEEKLY;UNTIL=20151020T235959Z
+SEQUENCE:0
+SUMMARY:Livemusik im Jodlerwirt
+URL:http://dev.achensee.com/event/livemusik-im-jodlerwirt/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4365@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Wandern\,TVB
+CONTACT:Achensee Tourismus\; +43(5246)5300-0 \; wanderprogramm@achensee.com
+ \; https://www.achensee.com/aktivurlaub/sommerurlaub/wanderurlaub/wanderpr
+ ogramm/
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Zusammen mit d
+ en Naturpark-Führern des Naturpark Karwendel und ausgestattet mit Swarovsk
+ i-Ferngläsern geht es auf eine spannende Entdeckungsreise mit Betrachtung 
+ der Tier- und Pflanzenwelt in Richtung Feilkopf (1.562m). <!--more--></p>
+ \n<p>Der niedrigste Aussichtsberg rund um den Achensee bietet atemberauben
+ de Ausblicke über den See\, sowie die Berge und lädt zur Gipfelrast mit Br
+ otzeit ein. Je nach Wetterlage kann uns die Tour alternativ zur Gernalm (1
+ .169m) mit Einkehrmöglichkeit führen. Dies wird vom Naturpark-Führer vor O
+ rt entschieden. Der Heimweg führt uns über die Pletzachalm (1.040m) und de
+ n Seebergsteig zum Ausgangspunkt zurück.</p>\n<p><strong>Treffpunkt: 09.30
+  Uhr</strong> Mautstelle Pertisau (Bushaltestelle Pertisau Karwendeltäler)
+ <br><strong>Rückkehr:</strong> zwischen <strong>15.00 und 16.00 Uhr</stron
+ g>.</p>\n<p>Es ist eine <strong>Anmeldung</strong> bei den örtlichen Infor
+ mationsbüros während der Öffnungszeiten am Vortag bis 17.00 Uhr notwendig.
+ <br>\nTelefonische Anmeldungen können bis zum Vortag der jeweiligen Wander
+ ung bis 18.00 Uhr unter der Nummer +43(5246)5300-0 vorgenommen werden. Anm
+ eldungen per E-Mail sind an <a href='mailto:wanderprogramm@achensee.com' t
+ arget='_blank'>wanderprogramm@achensee.com</a> bis 20.00 Uhr möglich.</p>
+ \n<p>Hier geht’s zu weiteren <a href='https://devtouch.achensee.com/aktivu
+ rlaub/sommerurlaub/wanderurlaub/wanderprogramm/'>Informationen</a>.</p></b
+ ody></html>
+DTSTART;TZID=Europe/Vienna:20150923T093000
+DTEND;TZID=Europe/Vienna:20150923T150000
+LOCATION:Karwendelgebirge Pertisau @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151028T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Nature Watch Tour zum Feilkopf
+URL:http://dev.achensee.com/event/nature-watch-tour-zum-feilkopf/
+X-COST:Gratis mit der AchenseeCard. Ohne AchenseeCard EUR 29\,- pro Person.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8990@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Vorführungen
+CONTACT:Familie Adler\; +43(5246)6202\; adlerbeck@aon.at\; http://www.adler
+ -brot.at/
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Erleben Sie de
+ n Weg vom Teig zum Semmerl. Wie entsteht eine Breze\, wie flechtet man ein
+ en Zopf und wie wickelt man ein Salzstangerl? Bäckermeister Alexander Adle
+ r erklärt und zeigt Ihnen\, wie ein Semmerl und andere Gebäcke entstehen.<
+ !--more--></p>\n<p>Stellen Sie die Fragen\, die Sie schon immer von einem 
+ Bäcker wissen wollten.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150923T143000
+DTEND;TZID=Europe/Vienna:20150923T163000
+GEO:+47.516667;+11.683333
+LOCATION:Bäckerei-Café Adler\, Hnr. 372 @ 6215 Achenkirch\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151028T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Schaubacken in der Bäckerei Adler
+URL:http://dev.achensee.com/event/schaubacken-in-der-baeckerei-adler/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4742@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Gottesdienste
+CONTACT:Pfarre Eben\; +43(5243)5227\; eben@sr-achental.at\; http://www.sr-a
+ chental.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>14-tägiger Wec
+ hsel von Gottesdienst und Vesper.</p>\n<p>Jeweils am 1. Mittwoch im Monat 
+ ist auch die Krankensegnung mit emer. <strong>Erzbischof Alois Kothgasser<
+ /strong>.<!--more--></p>\n<p>08.07.15 Hl. Kilian von Würzburg</p>\n<p>15.0
+ 7.15 Hl. Bonventura</p>\n<p>22.07.15 Maria Magdalena</p>\n<p>29.07.15 Mart
+ ha von Bethanien</p>\n<p>05.08.15 Hl.Messe mit Erzbischof Alois Kothgasser
+ </p></body></html>
+DTSTART;TZID=Europe/Vienna:20150923T150000
+DTEND;TZID=Europe/Vienna:20150923T160000
+GEO:+47.42321;+11.75292
+LOCATION:St. Notburgakirche\, Ebener Str. 94 @ 6212 Maurach\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Pilgergottesdienst in der St. Notburgakirche
+URL:http://dev.achensee.com/event/pilgergottesdienst-in-der-st-notburgakirc
+ he/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15384@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Vorführungen
+CONTACT:Mag. Gerhard Hammerle\; +43(699)17202080\; info@tiroler-naturkosmet
+ ik.com\; http://www.tiroler-naturkosmetik.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2014/08/alpenpark-karwendel-falzthu
+ rntal-blumen-640x360.jpg' width='480' height='270' /></div><!DOCTYPE html 
+ PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-h
+ tml40/loose.dtd'>\n<html><body><p>Seien Sie dabei und <strong>erleben Sie 
+ live die Herstellung einer Naturkosmetik Creme</strong> in der Tiroler Krä
+ uterhof Schauproduktion in Maurach. Mit <strong>heimischen Zutaten</strong
+ > wie Rosenwasser\, Malven-Olivenöl\, Ringelblumen-Sonnenblumenöl\, Bienen
+ wachs und vielen weiteren natürlichen Rohstoffen stellen wir eine Bio-Crem
+ e her.<!--more--></p>\n<p>Wissenswertes über die Herstellung der Rohstoffe
+  wie z.B. Ätherisches Öl\, Hydrolate und die Verarbeitung der Kräuter\, so
+ wie die natürliche Pflege.</p>\n<p>Darüber hinaus erfahren Sie mehr über d
+ ie Heilkraft der typischen alpenländischen Kräuter\, wie z.B. Ringelblume\
+ , Rosmarin\, Lavendel\, Arnika\, Latschenkiefer\, Brennessel\, Fichte\, Sc
+ hafgarbe\, Malve und viele mehr nach altem überlieferten Wissen.<br>\nTiro
+ ler Kräuterhof aus Maurach ist durch die glycerinfreie Herstellung weltwei
+ t einer der konsequentesten Naturkosmetik Hersteller.</p>\n<p>Um eine vorh
+ erige Anmeldung zur Naturkosmetik Schauproduktion wird gebeten unter Tel. 
+ +43 (699) 17202080.</p>\n<p>Öffnungszeiten Tiroler Kräuterhof:<br>\nMontag
+  bis Freitag von 09.00 bis 12.00 Uhr und 14.00 bis 18.00 Uhr\, Samstag von
+  09.00 bis 12.00 Uhr.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150923T170000
+DTEND;TZID=Europe/Vienna:20150923T183000
+GEO:+47.422243;+11.752174
+LOCATION:Tiroler Kräuterhof-Naturkosmetik @ Dorfstraße 13\, 6212\, Österrei
+ ch
+RRULE:FREQ=WEEKLY;UNTIL=20151028T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Naturkosmetik Schauproduktion
+URL:http://dev.achensee.com/event/naturkosmetik-schauproduktion-2/
+X-COST:Teilnahme pro Person EUR 6\,90\,- inkl.  Einkaufsgutschein EUR 5\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-9022@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kulinarik
+CONTACT:Familie Renate Rupprechter\; +43(5243)5846\; info@hotelkarlwirt.at\
+ ; http://www.hotelkarlwirt.at/das-hotel/langlaufstueberl/
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>Hüttenabend m
+ it Tanzmusik</h2>\n<p>Es spielen die „Hinterlechner“ aus dem Brixental. Tr
+ aditionelles Spanferkelessen mit Bayrischem Kraut und Semmelknödel. Tischr
+ eservierungen erbeten.<br>\nBitte den Plakataushang beachten.</p></body></
+ html>
+DTSTART;TZID=Europe/Vienna:20150923T193000
+DTEND;TZID=Europe/Vienna:20150923T230000
+GEO:+47.439419;+11.686332
+LOCATION:Langlaufstüberl\, Eingang Karwendeltäler @ 6213 Pertisau\, Österre
+ ich
+RRULE:FREQ=WEEKLY;UNTIL=20151007T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Hüttenabend im Langlaufstüberl
+URL:http://dev.achensee.com/event/huettenabend-im-langlaufstueberl-2/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12626@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:TVB\,Vorführungen
+CONTACT:Achensee Schiffahrt\; +43(5243)5253-0\; info@tirol-schiffahrt.at \;
+  http://www.tirol-schiffahrt.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p align='LEFT'>E
+ in Abend voller <strong>Zauberei und Mysterien</strong> mit dem<strong> Il
+ lusionisten Philipp Oberlohr.</strong> Boarding in Pertisau um 19.30 Uhr.<
+ /p>\n<p align='LEFT'>Reservierungen und weitere Informationen online unter
+  <a href='http://www.tirol-schiffahrt.at' target='_blank'>www.tirol-schiff
+ ahrt.at</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20150923T193000
+DTEND;TZID=Europe/Vienna:20150923T220000
+LOCATION:Achenseeschiff am Achensee @ 6213 Pertisau\, Österreich
+SEQUENCE:0
+SUMMARY:Illusionen und Zauberei auf der MS Stadt Innsbruck
+URL:http://dev.achensee.com/event/illusionen-und-zauberei-auf-der-ms-stadt-
+ innsbruck-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3940@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Tanz
+CONTACT:Familie Waldhart\; +43(5246)5303\; info@achentalerhof.at\; http://w
+ ww.achentalerhof.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Musik-
+  und Tanzabend mit Livemusik in der Hotelhalle des Wanderhotels Achentaler
+ hof.</strong></p></body></html>
+DTSTART;TZID=Europe/Vienna:20150923T203000
+DTEND;TZID=Europe/Vienna:20150923T230000
+LOCATION:Wanderhotel Achentalerhof\, Hnr. 115 @ 6215 Achenkirch\, Österreic
+ h
+RRULE:FREQ=WEEKLY;UNTIL=20151104T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Musik- und Tanzabend im Wanderhotel Achentalerhof
+URL:http://dev.achensee.com/event/musik-und-tanzabend/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4590@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik\,TVB
+CONTACT:Obmann Stefan Mauracher\; +43(676)836866401\; info@bmk-eben.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Platzkonzert d
+ er Bundesmusikkapelle Eben oder einer Gastkapelle aus der Umgebung.</p>\n<
+ p> </p></body></html>
+DTSTART;TZID=Europe/Vienna:20150923T203000
+DTEND;TZID=Europe/Vienna:20150923T220000
+GEO:+47.423639;+11.747653
+LOCATION:Veranstaltungszentrum Maurach - Musikpavillon @ Dorfstraße 30\, 62
+ 12\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20150923T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Platzkonzert in Maurach
+URL:http://dev.achensee.com/event/platzkonzert-in-maurach/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14819@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik\,TVB
+CONTACT:Obmann Stefan Mauracher\; +43(676)836866401\; info@bmk-eben.at\; ht
+ tp://www.bmk-eben.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Platzkonzert d
+ er Bundesmusikkapelle Eben im Fischergut Pertisau mit Ausschank.</p>\n<p>D
+ ie Konzerte finden alle 14 Tage statt.</p>\n<p><strong> </strong></p></bod
+ y></html>
+DTSTART;TZID=Europe/Vienna:20150923T203000
+DTEND;TZID=Europe/Vienna:20150923T220000
+GEO:+47.43849;+11.69131
+LOCATION:Fischergut (gegenüber Bootshaus)\, Dorfstrasse @ 6213 Pertisau\, Ö
+ sterreich
+RRULE:FREQ=WEEKLY;UNTIL=20150923T235959Z;INTERVAL=2;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Platzkonzert in Pertisau
+URL:http://dev.achensee.com/event/platzkonzert-in-pertisau/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4364@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Wandern\,TVB
+CONTACT:Rofan Reisen\; +43(5243)5209\; rofan.reisen@utanet.at\; http://rofa
+ nreisen.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2><strong>Stein
+ ölwanderung:</strong></h2>\n<p><strong>Ab Anfang Juli</strong> findet die 
+ Exklusiv-Tour zu den Steinölbrennern im Bächental statt.<br>\nBusfahrt von
+  Pertisau 09.00 Uhr\, Maurach 09.15 Uhr\, Achenkirch 09.30 Uhr über den Sy
+ lvenstein Stausee ins Bächental. <!--more-->Exklusive Führung durch die St
+ einölbrennerei mit Einkehrmöglichkeit erwartet Sie dort.<br>\nÜber den Grö
+ bner Hals (1.650m)\, gehts dann retour durch das Unterautal zum Parkplatz 
+ Christlumlifte. Rückkehr ca. 16.00 Uhr.</p>\n<p><strong>Kosten:</strong> F
+ ür den Bustransfer ins Bächental wird ein Betrag von EUR 10\,- pro Person 
+ eingehoben.</p>\n<p><strong>Anmeldung verbindlich</strong> bis 18.00 Uhr d
+ es Vortages bei <strong>Rofan Reisen\, </strong>Tel: +43(5243)5209. Begren
+ zte Teilnehmerzahl!</p>\n<p>Hier geht’s zu weiteren <a href='https://devto
+ uch.achensee.com/aktivurlaub/sommerurlaub/wanderurlaub/wanderprogramm/'>In
+ formationen</a>.</p>\n<p> </p></body></html>
+DTSTART;TZID=Europe/Vienna:20150924T090000
+DTEND;TZID=Europe/Vienna:20150924T160000
+EXDATE;TZID=Europe/Vienna:20150903T090000
+GEO:+47.526695;+11.707665
+LOCATION:Karwendelgebirge Achenkirch @ 6215 Achenkirch\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151029T235959Z;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Steinölwanderung vom Bächental
+URL:http://dev.achensee.com/event/steinoelwanderung-vom-baechental/
+X-COST:Gratis mit der AchenseeCard! Ohne AchenseeCard EUR 29\,- pro Person.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4779@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kulinarik
+CONTACT:Familie Kostenzer\; +43(5243)5795\; info@schnaps-achensee.at\; http
+ ://www.schnaps-achensee.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Besich
+ tigung\, Verkostung und Führung</strong><br>\nJeden Donnerstag um 17.00 Uh
+ r gegen frühzeitige Voranmeldung bis 12.00 Uhr.<!--more--></p>\n<p>Verkauf
+  direkt in der Brennerei!</p>\n<p>Nähere Informationen finden Sie auf: <a 
+ href='http://www.schnaps-achensee.at' target='_blank'>www.schnaps-achensee
+ .at</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20150924T170000
+DTEND;TZID=Europe/Vienna:20150924T180000
+GEO:+47.42321;+11.75292
+LOCATION:Achenseer Edelbrennerei Kostenzer\, Achensee Str. 22 @ 6212 Maurac
+ h\, Österreich
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Führung Achenseer Edelbrennerei Kostenzer
+URL:http://dev.achensee.com/event/fuehrung-achenseer-edelbrennerei-kostenze
+ r/
+X-COST:Beitrag pro Person EUR 8\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5562@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kulinarik
+CONTACT:Familie Kirchberger\; +43(5246)6258\; office@fischerwirt1.eu
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>Grillabend mi
+ t Live-Musik auf der Sonnenterrasse!</h2>\n<p><strong>Vorspeise\, Grillbuf
+ fet und Dessert – „all you can eat“! </strong></p>\n<p>Anmeldung und Tisch
+ reservierung erforderlich. Je nach Witterung kann die Veranstaltung auch a
+ uf einen anderen Wochentag verlegt werden.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150924T180000
+DTEND;TZID=Europe/Vienna:20150924T210000
+LOCATION:Hotel Fischerwirt am See\, Achenkirch 15 @ 6215 Achenkirch\, Öster
+ reich
+RRULE:FREQ=WEEKLY;UNTIL=20150924T235959Z;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Grillabend beim Hotel Fischerwirt am See
+URL:http://dev.achensee.com/event/grillabend/
+X-COST:Preis pro Person: EUR 16\,-\, Kinder EUR 11\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3954@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik
+CONTACT:Familie Kobinger\; +43(5243)5207\; hotel@postamsee.at\; http://www.
+ postamsee.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Musik- und Tan
+ zabend im Hotel Post am See mit der Stimmungskanone<strong> Othmar „Hits &
+  Witz“. Mai und Oktober laut Aushang.</strong></p>\n<p> </p>\n<p> </p></bo
+ dy></html>
+DTSTART;TZID=Europe/Vienna:20150924T203000
+DTEND;TZID=Europe/Vienna:20150924T233000
+LOCATION:Hotel Post am See\, Seepromenade 82 @ Pertisau\, 6213 Pertisau\, Ö
+ sterreich
+RRULE:FREQ=WEEKLY;UNTIL=20150924T235959Z;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Musik- und Tanzabend im Hotel Post am See
+URL:http://dev.achensee.com/event/musik-und-tanzabend-im-hotel-post-am-se/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4154@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik
+CONTACT:Familie Rieser\; +43(5243)5284\; info@karwendel-achensee.com\; http
+ ://www.karwende-achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Tanzabend mit 
+ unserem Haus-DUO „Sunnyboys“!</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150924T203000
+DTEND;TZID=Europe/Vienna:20150924T230000
+LOCATION:Hotel Karwendel\, Nr. 54a @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151119T235959Z;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Tanzabend im Hotel Karwendel
+URL:http://dev.achensee.com/event/hotel-karwendel-3/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4415@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Wandern\,TVB
+CONTACT:Tourismusverband Achensee\; +43(5246)5300-0\; wanderprogramm@achens
+ ee.com\; https://www.achensee.com/aktivurlaub/sommerurlaub/wanderurlaub/wa
+ nderprogramm/
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Ausgehend von 
+ der Bergstation der Rofanseilbahn führt uns die Tour immer auf einen ander
+ en Gipfel im Rofangebirge. Während der anspruchsvollen Ganztagestour wird 
+ Ihnen ein Einblick über die Flora und Fauna am Rofan <!--more-->gegeben. A
+ uf welchen Gipfel es geht\, wird vor Ort und je nach Wetterlage entschiede
+ n. Sollten Sie ein Wunschziel haben\, bitte machen Sie den Bergführer dara
+ uf aufmerksam. Die Kosten für die Berg- und Talfahrt mit der Rofanseilbahn
+  sind nicht inkludiert.</p>\n<p><strong>Vorsicht:</strong> Diese Wanderung
+  ist nur für geübte Wanderer geeignet.</p>\n<p><strong>Treffpunkt</strong>
+ : 09.30 Uhr bei der Talstation Rofan-Seilbahn in Maurach (ca. zwei Minuten
+  von der Bushaltestelle Maurach Hauptschule bzw. Maurach Rofanseilbahn)</p
+ >\n<p><strong>Rückkehr:</strong> zwischen 15.00 und 16.00 Uhr bei der Tals
+ tation Rofan-Seilbahn in Maurach</p>\n<p><strong>Anmeldung:</strong> in de
+ n örtlichen Infobüros während der Öffnungszeiten bis 17.00 Uhr am Vortag n
+ otwendig.<br>\nTelefonische Anmeldung am Vortag bis 18.00 Uhr! Anmeldungen
+  per E-Mail können bis 20.00 Uhr entgegengenommen werden.</p>\n<p>Hier geh
+ t’s zu weiteren <a href='https://devtouch.achensee.com/aktivurlaub/sommeru
+ rlaub/wanderurlaub/wanderprogramm/'>Informationen</a>.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150925T093000
+DTEND;TZID=Europe/Vienna:20150925T153000
+LOCATION:Rofangebirge @ 6212 Maurach\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151030T235959Z;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Gipfelstürmer-Wanderung im Rofangebirge
+URL:http://dev.achensee.com/event/gipfelstuermer-wanderung/
+X-COST:Gratis für alle Gäste mit der AchenseeCard! Ohne AchenseeCard wird e
+ in Unkostenbeitrag von Euro 29\,- berechnet.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15773@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kulinarik
+CONTACT:Golfclub Posthotel Alpengolf Achenkirch\; +43(5246)6604\; golf@post
+ hotel.at\; http://golfclub-achenkirch.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Feuriger Genus
+ s im Posthotel Alpengolf! Zur Begrüßung gibt’s ein Glas hausgemachter Himb
+ eerbowle. Zu perfekt gegarten Steaks\, Koteletts\, Garnelenspießen\, Fisch
+ filets aus der Region und Bratwürstchen sind als Beilagen <!--more-->gegri
+ lltes Gartengemüse\, Maiskolben\, Folienkartoffeln\, Kräuterbaguette und k
+ nackige Blattsalate angerichtet. Raffinierte Saucen wie Senfsauce\, Kräute
+ rbutter\, scharfe Tomatensalsa oder Sauerrahmdip vollenden den Genuss.</p>
+ \n<p>Als süßes Finale gibt’s Desserts vom Grill\, wie Ananas mit Kokoseis 
+ oder Banane mit Mandelsplittern sowie kleines\, feines Dessertbuffet.</p>
+ \n<p>Reservierung erbeten.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150925T180000
+DTEND;TZID=Europe/Vienna:20150925T233000
+GEO:+47.527036;+11.703358
+LOCATION:Golfclub Posthotel  Alpengolf  @ Achenkirch 382\, 6215 Achenkirch\
+ , Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20150925T235959Z;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Grillbuffet im Posthotel Alpengolf Restaurant
+URL:http://dev.achensee.com/event/grillbuffet-posthotel-alpengolf/
+X-COST:EUR 36\,- pro Person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5614@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kulinarik
+CONTACT:Achenseeschiffahrt GesmbH\; +43(5243)5253 0\; info@tirol-schiffahrt
+ .at\; http://www.tirol-schiffahrt.at/achenseeschiffahrt/veranstaltungen/de
+ tailansicht/achenseer-sommernacht-2.html
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>In ein
+ em Hotel am Achensee verwöhnt man Sie mit einem 4-gängigen Überraschungsme
+ nü\, und anschließend genießen Sie eine Abendrundfahrt auf dem wunderschön
+ en Achensee.</strong><!--more--></p>\n<p><strong><br></strong>Schiffsabfah
+ rtszeiten: Pertisau: 20.30 Uhr\, Seespitz (Maurach): 20.45 Uhr.</p>\n<p>We
+ itere Informationen und Kartenvorverkauf direkt bei der Achenseeschiffahrt
+  und auf <a href='http://www.tirol-schiffahrt.at/achenseeschiffahrt/verans
+ taltungen/detailansicht/achenseer-sommernacht-2.html' target='_blank'>www.
+ tirol-schiffahrt.at</a>.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150925T183000
+DTEND;TZID=Europe/Vienna:20150925T223000
+GEO:+47.43849;+11.69131
+LOCATION:Schiffsanlegestelle Pertisau @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151002T235959Z;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Achenseer Sommernacht
+URL:http://dev.achensee.com/event/achenseer-sommernacht/
+X-COST:EUR 45\,- pro Person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5620@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition\,Kulinarik
+CONTACT:Gabi und Adi Rieser\; +43(5243)5166\; info@gramaialm.at\; http://ww
+ w.gramaialm.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>Hüttenabend m
+ it Ripperlessen auf der Gramai-Alm</h2>\n<p><strong>Genießen Sie einen unv
+ ergesslichen Abend in einmaliger Kulisse. Für Tanz und Stimmung sorgt „Pep
+ i“.<!--more--></strong><br><strong> Mautfreie Zufahrt ab 18.30 Uhr.</stron
+ g></p>\n<p>Weitere Informationen bzw. Tischreservierungen Tel. +43(5243)51
+ 66 oder auf <a href='http://www.gramaialm.at' target='_blank'>www.gramaial
+ m.at</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20150925T193000
+DTEND;TZID=Europe/Vienna:20150925T230000
+LOCATION:Gramai Alm\, Karwendeltäler @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151016T235959Z;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Hüttenabend auf der Gramai Alm
+URL:http://dev.achensee.com/event/huettenabend-auf-der-gramai-alm/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12885@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Theater
+CONTACT:Obfrau Veronika Mayer\, Volksbühne Jenbach-Wiesing\; +43 (664) 9212
+ 111\; wiesing@achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Im heurigen St
+ ück von Marc Camoletti dreht sich alles um Ehefreud und Eheleid.<br>\nEs g
+ eht um Eifersucht\, Seitensprünge\, Lügen\, aber auch Treue und Vertrauen 
+ in einer Beziehung<br>\nwerden beleuchtet. Ihre Lachmuskeln werden in dies
+ em turbulenten Stück kräftig strapaziert.</p>\n<p>Premiere ist am 25.09.20
+ 15.<br>\nKartenvorverkauf im Informationsbüro Wiesing unter Telefon 05244/
+ 62510-0.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150925T200000
+DTEND;TZID=Europe/Vienna:20150925T223000
+GEO:+47.404313;+11.797878
+LOCATION:Gemeindesaal Wiesing @ Dorf 19\, 6210 Wiesing\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151010T235959Z;BYDAY=FR,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Theater „Die Perle Anna“
+URL:http://dev.achensee.com/event/theater-die-perle-anna/
+X-COST:lt. Anschlag
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5611@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik\,Schifffahrt
+CONTACT:Achenseeschiffahrt GesmbH\; +43(5243)5253 0\; info@tirol-schiffahrt
+ .at\; http://www.tirol-schiffahrt.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Den Ac
+ hensee am Abend erleben bei Musik\, Tanz\, Service und Unterhaltung an Bor
+ d\, sowie dem eindrucksvollen Felsenleuchten in der Gaisalmklamm.</strong>
+ <!--more--></p>\n<p>Fahrtzeit: ca. 2 Stunden.</p>\n<p>Abfahrt Pertisau: 20
+ .30 Uhr\, Seespitz: 20.45 Uhr</p>\n<p>Weitere Informationen auf <a href='h
+ ttp://www.tirol-schiffahrt.at' target='_blank'>www.tirol-schiffahrt.at</a>
+ .</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150925T203000
+DTEND;TZID=Europe/Vienna:20150925T223000
+GEO:+47.43849;+11.69131
+LOCATION:Achenseeschiff\, Schiffsanlegestelle Pertisau @ 6213 Pertisau\, Ös
+ terreich
+RRULE:FREQ=WEEKLY;UNTIL=20151002T235959Z;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Abendrundfahrt der Achenseeschiffahrt
+URL:http://dev.achensee.com/event/abendrundfahrt-der-achenseeschiffahrt/
+X-COST:EUR 20\,- pro Person\, Kinder bis 15 Jahre frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4974@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Laufen\,TVB
+CONTACT:Stefan Biechl\; +43(676)7514801\; biechl@astenau.at\; http://www.as
+ tenau.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Start:
+ </strong> Jenbach – Hubersiedlung</p>\n<p><strong>Ziel:</strong> Astenau A
+ lpe</p>\n<p><strong><!--more--></strong></p>\n<p><strong>Anmeldung</strong
+ > unter +43(676)7514801 Stefan Biechl (Astenau Alpe)<br><strong>Zu überwin
+ dende Höhenmeter:</strong> ca. 900<br><strong>Länge:</strong> ca. 5\,5km –
+  alle Wege zur Astenau Alpe sind erlaubt.<br><strong>Zeitlimit</strong> 2\
+ ,5 Stunden</p>\n<p>Veranstalter haftet für keinerlei Unfälle. Es gilt die 
+ Straßenverkehrsordnung. Die Teilnahme auf eigene Gefahr. Start unter 18 Ja
+ hren nur mit Erlaubnis der Erziehungsberechtigten.</p>\n<p>Keine Klassenei
+ nteilung\, nur Damen und Herren getrennt. Es handelt sich um einen HOBBY L
+ auf – also jeder\, wirklich JEDER ist herzlich dazu eingeladen!</p></body>
+ </html>
+DTSTART;TZID=Europe/Vienna:20150926T100000
+DTEND;TZID=Europe/Vienna:20150926T150000
+GEO:+47.391872;+11.777528
+LOCATION:Astenau Alpe\, Rofangebirge\, auf dem Weg zum Ebner Joch @ Jenbach
+ \, Österreich
+SEQUENCE:0
+SUMMARY:Astenaulauf
+URL:http://dev.achensee.com/event/hobby-geh-und-laufwettbewerb-zur-astenau-
+ alpe/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15527@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Vorführungen\,Schifffahrt
+CONTACT:Gastrotheater Innsbruck \; +43(512)209050\; info@gastrotheater.at\;
+  http://www.gastrotheater.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>„Bis dass der
+  Tod uns scheidet“</h2>\n<p><strong>Tatort:</strong> auf dem Schiff „MS Ti
+ rol“. Alles ist anders beim Mystery Dinner – rätselhaft kriminell. <!--mor
+ e--></p>\n<p><strong>Beginn:</strong> Die mörderische Fahrt beginnt bei de
+ r Schiffsanlegestelle in Pertisau jeweils um 19.30 Uhr. Boarding: 19.00 Uh
+ r</p>\n<p><strong>Kartenvorverkauf:</strong> Achenseeschiffahrt +43(5243)5
+ 253-0\, <a href='http://www.tirol-schiffahrt.at' target='_blank'>www.tirol
+ -schiffahrt.at</a> Gastrotheater Innsbruck +43(512)209050\, <a href='http:
+ //www.gastrotheater.at' target='_blank'>www.gastrotheater.at</a></p></body
+ ></html>
+DTSTART;TZID=Europe/Vienna:20150926T190000
+DTEND;TZID=Europe/Vienna:20150926T223000
+GEO:+47.43849;+11.69131
+LOCATION:Schiffsanlegestelle Pertisau\, Schiff  @ 6213 Pertisau\, Österreic
+ h
+RRULE:FREQ=WEEKLY;UNTIL=20151024T235959Z;INTERVAL=2;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Krimidinner am Schiff 2015
+URL:http://dev.achensee.com/event/krimidinner-am-schiff-3-2/
+X-COST:EUR 89\,- pro Person inkl. Schifffahrt\, Begrüßungsdrink\, 3-Gang-Me
+ nü und Abendprogramm.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15528@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik\,Schifffahrt
+CONTACT:Achenseeschiffahrt GmbH\; +43(5243)5253 0\; info@tirol-schiffahrt.a
+ t\; http://www.tirol-schiffahrt.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Frühsc
+ hoppen mit der 6-Mann-Gruppe „Tanzig“ – innovativ und traditionell\, eine 
+ richtige „tanzl-Musik“. </strong></p>\n<p>Nähere Infos erhalten Sie bei de
+ r Achenseeschiffahrt: Tel. +43(5243)5253-0 oder auf <a href='http://www.ti
+ rol-schiffahrt.at' target='_blank'>www.tirol-schiffahrt.at</a>.</p></body>
+ </html>
+DTSTART;TZID=Europe/Vienna:20150927T110000
+DTEND;TZID=Europe/Vienna:20150927T160000
+GEO:+47.43849;+11.69131
+LOCATION:Gaisalm\, Am See @ 6213 Pertisau\, Österreich
+SEQUENCE:0
+SUMMARY:Frühschoppen auf der Gaisalm
+URL:http://dev.achensee.com/event/fruehschoppen-auf-der-gaisalm-4-2-2-2/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16254@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik\,TVB
+CONTACT:Achensee Tourismus\; +43(5246)5300-0\; info@achensee.com\; https://
+ www.achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Ob mitreißend 
+ temperamentvoll oder berührend melancholisch\, der stimmgewaltige Auftritt
+  von <strong>Gail Anderson </strong>geht unter die Haut. Dabei besticht si
+ e mit ihrem groovin‘ Style ebenso wie durch ihre musikalische Vielseitigke
+ it in Sachen <strong>Jazz\, Swing\, ‚RnB‘\, Blues\, und Gospel</strong>. S
+ ie interpretiert die Klassiker\,<!--more--> Traditionals auf ihre eigene u
+ nverwechselbare Art. <a href='http://www.gail-anderson.com' target='_blank
+ '>www.gail-anderson.com</a></p>\n<p>Kartenvorverkauf in allen Informations
+ büros der Region Achensee.</p>\n<p> </p></body></html>
+DTSTART;TZID=Europe/Vienna:20150927T190000
+DTEND;TZID=Europe/Vienna:20150927T203000
+LOCATION:Pfarrkirche Pertisau\, Dorfstrasse @ 6213 Pertisau
+SEQUENCE:0
+SUMMARY:Gail Anderson in concert in Pertisau
+URL:http://dev.achensee.com/event/gail-anderson-in-concert-in-pertisau/
+X-COST:VK 12\,-\, AK 17\,-\, freie Platzwahl
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15110@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Theater
+CONTACT:Tourismus Informationsbüro Achenkirch\; +43(5246)5321-0\; achenkirc
+ h@achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Die He
+ imatbühne Achenkirch spielt das Lustspiel von<br>\nBernd Gombold “ Fast wi
+ e früher“ in drei Akten.</strong><br><!--more--></p>\n<p>Kartenvorverkauf 
+ im Informationsbüro Achenkirch: Tel. +43(5246)5321<br>\nAbendkassa: eine S
+ tunde vor Beginn der Vorstellung geöffnet.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20150930T201500
+DTEND;TZID=Europe/Vienna:20150930T223000
+GEO:+47.516667;+11.683333
+LOCATION:Mehrzweckhalle Achenkirch @ 6215 Achenkirch\, Österreich
+SEQUENCE:0
+SUMMARY:Heimatbühne Achenkirch – „Fast wie früher“
+URL:http://dev.achensee.com/event/heimatbuehne-achenkirch-2-3-2/
+X-COST:Erwachsene: EUR 8\,-\, Kinder (15 - 18 Jahre): EUR 4\,- und Gruppen 
+ ab 15 Pers. EUR 5\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12788@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik\,TVB
+CONTACT:Gabi & Adi Rieser\; +43(5243)5166\; info@gramaialm.at\; http://www.
+ gramaialm.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><h2>Volksmusikant
+ en treffen sich jeden 1. Sonntag im Monat zum Bauernsommer in der Gramaial
+ m.</h2>\n<p>Echte Tiroler Volksmusik (8 bis 12 Gruppen)\, echte Tiroler Ko
+ st\, Bauernmarkt\, bäuerliches Handwerk wie Schnitzen\, Korbflechten\, Klö
+ ppeln usw. Weitere <!--more-->Informationen unter +43(5243)5166 oder auf <
+ a href='http://www.gramaialm.at' target='_blank'>www.gramaialm.at</a>.</p>
+ \n<p>Die Veranstaltung findet bei jeder Witterung statt.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20151004T120000
+DTEND;TZID=Europe/Vienna:20151004T160000
+LOCATION:Gramaialm\, Karwendeltäler @ 6213 Pertisau\, Österreich
+RRULE:FREQ=MONTHLY;UNTIL=20151004T235959Z;BYDAY=1SU
+SEQUENCE:0
+SUMMARY:Musikanten „Hoangascht“
+URL:http://dev.achensee.com/event/musikanten-hoangascht-3/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4914@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition\,TVB
+CONTACT:Familie Rieser\; +43(5243)5251\; info@hotel-rieser.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Achenk
+ irch – Messnerhof\, Maurach – Hotel Buchau\, Café Klingler\, Pertisau – Kn
+ appenhof\, Fürstenhaus\, Hotel Rieser\, Marxenhof\, Mautstelle zum heimatl
+ ichen Stall.</strong></p>\n<p>Aufbüscheln in Achenkirch beim Messnerhof in
+  Achenkirch\, Hnr. 209<strong><br></strong><br><strong>Abmarsch</strong> u
+ m ca. 10.00 Uhr\, Ankunft um ca. 12.00 Uhr beim Hotel Buchau (Mittagsrast)
+ \, dann wieder Abmarsch um 12.30 Uhr\, vorbei am Café Klingler. Weiter geh
+ t es in Richtung Pertisau\, vorbei am Knappenhof\, vorbei am Hotel Fürsten
+ haus\, Ankunft Hotel Rieser ca.14.00 Uhr.</p>\n<p>Ab ca. 12.00 Uhr Musik u
+ nd Stimmung beim Hotel Rieser. Für Speis und Trank ist natürlich bestens g
+ esorgt!</p>\n<p>Nähere Informationen auf: <a href='http://www.hotel-rieser
+ .com' target='_blank'>www.hotel-rieser.com</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20151007T100000
+DTEND;TZID=Europe/Vienna:20151007T170000
+GEO:+47.516312;+11.706926
+LOCATION:Messnerhof\, Achenkirch 209 @ 6215 Achenkirch\, Österreich
+SEQUENCE:0
+SUMMARY:Almabtrieb mit Hoamfohrafestl beim Rieser
+URL:http://dev.achensee.com/event/almabtrieb-mit-hoamfohrafestl-beim-rieser
+ /
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12823@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:TVB\,Vorführungen
+CONTACT:Achensee Schiffahrt\; +43(5243)5253-0\; info@tirol-schiffahrt.at \;
+  http://www.tirol-schiffahrt.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p align='LEFT'>E
+ in Abend voller <strong>Zauberei und Mysterien</strong> mit dem<strong> Il
+ lusionisten Philipp Oberlohr.</strong> Boarding in Pertisau um 19.30 Uhr.<
+ /p>\n<p align='LEFT'>Reservierungen und weitere Informationen online unter
+  <a href='http://www.tirol-schiffahrt.at' target='_blank'>www.tirol-schiff
+ ahrt.at</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20151007T193000
+DTEND;TZID=Europe/Vienna:20151007T220000
+LOCATION:Achenseeschiff am Achensee @ 6213 Pertisau\, Österreich
+SEQUENCE:0
+SUMMARY:Illusionen und Zauberei auf der MS Stadt Innsbruck
+URL:http://dev.achensee.com/event/illusionen-und-zauberei-auf-der-ms-stadt-
+ innsbruck-2-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5515@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Tanz\,TVB
+CONTACT:Gabi & Adi Rieser\; +43(5243)5166\; info@gramaialm.at\; http://gram
+ aialm.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Hausball und A
+ lmgaudi! Das Team freut sich auf einen außergewöhnlichen Abend!</p>\n<p>We
+ itere Informationen erhalten Sie bei der Gramaialm oder auf <a href='http:
+ //www.gramaialm.at' target='_blank'>www.gramaialm.at</a>.</p></body></html
+ >
+DTSTART;TZID=Europe/Vienna:20151009T190000
+DTEND;TZID=Europe/Vienna:20151010T010000
+GEO:+47.43849;+11.69131
+LOCATION:Gramaialm\, Karwendeltäler\, Hnr. 23a @ 6213 Pertisau\, Österreich
+SEQUENCE:0
+SUMMARY:Gramaier Almgaudi und Hausball
+URL:http://dev.achensee.com/event/gramaier-almgaudi-und-hausball/
+X-COST:EUR 7\,- pro Person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7817@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition
+CONTACT:Wintersportverein Wiesing\, Thomas Reiter\; +43(664)1488484\; wsvw@
+ aon.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Ab 19.00 Uhr s
+ orgen „Die runden Oberkrainer“ für tolle Stimmung.<br><span style='line-he
+ ight: 1.5'>Gaudi: Weinlaube\, Weizenbar\, Festbar\, Oktoberfest-Tische für
+  8 Personen</span></p>\n<p>Vorverkaufs-Karten sind bei den WSV-Funktionäre
+ n und im Infobüro Wiesing erhältlich.</p>\n<p>Auf zahlreichen Besuch freut
+  sich der Wintersportverein Wiesing.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20151017T180000
+DTEND;TZID=Europe/Vienna:20151018T020000
+GEO:+47.404313;+11.797878
+LOCATION:Gemeindesaal Wiesing @ Dorf 19\, 6210 Wiesing\, Österreich
+SEQUENCE:0
+SUMMARY:Oktoberfest  in Wiesing
+URL:http://dev.achensee.com/event/oktoberfest-wiesing-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4764@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Tanz\,TVB
+CONTACT:Obmann Alois Rupprechter\; +43(5243)5206\; info@hotelkarlwirt.at\; 
+ http://www.hotelkarlwirt.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Als Be
+ kleidung ist Tracht – Dirndl und Lederhose – sehr erwünscht.</strong></p>
+ \n<p>Auf Ihr Kommen freut sich die Schützenkompanie Pertisau.</p>\n<p>Tisc
+ hreservierung und weitere Informationen im Hotel Karlwirt unter +43(5243)5
+ 206 oder 5864</p></body></html>
+DTSTART;TZID=Europe/Vienna:20151017T203000
+DTEND;TZID=Europe/Vienna:20151018T013000
+GEO:+47.43849;+11.69131
+LOCATION:Langlaufstüberl\, Eingang Karwendeltäler @ 6213 Pertisau\, Österre
+ ich
+SEQUENCE:0
+SUMMARY:Trachtenball der Schützenkompanie Pertisau
+URL:http://dev.achensee.com/event/schuetzenball-der-schuetzenkompanie-perti
+ sau/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5871@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition
+CONTACT:Heimatmuseum Achental\; +43(5246)6508\; info@sixenhof.at\; http://w
+ ww.sixenhof.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Ein we
+ iteres Highlight des Herbstes am Achensee findet im Sixenhof statt.</stron
+ g></p>\n<p>Dann werden beim Heimatmuseum im Sixenhof den Besuchern frühere
+  Lebensarten und die damalige Arbeitswelt im <strong>originalgetreuen Tiro
+ ler Einhof</strong> näher gebracht. <!--more-->Von der Weberei bis hin zum
+  Patschenmachen („Toggln“) erlebt man beim Achentaler Kirchtag Vorführunge
+ n der besonderen Art: In der alten Rauchkuchl wird sogar aufgekocht und di
+ e Gäste können sich über besondere Achentaler Kiachl und weitere Spezialit
+ äten freuen.<br>\nMusikalische Unterhaltung und Kinderanimation lassen die
+ ses Heimat-Brauchtumsfest garantiert zu einem Vergnügen für die ganze Fami
+ lie werden.</p>\n<p>Der Achentaler Kirchtag findet bei jeder Witterung sta
+ tt.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20151018T110000
+DTEND;TZID=Europe/Vienna:20151018T170000
+GEO:+47.516667;+11.683333
+LOCATION:Heimatmuseum Sixenhof\, Am See\, Hnr. 29 @ 6215 Achenkirch\, Öster
+ reich
+SEQUENCE:0
+SUMMARY:Achentaler Kirchtag
+URL:http://dev.achensee.com/event/achentaler-kirchtag/
+X-COST:Freiwillige Spenden.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4545@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Kultur &amp\; Tradition\,TVB
+CONTACT:Achenseebahn AG\; +43(5244)62243\; info@achenseebahn.at\; http://ac
+ henseebahn.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>16.00 
+ Uhr: Abfahrt vom Bahnhof Seespitz</strong> am Achensee mit den geschmückte
+ n Zügen<!--more--> nach Jenbach zum Remisenfest. Musikalisch und kulinaris
+ ch klingt somit die Saison 2015 aus.</p>\n<p>Ankunft um ca. 17.00 Uhr am B
+ ahnhof Jenbach zum Remisenfest in der Halle der Achenseebahn.</p>\n<p>Weit
+ ere Informationen unter: <a href='http://www.achenseebahn.at' target='_bla
+ nk'>www.achenseebahn.at</a> und <a href='http://www.tirol-schiffahrt.at' t
+ arget='_blank'>www.tirol-schiffahrt.at</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20151031T160000
+DTEND;TZID=Europe/Vienna:20151031T233000
+LOCATION:Remise und Heizhaus der Achenseebahn AG @ Bahnhofstraße 1\, 6200 J
+ enbach\, Österreich
+SEQUENCE:0
+SUMMARY:Saisonabschlussfahrt der Achenseebahn mit Remisenfest
+URL:http://dev.achensee.com/event/saisonabschlussfahrt-der-achenseebahn-mit
+ -remisenfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12890@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Advent\,TVB
+CONTACT:Heimatmuseum Sixenhof\; +43(664)73078281\; info@sixenhof.at\; http:
+ //sixenhof.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Lebensgroße Fi
+ guren und lebende Tiere machen die Bergweihnacht im jahrhundertealten Stal
+ l des Sixenhofes zur lebendigen Geschichtsstunde. <!--more-->25 Minuten la
+ ng erzählt eine angenehme sonore Stimme die alpenländische Version von der
+  Geburt Christi.<br>\nKulinarische Heimatverbundenheit genießt der Besuche
+ r aus der alten Rauchküche des Tiroler Einhofes: Zelten und selbstgebacken
+ es Bauernbrot lassen die Geschichte auf der Zunge zergehen. Die Eintrittsk
+ arte zur Bergweihnacht schließt auch die Türen zu 14 Schauräumen des Heima
+ tmuseums auf. Hinter einer verbirgt sich die einstige Kammer der Bauersleu
+ te mit einem traditionell geschmückten Christbaum und eine der ältesten Kr
+ ippen des Achentales.</p>\n<p>Letzte Vorführung 16.30 Uhr.<br>\nWichtig: F
+ ür Gruppen ab 20 Personen wird zu jeder Zeit geöffnet. Eine vorherige Rese
+ rvierung per Fax oder E-Mail ist erforderlich.</p>\n<p><a href='http://www
+ .sixenhof.at/main_winter.html' target='_blank'>Hier finden Sie weitere Det
+ ails zur Tiroler Bergweihnacht.</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20151121T130000
+DTEND;TZID=Europe/Vienna:20151121T170000
+GEO:+47.516667;+11.683333
+LOCATION:Heimatmuseum Sixenhof\, Hr. 29 @ 6215 Achenkirch\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151224T235959Z;BYDAY=SU,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Tiroler Bergweihnacht
+URL:http://dev.achensee.com/event/tiroler-bergweihnacht-2-2/
+X-COST:Erwachsene EUR 5\,50. Kinder bis 6 Jahre frei\, bis 15 Jahre EUR 2\,
+ 50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6763@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Advent\,TVB
+CONTACT:Achenseeschiffahrt\; +43(5243)5253-0\; info@tirol-schiffahrt.at\; h
+ ttp://www.tirol-schiffahrt.at/achenseeschiffahrt/veranstaltungen/detailans
+ icht/seeweihnacht-am-achensee-1.html
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2012/08/seeweihnacht_winter-640x360
+ .jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC '-//W3C//DTD 
+ HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/loose.dtd'>\n<
+ html><body><p>Die <strong>Achenseeschiffahrt</strong> lädt zur vorweihnach
+ tlichen <strong>Rundfahrt über den Achensee</strong> ein. In Pertisau legt
+  das Schiff am ersten Adventsamstag ab und fährt zunächst einen von insges
+ amt vier romantisch beleuchteten Stegen an.<!--more--></p>\n<p>Jedes Woche
+ nende steuert der Dampfer „Stadt Innsbruck“ einen weiteren Steg an\, der b
+ ei Ankunft im Glanz des Weihnachtssterns erstrahlt. An Deck schlendert man
+  genüsslich über den <strong>kleinen Weihnachtsmarkt</strong>\, der mit vi
+ elen weihnachtlichen Köstlichkeiten\, Handgemachtem und heißem Glühwein lo
+ ckt und genießt den Blick auf den winterlichen Achensee.</p>\n<p>Die Achen
+ see Seeweihnacht legt an den vier Adventsamstagen und Adventsonntagen in P
+ ertisau ab und steuert nacheinander die Stege Buchau\, Pertisau\, Gaisalm 
+ und Scholastika in Achenkirch an.</p>\n<p><strong>Schiffabfahrtszeiten ab 
+ und an Pertisau:</strong></p>\n<p>Freitag: 16.00 Uhr\, 18.30 Uhr & auf Anf
+ rage<br>\nSamstag & Sonntag: 13.30 Uhr\, 16.00 Uhr\, 18.30 Uhr<br><strong>
+ Ankunft</strong> an der Schiffanlegestelle in Pertisau um jeweils 15.30 Uh
+ r\, 18.00 Uhr und 20.30 Uhr</p></body></html>
+DTSTART;TZID=Europe/Vienna:20151128T133000
+DTEND;TZID=Europe/Vienna:20151128T180000
+GEO:+47.43849;+11.69131
+LOCATION:Auf dem Achensee @ 6213 Pertisau\, Österreich
+RRULE:FREQ=WEEKLY;UNTIL=20151220T235959Z;BYDAY=SU,FR,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Seeweihnacht am Achensee
+URL:http://dev.achensee.com/event/seeweihnacht-am-achensee-2/
+X-COST:EUR 21\,- pro Person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6891@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Advent
+CONTACT:Tourismus Information Achenkirch\; +43(5246)5321\; achenkirch@achen
+ see.com\; https://achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><strong>Das kl
+ eine verträumte Bergdorf Steinberg am Rofan hat sich für die besinnliche A
+ dventzeit etwas Besonderes einfallen lassen.</strong></p>\n<p>24 Häuser ha
+ ben sich zu einem lebendigen Dorf-Adventkalender zusammengeschlossen.<!--m
+ ore--></p>\n<p>Pünktlich am 1. Dezember erstrahlt das erste liebevoll gesc
+ hmückte Adventhaus im Dorf. Bis zum 24. Dezember wächst der Kalender Tag f
+ ür Tag\, jeweils mit einem neuen beleuchteten Haus.</p>\n<p>Die Häuser lie
+ gen am beleuchteten Winterwanderweg\, der sich durch das romantisch abgesc
+ hiedene Dorf mit seinen 302 Einwohnern zieht.</p>\n<p>Am Weihnachtstag\, 2
+ 4. Dezember\, steht die Krippe zur Bewunderung für Groß und Klein beim Ein
+ gang vor der Volksschule bereit.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20151201T170000
+DTEND;TZID=Europe/Vienna:20151201T180000
+LOCATION:24 Häuser in Steinberg am Rofan @ 6215 Steinberg am Rofan\, Österr
+ eich
+RRULE:FREQ=DAILY;UNTIL=20151224T235959Z
+SEQUENCE:0
+SUMMARY:Adventzauber in Steinberg am Rofan
+URL:http://dev.achensee.com/event/adventzauber-in-steinberg-am-rofan/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6882@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Advent
+CONTACT:Achensee Schiffahrt\; +43(5243)5253-0\; info@tirol-schiffahrt.at\; 
+ http://www.tirol-schiffahrt.at
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2014/11/sw3-640x360.jpg' width='480
+ ' height='270' /></div><!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transit
+ ional//EN' 'http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p><s
+ trong>Der Achensee Nikolaus kommt!</strong></p>\n<p>Um 17.00 Uhr legt das 
+ Schiff in Pertisau ab\, Schiffsankunft des Hl. Nikolaus mit seinem Gefolge
+  um ca. 17.30 Uhr beim Steg Buchau. Anschließend Fackelwanderung zur Achen
+ seer Museumswelt. Für das leibliche Wohl ist bestens gesorgt.</p>\n<p> </p
+ ></body></html>
+DTSTART;TZID=Europe/Vienna:20151203T170000
+DTEND;TZID=Europe/Vienna:20151203T200000
+LOCATION:Achenseer Museumswelt\, Museumsweg 3-9 @ 6212 Maurach\, Österreich
+SEQUENCE:0
+SUMMARY:Achensee Nikolaus
+URL:http://dev.achensee.com/event/achensee-nikolaus/
+X-COST:Eintritt frei.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6887@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Advent
+CONTACT:Erwin Unterkircher\; +43(664)1026424\; info@achenseer-museumswelt.a
+ t\; http://www.achenseer-museumswelt.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Das Team der A
+ chenseer Museumswelt lädt zur besinnlichen Weihnacht und gemütlichen Beisa
+ mmen sein ein.<br>\nDie <strong>Highlights der Museumsweihnacht:<!--more--
+ ></strong></p>\n<ul><li>Sonderausstellung „Erfinder Peter Stöckl“</li>\n<l
+ i>Fertigstellung der „Kinderwunderwelt“</li>\n<li>Buntes Kinderprogramm mi
+ t Kekse backen</li>\n<li>Heimische Schmankerln</li>\n<li>Weihnachtsmarkt</
+ li>\n<li>Weisenbläser Gebrüder Sponring & Duo Hoamatgsang</li>\n<li>Heimis
+ che Handwerkskunst</li>\n</ul><p>Auf Ihr Kommen freut sich das Museumsteam
+ !<br>\nWeitere Informationen auf <a href='http://www.achenseer-museumswelt
+ .at' target='_blank'>www.achenseer-museumswelt.at</a></p>\n<p> </p></body>
+ </html>
+DTSTART;TZID=Europe/Vienna:20151208T120000
+DTEND;TZID=Europe/Vienna:20151208T190000
+GEO:+47.42321;+11.75292
+LOCATION:Achenseer Museumswelt\, Museumsweg 8 @ 6212 Maurach\, Österreich
+SEQUENCE:0
+SUMMARY:Museumsweihnacht
+URL:http://dev.achensee.com/event/museumsweihnacht-in-der-achenseer-museums
+ welt/
+X-COST:Eintritt frei. Freiwillige Spenden sind erwünscht.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15599@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Advent\,TVB
+CONTACT:Achenseeschiffahrt\; +43(5243)5253-0\; info@tirol-schiffahrt.at\; h
+ ttp://www.tirol-schiffahrt.at/achenseeschiffahrt/veranstaltungen/detailans
+ icht/seeweihnacht-am-achensee-1.html
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2012/08/seeweihnacht_winter-640x360
+ .jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC '-//W3C//DTD 
+ HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/loose.dtd'>\n<
+ html><body><p>Die <strong>Achenseeschiffahrt</strong> lädt zur vorweihnach
+ tlichen <strong>Rundfahrt über den Achensee</strong> ein. In Pertisau legt
+  das Schiff am ersten Adventsamstag ab und fährt zunächst einen von insges
+ amt vier romantisch beleuchteten Stegen an.<!--more--></p>\n<p>Jedes Woche
+ nende steuert der Dampfer „Stadt Innsbruck“ einen weiteren Steg an\, der b
+ ei Ankunft im Glanz des Weihnachtssterns erstrahlt. An Deck schlendert man
+  genüsslich über den <strong>kleinen Weihnachtsmarkt</strong>\, der mit vi
+ elen weihnachtlichen Köstlichkeiten\, Handgemachtem und heißem Glühwein lo
+ ckt und genießt den Blick auf den winterlichen Achensee.</p>\n<p>Die Achen
+ see Seeweihnacht legt an den vier Adventsamstagen und Adventsonntagen in P
+ ertisau ab und steuert nacheinander die Stege Buchau\, Pertisau\, Gaisalm 
+ und Scholastika in Achenkirch an.</p>\n<p><strong>Schiffabfahrtszeiten ab 
+ und an Pertisau:</strong></p>\n<p>Freitag: 16.00 Uhr\, 18.30 Uhr & auf Anf
+ rage<br>\nSamstag & Sonntag: 13.30 Uhr\, 16.00 Uhr\, 18.30 Uhr<br><strong>
+ Ankunft</strong> an der Schiffanlegestelle in Pertisau um jeweils 15.30 Uh
+ r\, 18.00 Uhr und 20.30 Uhr</p></body></html>
+DTSTART;TZID=Europe/Vienna:20151208T133000
+DTEND;TZID=Europe/Vienna:20151208T180000
+GEO:+47.43849;+11.69131
+LOCATION:Auf dem Achensee @ 6213 Pertisau\, Österreich
+SEQUENCE:0
+SUMMARY:Seeweihnacht am Achensee
+URL:http://dev.achensee.com/event/seeweihnacht-am-achensee-2-2/
+X-COST:EUR 21\,- pro Person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11134@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Langlaufen\,TVB
+CONTACT:Sport Busslehner\; +43(676)847849100\; christian@busslehner-sports.
+ com\; https://www.achensee.com/wp-content/uploads/2015/08/Flyer_Langlauf-O
+ pening_Achensee.pdf
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Beim Alpen Car
+ avan Park Achensee in Achenkirch erwarten Teilnehmer Technik-Kurse und Wor
+ kshops für Anfänger und Fortgeschrittene sowie große Materialtests. Beim G
+ audi-Biathlon kann man anschließend sein Können unter Beweis stellen.</p>
+ \n<p><a href='https://devtouch.achensee.com/wp-content/uploads/2015/08/Fly
+ er_Langlauf-Opening_Achensee.pdf' target='_blank'>Hier geht’s zum Langlauf
+ -Opening Folder.</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20151220T090000
+DTEND;TZID=Europe/Vienna:20151220T160000
+GEO:+47.499636;+11.70552
+LOCATION:Camping Alpen Caravan Park\, beim Loipeneinstieg @ 6215 Achenkirch
+ \, Österreich
+SEQUENCE:0
+SUMMARY:Langlauf Opening
+URL:http://dev.achensee.com/event/langlauf-opening/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5495@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Advent\,TVB
+CONTACT:Heimatmuseum Sixenhof\; +43(664)73078281\; info@sixenhof.at\; http:
+ //sixenhof.at/main_winter.html
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Lebensgroße Fi
+ guren und lebende Tiere machen die Bergweihnacht im jahrhundertealten Stal
+ l des Sixenhofes zur lebendigen Geschichtsstunde. <!--more-->25 Minuten la
+ ng erzählt eine angenehme sonore Stimme die alpenländische Version von der
+  Geburt Christi.<br>\nKulinarische Heimatverbundenheit genießt der Besuche
+ r aus der alten Rauchküche des Tiroler Einhofes: Zelten und selbstgebacken
+ es Bauernbrot lassen die Geschichte auf der Zunge zergehen. Die Eintrittsk
+ arte zur Bergweihnacht schließt auch die Türen zu 14 Schauräumen des Heima
+ tmuseums auf. Hinter einer verbirgt sich die einstige Kammer der Bauersleu
+ te mit einem traditionell geschmückten Christbaum und eine der ältesten Kr
+ ippen des Achentales.</p>\n<p>Letzte Vorführung 16.30 Uhr.<br>\nWichtig: F
+ ür Gruppen ab 20 Personen wird zu jeder Zeit geöffnet. Eine vorherige Rese
+ rvierung per Fax oder E-Mail ist erforderlich.</p>\n<p><a href='http://www
+ .sixenhof.at/main_winter.html' target='_blank'>Hier finden Sie weitere Det
+ ails zur Tiroler Bergweihnacht.</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20151224T130000
+DTEND;TZID=Europe/Vienna:20151224T170000
+GEO:+47.516667;+11.683333
+LOCATION:Heimatmuseum Sixenhof\, Hr. 29 @ 6215 Achenkirch\, Österreich
+RRULE:FREQ=DAILY;UNTIL=20151227T235959Z
+SEQUENCE:0
+SUMMARY:Tiroler Bergweihnacht
+URL:http://dev.achensee.com/event/tiroler-bergweihnacht-2/
+X-COST:Erwachsene EUR 5\,50. Kinder bis 6 Jahre frei\, bis 15 Jahre EUR 2\,
+ 50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3966@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Party
+CONTACT:Festgemeinschaft Vorsilvester\, Herr Gottfried Prantl\; +43(676)550
+ 6632\; info@feldererhof.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Echte Tiroler 
+ Spezialitäten (Zillertaler Krapfen\, Kaspressknödel und Fleischkäse) werde
+ n von den Vereinen und Wirten angeboten.</p>\n<p>Großes Feuerwerk um ca. 2
+ 3.00 Uhr.</p>\n<p><em>Info: am ganzen Partygelände besteht Knaller- und Ra
+ ketenverbot.</em></p></body></html>
+DTSTART;TZID=Europe/Vienna:20151229T190000
+DTEND;TZID=Europe/Vienna:20151230T010000
+LOCATION:Ortszentrum Maurach\, Dorfstraße @ 6212 Maurach\, Österreich
+SEQUENCE:0
+SUMMARY:Vorsilvester Party in Maurach
+URL:http://dev.achensee.com/event/vorsilvester-party-in-maurach/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3311@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Fun\,TVB
+CONTACT:Achensee Tourismus\; +43(5246)5300-0\; info@achensee.com\; http://a
+ chensee.com/events/winter-events/silvesterschwimmen/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2011/07/silvesterschwimmen-tirol-ac
+ hensee-640x360.jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC
+  '-//W3C//DTD HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/
+ loose.dtd'>\n<html><body><p>Verrückt und doch schon traditionell – den Zus
+ chauern ist beim Silvesterschwimmen eines klar: Jeder\, der hier mitmacht\
+ , muss eine große Portion Verrücktheit mitbringen\, um bei vier Grad Wasse
+ rtemperatur in den eiskalten Achensee<!--more--> zu springen und dann 50 M
+ eter Schwimmstrecke zurückzulegen.</p>\n<p><strong>Programm:</strong><br>
+ \nAnmeldung bis 30. Dezember beim Tourismusverband Achensee<br>\n12.00 Uhr
+ : Vorprogramm<br>\n12.30 Uhr: Silvesterschwimmen – Kategorie Sport<br>\n13
+ .30 Uhr: Silvesterschwimmen – Kategorie Fun<br>\nca. 14.30 Uhr: Preisverte
+ ilung<br><a title='Silvesterschwimmen' href='https://devtouch.achensee.com
+ /events/winter-events/silvesterschwimmen/'>Mehr Details zum Silvesterschwi
+ mmen</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20151231T123000
+DTEND;TZID=Europe/Vienna:20151231T160000
+GEO:+47.43849;+11.69131
+LOCATION:Achensee - Gegenüber Hotel Post am See @ 6213 Pertisau\, Österreic
+ h
+SEQUENCE:0
+SUMMARY:Silvesterschwimmen
+URL:http://dev.achensee.com/event/silvesterschwimmen/
+X-COST:Nenngeld EUR 15\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3520@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Skibergsteigen\,TVB
+CONTACT:Wintersportverein Jenbach\, Obmann Josef Moser jun. \; +43(664)8083
+ 32499\; josef1.moser@ge.com\; http://www.wsv-jenbach.at
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2011/12/rofan-nachtaufstieg-zielein
+ lauf-640x360.jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC '
+ -//W3C//DTD HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/lo
+ ose.dtd'>\n<html><body><p>„Auf die Felle\, fertig\, los“ – heißt es am 8. 
+ Januar 2016 beim „Rofan Nachtaufstieg“. Rund 200 Extremsportler und ambiti
+ onierte Freizeitaktivisten treffen sich unter der Rofanseilbahn und wagen 
+ nach einem gemeinsamen Massenstart den rasanten nächtlichen Aufstieg von 1
+ 000 Höhenmetern auf einer Strecke von 6 Kilometern. Mitmachen kann jeder\,
+  der sich fit genug fühlt und über eine Stirnlampe verfügt.<br>\nStart ist
+  um 19.00 Uhr an der Talstation der Rofanseilbahn\, Parkplatz 2.</p>\n<p>M
+ ehr Infos zum Rennen auf <a href='http://www.wsv-jenbach.at' target='_blan
+ k'>www.wsv-jenbach.at</a></p></body></html>
+DTSTART;TZID=Europe/Vienna:20160108T190000
+DTEND;TZID=Europe/Vienna:20160108T230000
+GEO:+47.425794;+11.752244
+LOCATION:Start: Talstation Rofanseilbahn\, Parkplatz 2 @ 6212 Maurach\, Öst
+ erreich
+SEQUENCE:0
+SUMMARY:Rofan Nachtaufstieg
+URL:http://dev.achensee.com/event/rofan-nachtaufstieg/
+X-COST:Startgeld pro Person: auf Anfrage
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3568@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Musik\,Tanz\,TVB
+CONTACT:Simon Hintenegger\, Obmann Landjugend Wiesing\; +43(676)6111413\; w
+ iesing@achensee.com
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Die Landjugend
+  Wiesing veranstaltet den alljährlichen Ball mit großer Tombola und die</p
+ >\n<p>„ZIGA MANDA“ sorgen für tolle Stimmung.</p>\n<p> </p></body></html>
+DTSTART;TZID=Europe/Vienna:20160116T203000
+DTEND;TZID=Europe/Vienna:20160117T010000
+GEO:+47.404313;+11.797878
+LOCATION:Gemeindesaal Wiesing @ Dorf 19\, 6210 Wiesing\, Österreich
+SEQUENCE:0
+SUMMARY:Ball der Landjugend Wiesing
+URL:http://dev.achensee.com/event/ball-der-landjugend-wiesing/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3527@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Fasching
+CONTACT:Renate Rupprechter\; info@hotelkarlwirt.at\; +43(5243)5846\; http:/
+ /www.hotelkarlwirt.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Große Maskenpr
+ ämierung.</p>\n<p>Um Tischreservierungen unter angeführter Telefonnummer w
+ ird gebeten.</p></body></html>
+DTSTART;TZID=Europe/Vienna:20160208T210000
+DTEND;TZID=Europe/Vienna:20160209T010000
+LOCATION:Langlaufstüberl\, gegenüber Mautstelle @ 6213 Pertisau\, Österreic
+ h
+SEQUENCE:0
+SUMMARY:Rosenmontagsgaudi
+URL:http://dev.achensee.com/event/rosenmontagsgaudi/
+X-COST:Eintritt EUR 10\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15806@www.achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Golf
+CONTACT:Golf- und  Landclub Achensee\; +43(5243)5377\; info@golfclub-achens
+ ee.at\; http://golfclub-achensee.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Nähere Informa
+ tionen auf: <a href='http://www.rotary-golf.at' target='_blank'>www.rotary
+ -golf.at</a></p>\n<p> </p></body></html>
+DTSTART;TZID=Europe/Vienna:20160526T100000
+DTEND;TZID=Europe/Vienna:20160526T130000
+LOCATION:Golf- und Landclub Achensee @ 6213 Pertisau
+RRULE:FREQ=DAILY;UNTIL=20160528T235959Z
+SEQUENCE:0
+SUMMARY:Rotary Golf Austria am Achensee
+URL:http://dev.achensee.com/event/rotary-golf-austria-am-achensee/
+X-COST:EUR 20\,- pro Person (Getränke extra)
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4363@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Rennrad\,TVB
+CONTACT:ARGE PRO JUNIOR TEAM TIROL\, Walter Egger\; +43(664)1311154\; egger
+ w@gmail.com\; http://achensee-radmarathon.at
+DESCRIPTION:<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' '
+ http://www.w3.org/TR/REC-html40/loose.dtd'>\n<html><body><p>Keine 10\, auc
+ h keine 42\, sondern über 166 Kilometer im Sattel eines Rennrades und das 
+ in weniger als vier Stunden … wer\, wann\, wo?</p>\n<p>Am Sonntag\, den<st
+ rong> 29. Mai 2016</strong> werden dies Radsportfans unter Beweis stellen.
+ <br><strong><a href='http://www.achensee-radmarathon.at/' target='_blank'>
+ <!--more--></a></strong>Der Achensee-Radmarathon – Rund ums Karwendel war 
+ vor 20 Jahren noch bekannt als Karwendelrundfahrt. Dieser echte Klassiker 
+ führt vom <strong>Startpunkt</strong> in <strong>Achenkirch am Achensee</s
+ trong> über Wiesing\, nach Innsbruck und weiter nach Scharnitz. Von dort g
+ eht die Runde retour über das Wallgau\, die Vorderriß und den Sylvensteins
+ ee an den Achensee. Es gilt <strong>166 Kilometer</strong> und <strong>1.4
+ 70 Höhenmeter</strong> zu bewältigen. Änderungen vorbehalten.</p>\n<p>Einz
+ elstart ab 07.00 Uhr – Massenstart um 07.45 Uhr</p>\n<p>Alle Informationen
+  und Details zum Achensee-Radmarathon auf<strong> </strong><strong><a href
+ ='http://www.achensee-radmarathon.at/' target='_blank'>www.achensee-radmar
+ athon.at</a></strong></p></body></html>
+DTSTART;TZID=Europe/Vienna:20160529T070000
+DTEND;TZID=Europe/Vienna:20160529T160000
+LOCATION:Start: Alpen Caravan Park Achensee @ 6215 Achenkirch\, Österreich
+SEQUENCE:0
+SUMMARY:Achensee-Radmarathon
+URL:http://dev.achensee.com/event/achensee-radmarathon/
+X-COST:Nenngeld ab EUR 55\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3887@achensee.com
+DTSTAMP:20150920T002128Z
+CATEGORIES;LANGUAGE=de-DE:Wandern\,TVB
+CONTACT:Achensee Tourismus und 'Columbia 24 H Wanderlust' \; +43(5246)5300-
+ 0\; info@achensee.com\; http://columbia-24h-wanderlust.de
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://dev.achensee.com/wp-content/uploads/2015/09/wandern-im-rofan-ausblick-4
+ 80x270.jpg' width='480' height='270' /></div><!DOCTYPE html PUBLIC '-//W3C
+ //DTD HTML 4.0 Transitional//EN' 'http://www.w3.org/TR/REC-html40/loose.dt
+ d'>\n<html><body><h2>80 KILOMETER | 2.000 HÖHENMETER | 24 STUNDEN</h2>\n<p
+ >Insgesamt 80 Kilometer und in etwa 2000 Höhenmeter im Anstieg stehen auf 
+ dem Programm. Am 18. Juni 2016 fällt um 12.00 Uhr der Startschuss für die 
+ maximal 333 Teilnehmer in Achenkirch. Jeder\, der gut zu Fuß ist und immer
+  schon einmal seine Grenzen ausloten wollte\, ist genau richtig bei der Co
+ lumbia 24 H Wanderlust.<br><!--more--></p>\n<p><a href='http://columbia-24
+ h-wanderlust.de'>Hier geht’s zu den weiteren Infos.</a></p></body></html>
+DTSTART;VALUE=DATE:20160618
+DTEND;VALUE=DATE:20160619
+GEO:+47.527535;+11.707322
+LOCATION:Mehrzweckhalle Achenkirch @ 6215 Achenkirch\, Österreich
+SEQUENCE:0
+SUMMARY:Columbia 24 H Wanderlust
+URL:http://dev.achensee.com/event/columbia-24-h-wanderlust/
+X-COST:Nenngeld bis 30.09.2015 nur EUR 60\,-. Anschließend EUR 75\,- pro Pe
+ rson.
+END:VEVENT
+END:VCALENDAR

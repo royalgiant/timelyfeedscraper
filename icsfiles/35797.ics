@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.47.225//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://troop10columbia.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-162@troop10columbia.com
+DTSTAMP:20150920T002157Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://troop10columbia.com/wp-content/uploads/2015/
+ 04/TEnt.jpg'><img class='alignnone size-medium wp-image-163' src='http://t
+ roop10columbia.com/wp-content/uploads/2015/04/TEnt-300x201.jpg' alt='TEnt'
+  width='300' height='201' /></a></p>\n<div class='sharedaddy sd-sharing-en
+ abled'><div class='robots-nocontent sd-block sd-social sd-social-icon-text
+  sd-sharing'><h3 class='sd-title'>Share this:</h3><div class='sd-content'>
+ <ul><li class='share-facebook'><a rel='nofollow' data-shared='sharing-face
+ book-6' class='share-facebook sd-button share-icon' href='http://troop10co
+ lumbia.com/?share=facebook' target='_blank' title='Share on Facebook'><spa
+ n>Facebook</span></a></li><li class='share-twitter'><a rel='nofollow' data
+ -shared='sharing-twitter-6' class='share-twitter sd-button share-icon' hre
+ f='http://troop10columbia.com/?share=twitter' target='_blank' title='Click
+  to share on Twitter'><span>Twitter</span></a></li><li class='share-email'
+ ><a rel='nofollow' data-shared='' class='share-email sd-button share-icon'
+  href='http://troop10columbia.com/?share=email' target='_blank' title='Cli
+ ck to email this to a friend'><span>Email</span></a></li><li class='share-
+ print'><a rel='nofollow' data-shared='' class='share-print sd-button share
+ -icon' href='http://troop10columbia.com/#print' target='_blank' title='Cli
+ ck to print'><span>Print</span></a></li><li class='share-end'></li></ul></
+ div></div></div>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151005
+GEO:+33.914802;-80.803156
+LOCATION:McEntire Air Base @ McEntire JNGB (MMT)\, Hopkins\, SC 29061\, USA
+SEQUENCE:0
+SUMMARY:Council Camporee
+URL:http://troop10columbia.com/event/council-camporee/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-151@troop10columbia.com
+DTSTAMP:20150920T002157Z
+CATEGORIES;LANGUAGE=en-US:Regular Meetings
+CONTACT:
+DESCRIPTION:<p><a href='http://troop10columbia.com/wp-content/uploads/2015/
+ 03/Troop-10-graphic-10-only1.png'><img class='alignnone wp-image-21' src='
+ http://troop10columbia.com/wp-content/uploads/2015/03/Troop-10-graphic-10-
+ only1.png' alt='Troop 10 graphic (10 only)' width='45' height='39' /></a><
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-6' class='share-facebook sd-
+ button share-icon' href='http://troop10columbia.com/?share=facebook' targe
+ t='_blank' title='Share on Facebook'><span>Facebook</span></a></li><li cla
+ ss='share-twitter'><a rel='nofollow' data-shared='sharing-twitter-6' class
+ ='share-twitter sd-button share-icon' href='http://troop10columbia.com/?sh
+ are=twitter' target='_blank' title='Click to share on Twitter'><span>Twitt
+ er</span></a></li><li class='share-email'><a rel='nofollow' data-shared=''
+  class='share-email sd-button share-icon' href='http://troop10columbia.com
+ /?share=email' target='_blank' title='Click to email this to a friend'><sp
+ an>Email</span></a></li><li class='share-print'><a rel='nofollow' data-sha
+ red='' class='share-print sd-button share-icon' href='http://troop10columb
+ ia.com/#print' target='_blank' title='Click to print'><span>Print</span></
+ a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20150928T190000
+DTEND;TZID=America/New_York:20150928T201500
+GEO:+34.008449;-80.99479
+LOCATION:Eastminster Presbyterian Church @ 3200 Trenholm Road\, Columbia\, 
+ SC 29204\, USA
+SEQUENCE:0
+SUMMARY:Regular Meeting
+URL:http://troop10columbia.com/event/regular-meeting-6-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-150@troop10columbia.com
+DTSTAMP:20150920T002157Z
+CATEGORIES;LANGUAGE=en-US:Regular Meetings
+CONTACT:
+DESCRIPTION:<p><a href='http://troop10columbia.com/wp-content/uploads/2015/
+ 03/Troop-10-graphic-10-only1.png'><img class='alignnone wp-image-21' src='
+ http://troop10columbia.com/wp-content/uploads/2015/03/Troop-10-graphic-10-
+ only1.png' alt='Troop 10 graphic (10 only)' width='45' height='39' /></a><
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-6' class='share-facebook sd-
+ button share-icon' href='http://troop10columbia.com/?share=facebook' targe
+ t='_blank' title='Share on Facebook'><span>Facebook</span></a></li><li cla
+ ss='share-twitter'><a rel='nofollow' data-shared='sharing-twitter-6' class
+ ='share-twitter sd-button share-icon' href='http://troop10columbia.com/?sh
+ are=twitter' target='_blank' title='Click to share on Twitter'><span>Twitt
+ er</span></a></li><li class='share-email'><a rel='nofollow' data-shared=''
+  class='share-email sd-button share-icon' href='http://troop10columbia.com
+ /?share=email' target='_blank' title='Click to email this to a friend'><sp
+ an>Email</span></a></li><li class='share-print'><a rel='nofollow' data-sha
+ red='' class='share-print sd-button share-icon' href='http://troop10columb
+ ia.com/#print' target='_blank' title='Click to print'><span>Print</span></
+ a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151012T190000
+DTEND;TZID=America/New_York:20151012T201500
+GEO:+34.008449;-80.99479
+LOCATION:Eastminster Presbyterian Church @ 3200 Trenholm Road\, Columbia\, 
+ SC 29204\, USA
+SEQUENCE:0
+SUMMARY:Regular Meeting
+URL:http://troop10columbia.com/event/regular-meeting-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-152@troop10columbia.com
+DTSTAMP:20150920T002157Z
+CATEGORIES;LANGUAGE=en-US:Regular Meetings
+CONTACT:
+DESCRIPTION:<p><a href='http://troop10columbia.com/wp-content/uploads/2015/
+ 03/Troop-10-graphic-10-only1.png'><img class='alignnone wp-image-21' src='
+ http://troop10columbia.com/wp-content/uploads/2015/03/Troop-10-graphic-10-
+ only1.png' alt='Troop 10 graphic (10 only)' width='45' height='39' /></a><
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-6' class='share-facebook sd-
+ button share-icon' href='http://troop10columbia.com/?share=facebook' targe
+ t='_blank' title='Share on Facebook'><span>Facebook</span></a></li><li cla
+ ss='share-twitter'><a rel='nofollow' data-shared='sharing-twitter-6' class
+ ='share-twitter sd-button share-icon' href='http://troop10columbia.com/?sh
+ are=twitter' target='_blank' title='Click to share on Twitter'><span>Twitt
+ er</span></a></li><li class='share-email'><a rel='nofollow' data-shared=''
+  class='share-email sd-button share-icon' href='http://troop10columbia.com
+ /?share=email' target='_blank' title='Click to email this to a friend'><sp
+ an>Email</span></a></li><li class='share-print'><a rel='nofollow' data-sha
+ red='' class='share-print sd-button share-icon' href='http://troop10columb
+ ia.com/#print' target='_blank' title='Click to print'><span>Print</span></
+ a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151026T190000
+DTEND;TZID=America/New_York:20151026T201500
+GEO:+34.008449;-80.99479
+LOCATION:Eastminster Presbyterian Church @ 3200 Trenholm Road\, Columbia\, 
+ SC 29204\, USA
+SEQUENCE:0
+SUMMARY:Regular Meeting
+URL:http://troop10columbia.com/event/regular-meeting-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-153@troop10columbia.com
+DTSTAMP:20150920T002157Z
+CATEGORIES;LANGUAGE=en-US:Regular Meetings
+CONTACT:
+DESCRIPTION:<p><a href='http://troop10columbia.com/wp-content/uploads/2015/
+ 03/Troop-10-graphic-10-only1.png'><img class='alignnone wp-image-21' src='
+ http://troop10columbia.com/wp-content/uploads/2015/03/Troop-10-graphic-10-
+ only1.png' alt='Troop 10 graphic (10 only)' width='45' height='39' /></a><
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-6' class='share-facebook sd-
+ button share-icon' href='http://troop10columbia.com/?share=facebook' targe
+ t='_blank' title='Share on Facebook'><span>Facebook</span></a></li><li cla
+ ss='share-twitter'><a rel='nofollow' data-shared='sharing-twitter-6' class
+ ='share-twitter sd-button share-icon' href='http://troop10columbia.com/?sh
+ are=twitter' target='_blank' title='Click to share on Twitter'><span>Twitt
+ er</span></a></li><li class='share-email'><a rel='nofollow' data-shared=''
+  class='share-email sd-button share-icon' href='http://troop10columbia.com
+ /?share=email' target='_blank' title='Click to email this to a friend'><sp
+ an>Email</span></a></li><li class='share-print'><a rel='nofollow' data-sha
+ red='' class='share-print sd-button share-icon' href='http://troop10columb
+ ia.com/#print' target='_blank' title='Click to print'><span>Print</span></
+ a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151102T190000
+DTEND;TZID=America/New_York:20151102T201500
+GEO:+34.008449;-80.99479
+LOCATION:Eastminster Presbyterian Church @ 3200 Trenholm Road\, Columbia\, 
+ SC 29204\, USA
+SEQUENCE:0
+SUMMARY:Regular Meeting
+URL:http://troop10columbia.com/event/regular-meeting-6-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-154@troop10columbia.com
+DTSTAMP:20150920T002157Z
+CATEGORIES;LANGUAGE=en-US:Regular Meetings
+CONTACT:
+DESCRIPTION:<p><a href='http://troop10columbia.com/wp-content/uploads/2015/
+ 03/Troop-10-graphic-10-only1.png'><img class='alignnone wp-image-21' src='
+ http://troop10columbia.com/wp-content/uploads/2015/03/Troop-10-graphic-10-
+ only1.png' alt='Troop 10 graphic (10 only)' width='45' height='39' /></a><
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-6' class='share-facebook sd-
+ button share-icon' href='http://troop10columbia.com/?share=facebook' targe
+ t='_blank' title='Share on Facebook'><span>Facebook</span></a></li><li cla
+ ss='share-twitter'><a rel='nofollow' data-shared='sharing-twitter-6' class
+ ='share-twitter sd-button share-icon' href='http://troop10columbia.com/?sh
+ are=twitter' target='_blank' title='Click to share on Twitter'><span>Twitt
+ er</span></a></li><li class='share-email'><a rel='nofollow' data-shared=''
+  class='share-email sd-button share-icon' href='http://troop10columbia.com
+ /?share=email' target='_blank' title='Click to email this to a friend'><sp
+ an>Email</span></a></li><li class='share-print'><a rel='nofollow' data-sha
+ red='' class='share-print sd-button share-icon' href='http://troop10columb
+ ia.com/#print' target='_blank' title='Click to print'><span>Print</span></
+ a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151109T190000
+DTEND;TZID=America/New_York:20151109T201500
+GEO:+34.008449;-80.99479
+LOCATION:Eastminster Presbyterian Church @ 3200 Trenholm Road\, Columbia\, 
+ SC 29204\, USA
+SEQUENCE:0
+SUMMARY:Regular Meeting
+URL:http://troop10columbia.com/event/regular-meeting-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-155@troop10columbia.com
+DTSTAMP:20150920T002157Z
+CATEGORIES;LANGUAGE=en-US:Regular Meetings
+CONTACT:
+DESCRIPTION:<p><a href='http://troop10columbia.com/wp-content/uploads/2015/
+ 03/Troop-10-graphic-10-only1.png'><img class='alignnone wp-image-21' src='
+ http://troop10columbia.com/wp-content/uploads/2015/03/Troop-10-graphic-10-
+ only1.png' alt='Troop 10 graphic (10 only)' width='45' height='39' /></a><
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-6' class='share-facebook sd-
+ button share-icon' href='http://troop10columbia.com/?share=facebook' targe
+ t='_blank' title='Share on Facebook'><span>Facebook</span></a></li><li cla
+ ss='share-twitter'><a rel='nofollow' data-shared='sharing-twitter-6' class
+ ='share-twitter sd-button share-icon' href='http://troop10columbia.com/?sh
+ are=twitter' target='_blank' title='Click to share on Twitter'><span>Twitt
+ er</span></a></li><li class='share-email'><a rel='nofollow' data-shared=''
+  class='share-email sd-button share-icon' href='http://troop10columbia.com
+ /?share=email' target='_blank' title='Click to email this to a friend'><sp
+ an>Email</span></a></li><li class='share-print'><a rel='nofollow' data-sha
+ red='' class='share-print sd-button share-icon' href='http://troop10columb
+ ia.com/#print' target='_blank' title='Click to print'><span>Print</span></
+ a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151116T190000
+DTEND;TZID=America/New_York:20151116T201500
+GEO:+34.008449;-80.99479
+LOCATION:Eastminster Presbyterian Church @ 3200 Trenholm Road\, Columbia\, 
+ SC 29204\, USA
+SEQUENCE:0
+SUMMARY:Regular Meeting
+URL:http://troop10columbia.com/event/regular-meeting-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-161@troop10columbia.com
+DTSTAMP:20150920T002157Z
+CATEGORIES;LANGUAGE=en-US:Regular Meetings
+CONTACT:
+DESCRIPTION:<p><a href='http://troop10columbia.com/wp-content/uploads/2015/
+ 03/Troop-10-graphic-10-only1.png'><img class='alignnone wp-image-21' src='
+ http://troop10columbia.com/wp-content/uploads/2015/03/Troop-10-graphic-10-
+ only1.png' alt='Troop 10 graphic (10 only)' width='45' height='39' /></a><
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-6' class='share-facebook sd-
+ button share-icon' href='http://troop10columbia.com/?share=facebook' targe
+ t='_blank' title='Share on Facebook'><span>Facebook</span></a></li><li cla
+ ss='share-twitter'><a rel='nofollow' data-shared='sharing-twitter-6' class
+ ='share-twitter sd-button share-icon' href='http://troop10columbia.com/?sh
+ are=twitter' target='_blank' title='Click to share on Twitter'><span>Twitt
+ er</span></a></li><li class='share-email'><a rel='nofollow' data-shared=''
+  class='share-email sd-button share-icon' href='http://troop10columbia.com
+ /?share=email' target='_blank' title='Click to email this to a friend'><sp
+ an>Email</span></a></li><li class='share-print'><a rel='nofollow' data-sha
+ red='' class='share-print sd-button share-icon' href='http://troop10columb
+ ia.com/#print' target='_blank' title='Click to print'><span>Print</span></
+ a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20160104T190000
+DTEND;TZID=America/New_York:20160104T201500
+GEO:+34.008449;-80.99479
+LOCATION:Eastminster Presbyterian Church @ 3200 Trenholm Road\, Columbia\, 
+ SC 29204\, USA
+SEQUENCE:0
+SUMMARY:Regular Meeting
+URL:http://troop10columbia.com/event/regular-meeting-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-159@troop10columbia.com
+DTSTAMP:20150920T002157Z
+CATEGORIES;LANGUAGE=en-US:Regular Meetings
+CONTACT:
+DESCRIPTION:<p><a href='http://troop10columbia.com/wp-content/uploads/2015/
+ 03/Court-of-Honor1.jpg'><img class='alignnone size-medium wp-image-157' sr
+ c='http://troop10columbia.com/wp-content/uploads/2015/03/Court-of-Honor1-3
+ 00x195.jpg' alt='Court of Honor' width='300' height='195' /></a></p>\n<div
+  class='sharedaddy sd-sharing-enabled'><div class='robots-nocontent sd-blo
+ ck sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'>Share th
+ is:</h3><div class='sd-content'><ul><li class='share-facebook'><a rel='nof
+ ollow' data-shared='sharing-facebook-6' class='share-facebook sd-button sh
+ are-icon' href='http://troop10columbia.com/?share=facebook' target='_blank
+ ' title='Share on Facebook'><span>Facebook</span></a></li><li class='share
+ -twitter'><a rel='nofollow' data-shared='sharing-twitter-6' class='share-t
+ witter sd-button share-icon' href='http://troop10columbia.com/?share=twitt
+ er' target='_blank' title='Click to share on Twitter'><span>Twitter</span>
+ </a></li><li class='share-email'><a rel='nofollow' data-shared='' class='s
+ hare-email sd-button share-icon' href='http://troop10columbia.com/?share=e
+ mail' target='_blank' title='Click to email this to a friend'><span>Email<
+ /span></a></li><li class='share-print'><a rel='nofollow' data-shared='' cl
+ ass='share-print sd-button share-icon' href='http://troop10columbia.com/#p
+ rint' target='_blank' title='Click to print'><span>Print</span></a></li><l
+ i class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20160110T150000
+DTEND;TZID=America/New_York:20160110T170000
+GEO:+34.008449;-80.99479
+LOCATION:Eastminster Presbyterian Church @ 3200 Trenholm Road\, Columbia\, 
+ SC 29204\, USA
+SEQUENCE:0
+SUMMARY:Court of Honor
+URL:http://troop10columbia.com/event/court-of-honor/
+END:VEVENT
+END:VCALENDAR

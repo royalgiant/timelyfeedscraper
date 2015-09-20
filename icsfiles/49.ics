@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//209.133.199.109//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://pegateya.com/cartagena
+X-WR-TIMEZONE:America/Bogota
+BEGIN:VTIMEZONE
+TZID:America/Bogota
+X-LIC-LOCATION:America/Bogota
+BEGIN:STANDARD
+DTSTART:19930404T000000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:COT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1036@pegateya.com/cartagena
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://pegateya.com/cartagena/wp-content/uploads/20
+ 15/09/Captura-de-pantalla-2015-09-14-a-las-3.00.06-p.m..png'><img class='a
+ ligncenter size-full wp-image-1037' src='http://pegateya.com/cartagena/wp-
+ content/uploads/2015/09/Captura-de-pantalla-2015-09-14-a-las-3.00.06-p.m..
+ png' alt='Captura de pantalla 2015-09-14 a las 3.00.06 p.m.' width='465' h
+ eight='685' /></a></p>
+DTSTART;TZID=America/Bogota:20150919T000000
+DTEND;TZID=America/Bogota:20150919T005000
+GEO:+10.391049;-75.479426
+LOCATION:CALLE DEL ARSENAL @ Cartagena\, Cartagena\, Bolívar\, Colombia
+SEQUENCE:0
+SUMMARY:AMOR Y AMISTAD PARTY “TABOO”
+URL:http://pegateya.com/cartagena/event/amor-y-amistad-party-taboo/
+X-COST:$10.000
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1015@pegateya.com/cartagena
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:3017630899\; missfotogeniacolombia@hotmail.com\; https://www.facebo
+ ok.com/www.missfotogenia.colombia/info?tab=page_info
+DESCRIPTION:<p><a href='http://pegateya.com/cartagena/wp-content/uploads/20
+ 15/09/MISSFOTOGENIA.jpg'><img class='aligncenter size-full wp-image-1017' 
+ src='http://pegateya.com/cartagena/wp-content/uploads/2015/09/MISSFOTOGENI
+ A.jpg' alt='MISSFOTOGENIA' width='897' height='558' /></a></p>\n<p> </p>\n
+ <ul class='uiList fbSettingsList _4kg _4ks'>\n<li>\n<div class='clearfix _
+ 2pi4'>\n<div class='_4bl9'>\n<div class='_50f4'>Como Empresa nuestro princ
+ ipal objetivo es orientar y descubrir talentos par promocionar actrices\, 
+ modelos \, rostros para fotografia \,modelos para pasarela</div>\n</div>\n
+ </div>\n</li>\n<li>\n<div class='clearfix _2pi4'>\n<div class='_4bl7 _h43 
+ _52ju'>\n<div class='_50f8 _50f4'>Impressum</div>\n</div>\n<div class='_4b
+ l9'>\n<div class='_50f4'>autoria y propiedad de empresarios bajo un nit re
+ presentativo</div>\n</div>\n</div>\n</li>\n<li>\n<div class='clearfix _2pi
+ 4'>\n<div class='_4bl7 _h43 _52ju'>\n<div class='_50f8 _50f4'>Perfil de la
+  empresa</div>\n</div>\n<div class='_4bl9'>\n<div class='_50f4'>Nuestro pe
+ rfil es de formacion y apoyar los talentos de diferentes ciudades del pais
+  contamos con un exelente equipo de trabajo y promover por medio de empres
+ as los perfiles y talentos que tenemos</div>\n</div>\n</div>\n</li>\n<li>
+ \n<div class='clearfix _2pi4'>\n<div class='_4bl7 _h43 _52ju'>\n<div class
+ ='_50f8 _50f4'>Misión</div>\n</div>\n<div class='_4bl9'>\n<div class='_50f
+ 4'>Nuestro objetivo es orientar y descubrir talentos para promocionar para
+  realizar trabajos con ética\, profesionalismo en la televisión \,cine\,pr
+ ogramas de tv\,campañas publicitarias y activaciones de marca</div>\n</div
+ >\n</div>\n<div class='_50f4'></div>\n</li>\n</ul>\n<p> </p>
+DTSTART;TZID=America/Bogota:20151014T024600
+DTEND;TZID=America/Bogota:20151016T034600
+GEO:+04.444676;-75.242438
+LOCATION:Ibagué\, Ibagué\, Tolima\, Colombia
+SEQUENCE:0
+SUMMARY:MISS FOTOGENIA COLOMBIA 2015
+URL:http://pegateya.com/cartagena/event/miss-fotogenia-colombia-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-984@pegateya.com/cartagena
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://pegateya.com/cartagena/wp-content/uploads/20
+ 15/08/Captura-de-pantalla-2015-08-26-a-las-3.05.00-p.m..png'><img class='a
+ ligncenter size-full wp-image-985' src='http://pegateya.com/cartagena/wp-c
+ ontent/uploads/2015/08/Captura-de-pantalla-2015-08-26-a-las-3.05.00-p.m..p
+ ng' alt='Captura de pantalla 2015-08-26 a las 3.05.00 p.m.' width='962' he
+ ight='700' /></a></p>
+DTSTART;TZID=America/Bogota:20151017T203700
+DTEND;TZID=America/Bogota:20151017T213700
+GEO:+10.391049;-75.479426
+LOCATION:DISCOTECA EL ESCANDALO @ Cartagena\, Cartagena\, Bolívar\, Colombi
+ a
+SEQUENCE:0
+SUMMARY:ORIGENES “EL CONCIERTO”
+URL:http://pegateya.com/cartagena/event/origenes-el-concierto/
+END:VEVENT
+END:VCALENDAR

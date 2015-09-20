@@ -1,0 +1,494 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//182.50.150.129//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.rotary-leicester.org.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-582@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:
+DESCRIPTION:<p>Christmas Bank Holiday. No meeting</p>
+DTSTART;VALUE=DATE:20151228
+DTEND;VALUE=DATE:20151229
+SEQUENCE:0
+SUMMARY:No Meeting
+URL:http://www.rotary-leicester.org.uk/event/no-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-583@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:
+DESCRIPTION:<p>Easter Monday. No meeting</p>
+DTSTART;VALUE=DATE:20160328
+DTEND;VALUE=DATE:20160329
+SEQUENCE:0
+SUMMARY:No Meeting
+URL:http://www.rotary-leicester.org.uk/event/no-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-584@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:
+DESCRIPTION:<p>Early May Bank holiday. No meeting</p>
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+SEQUENCE:0
+SUMMARY:No Meeting
+URL:http://www.rotary-leicester.org.uk/event/no-meeting-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-585@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:
+DESCRIPTION:<p>Spring Bank Holiday. No meeting</p>
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:No Meeting
+URL:http://www.rotary-leicester.org.uk/event/no-meeting-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-723@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:Simon Gravett\; simongravett@sky.com
+DESCRIPTION:<p>Details of this event will be posted in 2016</p>
+DTSTART;VALUE=DATE:20160615
+DTEND;VALUE=DATE:20160616
+LOCATION:Leicestershire Golf Club
+SEQUENCE:0
+SUMMARY:Rotary AMAM Golf
+URL:http://www.rotary-leicester.org.uk/event/rotary-amam-golf/
+X-COST:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-586@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:
+DESCRIPTION:<p>Summer Bank Holiday. No meeting</p>
+DTSTART;VALUE=DATE:20160829
+DTEND;VALUE=DATE:20160830
+SEQUENCE:0
+SUMMARY:No Meeting
+URL:http://www.rotary-leicester.org.uk/event/no-meeting-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-659@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Fellowship lunch with Committee meetings and Committee/proje
+ ct reports</p>
+DTSTART;TZID=Europe/London:20150921T123000
+DTEND;TZID=Europe/London:20150921T134500
+GEO:+52.632981;-1.129152
+LOCATION:Grand Hotel Leicester @ Granby Street\, Leicester\, Leicester\, Le
+ icester LE1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 21st September 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-21st-september-
+ 2015/
+X-COST:£11
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-517@www.propertyinvestmentassociation.com
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:Roger Bowden\; 01509 890672\; rabowden135@gmail.com
+DESCRIPTION:<p>Helping take disabled persons out in sailing boats</p>
+DTSTART;TZID=Europe/London:20150922T110000
+DTEND;TZID=Europe/London:20150922T170000
+LOCATION:Watermead Park
+RRULE:FREQ=DAILY;UNTIL=20151020T235959Z;INTERVAL=7
+SEQUENCE:0
+SUMMARY:Sailability
+URL:http://www.rotary-leicester.org.uk/event/sailability/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-541@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:Roger Bowden\; rabowden135@gmail.com
+DESCRIPTION:<p>More details to follow. A weekend event for members and part
+ ners.</p>
+DTSTART;TZID=Europe/London:20150925T150000
+DTEND;TZID=Europe/London:20150927T140000
+LOCATION:Bournemouth
+SEQUENCE:0
+SUMMARY:District Conference
+URL:http://www.rotary-leicester.org.uk/event/district-conference/
+X-COST:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-660@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event\,Public Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Rotarian Gordon Arthur will give his job talk. Title to be a
+ dvised</p>
+DTSTART;TZID=Europe/London:20150928T123000
+DTEND;TZID=Europe/London:20150928T134500
+GEO:+52.632981;-1.129152
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester\, Leicester\, 
+ Leicester LE1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 28th September 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-28th-september-
+ 2015/
+X-COST:£11
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-724@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Our speaker is Andy Tinley\, head of fundraising Kid’s of He
+ roes. Andy is also founder of this charity which offers emotional and fina
+ ncial support for serving and ex-servingUK military personnel. He will exp
+ lain its vital work</p>
+DTSTART;TZID=Europe/London:20151005T123000
+DTEND;TZID=Europe/London:20151005T134500
+GEO:+52.632999;-1.129164
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester LE1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 5th October 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-6/
+X-COST:£11.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-637@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:John Saunders\; ojsaunders7@gmail.com
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151007T123000
+DTEND;TZID=Europe/London:20151007T140000
+LOCATION:TBA
+SEQUENCE:0
+SUMMARY:Past Presidents lunch
+URL:http://www.rotary-leicester.org.uk/event/past-presidents-lunch/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-725@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p><span style='font-size: 12pt'>Our speaker will be Dominic Go
+ mersall \, Jewellery Retailer and the title of his talk is <span id='yui_3
+ _16_0_1_1442425812054_6537'>‘Jewel in the Crown’. Dominic</span><span id='
+ yui_3_16_0_1_1442425812054_6534'> is a widely known and respected retailer
+  who has moved into new</span><span id='yui_3_16_0_1_1442425812054_6531'> 
+ premises in the High Street. He will talk about his business and future </
+ span>challenges and opportunities.</span></p>
+DTSTART;TZID=Europe/London:20151012T123000
+DTEND;TZID=Europe/London:20151012T134500
+GEO:+52.632999;-1.129164
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester LE1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 12th October 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-18/
+X-COST:£11.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-628@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event\,Public Event
+CONTACT:Clive Bouch\; 270 4499\; dcbouch@gmail.com
+DESCRIPTION:<p>Round one of the District Quiz. Teams of four answering ques
+ tions on a variety of subjects. Winners progress to round two. Teams compo
+ sed of Rotarians.</p>
+DTSTART;TZID=Europe/London:20151014T190000
+DTEND;TZID=Europe/London:20151014T220000
+GEO:+52.552246;-1.193943
+LOCATION:Cosby Golf Club @ Cosby\, Leicester\, Leicestershire LE9\, UK
+SEQUENCE:0
+SUMMARY:District Quiz Round 1
+URL:http://www.rotary-leicester.org.uk/event/district-quiz-round-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-726@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Rotarian Jonathan Kerry will give his job talk entitled ‘Now
+  the dust has settled’. Jonathan was deeply involved in arrangements to re
+ -inter RichardIII</p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=Europe/London:20151019T123000
+DTEND;TZID=Europe/London:20151019T134500
+GEO:+52.632999;-1.129164
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester LE1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 19th October 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-19th-october-20
+ 15/
+X-COST:£11.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-727@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Sarah Harrison\, Leicester City Council manager will discuss
+  how ‘Leicester marches on’</p>\n<p>Sarah makes a welcome return visit to 
+ the club to bring us up to date on recent achievements and ambitious plans
+  to advance the City further.</p>\n<p>This will be a Meet4Business meeting
+ .</p>
+DTSTART;TZID=Europe/London:20151026T123000
+DTEND;TZID=Europe/London:20151026T134500
+GEO:+52.632999;-1.129164
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester LE1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 26th October 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-26th-october-20
+ 15/
+X-COST:£11.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-735@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Kim Francis\, RYLA leader\, is our speaker.Kim is office man
+ ager at Cornerstone Insurance and will tell us about her time at Grafham W
+ ater this year.</p>
+DTSTART;TZID=Europe/London:20151102T123000
+DTEND;TZID=Europe/London:20151102T134500
+GEO:+52.632999;-1.129164
+LOCATION:Grand Hotel\, Leicester @ Granby St\, Leicester\, Leicester LE1\, 
+ UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 2nd November 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-2nd-november-20
+ 15/
+X-COST:£11.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-736@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Jeremy Prescott\, former Regular Army Officer is our speaker
+ . The title’WW1\, sacrifice and remembrance.’ Jeremy served for 26 years w
+ ith the Royal Regiment. He will describe the evolution of the Commonwealth
+  War Graves Commission\, the scale of sacrifice\, the stories behind some 
+ of the headstones and how we remember those killed in action.</p>
+DTSTART;TZID=Europe/London:20151109T123000
+DTEND;TZID=Europe/London:20151109T134500
+GEO:+52.632999;-1.129164
+LOCATION:Grand Hotel\, Leicester @ Granby St\, Leicester\, Leicester LE1\, 
+ UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 9th November 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-9th-november-20
+ 15/
+X-COST:£11.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-575@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>First Business meeting</p>
+DTSTART;TZID=Europe/London:20151116T123000
+DTEND;TZID=Europe/London:20151116T134500
+GEO:+52.633046;-1.129304
+LOCATION:Grand Hotel \,Leicester @ Granby Street\, Leicester\, Leicester\, 
+ Leicester LE1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-7/
+X-COST:£11
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-737@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Alan Whelpdale\, Headmaster at Leicester High School for gir
+ ls\, is the first male head of the school in its 100 year history. He has 
+ held the post since September 2013 having earlier taught in both the maint
+ ained and independent sectors. He read history at university and is passio
+ nate about teaching ‘making a difference.’</p>
+DTSTART;TZID=Europe/London:20151123T123000
+DTEND;TZID=Europe/London:20151123T134500
+GEO:+52.632999;-1.129164
+LOCATION:Grand Hotel\, Leicester @ Granby St\, Leicester\, Leicester LE1\, 
+ UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 23rd November 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-23rd-november-2
+ 015/
+X-COST:£11.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-638@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:John Saunders\; ojsaunders7@gmail.com
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151125T193000
+DTEND;TZID=Europe/London:20151125T214500
+LOCATION:Corby
+SEQUENCE:0
+SUMMARY:District Council meeting
+URL:http://www.rotary-leicester.org.uk/event/district-council-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-738@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Public Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Mc Rebecca Graaff\, Senior Lecturer\, De Montfort University
+ \, will speak of ‘Knowledge Transfer Partnerships.’  Rebecca lectures in i
+ nterior design and is a programme leader for the MA course. The partnershi
+ ps are government funded and designed to help businesses improve their com
+ petitiveness\, productivity and performance.  Rebecca will explain the sch
+ eme and tell us of recent examples in its application.</p>\n<p>This will b
+ e a meet for business (M4B) meeting. Members are encouraged to bring frien
+ ds from business and other organisations to M4B lunches.</p>
+DTSTART;TZID=Europe/London:20151130T123000
+DTEND;TZID=Europe/London:20151130T134500
+GEO:+52.632999;-1.129164
+LOCATION:Grand Hotel\, Leicester @ Granby St\, Leicester\, Leicester LE1\, 
+ UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting 30th November 2015
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-30th-november-2
+ 015/
+X-COST:£11.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-576@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Fellowship and Committee reports</p>
+DTSTART;TZID=Europe/London:20151207T123000
+DTEND;TZID=Europe/London:20151207T134500
+GEO:+52.633046;-1.129304
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester\, Leicester\, 
+ Leicester LE1\, UK
+SEQUENCE:0
+SUMMARY:
+URL:http://www.rotary-leicester.org.uk/event/576/
+X-COST:£11
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-639@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event\,Public Event
+CONTACT:John Saunders\; ojsaunders7@gmail.com
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151218T074100
+DTEND;TZID=Europe/London:20151218T084100
+GEO:+52.602815;-1.11863
+LOCATION:St Mary's Church\, Knighton @ Knighton\, Leicester\, Leicester\, L
+ eicester LE2\, UK
+SEQUENCE:0
+SUMMARY:Carol Service at St Mary’s Knighton
+URL:http://www.rotary-leicester.org.uk/event/carol-service-at-st-marys-knig
+ hton/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-577@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Fellowship and Committee reports</p>
+DTSTART;TZID=Europe/London:20160307T123000
+DTEND;TZID=Europe/London:20160307T134500
+GEO:+52.632096;-1.1267
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester\, Leicester\, 
+ Leicester LE1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-8/
+X-COST:£11
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-661@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event\,Public Event
+CONTACT:Paul Bonnett\; paulsbonnett@aol.com
+DESCRIPTION:<p>The annual Bluebell Service will be held at Swithland Wood i
+ n the afternoon\, starting at 3.00pm</p>
+DTSTART;TZID=Europe/London:20160508T150000
+DTEND;TZID=Europe/London:20160508T160000
+LOCATION:Swithland Wood
+SEQUENCE:0
+SUMMARY:Bluebell Service
+URL:http://www.rotary-leicester.org.uk/event/bluebell-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-578@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Fellowship and Committee reports</p>
+DTSTART;TZID=Europe/London:20160606T123000
+DTEND;TZID=Europe/London:20160606T134500
+GEO:+52.633046;-1.129304
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester\, Leicester LE
+ 1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-9/
+X-COST:£11
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-579@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:John dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Second Business Meeting</p>
+DTSTART;TZID=Europe/London:20160620T123000
+DTEND;TZID=Europe/London:20160620T134500
+GEO:+52.633046;-1.129304
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester\, Leicester LE
+ 1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting
+URL:http://www.rotary-leicester.org.uk/event/579/
+X-COST:£11
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-580@www.rotary-leicester.org.uk/wordpress
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-GB:Members Event
+CONTACT:John Dean\; ja.dean@outlook.com
+DESCRIPTION:<p>Induction of new President\, David Brunton</p>
+DTSTART;TZID=Europe/London:20160627T123000
+DTEND;TZID=Europe/London:20160627T134500
+GEO:+52.633046;-1.129304
+LOCATION:Grand Hotel\, Leicester @ Granby Street\, Leicester\, Leicester LE
+ 1\, UK
+SEQUENCE:0
+SUMMARY:Weekly Meeting
+URL:http://www.rotary-leicester.org.uk/event/weekly-meeting-10/
+X-COST:£11
+END:VEVENT
+END:VCALENDAR

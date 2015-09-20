@@ -1,0 +1,373 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//64.34.157.150//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://warwickgatesbadmintonclub.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:395046-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/395046<
+ /p>\n<p>Normal clubnight</p>
+DTSTART;TZID=Europe/London:20150921T193000
+DTEND;TZID=Europe/London:20150921T213000
+LOCATION:Warwick School\, Myton Road\, 	CV34 6PP
+SEQUENCE:0
+SUMMARY:Clubnight
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/clubnight-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:395047-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/395047<
+ /p>\n<p>Normal clubnight</p>
+DTSTART;TZID=Europe/London:20150928T193000
+DTEND;TZID=Europe/London:20150928T213000
+LOCATION:Warwick School\, Myton Road\, 	CV34 6PP
+SEQUENCE:0
+SUMMARY:Clubnight
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/clubnight-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:395216-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/395216<
+ /p>\n<p>Match Nights<br />\nNO!!!! clubnight</p>
+DTSTART;TZID=Europe/London:20151005T193000
+DTEND;TZID=Europe/London:20151005T220000
+LOCATION:Warwick School\, Myton Road\, 	CV34 6PP
+SEQUENCE:0
+SUMMARY:MATCH – HOME vs Alveston  (NO CLUBNIGHT)
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-home-vs-alvesto
+ n-no-clubnight/
+END:VEVENT
+BEGIN:VEVENT
+UID:395048-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/395048<
+ /p>\n<p>Normal clubnight</p>
+DTSTART;TZID=Europe/London:20151012T193000
+DTEND;TZID=Europe/London:20151012T213000
+LOCATION:Warwick School\, Myton Road\, 	CV34 6PP
+SEQUENCE:0
+SUMMARY:Clubnight
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/clubnight-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:395050-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/395050<
+ /p>\n<p>Normal clubnight</p>
+DTSTART;TZID=Europe/London:20151019T190000
+DTEND;TZID=Europe/London:20151019T213000
+LOCATION:Warwick School\, Myton Road\, 	CV34 6PP
+SEQUENCE:0
+SUMMARY:Clubnight
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/clubnight-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:395053-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/395053<
+ /p>\n<p>HOME Match – See Schedule</p>
+DTSTART;TZID=Europe/London:20151026T193000
+DTEND;TZID=Europe/London:20151026T220000
+LOCATION:Warwick School\, Myton Road\, 	CV34 6PP
+SEQUENCE:0
+SUMMARY:HOME MATCH vs Central Sports (NO CLUB NIGHT)
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/home-match-vs-central
+ -sports-no-club-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:395221-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/395221<
+ /p>\n<p>Normal Clubnight</p>
+DTSTART;TZID=Europe/London:20151109T193000
+DTEND;TZID=Europe/London:20151109T220000
+LOCATION:Warwick School\, Myton Road\, 	CV34 6PP
+SEQUENCE:0
+SUMMARY:CLUBNIGHT
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/clubnight/
+END:VEVENT
+BEGIN:VEVENT
+UID:395218-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/395218<
+ /p>\n<p>See schedule for more info</p>
+DTSTART;TZID=Europe/London:20151109T193000
+DTEND;TZID=Europe/London:20151109T220000
+LOCATION:Warwick School\, Myton Road\, 	CV34 6PP
+SEQUENCE:0
+SUMMARY:MATCH – AWAY vs Virgin Active
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-away-vs-virgin-
+ active/
+END:VEVENT
+BEGIN:VEVENT
+UID:404484-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404484<
+ /p>\n<p>Club Night </p>
+DTSTART;TZID=Europe/London:20151116T193000
+DTEND;TZID=Europe/London:20151116T213000
+LOCATION:cv346pp
+SEQUENCE:0
+SUMMARY:CLUB NIGHT
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/club-night-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:404485-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404485<
+ /p>\n<p>Club Night </p>
+DTSTART;TZID=Europe/London:20151123T193000
+DTEND;TZID=Europe/London:20151123T213000
+LOCATION:cv346pp
+SEQUENCE:0
+SUMMARY:CLUB NIGHT
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/club-night-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:404486-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404486<
+ /p>\n<p>Club Night </p>
+DTSTART;TZID=Europe/London:20151130T193000
+DTEND;TZID=Europe/London:20151130T213000
+LOCATION:cv346pp
+SEQUENCE:0
+SUMMARY:CLUB NIGHT
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/club-night-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:404488-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404488<
+ /p>\n<p>See Schedule for details  </p>
+DTSTART;TZID=Europe/London:20151130T193000
+DTEND;TZID=Europe/London:20151130T213000
+LOCATION:CV37 6YY
+SEQUENCE:0
+SUMMARY:MATCH AWAY vs Stratford
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-away-vs-stratfo
+ rd/
+END:VEVENT
+BEGIN:VEVENT
+UID:404499-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404499<
+ /p>\n<p>See Schedule for details  </p>
+DTSTART;TZID=Europe/London:20151204T190000
+DTEND;TZID=Europe/London:20151204T210000
+LOCATION:CV37 6YY
+SEQUENCE:0
+SUMMARY:MATCH AWAY vs Warwick Bears
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-away-vs-warwick
+ -bears/
+END:VEVENT
+BEGIN:VEVENT
+UID:404490-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404490<
+ /p>\n<p>Club Night </p>
+DTSTART;TZID=Europe/London:20151207T193000
+DTEND;TZID=Europe/London:20151207T213000
+LOCATION:cv346pp
+SEQUENCE:0
+SUMMARY:CLUB NIGHT
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/club-night-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:404501-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404501<
+ /p>\n<p>See Schedule for details  </p>
+DTSTART;TZID=Europe/London:20151207T193000
+DTEND;TZID=Europe/London:20151207T213000
+LOCATION:CV37 6YY
+SEQUENCE:0
+SUMMARY:MATCH HOME vs Kenilworth
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-home-vs-kenilwo
+ rth/
+END:VEVENT
+BEGIN:VEVENT
+UID:404491-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404491<
+ /p>\n<p>Club Night </p>
+DTSTART;TZID=Europe/London:20151214T193000
+DTEND;TZID=Europe/London:20151214T213000
+LOCATION:cv346pp
+SEQUENCE:0
+SUMMARY:CLUB NIGHT
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/club-night-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:404492-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404492<
+ /p>\n<p>Club Night </p>
+DTSTART;TZID=Europe/London:20151221T193000
+DTEND;TZID=Europe/London:20151221T213000
+LOCATION:cv346pp
+SEQUENCE:0
+SUMMARY:CLUB NIGHT
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/club-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:404493-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404493<
+ /p>\n<p>SCHOOL CLOSED</p>
+DTSTART;TZID=Europe/London:20151228T193000
+DTEND;TZID=Europe/London:20151228T213000
+LOCATION:cv346pp
+SEQUENCE:0
+SUMMARY:NO!!!! CLUB NIGHT CLOSED
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/no-club-night-closed/
+END:VEVENT
+BEGIN:VEVENT
+UID:404502-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404502<
+ /p>\n<p>See Schedule for details  </p>
+DTSTART;TZID=Europe/London:20160118T193000
+DTEND;TZID=Europe/London:20160118T213000
+LOCATION:CV37 6YY
+SEQUENCE:0
+SUMMARY:MATCH HOME vs Stratford
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-home-vs-stratfo
+ rd/
+END:VEVENT
+BEGIN:VEVENT
+UID:404507-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404507<
+ /p>\n<p>See Schedule for details  </p>
+DTSTART;TZID=Europe/London:20160126T190000
+DTEND;TZID=Europe/London:20160126T210000
+LOCATION:CV34 6PJ
+SEQUENCE:0
+SUMMARY:MATCH AWAY vs Kenilworth
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-away-vs-kenilwo
+ rth/
+END:VEVENT
+BEGIN:VEVENT
+UID:404508-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404508<
+ /p>\n<p>See Schedule for details  </p>
+DTSTART;TZID=Europe/London:20160209T193000
+DTEND;TZID=Europe/London:20160209T213000
+LOCATION:CV37 6YY
+SEQUENCE:0
+SUMMARY:MATCH AWAY vs Alveston
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-away-vs-alvesto
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:404509-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404509<
+ /p>\n<p>See Schedule for details  </p>
+DTSTART;TZID=Europe/London:20160222T193000
+DTEND;TZID=Europe/London:20160222T213000
+LOCATION:CV34 6PP
+SEQUENCE:0
+SUMMARY:MATCH HOME vs Warwick Bears
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-home-vs-warwick
+ -bears/
+END:VEVENT
+BEGIN:VEVENT
+UID:404513-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404513<
+ /p>\n<p>See Schedule for details  </p>
+DTSTART;TZID=Europe/London:20160226T193000
+DTEND;TZID=Europe/London:20160226T213000
+LOCATION:CV34 6PP
+SEQUENCE:0
+SUMMARY:MATCH AWAY vs Central Sports
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-away-vs-central
+ -sports/
+END:VEVENT
+BEGIN:VEVENT
+UID:404514-event@teamapp.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>https://warwickgatesbadmintonclub.teamapp.com/events/404514<
+ /p>\n<p>See Schedule for details  </p>
+DTSTART;TZID=Europe/London:20160307T193000
+DTEND;TZID=Europe/London:20160307T213000
+LOCATION:CV34 6PP
+SEQUENCE:0
+SUMMARY:MATCH HOME vs Virgin Active
+URL:http://warwickgatesbadmintonclub.co.uk/blog/event/match-home-vs-virgin-
+ active/
+END:VEVENT
+END:VCALENDAR

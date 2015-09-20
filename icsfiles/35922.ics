@@ -1,0 +1,440 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.154.90.58//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://ptquaker.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-822@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES:
+CONTACT:Caroline Wildflower\; 379-5376\; ckwildflower@gmail.com
+DESCRIPTION:<p>JACK&JOE~ Jack Reid and Joe Breskin</p>\n<p>A unique blend o
+ f Americana – cowboy music\, some folk\, a little blues\, and “BlueBilly S
+ wing”.  You may not know the name\, but you’ll know the music when you hea
+ r it!  </p>
+DTSTART;TZID=America/Los_Angeles:20150918T180000
+DTEND;TZID=America/Los_Angeles:20150918T203000
+GEO:+42.460713;-87.825089
+LOCATION:Friends Meetinghouse @ Sheridan Road & 19th Street\, Zion\, IL 600
+ 99\, USA
+SEQUENCE:0
+SUMMARY:Meetinghouse Concert 7 pm Jack Reid & Joe Breskin
+URL:http://ptquaker.org/event/meetinghouse-concert-7-pm-jack-reid-joe-bresk
+ in/
+X-COST:$5-$50 donation
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-823@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES:
+CONTACT:PT Sangha\; gc@ptsangha.org\; http://ptsangha.org
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150919T090000
+DTEND;TZID=America/Los_Angeles:20150919T170000
+GEO:+48.113693;-122.790439
+LOCATION:Friends Meetinghouse @ 19th Street & Sheridan Street\, Port Townse
+ nd\, WA 98368\, USA
+RDATE;TZID=America/Los_Angeles:20151219T090000
+SEQUENCE:0
+SUMMARY:Day of Mindfulness (Rental)
+URL:http://ptquaker.org/event/day-of-mindfulness-rental/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-735@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150920T093000
+DTEND;TZID=America/Los_Angeles:20150920T100000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Gathering time & singing
+URL:http://ptquaker.org/event/gathering-time-singing/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-373@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Public\,Worship
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150920T100000
+DTEND;TZID=America/Los_Angeles:20150920T110000
+GEO:+48.11347;-122.790993
+LOCATION:Port Townsend Friends Meetinghouse @ 1841 Sheridan Street\, Port T
+ ownsend\, WA 98368\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:10 am Meeting for Worship
+URL:http://ptquaker.org/event/meeting-for-worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1030@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Committee Meeting
+CONTACT:Sandy
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150921T153000
+DTEND;TZID=America/Los_Angeles:20150921T170000
+LOCATION:Meetinghouse
+SEQUENCE:0
+SUMMARY:Outreach Committee
+URL:http://ptquaker.org/event/outreach-committee-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-407@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Committee Meeting\,Worship
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150922T110000
+DTEND;TZID=America/Los_Angeles:20150922T120000
+LOCATION:Life Care Center
+RRULE:FREQ=MONTHLY;BYDAY=4TU
+SEQUENCE:0
+SUMMARY:Spiritual Nurture (private)
+URL:http://ptquaker.org/event/spiritual-nurture/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-379@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Public\,Worship
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150923T110000
+DTEND;TZID=America/Los_Angeles:20150923T120000
+GEO:+48.112753;-122.774064
+LOCATION:Life Care Center of Port Townsend @ 751 Kearney Street\, Port Town
+ send\, WA 98368\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Midweek Meeting for Worship
+URL:http://ptquaker.org/event/midweek-meeting-for-worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-691@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Rental
+CONTACT:ptsangha@gmail.com\; http://ptsangha.org
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150923T183000
+DTEND;TZID=America/Los_Angeles:20150923T213000
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:PT Sangha Meditation (Rental) – Begins at 7 pm
+URL:http://ptquaker.org/event/rental/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1022@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Committee Meeting
+CONTACT:Craig Rennebohm\; 379-6371\; wcrenne@comcast.net
+DESCRIPTION:<p>Mark your calendar:  <span class='aBn' tabindex='0' data-ter
+ m='goog_137947344'><span class='aQJ'>September 24 at noon</span></span> in
+  the meeting house a second meeting will be held to discuss the following:
+ </p>\n<p>a. Agenda will include action on the Iran nuclear agreement<br />
+ \nb. liaison with Friends Committee on National Legislation and Friends Co
+ mmittee on Washington Public Policy<br />\nc. drafting  minutes to be shar
+ ed with our meeting<br />\nd. listening to concerns voiced by individuals 
+ in the group.<br />\nAll are welcome. Craig Rennebohm. For more informatio
+ n\, write to : <a href='mailto:wcrenne@comcast.net' target='_blank'>wcrenn
+ e@comcast.net</a></p>
+DTSTART;TZID=America/Los_Angeles:20150924T120000
+DTEND;TZID=America/Los_Angeles:20150924T140000
+LOCATION:PT Meeting House
+SEQUENCE:0
+SUMMARY:Peace and Social Concerns Working Group
+URL:http://ptquaker.org/event/peace-and-social-concerns-working-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-818@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Rental
+CONTACT:PT Sangha
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150924T170000
+DTEND;TZID=America/Los_Angeles:20150924T183000
+GEO:+48.113693;-122.790439
+LOCATION:Friends Meetinghouse @ 19th Street & Sheridan Street\, Port Townse
+ nd\, WA 98368\, USA
+RRULE:FREQ=WEEKLY;COUNT=6
+SEQUENCE:0
+SUMMARY:Mindfulness Meditation Class (Rental)
+URL:http://ptquaker.org/event/mindfulness-meditation-class-rental/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1024@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Concert or Lecture\,Public
+CONTACT:Clint\; 379-5376\; clintw327@gmail.com
+DESCRIPTION:<p>Video & discussion  of this key-note presentation</p>
+DTSTART;TZID=America/Los_Angeles:20150927T120000
+DTEND;TZID=America/Los_Angeles:20150927T130000
+LOCATION:PT Meetinghouse
+SEQUENCE:0
+SUMMARY:QuakerCraft: Becoming the Quakers the World Needs (Robin Mohr)
+URL:http://ptquaker.org/event/quakercraft-becoming-the-quakers-the-world-ne
+ eds-robin-mohr/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1010@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Public
+CONTACT:Caroline Wildflower\; 379-5376\; ckwildflower@gmail.com
+DESCRIPTION:<p>People come to share one poem around the circle</p>
+DTSTART;TZID=America/Los_Angeles:20150928T143000
+DTEND;TZID=America/Los_Angeles:20150928T160000
+GEO:+44.526058;-109.051309
+LOCATION:Friends Meetinghouse @ Sheridan Avenue & 19th Street\, Cody\, WY 8
+ 2414\, USA
+SEQUENCE:0
+SUMMARY:Poetry Sharing Circle 2:30
+URL:http://ptquaker.org/event/poetry-sharing-circle-230/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1009@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Rental
+CONTACT:Fred Nussbaum\; 503-936-6792\; fredtrain@aol.com
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150928T183000
+DTEND;TZID=America/Los_Angeles:20150928T203000
+GEO:+48.11347;-122.790993
+LOCATION:Friends Meetinghouse @ 1841 Sheridan Street\, Port Townsend\, WA 9
+ 8368\, USA
+SEQUENCE:0
+SUMMARY:Port Townsend Family Orchestra 7 pm
+URL:http://ptquaker.org/event/port-townsend-family-orchestra-7-pm/
+X-COST:donation
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1026@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Committee Meeting
+CONTACT:Caroline
+DESCRIPTION:<p>Among other things on the agenda will be review of the Sched
+ ule and cost of replacement of capital equipment as input to Finance commi
+ ttee’s  reserve study.</p>
+DTSTART;TZID=America/Los_Angeles:20150930T151500
+DTEND;TZID=America/Los_Angeles:20150930T170000
+LOCATION:Meeting house
+SEQUENCE:0
+SUMMARY:Meetinghouse Committee
+URL:http://ptquaker.org/event/meetinghouse-committee-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-448@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Committee Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151001T093000
+DTEND;TZID=America/Los_Angeles:20151001T110000
+EXDATE;TZID=America/Los_Angeles:20141211T093000
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+SEQUENCE:0
+SUMMARY:Ministry & Counsel (private)
+URL:http://ptquaker.org/event/ministry-counsel-private/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1018@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES:
+CONTACT:Caroline Wildflower\; 379-5376\; ckwildflower@gmail.com
+DESCRIPTION:<p>A movie\, Race: the Power of Illusion\, will be shown and pe
+ ople will be invited to join on-going discussion groups on race.</p>
+DTSTART;TZID=America/Los_Angeles:20151002T173000
+DTEND;TZID=America/Los_Angeles:20151002T210000
+GEO:+44.526058;-109.051309
+LOCATION:Friends Meetinghouse @ 19th & Sheridan\, Port Townsend\, WA Cody\,
+  WY 82414\, USA
+SEQUENCE:0
+SUMMARY:Conversations on Race 6:30
+URL:http://ptquaker.org/event/conversations-on-race-630/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-690@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Rental
+CONTACT:Maureen Morgan (Mtg. Rep = Connie)\; 344-2991
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151003T123000
+DTEND;TZID=America/Los_Angeles:20151003T153000
+EXDATE;TZID=America/Los_Angeles:20150704T123000
+RRULE:FREQ=MONTHLY;BYDAY=1SA
+SEQUENCE:0
+SUMMARY:UFO Group (rental) – meets 1-3 p.m.
+URL:http://ptquaker.org/event/ufo-group-rental-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-684@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Public
+CONTACT:Ministry and Counsel
+DESCRIPTION:<p>M&C will lead a discussion on the Advices and Queries of the
+  month on<br />\nthe first <span class='aBn' tabindex='0' data-term='goog_
+ 988497030'><span class='aQJ'>Sunday</span></span> of each month\, from <sp
+ an class='aBn' tabindex='0' data-term='goog_988497031'><span class='aQJ'>1
+ 1:30 to 12:30</span></span>.  At the Meetinghouse.</p>\n<p>This is a good 
+ way to get introduced to Quaker ideas\, philosophies\,<br />\nand teaching
+ s.  Everyone is encouraged and invited to come.</p>\n<p>The format will be
+  informal\, with a leader or facilitator to aid in<br />\nthe discussion a
+ nd sharing.  We may decide to use open discussion\, or<br />\nwe may choos
+ e to use more of a “Worship Sharing” type of<br />\nconversation…  Could b
+ e more of a Quaker Dialog even.<br />\nCome to listen and to share.</p>
+DTSTART;TZID=America/Los_Angeles:20151004T113000
+DTEND;TZID=America/Los_Angeles:20151004T123000
+GEO:+48.11347;-122.790993
+LOCATION:PTFM @ 1841 Sheridan Street\, Port Townsend\, WA 98368\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1SU
+SEQUENCE:0
+SUMMARY:Discussion of Monthly Advice & Query
+URL:http://ptquaker.org/event/684/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1029@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Committee Meeting
+CONTACT:Hazel
+DESCRIPTION:<p>Hazel’s house</p>
+DTSTART;TZID=America/Los_Angeles:20151005T110000
+DTEND;TZID=America/Los_Angeles:20151005T130000
+SEQUENCE:0
+SUMMARY:Finance Committee
+URL:http://ptquaker.org/event/finance-committee-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1027@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Committee Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151007T151500
+DTEND;TZID=America/Los_Angeles:20151007T170000
+LOCATION:Meetinghouse
+RDATE;TZID=America/Los_Angeles:20151007T151500
+RDATE;TZID=America/Los_Angeles:20160406T151500
+RDATE;TZID=America/Los_Angeles:20160504T151500
+RDATE;TZID=America/Los_Angeles:20160907T151500
+RDATE;TZID=America/Los_Angeles:20161005T151500
+SEQUENCE:0
+SUMMARY:Meetinghouse Committee
+URL:http://ptquaker.org/event/meetinghouse-committee-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-980@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Peace &amp\; Social Concerns Event
+CONTACT:Hannah Russell\; 344-4889\; ponder.hannah@gmail.com
+DESCRIPTION:<p>Closed groups for Conversations On Race</p>
+DTSTART;TZID=America/Los_Angeles:20151008T184500
+DTEND;TZID=America/Los_Angeles:20151008T214500
+GEO:+48.113693;-122.790439
+LOCATION:Friends Meetinghouse @ 19th Street & Sheridan Street\, Port Townse
+ nd\, WA 98368\, USA
+RDATE;TZID=America/Los_Angeles:20151008T184500
+RDATE;TZID=America/Los_Angeles:20151015T184500
+RDATE;TZID=America/Los_Angeles:20151029T184500
+RDATE;TZID=America/Los_Angeles:20151105T184500
+SEQUENCE:0
+SUMMARY:Conversations On Race 7 pm (private)
+URL:http://ptquaker.org/event/conversations-on-race/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-414@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Public\,Worship
+CONTACT:Clint
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151011T120000
+DTEND;TZID=America/Los_Angeles:20151011T140000
+EXDATE;TZID=America/Los_Angeles:20150712T120000
+RRULE:FREQ=MONTHLY;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:Meeting for Worship with Concern for Business
+URL:http://ptquaker.org/event/meeting-for-worship-with-concern-for-business
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-406@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Committee Meeting\,Worship
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151013T110000
+DTEND;TZID=America/Los_Angeles:20151013T120000
+LOCATION:Life Care Center
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:Spiritual Nurture (private)
+URL:http://ptquaker.org/event/spiritual-nurture-closed-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1025@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES:
+CONTACT:Clint\; 379-5376\; clintw327@gmail.com
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151024T100000
+DTEND;TZID=America/Los_Angeles:20151024T140000
+LOCATION:PT Friends Meetinghouse
+SEQUENCE:0
+SUMMARY:WAVE FOOD DRIVE Drop-Off point
+URL:http://ptquaker.org/event/wave-food-drive-drop-off-point/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1011@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Public\,Rental
+CONTACT:John Morton
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151031T063000
+DTEND;TZID=America/Los_Angeles:20151031T103000
+GEO:+42.520333;-89.013858
+LOCATION:Friends Meetinghouse @ 1841 Sheridan\, po
+SEQUENCE:0
+SUMMARY:Concert
+URL:http://ptquaker.org/event/concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-768@ptquaker.org/wp
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Committee Meeting
+CONTACT:Caroline Wildflower
+DESCRIPTION:<p>Meets the Wed before Monthly Business Meeting</p>
+DTSTART;TZID=America/Los_Angeles:20151209T151500
+DTEND;TZID=America/Los_Angeles:20151209T170000
+EXDATE;TZID=America/Los_Angeles:20150707T151500
+EXDATE;TZID=America/Los_Angeles:20151014T151500
+EXDATE;TZID=America/Los_Angeles:20151111T151500
+EXDATE;TZID=America/Los_Angeles:20160413T151500
+EXDATE;TZID=America/Los_Angeles:20160511T151500
+EXDATE;TZID=America/Los_Angeles:20160713T151500
+EXDATE;TZID=America/Los_Angeles:20160914T151500
+EXDATE;TZID=America/Los_Angeles:20161012T151500
+LOCATION:Meetinghouse
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:Meetinghouse Committee
+URL:http://ptquaker.org/event/meetinghouse-committee-2/
+END:VEVENT
+END:VCALENDAR

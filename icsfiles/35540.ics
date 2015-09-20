@@ -1,0 +1,410 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//143.95.42.122//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://dev16.fwo.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cu9l6qhnf5ib532jnf147t2fco@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us for Ladies Tea at 2:00pm today • Faith World Outreac
+ h Church • Bartlett\, IL • Led by Debby Weiss</p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151018
+LOCATION:Faith World Outreach Church
+SEQUENCE:0
+SUMMARY:Ladies Tea
+URL:http://dev16.fwo.org/event/ladies-tea/
+END:VEVENT
+BEGIN:VEVENT
+UID:h1j5lrbc05q8n6g1srop38n5gg@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160405
+DTEND;VALUE=DATE:20160406
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Pastor and Mrs Weiss Anniversary
+URL:http://dev16.fwo.org/event/pastor-and-mrs-weiss-anniversary/
+END:VEVENT
+BEGIN:VEVENT
+UID:lbkmqve350lser98rdcl7ojlj0@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us this morning\, Saturday • Men’s Prayer with Pastor W
+ eiss • 7:00am\, Faith World Outreach Church • Bartlett\, IL</p>
+DTSTART;TZID=America/Chicago:20150919T070000
+DTEND;TZID=America/Chicago:20150919T073000
+LOCATION:Faith World Outreach Church\, Bartlett
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SEQUENCE:0
+SUMMARY:Men’s Prayer
+URL:http://dev16.fwo.org/event/mens-prayer/
+END:VEVENT
+BEGIN:VEVENT
+UID:0mlbaa85m8oo7kr0vltidvo48c@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us for Men’s Discipleship at 8:00am today • Faith World
+  Outreach Church • Bartlett\, IL • Led by Pastor Ed Weiss</p>
+DTSTART;TZID=America/Chicago:20150919T074500
+DTEND;TZID=America/Chicago:20150919T084500
+EXDATE;TZID=America/Chicago:20150627T074500
+EXDATE;TZID=America/Chicago:20150905T074500
+EXDATE;TZID=America/Chicago:20150912T074500
+LOCATION:Faith World Outreach\, Bartlett\, IL\, United States
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SEQUENCE:0
+SUMMARY:Men’s Discipleship
+URL:http://dev16.fwo.org/event/mens-discipleship/
+END:VEVENT
+BEGIN:VEVENT
+UID:FFF40D7F-C781-4005-AF13-6C9F61408471
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us today\, Sunday • Pastor Ed Weiss • Faith World Outre
+ ach Church • Bartlett\, IL • Starting at 11:00am\, fwo.org/live</p>
+DTSTART;TZID=America/Chicago:20150920T103000
+DTEND;TZID=America/Chicago:20150920T120000
+EXDATE;TZID=America/Chicago:20140622T103000
+EXDATE;TZID=America/Chicago:20141109T103000
+EXDATE;TZID=America/Chicago:20141130T103000
+EXDATE;TZID=America/Chicago:20150503T103000
+EXDATE;TZID=America/Chicago:20150510T103000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Bartlett Service
+URL:http://dev16.fwo.org/event/bartlett-service-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:DF8214CE-BF02-4143-95DF-3CA2E90015A2
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us tonight\, Sunday • Pastor Ed Weiss • Faith World Out
+ reach Church • Bartlett\, IL • Starting at 6:30pm\, fwo.org/live</p>
+DTSTART;TZID=America/Chicago:20150920T180000
+DTEND;TZID=America/Chicago:20150920T200000
+EXDATE;TZID=America/Chicago:20141109T180000
+EXDATE;TZID=America/Chicago:20141130T180000
+EXDATE;TZID=America/Chicago:20150201T180000
+EXDATE;TZID=America/Chicago:20150503T180000
+EXDATE;TZID=America/Chicago:20150510T180000
+LOCATION:Faith World Outreach Church\, Bartlett\, IL
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Evening Service
+URL:http://dev16.fwo.org/event/evening-service-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:1e90j4vb9hth3hiebm29acs3o8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>one hour- just come and pray. Pray for revival\, our nation 
+ and our leaders.<br />\nCan’t make it? Take some time during this hour and
+  pray. </p>
+DTSTART;TZID=America/Chicago:20150921T193000
+DTEND;TZID=America/Chicago:20150921T203000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SEQUENCE:0
+SUMMARY:Prayer for Revival
+URL:http://dev16.fwo.org/event/prayer-for-revival/
+END:VEVENT
+BEGIN:VEVENT
+UID:o0hco848c8gltaejt1g34503ac@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us today\, Tuesdays • Ladies’ Bible Study with Mrs. Wei
+ ss • 1:00 pm\, Faith World Outreach Church • Bartlett\, IL • Childcare pro
+ vided</p>
+DTSTART;TZID=America/Chicago:20150922T133000
+DTEND;TZID=America/Chicago:20150922T150000
+LOCATION:FWOC-Bartlett
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SEQUENCE:0
+SUMMARY:Ladies Bible Study
+URL:http://dev16.fwo.org/event/ladies-bible-study-38/
+END:VEVENT
+BEGIN:VEVENT
+UID:DB5F1F9C-4F96-4729-9FF3-191AB863EA0C
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us tonight\, Thursday • Pastor Ed Weiss • Faith World O
+ utreach Church • Bartlett\, IL • Starting at 7:30pm\, fwo.org/webcast</p>
+DTSTART;TZID=America/Chicago:20150924T190000
+DTEND;TZID=America/Chicago:20150924T210000
+EXDATE;TZID=America/Chicago:20130912T190000
+EXDATE;TZID=America/Chicago:20130926T190000
+EXDATE;TZID=America/Chicago:20131114T190000
+EXDATE;TZID=America/Chicago:20131128T190000
+EXDATE;TZID=America/Chicago:20131219T190000
+EXDATE;TZID=America/Chicago:20131226T190000
+EXDATE;TZID=America/Chicago:20140102T190000
+EXDATE;TZID=America/Chicago:20140925T190000
+EXDATE;TZID=America/Chicago:20141030T190000
+EXDATE;TZID=America/Chicago:20141218T190000
+EXDATE;TZID=America/Chicago:20141225T190000
+EXDATE;TZID=America/Chicago:20150430T190000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Mid-week Service
+URL:http://dev16.fwo.org/event/mid-week-service-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2015925190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20150925T190000
+DTEND;TZID=America/Chicago:20150925T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Night of Worship
+URL:http://dev16.fwo.org/event/youth-redeemed-night-of-worship-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:l9iggml8a8e58bo9g11s49ullo@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us tonight\, Wednesdays • Ladies’ Fellowship with Mrs. 
+ Weiss • We will be getting together for coffee\, fellowship and hearing te
+ stimonies of what God is doing in our lives! • 7:00pm • Location to be det
+ ermined. Please contact Reba @ rebecca.ruiz@fwo.org to be contacted with d
+ etails!</p>
+DTSTART;TZID=America/Chicago:20150930T190000
+DTEND;TZID=America/Chicago:20150930T200000
+EXDATE;TZID=America/Chicago:20150708T190000
+LOCATION:FWOC-Bartlett
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
+SEQUENCE:0
+SUMMARY:Ladies Fellowship
+URL:http://dev16.fwo.org/event/ladies-fellowship/
+END:VEVENT
+BEGIN:VEVENT
+UID:2015102190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151002T190000
+DTEND;TZID=America/Chicago:20151002T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Drama
+URL:http://dev16.fwo.org/event/youth-redeemed-drama-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:2015109190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151009T190000
+DTEND;TZID=America/Chicago:20151009T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Service
+URL:http://dev16.fwo.org/event/youth-redeemed-service-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151016T190000
+DTEND;TZID=America/Chicago:20151016T203000
+EXDATE;TZID=America/Chicago:20141205T190000
+EXDATE;TZID=America/Chicago:20141212T190000
+EXDATE;TZID=America/Chicago:20141219T190000
+EXDATE;TZID=America/Chicago:20141226T190000
+EXDATE;TZID=America/Chicago:20150102T190000
+EXDATE;TZID=America/Chicago:20150109T190000
+EXDATE;TZID=America/Chicago:20150116T190000
+EXDATE;TZID=America/Chicago:20150123T190000
+EXDATE;TZID=America/Chicago:20150130T190000
+EXDATE;TZID=America/Chicago:20150206T190000
+EXDATE;TZID=America/Chicago:20150213T190000
+EXDATE;TZID=America/Chicago:20150220T190000
+EXDATE;TZID=America/Chicago:20150227T190000
+EXDATE;TZID=America/Chicago:20150306T190000
+EXDATE;TZID=America/Chicago:20150313T190000
+EXDATE;TZID=America/Chicago:20150320T190000
+EXDATE;TZID=America/Chicago:20150327T190000
+EXDATE;TZID=America/Chicago:20150403T190000
+EXDATE;TZID=America/Chicago:20150410T190000
+EXDATE;TZID=America/Chicago:20150417T190000
+EXDATE;TZID=America/Chicago:20150424T190000
+EXDATE;TZID=America/Chicago:20150522T190000
+EXDATE;TZID=America/Chicago:20150529T190000
+EXDATE;TZID=America/Chicago:20150605T190000
+EXDATE;TZID=America/Chicago:20150612T190000
+EXDATE;TZID=America/Chicago:20150619T190000
+EXDATE;TZID=America/Chicago:20150626T190000
+EXDATE;TZID=America/Chicago:20150703T190000
+EXDATE;TZID=America/Chicago:20150710T190000
+EXDATE;TZID=America/Chicago:20150717T190000
+EXDATE;TZID=America/Chicago:20150724T190000
+EXDATE;TZID=America/Chicago:20150731T190000
+EXDATE;TZID=America/Chicago:20150807T190000
+EXDATE;TZID=America/Chicago:20150814T190000
+EXDATE;TZID=America/Chicago:20150821T190000
+EXDATE;TZID=America/Chicago:20150828T190000
+EXDATE;TZID=America/Chicago:20150904T190000
+EXDATE;TZID=America/Chicago:20150911T190000
+EXDATE;TZID=America/Chicago:20150918T190000
+EXDATE;TZID=America/Chicago:20150925T190000
+EXDATE;TZID=America/Chicago:20151002T190000
+EXDATE;TZID=America/Chicago:20151009T190000
+EXDATE;TZID=America/Chicago:20151023T190000
+EXDATE;TZID=America/Chicago:20151030T190000
+EXDATE;TZID=America/Chicago:20151106T190000
+EXDATE;TZID=America/Chicago:20151113T190000
+EXDATE;TZID=America/Chicago:20151120T190000
+EXDATE;TZID=America/Chicago:20151127T190000
+EXDATE;TZID=America/Chicago:20151204T190000
+EXDATE;TZID=America/Chicago:20151211T190000
+EXDATE;TZID=America/Chicago:20151218T190000
+EXDATE;TZID=America/Chicago:20151225T190000
+EXDATE;TZID=America/Chicago:20160101T190000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SEQUENCE:0
+SUMMARY:Youth Redeemed
+URL:http://dev16.fwo.org/event/youth-redeemed-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151023190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151023T190000
+DTEND;TZID=America/Chicago:20151023T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Fun Night
+URL:http://dev16.fwo.org/event/youth-redeemed-fun-night-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151030190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151030T190000
+DTEND;TZID=America/Chicago:20151030T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Night of Worship
+URL:http://dev16.fwo.org/event/youth-redeemed-night-of-worship-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151113190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151113T190000
+DTEND;TZID=America/Chicago:20151113T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Service
+URL:http://dev16.fwo.org/event/youth-redeemed-service-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151120190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151120T190000
+DTEND;TZID=America/Chicago:20151120T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Fun Night
+URL:http://dev16.fwo.org/event/youth-redeemed-fun-night-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2015124190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151204T190000
+DTEND;TZID=America/Chicago:20151204T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Drama
+URL:http://dev16.fwo.org/event/youth-redeemed-drama/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151211190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151211T190000
+DTEND;TZID=America/Chicago:20151211T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Christmas Party
+URL:http://dev16.fwo.org/event/youth-redeemed-christmas-party-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151218190000-gh2q2t8bik4q629kt4quit0ci8@google.com
+DTSTAMP:20150920T002344Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
+ IL • For Teens 13-19yrs</p>
+DTSTART;TZID=America/Chicago:20151218T190000
+DTEND;TZID=America/Chicago:20151218T203000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+SEQUENCE:0
+SUMMARY:Youth Redeemed-Nativity
+URL:http://dev16.fwo.org/event/youth-redeemed-nativity/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//162.218.136.94//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.capefearstudios.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1468@www.capefearstudios.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=en-US:Events\,Featured Events
+CONTACT:
+DESCRIPTION:<p>Cape Fear Studios September Fourth Friday exhibit features t
+ he works of our new members.  The studio is fortunate to be able to add th
+ e following artists to our membership: Gail Ferguson\, jeweler\; Guy Jenck
+ s\, potter\; John Fisher\, 2D artist\, Steve Opet\, 2D artist\, Larkin Pfe
+ ffer\, jeweler\; Sook Sienkiewicz\, 2D artist\; and Joanna Yarian\, 2D art
+ ist.   Examples of some of their work are displayed below.</p>\n\n		<style t
+ ype='text/css'>\n			#gallery-1 {\n				margin: auto\;\n			}\n			#gallery-1 .gallery-item
+  {\n				float: left\;\n				margin-top: 10px\;\n				text-align: center\;\n				width: 33%\;
+ \n			}\n			#gallery-1 img {\n				border: 2px solid #cfcfcf\;\n			}\n			#gallery-1 .gallery
+ -caption {\n				margin-left: 0\;\n			}\n			/* see gallery_shortcode() in wp-includes
+ /media.php */\n		</style>\n		<div id='gallery-1' class='gallery galleryid-1504
+  gallery-columns-3 gallery-size-medium'><dl class='gallery-item'>\n			<dt cla
+ ss='gallery-icon landscape'>\n				<a href='http://www.capefearstudios.com/even
+ t/july-and-august-4th-friday-exhibits-features-glass-artist-ben-greene-col
+ onnese/fisher_sailfish/'><img width='300' height='200' src='http://www.cap
+ efearstudios.com/wp-content/uploads/2015/08/FISHER_Sailfish-300x200.jpeg' 
+ class='attachment-medium' alt='Sail fish by John Fisher' aria-describedby=
+ 'gallery-1-1430' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption
+ ' id='gallery-1-1430'>\n				Sail fish by John Fisher\n				</dd></dl><dl class='gal
+ lery-item'>\n			<dt class='gallery-icon landscape'>\n				<a href='http://www.cape
+ fearstudios.com/2014/12/04/slideshow/img_1899/'><img width='300' height='2
+ 25' src='http://www.capefearstudios.com/wp-content/uploads/2015/03/IMG_189
+ 9-300x225.jpg' class='attachment-medium' alt='Pottery by Guy Jencks' aria-
+ describedby='gallery-1-1209' /></a>\n			</dt>\n				<dd class='wp-caption-text gal
+ lery-caption' id='gallery-1-1209'>\n				Pottery by Guy Jencks\n				</dd></dl><dl c
+ lass='gallery-item'>\n			<dt class='gallery-icon landscape'>\n				<a href='http:/
+ /www.capefearstudios.com/event/september-fourth-friday-exhibit-features-ca
+ pe-fear-studios-new-members/getpart/'><img width='300' height='227' src='h
+ ttp://www.capefearstudios.com/wp-content/uploads/2015/08/getPart-300x227.j
+ pg' class='attachment-medium' alt=''Get Part' by Sook  Sienkiewicz\,' aria
+ -describedby='gallery-1-1470' /></a>\n			</dt>\n				<dd class='wp-caption-text ga
+ llery-caption' id='gallery-1-1470'>\n				“Get Part” by Sook  Sienkiewicz\, \n				<
+ /dd></dl><br style='clear: both' /><dl class='gallery-item'>\n			<dt class='g
+ allery-icon portrait'>\n				<a href='http://www.capefearstudios.com/event/sept
+ ember-fourth-friday-exhibit-features-cape-fear-studios-new-members/powder-
+ monkey/'><img width='248' height='300' src='http://www.capefearstudios.com
+ /wp-content/uploads/2015/08/Powder-Monkey-248x300.jpeg' class='attachment-
+ medium' alt=''Powder-Monkey'  by Steve Opet.' aria-describedby='gallery-1-
+ 1471' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id='galle
+ ry-1-1471'>\n				“Powder-Monkey”  by Steve Opet.\n				</dd></dl><dl class='gallery
+ -item'>\n			<dt class='gallery-icon landscape'>\n				<a href='http://www.capefear
+ studios.com/?attachment_id=684'><img width='300' height='225' src='http://
+ www.capefearstudios.com/wp-content/uploads/2014/11/lwp1-300x225.jpg' class
+ ='attachment-medium' alt='Lamp work beaded bracelet by Larkin Pfeffer' ari
+ a-describedby='gallery-1-684' /></a>\n			</dt>\n				<dd class='wp-caption-text ga
+ llery-caption' id='gallery-1-684'>\n				Lamp work beaded bracelet by Larkin Pf
+ effer\n				</dd></dl><dl class='gallery-item'>\n			<dt class='gallery-icon landsc
+ ape'>\n				<a href='http://www.capefearstudios.com/2014/12/04/slideshow/gails-
+ inlay-butterfly-reduced/'><img width='300' height='288' src='http://www.ca
+ pefearstudios.com/wp-content/uploads/2014/12/Gails-inlay-butterfly-reduced
+ -300x288.jpg' class='attachment-medium' alt='Gail Ferguson's inlay Butterf
+ ly' aria-describedby='gallery-1-930' /></a>\n			</dt>\n				<dd class='wp-caption-
+ text gallery-caption' id='gallery-1-930'>\n				Gail Ferguson’s inlay Butterfly
+ \n				</dd></dl><br style='clear: both' />\n		</div>
+DTSTART;TZID=America/New_York:20150925T180000
+DTEND;TZID=America/New_York:20151020T170000
+SEQUENCE:0
+SUMMARY:September Fourth Friday Exhibit features Cape Fear Studios’ New Mem
+ bers
+URL:http://www.capefearstudios.com/event/september-fourth-friday-exhibit-fe
+ atures-cape-fear-studios-new-members/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1465@www.capefearstudios.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=en-US:Events\,Featured Events
+CONTACT:
+DESCRIPTION:<p style='text-align: center\;'>CELEBRATION OF THE ARTS AT CAPE
+  FEAR STUDIOS<br />OCTOBER 11\, 2015 FROM NOON UNTIL 5 PM<br />Art activit
+ ies and fun for all ages.<br />Demonstrations\, children’s activities and 
+ games\, arts<span class='text_exposed_show'><br />and crafts vendors and s
+ ilent auction. Homemade<br />soup lunch in handcrafted bowls – pick your b
+ owl!<br />Cape Fear Studios<br />148 Maxwell Street\, Fayetteville\, NC 28
+ 301</span></p>\n<p style='text-align: center\;'><span class='text_exposed_
+ show'>910-433-2986<br /><span id='skype_c2c_container' class='skype_c2c_co
+ ntainer notranslate' dir='ltr' tabindex='-1' data-numbertocall='+191043329
+ 86' data-numbertype='paid' data-isfreecall='false' data-isrtl='false' data
+ -ismobile='false'><span id='non_free_num_ui' class='skype_c2c_textarea_spa
+ n'></span></span></span></p>\n\n		<style type='text/css'>\n			#gallery-2 {\n				mar
+ gin: auto\;\n			}\n			#gallery-2 .gallery-item {\n				float: left\;\n				margin-top: 10p
+ x\;\n				text-align: center\;\n				width: 33%\;\n			}\n			#gallery-2 img {\n				border: 2px 
+ solid #cfcfcf\;\n			}\n			#gallery-2 .gallery-caption {\n				margin-left: 0\;\n			}\n			/*
+  see gallery_shortcode() in wp-includes/media.php */\n		</style>\n		<div id='g
+ allery-2' class='gallery galleryid-1504 gallery-columns-3 gallery-size-med
+ ium'><dl class='gallery-item'>\n			<dt class='gallery-icon landscape'>\n				<a hr
+ ef='http://www.capefearstudios.com/support/attachment/052/'><img width='30
+ 0' height='258' src='http://www.capefearstudios.com/wp-content/uploads/201
+ 4/10/052-300x258.jpg' class='attachment-medium' alt='CFS members Celebrate
+  the Arts!' aria-describedby='gallery-2-483' /></a>\n			</dt>\n				<dd class='wp-
+ caption-text gallery-caption' id='gallery-2-483'>\n				CFS members Celebrate t
+ he Arts!\n				</dd></dl><dl class='gallery-item'>\n			<dt class='gallery-icon lan
+ dscape'>\n				<a href='http://www.capefearstudios.com/?attachment_id=479'><img
+  width='300' height='249' src='http://www.capefearstudios.com/wp-content/u
+ ploads/2014/10/036-300x249.jpg' class='attachment-medium' alt='Jaylene Nor
+ dgren demonstrates how to make stained glass stars.' aria-describedby='gal
+ lery-2-479' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id=
+ 'gallery-2-479'>\n				Jaylene Nordgren demonstrates how to make stained glass 
+ stars.\n				</dd></dl><dl class='gallery-item'>\n			<dt class='gallery-icon lands
+ cape'>\n				<a href='http://www.capefearstudios.com/2014/11/12/cape-fear-studi
+ os-celebrates-the-arts-recap/cfs-arts-fest-28/'><img width='300' height='2
+ 00' src='http://www.capefearstudios.com/wp-content/uploads/2014/11/CFS-Art
+ s-fest-28-300x200.jpg' class='attachment-medium' alt='Brandon Bass creates
+  a carricature.' aria-describedby='gallery-2-402' /></a>\n			</dt>\n				<dd class
+ ='wp-caption-text gallery-caption' id='gallery-2-402'>\n				Brandon Bass creat
+ es a carricature.\n				</dd></dl><br style='clear: both' /><dl class='gallery-
+ item'>\n			<dt class='gallery-icon landscape'>\n				<a href='http://www.capefears
+ tudios.com/2014/11/12/cape-fear-studios-celebrates-the-arts-recap/cfs-arts
+ -fest-27/'><img width='300' height='200' src='http://www.capefearstudios.c
+ om/wp-content/uploads/2014/11/CFS-Arts-fest-27-300x200.jpg' class='attachm
+ ent-medium' alt='Sandra McFarlane and Annette Szczkutek  demonstrate how t
+ o paint with water color and oil paint.' aria-describedby='gallery-2-401' 
+ /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id='gallery-2-4
+ 01'>\n				Sandra McFarlane and Annette Szczkutek  demonstrate how to paint wit
+ h water color and oil paint. \n				</dd></dl><dl class='gallery-item'>\n			<dt cl
+ ass='gallery-icon landscape'>\n				<a href='http://www.capefearstudios.com/201
+ 4/11/12/cape-fear-studios-celebrates-the-arts-recap/cfs-arts-fest-22/'><im
+ g width='300' height='200' src='http://www.capefearstudios.com/wp-content/
+ uploads/2014/11/CFS-Arts-fest-22-300x200.jpg' class='attachment-medium' al
+ t='Greg Hathaway  pulls a raku pot out of the kiln.' aria-describedby='gal
+ lery-2-400' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id=
+ 'gallery-2-400'>\n				Greg Hathaway  pulls a raku pot out of the kiln.\n				</dd><
+ /dl><dl class='gallery-item'>\n			<dt class='gallery-icon landscape'>\n				<a hre
+ f='http://www.capefearstudios.com/2014/11/12/cape-fear-studios-celebrates-
+ the-arts-recap/cfs-arts-fest-13/'><img width='300' height='200' src='http:
+ //www.capefearstudios.com/wp-content/uploads/2014/11/CFS-Arts-fest-13-300x
+ 200.jpg' class='attachment-medium' alt='Another vendor displays her work.'
+  aria-describedby='gallery-2-395' /></a>\n			</dt>\n				<dd class='wp-caption-tex
+ t gallery-caption' id='gallery-2-395'>\n				Another vendor displays her work. 
+ \n				</dd></dl><br style='clear: both' /><dl class='gallery-item'>\n			<dt class
+ ='gallery-icon landscape'>\n				<a href='http://www.capefearstudios.com/2014/1
+ 1/12/cape-fear-studios-celebrates-the-arts-recap/cfs-arts-fest-4/'><img wi
+ dth='300' height='221' src='http://www.capefearstudios.com/wp-content/uplo
+ ads/2014/11/CFS-Arts-fest-4-300x221.jpg' class='attachment-medium' alt='Pa
+ tti Speights displays her pottery.' aria-describedby='gallery-2-391' /></a
+ >\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id='gallery-2-391'>
+ \n				Patti Speights displays her pottery.\n				</dd></dl><dl class='gallery-item'
+ >\n			<dt class='gallery-icon landscape'>\n				<a href='http://www.capefearstudio
+ s.com/2014/11/12/cape-fear-studios-celebrates-the-arts-recap/cfs-arts-fest
+ -3/'><img width='300' height='176' src='http://www.capefearstudios.com/wp-
+ content/uploads/2014/11/CFS-Arts-fest-3-300x176.jpg' class='attachment-med
+ ium' alt='One of the vendors at the Celebration of the Arts.' aria-describ
+ edby='gallery-2-390' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-cap
+ tion' id='gallery-2-390'>\n				One of the vendors at the Celebration of the Ar
+ ts.\n				</dd></dl><dl class='gallery-item'>\n			<dt class='gallery-icon landscap
+ e'>\n				<a href='http://www.capefearstudios.com/2014/11/12/cape-fear-studios-
+ celebrates-the-arts-recap/cfs-arts-fest-2/'><img width='300' height='269' 
+ src='http://www.capefearstudios.com/wp-content/uploads/2014/11/CFS-Arts-fe
+ st-2-300x269.jpg' class='attachment-medium' alt='Sylvia Elam demonstrates 
+ her beading techniques.' aria-describedby='gallery-2-389' /></a>\n			</dt>\n				<
+ dd class='wp-caption-text gallery-caption' id='gallery-2-389'>\n				Sylvia Ela
+ m demonstrates her beading techniques.\n				</dd></dl><br style='clear: both' 
+ />\n		</div>\n\n<p style='text-align: center\;'><span class='text_exposed_sh
+ ow'><span id='skype_c2c_container' class='skype_c2c_container notranslate'
+  dir='ltr' tabindex='-1' data-numbertocall='+19104332986' data-numbertype=
+ 'paid' data-isfreecall='false' data-isrtl='false' data-ismobile='false'><s
+ pan class='skype_c2c_highlighting_inactive_common' dir='ltr'><span id='non
+ _free_num_ui' class='skype_c2c_textarea_span'><img class='skype_c2c_logo_i
+ mg' src='chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/call_skype_lo
+ go.png' alt='' width='0' height='0' /></span></span></span></span></p>
+DTSTART;TZID=America/New_York:20151011T120000
+DTEND;TZID=America/New_York:20151011T170000
+SEQUENCE:0
+SUMMARY:Cape Fear Studios presents the Celebrations of the Arts October 11\
+ , 2015
+URL:http://www.capefearstudios.com/event/cape-fear-studios-presents-the-cel
+ ebrations-of-the-arts-october-11-2015/
+END:VEVENT
+END:VCALENDAR

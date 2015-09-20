@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.5.76//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://kevinmooneypoet.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-329@kevinmooneypoet.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Appearnces\,Art Festival
+CONTACT:
+DESCRIPTION:<p><a href='http://artprize.org'>ArtPrize</a> – Now is your cha
+ nce to see Kevin’s three component art project titled “The Field Of Poetry
+ ”.  This includes the 44 yellow yard signs\, mimicking a field of daffodil
+ s with his  original poetry on them\, that gives the project its name.  It
+  also includes the ‘root’ of “The Field of Poetry” titled “The Soul Travel
+ er” which is Kevin’s moving 30 minute presentation reciting his various po
+ etry while detailing the four themes of his work:  Love\, Fear\, Forgivene
+ ss\, and Being in the world not of the world.  And the third component are
+  the ‘seeds’ of “The Field of Poetry” compiled in the two volume set title
+ d “The Wandering Crane”.  Don’t miss your chance to see all three componen
+ ts together with the author reading from his own work.  Not to be missed!<
+ /p>
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20151012
+GEO:+42.963568;-85.663298
+LOCATION:First United Methodist Church @ 227 Fulton Street East\, Grand Rap
+ ids\, MI 49503\, USA
+SEQUENCE:0
+SUMMARY:ArtPrize\, Grand Rapids\, MI
+URL:http://kevinmooneypoet.com/event/artprize-grand-rapids-mi/
+X-TAGS;LANGUAGE=en-US:Art Festival\,books\,Grand Rapids\,In Person\,Mooney\
+ ,Poetry
+END:VEVENT
+END:VCALENDAR

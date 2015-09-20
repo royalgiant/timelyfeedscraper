@@ -1,0 +1,478 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//72.14.179.80//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.utahbicyclelawyers.com
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3253@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:criterium\,Races
+CONTACT:Ben Towery\; 801-389-7247\; teamexcelerator@gmail.com\; https://www
+ .facebook.com/pages/Harvest-Moon-Criterium/209833595739735?sk=info&tab=pag
+ e_info
+DESCRIPTION:<p>The Harvest Moon Criterium is a fast and flat 4 corner crite
+ rium bicycle race in downtown Ogden.</p>
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150920
+GEO:+41.220555;-111.973058
+LOCATION:City Hall Park @ Ogden\, UT\, USA
+SEQUENCE:0
+SUMMARY:Harvest Moon Criterium
+URL:http://www.utahbicyclelawyers.com/event/harvest-moon-criterium-2
+X-COST:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3226@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Races\,Road Races
+CONTACT:435.260.8889 \; info@skinnytireevents.com\; http://www.skinnytireev
+ ents.com/page.cfm?pageid=20054
+DESCRIPTION:<p>This breathtaking route travels along highway 279\, past anc
+ ient Anasazi petroglyphs and sculpted red rock formations to the stunning 
+ overlook at Dead Horse Point. This is a fully-supported ride with aid stat
+ ions.</p>
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150920
+LOCATION:Moab @ Travels down highway 279
+SEQUENCE:0
+SUMMARY:Moab Century Tour
+URL:http://www.utahbicyclelawyers.com/event/moab-century-tour-2
+X-COST:TBD
+X-TICKETS-URL:http://www.skinnytireevents.com/page.cfm?pageid=20054
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3348@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Rides
+CONTACT:Jason Eborn\; 801-479-5460\; jeborn@bsamail.org\; https://www.faceb
+ ook.com/events/275067486029780/
+DESCRIPTION:<div class='cards-text-truncate-and-wrap'>The event is fully su
+ pported with a 50 and 100-mile course option and bicycle mechanics and res
+ t stops almost every 10 miles of the 50 mile loop around the lake.</p>\n<p
+ >The event will begin and end at the LDS church in Garden City – on the we
+ st shore of Bear Lake\, Utah. Last year overnight camping was available at
+  Campy Hunt.</p></div>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150927
+GEO:+41.945664;-111.394697
+LOCATION:Garden City @ 65 South Bear Lake Boulevard\, Garden City\, UT 8402
+ 8\, USA
+SEQUENCE:0
+SUMMARY:Bike the Bear 2015
+URL:http://www.utahbicyclelawyers.com/event/bike-the-bear-2015
+X-COST:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3325@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Relay Race
+CONTACT:Clay Christensen\; 801-234-0399\; info@salttosaint.com\; http://www
+ .salttosaint.com/
+DESCRIPTION:<p>This relay-ride traverses more than 400 miles and leads cycl
+ ists from Salt Lake City to St George. Cyclists start at This Is the Place
+  at Heritage Park and ride various legs\, which are an average of 17 miles
+ . Teams of 8 people\, 4 people\, and even solo rides are allowed.</p>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150927
+GEO:+40.753717;-111.815419
+LOCATION:This is the Place Heritage Park @ 2601 East Sunnyside Avenue\, Sal
+ t Lake City\, UT 84108\, USA
+SEQUENCE:0
+SUMMARY:Salt to Saint Relay
+URL:http://www.utahbicyclelawyers.com/event/salt-to-saint-relay-2
+X-COST:Solo: $140-180\, 4-person: $440-560\, 8-person:$760-1000
+X-TICKETS-URL:http://www.salttosaint.com/registration/#.VS2NrfnF_wo
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3372@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Tours
+CONTACT:Cycling Escapes\; 714-267-4591\; info@cyclingescapes.com\; http://w
+ ww.cyclingescapes.com/bicycletours/utah/zion-bryce/biketour.html
+DESCRIPTION:<p>During this full week of biking you will see Utah’s most str
+ iking and unique landscapes as you tour through Zion\, Bryce\, and Capitol
+  Reef National Parks as well as along the Burr Trail\, Lake Powell\, and t
+ he Grand Staircase. In just seven days you’ll bike 435 miles and climb 29\
+ ,000 feet.</p>
+DTSTART;VALUE=DATE:20150927
+DTEND;VALUE=DATE:20151004
+GEO:+37.188871;-112.998552
+LOCATION:Springdale\, UT\, USA
+SEQUENCE:0
+SUMMARY:Bike 5 Utah National Parks
+URL:http://www.utahbicyclelawyers.com/event/bike-5-utah-national-parks-3
+X-COST:$2\,095
+X-TICKETS-URL:http://www.cyclingescapes.com/bicycletours/utah/zion-bryce/bi
+ ketour.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3232@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Races\,Road Races
+CONTACT:Mark Staffieri\; 858-442-5070\; herorideutah@gmail.com\,\; http://h
+ erorideutah.com/hero-ride/
+DESCRIPTION:<p>This is an annual fundraiser that supports the Thursday’s He
+ roes Foundation\, which offers help to families struggling and facing daun
+ ting challenges on a daily basis.</p>\n<p>There is a 30\, 60\, and 100-mil
+ e course option.  The race is fully supported.</p>
+DTSTART;TZID=America/Denver:20150919T070000
+GEO:+40.535763;-111.450496
+LOCATION:Heber Valley Artisan Cheese Factory @ 920 North River Road\, Midwa
+ y\, UT 84049\, USA
+SEQUENCE:0
+SUMMARY:Hero Ride 2015
+URL:http://www.utahbicyclelawyers.com/event/hero-ride-2015
+X-COST:TBD
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3345@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:century\,Races\,Rides
+CONTACT:(801) 563-4100\; info@millionmilesatmiller.com\; http://www.million
+ milesatmiller.com/about/
+DESCRIPTION:<p>This charity ride began as a “way to raise funds\, caring\, 
+ and awareness for causes in our community.” This ride has a 100\, 55\, 25\
+ , and even a 10-mile ride option. No matter the course you choose\, the ri
+ de will be fully supported and starts at the District in South Jordan.</p>
+ \n<p>This year’s proceeds go to Make-a-Wish Utah.</p>\n<p>It’s a great way
+  to enjoy your time on your bike while still showing how cyclists care for
+  the community. “One bike.  Two wheels.  A Million ways to share.”</p>
+DTSTART;TZID=America/Denver:20150919T073000
+DTEND;TZID=America/Denver:20150919T160000
+GEO:+40.539657;-111.980841
+LOCATION:The District @ The District\, 3761 West Parkway Plaza Drive\, Sout
+ h Jordan\, UT 84095\, USA
+SEQUENCE:0
+SUMMARY:Million Miles at Miller
+URL:http://www.utahbicyclelawyers.com/event/million-miles-at-miller
+X-COST:$45
+X-TICKETS-URL:https://mmm.pulsemob.com/event/million-miles-at-miller-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3336@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:century\,Rides
+CONTACT:Mahogani Thurston\; 801-318-1420\; wonderwomanride@gmail.com\; http
+ ://wonderwomanride.com/
+DESCRIPTION:<p>With a 15\, 30\, 70\, and 100-mile course\, there’s a ride f
+ or every wonder woman in Utah. The course starts in Payson and tours throu
+ gh Southern Utah County’s beautiful countryside.</p>\n<p>The ride is fully
+  supported with 6 aid stations and a lunch stop for the century and 70-mil
+ e riders.</p>
+DTSTART;TZID=America/Denver:20150919T073000
+GEO:+40.033101;-111.732364
+LOCATION:700 South Main Street\, Payson\, UT 84651\, USA
+SEQUENCE:0
+SUMMARY:Wonder Woman Ride
+URL:http://www.utahbicyclelawyers.com/event/wonder-woman-ride
+X-COST:100 & 70-mile $60\; 30-mile $50\; 15-mile $40
+X-TICKETS-URL:https://www.raceentry.com/races/wonder-woman-ride/2015/regist
+ er
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3346@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:century\,Races\,Rides
+CONTACT:Mary Fresques\; (801) 532-2335\; http://fightcf.cff.org/site/TR/Cyc
+ le/General?fr_id=3735&pg=entry
+DESCRIPTION:<p>This is a fully-supported ride with 20\, 40\, 60\, 80\, & 10
+ 0-mile route options. There are rest stops every 10-12 miles.</p>\n<p>“Thi
+ s unique event empowers participants to take action and demonstrate their 
+ fight in finding a cure for cystic fibrosis in a tangible\, emotional and 
+ powerful way.”</p>
+DTSTART;TZID=America/Denver:20150919T080000
+GEO:+40.917454;-111.395512
+LOCATION:Coalville City Park/Rodeo Grounds @ 100 Park Road\, Coalville\, UT
+  84017\, USA
+SEQUENCE:0
+SUMMARY:Aptalis Cystic Fibrosis Cycle for Life
+URL:http://www.utahbicyclelawyers.com/event/aptalis-cystic-fibrosis-cycle-f
+ or-life-2
+X-COST:$25 (This is a fundraising ride)
+X-TICKETS-URL:https://secure2.convio.net/cffh/site/TRR/Cycle/General/143202
+ 2288?pg=ptype&fr_id=3735
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3250@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Races\,Road Races
+CONTACT:Rodney Martin\; 801-427-6400\; info@utahtourdedonut.org\; http://ut
+ ahtourdedonut.org/tdd/?page_id=89
+DESCRIPTION:<p>You won’t to miss one of Utah’s most unique and wacky races!
+  This 21-mile race allows riders to both have their donut and eat it too a
+ s they go from station to station where fresh\, warm donuts await.</p>\n<p
+ >Racers can choose either to cruise by or stop for a tasty snack. For ever
+ y donut a you eat\, three minutes will be knocked off your final time at t
+ he end of the race. So\, those who expect to place needed to get their leg
+ s and stomachs ready for this delicious ride.</p>\n<p>All the proceeds fro
+ m this ride go to fund projects by the American Fork Rotary.</p>
+DTSTART;TZID=America/Denver:20150919T080000
+GEO:+40.352336;-111.776191
+LOCATION:North Point Business Park @ 1000 South 820 East\, American Fork\, 
+ UT 84003\, USA
+SEQUENCE:0
+SUMMARY:Tour de Donut
+URL:http://www.utahbicyclelawyers.com/event/tour-de-donut-2
+X-COST:TBD
+X-TICKETS-URL:http://utahtourdedonut.org/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3347@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Rides
+CONTACT:http://autismcouncilofutah.org/events/coldwell-banker-parkway-pedal
+ -a-bide-ride-for-autism/
+DESCRIPTION:<p>This is a bike ride to raise money and awareness for autism.
+  Bike along the beautiful Jordan River Parkway and Legacy Parkway to help 
+ contribute to a good cause.</p>
+DTSTART;TZID=America/Denver:20150919T225300
+DTEND;TZID=America/Denver:20150919T235300
+LOCATION:Jordan River Parkway
+SEQUENCE:0
+SUMMARY:Coldwell Banker Parkway Pedal
+URL:http://www.utahbicyclelawyers.com/event/coldwell-banker-parkway-pedal
+X-COST:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3238@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES:
+CONTACT:Biker's Edge\; 801-544-5300\; info@bebikes.com\; http://bebikes.com
+ /2015/03/17/group-rides-are-go/
+DESCRIPTION:<p>These are free events open to all.  Biker’s Edge hosts two r
+ ides a week\, a Wednesday night more moderate hour-long ride and a Thursda
+ y night more intense hour-long ride.  Meet at the Biker’s Edge parking lot
+ .</p>
+DTSTART;TZID=America/Denver:20150924T174500
+DTEND;TZID=America/Denver:20150924T190000
+GEO:+41.039158;-111.938024
+LOCATION:Biker's Edge Parking Lot @ 232 North Main Street\, Kaysville\, UT 
+ 84037\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150925T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:BE Weekly Rides
+URL:http://www.utahbicyclelawyers.com/event/be-weekly-rides
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3327@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Hill Climbs
+CONTACT:Misty\; 801-933-2222\; misty@snowbird.com\; http://www.snowbird.com
+ /events/bicycle-hill-climb/
+DESCRIPTION:<p>This will be the 37th Annual Snowbird Hill Climb followed by
+  the Ultra Hill Climb. Climb 10 miles and 3\,500 feet!</p>\n<p>The gruelin
+ g road bike race up the canyon brings competitors to the base of Snowbird.
+ </p>\n<p>Those who are looking for more punishment may press on with the U
+ ltra Hill Climb. This mountain bike race starts in Gad Valley and traverse
+ s up the mountain to the top of Hidden Peak.</p>\n<p>After the race\, rela
+ x and enjoy snacks\, awards and beautiful scenery.</p>
+DTSTART;TZID=America/Denver:20150926T090000
+DTEND;TZID=America/Denver:20150926T120000
+GEO:+40.580927;-111.833439
+LOCATION:Canyon Shopping Center\, 9400 South 2000 East\, Sandy\, UT 84092\,
+  USA
+SEQUENCE:0
+SUMMARY:Snowbird Hill Climb
+URL:http://www.utahbicyclelawyers.com/event/snowbird-hill-climb-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1323@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:Zac Whitmore\; 801-356-1378\; zwhitmore@gmail.com
+DESCRIPTION:<p>The Provo Bike Committee meets monthly to promote bicycle sa
+ fety\, cycling culture\, and better relations with motorists. They meet in
+  the Provo City Building on the first Thursday of each month.</p>\n<p><a h
+ ref='http://www.bikeprovo.org/'>Provo Bike Committee website</a></p>
+DTSTART;TZID=America/Denver:20151001T003000
+DTEND;TZID=America/Denver:20151001T013000
+LOCATION:Provo City Building @ 351 West Center Street\, Provo\, UT 84601\, 
+ USA
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+SEQUENCE:0
+SUMMARY:Provo Bike Committee
+URL:http://www.utahbicyclelawyers.com/event/provo-bike-committee
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1321@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:Greg Hoole\; 801-272-7556\; greg@hooleking.com
+DESCRIPTION:<p>The committee meets from 6 to 6:45 PM on the first Tuesday o
+ f each month in the Hy Nielson Room of the Holladay City building. The Hol
+ laday Bicycle Advisory Committee convenes monthly to discuss how to improv
+ e bicycle safety and encourage cycling generally throughout the city.</p>
+ \n<p>Interested residents may visit committee meetings or contact the comm
+ ittee for additional information.</p>\n<p><a href='http://www.cityofhollad
+ ay.com/modules.php?op=modload&name=News&file=article&sid=1013'>Holladay Bi
+ cycle Advisory Committee web page</a></p>
+DTSTART;TZID=America/Denver:20151006T010000
+DTEND;TZID=America/Denver:20151006T014500
+LOCATION:Holladay City Building @ 4580 South 2300 East\, Holladay\, UT 8411
+ 7\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1TU
+SEQUENCE:0
+SUMMARY:Holladay Bicycle Advisory Committee
+URL:http://www.utahbicyclelawyers.com/event/holladay-bicycle-advisory-commi
+ ttee
+X-COST:free
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3199@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Rides\,Tours
+CONTACT:Don Williams\; 801-641-4020\; roadcaptain@bccutah.org\; http://bccu
+ tah.org/calendar/super-series/
+DESCRIPTION:<p>This 100-mile ride is part of the Bonneville Cycling Club’s 
+ super series.  Enjoy the fall leaves and cool weather with this flat\, eas
+ y ride through Salt Lake. Check the BCC website to find out the meeting pl
+ ace before the ride.</p>
+DTSTART;TZID=America/Denver:20151010T090000
+LOCATION:TBD
+SEQUENCE:0
+SUMMARY:BCC Fall Flat 100
+URL:http://www.utahbicyclelawyers.com/event/bcc-fall-flat-100
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3335@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Hill Climbs\,Races
+CONTACT:James Zwick\; 801-583-6281\; http://www.sports-am.com/City-Creek-Bi
+ ke-Sprint.html
+DESCRIPTION:<p>Bike season isn’t over yet! Come out for this 6-mile hill cl
+ imb up City Creek Canyon. There will be food\, music\, and awards at the f
+ inish line at Rotary Park. This is a great ride for road bikes\, mountain 
+ bikes\, and people of all ages.</p>
+DTSTART;TZID=America/Denver:20151010T100000
+GEO:+40.790187;-111.879047
+LOCATION:Mouth of City Creek
+SEQUENCE:0
+SUMMARY:City Creek Bike Sprint
+URL:http://www.utahbicyclelawyers.com/event/city-creek-bike-sprint-2
+X-COST:$25 before Sept. 28th\; $30 after
+X-TICKETS-URL:http://www.sports-am.com/City-Creek-Bike-Sprint.html
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3349@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Tours
+CONTACT:
+DESCRIPTION:<p>Want to get out and ride without the intense competition? Th
+ is is a great 25-mile\, non-competitive bike tour that follows the South J
+ ordan marathon route.</p>
+DTSTART;TZID=America/Denver:20151017T070000
+GEO:+40.541196;-112.014494
+LOCATION:University of Utah Health Care\, 5126 Daybreak Parkway\, South Jor
+ dan\, UT 84095\, USA
+SEQUENCE:0
+SUMMARY:SoJo Marathon Bike Tour
+URL:http://www.utahbicyclelawyers.com/event/sojo-marathon-bike-tour
+X-COST:$28 until April 30th\; $35 until October 14
+X-TICKETS-URL:http://www.sojomarathon.com/registration.asp
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3205@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Races\,Road Races
+CONTACT:Margaret Gibson\; (435) 229-6251\; margaret@spingeeks.com\; http://
+ www.spingeeks.com/event/fall-tour-de-st-george/
+DESCRIPTION:<p>With a 35\, 75\, and 100-mile option in the mild fall of Sai
+ nt George\, this makes for a beautiful race for any athletic level.  The c
+ ourses will travel through scenic Sand Hollow State Park and Quail Creek S
+ tate Park.</p>\n<p>The event will be chipped timed with fully stocked rest
+  stops and lunch. You will also receive an event medal\, bag\, and water b
+ ottle with your registration.  You will gain 1083 feet of elevation for th
+ e 35-mile race\, 4530 feet for the 75-mile course\, and 5981 feet for the 
+ 100-mile course.</p>
+DTSTART;TZID=America/Denver:20151024T080000
+DTEND;TZID=America/Denver:20151024T170000
+GEO:+37.073513;-113.609369
+LOCATION:Tonaquint Intermediate School @ 1210 West Curly Hollow Drive\, Sai
+ nt George\, UT 84770\, USA
+SEQUENCE:0
+SUMMARY:Fall Tour De Saint George
+URL:http://www.utahbicyclelawyers.com/event/fall-tour-de-saint-george
+X-COST:100-mile $70-$80\; 75-mile $60-$70\; 35-mile $40-$50
+X-TICKETS-URL:https://redrockbicycle.com/event/fall-tour-de-st-george-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1324@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Community Events\,Rides
+CONTACT:noemail@cyclingutah.com
+DESCRIPTION:<p>Monthly short ride for cyclists of all ages. Takes place the
+  last Friday of each month at 6:30 PM\, starting from the Gallivan Center.
+ </p>
+DTSTART;TZID=America/Denver:20151030T003000
+DTEND;TZID=America/Denver:20151030T013000
+LOCATION:Gallivan Center @ 239 South Main Street\, Salt Lake City\, UT 8411
+ 1\, USA
+RRULE:FREQ=MONTHLY;BYDAY=5FR
+SEQUENCE:0
+SUMMARY:Salt Lake Critical Mass
+URL:http://www.utahbicyclelawyers.com/event/salt-lake-critical-mass
+X-COST:Free
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3206@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Mountain Bike Races\,Races\,Road Races
+CONTACT:Margaret Gibson\; (435) 229-6251\; margaret@spingeeks.com\; http://
+ www.spingeeks.com/event/groovy-gravel-grinder/
+DESCRIPTION:<p>The cycling season isn’t over yet!  Get out and get moving t
+ hrough the startlingly beautiful deserts and state parks surrounding Saint
+  George in this fun ride.</p>
+DTSTART;TZID=America/Denver:20151107T080000
+DTEND;TZID=America/Denver:20151107T170000
+LOCATION:Saint George @ More details to follow
+SEQUENCE:0
+SUMMARY:Groovy Gravel Grinder
+URL:http://www.utahbicyclelawyers.com/event/groovy-gravel-grinder
+X-COST:TBD
+X-TICKETS-URL:http://www.spingeeks.com/event/groovy-gravel-grinder/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3350@www.utahbicyclelawyers.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Rides
+CONTACT:Dan Burton\; 801-653-2039\; epicbiking@gmail.com\; http://blog.dan.
+ burton.name/p/blog-page_26.html
+DESCRIPTION:<p>After all of that Thanksgiving turkey and pie\, it feels nic
+ e to get out and ride. Come out for this fun ride to benefit the Utah Food
+  Bank.</p>\n<p>The event is free\, as long as you bring some food to donat
+ e.</p>
+DTSTART;TZID=America/Denver:20151128T090000
+GEO:+40.385604;-111.914654
+LOCATION:1306 North Redwood Road\, Saratoga Springs\, UT 84045\, USA
+SEQUENCE:0
+SUMMARY:Saturday Fatter-day
+URL:http://www.utahbicyclelawyers.com/event/saturday-fatter-day
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

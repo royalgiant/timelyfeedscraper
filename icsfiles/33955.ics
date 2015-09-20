@@ -1,0 +1,442 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//108.241.253.145//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.totallydivineyoga.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-197@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150919T103000
+DTEND;TZID=America/Chicago:20150919T114500
+EXDATE;TZID=America/Chicago:20140405T103000
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
+ 3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1285@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit Khalsa\; 210-828-4177\; info@totallydivineyoga.com
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150919T133000
+DTEND;TZID=America/Chicago:20150919T171500
+GEO:+29.510187;-98.468992
+LOCATION:Healing Sessions @ 1607 West Lawndale Drive\, San Antonio\, TX 782
+ 09\, USA
+SEQUENCE:0
+SUMMARY:Healing Light & Bliss Sessions
+URL:http://www.totallydivineyoga.com/event/healing-light-bliss-sessions/
+X-COST:$75 if pd by 9/13 OR $100 after
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1286@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit Khalsa\; 210-828-4177\; info@totallydivineyoga.com
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150920T090000
+DTEND;TZID=America/Chicago:20150920T114500
+GEO:+29.510187;-98.468992
+LOCATION:Healing Sessions @ 1607 West Lawndale Drive\, San Antonio\, TX 782
+ 09\, USA
+SEQUENCE:0
+SUMMARY:Healing Light & Bliss Sessions
+URL:http://www.totallydivineyoga.com/event/healing-light-bliss-sessions-2/
+X-COST:$75 if pd by 9/13 OR $100 after
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-452@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150920T103000
+DTEND;TZID=America/Chicago:20150920T120000
+EXDATE;TZID=America/Chicago:20150906T103000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Kundalini Yoga\, 10 Light Bodies\, Gong & Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-w-gong-meditation
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1246@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit \; 210-828-4177\; info@totallydivineyoga.com
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150920T130000
+DTEND;TZID=America/Chicago:20150920T160000
+SEQUENCE:0
+SUMMARY:Yogashop for Fall Equinox
+URL:http://www.totallydivineyoga.com/event/yogashop-for-fall-equinox/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-188@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Manavjot/Lisa
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150921T091500
+DTEND;TZID=America/Chicago:20150921T103000
+EXDATE;TZID=America/Chicago:20150907T091500
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga w/Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-5
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1287@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit Khalsa\; 210-828-4177\; info@totallydivineyoga.com
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150921T110000
+DTEND;TZID=America/Chicago:20150921T161500
+GEO:+29.510187;-98.468992
+LOCATION:Healing Sessions @ 1607 West Lawndale Drive\, San Antonio\, TX 782
+ 09\, USA
+SEQUENCE:0
+SUMMARY:Healing Light & Bliss Sessions
+URL:http://www.totallydivineyoga.com/event/healing-light-bliss-sessions-3/
+X-COST:$75 if pd by 9/13 OR $100 after
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-741@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Adeshpal/Jamie
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150921T120000
+DTEND;TZID=America/Chicago:20150921T131500
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
+ 6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1254@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150921T160000
+DTEND;TZID=America/Chicago:20150921T171500
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
+ 7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-190@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Sat Bachan
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150921T181500
+DTEND;TZID=America/Chicago:20150921T193000
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga Workout & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-6
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-165@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Liv Kiret
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150922T091500
+DTEND;TZID=America/Chicago:20150922T103000
+EXDATE;TZID=America/Chicago:20150901T091500
+GEO:+29.509982;-98.469014
+LOCATION:Divine Yoga @ 1609 West Lawndale Drive\, San Antonio\, TX 78209\, 
+ USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Chakras
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-chakras/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1255@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit\; 210-828-4177
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150922T120000
+DTEND;TZID=America/Chicago:20150922T131500
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
+ 8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-168@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Sat Bachan
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150922T180000
+DTEND;TZID=America/Chicago:20150922T190000
+EXDATE;TZID=America/Chicago:20141223T180000
+EXDATE;TZID=America/Chicago:20141230T180000
+EXDATE;TZID=America/Chicago:20150526T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-169@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Sat Bachan
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150922T191500
+DTEND;TZID=America/Chicago:20150922T201500
+EXDATE;TZID=America/Chicago:20141223T191500
+EXDATE;TZID=America/Chicago:20141230T191500
+EXDATE;TZID=America/Chicago:20150526T191500
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-192@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Liv Kiret - Jasmine
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T091500
+DTEND;TZID=America/Chicago:20150923T103000
+EXDATE;TZID=America/Chicago:20150812T091500
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-8
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-193@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Adeshpal - Jamie
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T120000
+DTEND;TZID=America/Chicago:20150923T131500
+EXDATE;TZID=America/Chicago:20150805T120000
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-9
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-194@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Prabhudan - Michelle
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T180000
+DTEND;TZID=America/Chicago:20150923T191500
+EXDATE;TZID=America/Chicago:20150513T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
+ 0/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-164@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Liv Kiret - Jasmine
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150924T091500
+DTEND;TZID=America/Chicago:20150924T103000
+EXDATE;TZID=America/Chicago:20141127T091500
+EXDATE;TZID=America/Chicago:20141225T091500
+EXDATE;TZID=America/Chicago:20150101T091500
+LOCATION:Totally Divine Yoga
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga\, Pranayam & Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-170@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150924T180000
+DTEND;TZID=America/Chicago:20150924T190000
+EXDATE;TZID=America/Chicago:20141127T180000
+EXDATE;TZID=America/Chicago:20141225T180000
+EXDATE;TZID=America/Chicago:20150101T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-3
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-172@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150924T191500
+DTEND;TZID=America/Chicago:20150924T201500
+EXDATE;TZID=America/Chicago:20150820T191500
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-4
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-695@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Siri Chandra - Cristina
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150925T091500
+DTEND;TZID=America/Chicago:20150925T103000
+EXDATE;TZID=America/Chicago:20141128T091500
+EXDATE;TZID=America/Chicago:20141219T091500
+EXDATE;TZID=America/Chicago:20150102T091500
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-7
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1168@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Siri Chandra\; 210-828-4177\; info@totallydivineyoga.com
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150925T120000
+DTEND;TZID=America/Chicago:20150925T131500
+EXDATE;TZID=America/Chicago:20150904T120000
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-196@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150925T180000
+DTEND;TZID=America/Chicago:20150925T191500
+EXDATE;TZID=America/Chicago:20150821T180000
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga Workout & Gong Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-792@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150927T050000
+DTEND;TZID=America/Chicago:20150927T070000
+SEQUENCE:0
+SUMMARY:Fall Equinox Group Meditation
+URL:http://www.totallydivineyoga.com/event/fall-equinox-group-meditation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1247@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150927T190000
+DTEND;TZID=America/Chicago:20150927T200000
+SEQUENCE:0
+SUMMARY:Candlelight Meditation
+URL:http://www.totallydivineyoga.com/event/candlelight-meditation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-578@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit\, Matt\, Liv Kiret
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151018T043000
+DTEND;TZID=America/Chicago:20151018T063000
+EXDATE;TZID=America/Chicago:20150920T043000
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Group Meditation
+URL:http://www.totallydivineyoga.com/event/group-meditation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-907@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit Kaur Khalsa\; 210-828-4177\; info@totallydivineyoga.com
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160418T130000
+DTEND;TZID=America/Chicago:20160418T160000
+RRULE:FREQ=YEARLY;BYMONTH=4
+SEQUENCE:0
+SUMMARY:Yogashop:  The Art of Self-Healing
+URL:http://www.totallydivineyoga.com/event/yogashop-the-art-of-self-healing
+ -2/
+X-COST:$45 if pd by April 12th or $55 if pd after April 12th
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-579@www.totallydivineyoga.com
+DTSTAMP:20150920T003208Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit/Liv Kiret
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160829T130000
+DTEND;TZID=America/Chicago:20160829T150000
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Vegetarian Potluck
+URL:http://www.totallydivineyoga.com/event/vegetarian-potluck/
+END:VEVENT
+END:VCALENDAR

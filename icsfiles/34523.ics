@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//165.91.141.183//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://devspencer.tamu.edu
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:25222@calendar.tamu.edu
+DTSTAMP:20150920T002926Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Educators: Mentors that make a lasting impact is going to be
+  the showing of Stand and Deliver\, a film that follows a high school teac
+ her struggle to influence a group of students to push their academic menta
+ l far past what anyone ever expected of them. After the showing a Q&A will
+  be conducted by an academic professional to understand the hardships of b
+ eing an educator\, and the satisfaction they receive from watching their s
+ tudents grow.</p>
+DTSTART;TZID=America/Denver:20150922T180000
+DTEND;TZID=America/Denver:20150922T200000
+LOCATION:Texas A&M University Room MSC 2406A
+SEQUENCE:0
+SUMMARY:Latino Educators: Mentors that make a lasting impact
+URL:http://devspencer.tamu.edu/event/latino-educators-mentors-that-make-a-l
+ asting-impact/
+END:VEVENT
+BEGIN:VEVENT
+UID:25029@calendar.tamu.edu
+DTSTAMP:20150920T002926Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>“Long Tall Sally” and “Whole Lotta Shakin’ Goin’ On” are jus
+ t a couple of the classics on which legendary R&B artist Grady Gaines can 
+ be heard blasting his sax. As leader of the Upsetters\, the Texas native b
+ acked legendary rock pioneer Little Richard on countless hit records and c
+ oncert tours that included stops in the great houses like The Apollo and P
+ alladium. Other luminaries Grady Gaines jammed with include Sam Cooke\, Gl
+ adys Knight\, Bo Diddley\, and Etta James. Get ready for a rockin’ concert
+  highlighted by Grady Gaines’ “honkin’\,” bombastic\, attitude-drenched sa
+ xophone playing. This concert coincides with the release of Mr. Gaines’s n
+ ew autobiography I’ve Been Out There\, written with award-winning journali
+ st Rod Evans and published by Texas A&M University Press. A book signing w
+ ill follow the performance.</p>
+DTSTART;TZID=America/Denver:20150924T193000
+DTEND;TZID=America/Denver:20150924T220000
+LOCATION:Rudder Theatre Complex Room Rudder Theatre
+SEQUENCE:0
+SUMMARY:Grady Gaines and The Texas Upsetters
+URL:http://devspencer.tamu.edu/event/grady-gaines-and-the-texas-upsetters/
+END:VEVENT
+BEGIN:VEVENT
+UID:25432@calendar.tamu.edu
+DTSTAMP:20150920T002926Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>MSC Student Conference on National Affairs presents this pro
+ gram that will host a variety of speakers\, each with particular experienc
+ es in countering terrorism. The program will allow students to actively en
+ gage with the guest in a personal learning environment. The issues being d
+ iscussed will deepen the students understanding of US Foreign Policy\, the
+  decision making process of covert operations\, and the interactions betwe
+ en the intelligence community and Washington.</p>
+DTSTART;TZID=America/Denver:20150930T170000
+DTEND;TZID=America/Denver:20150930T200000
+LOCATION:Memorial Student Center (MSC) Room Gates Ballroom
+SEQUENCE:0
+SUMMARY:How the U.S. Counters Terrorism: Covert and Overt Operations
+URL:http://devspencer.tamu.edu/event/how-the-u-s-counters-terrorism-covert-
+ and-overt-operations/
+END:VEVENT
+END:VCALENDAR

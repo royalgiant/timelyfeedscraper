@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//137.189.139.77//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.obg.cuhk.edu.hk
+X-WR-TIMEZONE:Asia/Hong_Kong
+BEGIN:VTIMEZONE
+TZID:Asia/Hong_Kong
+X-LIC-LOCATION:Asia/Hong_Kong
+BEGIN:STANDARD
+DTSTART:19791021T033000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0800
+TZNAME:HKT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1540@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150928
+DTEND;VALUE=DATE:20150929
+SEQUENCE:0
+SUMMARY:The day following the Chinese Mid-Autumn Festival
+URL:http://www.obg.cuhk.edu.hk/event/the-day-following-the-chinese-mid-autu
+ mn-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1541@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151002
+SEQUENCE:0
+SUMMARY:National Day
+URL:http://www.obg.cuhk.edu.hk/event/national-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1542@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151021
+DTEND;VALUE=DATE:20151022
+SEQUENCE:0
+SUMMARY:Chung Yeung Festival
+URL:http://www.obg.cuhk.edu.hk/event/chung-yeung-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1531@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Conference
+CONTACT:APCMFM Secretariat \; (852) 2632 1534\; apcmfm@med.cuhk.edu.hk\; ht
+ tp://www.fetalmedicine.hk/en/apcmfm/apcmfm.asp
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151127
+DTEND;VALUE=DATE:20151130
+GEO:+25.032969;+121.565418
+LOCATION:Sheraton Grande Taipei Hotel (Taipei\, Taiwan) @ Taipei\, Taiwan
+SEQUENCE:0
+SUMMARY:11th Asia Pacific Congress in Maternal Fetal Medicine
+URL:http://www.obg.cuhk.edu.hk/event/11th-asia-pacific-congress-in-maternal
+ -fetal-medicine/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1543@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151227
+SEQUENCE:0
+SUMMARY:Christmas Holiday
+URL:http://www.obg.cuhk.edu.hk/event/christmas-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3428@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+SEQUENCE:0
+SUMMARY:The first day of January   
+URL:http://www.obg.cuhk.edu.hk/event/the-first-day-of-january-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3429@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160208
+DTEND;VALUE=DATE:20160211
+SEQUENCE:0
+SUMMARY:Lunar New Year
+URL:http://www.obg.cuhk.edu.hk/event/lunar-new-year-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3430@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160329
+SEQUENCE:0
+SUMMARY:Easter Holidays
+URL:http://www.obg.cuhk.edu.hk/event/easter-holidays/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3431@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160404
+DTEND;VALUE=DATE:20160405
+SEQUENCE:0
+SUMMARY:Ching Ming Festival
+URL:http://www.obg.cuhk.edu.hk/event/ching-ming-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3432@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+SEQUENCE:0
+SUMMARY:The day following Labour Day
+URL:http://www.obg.cuhk.edu.hk/event/the-day-following-labour-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3433@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160514
+DTEND;VALUE=DATE:20160515
+SEQUENCE:0
+SUMMARY:The Birthday of Budda
+URL:http://www.obg.cuhk.edu.hk/event/the-birthday-of-budda/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3434@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160609
+DTEND;VALUE=DATE:20160610
+SEQUENCE:0
+SUMMARY:Tuen Ng Festival
+URL:http://www.obg.cuhk.edu.hk/event/tuen-ng-festival-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3435@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160701
+DTEND;VALUE=DATE:20160702
+SEQUENCE:0
+SUMMARY:HKSAR Establishment Day
+URL:http://www.obg.cuhk.edu.hk/event/hksar-establishment-day-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3436@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160916
+DTEND;VALUE=DATE:20160917
+SEQUENCE:0
+SUMMARY:The day following Mid Autumn Festival
+URL:http://www.obg.cuhk.edu.hk/event/the-day-following-mid-autumn-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3437@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161001
+DTEND;VALUE=DATE:20161002
+SEQUENCE:0
+SUMMARY:National Day
+URL:http://www.obg.cuhk.edu.hk/event/national-day-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3438@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161010
+DTEND;VALUE=DATE:20161011
+SEQUENCE:0
+SUMMARY:The day following Chung Yeung Festival
+URL:http://www.obg.cuhk.edu.hk/event/the-day-following-chung-yeung-festival
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3439@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Public Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161226
+DTEND;VALUE=DATE:20161228
+SEQUENCE:0
+SUMMARY:Christmas Holiday
+URL:http://www.obg.cuhk.edu.hk/event/christmas-holiday-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1512@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Clinical Meeting
+CONTACT:
+DESCRIPTION:<p>Dr Jacqueline HS Lee\, Dr May Yu </p>
+DTSTART;TZID=Asia/Hong_Kong:20150922T090000
+DTEND;TZID=Asia/Hong_Kong:20150922T100000
+LOCATION:Rm34053A\, 1/F\, Department of Anatomical & Cellular Pathology\, P
+ WH
+RRULE:FREQ=WEEKLY;UNTIL=20151231T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Tumour Board Meeting
+URL:http://www.obg.cuhk.edu.hk/event/tumour-board-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4288@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:CME
+CONTACT:
+DESCRIPTION:<p>Prof. WH Tam\, Dept. of O&G\, PWH</p>
+DTSTART;TZID=Asia/Hong_Kong:20150924T133000
+DTEND;TZID=Asia/Hong_Kong:20150924T143000
+LOCATION:Allan Chang Seminar Room\, 1E O&G Department
+SEQUENCE:0
+SUMMARY:Abnormal thyroid function tests in pregnancy – interpretation and i
+ mplication
+URL:http://www.obg.cuhk.edu.hk/event/abnormal-thyroid-function-tests-in-pre
+ gnancy-interpretation-and-implication/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4296@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Grand Round
+CONTACT:
+DESCRIPTION:<p>medical officers of obstetric team B and gynaecology team B<
+ /p>
+DTSTART;TZID=Asia/Hong_Kong:20150924T151500
+DTEND;TZID=Asia/Hong_Kong:20150924T161500
+LOCATION:Allan Chang Seminar Room\, 1E O&G Department
+SEQUENCE:0
+SUMMARY:Grand Round
+URL:http://www.obg.cuhk.edu.hk/event/grand-round-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4292@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Trainee's Presentation
+CONTACT:
+DESCRIPTION:<p>Dr M Lam\, Dr SC Chan</p>
+DTSTART;TZID=Asia/Hong_Kong:20150924T161500
+DTEND;TZID=Asia/Hong_Kong:20150924T170000
+LOCATION:Allan Chang Seminar Room\, 1E O&G Department
+SEQUENCE:0
+SUMMARY:Topic Presentation
+URL:http://www.obg.cuhk.edu.hk/event/topic-presentation-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1515@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:Neonatal Round
+CONTACT:
+DESCRIPTION:<p>Medical Officers</p>
+DTSTART;TZID=Asia/Hong_Kong:20150925T083000
+DTEND;TZID=Asia/Hong_Kong:20150925T090000
+LOCATION:Allan Chang Seminar Room\, 1E O&G Department
+RRULE:FREQ=WEEKLY;UNTIL=20151231T235959Z;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Neonatal Round
+URL:http://www.obg.cuhk.edu.hk/event/neonatal-round/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4124@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:CME
+CONTACT:
+DESCRIPTION:<p>Prof. Abdul SULTAN</p>
+DTSTART;TZID=Asia/Hong_Kong:20151029T013000
+DTEND;TZID=Asia/Hong_Kong:20151029T023000
+LOCATION:Allan Chang Seminar Room\, 1E O&G Department
+SEQUENCE:0
+SUMMARY:OASIS: What should obstetricians and midwives know?
+URL:http://www.obg.cuhk.edu.hk/event/oasis-what-should-obstetricians-and-mi
+ dwives-know/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1530@www.obg.cuhk.edu.hk
+DTSTAMP:20150920T002008Z
+CATEGORIES;LANGUAGE=en-US:CME
+CONTACT:
+DESCRIPTION:<p>Dr J Lee\, Dept of O&G\, PWH\; Dr May Yu\, Consultant\, Dept
+  of ACP\, PWH</p>
+DTSTART;TZID=Asia/Hong_Kong:20151112T133000
+DTEND;TZID=Asia/Hong_Kong:20151112T143000
+LOCATION:Allan Chang Seminar Room\, 1E O&G Department
+SEQUENCE:0
+SUMMARY:Clinical pathological conference
+URL:http://www.obg.cuhk.edu.hk/event/clinical-pathological-conference/
+END:VEVENT
+END:VCALENDAR

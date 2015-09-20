@@ -1,0 +1,416 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//188.93.150.109//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.tini.pieterbron.nl
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+DTSTART:19510908T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+0900
+TZNAME:JST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-75@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:National holidays
+CONTACT:
+DESCRIPTION:<p><img class=' size-medium wp-image-76 alignright' src='http:/
+ /i0.wp.com/www.tini.pieterbron.nl/wp-content/uploads/2015/07/e5bee87bc90f9
+ 7b7f78bd2ff50981c592.png?resize=300%2C215' alt='e5bee87bc90f97b7f78bd2ff50
+ 981c592' data-recalc-dims='1' />Op elke derde maan­dag van sep­tember word
+ t het res­pect voor ouderen en de lange levens­duur gevierd.</p>\n<p>Bron:
+  <a href='http://www.japan-guide.com/e/e2062.html' target='_blank'>Japan g
+ uide</a></p>
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150922
+RDATE;TZID=Asia/Tokyo:20160919T000000
+RDATE;TZID=Asia/Tokyo:20170918T000000
+RDATE;TZID=Asia/Tokyo:20180917T000000
+RDATE;TZID=Asia/Tokyo:20190916T000000
+RDATE;TZID=Asia/Tokyo:20200921T000000
+RDATE;TZID=Asia/Tokyo:20210920T000000
+RDATE;TZID=Asia/Tokyo:20220919T000000
+RDATE;TZID=Asia/Tokyo:20230918T000000
+RDATE;TZID=Asia/Tokyo:20240916T000000
+RDATE;TZID=Asia/Tokyo:20250915T000000
+SEQUENCE:0
+SUMMARY:Respect for the aged day (敬老の日)
+URL:http://www.tini.pieterbron.nl/event/respect-for-the-aged-day-%e6%95%ac%
+ e8%80%81%e3%81%ae%e6%97%a5/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-77@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:National holidays
+CONTACT:
+DESCRIPTION:<p><a href='http://i1.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/07/6a00e54ee8a8ff88330120a5ac0c13970b-800wi.jpg'><img class='
+  size-medium wp-image-78 alignright' src='http://i1.wp.com/www.tini.pieter
+ bron.nl/wp-content/uploads/2015/07/6a00e54ee8a8ff88330120a5ac0c13970b-800w
+ i.jpg?resize=300%2C200' alt='6a00e54ee8a8ff88330120a5ac0c13970b-800wi' dat
+ a-recalc-dims='1' /></a>Op de twee­de maan­­dag van okt­o­ber wordt elk ja
+ ar een sport­­dag gehou­den. In 1964 was op deze dag de opening van de Oly
+ m­­pische spelen in Tokyo.</p>\n<p>Bron: <a href='http://www.japan-guide.c
+ om/e/e2062.html' target='_blank'>Japan guide</a>.</p>
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+GEO:+36.204824;+138.252924
+LOCATION:Japan
+RDATE;TZID=Asia/Tokyo:20161010T000000
+RDATE;TZID=Asia/Tokyo:20171009T000000
+RDATE;TZID=Asia/Tokyo:20181008T000000
+RDATE;TZID=Asia/Tokyo:20191014T000000
+RDATE;TZID=Asia/Tokyo:20201012T000000
+RDATE;TZID=Asia/Tokyo:20211011T000000
+RDATE;TZID=Asia/Tokyo:20221010T000000
+RDATE;TZID=Asia/Tokyo:20231009T000000
+RDATE;TZID=Asia/Tokyo:20241014T000000
+RDATE;TZID=Asia/Tokyo:20251013T000000
+SEQUENCE:0
+SUMMARY:Health and sports day (体育の日)
+URL:http://www.tini.pieterbron.nl/event/health-and-sports-day-%e4%bd%93%e8%
+ 82%b2%e3%81%ae%e6%97%a5/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-79@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:National holidays
+CONTACT:
+DESCRIPTION:<p><a href='http://i2.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/07/bunka-no-hi.jpg'><img class=' size-medium wp-image-80 alig
+ nright' src='http://i2.wp.com/www.tini.pieterbron.nl/wp-content/uploads/20
+ 15/07/bunka-no-hi.jpg?resize=300%2C225' alt='bunka-no-hi' data-recalc-dims
+ ='1' /></a>Op deze dag worden cul­tuur en lief­de voor vrede en vrij­heid 
+ ge­pro­­moot. Scholen en de over­­heid be­lo­nen op deze dag mensen voor h
+ un cul­­tu­rele pres­­tatie.</p>\n<p>Bron: <a href='http://www.japan-guide
+ .com/e/e2062.html' target='_blank'>Japan Guide</a>.</p>
+DTSTART;VALUE=DATE:20151103
+DTEND;VALUE=DATE:20151104
+RRULE:FREQ=YEARLY;BYMONTH=11
+SEQUENCE:0
+SUMMARY:Culture day (文化の日)
+URL:http://www.tini.pieterbron.nl/event/culture-day-%e6%96%87%e5%8c%96%e3%8
+ 1%ae%e6%97%a5/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-81@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:Festivals (お祭り)
+CONTACT:
+DESCRIPTION:<p><a href='http://i0.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/07/221344210872013.jpg'><img class=' size-medium wp-image-82 
+ alignright' src='http://i0.wp.com/www.tini.pieterbron.nl/wp-content/upload
+ s/2015/07/221344210872013.jpg?resize=300%2C200' alt='221344210872013' data
+ -recalc-dims='1' /></a>Dit fes­ti­val is alleen bedoeld voor meis­jes van 
+ drie en zeven en jong­ens van drie en vijf. De leeftijd van de deelnemende
+  kinderen is gebaseerd op het eeuwenoude geloof dat oneven getallen geluk 
+ brengen. Op deze dag\, of in het dichst­bij­zijn­de week­end gaan ze in Ki
+ mono naar een Shinto schrijn om te bidden voor een goede groei en gezond­h
+ eid en een lang leven.</p>\n<p>Bron: <a href='http://www.japan-guide.com/e
+ /e2284.html' target='_blank'>Japan guide</a>.</p>
+DTSTART;VALUE=DATE:20151115
+DTEND;VALUE=DATE:20151116
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Seven-five-three (七五三)
+URL:http://www.tini.pieterbron.nl/event/seven-five-three-%e4%b8%83%e4%ba%94
+ %e4%b8%89/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-84@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:National holidays
+CONTACT:
+DESCRIPTION:<p><a href='http://i1.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/07/1.jpg'><img class=' size-medium wp-image-85 alignright' sr
+ c='http://i1.wp.com/www.tini.pieterbron.nl/wp-content/uploads/2015/07/1.jp
+ g?resize=300%2C169' alt='1' data-recalc-dims='1' /></a>23 november is de n
+ atio­nale feest­dag waar­op arbeid wordt ver­eerd.</p>\n<p>Bron: <a href='
+ http://www.japan-guide.com/e/e2062.html' target='_blank'>Japan guide</a>.<
+ /p>
+DTSTART;VALUE=DATE:20151123
+DTEND;VALUE=DATE:20151124
+GEO:+36.204824;+138.252924
+LOCATION:Japan
+RRULE:FREQ=YEARLY;BYMONTH=11
+SEQUENCE:0
+SUMMARY:Labour thanks giving day (勤労感謝の日)
+URL:http://www.tini.pieterbron.nl/event/labour-thanks-giving-day-%e5%8b%a4%
+ e5%8a%b4%e6%84%9f%e8%ac%9d%e3%81%ae%e6%97%a5/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-86@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:National holidays
+CONTACT:
+DESCRIPTION:<p><a href='http://i2.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/07/img_0.jpg'><img class=' size-medium wp-image-87 alignright
+ ' src='http://i2.wp.com/www.tini.pieterbron.nl/wp-content/uploads/2015/07/
+ img_0.jpg?resize=300%2C194' alt='img_0' data-recalc-dims='1' /></a>De ver­
+ jaar­dag van de hui­dige Japanse kei­zer (Tenn<span class='Unicode'>ō</spa
+ n>) is een natio­nale feest­dag. Nu is dat 23 decem­ber. Met het veran­der
+ en van kei­zer\, veran­dert de datum ook mee.</p>\n<p>Bron: <a href='http:
+ //www.japan-guide.com/e/e2062.html' target='_blank'>Japan guide</a></p>
+DTSTART;VALUE=DATE:20151223
+DTEND;VALUE=DATE:20151224
+GEO:+36.204824;+138.252924
+LOCATION:Japan
+RRULE:FREQ=YEARLY;BYMONTH=12
+SEQUENCE:0
+SUMMARY:Emperor’s birthday (天皇の誕生日)
+URL:http://www.tini.pieterbron.nl/event/emperors-birthday-%e5%a4%a9%e7%9a%8
+ 7%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-88@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:Events
+CONTACT:
+DESCRIPTION:<p><a href='http://i2.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/07/north-cyprus-cinf-christmas-gifts-presents.jpg'><img class
+ =' size-medium wp-image-89 alignright' src='http://i2.wp.com/www.tini.piet
+ erbron.nl/wp-content/uploads/2015/07/north-cyprus-cinf-christmas-gifts-pre
+ sents.jpg?resize=300%2C171' alt='north-cyprus-cinf-christmas-gifts-present
+ s' data-recalc-dims='1' /></a>Hoe­wel de kerst­dagen in Japan geen offi­ci
+ ële feest­dagen zijn\, wordt het steeds meer gevierd in Japan. Mensen geve
+ n elkaar cadeau­tjes\, deco­reren hun huis en orga­ni­seren kerst­diner­tj
+ es.</p>\n<p>Bron: <a href='http://www.japan-guide.com/e/e2299.html' target
+ ='_blank'>Japan guide</a>.</p>
+DTSTART;VALUE=DATE:20151224
+DTEND;VALUE=DATE:20151226
+GEO:+36.204824;+138.252924
+LOCATION:Japan
+SEQUENCE:0
+SUMMARY:Christmas (クリスマス)
+URL:http://www.tini.pieterbron.nl/event/christmas-%e3%82%af%e3%83%aa%e3%82%
+ b9%e3%83%9e%e3%82%b9/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-90@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:National holidays
+CONTACT:
+DESCRIPTION:<p><a href='http://i1.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/07/Omisoka.jpg'><img class=' size-medium wp-image-91 alignrig
+ ht' src='http://i1.wp.com/www.tini.pieterbron.nl/wp-content/uploads/2015/0
+ 7/Omisoka.jpg?resize=300%2C225' alt='Omisoka' data-recalc-dims='1' /></a>A
+ an oudjaarsnacht en nieuwjaarsdag gaat veel voorbereiding vooraf in Japan\
+ , zoals het schrijven van nieuwjaarskaartjes (nengajō) aan alle vrienden\,
+  familie\, collega’s\, etc. Ook wordt alles grondig schoongemaakt\, om ver
+ volgens versierd te worden met traditionele nieuwjaarsversiering.</p>\n<p>
+ Omisoka wordt traditioneel gevierd met familie thuis\, vaak voor de tv. Er
+  is in Japan een grote variatie aan speciale Omisoka programma’s.</p>\n<p>
+ Rond middernacht gaan de bellen van de Buddhistische tempels 108 keer. Dit
+  wordt gezien als een zuivering van mensen van de 108 aardse passies. Verd
+ er gebeurt er vrij weinig.</p>\n<p>Vlak na middernacht gaan sommige Japann
+ ers naar een Shinto schrijn\, waar traditioneel gratis zoete sake (amazake
+ ) wordt uitgedeeld.</p>\n<p>Bron: <a href='http://zoomingjapan.com/culture
+ /omisoka-japanese-new-years-eve/' target='_blank'>Zooming Japan</a></p>
+DTSTART;VALUE=DATE:20151231
+DTEND;VALUE=DATE:20160101
+GEO:+36.204824;+138.252924
+LOCATION:Japan
+RRULE:FREQ=YEARLY;BYMONTH=12
+SEQUENCE:0
+SUMMARY:New year’s eve (大晦日)
+URL:http://www.tini.pieterbron.nl/event/new-years-eve-%e5%a4%a7%e6%99%a6%e6
+ %97%a5/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-148@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:National holidays
+CONTACT:
+DESCRIPTION:<p><a href='http://i2.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/08/fireworks-japan-new-years.jpg'><img class='alignright size
+ -medium wp-image-156' src='http://i2.wp.com/www.tini.pieterbron.nl/wp-cont
+ ent/uploads/2015/08/fireworks-japan-new-years.jpg?resize=300%2C225' alt='f
+ ireworks-japan-new-years' data-recalc-dims='1' /></a>Nieuwjaarsdag\, in Ja
+ pan Shogatsu genoemd\, is de belangrijkste feestdag van het jaar in Japan.
+  Tot en met 3 januari brengen families veel tijd met elkaar door. Net als 
+ in elk land\, is oud en nieuw in Japan een periode om het oude jaar af te 
+ sluiten en het nieuwe jaar met een verse start te beginnen. In Japan wordt
+  dit\, met zijn vele tradities\, nog net iets serieuzer genomen.</p>
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+RRULE:FREQ=YEARLY;BYMONTH=1
+SEQUENCE:0
+SUMMARY:New year (お正月)
+URL:http://www.tini.pieterbron.nl/event/new-years-eve-%e3%81%8a%e6%ad%a3%e6
+ %9c%88/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-63@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:Festivals (お祭り)
+CONTACT:
+DESCRIPTION:<p><img class='alignright wp-image-67 size-medium' src='http://
+ i1.wp.com/www.tini.pieterbron.nl/wp-content/uploads/2015/07/tanabata.jpg?r
+ esize=300%2C200' alt='blueskies\, skies\, clouds\, japan\, sunny\, sunshin
+ e\, matsuris\, festivals\, tanabata\, tanabatamatsuri\, colorful\, summer\
+ , lanterns\, upshots' data-recalc-dims='1' />Het Tana­bata fes­ti­val\, oo
+ k wel Star fes­ti­val genoemd\, wordt jaar­lijks gevierd op 7 juli\, hoewe
+ l lokaal wel wordt af­ge­weken van de datum. Vol­gens de Chinese legende k
+ unnen de twee sterren Altair en Vega elkaar op deze dag ont­moeten\, ter­w
+ ijl ze normaal door de melk­weg van elkaar worden ge­schei­den.</p>\n<p>Br
+ on: <a href='http://www.japan-guide.com/e/e2283.html' target='_blank'>Japa
+ n guide</a>.</p>\n<p> </p>
+DTSTART;VALUE=DATE:20160707
+DTEND;VALUE=DATE:20160708
+GEO:+36.204824;+138.252924
+LOCATION:Japan
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Tanabata festival (七夕祭り)
+URL:http://www.tini.pieterbron.nl/event/tanabata-festival-%e4%b8%83%e5%a4%9
+ 5%e7%a5%ad%e3%82%8a/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-72@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:Festivals (お祭り)
+CONTACT:
+DESCRIPTION:<p><a href='http://i1.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/07/D3A_1283.jpg'><img class=' size-medium wp-image-73 alignri
+ ght' src='http://i1.wp.com/www.tini.pieterbron.nl/wp-content/uploads/2015/
+ 07/D3A_1283.jpg?resize=300%2C200' alt='D3A_1283' data-recalc-dims='1' /></
+ a>Het (o)bon fes­ti­val is een boed­dhis­tisch event waarbij de voor­ouder
+ s worden her­dacht. Men gelooft dat de geesten van de voor­ouders op deze 
+ dagen terug­komen naar onze wereld om hun familie te bezoeken.</p>\n<p>Eve
+ n­als het Tana­bata fes­ti­val\, wordt het obon fes­ti­val in sommige regi
+ o’s in juli gevierd. Dat houdt verband met de voor­heen gebruikte kalender
+  in Japan: de maan­kalender.</p>\n<p>Bron: <a href='http://www.japan-guide
+ .com/e/e2286.html' target='_blank'>Japan guide</a></p>
+DTSTART;VALUE=DATE:20160713
+DTEND;VALUE=DATE:20160716
+GEO:+36.204824;+138.252924
+LOCATION:Japan
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Obon festival (お盆)
+URL:http://www.tini.pieterbron.nl/event/obon-festival-%e3%81%8a%e7%9b%86/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-65@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:National holidays
+CONTACT:
+DESCRIPTION:<p><a href='http://i2.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/07/19150112574_3a609f1d3e_h.jpg'><img class=' size-medium wp-
+ image-66 alignright' src='http://i2.wp.com/www.tini.pieterbron.nl/wp-conte
+ nt/uploads/2015/07/19150112574_3a609f1d3e_h.jpg?resize=300%2C168' alt='191
+ 50112574_3a609f1d3e_h' data-recalc-dims='1' /></a>Deze natio­nale feest­da
+ g\, die elk jaar op de derde maan­dag van juli plaats­vindt\, mar­keert de
+  terug­komst van Emperor Meiji na zijn boot­trip naar Hok­kai­do in 1876.<
+ /p>\n<p>Bron: <a href='http://www.japan-guide.com/e/e2062.html' target='_b
+ lank'>Japan guide</a></p>
+DTSTART;VALUE=DATE:20160718
+DTEND;VALUE=DATE:20160719
+GEO:+36.204824;+138.252924
+LOCATION:Japan
+RDATE;TZID=Asia/Tokyo:20160718T000000
+RDATE;TZID=Asia/Tokyo:20170717T000000
+RDATE;TZID=Asia/Tokyo:20180716T000000
+RDATE;TZID=Asia/Tokyo:20190715T000000
+RDATE;TZID=Asia/Tokyo:20200720T000000
+RDATE;TZID=Asia/Tokyo:20210719T000000
+RDATE;TZID=Asia/Tokyo:20220718T000000
+RDATE;TZID=Asia/Tokyo:20230717T000000
+RDATE;TZID=Asia/Tokyo:20240715T000000
+RDATE;TZID=Asia/Tokyo:20250721T000000
+SEQUENCE:0
+SUMMARY:Ocean day (海の日)
+URL:http://www.tini.pieterbron.nl/event/ocean-day-%e6%b5%b7%e3%81%ae%e6%97%
+ a5/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-70@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:National holidays
+CONTACT:
+DESCRIPTION:<p><img class=' size-medium wp-image-71 alignright' src='http:/
+ /i1.wp.com/www.tini.pieterbron.nl/wp-content/uploads/2015/07/AJ20140530001
+ 9M.jpg?resize=300%2C244' alt='AJ201405300019M' data-recalc-dims='1' />Een 
+ nieuw ge­ïn­­tro­­du­­ceer­de feest­­dag (vanaf 2016) om de ber­gen te ver
+ ­­eren.</p>\n<p>Bron: <a href='http://www.japan-guide.com/e/e2062.html' ta
+ rget='_blank'>Japan Guide</a>.</p>
+DTSTART;VALUE=DATE:20160811
+DTEND;VALUE=DATE:20160812
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Mountain day (山の日)
+URL:http://www.tini.pieterbron.nl/event/mountain-day-%e5%b1%b1%e3%81%ae%e6%
+ 97%a5/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-157@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:Events
+CONTACT:
+DESCRIPTION:<p><a href='http://i0.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/08/F201305101810391064712884.jpg'><img class='alignright size
+ -medium wp-image-158' src='http://i0.wp.com/www.tini.pieterbron.nl/wp-cont
+ ent/uploads/2015/08/F201305101810391064712884.jpg?resize=300%2C199' alt='F
+ 201305101810391064712884' data-recalc-dims='1' /></a>Op ‘Disaster preventi
+ on day’ worden oefeningen en trainingen gehouden om te zorgen dat mensen v
+ oorbereid zijn op eventuele rampen. Verder wordt er stilgestaan bij grote 
+ rampen van het verleden.</p>\n<p>Op 1 september 1923 werd Japan getroffen 
+ door zowel een tyfoon als een zware aardbeving\, met als gevolg ruim 140.0
+ 00 doden. Ook geloofde men vroeger dat op 1 september de grootste kans was
+  op een tyfoon. Daarom is er in 1960 voor gekozen 1 september tot disaster
+  prevention day uit te roepen.</p>
+DTSTART;VALUE=DATE:20160901
+DTEND;VALUE=DATE:20160902
+RRULE:FREQ=YEARLY;BYMONTH=9
+SEQUENCE:0
+SUMMARY:Disaster prevention day
+URL:http://www.tini.pieterbron.nl/event/disaster-prevention-day/
+X-TAGS;LANGUAGE=nl-NL:Japan
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-152@www.tini.pieterbron.nl
+DTSTAMP:20150920T002213Z
+CATEGORIES;LANGUAGE=nl-NL:Locations
+CONTACT:
+DESCRIPTION:<p><a href='http://i0.wp.com/www.tini.pieterbron.nl/wp-content/
+ uploads/2015/08/Momiji-Clingendael.png'><img class='alignright size-medium
+  wp-image-153' src='http://i0.wp.com/www.tini.pieterbron.nl/wp-content/upl
+ oads/2015/08/Momiji-Clingendael.png?resize=213%2C300' alt='Momiji Clingend
+ ael' data-recalc-dims='1' /></a>De Japanse tuin op het landgoed Clingendae
+ l\, aangelegd in het begin van de 20e eeuw door de toenmalige eigenaresse\
+ ,  is erg kwetsbaar en daarom maar twee korte periodes per jaar open. In h
+ et voorjaar kan je er de mooie kersenbloesem bewonderen\, waar je er in he
+ t najaar de dieprode zogeheten momiji vindt.</p>\n<p>Van 10 t/m 25 oktober
+  2015 is de tuin elke dag van 10:00 uur tot 16:00 uur geopend. Bij drukte 
+ kan het zijn dat je even moet wachten voor je naar binnen mag\, vanwege de
+  kwetsbaarheid van de tuin.</p>
+DTSTART;TZID=Asia/Tokyo:20151010T100000
+DTEND;TZID=Asia/Tokyo:20151025T160000
+GEO:+52.099109;+4.330249
+LOCATION:Clingendael\, Nederland
+SEQUENCE:0
+SUMMARY:Najaarsopening Japanse tuin Clingendael
+URL:http://www.tini.pieterbron.nl/event/najaarsopening-japanse-tuin-clingen
+ dael/
+X-TAGS;LANGUAGE=nl-NL:Nederland
+END:VEVENT
+END:VCALENDAR

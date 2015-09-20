@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//65.175.73.184//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.gldl.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1673@www.gldl.com/wp
+DTSTAMP:20150920T002303Z
+CATEGORIES;LANGUAGE=en-US:Dive Travel\,Gilboa Quarry
+CONTACT:Jonathan Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150921
+GEO:+41.015097;-83.933601
+LOCATION:Gilboa Quarry @ Gilboa\, OH\, USA
+SEQUENCE:0
+SUMMARY:Gilboa Quarry Trip
+URL:http://www.gldl.com/index.php/event/gilboa-quarry-trip-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1164@www.gldl.com/wp
+DTSTAMP:20150920T002303Z
+CATEGORIES;LANGUAGE=en-US:Dive Travel
+CONTACT:
+DESCRIPTION:<p>Dates are tentative.</p>
+DTSTART;VALUE=DATE:20161122
+DTEND;VALUE=DATE:20161204
+SEQUENCE:0
+SUMMARY:Philippines Dive Trip
+URL:http://www.gldl.com/index.php/event/philippines-dive-trip/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1680@www.gldl.com/wp
+DTSTAMP:20150920T002303Z
+CATEGORIES;LANGUAGE=en-US:Great Lakes Dive Locker\,Open Water Diver
+CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:<p> </p>\n<p>This is the first night of classroom for PADI Open
+  Water Scuba Diver certification.  Prior to class you must watch all 5 sec
+ tions of the PADI Open Water Diver DVD.  Read all 5 sections of the PADI O
+ pen Water Diver Manual.  Complete all 5 knowledge reviews in the PADI Open
+  Water Diver Manual.  Bring a photocopy of the knowledge reviews to class 
+ with you.  These must be kept in your student record.</p>\n<p>You must sig
+ n up for class at least 7 days prior to the class start date unless you ha
+ ve specific permission from the instructor.</p>\n<p>Items to bring to clas
+ s:</p>\n<ul>\n<li>Copies of your completed knowledge reviews.</li>\n<li>Yo
+ ur completed student record file</li>\n<li>A medical clearance from your d
+ octor if you answered yes to any of the questions in the medical questionn
+ aire.</li>\n<li>A pen or pencil</li>\n<li>Your dive log.</li>\n<li>Your re
+ nted copy of the PADI Open Water Diver DVD\, if you have not already retur
+ ned it.</li>\n<li>Your completed PIC worksheet.</li>\n</ul>\n<p>If you hav
+ e any questions please don’t hesitate to call the instructor or the store.
+ <a href='http://www.gldl.com/wp/wp-content/uploads/2014/10/BadgeDefault.pn
+ g'><img class='aligncenter size-full wp-image-892' src='http://www.gldl.co
+ m/wp/wp-content/uploads/2014/10/BadgeDefault.png' alt='BadgeDefault' width
+ ='144' height='144' /></a></p>
+DTSTART;TZID=America/New_York:20150921T180000
+DTEND;TZID=America/New_York:20150921T210000
+GEO:+42.874585;-85.66517
+LOCATION:Great Lakes Dive Locker @ 4909 Division Avenue South\, Grand Rapid
+ s\, MI 49548\, USA
+SEQUENCE:0
+SUMMARY:Open Water Diver – Knowledge Development I
+URL:http://www.gldl.com/index.php/event/open-water-diver-knowledge-developm
+ ent-i-12/
+X-TAGS;LANGUAGE=en-US:Open Water Diver
+X-COST:Call for Pricing
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1681@www.gldl.com/wp
+DTSTAMP:20150920T002303Z
+CATEGORIES;LANGUAGE=en-US:Great Lakes Dive Locker\,Open Water Diver
+CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:<p> </p>\n<p>This is the first night of classroom for PADI Open
+  Water Scuba Diver certification.  Prior to class you must watch all 5 sec
+ tions of the PADI Open Water Diver DVD.  Read all 5 sections of the PADI O
+ pen Water Diver Manual.  Complete all 5 knowledge reviews in the PADI Open
+  Water Diver Manual.  Bring a photocopy of the knowledge reviews to class 
+ with you.  These must be kept in your student record.</p>\n<p>You must sig
+ n up for class at least 7 days prior to the class start date unless you ha
+ ve specific permission from the instructor.</p>\n<p>Items to bring to clas
+ s:</p>\n<ul>\n<li>Copies of your completed knowledge reviews.</li>\n<li>Yo
+ ur completed student record file</li>\n<li>A medical clearance from your d
+ octor if you answered yes to any of the questions in the medical questionn
+ aire.</li>\n<li>A pen or pencil</li>\n<li>Your dive log.</li>\n<li>Your re
+ nted copy of the PADI Open Water Diver DVD\, if you have not already retur
+ ned it.</li>\n<li>Your completed PIC worksheet.</li>\n</ul>\n<p>If you hav
+ e any questions please don’t hesitate to call the instructor or the store.
+ <a href='http://www.gldl.com/wp/wp-content/uploads/2014/10/BadgeDefault.pn
+ g'><img class='aligncenter size-full wp-image-892' src='http://www.gldl.co
+ m/wp/wp-content/uploads/2014/10/BadgeDefault.png' alt='BadgeDefault' width
+ ='144' height='144' /></a></p>
+DTSTART;TZID=America/New_York:20150922T180000
+DTEND;TZID=America/New_York:20150922T210000
+GEO:+42.874585;-85.66517
+LOCATION:Great Lakes Dive Locker @ 4909 Division Avenue South\, Grand Rapid
+ s\, MI 49548\, USA
+SEQUENCE:0
+SUMMARY:Open Water Diver – Knowledge Development II
+URL:http://www.gldl.com/index.php/event/open-water-diver-knowledge-developm
+ ent-ii-13/
+X-TAGS;LANGUAGE=en-US:Open Water Diver
+X-COST:Call for Pricing
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1593@www.gldl.com/wp
+DTSTAMP:20150920T002303Z
+CATEGORIES;LANGUAGE=en-US:Lakeshore Scuba\,Local Fun Dive
+CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:<p>Mid week fun dive!</p>\n<p>Meet at Lakeshore Scuba for a div
+ e at one of the local inland lakes.  We leave the dive shop at 5:30 and he
+ ad to the lake.  We will form buddy teams\, receive an orientation to the 
+ lake\, and cover a safety briefing at the lake.  Following the dive we wil
+ l head to a local eatery to talk about diving and enjoy some food and comp
+ any.  Hope to see you there.</p>\n<p>Working on a continuing education cla
+ ss.  This is a great night to possibly complete one of your dives.  Contac
+ t your instructor to arrange this option.</p>\n<p>While there is no cost f
+ or this dive\, you are responsible for your own gear\, air\, transportatio
+ n and food.  Please call the shop to sign up.  If you are not signed up an
+ d there is a need to cancel the dive due to weather or illness you will no
+ t be notified.</p>
+DTSTART;TZID=America/New_York:20150923T173000
+DTEND;TZID=America/New_York:20150923T210000
+GEO:+43.066861;-86.215736
+LOCATION:Lakeshore Scuba @ 1101 Jackson Avenue\, Grand Haven\, MI 49417\, U
+ SA
+SEQUENCE:0
+SUMMARY:Fun Dive – Blue Lake
+URL:http://www.gldl.com/index.php/event/fun-dive-blue-lake/
+X-TAGS;LANGUAGE=en-US:Fun Dive\,Lake Sixteen
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1686@www.gldl.com/wp
+DTSTAMP:20150920T002303Z
+CATEGORIES;LANGUAGE=en-US:Lakeshore Scuba\,PADI Specialty
+CONTACT:Jonathan Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T180000
+DTEND;TZID=America/New_York:20150924T210000
+GEO:+43.066861;-86.215736
+LOCATION:Lakeshore Scuba @ 1101 Jackson Avenue\, Grand Haven\, MI 49417\, U
+ SA
+SEQUENCE:0
+SUMMARY:Fish Identification – Knowledge Development
+URL:http://www.gldl.com/index.php/event/fish-identification-knowledge-devel
+ opment-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1676@www.gldl.com/wp
+DTSTAMP:20150920T002303Z
+CATEGORIES;LANGUAGE=en-US:Harbourtowne Beach\,Open Water Diver
+CONTACT:Jonathan Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T070000
+DTEND;TZID=America/New_York:20150926T103000
+GEO:+43.229531;-86.326297
+LOCATION:Harbourtowne Beach @ 3650 Fulton Avenue\, Muskegon\, MI 49441\, US
+ A
+SEQUENCE:0
+SUMMARY:Open Water Diver Lake Training
+URL:http://www.gldl.com/index.php/event/open-water-diver-lake-training-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1677@www.gldl.com/wp
+DTSTAMP:20150920T002303Z
+CATEGORIES;LANGUAGE=en-US:Harbourtowne Beach\,PADI Core Continuing Educatio
+ n
+CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:<p><a href='http://www.gldl.com/wp/wp-content/uploads/2014/02/B
+ adgeAOW.png'><img class='aligncenter size-full wp-image-721' src='http://w
+ ww.gldl.com/wp/wp-content/uploads/2014/02/BadgeAOW.png' alt='BadgeAOW' wid
+ th='144' height='144' /></a></p>
+DTSTART;TZID=America/New_York:20150926T110000
+DTEND;TZID=America/New_York:20150926T150000
+GEO:+43.229531;-86.326297
+LOCATION:Harbourtowne Beach @ 3650 Fulton Avenue\, Muskegon\, MI 49441\, US
+ A
+SEQUENCE:0
+SUMMARY:Advanced Open Water Dives
+URL:http://www.gldl.com/index.php/event/advanced-open-water-dives-14/
+X-TAGS;LANGUAGE=en-US:Advanced Open Water\,Continuing Education
+X-COST:$150 plus Materials
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1675@www.gldl.com/wp
+DTSTAMP:20150920T002304Z
+CATEGORIES;LANGUAGE=en-US:Lake Sixteen\,Open Water Diver
+CONTACT:Jonathan Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T070000
+DTEND;TZID=America/New_York:20150927T103000
+GEO:+42.566413;-85.610279
+LOCATION:Lake Sixteen @ 738 120th Avenue\, Martin\, MI 49070\, USA
+SEQUENCE:0
+SUMMARY:Open Water Diver Lake Training
+URL:http://www.gldl.com/index.php/event/open-water-diver-lake-training-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1674@www.gldl.com/wp
+DTSTAMP:20150920T002304Z
+CATEGORIES;LANGUAGE=en-US:Lake Sixteen\,PADI Core Continuing Education
+CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:<p><a href='http://www.gldl.com/wp/wp-content/uploads/2014/02/B
+ adgeAOW.png'><img class='aligncenter size-full wp-image-721' src='http://w
+ ww.gldl.com/wp/wp-content/uploads/2014/02/BadgeAOW.png' alt='BadgeAOW' wid
+ th='144' height='144' /></a></p>
+DTSTART;TZID=America/New_York:20150927T110000
+DTEND;TZID=America/New_York:20150927T150000
+GEO:+42.566413;-85.610279
+LOCATION:Lake Sixteen @ 738 120th Avenue\, Martin\, MI 49070\, USA
+SEQUENCE:0
+SUMMARY:Advanced Open Water Dives
+URL:http://www.gldl.com/index.php/event/advanced-open-water-dives-13/
+X-TAGS;LANGUAGE=en-US:Advanced Open Water\,Continuing Education
+X-COST:$150 plus Materials
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1678@www.gldl.com/wp
+DTSTAMP:20150920T002304Z
+CATEGORIES;LANGUAGE=en-US:Lakeshore Scuba\,Open Water Diver
+CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:<p> </p>\n<p>This is the first night of classroom for PADI Open
+  Water Scuba Diver certification.  Prior to class you must watch all 5 sec
+ tions of the PADI Open Water Diver DVD.  Read all 5 sections of the PADI O
+ pen Water Diver Manual.  Complete all 5 knowledge reviews in the PADI Open
+  Water Diver Manual.  Bring a photocopy of the knowledge reviews to class 
+ with you.  These must be kept in your student record.</p>\n<p>You must sig
+ n up for class at least 7 days prior to the class start date unless you ha
+ ve specific permission from the instructor.</p>\n<p>Items to bring to clas
+ s:</p>\n<ul>\n<li>Copies of your completed knowledge reviews.</li>\n<li>Yo
+ ur completed student record file</li>\n<li>A medical clearance from your d
+ octor if you answered yes to any of the questions in the medical questionn
+ aire.</li>\n<li>A pen or pencil</li>\n<li>Your dive log.</li>\n<li>Your re
+ nted copy of the PADI Open Water Diver DVD\, if you have not already retur
+ ned it.</li>\n<li>Your completed PIC worksheet.</li>\n</ul>\n<p>If you hav
+ e any questions please don’t hesitate to call the instructor or the store.
+ <a href='http://www.gldl.com/wp/wp-content/uploads/2014/10/BadgeDefault.pn
+ g'><img class='aligncenter size-full wp-image-892' src='http://www.gldl.co
+ m/wp/wp-content/uploads/2014/10/BadgeDefault.png' alt='BadgeDefault' width
+ ='144' height='144' /></a></p>
+DTSTART;TZID=America/New_York:20150930T180000
+DTEND;TZID=America/New_York:20150930T210000
+GEO:+43.066861;-86.215736
+LOCATION:Lakeshore Scuba @ 1101 Jackson Avenue\, Grand Haven\, MI 49417\, U
+ SA
+SEQUENCE:0
+SUMMARY:Open Water Diver – Knowledge Development I
+URL:http://www.gldl.com/index.php/event/open-water-diver-knowledge-developm
+ ent-i-11/
+X-TAGS;LANGUAGE=en-US:Open Water Diver
+X-COST:Call for Pricing
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1679@www.gldl.com/wp
+DTSTAMP:20150920T002304Z
+CATEGORIES;LANGUAGE=en-US:Lakeshore Scuba\,Open Water Diver
+CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
+DESCRIPTION:<p> </p>\n<p>This is the first night of classroom for PADI Open
+  Water Scuba Diver certification.  Prior to class you must watch all 5 sec
+ tions of the PADI Open Water Diver DVD.  Read all 5 sections of the PADI O
+ pen Water Diver Manual.  Complete all 5 knowledge reviews in the PADI Open
+  Water Diver Manual.  Bring a photocopy of the knowledge reviews to class 
+ with you.  These must be kept in your student record.</p>\n<p>You must sig
+ n up for class at least 7 days prior to the class start date unless you ha
+ ve specific permission from the instructor.</p>\n<p>Items to bring to clas
+ s:</p>\n<ul>\n<li>Copies of your completed knowledge reviews.</li>\n<li>Yo
+ ur completed student record file</li>\n<li>A medical clearance from your d
+ octor if you answered yes to any of the questions in the medical questionn
+ aire.</li>\n<li>A pen or pencil</li>\n<li>Your dive log.</li>\n<li>Your re
+ nted copy of the PADI Open Water Diver DVD\, if you have not already retur
+ ned it.</li>\n<li>Your completed PIC worksheet.</li>\n</ul>\n<p>If you hav
+ e any questions please don’t hesitate to call the instructor or the store.
+ <a href='http://www.gldl.com/wp/wp-content/uploads/2014/10/BadgeDefault.pn
+ g'><img class='aligncenter size-full wp-image-892' src='http://www.gldl.co
+ m/wp/wp-content/uploads/2014/10/BadgeDefault.png' alt='BadgeDefault' width
+ ='144' height='144' /></a></p>
+DTSTART;TZID=America/New_York:20151001T180000
+DTEND;TZID=America/New_York:20151001T210000
+GEO:+43.066861;-86.215736
+LOCATION:Lakeshore Scuba @ 1101 Jackson Avenue\, Grand Haven\, MI 49417\, U
+ SA
+SEQUENCE:0
+SUMMARY:Open Water Diver – Knowledge Development II
+URL:http://www.gldl.com/index.php/event/open-water-diver-knowledge-developm
+ ent-ii-11/
+X-TAGS;LANGUAGE=en-US:Open Water Diver
+X-COST:Call for Pricing
+END:VEVENT
+END:VCALENDAR

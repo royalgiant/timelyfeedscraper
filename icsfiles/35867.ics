@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//83.170.122.174//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://tantra-edinburgh.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-413@tantra-edinburgh.co.uk
+DTSTAMP:20150920T002146Z
+CATEGORIES;LANGUAGE=en-US:mixed class\,regular groups\,tantra classes
+CONTACT:
+DESCRIPTION:<p>Every week on Sundays\, we offer these sessions of hatha yog
+ a and meditation practice\, addressed to both new joiners\, and regular st
+ udents of our centre.</p>\n<p>These class is free for our monthly paying s
+ tudents\, who want to make good use of any chance to practice together wit
+ h others with similar aspirations\, as group practice is always more effic
+ ient than individual. And there is a fee of £10 for those who want to take
+  this chance to meet us\, see what we are about\, and what is our approach
+  to this spiritual practice.</p>
+DTSTART;TZID=Europe/London:20150920T133000
+DTEND;TZID=Europe/London:20150920T153000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Hatha yoga and short meditation practice
+URL:http://tantra-edinburgh.co.uk/?ai1ec_event=hatha-yoga-and-short-meditat
+ ion-practice
+X-COST:£10/person - free for registered Soma students
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-375@tantra-edinburgh.co.uk
+DTSTAMP:20150920T002146Z
+CATEGORIES;LANGUAGE=en-US:lectures\,regular groups\,tantra classes\,Tantra 
+ for women
+CONTACT:
+DESCRIPTION:<p>The Tantric tradition praises the Divine within every being\
+ , and therefore it sees both men and women from this perspective.</p>\n<p>
+ We would like to invite you to join us in this group to explore and enjoy 
+ how the woman is perceived and regarded in the Tantric Tradition.</p>\n<p>
+ Take this as an invitation to explore you feminine inner world and allow y
+ ourself to be surprised and delighted by all that you will discover beneat
+ h!</p>
+DTSTART;TZID=Europe/London:20150920T190000
+DTEND;TZID=Europe/London:20150920T210000
+GEO:+55.957882;-3.208772
+LOCATION:Soma Centre @ Stockbridge\, Edinburgh\, Edinburgh\, City of Edinbu
+ rgh EH3\, UK
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Divine Feminine
+URL:http://tantra-edinburgh.co.uk/?ai1ec_event=the-divine-feminine-2
+X-COST:£10/session or £20/calendar month
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-420@tantra-edinburgh.co.uk
+DTSTAMP:20150920T002146Z
+CATEGORIES;LANGUAGE=en-US:regular groups\,tantra classes\,Tantra for men
+CONTACT:
+DESCRIPTION:<p>The Divine Masculine – Vira group – a men’s only group –</p>
+ \n<p>Celebrate your masculinity and live a life of fulfillment by always m
+ aking your lady love completely happy! Discover how to use your psychic po
+ wers to grow your masculinity and make each day of your life be filled wit
+ h great joy!</p>\n<p>Tantra is an esoteric path of absolute and total love
+  that leads us to the complete and profound freedom of the being!<br />\nI
+ t is a spiritual path \, and yet it does not require one to isolate from t
+ he world\, but all on the contrary: the spiritual practice on the tantric 
+ path is perceived as completely diving into the most vivid and effervescen
+ t aspects of life\, while our awareness also remains alive within us\, so 
+ we can actually be present in the moment and enjoy it fully.</p>\n<p>The T
+ antric view upon life is that all contact with reality is erotic\, for it 
+ all involves our senses and the love that unifies all.</p>\n<p>In this par
+ ticular group we explore the principles of Tantra with its specifics to th
+ e Divine Masculine Nature\, creating a spiritual brotherhood among the par
+ ticipants that makes them all grow into a unitary group of men who can sup
+ port each other on the path\, sharing the joy of life and discovering the 
+ most efficient ways to be successful on the Tantric path\, in a specific\,
+  manly way!</p>
+DTSTART;TZID=Europe/London:20150923T210000
+DTEND;TZID=Europe/London:20150923T230000
+GEO:+55.957882;-3.208772
+LOCATION:Soma Centre @ Stockbridge\, Edinburgh\, Edinburgh\, City of Edinbu
+ rgh EH3\, UK
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Divine Masculine in Tantra
+URL:http://tantra-edinburgh.co.uk/?ai1ec_event=divine-masculine-in-tantra-3
+X-COST:£10/session or £20/month
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-392@tantra-edinburgh.co.uk
+DTSTAMP:20150920T002146Z
+CATEGORIES;LANGUAGE=en-US:mixed class\,regular groups\,tantra classes
+CONTACT:Sublima\; 07956 753 840
+DESCRIPTION:<p>Tantric freedom requires from the aspirant on the path that 
+ they pursue a profound spiritual practice\, that goes deep into all levels
+  of the being\, even to the yet unexplored ones!</p>\n<p>To guide you thro
+ ugh such profound spiritual practice\, we invite you to join us for this c
+ lass!</p>\n<p><b>Divine yoga and sacred sexuality</b> – for both men and w
+ omen\, singles or couples – here we explore the Tantric principles that en
+ able us to discover and experience life from the Tantric view\, combining 
+ it with a unique way of practising yoga postures\, that will help purify o
+ ur being physically and energetically\, as to become able to fully and min
+ dfully embrace the Tantric view upon life. – <b>every Monday  and every Fr
+ iday 6-8pm – new beginners class – £14/session or £40/calendar month</b></
+ p>\n<p> </p>
+DTSTART;TZID=Europe/London:20150925T180000
+DTEND;TZID=Europe/London:20150925T200000
+GEO:+55.957882;-3.208772
+LOCATION:Soma Centre @ Stockbridge\, Edinburgh\, Edinburgh\, City of Edinbu
+ rgh EH3\, UK
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Tantra Yoga and Sacred Sexuality
+URL:http://tantra-edinburgh.co.uk/?ai1ec_event=divine-yoga-and-sacred-sexua
+ lity
+X-COST:£14/session or £40/calendar month
+END:VEVENT
+END:VCALENDAR

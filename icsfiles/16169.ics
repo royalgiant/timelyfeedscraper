@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//195.189.246.5//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://dev.atmosfera.ua
+X-WR-TIMEZONE:Europe/Kiev
+BEGIN:VTIMEZONE
+TZID:Europe/Kiev
+X-LIC-LOCATION:Europe/Kiev
+BEGIN:STANDARD
+DTSTART:20151025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+RDATE:20160327T030000
+TZNAME:EEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-5585@www.atmosfera.ua
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=ru-RU:Семинары профессионального уровня
+CONTACT:
+DESCRIPTION:<p>2-х дневный семинар по гелиотермальным системам профессионал
+ ьного уровня. Расчет\, проектирование\, экономическое обоснование и подгот
+ овка проектов с использованием гелиотермальных систем. Монтаж\, запуск\, п
+ уско-наладочные работы\, ввод в эксплуатацию\, точная настройка параметров
+  солнечных контроллеров.</p>\n<p>По окончании — обязательная сертификация 
+ участников.</p>\n<h2>Как принять участие?</h2>\n<p>Для участия в семинаре 
+ необходимо <a href='http://www.atmosfera.ua/uslugi/obuchenie-personala/reg
+ istraciya-uchastnika-seminara/'>пройти предварительную регистрацию</a>.</p
+ >\n<div style='clear:both\;'></div>
+DTSTART;VALUE=DATE:20151104
+DTEND;VALUE=DATE:20151106
+GEO:+50.418243;+30.647234
+LOCATION:Атмосфера @ вулиця Ревуцького\, 13Б\, Київ\, місто Київ\, Украина
+SEQUENCE:0
+SUMMARY:Киев: Профессиональный семинар по гелиотермальным системам
+URL:http://dev.atmosfera.ua/event/kiev-4-5-11-professionalnyj-seminar-po-ge
+ liotermalnym-sistemam/
+X-TAGS;LANGUAGE=ru-RU:гелиосистемы
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5595@www.atmosfera.ua
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=ru-RU:Семинары профессионального уровня
+CONTACT:
+DESCRIPTION:<p>2-х дневный семинар по гелиотермальным системам профессионал
+ ьного уровня. Расчет\, проектирование\, экономическое обоснование и подгот
+ овка проектов с использованием гелиотермальных систем. Монтаж\, запуск\, п
+ уско-наладочные работы\, ввод в эксплуатацию\, точная настройка параметров
+  солнечных контроллеров.</p>\n<p>По окончании — обязательная сертификация 
+ участников.</p>\n<h2>Как принять участие?</h2>\n<p>Для участия в семинаре 
+ необходимо <a href='http://www.atmosfera.ua/uslugi/obuchenie-personala/reg
+ istraciya-uchastnika-seminara/'>пройти предварительную регистрацию</a>.</p
+ >\n<div style='clear:both\;'></div>
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151121
+GEO:+48.464717;+35.046183
+LOCATION:Днепропетровск @ Днепропетровск\, Днепропетровская область\, Украи
+ на
+SEQUENCE:0
+SUMMARY:Днепропетровск: Профессиональный семинар по гелиотермальным система
+ м
+URL:http://dev.atmosfera.ua/event/dnepropetrovsk-19-20-11-professionalnyj-s
+ eminar-po-geliotermalnym-sistemam-2/
+X-TAGS;LANGUAGE=ru-RU:гелиосистемы
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5608@www.atmosfera.ua
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=ru-RU:Семинары профессионального уровня
+CONTACT:
+DESCRIPTION:<p>Специализированный семинар по продажам и маркетингу гелиотер
+ мальных и фотоэлектрических систем. <span style='color: #ff0000\;'><strong
+ >Только для дилеров.</strong></span></p>\n<h2>Как принять участие?</h2>\n<
+ p>Для участия в семинаре необходимо <a href='http://www.atmosfera.ua/uslug
+ i/obuchenie-personala/registraciya-uchastnika-seminara/'>пройти предварите
+ льную регистрацию</a>.</p>\n<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Kiev:20150924T090000
+DTEND;TZID=Europe/Kiev:20150924T180000
+GEO:+50.418243;+30.647234
+LOCATION:Атмосфера @ вулиця Ревуцького\, 13Б\, Київ\, місто Київ\, Украина
+SEQUENCE:0
+SUMMARY:Киев: Семинар по продажам и маркетингу солнечных систем
+URL:http://dev.atmosfera.ua/event/kiev-24-09-seminar-po-prodazham-i-marketi
+ ngu-solnechnyx-sistem/
+X-TAGS;LANGUAGE=ru-RU:продажи
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5571@www.atmosfera.ua
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=ru-RU:Семинары начального уровня
+CONTACT:
+DESCRIPTION:<p>Универсальный семинар базового уровня. Общая информация о со
+ лнечных водонагревательных системах и фотоэлектрике. Варианты использовани
+ я гелиосистем и фотомодулей\, методы расчета экономической целесообразност
+ и\, использование.</p>\n<p>Ответы на вопросы. Продолжительность основного 
+ курса 4-6 часа.</p>\n<p><span style='color: #ff0000\;'>Посещение БЕСПЛАТНО
+ Е!</span> Для участия необходимо <a title='Регистрация участника семинара'
+  href='http://www.atmosfera.ua/uslugi/obuchenie-personala/registraciya-uch
+ astnika-seminara/'>заполнить регистрационную форму</a>.</p>\n<div style='c
+ lear:both\;'></div>
+DTSTART;TZID=Europe/Kiev:20151015T100000
+DTEND;TZID=Europe/Kiev:20151015T180000
+GEO:+50.418243;+30.647234
+LOCATION:Атмосфера @ вулиця Ревуцького\, 13Б\, Київ\, місто Київ\, Украина
+SEQUENCE:0
+SUMMARY:Киев: Семинар по солнечным системам начального уровня
+URL:http://dev.atmosfera.ua/event/kiev-seminar-po-solnechnym-sistemam-nacha
+ lnogo-urovnya-4/
+X-TAGS;LANGUAGE=ru-RU:гелиосистемы\,фотоэлектрика
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5576@www.atmosfera.ua
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=ru-RU:Семинары профессионального уровня
+CONTACT:
+DESCRIPTION:<p>Семинар по фотоэлектрическим системам профессионального уров
+ ня.</p>\n<p>По окончании — обязательная сертификация участников.</p>\n<h2>
+ Как принять участие?</h2>\n<p>Для участия в семинаре необходимо <a href='h
+ ttp://www.atmosfera.ua/uslugi/obuchenie-personala/registraciya-uchastnika-
+ seminara/'>пройти предварительную регистрацию</a>.</p>\n<div style='clear:
+ both\;'></div>
+DTSTART;TZID=Europe/Kiev:20151023T090000
+DTEND;TZID=Europe/Kiev:20151023T180000
+GEO:+48.464717;+35.046183
+LOCATION:Днепропетровск @ Днепропетровск\, Днепропетровская область\, Украи
+ на
+SEQUENCE:0
+SUMMARY:Днепропетровск: Профессиональный семинар по фотоэлектрике
+URL:http://dev.atmosfera.ua/event/dnepropetrovsk-23-10-professionalnyj-semi
+ nar-po-fotoelektrike/
+X-TAGS;LANGUAGE=ru-RU:фотоэлектрика
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5609@www.atmosfera.ua
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=ru-RU:Семинары профессионального уровня
+CONTACT:
+DESCRIPTION:<p>Специализированный семинар по продажам и маркетингу гелиотер
+ мальных и фотоэлектрических систем. <span style='color: #ff0000\;'><strong
+ >Только для дилеров.</strong></span></p>\n<h2>Как принять участие?</h2>\n<
+ p>Для участия в семинаре необходимо <a href='http://www.atmosfera.ua/uslug
+ i/obuchenie-personala/registraciya-uchastnika-seminara/'>пройти предварите
+ льную регистрацию</a>.</p>\n<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Kiev:20151203T090000
+DTEND;TZID=Europe/Kiev:20151203T180000
+GEO:+50.418243;+30.647234
+LOCATION:Атмосфера @ вулиця Ревуцького\, 13Б\, Київ\, місто Київ\, Украина
+SEQUENCE:0
+SUMMARY:Киев: Семинар по продажам и маркетингу солнечных систем
+URL:http://dev.atmosfera.ua/event/kiev-3-12-seminar-po-prodazham-i-marketin
+ gu-solnechnyx-sistem/
+X-TAGS;LANGUAGE=ru-RU:продажи
+END:VEVENT
+END:VCALENDAR

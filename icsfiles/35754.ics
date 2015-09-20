@@ -1,0 +1,879 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//74.208.26.136//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.dancebenefits.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3206@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:(808) 672-2501\; http://www.hawaiistarball.com/contact/contact-us/\
+ ; http://www.hawaiistarball.com/
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150925
+GEO:+21.277741;-157.830274
+LOCATION:Sheraton Waikiki @ 2255 Kalakaua Avenue\, Honolulu\, HI 96815\, US
+ A
+SEQUENCE:0
+SUMMARY:Hawaii Star Ball
+URL:http://www.dancebenefits.com/event/hawaii-star-ball/
+X-TICKETS-URL:http://www.hawaiistarball.com/tickets-and-schedule/tickets/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3196@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:Blake Kish\, Organizer\; 810-308-3091\; http://www.motownshowdown.r
+ ocks/pages/contact2/Default.asp\; http://www.motownshowdown.rocks/Default.
+ asp
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150928
+GEO:+42.312367;-83.218035
+LOCATION:Royal Dearborn Hotel @ 600 Town Center Drive\, Dearborn\, MI 48126
+ \, USA
+SEQUENCE:0
+SUMMARY:The Motown Showdown
+URL:http://www.dancebenefits.com/event/the-motown-showdown/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1911@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:(863) 668-9668\; http://www.hollywooddancesport.com/contact/contact
+ -us/\; http://www.hollywooddancesport.com/index.cfm/page.htm
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20151029
+DTEND;VALUE=DATE:20151102
+GEO:+34.137231;-118.358185
+LOCATION:Hilton Los Angeles/ Universal City @ 555 Universal Hollywood Drive
+ \, Universal City\, CA 91608\, USA
+SEQUENCE:0
+SUMMARY:Hollywood Dancesport Championships
+URL:http://www.dancebenefits.com/event/hollywood-dancesport-championships/
+X-TICKETS-URL:http://www.hollywooddancesport.com/tickets-and-schedule/ticke
+ ts/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2667@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:Chris Johnston\; 781-858-4367\; info@caribbeandancesport.com\; http
+ ://www.caribbeandancesport.com/index.html
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20151104
+DTEND;VALUE=DATE:20151109
+GEO:+18.441823;-66.014415
+LOCATION:El San Juan Hotel and Casino @ Isla Verde Avenue Roundabout\, Caro
+ lina\, Carolina 00979\, Puerto Rico
+SEQUENCE:0
+SUMMARY:Caribbean Dancesport Classic
+URL:http://www.dancebenefits.com/event/caribbean-dancesport-classic/
+X-TICKETS-URL:http://www.caribbeandancesport.com/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2799@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:David Medeiros- 615-300-6111\; 615-300-6111\; Dudance@aol.com \; ht
+ tp://www.northamericandancesport.com/
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20151105
+DTEND;VALUE=DATE:20151108
+GEO:+39.915417;-86.108743
+LOCATION:Sheraton @ Keystone Crossing @ 8787 Keystone Crossing\, Indianapol
+ is\, IN 46240\, USA
+SEQUENCE:0
+SUMMARY:North American Imperial Star Dancesport Championships
+URL:http://www.dancebenefits.com/event/north-american-imperial-star-dancesp
+ ort-championships/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3191@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:(614) 848-7827\; ohstarball@aol.com\; http://www.ohiostarball.com
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20151117
+DTEND;VALUE=DATE:20151123
+GEO:+39.969669;-83.001311
+LOCATION:Hyatt Regency\, Columbus Ohio @ 350 North High Street\, Columbus\,
+  OH 43215\, USA
+SEQUENCE:0
+SUMMARY:OHIO STAR BALL CHAMPIONSHIPS
+URL:http://www.dancebenefits.com/event/ohio-star-ball-championships-novembe
+ r-18th-23th-2014-2/
+X-TICKETS-URL:http://www.ohiostarball.com/tickets-and-schedule/tickets/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2668@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:Larry & Dianne Dean\; 1-888-684-7717\; emmaoswald@aol.com\; http://
+ www.sestatesdance.com/index.cfm/page.htm
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20151202
+DTEND;VALUE=DATE:20151207
+GEO:+28.41176;-81.468876
+LOCATION:Renaissance Orlando at SeaWorld @ 6677 Sea Harbor Drive\, Orlando\
+ , FL 32821\, USA
+SEQUENCE:0
+SUMMARY:Southeastern States Dancesport Championships
+URL:http://www.dancebenefits.com/event/southeastern-states-dancesport-champ
+ ionships-2/
+X-TICKETS-URL:http://www.sestatesdance.com/tickets-and-schedule/tickets/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2698@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:443-838-1024\; kingsballdancecomp@aol.com\; http://www.kingsball.co
+ m/index.html
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20151203
+DTEND;VALUE=DATE:20151207
+SEQUENCE:0
+SUMMARY:Kings Ball Dancesport Competition
+URL:http://www.dancebenefits.com/event/kings-ball-dancesport-competition/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2669@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:info@parisworlds.com\; http://www.parisworlds.com/index.php/contact
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151207
+GEO:+48.871758;+2.787552
+LOCATION:Hotel New York & New York Convention Centre @ Avenue René Goscinny
+ \, 77700 Chessy\, France
+SEQUENCE:0
+SUMMARY:WDC AL Paris Worlds
+URL:http://www.dancebenefits.com/event/wdc-al-paris-worlds/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3203@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:Deborah Boatright - (863) 670-6366\; Marina Vlasov - (904) 993-9941
+ \; info@northfloridadancechallenge.com\; http://www.northfloridadancechall
+ enge.com/
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20151218
+DTEND;VALUE=DATE:20151220
+GEO:+30.594031;-81.445006
+LOCATION:The Ritz-Carlton on Beautiful Amelia Island in Florida @ 4750 Amel
+ ia Island Parkway\, Fernandina Beach\, FL 32034\, USA
+SEQUENCE:0
+SUMMARY:North Florida Dance Challange
+URL:http://www.dancebenefits.com/event/north-florida-dance-challange/
+X-TICKETS-URL:http://www.northfloridadancechallenge.com/tickets.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1084@www.dancebenefits.com
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:Paul Holmes & Jamie Nyemchek\; (845) 268-6368\; http://www.thecitys
+ dancesportchallenge.com/home.html
+DESCRIPTION:<div id='pl-1246'><div class='panel-grid' id='pg-1246-0' ><div 
+ class='panel-grid-cell' id='pgc-1246-0-0' ><div class='so-panel widget wid
+ get_black-studio-tinymce panel-first-child panel-last-child' id='panel-124
+ 6-0-0-0'><div class='textwidget'><div id='home-widget'>\n<div class='thumb
+ '><a title='Calendar' href='http://www.dancebenefits.com/events-calendar-2
+ /'><img src='http://www.dancebenefits.com/wp-content/uploads/2015/05/event
+ s.png' alt='events' width='300' height='100' /></a></div>\n<p>Up to date i
+ nformation on events in dance community...</p>\n</div>\n</div></div></div>
+ <div class='panel-grid-cell' id='pgc-1246-0-1' ><div class='so-panel widge
+ t widget_black-studio-tinymce panel-first-child panel-last-child' id='pane
+ l-1246-0-1-0'><div class='textwidget'><div id='home-widget'>\n<div class='
+ thumb'><!-- meta slider -->\n<div style='max-width: 300px\; margin: 0 auto
+ \;' class='metaslider metaslider-responsive metaslider-1432 ml-slider'>\n 
+    \n    <div id='metaslider_container_1432'>\n        <ul id='metaslider_
+ 1432' class='rslides'>\n            <li><a href='http://affiliate.dsi-lond
+ on.biz/idevaffiliate/idevaffiliate.php?id=143_0_1_45' target='_blank'><img
+  src='http://www.dancebenefits.com/wp-content/uploads/2015/03/dsi-288x384.
+ jpg' height='400' width='300' alt='' class='slider-1432 slide-2889' /></a>
+ </li>\n        </ul>\n        \n    </div>\n    <script type='text/javascr
+ ipt'>\n        var metaslider_1432 = function($) {\n            $('#metasl
+ ider_1432').responsiveSlides({ \n                timeout:3000\,\n         
+        pager:false\,\n                nav:true\,\n                pause:tr
+ ue\,\n                speed:600\,\n                prevText:'<'\,\n       
+          nextText:'>'\,\n                auto:true\n            })\;\n    
+     }\;\n        var timer_metaslider_1432 = function() {\n            var
+  slider = !window.jQuery ? window.setTimeout(timer_metaslider_1432\, 100) 
+ : !jQuery.isReady ? window.setTimeout(timer_metaslider_1432\, 1) : metasli
+ der_1432(window.jQuery)\;\n        }\;\n        timer_metaslider_1432()\;
+ \n    </script>\n</div>\n<!--// meta slider--></div>\n</div>\n</div></div>
+ </div><div class='panel-grid-cell' id='pgc-1246-0-2' ><div class='so-panel
+  widget widget_black-studio-tinymce panel-first-child panel-last-child' id
+ ='panel-1246-0-2-0'><div class='textwidget'><div id='home-widget'>\n<div c
+ lass='thumb'><a title='Meet the PICS Coaches' href='http://www.dancebenefi
+ ts.com/coaches/'><img src='http://www.dancebenefits.com/wp-content/uploads
+ /2015/05/coaches.png' alt='events' width='300' height='100' /></a></div>\n
+ <p>Preciosa Invitational Coaching Series bring you the best coaches in the
+  world to share the expertise...</p>\n</div>\n</div></div></div></div><div
+  class='panel-grid' id='pg-1246-1' ><div class='panel-grid-cell' id='pgc-1
+ 246-1-0' ><div class='so-panel widget widget_black-studio-tinymce panel-fi
+ rst-child panel-last-child' id='panel-1246-1-0-0'><div class='textwidget'>
+ <div id='home-widget'>\n<div class='thumb'><a title='Dance Studios' href='
+ http://www.dancebenefits.com/dance-studios/'><img src='http://www.danceben
+ efits.com/wp-content/uploads/2015/05/studios.png' alt='events' width='300'
+  height='100' /></a></div>\n<p>Dance Benefits Group is affiliated with the
+  leading dance studios...</p>\n</div>\n</div></div></div><div class='panel
+ -grid-cell' id='pgc-1246-1-1' ><div class='so-panel widget widget_black-st
+ udio-tinymce panel-first-child panel-last-child' id='panel-1246-1-1-0'><di
+ v class='textwidget'><div id='home-widget'>\n<div class='thumb'><a title='
+ Dance Products' href='http://www.dancebenefits.com/dance-products/'><img s
+ rc='http://www.dancebenefits.com/wp-content/uploads/2015/05/products.png' 
+ alt='events' width='300' height='100' /></a></div>\n<p>Dance Benefits Grou
+ p is dedicated to providing the best in dance products...</p>\n</div>\n</d
+ iv></div></div><div class='panel-grid-cell' id='pgc-1246-1-2' ><div class=
+ 'so-panel widget widget_black-studio-tinymce panel-first-child panel-last-
+ child' id='panel-1246-1-2-0'><div class='textwidget'><div id='home-widget'
+ >\n<div class='thumb'><a title='Dance Services' href='http://www.dancebene
+ fits.com/dance-services/'><img src='http://www.dancebenefits.com/wp-conten
+ t/uploads/2015/05/services.png' alt='events' width='300' height='100' /></
+ a></div>\n<p>Dance Benefits Group is committed to bringing you the best se
+ rvices...</p>\n</div>\n</div></div></div></div><div class='panel-grid' id=
+ 'pg-1246-2' ><div class='panel-grid-cell' id='pgc-1246-2-0' > </div></div>
+ </div>
+DTSTART;VALUE=DATE:20151219
+DTEND;VALUE=DATE:20151220
+GEO:+40.740637;-73.996357
+LOCATION:The Altman Building in New York City @ 135 West 18th Street\, New 
+ York\, NY 10011\, USA
+SEQUENCE:0
+SUMMARY:City’s Dancesport Challange
+URL:http://www.dancebenefits.com/event/citys-dancsport-challange/
+END:VEVENT
+END:VCALENDAR

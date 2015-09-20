@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//67.231.25.120//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://cdpf.ca
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+X-LIC-LOCATION:America/Toronto
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-288@cdpf.fredericsune.com
+DTSTAMP:20150920T002148Z
+CATEGORIES;LANGUAGE=en-US:events
+CONTACT:Jeremy Depow\; 613-914-1333\; info@cdpf.ca\; http://cdpf.ca
+DESCRIPTION:<p>Human Capital Formation Business Forum\, September 28\, 2015
+ <br />\nFor more information contact Jeremy Depow at <a href='mailto:jerem
+ y@cdpf.ca'>jeremy@cdpf.ca</a>.</p>
+DTSTART;VALUE=DATE:20150928
+DTEND;VALUE=DATE:20150929
+SEQUENCE:0
+SUMMARY:Human Capital Formation Business Forum
+URL:http://cdpf.ca/event/human-capital-formation-business-forum/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-291@cdpf.fredericsune.com
+DTSTAMP:20150920T002148Z
+CATEGORIES;LANGUAGE=en-US:events
+CONTACT:Jeremy Depow\; 613-914-1333\; jeremy@cdpf.ca\; http://cdpf.ca
+DESCRIPTION:<p>Given the declining rate of voter turnout in federal electio
+ ns in recent years\, Canada needs to consider new avenues to encourage cit
+ izens to participate in our democracy.  A number of municipalities across 
+ the country are adopting online voting policies to raise their voter turno
+ ut\; should the federal government consider this approach? Or do our cyber
+ -insecurities pose too great a risk? For more information contact Jeremy D
+ epow at jeremy@cdpf.ca.</p>
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151120
+SEQUENCE:0
+SUMMARY:Online Voting in Canada
+URL:http://cdpf.ca/event/online-voting-in-canada/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-318@cdpf.ca
+DTSTAMP:20150920T002148Z
+CATEGORIES;LANGUAGE=en-US:events
+CONTACT:Internet Society Canada Chapter\; http://www.internetsociety.ca
+DESCRIPTION:<p>Internet Society Canada Chapter announces  it’s first one da
+ y symposium  in Ottawa  sponsored by TorIX\, CIRA and TekSavvy</p>\n<p><st
+ rong>Core  Topics<br />\n</strong><strong>Canadian Internet Law\, Regulati
+ on and Policy Development<br />\n</strong><strong>What’s next for ICANN?<b
+ r />\n</strong><strong>National Sovereignty and the Routing of Internet Tr
+ affic<br />\n</strong><strong>Selected Canadian Internet Policy Issues<br 
+ />\n</strong><br />\nThe event is bringing together  Canada’s leading thou
+ ght leaders on Internet issues important to Canadians.<br />\nMore informa
+ tion here: <a href='https://www.eventbrite.com/e/internet-society-canada-c
+ hapter-first-canadian-internet-symposium-tickets-17170505444' target='_bla
+ nk'>Eventbrite</a></p>
+DTSTART;TZID=America/Toronto:20150924T080000
+DTEND;TZID=America/Toronto:20150924T170000
+GEO:+45.424049;-75.691273
+LOCATION:SHAW CENTRE @ 55 Colonel By Dr\, Ottawa\, ON K1N\, Canada
+SEQUENCE:0
+SUMMARY:Internet Society Canada Chapter: First Canadian Internet Symposium
+URL:http://cdpf.ca/event/internet-society-canada-chapter-first-canadian-int
+ ernet-symposium/
+X-TICKETS-URL:https://www.eventbrite.com/e/internet-society-canada-chapter-
+ first-canadian-internet-symposium-tickets-17170505444
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.62.64.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://joywheelyoga.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-106998@joywheelyoga.com
+DTSTAMP:20150920T002146Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:Erin Schifferli\; erin.schifferli@gmail.com
+DESCRIPTION:<p>Vigorous Vinyasa Yoga: A deeply warming and cleansing practi
+ ce. Challenging postures & pace is offered to release\, restore\, and revi
+ ve. Sun salutes\, standing series\, arm balances\, inversions\, and pranay
+ ama (breathing) practiced.</p>\n<p> </p>\n<p>Every month there is a specia
+ l live drumming event to accompany the Powerful class. This drumming class
+  is $8.</p>\n<div id='attachment_90450' style='width: 310px' class='wp-cap
+ tion aligncenter'><a href='http://joywheelyoga.com/wp-content/uploads/2014
+ /06/IMG_2448.jpg'><img class='size-medium wp-image-90450' src='http://joyw
+ heelyoga.com/wp-content/uploads/2014/06/IMG_2448-300x200.jpg' alt='Park Yo
+ ga' width='300' height='200' data-id='90450' /></a><p class='wp-caption-te
+ xt'>Yoga at Knox Park</p></div>\n\n<div class='fb-social-plugin fb-like' d
+ ata-ref='below-post' data-href='http://joywheelyoga.com/the-pose-begins-wh
+ en-you-want-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20150919T083000
+DTEND;TZID=America/New_York:20150919T093000
+EXDATE;TZID=America/New_York:20150808T083000
+EXDATE;TZID=America/New_York:20150912T083000
+EXDATE;TZID=America/New_York:20151010T083000
+EXDATE;TZID=America/New_York:20151107T083000
+EXDATE;TZID=America/New_York:20151212T083000
+EXDATE;TZID=America/New_York:20160109T083000
+EXDATE;TZID=America/New_York:20160213T083000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Vigorous Vinyasa with Erin
+URL:http://joywheelyoga.com/event/vinyasa-yoga-erin/
+X-TAGS;LANGUAGE=en-US:drums\,erin\,Vinyasa
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-106999@joywheelyoga.com
+DTSTAMP:20150920T002146Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<p>Vinyasa Yoga (Open): This all levels class is for everyone. 
+ A mix of poses\, breathing\, opening\, & deep relaxation. Modifications al
+ ways offered.</p>\n<div id='attachment_90445' style='width: 310px' class='
+ wp-caption aligncenter'><a href='http://joywheelyoga.com/wp-content/upload
+ s/2014/06/IMG_2362.jpg'><img class='size-medium wp-image-90445' src='http:
+ //joywheelyoga.com/wp-content/uploads/2014/06/IMG_2362-300x200.jpg' alt='E
+ rin Schifferli JoyWheel Yoga' width='300' height='200' data-id='90445' /><
+ /a><p class='wp-caption-text'>Erin Schifferli</p></div>\n\n<div class='fb-
+ social-plugin fb-like' data-ref='below-post' data-href='http://joywheelyog
+ a.com/the-pose-begins-when-you-want-to-leave-it/' data-share='true' data-w
+ idth='700'></div>
+DTSTART;TZID=America/New_York:20150919T100000
+DTEND;TZID=America/New_York:20150919T111500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Open Vinyasa with Erin
+URL:http://joywheelyoga.com/event/open-vinyasa-erin/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107916@joywheelyoga.com
+DTSTAMP:20150920T002146Z
+CATEGORIES;LANGUAGE=en-US:Open Class\,Specialty Class
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T110000
+DTEND;TZID=America/New_York:20150919T160000
+SEQUENCE:0
+SUMMARY:Art Walk & Open House
+URL:http://joywheelyoga.com/event/art-walk-open-house-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107827@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://joywheelyoga.com/wp-content/uploads/2014/11/Broga-297x300.jpg' width='2
+ 97' height='300' /></div><h2>BRO-ga: Beginner-Intermediate Male Minded Yog
+ a Class</h2>\n<p>Sundays: Beginning Sept. 20 from 9:30-10:45am</p>\n<p><st
+ rong> </strong><strong>With Instructor: </strong>Adam Schifferli\, RYT</p>
+ \n<p>This class will focus on specific areas of the body tending to carry 
+ tension for most guys. Students will learn to strengthen their core\, enjo
+ y some flexibility training\, and discover stress relief / breathing techn
+ iques to use use anytime. Students leave feeling calm\, focused and energi
+ zed.</p>\n<p><strong><a title='Forms' href='http://joywheelyoga.com/forms/
+ ' target='_blank'>REGISTER ONLINE</a>: </strong>visit JoyWheelYoga.com and
+  click on <a title='Forms' href='http://joywheelyoga.com/forms/' target='_
+ blank'>Register</a> or email and we can assist you.</p>\n<p><strong>Questi
+ ons? </strong>Email: <a href='mailto:joywheelyoga@icloud.com'>joywheelyoga
+ @icloud.com</a></p>\n<p><strong>Cost: </strong>$15 Drop in or $96 for 8 we
+ eks (We accept Independent Health’s FlexFit Active\, Family & PersonalBest
+ )</p>\n<p> </p>\n<p> </p>\n\n<div class='fb-social-plugin fb-like' data-re
+ f='below-post' data-href='http://joywheelyoga.com/the-pose-begins-when-you
+ -want-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20150920T093000
+DTEND;TZID=America/New_York:20150920T104500
+EXDATE;TZID=America/New_York:20151011T093000
+EXDATE;TZID=America/New_York:20151213T093000
+EXDATE;TZID=America/New_York:20151220T093000
+EXDATE;TZID=America/New_York:20151227T093000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160228T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Bro-Ga (Male Minded Yoga) With Adam
+URL:http://joywheelyoga.com/event/bro-ga-male-minded-yoga-with-adam-fallwin
+ ter/
+X-COST:$72 for 6 week session. $15 Drop-In
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107715@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class\,Specialty Class
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://joywheelyoga.com/wp-content/uploads/2014/06/IMG_2362-300x200.jpg' width
+ ='300' height='200' /></div><p><strong>PreNatal Yoga</strong>:<strong> </s
+ trong> Focuses on safely guiding Mommas with breathing techniques\, pelvic
+  floor exercises\, yoga poses & preparations for labor. Sessions of PreNat
+ al passes based on your Due Date  OR Drop-In with Erin Schifferli. This is
+  also a wonderful class for brand new moms to come and share their practic
+ e and experiences with a strong community of like-minded people.</p>\n<p><
+ a title='Contact' href='http://joywheelyoga.com/contact/'>Contact Us </a>f
+ or details</p>\n<p>PreNatal runs in sessions:</p>\n<p>Session One: 9/14 to
+  12/7</p>\n<p>Session Two: 1/4 to 2/22</p>\n<p>Please <a href='http://joyw
+ heelyoga.com/forms/'>Register Online</a> for a PreNatal Pass $12 per class
+  per session\, or $15 for a drop-in.</p>\n\n<div class='fb-social-plugin f
+ b-like' data-ref='below-post' data-href='http://joywheelyoga.com/the-pose-
+ begins-when-you-want-to-leave-it/' data-share='true' data-width='700'></di
+ v>
+DTSTART;TZID=America/New_York:20150921T174500
+DTEND;TZID=America/New_York:20150921T190000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=MO;WKST=SU
+SEQUENCE:0
+SUMMARY:Pre-Natal & Post-Natal Yoga with Erin
+URL:http://joywheelyoga.com/event/pre-natal-post-natal-yoga-with-erin/
+X-TAGS;LANGUAGE=en-US:expecting\,Family &amp\; Life cycle Classes\,mom\,mom
+ my\,post natal\,prenatal
+X-COST:$12 / wk when registering for 6 or more weeks\, $15 drop in.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107826@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:Erin Schifferli\; 716-868-0648\; joywheelyoga@icloud.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://joywheelyoga.com/wp-content/uploads/2014/06/IMG_2362-300x200.jpg' width
+ ='300' height='200' /></div><p>Sunrise Yoga: Start your day with practice\
+ , energy\, & focus. Bring awareness to your daily choices. Incorporates an
+  all levels vinyasa style\, sun salutes\, balancing asanas\, & deep relaxa
+ tion.</p>\n<p>This all-levels open class runs in sessions</p>\n<ul>\n<li>S
+ ession One: 9/8 – 10/27</li>\n<li>Session Two: 11/3-11/29</li>\n<li>Sessio
+ n Three: 1/5 – 2/23</li>\n</ul>\n<p> </p>\n\n<div class='fb-social-plugin 
+ fb-like' data-ref='below-post' data-href='http://joywheelyoga.com/the-pose
+ -begins-when-you-want-to-leave-it/' data-share='true' data-width='700'></d
+ iv>
+DTSTART;TZID=America/New_York:20150922T063000
+DTEND;TZID=America/New_York:20150922T073000
+EXDATE;TZID=America/New_York:20151201T063000
+EXDATE;TZID=America/New_York:20151208T063000
+EXDATE;TZID=America/New_York:20151215T063000
+EXDATE;TZID=America/New_York:20151222T063000
+EXDATE;TZID=America/New_York:20151229T063000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunrise: Vinyasa Yoga with Erin Sessions
+URL:http://joywheelyoga.com/event/sunrise-vinyasa-yoga-with-erin-sessions/
+X-TAGS;LANGUAGE=en-US:early\,erin\,Mixed Level Vinyasa\,morning\,sunrise\,V
+ inyasa
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107342@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://joywheelyoga.com/wp-content/uploads/2014/06/IMG_2362-300x200.jpg' width
+ ='300' height='200' /></div><p>Mindful Hatha: Warming & opening postures\,
+  mindfulness\, & awareness of sensations are explored in this class to lea
+ ve you deeply centered\, & cleansed.</p>\n<p> </p>\n\n<div class='fb-socia
+ l-plugin fb-like' data-ref='below-post' data-href='http://joywheelyoga.com
+ /the-pose-begins-when-you-want-to-leave-it/' data-share='true' data-width=
+ '700'></div>
+DTSTART;TZID=America/New_York:20150922T093000
+DTEND;TZID=America/New_York:20150922T104500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Mindful Hatha yoga with Erin
+URL:http://joywheelyoga.com/event/mindful-hatha-yoga-erin-2/
+X-TAGS;LANGUAGE=en-US:Foundational\,hatha\,Mindful
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107717@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:
+DESCRIPTION:<p>Deep Vinyasa:</p>\n<p>This is a mixed levels vinyasa class s
+ tructured to warm the body and then move into deeper stretching and twisti
+ ng. Each week will explore different poses and variations.</p>\n<p><img cl
+ ass='alignnone size-full wp-image-20906' src='http://joywheelyoga.com/wp-c
+ ontent/uploads/2014/04/yoga.jpg' alt='' width='275' height='183' /></p>\n
+ \n<div class='fb-social-plugin fb-like' data-ref='below-post' data-href='h
+ ttp://joywheelyoga.com/the-pose-begins-when-you-want-to-leave-it/' data-sh
+ are='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20150922T173000
+DTEND;TZID=America/New_York:20150922T184500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Deep Vinyasa with Adam
+URL:http://joywheelyoga.com/event/deep-vinyasa-with-adam-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107718@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:Erin Schifferli\; 716-868-0648\; joywheelyoga@icloud.com
+DESCRIPTION:<p>Gentle / Yin Yoga: Open up\, stretch deeply\, breathe\, cent
+ er\, and relax in this mellow class. Enjoy the benefits of the a few stand
+ ing\, and many seated and supine Hatha yoga poses to bring you back to bal
+ ance. In the Yin portion of the class poses will be held for a longer peri
+ od of time to maximize the benefits of deep stretching.</p>\n<p> </p>\n<p>
+  </p>\n\n<div class='fb-social-plugin fb-like' data-ref='below-post' data-
+ href='http://joywheelyoga.com/the-pose-begins-when-you-want-to-leave-it/' 
+ data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20150922T190000
+DTEND;TZID=America/New_York:20150922T200000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Yin / Gentle (all levels) with Adam
+URL:http://joywheelyoga.com/event/yin-gentle-all-levels-with-adam/
+X-TAGS;LANGUAGE=en-US:gentle\,mellow\,relaxing
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107347@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<p>Vinyasa Yoga (Open): This all levels class is for everyone. 
+ A mix of poses\, breathing\, opening\, & deep relaxation. Modifications al
+ ways offered.</p>\n\n<div class='fb-social-plugin fb-like' data-ref='below
+ -post' data-href='http://joywheelyoga.com/the-pose-begins-when-you-want-to
+ -leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20150923T173000
+DTEND;TZID=America/New_York:20150923T183000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Vigorous Vinyasa with Erin
+URL:http://joywheelyoga.com/event/vigorous-vinyasa-erin-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-106983@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:Erin Schifferli\; 716-868-0648\; joywheelyoga@icloud.com
+DESCRIPTION:<p>Classic Hatha Offers an accessible traditional class for all
+  levels. Includes sun salutes\, standing & balancing poses\, hip openers\,
+  & relaxing postures to harmonize and restore inside and out.</p>\n<p> </p
+ >\n<div id='attachment_106891' style='width: 210px' class='wp-caption alig
+ ncenter'><a href='http://joywheelyoga.com/wp-content/uploads/2014/07/IMG_7
+ 777.jpg'><img class='size-medium wp-image-106891' src='http://joywheelyoga
+ .com/wp-content/uploads/2014/07/IMG_7777-200x300.jpg' alt='Rachna Clerici'
+  width='200' height='300' data-id='106891' /></a><p class='wp-caption-text
+ '>Rachna Clerici</p></div>\n\n<div class='fb-social-plugin fb-like' data-r
+ ef='below-post' data-href='http://joywheelyoga.com/the-pose-begins-when-yo
+ u-want-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20150923T190000
+DTEND;TZID=America/New_York:20150923T201500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Classic Hatha with Rachna
+URL:http://joywheelyoga.com/event/classic-hatha-rachna/
+X-TAGS;LANGUAGE=en-US:Classic\,hatha\,Rachna
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107348@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:Erin Schifferli\; 716-868-0648\; joywheelyoga@icloud.com
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T100000
+DTEND;TZID=America/New_York:20150924T110000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160229T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Open Yoga with Maryna
+URL:http://joywheelyoga.com/event/open-with-marina/
+X-TAGS;LANGUAGE=en-US:hatha
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107908@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:
+DESCRIPTION:<h3>Slow Flow Vinyasa</h3>\n<p>This four week series will focus
+  on building stability in your poses and breath while we explore twists an
+ d back-bends in a slow paced\, flow to cultivate awareness of your inner s
+ trength and peace.</p>\n<p><img class='alignleft size-full wp-image-107875
+ ' src='http://joywheelyoga.com/wp-content/uploads/boat-pose.jpg' alt='boat
+ -pose' width='481' height='321' /></p>\n\n<div class='fb-social-plugin fb-
+ like' data-ref='below-post' data-href='http://joywheelyoga.com/the-pose-be
+ gins-when-you-want-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20150924T190000
+DTEND;TZID=America/New_York:20150924T200000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main St\, East Aurora\, NY 14052\, 
+ USA
+RRULE:FREQ=WEEKLY;UNTIL=20151008T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Slow Flow Vinyasa with Adam
+URL:http://joywheelyoga.com/event/slow-flow-vinyasa/
+X-COST:4 Week Series\, use your class passes
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107721@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:Erin Schifferli\; 716-868-0648\; erin.schifferli@gmail.com
+DESCRIPTION:<p>Park Yoga: We meet at Knox farm state park – Buffalo Rd entr
+ ance. Join us and enjoy the practice outdoors in the Orchard area!</p>\n<p
+ >In case of rain\, we will meet at the studio at 411 Main St.</p>\n<p> </p
+ >\n<p><strong><em><span style='text-decoration: underline\;'><a title='For
+ ms' href='http://joywheelyoga.com/forms/'>REGISTER online</a></span></em><
+ /strong></p>\n<p><img class='alignleft size-medium wp-image-107437' src='h
+ ttp://joywheelyoga.com/wp-content/uploads/2014/12/Park-Yoga-300x91.jpg' al
+ t='Park-Yoga' width='300' height='91' /></p>\n\n<div class='fb-social-plug
+ in fb-like' data-ref='below-post' data-href='http://joywheelyoga.com/the-p
+ ose-begins-when-you-want-to-leave-it/' data-share='true' data-width='700'>
+ </div>
+DTSTART;TZID=America/New_York:20150925T093000
+DTEND;TZID=America/New_York:20150925T103000
+GEO:+42.771446;-78.636327
+LOCATION:Knox Farm @ Knox Farm State Park\, 437 Buffalo Road\, East Aurora\
+ , NY 14052\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151002T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Park Yoga with Erin
+URL:http://joywheelyoga.com/event/park-yoga-with-erin-2/
+X-TAGS;LANGUAGE=en-US:erin\,Outdoor yoga\,Park Yoga
+X-COST:$15 Drop-in or $72 for 6 week session
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107824@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<p><strong>Led by: <a href='http://joywheelyoga.com/rich/'>Rich
+  Muscatello:</a><img class='alignright size-full wp-image-1348' src='http:
+ //joywheelyoga.com/wp-content/uploads/2014/03/zen-2.jpg' alt='zen 2' width
+ ='375' height='248' data-id='1348' /></strong></p>\n<p>This is a four week
+  course beginning September<span style='text-decoration: underline\;'> 27t
+ h  at 8 am – 9:15 am.</span><br />\nMindfulness may be considered a state 
+ of mind centering on the conscious abiding in the awareness of our moment 
+ to moment experience. The roots of mindfulness may be found in many Easter
+ n contemplative traditions. Over the four weeks of this class offering\, w
+ e will explore and experience the fundamental and interwoven components of
+  mindfulness\; Intention\, Attention\, and Attitude.<br />\nIn addition to
+  detailed guidance in beginning a formal sitting mindfulness meditation pr
+ actice\, direct application of mindfulness to our everyday life events\, s
+ ituations\, and relationships will be explored. Applying mindfulness in th
+ is less formal manner may be an opportunity to gain greater insight and un
+ cover the depth and richness of our everyday experience that we may ordina
+ rily not notice. Although mindfulness cannot “change” the phenomena that o
+ ccur in our lives it certainly may contribute to a skilful shift in our re
+ lationship to what is occurring\, which often results in what feels like l
+ ess dissatisfaction\, greater unconditional happiness\, as well as emotion
+ al and cognitive balance with what” is”.</p>\n<p>Please <a href='http://jo
+ ywheelyoga.com/forms/'>Register Online</a> or Call.</p>\n\n<div class='fb-
+ social-plugin fb-like' data-ref='below-post' data-href='http://joywheelyog
+ a.com/the-pose-begins-when-you-want-to-leave-it/' data-share='true' data-w
+ idth='700'></div>
+DTSTART;TZID=America/New_York:20150927T080000
+DTEND;TZID=America/New_York:20150927T091500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151018T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Foundations of Meditation (no experience necessary)
+URL:http://joywheelyoga.com/event/foundations-of-meditation/
+X-TAGS;LANGUAGE=en-US:Meditation
+X-COST:Suggested Session Price $80
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107914@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:
+DESCRIPTION:<p>Join us for this fun and relaxing class\, where the world sl
+ ows down and we get to play and connect with our kids…</p>\n<p>We will be 
+ offering bi-weekly Parent Child(ren)’s yoga classes aka – Family Yoga –  o
+ n Sunday mornings 11am-12pm. We will require a 3 family minimum and an 8 f
+ amily maximum so please r<a href='http://joywheelyoga.com/forms/'>egister 
+ online </a>and be sure to include the date(s) you will be attending as wel
+ l as how many children and their ages</p>\n<div id='attachment_107146' sty
+ le='width: 535px' class='wp-caption alignleft'><img class='size-full wp-im
+ age-107146' src='http://joywheelyoga.com/wp-content/uploads/2014/10/Partne
+ r-Kids-YOga.jpg' alt='Fun!' width='525' height='350' /><p class='wp-captio
+ n-text'>Fun!</p></div>\n\n<div class='fb-social-plugin fb-like' data-ref='
+ below-post' data-href='http://joywheelyoga.com/the-pose-begins-when-you-wa
+ nt-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20151004T110000
+DTEND;TZID=America/New_York:20151004T120000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main St\, East Aurora\, NY 14052\, 
+ USA
+RRULE:FREQ=WEEKLY;UNTIL=20151122T235959Z;INTERVAL=2;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Parent child / Family Yoga
+URL:http://joywheelyoga.com/event/parent-child-family-yoga/
+X-COST:$15 per family per class\, or 4 @ $50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107567@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class\,Specialty Class
+CONTACT:
+DESCRIPTION:<p> </p>\n<h2><a title='Dr. Michelle Pietrantone' href='http://
+ joywheelyoga.com/dr-michelle-pietrantone/' target='_blank'>Dr. Michelle Pi
+ etrantone</a>\, is hosting a local Pathways Connect Gathering Group.</h2>
+ \n<p>Pick up a free copy of the magazine being discussed at the front desk
+  at JoyWheel Yoga & Wellness in advance of the meeting.</p>\n<p>This is a 
+ free\, nonprofit project\, you will find like-hearted parents sharing thei
+ r insights and experiences. Holistic\, conscious living means making infor
+ med choices that are right for your family. In Pathways Connect\, you will
+  find respect and support for those choices!</p>\n<p><img class='alignnone
+  size-large wp-image-107554' src='http://joywheelyoga.com/wp-content/uploa
+ ds/Pathways-Connect-Flyer-791x1024.png' alt='Pathways Connect Flyer' width
+ ='791' height='1024' /></p>\n\n<div class='fb-social-plugin fb-like' data-
+ ref='below-post' data-href='http://joywheelyoga.com/the-pose-begins-when-y
+ ou-want-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20151005T191500
+DTEND;TZID=America/New_York:20151005T201500
+RRULE:FREQ=MONTHLY;UNTIL=20160229T235959Z;BYDAY=1MO
+SEQUENCE:0
+SUMMARY:Pathways Connect Gathering Group
+URL:http://joywheelyoga.com/event/pathways-connect-gathering-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107372@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class
+CONTACT:Erin Schifferli\; erin.schifferli@gmail.com
+DESCRIPTION:<p>Vigorous Vinyasa Yoga: A deeply warming and cleansing practi
+ ce. Challenging postures & pace is offered to release\, restore\, and revi
+ ve. Sun salutes\, standing series\, arm balances\, inversions\, and pranay
+ ama (breathing) practiced.</p>\n<p> </p>\n<p>Every month there is a specia
+ l live drumming event to accompany the Powerful class. This drumming class
+  is $8.</p>\n<div id='attachment_90450' style='width: 310px' class='wp-cap
+ tion aligncenter'><a href='http://joywheelyoga.com/wp-content/uploads/2014
+ /06/IMG_2448.jpg'><img class='size-medium wp-image-90450' src='http://joyw
+ heelyoga.com/wp-content/uploads/2014/06/IMG_2448-300x200.jpg' alt='Park Yo
+ ga' width='300' height='200' data-id='90450' /></a><p class='wp-caption-te
+ xt'>Yoga at Knox Park</p></div>\n\n<div class='fb-social-plugin fb-like' d
+ ata-ref='below-post' data-href='http://joywheelyoga.com/the-pose-begins-wh
+ en-you-want-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20151010T083000
+DTEND;TZID=America/New_York:20151010T093000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=MONTHLY;UNTIL=20160229T235959Z;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:LIVE DRUMS Vigorous Vinyasa with Erin
+URL:http://joywheelyoga.com/event/live-drums-vigorous-vinyasa-erin/
+X-TAGS;LANGUAGE=en-US:drums\,erin\,Vinyasa
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107338@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:Erin Schifferli\; 716-868-8443\; joywheelyoga@icloud.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://joywheelyoga.com/wp-content/uploads/2014/08/photo.jpg' width='282' heig
+ ht='174' /></div><p>Sweet Pea & Me (Mama / Baby Yoga)</p>\n<p><strong>Clas
+ s Description: </strong>Share your yoga practice with your new little one!
+  This class focuses on deepening the bond between you and your sweet pea b
+ y combining infant massage\, combination parent / baby poses\, and buildin
+ g Mamas core-muscle senses.</p>\n<p>We will explore\, play\, and support o
+ ne another during this special time of life. Babies are welcome to feed\, 
+ nap\, or play during class. Mama and baby will leave feeling balanced\, re
+ freshed\, and rejuvenated. Catering to newborns 4 weeks old to one year\, 
+ depending on temperament some older children can come as well… We accept I
+ ndependent Health’s Flex Fit Family for this class!</p>\n<p>This class is 
+ offered in two sessions:</p>\n<ul>\n<li>Session One: 10/9 – 10/30\n<ul>\n<
+ li>Fridays 10 am to 11 am</li>\n</ul>\n</li>\n<li>Session Two: 1/16 – 2/6
+ \n<ul>\n<li>Saturdays 11:30 to 12:30</li>\n</ul>\n</li>\n</ul>\n<p><em><st
+ rong><span style='text-decoration: underline\;'><a title='Forms' href='htt
+ p://joywheelyoga.com/forms/'>You can register online</a></span></strong></
+ em></p>\n<p> </p>\n\n<div class='fb-social-plugin fb-like' data-ref='below
+ -post' data-href='http://joywheelyoga.com/the-pose-begins-when-you-want-to
+ -leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20151010T100000
+DTEND;TZID=America/New_York:20151010T110000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151031T235959Z;BYDAY=FR,SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Sweet Pea & Me
+URL:http://joywheelyoga.com/event/sweet-pea-and-me/
+X-TAGS;LANGUAGE=en-US:Family &amp\; Life cycle Classes
+X-COST:$36 for 3 week session  or $15 / Drop-In
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107713@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Open Class\,Specialty Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<h2>This children’s yoga class is full of animal sounds and pla
+ y!</h2>\n<p>Children will enjoy age appropriate movement\, games\, songs\,
+  and make believe for a balanced kids class with friends.</p>\n<div id='ga
+ llery-2' class='gallery galleryid-107143 gallery-columns-3 gallery-size-th
+ umbnail' data-carousel-extra='{'blog_id':1\,'permalink':'http://joywheelyo
+ ga.com/special-bloom-grow-yoga-1020/'\,'likes_blog_id':65512580}'>\n<dl cl
+ ass='gallery-item'>\n<dt class='gallery-icon landscape'><a href='http://jo
+ ywheelyoga.com/special-bloom-grow-yoga-1020/children-yoga/' target='_self'
+ ><img class='attachment-thumbnail' src='http://joywheelyoga.com/wp-content
+ /uploads/2014/10/Children-Yoga-150x150.jpg' alt='Bloom & Grow Yoga' width=
+ '150' height='150' data-attachment-id='107147' data-orig-file='http://joyw
+ heelyoga.com/wp-content/uploads/2014/10/Children-Yoga.jpg' data-orig-size=
+ '490\,414' data-comments-opened='0' data-image-meta='{'aperture':'0'\,'cre
+ dit':''\,'camera':''\,'caption':''\,'created_timestamp':'0'\,'copyright':'
+ '\,'focal_length':'0'\,'iso':'0'\,'shutter_speed':'0'\,'title':''\,'orient
+ ation':'0'}' data-image-title='Children Yoga' data-image-description='' da
+ ta-medium-file='http://joywheelyoga.com/wp-content/uploads/2014/10/Childre
+ n-Yoga-300x253.jpg' data-large-file='http://joywheelyoga.com/wp-content/up
+ loads/2014/10/Children-Yoga.jpg' /></a></dt>\n<dd class='wp-caption-text g
+ allery-caption'>Bloom & Grow Yoga</dd>\n</dl>\n<dl class='gallery-item'>\n
+ <dt class='gallery-icon landscape'><a href='http://joywheelyoga.com/specia
+ l-bloom-grow-yoga-1020/partner-kids-yoga/' target='_self'><img class='atta
+ chment-thumbnail' src='http://joywheelyoga.com/wp-content/uploads/2014/10/
+ Partner-Kids-YOga-150x150.jpg' alt='Fun!' width='150' height='150' data-at
+ tachment-id='107146' data-orig-file='http://joywheelyoga.com/wp-content/up
+ loads/2014/10/Partner-Kids-YOga.jpg' data-orig-size='525\,350' data-commen
+ ts-opened='0' data-image-meta='{'aperture':'0'\,'credit':''\,'camera':''\,
+ 'caption':''\,'created_timestamp':'0'\,'copyright':''\,'focal_length':'0'\
+ ,'iso':'0'\,'shutter_speed':'0'\,'title':''\,'orientation':'0'}' data-imag
+ e-title='Partner Kids YOga' data-image-description='' data-medium-file='ht
+ tp://joywheelyoga.com/wp-content/uploads/2014/10/Partner-Kids-YOga-300x200
+ .jpg' data-large-file='http://joywheelyoga.com/wp-content/uploads/2014/10/
+ Partner-Kids-YOga.jpg' /></a></dt>\n<dd class='wp-caption-text gallery-cap
+ tion'>Fun!</dd>\n</dl>\n</div>\n<p>Join Rachna Clerici\, Certified Rainbow
+  Kids Teacher and Momma of 3 for this delightful kids class beginning at 4
+ :30 PM.</p>\n<p>Registration Strongly encouraged\, drop-ins welcome. $10 e
+ ach class\, 2nd child $5</p>\n<p>Specialty class: Please call or <span sty
+ le='text-decoration: underline\;'><strong><em><span style='color: #333333\
+ ;'><a style='color: #333333\; text-decoration: underline\;' title='Forms' 
+ href='http://joywheelyoga.com/forms/'>register online.</a></span></em></st
+ rong></span></p>\n\n<div class='fb-social-plugin fb-like' data-ref='below-
+ post' data-href='http://joywheelyoga.com/the-pose-begins-when-you-want-to-
+ leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20151012T163000
+DTEND;TZID=America/New_York:20151012T173000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=MONTHLY;UNTIL=20160229T235959Z;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:Bloom & Grow Kids Yoga
+URL:http://joywheelyoga.com/event/bloom-grow-kids-yoga-summer/
+X-TAGS;LANGUAGE=en-US:kids yoga\,rainbow kids\,ratchna
+X-COST:$10 per class $5 / additional child
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107370@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<p><img class='alignleft wp-image-37361 size-full' src='http://
+ joywheelyoga.com/wp-content/uploads/2014/05/1904047_630581307011285_602740
+ 284_n.jpg' alt='' width='240' height='159' data-id='37361' /></p>\n<p>Yoga
+  Nidra is a restful class\, Nidra translates as sleep.</p>\n<p>The class i
+ s done supine in a comforting position as you relax and let go of any stre
+ ss and tension. It has been shown to improve sleep and focus.</p>\n\n<div 
+ class='fb-social-plugin fb-like' data-ref='below-post' data-href='http://j
+ oywheelyoga.com/the-pose-begins-when-you-want-to-leave-it/' data-share='tr
+ ue' data-width='700'></div>
+DTSTART;TZID=America/New_York:20151012T191500
+DTEND;TZID=America/New_York:20151012T201500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=MONTHLY;UNTIL=20160229T235959Z;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:Yoga Nidra
+URL:http://joywheelyoga.com/event/yoga-nidra/
+X-COST:$15
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107835@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://joywheelyoga.com/wp-content/uploads/2014/09/3-Partner-Yoga-Poses-for-V-
+ Day-e1410200704974-300x155.jpg' width='300' height='155' /></div><p>Specia
+ l Sweetest Day Saturday Partner Yoga class October 17th from 6:30-8pm at J
+ oyWheel Yoga and Wellness.</p>\n<p>The class will include all levels yoga 
+ postures\, some giving and receiving of Thai Yoga Massage\, and a side by 
+ side final relaxation. After class we will save time for some light refres
+ hments (tea and wine served) and socializing. This is one of our FAVORITE 
+ offerings. It can be a great way to slow down and re-connect with someone 
+ you care about\, plus we learn to grow and deepen our practice!</p>\n<p> <
+ /p>\n<p>Please let us know if you have any questions or would like to regi
+ ster for this class. You can register online<a href='http://joywheelyoga.c
+ om/signup/'>http://joywheelyoga.com/signup/</a></p>\n<p>The cost is $35 pe
+ r couple and includes the refreshments.</p>\n<p> </p>\n\n<div class='fb-so
+ cial-plugin fb-like' data-ref='below-post' data-href='http://joywheelyoga.
+ com/the-pose-begins-when-you-want-to-leave-it/' data-share='true' data-wid
+ th='700'></div>
+DTSTART;TZID=America/New_York:20151017T183000
+DTEND;TZID=America/New_York:20151017T200000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+SEQUENCE:0
+SUMMARY:Partner Yoga with Erin & Adam (Sweetest Day)
+URL:http://joywheelyoga.com/event/partner-yoga-with-erin-adam-sweetestday/
+X-TAGS;LANGUAGE=en-US:Registration Classes
+X-COST:$35 per pair
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107756@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:716-655-2060\; joywheelyoga@icloud.com
+DESCRIPTION:<p><img class='alignright wp-image-107415 size-medium' src='htt
+ p://joywheelyoga.com/wp-content/uploads/2014/11/434527_1283017379_large-30
+ 0x97.jpg' alt='434527_1283017379_large' width='300' height='97' />Join <a 
+ href='http://joywheelyoga.com/rich/'>Rich Muscatello</a>\, for a special s
+ ummer series offering of mindfulness meditation. These classes are open to
+  anyone who has taken the beginner’s or foundational class–please <a href=
+ 'http://joywheelyoga.com/forms/'>Register</a> to reserve your spot!</p>\n<
+ p>Students may take any or all of the four following offerings beginning o
+ n <strong>10/25.</strong></p>\n<hr />\n<h3>Sessions</h3>\n<p><strong>Octob
+ er 25th–Bare Attention</strong></p>\n<p>“Bare attention simply means to ob
+ serve through our multiple senses\, things “just as they are”\, without ad
+ ding anything extra such as judgment & commentary nor taking anything away
+ .”</p>\n<p><strong>November 1st–Presence of Mind</strong></p>\n<p>“Presenc
+ e of mind entails resting our bare attention on what it is that is occurri
+ ng in our inner & outer landscapes in the here & now\, including thoughts\
+ , sensations\, feelings & emotions.”</p>\n<p><strong>November 8th–Gentlene
+ ss</strong></p>\n<p>“Abiding in a spirit of non aggression & good heartedn
+ ess that would never cause harm to our self\, others or the planet & exten
+ ding it through our thoughts\, words & actions.”</p>\n<p><strong>November 
+ 15th-Beginner’s Mind</strong></p>\n<p>“Being a newcomer\, moment to moment
+ \, by loosening our grip on any preconception\, prejudice\, presumption\, 
+ prejudgment\, expectation\, bias or fixed idea & therefore allowing a clea
+ r\, fresh & open space for an innocent & enthusiastic investigation in a m
+ ind that is not already “made up”.”</p>\n<hr />\n<p><img class='size-mediu
+ m wp-image-107280' src='http://joywheelyoga.com/wp-content/uploads/2014/10
+ /MorningMeditation3-300x200.jpg' alt='Zen Sand Meditation' width='300' hei
+ ght='200' /></p>\n<p>About the offerings…</p>\n<p>Perhaps practicing mindf
+ ulness meditation as a means to not ignore or distract ourselves but to tr
+ uly wake up and clearly see what is happening\, as well as\, to cultivate 
+ skilful ways of relating to what is happening\, we would be able to catch 
+ a glimpse of the liberating path that meditation is. Liberating in the sen
+ se that we could come to realize and directly experience that our natural 
+ inner state of peace\, joy and equipoise may be unconditionally connected 
+ with\, on a moment to moment basis\, even amidst the ongoing fluctuations 
+ of not getting what it is that we think we want and receiving what it is w
+ ith think we don’t want.</p>\n<p>We will start each class with an opportun
+ ity to deepen our sitting practice. Following our sitting practice we will
+  mindfully move about the room to read and reflect on a number of quotes f
+ rom a collection of very wise teachers regarding one skilful way of being 
+ or “attitude” that we are invited to become more familiar with & cultivate
+  during both our formal sitting meditation practice & our “informal” pract
+ ice of life. After taking in the words we will reconvene in our circle for
+  a group dialogue of the words that may or perhaps may not have resonated 
+ with us.</p>\n<p>This is an offering intended for those who have sitting m
+ editation experience and practice. If you are brand new to meditation and 
+ still desire to attend\, private sessions for foundational instruction and
+  guiding in sitting mindfulness meditation are available and intended to e
+ nhance the understanding\, comfort and benefit of these weekly gatherings.
+  Although attending every class is recommended\, each class\, although int
+ errelated to the others\, would still be understandable & beneficial witho
+ ut attending all of the others.</p>\n\n<div class='fb-social-plugin fb-lik
+ e' data-ref='below-post' data-href='http://joywheelyoga.com/the-pose-begin
+ s-when-you-want-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20151025T080000
+DTEND;TZID=America/New_York:20151025T091500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151115T235959Z
+SEQUENCE:0
+SUMMARY:Skillful States of Mindfulness Meditation with Rich
+URL:http://joywheelyoga.com/event/skillful-states-of-mindfulness-meditation
+ -with-rich/
+X-TAGS;LANGUAGE=en-US:JoyWheel Summer\,Meditation\,mindfulness\,Rich\,Rich 
+ Muscatello\,SKillfull
+X-COST:$20 per session / $75 full offering
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107367@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<p>Join <strong><em><a title='Rachna' href='http://joywheelyoga
+ .com/rachna/' target='_blank'>Rachna Clerici</a>\, </em></strong>trained b
+ y<strong><em><a href='http://www.restorativeyogateachers.com/learntopracti
+ ce.html' target='_blank'> Judith Lasater\, PT\, PhD</a>\,</em></strong> fo
+ r a special restorative sessions.</p>\n<p><a href='http://joywheelyoga.com
+ /wp-content/uploads/2014/04/prenatal-yoga-assist.jpg'><img class='alignrig
+ ht size-full wp-image-36599' src='http://joywheelyoga.com/wp-content/uploa
+ ds/2014/04/prenatal-yoga-assist.jpg' alt='Prenatal Yoga with Assistance' w
+ idth='183' height='275' data-id='36599' /></a></p>\n<h3>Restorative Yoga w
+ ill:</h3>\n<p>Harmonize your systems and bring balance and joy back into y
+ our life. Come learn techniques to heal past injuries\, relieve anxiety\, 
+ and encourage more restful sleep. Restorative yoga can help you release an
+ y stuck tension from deep in your body and allow more fluidity into your b
+ ody.</p>\n<blockquote><p>“We work very hard in our lives\, and while we ma
+ y sleep\, we rarely take time to rest. Restorative yoga poses help us lear
+ n to relax and rest deeply and completely.” Judith Lasater\, PT\, PhD</p><
+ /blockquote>\n<p>Taught By: Rachna Clerici\, RYT\, Relax & Renew trained w
+ ith renowned Yoga Teacher: Judith Lasater\, PT\, PhD</p>\n<p><em><strong><
+ a title='Forms' href='http://joywheelyoga.com/forms/' target='_blank'>Rese
+ rve Your Spot!</a></strong></em></p>\n<p> </p>\n<h4>Information About Rest
+ orative Yoga from Dr. Judith Lasater</h4>\n<p>Restorative poses help relie
+ ve the effects of chronic stress<span class='style26'> in several ways. Fi
+ rst\, the use of props as described in this book provides a completely sup
+ portive environment for total relaxation.</span></p>\n<p>Second\, each res
+ torative sequence is designed <span class='style26'>to move the spine in a
+ ll directions. These movements illustrate the age-old wisdom of yoga that 
+ teaches well-being is enhanced by a healthy spine. Some of the restorative
+  poses are backbends\, while others are forward bends. Additional poses ge
+ ntly twist the column both left and right.</span></p>\n<p>Third\, a well-s
+ equenced restorative practice<span class='style26'> also includes an inver
+ ted pose\, which reverses the effects of gravity. This can be as simple as
+  putting the legs on a bolster or pillow\, but the effects are quite drama
+ tic. Because we stand or sit most of the day\, blood and lymph fluid accum
+ ulate in the lower extremities. By changing the relationship of the legs t
+ o gravity\, fluids are returned to the upper body and heart function is en
+ hanced.</span></p>\n\n<div class='fb-social-plugin fb-like' data-ref='belo
+ w-post' data-href='http://joywheelyoga.com/the-pose-begins-when-you-want-t
+ o-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20151026T191500
+DTEND;TZID=America/New_York:20151026T201500
+EXDATE;TZID=America/New_York:20150928T191500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=MONTHLY;UNTIL=20160229T235959Z;BYDAY=-1MO
+SEQUENCE:0
+SUMMARY:Restorative Yoga with Rachna
+URL:http://joywheelyoga.com/event/restorative-yoga-rachna/
+X-COST:$15 per class
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107830@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>A practice of 108 Sun Salutations is a challenge both mental
+ ly and physically\, that often practitioners describe as a moving meditati
+ on.</p>\n<p>The class is led\, although the practice of each sun salutatio
+ n is your own.</p>\n<p><img class='alignleft wp-image-107244 size-full' sr
+ c='http://joywheelyoga.com/wp-content/uploads/2014/10/sun-salutation-flow-
+ 1.jpg' alt='sun-salutation-flow (1)' width='786' height='225' data-id='107
+ 244' /></p>\n\n<div class='fb-social-plugin fb-like' data-ref='below-post'
+  data-href='http://joywheelyoga.com/the-pose-begins-when-you-want-to-leave
+ -it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20151220T230000
+DTEND;TZID=America/New_York:20151221T000000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+SEQUENCE:0
+SUMMARY:108 Sun Salutations
+URL:http://joywheelyoga.com/event/108-sun-salutations-3/
+X-COST:$15 per person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107842@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<p><strong>Led by: <a href='http://joywheelyoga.com/rich/'>Rich
+  Muscatello:</a><img class='alignright size-full wp-image-1348' src='http:
+ //joywheelyoga.com/wp-content/uploads/2014/03/zen-2.jpg' alt='zen 2' width
+ ='375' height='248' data-id='1348' /></strong></p>\n<p>This is a four week
+  course beginning January 3rd<span style='text-decoration: underline\;'>  
+ at 8 am – 9:15 am.</span><br />\nMindfulness may be considered a state of 
+ mind centering on the conscious abiding in the awareness of our moment to 
+ moment experience. The roots of mindfulness may be found in many Eastern c
+ ontemplative traditions. Over the four weeks of this class offering\, we w
+ ill explore and experience the fundamental and interwoven components of mi
+ ndfulness\; Intention\, Attention\, and Attitude.<br />\nIn addition to de
+ tailed guidance in beginning a formal sitting mindfulness meditation pract
+ ice\, direct application of mindfulness to our everyday life events\, situ
+ ations\, and relationships will be explored. Applying mindfulness in this 
+ less formal manner may be an opportunity to gain greater insight and uncov
+ er the depth and richness of our everyday experience that we may ordinaril
+ y not notice. Although mindfulness cannot “change” the phenomena that occu
+ r in our lives it certainly may contribute to a skilful shift in our relat
+ ionship to what is occurring\, which often results in what feels like less
+  dissatisfaction\, greater unconditional happiness\, as well as emotional 
+ and cognitive balance with what” is”.</p>\n<p>Please <a href='http://joywh
+ eelyoga.com/forms/'>Register Online</a> or Call.</p>\n\n<div class='fb-soc
+ ial-plugin fb-like' data-ref='below-post' data-href='http://joywheelyoga.c
+ om/the-pose-begins-when-you-want-to-leave-it/' data-share='true' data-widt
+ h='700'></div>
+DTSTART;TZID=America/New_York:20160103T080000
+DTEND;TZID=America/New_York:20160103T091500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160124T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Foundations of Meditation (no experience necessary)
+URL:http://joywheelyoga.com/event/foundations-of-meditation-no-experience-n
+ ecessary2/
+X-TAGS;LANGUAGE=en-US:Meditation
+X-COST:Suggested Session Price $80 per person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107845@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:
+DESCRIPTION:<p>Heart Chakra Vibration Yoga<br />\nCome experience the sound
+  and vibrations resonating from a quartz crystal singing bowl to re-tune y
+ our body\, by opening\, clearing\, and re-balancing the heart chakra. This
+  energy center corresponds with the “F” musical note or vibrational freque
+ ncy.</p>\n<p>Paired with heart opening and restorative yoga poses\, the ou
+ tcome is transformational and deeply nourishing. The opening of the chest 
+ in these poses can cultivate a deeper compassion or connection with others
+ .</p>\n\n<div class='fb-social-plugin fb-like' data-ref='below-post' data-
+ href='http://joywheelyoga.com/the-pose-begins-when-you-want-to-leave-it/' 
+ data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20160104T100000
+DTEND;TZID=America/New_York:20160104T111500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160201T235959Z;BYDAY=MO;WKST=SU
+SEQUENCE:0
+SUMMARY:Heart Chakra Vibration Yoga
+URL:http://joywheelyoga.com/event/heart-chakra-vibration-yoga/
+X-COST:$60
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107833@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:Erin Schifferli\; joywheelyoga@icloud.com
+DESCRIPTION:<p>This is all-levels\, all-stages class that offers the opport
+ unity for the whole family to let go of expectation and practice together.
+ </p>\n<p><img class='alignleft size-full wp-image-95420' src='http://joywh
+ eelyoga.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-11-at-9.17.19-P
+ M.png' alt='Screen Shot 2014-06-11 at 9.17.19 PM' width='566' height='401'
+  /></p>\n\n<div class='fb-social-plugin fb-like' data-ref='below-post' dat
+ a-href='http://joywheelyoga.com/the-pose-begins-when-you-want-to-leave-it/
+ ' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20160107T173000
+DTEND;TZID=America/New_York:20160107T183000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160128T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Family Yoga
+URL:http://joywheelyoga.com/event/family-yoga/
+X-TAGS;LANGUAGE=en-US:children\,family\,grandparents\,parents
+X-COST:(per person) $60 per session / $15 drop-in
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107840@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:
+DESCRIPTION:<p>This is an accessible way for newcomers to the practice of y
+ oga to learn the basics in a safe and supported environment. Many modifica
+ tions offered.</p>\n\n<div class='fb-social-plugin fb-like' data-ref='belo
+ w-post' data-href='http://joywheelyoga.com/the-pose-begins-when-you-want-t
+ o-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20160107T184500
+DTEND;TZID=America/New_York:20160107T200000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160128T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Yoga Foundations
+URL:http://joywheelyoga.com/event/yoga-foundations/
+X-COST:$80 per session
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107839@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:
+DESCRIPTION:<p>This is a special offering for students looking to enrich th
+ e understanding and practice of yoga. Raja yoga\, consists of 8 equal limb
+ s\, one of those limbs is Asana or the yoga postures.</p>\n<p>This course 
+ will introduce you to the other limbs of yoga in an accessible way\, and e
+ ach class will incorporate asana practice as well.</p>\n<p><img class='ali
+ gnleft size-full wp-image-107841' src='http://joywheelyoga.com/wp-content/
+ uploads/yoga_poster-2014.jpg' alt='yoga_poster-2014' width='560' height='3
+ 73' /></p>\n\n<div class='fb-social-plugin fb-like' data-ref='below-post' 
+ data-href='http://joywheelyoga.com/the-pose-begins-when-you-want-to-leave-
+ it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20160110T111500
+DTEND;TZID=America/New_York:20160111T003000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160228T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:The Study of the 8-Limbs of Yoga
+URL:http://joywheelyoga.com/event/the-study-of-the-8-limbs-of-yoga/
+X-COST:$160 session price
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107828@joywheelyoga.com
+DTSTAMP:20150920T002147Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:Erin Schifferli\; 716-868-8443\; joywheelyoga@icloud.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://joywheelyoga.com/wp-content/uploads/2014/08/photo.jpg' width='282' heig
+ ht='174' /></div><p>Sweet Pea & Me (Mama / Baby Yoga)</p>\n<p><strong>Clas
+ s Description: </strong>Share your yoga practice with your new little one!
+  This class focuses on deepening the bond between you and your sweet pea b
+ y combining infant massage\, combination parent / baby poses\, and buildin
+ g Mamas core-muscle senses.</p>\n<p>We will explore\, play\, and support o
+ ne another during this special time of life. Babies are welcome to feed\, 
+ nap\, or play during class. Mama and baby will leave feeling balanced\, re
+ freshed\, and rejuvenated. Catering to newborns 4 weeks old to one year\, 
+ depending on temperament some older children can come as well… We accept I
+ ndependent Health’s Flex Fit Family for this class!</p>\n<p>This class is 
+ offered in two sessions:</p>\n<ul>\n<li>Session One: 10/9 – 10/30\n<ul>\n<
+ li>Fridays 10 am to 11 am</li>\n</ul>\n</li>\n<li>Session Two: 1/16 – 2/6
+ \n<ul>\n<li>Saturdays 11:30 to 12:30</li>\n</ul>\n</li>\n</ul>\n<p><em><st
+ rong><span style='text-decoration: underline\;'><a title='Forms' href='htt
+ p://joywheelyoga.com/forms/'>You can register online</a></span></strong></
+ em></p>\n<p> </p>\n\n<div class='fb-social-plugin fb-like' data-ref='below
+ -post' data-href='http://joywheelyoga.com/the-pose-begins-when-you-want-to
+ -leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20160116T113000
+DTEND;TZID=America/New_York:20160116T123000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160206T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Sweet Pea & Me
+URL:http://joywheelyoga.com/event/sweet-pea-me/
+X-TAGS;LANGUAGE=en-US:Family &amp\; Life cycle Classes
+X-COST:$36 for 3 week session  or $15 / Drop-In
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107831@joywheelyoga.com
+DTSTAMP:20150920T002148Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160208T190000
+DTEND;TZID=America/New_York:20160208T203000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+SEQUENCE:0
+SUMMARY:An Intro to Acro Yoga
+URL:http://joywheelyoga.com/event/an-intro-to-acro-yoga/
+X-COST:$20
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107837@joywheelyoga.com
+DTSTAMP:20150920T002148Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:joywheelyoga@icloud.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://joywheelyoga.com/wp-content/uploads/2014/09/3-Partner-Yoga-Poses-for-V-
+ Day-e1410200704974-300x155.jpg' width='300' height='155' /></div><p>Specia
+ l Valentine’s Partner Yoga class February 12th from 6:30-8pm at JoyWheel Y
+ oga and Wellness.</p>\n<p>The class will include all levels yoga postures\
+ , some giving and receiving of Thai Yoga Massage\, and a side by side fina
+ l relaxation. After class we will save time for some light refreshments (t
+ ea and wine served) and socializing. This is one of our FAVORITE offerings
+ . It can be a great way to slow down and re-connect with someone you care 
+ about\, plus we learn to grow and deepen our practice!</p>\n<p>Please let 
+ us know if you have any questions or would like to register for this class
+ . You can register online<a href='http://joywheelyoga.com/signup/'>http://
+ joywheelyoga.com/signup/</a></p>\n<p>The cost is $35 per couple and includ
+ es the refreshments.</p>\n<p> </p>\n\n<div class='fb-social-plugin fb-like
+ ' data-ref='below-post' data-href='http://joywheelyoga.com/the-pose-begins
+ -when-you-want-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20160212T183000
+DTEND;TZID=America/New_York:20160212T200000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+SEQUENCE:0
+SUMMARY:Partner Yoga with Erin & Adam (Valentine’s Day)
+URL:http://joywheelyoga.com/event/partner-yoga-with-erin-adam-valentines/
+X-TAGS;LANGUAGE=en-US:Registration Classes
+X-COST:$35 per pair
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107843@joywheelyoga.com
+DTSTAMP:20150920T002148Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:716-655-2060\; joywheelyoga@icloud.com
+DESCRIPTION:<p><img class='alignright wp-image-107415 size-medium' src='htt
+ p://joywheelyoga.com/wp-content/uploads/2014/11/434527_1283017379_large-30
+ 0x97.jpg' alt='434527_1283017379_large' width='300' height='97' />Join <a 
+ href='http://joywheelyoga.com/rich/'>Rich Muscatello</a>\, for a special s
+ ummer series offering of mindfulness meditation. These classes are open to
+  anyone who has taken the beginner’s or foundational class–please <a href=
+ 'http://joywheelyoga.com/forms/'>Register</a> to reserve your spot!</p>\n<
+ p>Students may take any or all of the four following offerings beginning o
+ n <strong>10/25.</strong></p>\n<hr />\n<h3>Sessions</h3>\n<p><strong>Octob
+ er 25th–Bare Attention</strong></p>\n<p>“Bare attention simply means to ob
+ serve through our multiple senses\, things “just as they are”\, without ad
+ ding anything extra such as judgment & commentary nor taking anything away
+ .”</p>\n<p><strong>November 1st–Presence of Mind</strong></p>\n<p>“Presenc
+ e of mind entails resting our bare attention on what it is that is occurri
+ ng in our inner & outer landscapes in the here & now\, including thoughts\
+ , sensations\, feelings & emotions.”</p>\n<p><strong>November 8th–Gentlene
+ ss</strong></p>\n<p>“Abiding in a spirit of non aggression & good heartedn
+ ess that would never cause harm to our self\, others or the planet & exten
+ ding it through our thoughts\, words & actions.”</p>\n<p><strong>November 
+ 15th-Beginner’s Mind</strong></p>\n<p>“Being a newcomer\, moment to moment
+ \, by loosening our grip on any preconception\, prejudice\, presumption\, 
+ prejudgment\, expectation\, bias or fixed idea & therefore allowing a clea
+ r\, fresh & open space for an innocent & enthusiastic investigation in a m
+ ind that is not already “made up”.”</p>\n<hr />\n<p><img class='size-mediu
+ m wp-image-107280' src='http://joywheelyoga.com/wp-content/uploads/2014/10
+ /MorningMeditation3-300x200.jpg' alt='Zen Sand Meditation' width='300' hei
+ ght='200' /></p>\n<p>About the offerings…</p>\n<p>Perhaps practicing mindf
+ ulness meditation as a means to not ignore or distract ourselves but to tr
+ uly wake up and clearly see what is happening\, as well as\, to cultivate 
+ skilful ways of relating to what is happening\, we would be able to catch 
+ a glimpse of the liberating path that meditation is. Liberating in the sen
+ se that we could come to realize and directly experience that our natural 
+ inner state of peace\, joy and equipoise may be unconditionally connected 
+ with\, on a moment to moment basis\, even amidst the ongoing fluctuations 
+ of not getting what it is that we think we want and receiving what it is w
+ ith think we don’t want.</p>\n<p>We will start each class with an opportun
+ ity to deepen our sitting practice. Following our sitting practice we will
+  mindfully move about the room to read and reflect on a number of quotes f
+ rom a collection of very wise teachers regarding one skilful way of being 
+ or “attitude” that we are invited to become more familiar with & cultivate
+  during both our formal sitting meditation practice & our “informal” pract
+ ice of life. After taking in the words we will reconvene in our circle for
+  a group dialogue of the words that may or perhaps may not have resonated 
+ with us.</p>\n<p>This is an offering intended for those who have sitting m
+ editation experience and practice. If you are brand new to meditation and 
+ still desire to attend\, private sessions for foundational instruction and
+  guiding in sitting mindfulness meditation are available and intended to e
+ nhance the understanding\, comfort and benefit of these weekly gatherings.
+  Although attending every class is recommended\, each class\, although int
+ errelated to the others\, would still be understandable & beneficial witho
+ ut attending all of the others.</p>\n\n<div class='fb-social-plugin fb-lik
+ e' data-ref='below-post' data-href='http://joywheelyoga.com/the-pose-begin
+ s-when-you-want-to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20160214T080000
+DTEND;TZID=America/New_York:20160214T091500
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160228T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Skillful States of Mindfulness Meditation with Rich
+URL:http://joywheelyoga.com/event/skillful-states-of-mindfulness-meditation
+ -with-rich-2/
+X-TAGS;LANGUAGE=en-US:JoyWheel Summer\,Meditation\,mindfulness\,Rich\,Rich 
+ Muscatello\,SKillfull
+X-COST:$20 per session / $75 full offering
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107427@joywheelyoga.com
+DTSTAMP:20150920T002148Z
+CATEGORIES;LANGUAGE=en-US:Specialty Class
+CONTACT:JoyWheelYoga@icloud.com
+DESCRIPTION:<p>Winter Break kids class for children ages 4 through 11.</p>
+ \n<p>Fun morning activities\, yoga\, and crafting projects for kids on bre
+ ak.</p>\n<p><img class='wp-image-554 size-medium' src='http://joywheelyoga
+ .com/wp-content/uploads/2012/08/kid-300x199.png' alt='Art...' width='300' 
+ height='199' /></p>\n\n<div class='fb-social-plugin fb-like' data-ref='bel
+ ow-post' data-href='http://joywheelyoga.com/the-pose-begins-when-you-want-
+ to-leave-it/' data-share='true' data-width='700'></div>
+DTSTART;TZID=America/New_York:20160222T093000
+DTEND;TZID=America/New_York:20160222T113000
+EXDATE;TZID=America/New_York:20160223T093000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+RRULE:FREQ=DAILY;UNTIL=20160224T235959Z
+SEQUENCE:0
+SUMMARY:Kids Yoga Camp with Erin & Rachna
+URL:http://joywheelyoga.com/event/winter-kids-yoga-camp/
+X-COST:$30 Per class or $50 per session
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107832@joywheelyoga.com
+DTSTAMP:20150920T002148Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160229T190000
+DTEND;TZID=America/New_York:20160229T203000
+GEO:+42.767751;-78.619439
+LOCATION:JoyWheel Yoga & Wellness @ 411 Main Street\, East Aurora\, NY 1405
+ 2\, USA
+SEQUENCE:0
+SUMMARY:An Intro to Ayurveda
+URL:http://joywheelyoga.com/event/an-intro-to-ayurveda/
+X-COST:$20
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//166.63.124.204//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://flixeh.com
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+X-LIC-LOCATION:America/Edmonton
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-21017@flixeh.com/wordpress
+DTSTAMP:20150920T002206Z
+CATEGORIES;LANGUAGE=en-US:Film/Movies\,Venezuela
+CONTACT:Cantares Venezuelan Cultural Foundation\; http://www.cantaresvcf.co
+ m
+DESCRIPTION:<p><span class='embed-youtube' style='text-align:center\; displ
+ ay: block\;'><iframe class='youtube-player' type='text/html' width='702' h
+ eight='425' src='http://www.youtube.com/embed/P2-fJjEgcGk?version=3&rel=1&
+ fs=1&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent' framebord
+ er='0' allowfullscreen='true'></iframe></span></p>\n<p class='font_8'><em>
+ <strong>Language: Spanish with English Subtitles</strong></em></p>\n<p cla
+ ss='font_8'>Two sides of the same country: a chaotic and violent city cont
+ rasting against a natural paradise where the oldest mountains on the plane
+ t can be found. Two main characters that find each other at a crucial mome
+ nt. Two fearless journeys\, one that begins as a childlike adventure and e
+ nds up on the other side of the country and a one-way journey\, free and d
+ etermined. The same destiny will inevitably bond a woman with her grandson
+ . Without knowing it they are part of an unbreakable family circle that de
+ eply unites them. Second opportunities will arise while individual freedom
+  of choice will become imposing. Everything comes together to tell us: the
+ re is only one destiny\, the one you choose for yourself.</p>\n<p class='f
+ ont_8'> <a href='http://flixeh.com/wordpress/wp-content/uploads/2014/07/or
+ ange_divider600.png'><img class='alignleft size-large wp-image-2199' src='
+ http://flixeh.com/wordpress/wp-content/uploads/2014/07/orange_divider600-1
+ 024x48.png' alt='orange_divider600' width='702' height='33' /></a></p>\n<p
+  class='font_8'>Dos caras de un mismo país\, una ciudad agresiva y caótica
+ \, y un paraíso con las montañas más antigua del planeta. Dos protagonista
+ s en momentos vitales opuestos. Y dos viajes temerarios\, una aventura inf
+ antil que cruza un país entero\, y un viaje sin retorno\, pero libre y dec
+ idido. El destino vincula irremediablemente a una abuela y su nieto. Aunqu
+ e no se conocen forman parte de un círculo que no pueden romper. Las segun
+ das oportunidades aparecen\, pero la libertad individual se impone. Todo s
+ e conjura para decirnos: sólo hay un destino\, el que tú eliges.</p>
+DTSTART;TZID=America/Edmonton:20150918T183000
+GEO:+51.045572;-114.075019
+LOCATION:Globe Cinema @ 617 8 Ave SW\, Calgary\, AB T2P 1H1\, Canada
+SEQUENCE:0
+SUMMARY:Movie Night: The Longest Distance
+URL:http://flixeh.com/event/movie-night-the-longest-distance/
+X-TAGS;LANGUAGE=en-US:La Distancia más Larga\,Movie\,Película\,Venezuela\,V
+ enezuelans
+X-COST:$10
+X-TICKETS-URL:http://www.cantaresvcf.com/Tickets.html
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-21019@flixeh.com/wordpress
+DTSTAMP:20150920T002206Z
+CATEGORIES;LANGUAGE=en-US:Community Events\,Concert\,Events\,Venezuela
+CONTACT:Cantares Venezuelan Cultural Foundation\; http://www.cantaresvcf.co
+ m
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://flixeh.com/wordpress/wp-content/uploads/2015/09/Slider_Eddy_Marcano-300
+ x144.png' width='300' height='144' /></div><p><span class='embed-youtube' 
+ style='text-align:center\; display: block\;'><iframe class='youtube-player
+ ' type='text/html' width='702' height='425' src='http://www.youtube.com/em
+ bed/IQ1FFEsJTZY?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_polic
+ y=1&wmode=transparent' frameborder='0' allowfullscreen='true'></iframe></s
+ pan></p>\n<p>Venezuelan conductor and violinist Eddy Marcano\, well known 
+ for his work with the Simon Bolivar Symphonic Orchestra\, and the ensemble
+  composed by Hector Molina (cuatro)\, Manuel Rangel (maracas) and José Pue
+ ntes (bass) will delight the audience with the magic of Latin American Rhy
+ thms.</p>
+DTSTART;TZID=America/Edmonton:20150919T193000
+GEO:+51.045572;-114.075019
+LOCATION:University Theatre @ 230 University Court Northwest\, University W
+ ay NW\, Calgary\, AB T2N 1N4
+SEQUENCE:0
+SUMMARY:Eddy Marcano & The Acoustic Quartet
+URL:http://flixeh.com/event/movie-night-the-longest-distance-2/
+X-TAGS;LANGUAGE=en-US:Concert\,Eddy Marcano\,Venezuela\,Venezuelan Culture 
+ Days\,Venezuelans\,Violinista
+X-COST:$35.00
+X-TICKETS-URL:http://www.cantaresvcf.com/Tickets.html
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-21023@flixeh.com/wordpress
+DTSTAMP:20150920T002206Z
+CATEGORIES;LANGUAGE=en-US:Film/Movies\,Venezuela
+CONTACT:Cantares Venezuelan Cultural Foundation\; http://www.cantaresvcf.co
+ m
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://flixeh.com/wordpress/wp-content/uploads/2015/09/Slider_The_Liberator-30
+ 0x144.jpg' width='300' height='144' /></div><p><span class='embed-youtube'
+  style='text-align:center\; display: block\;'><iframe class='youtube-playe
+ r' type='text/html' width='702' height='425' src='http://www.youtube.com/e
+ mbed/4CkGqclYbeo?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_poli
+ cy=1&wmode=transparent' frameborder='0' allowfullscreen='true'></iframe></
+ span></p>\n<p class='font_8'><em><strong>Language: Spanish with English Su
+ btitles</strong></em></p>\n<p>“The new film <em>The Liberator</em> is an a
+ ttempt to bring the epic story of Simon Bolivar\, the George Washington of
+  Latin America\, to international audiences. Directed by Venezuelan filmma
+ ker Alberto Arvelo\, it’s one of the most expensive Latin American product
+ ions to date and features epic battle scenes\, rousing speeches and stunni
+ ng landscapes in the spirit of historical epics like <em>Braveheart</em>.”
+  – npr.org</p>
+DTSTART;TZID=America/Edmonton:20150922T183000
+GEO:+51.045572;-114.075019
+LOCATION:Globe Cinema @ 617 8 Ave SW\, Calgary\, AB T2P 1H1\, Canada
+SEQUENCE:0
+SUMMARY:Movie Night: The Liberator
+URL:http://flixeh.com/event/movie-night-the-liberator/
+X-TAGS;LANGUAGE=en-US:El Libertador\,Movie\,Película\,Simón Bolívar\,Venezu
+ ela\,Venezuelans
+X-COST:$10
+X-TICKETS-URL:http://www.cantaresvcf.com/Tickets.html
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-21014@flixeh.com/wordpress
+DTSTAMP:20150920T002206Z
+CATEGORIES;LANGUAGE=en-US:Charities\,Colombia\,Community Events\,Events
+CONTACT:Amigos Colombianos en Calgary\; colombiacalgary@gmail.com\; http://
+ colombiacalgary.com
+DESCRIPTION:<p><a href='http://flixeh.com/wordpress/wp-content/uploads/2015
+ /09/FIESTA_.png'><img class='alignleft size-full wp-image-21015' src='http
+ ://flixeh.com/wordpress/wp-content/uploads/2015/09/FIESTA_.png' alt='FIEST
+ A_' width='640' height='801' /></a>Pueden comprar los tickets a través de 
+ los siguientes voluntarios:</p>\n<p><span style='color: #888888\;'><span s
+ tyle='color: #222222\; font-family: Verdana\;'>Deniz Cabarcas </span><a><s
+ pan style='font-family: Verdana\;'>403 708 2206</span></a><span style='col
+ or: #222222\; font-family: Verdana\;'> NW<br />\nEddy Aguilar </span><a><s
+ pan style='font-family: Verdana\;'>587 718 3983</span></a><span style='col
+ or: #222222\; font-family: Verdana\;'> NW<br />\nSandra Jimenez </span><a>
+ <span style='font-family: Verdana\;'>587 700 9275</span></a><span style='c
+ olor: #222222\; font-family: Verdana\;'> SW<br />\nSandra Velez </span><a>
+ <span style='font-family: Verdana\;'>403 805 9584</span></a><span style='c
+ olor: #222222\; font-family: Verdana\;'> NE<br />\nCristina Velez </span><
+ a><span style='font-family: Verdana\;'>403 227 8697</span></a><span style=
+ 'color: #222222\; font-family: Verdana\;'> SE<br />\nDiego Orjuela </span>
+ </span><span style='color: #888888\;'><span style='color: #222222\; font-f
+ amily: Verdana\;'><span style='font-family: Verdana\;'><span style='color:
+  #888888\;'><a><span style='font-family: Verdana\;'>587 889 6375</span></a
+ > </span></span>NE</span></span></p>\n<p>Email: <a href='mailto:colombiaca
+ lgary@gmail.com' target='_blank'>colombiacalgary@gmail.com</a></p>
+DTSTART;TZID=America/Edmonton:20150926T183000
+GEO:+51.101784;-114.061325
+LOCATION:Thorncliffe Community Centre @ 5600 Centre St N\, Calgary\, AB T2K
+  0T3\, Canada
+SEQUENCE:0
+SUMMARY:Fall in Love Party
+URL:http://flixeh.com/event/fall-in-love-party/
+X-TAGS;LANGUAGE=en-US:Adopt 1 Kid\,Amigos Colombianos\,Colombia\,Colombians
+ \,Fall in Love
+X-COST:50.00
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-21028@flixeh.com/wordpress
+DTSTAMP:20150920T002206Z
+CATEGORIES;LANGUAGE=en-US:Film/Movies\,Venezuela
+CONTACT:Cantares Venezuelan Cultural Foundation\; http://www.cantaresvcf.co
+ m
+DESCRIPTION:<p><span class='embed-youtube' style='text-align:center\; displ
+ ay: block\;'><iframe class='youtube-player' type='text/html' width='702' h
+ eight='425' src='http://www.youtube.com/embed/dSd4NXEuNSQ?version=3&rel=1&
+ fs=1&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent' framebord
+ er='0' allowfullscreen='true'></iframe></span></p>\n<p>Gato Negro presents
+  EntreLazos (Spanish play)\, a series of short plays from different Latin 
+ American playwrights.  Director: Claudia Vicky Velasco.</p>\n<p><img class
+ ='aligncenter wp-image-21033 size-large' src='http://flixeh.com/wordpress/
+ wp-content/uploads/2015/09/EntreLazos_Poster-787x1024.jpg' alt='EntreLazos
+ _Poster' width='702' height='913' /></p>\n<p class='font_8'>
+DTSTART;TZID=America/Edmonton:20150926T193000
+GEO:+51.044555;-114.060756
+LOCATION:LunchBox Theatre @ 160 9 Ave SE\, Calgary\, AB T2G 0P3\, Canada
+SEQUENCE:0
+SUMMARY:Theatre Night: EntreLazos
+URL:http://flixeh.com/event/theatre-night-entrelazos/
+X-TAGS;LANGUAGE=en-US:El Libertador\,Movie\,Película\,Simón Bolívar\,Venezu
+ ela\,Venezuelans
+X-COST:$25
+X-TICKETS-URL:http://www.cantaresvcf.com/Tickets.html
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-21034@flixeh.com/wordpress
+DTSTAMP:20150920T002206Z
+CATEGORIES;LANGUAGE=en-US:Community Events\,Events\,Venezuela
+CONTACT:Cantares Venezuelan Cultural Foundation\; http://www.cantaresvcf.co
+ m
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://flixeh.com/wordpress/wp-content/uploads/2015/09/Venezuelan_Culture_Days
+ -300x144.jpg' width='300' height='144' /></div><p><span class='embed-youtu
+ be' style='text-align:center\; display: block\;'><iframe class='youtube-pl
+ ayer' type='text/html' width='702' height='425' src='http://www.youtube.co
+ m/embed/-4amJJwzigI?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_p
+ olicy=1&wmode=transparent' frameborder='0' allowfullscreen='true'></iframe
+ ></span></p>\n<p>A tour around Venezuela through flavours\, crafts\, music
+  and folk dance.</p>
+DTSTART;TZID=America/Edmonton:20150927T110000
+DTEND;TZID=America/Edmonton:20150927T180000
+GEO:+51.051351;-114.06533
+LOCATION:Calgary Chinese Cultural Centre @ 197 1 St SW\, Calgary\, AB T2P 4
+ M4\, Canada
+SEQUENCE:0
+SUMMARY:Venezuelan Culture Days: Food & Cultural Fair
+URL:http://flixeh.com/event/venezuelan-culture-days-food-cultural-fair/
+X-TAGS;LANGUAGE=en-US:Chines Cultural Centre\,Venezuela\,Venezuelan Culture
+  Days\,Venezuelans
+X-COST:$5.00
+X-TICKETS-URL:http://www.cantaresvcf.com/Tickets.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-21038@flixeh.com/wordpress
+DTSTAMP:20150920T002206Z
+CATEGORIES;LANGUAGE=en-US:Chile\,Colombia\,Community Events\,España\,Events
+ \,Mexico\,Perú\,Venezuela
+CONTACT:Department of French\, Italian and Spanish\; Instituto Cervantes
+DESCRIPTION:<h1>Spanish Heritage Month | Mes de la Hispanidad</h1>\n<h2>OCT
+ OBER 7-29\, 2015</h2>\n<p><span lang='EN-US'>The Department of French\, It
+ alian and Spanish and the Instituto Cervantes at the University of Calgary
+  in collaboration with Spain Arts and Culture and all our supporters/follo
+ wers are pleased to invite you to  </span></p>\n<p><span lang='EN-US'>Octo
+ ber 7: <b>Lecture on <i>Cervantes\, Don Quijote and Sefarard </i>by Proffe
+ sor Kenneth Brown</b>\, Cragie Hall E 212 at 6:00 p.m</span></p>\n<p>Octob
+ er 9:  <b>Performances of Colombia\, Mexico\, Spain and Venezuela.</b></p>
+ \n<p><span lang='EN-US'>Groups<b><i>: Así es Colombia</i>\, <i>Mexico Mest
+ izo (Director Noemi Garcia)</i>\, <i>Sabores de flamenco</i> and Venezuela
+  Canadian Association of Calgary: Cantares </b>at Craigie Hall 105 at 6:30
+  p.m.</span></p>\n<p><span lang='EN-US'><br />\n</span><span lang='EN-US'>
+ October 16: <b>Exhibition of typical products from Chile\, Colombia\, Mexi
+ co\, Peru\, Spain and Venezuela</b> at Instituto Cervantes at 4:00 p.m.</s
+ pan></p>\n<p><span lang='EN-US'><br />\n</span><span lang='EN-US'>October 
+ 21\, <b>Salsa workshop by María Tapieros and Proffesor Tamara Schurch</b> 
+ at Instituto Cervantes Craigie Hall D 209 at 11:00 a.m.</span></p>\n<p><sp
+ an lang='EN-US'><br />\n</span><span lang='EN-US'>October 22\, <b>Movie: <
+ i>Chinese Take-Out</i> (2011) by Sebastián Borensztein</b>\, </span></p>\n
+ <p><span lang='EN-US'>Cragie Hall E 212 at 6:00 p.m.</span></p>\n<p><span 
+ lang='EN-US'><br />\n</span><span lang='EN-US'>October 23\, <b>Flamenco wo
+ rkshop by Antonia Medina</b>\, Craigie Hall E 212\, at 6:00 p.m.</span></p
+ >\n<p><span lang='EN-US'><br />\n</span><span lang='EN-US'>October 29\, <b
+ >Lecture on </b></span><b>Cervantes’  <i>Ingenioso hidalgo de la Mancha</i
+ >: The Faculty of Ingenuity and the Americas</b><b><span lang='EN-US'> by 
+ professor Rachel Schmidt</span></b><span lang='EN-US'>\, Craigie Hall E 21
+ 2\, at 6:00 p.m.</span></p>
+DTSTART;TZID=America/Edmonton:20151007T180000
+GEO:+51.076439;-114.129605
+LOCATION:University of Calgary - Room E 212 @ Craigie Hall\, Calgary\, AB T
+ 2N 4V8\, Canada
+SEQUENCE:0
+SUMMARY:Spanish Heritage Month | Mes de la Hispanidad
+URL:http://flixeh.com/event/spanish-heritage-month-mes-de-la-hispanidad-2/
+X-TAGS;LANGUAGE=en-US:Así es Colombia\,Cantares\,Instituto Cervantes\,Mes d
+ e la Hispanidad\,Mexico Mestizo\,Sabores de flamenco\,Spanish Heritage Mon
+ th\,University of Calgary
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-21036@flixeh.com/wordpress
+DTSTAMP:20150920T002206Z
+CATEGORIES;LANGUAGE=en-US:Chile\,Colombia\,Community Events\,España\,Events
+ \,Mexico\,Perú\,Venezuela
+CONTACT:Department of French\, Italian and Spanish\; Instituto Cervantes
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://flixeh.com/wordpress/wp-content/uploads/2015/09/HISPANIC-300x144.jpg' w
+ idth='300' height='144' /></div><h1>Spanish Heritage Month | Mes de la His
+ panidad</h1>\n<h2>OCTOBER 7-29\, 2015</h2>\n<p><span lang='EN-US'>The Depa
+ rtment of French\, Italian and Spanish and the Instituto Cervantes at the 
+ University of Calgary in collaboration with Spain Arts and Culture and all
+  our supporters/followers are pleased to invite you to  </span></p>\n<p><s
+ pan lang='EN-US'>October 7: <b>Lecture on <i>Cervantes\, Don Quijote and S
+ efarard </i>by Proffesor Kenneth Brown</b>\, Cragie Hall E 212 at 6:00 p.m
+ </span></p>\n<p>October 9:  <b>Performances of Colombia\, Mexico\, Spain a
+ nd Venezuela.</b></p>\n<p><span lang='EN-US'>Groups<b><i>: Así es Colombia
+ </i>\, <i>Mexico Mestizo (Director Noemi Garcia)</i>\, <i>Sabores de flame
+ nco</i> and Venezuela Canadian Association of Calgary: Cantares </b>at Cra
+ igie Hall 105 at 6:30 p.m.</span></p>\n<p><span lang='EN-US'><br />\n</spa
+ n><span lang='EN-US'>October 16: <b>Exhibition of typical products from Ch
+ ile\, Colombia\, Mexico\, Peru\, Spain and Venezuela</b> at Instituto Cerv
+ antes at 4:00 p.m.</span></p>\n<p><span lang='EN-US'><br />\n</span><span 
+ lang='EN-US'>October 21\, <b>Salsa workshop by María Tapieros and Proffeso
+ r Tamara Schurch</b> at Instituto Cervantes Craigie Hall D 209 at 11:00 a.
+ m.</span></p>\n<p><span lang='EN-US'><br />\n</span><span lang='EN-US'>Oct
+ ober 22\, <b>Movie: <i>Chinese Take-Out</i> (2011) by Sebastián Borensztei
+ n</b>\, </span></p>\n<p><span lang='EN-US'>Cragie Hall E 212 at 6:00 p.m.<
+ /span></p>\n<p><span lang='EN-US'><br />\n</span><span lang='EN-US'>Octobe
+ r 23\, <b>Flamenco workshop by Antonia Medina</b>\, Craigie Hall E 212\, a
+ t 6:00 p.m.</span></p>\n<p><span lang='EN-US'><br />\n</span><span lang='E
+ N-US'>October 29\, <b>Lecture on </b></span><b>Cervantes’  <i>Ingenioso hi
+ dalgo de la Mancha</i>: The Faculty of Ingenuity and the Americas</b><b><s
+ pan lang='EN-US'> by professor Rachel Schmidt</span></b><span lang='EN-US'
+ >\, Craigie Hall E 212\, at 6:00 p.m.</span></p>
+DTSTART;TZID=America/Edmonton:20151009T180000
+EXDATE;TZID=America/Edmonton:20151007T180000
+GEO:+51.076439;-114.129605
+LOCATION:University of Calgary - Room E 212 @ Craigie Hall\, Calgary\, AB T
+ 2N 4V8\, Canada
+RDATE;TZID=America/Edmonton:20151009T180000
+RDATE;TZID=America/Edmonton:20151016T180000
+RDATE;TZID=America/Edmonton:20151021T180000
+RDATE;TZID=America/Edmonton:20151022T180000
+RDATE;TZID=America/Edmonton:20151023T180000
+RDATE;TZID=America/Edmonton:20151029T180000
+SEQUENCE:0
+SUMMARY:Spanish Heritage Month | Mes de la Hispanidad
+URL:http://flixeh.com/event/spanish-heritage-month-mes-de-la-hispanidad/
+X-TAGS;LANGUAGE=en-US:Así es Colombia\,Cantares\,Instituto Cervantes\,Mes d
+ e la Hispanidad\,Mexico Mestizo\,Sabores de flamenco\,Spanish Heritage Mon
+ th\,University of Calgary
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

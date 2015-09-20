@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.19.8.207//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://losvanganelos.si
+X-WR-TIMEZONE:Europe/Ljubljana
+BEGIN:VTIMEZONE
+TZID:Europe/Ljubljana
+X-LIC-LOCATION:Europe/Ljubljana
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-11709@losvanganelos.si/wp
+DTSTAMP:20150920T002207Z
+CATEGORIES;LANGUAGE=sl-SI:Prince Tour 2015
+CONTACT:Gorazd Habjan\; +386 70 856 116\; ghaubi@gmail.com\; http://www.los
+ vanganelos.si
+DESCRIPTION:
+DTSTART;TZID=Europe/Ljubljana:20150919T090000
+GEO:+45.513805;+13.780616
+LOCATION:TA Los Vanganelos @ Vanganel 9a\, 6000 Koper - Capodistria\, Slove
+ nija
+SEQUENCE:0
+SUMMARY:5. Prince Open Doubles 2015
+URL:http://losvanganelos.si/event/4-prince-open-doubles-2015/
+X-COST:25€/osebo
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11708@losvanganelos.si/wp
+DTSTAMP:20150920T002207Z
+CATEGORIES;LANGUAGE=sl-SI:Prince Tour 2015
+CONTACT:Gorazd Habjan\; +386 70 856 116\; ghaubi@gmail.com\; http://www.los
+ vanganelos.si
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://losvanganelos.si/wp/wp-content/uploads/2015/09/4.-Capra-Open_00-001-214
+ x300.jpg' width='214' height='300' /></div>
+DTSTART;TZID=Europe/Ljubljana:20151003T090000
+GEO:+45.513805;+13.780616
+LOCATION:TA Los Vanganelos @ Vanganel 9a\, 6000 Koper - Capodistria\, Slove
+ nija
+SEQUENCE:0
+SUMMARY:Zaključni Capra Open 2015
+URL:http://losvanganelos.si/event/4-prince-open-singles-2015/
+X-COST:25€/osebo
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11717@losvanganelos.si/wp
+DTSTAMP:20150920T002207Z
+CATEGORIES;LANGUAGE=sl-SI:Ostali dogodki in turnirji
+CONTACT:Gorazd Habjan\; +386 70 856 116\; ghaubi@gmail.com\; http://www.los
+ vanganelos.si
+DESCRIPTION:
+DTSTART;TZID=Europe/Ljubljana:20151107T090000
+GEO:+45.513805;+13.780616
+LOCATION:TA Los Vanganelos @ Vanganel 9a\, 6000 Koper - Capodistria\, Slove
+ nija
+SEQUENCE:0
+SUMMARY:Martinov turnir
+URL:http://losvanganelos.si/event/martinov-turnir/
+X-COST:25€/osebo
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11718@losvanganelos.si/wp
+DTSTAMP:20150920T002207Z
+CATEGORIES;LANGUAGE=sl-SI:Ostali dogodki in turnirji
+CONTACT:Gorazd Habjan\; +386 70 856 116\; ghaubi@gmail.com\; http://www.los
+ vanganelos.si
+DESCRIPTION:
+DTSTART;TZID=Europe/Ljubljana:20151226T090000
+GEO:+45.513805;+13.780616
+LOCATION:TA Los Vanganelos @ Vanganel 9a\, 6000 Koper - Capodistria\, Slove
+ nija
+SEQUENCE:0
+SUMMARY:Božični turnir
+URL:http://losvanganelos.si/event/bozicni-turnir/
+X-COST:25€/osebo
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

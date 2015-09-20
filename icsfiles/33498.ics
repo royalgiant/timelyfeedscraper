@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//37.59.13.153//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://ourworld.co.il
+X-WR-TIMEZONE:Asia/Jerusalem
+BEGIN:VTIMEZONE
+TZID:Asia/Jerusalem
+X-LIC-LOCATION:Asia/Jerusalem
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:IST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150327T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+RDATE:20160325T020000
+TZNAME:IDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-66@ourworld.co.il
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div style='clear: both'></div><div style='float: right\;positi
+ on: relative\;left: -50%\;text-align: left\;' class='the_champ_sharing_con
+ tainer the_champ_horizontal_sharing' super-socializer-data-href='http://ou
+ rworld.co.il/?p=672'><div style='font-weight: bold\;list-style: none\;posi
+ tion: relative\;left: 50%\;' ></div><ul style='list-style: none\;position:
+  relative\;left: 50%\;' class='the_champ_sharing_ul'><li class='theChampSh
+ aringRound'><span class='the_champ_share_count the_champ_facebook_count'  
+ > </span><i style='width:20px\;height:20px\;border-radius:999px\;' alt='Fa
+ cebook' Title='Facebook' class='theChampSharing theChampFacebookBackground
+ ' onclick=' theChampPopup('https://www.facebook.com/sharer/sharer.php?u=ht
+ tp://ourworld.co.il/?p=672')'><ss style='display:block\;border-radius:999p
+ x\;' class='theChampSharingSvg theChampFacebookSvg'></ss></i></li><li clas
+ s='theChampSharingRound'><span class='the_champ_share_count the_champ_twit
+ ter_count'  > </span><i style='width:20px\;height:20px\;border-radius:999p
+ x\;' alt='Twitter' Title='Twitter' class='theChampSharing theChampTwitterB
+ ackground' onclick=' theChampPopup('http://twitter.com/intent/tweet?text=D
+ almatia+County&url=http://ourworld.co.il/?p=672')'><ss style='display:bloc
+ k\;border-radius:999px\;' class='theChampSharingSvg theChampTwitterSvg'></
+ ss></i></li><li class='theChampSharingRound'><span class='the_champ_share_
+ count the_champ_google_count'  > </span><i style='width:20px\;height:20px\
+ ;border-radius:999px\;' alt='Google Plus' Title='Google Plus' class='theCh
+ ampSharing theChampGoogleBackground' onclick=' theChampPopup('https://plus
+ .google.com/share?url=http://ourworld.co.il/?p=672')'><ss style='display:b
+ lock\;border-radius:999px\;' class='theChampSharingSvg theChampGoogleSvg'>
+ </ss></i></li><li class='theChampSharingRound'><span class='the_champ_shar
+ e_count the_champ_whatsapp_count'  > </span><i style='width:20px\;height:2
+ 0px\;border-radius:999px\;' alt='Whatsapp' Title='Whatsapp' class='theCham
+ pSharing theChampWhatsappBackground' onclick=' theChampPopup('whatsapp://s
+ end?text=Dalmatia+County+http%3A%2F%2Fourworld.co.il%2F%3Fp%3D672')'><ss s
+ tyle='display:block\;border-radius:999px\;' class='theChampSharingSvg theC
+ hampWhatsappSvg'></ss></i></li><li class='theChampSharingRound'><span clas
+ s='the_champ_share_count the_champ_print_count'  > </span><i style='width:
+ 20px\;height:20px\;border-radius:999px\;' alt='Print' Title='Print' class=
+ 'theChampSharing theChampPrintBackground' onclick='window.print()'><ss sty
+ le='display:block' class='theChampSharingSvg theChampPrintSvg'></ss></i></
+ li><li class='theChampSharingRound'><span class='the_champ_share_count'> <
+ /span><i style='width:20px\;height:20px\;border-radius:999px\;' title='Mor
+ e' alt='More' class='theChampSharing theChampMoreBackground' onclick='theC
+ hampMoreSharingPopup(this\, 'http://ourworld.co.il/?p=672'\, 'Dalmatia+Cou
+ nty')' ><ss style='display:block' class='theChampSharingSvg theChampMoreSv
+ g'></ss></i></li></ul><div style='clear:both'></div></div><div style='clea
+ r: both'></div>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20151004
+SEQUENCE:0
+SUMMARY:8 Days Flotilla in Croatia
+URL:http://ourworld.co.il/?ai1ec_event=croatia
+END:VEVENT
+END:VCALENDAR

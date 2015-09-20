@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//23.229.235.227//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://valleypresbychurch.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1312@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:repeat_events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T190000
+DTEND;TZID=America/New_York:20150919T203000
+LOCATION:Valley Presbyterian Church Fellowship Hall @ 17560 Chillicothe Roa
+ d\, Chagrin Falls\, OH 44023\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Bainbridge AA Group
+URL:http://valleypresbychurch.org/event/bainbridge-aa-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1304@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:repeat_events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150920T103000
+DTEND;TZID=America/New_York:20150920T113000
+EXDATE;TZID=America/New_York:20150405T103000
+GEO:+41.390836;-81.341353
+LOCATION:Valley Presbyterian Church Sanctuary @ 17560 Chillicothe Road\, Ch
+ agrin Falls\, OH 44023\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Worship Service
+URL:http://valleypresbychurch.org/event/worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1305@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:repeat_events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150920T114500
+DTEND;TZID=America/New_York:20150920T123000
+EXDATE;TZID=America/New_York:20140803T114500
+EXDATE;TZID=America/New_York:20140810T114500
+EXDATE;TZID=America/New_York:20140817T114500
+EXDATE;TZID=America/New_York:20140824T114500
+EXDATE;TZID=America/New_York:20140831T114500
+EXDATE;TZID=America/New_York:20141019T114500
+EXDATE;TZID=America/New_York:20150125T114500
+GEO:+41.390836;-81.341353
+LOCATION:Valley Presbyterian Church Fellowship Hall @ 17560 Chillicothe Roa
+ d\, Chagrin Falls\, OH 44023\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Fellowship Time
+URL:http://valleypresbychurch.org/event/fellowship-time-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1315@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:repeat_events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150921T190000
+DTEND;TZID=America/New_York:20150921T200000
+LOCATION:Valley Presbyterian Church Library @ 17560 Chillicothe Road\, Chag
+ rin Falls\, OH 44023\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3MO
+SEQUENCE:0
+SUMMARY:Session Meeting
+URL:http://valleypresbychurch.org/event/session-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1310@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:repeat_events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T203000
+DTEND;TZID=America/New_York:20150923T220000
+LOCATION:Valley Presbyterian Church Fellowship Hall @ 17560 Chillicothe Roa
+ d\, Chagrin Falls\, OH 44023\, USA
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Midweek AA Group
+URL:http://valleypresbychurch.org/event/midweek-aa-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1308@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:repeat_events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T073000
+DTEND;TZID=America/New_York:20150924T090000
+GEO:+41.390836;-81.341353
+LOCATION:Valley Presbyterian Church Fellowship Hall @ 17560 Chillicothe Roa
+ d\, Chagrin Falls\, OH 44023\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Men’s Prayer Breakfast
+URL:http://valleypresbychurch.org/event/mens-prayer-breakfast/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1311@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:repeat_events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150925T190000
+DTEND;TZID=America/New_York:20150925T203000
+LOCATION:Valley Presbyterian Church Fellowship Hall @ 17560 Chillicothe Roa
+ d\, Chagrin Falls\, OH 44023\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:S. Russell AA Group
+URL:http://valleypresbychurch.org/event/s-russell-aa-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1765@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:unique_events
+CONTACT:Greg Weemhoff
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T130000
+DTEND;TZID=America/New_York:20150927T160000
+GEO:+41.477925;-81.14234
+LOCATION:Geauga County Fairgrounds @ 14373 North Cheshire Street\, Burton\,
+  OH 44021\, USA
+SEQUENCE:0
+SUMMARY:Crop Walk
+URL:http://valleypresbychurch.org/event/crop-walk/
+X-TAGS;LANGUAGE=en-US:Crop Walk\,hunger
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1761@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:unique_events
+CONTACT:Rev. John Wahl\; 440-543-1071\; revjohnwahl@netlink.net
+DESCRIPTION:<p>Valley is once again working in partnership with Pioneer Mem
+ orial Presbyterian Church (Solon) to plan a Day of Mission to serve and su
+ pport local ministries.  Volunteer sites will be available throughout the 
+ community (as well as at the host churches) with different types of work. 
+   <a href='http://valleypresbychurch.org/about-us/sign-me-up/?sheet_id=10'
+  target='_blank'>Sign-up online</a>.</p>
+DTSTART;TZID=America/New_York:20151003T083000
+DTEND;TZID=America/New_York:20151003T120000
+SEQUENCE:0
+SUMMARY:Day of Mission
+URL:http://valleypresbychurch.org/event/day-of-mission-2/
+X-TAGS;LANGUAGE=en-US:mission
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1316@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:repeat_events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151005T190000
+DTEND;TZID=America/New_York:20151005T200000
+LOCATION:Valley Presbyterian Church Library @ 17560 Chillicothe Road\, Chag
+ rin Falls\, OH 44023\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+SEQUENCE:0
+SUMMARY:Commission Meetings
+URL:http://valleypresbychurch.org/event/commission-meetings-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1764@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:unique_events
+CONTACT:
+DESCRIPTION:<p>This is a great opportunity to <b>clean out your</b> <b>clos
+ ets</b> and maybe even find something else to fill the empty spots!  Donat
+ ions are already being collected in the back barn building.  Adult and chi
+ ldren’s clothes and shoes are needed.</p>\n<p>Proceeds from the sale will 
+ be split between North Church and the Valley Youth Group.  <b>Any left-ove
+ r clothes will be placed in the truck for the Chagrin Valley Council of Ch
+ urches (CVCC) clothing drive on Saturday\, October 17.</b></p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151009T090000
+DTEND;TZID=America/New_York:20151009T150000
+GEO:+41.390836;-81.341353
+LOCATION:Valley Presbyterian Church @ 17560 Chillicothe Road\, Chagrin Fall
+ s\, OH 44023\, USA
+RDATE;TZID=America/New_York:20151010T090000
+RDATE;TZID=America/New_York:20151011T090000
+SEQUENCE:0
+SUMMARY:Clothing Sale
+URL:http://valleypresbychurch.org/event/clothing-sale-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1314@valleypresbychurch.org
+DTSTAMP:20150920T002323Z
+CATEGORIES;LANGUAGE=en-US:repeat_events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151012T190000
+DTEND;TZID=America/New_York:20151012T200000
+LOCATION:Valley Presbyterian Church Library @ 17560 Chillicothe Road\, Chag
+ rin Falls\, OH 44023\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:Deacons Meeting
+URL:http://valleypresbychurch.org/event/deacons-meeting-2/
+END:VEVENT
+END:VCALENDAR

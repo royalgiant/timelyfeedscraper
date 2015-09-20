@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//74.50.4.80//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://genevaroseburg.com
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:jrvp0blduh3e3bqdku2k2afbuo@google.com
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Geneva Academy is a Classical Christian school located in Ro
+ seburg\, Oregon.\n\nIts structure challenges students and creates a love o
+ f learning.\n\nIts ...</p>
+DTSTART;TZID=America/Los_Angeles:20151030T080000
+DTEND;TZID=America/Los_Angeles:20151030T150000
+LOCATION:Geneva Academy\, 2152 NE Vine Street\, Roseburg
+SEQUENCE:0
+SUMMARY:Reformation Day
+URL:http://genevaroseburg.com/event/reformation-day-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.139.128//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://usali.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-13902@usali.org
+DTSTAMP:20150920T002141Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://usali.org/wp-content/uploads/2015/08/USALIWeeklyLogo.jpg' width='362' h
+ eight='314' /></div><p>Join the U.S.-Asia Law Institute for a special lunc
+ h event with Harvard University’s Professor <a href='http://legal.un.org/a
+ vl/faculty/Onuma.html'>Onuma Yasuaki</a>\, Professor of International Law\
+ , Graduate Schools for Law and Politics\, University of Tokyo.</p>\n<p cla
+ ss='snshare_link'>\n</p><div style='clear:both\;'></div>
+DTSTART;TZID=America/New_York:20151001T123000
+DTEND;TZID=America/New_York:20151001T134500
+GEO:+40.730538;-73.999482
+LOCATION:Vanderbilt Hall\, Room 202 @ 40 Washington Square South\, New York
+ \, NY 10012\, USA
+SEQUENCE:0
+SUMMARY:Asia Law Weekly: Professor Onuma Yasuaki
+URL:http://usali.org/event/asia-law-weekly-professor-onuma-yasuaki/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13903@usali.org
+DTSTAMP:20150920T002141Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://usali.org/wp-content/uploads/2015/08/USALIWeeklyLogo.jpg' width='362' h
+ eight='314' /></div><p>Join USALI for a special lunch event with Professor
+  <a href='http://www.umt.edu/president/events/lectures/2013-2014/he1314.ph
+ p'>Rowena He. </a></p>\n<p>Born and raised in China as a member of the “Ti
+ ananmen Generation\,” Dr. He moved to Canada in 1998\, where she received 
+ her Ph.D. from the University of Toronto. Today she teaches at Harvard Uni
+ versity\, where her seminars on the Tiananmen uprising have earned her a C
+ ertificate of Teaching Excellence for three consecutive years. Her book ma
+ nuscript <em>Tiananmen Exiles: Voices of Struggle for Democracy in China</
+ em> is coming out in paperback and hardcover simultaneously in April 2014 
+ (Palgrave- Macmillan). Her writing has appeared in <em>The Wall Street Jou
+ rnal</em> and <em>The Washington Post</em> and she has been interviewed by
+  <em>The Boston Globe</em>\, NBC\, the CBC\, the BBC\, and various other i
+ nternational media.</p>\n<p class='snshare_link'>\n</p><div style='clear:b
+ oth\;'></div>
+DTSTART;TZID=America/New_York:20151009T123000
+DTEND;TZID=America/New_York:20151009T134500
+GEO:+40.730124;-73.998924
+LOCATION:Furman Hall\, Room 326  @ 245 Sullivan Street\, New York\, NY 1001
+ 2\, USA
+SEQUENCE:0
+SUMMARY:Asia Law Weekly: Professor Rowena He
+URL:http://usali.org/event/asia-law-weekly-professor-rowena-he/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13911@usali.org
+DTSTAMP:20150920T002141Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://usali.org/wp-content/uploads/2015/08/USALIWeeklyLogo.jpg' width='362' h
+ eight='314' /></div><p>Join USALI for a special lunch with Professor <a hr
+ ef='http://www.northeastern.edu/cssh/faculty/phil-he'>Phil He.</a></p>\n<p
+ > </p>\n<p>Dr. Ni He is an associate professor in the School of Criminolog
+ y and Criminal Justice and associate vice provost for graduate education a
+ t Northeastern University.  He taught at the University of Texas-San Anton
+ io (1998-2003) prior to joining Northeastern University.  He received his 
+ law degree (LL.B.) from Xiamen University (PR China) in 1988 and his PhD i
+ n criminal justice from the University of Nebraska-Omaha (USA) in 1997.   
+ Dr. He’s primary teaching and research interests include comparative crimi
+ nology/criminal justice\, policing and quantitative methodology. He has pa
+ rticipated in several international and national research projects as a re
+ search analyst.  He directed (with Dr. Ineke Haen Marshall) the U.S. porti
+ on of the 30-nation International Self-report Delinquency Study (ISRD-2\, 
+ 2006-2008)\, funded by the National Institute of Justice.   He is currentl
+ y working (with Drs. Jack McDevitt and Lanying Li) on a joint internationa
+ l research grant (with Xiamen University\, PR China)\, awarded by the MacA
+ rthur Foundation (2009-2011)\, to study legal representation in lower leve
+ l Chinese criminal courts. He was an invited discussant for the “Seminar o
+ n Empirical Approaches to Criminal Procedure Reforms in China” (Oct. 5-7\,
+  2008) and a guest lecturer for the “Criminal Justice and Empirical Theory
+ : An Applied Workshop for Junior Scholars from China” (May 3-11)\, both ho
+ sted by the Kennedy School of Government at Harvard University.</p>\n<p>Dr
+ . He’s scholarship can be found in a variety of refereed journals. He has 
+ written more than 30 articles\, book chapters\, book reviews and grant rep
+ orts.  He is the author for<i>Reinventing the Wheel: Marx\, Durkheim and C
+ omparative Criminology</i> (1999) and <i>Policing in Finland</i> (2006).</
+ p>\n<p> </p>\n<p class='snshare_link'>\n</p><div style='clear:both\;'></di
+ v>
+DTSTART;TZID=America/New_York:20151015T123000
+DTEND;TZID=America/New_York:20151015T140000
+SEQUENCE:0
+SUMMARY:Asia Law Weekly: Professor Philip He
+URL:http://usali.org/event/asia-law-weekly-professor-philip-he/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13909@usali.org
+DTSTAMP:20150920T002141Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://usali.org/wp-content/uploads/2015/08/brownbaglunch-400x295.jpg' width='
+ 400' height='295' /></div><p>Join the U.S.-Asia Law Institute and the Publ
+ ic Interest Law Center for a special brown bag lunch and career-related pa
+ nel discussion! More information coming soon.</p>\n<p class='snshare_link'
+ >\n</p><div style='clear:both\;'></div>
+DTSTART;TZID=America/New_York:20151022T123000
+DTEND;TZID=America/New_York:20151022T140000
+SEQUENCE:0
+SUMMARY:Special Event: USALI-PILC Brown Bag Lunch
+URL:http://usali.org/event/special-event-usali-pilc-brown-bag-lunch/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13910@usali.org
+DTSTAMP:20150920T002141Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>More details coming soon!</p>\n<p class='snshare_link'>\n</p
+ ><div style='clear:both\;'></div>
+DTSTART;TZID=America/New_York:20151112T090000
+DTEND;TZID=America/New_York:20151112T180000
+SEQUENCE:0
+SUMMARY:Timothy A. Gelatt Dialogue
+URL:http://usali.org/event/timothy-a-gelatt-dialogue/
+END:VEVENT
+END:VCALENDAR

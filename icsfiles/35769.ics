@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//143.95.39.23//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://bloomingtontech.com
+X-WR-TIMEZONE:America/Indiana/Indianapolis
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+X-LIC-LOCATION:America/Indiana/Indianapolis
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ubg8iec90hbtb81er4imljnijg@google.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>It’s Bloomington Independent Game Night! BIG Night is a mont
+ hly gathering of independent game designers and players from all around ce
+ ntral Indiana. Come and see what games are being made in your area or show
+  off your own projects! Games of all types (mobile\, PC\, board\, card\, e
+ tc.) and levels of polish are welcome.</p>\n<p>Come on out the 3rd Monday 
+ of every month! http://bignight.org/</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150921T183000
+DTEND;TZID=America/Indiana/Indianapolis:20150921T213000
+LOCATION:Monroe County Public Library\, 303 East Kirkwood Avenue\, Blooming
+ ton\, IN 47408\, United States
+RRULE:FREQ=MONTHLY;BYDAY=3MO
+SEQUENCE:0
+SUMMARY:Bloomington Indie Game Night
+URL:http://bloomingtontech.com/event/bloomington-indie-game-night-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:morkua5q4ndss82lp221ubk4o4@google.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us at a Bloomington favorite\, cherished for the charac
+ ter of its food\, its drinks\, and its overall environment. We’ll chat abo
+ ut topics designers like (including things that aren’t really design).</p>
+ \n<p>More info: http://www.meetup.com/IxDA-Bloomington/events/225214742/</
+ p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150921T190000
+DTEND;TZID=America/Indiana/Indianapolis:20150921T203000
+LOCATION:The Irish Lion Restaurant & Pub\, 212 W Kirkwood Ave\, Bloomington
+ \, IN 47404\, United States
+SEQUENCE:0
+SUMMARY:IxDA Bloomington Designers Happy Hour
+URL:http://bloomingtontech.com/event/ixda-bloomington-designers-happy-hour/
+END:VEVENT
+BEGIN:VEVENT
+UID:atakkc27f4jf6gjemtuqdtu4q4@google.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Meet 8 local startups as they demo their products in a casua
+ l\, lounge-like setting. For more info and RSVP: https://www.eventbrite.co
+ m/e/startup-lounge-registration-18321533199</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150922T200000
+DTEND;TZID=America/Indiana/Indianapolis:20150922T213000
+LOCATION:Bloomington/Monroe County Convention Center\, 302 S College Ave\, 
+ Bloomington\, IN 47403\, United States
+SEQUENCE:0
+SUMMARY:Startup Lounge
+URL:http://bloomingtontech.com/event/startup-lounge/
+END:VEVENT
+BEGIN:VEVENT
+UID:snamk8aqkcku87c887cmbtjja0@google.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Bloomington’s own hackerspace is open to the public every We
+ dnesday from 7-9. Visit the space\, make something\, and bring anyone! Mor
+ e info on the Bloominglabs website: http://bloominglabs.org/index.php/Main
+ _Page</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150923T190000
+DTEND;TZID=America/Indiana/Indianapolis:20150923T210000
+LOCATION:Bloominglabs\, 3927 W. Roll Avenue (just north of 2nd Street up Cu
+ rry Pike)
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SEQUENCE:0
+SUMMARY:Bloominglabs Public Hack Meeting
+URL:http://bloomingtontech.com/event/bloominglabs-public-hack-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:k9m22ot3sne49n9r93sniaokfo@google.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Weekly lunch event for tech community. For more info\, email
+  mike@sproutbox.com</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150925T120000
+DTEND;TZID=America/Indiana/Indianapolis:20150925T130000
+LOCATION:Varies
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SEQUENCE:0
+SUMMARY:Tech Lunch
+URL:http://bloomingtontech.com/event/tech-lunch/
+END:VEVENT
+BEGIN:VEVENT
+UID:2ok28og1l87tld98psrk5s0dt4@google.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Are you a hacker? Do you like to experiment with electronics
+ \, circuits\, motors\, and writing your own programs? Join us for a night 
+ of hacking with Arduino\, Raspberry Pi\, Python\, Beaglebones\, and other 
+ microcontrollers. Members of BloomingLabs\, a community-run hacker space\,
+  and other experts are on hand to help you learn\, troubleshoot projects\,
+  and learn from you! Bring your own materials.</p>\n<p>Held in Program Roo
+ m 2C.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150929T190000
+DTEND;TZID=America/Indiana/Indianapolis:20150929T203000
+LOCATION:Monroe County Public Library
+SEQUENCE:0
+SUMMARY:Hack Night @ the Library
+URL:http://bloomingtontech.com/event/hack-night-the-library-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:8jnrbsmstr0m90bkecrhiajt5g@google.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feeling a little confined by reality? Open up some amazing p
+ ossibilities using green screen technology. In this program\, participants
+  will learn the basics of video production using a green screen. Working i
+ n pairs in the video production studio\, you will learn how to properly li
+ ght and shoot for green screen keying. Next\, using Premiere Pro CC you’ll
+  make the magic happen. You can insert yourself into any photo or video\, 
+ any space\, or dimension. Feel free to bring digital photos or videos to i
+ nsert yourself into\, or use the numerous ones available in Level Up. Brin
+ g a hard drive or flash drive\, or check one out to take your project home
+  to show your friends. Participants must have a valid MCPL library card an
+ d should be familiar with basic computing. </p>\n<p>Registration required.
+  To register\, visit http://www.monroe.lib.in.us/.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151001T190000
+DTEND;TZID=America/Indiana/Indianapolis:20151001T203000
+LOCATION:Monroe County Public Library\, 303 E Kirkwood Ave\, Bloomington\, 
+ IN 47408\, United States
+SEQUENCE:0
+SUMMARY:Make it Digital!: Intro to Green Screen Video
+URL:http://bloomingtontech.com/event/make-it-digital-intro-to-green-screen-
+ video/
+END:VEVENT
+BEGIN:VEVENT
+UID:8i4up1shc8unk2098e4301mhk4@google.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ready to start recording your first song or album\, but you 
+ need a little help getting started? This is a great program for beginners 
+ or people who could use a brush up in basic recording and audio editing. U
+ sing Logic Pro X\, participants will be guided by an expert through all th
+ e stages of setting up a project\, basic recording of vocals and software 
+ instruments\, and doing some basic project editing. You’ll leave with a pr
+ oject file\, a basic understanding of audio production\, and enough chops 
+ to come do your own thing in a Level Up audio production studio. Participa
+ nts must have a valid MCPL library card.</p>\n<p>Registration required. To
+  register\, visit http://www.monroe.lib.in.us/.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151015T190000
+DTEND;TZID=America/Indiana/Indianapolis:20151015T203000
+LOCATION:Monroe County Public Library\, 303 E Kirkwood Ave\, Bloomington\, 
+ IN 47408\, United States
+SEQUENCE:0
+SUMMARY:Make it Digital!: Basic Audio Production
+URL:http://bloomingtontech.com/event/make-it-digital-basic-audio-production
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:1q9rjugj5mg3pu60ath5ki9890@google.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Are you a hacker? Do you like to experiment with electronics
+ \, circuits\, motors\, and writing your own programs? Join us for a night 
+ of hacking with Arduino\, Raspberry Pi\, Python\, Beaglebones\, and other 
+ microcontrollers. Members of BloomingLabs\, a community-run hacker space\,
+  and other experts are on hand to help you learn\, troubleshoot projects\,
+  and learn from you! Bring your own projects or just stop by and be curiou
+ s. Drop in.</p>\n<p>Program Room 2C.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151027T190000
+DTEND;TZID=America/Indiana/Indianapolis:20151027T203000
+LOCATION:Monroe County Public Library\, 303 E Kirkwood Ave\, Bloomington\, 
+ IN 47408\, United States
+SEQUENCE:0
+SUMMARY:Hack Night @ the Library
+URL:http://bloomingtontech.com/event/hack-night-the-library/
+END:VEVENT
+END:VCALENDAR

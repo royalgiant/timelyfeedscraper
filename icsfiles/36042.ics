@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//5.22.249.3//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.buurthuiskeijenburg.nl
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-827@www.buurthuiskeijenburg.nl
+DTSTAMP:20150920T002128Z
+CATEGORIES:
+CONTACT:buurthuis.keijenburg@home.nl
+DESCRIPTION:<p><strong>Kinderrommelmarkt</strong></p>\n<p> </p>\n<p>Woensda
+ gmiddag 28 oktober (Herfstvakantie) organiseren wij weer een kinderrommelm
+ arkt.</p>\n<p>Gelieve vooraf te reserveren per mail:</p>\n<p><a href='mail
+ to:buurthuis.keijenburg@home.nl'>buurthuis.keijenburg@home.nl</a></p>\n<p>
+  </p>\n<p>Waar:                 <strong><strong>Buurthuis Keijenburg</stro
+ ng></strong></p>\n<p>Wanneer:          <strong><strong>Woensdag 28 oktober
+  </strong></strong></p>\n<p>Opbouw:            <strong><strong>12.00 uur</
+ strong></strong></p>\n<p>Tijd:                    <strong><strong>13.00 – 
+ 16.00 uur</strong></strong></p>\n<p>Kosten:              <strong><strong>€
+  2\,50 per tafel</strong></strong></p>
+DTSTART;TZID=Europe/London:20151028T130000
+DTEND;TZID=Europe/London:20151028T160000
+GEO:+51.528999;+4.470253
+LOCATION:buurthuis Keijenburg @ Keijenburg 70\, 4702 CG Roosendaal\, Nederl
+ and
+SEQUENCE:0
+SUMMARY:Kinderrommelmarkt
+URL:http://www.buurthuiskeijenburg.nl/?ai1ec_event=kinderrommelmarkt
+X-COST:€ 2\,50 per tafel
+END:VEVENT
+END:VCALENDAR

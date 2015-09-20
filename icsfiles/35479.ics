@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//185.24.99.98//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.leominsterlegion.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-405@www.leominsterlegion.uk
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en-GB:Legion Club
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150919T210000
+DTEND;TZID=Europe/London:20150920T000000
+LOCATION:In Legion Bar
+SEQUENCE:0
+SUMMARY:New to Club\, top vocal entertainer – Dave Scott
+URL:http://www.leominsterlegion.uk/event/new-to-club-top-vocal-entertainer-
+ dave-scott/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-406@www.leominsterlegion.uk
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en-GB:Legion Club
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150926T210000
+DTEND;TZID=Europe/London:20150927T000000
+LOCATION:In Legion Bar
+SEQUENCE:0
+SUMMARY:Entertainment in Bar – Artist tbc
+URL:http://www.leominsterlegion.uk/event/entertainment-in-bar-artist-tbc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-407@www.leominsterlegion.uk
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en-GB:Legion Club
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151010T210000
+DTEND;TZID=Europe/London:20151011T000000
+LOCATION:In Function Hall
+SEQUENCE:0
+SUMMARY:Dancing to The Dave Christie Duo
+URL:http://www.leominsterlegion.uk/event/dancing-to-the-dave-christie-duo/
+X-COST:Members Free and Guests £3.00 each
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-388@www.leominsterlegion.uk
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en-GB:Legion Club
+CONTACT:
+DESCRIPTION:<p>Supported by sensational guitarist and vocalists JON and HOL
+ LY STEWART.</p>\n<p>Come in Fancy Dress – Prize for the best Halloween cos
+ tume!</p>
+DTSTART;TZID=Europe/London:20151031T210000
+DTEND;TZID=Europe/London:20151101T010000
+LOCATION:Function Hall
+SEQUENCE:0
+SUMMARY:MEAT the Meat Loaf Experience Tribute Show performed by Sean Malone
+ y
+URL:http://www.leominsterlegion.uk/event/meat-the-meat-loaf-experience-trib
+ ute-show-performed-by-sean-maloney/
+X-COST:Tickets £10.00 each
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-389@www.leominsterlegion.uk
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en-GB:Legion Club
+CONTACT:
+DESCRIPTION:<p>A 4-piece band who pay homage to the mighty British institut
+ ion that is Slade. The replication of the bawdy singalong tunes to the gla
+ m and glitter excess and the raw rock n roll power that was the Black Coun
+ try legends. Supported by a Tribute to The King of Rock n Roll ELVIS PRESL
+ EY as performed by TERRY MARTIN.</p>
+DTSTART;TZID=Europe/London:20151219T210000
+DTEND;TZID=Europe/London:20151220T010000
+LOCATION:Function Hall
+SEQUENCE:0
+SUMMARY:SLYDE – a Tribute Band to Slade
+URL:http://www.leominsterlegion.uk/event/slyde-a-tribute-band-to-slade/
+X-COST:Tickets £12.50 each
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-327@www.leominsterlegion.uk
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en-GB:Legion Club
+CONTACT:
+DESCRIPTION:<p>The Lamp of Dreams – A Genie-us Panto with up to date chart 
+ songs and amazing costumes. 100 minutes of Family Fun. A brand new show fo
+ r 2015/16.</p>\n<p>More information to follow.</p>
+DTSTART;TZID=Europe/London:20160117T160000
+DTEND;TZID=Europe/London:20160117T180000
+LOCATION:Function Hall
+SEQUENCE:0
+SUMMARY:Advance Notice – UKs Biggest\, Brightest Touring Pantomime
+URL:http://www.leominsterlegion.uk/event/advance-notice-slade-and-elvis-tri
+ bute-show/
+X-COST:TBC
+END:VEVENT
+END:VCALENDAR

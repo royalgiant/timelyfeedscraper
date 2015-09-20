@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.236.187.236//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.carsonulc.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-149@www.carsonulc.org
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Citizenship Preparation provides the civics knowledge and En
+ glish language skills needed to pass the U.S. Citizenship and Immigration 
+ Services (USCIS) naturalization interview. Citizenship preparation classes
+  are offered at ULC. These classes are available at all proficiency levels
+  and at no cost to the student.</p>
+DTSTART;TZID=America/Los_Angeles:20150919T100000
+DTEND;TZID=America/Los_Angeles:20150919T120000
+GEO:+39.174814;-119.761038
+LOCATION:United Latino Community @ 1711 North Roop Street\, Carson City\, N
+ V 89706\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151127T235959Z;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:US Citizenship Class
+URL:http://www.carsonulc.org/event/naturalization-class
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-184@www.carsonulc.org
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:Aida Madrigal\; 775-885-1055
+DESCRIPTION:<p>Boys and Gilrs Club de Western Nevada y Partnership Carson C
+ ity esta comenzando un nuevo programa preescolar para los ninos de 3-4 ano
+ s de edad. Esta clase is para los ninos y padres. </p>\n<p>Mientras los ni
+ nos aprenden a prepararse para iniciar al kindergarten\, los padres aprend
+ eran information valiosa en el cuidado de sus hijos. </p>
+DTSTART;TZID=America/Los_Angeles:20150922T090000
+DTEND;TZID=America/Los_Angeles:20150922T110000
+GEO:+39.178596;-119.744509
+LOCATION:Boys & Girls Club  @ 1870 Russell Way\, Carson City\, NV 89706\, U
+ SA
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Grupo Escolar
+URL:http://www.carsonulc.org/event/grupo-escolar
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-183@www.carsonulc.org
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:Cathleen Mital\; 775-885-1055\; cathleen@carsonulc.org
+DESCRIPTION:<p>Clase de autocontrol de la diabetes. Aprenda como vivir con 
+ la diabetes. </p>\n<p>Por favor llame para mas informacion. </p>
+DTSTART;TZID=America/Los_Angeles:20150924T053000
+DTEND;TZID=America/Los_Angeles:20150924T080000
+GEO:+39.174814;-119.761038
+LOCATION:United Latino Community @ 1711 North Roop Street\, Carson City\, N
+ V 89706\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151105T235959Z;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Clase de autocontrol de la diabetes
+URL:http://www.carsonulc.org/event/clase-de-autocontrol-de-la-diabetes
+END:VEVENT
+END:VCALENDAR

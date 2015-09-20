@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//165.91.141.183//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://uarttest.tamu.edu
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:25694@calendar.tamu.edu
+DTSTAMP:20150920T003255Z
+CATEGORIES;LANGUAGE=en-US:Stark Galleries
+CONTACT:
+DESCRIPTION:<p>This exhibition pairs the expressionist paintings of Michael
+  Collins with ceramics designed by the collaborative team of Jim Edwards a
+ nd Amanda Barry Jones.  Collins and Edwards are both art faculty at Housto
+ n Baptist University.</p>
+DTSTART;VALUE=DATE:20151022
+DTEND;VALUE=DATE:20151216
+LOCATION:Stark Galleries
+SEQUENCE:0
+SUMMARY:Visual Transcendence
+URL:http://uarttest.tamu.edu/event/visual-transcendence/
+END:VEVENT
+BEGIN:VEVENT
+UID:25700@calendar.tamu.edu
+DTSTAMP:20150920T003255Z
+CATEGORIES;LANGUAGE=en-US:Stark Galleries
+CONTACT:
+DESCRIPTION:<p>In the age of small digital cameras and smart phones\, the u
+ se of the large\, somewhat cumbersome\, view cameras would seem anachronis
+ tic.  As opposed to those made with a handheld 35mm or digital camera\, la
+ rge-format camera images are not composed by looking through a viewfinder 
+ or referencing a digital screen. Instead\, the photographer stands beneath
+  a dark focusing cloth to view the scene in front of the lens as an image 
+ on a piece of ground glass. This image makes the subject appear upside-dow
+ n and backwards\, which emphasizes the abstract formal properties of the c
+ omposition and encourages close attention to subject matter during the con
+ ception of the image. </p>\n<p>Opening Reception October 8 at 5:30</p>
+DTSTART;TZID=America/Chicago:20151008T080000
+DTEND;TZID=America/Chicago:20151216T000000
+LOCATION:Stark Galleries
+SEQUENCE:0
+SUMMARY:4 x 5 and Beyond:  Large Format Photography
+URL:http://uarttest.tamu.edu/event/4-x-5-and-beyond-large-format-photograph
+ y/
+END:VEVENT
+END:VCALENDAR

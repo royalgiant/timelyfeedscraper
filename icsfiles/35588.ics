@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//96.8.124.105//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://dswaa.org.au
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+X-LIC-LOCATION:Australia/Melbourne
+BEGIN:STANDARD
+DTSTART:20150405T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+RDATE:20160403T030000
+TZNAME:AEST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20151004T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-12504@dswaa.org.au
+DTSTAMP:20150920T002329Z
+CATEGORIES;LANGUAGE=en-US:DSW Workshops
+CONTACT:Bruce Munday\; 0417895249\; brucemunday42@gmail.com
+DESCRIPTION:<p>A <strong>two-day</strong> dry stone wall workshop will be h
+ eld at Mount Barker Golf Course. This will involve building a non-linear\,
+  varying height retaining wall.</p>\n<p>The cost of the workshop is $200 w
+ ith a maximum of 12 people. Instructor is <a href='http://jrmstonework.com
+ .au' target='_blank'>Jon Moore</a>.</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151005
+GEO:-35.075808;+138.883131
+LOCATION:Mt Barker Golf Course @ 435 Bald Hills Road\, Mount Barker SA 5251
+ \, Australia
+SEQUENCE:0
+SUMMARY:Dry Stone Walls Workshop SA
+URL:http://dswaa.org.au/event/dry-stone-walls-workshop/
+X-COST:$200
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12506@dswaa.org.au
+DTSTAMP:20150920T002329Z
+CATEGORIES:
+CONTACT:Bruce Munday\; 0417895249\; brucemunday42@gmail.com
+DESCRIPTION:<p>A <strong>two-day</strong> dry stone wall workshop will be h
+ eld at Tungkillo. This will involve stripping out an old wall and building
+  a new free-standing dry stone wall.</p>\n<p>Free accommodation is availab
+ le for the Saturday night.</p>\n<p>The cost of the workshop is $200 with a
+  maximum of 12 people. Instructor is <a href='http://jrmstonework.com.au'>
+ Jon Moore</a>.</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151012
+GEO:-34.866205;+139.050893
+LOCATION:Dairy Springs @ Collins Road\, Tungkillo SA 5236\, Australia
+SEQUENCE:0
+SUMMARY:Dry Stone Walls Workshop SA
+URL:http://dswaa.org.au/event/dry-stone-walls-workshop-3/
+X-COST:$200
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12509@dswaa.org.au
+DTSTAMP:20150920T002329Z
+CATEGORIES;LANGUAGE=en-US:DSW Workshops
+CONTACT:Bruce Munday\; 0417895249\; brucemunday42@gmail.com
+DESCRIPTION:<p><span style='color: #ff0000\;'>THIS WORKSHOP IS NOW FULL</sp
+ an></p>\n<p>A two-day dry stone wall workshop will be held at Mount Pleasa
+ nt. This will involve stripping out an old wall and building a new free-st
+ anding dry stone wall.</p>\n<p>Free accommodation is available for the Sat
+ urday night.</p>\n<p>The cost of the workshop is $200 with a maximum of 12
+  people. Instructor is <a href='http://jrmstonework.com.au'>Jon Moore</a>.
+ </p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151019
+GEO:-34.773647;+139.102953
+LOCATION:Rosebank @ Angas Valley Road\, Mount Pleasant SA 5235\, Australia
+SEQUENCE:0
+SUMMARY:Dry Stone Walls Workshop SA
+URL:http://dswaa.org.au/event/dry-stone-walls-workshop-sa/
+X-COST:$200
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12516@dswaa.org.au
+DTSTAMP:20150920T002329Z
+CATEGORIES:
+CONTACT:Bruce Munday\; 0417895249\; bruce.m42@bigpond.com
+DESCRIPTION:<p>A weekend self-drive tour of some of the notable dry stone w
+ alls in the eastern Mount Lofty Ranges and the mid-north of SA.  You will 
+ see many walls built 150 years ago and still in good condition\, walls rec
+ ently restored at DSWAA workshops\, and some new walls built by present-da
+ y craftsmen.</p>\n<p>Accommodation is available on the Saturday night at R
+ osebank shearers quarters.</p>\n<p>The tour is very close to Adel Hills\, 
+ Barossa Valley and Clare Valley for those travellers who want to add on a 
+ holiday.</p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151026
+GEO:-34.773647;+139.102953
+LOCATION:Adel Hills & Mid-north @ Angas Valley Road\, Mount Pleasant SA 523
+ 5\, Australia
+SEQUENCE:0
+SUMMARY:SA Field Trip
+URL:http://dswaa.org.au/event/sa-field-trip/
+X-COST:$0
+END:VEVENT
+END:VCALENDAR

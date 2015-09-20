@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.28.6.80//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.fridaynightwriters.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-583@www.fridaynightwriters.com
+DTSTAMP:20150920T003742Z
+CATEGORIES:
+CONTACT:John Dufresne\; 305-919-4568\; John.Dufresne@fiu.edu\; http://johnd
+ ufresne.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.fridaynightwriters.com/wp-content/uploads/2013/08/tuesdaynightwrite
+ rs-300x188.jpg' width='300' height='188' /></div><p>Friday Night Writers m
+ eeting.</p>\n<p>Date: October 16\, 2015<br />\nTime: 7-9pm<br />\nLocation
+ : FIU Biscayne Bay Campus\, Building AC2\, Room 110</p>\n<p>See you there!
+ </p>\n<p>Biscayne Bay Campus<br />\n3000 N.E. 151st Street<br />\nNorth Mi
+ ami\, Florida 33181<br />\np. 305.348.2000</p>\n<p><a href='http://campusm
+ aps.fiu.edu/bbc-map.pdf' target='_blank'>FIU BBC Campus Map</a></p>\n<p> <
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-618' class='share-facebook s
+ d-button share-icon' href='http://www.fridaynightwriters.com/?p=618&share=
+ facebook' target='_blank' title='Share on Facebook'><span>Facebook</span><
+ /a></li><li class='share-twitter'><a rel='nofollow' data-shared='sharing-t
+ witter-618' class='share-twitter sd-button share-icon' href='http://www.fr
+ idaynightwriters.com/?p=618&share=twitter' target='_blank' title='Click to
+  share on Twitter'><span>Twitter</span></a></li><li class='share-google-pl
+ us-1'><a rel='nofollow' data-shared='sharing-google-618' class='share-goog
+ le-plus-1 sd-button share-icon' href='http://www.fridaynightwriters.com/?p
+ =618&share=google-plus-1' target='_blank' title='Click to share on Google+
+ '><span>Google</span></a></li><li class='share-reddit'><a rel='nofollow' d
+ ata-shared='' class='share-reddit sd-button share-icon' href='http://www.f
+ ridaynightwriters.com/?p=618&share=reddit' target='_blank' title='Click to
+  share on Reddit'><span>Reddit</span></a></li><li class='share-linkedin'><
+ a rel='nofollow' data-shared='sharing-linkedin-618' class='share-linkedin 
+ sd-button share-icon' href='http://www.fridaynightwriters.com/?p=618&share
+ =linkedin' target='_blank' title='Click to share on LinkedIn'><span>Linked
+ In</span></a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151016T190000
+DTEND;TZID=America/New_York:20151016T210000
+GEO:+25.911757;-80.139978
+LOCATION:FIU - Bldg AC2\, Rm 110 @ 3000 Northeast 151st Street\, Florida In
+ ternational University - Biscayne Bay Campus\, North Miami Beach\, FL 3318
+ 1\, USA
+SEQUENCE:0
+SUMMARY:FNW Meeting 10/16/2015
+URL:http://www.fridaynightwriters.com/?ai1ec_event=fnw-meeting-10162015
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-584@www.fridaynightwriters.com
+DTSTAMP:20150920T003743Z
+CATEGORIES:
+CONTACT:John Dufresne\; 305-919-4568\; John.Dufresne@fiu.edu\; http://johnd
+ ufresne.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.fridaynightwriters.com/wp-content/uploads/2013/08/tuesdaynightwrite
+ rs-300x188.jpg' width='300' height='188' /></div><p>Friday Night Writers m
+ eeting.</p>\n<p>Date: October 30\, 2015<br />\nTime: 7-9pm<br />\nLocation
+ : FIU Biscayne Bay Campus\, Building AC2\, Room 110</p>\n<p>See you there!
+ </p>\n<p>Biscayne Bay Campus<br />\n3000 N.E. 151st Street<br />\nNorth Mi
+ ami\, Florida 33181<br />\np. 305.348.2000</p>\n<p><a href='http://campusm
+ aps.fiu.edu/bbc-map.pdf' target='_blank'>FIU BBC Campus Map</a></p>\n<p> <
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-618' class='share-facebook s
+ d-button share-icon' href='http://www.fridaynightwriters.com/?p=618&share=
+ facebook' target='_blank' title='Share on Facebook'><span>Facebook</span><
+ /a></li><li class='share-twitter'><a rel='nofollow' data-shared='sharing-t
+ witter-618' class='share-twitter sd-button share-icon' href='http://www.fr
+ idaynightwriters.com/?p=618&share=twitter' target='_blank' title='Click to
+  share on Twitter'><span>Twitter</span></a></li><li class='share-google-pl
+ us-1'><a rel='nofollow' data-shared='sharing-google-618' class='share-goog
+ le-plus-1 sd-button share-icon' href='http://www.fridaynightwriters.com/?p
+ =618&share=google-plus-1' target='_blank' title='Click to share on Google+
+ '><span>Google</span></a></li><li class='share-reddit'><a rel='nofollow' d
+ ata-shared='' class='share-reddit sd-button share-icon' href='http://www.f
+ ridaynightwriters.com/?p=618&share=reddit' target='_blank' title='Click to
+  share on Reddit'><span>Reddit</span></a></li><li class='share-linkedin'><
+ a rel='nofollow' data-shared='sharing-linkedin-618' class='share-linkedin 
+ sd-button share-icon' href='http://www.fridaynightwriters.com/?p=618&share
+ =linkedin' target='_blank' title='Click to share on LinkedIn'><span>Linked
+ In</span></a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151030T190000
+DTEND;TZID=America/New_York:20151030T210000
+GEO:+25.911757;-80.139978
+LOCATION:FIU - Bldg AC2\, Rm 110 @ 3000 Northeast 151st Street\, Florida In
+ ternational University - Biscayne Bay Campus\, North Miami Beach\, FL 3318
+ 1\, USA
+SEQUENCE:0
+SUMMARY:FNW Meeting 10/30/2015
+URL:http://www.fridaynightwriters.com/?ai1ec_event=fnw-meeting-10302015
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-585@www.fridaynightwriters.com
+DTSTAMP:20150920T003743Z
+CATEGORIES:
+CONTACT:John Dufresne\; 305-919-4568\; John.Dufresne@fiu.edu\; http://johnd
+ ufresne.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.fridaynightwriters.com/wp-content/uploads/2013/08/tuesdaynightwrite
+ rs-300x188.jpg' width='300' height='188' /></div><p>Friday Night Writers m
+ eeting.</p>\n<p>Date: November 13\, 2015<br />\nTime: 7-9pm<br />\nLocatio
+ n: FIU Biscayne Bay Campus\, Building AC2\, Room 110</p>\n<p>See you there
+ !</p>\n<p>Biscayne Bay Campus<br />\n3000 N.E. 151st Street<br />\nNorth M
+ iami\, Florida 33181<br />\np. 305.348.2000</p>\n<p><a href='http://campus
+ maps.fiu.edu/bbc-map.pdf' target='_blank'>FIU BBC Campus Map</a></p>\n<p> 
+ </p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-nocont
+ ent sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title
+ '>Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><
+ a rel='nofollow' data-shared='sharing-facebook-618' class='share-facebook 
+ sd-button share-icon' href='http://www.fridaynightwriters.com/?p=618&share
+ =facebook' target='_blank' title='Share on Facebook'><span>Facebook</span>
+ </a></li><li class='share-twitter'><a rel='nofollow' data-shared='sharing-
+ twitter-618' class='share-twitter sd-button share-icon' href='http://www.f
+ ridaynightwriters.com/?p=618&share=twitter' target='_blank' title='Click t
+ o share on Twitter'><span>Twitter</span></a></li><li class='share-google-p
+ lus-1'><a rel='nofollow' data-shared='sharing-google-618' class='share-goo
+ gle-plus-1 sd-button share-icon' href='http://www.fridaynightwriters.com/?
+ p=618&share=google-plus-1' target='_blank' title='Click to share on Google
+ +'><span>Google</span></a></li><li class='share-reddit'><a rel='nofollow' 
+ data-shared='' class='share-reddit sd-button share-icon' href='http://www.
+ fridaynightwriters.com/?p=618&share=reddit' target='_blank' title='Click t
+ o share on Reddit'><span>Reddit</span></a></li><li class='share-linkedin'>
+ <a rel='nofollow' data-shared='sharing-linkedin-618' class='share-linkedin
+  sd-button share-icon' href='http://www.fridaynightwriters.com/?p=618&shar
+ e=linkedin' target='_blank' title='Click to share on LinkedIn'><span>Linke
+ dIn</span></a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151113T190000
+DTEND;TZID=America/New_York:20151113T210000
+GEO:+25.911757;-80.139978
+LOCATION:FIU - Bldg AC2\, Rm 110 @ 3000 Northeast 151st Street\, Florida In
+ ternational University - Biscayne Bay Campus\, North Miami Beach\, FL 3318
+ 1\, USA
+SEQUENCE:0
+SUMMARY:FNW Meeting 11/13/2015
+URL:http://www.fridaynightwriters.com/?ai1ec_event=fnw-meeting-11132015
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-586@www.fridaynightwriters.com
+DTSTAMP:20150920T003743Z
+CATEGORIES:
+CONTACT:John Dufresne\; 305-919-4568\; John.Dufresne@fiu.edu\; http://johnd
+ ufresne.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.fridaynightwriters.com/wp-content/uploads/2013/08/tuesdaynightwrite
+ rs-300x188.jpg' width='300' height='188' /></div><p>Friday Night Writers m
+ eeting.</p>\n<p>Date: November 20\, 2015<br />\nTime: 7-9pm<br />\nLocatio
+ n: FIU Biscayne Bay Campus\, Building AC2\, Room 110</p>\n<p>See you there
+ !</p>\n<p>Biscayne Bay Campus<br />\n3000 N.E. 151st Street<br />\nNorth M
+ iami\, Florida 33181<br />\np. 305.348.2000</p>\n<p><a href='http://campus
+ maps.fiu.edu/bbc-map.pdf' target='_blank'>FIU BBC Campus Map</a></p>\n<p> 
+ </p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-nocont
+ ent sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title
+ '>Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><
+ a rel='nofollow' data-shared='sharing-facebook-618' class='share-facebook 
+ sd-button share-icon' href='http://www.fridaynightwriters.com/?p=618&share
+ =facebook' target='_blank' title='Share on Facebook'><span>Facebook</span>
+ </a></li><li class='share-twitter'><a rel='nofollow' data-shared='sharing-
+ twitter-618' class='share-twitter sd-button share-icon' href='http://www.f
+ ridaynightwriters.com/?p=618&share=twitter' target='_blank' title='Click t
+ o share on Twitter'><span>Twitter</span></a></li><li class='share-google-p
+ lus-1'><a rel='nofollow' data-shared='sharing-google-618' class='share-goo
+ gle-plus-1 sd-button share-icon' href='http://www.fridaynightwriters.com/?
+ p=618&share=google-plus-1' target='_blank' title='Click to share on Google
+ +'><span>Google</span></a></li><li class='share-reddit'><a rel='nofollow' 
+ data-shared='' class='share-reddit sd-button share-icon' href='http://www.
+ fridaynightwriters.com/?p=618&share=reddit' target='_blank' title='Click t
+ o share on Reddit'><span>Reddit</span></a></li><li class='share-linkedin'>
+ <a rel='nofollow' data-shared='sharing-linkedin-618' class='share-linkedin
+  sd-button share-icon' href='http://www.fridaynightwriters.com/?p=618&shar
+ e=linkedin' target='_blank' title='Click to share on LinkedIn'><span>Linke
+ dIn</span></a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151120T190000
+DTEND;TZID=America/New_York:20151120T210000
+GEO:+25.911757;-80.139978
+LOCATION:FIU - Bldg AC2\, Rm 110 @ 3000 Northeast 151st Street\, Florida In
+ ternational University - Biscayne Bay Campus\, North Miami Beach\, FL 3318
+ 1\, USA
+SEQUENCE:0
+SUMMARY:FNW Meeting 11/20/2015
+URL:http://www.fridaynightwriters.com/?ai1ec_event=fnw-meeting-11202015
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-587@www.fridaynightwriters.com
+DTSTAMP:20150920T003743Z
+CATEGORIES:
+CONTACT:John Dufresne\; 305-919-4568\; John.Dufresne@fiu.edu\; http://johnd
+ ufresne.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.fridaynightwriters.com/wp-content/uploads/2013/08/tuesdaynightwrite
+ rs-300x188.jpg' width='300' height='188' /></div><p>Friday Night Writers m
+ eeting.</p>\n<p>Date: December 4\, 2015<br />\nTime: 7-9pm<br />\nLocation
+ : FIU Biscayne Bay Campus\, Building AC2\, Room 110</p>\n<p>See you there!
+ </p>\n<p>Biscayne Bay Campus<br />\n3000 N.E. 151st Street<br />\nNorth Mi
+ ami\, Florida 33181<br />\np. 305.348.2000</p>\n<p><a href='http://campusm
+ aps.fiu.edu/bbc-map.pdf' target='_blank'>FIU BBC Campus Map</a></p>\n<p> <
+ /p>\n<div class='sharedaddy sd-sharing-enabled'><div class='robots-noconte
+ nt sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-title'
+ >Share this:</h3><div class='sd-content'><ul><li class='share-facebook'><a
+  rel='nofollow' data-shared='sharing-facebook-618' class='share-facebook s
+ d-button share-icon' href='http://www.fridaynightwriters.com/?p=618&share=
+ facebook' target='_blank' title='Share on Facebook'><span>Facebook</span><
+ /a></li><li class='share-twitter'><a rel='nofollow' data-shared='sharing-t
+ witter-618' class='share-twitter sd-button share-icon' href='http://www.fr
+ idaynightwriters.com/?p=618&share=twitter' target='_blank' title='Click to
+  share on Twitter'><span>Twitter</span></a></li><li class='share-google-pl
+ us-1'><a rel='nofollow' data-shared='sharing-google-618' class='share-goog
+ le-plus-1 sd-button share-icon' href='http://www.fridaynightwriters.com/?p
+ =618&share=google-plus-1' target='_blank' title='Click to share on Google+
+ '><span>Google</span></a></li><li class='share-reddit'><a rel='nofollow' d
+ ata-shared='' class='share-reddit sd-button share-icon' href='http://www.f
+ ridaynightwriters.com/?p=618&share=reddit' target='_blank' title='Click to
+  share on Reddit'><span>Reddit</span></a></li><li class='share-linkedin'><
+ a rel='nofollow' data-shared='sharing-linkedin-618' class='share-linkedin 
+ sd-button share-icon' href='http://www.fridaynightwriters.com/?p=618&share
+ =linkedin' target='_blank' title='Click to share on LinkedIn'><span>Linked
+ In</span></a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/New_York:20151204T190000
+DTEND;TZID=America/New_York:20151204T210000
+GEO:+25.911757;-80.139978
+LOCATION:FIU - Bldg AC2\, Rm 110 @ 3000 Northeast 151st Street\, Florida In
+ ternational University - Biscayne Bay Campus\, North Miami Beach\, FL 3318
+ 1\, USA
+SEQUENCE:0
+SUMMARY:FNW Meeting 12/4/2015
+URL:http://www.fridaynightwriters.com/?ai1ec_event=fnw-meeting-1242015
+END:VEVENT
+END:VCALENDAR

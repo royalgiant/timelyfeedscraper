@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//67.190.250.83//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.igorkatya.com/wordpress
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-573@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151204T160000
+DTEND;TZID=America/New_York:20151204T190000
+SEQUENCE:0
+SUMMARY:Arrive\, Check-in\, Unpack\, Welcome Fellow Participants
+URL:http://www.igorkatya.com/wordpress/event/arrive-check-in-unpack-welcome
+ -fellow-participants-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-580@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151204T190000
+DTEND;TZID=America/New_York:20151204T193000
+SEQUENCE:0
+SUMMARY:Opening Meeting\, Get Acquainted\, Review of Agenda
+URL:http://www.igorkatya.com/wordpress/event/opening-meeting-get-acquainted
+ -review-of-agenda-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-590@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151204T200000
+SEQUENCE:0
+SUMMARY:Social Time\, Dinner (not provided)\, Free Time\, Rest Time
+URL:http://www.igorkatya.com/wordpress/event/social-time-dinner-not-provide
+ d-free-time-rest-time-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-576@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div><p>Coffee and pastries p
+ rovided</p>
+DTSTART;TZID=America/New_York:20151205T083000
+DTEND;TZID=America/New_York:20151205T100000
+SEQUENCE:0
+SUMMARY:Light Breakfast
+URL:http://www.igorkatya.com/wordpress/event/light-breakfast-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-587@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151205T100000
+DTEND;TZID=America/New_York:20151205T110000
+SEQUENCE:0
+SUMMARY:Session with Sue – Mediumship Development and more
+URL:http://www.igorkatya.com/wordpress/event/session-with-sue-mediumship-de
+ velopment-and-more-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-581@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151205T110000
+DTEND;TZID=America/New_York:20151205T111500
+SEQUENCE:0
+SUMMARY:Refreshment Time
+URL:http://www.igorkatya.com/wordpress/event/refreshment-time-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-571@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151205T111500
+DTEND;TZID=America/New_York:20151205T120000
+SEQUENCE:0
+SUMMARY:Abram Speaks
+URL:http://www.igorkatya.com/wordpress/event/abram-speaks-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-579@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151205T120000
+DTEND;TZID=America/New_York:20151205T150000
+SEQUENCE:0
+SUMMARY:Lunch (not provided)\, Free Time
+URL:http://www.igorkatya.com/wordpress/event/lunch-not-provided-free-time-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-588@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151205T150000
+DTEND;TZID=America/New_York:20151205T160000
+SEQUENCE:0
+SUMMARY:Session with Sue – Mediumship Development and more
+URL:http://www.igorkatya.com/wordpress/event/session-with-sue-mediumship-de
+ velopment-and-more-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-582@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151205T160000
+DTEND;TZID=America/New_York:20151205T161500
+SEQUENCE:0
+SUMMARY:Refreshment Time
+URL:http://www.igorkatya.com/wordpress/event/refreshment-time-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-572@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151205T161500
+DTEND;TZID=America/New_York:20151205T171500
+SEQUENCE:0
+SUMMARY:Abram Speaks
+URL:http://www.igorkatya.com/wordpress/event/abram-speaks-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-583@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151205T171500
+DTEND;TZID=America/New_York:20151205T173000
+SEQUENCE:0
+SUMMARY:Refreshment Time
+URL:http://www.igorkatya.com/wordpress/event/refreshment-time-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-585@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151205T173000
+DTEND;TZID=America/New_York:20151205T183000
+SEQUENCE:0
+SUMMARY:Session with Leigh Martin\, M.A. – Past Life Regression Hypnosis
+URL:http://www.igorkatya.com/wordpress/event/session-with-leigh-martin-m-a-
+ past-life-regression-hypnosis-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-577@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151206T083000
+DTEND;TZID=America/New_York:20151206T093000
+SEQUENCE:0
+SUMMARY:Light Breakfast (Coffee and pastries provided)
+URL:http://www.igorkatya.com/wordpress/event/light-breakfast-coffee-and-pas
+ tries-provided-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-589@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151206T103000
+DTEND;TZID=America/New_York:20151206T120000
+SEQUENCE:0
+SUMMARY:Session with Sue – Mediumship Development and more
+URL:http://www.igorkatya.com/wordpress/event/session-with-sue-mediumship-de
+ velopment-and-more-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-578@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151206T120000
+DTEND;TZID=America/New_York:20151206T140000
+SEQUENCE:0
+SUMMARY:Lunch (not provided)
+URL:http://www.igorkatya.com/wordpress/event/lunch-not-provided-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-586@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151206T140000
+DTEND;TZID=America/New_York:20151206T150000
+SEQUENCE:0
+SUMMARY:Session with Mary Beth Hickey – Dreams and Gems
+URL:http://www.igorkatya.com/wordpress/event/session-with-mary-beth-hickey-
+ dreams-and-gems-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-584@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151206T150000
+DTEND;TZID=America/New_York:20151206T151500
+SEQUENCE:0
+SUMMARY:Refreshment Time
+URL:http://www.igorkatya.com/wordpress/event/refreshment-time-4-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-575@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151206T161500
+DTEND;TZID=America/New_York:20151206T171500
+SEQUENCE:0
+SUMMARY:Closing Meeting\, Possible Session with Abram
+URL:http://www.igorkatya.com/wordpress/event/closing-meeting-possible-sessi
+ on-with-abram-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-574@www.igorkatya.com/wordpress
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='pdfprnt-top-right'><a href='http://www.igorkatya.co
+ m/wordpress/?page_id=285&print=print' target='_blank'><img src='http://www
+ .igorkatya.com/wordpress/wp-content/plugins/pdf-print/images/print.gif' al
+ t='image_print' title='Print Content' /></a></div>
+DTSTART;TZID=America/New_York:20151206T171500
+DTEND;TZID=America/New_York:20151206T183000
+SEQUENCE:0
+SUMMARY:Check Out\, Departure
+URL:http://www.igorkatya.com/wordpress/event/check-out-departure-2/
+END:VEVENT
+END:VCALENDAR

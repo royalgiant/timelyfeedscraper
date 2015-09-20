@@ -1,0 +1,472 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//208.38.186.21//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://hhs.ikorn.be/WP41
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1258@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151005
+DTEND;VALUE=DATE:20151006
+SEQUENCE:0
+SUMMARY:Internationale dag van de leerkracht met Saved by the bell
+URL:http://hhs.ikorn.be/WP41/event/internationale-dag-van-de-leerkracht-met
+ -saved-by-the-bell/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1268@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151030
+DTEND;VALUE=DATE:20151031
+SEQUENCE:0
+SUMMARY:Rapport Dagelijks werk voor 7KZ en TBZ
+URL:http://hhs.ikorn.be/WP41/event/rapport-dagelijks-werk-voor-7kz-en-tbz/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1274@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151109
+SEQUENCE:0
+SUMMARY:Herfstvakantie
+URL:http://hhs.ikorn.be/WP41/event/herfstvakantie/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1285@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151214
+DTEND;VALUE=DATE:20151215
+SEQUENCE:0
+SUMMARY:Vrije dag voor 5MRV\, 6MRV\, 7MV\, 7KZ en 7TBZ
+URL:http://hhs.ikorn.be/WP41/event/vrije-dag-voor-5mrv-6mrv-7mv-7kz-en-7tbz
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1287@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:1e graad\,2e graad\,3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151216
+DTEND;VALUE=DATE:20151217
+SEQUENCE:0
+SUMMARY:Vrijaf voor de leerlingen (uitgezonderd stageweek)
+URL:http://hhs.ikorn.be/WP41/event/vrijaf-voor-de-leerlingen-uitgezonderd-s
+ tageweek/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1288@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:1e graad\,2e graad\,3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151217
+DTEND;VALUE=DATE:20151218
+SEQUENCE:0
+SUMMARY:Vrijaf voor de leerlingen (uitgezonderd stageweek)
+URL:http://hhs.ikorn.be/WP41/event/vrijaf-voor-de-leerlingen-uitgezonderd-s
+ tageweek-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1290@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:1e graad\,2e graad\,3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151219
+DTEND;VALUE=DATE:20160104
+SEQUENCE:0
+SUMMARY:Kerstvakantie
+URL:http://hhs.ikorn.be/WP41/event/kerstvakantie/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1246@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20150922T082500
+DTEND;TZID=Europe/Brussels:20150925T154000
+SEQUENCE:0
+SUMMARY:Blokstage 1 voor 6VZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-1-voor-7kz-en-tbz-2-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1254@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20150922T082500
+DTEND;TZID=Europe/Brussels:20150925T154000
+SEQUENCE:0
+SUMMARY:Blokstage 1 voor 7KZ en TBZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-1-voor-7kz-en-tbz-2-3-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1243@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151006T082500
+DTEND;TZID=Europe/Brussels:20151009T154000
+SEQUENCE:0
+SUMMARY:Blokstage 1 voor 6VZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-1-voor-7kz-en-tbz-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1255@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151006T082500
+DTEND;TZID=Europe/Brussels:20151009T154000
+SEQUENCE:0
+SUMMARY:Blokstage 1 voor 7KZ en TBZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-1-voor-7kz-en-tbz-2-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1259@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151012T082500
+DTEND;TZID=Europe/Brussels:20151016T154000
+SEQUENCE:0
+SUMMARY:Stageweek 1 voor 6GW
+URL:http://hhs.ikorn.be/WP41/event/stageweek-1-voor-6gw/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1262@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151013T082500
+DTEND;TZID=Europe/Brussels:20151016T154000
+SEQUENCE:0
+SUMMARY:Blokstage 1 voor 5VZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-1-voor-5vz-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1264@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:2e graad\,3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151014T082500
+DTEND;TZID=Europe/Brussels:20151014T000000
+SEQUENCE:0
+SUMMARY:Amnesty International in De Plomblom voor 4e\, 5e\, 6e en 7e jaren
+URL:http://hhs.ikorn.be/WP41/event/amnesty-international-in-de-plomblom-voo
+ r-4e-5e-6e-en-7e-jaren/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1265@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151019T082500
+DTEND;TZID=Europe/Brussels:20151023T154000
+SEQUENCE:0
+SUMMARY:Stageweek 1 voor 5GW
+URL:http://hhs.ikorn.be/WP41/event/stageweek-1-voor-5gw/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1263@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151020T082500
+DTEND;TZID=Europe/Brussels:20151023T154000
+SEQUENCE:0
+SUMMARY:Blokstage 1 voor 5VZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-1-voor-5vz-2-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1266@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151026T082500
+DTEND;TZID=Europe/Brussels:20151028T000000
+SEQUENCE:0
+SUMMARY:Driedaagse bezinning voor 7bso te Herentals
+URL:http://hhs.ikorn.be/WP41/event/driedaagse-bezinning-voor-7bso-te-herent
+ als/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1261@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151027T082500
+DTEND;TZID=Europe/Brussels:20151028T154000
+SEQUENCE:0
+SUMMARY:Blokstage 1 voor 5VZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-1-voor-5vz-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1267@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151028T082500
+DTEND;TZID=Europe/Brussels:20151030T154000
+SEQUENCE:0
+SUMMARY:Driedaagse bezinning voor 6tso te Herentals
+URL:http://hhs.ikorn.be/WP41/event/driedaagse-bezinning-voor-6tso-te-herent
+ als/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1269@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:1e graad\,2e graad\,3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151110T170000
+DTEND;TZID=Europe/Brussels:20151110T210000
+SEQUENCE:0
+SUMMARY:Oudercontact met attituderapport (groep 1 – van A tot M)
+URL:http://hhs.ikorn.be/WP41/event/oudercontact-met-attituderapport-groep-1
+ -van-a-tot-m/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1270@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151112T170000
+DTEND;TZID=Europe/Brussels:20151112T210000
+SEQUENCE:0
+SUMMARY:Oudercontact met attituderapport (groep 2 –  van N tot Z)
+URL:http://hhs.ikorn.be/WP41/event/oudercontact-met-attituderapport-groep-2
+ -van-n-tot-z/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1271@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151117T082500
+DTEND;TZID=Europe/Brussels:20151120T154000
+SEQUENCE:0
+SUMMARY:Blokstage 2 voor 6VZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-2-voor-6vz/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1272@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151124T082500
+DTEND;TZID=Europe/Brussels:20151127T154000
+SEQUENCE:0
+SUMMARY:Blokstage 2 voor 6VZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-2-voor-6vz-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1275@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151130T154000
+SEQUENCE:0
+SUMMARY:Rapport Dagelijks werk voor 3e graad tso
+URL:http://hhs.ikorn.be/WP41/event/rapport-dagelijks-werk-voor-3e-graad-tso
+ /
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1273@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151201T082500
+DTEND;TZID=Europe/Brussels:20151204T154000
+SEQUENCE:0
+SUMMARY:Blokstage 2 voor 6VZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-2-voor-6vz-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1276@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151202T082500
+DTEND;TZID=Europe/Brussels:20151214T120000
+SEQUENCE:0
+SUMMARY:Start examenperiode 6e jaren tso
+URL:http://hhs.ikorn.be/WP41/event/start-examenperiode-6e-jaren-tso/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1277@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:2e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151202T154000
+SEQUENCE:0
+SUMMARY:Rapport Dagelijks werk voor 2e graad tso
+URL:http://hhs.ikorn.be/WP41/event/rapport-dagelijks-werk-voor-2e-graad-tso
+ /
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1278@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151203T082500
+DTEND;TZID=Europe/Brussels:20151215T120000
+SEQUENCE:0
+SUMMARY:Start examenperiode 5e jaren tso
+URL:http://hhs.ikorn.be/WP41/event/start-examenperiode-5e-jaren-tso/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1281@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:2e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151204T082500
+DTEND;TZID=Europe/Brussels:20151215T120000
+SEQUENCE:0
+SUMMARY:Start examenperiode 2e graad tso
+URL:http://hhs.ikorn.be/WP41/event/start-examenperiode-5e-jaren-tso-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1280@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:1e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151204T154000
+SEQUENCE:0
+SUMMARY:Rapport Dagelijks werk 1A / 2A
+URL:http://hhs.ikorn.be/WP41/event/rapport-dagelijks-werk-voor-2e-graad-tso
+ -2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1279@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151207T082500
+DTEND;TZID=Europe/Brussels:20151211T120000
+SEQUENCE:0
+SUMMARY:Start toetsenperiode voor 5 en 6 MRV\, 7MV\, 7KZ en TBZ
+URL:http://hhs.ikorn.be/WP41/event/start-examenperiode-5e-jaren-tso-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1282@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:1e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151208T082500
+DTEND;TZID=Europe/Brussels:20151215T120000
+SEQUENCE:0
+SUMMARY:Start examenperiode voor 1A en 2A
+URL:http://hhs.ikorn.be/WP41/event/start-examenperiode-5e-jaren-tso-2-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1283@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:1e graad\,2e graad\,3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151209T082500
+DTEND;TZID=Europe/Brussels:20151215T120000
+SEQUENCE:0
+SUMMARY:Start toetsenperiode voor 1B / BVL / 2e graad MRP – OR – VV / 3e gr
+ aad OR / VZ
+URL:http://hhs.ikorn.be/WP41/event/start-examenperiode-5e-jaren-tso-2-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1284@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151211T082500
+DTEND;TZID=Europe/Brussels:20151215T120000
+SEQUENCE:0
+SUMMARY:Start toetsenperiode voor 7BS
+URL:http://hhs.ikorn.be/WP41/event/start-examenperiode-5e-jaren-tso-2-3-2-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1286@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151215T082500
+DTEND;TZID=Europe/Brussels:20151218T154000
+SEQUENCE:0
+SUMMARY:Blokstage  voor 5MRV\, 6MRV\, 7MV\, 7KZ en 7TBZ
+URL:http://hhs.ikorn.be/WP41/event/blokstage-2-voor-6vz-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1289@hhs.ikorn.be/WP41
+DTSTAMP:20150920T002408Z
+CATEGORIES;LANGUAGE=nl-NL:1e graad\,2e graad\,3e graad
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Brussels:20151217T160000
+DTEND;TZID=Europe/Brussels:20151217T190000
+SEQUENCE:0
+SUMMARY:Oudercontact voor alle jaren – afhalen rapport
+URL:http://hhs.ikorn.be/WP41/event/oudercontact-voor-alle-jaren-afhalen-rap
+ port/
+END:VEVENT
+END:VCALENDAR

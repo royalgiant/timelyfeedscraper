@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.31.17.55//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://aggersborg.kfumspejderne.dk
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+X-LIC-LOCATION:Europe/Copenhagen
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-142@aggersborg.kfumspejderne.dk
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:Bjarne Jørgensen\; 60675121\; bjarnebj@post4.tele.dk
+DESCRIPTION:<p align='LEFT'>Velkommen til fælles tropmøde i Bonderup gruppe
+ .</p>\n<p align='LEFT'><strong>Torsdag den 1. oktober 2015 kl. 18.00 – 20.
+ 00</strong></p>\n<p align='LEFT'>Vi mødes på vores sommerspejderplads\, Ti
+ ngheden. Hvis man kommer fra syd:</p>\n<p align='LEFT'>Kort efter Aggersun
+ d drejes til højre. Kort efter at have passeret Bonderup på venstre hånd d
+ rejer I til</p>\n<p align='LEFT'>venstre ved to spejderbannere\, der marke
+ rer indkørselen til Tingheden.</p>\n<p align='LEFT'>Jeg tror\, grupperne i
+  Han Herred ved\, hvor det ligger.</p>\n<p align='LEFT'>Vi skal være ude\,
+  da vi kun har en lille bålhytte på Tingheden\, så tag tøj på efter vejret
+ . Vi forbereder nogle</p>\n<p align='LEFT'><span style='font-family: TT15B
+ t00\; font-size: medium\;'><span style='font-family: TT15Bt00\; font-size:
+  medium\;'>aktiviteter – lidt afhængig af vejrudsigten\, når vi nærmer os 
+ </span></span><span style='font-family: TT10Ft00\; font-size: medium\;'><s
+ pan style='font-family: TT10Ft00\; font-size: medium\;'> </span></span><sp
+ an style='font-family: TT15Bt00\; font-size: medium\;'><span style='font-f
+ amily: TT15Bt00\; font-size: medium\;'>og i hvert fald bliver der en dejli
+ g servering</span></span></p>\n<p align='LEFT'>fra vores store pande\, og 
+ vi slutter med hygge omkring bålet\, mens mørket falder på. (en lommelygte
+  er en</p>\n<p align='LEFT'>rigtig god idé\, så I også kan finde hjem igen
+ .</p>\n<p align='LEFT'><span style='font-family: TT15Bt00\; font-size: med
+ ium\;'><span style='font-family: TT15Bt00\; font-size: medium\;'>Tilmeldin
+ g: Vi vil gerne have en sms på 6067 5121 eller en mail på </span></span><s
+ pan style='color: #0000ff\; font-family: TT15Bt00\; font-size: medium\;'><
+ span style='color: #0000ff\; font-family: TT15Bt00\; font-size: medium\;'>
+ <span style='color: #0000ff\; font-family: TT15Bt00\; font-size: medium\;'
+ >bjarnebj@post4.tele.dk </span></span></span><span style='font-family: TT1
+ 5Bt00\; font-size: medium\;'><span style='font-family: TT15Bt00\; font-siz
+ e: medium\;'>et par dage før</span></span></p>\n<p align='LEFT'>med gruppe
+ navn og ca. antal. Vel mødt.</p>\n<p>På ledernes vegne Bjarne Jørgensen</p
+ >\n<p> </p>
+DTSTART;TZID=Europe/Copenhagen:20151001T180000
+DTEND;TZID=Europe/Copenhagen:20151001T200000
+GEO:+57.066887;+9.378193
+LOCATION:Tingheden\, Sommerlejrplads
+SEQUENCE:0
+SUMMARY:Fælles tropsmøde i Bonderup
+URL:http://aggersborg.kfumspejderne.dk/?ai1ec_event=faelles-tropsmoede-i-bo
+ nderup
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-143@aggersborg.kfumspejderne.dk
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:Tom Jensen\; 25133380\; tomspejder@gmail.com
+DESCRIPTION:<div><strong>Indbydelse til fælles trop aften.</strong><br />\n
+ Det sker i Vestrup spejderhus onsdag d. 7-10 fra klokken 18\,30 til 20\,00
+ .<br />\nProgrammet for aftenen er at vi hygger os med lidt forskellige sp
+ ejderfærdigheder og lidt sjov\, inden vi slutter er der mulighed for lidt 
+ til ganen.</div>\n<div>Tilmelding gruppevis til Tom senest fredag<br />\nd
+ . 2-10 på mail. tomspejder@gmail.com eller 25133380.</div>
+DTSTART;TZID=Europe/Copenhagen:20151007T183000
+DTEND;TZID=Europe/Copenhagen:20151007T200000
+GEO:+56.749809;+9.446713
+LOCATION:Vestrup Spejderhus @ Vestrupvej 18\, 9600 Aars\, Danmark
+SEQUENCE:0
+SUMMARY:Fælles tropsaften i Vestrup
+URL:http://aggersborg.kfumspejderne.dk/?ai1ec_event=faelles-tropsaften-i-ve
+ strup
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-124@aggersborg.kfumspejderne.dk
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Et udvidet distriktsstabsmøde hvor gruppeledere og assistent
+ er fra distriktets gruppe inviteres med</p>
+DTSTART;TZID=Europe/Copenhagen:20151105T180000
+DTEND;TZID=Europe/Copenhagen:20151105T220000
+GEO:+56.783542;+9.678254
+LOCATION:Hame-gruppen Spejderhus @ Kærvej 8\, 9610 Nørager\, Danmark
+SEQUENCE:0
+SUMMARY:Distriktsrådsmøde
+URL:http://aggersborg.kfumspejderne.dk/?ai1ec_event=distriktsraadsmoede
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-123@aggersborg.kfumspejderne.dk
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>VIP event for ledere ved KFUM Spejderne i Aggersbor Distrikt
+ </p>\n<ul>\n<li>Nærmere information til efteråret</li>\n</ul>
+DTSTART;TZID=Europe/Copenhagen:20160108T180000
+DTEND;TZID=Europe/Copenhagen:20160108T220000
+SEQUENCE:0
+SUMMARY:Nytårsbanket
+URL:http://aggersborg.kfumspejderne.dk/?ai1ec_event=nytaarsbanket
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-126@aggersborg.kfumspejderne.dk
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Copenhagen:20160317T180000
+DTEND;TZID=Europe/Copenhagen:20160317T220000
+GEO:+56.761385;+9.237467
+LOCATION:Farsø Efterskole @ Viborgvej 71\, 9640 Farsø\, Danmark
+SEQUENCE:0
+SUMMARY:Distriktsmøde
+URL:http://aggersborg.kfumspejderne.dk/?ai1ec_event=distriktsmoede-2
+END:VEVENT
+END:VCALENDAR

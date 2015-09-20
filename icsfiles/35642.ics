@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.62.235.10//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://hugsforbrady.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-5036@hugsforbrady.org
+DTSTAMP:20150920T002253Z
+CATEGORIES:
+CONTACT:Rich Domotor\; 732-322-4162\; queball81@aol.com\; http://hugsforbra
+ dy.org/kickball/
+DESCRIPTION:<p>(Rain date will be Sunday\, September 20\, 2015)</p>
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150920
+GEO:+40.404066;-74.56304
+LOCATION:Woodlot Park @ 124 New Road\, Monmouth Junction\, NJ 08852\, USA
+SEQUENCE:0
+SUMMARY:Kickball for Grown Ups
+URL:http://hugsforbrady.org/event/kickball-for-grown-ups-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5035@hugsforbrady.org
+DTSTAMP:20150920T002253Z
+CATEGORIES:
+CONTACT:Rich Domotor\; 732-322-4162\; queball81@aol.com\; http://hugsforbra
+ dy.org/kickball/
+DESCRIPTION:<p>(This is the Rain date for Kickball for Grown-ups on Saturda
+ y\, September 19\, 2015)</p>
+DTSTART;VALUE=DATE:20150920
+DTEND;VALUE=DATE:20150921
+GEO:+40.404066;-74.56304
+LOCATION:Woodlot Park @ 124 New Road\, Monmouth Junction\, NJ 08852\, USA
+SEQUENCE:0
+SUMMARY:Kickball for Grown Ups (Rain Date)
+URL:http://hugsforbrady.org/event/kickball-for-grown-ups/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5038@hugsforbrady.org
+DTSTAMP:20150920T002253Z
+CATEGORIES:
+CONTACT:Jeff Hawkins at OTB New Brunswick\; 732-979-2192\; http://hugsforbr
+ ady.org/on-the-border-hosts-11th-annual-charity-golf-classic/
+DESCRIPTION:<p>100% of proceeds benefiting Hugs for Brady Foundation!<br />
+ \nSPONSOR\, DONATE\, or CONTRIBUTE to our SILENT AUCTION<br />\nGolfers ma
+ y sign up at their nearest <a href='http://ontheborder.com/locate' target=
+ '_blank'>On the Border</a>.</p>\n<p>Registration – 12pm<br />\nShotGun Sta
+ rt – 1pm</p>
+DTSTART;TZID=America/New_York:20150929T120000
+GEO:+40.436534;-74.578402
+LOCATION:Bunker Hill Golf Course @ 220 Bunker Hill Road\, Princeton\, NJ 08
+ 540\, USA
+SEQUENCE:0
+SUMMARY:Golf Outing Hosted by On The Border Mexican Grill & Cantina
+URL:http://hugsforbrady.org/event/golf-outing-hosted-by-on-the-border-mexic
+ an-grill-cantina/
+X-TAGS;LANGUAGE=en-US:fundraisers\,golf
+X-COST:Golfers – $125\, Foursomes – $500\, Tee Sponsorships – $1\,000\, Pla
+ tinum Sponsorships – $2\,000
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5081@hugsforbrady.org
+DTSTAMP:20150920T002253Z
+CATEGORIES:
+CONTACT:Michelle Hoffman\; mhoffmann@hugsforbrady.org\; http://hugsforbrady
+ .org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160305T183000
+GEO:+40.530871;-74.534052
+LOCATION:The Palace at Somerset Park @ 333 Davidson Avenue\, Somerset\, NJ 
+ 08873\, USA
+SEQUENCE:0
+SUMMARY:6th Annual Hugs for Brady Winter Gala Hosted by the Palace at Somer
+ set Park
+URL:http://hugsforbrady.org/event/6th-annual-hugs-for-brady-winter-gala-hos
+ ted-by-the-palace-at-somerset-park/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

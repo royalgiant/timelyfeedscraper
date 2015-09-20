@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//134.193.116.93//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://chi.umkc.edu
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-945@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150925T100000
+DTEND;TZID=America/Chicago:20150925T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-946@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151002T100000
+DTEND;TZID=America/Chicago:20151002T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-947@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151009T100000
+DTEND;TZID=America/Chicago:20151009T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-948@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151014T100000
+DTEND;TZID=America/Chicago:20151014T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-949@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151023T100000
+DTEND;TZID=America/Chicago:20151023T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-950@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151030T100000
+DTEND;TZID=America/Chicago:20151030T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-951@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151106T100000
+DTEND;TZID=America/Chicago:20151106T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-952@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151113T100000
+DTEND;TZID=America/Chicago:20151113T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-953@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151120T100000
+DTEND;TZID=America/Chicago:20151120T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-955@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151123T100000
+DTEND;TZID=America/Chicago:20151123T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-22/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-954@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151204T100000
+DTEND;TZID=America/Chicago:20151204T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-956@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151211T100000
+DTEND;TZID=America/Chicago:20151211T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-957@chi.umkc.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES:
+CONTACT:umkcredcap@umkc.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151218T100000
+DTEND;TZID=America/Chicago:20151218T140000
+GEO:+39.083432;-94.575271
+LOCATION:School of Medicine\, MG-202C @ School of Medicine\, University of 
+ Missouri Kansas City: Hospital Hill Campus\, 2411 Holmes Street\, Kansas C
+ ity\, MO 64108\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150731T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:REDCap Open Lab
+URL:http://chi.umkc.edu/event/redcap-open-lab-24/
+END:VEVENT
+END:VCALENDAR

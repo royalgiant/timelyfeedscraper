@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//188.65.115.241//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://liverpoolfoe.org.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-27707@liverpoolfoe.org.uk
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>World Mental Health Day is observed on 10 October every year
+ \, with the overall objective of raising awareness of mental health issues
+  around the world and mobilizing efforts in support of mental health.</p>
+ \n<p>The Day provides an opportunity for all stakeholders working on menta
+ l health issues to talk about their work\, and what more needs to be done 
+ to make mental health care a reality for people worldwide.</p>\n<p> </p>\n
+ <p> </p>\n<p><a title='http://www.who.int/mental_health/world-mental-healt
+ h-day/en/' href='http://www.who.int/mental_health/world-mental-health-day/
+ en/'>http://www.who.int/mental_health/world-mental-health-day/en/</a></p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:World Mental Health Day – 10 October
+URL:http://liverpoolfoe.org.uk/event/world-mental-health-day-10-october/
+X-TAGS;LANGUAGE=en-GB:events\,global\,mental_health
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27736@liverpoolfoe.org.uk
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>UNFCCC COP 21/ CMP 11 – Twenty-first session of the Conferen
+ ce of the Parties and the eleventh session of the Conference of the Partie
+ s serving as the meeting of the Parties to the Kyoto Protocol</p>
+DTSTART;VALUE=DATE:20151130
+DTEND;VALUE=DATE:20151212
+LOCATION:Paris\, France
+SEQUENCE:0
+SUMMARY:UNFCCC COP 21
+URL:http://liverpoolfoe.org.uk/event/unfccc-cop-21/
+X-TAGS;LANGUAGE=en-GB:climate_change\,events\,global\,unfccc
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-70294@liverpoolfoe.org.uk
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The easiest way to get involved is to come to a meeting.</p>
+ \n<p>You can find more information about us on our website <a href='http:/
+ /liverpoolfoe.org.uk/'>here</a></p>
+DTSTART;TZID=Europe/London:20151021T183000
+DTEND;TZID=Europe/London:20151021T200000
+GEO:+53.40291;-2.984424
+LOCATION:DoES Liverpool\, 4th Floor @ Gostins Building\, 32-36 Hanover Stre
+ et\, Liverpool\, Merseyside L1 4LN\, UK
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+SEQUENCE:0
+SUMMARY:Liverpool Friends of the Earth – regular group meeting
+URL:http://liverpoolfoe.org.uk/event/liverpool-friends-earth-regular-group-
+ meeting/
+X-TAGS;LANGUAGE=en-GB:events\,liverpool
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-108408@liverpoolfoe.org.uk
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><strong>Come along and enjoy the day! </strong>The BIG Freez
+ e will focus on the best ways to enjoy great food\, which is healthy\, and
+  sustainable\, whilst reducing the amount of food we waste. The fun\, inte
+ ractive activities and games at the event will specifically focus on how t
+ o reduce food waste in homes\, with a particular focus on using freezers. 
+ You’ll leave the BIG Freeze shivering with brain freezing knowledge and re
+ freshing top tips!</p>\n<p><a href='http://liverpoolfoe.org.uk/wp-content/
+ uploads/2015/09/9862_WRAP-Big-Freeze-Invite_AW01-Liverpool.pdf'>9862_WRAP 
+ Big Freeze Invite_AW01- Liverpool</a></p>
+DTSTART;TZID=Europe/London:20151023T090000
+DTEND;TZID=Europe/London:20151023T160000
+GEO:+53.405153;-2.983571
+LOCATION:Church St\, Liverpool L1 1DA\, UK
+SEQUENCE:0
+SUMMARY:Love Food Hate Waste: The Big Freeze
+URL:http://liverpoolfoe.org.uk/event/love-food-hate-waste-the-big-freeze/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27727@liverpoolfoe.org.uk
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>By celebrating World Philosophy Day each year\, on the third
+  Thursday of November\, UNESCO underlines the enduring value of philosophy
+  for the development of human thought\, for each culture and for each indi
+ vidual. World Philosophy Day 2014 falls on 20 November. Events at UNESCO H
+ eadquarters in Paris\, on 19 and 20 November 2014\, will contribute to the
+  overarching question of “Social Transformations and Intercultural Dialogu
+ e” with a round table discussion to launch the “Philosophy Manual\, A Sout
+ h-South Perspective”\, developed with the support of the Abdullah bin Abdu
+ laziz International Programme for a Culture of Peace and Dialogue.</p>\n<p
+ >Additional events will take place at UNESCO Headquarters\, including in p
+ articular a conference on “New Philosophical Practices” and a roundtable o
+ n “The contribution of Ali ibn Abi Talib’s thought to a culture of peace a
+ nd intercultural dialogue”. Events will also take place around the world t
+ hroughout the month of November.</p>\n<p>In establishing World Philosophy 
+ Day in 2005\, UNESCO’s General Conference highlighted the importance of th
+ is discipline\, especially for young people\, underlining that “philosophy
+  is a discipline that encourages critical and independent thought and is c
+ apable of working towards a better understanding of the world and promotin
+ g tolerance and peace”. UNESCO’s General Conference was convinced that “th
+ e institutionalization of Philosophy Day at UNESCO as ‘World Philosophy Da
+ y’ would win recognition for and give strong impetus to philosophy and\, i
+ n particular\, to the teaching of philosophy in the world”.</p>\n<p>UNESCO
+  leads World Philosophy Day – but does not own it. It belongs to everyone\
+ , everywhere\, who cares about philosophy. If you would like to have your 
+ WPD events mentioned on the UNESCO website\, simply send brief details of 
+ them to: <a href='mailto:wpd@unesco.org' rel='nofollow'>wpd@unesco.org</a>
+ .</p>\n<p><a href='http://en.unesco.org/events/world-philosophy-day-2014'>
+ http://en.unesco.org/events/world-philosophy-day-2014</a></p>
+DTSTART;TZID=Europe/London:20151120T090000
+DTEND;TZID=Europe/London:20151120T210000
+RRULE:FREQ=YEARLY;BYMONTH=11
+SEQUENCE:0
+SUMMARY:World Philosophy Day
+URL:http://liverpoolfoe.org.uk/event/world-philosophy-day/
+X-TAGS;LANGUAGE=en-GB:events\,global
+END:VEVENT
+END:VCALENDAR

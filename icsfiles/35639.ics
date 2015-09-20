@@ -1,0 +1,788 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.89.31.178//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.nshsband.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-11100@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150920
+GEO:+32.940207;-97.174916
+LOCATION:Southlake Carroll Senior HS @ 1501 West Southlake Boulevard\, Sout
+ hlake\, TX 76092\, USA
+SEQUENCE:0
+SUMMARY:All-Region Jazz Auditions
+URL:http://www.nshsband.org/event/all-region-jazz-auditions/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11063@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150927
+GEO:+33.063219;-96.703265
+LOCATION:Clark Stadium @ Stadium Drive\, Plano\, TX 75023\, USA
+SEQUENCE:0
+SUMMARY:Plano Drumline Competition
+URL:http://www.nshsband.org/event/11063/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11157@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Practice
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150928
+DTEND;VALUE=DATE:20150930
+SEQUENCE:0
+SUMMARY:VENTO
+URL:http://www.nshsband.org/event/vento-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11102@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150930
+DTEND;VALUE=DATE:20151001
+GEO:+32.940207;-97.174916
+LOCATION:Southlake Carroll Senior HS @ 1501 West Southlake Boulevard\, Sout
+ hlake\, TX 76092\, USA
+SEQUENCE:0
+SUMMARY:Area Jazz Recording
+URL:http://www.nshsband.org/event/area-jazz-recording/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11002@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:Trevor Kay\; 972-968-5327\; kaytr@cfbisd.edu
+DESCRIPTION:<p>21st Annual Tournament of Champions Marching Contest</p>\n<p
+ >Rehearsal @ Standridge Stadium from 8:30am – 10:00am</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+GEO:+32.939965;-96.914357
+LOCATION:Standridge Stadium @ 1330 Valwood Parkway\, Carrollton\, TX 75006\
+ , USA
+SEQUENCE:0
+SUMMARY:Tournament of Champions
+URL:http://www.nshsband.org/event/tournament-of-champions/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11010@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+GEO:+33.15739;-96.823984
+LOCATION:Frisco Memorial Stadium @ 6927 Stadium Lane\, Frisco\, TX 75033\, 
+ USA
+SEQUENCE:0
+SUMMARY:Centennial Marching Festival
+URL:http://www.nshsband.org/event/marching-contest-tbd/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11011@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151018
+GEO:+32.939965;-96.914357
+LOCATION:Standridge Stadium @ 1330 Valwood Parkway\, Carrollton\, TX 75006\
+ , USA
+SEQUENCE:0
+SUMMARY:UIL Region 24 Marching Contest
+URL:http://www.nshsband.org/event/uil-region-24-marching-contest-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11012@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+GEO:+32.939965;-96.914357
+LOCATION:Standridge Stadium @ 1330 Valwood Parkway\, Carrollton\, TX 75006\
+ , USA
+SEQUENCE:0
+SUMMARY:UIL Area Marching Contest
+URL:http://www.nshsband.org/event/uil-area-marching-contest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11062@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151105
+GEO:+29.417185;-98.478744
+LOCATION:Alamodome @ 100 Montana Street\, San Antonio\, TX 78203\, USA
+SEQUENCE:0
+SUMMARY:UIL State Marching Contest
+URL:http://www.nshsband.org/event/uil-state-marching-contest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11070@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+GEO:+33.063488;-97.063767
+LOCATION:Marcus High School @ 5707 Morriss Road\, Flower Mound\, TX 75028\,
+  USA
+SEQUENCE:0
+SUMMARY:Lone Star Classic Drumline Competition
+URL:http://www.nshsband.org/event/lone-star-classic-drumline-competition/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11103@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151109
+DTEND;VALUE=DATE:20151111
+GEO:+32.940207;-97.174916
+LOCATION:Southlake Carroll Senior HS @ 1501 West Southlake Boulevard\, Sout
+ hlake\, TX 76092\, USA
+SEQUENCE:0
+SUMMARY:All-Region Jazz Clinic/Concert
+URL:http://www.nshsband.org/event/all-region-jazz-clinicconcert/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11104@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:<p>5:00pm @ Wakeland HS</p>
+DTSTART;VALUE=DATE:20151117
+DTEND;VALUE=DATE:20151118
+GEO:+33.165915;-96.848969
+LOCATION:Wakeland HS @ 10700 Legacy Drive\, Frisco\, TX 75034\, USA
+SEQUENCE:0
+SUMMARY:All-Region Auditions – 5A Phase 1
+URL:http://www.nshsband.org/event/all-region-auditions-5a-phase-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11106@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:<p>5:00pm @ Lewisville HS</p>
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151120
+GEO:+33.040346;-97.019255
+LOCATION:Lewisville HS @ 1098 West Main Street\, Lewisville\, TX 75067\, US
+ A
+SEQUENCE:0
+SUMMARY:All-Region Auditions – 6A Phase 1
+URL:http://www.nshsband.org/event/all-region-auditions-6a-phase-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11105@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:<p>5:00pm @ Wakeland HS</p>
+DTSTART;VALUE=DATE:20151203
+DTEND;VALUE=DATE:20151204
+GEO:+33.165915;-96.848969
+LOCATION:Wakeland HS @ 10700 Legacy Drive\, Frisco\, TX 75034\, USA
+SEQUENCE:0
+SUMMARY:All-Region Auditions – 5A Phase 2
+URL:http://www.nshsband.org/event/all-region-auditions-5a-phase-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11107@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:<p>1:00pm @ Colleyville Heritage HS</p>
+DTSTART;VALUE=DATE:20151205
+DTEND;VALUE=DATE:20151206
+GEO:+32.887054;-97.10399
+LOCATION:Colleyville Heritage HS @ 5401 Heritage Avenue\, Colleyville\, TX 
+ 76034\, USA
+SEQUENCE:0
+SUMMARY:All-Region Auditions – 6A Phase 2
+URL:http://www.nshsband.org/event/all-region-auditions-6a-phase-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11108@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:<p>8:00am @ Colleyville Heritage HS</p>
+DTSTART;VALUE=DATE:20151205
+DTEND;VALUE=DATE:20151206
+GEO:+32.887054;-97.10399
+LOCATION:Colleyville Heritage HS @ 5401 Heritage Avenue\, Colleyville\, TX 
+ 76034\, USA
+SEQUENCE:0
+SUMMARY:All-Region Auditions – Freshman Audition
+URL:http://www.nshsband.org/event/all-region-auditions-freshman-audition/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11099@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160108
+DTEND;VALUE=DATE:20160110
+GEO:+32.469779;-99.709098
+LOCATION:Abilene Christian University @ Abilene Christian University\, 1600
+  Campus Court\, Abilene\, TX 79601\, USA
+SEQUENCE:0
+SUMMARY:Area Auditions
+URL:http://www.nshsband.org/event/area-auditions-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11110@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:School/District
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160115
+DTEND;VALUE=DATE:20160117
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith HS Auditorium @ 2335 North Josey Lane\, Carrollton\, 
+ TX 75006\, USA
+SEQUENCE:0
+SUMMARY:NSHS Musical
+URL:http://www.nshsband.org/event/nshs-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11109@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160121
+DTEND;VALUE=DATE:20160123
+SEQUENCE:0
+SUMMARY:All-Region Clinic/Concert
+URL:http://www.nshsband.org/event/all-region-clinicconcert-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11119@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160130
+DTEND;VALUE=DATE:20160131
+GEO:+33.13884;-96.742116
+LOCATION:Liberty HS @ 15250 C G Rolater Road\, Frisco\, TX 75035\, USA
+SEQUENCE:0
+SUMMARY:Solo & Ensemble Contest
+URL:http://www.nshsband.org/event/solo-ensemble-contest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11111@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Band Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160210
+DTEND;VALUE=DATE:20160214
+SEQUENCE:0
+SUMMARY:TMEA
+URL:http://www.nshsband.org/event/tmea-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11159@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160223
+DTEND;VALUE=DATE:20160226
+GEO:+32.948388;-96.89104
+LOCATION:R.L. Turner High School @ 1600 South Josey Lane\, Carrollton\, TX 
+ 75006\, USA
+SEQUENCE:0
+SUMMARY:Orchestra UIL
+URL:http://www.nshsband.org/event/orchestra-uil-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11160@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Band Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160305
+DTEND;VALUE=DATE:20160309
+SEQUENCE:0
+SUMMARY:New York Trip
+URL:http://www.nshsband.org/event/new-york-trip/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11112@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:School/District
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160307
+DTEND;VALUE=DATE:20160312
+SEQUENCE:0
+SUMMARY:SPRING BREAK
+URL:http://www.nshsband.org/event/spring-break-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11113@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160331
+DTEND;VALUE=DATE:20160401
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith HS Auditorium @ 2335 North Josey Lane\, Carrollton\, 
+ TX 75006\, USA
+SEQUENCE:0
+SUMMARY:High School Pre-UIL Contest
+URL:http://www.nshsband.org/event/high-school-pre-uil-contest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11120@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Contests
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160420
+DTEND;VALUE=DATE:20160422
+GEO:+33.136327;-96.76867
+LOCATION:Centennial HS @ 6901 Coit Road\, Frisco\, TX 75035\, USA
+SEQUENCE:0
+SUMMARY:UIL Concert & Sightreading Contest
+URL:http://www.nshsband.org/event/uil-concert-sightreading-contest-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11066@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Practice
+CONTACT:
+DESCRIPTION:<p>Show block</p>
+DTSTART;TZID=America/Chicago:20150921T161500
+DTEND;TZID=America/Chicago:20150921T184500
+EXDATE;TZID=America/Chicago:20150907T161500
+EXDATE;TZID=America/Chicago:20150922T161500
+EXDATE;TZID=America/Chicago:20151006T161500
+EXDATE;TZID=America/Chicago:20151020T161500
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith High School @ 2335 North Josey Lane\, Carrollton\, TX
+  75006\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151028T235959Z;BYDAY=MO,TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Rehearsal
+URL:http://www.nshsband.org/event/rehearsal-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11069@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Practice
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150922T170000
+DTEND;TZID=America/Chicago:20150922T200000
+GEO:+32.939965;-96.914357
+LOCATION:Standridge Stadium @ 1330 Valwood Parkway\, Carrollton\, TX 75006\
+ , USA
+RDATE;TZID=America/Chicago:20151006T170000
+RDATE;TZID=America/Chicago:20151020T170000
+SEQUENCE:0
+SUMMARY:Rehearsal @ Standridge
+URL:http://www.nshsband.org/event/rehearsal-standridge-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11067@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Practice
+CONTACT:
+DESCRIPTION:<p>Show block.</p>
+DTSTART;TZID=America/Chicago:20150924T161500
+DTEND;TZID=America/Chicago:20150924T184500
+EXDATE;TZID=America/Chicago:20150903T161500
+EXDATE;TZID=America/Chicago:20151001T161500
+EXDATE;TZID=America/Chicago:20151015T161500
+EXDATE;TZID=America/Chicago:20151029T161500
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith High School @ 2335 North Josey Lane\, Carrollton\, TX
+  75006\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151106T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Rehearsal
+URL:http://www.nshsband.org/event/rehearsal-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11054@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Football
+CONTACT:
+DESCRIPTION:<p>4:15pm call time at Standridge Stadium.</p>\n<p>Rehearsal 4:
+ 30-5:30pm.</p>
+DTSTART;TZID=America/Chicago:20150925T193000
+DTEND;TZID=America/Chicago:20150925T223000
+GEO:+32.939965;-96.914357
+LOCATION:Standridge Stadium @ 1330 Valwood Parkway\, Carrollton\, TX 75006\
+ , USA
+SEQUENCE:0
+SUMMARY:GAME vs. Bryan Adams
+URL:http://www.nshsband.org/event/homecoming-vs-bryan-adams/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11135@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Practice
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150930T074500
+DTEND;TZID=America/Chicago:20150930T081500
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith High School @ 2335 North Josey Lane\, Carrollton\, TX
+  75006\, USA
+SEQUENCE:0
+SUMMARY:Troyann/Pregame rehearsal
+URL:http://www.nshsband.org/event/troyannpregame-rehearsal-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11055@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Football
+CONTACT:
+DESCRIPTION:<p>4:30pm call time in Newman Smith band hall.</p>
+DTSTART;TZID=America/Chicago:20151001T190000
+DTEND;TZID=America/Chicago:20151001T223000
+GEO:+32.941829;-96.849842
+LOCATION:Loos Stadium @ 3815 Spring Valley Road\, Addison\, TX 75001\, USA
+SEQUENCE:0
+SUMMARY:GAME @ Thomas Jefferson
+URL:http://www.nshsband.org/event/game-thomas-jefferson/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11068@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Practice
+CONTACT:
+DESCRIPTION:<p>Show block.</p>
+DTSTART;TZID=America/Chicago:20151002T161500
+DTEND;TZID=America/Chicago:20151002T184500
+EXDATE;TZID=America/Chicago:20150911T161500
+EXDATE;TZID=America/Chicago:20150918T161500
+EXDATE;TZID=America/Chicago:20150925T161500
+EXDATE;TZID=America/Chicago:20151009T161500
+EXDATE;TZID=America/Chicago:20151023T161500
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith High School @ 2335 North Josey Lane\, Carrollton\, TX
+  75006\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151031T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Rehearsal
+URL:http://www.nshsband.org/event/rehearsal-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11056@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Football
+CONTACT:
+DESCRIPTION:<p>4:15pm call time at Standridge Stadium.</p>\n<p>Rehearsal 4:
+ 30-5:30pm.</p>\n<p>All band 8th graders coming to Smith should be at this 
+ game!!!!</p>
+DTSTART;TZID=America/Chicago:20151009T193000
+DTEND;TZID=America/Chicago:20151009T223000
+GEO:+32.939965;-96.914357
+LOCATION:Standridge Stadium @ 1330 Valwood Parkway\, Carrollton\, TX 75006\
+ , USA
+SEQUENCE:0
+SUMMARY:GAME vs. Woodrow Wilson (8th grade night!!)
+URL:http://www.nshsband.org/event/game-vs-woodrow-wilson/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11136@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Practice
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151014T074500
+DTEND;TZID=America/Chicago:20151014T081500
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith High School @ 2335 North Josey Lane\, Carrollton\, TX
+  75006\, USA
+SEQUENCE:0
+SUMMARY:Troyann/Pregame rehearsal
+URL:http://www.nshsband.org/event/troyannpregame-rehearsal-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11057@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Football
+CONTACT:
+DESCRIPTION:<p>4:15pm call time at Standridge Stadium.</p>\n<p>Rehearsal 4:
+ 30-5:30pm.</p>
+DTSTART;TZID=America/Chicago:20151015T190000
+DTEND;TZID=America/Chicago:20151015T220000
+GEO:+32.939965;-96.914357
+LOCATION:Standridge Stadium @ 1330 Valwood Parkway\, Carrollton\, TX 75006\
+ , USA
+SEQUENCE:0
+SUMMARY:GAME vs. North Dallas
+URL:http://www.nshsband.org/event/game-vs-north-dallas/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11058@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Football
+CONTACT:
+DESCRIPTION:<p>5:00pm call time in the Newman Smith band hall.</p>
+DTSTART;TZID=America/Chicago:20151023T193000
+DTEND;TZID=America/Chicago:20151023T230000
+GEO:+32.941829;-96.849842
+LOCATION:Loos Stadium @ 3815 Spring Valley Road\, Addison\, TX 75001\, USA
+SEQUENCE:0
+SUMMARY:GAME @ Conrad
+URL:http://www.nshsband.org/event/game-conrad/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11137@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Practice
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151028T074500
+DTEND;TZID=America/Chicago:20151028T081500
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith High School @ 2335 North Josey Lane\, Carrollton\, TX
+  75006\, USA
+SEQUENCE:0
+SUMMARY:Troyann/Pregame rehearsal
+URL:http://www.nshsband.org/event/troyannpregame-rehearsal-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11059@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Football
+CONTACT:
+DESCRIPTION:<p>4:15pm call time at Standridge Stadium.</p>\n<p>Rehearsal 4:
+ 30-5:30pm.</p>
+DTSTART;TZID=America/Chicago:20151029T190000
+DTEND;TZID=America/Chicago:20151029T220000
+GEO:+32.939965;-96.914357
+LOCATION:Standridge Stadium @ 1330 Valwood Parkway\, Carrollton\, TX 75006\
+ , USA
+SEQUENCE:0
+SUMMARY:GAME (Senior Night) vs. Hillcrest
+URL:http://www.nshsband.org/event/game-senior-night-vs-hillcrest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11060@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Football
+CONTACT:
+DESCRIPTION:<p>6:00pm call time at Standridge Stadium.</p>
+DTSTART;TZID=America/Chicago:20151106T193000
+DTEND;TZID=America/Chicago:20151106T223000
+GEO:+32.939965;-96.914357
+LOCATION:Standridge Stadium @ 1330 Valwood Parkway\, Carrollton\, TX 75006\
+ , USA
+SEQUENCE:0
+SUMMARY:GAME @ Creekview
+URL:http://www.nshsband.org/event/game-creekview/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11096@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Concerts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151130T190000
+DTEND;TZID=America/Chicago:20151130T203000
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith HS Auditorium @ 2335 North Josey Lane\, Carrollton\, 
+ TX 75006\, USA
+SEQUENCE:0
+SUMMARY:Jazz Winter Concert
+URL:http://www.nshsband.org/event/jazz-winter-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11097@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Concerts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151201T180000
+DTEND;TZID=America/Chicago:20151201T200000
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith HS Auditorium @ 2335 North Josey Lane\, Carrollton\, 
+ TX 75006\, USA
+SEQUENCE:0
+SUMMARY:Dan F. Long Winter Concert
+URL:http://www.nshsband.org/event/dan-f-long-winter-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11098@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Concerts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151210T190000
+DTEND;TZID=America/Chicago:20151210T204500
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith HS Auditorium @ 2335 North Josey Lane\, Carrollton\, 
+ TX 75006\, USA
+SEQUENCE:0
+SUMMARY:NSHS Bands Winter Concert
+URL:http://www.nshsband.org/event/nshs-bands-winter-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11158@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Concerts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160222T190000
+GEO:+32.979046;-96.892312
+LOCATION:NSHS Theater @ 2335 North Josey Lane\, Carrollton\, TX 75006\, USA
+SEQUENCE:0
+SUMMARY:Full Orchestra Preview Concert
+URL:http://www.nshsband.org/event/full-orchestra-preview-concert/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11114@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Concerts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160407T190000
+DTEND;TZID=America/Chicago:20160407T203000
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith HS Auditorium @ 2335 North Josey Lane\, Carrollton\, 
+ TX 75006\, USA
+SEQUENCE:0
+SUMMARY:Drum Dance Concert
+URL:http://www.nshsband.org/event/drum-dance-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11115@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Concerts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160510T190000
+DTEND;TZID=America/Chicago:20160510T203000
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith HS Auditorium @ 2335 North Josey Lane\, Carrollton\, 
+ TX 75006\, USA
+SEQUENCE:0
+SUMMARY:Percussion Concert
+URL:http://www.nshsband.org/event/percussion-concert-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11121@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Band Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160513T180000
+DTEND;TZID=America/Chicago:20160513T230000
+GEO:+32.935648;-96.863513
+LOCATION:Brookhaven Country Club @ 3333 Golfing Green Drive\, Farmers Branc
+ h\, TX 75234\, USA
+SEQUENCE:0
+SUMMARY:Band Banquet
+URL:http://www.nshsband.org/event/band-banquet-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11156@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Region
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160521T100000
+SEQUENCE:0
+SUMMARY:Region Meeting
+URL:http://www.nshsband.org/event/11156/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11116@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Concerts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160523T190000
+DTEND;TZID=America/Chicago:20160523T204500
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith HS Auditorium @ 2335 North Josey Lane\, Carrollton\, 
+ TX 75006\, USA
+SEQUENCE:0
+SUMMARY:NSHS Bands Spring Concert
+URL:http://www.nshsband.org/event/nshs-bands-spring-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11117@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Concerts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160526T183000
+DTEND;TZID=America/Chicago:20160526T203000
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith HS Auditorium @ 2335 North Josey Lane\, Carrollton\, 
+ TX 75006\, USA
+SEQUENCE:0
+SUMMARY:Polk Spring Concert
+URL:http://www.nshsband.org/event/polk-spring-concert-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11118@www.nshsband.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Band Activities
+CONTACT:
+DESCRIPTION:<p>10:00am – 12:30pm…Marching</p>\n<p>12:30pm – 2:00pm…Cookout!
+ !!</p>
+DTSTART;TZID=America/Chicago:20160528T100000
+DTEND;TZID=America/Chicago:20160528T140000
+GEO:+32.979046;-96.892312
+LOCATION:Newman Smith High School @ 2335 North Josey Lane\, Carrollton\, TX
+  75006\, USA
+SEQUENCE:0
+SUMMARY:Spring Marching Camp
+URL:http://www.nshsband.org/event/spring-marching-camp/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.18.48.248//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.smwbikeclub.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-7038@www.smwbikeclub.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Calhoun's on Bearden Hill\,Club Meeting
+CONTACT:
+DESCRIPTION:<p>You may have heard about the Senior Olympics\, but what do y
+ ou know about them when it comes to cycling.   There are many aspects of t
+ he Senior Olympics that may be of interest to you or your friends.  We rec
+ ently had two of our members participate in the Senior Olympics.  Barbara 
+ Baum and Harvey Liberman competed at the state level\, and also at the Nat
+ ional level in Minnesota.   Barbara is out of town for this meeting\, but 
+ Harvey is going to share what is involved at the state level\, and how you
+  get to compete on the National level.</p>\n<p>Many of you may think you a
+ re not old enough for this event.  Come listen to Harvey and discover what
+  you learn about age levels\, types of competition\, and why you may be in
+ terested in participating in this event.</p>\n<p>Harvey does a great job o
+ n his presentations.  This is one you don’t want to miss.</p>\n<p>Speaker 
+ starts at 7:00 pm but arrive early and enjoy your meal with others while y
+ ou share your recent riding experiences with other members.</p>
+DTSTART;TZID=America/New_York:20150921T190000
+DTEND;TZID=America/New_York:20150921T200000
+GEO:+35.931979;-84.011932
+LOCATION:Calhoun's on Bearden Hill @ 6515 Kingston Pike\, Knoxville\, TN 37
+ 919\, USA
+SEQUENCE:0
+SUMMARY:What You Should Know About Senior Olympics
+URL:http://www.smwbikeclub.org/event/club-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7087@www.smwbikeclub.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Club Rides\,Howard Pinkston Public Library
+CONTACT:Gary Speer\, Road Captain\; 865-604-2324\; garyspeer@gmail.com
+DESCRIPTION:<p>Join a weekly\, no-drop ride on various routes in Knox\, Blo
+ unt and Sevier counties. The ride length ranges from 30 to 50 miles depend
+ ing on the group’s desires.<br />\nMeet at the Howard Pinkston Library on 
+ Martin Mill Pike ready to roll at 8:30 am.<br />\nRemember to bring your s
+ unscreen.</p>
+DTSTART;TZID=America/New_York:20150922T083000
+DTEND;TZID=America/New_York:20150922T130000
+GEO:+35.879788;-83.893831
+LOCATION:Howard Pinkston Public Library @ 7732 Martin Mill Pike\, Knoxville
+ \, TN 37920\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151124T235959Z;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Tuesday Country Cruise
+URL:http://www.smwbikeclub.org/event/tuesday-country-cruise-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7039@www.smwbikeclub.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Calhoun's on Bearden Hill\,Club Meeting
+CONTACT:
+DESCRIPTION:<p>Club Meeting will be on the third Monday in October.  Detail
+ s of meeting to be posted later.</p>
+DTSTART;TZID=America/New_York:20151019T190000
+DTEND;TZID=America/New_York:20151019T203000
+GEO:+35.931979;-84.011932
+LOCATION:Calhoun's on Bearden Hill @ 6515 Kingston Pike\, Knoxville\, TN 37
+ 919\, USA
+SEQUENCE:0
+SUMMARY:Club Meeting
+URL:http://www.smwbikeclub.org/event/club-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7040@www.smwbikeclub.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Calhoun's on Bearden Hill\,Club Meeting
+CONTACT:
+DESCRIPTION:<p>Club Meeting will be on the third Monday in November.  Detai
+ ls of meeting to be posted later.</p>
+DTSTART;TZID=America/New_York:20151116T190000
+DTEND;TZID=America/New_York:20151116T203000
+GEO:+35.931979;-84.011932
+LOCATION:Calhoun's on Bearden Hill @ 6515 Kingston Pike\, Knoxville\, TN 37
+ 919\, USA
+SEQUENCE:0
+SUMMARY:Club Meeting
+URL:http://www.smwbikeclub.org/event/club-meeting-4/
+END:VEVENT
+END:VCALENDAR

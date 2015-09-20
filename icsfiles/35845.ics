@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.17.23.23//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.owadogigant.pl/cms
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+X-LIC-LOCATION:Europe/Warsaw
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-715@www.owadogigant.pl/cms
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Zapraszamy w najbliższą <span style='color: #800000\;'><stro
+ ng>niedzielę tj. 20 września 2015 roku</strong> </span></p><p>do Parku „Ow
+ adogigant” <strong><span style='color: #800000\;'>NA POWITANIE JESIENI</sp
+ an>. </strong></p><p>Tego dnia szczególnie na dzieci czeka moc niezapomnia
+ nych atrakcji.</p><p>Między innymi będą mogły skosztować:</p><ul><li>ziemn
+ iaczka z ogniska\,</li><li>upiec kiełbaskę przy ognisku\,</li></ul><p> </p
+ ><p>Odbędą się również liczne konkurencje z animatorem oraz zabawy na:</p>
+ <ul><li>zamkach dmuchanych\,</li><li>trampolinie\,</li><li>gokartach\, </l
+ i><li>w basenie z łódeczkami\,</li><li>zawody strzelnicze\,</li><li>można 
+ będzie spróbować sił na parku linowym\,</li><li>pograć w ping-ponga\,</li>
+ <li>kręgle oraz</li><li>wykopać owadzią skamieliną.</li></ul><p> </p><p><s
+ pan style='color: #ff0000\;'><strong>Wszystkie atrakcję\, pieczone ziemnia
+ czki oraz kiełbaski dla dzieci są w cenie biletu.</strong></span></p><p><s
+ trong>ZAPRASZAMY SERDECZNIE.</strong></p><p><strong><div\n	class='ngg-galle
+ ryoverview ngg-ajax-pagination-none'\n	id='ngg-gallery-1546-1'>\n\n    		<!--
+  Thumbnails -->\n				<div id='ngg-image-0' class='ngg-gallery-thumbnail-box' >
+ \n				        <div class='ngg-gallery-thumbnail'>\n            <a href='http:/
+ /www.owadogigant.pl/cms/wp-content/gallery/17-09-2015/12011123_81378044207
+ 8431_8994376770870928378_n.jpg'\n               title=''\n               d
+ ata-src='http://www.owadogigant.pl/cms/wp-content/gallery/17-09-2015/12011
+ 123_813780442078431_8994376770870928378_n.jpg'\n               data-thumbn
+ ail='http://www.owadogigant.pl/cms/wp-content/gallery/17-09-2015/thumbs/th
+ umbs_12011123_813780442078431_8994376770870928378_n.jpg'\n               d
+ ata-image-id='445'\n               data-title='12011123_813780442078431_89
+ 94376770870928378_n'\n               data-description=''\n               c
+ lass='ngg-fancybox' rel='1546'>\n                <img\n                   
+  title='12011123_813780442078431_8994376770870928378_n'\n                 
+    alt='12011123_813780442078431_8994376770870928378_n'\n                 
+    src='http://www.owadogigant.pl/cms/wp-content/gallery/17-09-2015/thumbs
+ /thumbs_12011123_813780442078431_8994376770870928378_n.jpg'\n             
+        width='180'\n                    height='120'\n                    
+ style='max-width:none\;'\n                />\n            </a>\n        </
+ div>\n							</div> \n			\n        \n		\n		<div class='ngg-clear'></div>\n	</div>\n </str
+ ong></p>
+DTSTART;VALUE=DATE:20150920
+DTEND;VALUE=DATE:20150921
+SEQUENCE:0
+SUMMARY:JESIEŃ Z PIECZONYM ZIEMNIAKIEM
+URL:http://www.owadogigant.pl/cms/event/jesien-z-pieczonym-ziemniakiem/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-716@www.owadogigant.pl/cms
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151128
+DTEND;VALUE=DATE:20151129
+SEQUENCE:0
+SUMMARY:ZABAWA ANDRZEJKOWA
+URL:http://www.owadogigant.pl/cms/event/zabawa-andrzejkowa/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-717@www.owadogigant.pl/cms
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151206
+DTEND;VALUE=DATE:20151207
+SEQUENCE:0
+SUMMARY:MIKOŁAJKI
+URL:http://www.owadogigant.pl/cms/event/mikolajki/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-718@www.owadogigant.pl/cms
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151231
+DTEND;VALUE=DATE:20160101
+SEQUENCE:0
+SUMMARY:BAL SYLWESTROWY
+URL:http://www.owadogigant.pl/cms/event/bal-sylwestrowy/
+END:VEVENT
+END:VCALENDAR

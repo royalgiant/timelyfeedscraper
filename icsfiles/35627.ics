@@ -1,0 +1,2057 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.164.212.169//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://orlandotech.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ql3kr3m65o06neptho426pvbtg@google.com
+DTSTAMP:20150920T002319Z
+CATEGORIES;LANGUAGE=en-US:Nerd Nite
+CONTACT:
+DESCRIPTION:<p>Nerd Nite Orlando is an evening of entertaining yet thought-
+ provoking talks across many disciplines – all while the audience drinks al
+ ong in a casual bar atmosphere.</p>\n<p>3 speakers will present for 20-25 
+ minutes each on a fascinating subject of their choice\, often in an uncann
+ y and unconventional way!</p>\n<p>Come meet up\, drink\, and learn somethi
+ ng new!</p>\n<p>http://orlando.nerdnite.com/<br />\norlando@nerdnite.com [
+ Contact us!<br />\nhttps://www.facebook.com/groups/nerdniteorlando/ [Join 
+ us!]<br />\nhttps://www.facebook.com/nerdniteorlando [Like us!]<br />\nhtt
+ ps://twitter.com/nerdniteorlando/ [Follow us!]</p>
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151009
+LOCATION:Stardust Video & Coffee\, 1842 Winter Park Road\, Orlando\, FL 328
+ 03\, United States
+RRULE:FREQ=MONTHLY;BYDAY=2TH
+SEQUENCE:0
+SUMMARY:Nerd Nite Orlando
+URL:http://orlandotech.org/event/nerd-nite-orlando/
+X-TAGS;LANGUAGE=en-US:business\,creative\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225106076@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Florida Creatives Happy Hour<br />\nMonday\, September 21 at
+  6:00 PM</p>\n<p>Details: http://www.meetup.com/Florida-Creatives-Happy-Ho
+ ur/events/225106076/</p>
+DTSTART;TZID=America/New_York:20150921T180000
+DTEND;TZID=America/New_York:20150921T210000
+GEO:+28.54;-81.37
+LOCATION:The Falcon Bar & Gallery (819 e washington st\, Orlando\, FL 32801
+ )
+SEQUENCE:0
+SUMMARY:FLCreatives September Happy Hour @Falcon Bar
+URL:http://orlandotech.org/event/flcreatives-september-happy-hour-falcon-ba
+ r/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
+ \,mobile development\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_czhgklytmbcc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, September 21 at 6:30 PM</p>\n
+ <p>This edition of Founders Talk will feature Mike Mason\, CEO/Founder of 
+ Zentila.     Zentila is a first-of-its-kind strategic sourcing solution fo
+ r meet…</p>\n<p>Details: http://www.meetup.com/Starter-Studio/events/22470
+ 9280/</p>
+DTSTART;TZID=America/New_York:20150921T183000
+DTEND;TZID=America/New_York:20150921T193000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Founders Talk: Mike Mason\, CEO/Founder at Zentila
+URL:http://orlandotech.org/event/starter-studio-founders-talk-16/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_rnxsjlytmbcc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, September 21 at 7:00 PM</p>\n
+ <p>Come hear a local sucessfull entrepreneur tell their story and share wh
+ at they have learned throughout the startup process.</p>\n<p>Details: http
+ ://www.meetup.com/Starter-Studio/events/224709280/</p>
+DTSTART;TZID=America/New_York:20150921T190000
+DTEND;TZID=America/New_York:20150921T200000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Starter Studio Founders Talk
+URL:http://orlandotech.org/event/starter-studio-founders-talk-4/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225290325@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nTuesday\, September 22 at 12:00 PM</p>
+ \n<p>P.J. Leimgruber  COO & Co-Founder at NeoReach Inc.  Overview: We will
+  be discussing different types of content marketing and DIY strategies aim
+ ed at b…</p>\n<p>Details: http://www.meetup.com/Starter-Studio/events/2252
+ 90325/</p>
+DTSTART;TZID=America/New_York:20150922T120000
+DTEND;TZID=America/New_York:20150922T130000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Brown Bag Lunch: Content Marketing and SEO – P.J. Leimgruber
+URL:http://orlandotech.org/event/brown-bag-lunch-seo-internet-marketing/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225342933@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nTuesday\, September 22 at 6:30 PM</p>\n
+ <p>Agile is all about inspecting and adapting. How do you do that in prepa
+ ring or giving a presentation? What if you have never presented? (Yikes!) 
+ In th…</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/2253429
+ 33/</p>
+DTSTART;TZID=America/New_York:20150922T183000
+DTEND;TZID=America/New_York:20150922T200000
+GEO:+28.54;-81.37
+LOCATION:Canvs (101 S. Garland Ave\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:How to be an Agile Communicator
+URL:http://orlandotech.org/event/how-to-be-an-agile-communicator/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225370885@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>WordPress Orlando<br />\nTuesday\, September 22 at 6:30 PM</
+ p>\n<p>Talk 1: Lisa Melegari – Repurposing Your WordPress Blog Content for
+  eBook Fame! If your WordPress blog’s content isn’t doing more than one th
+ ing for y…</p>\n<p>Details: http://www.meetup.com/WordPress-Orlando/events
+ /225370885/</p>
+DTSTART;TZID=America/New_York:20150922T183000
+DTEND;TZID=America/New_York:20150922T203000
+GEO:+28.54;-81.37
+LOCATION:Envy Labs (618 E South St #620\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:How to Get the Most Mileage Out of Your WordPress Blog Content
+URL:http://orlandotech.org/event/how-to-get-the-most-mileage-out-of-your-wo
+ rdpress-blog-content/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical\,wordpress
+END:VEVENT
+BEGIN:VEVENT
+UID:event_224856062@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>University Ruby<br />\nTuesday\, September 22 at 7:00 PM</p>
+ \n<p>Happy 1 year to University Ruby!  We will have some awesome tasty tre
+ at (cake? :)) something fun and silly  Along with buying 2 rounds of beer 
+ at WoB …</p>\n<p>Details: http://www.meetup.com/University-Ruby/events/224
+ 856062/</p>
+DTSTART;TZID=America/New_York:20150922T190000
+DTEND;TZID=America/New_York:20150922T220000
+GEO:+28.57;-81.25
+LOCATION:Cloudspace (11551 University Blvd # 2\, Orlando\, FL\, USA)
+SEQUENCE:0
+SUMMARY:1 year anniversary Ruby
+URL:http://orlandotech.org/event/1-year-anniversary-ruby/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Javascript\,ruby\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225064867@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Central Florida Android Developers Group<br />\nWednesday\, 
+ September 23 at 6:30 PM</p>\n<p>This month we’re hosting a combined Androi
+ d and iOS meetup. We have a guest speaker from EA coming to talk to the gr
+ oup\, Joe Alread\, head of Live Serv…</p>\n<p>Details: http://www.meetup.c
+ om/Central-Florida-Android-Developers-Group/events/225064867/</p>
+DTSTART;TZID=America/New_York:20150923T183000
+DTEND;TZID=America/New_York:20150923T203000
+GEO:+28.54;-81.37
+LOCATION:Echo at Canvs (101 S. Garland Ave. Suite 108\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:September Combined Android/iOS Meetup: Engaging the Mobile Lifestyl
+ e
+URL:http://orlandotech.org/event/september-combined-androidios-meetup-engag
+ ing-the-mobile-lifestyle/
+X-TAGS;LANGUAGE=en-US:android\,business\,creative\,IoT\,Javascript\,mobile 
+ development\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225065089@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando iOS Developer Group<br />\nWednesday\, September 23 
+ at 6:30 PM</p>\n<p>This month we’re hosting a combined Android and iOS mee
+ tup. We have a guest speaker from EA coming to talk to the group\, Joe Alr
+ ead\, head of Live Serv…</p>\n<p>Details: http://www.meetup.com/Orlando-iO
+ S-Developer-Group/events/225065089/</p>
+DTSTART;TZID=America/New_York:20150923T183000
+DTEND;TZID=America/New_York:20150923T213000
+GEO:+28.54;-81.37
+LOCATION:Echo at Canvs (101 Garland Ave. Suite 108\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:September Meetup
+URL:http://orlandotech.org/event/september-meetup/
+X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,IoT\,Javascript\,mobile deve
+ lopment\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_224448556@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>EdTech Orlando<br />\nWednesday\, September 23 at 7:00 PM</p
+ >\n<p>Hello Orlando EdTech Enthusiast! We’re looking forward to an amazing
+  night of demos and discussion! We hope you’ll join us. If you’d like to d
+ emo your…</p>\n<p>Details: http://www.meetup.com/EdTech-Orlando/events/224
+ 448556/</p>
+DTSTART;TZID=America/New_York:20150923T190000
+DTEND;TZID=America/New_York:20150923T210000
+GEO:+28.54;-81.37
+LOCATION:Envy Labs (618 E. South St. Suite 620\, Orlando\, FL 32801)
+SEQUENCE:0
+SUMMARY:Tech Tools for Teachers: EdTech Orlando September
+URL:http://orlandotech.org/event/tech-tools-for-teachers-edtech-orlando-sep
+ tember/
+X-TAGS;LANGUAGE=en-US:business\,creative\,edtech\,IoT\,Javascript\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_ltvlflytmbgc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nThursday\, September 24 at 7:45 AM</p>
+ \n<p>We are bringing Lean Coffee back to downtown Orlando with sessions at
+  the Canvs co-working space on the last Thursday of each month!  Keep in m
+ ind tha…</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/22417
+ 3536/</p>
+DTSTART;TZID=America/New_York:20150924T074500
+DTEND;TZID=America/New_York:20150924T084500
+GEO:+28.54;-81.37
+LOCATION:Canvs (101 S. Garland Ave\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (Downtown/@Canvs)
+URL:http://orlandotech.org/event/lean-coffee-orlando-downtowncanvs-2/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225444994@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nThursday\, September 24 at 12:00 PM</p
+ >\n<p>Mark Mohler and Reed Clary from Corridor Legal Partners\, LLP will g
+ ive you a primer on the basic investment types being used to fund start up
+ s. If you…</p>\n<p>Details: http://www.meetup.com/Starter-Studio/events/22
+ 5444994/</p>
+DTSTART;TZID=America/New_York:20150924T120000
+DTEND;TZID=America/New_York:20150924T130000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Starter Studio Brown Bag –  Investment types and terms
+URL:http://orlandotech.org/event/starter-studio-brown-bag-investment-types-
+ and-terms/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_222856203@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, September
+  24 at 7:00 PM</p>\n<p>Join us for one of our regular Nerd Dinners. These 
+ are events are simply social and have no planned agenda. We typically meet
+ \, grab some food and enjo…</p>\n<p>Details: http://www.meetup.com/ONETUG/
+ events/222856203/</p>
+DTSTART;TZID=America/New_York:20150924T190000
+DTEND;TZID=America/New_York:20150924T210000
+GEO:+28.54;-81.37
+LOCATION:Frank and Steins Eatery and Pub (150 S Magnolia Ave\, Orlando\, FL
+ \, USA)
+SEQUENCE:0
+SUMMARY:ONETUG Nerd Dinner
+URL:http://orlandotech.org/event/onetug-nerd-dinner-2/
+X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_222568353@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TechHire<br />\nFriday\, September 25 at 5:00 PM</p>\n<p>Sta
+ tewide events with business\, academic and community tech demos and celebr
+ ations taking place around Florida. #FLTW #FTW</p>\n<p>Details: http://www
+ .meetup.com/TechHire/events/222568353/</p>
+DTSTART;TZID=America/New_York:20150925T170000
+DTEND;TZID=America/New_York:20151001T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Florida Tech Week
+URL:http://orlandotech.org/event/florida-tech-week/
+X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,networking\,tech
+ nical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_czhgklytmblc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, September 28 at 6:30 PM</p>\n
+ <p>Come hear a local sucessfull entrepreneur tell their story and share wh
+ at they have learned throughout the startup process.</p>\n<p>Details: http
+ ://www.meetup.com/Starter-Studio/events/224783025/</p>
+DTSTART;TZID=America/New_York:20150928T183000
+DTEND;TZID=America/New_York:20150928T193000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Starter Studio Founders Talk – Josh Brown
+URL:http://orlandotech.org/event/starter-studio-founders-talk-15/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_rnxsjlytmblc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, September 28 at 7:00 PM</p>\n
+ <p>Come hear a local sucessfull entrepreneur tell their story and share wh
+ at they have learned throughout the startup process.</p>\n<p>Details: http
+ ://www.meetup.com/Starter-Studio/events/224783025/</p>
+DTSTART;TZID=America/New_York:20150928T190000
+DTEND;TZID=America/New_York:20150928T200000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Starter Studio Founders Talk
+URL:http://orlandotech.org/event/starter-studio-founders-talk-3/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkytmbmc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, September 29 at 9:
+ 00 AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneur
+ s\, ideas\, and conversation. We believe that when entrepreneurs\, startup
+ s\, creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Ope
+ n-Coffee-Club/events/224646198/</p>
+DTSTART;TZID=America/New_York:20150929T090000
+DTEND;TZID=America/New_York:20150929T120000
+GEO:+28.54;-81.37
+LOCATION:Catalyst (1 S. Orange Ave.\, Fifth Floor\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-11/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225029048@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nTuesday\, September 29 at 12:00 PM</p>
+ \n<p>Need help generating building your mailing list? And then knowing wha
+ t to do with it?  In his talk\, Mark Krupinski discusses the different way
+ s you ca…</p>\n<p>Details: http://www.meetup.com/Starter-Studio/events/225
+ 029048/</p>
+DTSTART;TZID=America/New_York:20150929T120000
+DTEND;TZID=America/New_York:20150929T130000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Brown Bag Lunch: Building a mailing list and generating buzz
+URL:http://orlandotech.org/event/brown-bag-lunch-the-ins-outs-of-digital-ad
+ vertising/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_jvvdjlytnbcb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nThursday\, October 1 at 6:00 PM</p>\n<p
+ >Come join us at BrassTap. Bring a friend\, sip a beverage and chat about 
+ agile. No real agenda – just telling stories\, sharing tips\, asking quest
+ ions\, …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/22454
+ 4171/</p>
+DTSTART;TZID=America/New_York:20151001T180000
+DTEND;TZID=America/New_York:20151001T210000
+GEO:+28.54;-81.37
+LOCATION:BrassTap (1632 N Mills Ave\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Burndown with Beverage
+URL:http://orlandotech.org/event/burndown-with-beverage-5/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225370094@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Design with a Purpose<br />\nThursday\, October 1 at 6:45 PM
+ </p>\n<p>Jaime Bunker\, VP of Marketing at Darden Restaurants\, will discu
+ ss working with cross-functional teams and managing the creative process. 
+  Learn when t…</p>\n<p>Details: http://www.meetup.com/Design-with-a-Purpos
+ e/events/225370094/</p>
+DTSTART;TZID=America/New_York:20151001T184500
+DTEND;TZID=America/New_York:20151001T214500
+GEO:+28.53;-81.41
+LOCATION:Purple Rock Scissors (189 S Orange Ave Ste 2020\, Orlando\, FL\, U
+ SA)
+SEQUENCE:0
+SUMMARY:Working with Cross-Functional Teams
+URL:http://orlandotech.org/event/working-with-cross-functional-teams/
+X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,networking\,tech
+ nical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223670555@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TechHire<br />\nMonday\, October 5 at 5:00 PM</p>\n<p>10/5  
+ 5-6pm  Before the 6-8 Wearable Tech Meetup  Unique networking and pitch ev
+ ent.  5 employers\, 5 job seekers and 5 startups.  You have 3 minutes t…</
+ p>\n<p>Details: http://www.meetup.com/TechHire/events/223670555/</p>
+DTSTART;TZID=America/New_York:20151005T170000
+DTEND;TZID=America/New_York:20151005T180000
+GEO:+28.54;-81.37
+LOCATION:Uproar PR (189 S. Orange Avenue\, Suite 840\, Orlando\, FL\, USA 3
+ 2801)
+SEQUENCE:0
+SUMMARY:Tech Job Pitch
+URL:http://orlandotech.org/event/tech-job-pitch-2/
+X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,networking\,tech
+ nical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223670518@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Wearable Tech and IoT<br />\nMonday\, October 5 at 6:00 PM</
+ p>\n<p>The Future of Wearable Tech and IoT  We are teaming up with the Orl
+ ando IoT Meetup Group.  Get ready for a cool\, casual\, conversational and
+  interactiv…</p>\n<p>Details: http://www.meetup.com/watchdevs/events/22367
+ 0518/</p>
+DTSTART;TZID=America/New_York:20151005T180000
+DTEND;TZID=America/New_York:20151005T190000
+GEO:+28.54;-81.37
+LOCATION:Uproar PR (189 S. Orange Avenue\, Suite 840 \, Orlando\, FL\, USA 
+ 32801)
+SEQUENCE:0
+SUMMARY:Joint IoT and Wearable Tech Meetup – The Future!
+URL:http://orlandotech.org/event/joint-iot-and-wearable-tech-meetup-the-fut
+ ure/
+X-TAGS;LANGUAGE=en-US:wearable
+END:VEVENT
+BEGIN:VEVENT
+UID:event_czhgklytnbhb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 5 at 6:30 PM</p>\n<p>
+ Come hear a local sucessfull entrepreneur tell their story and share what 
+ they have learned throughout the startup process.</p>\n<p>Details: http://
+ www.meetup.com/Starter-Studio/events/225395529/</p>
+DTSTART;TZID=America/New_York:20151005T183000
+DTEND;TZID=America/New_York:20151005T193000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Starter Studio Founders Talk – Waymon Armstrong
+URL:http://orlandotech.org/event/starter-studio-founders-talk-14/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_rnxsjlytnbhb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 5 at 7:00 PM</p>\n<p>
+ Come hear a local sucessfull entrepreneur tell their story and share what 
+ they have learned throughout the startup process.</p>\n<p>Details: http://
+ www.meetup.com/Starter-Studio/events/rnxsjlytnbhb/</p>
+DTSTART;TZID=America/New_York:20151005T190000
+DTEND;TZID=America/New_York:20151005T200000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Starter Studio Founders Talk
+URL:http://orlandotech.org/event/starter-studio-founders-talk-2/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225290772@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nTuesday\, October 6 at 12:00 PM</p>\n<
+ p>Raising Money – Getting in the mind of an investor</p>\n<p>Details: http
+ ://www.meetup.com/Starter-Studio/events/225290772/</p>
+DTSTART;TZID=America/New_York:20151006T120000
+DTEND;TZID=America/New_York:20151006T130000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Brown Bag Lunch: Raising Money – Getting in the mind of an investor
+URL:http://orlandotech.org/event/brown-bag-lunch-raising-money-getting-in-t
+ he-mind-of-an-investor/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dqkznkytnbjb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, October 6 at 6:30 PM</p>\n
+ <p>We will be hosting a second hack night continuing to build apps that ca
+ n be used for Lady Lake to facilitate pet adoptions and reunite missing pe
+ ts wi…</p>\n<p>Details: http://www.meetup.com/Code-For-Orlando/events/2247
+ 81942/</p>
+DTSTART;TZID=America/New_York:20151006T183000
+DTEND;TZID=America/New_York:20151006T213000
+GEO:+28.55;-81.36
+SEQUENCE:0
+SUMMARY:Code for Orlando – Lady Lake Pet Adoption Hack Night 2
+URL:http://orlandotech.org/event/code-for-orlando-brigade-meetup-2/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
+ \,mobile development\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_djcfghytnbjb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, October 6 at 
+ 8:00 PM</p>\n<p>Every month on the first Tuesday\, FamiLAB welcomes the pu
+ blic to meet our members and enjoy our collaborative space! Please registe
+ r on Eventbrite to …</p>\n<p>Details: http://www.meetup.com/OrlandoPython/
+ events/djcfghytnbjb/</p>
+DTSTART;TZID=America/New_York:20151006T200000
+DTEND;TZID=America/New_York:20151006T213000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Open House at FamiLAB in Longwood
+URL:http://orlandotech.org/event/open-house-at-familab-in-longwood/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223401989@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, October 8
+  at 6:00 PM</p>\n<p>6:00 – 6:15 Welcome & announcements    6:15 – 7:30 Pre
+ sentation  7:30 Prizes and closing  8:45 After-meeting social</p>\n<p>Deta
+ ils: http://www.meetup.com/ONETUG/events/223401989/</p>
+DTSTART;TZID=America/New_York:20151008T180000
+DTEND;TZID=America/New_York:20151008T210000
+GEO:+28.54;-81.37
+LOCATION:Melrose Tech Center\, 2nd floor of the Orlando Library (101 East C
+ entral Boulevard\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Esteban Garcia – TFS 2015
+URL:http://orlandotech.org/event/esteban-garcia-tfs-2015/
+X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qclblkytnbmb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nFriday\, October 9 at 7:30 AM</p>\n<p>L
+ ean Coffee is a great place to ask questions and share your stories of usi
+ ng agile and lean software approaches.  We discuss any topics on Agile and
+  …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/223838582/<
+ /p>
+DTSTART;TZID=America/New_York:20151009T073000
+DTEND;TZID=America/New_York:20151009T083000
+GEO:+28.54;-81.37
+LOCATION:Starbucks (near MCO\; corner of 436 and Lee Vista) (6605 S Semoran
+  Boulevard\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (MCO)
+URL:http://orlandotech.org/event/lean-coffee-orlando-mco-2/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_czhgklytnbqb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 12 at 6:30 PM</p>\n<p
+ >This weeks edition of Founders Talk will feature Carol Craig\, CEO/Founde
+ r of Craig Technologies.    Founded in 1999 by CEO Carol Craig\, Craig Tec
+ hnolo…</p>\n<p>Details: http://www.meetup.com/Starter-Studio/events/225100
+ 732/</p>
+DTSTART;TZID=America/New_York:20151012T183000
+DTEND;TZID=America/New_York:20151012T193000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Founders Talk: Carol Craig\, CEO/Founder of Craig Technologies
+URL:http://orlandotech.org/event/starter-studio-founders-talk-13/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_rnxsjlytnbqb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 12 at 7:00 PM</p>\n<p
+ >Come hear a local sucessfull entrepreneur tell their story and share what
+  they have learned throughout the startup process.</p>\n<p>Details: http:/
+ /www.meetup.com/Starter-Studio/events/rnxsjlytnbqb/</p>
+DTSTART;TZID=America/New_York:20151012T190000
+DTEND;TZID=America/New_York:20151012T200000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Starter Studio Founders Talk
+URL:http://orlandotech.org/event/starter-studio-founders-talk/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkytnbrb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, October 13 at 9:00
+  AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneurs\
+ , ideas\, and conversation. We believe that when entrepreneurs\, startups\
+ , creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Open-
+ Coffee-Club/events/224891334/</p>
+DTSTART;TZID=America/New_York:20151013T090000
+DTEND;TZID=America/New_York:20151013T120000
+GEO:+28.54;-81.37
+LOCATION:Catalyst (1 S. Orange Ave.\, Fifth Floor\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-12/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225290810@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nTuesday\, October 13 at 12:00 PM</p>\n
+ <p>Term Sheet Basics  Taylor C. Pancake  Foley & Lardner LLP</p>\n<p>Detai
+ ls: http://www.meetup.com/Starter-Studio/events/225290810/</p>
+DTSTART;TZID=America/New_York:20151013T120000
+DTEND;TZID=America/New_York:20151013T130000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Brown Bag Lunch: Term sheet basics
+URL:http://orlandotech.org/event/brown-bag-lunch-term-sheet-basics/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225116688@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nTuesday\, October 13 at 12:00 PM</p>\n
+ <p>Learn about Term Sheets with Taylor Pancake\, Attorney at Foley & Lardn
+ er LLP.</p>\n<p>Details: http://www.meetup.com/Starter-Studio/events/22511
+ 6688/</p>
+DTSTART;TZID=America/New_York:20151013T120000
+DTEND;TZID=America/New_York:20151013T130000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Starter Studio Brown Bag: Term Sheet Basics\, Taylor Pancake
+URL:http://orlandotech.org/event/starter-studio-brown-bag-term-sheet-basics
+ -taylor-pancake/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225451248@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Lean Startup Practitioners<br />\nTuesday\, October 13 at 6:
+ 45 PM</p>\n<p>By popular demand\, we will be doing a live workshop to work
+  through two(2) product/business ideas using the Experiment board.    The 
+ group will work t…</p>\n<p>Fee: Price: USD 3.00 per person</p>\n<p>Details
+ : http://www.meetup.com/Lean-Startup-Practitioners/events/225451248/</p>
+DTSTART;TZID=America/New_York:20151013T184500
+DTEND;TZID=America/New_York:20151013T214500
+GEO:+28.54;-81.18
+LOCATION:Catalyst CoWorking space (1 S Orange Ave \, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Lean Startup Live Experiments workshop
+URL:http://orlandotech.org/event/lean-startup-live-experiments-workshop/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
+ \,mobile development\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_fglwclytnbrb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, October
+  13 at 7:00 PM</p>\n<p>We will be meeting the 2nd Tuesday of every month. 
+ Join https://www.facebook.com/groups/etechorlando/ to give thoughts\, ask 
+ questions\, and stir topics…</p>\n<p>Details: http://www.meetup.com/Entert
+ ainment-Tech-Orlando/events/225192830/</p>
+DTSTART;TZID=America/New_York:20151013T190000
+DTEND;TZID=America/New_York:20151013T220000
+GEO:+28.54;-81.37
+LOCATION:Canvs (101 S. Garland Ave\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Monthly Sport & Entertainment Tech Meetup
+URL:http://orlandotech.org/event/monthly-sport-entertainment-tech-meetup/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
+ nical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qnpkvhytnbsb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, October 14 
+ at 7:00 PM</p>\n<p>The Orlando chapter of the BUILD GUILD is a monthly gat
+ hering for web folks that enjoy chatting over drinks. High-fives encourage
+ d. Mustaches optional…</p>\n<p>Details: http://www.meetup.com/OrlandoPytho
+ n/events/224862048/</p>
+DTSTART;TZID=America/New_York:20151014T190000
+DTEND;TZID=America/New_York:20151014T220000
+GEO:+28.54;-81.37
+LOCATION:The Other Bar (18 Wall Street\, Orlando\, FL 32801)
+SEQUENCE:0
+SUMMARY:Build Guild Orlando — Monthly Meeting
+URL:http://orlandotech.org/event/build-guild-orlando-monthly-meeting/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_222019790@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES;LANGUAGE=en-US:Orlando Tech
+CONTACT:
+DESCRIPTION:<p>Orlando Tech<br />\nThursday\, October 15 at 7:00 PM</p>\n<p
+ >Hello Orlando Tech Community!  We’re looking forward to an amazing night 
+ of demos! We hope you’ll join us. If you’d like to demo your product at an
+  up…</p>\n<p>Details: http://www.meetup.com/Orlando-Tech/events/222019790/
+ </p>
+DTSTART;TZID=America/New_York:20151015T190000
+DTEND;TZID=America/New_York:20151015T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:October 2015 Orlando Tech Meetup
+URL:http://orlandotech.org/event/october-2015-orlando-tech-meetup/
+X-TAGS;LANGUAGE=en-US:android\,business\,creative\,Funding\,networking\,tec
+ hnical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dftrdjytnbtb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, October 15 a
+ t 7:00 PM</p>\n<p>At our regular monthly meetings we hold a round-table di
+ scussion or enjoy a presentation by one or two of our members. Occasionall
+ y\, we even hack some…</p>\n<p>Details: http://www.meetup.com/OrlandoPytho
+ n/events/dftrdjytnbtb/</p>
+DTSTART;TZID=America/New_York:20151015T190000
+DTEND;TZID=America/New_York:20151015T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Orlando Python Monthly Meetup
+URL:http://orlandotech.org/event/orlando-python-monthly-meetup/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_hfpqklytnbvb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nFriday\, October 16 at 7:30 AM</p>\n<p>
+ We are starting a NEW Lean Coffee group in the Baldwin Park & Winter Park 
+ area and would love to see you there! It will be hosted at Stardust Coffee
+  e…</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/hfpqklytnb
+ vb/</p>
+DTSTART;TZID=America/New_York:20151016T073000
+DTEND;TZID=America/New_York:20151016T083000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (Baldwin Park/Winter Park)
+URL:http://orlandotech.org/event/lean-coffee-orlando-baldwin-parkwinter-par
+ k-3/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223443879@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES;LANGUAGE=en-US:Orlando Tech
+CONTACT:
+DESCRIPTION:<p>O-Tech Pub Crawl<br />\nFriday\, October 16 at 5:00 PM</p>\n
+ <p>We are all about creating a great environment for tech companies\, star
+ tups and entrepreneurs to meet new people\, make great friends and build c
+ ool shi…</p>\n<p>Details: http://www.meetup.com/O-Tech-Pub-Crawl/events/22
+ 3443879/</p>
+DTSTART;TZID=America/New_York:20151016T170000
+DTEND;TZID=America/New_York:20151016T200000
+GEO:+28.54;-81.37
+LOCATION:Wall Street Cantina (19 N Orange Ave\, Orlando\, FL 32801)
+SEQUENCE:0
+SUMMARY:O-tech Pub Crawl #10
+URL:http://orlandotech.org/event/o-tech-pub-crawl-10/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223425569@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES;LANGUAGE=en-US:The Iron Yard
+CONTACT:
+DESCRIPTION:<p>The Iron Yard – Orlando<br />\nMonday\, October 19 at 6:30 P
+ M</p>\n<p>This Front End Engineering crash course assumes previous experie
+ nce working with CSS and HTML but no prior programming experience. We’ll e
+ xplore the w…</p>\n<p>Details: http://www.meetup.com/The-Iron-Yard-Orlando
+ /events/223425569/</p>
+DTSTART;TZID=America/New_York:20151019T183000
+DTEND;TZID=America/New_York:20151019T203000
+GEO:+28.54;-81.37
+LOCATION:The Iron Yard (101 S. Garland Ave\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Free Crash Course – From CSS to SASS
+URL:http://orlandotech.org/event/free-crash-course-front-end-2/
+X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,ruby\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_czhgklytnbzb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 19 at 6:30 PM</p>\n<p
+ >Come hear a local sucessfull entrepreneur tell their story and share what
+  they have learned throughout the startup process.</p>\n<p>Details: http:/
+ /www.meetup.com/Starter-Studio/events/225395544/</p>
+DTSTART;TZID=America/New_York:20151019T183000
+DTEND;TZID=America/New_York:20151019T193000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Starter Studio Founders Talk – Kirstie Chadwick
+URL:http://orlandotech.org/event/starter-studio-founders-talk-12/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_rnxsjlytnbzb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 19 at 7:00 PM</p>\n<p
+ >Come hear a local sucessfull entrepreneur tell their story and share what
+  they have learned throughout the startup process.</p>\n<p>Details: http:/
+ /www.meetup.com/Starter-Studio/events/rnxsjlytnbzb/</p>
+DTSTART;TZID=America/New_York:20151019T190000
+DTEND;TZID=America/New_York:20151019T200000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Starter Studio Founders Talk
+URL:http://orlandotech.org/event/starter-studio-founders-talk-11/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225290829@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Starter Studio<br />\nTuesday\, October 20 at 12:00 PM</p>\n
+ <p>Valuation and Dilution</p>\n<p>Details: http://www.meetup.com/Starter-S
+ tudio/events/225290829/</p>
+DTSTART;TZID=America/New_York:20151020T120000
+DTEND;TZID=America/New_York:20151020T130000
+GEO:+28.54;-81.37
+LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
+ hurch Street Exchange)\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Brown Bag Lunch: Valuation and Dilution
+URL:http://orlandotech.org/event/brown-bag-lunch-valuation-and-dilution/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225046180@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>University Mobile<br />\nTuesday\, October 20 at 7:00 PM</p>
+ \n<p>Looking for some mobile speakers.. Maybe 1 iOS and 1 Android</p>\n<p>
+ Details: http://www.meetup.com/University-Mobile/events/225046180/</p>
+DTSTART;TZID=America/New_York:20151020T190000
+DTEND;TZID=America/New_York:20151020T220000
+GEO:+28.57;-81.25
+LOCATION:Cloudspace (11551 University Blvd # 2\, Orlando\, FL\, USA)
+SEQUENCE:0
+SUMMARY:Big Mobile Theory
+URL:http://orlandotech.org/event/big-mobile-theory/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
+ \,mobile development\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223401995@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, October 2
+ 2 at 7:00 PM</p>\n<p>Join us for one of our regular Nerd Dinners. These ar
+ e events are simply social and have no planned agenda. We typically meet\,
+  grab some food and enjo…</p>\n<p>Details: http://www.meetup.com/ONETUG/ev
+ ents/223401995/</p>
+DTSTART;TZID=America/New_York:20151022T190000
+DTEND;TZID=America/New_York:20151022T210000
+GEO:+28.54;-81.37
+LOCATION:Frank and Steins Eatery and Pub (150 S Magnolia Ave\, Orlando\, FL
+ \, USA)
+SEQUENCE:0
+SUMMARY:ONETUG Nerd Dinner
+URL:http://orlandotech.org/event/onetug-nerd-dinner-5/
+X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkytnbkc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, October 27 at 9:00
+  AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneurs\
+ , ideas\, and conversation. We believe that when entrepreneurs\, startups\
+ , creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Open-
+ Coffee-Club/events/qccgzkytnbkc/</p>
+DTSTART;TZID=America/New_York:20151027T090000
+DTEND;TZID=America/New_York:20151027T120000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-13/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225045766@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>University Ruby<br />\nTuesday\, October 27 at 7:00 PM</p>\n
+ <p>Looking for some awesome speakers!</p>\n<p>Details: http://www.meetup.c
+ om/University-Ruby/events/225045766/</p>
+DTSTART;TZID=America/New_York:20151027T190000
+DTEND;TZID=America/New_York:20151027T220000
+GEO:+28.57;-81.25
+LOCATION:Cloudspace (11551 University Blvd # 2\, Orlando\, FL\, USA)
+SEQUENCE:0
+SUMMARY:Bad Ruby
+URL:http://orlandotech.org/event/bad-ruby/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Javascript\,ruby\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225263271@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>EdTech Orlando<br />\nWednesday\, October 28 at 7:00 PM</p>
+ \n<p>Hello Orlando EdTech Enthusiast! We’re looking forward to an amazing 
+ night of demos and discussion! We hope you’ll join us. If you’d like to de
+ mo your…</p>\n<p>Details: http://www.meetup.com/EdTech-Orlando/events/2252
+ 63271/</p>
+DTSTART;TZID=America/New_York:20151028T190000
+DTEND;TZID=America/New_York:20151028T210000
+GEO:+28.54;-81.37
+LOCATION:Envy Labs (618 E. South St. Suite 620\, Orlando\, FL 32801)
+SEQUENCE:0
+SUMMARY:STEM: EdTech Orlando October
+URL:http://orlandotech.org/event/stem-edtech-orlando-october/
+X-TAGS;LANGUAGE=en-US:business\,creative\,edtech\,IoT\,Javascript\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_ltvlflytnbmc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nThursday\, October 29 at 7:45 AM</p>\n<
+ p>We are bringing Lean Coffee back to downtown Orlando with sessions at th
+ e Canvs co-working space on the last Thursday of each month!  Keep in mind
+  tha…</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/ltvlflyt
+ nbmc/</p>
+DTSTART;TZID=America/New_York:20151029T074500
+DTEND;TZID=America/New_York:20151029T084500
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (Downtown/@Canvs)
+URL:http://orlandotech.org/event/lean-coffee-orlando-downtowncanvs/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dqkznkytpbfb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, November 3 at 8:00 PM</p>
+ \n<p>Details: http://www.meetup.com/Code-For-Orlando/events/220604666/</p>
+DTSTART;TZID=America/New_York:20151103T200000
+DTEND;TZID=America/New_York:20151103T230000
+GEO:+28.55;-81.36
+SEQUENCE:0
+SUMMARY:Code For Orlando Brigade Meetup
+URL:http://orlandotech.org/event/code-for-orlando-brigade-meetup/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
+ \,mobile development\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_djcfghytpbfb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, November 3 at
+  8:00 PM</p>\n<p>Every month on the first Tuesday\, FamiLAB welcomes the p
+ ublic to meet our members and enjoy our collaborative space! Please regist
+ er on Eventbrite to …</p>\n<p>Details: http://www.meetup.com/OrlandoPython
+ /events/djcfghytpbfb/</p>
+DTSTART;TZID=America/New_York:20151103T200000
+DTEND;TZID=America/New_York:20151103T213000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Open House at FamiLAB in Longwood
+URL:http://orlandotech.org/event/open-house-at-familab-in-longwood-6/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_jvvdjlytpbhb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nThursday\, November 5 at 6:00 PM</p>\n<
+ p>Come join us at BrassTap. Bring a friend\, sip a beverage and chat about
+  agile. No real agenda – just telling stories\, sharing tips\, asking ques
+ tions\, …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/jvvd
+ jlytpbhb/</p>
+DTSTART;TZID=America/New_York:20151105T180000
+DTEND;TZID=America/New_York:20151105T210000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Burndown with Beverage
+URL:http://orlandotech.org/event/burndown-with-beverage-4/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225345568@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES;LANGUAGE=en-US:Orlando Tech
+CONTACT:
+DESCRIPTION:<p>Orlando Tech<br />\nFriday\, November 6 at 6:30 PM</p>\n<p>R
+ SVP: bit.ly/weekendlaunch  Weekend Launch is a 3 day sprint taking you fro
+ m idea to business over the course of a weekend. You’ll learn what it take
+ s…</p>\n<p>Fee: Early-Bird Price: USD 50.00 per person</p>\n<p>Details: ht
+ tp://www.meetup.com/Orlando-Tech/events/225345568/</p>
+DTSTART;TZID=America/New_York:20151106T183000
+DTEND;TZID=America/New_York:20151106T213000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Weekend Launch
+URL:http://orlandotech.org/event/weekend-launch/
+X-TAGS;LANGUAGE=en-US:android\,business\,creative\,Funding\,networking\,tec
+ hnical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkytpbnb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, November 10 at 9:0
+ 0 AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneurs
+ \, ideas\, and conversation. We believe that when entrepreneurs\, startups
+ \, creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Open
+ -Coffee-Club/events/qccgzkytpbnb/</p>
+DTSTART;TZID=America/New_York:20151110T090000
+DTEND;TZID=America/New_York:20151110T120000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-14/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_fglwclytpbnb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, Novembe
+ r 10 at 7:00 PM</p>\n<p>We will be meeting the 2nd Tuesday of every month.
+  Join https://www.facebook.com/groups/etechorlando/ to give thoughts\, ask
+  questions\, and stir topics…</p>\n<p>Details: http://www.meetup.com/Enter
+ tainment-Tech-Orlando/events/fglwclytpbnb/</p>
+DTSTART;TZID=America/New_York:20151110T190000
+DTEND;TZID=America/New_York:20151110T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Monthly Sport & Entertainment Tech Meetup
+URL:http://orlandotech.org/event/monthly-sport-entertainment-tech-meetup-7/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
+ nical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qnpkvhytpbpb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, November 11
+  at 7:00 PM</p>\n<p>The Orlando chapter of the BUILD GUILD is a monthly ga
+ thering for web folks that enjoy chatting over drinks. High-fives encourag
+ ed. Mustaches optional…</p>\n<p>Details: http://www.meetup.com/OrlandoPyth
+ on/events/qnpkvhytpbpb/</p>
+DTSTART;TZID=America/New_York:20151111T190000
+DTEND;TZID=America/New_York:20151111T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Build Guild Orlando — Monthly Meeting
+URL:http://orlandotech.org/event/build-guild-orlando-monthly-meeting-7/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225385491@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, November 
+ 12 at 6:00 PM</p>\n<p>6:00 – 6:15 Welcome & announcements   6:15 – 7:30 Pr
+ esentation 7:30 Prizes and closing 8:45 After-meeting social Edge is Micro
+ soft’s new browser.  And…</p>\n<p>Details: http://www.meetup.com/ONETUG/ev
+ ents/225385491/</p>
+DTSTART;TZID=America/New_York:20151112T180000
+DTEND;TZID=America/New_York:20151112T210000
+GEO:+28.54;-81.37
+LOCATION:Melrose Tech Center\, 2nd floor of the Orlando Library (101 East C
+ entral Boulevard\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Joe Healy – Edge Browser
+URL:http://orlandotech.org/event/joe-healy-edge-browser/
+X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qclblkytpbrb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nFriday\, November 13 at 7:30 AM</p>\n<p
+ >Lean Coffee is a great place to ask questions and share your stories of u
+ sing agile and lean software approaches.  We discuss any topics on Agile a
+ nd …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/220801398
+ /</p>
+DTSTART;TZID=America/New_York:20151113T073000
+DTEND;TZID=America/New_York:20151113T083000
+GEO:+28.54;-81.37
+LOCATION:Starbucks (near MCO\; corner of 436 and Lee Vista) (6605 S Semoran
+  Boulevard\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (MCO)
+URL:http://orlandotech.org/event/lean-coffee-orlando-mco/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223283564@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES;LANGUAGE=en-US:The Iron Yard
+CONTACT:
+DESCRIPTION:<p>The Iron Yard – Orlando<br />\nMonday\, November 16 at 6:30 
+ PM</p>\n<p>Interested in being a developer? Trying to figure out where to 
+ start? Ruby is a great intro-language\, and The Iron Yard is presenting a 
+ crash course t…</p>\n<p>Details: http://www.meetup.com/The-Iron-Yard-Orlan
+ do/events/223283564/</p>
+DTSTART;TZID=America/New_York:20151116T183000
+DTEND;TZID=America/New_York:20151116T203000
+GEO:+28.54;-81.37
+LOCATION:The Iron Yard (101 S. Garland Ave\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Free Crash Course – Ruby on Rails for Non-Developers
+URL:http://orlandotech.org/event/free-crash-course-ruby-on-rails-for-non-de
+ velopers/
+X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,ruby\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_222019800@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES;LANGUAGE=en-US:Orlando Tech
+CONTACT:
+DESCRIPTION:<p>Orlando Tech<br />\nThursday\, November 19 at 7:00 PM</p>\n<
+ p>Hello Orlando Tech Community! We’re looking forward to an amazing night 
+ of demos! We hope you’ll join us. If you’d like to demo your product at an
+  upc…</p>\n<p>Details: http://www.meetup.com/Orlando-Tech/events/222019800
+ /</p>
+DTSTART;TZID=America/New_York:20151119T190000
+DTEND;TZID=America/New_York:20151119T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:November 2015 Orlando Tech Meetup
+URL:http://orlandotech.org/event/november-2015-orlando-tech-meetup/
+X-TAGS;LANGUAGE=en-US:android\,business\,creative\,Funding\,networking\,tec
+ hnical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dftrdjytpbzb@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, November 19 
+ at 7:00 PM</p>\n<p>At our regular monthly meetings we hold a round-table d
+ iscussion or enjoy a presentation by one or two of our members. Occasional
+ ly\, we even hack some…</p>\n<p>Details: http://www.meetup.com/OrlandoPyth
+ on/events/dftrdjytpbzb/</p>
+DTSTART;TZID=America/New_York:20151119T190000
+DTEND;TZID=America/New_York:20151119T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Orlando Python Monthly Meetup
+URL:http://orlandotech.org/event/orlando-python-monthly-meetup-7/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_hfpqklytpbbc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nFriday\, November 20 at 7:30 AM</p>\n<p
+ >We are starting a NEW Lean Coffee group in the Baldwin Park & Winter Park
+  area and would love to see you there! It will be hosted at Stardust Coffe
+ e e…</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/hfpqklytp
+ bbc/</p>
+DTSTART;TZID=America/New_York:20151120T073000
+DTEND;TZID=America/New_York:20151120T083000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (Baldwin Park/Winter Park)
+URL:http://orlandotech.org/event/lean-coffee-orlando-baldwin-parkwinter-par
+ k-2/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223443884@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES;LANGUAGE=en-US:Orlando Tech
+CONTACT:
+DESCRIPTION:<p>O-Tech Pub Crawl<br />\nFriday\, November 20 at 5:00 PM</p>
+ \n<p>We are all about creating a great environment for tech companies\, st
+ artups and entrepreneurs to meet new people\, make great friends and build
+  cool shi…</p>\n<p>Details: http://www.meetup.com/O-Tech-Pub-Crawl/events/
+ 223443884/</p>
+DTSTART;TZID=America/New_York:20151120T170000
+DTEND;TZID=America/New_York:20151120T200000
+GEO:+28.54;-81.37
+LOCATION:Ember (42 W Central Blvd\, Orlando\, FL\, USA)
+SEQUENCE:0
+SUMMARY:O-tech Pub Crawl #11
+URL:http://orlandotech.org/event/o-tech-pub-crawl-11/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkytpbgc@meetup.com
+DTSTAMP:20150920T002319Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, November 24 at 9:0
+ 0 AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneurs
+ \, ideas\, and conversation. We believe that when entrepreneurs\, startups
+ \, creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Open
+ -Coffee-Club/events/qccgzkytpbgc/</p>
+DTSTART;TZID=America/New_York:20151124T090000
+DTEND;TZID=America/New_York:20151124T120000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-15/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dqkznkytqbcb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, December 1 at 6:30 PM</p>
+ \n<p>Details: http://www.meetup.com/Code-For-Orlando/events/dqkznkytqbcb/<
+ /p>
+DTSTART;TZID=America/New_York:20151201T183000
+DTEND;TZID=America/New_York:20151201T213000
+GEO:+28.55;-81.36
+SEQUENCE:0
+SUMMARY:Code For Orlando Brigade Meetup
+URL:http://orlandotech.org/event/code-for-orlando-brigade-meetup-7/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
+ \,mobile development\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_djcfghytqbcb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, December 1 at
+  8:00 PM</p>\n<p>Every month on the first Tuesday\, FamiLAB welcomes the p
+ ublic to meet our members and enjoy our collaborative space! Please regist
+ er on Eventbrite to …</p>\n<p>Details: http://www.meetup.com/OrlandoPython
+ /events/djcfghytqbcb/</p>
+DTSTART;TZID=America/New_York:20151201T200000
+DTEND;TZID=America/New_York:20151201T213000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Open House at FamiLAB in Longwood
+URL:http://orlandotech.org/event/open-house-at-familab-in-longwood-7/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_jvvdjlytqbfb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nThursday\, December 3 at 6:00 PM</p>\n<
+ p>Come join us at BrassTap. Bring a friend\, sip a beverage and chat about
+  agile. No real agenda – just telling stories\, sharing tips\, asking ques
+ tions\, …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/jvvd
+ jlytqbfb/</p>
+DTSTART;TZID=America/New_York:20151203T180000
+DTEND;TZID=America/New_York:20151203T210000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Burndown with Beverage
+URL:http://orlandotech.org/event/burndown-with-beverage-3/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223283534@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES;LANGUAGE=en-US:The Iron Yard
+CONTACT:
+DESCRIPTION:<p>The Iron Yard – Orlando<br />\nMonday\, December 7 at 6:30 P
+ M</p>\n<p>Heard about app development but don’t have experience with writi
+ ng code of any kind? This is the class for you! The iOS Crash Course for n
+ on-developer…</p>\n<p>Details: http://www.meetup.com/The-Iron-Yard-Orlando
+ /events/223283534/</p>
+DTSTART;TZID=America/New_York:20151207T183000
+DTEND;TZID=America/New_York:20151207T203000
+GEO:+28.54;-81.37
+LOCATION:The Iron Yard (101 S. Garland Ave\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Free Crash Course – Intro to Swift
+URL:http://orlandotech.org/event/free-crash-course-ios-for-non-developers/
+X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,ruby\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkytqblb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, December 8 at 9:00
+  AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneurs\
+ , ideas\, and conversation. We believe that when entrepreneurs\, startups\
+ , creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Open-
+ Coffee-Club/events/qccgzkytqblb/</p>
+DTSTART;TZID=America/New_York:20151208T090000
+DTEND;TZID=America/New_York:20151208T120000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-16/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_fglwclytqblb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, Decembe
+ r 8 at 7:00 PM</p>\n<p>We will be meeting the 2nd Tuesday of every month. 
+ Join https://www.facebook.com/groups/etechorlando/ to give thoughts\, ask 
+ questions\, and stir topics…</p>\n<p>Details: http://www.meetup.com/Entert
+ ainment-Tech-Orlando/events/fglwclytqblb/</p>
+DTSTART;TZID=America/New_York:20151208T190000
+DTEND;TZID=America/New_York:20151208T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Monthly Sport & Entertainment Tech Meetup
+URL:http://orlandotech.org/event/monthly-sport-entertainment-tech-meetup-8/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
+ nical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qnpkvhytqbmb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, December 9 
+ at 7:00 PM</p>\n<p>The Orlando chapter of the BUILD GUILD is a monthly gat
+ hering for web folks that enjoy chatting over drinks. High-fives encourage
+ d. Mustaches optional…</p>\n<p>Details: http://www.meetup.com/OrlandoPytho
+ n/events/qnpkvhytqbmb/</p>
+DTSTART;TZID=America/New_York:20151209T190000
+DTEND;TZID=America/New_York:20151209T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Build Guild Orlando — Monthly Meeting
+URL:http://orlandotech.org/event/build-guild-orlando-monthly-meeting-8/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223402013@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, December 
+ 10 at 6:00 PM</p>\n<p>6:00 – 6:15 Welcome & announcements    6:15 – 7:30 P
+ resentation  7:30 Prizes and closing  8:45 After-meeting social  Topic: Fi
+ ddler and your Website F…</p>\n<p>Details: http://www.meetup.com/ONETUG/ev
+ ents/223402013/</p>
+DTSTART;TZID=America/New_York:20151210T180000
+DTEND;TZID=America/New_York:20151210T210000
+GEO:+28.54;-81.37
+LOCATION:Melrose Tech Center\, 2nd floor of the Orlando Library (101 East C
+ entral Boulevard\, Orlando\, FL)
+SEQUENCE:0
+SUMMARY:Robert Boedigheimer – Fiddler and your Website
+URL:http://orlandotech.org/event/robert-boedigheimer-fiddler-and-your-websi
+ te/
+X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qclblkytqbpb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nFriday\, December 11 at 7:30 AM</p>\n<p
+ >Lean Coffee is a great place to ask questions and share your stories of u
+ sing agile and lean software approaches.  We discuss any topics on Agile a
+ nd …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/qclblkytq
+ bpb/</p>
+DTSTART;TZID=America/New_York:20151211T073000
+DTEND;TZID=America/New_York:20151211T083000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (MCO)
+URL:http://orlandotech.org/event/lean-coffee-orlando-mco-8/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_222019814@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES;LANGUAGE=en-US:Orlando Tech
+CONTACT:
+DESCRIPTION:<p>Orlando Tech<br />\nThursday\, December 17 at 7:00 PM</p>\n<
+ p>Hello Orlando Tech Community! We’re looking forward to an amazing night 
+ of demos! We hope you’ll join us. If you’d like to demo your product at an
+  upc…</p>\n<p>Details: http://www.meetup.com/Orlando-Tech/events/222019814
+ /</p>
+DTSTART;TZID=America/New_York:20151217T190000
+DTEND;TZID=America/New_York:20151217T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:December 2015 Orlando Tech Meetup
+URL:http://orlandotech.org/event/december-2015-orlando-tech-meetup/
+X-TAGS;LANGUAGE=en-US:android\,business\,creative\,Funding\,networking\,tec
+ hnical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dftrdjytqbwb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, December 17 
+ at 7:00 PM</p>\n<p>At our regular monthly meetings we hold a round-table d
+ iscussion or enjoy a presentation by one or two of our members. Occasional
+ ly\, we even hack some…</p>\n<p>Details: http://www.meetup.com/OrlandoPyth
+ on/events/dftrdjytqbwb/</p>
+DTSTART;TZID=America/New_York:20151217T190000
+DTEND;TZID=America/New_York:20151217T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Orlando Python Monthly Meetup
+URL:http://orlandotech.org/event/orlando-python-monthly-meetup-8/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_hfpqklytqbxb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nFriday\, December 18 at 7:30 AM</p>\n<p
+ >We are starting a NEW Lean Coffee group in the Baldwin Park & Winter Park
+  area and would love to see you there! It will be hosted at Stardust Coffe
+ e e…</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/hfpqklytq
+ bxb/</p>
+DTSTART;TZID=America/New_York:20151218T073000
+DTEND;TZID=America/New_York:20151218T083000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (Baldwin Park/Winter Park)
+URL:http://orlandotech.org/event/lean-coffee-orlando-baldwin-parkwinter-par
+ k/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223443890@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES;LANGUAGE=en-US:Orlando Tech
+CONTACT:
+DESCRIPTION:<p>O-Tech Pub Crawl<br />\nFriday\, December 18 at 5:00 PM</p>
+ \n<p>We are all about creating a great environment for tech companies\, st
+ artups and entrepreneurs to meet new people\, make great friends and build
+  cool shi…</p>\n<p>Details: http://www.meetup.com/O-Tech-Pub-Crawl/events/
+ 223443890/</p>
+DTSTART;TZID=America/New_York:20151218T170000
+DTEND;TZID=America/New_York:20151218T200000
+GEO:+28.54;-81.37
+LOCATION:Magnolia Orlando (13 S Magnolia Ave\, Orlando\, FL\, USA)
+SEQUENCE:0
+SUMMARY:O-tech Pub Crawl #12
+URL:http://orlandotech.org/event/o-tech-pub-crawl-12/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkytqbdc@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, December 22 at 9:0
+ 0 AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneurs
+ \, ideas\, and conversation. We believe that when entrepreneurs\, startups
+ \, creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Open
+ -Coffee-Club/events/qccgzkytqbdc/</p>
+DTSTART;TZID=America/New_York:20151222T090000
+DTEND;TZID=America/New_York:20151222T120000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-17/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkyvcbhb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, January 5 at 9:00 
+ AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneurs\,
+  ideas\, and conversation. We believe that when entrepreneurs\, startups\,
+  creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Open-C
+ offee-Club/events/qccgzkyvcbhb/</p>
+DTSTART;TZID=America/New_York:20160105T090000
+DTEND;TZID=America/New_York:20160105T120000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-18/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dqkznkyvcbhb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, January 5 at 6:30 PM</p>\n
+ <p>Details: http://www.meetup.com/Code-For-Orlando/events/dqkznkyvcbhb/</p
+ >
+DTSTART;TZID=America/New_York:20160105T183000
+DTEND;TZID=America/New_York:20160105T213000
+GEO:+28.55;-81.36
+SEQUENCE:0
+SUMMARY:Code For Orlando Brigade Meetup
+URL:http://orlandotech.org/event/code-for-orlando-brigade-meetup-8/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
+ \,mobile development\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_djcfghyvcbhb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, January 5 at 
+ 8:00 PM</p>\n<p>Every month on the first Tuesday\, FamiLAB welcomes the pu
+ blic to meet our members and enjoy our collaborative space! Please registe
+ r on Eventbrite to …</p>\n<p>Details: http://www.meetup.com/OrlandoPython/
+ events/djcfghyvcbhb/</p>
+DTSTART;TZID=America/New_York:20160105T200000
+DTEND;TZID=America/New_York:20160105T213000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Open House at FamiLAB in Longwood
+URL:http://orlandotech.org/event/open-house-at-familab-in-longwood-8/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_jvvdjlyvcbkb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nThursday\, January 7 at 6:00 PM</p>\n<p
+ >Come join us at BrassTap. Bring a friend\, sip a beverage and chat about 
+ agile. No real agenda – just telling stories\, sharing tips\, asking quest
+ ions\, …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/jvvdj
+ lyvcbkb/</p>
+DTSTART;TZID=America/New_York:20160107T180000
+DTEND;TZID=America/New_York:20160107T210000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Burndown with Beverage
+URL:http://orlandotech.org/event/burndown-with-beverage-8/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qclblkyvcblb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nFriday\, January 8 at 7:30 AM</p>\n<p>L
+ ean Coffee is a great place to ask questions and share your stories of usi
+ ng agile and lean software approaches.  We discuss any topics on Agile and
+  …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/qclblkyvcbl
+ b/</p>
+DTSTART;TZID=America/New_York:20160108T073000
+DTEND;TZID=America/New_York:20160108T083000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (MCO)
+URL:http://orlandotech.org/event/lean-coffee-orlando-mco-9/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_223675374@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Beacon Meetup<br />\nMonday\, January 11 at 6:00 PM</p>\n<p>
+ Florida Beacon / iBeacon Meetup  Opportunity for beacon developers and use
+ rs to get together\, learn\, and have fun.  We are a group of developers\,
+  desi…</p>\n<p>Details: http://www.meetup.com/iBeacons/events/223675374/</
+ p>
+DTSTART;TZID=America/New_York:20160111T180000
+DTEND;TZID=America/New_York:20160111T200000
+GEO:+28.54;-81.37
+LOCATION:IDEAS Orlando (64 E Concord St\, Orlando \, FL 32801)
+SEQUENCE:0
+SUMMARY:Florida Beacon / iBeacon Meetup
+URL:http://orlandotech.org/event/south-florida-beacon-ibeacon-meetup/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_fglwclyvcbqb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, January
+  12 at 7:00 PM</p>\n<p>We will be meeting the 2nd Tuesday of every month. 
+ Join https://www.facebook.com/groups/etechorlando/ to give thoughts\, ask 
+ questions\, and stir topics…</p>\n<p>Details: http://www.meetup.com/Entert
+ ainment-Tech-Orlando/events/fglwclyvcbqb/</p>
+DTSTART;TZID=America/New_York:20160112T190000
+DTEND;TZID=America/New_York:20160112T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Monthly Sport & Entertainment Tech Meetup
+URL:http://orlandotech.org/event/monthly-sport-entertainment-tech-meetup-9/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
+ nical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qnpkvhyvcbrb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, January 13 
+ at 7:00 PM</p>\n<p>The Orlando chapter of the BUILD GUILD is a monthly gat
+ hering for web folks that enjoy chatting over drinks. High-fives encourage
+ d. Mustaches optional…</p>\n<p>Details: http://www.meetup.com/OrlandoPytho
+ n/events/qnpkvhyvcbrb/</p>
+DTSTART;TZID=America/New_York:20160113T190000
+DTEND;TZID=America/New_York:20160113T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Build Guild Orlando — Monthly Meeting
+URL:http://orlandotech.org/event/build-guild-orlando-monthly-meeting-9/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkyvcbzb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, January 19 at 9:00
+  AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneurs\
+ , ideas\, and conversation. We believe that when entrepreneurs\, startups\
+ , creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Open-
+ Coffee-Club/events/qccgzkyvcbzb/</p>
+DTSTART;TZID=America/New_York:20160119T090000
+DTEND;TZID=America/New_York:20160119T120000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-19/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dftrdjyvcbcc@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, January 21 a
+ t 7:00 PM</p>\n<p>At our regular monthly meetings we hold a round-table di
+ scussion or enjoy a presentation by one or two of our members. Occasionall
+ y\, we even hack some…</p>\n<p>Details: http://www.meetup.com/OrlandoPytho
+ n/events/dftrdjyvcbcc/</p>
+DTSTART;TZID=America/New_York:20160121T190000
+DTEND;TZID=America/New_York:20160121T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Orlando Python Monthly Meetup
+URL:http://orlandotech.org/event/orlando-python-monthly-meetup-9/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qccgzkyvdbdb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, February 2 at 9:00
+  AM</p>\n<p>Orlando Open Coffee Club is about good coffee\, entrepreneurs\
+ , ideas\, and conversation. We believe that when entrepreneurs\, startups\
+ , creatives\, freela…</p>\n<p>Details: http://www.meetup.com/Orlando-Open-
+ Coffee-Club/events/qccgzkyvdbdb/</p>
+DTSTART;TZID=America/New_York:20160202T090000
+DTEND;TZID=America/New_York:20160202T120000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Good coffee. Ideas. Entrepreneurs. Conversation.
+URL:http://orlandotech.org/event/good-coffee-ideas-entrepreneurs-conversati
+ on-21/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
+ technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dqkznkyvdbdb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, February 2 at 6:30 PM</p>
+ \n<p>Details: http://www.meetup.com/Code-For-Orlando/events/dqkznkyvdbdb/<
+ /p>
+DTSTART;TZID=America/New_York:20160202T183000
+DTEND;TZID=America/New_York:20160202T213000
+GEO:+28.55;-81.36
+SEQUENCE:0
+SUMMARY:Code For Orlando Brigade Meetup
+URL:http://orlandotech.org/event/code-for-orlando-brigade-meetup-9/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
+ \,mobile development\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_djcfghyvdbdb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, February 2 at
+  8:00 PM</p>\n<p>Every month on the first Tuesday\, FamiLAB welcomes the p
+ ublic to meet our members and enjoy our collaborative space! Please regist
+ er on Eventbrite to …</p>\n<p>Details: http://www.meetup.com/OrlandoPython
+ /events/djcfghyvdbdb/</p>
+DTSTART;TZID=America/New_York:20160202T200000
+DTEND;TZID=America/New_York:20160202T213000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Open House at FamiLAB in Longwood
+URL:http://orlandotech.org/event/open-house-at-familab-in-longwood-9/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_jvvdjlyvdbgb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nThursday\, February 4 at 6:00 PM</p>\n<
+ p>Come join us at BrassTap. Bring a friend\, sip a beverage and chat about
+  agile. No real agenda – just telling stories\, sharing tips\, asking ques
+ tions\, …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/jvvd
+ jlyvdbgb/</p>
+DTSTART;TZID=America/New_York:20160204T180000
+DTEND;TZID=America/New_York:20160204T210000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Burndown with Beverage
+URL:http://orlandotech.org/event/burndown-with-beverage-9/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_fglwclyvdbmb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, Februar
+ y 9 at 7:00 PM</p>\n<p>We will be meeting the 2nd Tuesday of every month. 
+ Join https://www.facebook.com/groups/etechorlando/ to give thoughts\, ask 
+ questions\, and stir topics…</p>\n<p>Details: http://www.meetup.com/Entert
+ ainment-Tech-Orlando/events/fglwclyvdbmb/</p>
+DTSTART;TZID=America/New_York:20160209T190000
+DTEND;TZID=America/New_York:20160209T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Monthly Sport & Entertainment Tech Meetup
+URL:http://orlandotech.org/event/monthly-sport-entertainment-tech-meetup-10
+ /
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
+ nical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qnpkvhyvdbnb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, February 10
+  at 7:00 PM</p>\n<p>The Orlando chapter of the BUILD GUILD is a monthly ga
+ thering for web folks that enjoy chatting over drinks. High-fives encourag
+ ed. Mustaches optional…</p>\n<p>Details: http://www.meetup.com/OrlandoPyth
+ on/events/qnpkvhyvdbnb/</p>
+DTSTART;TZID=America/New_York:20160210T190000
+DTEND;TZID=America/New_York:20160210T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Build Guild Orlando — Monthly Meeting
+URL:http://orlandotech.org/event/build-guild-orlando-monthly-meeting-10/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qclblkyvdbqb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nFriday\, February 12 at 7:30 AM</p>\n<p
+ >Lean Coffee is a great place to ask questions and share your stories of u
+ sing agile and lean software approaches.  We discuss any topics on Agile a
+ nd …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/qclblkyvd
+ bqb/</p>
+DTSTART;TZID=America/New_York:20160212T073000
+DTEND;TZID=America/New_York:20160212T083000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (MCO)
+URL:http://orlandotech.org/event/lean-coffee-orlando-mco-10/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dftrdjyvdbxb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, February 18 
+ at 7:00 PM</p>\n<p>At our regular monthly meetings we hold a round-table d
+ iscussion or enjoy a presentation by one or two of our members. Occasional
+ ly\, we even hack some…</p>\n<p>Details: http://www.meetup.com/OrlandoPyth
+ on/events/dftrdjyvdbxb/</p>
+DTSTART;TZID=America/New_York:20160218T190000
+DTEND;TZID=America/New_York:20160218T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Orlando Python Monthly Meetup
+URL:http://orlandotech.org/event/orlando-python-monthly-meetup-10/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dqkznkyvfbcb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, March 1 at 6:30 PM</p>\n<p
+ >Details: http://www.meetup.com/Code-For-Orlando/events/dqkznkyvfbcb/</p>
+DTSTART;TZID=America/New_York:20160301T183000
+DTEND;TZID=America/New_York:20160301T213000
+GEO:+28.55;-81.36
+SEQUENCE:0
+SUMMARY:Code For Orlando Brigade Meetup
+URL:http://orlandotech.org/event/code-for-orlando-brigade-meetup-10/
+X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
+ \,mobile development\,networking\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_djcfghyvfbcb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, March 1 at 8:
+ 00 PM</p>\n<p>Every month on the first Tuesday\, FamiLAB welcomes the publ
+ ic to meet our members and enjoy our collaborative space! Please register 
+ on Eventbrite to …</p>\n<p>Details: http://www.meetup.com/OrlandoPython/ev
+ ents/djcfghyvfbcb/</p>
+DTSTART;TZID=America/New_York:20160301T200000
+DTEND;TZID=America/New_York:20160301T213000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Open House at FamiLAB in Longwood
+URL:http://orlandotech.org/event/open-house-at-familab-in-longwood-10/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_jvvdjlyvfbfb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nThursday\, March 3 at 6:00 PM</p>\n<p>C
+ ome join us at BrassTap. Bring a friend\, sip a beverage and chat about ag
+ ile. No real agenda – just telling stories\, sharing tips\, asking questio
+ ns\, …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/jvvdjly
+ vfbfb/</p>
+DTSTART;TZID=America/New_York:20160303T180000
+DTEND;TZID=America/New_York:20160303T210000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Burndown with Beverage
+URL:http://orlandotech.org/event/burndown-with-beverage-10/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_fglwclyvfblb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, March 8
+  at 7:00 PM</p>\n<p>We will be meeting the 2nd Tuesday of every month. Joi
+ n https://www.facebook.com/groups/etechorlando/ to give thoughts\, ask que
+ stions\, and stir topics…</p>\n<p>Details: http://www.meetup.com/Entertain
+ ment-Tech-Orlando/events/fglwclyvfblb/</p>
+DTSTART;TZID=America/New_York:20160308T190000
+DTEND;TZID=America/New_York:20160308T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Monthly Sport & Entertainment Tech Meetup
+URL:http://orlandotech.org/event/monthly-sport-entertainment-tech-meetup-11
+ /
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
+ nical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qnpkvhyvfbmb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, March 9 at 
+ 7:00 PM</p>\n<p>The Orlando chapter of the BUILD GUILD is a monthly gather
+ ing for web folks that enjoy chatting over drinks. High-fives encouraged. 
+ Mustaches optional…</p>\n<p>Details: http://www.meetup.com/OrlandoPython/e
+ vents/qnpkvhyvfbmb/</p>
+DTSTART;TZID=America/New_York:20160309T190000
+DTEND;TZID=America/New_York:20160309T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Build Guild Orlando — Monthly Meeting
+URL:http://orlandotech.org/event/build-guild-orlando-monthly-meeting-11/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qclblkyvfbpb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Agile Orlando<br />\nFriday\, March 11 at 7:30 AM</p>\n<p>Le
+ an Coffee is a great place to ask questions and share your stories of usin
+ g agile and lean software approaches.  We discuss any topics on Agile and 
+ …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/qclblkyvfbpb
+ /</p>
+DTSTART;TZID=America/New_York:20160311T073000
+DTEND;TZID=America/New_York:20160311T083000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Lean Coffee Orlando (MCO)
+URL:http://orlandotech.org/event/lean-coffee-orlando-mco-14/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dftrdjyvfbwb@meetup.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, March 17 at 
+ 7:00 PM</p>\n<p>At our regular monthly meetings we hold a round-table disc
+ ussion or enjoy a presentation by one or two of our members. Occasionally\
+ , we even hack some…</p>\n<p>Details: http://www.meetup.com/OrlandoPython/
+ events/dftrdjyvfbwb/</p>
+DTSTART;TZID=America/New_York:20160317T190000
+DTEND;TZID=America/New_York:20160317T220000
+GEO:+28.54;-81.37
+SEQUENCE:0
+SUMMARY:Orlando Python Monthly Meetup
+URL:http://orlandotech.org/event/orlando-python-monthly-meetup-15/
+X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
+ l
+END:VEVENT
+END:VCALENDAR

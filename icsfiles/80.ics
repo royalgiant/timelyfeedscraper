@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//91.217.57.3//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.nieuw-nederland.nu
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1289@www.nieuw-nederland.nu/wp
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:020-553 51 52
+DESCRIPTION:<p>20 september 2015 zal het <a href='http://www.platformbasisi
+ nkomen.eu'>Platform Basisinkomen</a> zich om 10:00 uur a.m. publiekelijk b
+ ekend maken in politiek-cultureel centrum De Balie in Amsterdam en zijn on
+ tstaan toelichten.</p>\n<p>Daarna volgt daar van 14:00 uur tot 16:30 uur e
+ en openbaar congres dat de Vereniging Basisinkomen organiseert ter afsluit
+ ing van de <a href='http://week-van-het-basisinkomen.nl/programma-14-21-se
+ ptember-2015/'>8e internationale week van Basisinkomen</a> .</p>\n<p>Thema
+ : <strong><em>“Niet alle uitkeringen en toeslagen kunnen na invoering van 
+ het basisinkomen verdwijnen!” </em></strong></p>\n<p><strong>Sprekers</str
+ ong> zijn dan de heer Ger Jaarsma\, directievoorzitter Kredietbank Nederla
+ nd\, de heer Gerrit van der Meer\, voorzitter Landelijke Cliënten Raad en 
+ de heer Joost van Tiel\, schuldhulpverlener te Utrecht.</p>\n<p>De inleidi
+ ng wordt verzorgd door de heer Adriaan Planken\, voorzitter van de Verenig
+ ing Basisinkomen en gaat over wat als de minimiale hoogte van een Volwaard
+ ig Basisinkomen beschouwd kan worden.</p>\n<p>’s Middags is de gesprekslei
+ ding in handen van Joeri Oltheten\, bestuurslid van de Vereniging Basisink
+ omen</p>\n<p>Beide onderdelen van het programma zijn vrij toegankelijk voo
+ r alle geïnteresseerden zolang er nog plaatsen beschikbaar zijn.</p>\n<p> 
+ </p>
+DTSTART;TZID=Europe/Amsterdam:20150920T100000
+DTEND;TZID=Europe/Amsterdam:20150920T163000
+GEO:+52.36304;+4.882877
+LOCATION:Politiek Cultureel Centrum De Balie @ Kleine-Gartmanplantsoen 10\,
+  1017 RR Amsterdam\, Nederland
+SEQUENCE:0
+SUMMARY:Oprichting platform Basisinkomen en Congres
+URL:http://www.nieuw-nederland.nu/event/oprichting-platform-basisinkomen-en
+ -congres/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1288@www.nieuw-nederland.nu/wp
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:0636356444\; http://week-van-het-basisinkomen.nl/event/gezond-verst
+ and-avond-basisinkomen-culemborg-24-sept-2015/
+DESCRIPTION:<p>Lezing over basisinkomen door Jolanda Verburg tijdens een <a
+  href='http://week-van-het-basisinkomen.nl/event/gezond-verstand-avond-bas
+ isinkomen-culemborg-24-sept-2015/'>Gezond Verstand Avond</a>.</p>
+DTSTART;TZID=Europe/Amsterdam:20150924T193000
+DTEND;TZID=Europe/Amsterdam:20150924T223000
+GEO:+51.948881;+5.230098
+LOCATION:OBS 't Praathuis @ Meerlaan 26\, 4103 XZ Culemborg\, Nederland
+SEQUENCE:0
+SUMMARY:Lezing Basisinkomen door Jolanda Verburg
+URL:http://www.nieuw-nederland.nu/event/lezing-basisinkomen-door-jolanda-ve
+ rburg/
+X-COST:€ 10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1270@www.nieuw-nederland.nu/wp
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Thema: Steiner en ik in deze tijd</p>
+DTSTART;TZID=Europe/Amsterdam:20151001T180000
+DTEND;TZID=Europe/Amsterdam:20151001T210000
+GEO:+52.192614;+6.002204
+LOCATION:Atlant Zorggroep @ Beatrijsgaarde 5\, 7329 BK Apeldoorn\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Themabijeenkomst “Steiner en ik in deze tijd”
+URL:http://www.nieuw-nederland.nu/event/themabijeenkomst-steiner-en-ik-in-d
+ eze-tijd/
+X-COST:Vrijwillige bijdrage
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1271@www.nieuw-nederland.nu/wp
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Thema: leven in een community</p>
+DTSTART;TZID=Europe/Amsterdam:20151126T180000
+DTEND;TZID=Europe/Amsterdam:20151126T210000
+GEO:+52.192614;+6.002204
+LOCATION:Atlant Zorggroep @ Beatrijsgaarde 5\, 7329 BK Apeldoorn\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Themabijeenkomst “leven in een community”
+URL:http://www.nieuw-nederland.nu/event/themabijeenkomst-leven-in-een-commu
+ nity/
+X-COST:Vrijwillige bijdrage
+END:VEVENT
+END:VCALENDAR

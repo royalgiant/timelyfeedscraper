@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.199.190.60//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://crystalcoastmom.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1664@crystalcoastmom.com
+DTSTAMP:20150920T002139Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ages 13-18. The Teen Writing Group is a place for teens to b
+ ring in their written works for peer review and critique. This is the plac
+ e to go for sharing your literary pieces and getting helpful advice.  Not 
+ every Saturday. Call (252) 393-6500 for more information.</p>
+DTSTART;TZID=America/New_York:20150919T103000
+DTEND;TZID=America/New_York:20150919T113000
+LOCATION:Western Carteret Public Library\, Cape Carteret
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Teen Writing Group
+URL:http://crystalcoastmom.com/event/teen-writing-group-west-carteret-publi
+ c-library/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-872@crystalcoastmom.com
+DTSTAMP:20150920T002139Z
+CATEGORIES;LANGUAGE=en-US:Indoor
+CONTACT:Betty \; 252-269-1087
+DESCRIPTION:<p>Carolina Artist Studio Gallery in Morehead City will be hold
+ ing free art classes for children every Saturday from 6:00-8:00 pm startin
+ g in January. Ages 6 and up. Call 252-269-1087 for more information.</p>
+DTSTART;TZID=America/New_York:20150919T180000
+DTEND;TZID=America/New_York:20150919T200000
+GEO:+34.720784;-76.712916
+LOCATION:Carolina Artist Studio Gallery @ 801 Arendell Street\, Morehead Ci
+ ty\, NC 28557\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Free Art Classes for Children
+URL:http://crystalcoastmom.com/event/free-art-classes-for-children/
+X-COST:Free of Charge
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-355@crystalcoastmom.com
+DTSTAMP:20150920T002139Z
+CATEGORIES;LANGUAGE=en-US:Indoor
+CONTACT:Patrick Conneely\; (252) 247-7281
+DESCRIPTION:<p>Chik-fil-A offers Family Nights to bring families together t
+ hrough food and fun. There will be a fun craft for the kids and a free Ice
+  Dream Sundae bar! Call (252) 247-7281 for more information.</p>
+DTSTART;TZID=America/New_York:20150922T190000
+DTEND;TZID=America/New_York:20150922T210000
+GEO:+34.73819;-76.806734
+LOCATION:Chik-fil-A  @ 5156 U.S. 70\, Morehead City\, NC 28557\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Family Night
+URL:http://crystalcoastmom.com/event/chik-fil-a-family-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-368@crystalcoastmom.com
+DTSTAMP:20150920T002139Z
+CATEGORIES;LANGUAGE=en-US:Indoor
+CONTACT:Ms. Laura\; 252-726-3012
+DESCRIPTION:<p>Suitable for ages 2-4 with their caregivers. Meets 10:30 Wed
+ nesdays and Thursdays.  Stories\,songs\, crafts\, snacks\, and fun! Call  
+ 252-726-3012 for more information.</p>
+DTSTART;TZID=America/New_York:20150923T103000
+EXDATE;TZID=America/New_York:20141119T103000
+GEO:+34.720641;-76.714149
+LOCATION:The Webb Library @ 168 South 9th Street\, Morehead City\, NC 28557
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE,TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Kids Story Hour
+URL:http://crystalcoastmom.com/event/kids-story-hour-at-the-webb-library/
+X-COST:Free of charge
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1032@crystalcoastmom.com
+DTSTAMP:20150920T002139Z
+CATEGORIES;LANGUAGE=en-US:Indoor
+CONTACT:252.354.6350
+DESCRIPTION:<p>Bowling is played on a Wii console. It’s fun\, energetic\, a
+ nd free. Free and open to the public\, children must be accompanied by an 
+ adult. Coffee is provided and bringing your own snacks is allowed. Call 25
+ 2.354.6350 for more information.</p>
+DTSTART;TZID=America/New_York:20150923T180000
+DTEND;TZID=America/New_York:20150923T200000
+GEO:+34.666854;-77.027053
+LOCATION:Emerald Isle Community Center @ 7500 Emerald Drive\, Emerald Isle\
+ , NC 28594\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Open Play Wii Bowling
+URL:http://crystalcoastmom.com/event/open-play-wii-bowling-2/
+X-COST:Free of charge
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-364@crystalcoastmom.com
+DTSTAMP:20150920T002139Z
+CATEGORIES;LANGUAGE=en-US:Indoor
+CONTACT:252.247.0066
+DESCRIPTION:<p>Open gym with mini bounce houses\, ball pits and trampolines
+  – $5 per child (parent supervision required).  Located in the Lowe’s Food
+ s Shopping Plaza. Call (252) 247-0066 for more information.</p>
+DTSTART;TZID=America/New_York:20150924T150000
+DTEND;TZID=America/New_York:20150924T171500
+GEO:+34.726446;-76.742707
+LOCATION:Crystal Coast All-Stars @ Morehead Plaza Shopping Center\, 2900 Ar
+ endell Street\, Morehead City\, NC 28557\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Open Gym Play Date
+URL:http://crystalcoastmom.com/event/crystal-coast-all-stars-play-date/
+X-COST:$5 per child
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-910@crystalcoastmom.com
+DTSTAMP:20150920T002139Z
+CATEGORIES;LANGUAGE=en-US:Indoor
+CONTACT:Lynn Golitz\; 252-723-9516\; blusail@ec.rr.com
+DESCRIPTION:<p>This After School Program in Acrylics is ideal for the young
+ er age student who wishes to begin painting\, grow with their painting\, a
+ nd gain confidence as a young artist. Students will paint from their photo
+ graph of choice they bring to class. Some classes are more structured in w
+ hich all class students will complete still life paintings. This is a fun 
+ and encouraging class where skills are taught with flexibility in order to
+  encourage individual styles. As budding artists\, these students will gai
+ n a heightened sense of self and discovery into their emotional well being
+ . Student provides photograph and canvas. Gallery provides table top and s
+ tand up easels and all painting materials. Instructor: Lynn Golitz. For mo
+ re information visit <a href='http://www.blu-sail.com/artists-school.html'
+  onclick='_gaq.push(['_trackEvent'\, 'outbound-article'\, 'http://www.blu-
+ sail.com/artists-school.html'\, 'http://www.blu-sail.com/artists-school.ht
+ ml'])\;' target='_blank'>http://www.blu-sail.com/artists-school.html</a></
+ p>
+DTSTART;TZID=America/New_York:20150924T210000
+DTEND;TZID=America/New_York:20150924T223000
+LOCATION:BluSail Gallery\, Artists' School & Pottery Studio @ 903 Arendell 
+ Street\, Morehead City\, NC 28557\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Acrylics Art Class for Young Students
+URL:http://crystalcoastmom.com/event/acrylics-art-class-for-young-students-
+ 2/
+X-COST:$80 per month
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1662@crystalcoastmom.com
+DTSTAMP:20150920T002139Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>A fun program for 13-18 year olds\, based on a book or pop c
+ ulture theme geared for readers and non-readers alike. Alternating Fridays
+ . Call (252) 393-6500 for more information. <a href='http://carteret.cpcli
+ b.org/western/nov2014cal.pdf' onclick='_gaq.push(['_trackEvent'\,'download
+ '\,'http://carteret.cpclib.org/western/nov2014cal.pdf'])\;' >http://carter
+ et.cpclib.org/western/nov2014cal.pdf</a></p>
+DTSTART;TZID=America/New_York:20150925T160000
+DTEND;TZID=America/New_York:20150925T190000
+EXDATE;TZID=America/New_York:20141128T160000
+EXDATE;TZID=America/New_York:20141213T160000
+EXDATE;TZID=America/New_York:20141227T160000
+LOCATION:Western Carteret Public Library\, Cape Carteret
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Destinations
+URL:http://crystalcoastmom.com/event/destinations-west-carteret-public-libr
+ ary/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-261@crystalcoastmom.com
+DTSTAMP:20150920T002139Z
+CATEGORIES;LANGUAGE=en-US:Indoor
+CONTACT:252.354.6350
+DESCRIPTION:<p>Movies are family oriented and the event is open to the publ
+ ic. Children must be accompanied by an adult.  Popcorn and drink for $1.00
+ .  Please bring chairs and or blankets\, no outside beverages or snacks.  
+ Movie night is at 7:00 pm on the 2nd Friday of each month. Call 252.354.63
+ 50 for movie title one week prior to showing.</p>
+DTSTART;TZID=America/New_York:20151009T000000
+DTEND;TZID=America/New_York:20151009T020000
+GEO:+34.666854;-77.027053
+LOCATION:Emerald Isle Community Center @ 7500 Emerald Drive\, Emerald Isle\
+ , NC 28594\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2FR
+SEQUENCE:0
+SUMMARY:Friday Free Flicks
+URL:http://crystalcoastmom.com/event/friday-free-flicks/
+X-COST:Free of charge
+END:VEVENT
+END:VCALENDAR

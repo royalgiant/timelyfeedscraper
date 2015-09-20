@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//89.42.223.104//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://cafeteatruplay.ro
+X-WR-TIMEZONE:Europe/Bucharest
+BEGIN:VTIMEZONE
+TZID:Europe/Bucharest
+X-LIC-LOCATION:Europe/Bucharest
+BEGIN:STANDARD
+DTSTART:20151025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+RDATE:20160327T030000
+TZNAME:EEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-168@cafeteatruplay.ro
+DTSTAMP:20150920T004028Z
+CATEGORIES;LANGUAGE=en-US:Stand Up
+CONTACT:Cafe Teatru Play\; 0722 217 866\; playteatru@yahoo.com
+DESCRIPTION:<div id='pl-79'><div class='panel-grid' id='pg-79-0' ><div clas
+ s='panel-grid-cell' id='pgc-79-0-0' ><div class='so-panel widget widget_me
+ taslider_widget panel-first-child panel-last-child' id='panel-79-0-0-0'><!
+ -- meta slider -->\n<div style='max-width: 1200px\;' class='metaslider met
+ aslider-flex metaslider-21 ml-slider'>\n    \n    <div id='metaslider_cont
+ ainer_21'>\n        <div id='metaslider_21'>\n            <ul class='slide
+ s'>\n                <li style='display: block\; width: 100%\;' class='sli
+ de-22 ms-image'><img src='http://cafeteatruplay.ro/wp-content/uploads/2015
+ /08/DCM_2747_resize-1200x800.jpg' height='800' width='1200' alt='' class='
+ slider-21 slide-22' /></li>\n                <li style='display: none\; wi
+ dth: 100%\;' class='slide-23 ms-image'><img src='http://cafeteatruplay.ro/
+ wp-content/uploads/2015/08/DCM_2755_resize-1200x800.jpg' height='800' widt
+ h='1200' alt='' class='slider-21 slide-23' /></li>\n                <li st
+ yle='display: none\; width: 100%\;' class='slide-24 ms-image'><img src='ht
+ tp://cafeteatruplay.ro/wp-content/uploads/2015/08/DCM_2757_resize-1200x800
+ .jpg' height='800' width='1200' alt='' class='slider-21 slide-24' /></li>
+ \n            </ul>\n        </div>\n        \n    </div>\n    <script typ
+ e='text/javascript'>\n        var metaslider_21 = function($) {\n         
+    $('#metaslider_21').addClass('flexslider')\; // theme/plugin conflict a
+ voidance\n            $('#metaslider_21').flexslider({ \n                s
+ lideshowSpeed:3000\,\n                animation:'fade'\,\n                
+ controlNav:true\,\n                directionNav:true\,\n                pa
+ useOnHover:true\,\n                direction:'horizontal'\,\n             
+    reverse:false\,\n                animationSpeed:600\,\n                
+ prevText:'<'\,\n                nextText:'>'\,\n                slideshow:
+ true\n            })\;\n        }\;\n        var timer_metaslider_21 = fun
+ ction() {\n            var slider = !window.jQuery ? window.setTimeout(tim
+ er_metaslider_21\, 100) : !jQuery.isReady ? window.setTimeout(timer_metasl
+ ider_21\, 1) : metaslider_21(window.jQuery)\;\n        }\;\n        timer_
+ metaslider_21()\;\n    </script>\n</div>\n<!--// meta slider--></div></div
+ ><div class='panel-grid-cell' id='pgc-79-0-1' ><div class='so-panel widget
+  widget_facebooklikebox panel-first-child panel-last-child' id='panel-79-0
+ -1-0'><script src='http://connect.facebook.net/en_US/all.js#xfbml=1'></scr
+ ipt><fb:like-box href='https://www.facebook.com/cafeteatruplay' width='260
+ ' show_faces='true' border_color='AAAAAA' stream='true' header='true'></fb
+ :like-box></div></div></div></div>
+DTSTART;TZID=Europe/Bucharest:20150921T210000
+DTEND;TZID=Europe/Bucharest:20150921T224500
+GEO:+44.31571;+23.80108
+LOCATION:Cafe Teatru Play @ Strada C. D. Fortunescu\, Craiova\, Romania
+SEQUENCE:0
+SUMMARY:Stand-up Comedy cu Cosmin Natanticu(Divertis) si Radu Isac@Cafe Tea
+ tru Play
+URL:http://cafeteatruplay.ro/event/stand-up-comedy-cu-cosmin-natanticudiver
+ tis-si-radu-isaccafe-teatru-play/
+X-COST:20 lei
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-157@cafeteatruplay.ro
+DTSTAMP:20150920T004028Z
+CATEGORIES;LANGUAGE=en-US:Concerte
+CONTACT:Cafe Teatru Play\; 0722 217 866\; playteatru@yahoo.com
+DESCRIPTION:<div id='pl-79'><div class='pane

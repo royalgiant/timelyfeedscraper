@@ -1,0 +1,2395 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//109.237.134.42//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://handball-kaiserslautern.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028007
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150919T160000
+DTEND;TZID=Europe/Berlin:20150919T172900
+LOCATION:Sporthalle  Freinsheim @ Reiboldstr. 12e\, 67251 Freinsheim\, Deut
+ schland
+SEQUENCE:0
+SUMMARY:HSG Eckbachtal 2 – männl. D-Jugend 17:16  (4:9)
+URL:http://handball-kaiserslautern.de/event/hsg-eckbachtal-2-md-jugend-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004005
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150919T180000
+DTEND;TZID=Europe/Berlin:20150919T192900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – TV Edigheim 2
+URL:http://handball-kaiserslautern.de/event/1-damen-tv-edigheim-2-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005007
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150919T190000
+DTEND;TZID=Europe/Berlin:20150919T202900
+LOCATION:Sporthalle  Freinsheim @ Reiboldstr. 12e\, 67251 Freinsheim\, Deut
+ schland
+SEQUENCE:0
+SUMMARY:HSG Eckbachtal 2 – 2. Herren 26:28  (13:12)
+URL:http://handball-kaiserslautern.de/event/hsg-eckbachtal-2-2-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002008
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150919T200000
+DTEND;TZID=Europe/Berlin:20150919T212900
+LOCATION:Schulzentrum  Dahn @ Am Kreuzstein\, 66494 Dahn\, Deutschland
+SEQUENCE:0
+SUMMARY:TV Dahn – 1. Herren 21:24  (10:8)
+URL:http://handball-kaiserslautern.de/event/tv-dahn-1-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040004
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150920T123000
+DTEND;TZID=Europe/Berlin:20150920T135900
+LOCATION:Sporthalle  Dirmstein @ Bahnhofstr. 7\, 67246 Dirmstein\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:HSG Eckbachtal – männl./weibl. E-Jugend
+URL:http://handball-kaiserslautern.de/event/hsg-eckbachtal-maennl-weibl-e-j
+ ugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018006
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150920T154500
+DTEND;TZID=Europe/Berlin:20150920T171400
+LOCATION:Sporthalle  Dirmstein @ Bahnhofstr. 7\, 67246 Dirmstein\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:HSG Eckbachtal 2 – männl. C-Jugend
+URL:http://handball-kaiserslautern.de/event/hsg-eckbachtal-2-maennl-c-jugen
+ d/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002010
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150920T160000
+DTEND;TZID=Europe/Berlin:20150920T172900
+LOCATION:Hauptschule  Annweiler @ Am Herrenteich 2\, 76855 Annweiler\, Deut
+ schland
+SEQUENCE:0
+SUMMARY:SG Wernersb/Annw – weibl. A-Jugend
+URL:http://handball-kaiserslautern.de/event/sg-wernersbannw-weibl-a-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009009
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150920T171500
+DTEND;TZID=Europe/Berlin:20150920T184400
+LOCATION:H.-Ries Halle Friesenheim @ Pettenkoferstraße\, 67063 Ludwigshafen
+ \, Deutschland
+SEQUENCE:0
+SUMMARY:TV Rheingönheim – männl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/tv-rheingoenheim-maennl-b-jugen
+ d-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040009
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T142000
+DTEND;TZID=Europe/Berlin:20150927T154900
+LOCATION:IGS Hauptschule  Grünstadt @ Asselheimer Str. 3\, 67269 Grünstadt\
+ , Deutschland
+SEQUENCE:0
+SUMMARY:SG Asselh/Kindenh – männl./weibl. E-Jugend
+URL:http://handball-kaiserslautern.de/event/sg-asselhkindenh-maennl-weibl-e
+ -jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018008
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T142000
+DTEND;TZID=Europe/Berlin:20150927T154900
+LOCATION:Sporthalle KL-Dansenberg @ Am Handballplatz 1\, 67661 Kaiserslaute
+ rn\, Deutschland
+SEQUENCE:0
+SUMMARY:TuS KL-Dansenberg 2 – männl. C-Jugend
+URL:http://handball-kaiserslautern.de/event/tus-kl-dansenberg-2-maennl-c-ju
+ gend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004013
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T160000
+DTEND;TZID=Europe/Berlin:20150927T172900
+LOCATION:Sporthalle KL-Dansenberg @ Am Handballplatz 1\, 67661 Kaiserslaute
+ rn\, Deutschland
+SEQUENCE:0
+SUMMARY:FSG Dansenberg/Waldfischbach – 1. Damen
+URL:http://handball-kaiserslautern.de/event/fsg-dansenbergwaldfischbach-1-d
+ amen-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005014
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T160000
+DTEND;TZID=Europe/Berlin:20150927T172900
+LOCATION:IGS Hauptschule  Grünstadt @ Asselheimer Str. 3\, 67269 Grünstadt\
+ , Deutschland
+SEQUENCE:0
+SUMMARY:SG Asselheim/Kindenheim – 2. Herren
+URL:http://handball-kaiserslautern.de/event/sg-asselheimkindenheim-2-herren
+ /
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002017
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T180000
+DTEND;TZID=Europe/Berlin:20150927T192900
+LOCATION:Sporthalle KL-Dansenberg @ Am Handballplatz 1\, 67661 Kaiserslaute
+ rn\, Deutschland
+SEQUENCE:0
+SUMMARY:TuS KL-Dansenberg 2 – 1. Herren
+URL:http://handball-kaiserslautern.de/event/tus-kl-dansenberg-2-1-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009014
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151003T151500
+DTEND;TZID=Europe/Berlin:20151003T164400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. B-Jugend – JSG Mutterst/Ruchh
+URL:http://handball-kaiserslautern.de/event/maennl-b-jugend-jsg-mutterstruc
+ hh-3/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005019
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151003T171500
+DTEND;TZID=Europe/Berlin:20151003T184400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – TV Edigheim 2
+URL:http://handball-kaiserslautern.de/event/2-herren-tv-edigheim-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002020
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151003T193000
+DTEND;TZID=Europe/Berlin:20151003T205900
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – TV Edigheim
+URL:http://handball-kaiserslautern.de/event/1-herren-tv-edigheim/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028016
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151004T103000
+DTEND;TZID=Europe/Berlin:20151004T115900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. D-Jugend – TV Edigheim
+URL:http://handball-kaiserslautern.de/event/maennl-d-jugend-tv-edigheim/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040011
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151004T120000
+DTEND;TZID=Europe/Berlin:20151004T132900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl./weibl. E-Jugend – HR Göllheim/Eisenb
+URL:http://handball-kaiserslautern.de/event/maennl-weibl-e-jugend-hr-goellh
+ eimeisenb/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007010
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151004T140000
+DTEND;TZID=Europe/Berlin:20151004T152900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. B-Jugend – HSG Dudenh/Schifferst
+URL:http://handball-kaiserslautern.de/event/weibl-b-jugend-hsg-dudenhschiff
+ erst/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002020
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151004T160000
+DTEND;TZID=Europe/Berlin:20151004T172900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. A-Jugend – TV Thaleischweiler
+URL:http://handball-kaiserslautern.de/event/weibl-a-jugend-tv-thaleischweil
+ er/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018014
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151004T180000
+DTEND;TZID=Europe/Berlin:20151004T192900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. C-Jugend – TV Edigheim
+URL:http://handball-kaiserslautern.de/event/maennl-c-jugend-tv-edigheim/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005025
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151010T180000
+DTEND;TZID=Europe/Berlin:20151010T192900
+LOCATION:Sporthalle Ruchheim @ Fußgönheimer Str. 127 (Ortsende)\, 67071 Lud
+ wigshafen\, Deutschland
+SEQUENCE:0
+SUMMARY:TV Ruchheim 2 – 2. Herren
+URL:http://handball-kaiserslautern.de/event/tv-ruchheim-2-2-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002026
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151010T200000
+DTEND;TZID=Europe/Berlin:20151010T212900
+LOCATION:Sportzentrum TV Hochdorf @ Im Einolf 2\, 67126 Hochdorf\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:TV Hochdorf 2 – 1. Herren
+URL:http://handball-kaiserslautern.de/event/tv-hochdorf-2-1-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040014
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151011T113000
+DTEND;TZID=Europe/Berlin:20151011T125900
+LOCATION:Sporthalle Pestalozzischule @ Grünstadterstr. 6\, 67240 Bobenheim-
+ Roxheim\, Deutschland
+SEQUENCE:0
+SUMMARY:SC Bobenh-Roxh – männl./weibl. E-Jugend
+URL:http://handball-kaiserslautern.de/event/sc-bobenh-roxh-maennl-weibl-e-j
+ ugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018016
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151011T123000
+DTEND;TZID=Europe/Berlin:20151011T135900
+LOCATION:IGS Hauptschule  Grünstadt @ Asselheimer Str. 3\, 67269 Grünstadt\
+ , Deutschland
+SEQUENCE:0
+SUMMARY:mCD Bob-Rox/Ass/Kind – männl. C-Jugend
+URL:http://handball-kaiserslautern.de/event/mcd-bob-roxasskind-maennl-c-jug
+ end/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028023
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151011T131500
+DTEND;TZID=Europe/Berlin:20151011T144400
+LOCATION:Sporthalle Pestalozzischule @ Grünstadterstr. 6\, 67240 Bobenheim-
+ Roxheim\, Deutschland
+SEQUENCE:0
+SUMMARY:mCD Bob-Rox/Ass/Kind 1 – männl. D-Jugend
+URL:http://handball-kaiserslautern.de/event/mcd-bob-roxasskind-1-maennl-d-j
+ ugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009020
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151011T150000
+DTEND;TZID=Europe/Berlin:20151011T162900
+LOCATION:Sporthalle Pestalozzischule @ Grünstadterstr. 6\, 67240 Bobenheim-
+ Roxheim\, Deutschland
+SEQUENCE:0
+SUMMARY:SC Bobenh-Roxh – männl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/sc-bobenh-roxh-maennl-b-jugend-
+ 3/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004023
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151011T160000
+DTEND;TZID=Europe/Berlin:20151011T172900
+LOCATION:IGS Hauptschule  Grünstadt @ Asselheimer Str. 3\, 67269 Grünstadt\
+ , Deutschland
+SEQUENCE:0
+SUMMARY:SG Asselheim/Kindenheim – 1. Damen
+URL:http://handball-kaiserslautern.de/event/sg-asselheimkindenheim-1-damen-
+ 2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007005
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151014T190000
+DTEND;TZID=Europe/Berlin:20151014T202900
+LOCATION:IGS Hauptschule  Grünstadt @ Asselheimer Str. 3\, 67269 Grünstadt\
+ , Deutschland
+SEQUENCE:0
+SUMMARY:wABC Bob-Rox/Ass/Kind – weibl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/wb-jugend-sg-alberswranschb/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501501000000000000000003005
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151017T173000
+DTEND;TZID=Europe/Berlin:20151017T185900
+LOCATION:Waldsporthalle  Maxdorf @ Longvic-Platz\, 67133 Maxdorf\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:HSG Eppstein/Maxdorf – 2. Herren
+URL:http://handball-kaiserslautern.de/event/hsg-eppsteinmaxdorf-2-herren-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501501000000000000000003007
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151017T193000
+DTEND;TZID=Europe/Berlin:20151017T205900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – TV Kirrweiler 1
+URL:http://handball-kaiserslautern.de/event/1-herren-tv-kirrweiler-1/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002026
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151107T130000
+DTEND;TZID=Europe/Berlin:20151107T142900
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. A-Jugend – JSG Mutterst/Ruchh 2
+URL:http://handball-kaiserslautern.de/event/weibl-a-jugend-jsg-mutterstruch
+ h-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004026
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151107T151500
+DTEND;TZID=Europe/Berlin:20151107T164400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – TV Lambsheim
+URL:http://handball-kaiserslautern.de/event/1-damen-tv-lambsheim-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005031
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151107T171500
+DTEND;TZID=Europe/Berlin:20151107T184400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – MSG Lambsheim/Frankenthal
+URL:http://handball-kaiserslautern.de/event/2-herren-msg-lambsheimfrankenth
+ al/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002032
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151107T193000
+DTEND;TZID=Europe/Berlin:20151107T205900
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – SG Wernersberg/Annweiler
+URL:http://handball-kaiserslautern.de/event/1-herren-sg-wernersbergannweile
+ r/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040017
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151108T120000
+DTEND;TZID=Europe/Berlin:20151108T132900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl./weibl. E-Jugend – TuS KL-Dansenberg
+URL:http://handball-kaiserslautern.de/event/maennl-weibl-e-jugend-tus-kl-da
+ nsenberg/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007014
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151108T140000
+DTEND;TZID=Europe/Berlin:20151108T152900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. B-Jugend – TSV Kandel
+URL:http://handball-kaiserslautern.de/event/weibl-b-jugend-tsv-kandel/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009024
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151108T160000
+DTEND;TZID=Europe/Berlin:20151108T172900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. B-Jugend – HSG Eckbachtal
+URL:http://handball-kaiserslautern.de/event/maennl-b-jugend-hsg-eckbachtal-
+ 2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028032
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151114T130000
+DTEND;TZID=Europe/Berlin:20151114T142900
+LOCATION:H.-Ries Halle Friesenheim @ Pettenkoferstraße\, 67063 Ludwigshafen
+ \, Deutschland
+SEQUENCE:0
+SUMMARY:TSG Friesenheim 2 – männl. D-Jugend
+URL:http://handball-kaiserslautern.de/event/tsg-friesenheim-2-maennl-d-juge
+ nd/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018022
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151114T163000
+DTEND;TZID=Europe/Berlin:20151114T175900
+LOCATION:Rehbachhalle  Neuhofen @ Jahnstr. 25\, 67141 Neuhofen\, Deutschlan
+ d
+SEQUENCE:0
+SUMMARY:TuS Neuhofen – männl. C-Jugend
+URL:http://handball-kaiserslautern.de/event/tus-neuhofen-maennl-c-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040019
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151115T130000
+DTEND;TZID=Europe/Berlin:20151115T142900
+LOCATION:Schulsporthalle Lambsheim @ Neustadter Str. 23\, 67245 Lambsheim\,
+  Deutschland
+SEQUENCE:0
+SUMMARY:TV Lambsheim – männl./weibl. E-Jugend
+URL:http://handball-kaiserslautern.de/event/me-jugend-hr-goellheimeisenb/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004033
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151115T133000
+DTEND;TZID=Europe/Berlin:20151115T145900
+LOCATION:Sporthalle  Meckenheim @ Rödersheimer Str. 29\, 67149 Meckenheim\,
+  Deutschland
+SEQUENCE:0
+SUMMARY:SV Meckenheim – 1. Damen
+URL:http://handball-kaiserslautern.de/event/1-damen-tv-lambsheim/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007016
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151115T133000
+DTEND;TZID=Europe/Berlin:20151115T145900
+LOCATION:Reblandhalle  Kirrweiler @ Unterried 6\, 67489 Kirrweiler\, Deutsc
+ hland
+SEQUENCE:0
+SUMMARY:TV Kirrweiler – weibl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/tv-kirrweiler-weibl-b-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002041
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151115T140000
+DTEND;TZID=Europe/Berlin:20151115T152900
+LOCATION:IGS Sporthalle Wörth @ Zeisigweg\, 76744 Wörth\, Deutschland
+SEQUENCE:0
+SUMMARY:TV 03 Wörth 2 – 1. Herren
+URL:http://handball-kaiserslautern.de/event/tv-03-woerth-2-1-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002035
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151115T143000
+DTEND;TZID=Europe/Berlin:20151115T155900
+LOCATION:Schulsporthalle Lambsheim @ Neustadter Str. 23\, 67245 Lambsheim\,
+  Deutschland
+SEQUENCE:0
+SUMMARY:TV Lambsheim – weibl. A-Jugend
+URL:http://handball-kaiserslautern.de/event/tv-lambsheim-weibl-a-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009029
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151115T163000
+DTEND;TZID=Europe/Berlin:20151115T175900
+LOCATION:Waldsporthalle  Maxdorf @ Longvic-Platz\, 67133 Maxdorf\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:HSG Eppst/Maxdorf – männl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/sc-bobenh-roxh-maennl-b-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005042
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151115T180000
+DTEND;TZID=Europe/Berlin:20151115T192900
+LOCATION:Rehbachhalle  Neuhofen @ Jahnstr. 25\, 67141 Neuhofen\, Deutschlan
+ d
+SEQUENCE:0
+SUMMARY:TuS Neuhofen – 2. Herren
+URL:http://handball-kaiserslautern.de/event/tus-neuhofen-2-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005043
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151121T171500
+DTEND;TZID=Europe/Berlin:20151121T184400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – HSG Eppstein/Maxdorf
+URL:http://handball-kaiserslautern.de/event/2-herren-hsg-eppsteinmaxdorf/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002046
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151121T193000
+DTEND;TZID=Europe/Berlin:20151121T205900
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – TV Kirrweiler
+URL:http://handball-kaiserslautern.de/event/1-herren-tv-kirrweiler/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040026
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151122T110000
+DTEND;TZID=Europe/Berlin:20151122T122900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl./weibl. E-Jugend – HSG Eppst/Maxdorf
+URL:http://handball-kaiserslautern.de/event/maennl-weibl-e-jugend-hsg-eppst
+ maxdorf/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028036
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151122T123000
+DTEND;TZID=Europe/Berlin:20151122T135900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. D-Jugend – HSG Eppst/Maxdorf
+URL:http://handball-kaiserslautern.de/event/maennl-d-jugend-hsg-eppstmaxdor
+ f/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002039
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151122T141500
+DTEND;TZID=Europe/Berlin:20151122T154400
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. A-Jugend – TG Waldsee
+URL:http://handball-kaiserslautern.de/event/weibl-a-jugend-tg-waldsee/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004040
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151122T180000
+DTEND;TZID=Europe/Berlin:20151122T192900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – TG Waldsee 2
+URL:http://handball-kaiserslautern.de/event/1-damen-tg-waldsee-2-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028041
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151128T141500
+DTEND;TZID=Europe/Berlin:20151128T154400
+LOCATION:Orff-Realschulhalle  Bad Dürkheim @ Kanalstr. 19\, 67098 Bad Dürkh
+ eim\, Deutschland
+SEQUENCE:0
+SUMMARY:SKG Grethen – männl. D-Jugend
+URL:http://handball-kaiserslautern.de/event/skg-grethen-maennl-d-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018027
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151128T141500
+DTEND;TZID=Europe/Berlin:20151128T154400
+LOCATION:TSG Sportzentrum Friesenheim @ Eschenbachstraße 85\, 67063 Ludwigs
+ hafen\, Deutschland
+SEQUENCE:0
+SUMMARY:TSG Friesenheim 2 – männl. C-Jugend
+URL:http://handball-kaiserslautern.de/event/tsg-friesenheim-2-maennl-c-juge
+ nd/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002043
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151128T160000
+DTEND;TZID=Europe/Berlin:20151128T172900
+LOCATION:Sporthalle  Schwegenheim @ Schulstr. 20\, 67365 Schwegenheim\, Deu
+ tschland
+SEQUENCE:0
+SUMMARY:HSG Lingenf/Schweg – weibl. A-Jugend
+URL:http://handball-kaiserslautern.de/event/hsg-lingenfschweg-weibl-a-jugen
+ d/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009035
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151128T160000
+DTEND;TZID=Europe/Berlin:20151128T172900
+LOCATION:Orff-Realschulhalle  Bad Dürkheim @ Kanalstr. 19\, 67098 Bad Dürkh
+ eim\, Deutschland
+SEQUENCE:0
+SUMMARY:SKG Grethen – männl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/skg-grethen-1-maennl-b-jugend-2
+ /
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005049
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151128T180000
+DTEND;TZID=Europe/Berlin:20151128T192900
+LOCATION:Orff-Realschulhalle  Bad Dürkheim @ Kanalstr. 19\, 67098 Bad Dürkh
+ eim\, Deutschland
+SEQUENCE:0
+SUMMARY:SKG Grethen – 2. Herren
+URL:http://handball-kaiserslautern.de/event/skg-grethen-2-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002049
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151128T180000
+DTEND;TZID=Europe/Berlin:20151128T192900
+LOCATION:Rhein-Pfalz Halle  Römerberg @ Viehtriftstr. 108\, 67354 Römerberg
+ -Heiligenstein\, Deutschland
+SEQUENCE:0
+SUMMARY:TuS Heiligenstein – 1. Herren
+URL:http://handball-kaiserslautern.de/event/tus-heiligenstein-1-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004041
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151128T180000
+DTEND;TZID=Europe/Berlin:20151128T192900
+LOCATION:Sporthalle Ruchheim @ Fußgönheimer Str. 127 (Ortsende)\, 67071 Lud
+ wigshafen\, Deutschland
+SEQUENCE:0
+SUMMARY:TV Ruchheim 2 – 1. Damen
+URL:http://handball-kaiserslautern.de/event/tv-ruchheim-2-1-damen-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004046
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151205T151500
+DTEND;TZID=Europe/Berlin:20151205T164400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – TSG Neustadt
+URL:http://handball-kaiserslautern.de/event/1-damen-tg-waldsee-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005055
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151205T171500
+DTEND;TZID=Europe/Berlin:20151205T184400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – TSG Mutterstadt
+URL:http://handball-kaiserslautern.de/event/2-herren-tsg-mutterstadt/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002058
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151205T193000
+DTEND;TZID=Europe/Berlin:20151205T205900
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – HSG Lingenfeld/Schwegenheim
+URL:http://handball-kaiserslautern.de/event/1-herren-hsg-lingenfeldschwegen
+ heim/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009041
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151206T120000
+DTEND;TZID=Europe/Berlin:20151206T132900
+LOCATION:Bruchwiesenhalle @ Carentaner Platz\, 67714 Waldfischbach\, Deutsc
+ hland
+SEQUENCE:0
+SUMMARY:männl. B-Jugend – TG Oggersheim
+URL:http://handball-kaiserslautern.de/event/maennl-b-jugend-tg-oggersheim-2
+ /
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028046
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151206T134500
+DTEND;TZID=Europe/Berlin:20151206T151400
+LOCATION:Bruchwiesenhalle @ Carentaner Platz\, 67714 Waldfischbach\, Deutsc
+ hland
+SEQUENCE:0
+SUMMARY:männl. D-Jugend – TG Oggersheim
+URL:http://handball-kaiserslautern.de/event/maennl-d-jugend-tg-oggersheim/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002049
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151206T153000
+DTEND;TZID=Europe/Berlin:20151206T165900
+LOCATION:Bruchwiesenhalle @ Carentaner Platz\, 67714 Waldfischbach\, Deutsc
+ hland
+SEQUENCE:0
+SUMMARY:weibl. A-Jugend – HSG Landau/Land
+URL:http://handball-kaiserslautern.de/event/weibl-a-jugend-hsg-landauland/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009042
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151212T151500
+DTEND;TZID=Europe/Berlin:20151212T164400
+LOCATION:Schulzentrum  Eisenberg @ Martin-Luther-Str. 12\, 67304 Eisenberg\
+ , Deutschland
+SEQUENCE:0
+SUMMARY:HR Göllheim/Eisenb 2 – männl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/hr-goellheimeisenb-2-maennl-b-j
+ ugend-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002052
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151212T153000
+DTEND;TZID=Europe/Berlin:20151212T165900
+LOCATION:Sporthalle  TSG Mutterstadt @ Bohligstr. 1\, 67112 Mutterstadt\, D
+ eutschland
+SEQUENCE:0
+SUMMARY:JSG Mutterst/Ruchh 1 – weibl. A-Jugend
+URL:http://handball-kaiserslautern.de/event/jsg-mutterstruchh-1-weibl-a-jug
+ end/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002061
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151212T180000
+DTEND;TZID=Europe/Berlin:20151212T192900
+LOCATION:TSG Sportzentrum Friesenheim @ Eschenbachstraße 85\, 67063 Ludwigs
+ hafen\, Deutschland
+SEQUENCE:0
+SUMMARY:TSG Friesenheim 3 – 1. Herren
+URL:http://handball-kaiserslautern.de/event/tsg-friesenheim-3-1-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004051
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151212T180000
+DTEND;TZID=Europe/Berlin:20151212T192900
+LOCATION:Schulzentrum  Kusel @ Am Roßberg\, 66869 Kusel\, Deutschland
+SEQUENCE:0
+SUMMARY:TV Kusel – 1. Damen
+URL:http://handball-kaiserslautern.de/event/tv-kusel-1-damen-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018036
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151213T113000
+DTEND;TZID=Europe/Berlin:20151213T125900
+LOCATION:Schulzentrum (mT) Mundenheim @ Adlerdamm\, 67061 Ludwigshafen\, De
+ utschland
+SEQUENCE:0
+SUMMARY:VTV Mundenheim – männl. C-Jugend
+URL:http://handball-kaiserslautern.de/event/vtv-mundenheim-maennl-c-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028054
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151213T123000
+DTEND;TZID=Europe/Berlin:20151213T135900
+LOCATION:Mandelgraben Halle  Mutterstadt @ Pfalzring 88\, 67112 Mutterstadt
+ \, Deutschland
+SEQUENCE:0
+SUMMARY:JSG Mutterst/Ruchh 2 – männl. D-Jugend
+URL:http://handball-kaiserslautern.de/event/jsg-mutterstruchh-2-maennl-d-ju
+ gend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005062
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151213T140000
+DTEND;TZID=Europe/Berlin:20151213T152900
+LOCATION:Schulzentrum  Eisenberg @ Martin-Luther-Str. 12\, 67304 Eisenberg\
+ , Deutschland
+SEQUENCE:0
+SUMMARY:HR Göllheim/Eisenberg 2 – 2. Herren
+URL:http://handball-kaiserslautern.de/event/hr-goellheimeisenberg-2-2-herre
+ n/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007028
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151213T141500
+DTEND;TZID=Europe/Berlin:20151213T154400
+LOCATION:Hauptschule  Annweiler @ Am Herrenteich 2\, 76855 Annweiler\, Deut
+ schland
+SEQUENCE:0
+SUMMARY:SG Wernersberg/Annw – weibl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/sg-wernersbergannw-weibl-b-juge
+ nd/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Hinrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028056
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160116T154500
+DTEND;TZID=Europe/Berlin:20160116T171400
+LOCATION:Schulzentrum (oT) Mundenheim @ Adlerdamm\, 67065 Ludwigshafen\, De
+ utschland
+SEQUENCE:0
+SUMMARY:VTV Mundenheim – männl. D-Jugend
+URL:http://handball-kaiserslautern.de/event/vtv-mundenheim-maennl-d-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009046
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160116T160000
+DTEND;TZID=Europe/Berlin:20160116T172900
+LOCATION:Schulzentrum  Kusel @ Am Roßberg\, 66869 Kusel\, Deutschland
+SEQUENCE:0
+SUMMARY:TV Kusel – männl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/tv-kusel-maennl-b-jugend-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002067
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160116T170000
+DTEND;TZID=Europe/Berlin:20160116T182900
+LOCATION:Schulzentrum (mT) Mundenheim @ Adlerdamm\, 67061 Ludwigshafen\, De
+ utschland
+SEQUENCE:0
+SUMMARY:VTV Mundenheim 2 – 1. Herren
+URL:http://handball-kaiserslautern.de/event/vtv-mundenheim-2-1-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005067
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160116T171500
+DTEND;TZID=Europe/Berlin:20160116T184400
+LOCATION:Schulzentrum (oT) Mundenheim @ Adlerdamm\, 67065 Ludwigshafen\, De
+ utschland
+SEQUENCE:0
+SUMMARY:VTV Mundenheim 3 – 2. Herren
+URL:http://handball-kaiserslautern.de/event/vtv-mundenheim-3-2-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004057
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160116T180000
+DTEND;TZID=Europe/Berlin:20160116T192900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – TV Hochdorf
+URL:http://handball-kaiserslautern.de/event/1-damen-tv-hochdorf-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002059
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160117T133000
+DTEND;TZID=Europe/Berlin:20160117T145900
+LOCATION:Andreas-Albert-Schule  Frankenthal @ Petergartenweg 9\, 67227 Fran
+ kenthal\, Deutschland
+SEQUENCE:0
+SUMMARY:HSC Frankenthal – weibl. A-Jugend
+URL:http://handball-kaiserslautern.de/event/hsc-frankenthal-weibl-a-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007030
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160117T142500
+DTEND;TZID=Europe/Berlin:20160117T155400
+LOCATION:Löwensteinhalle  Albersweiler @ Kanskircherstr. 24\, 76857 Albersw
+ eiler\, Deutschland
+SEQUENCE:0
+SUMMARY:SG Albersw/Ranschb – weibl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/sg-alberswranschb-weibl-b-jugen
+ d/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018039
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160117T160000
+DTEND;TZID=Europe/Berlin:20160117T172900
+LOCATION:Loschkyhalle Niederfeld @ Abteistr.\, 67059 Ludwigshafen\, Deutsch
+ land
+SEQUENCE:0
+SUMMARY:TV Rheingönheim – männl. C-Jugend
+URL:http://handball-kaiserslautern.de/event/tv-rheingoenheim-maennl-c-jugen
+ d/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005073
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160123T171500
+DTEND;TZID=Europe/Berlin:20160123T184400
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – HSG Eckbachtal 2
+URL:http://handball-kaiserslautern.de/event/2-herren-hsg-eckbachtal-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002073
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160123T193000
+DTEND;TZID=Europe/Berlin:20160123T205900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – TV Dahn
+URL:http://handball-kaiserslautern.de/event/1-herren-tv-dahn/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028062
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160124T103000
+DTEND;TZID=Europe/Berlin:20160124T115900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. D-Jugend – HSG Eckbachtal 2
+URL:http://handball-kaiserslautern.de/event/jsg-mutterstruchh-2-md-jugend/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040042
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160124T120000
+DTEND;TZID=Europe/Berlin:20160124T132900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl./weibl. E-Jugend – HSG Eckbachtal
+URL:http://handball-kaiserslautern.de/event/maennl-weibl-e-jugend-hsg-eckba
+ chtal/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018042
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160124T140000
+DTEND;TZID=Europe/Berlin:20160124T152900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. C-Jugend – HSG Eckbachtal 2
+URL:http://handball-kaiserslautern.de/event/maennl-c-jugend-hsg-eckbachtal-
+ 2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009054
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160124T160000
+DTEND;TZID=Europe/Berlin:20160124T172900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. B-Jugend – TV Rheingönheim
+URL:http://handball-kaiserslautern.de/event/maennl-b-jugend-tv-rheingoenhei
+ m-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002065
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160124T180000
+DTEND;TZID=Europe/Berlin:20160124T192900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. A-Jugend – SG Wernersb/Annw
+URL:http://handball-kaiserslautern.de/event/weibl-a-jugend-sg-wernersbannw/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004065
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160124T183000
+DTEND;TZID=Europe/Berlin:20160124T195900
+LOCATION:Schulzentrum Edigheim @ Mühlaustr. 51\, 67069 Ludwigshafen\, Deuts
+ chland
+SEQUENCE:0
+SUMMARY:TV Edigheim 2 – 1. Damen
+URL:http://handball-kaiserslautern.de/event/tv-edigheim-2-1-damen-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004066
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160130T151500
+DTEND;TZID=Europe/Berlin:20160130T164400
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – FSG Dansenberg/Waldfischbach
+URL:http://handball-kaiserslautern.de/event/1-damen-fsg-dansenbergwaldfisch
+ bach-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005079
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160130T171500
+DTEND;TZID=Europe/Berlin:20160130T184400
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – SG Asselheim/Kindenheim
+URL:http://handball-kaiserslautern.de/event/2-herren-sg-asselheimkindenheim
+ /
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002079
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160130T193000
+DTEND;TZID=Europe/Berlin:20160130T205900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – TuS KL-Dansenberg 2
+URL:http://handball-kaiserslautern.de/event/1-herren-tus-kl-dansenberg-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040043
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160131T103000
+DTEND;TZID=Europe/Berlin:20160131T115900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl./weibl. E-Jugend – SG Asselh/Kindenh
+URL:http://handball-kaiserslautern.de/event/maennl-weibl-e-jugend-sg-asselh
+ kindenh/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018045
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160131T140000
+DTEND;TZID=Europe/Berlin:20160131T152900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. C-Jugend – TuS KL-Dansenberg 2
+URL:http://handball-kaiserslautern.de/event/maennl-c-jugend-tus-kl-dansenbe
+ rg-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007035
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160131T160000
+DTEND;TZID=Europe/Berlin:20160131T172900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. B-Jugend – wABC Bob-Rox/Ass/Kind
+URL:http://handball-kaiserslautern.de/event/weibl-b-jugend-wabc-bob-roxassk
+ ind/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002071
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160213T133000
+DTEND;TZID=Europe/Berlin:20160213T145900
+LOCATION:IGS Schule @ Schulstr. 2\, 66987 Thaleischweiler\, Deutschland
+SEQUENCE:0
+SUMMARY:TV Thaleischweiler – weibl. A-Jugend
+URL:http://handball-kaiserslautern.de/event/hsc-frankenthal-wa-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007037
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160213T143000
+DTEND;TZID=Europe/Berlin:20160213T155900
+LOCATION:Wilfried-Dietrich-Halle @ Am Sportzentrum\, 67105 Schifferstadt\, 
+ Deutschland
+SEQUENCE:0
+SUMMARY:HSG Dudenh/Schifferst – weibl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/hsg-dudenhschifferst-weibl-b-ju
+ gend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005085
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160213T170000
+DTEND;TZID=Europe/Berlin:20160213T182900
+LOCATION:Schulzentrum Edigheim @ Mühlaustr. 51\, 67069 Ludwigshafen\, Deuts
+ chland
+SEQUENCE:0
+SUMMARY:TV Edigheim 2 – 2. Herren
+URL:http://handball-kaiserslautern.de/event/tv-edigheim-2-2-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002083
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160213T190000
+DTEND;TZID=Europe/Berlin:20160213T202900
+LOCATION:Schulzentrum Edigheim @ Mühlaustr. 51\, 67069 Ludwigshafen\, Deuts
+ chland
+SEQUENCE:0
+SUMMARY:TV Edigheim – 1. Herren
+URL:http://handball-kaiserslautern.de/event/tv-edigheim-1-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040047
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160214T113000
+DTEND;TZID=Europe/Berlin:20160214T124400
+LOCATION:Hans Appel-Sporthalle  Göllheim @ Jahnstr. 4\, 67307 Göllheim\, De
+ utschland
+SEQUENCE:0
+SUMMARY:HR Göllheim/Eisenb – männl./weibl. E-Jugend
+URL:http://handball-kaiserslautern.de/event/hr-goellheimeisenb-maennl-weibl
+ -e-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028073
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160214T120000
+DTEND;TZID=Europe/Berlin:20160214T132900
+LOCATION:Schulzentrum Edigheim @ Mühlaustr. 51\, 67069 Ludwigshafen\, Deuts
+ chland
+SEQUENCE:0
+SUMMARY:TV Edigheim – männl. D-Jugend
+URL:http://handball-kaiserslautern.de/event/md-jugend-hsg-eckbachtal-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009059
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160214T140000
+DTEND;TZID=Europe/Berlin:20160214T152900
+LOCATION:Sporthalle Ruchheim @ Fußgönheimer Str. 127 (Ortsende)\, 67071 Lud
+ wigshafen\, Deutschland
+SEQUENCE:0
+SUMMARY:JSG Mutterst/Ruchh – männl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/jsg-mutterstruchh-maennl-b-juge
+ nd-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018050
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160214T150000
+DTEND;TZID=Europe/Berlin:20160214T162900
+LOCATION:Schulzentrum Edigheim @ Mühlaustr. 51\, 67069 Ludwigshafen\, Deuts
+ chland
+SEQUENCE:0
+SUMMARY:TV Edigheim – männl. C-Jugend
+URL:http://handball-kaiserslautern.de/event/tv-edigheim-maennl-c-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004076
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160220T151500
+DTEND;TZID=Europe/Berlin:20160220T164400
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – SG Asselheim/Kindenheim
+URL:http://handball-kaiserslautern.de/event/1-damen-sg-asselheimkindenheim-
+ 3/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005091
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160220T171500
+DTEND;TZID=Europe/Berlin:20160220T184400
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – TV Ruchheim 2
+URL:http://handball-kaiserslautern.de/event/2-herren-tv-ruchheim-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002091
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160220T193000
+DTEND;TZID=Europe/Berlin:20160220T205900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – TV Hochdorf 2
+URL:http://handball-kaiserslautern.de/event/1-herren-tv-hochdorf-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040049
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160221T103000
+DTEND;TZID=Europe/Berlin:20160221T115900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl./weibl. E-Jugend – SC Bobenh-Roxh
+URL:http://handball-kaiserslautern.de/event/maennl-weibl-e-jugend-sc-bobenh
+ -roxh/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028078
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160221T120000
+DTEND;TZID=Europe/Berlin:20160221T132900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. D-Jugend – mCD Bob-Rox/Ass/Kind 1
+URL:http://handball-kaiserslautern.de/event/maennl-d-jugend-mcd-bob-roxassk
+ ind-1/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018051
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160221T140000
+DTEND;TZID=Europe/Berlin:20160221T152900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. C-Jugend – mCD Bob-Rox/Ass/Kind
+URL:http://handball-kaiserslautern.de/event/tsg-friesenheim-2-mc-jugend/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009065
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160221T160000
+DTEND;TZID=Europe/Berlin:20160221T172900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. B-Jugend – SC Bobenh-Roxh
+URL:http://handball-kaiserslautern.de/event/maennl-b-jugend-sc-bobenh-roxh-
+ 2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009067
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160227T140000
+DTEND;TZID=Europe/Berlin:20160227T152900
+LOCATION:Sporthalle  Freinsheim @ Reiboldstr. 12e\, 67251 Freinsheim\, Deut
+ schland
+SEQUENCE:0
+SUMMARY:HSG Eckbachtal – männl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/hsg-eckbachtal-maennl-b-jugend-
+ 2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040052
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160227T220000
+DTEND;TZID=Europe/Berlin:20160227T232900
+LOCATION:Sporthalle KL-Dansenberg @ Am Handballplatz 1\, 67661 Kaiserslaute
+ rn\, Deutschland
+SEQUENCE:0
+SUMMARY:TuS KL-Dansenberg – männl./weibl. E-Jugend
+URL:http://handball-kaiserslautern.de/event/tus-kl-dansenberg-maennl-weibl-
+ e-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002084
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160228T140000
+DTEND;TZID=Europe/Berlin:20160228T152900
+LOCATION:Sporthalle  TSG Mutterstadt @ Bohligstr. 1\, 67112 Mutterstadt\, D
+ eutschland
+SEQUENCE:0
+SUMMARY:JSG Mutterst/Ruchh 2 – weibl. A-Jugend
+URL:http://handball-kaiserslautern.de/event/wa-jugend-tv-edigheim/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004084
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160228T151000
+DTEND;TZID=Europe/Berlin:20160228T163900
+LOCATION:Schulsporthalle Lambsheim @ Neustadter Str. 23\, 67245 Lambsheim\,
+  Deutschland
+SEQUENCE:0
+SUMMARY:TV Lambsheim – 1. Damen
+URL:http://handball-kaiserslautern.de/event/tv-lambsheim-1-damen-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007041
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160228T160000
+DTEND;TZID=Europe/Berlin:20160228T172900
+LOCATION:Sporthalle  Kandel @ Jahnstr. 20\, 76870 Kandel\, Deutschland
+SEQUENCE:0
+SUMMARY:TSV Kandel – weibl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/tsv-kandel-weibl-b-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005099
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160228T165000
+DTEND;TZID=Europe/Berlin:20160228T181900
+LOCATION:Schulsporthalle Lambsheim @ Neustadter Str. 23\, 67245 Lambsheim\,
+  Deutschland
+SEQUENCE:0
+SUMMARY:MSG Lambsheim/Frankenthal – 2. Herren
+URL:http://handball-kaiserslautern.de/event/msg-lambsheimfrankenthal-2-herr
+ en/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002100
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160228T180000
+DTEND;TZID=Europe/Berlin:20160228T192900
+LOCATION:Hauptschule  Annweiler @ Am Herrenteich 2\, 76855 Annweiler\, Deut
+ schland
+SEQUENCE:0
+SUMMARY:SG Wernersberg/Annweiler – 1. Herren
+URL:http://handball-kaiserslautern.de/event/sg-wernersbergannweiler-1-herre
+ n/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002086
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160305T130000
+DTEND;TZID=Europe/Berlin:20160305T142900
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. A-Jugend – TV Lambsheim
+URL:http://handball-kaiserslautern.de/event/weibl-a-jugend-tv-lambsheim/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004086
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160305T151500
+DTEND;TZID=Europe/Berlin:20160305T164400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – SV Meckenheim
+URL:http://handball-kaiserslautern.de/event/1-damen-sv-meckenheim-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005103
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160305T171500
+DTEND;TZID=Europe/Berlin:20160305T184400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – TuS Neuhofen
+URL:http://handball-kaiserslautern.de/event/2-herren-tus-neuhofen/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002103
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160305T193000
+DTEND;TZID=Europe/Berlin:20160305T205900
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – TV 03 Wörth 2
+URL:http://handball-kaiserslautern.de/event/1-herren-tv-03-woerth-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028088
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160306T103000
+DTEND;TZID=Europe/Berlin:20160306T115900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. D-Jugend – TSG Friesenheim 2
+URL:http://handball-kaiserslautern.de/event/maennl-d-jugend-tsg-friesenheim
+ -2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040056
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160306T120000
+DTEND;TZID=Europe/Berlin:20160306T132900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl./weibl. E-Jugend – TV Lambsheim
+URL:http://handball-kaiserslautern.de/event/maennl-weibl-e-jugend-tv-lambsh
+ eim/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018057
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160306T140000
+DTEND;TZID=Europe/Berlin:20160306T152900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. C-Jugend – TuS Neuhofen
+URL:http://handball-kaiserslautern.de/event/maennl-c-jugend-tus-neuhofen/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009074
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160306T160000
+DTEND;TZID=Europe/Berlin:20160306T172900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. B-Jugend – HSG Eppst/Maxdorf
+URL:http://handball-kaiserslautern.de/event/maennl-b-jugend-hsg-eppstmaxdor
+ f-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007044
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160306T180000
+DTEND;TZID=Europe/Berlin:20160306T192900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. B-Jugend – TV Kirrweiler
+URL:http://handball-kaiserslautern.de/event/weibl-b-jugend-tv-kirrweiler/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002093
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160409T161500
+DTEND;TZID=Europe/Berlin:20160409T174400
+LOCATION:Rheinauenhalle  Waldsee @ Am Wörth 1\, 67165 Waldsee\, Deutschland
+SEQUENCE:0
+SUMMARY:TG Waldsee – weibl. A-Jugend
+URL:http://handball-kaiserslautern.de/event/tg-waldsee-weibl-a-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004092
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160409T194500
+DTEND;TZID=Europe/Berlin:20160409T211400
+LOCATION:Rheinauenhalle  Waldsee @ Am Wörth 1\, 67165 Waldsee\, Deutschland
+SEQUENCE:0
+SUMMARY:TG Waldsee 2 – 1. Damen
+URL:http://handball-kaiserslautern.de/event/tg-waldsee-2-1-damen-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002112
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160409T200000
+DTEND;TZID=Europe/Berlin:20160409T212900
+LOCATION:Reblandhalle  Kirrweiler @ Unterried 6\, 67489 Kirrweiler\, Deutsc
+ hland
+SEQUENCE:0
+SUMMARY:TV Kirrweiler – 1. Herren
+URL:http://handball-kaiserslautern.de/event/tv-kirrweiler-1-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000040062
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mwE-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160410T133000
+DTEND;TZID=Europe/Berlin:20160410T145900
+LOCATION:Waldsporthalle  Maxdorf @ Longvic-Platz\, 67133 Maxdorf\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:HSG Eppst/Maxdorf – männl./weibl. E-Jugend
+URL:http://handball-kaiserslautern.de/event/hsg-eppstmaxdorf-maennl-weibl-e
+ -jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028095
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160410T150000
+DTEND;TZID=Europe/Berlin:20160410T162900
+LOCATION:Waldsporthalle  Maxdorf @ Longvic-Platz\, 67133 Maxdorf\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:HSG Eppst/Maxdorf – männl. D-Jugend
+URL:http://handball-kaiserslautern.de/event/md-jugend-sc-bobenh-roxh/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005114
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160410T183000
+DTEND;TZID=Europe/Berlin:20160410T195900
+LOCATION:Waldsporthalle  Maxdorf @ Longvic-Platz\, 67133 Maxdorf\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:HSG Eppstein/Maxdorf – 2. Herren
+URL:http://handball-kaiserslautern.de/event/hsg-eppsteinmaxdorf-2-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005116
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160416T171500
+DTEND;TZID=Europe/Berlin:20160416T184400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – SKG Grethen
+URL:http://handball-kaiserslautern.de/event/2-herren-skg-grethen/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002117
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160416T193000
+DTEND;TZID=Europe/Berlin:20160416T205900
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – TuS Heiligenstein
+URL:http://handball-kaiserslautern.de/event/1-herren-tus-heiligenstein/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028097
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160417T120000
+DTEND;TZID=Europe/Berlin:20160417T132900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. D-Jugend – SKG Grethen
+URL:http://handball-kaiserslautern.de/event/maennl-d-jugend-skg-grethen/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018064
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160417T140000
+DTEND;TZID=Europe/Berlin:20160417T152900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. C-Jugend – TSG Friesenheim 2
+URL:http://handball-kaiserslautern.de/event/maennl-c-jugend-tsg-friesenheim
+ -2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009082
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160417T160000
+DTEND;TZID=Europe/Berlin:20160417T172900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. B-Jugend – SKG Grethen
+URL:http://handball-kaiserslautern.de/event/maennl-b-jugend-skg-grethen-1-2
+ /
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002100
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160417T180000
+DTEND;TZID=Europe/Berlin:20160417T192900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. A-Jugend – HSG Lingenf/Schweg
+URL:http://handball-kaiserslautern.de/event/weibl-a-jugend-hsg-lingenfschwe
+ g/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004100
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160417T200000
+DTEND;TZID=Europe/Berlin:20160417T212900
+LOCATION:Schulzentrum-Süd  Kaiserslautern @ Im Stadtwald 10\, 67657 Kaisers
+ lautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – TV Ruchheim 2
+URL:http://handball-kaiserslautern.de/event/1-damen-tv-ruchheim-2-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002101
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160423T150000
+DTEND;TZID=Europe/Berlin:20160423T162900
+LOCATION:Rundsporthalle-West  Landau @ Priessnitz Weg\, 76829 Landau\, Deut
+ schland
+SEQUENCE:0
+SUMMARY:HSG Landau/Land – weibl. A-Jugend
+URL:http://handball-kaiserslautern.de/event/hsg-landauland-weibl-a-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002123
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160423T193000
+DTEND;TZID=Europe/Berlin:20160423T205900
+LOCATION:Goldberghalle  Lingenfeld @ Pommernstr. 1\, 67360 Lingenfeld\, Deu
+ tschland
+SEQUENCE:0
+SUMMARY:HSG Lingenfeld/Schwegenheim – 1. Herren
+URL:http://handball-kaiserslautern.de/event/hsg-lingenfeldschwegenheim-1-he
+ rren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005124
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160423T193000
+DTEND;TZID=Europe/Berlin:20160423T205900
+LOCATION:Sporthalle  TSG Mutterstadt @ Bohligstr. 1\, 67112 Mutterstadt\, D
+ eutschland
+SEQUENCE:0
+SUMMARY:TSG Mutterstadt – 2. Herren
+URL:http://handball-kaiserslautern.de/event/tsg-mutterstadt-2-herren/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004104
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160424T110000
+DTEND;TZID=Europe/Berlin:20160424T122900
+LOCATION:Böbighalle  Neustadt @ Martin Luther Str.\, 67433 Neustadt\, Deuts
+ chland
+SEQUENCE:0
+SUMMARY:TSG Neustadt – 1. Damen
+URL:http://handball-kaiserslautern.de/event/tsg-neustadt-1-damen-2/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028105
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160424T142500
+DTEND;TZID=Europe/Berlin:20160424T155400
+LOCATION:Gesamtschule Oggersheim @ H.-Hesse-Str. 11\, 67069 Ludwigshafen\, 
+ Deutschland
+SEQUENCE:0
+SUMMARY:TG Oggersheim – männl. D-Jugend
+URL:http://handball-kaiserslautern.de/event/tg-oggersheim-maennl-d-jugend/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009085
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160424T154500
+DTEND;TZID=Europe/Berlin:20160424T171400
+LOCATION:Gesamtschule Oggersheim @ H.-Hesse-Str. 11\, 67069 Ludwigshafen\, 
+ Deutschland
+SEQUENCE:0
+SUMMARY:TG Oggersheim – männl. B-Jugend
+URL:http://handball-kaiserslautern.de/event/jsg-mutterstruchh-maennl-b-juge
+ nd/
+X-TAGS;LANGUAGE=de-DE:Auswärtsspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502502000000000000000000004107
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Damen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160430T151500
+DTEND;TZID=Europe/Berlin:20160430T164400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Damen – TV Kusel
+URL:http://handball-kaiserslautern.de/event/1-damen-tv-kusel-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000005129
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:2. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160430T171500
+DTEND;TZID=Europe/Berlin:20160430T184400
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:2. Herren – HR Göllheim/Eisenberg 2
+URL:http://handball-kaiserslautern.de/event/2-herren-hr-goellheimeisenberg-
+ 2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502501000000000000000000002129
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:1. Herren
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160430T193000
+DTEND;TZID=Europe/Berlin:20160430T205900
+LOCATION:Barbarossa-Halle  Kaiserslautern @ Ludwig-Thoma-Str. 1\, 67657 Kai
+ serslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:1. Herren – TSG Friesenheim 3
+URL:http://handball-kaiserslautern.de/event/1-herren-tsg-friesenheim-3/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000028106
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mD-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160501T103000
+DTEND;TZID=Europe/Berlin:20160501T115900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. D-Jugend – JSG Mutterst/Ruchh 2
+URL:http://handball-kaiserslautern.de/event/md-jugend-tsg-friesenheim-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000018069
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mC-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160501T120000
+DTEND;TZID=Europe/Berlin:20160501T132900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. C-Jugend – VTV Mundenheim
+URL:http://handball-kaiserslautern.de/event/maennl-c-jugend-vtv-mundenheim/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000007056
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160501T140000
+DTEND;TZID=Europe/Berlin:20160501T152900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. B-Jugend – SG Wernersberg/Annw
+URL:http://handball-kaiserslautern.de/event/weibl-b-jugend-sg-wernersbergan
+ nw/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502503000000000000000000009088
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:mB-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160501T160000
+DTEND;TZID=Europe/Berlin:20160501T172900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:männl. B-Jugend – HR Göllheim/Eisenb 2
+URL:http://handball-kaiserslautern.de/event/maennl-b-jugend-hr-goellheimeis
+ enb-2-2/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+BEGIN:VEVENT
+UID:001516504502504000000000000000000002110
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=de-DE:wA-Jugend
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160501T180000
+DTEND;TZID=Europe/Berlin:20160501T192900
+LOCATION:Schillerschule Kaiserslautern @ Julius-Küchler-Str. 1\, 67659 Kais
+ erslautern\, Deutschland
+SEQUENCE:0
+SUMMARY:weibl. A-Jugend – JSG Mutterst/Ruchh 1
+URL:http://handball-kaiserslautern.de/event/weibl-a-jugend-jsg-mutterstruch
+ h-1/
+X-TAGS;LANGUAGE=de-DE:Heimspiel\,Rückrunde
+END:VEVENT
+END:VCALENDAR

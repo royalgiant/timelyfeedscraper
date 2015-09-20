@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="de-DE"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="de-DE"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="de-DE"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="de-DE"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+    <title>RTHC</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<link rel="shortcut icon" type="image/x-icon" href="http://www.rthc-test.de/wp-content/uploads/2015/09/RTHC-Logo_trans_Stand_20141.png" />
+  	  <meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="RTHC &raquo; Feed" href="http://www.rthc-test.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="RTHC &raquo; Kommentar-Feed" href="http://www.rthc-test.de/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="RTHC &raquo; iCal Feed" href="http://www.rthc-test.de/events/?ical=1" />
+<link rel="alternate" type="application/rss+xml" title="RTHC &raquo; Herzlich Willkommen Kommentar-Feed" href="http://www.rthc-test.de/beispiel-seite-2/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.rthc-test.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://www.rthc-test.de/wp-content/plugins/siteorigin-panels/css/front.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.rthc-test.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-button-base-css'  href='http://www.rthc-test.de/wp-content/plugins/so-widgets-bundle/widgets/so-button-widget/css/style.css?ver=1.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-button-flat-effa06e2dc5e-css'  href='http://www.rthc-test.de/wp-content/uploads/siteorigin-widgets/sow-button-flat-effa06e2dc5e.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://www.rthc-test.de/wp-content/themes/virtue/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style_login_widget-css'  href='http://www.rthc-test.de/wp-content/plugins/login-sidebar-widget/style_login_widget.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-smoothness-css'  href='http://www.rthc-test.de/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.min.css?ver=1.10.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='kadence_theme-css'  href='http://www.rthc-test.de/wp-content/themes/virtue/assets/css/virtue.css?ver=255' type='text/css' media='all' />
+<link rel='stylesheet' id='virtue_skin-css'  href='http://www.rthc-test.de/wp-content/themes/virtue/assets/css/skins/default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='roots_child-css'  href='http://www.rthc-test.de/wp-content/themes/virtue_child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-virtue-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C700&#038;ver=1442595258' type='text/css' media='all' />
+<link rel='stylesheet' id='teccc_stylesheet-css'  href='http://www.rthc-test.de?teccc_css=df3e40ed8c4f596a9df9f2e8ed7eb80d&#038;plugin=all-in-one-event-calendar&#038;controller=ai1ec_exporter_controller&#038;action=export_events&#038;ver=4.3.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.rthc-test.de/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-content/themes/virtue/assets/js/vendor/modernizr.min.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.rthc-test.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.rthc-test.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='canonical' href='http://www.rthc-test.de/' />
+<link rel='shortlink' href='http://www.rthc-test.de/' />
+<style type="text/css">#logo {padding-top:15px;}#logo {padding-bottom:0px;}#logo {margin-left:0px;}#logo {margin-right:0px;}#nav-main {margin-top:40px;}#nav-main {margin-bottom:10px;}.headerfont, .tp-caption {font-family:Lato;} 
+  .topbarmenu ul li {font-family:Lato;}
+  #kadbreadcrumbs {font-family:Verdana, Geneva, sans-serif;}.home-message:hover {background-color:#136db2; background-color: rgba(19, 109, 178, 0.6);}
+  nav.woocommerce-pagination ul li a:hover, .wp-pagenavi a:hover, .panel-heading .accordion-toggle, .variations .kad_radio_variations label:hover, .variations .kad_radio_variations label.selectedValue {border-color: #136db2;}
+  a, #nav-main ul.sf-menu ul li a:hover, .product_price ins .amount, .price ins .amount, .color_primary, .primary-color, #logo a.brand, #nav-main ul.sf-menu a:hover,
+  .woocommerce-message:before, .woocommerce-info:before, #nav-second ul.sf-menu a:hover, .footerclass a:hover, .posttags a:hover, .subhead a:hover, .nav-trigger-case:hover .kad-menu-name, 
+  .nav-trigger-case:hover .kad-navbtn, #kadbreadcrumbs a:hover, #wp-calendar a, .star-rating {color: #136db2;}
+.widget_price_filter .ui-slider .ui-slider-handle, .product_item .kad_add_to_cart:hover, .product_item:hover a.button:hover, .product_item:hover .kad_add_to_cart:hover, .kad-btn-primary, html .woocommerce-page .widget_layered_nav ul.yith-wcan-label li a:hover, html .woocommerce-page .widget_layered_nav ul.yith-wcan-label li.chosen a,
+.product-category.grid_item a:hover h5, .woocommerce-message .button, .widget_layered_nav_filters ul li a, .widget_layered_nav ul li.chosen a, .wpcf7 input.wpcf7-submit, .yith-wcan .yith-wcan-reset-navigation,
+#containerfooter .menu li a:hover, .bg_primary, .portfolionav a:hover, .home-iconmenu a:hover, p.demo_store, .topclass, #commentform .form-submit #submit, .kad-hover-bg-primary:hover, .widget_shopping_cart_content .checkout,
+.login .form-row .button, .variations .kad_radio_variations label.selectedValue, #payment #place_order, .wpcf7 input.wpcf7-back, .shop_table .actions input[type=submit].checkout-button, .cart_totals .checkout-button, input[type="submit"].button, .order-actions .button  {background: #136db2;}a:hover {color: #7099bf;} .kad-btn-primary:hover, .login .form-row .button:hover, #payment #place_order:hover, .yith-wcan .yith-wcan-reset-navigation:hover, .widget_shopping_cart_content .checkout:hover,
+.woocommerce-message .button:hover, #commentform .form-submit #submit:hover, .wpcf7 input.wpcf7-submit:hover, .widget_layered_nav_filters ul li a:hover, .cart_totals .checkout-button:hover,
+.widget_layered_nav ul li.chosen a:hover, .shop_table .actions input[type=submit].checkout-button:hover, .wpcf7 input.wpcf7-back:hover, .order-actions .button:hover, input[type="submit"].button:hover, .product_item:hover .kad_add_to_cart, .product_item:hover a.button {background: #7099bf;}.color_gray, .subhead, .subhead a, .posttags, .posttags a, .product_meta a {color:#1e73be;}.kad-hidepostauthortop, .postauthortop {display:none;}.product_item .product_details h5 {text-transform: none;}.product_item .product_details h5 {min-height:40px;}</style><style></style><style type="text/css" media="all" id="siteorigin-panels-grids-wp_head">/* Layout 3061 */ #pgc-3061-0-0 { width:48.551% } #pgc-3061-0-1 { width:51.449% } #pg-3061-0 , #pg-3061-1 , #pl-3061 .panel-grid-cell .so-panel { margin-bottom:30px } #pg-3061-0 .panel-grid-cell , #pg-3061-1 .panel-grid-cell { float:left } #pgc-3061-1-0 , #pgc-3061-1-1 , #pgc-3061-1-2 { width:33.333% } #pl-3061 .panel-grid-cell .so-panel:last-child { margin-bottom:0px } #pg-3061-0 , #pg-3061-1 { margin-left:-15px;margin-right:-15px } #pg-3061-0 .panel-grid-cell , #pg-3061-1 .panel-grid-cell { padding-left:15px;padding-right:15px } @media (max-width:780px){ #pg-3061-0 .panel-grid-cell , #pg-3061-1 .panel-grid-cell , #pg-3061-2 .panel-grid-cell { float:none;width:auto } #pgc-3061-0-0 , #pgc-3061-1-0 , #pgc-3061-1-1 { margin-bottom:30px } #pl-3061 .panel-grid { margin-left:0;margin-right:0 } #pl-3061 .panel-grid-cell { padding:0 }  } </style><!--[if lt IE 9]>
+<script src="http://www.rthc-test.de/wp-content/themes/virtue/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" href="http://www.rthc-test.de/wp-content/uploads/2015/09/cropped-RTHC-Logo_trans_Stand_20141-150x150.png" sizes="32x32" />
+<link rel="icon" href="http://www.rthc-test.de/wp-content/uploads/2015/09/cropped-RTHC-Logo_trans_Stand_20141-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.rthc-test.de/wp-content/uploads/2015/09/cropped-RTHC-Logo_trans_Stand_20141-300x300.png">
+<meta name="msapplication-TileImage" content="http://www.rthc-test.de/wp-content/uploads/2015/09/cropped-RTHC-Logo_trans_Stand_20141-300x300.png">
+<style type="text/css" title="dynamic-css" class="options-output">header #logo a.brand,.logofont{font-family:Lato;line-height:40px;font-weight:400;font-style:normal;font-size:32px;}.kad_tagline{font-family:Lato;line-height:20px;font-weight:400;font-style:normal;color:#444444;font-size:14px;}.product_item .product_details h5{font-family:Lato;line-height:20px;font-weight:700;font-style:normal;font-size:16px;}h1{font-family:Lato;line-height:40px;font-weight:normal;font-style:400;font-size:38px;}h2{font-family:Lato;line-height:40px;font-weight:normal;font-style:normal;font-size:32px;}h3{font-family:Lato;line-height:40px;font-weight:normal;font-style:400;font-size:28px;}h4{font-family:Lato;line-height:40px;font-weight:normal;font-style:400;font-size:24px;}h5{font-family:Lato;line-height:24px;font-weight:normal;font-style:700;font-size:18px;}body{font-family:Verdana, Geneva, sans-serif;line-height:20px;font-weight:normal;font-style:400;font-size:14px;}#nav-main ul.sf-menu a{font-family:Lato;line-height:22px;font-weight:400;font-style:normal;font-size:28px;}#nav-second ul.sf-menu a{font-family:Lato;line-height:22px;font-weight:400;font-style:normal;font-size:18px;}.kad-nav-inner .kad-mnav, .kad-mobile-nav .kad-nav-inner li a,.nav-trigger-case{font-family:Lato;line-height:20px;font-weight:400;font-style:normal;font-size:16px;}</style></head>
+  <body class="home page page-id-3061 page-template-default siteorigin-panels siteorigin-panels-home wide">
+    <div id="wrapper" class="container">
+    <div id="kt-skip-link"><a href="#content">Skip to Main Content</a></div><header class="banner headerclass" role="banner">
+  <section id="topbar" class="topclass">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-6 kad-topbar-left">
+          <div class="topbarmenu clearfix">
+                                            </div>
+        </div><!-- close col-md-6 --> 
+        <div class="col-md-6 col-sm-6 kad-topbar-right">
+          <div id="topbar-search" class="topbar-widget">
+            <form role="search" method="get" id="searchform" class="form-search" action="http://www.rthc-test.de/">
+  <label class="hide" for="s">Suche nach:</label>
+  <input type="text" value="" name="s" id="s" class="search-query" placeholder="Suche">
+  <button type="submit" id="searchsubmit" class="search-icon"><i class="icon-search"></i></button>
+</form>        </div>
+        </div> <!-- close col-md-6-->
+      </div> <!-- Close Row -->
+    </div> <!-- Close Container -->
+  </section>
+  <div class="container">
+    <div class="row">
+          <div class="col-md-4 clearfix kad-header-left">
+            <div id="logo" class="logocase">
+              <a class="brand logofont" href="http://www.rthc-test.de/">
+                                  <div id="thelogo">
+                    <img src="http://www.rthc-test.de/wp-content/uploads/2015/09/RTHC-Logo_trans_Stand_2014-e1441737801140.png" alt="RTHC" class="kad-standard-logo" />
+                                      </div>
+                              </a>
+                              <p class="kad_tagline belowlogo-text">Ruder-Tennis-Hockey-Club Bayer Leverkusen e.V.</p>
+                         </div> <!-- Close #logo -->
+       </div><!-- close logo span -->
+                <div class="col-md-8 kad-header-right">
+           <nav id="nav-main" class="clearfix" role="navigation">
+              <ul id="menu-hauptmenue" class="sf-menu"><li  class="menu-verein sf-dropdown menu-item-4273"><a href="http://www.rthc-test.de/verein/">Verein</a>
+<ul class="sf-dropdown-menu">
+	<li  class="menu-aktuelles menu-item-3954"><a href="http://www.rthc-test.de/category/verein/">Aktuelles</a></li>
+	<li  class="menu-historie menu-item-2351"><a href="http://www.rthc-test.de/verein/historie/">Historie</a></li>
+	<li  class="menu-sportanlagen menu-item-1351"><a href="http://www.rthc-test.de/verein/sportanlagen/">Sportanlagen</a></li>
+	<li  class="menu-mitgliedschaft sf-dropdown-submenu menu-item-2371"><a href="http://www.rthc-test.de/verein/mitgliedschaft/">Mitgliedschaft</a>
+<ul class="sf-dropdown-menu">
+		<li  class="menu-beitraege menu-item-2391"><a href="http://www.rthc-test.de/verein/mitgliedschaft/beitraege/">Beiträge</a></li>
+	</ul>
+</li>
+	<li  class="menu-mitgliederbereich menu-item-4306"><a href="http://www.rthc-test.de/verein/mitgliederbereich/">Mitgliederbereich</a></li>
+</ul>
+</li>
+<li  class="menu-rudern sf-dropdown menu-item-4274"><a href="http://www.rthc-test.de/rudern/">Rudern</a>
+<ul class="sf-dropdown-menu">
+	<li  class="menu-aktuelles menu-item-3959"><a href="http://www.rthc-test.de/category/rudern/">Aktuelles</a></li>
+	<li  class="menu-ruderreviere menu-item-1671"><a href="http://www.rthc-test.de/rudern/ruderanlagen/">Ruderreviere</a></li>
+	<li  class="menu-breitensport menu-item-641"><a href="http://www.rthc-test.de/rudern/breitensport/">Breitensport</a></li>
+	<li  class="menu-leistungssport menu-item-691"><a href="http://www.rthc-test.de/rudern/leistungssport/">Leistungssport</a></li>
+	<li  class="menu-ausbildung sf-dropdown-submenu menu-item-1861"><a href="http://www.rthc-test.de/rudern/ausbildung/">Ausbildung</a>
+<ul class="sf-dropdown-menu">
+		<li  class="menu-schnupperkurs menu-item-1881"><a href="http://www.rthc-test.de/rudern/ausbildung/schnupperkurs/">Schnupperkurs</a></li>
+		<li  class="menu-jugendliche menu-item-1911"><a href="http://www.rthc-test.de/rudern/ausbildung/jugendliche/">Jugendliche</a></li>
+		<li  class="menu-kinder menu-item-1892"><a href="http://www.rthc-test.de/rudern/ausbildung/kinder/">Kinder</a></li>
+		<li  class="menu-erwachsene menu-item-1931"><a href="http://www.rthc-test.de/rudern/ausbildung/erwachsene/">Erwachsene</a></li>
+		<li  class="menu-trainerausbilder menu-item-2611"><a href="http://www.rthc-test.de/rudern/ausbildung/trainerausbilder/">Trainer/Ausbilder</a></li>
+	</ul>
+</li>
+	<li  class="menu-vorstand menu-item-451"><a href="http://www.rthc-test.de/rudern/kontakt/">Vorstand</a></li>
+	<li  class="menu-mitgliederbereich menu-item-4151"><a href="http://www.rthc-test.de/rudern/mitgliederbereich-01/">Mitgliederbereich</a></li>
+</ul>
+</li>
+<li  class="menu-tennis sf-dropdown menu-item-4275"><a href="http://www.rthc-test.de/tennis/">Tennis</a>
+<ul class="sf-dropdown-menu">
+	<li  class="menu-aktuelles menu-item-3953"><a href="http://www.rthc-test.de/category/tennis/">Aktuelles</a></li>
+	<li  class="menu-mannschaften sf-dropdown-submenu menu-item-2891"><a href="http://www.rthc-test.de/tennis/mannschaften/">Mannschaften</a>
+<ul class="sf-dropdown-menu">
+		<li  class="menu-1-damen menu-item-3071"><a href="http://www.rthc-test.de/tennis/mannschaften/1-damen/">1. Damen</a></li>
+		<li  class="menu-1-herren menu-item-3081"><a href="http://www.rthc-test.de/tennis/mannschaften/jugend-2/">1. Herren</a></li>
+	</ul>
+</li>
+	<li  class="menu-mitgliederbereich menu-item-4302"><a href="http://www.rthc-test.de/tennis/mitgliederbereich/">Mitgliederbereich</a></li>
+</ul>
+</li>
+<li  class="menu-hockey sf-dropdown menu-item-4276"><a href="http://www.rthc-test.de/hockey/">Hockey</a>
+<ul class="sf-dropdown-menu">
+	<li  class="menu-akutelles menu-item-3952"><a href="http://www.rthc-test.de/category/hockey/">Akutelles</a></li>
+	<li  class="menu-mitgliederbereich menu-item-4304"><a href="http://www.rthc-test.de/hockey/mitgliederbereich/">Mitgliederbereich</a></li>
+</ul>
+</li>
+</ul>           </nav> 
+          </div> <!-- Close menuclass-->
+               
+    </div> <!-- Close Row -->
+               <div id="mobile-nav-trigger" class="nav-trigger">
+              <button class="nav-trigger-case mobileclass collapsed" data-toggle="collapse" data-target=".kad-nav-collapse">
+                <span class="kad-navbtn"><i class="icon-reorder"></i></span>
+                <span class="kad-menu-name">Menü</span>
+              </button>
+            </div>
+            <div id="kad-mobile-nav" class="kad-mobile-nav">
+              <div class="kad-nav-inner mobileclass">
+                <div class="kad-nav-collapse">
+                <ul id="menu-hauptmenue-1" class="kad-mnav"><li  class="menu-verein sf-dropdown sf-dropdown-toggle menu-item-4273"><a href="http://www.rthc-test.de/verein/">Verein</a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sf-dropdown-menu collapse">
+	<li  class="menu-aktuelles menu-item-3954"><a href="http://www.rthc-test.de/category/verein/">Aktuelles</a></li>
+	<li  class="menu-historie menu-item-2351"><a href="http://www.rthc-test.de/verein/historie/">Historie</a></li>
+	<li  class="menu-sportanlagen menu-item-1351"><a href="http://www.rthc-test.de/verein/sportanlagen/">Sportanlagen</a></li>
+	<li  class="menu-mitgliedschaft sf-dropdown-submenu sf-dropdown-toggle menu-item-2371"><a href="http://www.rthc-test.de/verein/mitgliedschaft/">Mitgliedschaft</a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sf-dropdown-menu collapse">
+		<li  class="menu-beitrge menu-item-2391"><a href="http://www.rthc-test.de/verein/mitgliedschaft/beitraege/">Beiträge</a></li>
+	</ul>
+</li>
+	<li  class="menu-mitgliederbereich menu-item-4306"><a href="http://www.rthc-test.de/verein/mitgliederbereich/">Mitgliederbereich</a></li>
+</ul>
+</li>
+<li  class="menu-rudern sf-dropdown sf-dropdown-toggle menu-item-4274"><a href="http://www.rthc-test.de/rudern/">Rudern</a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sf-dropdown-menu collapse">
+	<li  class="menu-aktuelles menu-item-3959"><a href="http://www.rthc-test.de/category/rudern/">Aktuelles</a></li>
+	<li  class="menu-ruderreviere menu-item-1671"><a href="http://www.rthc-test.de/rudern/ruderanlagen/">Ruderreviere</a></li>
+	<li  class="menu-breitensport menu-item-641"><a href="http://www.rthc-test.de/rudern/breitensport/">Breitensport</a></li>
+	<li  class="menu-leistungssport menu-item-691"><a href="http://www.rthc-test.de/rudern/leistungssport/">Leistungssport</a></li>
+	<li  class="menu-ausbildung sf-dropdown-submenu sf-dropdown-toggle menu-item-1861"><a href="http://www.rthc-test.de/rudern/ausbildung/">Ausbildung</a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sf-dropdown-menu collapse">
+		<li  class="menu-schnupperkurs menu-item-1881"><a href="http://www.rthc-test.de/rudern/ausbildung/schnupperkurs/">Schnupperkurs</a></li>
+		<li  class="menu-jugendliche menu-item-1911"><a href="http://www.rthc-test.de/rudern/ausbildung/jugendliche/">Jugendliche</a></li>
+		<li  class="menu-kinder menu-item-1892"><a href="http://www.rthc-test.de/rudern/ausbildung/kinder/">Kinder</a></li>
+		<li  class="menu-erwachsene menu-item-1931"><a href="http://www.rthc-test.de/rudern/ausbildung/erwachsene/">Erwachsene</a></li>
+		<li  class="menu-trainerausbilder menu-item-2611"><a href="http://www.rthc-test.de/rudern/ausbildung/trainerausbilder/">Trainer/Ausbilder</a></li>
+	</ul>
+</li>
+	<li  class="menu-vorstand menu-item-451"><a href="http://www.rthc-test.de/rudern/kontakt/">Vorstand</a></li>
+	<li  class="menu-mitgliederbereich menu-item-4151"><a href="http://www.rthc-test.de/rudern/mitgliederbereich-01/">Mitgliederbereich</a></li>
+</ul>
+</li>
+<li  class="menu-tennis sf-dropdown sf-dropdown-toggle menu-item-4275"><a href="http://www.rthc-test.de/tennis/">Tennis</a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sf-dropdown-menu collapse">
+	<li  class="menu-aktuelles menu-item-3953"><a href="http://www.rthc-test.de/category/tennis/">Aktuelles</a></li>
+	<li  class="menu-mannschaften sf-dropdown-submenu sf-dropdown-toggle menu-item-2891"><a href="http://www.rthc-test.de/tennis/mannschaften/">Mannschaften</a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sf-dropdown-menu collapse">
+		<li  class="menu-1damen menu-item-3071"><a href="http://www.rthc-test.de/tennis/mannschaften/1-damen/">1. Damen</a></li>
+		<li  class="menu-1herren menu-item-3081"><a href="http://www.rthc-test.de/tennis/mannschaften/jugend-2/">1. Herren</a></li>
+	</ul>
+</li>
+	<li  class="menu-mitgliederbereich menu-item-4302"><a href="http://www.rthc-test.de/tennis/mitgliederbereich/">Mitgliederbereich</a></li>
+</ul>
+</li>
+<li  class="menu-hockey sf-dropdown sf-dropdown-toggle menu-item-4276"><a href="http://www.rthc-test.de/hockey/">Hockey</a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sf-dropdown-menu collapse">
+	<li  class="menu-akutelles menu-item-3952"><a href="http://www.rthc-test.de/category/hockey/">Akutelles</a></li>
+	<li  class="menu-mitgliederbereich menu-item-4304"><a href="http://www.rthc-test.de/hockey/mitgliederbereich/">Mitgliederbereich</a></li>
+</ul>
+</li>
+</ul>               </div>
+            </div>
+          </div>   
+           
+  </div> <!-- Close Container -->
+   
+      <div class="container"><div class="virtue_banner"><img src="http://www.rthc-test.de/wp-content/uploads/2015/09/Lightroom-Export1.jpg" /></div></div> </header>      <div class="wrap contentclass" role="document">
+
+      				<div id="homeheader" class="welcomeclass">
+					<div class="container">
+						<div class="page-header">
+	<h1 class="entry-title" itemprop="name">
+		Herzlich Willkommen	</h1>
+   	</div>					</div>
+				</div><!--titleclass-->
+			
+    <div id="content" class="container homepagecontent">
+   		<div class="row">
+          	<div class="main col-md-12" role="main">
+          	<div class="entry-content" itemprop="mainContentOfPage">
+
+      										<div class="homecontent clearfix home-margin"> 
+									  <div id="pl-3061"><div class="panel-grid" id="pg-3061-0" ><div class="panel-grid-cell" id="pgc-3061-0-0" ><div class="so-panel widget widget_tribe-events-list-widget tribe-events-list-widget panel-first-child panel-last-child" id="panel-3061-0-0-0"><div style="padding: 10px;background-color:#f2f2f2;" class="panel-widget-style" ><h3 class="widget-title">Bevorstehende Veranstaltungen</h3>
+	<ol class="hfeed vcalendar">
+					<li class="tribe-events-list-widget-events hentry vevent type-tribe_events post-4491 tribe-clearfix tribe-events-category-rudern tribe-events-venue-4492 tribe-events-organizer-0 tribe-events-first tribe-events-last">
+
+								<!-- Event Title -->
+				<h4 class="entry-title summary">
+					<a href="http://www.rthc-test.de/event/31-krefelder-herbstregatta/" rel="bookmark">31. Krefelder Herbstregatta</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="duration">
+					<span class="date-start dtstart">Samstag, 19. September<span class="value-title" title="2015-09-19CEST12:00"></span></span> - <span class="date-end dtend">Sonntag, 20. September<span class="value-title" title="2015-09-20CEST11:59"></span></span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events hentry vevent type-tribe_events post-4493 tribe-clearfix tribe-events-category-tennis tribe-events-venue-4494 tribe-events-organizer-0 tribe-events-first tribe-events-last">
+
+								<!-- Event Title -->
+				<h4 class="entry-title summary">
+					<a href="http://www.rthc-test.de/event/patricio-travel-cup-2/" rel="bookmark">Patricio Travel Cup 2</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="duration">
+					<span class="date-start dtstart">Samstag, 19. September<span class="value-title" title="2015-09-19CEST12:00"></span></span> - <span class="date-end dtend">Samstag, 26. September<span class="value-title" title="2015-09-26CEST11:59"></span></span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events hentry vevent type-tribe_events post-4495 tribe-clearfix tribe-events-category-hockey tribe-events-venue-4494 tribe-events-organizer-0 tribe-events-first tribe-events-last">
+
+								<!-- Event Title -->
+				<h4 class="entry-title summary">
+					<a href="http://www.rthc-test.de/event/1-damen-rthc-crefelder-htc/" rel="bookmark">1. Damen: RTHC &#8211; Crefelder HTC</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="duration">
+					<span class="date-start dtstart">Sonntag, 20. September @ 12:00<span class="value-title" title="2015-09-20CEST12:00"></span></span> - <span class="end-time dtend">14:00<span class="value-title" title="2015-09-20CEST02:00"></span></span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events hentry vevent type-tribe_events post-4496 tribe-clearfix tribe-events-category-hockey tribe-events-venue-4497 tribe-events-organizer-0 tribe-events-first tribe-events-last">
+
+								<!-- Event Title -->
+				<h4 class="entry-title summary">
+					<a href="http://www.rthc-test.de/event/1-herren-thc-berg-gladbach-rthc/" rel="bookmark">1. Herren: THC Berg. Gladbach &#8211; RTHC</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="duration">
+					<span class="date-start dtstart">Sonntag, 20. September @ 18:00<span class="value-title" title="2015-09-20CEST06:00"></span></span> - <span class="end-time dtend">20:00<span class="value-title" title="2015-09-20CEST08:00"></span></span>				</div>
+
+							</li>
+			</ol><!-- .hfeed -->
+
+	<p class="tribe-events-widget-link">
+		<a href="http://www.rthc-test.de/events/" rel="bookmark">Alle Veranstaltungen anzeigen</a>
+	</p>
+
+</div></div></div><div class="panel-grid-cell" id="pgc-3061-0-1" ><div class="so-panel widget widget_listcategorypostswidget widget_listcategorypostswidget panel-first-child" id="panel-3061-0-1-0"><div style="padding: 10px;background-color:#f2f2f2;" class="panel-widget-style" ><h3 class="widget-title">Vereins-News</h3><ul><li><a href="http://www.rthc-test.de/2015/09/17/herbstferiencamp-2015-in-der-1-ferienwoche/" title="Herbstferiencamp 2015 in der 1. Ferienwoche">Herbstferiencamp 2015 in der 1. Ferienwoche</a>  </li></ul><a href="http://www.rthc-test.de/category/verein/" >Mehr</a></div></div><div class="so-panel widget widget_listcategorypostswidget widget_listcategorypostswidget" id="panel-3061-0-1-1"><div style="padding: 10px;background-color:#f2f2f2;" class="panel-widget-style" ><h3 class="widget-title">Ruder-News</h3><ul><li><a href="http://www.rthc-test.de/2015/09/14/ruderer-mit-gemischten-ergebnissen-bei-der-world-masters-regatta/" title="Ruderer mit gemischten Ergebnissen bei der WORLD MASTERS REGATTA">Ruderer mit gemischten Ergebnissen bei der WORLD MASTERS REGATTA</a>  </li></ul><a href="http://www.rthc-test.de/category/rudern/" >Mehr</a></div></div><div class="so-panel widget widget_listcategorypostswidget widget_listcategorypostswidget" id="panel-3061-0-1-2"><div style="padding: 10px;background-color:#f2f2f2;" class="panel-widget-style" ><h3 class="widget-title">Tennis-News</h3><ul><li><a href="http://www.rthc-test.de/2015/09/07/27-auftaktniederlage-unserer-herren-gegen-rw-koeln-in-der-2-bundesliga/" title="2:7 Auftaktniederlage unserer Herren gegen RW Köln in der 2. Bundesliga">2:7 Auftaktniederlage unserer Herren gegen RW Köln in der 2. Bundesliga</a>  </li></ul><a href="http://www.rthc-test.de/category/tennis/" >Mehr</a></div></div><div class="so-panel widget widget_listcategorypostswidget widget_listcategorypostswidget panel-last-child" id="panel-3061-0-1-3"><div style="padding: 10px;background-color:#f2f2f2;" class="panel-widget-style" ><h3 class="widget-title">Hockey- News</h3><ul><li><a href="http://www.rthc-test.de/2015/09/14/damen-auf-kurs-herren-kommen-nicht-in-fahrt/" title="Damen auf Kurs, Herren kommen nicht in Fahrt">Damen auf Kurs, Herren kommen nicht in Fahrt</a>  </li></ul><a href="http://www.rthc-test.de/category/hockey/" >Mehr</a></div></div></div></div><div class="panel-grid" id="pg-3061-1" ><div class="panel-grid-cell" id="pgc-3061-1-0" ><div class="so-panel widget widget_sow-editor widget_sow-editor panel-first-child panel-last-child" id="panel-3061-1-0-0"><div class="so-widget-sow-editor so-widget-sow-editor--d75171398898"><h3 class="widget-title">Rudern</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>Rudern ist eine der gesündesten Sportarten der Welt, da sehr viele Muskelgruppen angesprochen werden. Der Leistungssport Rudern entwickelt seine eigene Fazination, indem der eigene Körper immer wieder an seine Grenzen getrieben wird.</p>
+</div></div></div></div><div class="panel-grid-cell" id="pgc-3061-1-1" ><div class="so-panel widget widget_sow-editor widget_sow-editor panel-first-child panel-last-child" id="panel-3061-1-1-0"><div class="so-widget-sow-editor so-widget-sow-editor--d75171398898"><h3 class="widget-title">Tennis</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>Tennis fasziniert Millionen! Doch nicht nur bei den großen Tunieren, sondern jeden Tag hier im Verein. Kein anderes Rückschlagspiel fasziniert so viele Menschen.</p>
+</div></div></div></div><div class="panel-grid-cell" id="pgc-3061-1-2" ><div class="so-panel widget widget_sow-editor widget_sow-editor panel-first-child panel-last-child" id="panel-3061-1-2-0"><div class="so-widget-sow-editor so-widget-sow-editor--d75171398898"><h3 class="widget-title">Hockey</h3>
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>Hockey ist eine sehr schnelle und rasante Sportart. Bei uns im Verein kannst du sowohl Hallen- als auch Feldhockey spielen.</p>
+</div></div></div></div></div><div class="panel-grid" id="pg-3061-2" ><div class="panel-grid-cell" id="pgc-3061-2-0" ><div class="so-panel widget widget_sow-slider widget_sow-slider panel-first-child panel-last-child" id="panel-3061-2-0-0"><div class="so-widget-sow-slider so-widget-sow-slider-default-abf3e628296a"><div class="sow-slider-base " style="display: none"><ul class="sow-slider-images" data-settings="{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000}">		<li
+			class="sow-slider-image sow-slider-image-cover"
+			style="background-color: #a0a0a0;background-image: url(http://www.rthc-test.de/wp-content/uploads/2015/09/hockey-titel1.jpg)">
+			<img width="704" height="235" src="http://www.rthc-test.de/wp-content/uploads/2015/09/hockey-titel1.jpg" class="attachment-full" alt="hockey titel" />		</li>
+				<li
+			class="sow-slider-image sow-slider-image-cover"
+			style="background-color: #a0a0a0;background-image: url(http://www.rthc-test.de/wp-content/uploads/2015/09/IMG_35961.jpg)">
+			<img width="5184" height="1731" src="http://www.rthc-test.de/wp-content/uploads/2015/09/IMG_35961.jpg" class="attachment-full" alt="IMG_3596" />		</li>
+		</ul>				<ol class="sow-slider-pagination">
+											<li><a href="#" data-goto="0">1</a></li>
+											<li><a href="#" data-goto="1">2</a></li>
+									</ol>
+
+				<div class="sow-slide-nav sow-slide-nav-next">
+					<a href="#" data-goto="next" data-action="next">
+						<em class="sow-sld-icon-medium-right"></em>
+					</a>
+				</div>
+
+				<div class="sow-slide-nav sow-slide-nav-prev">
+					<a href="#" data-goto="previous" data-action="prev">
+						<em class="sow-sld-icon-medium-left"></em>
+					</a>
+				</div>
+				</div></div></div></div></div></div>  								</div>
+							  
+			</div>
+		</div><!-- /.main -->            
+                    </div><!-- /.row-->
+        </div><!-- /.content -->
+      </div><!-- /.wrap -->
+      <footer id="containerfooter" class="footerclass" role="contentinfo">
+  <div class="container">
+  	<div class="row">
+  		 
+					<div class="col-md-4 footercol1">
+					<div class="widget-1 widget-first footer-widget"><aside id="sow-button-5" class="widget widget_sow-button"><div class="so-widget-sow-button so-widget-sow-button-flat-effa06e2dc5e"><div class="ow-button-base ow-button-align-center">
+
+	
+	<a class="ow-button-hover" target="_blank" href="https://play.google.com/store/apps/details?id=com.Tobit.android.Slitte66800080931&#038;hl=de" >
+		<span>
+			<span class="sow-icon-typicons" data-sow-icon="&#xe12d;" ></span>
+			Google Play		</span>
+	</a>
+</div></div></aside></div><div class="widget-2 footer-widget"><aside id="sow-button-4" class="widget widget_sow-button"><div class="so-widget-sow-button so-widget-sow-button-flat-effa06e2dc5e"><div class="ow-button-base ow-button-align-center">
+
+	
+	<a class="ow-button-hover" target="_blank" href="https://itunes.apple.com/de/app/rthc-bayer-leverkusen-e.v./id914442314?mt=8&#038;ign-mpt=uo%3D4" >
+		<span>
+			<span class="sow-icon-typicons" data-sow-icon="&#xe12e;" ></span>
+			App Store		</span>
+	</a>
+</div></div></aside></div><div class="widget-3 widget-last footer-widget"><aside id="sow-button-3" class="widget widget_sow-button"><div class="so-widget-sow-button so-widget-sow-button-flat-effa06e2dc5e"><div class="ow-button-base ow-button-align-center">
+
+	
+	<a class="ow-button-hover" target="_blank" href="https://www.microsoft.com/de-de/store/apps/rthc-bayer-leverkusen-ev/9nblggh1p2kj" >
+		<span>
+			<span class="sow-icon-typicons" data-sow-icon="&#xe12f;" ></span>
+			Windows Store		</span>
+	</a>
+</div></div></aside></div>					</div> 
+            					 
+					<div class="col-md-4 footercol2">
+					<div class="widget-1 widget-first footer-widget"><aside id="sow-button-2" class="widget widget_sow-button"><div class="so-widget-sow-button so-widget-sow-button-flat-effa06e2dc5e"><div class="ow-button-base ow-button-align-center">
+
+	
+	<a class="ow-button-hover" target="_blank" href="http://www.facebook.com/rthc.verein" >
+		<span>
+			<span class="sow-icon-typicons" data-sow-icon="&#xe0e5;" ></span>
+			Share Your Love		</span>
+	</a>
+</div></div></aside></div><div class="widget-2 footer-widget"><aside id="sow-button-6" class="widget widget_sow-button"><div class="so-widget-sow-button so-widget-sow-button-flat-effa06e2dc5e"><div class="ow-button-base ow-button-align-center">
+
+	
+	<a class="ow-button-hover" href="http://www.rthc-test.de/impressum/" >
+		<span>
+			
+			Impressum		</span>
+	</a>
+</div></div></aside></div><div class="widget-3 widget-last footer-widget"><aside id="sow-button-7" class="widget widget_sow-button"><div class="so-widget-sow-button so-widget-sow-button-flat-effa06e2dc5e"><div class="ow-button-base ow-button-align-center">
+
+	
+	<a class="ow-button-hover" href="http://www.rthc-test.de/kontakt/" >
+		<span>
+			<span class="sow-icon-fontawesome" data-sow-icon="&#xf1e4;" ></span>
+			Kontakt		</span>
+	</a>
+</div></div></aside></div>					</div> 
+		        		         
+					<div class="col-md-4 footercol3">
+					<div class="widget-1 widget-first footer-widget"><aside id="sow-editor-2" class="widget widget_sow-editor"><div class="so-widget-sow-editor so-widget-sow-editor--d75171398898">
+<div class="siteorigin-widget-tinymce textwidget">
+	<h4 class="cards-text-truncate-and-wrap" style="text-align: center"><span style="text-decoration: underline"><strong>Besucht uns!</strong></span></h4>
+<div class="cards-text-truncate-and-wrap" style="text-align: center">Sportanlage am Kurtekotten</div>
+<div class="cards-text-truncate-and-wrap" style="text-align: center">Knochenbergsweg</div>
+<div class="cards-text-truncate-and-wrap" style="text-align: center">51373 Leverkusen</div>
+<p style="text-align: center"><a href="https://www.google.de/maps/place/RTHC+Bayer+Leverkusen+e.+V./@51.0183416,7.0022829,16.54z/data=!4m6!1m3!3m2!1s0x41719000ccd2ae9f:0x1f04cca20a0fc6a7!2sRTHC+Bayer+Leverkusen+e.+V.!3m1!1s0x41719000ccd2ae9f:0x1f04cca20a0fc6a7" target="_blank"><u><span style="color: #136db2">Google Map</span></u></a></p>
+</div></div></aside></div>					</div> 
+	            			        </div>
+        <div class="footercredits clearfix">
+    		
+    		        	<p>&copy; 2015 RTHC - WordPress Theme by <a href="http://www.kadencethemes.com/" target="_blank">Kadence Themes</a> - Designed by Léon Lenzen</p>
+    	</div>
+
+  </div>
+
+</footer>
+
+<link rel='stylesheet' id='sow-slider-default-abf3e628296a-css'  href='http://www.rthc-test.de/wp-content/uploads/siteorigin-widgets/sow-slider-default-abf3e628296a.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-slider-slider-css'  href='http://www.rthc-test.de/wp-content/plugins/so-widgets-bundle/css/slider/slider.css?ver=1.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-widget-icon-font-typicons-css'  href='http://www.rthc-test.de/wp-content/plugins/so-widgets-bundle/icons/typicons/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-widget-icon-font-fontawesome-css'  href='http://www.rthc-test.de/wp-content/plugins/so-widgets-bundle/icons/fontawesome/style.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.rthc-test.de/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.rthc-test.de\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Senden ...","jqueryUi":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-content/themes/virtue/assets/js/min/plugins-min.js?ver=255'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-content/themes/virtue/assets/js/main.js?ver=255'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-content/plugins/so-widgets-bundle/js/jquery.cycle.min.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://www.rthc-test.de/wp-content/plugins/so-widgets-bundle/js/slider/jquery.slider.min.js?ver=1.4.4'></script>
+    </div><!--Wrapper-->
+  </body>
+</html>

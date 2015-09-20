@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//77.68.36.20//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.thorntonpri.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1369@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Holiday – Single day
+URL:http://www.thorntonpri.co.uk/index.php/event/holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1437@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151022
+DTEND;VALUE=DATE:20151023
+SEQUENCE:0
+SUMMARY:School Individual Photos
+URL:http://www.thorntonpri.co.uk/index.php/event/school-individual-photos/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1374@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+SEQUENCE:0
+SUMMARY:Holiday – May Day
+URL:http://www.thorntonpri.co.uk/index.php/event/holiday-may-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1435@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:PTA
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151009T171500
+DTEND;TZID=Europe/London:20151009T184500
+SEQUENCE:0
+SUMMARY:PTA Magic Show
+URL:http://www.thorntonpri.co.uk/index.php/event/pta-magic-show/
+X-COST:£1 adult ticket £2 child ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1370@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151024T000000
+DTEND;TZID=Europe/London:20151101T235900
+SEQUENCE:0
+SUMMARY:Holiday – Half-term
+URL:http://www.thorntonpri.co.uk/index.php/event/holiday-half-term/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1451@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:PTA
+CONTACT:
+DESCRIPTION:<p><span style='font-family: tahoma\, arial\, helvetica\, sans-
+ serif\;'>PTA Bonfire</span></p>
+DTSTART;TZID=Europe/London:20151106T170000
+DTEND;TZID=Europe/London:20151106T183000
+SEQUENCE:0
+SUMMARY:PTA Bonfire
+URL:http://www.thorntonpri.co.uk/index.php/event/pta-bonfire/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1438@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151119T080000
+DTEND;TZID=Europe/London:20151119T093000
+SEQUENCE:0
+SUMMARY:Bags2School
+URL:http://www.thorntonpri.co.uk/index.php/event/bags2school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1371@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151219T000000
+DTEND;TZID=Europe/London:20160103T235900
+SEQUENCE:0
+SUMMARY:Holiday – Christmas
+URL:http://www.thorntonpri.co.uk/index.php/event/holiday-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1372@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20160213T000000
+DTEND;TZID=Europe/London:20160221T235900
+SEQUENCE:0
+SUMMARY:Holiday – Half-term
+URL:http://www.thorntonpri.co.uk/index.php/event/holiday-half-term-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1373@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20160325T000000
+DTEND;TZID=Europe/London:20160410T235900
+SEQUENCE:0
+SUMMARY:Holiday – Easter
+URL:http://www.thorntonpri.co.uk/index.php/event/holiday-easter/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1378@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:Class events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20160509T090000
+DTEND;TZID=Europe/London:20160512T151500
+SEQUENCE:0
+SUMMARY:Year 6 National Curriculum test week
+URL:http://www.thorntonpri.co.uk/index.php/event/year-6-national-curriculum
+ -test-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1440@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20160523T084500
+DTEND;TZID=Europe/London:20160527T151500
+SEQUENCE:0
+SUMMARY:Key Stage One SATs Week
+URL:http://www.thorntonpri.co.uk/index.php/event/1440/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1375@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20160528T000000
+DTEND;TZID=Europe/London:20160612T235900
+SEQUENCE:0
+SUMMARY:Holiday – Half-term
+URL:http://www.thorntonpri.co.uk/index.php/event/holiday-half-term-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1376@www.thorntonpri.co.uk
+DTSTAMP:20150920T002818Z
+CATEGORIES;LANGUAGE=en-GB:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20160723T000000
+DTEND;TZID=Europe/London:20160904T235900
+SEQUENCE:0
+SUMMARY:Holiday – Summer
+URL:http://www.thorntonpri.co.uk/index.php/event/holiday-summer/
+END:VEVENT
+END:VCALENDAR

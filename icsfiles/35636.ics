@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.163.219.77//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.troylibrary.us
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1212@www.troylibrary.us
+DTSTAMP:20150920T002315Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><b>Story Time!</b></p>\n<p>Every <b>Wednesday at <b>4:15</b>
+ p</b> from September 10th to October 22nd.  Diverse stories paired with a 
+ cool craft activity. Story time  fun for all ages. Presented by Sheila “Th
+ e Book Ninja” Depew.</p>\n<p> </p>
+DTSTART;TZID=America/New_York:20150924T161500
+DTEND;TZID=America/New_York:20150924T170000
+RRULE:FREQ=WEEKLY;UNTIL=20151023T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Story Time!
+URL:http://www.troylibrary.us/event/story-time-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1322@www.troylibrary.us
+DTSTAMP:20150920T002315Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please join the Library Board of Trustees at their monthly m
+ eeting which is open to the public.</p>
+DTSTART;TZID=America/New_York:20151007T160000
+DTEND;TZID=America/New_York:20160406T170000
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:Library Board of Trustees Meeting
+URL:http://www.troylibrary.us/event/1322/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-724@www.troylibrary.us
+DTSTAMP:20150920T002315Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><b>Our</b> annual Fall Book Sale is on Friday\, October 9 an
+ d Saturday\, October 10</p>\n<ul>\n<li>Early bird sale hours are Friday ev
+ ening from 6 p.m. to 8 p.m. and admission is $3.</li>\n<li>Saturday hours 
+ are 9 a.m. to 2 p.m. with no admission charge.</li>\n</ul>\n<p>Books\, puz
+ zles\, movies\, music and audio books will be featured.  Most hardcover bo
+ oks are priced at $1.50 and paperbacks .50 ea or 3/$1.  The sale will be h
+ eld at the library on 10 South Main Street (Route 12) in Troy.  Please pla
+ n to stop by and find bargains while supporting the library.  For more inf
+ ormation\, contact the library at 242-7743 or www.troylibrary.us.</p>
+DTSTART;TZID=America/New_York:20151009T180000
+DTEND;TZID=America/New_York:20151009T200000
+GEO:+42.823955;-72.181398
+LOCATION:Gay-Kimball Library @ 10 South Main Street\, Troy\, NH 03465\, USA
+SEQUENCE:0
+SUMMARY:FALL BOOK SALE – Early Bird Sale
+URL:http://www.troylibrary.us/event/spring-book-sale-early-bird-sale-2/
+X-COST:$3 per person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-723@www.troylibrary.us
+DTSTAMP:20150920T002315Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><b>Our</b> annual Fall Book Sale is on Friday\, October 9 an
+ d Saturday\, October 10</p>\n<p>Saturday hours are 9 a.m. to 2 p.m. with n
+ o admission charge.</p>\n<p>Books\, puzzles\, movies\, music and audio boo
+ ks will be featured.  Most hardcover books are priced at $1.50 and paperba
+ cks .50 ea or 3/$1.  The sale will be held at the library on 10 South Main
+  Street (Route 12) in Troy.  Please plan to stop by and find bargains whil
+ e supporting the library.  For more information\, contact the library at 2
+ 42-7743 or www.troylibrary.us.</p>
+DTSTART;TZID=America/New_York:20151010T090000
+DTEND;TZID=America/New_York:20151010T140000
+GEO:+42.823955;-72.181398
+LOCATION:Gay-Kimball Library @ 10 South Main Street\, Troy\, NH 03465\, USA
+SEQUENCE:0
+SUMMARY:FALL BOOK SALE
+URL:http://www.troylibrary.us/event/spring-book-sale-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1211@www.troylibrary.us
+DTSTAMP:20150920T002315Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Story time and Craft with the Magnificent Sheila will be hel
+ d on Thursdays at 4:15pm from November 12th until December 17th .   See yo
+ u there!</p>
+DTSTART;TZID=America/New_York:20151112T161500
+DTEND;TZID=America/New_York:20151217T164500
+RRULE:FREQ=WEEKLY;UNTIL=20151218T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Story Time!
+URL:http://www.troylibrary.us/event/story-time-6/
+END:VEVENT
+END:VCALENDAR

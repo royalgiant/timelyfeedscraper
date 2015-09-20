@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//103.53.197.234//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.museumsejarahjakarta.net
+X-WR-TIMEZONE:Asia/Jakarta
+BEGIN:VTIMEZONE
+TZID:Asia/Jakarta
+X-LIC-LOCATION:Asia/Jakarta
+BEGIN:STANDARD
+DTSTART:19640101T000000
+TZOFFSETFROM:+0730
+TZOFFSETTO:+0700
+TZNAME:WIB
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-488@www.museumsejarahjakarta.net
+DTSTAMP:20150920T002942Z
+CATEGORIES;LANGUAGE=id-ID:Agenda
+CONTACT:BPAD
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150927
+GEO:-06.134842;+106.813229
+LOCATION:Taman Fatahillah @ Taman Fatahilah\, Pinangsia\, Tamansari\, West 
+ Jakarta City\, Daerah Khusus Ibukota Jakarta 11110\, Indonesia
+SEQUENCE:0
+SUMMARY:Badan Perpustakaan dan Arsip Daerah
+URL:http://www.museumsejarahjakarta.net/event/badan-perpustakaan-dan-arsip-
+ daerah/
+X-TAGS;LANGUAGE=id-ID:Agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-334@www.museumsejarahjakarta.net
+DTSTAMP:20150920T002942Z
+CATEGORIES;LANGUAGE=id-ID:In House
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151012
+LOCATION:Taman Fatahillah
+SEQUENCE:0
+SUMMARY:Pagelaran Seni Budaya
+URL:http://www.museumsejarahjakarta.net/event/pagelaran-seni-budaya/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-324@www.museumsejarahjakarta.net
+DTSTAMP:20150920T002942Z
+CATEGORIES;LANGUAGE=id-ID:In House
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151011
+GEO:-06.134842;+106.813229
+LOCATION:Taman Fatahillah @ Taman Fatahilah\, Pinangsia\, Tamansari\, West 
+ Jakarta City\, Daerah Khusus Ibukota Jakarta 11110\, Indonesia
+SEQUENCE:0
+SUMMARY:Festival Jazz Kota Tua
+URL:http://www.museumsejarahjakarta.net/event/festival-jazz-kota-tua/
+X-TAGS;LANGUAGE=id-ID:event
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-328@www.museumsejarahjakarta.net
+DTSTAMP:20150920T002942Z
+CATEGORIES;LANGUAGE=id-ID:In House
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Jakarta:20150929T090000
+DTEND;TZID=Asia/Jakarta:20151004T150000
+GEO:-06.193564;+106.846199
+LOCATION:Museum MH Thamrin @ Jalan Kenari II\, Senen\, Kota Jakarta Pusat\,
+  Daerah Khusus Ibukota Jakarta 10430\, Indonesia
+SEQUENCE:0
+SUMMARY:Pekan Museum MH Thamrin
+URL:http://www.museumsejarahjakarta.net/event/pekan-museum-mh-thamrin/
+X-TAGS;LANGUAGE=id-ID:event
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-323@www.museumsejarahjakarta.net
+DTSTAMP:20150920T002942Z
+CATEGORIES;LANGUAGE=id-ID:In House
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Jakarta:20151003T090000
+DTEND;TZID=Asia/Jakarta:20151005T200000
+SEQUENCE:0
+SUMMARY:Batavia Art Festival
+URL:http://www.museumsejarahjakarta.net/event/batavia-art-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-327@www.museumsejarahjakarta.net
+DTSTAMP:20150920T002942Z
+CATEGORIES;LANGUAGE=id-ID:Partisipasi
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Jakarta:20151012T090000
+DTEND;TZID=Asia/Jakarta:20151015T170000
+SEQUENCE:0
+SUMMARY:Hari Museum Nasional
+URL:http://www.museumsejarahjakarta.net/event/hari-museum-nasional/
+X-TAGS;LANGUAGE=id-ID:Partisipasi
+END:VEVENT
+END:VCALENDAR

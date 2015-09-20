@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.195.76.56//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.henningestates.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-13773@www.henningestates.com
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Hoof Woof & Meow Animal Rescue\; 847-836-7387\; fundraising@hoofwoo
+ fmeow.org\; http://www.hoofwoofmeow.org
+DESCRIPTION:<div id='attachment_13774' style='width: 202px' class='wp-capti
+ on alignleft'><img class='wp-image-13774 size-medium' src='http://www.henn
+ ingestates.com/wp-content/uploads/2015/08/Pet45-192x300.jpg' alt='Pet45' w
+ idth='192' height='300' /><p class='wp-caption-text'>This is Cherry & Jame
+ s Dean\, two of the three dogs that were adopted and found permanent homes
+  as a result of the Henning Estates Adopt-A-Pet/Ice Cream Social featuring
+  homeless animals from Hoof Woof & Meow Rescue.</p></div>\n<p>Henning Esta
+ tes is proud to sponsor Barkin’ 4 Bunco by Hoof\, Woof & Meow Animal Rescu
+ e. For your donation of $35 (by October 1)\, or $40 at the door\, you’ll e
+ njoy 3 bunco games and a great evening of fun created to support a wonderf
+ ul local pet rescue. Who knows\, you may go home a winner of the 50/50 raf
+ fle\, sports raffle or prize raffle!</p>\n<p>Please show your support by j
+ oining us for this fun night out!</p>\n<p><strong>This event will be held 
+ at:<br />\nThe American Legion Hall<br />\n11712 Coral Street in Huntley<b
+ r />\n</strong><br />\nFor more information or tickets email fundraising@h
+ oofwoofmeow.org or call 847-836-7387.</p>\n<p><img class='aligncenter size
+ -large wp-image-13779' src='http://www.henningestates.com/wp-content/uploa
+ ds/2015/08/Barkin-Flyer-791x1024.jpg' alt='Barkin Flyer' width='669' heigh
+ t='866' /></p>
+DTSTART;TZID=America/Chicago:20151009T190000
+DTEND;TZID=America/Chicago:20151009T210000
+GEO:+42.168863;-88.426074
+LOCATION:American Legion Hall @ 11712 Coral Street\, Huntley\, IL 60142\, U
+ SA
+SEQUENCE:0
+SUMMARY:Barkin’ 4 Bunco at The American Legion Hall
+URL:http://www.henningestates.com/event/barkin-4-bunco/
+X-COST:$35 advance registration by Oct. 8\, or $40 at door
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13885@www.henningestates.com
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Bob Laird\; 847-515-7241\; bob.laird@suncityhuntley.org\; http://ww
+ w.sccah.com/events/event_details.asp?id=573519&group=
+DESCRIPTION:<p><img class='size-medium wp-image-13886 alignleft' src='http:
+ //www.henningestates.com/wp-content/uploads/2015/09/FallShowcase-300x192.j
+ pg' alt='Fall Showcase' width='300' height='192' />Henning Estates will be
+  participating in the 2015 Sun City Fall Consumer Showcase on Thursday\, O
+ ctober 22 from 9:30 a.m. to 4:30 p.m. at Sun City Huntley. Stop by to see 
+ us at this FREE event showcasing over 130 area business and service provid
+ ers. It’s a wonderful opportunity to learn about and support local busines
+ s in areas such as landscaping\, home improvement\, financial planning\, b
+ anking\, insurance\, healthcare\, physical therapy\, travel\, automotive\,
+  real estate and more.</p>\n<p>Register for door prizes and take advantage
+  of the numerous vendor giveaways and promotions available only at this ev
+ ent!</p>\n<p><strong>This FREE event will be held at:<br />\nThe Prairie L
+ odge at Sun City Huntley<br />\n12880 Del Webb Boulevard<br />\n</strong><
+ br />\nFor more information call 847-515-7241.</p>
+DTSTART;TZID=America/Chicago:20151022T093000
+DTEND;TZID=America/Chicago:20151022T163000
+GEO:+42.139221;-88.448997
+LOCATION:Sun City Huntley Prairie Lodge @ 12880 Del Webb Boulevard\, Huntle
+ y\, IL 60142\, USA
+SEQUENCE:0
+SUMMARY:Sun City Fall Consumer Showcase
+URL:http://www.henningestates.com/event/sun-city-fall-consumer-showcase/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13134@www.mamamemories.com
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Molly LeSueur\; 847-338-3821\; molly@rockcreekhomesil.com
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-11650' src='http:
+ //www.henningestates.com/wp-content/uploads/2015/03/Henning-Estates-Monume
+ nt-300x190.jpg' alt='Henning Estates Monument' width='300' height='190' />
+ </p>\n<p> </p>\n<p>MORE DETAILS COMING SOON</p>
+DTSTART;TZID=America/Chicago:20151024T100000
+DTEND;TZID=America/Chicago:20151024T160000
+GEO:+42.177772;-88.519396
+LOCATION:Henning Estates @ 10406 Oakdale Drive\, Huntley\, IL 60142\, USA
+SEQUENCE:0
+SUMMARY:Fall Festival
+URL:http://www.henningestates.com/event/fall-festival/
+END:VEVENT
+END:VCALENDAR

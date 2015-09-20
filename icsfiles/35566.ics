@@ -1,0 +1,1783 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//5.196.149.84//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://familygolf.es/
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+X-LIC-LOCATION:Europe/Madrid
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20150925_60o30ob364o30c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Ceuta\, Melilla</p>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:Eid-al-Adha (regional holiday)
+URL:http://familygolf.es/event/eid-al-adha-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151009_60o30d1g60o30c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Valenciana</p>
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151010
+SEQUENCE:0
+SUMMARY:Día de la Comunidad Valenciana (Valenciana)
+URL:http://familygolf.es/event/dia-de-la-comunidad-valenciana-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:klagapat116pu0itb7psslj66c@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Torneos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+SEQUENCE:0
+SUMMARY:Torneo Abierto Family Golf Park
+URL:http://familygolf.es/event/torneo-abierto-family-golf-park-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151012_60o30cr4coo30c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:Día de la Hispanidad
+URL:http://familygolf.es/event/dia-de-la-hispanidad-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151025_60o30c9o64o30dpj6oqj0dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151025
+DTEND;VALUE=DATE:20151026
+SEQUENCE:0
+SUMMARY:Cambio de horario de invierno
+URL:http://familygolf.es/event/cambio-de-horario-de-invierno/
+END:VEVENT
+BEGIN:VEVENT
+UID:gjeedhe6qd2aacsdnh0pprcm20@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Torneos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151025
+DTEND;VALUE=DATE:20151026
+SEQUENCE:0
+SUMMARY:Torneo Infantil Abierto Family Golf Park
+URL:http://familygolf.es/event/torneo-infantil-abierto-family-golf-park-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151101_60o30cr564o32c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Andalucía\, Aragón\, Asturias\, Baleares\
+ , País Vasco\, Canarias\, Cantabria\, Castilla-La Mancha\, Castilla y León
+ \, Cataluña\, Extremadura\, Galicia\, La Rioja\, Madrid\, Murcia\, Navarra
+ \, Valenciana\, Ceuta\, Melilla\, Barcelona\, Álava\, Albacete\, Alicante\
+ , Almería\, Asturias\, Ávila\, Badajoz\, Baleares\, Barcelona\, Burgos\, C
+ áceres\, Cádiz\, Cantabria\, Castellón\, Ciudad Real\, Córdoba\, Cuenca\, 
+ Gerona\, Granada\, Guadalajara\, Guipúzcoa\, Huelva\, Huesca\, Jaén\, La C
+ oruña\, La Rioja\, Las Palmas\, León\, Lérida\, Lugo\, Madrid\, Málaga\, M
+ urcia\, Navarra\, Orense\, Palencia\, Pontevedra\, Salamanca\, Santa Cruz 
+ De Tenerife\, Segovia\, Sevilla\, Soria\, Tarragona\, Teruel\, Toledo\, Va
+ lencia\, Valladolid\, Vizcaya\, Zamora\, Zaragoza</p>
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:Día de Todos los Santos (regional holiday)
+URL:http://familygolf.es/event/dia-de-todos-los-santos-regional-holiday-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151102_60o30cr564o32e1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Baleares\, País Vasco\, Castilla-La Manch
+ a\, Cataluña\, Galicia\, La Rioja\, Murcia\, Navarra\, Valenciana\, Ceuta\
+ , Barcelona\, Álava\, Albacete\, Alicante\, Almería\, Asturias\, Ávila\, B
+ adajoz\, Baleares\, Barcelona\, Burgos\, Cáceres\, Cádiz\, Cantabria\, Cas
+ tellón\, Ciudad Real\, Córdoba\, Cuenca\, Gerona\, Granada\, Guadalajara\,
+  Guipúzcoa\, Huelva\, Huesca\, Jaén\, La Coruña\, La Rioja\, Las Palmas\, 
+ León\, Lérida\, Lugo\, Madrid\, Málaga\, Murcia\, Navarra\, Orense\, Palen
+ cia\, Pontevedra\, Salamanca\, Santa Cruz De Tenerife\, Segovia\, Sevilla\
+ , Soria\, Tarragona\, Teruel\, Toledo\, Valencia\, Valladolid\, Vizcaya\, 
+ Zamora\, Zaragoza</p>
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151103
+SEQUENCE:0
+SUMMARY:Día de Todos los Santos Observado (regional holiday)
+URL:http://familygolf.es/event/dia-de-todos-los-santos-observado/
+END:VEVENT
+BEGIN:VEVENT
+UID:uirdghc1jcuo3n3kbllbagb9ms@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Torneos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+SEQUENCE:0
+SUMMARY:Torneo Abierto Family Golf Park
+URL:http://familygolf.es/event/torneo-abierto-family-golf-park-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:shep36d0s4gc887uv5eftisiu4@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Torneos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151122
+DTEND;VALUE=DATE:20151123
+SEQUENCE:0
+SUMMARY:Torneo Infantil Abierto Family Golf Park
+URL:http://familygolf.es/event/torneo-infantil-abierto-family-golf-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:k94jl4upq9dhaefpim4evfhmgs@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Torneos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151128
+DTEND;VALUE=DATE:20151129
+SEQUENCE:0
+SUMMARY:Torneo Abierto Family Golf Park
+URL:http://familygolf.es/event/torneo-abierto-family-golf-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151203_60o30cr6cco30c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Navarra</p>
+DTSTART;VALUE=DATE:20151203
+DTEND;VALUE=DATE:20151204
+SEQUENCE:0
+SUMMARY:Día de Navarra (Navarra)
+URL:http://familygolf.es/event/dia-de-navarra-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151206_60o30cr568o32c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Andalucía\, Aragón\, Asturias\, Baleares\
+ , País Vasco\, Canarias\, Cantabria\, Castilla-La Mancha\, Castilla y León
+ \, Cataluña\, Extremadura\, Galicia\, La Rioja\, Madrid\, Murcia\, Navarra
+ \, Valenciana\, Ceuta\, Melilla\, Barcelona\, Álava\, Albacete\, Alicante\
+ , Almería\, Asturias\, Ávila\, Badajoz\, Baleares\, Barcelona\, Burgos\, C
+ áceres\, Cádiz\, Cantabria\, Castellón\, Ciudad Real\, Córdoba\, Cuenca\, 
+ Gerona\, Granada\, Guadalajara\, Guipúzcoa\, Huelva\, Huesca\, Jaén\, La C
+ oruña\, La Rioja\, Las Palmas\, León\, Lérida\, Lugo\, Madrid\, Málaga\, M
+ urcia\, Navarra\, Orense\, Palencia\, Pontevedra\, Salamanca\, Santa Cruz 
+ De Tenerife\, Segovia\, Sevilla\, Soria\, Tarragona\, Teruel\, Toledo\, Va
+ lencia\, Valladolid\, Vizcaya\, Zamora\, Zaragoza</p>
+DTSTART;VALUE=DATE:20151206
+DTEND;VALUE=DATE:20151207
+SEQUENCE:0
+SUMMARY:Día de la Constitución Española (regional holiday)
+URL:http://familygolf.es/event/dia-de-la-constitucion-espanola-regional-hol
+ iday/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151207_60o30cr568o32e1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Castilla y León\, Aragón\, Asturias\, And
+ alucía\, Castilla-La Mancha\, Extremadura\, Murcia\, La Rioja\, Valenciana
+ \, Madrid\, Melilla\, Ceuta</p>
+DTSTART;VALUE=DATE:20151207
+DTEND;VALUE=DATE:20151208
+SEQUENCE:0
+SUMMARY:Día de la Constitución Española Observado (regional holiday)
+URL:http://familygolf.es/event/dia-de-la-constitucion-espanola-observado/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151208_60o30cr56co30c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151208
+DTEND;VALUE=DATE:20151209
+SEQUENCE:0
+SUMMARY:La Inmaculada Concepción
+URL:http://familygolf.es/event/la-inmaculada-concepcion-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:lo0sv41emsk09o1bd4864dfi1c@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Torneos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151214
+SEQUENCE:0
+SUMMARY:Ryder Cup Family Golf
+URL:http://familygolf.es/event/ryder-cup-family-golf/
+END:VEVENT
+BEGIN:VEVENT
+UID:t78e9sb9sfg3201cbj840544a0@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Torneos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151219
+DTEND;VALUE=DATE:20151220
+SEQUENCE:0
+SUMMARY:Torneo de Navidad Family Golf Park
+URL:http://familygolf.es/event/torneo-de-navidad-family-golf-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:cuc87flanbosg37lmrp3rqdl80@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Torneos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151220
+DTEND;VALUE=DATE:20151221
+SEQUENCE:0
+SUMMARY:Torneo Infantil de Navidad Family Golf Park
+URL:http://familygolf.es/event/torneo-infantil-de-navidad-family-golf-park/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151224_60o30e9kc4o30c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151224
+DTEND;VALUE=DATE:20151225
+SEQUENCE:0
+SUMMARY:Nochebuena
+URL:http://familygolf.es/event/nochebuena-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151225_60o30cr56ko30c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+SEQUENCE:0
+SUMMARY:Navidad
+URL:http://familygolf.es/event/navidad-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151226_60o30cr56so32c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Baleares\, Cataluña\, Barcelona</p>
+DTSTART;VALUE=DATE:20151226
+DTEND;VALUE=DATE:20151227
+SEQUENCE:0
+SUMMARY:San Esteban (regional holiday)
+URL:http://familygolf.es/event/san-esteban-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151231_60o30e9kc8o30c1g60o30dr4co@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151231
+DTEND;VALUE=DATE:20160101
+SEQUENCE:0
+SUMMARY:Nochevieja
+URL:http://familygolf.es/event/nochevieja-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160101_60o30cr474o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+SEQUENCE:0
+SUMMARY:Año Nuevo
+URL:http://familygolf.es/event/ano-nuevo/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160101_60o30e9k6oo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+SEQUENCE:0
+SUMMARY:Día de la Sagrada Familia
+URL:http://familygolf.es/event/dia-de-la-sagrada-familia/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160106_60o30cr4c4o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160106
+DTEND;VALUE=DATE:20160107
+SEQUENCE:0
+SUMMARY:Epifanía del Señor
+URL:http://familygolf.es/event/epifania-del-senor/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160210_60o30e9k6so30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160210
+DTEND;VALUE=DATE:20160211
+SEQUENCE:0
+SUMMARY:Miércoles de Ceniza
+URL:http://familygolf.es/event/miercoles-de-ceniza/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160228_60o30cr5c8o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Andalucía</p>
+DTSTART;VALUE=DATE:20160228
+DTEND;VALUE=DATE:20160229
+SEQUENCE:0
+SUMMARY:Día de Andalucía (Andalucía)
+URL:http://familygolf.es/event/dia-de-andalucia/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160301_60o30d1g6ko30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Baleares</p>
+DTSTART;VALUE=DATE:20160301
+DTEND;VALUE=DATE:20160302
+SEQUENCE:0
+SUMMARY:Dia de las Islas Baleares (Baleares)
+URL:http://familygolf.es/event/dia-de-las-islas-baleares/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160319_60o30d1g68o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Aragón\, País Vasco\, Castilla-La Mancha\
+ , Castilla y León\, Extremadura\, Galicia\, Madrid\, Melilla\, Murcia\, Na
+ varra\, Valenciana</p>
+DTSTART;VALUE=DATE:20160319
+DTEND;VALUE=DATE:20160320
+SEQUENCE:0
+SUMMARY:San José (regional holiday)
+URL:http://familygolf.es/event/san-jose/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160320_60o30e9k70o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160320
+DTEND;VALUE=DATE:20160321
+SEQUENCE:0
+SUMMARY:Domingo de Ramos
+URL:http://familygolf.es/event/domingo-de-ramos/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160324_60o30d1g6co32c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Andalucía\, Aragón\, Baleares\, País Vasc
+ o\, Canarias\, Castilla-La Mancha\, Castilla y León\, Ceuta\, Extremadura\
+ , Galicia\, Madrid\, Melilla\, Murcia\, Navarra\, La Rioja</p>
+DTSTART;VALUE=DATE:20160324
+DTEND;VALUE=DATE:20160325
+SEQUENCE:0
+SUMMARY:Jueves Santo (regional holiday)
+URL:http://familygolf.es/event/jueves-santo/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160325_60o30cr4cco30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160326
+SEQUENCE:0
+SUMMARY:Viernes Santo
+URL:http://familygolf.es/event/viernes-santo/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160327_60o30c9o60o30dpj6oqj0dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160327
+DTEND;VALUE=DATE:20160328
+SEQUENCE:0
+SUMMARY:Cambio de Horario de Verano
+URL:http://familygolf.es/event/cambio-de-horario-de-verano-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160328_60o30d1g64o32c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: País Vasco\, Cantabria\, Cataluña\, La Ri
+ oja\, Navarra\, Valenciana</p>
+DTSTART;VALUE=DATE:20160328
+DTEND;VALUE=DATE:20160329
+SEQUENCE:0
+SUMMARY:Lunes de Pascua (regional holiday)
+URL:http://familygolf.es/event/lunes-de-pascua-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160423_60o30or16co30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Castilla y León</p>
+DTSTART;VALUE=DATE:20160423
+DTEND;VALUE=DATE:20160424
+SEQUENCE:0
+SUMMARY:Día de Castilla y León (Castilla y León)
+URL:http://familygolf.es/event/dia-de-castilla-y-leon/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160423_60o30or3c8o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Cataluña</p>
+DTSTART;VALUE=DATE:20160423
+DTEND;VALUE=DATE:20160424
+SEQUENCE:0
+SUMMARY:Día de San Jorge (Cataluña)
+URL:http://familygolf.es/event/dia-de-san-jorge/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160423_60o30cr5cco30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Aragón</p>
+DTSTART;VALUE=DATE:20160423
+DTEND;VALUE=DATE:20160424
+SEQUENCE:0
+SUMMARY:San Jorge. Día de Aragón (Aragón)
+URL:http://familygolf.es/event/san-jorge-dia-de-aragon/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160501_60o30cr4cgo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+SEQUENCE:0
+SUMMARY:Día del trabajador
+URL:http://familygolf.es/event/dia-del-trabajador/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160501_60o30or16go30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+SEQUENCE:0
+SUMMARY:El Dia de la Madre
+URL:http://familygolf.es/event/el-dia-de-la-madre/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160502_60o30cr4cko30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Andalucía\, Aragón\, Asturias\, Baleares\
+ , País Vasco\, Canarias\, Cantabria\, Castilla y León\, Ceuta\, Extremadur
+ a\, Madrid\, Melilla\, Murcia\, Valenciana</p>
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+SEQUENCE:0
+SUMMARY:Por el Día del trabajador (regional holiday)
+URL:http://familygolf.es/event/por-el-dia-del-trabajador/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160503_60o30d1g74o30e1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Madrid</p>
+DTSTART;VALUE=DATE:20160503
+DTEND;VALUE=DATE:20160504
+SEQUENCE:0
+SUMMARY:Día de la Communidad Madrid (Madrid)
+URL:http://familygolf.es/event/dia-de-la-communidad-madrid/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160515_60o30ob360o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Madrid</p>
+DTSTART;VALUE=DATE:20160515
+DTEND;VALUE=DATE:20160516
+SEQUENCE:0
+SUMMARY:Dia de San Isidro (Madrid)
+URL:http://familygolf.es/event/dia-de-san-isidro/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160515_60o30e9k74o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160515
+DTEND;VALUE=DATE:20160516
+SEQUENCE:0
+SUMMARY:Domingo de Pentecostés
+URL:http://familygolf.es/event/domingo-de-pentecostes/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160516_60o30cr570o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Barcelona</p>
+DTSTART;VALUE=DATE:20160516
+DTEND;VALUE=DATE:20160517
+SEQUENCE:0
+SUMMARY:Lunes de Pascua (Barcelona)
+URL:http://familygolf.es/event/lunes-de-pascua/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160517_60o30cr6cgo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Galicia</p>
+DTSTART;VALUE=DATE:20160517
+DTEND;VALUE=DATE:20160518
+SEQUENCE:0
+SUMMARY:Día de las Letras Gallegas (Galicia)
+URL:http://familygolf.es/event/dia-de-las-letras-gallegas/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160526_60o30ob2coo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Castilla-La Mancha\, Madrid</p>
+DTSTART;VALUE=DATE:20160526
+DTEND;VALUE=DATE:20160527
+SEQUENCE:0
+SUMMARY:Corpus Christi (regional holiday)
+URL:http://familygolf.es/event/corpus-christi/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160530_60o30d1g6oo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Canarias</p>
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:Festividad del Día de Canarias (Canarias)
+URL:http://familygolf.es/event/festividad-del-dia-de-canarias/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160531_60o30d1g6so30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Canarias</p>
+DTSTART;VALUE=DATE:20160531
+DTEND;VALUE=DATE:20160601
+SEQUENCE:0
+SUMMARY:Descanso Laboral Correspondiente a la Festividad del Día de Canaria
+ s (Canarias)
+URL:http://familygolf.es/event/descanso-laboral-correspondiente-a-la-festiv
+ idad-del-dia-de-canarias/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160531_60o30d1g70o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Castilla-La Mancha</p>
+DTSTART;VALUE=DATE:20160531
+DTEND;VALUE=DATE:20160601
+SEQUENCE:0
+SUMMARY:Día de la Región de Castilla-La Mancha (Castilla-La Mancha)
+URL:http://familygolf.es/event/dia-de-la-region-de-castilla-la-mancha/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160609_60o30cr5coo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Murcia</p>
+DTSTART;VALUE=DATE:20160609
+DTEND;VALUE=DATE:20160610
+SEQUENCE:0
+SUMMARY:Día de la Región de Murcia (Murcia)
+URL:http://familygolf.es/event/dia-de-la-region-de-murcia/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160609_60o30cr664o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: La Rioja</p>
+DTSTART;VALUE=DATE:20160609
+DTEND;VALUE=DATE:20160610
+SEQUENCE:0
+SUMMARY:Día de la Rioja (La Rioja)
+URL:http://familygolf.es/event/dia-de-la-rioja/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160613_60o30cr66co30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Ceuta</p>
+DTSTART;VALUE=DATE:20160613
+DTEND;VALUE=DATE:20160614
+SEQUENCE:0
+SUMMARY:San Antonio (Ceuta)
+URL:http://familygolf.es/event/san-antonio/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160624_60o30d1g6go30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Cataluña\, Galicia</p>
+DTSTART;VALUE=DATE:20160624
+DTEND;VALUE=DATE:20160625
+SEQUENCE:0
+SUMMARY:La revetlla de Sant Joan (regional holiday)
+URL:http://familygolf.es/event/la-revetlla-de-sant-joan/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160725_60o30cr4cko32c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: La Rioja</p>
+DTSTART;VALUE=DATE:20160725
+DTEND;VALUE=DATE:20160726
+SEQUENCE:0
+SUMMARY:Por el Día del trabajador (La Rioja)
+URL:http://familygolf.es/event/por-el-dia-del-trabajador-la-rioja/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160725_60o30d1gc4o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: País Vasco\, Canarias\, Castilla y León\,
+  Galicia\, Madrid\, Navarra\, La Rioja</p>
+DTSTART;VALUE=DATE:20160725
+DTEND;VALUE=DATE:20160726
+SEQUENCE:0
+SUMMARY:Santiago Apóstol (regional holiday)
+URL:http://familygolf.es/event/santiago-apostol/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160728_60o30cr5cko30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Cantabria</p>
+DTSTART;VALUE=DATE:20160728
+DTEND;VALUE=DATE:20160729
+SEQUENCE:0
+SUMMARY:Día de las Instituciones (Cantabria)
+URL:http://familygolf.es/event/dia-de-las-instituciones/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160805_60o30cr66go30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Ceuta</p>
+DTSTART;VALUE=DATE:20160805
+DTEND;VALUE=DATE:20160806
+SEQUENCE:0
+SUMMARY:Día de Nuestra Señora de África (Ceuta)
+URL:http://familygolf.es/event/dia-de-nuestra-senora-de-africa/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160814_60o30d1gc8o30e1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Cantabria</p>
+DTSTART;VALUE=DATE:20160814
+DTEND;VALUE=DATE:20160815
+SEQUENCE:0
+SUMMARY:Día de Cantabria (Cantabria)
+URL:http://familygolf.es/event/dia-de-cantabria/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160815_60o30cr574o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160815
+DTEND;VALUE=DATE:20160816
+SEQUENCE:0
+SUMMARY:La Asunción de la Virgen
+URL:http://familygolf.es/event/la-asuncion-de-la-virgen/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160902_60o30cr66ko30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Ceuta</p>
+DTSTART;VALUE=DATE:20160902
+DTEND;VALUE=DATE:20160903
+SEQUENCE:0
+SUMMARY:Día de la Ciudad Autónoma de Ceuta (Ceuta)
+URL:http://familygolf.es/event/dia-de-la-ciudad-autonoma-de-ceuta/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160908_60o30cr66oo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Asturias</p>
+DTSTART;VALUE=DATE:20160908
+DTEND;VALUE=DATE:20160909
+SEQUENCE:0
+SUMMARY:Día de Asturias (Asturias)
+URL:http://familygolf.es/event/dia-de-asturias/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160908_60o30cr670o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Extremadura</p>
+DTSTART;VALUE=DATE:20160908
+DTEND;VALUE=DATE:20160909
+SEQUENCE:0
+SUMMARY:Día de Extremadura (Extremadura)
+URL:http://familygolf.es/event/dia-de-extremadura/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160908_60o30cr6c4o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Melilla</p>
+DTSTART;VALUE=DATE:20160908
+DTEND;VALUE=DATE:20160909
+SEQUENCE:0
+SUMMARY:Virgen de la Victoria (Melilla)
+URL:http://familygolf.es/event/virgen-de-la-victoria/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160911_60o30cr6cko30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Cataluña</p>
+DTSTART;VALUE=DATE:20160911
+DTEND;VALUE=DATE:20160912
+SEQUENCE:0
+SUMMARY:Día Nacional de Cataluña (Cataluña)
+URL:http://familygolf.es/event/dia-nacional-de-cataluna/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160913_60o30ob364o30c1g60o30d9pcg@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Ceuta\, Melilla</p>
+DTSTART;VALUE=DATE:20160913
+DTEND;VALUE=DATE:20160914
+SEQUENCE:0
+SUMMARY:Eid-al-Adha (regional holiday)
+URL:http://familygolf.es/event/eid-al-adha/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160915_60o30cr6coo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Cantabria</p>
+DTSTART;VALUE=DATE:20160915
+DTEND;VALUE=DATE:20160916
+SEQUENCE:0
+SUMMARY:Nuestra Señora de la Bien Aparecida (Cantabria)
+URL:http://familygolf.es/event/nuestra-senora-de-la-bien-aparecida/
+END:VEVENT
+BEGIN:VEVENT
+UID:20160917_60o30cr6c8o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Melilla</p>
+DTSTART;VALUE=DATE:20160917
+DTEND;VALUE=DATE:20160918
+SEQUENCE:0
+SUMMARY:Día de Melilla (Melilla)
+URL:http://familygolf.es/event/dia-de-melilla/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161007_60o32cb66co30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: País Vasco</p>
+DTSTART;VALUE=DATE:20161007
+DTEND;VALUE=DATE:20161008
+SEQUENCE:0
+SUMMARY:80 aniversario de la consitución del primer Gobierno Vasco en Gerni
+ ka (País Vasco)
+URL:http://familygolf.es/event/80-aniversario-de-la-consitucion-del-primer-
+ gobierno-vasco-en-gernika-pais-vasco/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161009_60o30d1g60o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Valenciana</p>
+DTSTART;VALUE=DATE:20161009
+DTEND;VALUE=DATE:20161010
+SEQUENCE:0
+SUMMARY:Día de la Comunidad Valenciana (Valenciana)
+URL:http://familygolf.es/event/dia-de-la-comunidad-valenciana/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161012_60o30cr4coo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161012
+DTEND;VALUE=DATE:20161013
+SEQUENCE:0
+SUMMARY:Día de la Hispanidad
+URL:http://familygolf.es/event/dia-de-la-hispanidad/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161030_60o30c9o64o30dpj6oqj0dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161030
+DTEND;VALUE=DATE:20161031
+SEQUENCE:0
+SUMMARY:Cambio de horario de invierno
+URL:http://familygolf.es/event/cambio-de-horario-de-invierno-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161101_60o30cr564o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Andalucía\, Aragón\, Asturias\, Baleares\
+ , País Vasco\, Canarias\, Cantabria\, Castilla-La Mancha\, Castilla y León
+ \, Cataluña\, Extremadura\, Galicia\, La Rioja\, Madrid\, Murcia\, Navarra
+ \, Valenciana\, Ceuta\, Melilla\, Barcelona\, Álava\, Albacete\, Alicante\
+ , Almería\, Asturias\, Ávila\, Badajoz\, Baleares\, Barcelona\, Burgos\, C
+ áceres\, Cádiz\, Cantabria\, Castellón\, Ciudad Real\, Córdoba\, Cuenca\, 
+ Gerona\, Granada\, Guadalajara\, Guipúzcoa\, Huelva\, Huesca\, Jaén\, La C
+ oruña\, La Rioja\, Las Palmas\, León\, Lérida\, Lugo\, Madrid\, Málaga\, M
+ urcia\, Navarra\, Orense\, Palencia\, Pontevedra\, Salamanca\, Santa Cruz 
+ De Tenerife\, Segovia\, Sevilla\, Soria\, Tarragona\, Teruel\, Toledo\, Va
+ lencia\, Valladolid\, Vizcaya\, Zamora\, Zaragoza</p>
+DTSTART;VALUE=DATE:20161101
+DTEND;VALUE=DATE:20161102
+SEQUENCE:0
+SUMMARY:Día de Todos los Santos (regional holiday)
+URL:http://familygolf.es/event/dia-de-todos-los-santos-regional-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161203_60o30cr6cco30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Navarra</p>
+DTSTART;VALUE=DATE:20161203
+DTEND;VALUE=DATE:20161204
+SEQUENCE:0
+SUMMARY:Día de Navarra (Navarra)
+URL:http://familygolf.es/event/dia-de-navarra/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161206_60o30cr568o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Baleares\, País Vasco\, Canarias\, Cantab
+ ria\, Castilla-La Mancha\, Cataluña\, Galicia\, Navarra\, Barcelona\, Álav
+ a\, Albacete\, Alicante\, Almería\, Asturias\, Ávila\, Badajoz\, Baleares\
+ , Barcelona\, Burgos\, Cáceres\, Cádiz\, Cantabria\, Castellón\, Ciudad Re
+ al\, Córdoba\, Cuenca\, Gerona\, Granada\, Guadalajara\, Guipúzcoa\, Huelv
+ a\, Huesca\, Jaén\, La Coruña\, La Rioja\, Las Palmas\, León\, Lérida\, Lu
+ go\, Madrid\, Málaga\, Murcia\, Navarra\, Orense\, Palencia\, Pontevedra\,
+  Salamanca\, Santa Cruz De Tenerife\, Segovia\, Sevilla\, Soria\, Tarragon
+ a\, Teruel\, Toledo\, Valencia\, Valladolid\, Vizcaya\, Zamora\, Zaragoza<
+ /p>
+DTSTART;VALUE=DATE:20161206
+DTEND;VALUE=DATE:20161207
+SEQUENCE:0
+SUMMARY:Día de la Constitución Española (regional holiday)
+URL:http://familygolf.es/event/dia-de-la-constitucion-espanola/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161208_60o30cr56co30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161208
+DTEND;VALUE=DATE:20161209
+SEQUENCE:0
+SUMMARY:La Inmaculada Concepción
+URL:http://familygolf.es/event/la-inmaculada-concepcion/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161224_60o30e9kc4o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161224
+DTEND;VALUE=DATE:20161225
+SEQUENCE:0
+SUMMARY:Nochebuena
+URL:http://familygolf.es/event/nochebuena/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161225_60o30cr56ko30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161225
+DTEND;VALUE=DATE:20161226
+SEQUENCE:0
+SUMMARY:Navidad
+URL:http://familygolf.es/event/navidad/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161226_60o30cr56oo30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Andalucía\, Aragón\, Asturias\, Baleares\
+ , País Vasco\, Castilla-La Mancha\, Cataluña\, Ceuta\, Extremadura\, Melil
+ la\, La Rioja\, Navarra</p>
+DTSTART;VALUE=DATE:20161226
+DTEND;VALUE=DATE:20161227
+SEQUENCE:0
+SUMMARY:Lunes siguiente a la Nativdad del Señor (regional holiday)
+URL:http://familygolf.es/event/lunes-siguiente-a-la-nativdad-del-senor/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161226_60o30cr56so34c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Baleares\, Cataluña\, Barcelona\, Murcia<
+ /p>
+DTSTART;VALUE=DATE:20161226
+DTEND;VALUE=DATE:20161227
+SEQUENCE:0
+SUMMARY:San Esteban (regional holiday)
+URL:http://familygolf.es/event/san-esteban/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161231_60o30e9kc8o30c1g60o30dr560@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Festivos
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161231
+DTEND;VALUE=DATE:20170101
+SEQUENCE:0
+SUMMARY:Nochevieja
+URL:http://familygolf.es/event/nochevieja/
+END:VEVENT
+BEGIN:VEVENT
+UID:70EA326D-8781-4598-9A25-92F87261CF7E
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150919T100000
+DTEND;TZID=Europe/Madrid:20150919T113000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Sábado
+URL:http://familygolf.es/event/curso-trimestral-sabado-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:0EE27B23-3D03-4462-9C1D-B43254B5B483
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150920T110000
+DTEND;TZID=Europe/Madrid:20150920T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-infantiles-cursos-trimestrales-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:3F48674D-4F08-4402-9185-02C4FE520367
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150920T110000
+DTEND;TZID=Europe/Madrid:20150920T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-padres-cursos-trimestrales-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:100AC2DB-1695-452C-BA6C-8038BD1B3921
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150920T110000
+DTEND;TZID=Europe/Madrid:20150920T123000
+SEQUENCE:0
+SUMMARY:Grupo 2 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-padres-cursos-trimestrales-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:sf3hrs4tvjc3s5bv9dpf6vd9sg@google.com
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150920T123000
+DTEND;TZID=Europe/Madrid:20150920T140000
+SEQUENCE:0
+SUMMARY:Grupo 2 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-infantiles-cursos-trimestrales-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:790CCE02-6FE0-42AC-B4CB-9526F49BA5CF
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150922T170000
+DTEND;TZID=Europe/Madrid:20150922T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Martes
+URL:http://familygolf.es/event/curso-trimestral-martes-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:D99F343E-2854-46C0-B213-85C24BF79D30
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150923T170000
+DTEND;TZID=Europe/Madrid:20150923T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Miércoles
+URL:http://familygolf.es/event/curso-trimestral-miercoles-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:62940390-F2B4-4CE4-A9D0-994F9E6BCAE2
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150926T100000
+DTEND;TZID=Europe/Madrid:20150926T113000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Sábado
+URL:http://familygolf.es/event/curso-trimestral-sabado-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:3835EAAC-95FD-44FB-9565-3A6AA364FA2A
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150927T110000
+DTEND;TZID=Europe/Madrid:20150927T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-infantiles-cursos-trimestrales-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:F07A50FD-9D4E-4234-913A-170ABFDB343C
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150927T110000
+DTEND;TZID=Europe/Madrid:20150927T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-padres-cursos-trimestrales-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:17598C7C-D796-44E4-886A-4E66C9FAC6C5
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150927T110000
+DTEND;TZID=Europe/Madrid:20150927T123000
+SEQUENCE:0
+SUMMARY:Grupo 2 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-padres-cursos-trimestrales-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:AF159628-B867-489C-9CDC-F375CBAC02B0
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150927T123000
+DTEND;TZID=Europe/Madrid:20150927T140000
+SEQUENCE:0
+SUMMARY:Grupo 2 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-infantiles-cursos-trimestrales-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:9D960F57-4DD4-48C3-A7A3-4623CC2545B1
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150929T170000
+DTEND;TZID=Europe/Madrid:20150929T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Martes
+URL:http://familygolf.es/event/curso-trimestral-martes-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:0B547B93-972E-4A87-86C9-BAF1BF252AC0
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150930T170000
+DTEND;TZID=Europe/Madrid:20150930T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Miércoles
+URL:http://familygolf.es/event/curso-trimestral-miercoles-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:0586D837-D6F4-44C2-82B4-E7FA62104736
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151003T100000
+DTEND;TZID=Europe/Madrid:20151003T113000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Sábado
+URL:http://familygolf.es/event/curso-trimestral-sabado-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:94F9BC5F-4653-4011-A103-1F76FEF7A800
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151004T110000
+DTEND;TZID=Europe/Madrid:20151004T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-infantiles-cursos-trimestrales-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:01742397-1141-42FE-A0C1-358BBF1AD47B
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151004T110000
+DTEND;TZID=Europe/Madrid:20151004T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-padres-cursos-trimestrales-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:3B8E0925-D247-4A73-B98E-243A96CEC522
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151004T110000
+DTEND;TZID=Europe/Madrid:20151004T123000
+SEQUENCE:0
+SUMMARY:Grupo 2 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-padres-cursos-trimestrales-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:B16978C2-29F6-4B2F-80C9-102362DFA768
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151004T123000
+DTEND;TZID=Europe/Madrid:20151004T140000
+SEQUENCE:0
+SUMMARY:Grupo 2 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-infantiles-cursos-trimestrales-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:5A69EA60-F30E-48DB-9C1B-8E1D49346D67
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151013T170000
+DTEND;TZID=Europe/Madrid:20151013T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Martes
+URL:http://familygolf.es/event/curso-trimestral-martes-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:03105F87-A564-4243-ACA5-265900520BE8
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151014T170000
+DTEND;TZID=Europe/Madrid:20151014T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Miércoles
+URL:http://familygolf.es/event/curso-trimestral-miercoles-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:6C7B2810-7A8C-4B1F-9C48-F57C27EA59D5
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151017T100000
+DTEND;TZID=Europe/Madrid:20151017T113000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Sábado
+URL:http://familygolf.es/event/curso-trimestral-sabado-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:7695DA87-3AB5-4448-9B99-3E02E6585BC9
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151018T110000
+DTEND;TZID=Europe/Madrid:20151018T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-infantiles-cursos-trimestrales-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:37D4F483-9CFA-457F-B595-C6D36B2C28DB
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151018T110000
+DTEND;TZID=Europe/Madrid:20151018T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-padres-cursos-trimestrales-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:5D16C998-95C5-475A-878C-70F8B1D28F7A
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151018T110000
+DTEND;TZID=Europe/Madrid:20151018T123000
+SEQUENCE:0
+SUMMARY:Grupo 2 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-padres-cursos-trimestrales-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:06224E3E-5228-4B41-9916-B3E2F9D7457B
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151018T123000
+DTEND;TZID=Europe/Madrid:20151018T140000
+SEQUENCE:0
+SUMMARY:Grupo 2 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-infantiles-cursos-trimestrales-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:92FDFAA5-C1C6-43E0-A1C5-B1EB53CB801A
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151020T170000
+DTEND;TZID=Europe/Madrid:20151020T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Martes
+URL:http://familygolf.es/event/curso-trimestral-martes-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:D1FEF414-3400-479A-AB18-0ED36C262AC9
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151021T170000
+DTEND;TZID=Europe/Madrid:20151021T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Miércoles
+URL:http://familygolf.es/event/curso-trimestral-miercoles-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:D23E7801-D71B-416E-91D0-1161B982D7FD
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151024T100000
+DTEND;TZID=Europe/Madrid:20151024T113000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Sábado
+URL:http://familygolf.es/event/curso-trimestral-sabado-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:A753109D-7548-4062-9AA1-E640636E48FB
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151025T110000
+DTEND;TZID=Europe/Madrid:20151025T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-infantiles-cursos-trimestrales-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:0FC2E221-B3DE-4B87-B378-53B68A408221
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151025T110000
+DTEND;TZID=Europe/Madrid:20151025T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-padres-cursos-trimestrales-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:1C6131B8-15D1-4C81-8162-DBB06EB86151
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151025T110000
+DTEND;TZID=Europe/Madrid:20151025T123000
+SEQUENCE:0
+SUMMARY:Grupo 2 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-padres-cursos-trimestrales-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:5730F558-C09B-4C48-981B-8C2BB5608316
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151025T123000
+DTEND;TZID=Europe/Madrid:20151025T140000
+SEQUENCE:0
+SUMMARY:Grupo 2 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-infantiles-cursos-trimestrales-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:64C50762-93AB-4FC9-89D3-498BF814BAEB
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151027T170000
+DTEND;TZID=Europe/Madrid:20151027T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Martes
+URL:http://familygolf.es/event/curso-trimestral-martes-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:39DFA459-9D52-482E-8204-53DD4DAC39CE
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151028T170000
+DTEND;TZID=Europe/Madrid:20151028T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Miércoles
+URL:http://familygolf.es/event/curso-trimestral-miercoles-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:A1F79427-5B47-49E8-8EC9-882D705BD75E
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151031T100000
+DTEND;TZID=Europe/Madrid:20151031T113000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Sábado
+URL:http://familygolf.es/event/curso-trimestral-sabado-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:C1A71582-50A4-4750-8537-8E5589E44C1A
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151101T110000
+DTEND;TZID=Europe/Madrid:20151101T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-infantiles-cursos-trimestrales-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:AFF833E0-4C35-4F16-8D6D-881705C11112
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151101T110000
+DTEND;TZID=Europe/Madrid:20151101T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-padres-cursos-trimestrales-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:1906A70E-FCBF-4E4B-BE8B-E40ABE631D86
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151101T110000
+DTEND;TZID=Europe/Madrid:20151101T123000
+SEQUENCE:0
+SUMMARY:Grupo 2 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-padres-cursos-trimestrales-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:4769C081-495E-4586-A485-96DCC06D64EA
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151101T123000
+DTEND;TZID=Europe/Madrid:20151101T140000
+SEQUENCE:0
+SUMMARY:Grupo 2 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-infantiles-cursos-trimestrales-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:9C4EC231-0D02-493D-A758-C46CEFE3E88D
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151110T170000
+DTEND;TZID=Europe/Madrid:20151110T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Martes
+URL:http://familygolf.es/event/curso-trimestral-martes-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:3DEA4713-EB9F-406C-BB38-069827488A8C
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151111T170000
+DTEND;TZID=Europe/Madrid:20151111T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Miércoles
+URL:http://familygolf.es/event/curso-trimestral-miercoles-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:28BF0FC0-95D8-4C00-B964-E358360F8927
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151114T100000
+DTEND;TZID=Europe/Madrid:20151114T113000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Sábado
+URL:http://familygolf.es/event/curso-trimestral-sabado-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:E9A738F5-F66A-4260-B5F1-CD3490026A25
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151115T110000
+DTEND;TZID=Europe/Madrid:20151115T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-infantiles-cursos-trimestrales-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:23A0AD56-CE28-4178-8B57-082C054725D8
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151115T110000
+DTEND;TZID=Europe/Madrid:20151115T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-padres-cursos-trimestrales-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:67207D4B-1E96-4F26-9A22-AC1420679E4F
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151115T110000
+DTEND;TZID=Europe/Madrid:20151115T123000
+SEQUENCE:0
+SUMMARY:Grupo 2 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-padres-cursos-trimestrales-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:3FCE461C-D516-4BAB-9E03-84493DE1FE83
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151115T123000
+DTEND;TZID=Europe/Madrid:20151115T140000
+SEQUENCE:0
+SUMMARY:Grupo 2 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-infantiles-cursos-trimestrales-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:F5DC6453-9039-41AD-AC30-885F1850B364
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151117T170000
+DTEND;TZID=Europe/Madrid:20151117T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Martes
+URL:http://familygolf.es/event/curso-trimestral-martes-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:7886CE4B-7349-4A1A-B300-3F0456920538
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151118T170000
+DTEND;TZID=Europe/Madrid:20151118T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Miércoles
+URL:http://familygolf.es/event/curso-trimestral-miercoles-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:99A18D45-347E-4E96-BD73-EB05B9639B74
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151121T100000
+DTEND;TZID=Europe/Madrid:20151121T113000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Sábado
+URL:http://familygolf.es/event/curso-trimestral-sabado-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:288A739A-CD62-47D7-8510-36CF296983B2
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151122T110000
+DTEND;TZID=Europe/Madrid:20151122T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-infantiles-cursos-trimestrales-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:62D9CED3-86DE-4D7C-854C-0B440C201C83
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151122T110000
+DTEND;TZID=Europe/Madrid:20151122T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-padres-cursos-trimestrales-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:6247C23E-D3B0-45E3-8C44-79A9DF35188F
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151122T110000
+DTEND;TZID=Europe/Madrid:20151122T123000
+SEQUENCE:0
+SUMMARY:Grupo 2 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-padres-cursos-trimestrales-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:67BC1100-52A7-49C3-9771-A3CB4EB001B8
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151122T123000
+DTEND;TZID=Europe/Madrid:20151122T140000
+SEQUENCE:0
+SUMMARY:Grupo 2 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-infantiles-cursos-trimestrales-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:B8FD1CF2-C354-4CD4-9D9F-B98272271E36
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151124T170000
+DTEND;TZID=Europe/Madrid:20151124T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Martes
+URL:http://familygolf.es/event/curso-trimestral-martes/
+END:VEVENT
+BEGIN:VEVENT
+UID:DD2D46D8-F79E-4A38-A07A-455B33C281D8
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151125T170000
+DTEND;TZID=Europe/Madrid:20151125T183000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Miércoles
+URL:http://familygolf.es/event/curso-trimestral-miercoles/
+END:VEVENT
+BEGIN:VEVENT
+UID:7A1856BA-45C6-4BD3-9907-6E55FDA877B7
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151128T100000
+DTEND;TZID=Europe/Madrid:20151128T113000
+SEQUENCE:0
+SUMMARY:Curso Trimestral – Sábado
+URL:http://familygolf.es/event/curso-trimestral-sabado/
+END:VEVENT
+BEGIN:VEVENT
+UID:B58D88CB-D080-4246-8F7E-57C316719FDF
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151129T110000
+DTEND;TZID=Europe/Madrid:20151129T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-infantiles-cursos-trimestrales/
+END:VEVENT
+BEGIN:VEVENT
+UID:E239929A-475C-42AE-91AD-7B7A4BD6C137
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151129T110000
+DTEND;TZID=Europe/Madrid:20151129T123000
+SEQUENCE:0
+SUMMARY:Grupo 1 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-1-padres-cursos-trimestrales/
+END:VEVENT
+BEGIN:VEVENT
+UID:34EAB383-BFC0-4222-A149-DE9C1C74DBDF
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151129T110000
+DTEND;TZID=Europe/Madrid:20151129T123000
+SEQUENCE:0
+SUMMARY:Grupo 2 padres – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-padres-cursos-trimestrales/
+END:VEVENT
+BEGIN:VEVENT
+UID:356EB88F-196C-41B1-8788-721255C4E70B
+DTSTAMP:20150920T002414Z
+CATEGORIES;LANGUAGE=es-ES:Cursos de Golf
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151129T123000
+DTEND;TZID=Europe/Madrid:20151129T140000
+SEQUENCE:0
+SUMMARY:Grupo 2 infantiles – Cursos Trimestrales
+URL:http://familygolf.es/event/grupo-2-infantiles-cursos-trimestrales/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.195.124.93//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://mdseniorresource.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-880@mdseniorresource.org
+DTSTAMP:20150920T002139Z
+CATEGORIES;LANGUAGE=en-US:MSRN Events
+CONTACT:Pat France\, Board Member\; 410-828-5564\; patfrance@centrol-inc.co
+ m
+DESCRIPTION:<p>4 North Park Drive is located just North of Giant Grocery St
+ ore on York Road</p>\n<div class='sharedaddy sd-sharing-enabled'><div clas
+ s='robots-nocontent sd-block sd-social sd-social-official sd-sharing'><h3 
+ class='sd-title'>Share this:</h3><div class='sd-content'><ul><li class='sh
+ are-email'><a rel='nofollow' data-shared='' class='share-email sd-button' 
+ href='http://mdseniorresource.org/2015/08/21/tips-for-good-hip-health/?sha
+ re=email' target='_blank' title='Click to email this to a friend'><span>Em
+ ail</span></a></li><li class='share-facebook'><div class='fb-share-button'
+  data-href='http://mdseniorresource.org/2015/08/21/tips-for-good-hip-healt
+ h/' data-layout='button_count'></div></li><li class='share-twitter'><div c
+ lass='twitter_button'><iframe allowtransparency='true' frameborder='0' scr
+ olling='no' src='http://platform.twitter.com/widgets/tweet_button.html?url
+ =http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%2F21%2Ftips-for-good-hip-he
+ alth%2F&counturl=http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%2F21%2Ftips
+ -for-good-hip-health%2F&count=horizontal&text=Tips%20for%20Good%20Hip%20He
+ alth%3A' style='width:101px\; height:20px\;'></iframe></div></li><li class
+ ='share-google-plus-1'><div class='googleplus1_button'><div class='g-plus'
+  data-action='share' data-annotation='bubble' data-href='http://mdseniorre
+ source.org/2015/08/21/tips-for-good-hip-health/'></div></div></li><li clas
+ s='share-pinterest'><div class='pinterest_button'><a href='//www.pinterest
+ .com/pin/create/button/?url=http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%
+ 2F21%2Ftips-for-good-hip-health%2F&media=http%3A%2F%2F0.gravatar.com%2Fava
+ tar%2F97d952a8dba285afe2f933b50e3a1167%3Fs%3D96%26d%3Dblank%26r%3Dg&descri
+ ption=Tips%20for%20Good%20Hip%20Health' data-pin-do='buttonPin' data-pin-c
+ onfig='beside'><img src='//assets.pinterest.com/images/pidgets/pinit_fg_en
+ _rect_gray_20.png' /></a></div></li><li><a href='#' class='sharing-anchor 
+ sd-button share-more'><span>More</span></a></li><li class='share-end'></li
+ ></ul><div class='sharing-hidden'><div class='inner' style='display: none\
+ ;'><ul><li class='share-tumblr'><a target='_blank' href='http://www.tumblr
+ .com/share/link/?url=http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%2F21%2F
+ tips-for-good-hip-health%2F&name=Tips%20for%20Good%20Hip%20Health' title='
+ Share on Tumblr' style='display:inline-block\; text-indent:-9999px\; overf
+ low:hidden\; width:62px\; height:20px\; background:url('//platform.tumblr.
+ com/v1/share_2.png') top left no-repeat transparent\;'>Share on Tumblr</a>
+ </li><li class='share-linkedin'><div class='linkedin_button'><script type=
+ 'in/share' data-url='http://mdseniorresource.org/2015/08/21/tips-for-good-
+ hip-health/' data-counter='right'></script></div></li><li class='share-end
+ '></li><li class='share-reddit'><div class='reddit_button'><iframe src='ht
+ tp://www.reddit.com/static/button/button1.html?newwindow=true&width=120&ur
+ l=http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%2F21%2Ftips-for-good-hip-h
+ ealth%2F&title=Tips%20for%20Good%20Hip%20Health' height='22' width='120' s
+ crolling='no' frameborder='0'></iframe></div></li><li class='share-pocket'
+ ><div class='pocket_button'><a href='https://getpocket.com/save' class='po
+ cket-btn' data-lang='en' data-save-url='http://mdseniorresource.org/2015/0
+ 8/21/tips-for-good-hip-health/' data-pocket-count='horizontal' >Pocket</a>
+ </div></li><li class='share-end'></li><li class='share-end'></li></ul></di
+ v></div></div></div></div>
+DTSTART;TZID=America/New_York:20151005T093000
+DTEND;TZID=America/New_York:20151005T110000
+LOCATION:S2 Financial Partners office @ 4 North Park Drive\, Suite 400\, Hu
+ nt Valley\, MD 21030
+SEQUENCE:0
+SUMMARY:October 5\, 2015 Monthly Meeting
+URL:http://mdseniorresource.org/event/october-5-2015-monthly-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-881@mdseniorresource.org
+DTSTAMP:20150920T002139Z
+CATEGORIES;LANGUAGE=en-US:MSRN Events
+CONTACT:Pat France\, Board Member\; 410-828-5564\; patfrance@centrol-inc.co
+ m
+DESCRIPTION:<p>4 North Park Drive is located just North of Giant Grocery St
+ ore on York Road</p>\n<div class='sharedaddy sd-sharing-enabled'><div clas
+ s='robots-nocontent sd-block sd-social sd-social-official sd-sharing'><h3 
+ class='sd-title'>Share this:</h3><div class='sd-content'><ul><li class='sh
+ are-email'><a rel='nofollow' data-shared='' class='share-email sd-button' 
+ href='http://mdseniorresource.org/2015/08/21/tips-for-good-hip-health/?sha
+ re=email' target='_blank' title='Click to email this to a friend'><span>Em
+ ail</span></a></li><li class='share-facebook'><div class='fb-share-button'
+  data-href='http://mdseniorresource.org/2015/08/21/tips-for-good-hip-healt
+ h/' data-layout='button_count'></div></li><li class='share-twitter'><div c
+ lass='twitter_button'><iframe allowtransparency='true' frameborder='0' scr
+ olling='no' src='http://platform.twitter.com/widgets/tweet_button.html?url
+ =http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%2F21%2Ftips-for-good-hip-he
+ alth%2F&counturl=http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%2F21%2Ftips
+ -for-good-hip-health%2F&count=horizontal&text=Tips%20for%20Good%20Hip%20He
+ alth%3A' style='width:101px\; height:20px\;'></iframe></div></li><li class
+ ='share-google-plus-1'><div class='googleplus1_button'><div class='g-plus'
+  data-action='share' data-annotation='bubble' data-href='http://mdseniorre
+ source.org/2015/08/21/tips-for-good-hip-health/'></div></div></li><li clas
+ s='share-pinterest'><div class='pinterest_button'><a href='//www.pinterest
+ .com/pin/create/button/?url=http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%
+ 2F21%2Ftips-for-good-hip-health%2F&media=http%3A%2F%2F0.gravatar.com%2Fava
+ tar%2F97d952a8dba285afe2f933b50e3a1167%3Fs%3D96%26d%3Dblank%26r%3Dg&descri
+ ption=Tips%20for%20Good%20Hip%20Health' data-pin-do='buttonPin' data-pin-c
+ onfig='beside'><img src='//assets.pinterest.com/images/pidgets/pinit_fg_en
+ _rect_gray_20.png' /></a></div></li><li><a href='#' class='sharing-anchor 
+ sd-button share-more'><span>More</span></a></li><li class='share-end'></li
+ ></ul><div class='sharing-hidden'><div class='inner' style='display: none\
+ ;'><ul><li class='share-tumblr'><a target='_blank' href='http://www.tumblr
+ .com/share/link/?url=http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%2F21%2F
+ tips-for-good-hip-health%2F&name=Tips%20for%20Good%20Hip%20Health' title='
+ Share on Tumblr' style='display:inline-block\; text-indent:-9999px\; overf
+ low:hidden\; width:62px\; height:20px\; background:url('//platform.tumblr.
+ com/v1/share_2.png') top left no-repeat transparent\;'>Share on Tumblr</a>
+ </li><li class='share-linkedin'><div class='linkedin_button'><script type=
+ 'in/share' data-url='http://mdseniorresource.org/2015/08/21/tips-for-good-
+ hip-health/' data-counter='right'></script></div></li><li class='share-end
+ '></li><li class='share-reddit'><div class='reddit_button'><iframe src='ht
+ tp://www.reddit.com/static/button/button1.html?newwindow=true&width=120&ur
+ l=http%3A%2F%2Fmdseniorresource.org%2F2015%2F08%2F21%2Ftips-for-good-hip-h
+ ealth%2F&title=Tips%20for%20Good%20Hip%20Health' height='22' width='120' s
+ crolling='no' frameborder='0'></iframe></div></li><li class='share-pocket'
+ ><div class='pocket_button'><a href='https://getpocket.com/save' class='po
+ cket-btn' data-lang='en' data-save-url='http://mdseniorresource.org/2015/0
+ 8/21/tips-for-good-hip-health/' data-pocket-count='horizontal' >Pocket</a>
+ </div></li><li class='share-end'></li><li class='share-end'></li></ul></di
+ v></div></div></div></div>
+DTSTART;TZID=America/New_York:20151102T093000
+DTEND;TZID=America/New_York:20151102T110000
+LOCATION:S2 Financial Partners Office @ 4 North Park Drive\, suite 400\, Hu
+ nt Valley\, MD 21030
+SEQUENCE:0
+SUMMARY:November 2\, 2015 Monthly Meeting
+URL:http://mdseniorresource.org/event/november-2-2015-monthly-meeting/
+END:VEVENT
+END:VCALENDAR

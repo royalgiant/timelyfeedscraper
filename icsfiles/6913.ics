@@ -1,0 +1,394 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.236.158.149//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.grassrootswisconsin.org/scga
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-953@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:http://fightingbobfest.org/
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150920
+GEO:+43.083383;-89.373071
+LOCATION:Breeze Stevens Field @ 917 East Mifflin Street\, Madison\, WI 5370
+ 3\, USA
+SEQUENCE:0
+SUMMARY:Fighting BobFest
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=fighting-bobfest
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1427@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Robert Reich is Professor of Public Policy at the University
+  of California at Berkeley and Senior Fellow at the Blum Center for Develo
+ ping Economies\, was Secretary of Labor in the Clinton administration. Tim
+ e Magazine named him one of the ten most effective cabinet secretaries of 
+ the twentieth century. He has written thirteen books\, including the best 
+ sellers “Aftershock” and “The Work of Nations.” His latest\, “Beyond Outra
+ ge\,” is now out in paperback. He is also a founding editor of the America
+ n Prospect magazine and chairman of Common Cause. He’s got <a href='http:/
+ /robertreich.org/' target='_blank'>a great website: check it out</a>!</p>
+ \n<p>Event sponsored by the Middleton Action Team\, Madison Institute\, an
+ d Oregon Area Progressives.</p>\n<p> </p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+GEO:+43.07352;-89.387566
+LOCATION:Downtown Madison Library @ 201 West Mifflin Street\, Madison\, WI 
+ 53703\, USA
+SEQUENCE:0
+SUMMARY:Robert Reich at Wisconsin Book Festival
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=robert-reich-at-wi
+ sconsin-book-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1089@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150920T180000
+DTEND;TZID=America/Chicago:20150920T193000
+GEO:+43.192944;-89.463963
+LOCATION:Waunakee EMS Community Room @ 201 North Klein Drive\, Waunakee\, W
+ I 53597\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:GrassRoots Organization of Waunakee meeting
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=grassroots-organiz
+ ation-of-waunakee-meeting-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-933@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:deforestprogressives@gmail.com
+DESCRIPTION:<h5>Weekly meeting of DeForest Area Progressives – usually at p
+ rivate home – contact <a href='mailto:deforestprogressives@gmail.com' targ
+ et='_blank'>deforestprogressives@gmail.com</a> for details</h5>
+DTSTART;TZID=America/Chicago:20150921T180000
+DTEND;TZID=America/Chicago:20150921T200000
+EXDATE;TZID=America/Chicago:20150525T180000
+EXDATE;TZID=America/Chicago:20150601T180000
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=SU
+SEQUENCE:0
+SUMMARY:DeForest Area Progressive – Weekly Meeting
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=deforest-area-prog
+ ressive-weekly-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1506@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:350 Madison Climate Action Team\; https://350madison.wordpress.com/
+DESCRIPTION:<p>Join Madison faith communities in solidarity with events acr
+ oss the country  supporting Pope Francis’ ecology encyclical\, Laudato Si’
+ \,  as he addresses Congress and the UN.</p>\n<p>Music\, invocation\, fait
+ h leaders respond to Laudato Si’\; candlelight procession to the Capitol\;
+  closing with a call to action and prayer</p>
+DTSTART;TZID=America/Chicago:20150924T180000
+DTEND;TZID=America/Chicago:20150924T193000
+GEO:+43.081673;-89.381986
+LOCATION:James Madison Park @ 614 E Gorham St\, Madison\, WI 53703\, USA
+SEQUENCE:0
+SUMMARY:Light the Way: Faiths for Climate Justice
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=light-the-way-fait
+ hs-for-climate-justice
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1507@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:350 Madison Climate Action Team\; https://350madison.wordpress.com/
+DESCRIPTION:<p>Join Madison faith communities in solidarity with events acr
+ oss the country  supporting Pope Francis’ ecology encyclical\, Laudato Si’
+ \,  as he addresses Congress and the UN.</p>\n<p>Gathering for quiet conte
+ mplation at sunrise.</p>
+DTSTART;TZID=America/Chicago:20150925T063000
+DTEND;TZID=America/Chicago:20150925T073000
+GEO:+43.071745;-89.380402
+LOCATION:Monona Terrace\, Martin Luther King Jr. Blvd. entrance @ 1 John No
+ len Dr\, Madison\, WI 53703\, USA
+SEQUENCE:0
+SUMMARY:Light the Way: Faiths for Climate Justice – Sunrise Contemplation
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=light-the-way-fait
+ hs-for-climate-justice-sunrise-contemplation
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1508@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:350 Madison Climate Action Team\; https://350madison.wordpress.com/
+DESCRIPTION:<p>Join Madison faith communities in solidarity with events acr
+ oss the country  supporting Pope Francis’ ecology encyclical\, Laudato Si’
+ \,  as he addresses Congress and the UN.</p>\n<p>Video shorts on climate j
+ ustice\, followed by Live-stream viewing of Pope Francis’ address to the U
+ N (about 9 am) * Light refreshments will be served.</p>
+DTSTART;TZID=America/Chicago:20150925T080000
+DTEND;TZID=America/Chicago:20150925T100000
+GEO:+43.076861;-89.386161
+LOCATION:First United Methodist Church @ 203 Wisconsin Ave\, Madison\, WI 5
+ 3703\, USA
+SEQUENCE:0
+SUMMARY:Light the Way: Faiths for Climate Justice – Watch Party
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=light-the-way-fait
+ hs-for-climate-justice-watch-party
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1295@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150927T130000
+DTEND;TZID=America/Chicago:20150927T160000
+GEO:+43.008608;-89.738456
+LOCATION:Mount Horeb @ Mount Horeb\, WI 53572\, USA
+SEQUENCE:0
+SUMMARY:Progressive Partners
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=progressive-partne
+ rs-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1090@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150927T180000
+DTEND;TZID=America/Chicago:20150927T193000
+GEO:+43.150645;-89.415856
+LOCATION:Parched Eagle Brew Pub @ 5440 Willow Road #112\, Waunakee\, WI 535
+ 97\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4SU
+SEQUENCE:0
+SUMMARY:GrassRoots Organization of Waunakee Movie
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=grassroots-organiz
+ ation-of-waunakee-movie
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1510@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Greg Jones\, President of the NAACP Dane County Branch will 
+ be our guest speaker</p>
+DTSTART;TZID=America/Chicago:20151001T190000
+DTEND;TZID=America/Chicago:20151001T203000
+GEO:+43.013601;-89.288299
+LOCATION:E. D. Locke Public Library  @ 5920 Milwaukee St\, McFarland\, WI 5
+ 3558\, USA
+SEQUENCE:0
+SUMMARY:Active McFarland
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=active-mcfarland
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-931@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151002T180000
+DTEND;TZID=America/Chicago:20151002T200000
+GEO:+42.926521;-89.383938
+LOCATION:Firefly Coffeehouse @ 114 North Main Street\, Oregon\, WI 53575\, 
+ USA
+RRULE:FREQ=MONTHLY;BYDAY=1FR
+SEQUENCE:0
+SUMMARY:Open Mic – Oregon Area Progressives
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=oregon-area-progre
+ ssives-open-mic
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1509@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:Stoughton Action Coalition\; stoughtonactioncoalition@gmail.com\; h
+ ttps://www.facebook.com/stoughtonactioncoalition
+DESCRIPTION:<p>Learn what will be required to vote in all future elections.
+  Be sure you can vote!<br />\nCommunity forum sponsored by the Stoughton A
+ ction Coalition</p>\n<p>Pizza and soft drinks will be served</p>
+DTSTART;TZID=America/Chicago:20151003T110000
+DTEND;TZID=America/Chicago:20151003T120000
+GEO:+42.918659;-89.238076
+LOCATION:Stoughton Pizza Hut @ 1424 US-51\, Stoughton\, WI 53589\, USA
+SEQUENCE:0
+SUMMARY:Stoughton: Voter ID Forum
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=stoughton-voter-id
+ -forum
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1088@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151004T180000
+DTEND;TZID=America/Chicago:20151004T193000
+EXDATE;TZID=America/Chicago:20150705T180000
+GEO:+43.192944;-89.463963
+LOCATION:Waunakee EMS Community Room @ 201 North Klein Drive\, Waunakee\, W
+ I 53597\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1SU
+SEQUENCE:0
+SUMMARY:GrassRoots Organization of Waunakee meeting
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=grassroots-organiz
+ ation-of-waunakee-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1091@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151011T180000
+DTEND;TZID=America/Chicago:20151011T193000
+EXDATE;TZID=America/Chicago:20150712T180000
+GEO:+43.180476;-89.431559
+LOCATION:Lucky's Bar & Grill @ 1008 Quinn Drive\, Waunakee\, WI 53597\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:GrassRoots Organization of Waunakee Social
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=grassroots-organiz
+ ation-of-waunakee-social
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1327@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:saukclimateinfo@gmail.com
+DESCRIPTION:<p>SACAA welcomes anyone interested in helping to raise awarene
+ ss about\, and taking action to address\, climate change.</p>
+DTSTART;TZID=America/Chicago:20151013T100000
+DTEND;TZID=America/Chicago:20151013T113000
+GEO:+43.291361;-89.720786
+LOCATION:Ruth Culver Community Library @ 540 Water Street\, Prairie du Sac\
+ , WI 53578\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:Sauk Area Climate Awareness and Action
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=sauk-area-climate-
+ awareness-and-action-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-934@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<h5>Like-minded people discuss politics and current events over
+  a few drinks.</h5>
+DTSTART;TZID=America/Chicago:20151015T190000
+DTEND;TZID=America/Chicago:20151015T210000
+GEO:+42.81531;-89.634922
+LOCATION:Kristi's @ 119 5th Avenue\, New Glarus\, WI 53574\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+SEQUENCE:0
+SUMMARY:Drinking Liberally – New Glarus
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=drinking-liberally
+ -new-galarus
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1512@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:Active McFarland\; activemcfarland@gmail.com\; http://www.activemcf
+ arland.org/
+DESCRIPTION:<p>We’ll provide coffee\; please bring your own food</p>
+DTSTART;TZID=America/Chicago:20151017T093000
+DTEND;TZID=America/Chicago:20151017T110000
+GEO:+43.007122;-89.275585
+LOCATION:Skaalen Village Clubhouse @ 6055 Perrot Pl\, McFarland\, WI 53558\
+ , USA
+RRULE:FREQ=MONTHLY;BYDAY=3SA
+SEQUENCE:0
+SUMMARY:Political Cafe – Active McFarland
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=political-cafe-act
+ ive-mcfarland
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1511@www.grassrootswisconsin.org/scga
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151105T190000
+DTEND;TZID=America/Chicago:20151105T203000
+GEO:+43.013601;-89.288299
+LOCATION:E. D. Locke Public Library  @ 5920 Milwaukee St\, McFarland\, WI 5
+ 3558\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+SEQUENCE:0
+SUMMARY:Active McFarland
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=active-mcfarland-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1038@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160216T070000
+DTEND;TZID=America/Chicago:20160216T200000
+SEQUENCE:0
+SUMMARY:Spring Primary
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=spring-primary
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1039@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160405T070000
+DTEND;TZID=America/Chicago:20160405T200000
+SEQUENCE:0
+SUMMARY:Spring Election
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=spring-election
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1040@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160809T070000
+DTEND;TZID=America/Chicago:20160809T200000
+SEQUENCE:0
+SUMMARY:Partisan Primary
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=partisan-primary
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1041@www.grassrootswisconsin.org/scda
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20161108T070000
+DTEND;TZID=America/Chicago:20161108T200000
+SEQUENCE:0
+SUMMARY:General Election
+URL:http://www.grassrootswisconsin.org/scga/?ai1ec_event=general-election
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//45.33.6.70//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://ccpccacademy.staging.wpengine.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2212@cca.ccphilly.org
+DTSTAMP:20150920T002359Z
+CATEGORIES;LANGUAGE=en-US:CCA Events
+CONTACT:
+DESCRIPTION:<p><img src='http://ccpccacademy.staging.wpengine.com/wp-conten
+ t/uploads/CCA_20_years.jpg' alt='CCA 20th Year Celebration' width='100%' /
+ ><br />\nCome and join us as we celebrate CCA’s 20th year on Saturday\, Oc
+ tober 10th\, 2015.</p>\n<p>Reunite with former CCA Staff and student Alumn
+ i – Cheer on the soccer and football teams – food and plenty of activities
+  for everyone!</p>\n<h3>Schedule of Events:</h3>\n<ul>\n<li><strong>9:30am
+  – </strong>Varsity Girls Soccer Game</li>\n<li><strong>10am-noon – </stro
+ ng>Activities for children (moon bounce\, face painting\, and more)</li>\n
+ <li><strong>11am – </strong>Varsity Boys Soccer Game</li>\n<li><strong>1pm
+  – </strong>Reunite with former CCA Staff and Student Alumni in the Sanctu
+ ary</li>\n<li><strong>3pm – </strong>Varsity Football Game</li>\n</ul>\n<p
+ >More details to come…</p>\n<p>Save the date!</p>
+DTSTART;TZID=America/New_York:20151010T093000
+GEO:+40.129713;-75.017306
+LOCATION:Calvary Christian Academy @ 13500 Philmont Avenue\, Philadelphia\,
+  PA 19116\, USA
+SEQUENCE:0
+SUMMARY:CCA 20th Celebration
+URL:http://ccpccacademy.staging.wpengine.com/event/cca-20th-celebration/
+X-TAGS;LANGUAGE=en-US:20th year
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

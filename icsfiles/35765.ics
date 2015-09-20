@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.105.22//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://itfstudent.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4066@illinoistechfoundation.org/sitefiles
+DTSTAMP:20150920T002203Z
+CATEGORIES:
+CONTACT:William Waas\; 312-351-1669\; bwaas@itfound.org\; http://www.itfoun
+ d.org
+DESCRIPTION:<p>You are cordially invited to attend the Illinois Technology 
+ Foundation Educator’s Forum.  ITF is inviting\, IT department chairs and d
+ eans along with career services professionals to learn about the services 
+ offered by the Illinois Technology Foundation.</p>\n<p>Learn about our:</p
+ >\n<ul>\n<li><span style='line-height: 1.6em'>Student Technology Club</spa
+ n></li>\n<li><span style='line-height: 1.6em'>Student Ambassador Program</
+ span></li>\n<li><strong><em><span style='line-height: 1.6em'>Fifty for the
+  Future</span></em></strong></li>\n<li><span style='line-height: 1.6em'>Gu
+ est Speaker Program</span></li>\n<li><span style='line-height: 1.6em'>Jobs
+  Board</span></li>\n<li><span style='line-height: 1.6em'>Internships</span
+ ></li>\n<li><span style='line-height: 1.6em'>and much\, much more!</span><
+ /li>\n</ul>\n<p>Please feel free to share the registration link with other
+ s in your organization that might have an interest in our programs.</p>\n<
+ p>Bill Waas</p>\n<p>Chairman & CEO</p>
+DTSTART;TZID=America/Chicago:20151008T150000
+DTEND;TZID=America/Chicago:20151008T160000
+GEO:+41.876178;-87.627216
+LOCATION:Robert Morris University @ 401 South State Street\, Chicago\, IL 6
+ 0605\, USA
+SEQUENCE:0
+SUMMARY:Illinois Technology Foundation Educator’s Forum
+URL:http://itfstudent.org/event/illinois-technology-foundation-educators-fo
+ rum/
+X-COST:Free
+X-TICKETS-URL:https://www.eventbrite.com/e/illinois-technology-foundation-e
+ ducators-forum-tickets-18509828395
+END:VEVENT
+END:VCALENDAR

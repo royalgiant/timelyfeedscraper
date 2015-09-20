@@ -1,0 +1,464 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//64.207.139.204//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://ocs.cubix.io
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-174@ocs.whaddup
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Assocation
+CONTACT:
+DESCRIPTION:<p><a href='http://ocs.cubix.io/wp-content/uploads/2015/09/view
+ -hotel-info.jpg'><img class='size-full wp-image-206 alignleft' src='http:/
+ /ocs.cubix.io/wp-content/uploads/2015/09/view-hotel-info.jpg' alt='view-ho
+ tel-info' width='185' height='185' /></a> <a href='http://ocs.cubix.io/wp-
+ content/uploads/2015/09/registration-form.jpg'><img class='size-full wp-im
+ age-207 alignleft' src='http://ocs.cubix.io/wp-content/uploads/2015/09/reg
+ istration-form.jpg' alt='registration-form' width='185' height='185' /></a
+ ><a href='http://ocs.cubix.io/help/'><img class='size-full wp-image-205 al
+ ignnone' src='http://ocs.cubix.io/wp-content/uploads/2015/09/view-itinirar
+ y1.jpg' alt='view-itinirary' width='185' height='185' /></a></p>\n\n      
+           <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_
+ 4' ><form method='post' enctype='multipart/form-data'  id='gform_4'  actio
+ n='/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller
+ &action=export_events'>\n                        <div class='gform_body'><
+ ul id='gform_fields_4' class='gform_fields top_label form_sublabel_below d
+ escription_above'><li id='field_4_1' class='gfield gsection field_sublabel
+ _below field_description_above' ><h2 class='gsection_title'>OCS Hall of Fa
+ me Activities and Alumni Associaton Reunion Attendee Information</h2><div 
+ class='gsection_description'>For questions or assistance please contact Mr
+ s. Nancy Ionoff (813)-917-4309</div></li><li id='field_4_2' class='gfield 
+ gfield_contains_required field_sublabel_below field_description_above' ><l
+ abel class='gfield_label' for='input_4_2_3' >Name<span class='gfield_requi
+ red'>*</span></label><div class='ginput_complex ginput_container no_prefix
+  has_first_name no_middle_name has_last_name no_suffix' id='input_4_2'>\n 
+                            <span id='input_4_2_3_container' class='name_fi
+ rst' >\n                                                    <input type='t
+ ext' name='input_2.3' id='input_4_2_3' value='' aria-label='First name' ta
+ bindex='1'  />\n                                                    <label
+  for='input_4_2_3' >First</label>\n                                       
+         </span>\n                            <span id='input_4_2_6_contain
+ er' class='name_last' >\n                                                 
+    <input type='text' name='input_2.6' id='input_4_2_6' value='' aria-labe
+ l='Last name' tabindex='2'  />\n                                          
+           <label for='input_4_2_6' >Last</label>\n                        
+                         </span>\n                            <div class='g
+ f_clear gf_clear_complex'></div>\n                        </div></li><li i
+ d='field_4_4' class='gfield field_sublabel_below field_description_above' 
+ ><label class='gfield_label' for='input_4_4' >OCS Class/Year</label><div c
+ lass='ginput_container'><input name='input_4' id='input_4_4' type='text' v
+ alue='' class='medium'  tabindex='3'   /></div></li><li id='field_4_5' cla
+ ss='gfield field_sublabel_below field_description_above' ><label class='gf
+ ield_label' for='input_4_5' >Last Rank Obtained</label><div class='ginput_
+ container'><input name='input_5' id='input_4_5' type='text' value='' class
+ ='medium'  tabindex='4'   /></div></li><li id='field_4_27' class='gfield f
+ ield_sublabel_below field_description_above' ><label class='gfield_label' 
+ for='input_4_27' >What name do you prefer on your nametag?</label><div cla
+ ss='ginput_container'><input name='input_27' id='input_4_27' type='text' v
+ alue='' class='medium'  tabindex='5'   /></div></li><li id='field_4_28' cl
+ ass='gfield field_sublabel_below field_description_above' ><label class='g
+ field_label'  >Active or Retired</label><div class='ginput_container'><ul 
+ class='gfield_radio' id='input_4_28'><li class='gchoice_4_28_0'><input nam
+ e='input_28' type='radio' value='Active'  id='choice_4_28_0' tabindex='6' 
+    /><label for='choice_4_28_0' id='label_4_28_0'>Active</label></li><li c
+ lass='gchoice_4_28_1'><input name='input_28' type='radio' value='Retired' 
+  id='choice_4_28_1' tabindex='7'    /><label for='choice_4_28_1' id='label
+ _4_28_1'>Retired</label></li></ul></div></li><li id='field_4_6' class='gfi
+ eld field_sublabel_below field_description_above' ><label class='gfield_la
+ bel' for='input_4_6_shim' >Guests</label><div class='gfield_description'>Y
+ ou can add more by using the + icon.</div><div class='ginput_container gin
+ put_list'><input type='text' id='input_4_6_shim' style='position:absolute\
+ ;left:-999em\;' onfocus='jQuery( '#field_4_6 table tr td:first-child input
+ ' ).focus()\;' /><table class='gfield_list'><colgroup><col id='gfield_list
+ _6_col1' class='gfield_list_col_odd' /><col id='gfield_list_6_col2' class=
+ 'gfield_list_col_even' /></colgroup><tbody><tr class='gfield_list_row_odd'
+ ><td class='gfield_list_cell gfield_list_6_cell1'><input type='text' name=
+ 'input_6[]' value='' tabindex='8' /></td><td class='gfield_list_icons'>   
+ <img src='http://ocs.cubix.io/wp-content/plugins/gravityforms/images/blank
+ space.png' class='add_list_item '  title='Add another row' alt='Add a row'
+  onclick='gformAddListItem(this\, 0)' style='cursor:pointer\; margin:0 3px
+ \;' />   <img src='http://ocs.cubix.io/wp-content/plugins/gravityforms/ima
+ ges/blankspace.png'  title='Remove this row' alt='Remove this row' class='
+ delete_list_item' style='cursor:pointer\; visibility:hidden\;' onclick='gf
+ ormDeleteListItem(this\, 0)' /></td></tr></tbody>\n					<style type='text/css'>
+ \n\n					/* add SVG background image support for retina devices ---------------
+ ----------------*/\n\n					img.add_list_item {\n						background-image: url(data:imag
+ e/svg+xml\;base64\,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IUR
+ PQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3L
+ nczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4
+ xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwO
+ i8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0J
+ veD0iMCAwIDUxMiA1MTIiPjxnIGlkPSJpY29tb29uLWlnbm9yZSI+PC9nPjxwYXRoIGQ9Ik0yN
+ TYgNTEyYy0xNDEuMzc1IDAtMjU2LTExNC42MDktMjU2LTI1NnMxMTQuNjI1LTI1NiAyNTYtMjU
+ 2YzE0MS4zOTEgMCAyNTYgMTE0LjYwOSAyNTYgMjU2cy0xMTQuNjA5IDI1Ni0yNTYgMjU2ek0yN
+ TYgNjRjLTEwNi4wMzEgMC0xOTIgODUuOTY5LTE5MiAxOTJzODUuOTY5IDE5MiAxOTIgMTkyYzE
+ wNi4wNDcgMCAxOTItODUuOTY5IDE5Mi0xOTJzLTg1Ljk1My0xOTItMTkyLTE5MnpNMjg4IDM4N
+ GgtNjR2LTk2aC05NnYtNjRoOTZ2LTk2aDY0djk2aDk2djY0aC05NnY5NnoiPjwvcGF0aD48L3N
+ 2Zz4=)\;\n					}\n\n					img.delete_list_item {\n						background-image: url(data:image/sv
+ g+xml\;base64\,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1R
+ ZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczL
+ m9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiB
+ 4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd
+ 3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0
+ iMCAwIDUxMiA1MTIiPjxnIGlkPSJpY29tb29uLWlnbm9yZSI+PC9nPjxwYXRoIGQ9Ik0yNTYgM
+ GMtMTQxLjM3NSAwLTI1NiAxMTQuNjI1LTI1NiAyNTYgMCAxNDEuMzkxIDExNC42MjUgMjU2IDI
+ 1NiAyNTYgMTQxLjM5MSAwIDI1Ni0xMTQuNjA5IDI1Ni0yNTYgMC0xNDEuMzc1LTExNC42MDktM
+ jU2LTI1Ni0yNTZ6TTI1NiA0NDhjLTEwNi4wMzEgMC0xOTItODUuOTY5LTE5Mi0xOTJzODUuOTY
+ 5LTE5MiAxOTItMTkyYzEwNi4wNDcgMCAxOTIgODUuOTY5IDE5MiAxOTJzLTg1Ljk1MyAxOTItM
+ TkyIDE5MnpNMTI4IDI4OGgyNTZ2LTY0aC0yNTZ2NjR6Ij48L3BhdGg+PC9zdmc+)\;\n					}\n\n					i
+ mg.add_list_item\,\n					img.delete_list_item {\n						width: 1em\;\n						height: 1em\;\n						b
+ ackground-size: 1em 1em\;\n						opacity: 0.5\;\n					}\n\n					img.add_list_item:hover\,
+ \n					img.add_list_item:active\,\n					img.delete_list_item:hover\,\n					img.delete_lis
+ t_item:active {\n						opacity: 1.0\;\n					}\n\n					</style>\n				</table></div></li><li id=
+ 'field_4_7' class='gfield gfield_contains_required field_sublabel_below fi
+ eld_description_above' ><label class='gfield_label' for='input_4_7_1' >Mai
+ ling Address<span class='gfield_required'>*</span></label>    \n          
+           <div class='ginput_complex ginput_container has_street has_city 
+ has_state has_zip' id='input_4_7' >\n                         <span class=
+ 'ginput_full address_line_1' id='input_4_7_1_container' >\n               
+                          <input type='text' name='input_7.1' id='input_4_7
+ _1' value='' tabindex='9'  />\n                                        <la
+ bel for='input_4_7_1' id='input_4_7_1_label' >Street Address</label>\n    
+                                 </span><span class='ginput_left address_ci
+ ty' id='input_4_7_3_container' >\n                                    <inp
+ ut type='text' name='input_7.3' id='input_4_7_3' value='' tabindex='10'  /
+ >\n                                    <label for='input_4_7_3' id='input_
+ 4_7_3_label' >City</label>\n                                 </span><span 
+ class='ginput_right address_state' id='input_4_7_4_container' >\n         
+                                <select name='input_7.4' id='input_4_7_4' t
+ abindex='11'   ><option value='' selected='selected'></option><option valu
+ e='Alabama' >Alabama</option><option value='Alaska' >Alaska</option><optio
+ n value='Arizona' >Arizona</option><option value='Arkansas' >Arkansas</opt
+ ion><option value='California' >California</option><option value='Colorado
+ ' >Colorado</option><option value='Connecticut' >Connecticut</option><opti
+ on value='Delaware' >Delaware</option><option value='District of Columbia'
+  >District of Columbia</option><option value='Florida' >Florida</option><o
+ ption value='Georgia' >Georgia</option><option value='Hawaii' >Hawaii</opt
+ ion><option value='Idaho' >Idaho</option><option value='Illinois' >Illinoi
+ s</option><option value='Indiana' >Indiana</option><option value='Iowa' >I
+ owa</option><option value='Kansas' >Kansas</option><option value='Kentucky
+ ' >Kentucky</option><option value='Louisiana' >Louisiana</option><option v
+ alue='Maine' >Maine</option><option value='Maryland' >Maryland</option><op
+ tion value='Massachusetts' >Massachusetts</option><option value='Michigan'
+  >Michigan</option><option value='Minnesota' >Minnesota</option><option va
+ lue='Mississippi' >Mississippi</option><option value='Missouri' >Missouri<
+ /option><option value='Montana' >Montana</option><option value='Nebraska' 
+ >Nebraska</option><option value='Nevada' >Nevada</option><option value='Ne
+ w Hampshire' >New Hampshire</option><option value='New Jersey' >New Jersey
+ </option><option value='New Mexico' >New Mexico</option><option value='New
+  York' >New York</option><option value='North Carolina' >North Carolina</o
+ ption><option value='North Dakota' >North Dakota</option><option value='Oh
+ io' >Ohio</option><option value='Oklahoma' >Oklahoma</option><option value
+ ='Oregon' >Oregon</option><option value='Pennsylvania' >Pennsylvania</opti
+ on><option value='Rhode Island' >Rhode Island</option><option value='South
+  Carolina' >South Carolina</option><option value='South Dakota' >South Dak
+ ota</option><option value='Tennessee' >Tennessee</option><option value='Te
+ xas' >Texas</option><option value='Utah' >Utah</option><option value='Verm
+ ont' >Vermont</option><option value='Virginia' >Virginia</option><option v
+ alue='Washington' >Washington</option><option value='West Virginia' >West 
+ Virginia</option><option value='Wisconsin' >Wisconsin</option><option valu
+ e='Wyoming' >Wyoming</option><option value='Armed Forces Americas' >Armed 
+ Forces Americas</option><option value='Armed Forces Europe' >Armed Forces 
+ Europe</option><option value='Armed Forces Pacific' >Armed Forces Pacific<
+ /option></select>\n                                        <label for='inp
+ ut_4_7_4' id='input_4_7_4_label' >State</label>\n                         
+              </span><span class='ginput_left address_zip' id='input_4_7_5_
+ container' >\n                                    <input type='text' name=
+ 'input_7.5' id='input_4_7_5' value='' tabindex='13'  />\n                 
+                    <label for='input_4_7_5' id='input_4_7_5_label' >ZIP Co
+ de</label>\n                                </span><input type='hidden' cl
+ ass='gform_hidden' name='input_7.6' id='input_4_7_6' value='United States'
+ />\n                    <div class='gf_clear gf_clear_complex'></div>\n   
+              </div></li><li id='field_4_8' class='gfield gfield_contains_r
+ equired field_sublabel_below field_description_above' ><label class='gfiel
+ d_label' for='input_4_8' >Phone<span class='gfield_required'>*</span></lab
+ el><div class='ginput_container'><input name='input_8' id='input_4_8' type
+ ='tel' value='' class='medium' tabindex='14'   /></div></li><li id='field_
+ 4_9' class='gfield gfield_contains_required field_sublabel_below field_des
+ cription_above' ><label class='gfield_label' for='input_4_9' >Email<span c
+ lass='gfield_required'>*</span></label><div class='ginput_container'>\n   
+                          <input name='input_9' id='input_4_9' type='email'
+  value='' class='medium' tabindex='15'   />\n                        </div
+ ></li><li id='field_4_10' class='gfield gsection field_sublabel_below fiel
+ d_description_above' ><h2 class='gsection_title'>Hall of Fame Activities f
+ or Inductees/Family Members and Alumni Attendees Cattlemans Lunch</h2><div
+  class='gsection_description'>Please enter how many individuals will be at
+ tending each event in the 'Quanity' field.</div></li><li id='field_4_11' c
+ lass='gfield gfield_price gfield_price_4_11 gfield_product_4_11 field_subl
+ abel_below field_description_above' ><label class='gfield_label' for='inpu
+ t_4_11_1' >Cattleman's Lunch</label><div class='gfield_description'>Monday
+ \, April 25 at OCS Battalion Area</div><div class='ginput_container'>\n					<in
+ put type='hidden' name='input_11.1' value='Cattleman's Lunch' class='gform
+ _hidden' />\n					<span class='ginput_product_price_label'>Price:</span> <span 
+ class='ginput_product_price' id='input_4_11'>$10.00</span>\n					<input type='h
+ idden' name='input_11.2' id='ginput_base_price_4_11' class='gform_hidden' 
+ value='$10.00'/>\n					 <span class='ginput_quantity_label'>Quantity:</span> <i
+ nput type='number' name='input_11.3' value='' id='ginput_quantity_4_11' cl
+ ass='ginput_quantity' size='10' min='0' tabindex='16'/>\n				</div></li><li id
+ ='field_4_12' class='gfield gfield_price gfield_price_4_12 gfield_product_
+ 4_12 field_sublabel_below field_description_above' ><label class='gfield_l
+ abel' for='input_4_12_1' >OCS Hall of Fame Induction Ceremony and Receptio
+ n</label><div class='gfield_description'>Monday\, April 25 at National Inf
+ antry Museum (No Charge)</div><div class='ginput_container'>\n					<input type=
+ 'hidden' name='input_12.1' value='OCS Hall of Fame Induction Ceremony and 
+ Reception' class='gform_hidden' />\n					<span class='ginput_product_price_labe
+ l'>Price:</span> <span class='ginput_product_price' id='input_4_12'>$0.00<
+ /span>\n					<input type='hidden' name='input_12.2' id='ginput_base_price_4_12'
+  class='gform_hidden' value='$0.00'/>\n					 <span class='ginput_quantity_label
+ '>Quantity:</span> <input type='number' name='input_12.3' value='' id='gin
+ put_quantity_4_12' class='ginput_quantity' size='10' min='0' tabindex='17'
+ />\n				</div></li><li id='field_4_13' class='gfield gfield_price gfield_price
+ _4_13 gfield_product_4_13 field_sublabel_below field_description_above' ><
+ label class='gfield_label' for='input_4_13_1' >Lunch</label><div class='gf
+ ield_description'>Tuesday\, April 26 at Army Dining Facility (DFAC)\, Bldg
+ . 200 (w/candidates)</div><div class='ginput_container'>\n					<input type='hid
+ den' name='input_13.1' value='Lunch' class='gform_hidden' />\n					<span class=
+ 'ginput_product_price_label'>Price:</span> <span class='ginput_product_pri
+ ce' id='input_4_13'>$0.00</span>\n					<input type='hidden' name='input_13.2' i
+ d='ginput_base_price_4_13' class='gform_hidden' value='$0.00'/>\n					 <span cl
+ ass='ginput_quantity_label'>Quantity:</span> <input type='number' name='in
+ put_13.3' value='' id='ginput_quantity_4_13' class='ginput_quantity' size=
+ '10' min='0' tabindex='18'/>\n				</div></li><li id='field_4_14' class='gfield
+  gfield_price gfield_price_4_14 gfield_product_4_14 field_sublabel_below f
+ ield_description_above' ><label class='gfield_label' for='input_4_14_1' >O
+ CS HOF/Patterson Award & OCS Alumni Banquet</label><div class='gfield_desc
+ ription'>Tuesday\, April 26 at National Infantry Museum</div><div class='g
+ input_container'>\n					<input type='hidden' name='input_14.1' value='OCS HOF/P
+ atterson Award & OCS Alumni Banquet' class='gform_hidden' />\n					<span class=
+ 'ginput_product_price_label'>Price:</span> <span class='ginput_product_pri
+ ce' id='input_4_14'>$45.00</span>\n					<input type='hidden' name='input_14.2' 
+ id='ginput_base_price_4_14' class='gform_hidden' value='$45.00'/>\n					 <span 
+ class='ginput_quantity_label'>Quantity:</span> <input type='number' name='
+ input_14.3' value='' id='ginput_quantity_4_14' class='ginput_quantity' siz
+ e='10' min='0' tabindex='19'/>\n				</div></li><li id='field_4_15' class='gfie
+ ld gsection field_sublabel_below field_description_above' ><h2 class='gsec
+ tion_title'>2016 OCS Reunion Registration</h2><div class='gsection_descrip
+ tion'>Please indicate how many individuals are attending each event in the
+  'Quanity' field. </div></li><li id='field_4_16' class='gfield gfield_pric
+ e gfield_price_4_16 gfield_product_4_16 field_sublabel_below field_descrip
+ tion_above' ><label class='gfield_label' for='input_4_16_1' >Reunion Regis
+ tration</label><div class='gfield_description'>Sunday\, April 24 | DoubleT
+ ree Hotel | Price increases after 3/15/2016 ($100). All reunion attendees 
+ must pay registration fee. This amount pays for bus transpiration to all e
+ vents\, snacks and beverages in hospitality room\, welcome gifts\, decorat
+ ions\, admin\, candidate guests and speaker expenses. </div><div class='gi
+ nput_container'>\n					<input type='hidden' name='input_16.1' value='Reunion Re
+ gistration' class='gform_hidden' />\n					<span class='ginput_product_price_lab
+ el'>Price:</span> <span class='ginput_product_price' id='input_4_16'>$75.0
+ 0</span>\n					<input type='hidden' name='input_16.2' id='ginput_base_price_4_1
+ 6' class='gform_hidden' value='$75.00'/>\n					 <span class='ginput_quantity_la
+ bel'>Quantity:</span> <input type='number' name='input_16.3' value='' id='
+ ginput_quantity_4_16' class='ginput_quantity' size='10' min='0' tabindex='
+ 20'/>\n				</div></li><li id='field_4_17' class='gfield gfield_price gfield_pr
+ ice_4_17 gfield_product_4_17 field_sublabel_below field_description_above'
+  ><label class='gfield_label' for='input_4_17_1' >Reception Buffet</label>
+ <div class='gfield_description'>Sunday\, April 24 at DoubleTree Hotel</div
+ ><div class='ginput_container'>\n					<input type='hidden' name='input_17.1' va
+ lue='Reception Buffet' class='gform_hidden' />\n					<span class='ginput_produc
+ t_price_label'>Price:</span> <span class='ginput_product_price' id='input_
+ 4_17'>$35.00</span>\n					<input type='hidden' name='input_17.2' id='ginput_bas
+ e_price_4_17' class='gform_hidden' value='$35.00'/>\n					 <span class='ginput_
+ quantity_label'>Quantity:</span> <input type='number' name='input_17.3' va
+ lue='' id='ginput_quantity_4_17' class='ginput_quantity' size='10' min='0'
+  tabindex='21'/>\n				</div></li><li id='field_4_18' class='gfield gfield_pric
+ e gfield_price_4_18 gfield_product_4_18 field_sublabel_below field_descrip
+ tion_above' ><label class='gfield_label' for='input_4_18_1' >Reunion Dinne
+ r</label><div class='gfield_description'>Wednesday\, April 27 at DoubleTre
+ e Hotel</div><div class='ginput_container'>\n					<input type='hidden' name='in
+ put_18.1' value='Reunion Dinner' class='gform_hidden' />\n					<span class='gin
+ put_product_price_label'>Price:</span> <span class='ginput_product_price' 
+ id='input_4_18'>$35.00</span>\n					<input type='hidden' name='input_18.2' id='
+ ginput_base_price_4_18' class='gform_hidden' value='$35.00'/>\n					 <span clas
+ s='ginput_quantity_label'>Quantity:</span> <input type='number' name='inpu
+ t_18.3' value='' id='ginput_quantity_4_18' class='ginput_quantity' size='1
+ 0' min='0' tabindex='22'/>\n				</div></li><li id='field_4_19' class='gfield g
+ field_html gfield_html_formatted field_sublabel_below field_description_ab
+ ove' >REMEMBER BUFFET BREAKFAST EACH A.M. IS INCLUDED IN YOUR GROUP ROOM R
+ ATE</li><li id='field_4_20' class='gfield field_sublabel_below field_descr
+ iption_above' ><label class='gfield_label'  >Special Request</label><div c
+ lass='gfield_description'>We will contact you upon receiving your requests
+ . </div><div class='ginput_container'><ul class='gfield_radio' id='input_4
+ _20'><li class='gchoice_4_20_0'><input name='input_20' type='radio' value=
+ 'I (My guest(s) require Vegetarian or Special Meals'  id='choice_4_20_0' t
+ abindex='23'    /><label for='choice_4_20_0' id='label_4_20_0'>I (My guest
+ (s) require Vegetarian or Special Meals</label></li><li class='gchoice_4_2
+ 0_1'><input name='input_20' type='radio' value='Other special assistance (
+ auxiliary aids\, w/c)'  id='choice_4_20_1' tabindex='24'    /><label for='
+ choice_4_20_1' id='label_4_20_1'>Other special assistance (auxiliary aids\
+ , w/c)</label></li><li class='gchoice_4_20_2'><input name='input_20' type=
+ 'radio' value='gf_other_choice'  id='choice_4_20_2' tabindex='25'   onfocu
+ s='jQuery(this).next('input').focus()\;' /><input id='input_4_20_other' na
+ me='input_20_other' type='text' value='Other' aria-label='Other' onfocus='
+ jQuery(this).prev('input')[0].click()\; if(jQuery(this).val() == 'Other') 
+ { jQuery(this).val('')\; }' onblur='if(jQuery(this).val().replace(' '\, ''
+ ) == '') { jQuery(this).val('Other')\; }' tabindex='25'   /></li></ul></di
+ v></li><li id='field_4_26' class='gfield field_sublabel_below field_descri
+ ption_above' ><label class='gfield_label' for='input_4_26' >Donation to th
+ e OCS Alumni Operating Fund</label><div class='ginput_container'><input na
+ me='input_26' id='input_4_26' type='text' step='any'   value='' class='med
+ ium' tabindex='26'    /></div></li><li id='field_4_23' class='gfield gsect
+ ion field_sublabel_below field_description_above' ><h2 class='gsection_tit
+ le'>Check Out</h2></li><li id='field_4_25' class='gfield gfield_price gfie
+ ld_price_4_25 gfield_product_4_25 gfield_calculation field_sublabel_below 
+ field_description_above' ><label class='gfield_label' for='input_4_25_1' >
+ Registration Total</label><div class='ginput_container'>\n					<input type='hid
+ den' name='input_25.1' value='Registration Total' class='gform_hidden' />
+ \n					<span class='ginput_product_price_label'>Price:</span> <span class='ginp
+ ut_product_price' id='input_4_25'>$0.00</span>\n					<input type='hidden' name=
+ 'input_25.2' id='ginput_base_price_4_25' class='gform_hidden' value='$0.00
+ '/>\n					<input type='hidden' name='input_25.3' value='1' class='ginput_quanti
+ ty_4_25 gform_hidden' />\n				</div></li><li id='field_4_21' class='gfield gfi
+ eld_contains_required gfield_creditcard_warning field_sublabel_below field
+ _description_above' ><div class='gfield_creditcard_warning_message'><span>
+ This page is unsecured. Do not enter a real credit card number! Use this f
+ ield only for testing purposes. </span></div><label class='gfield_label' f
+ or='input_4_21_1' >Credit Card<span class='gfield_required'>*</span></labe
+ l><div class='ginput_complex ginput_container' id='input_4_21'><span class
+ ='ginput_full' id='input_4_21_1_container' >\n                            
+         <div class='gform_card_icon_container gform_card_icon_style1'><div
+  class='gform_card_icon gform_card_icon_amex' >American Express</div><div 
+ class='gform_card_icon gform_card_icon_discover' >Discover</div><div class
+ ='gform_card_icon gform_card_icon_mastercard' >MasterCard</div><div class=
+ 'gform_card_icon gform_card_icon_visa' >Visa</div></div>\n                
+                     <input type='text' name='input_21.1' id='input_4_21_1'
+  value='' tabindex='27'  onchange='gformMatchCard('input_4_21_1')\;' onkey
+ up='gformMatchCard('input_4_21_1')\;' autocomplete='off' pattern='[0-9]*' 
+ title='Only digits are allowed' />\n                                    <l
+ abel for='input_4_21_1' id='input_4_21_1_label' >Card Number</label>\n    
+                              </span><span class='ginput_full ginput_cardex
+ tras' id='input_4_21_2_container'>\n                                      
+       <span class='ginput_cardinfo_left' id='input_4_21_2_cardinfo_left'>
+ \n                                                <span class='ginput_card
+ _expiration_container ginput_card_field'>\n                               
+                      <select name='input_21.2[]' id='input_4_21_2_month' t
+ abindex='28'  class='ginput_card_expiration ginput_card_expiration_month'>
+ \n                                                        <option value=''
+ >Month</option><option value='1' >01</option><option value='2' >02</option
+ ><option value='3' >03</option><option value='4' >04</option><option value
+ ='5' >05</option><option value='6' >06</option><option value='7' >07</opti
+ on><option value='8' >08</option><option value='9' >09</option><option val
+ ue='10' >10</option><option value='11' >11</option><option value='12' >12<
+ /option>\n                                                    </select>\n 
+                                                    <select name='input_21.
+ 2[]' id='input_4_21_2_year' tabindex='29'  class='ginput_card_expiration g
+ input_card_expiration_year'>\n                                            
+         <option value=''>Year</option><option value='2015' >2015</option><
+ option value='2016' >2016</option><option value='2017' >2017</option><opti
+ on value='2018' >2018</option><option value='2019' >2019</option><option v
+ alue='2020' >2020</option><option value='2021' >2021</option><option value
+ ='2022' >2022</option><option value='2023' >2023</option><option value='20
+ 24' >2024</option><option value='2025' >2025</option><option value='2026' 
+ >2026</option><option value='2027' >2027</option><option value='2028' >202
+ 8</option><option value='2029' >2029</option><option value='2030' >2030</o
+ ption><option value='2031' >2031</option><option value='2032' >2032</optio
+ n><option value='2033' >2033</option><option value='2034' >2034</option>\n
+                                                     </select>\n           
+                                          <label for='input_4_21_2_month' >
+ Expiration Date</label>\n                                                <
+ /span>\n                                            </span><span class='gi
+ nput_cardinfo_right' id='input_4_21_2_cardinfo_right'>\n                  
+                               <input type='text' name='input_21.3' id='inp
+ ut_4_21_3' tabindex='30'  class='ginput_card_security_code' value='' autoc
+ omplete='off' pattern='[0-9]*' title='Only digits are allowed' />\n       
+                                          <span class='ginput_card_security
+ _code_icon'> </span>\n                                                <lab
+ el for='input_4_21_3' >Security Code</label>\n                            
+                  </span>\n                                        </span><
+ span class='ginput_full' id='input_4_21_5_container'>\n                   
+                          <input type='text' name='input_21.5' id='input_4_
+ 21_5' value='' tabindex='31'  />\n                                        
+     <label for='input_4_21_5' id='input_4_21_5_label' >Cardholder Name</la
+ bel>\n                                        </span> </div></li><li id='f
+ ield_4_24' class='gfield gfield_html gfield_html_formatted gfield_no_follo
+ ws_desc field_sublabel_below field_description_above' >Your credit card wi
+ ll be charged at this time. After clicking 'Register' do not refresh the p
+ age or click back in your browser. This may take a few moments to process.
+  </li>\n                            </ul></div>\n        <div class='gform
+ _footer top_label'> <input type='submit' id='gform_submit_button_4' class=
+ 'gform_button button' value='Register' tabindex='32' onclick='if(window['g
+ f_submitting_4']){return false\;}  if( !jQuery('#gform_4')[0].checkValidit
+ y || jQuery('#gform_4')[0].checkValidity()){window['gf_submitting_4']=true
+ \;}  ' /> \n            <input type='hidden' class='gform_hidden' name='is
+ _submit_4' value='1' />\n            <input type='hidden' class='gform_hid
+ den' name='gform_submit' value='4' />\n            \n            <input ty
+ pe='hidden' class='gform_hidden' name='gform_unique_id' value='' />\n     
+        <input type='hidden' class='gform_hidden' name='state_4' value='WyJ
+ 7XCIxMS4xXCI6XCJjNTI2ZGQxMmQ3ZDcyNWRhMzIyZmFiZTdiOWM0MTk0MlwiLFwiMTEuMlwiO
+ lwiNmNhMmI5ZTU0NDNkNDcwOTc4ZmRlMjJhYTczNTg3ZTZcIixcIjEyLjFcIjpcIjUyNWUzYzg
+ zZTFiZjMyZGNmOWQwYjMxMDg3MTJjODdkXCIsXCIxMi4yXCI6XCJiYmZmN2U3YTAzOTU0MDY1N
+ GU0YzNkMzQwZjk1NzdiYlwiLFwiMTMuMVwiOlwiN2Q5NWZhOTdiODc4MjdmODkzNDdiODU2ZmQ
+ yODhlMWNcIixcIjEzLjJcIjpcImJiZmY3ZTdhMDM5NTQwNjU0ZTRjM2QzNDBmOTU3N2JiXCIsX
+ CIxNC4xXCI6XCJhMjZjODdhYmY5NjQ2NDg1MzY5MzExNjIwNGI4OWM0YlwiLFwiMTQuMlwiOlw
+ iZmM2OGZmMTRiNGUwZTQ1NDI2YWRiMWRlMTZjM2M0MzZcIixcIjE2LjFcIjpcIjFjNjg4NzdlM
+ DdiZjBiNjRiNTIyNTU0Y2QzNjAzNjM2XCIsXCIxNi4yXCI6XCJlYWY1YmVmOWE4OTU5MTEyYzY
+ 1Yzg0NjczYzAwN2ZiNVwiLFwiMTcuMVwiOlwiZTM3NGUxODQ1OThlYWQ1NzcwODdlZWM5Mjk4N
+ 2E2N2RcIixcIjE3LjJcIjpcImZhNmIxNTMwZDlmOTIyNWMxMjRjYzhlOTU1ZmE3YmIzXCIsXCI
+ xOC4xXCI6XCIxZWNjMTUyNzE5ZWNlZjMwOWQwODI0MTdjMzlhNzUwYlwiLFwiMTguMlwiOlwiZ
+ mE2YjE1MzBkOWY5MjI1YzEyNGNjOGU5NTVmYTdiYjNcIixcIjI1LjFcIjpcImE5MzU4ZDgwNzc
+ 5ZmY4NGUxZWM2MWFkMWEyMjJkZTViXCIsXCIyNS4yXCI6XCJiYmZmN2U3YTAzOTU0MDY1NGU0Y
+ zNkMzQwZjk1NzdiYlwifSIsImJjOTdjOWQyZGRmMzYyNjliMWQyNDI1NWFjZDk4YzNjIl0=' /
+ >\n            <input type='hidden' class='gform_hidden' name='gform_targe
+ t_page_number_4' id='gform_target_page_number_4' value='0' />\n           
+  <input type='hidden' class='gform_hidden' name='gform_source_page_number_
+ 4' id='gform_source_page_number_4' value='1' />\n            <input type='
+ hidden' name='gform_field_values' value='' />\n            \n        </div
+ >\n                        </form>\n                        </div><script 
+ type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global 
+ = {'gf_currency_config':{'name':'U.S. Dollar'\,'symbol_left':'$'\,'symbol_
+ right':''\,'symbol_padding':''\,'thousand_separator':'\,'\,'decimal_separa
+ tor':'.'\,'decimals':2}\,'base_url':'http:\\/\\/ocs.cubix.io\\/wp-content\
+ \/plugins\\/gravityforms'\,'number_formats':[]\,'spinnerUrl':'http:\\/\\/o
+ cs.cubix.io\\/wp-content\\/plugins\\/gravityforms\\/images\\/spinner.gif'}
+ \;jQuery(document).bind('gform_post_render'\, function(event\, formId\, cu
+ rrentPage){if(formId == 4) {if(window['gformInitPriceFields']) jQuery(docu
+ ment).ready(function(){gformInitPriceFields()\;} )\;gf_global['number_form
+ ats'][4] = {'1':false\,'2':false\,'4':false\,'5':false\,'27':false\,'28':f
+ alse\,'6':false\,'7':false\,'8':false\,'9':false\,'10':false\,'11':'decima
+ l_dot'\,'12':'decimal_dot'\,'13':'decimal_dot'\,'14':'decimal_dot'\,'15':f
+ alse\,'16':'decimal_dot'\,'17':'decimal_dot'\,'18':'decimal_dot'\,'19':fal
+ se\,'20':false\,'26':'currency'\,'23':false\,'25':'decimal_dot'\,'21':fals
+ e\,'24':false}\;new GFCalc(4\, [{'field_id':25\,'formula':'({OCS HOF\\/Pat
+ terson Award & OCS Alumni Banquet (Price):14.2} * {OCS HOF\\/Patterson Awa
+ rd & OCS Alumni Banquet (Quantity):14.3}) + ({Reunion Registration (Price)
+ :16.2} * {Reunion Registration (Quantity):16.3})  + ({Reception Buffet (Pr
+ ice):17.2} * {Reception Buffet (Quantity):17.3}) + ({Reunion Dinner (Price
+ ):18.2} * {Reunion Dinner (Quantity):18.3}) +{Donation to the OCS Alumni O
+ perating Fund:26}'\,'rounding':''}])\;gformInitCurrencyFormatFields('#inpu
+ t_4_26')\;if(!/(android)/i.test(navigator.userAgent)){jQuery('#input_4_8')
+ .mask('(999) 999-9999').bind('keypress'\, function(e){if(e.which == 13){jQ
+ uery(this).blur()\;} } )\;}if(!window['gf_cc_rules']){window['gf_cc_rules'
+ ] = new Array()\; } window['gf_cc_rules'] = {'amex':['34'\,'37']\,'discove
+ r':['6011'\,'622'\,'64'\,'65']\,'mastercard':['51'\,'52'\,'53'\,'54'\,'55'
+ ]\,'visa':['4'\,'417500'\,'4917'\,'4913'\,'4508'\,'4844']\,'jcb':['35']\,'
+ maestro':['5018'\,'5020'\,'5038'\,'6304'\,'6759'\,'6761']}\; jQuery(docume
+ nt).ready(function(){ { gformMatchCard('input_4_21_1')\; } } )\;} } )\;jQu
+ ery(document).bind('gform_post_conditional_logic'\, function(event\, formI
+ d\, fields\, isInit){} )\;</script><script type='text/javascript'> jQuery(
+ document).ready(function(){jQuery(document).trigger('gform_post_render'\, 
+ [4\, 1]) } )\; </script>
+DTSTART;VALUE=DATE:20160424
+DTEND;VALUE=DATE:20160428
+SEQUENCE:0
+SUMMARY:2016 OCS Alumni Association Reunion
+URL:http://ocs.cubix.io/event/2016-ocs-alumni-association-reunion/
+END:VEVENT
+END:VCALENDAR

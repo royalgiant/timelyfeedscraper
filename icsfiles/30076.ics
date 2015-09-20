@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//97.74.215.85//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.streamwoodiucc.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1465@www.streamwoodiucc.org
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>On the second Sunday\, orders for SCRIP cards are due.  Card
+ s are delivered the following Sunday.</p>
+DTSTART;VALUE=DATE:20151011
+DTEND;VALUE=DATE:20151012
+RRULE:FREQ=MONTHLY;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:SCRIP Cards Due
+URL:http://www.streamwoodiucc.org/event/scrip-cards-due/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1564@www.streamwoodiucc.org
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Immanuel United Church of Christ is going on a Mission Trip 
+ to Back Bay Mission down in Biloxi\, Mississippi.</p>\n<p>Back Bay Mission
+  meets the urgent needs of those suffering from poverty and its effects wh
+ ile building pathways to social justice.  They lead the way in delivering 
+ services\, creating collaborative solutions\, and transforming lives throu
+ gh mission immersion experiences.</p>
+DTSTART;VALUE=DATE:20160124
+DTEND;VALUE=DATE:20160131
+SEQUENCE:0
+SUMMARY:Back Bay Mission Trip
+URL:http://www.streamwoodiucc.org/event/back-bay-mission-trip/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1490@www.streamwoodiucc.org
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>On the third Saturday of every month Immanuel Church staffs 
+ the Hanover Township food pantry. Volunteers must have background checks\,
+  so contact the church office to find out how to join the team.</p>
+DTSTART;TZID=America/Chicago:20150919T090000
+DTEND;TZID=America/Chicago:20150919T120000
+RRULE:FREQ=MONTHLY;BYDAY=3SA
+SEQUENCE:0
+SUMMARY:Food Pantry Day
+URL:http://www.streamwoodiucc.org/event/food-pantry-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1569@www.streamwoodiucc.org
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Immanuel United Church of Christ is hosting LifeLine Screeni
+ ng\, the nations leading provider of preventive health screenings on Monda
+ y September 21\, 2015. The screenings provide focus on vascular disease\, 
+ including atrial fibrillation and peripheral arterial disease.</p>\n<p>Scr
+ eening packages start at $139.   Single tests around $70.</p>\n<p>For more
+  information regarding the screening or to schedule an appointment call  1
+ -888-653-6441  Pre registration is required</p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=America/Chicago:20150921T090000
+DTEND;TZID=America/Chicago:20150921T173000
+SEQUENCE:0
+SUMMARY:LifeLine Screening
+URL:http://www.streamwoodiucc.org/event/lifeline-screening/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1463@www.streamwoodiucc.org
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.streamwoodiucc.org/wp-content/uploads/20
+ 15/07/DSCN09341.jpg'><img class='aligncenter size-medium wp-image-1436' sr
+ c='http://www.streamwoodiucc.org/wp-content/uploads/2015/07/DSCN09341-300x
+ 236.jpg' alt='DSCN0934' width='300' height='236' /></a></p>\n<p style='tex
+ t-align: center\;'>Each Wednesday evening at 6pm\, Immanuel Church offers 
+ a community meal for any who would like to attend.  A donation of $5 is re
+ quested\, but not required.  From tacos with all the fixin’s to breakfast 
+ for dinner\, each meal includes entrée\, sides\, dessert and beverage.  Co
+ me for the food\, stay for the conversation.</p>
+DTSTART;TZID=America/Chicago:20150923T180000
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:HUB Dinner
+URL:http://www.streamwoodiucc.org/event/hub-dinner/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1560@www.streamwoodiucc.org
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Come join us for Blessings of the Animals on Sunday October 
+ 4th.  In addition to the blessing\, we will also be collecting pet food wh
+ ich will be donated to the Hanover Township Food Pantry.  <a href='http://
+ www.streamwoodiucc.org/wp-content/uploads/2015/08/Blessing-of-Animals.jpg'
+ ><img class='aligncenter size-medium wp-image-1561' src='http://www.stream
+ woodiucc.org/wp-content/uploads/2015/08/Blessing-of-Animals-300x274.jpg' a
+ lt='Blessing-of-Animals' width='300' height='274' /></a></p>
+DTSTART;TZID=America/Chicago:20151004T150000
+SEQUENCE:0
+SUMMARY:Blessing of the Animals
+URL:http://www.streamwoodiucc.org/event/blessing-of-the-animals/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1488@www.streamwoodiucc.org
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Worship Ministry Team gathers each month with Pastor Jea
+ nne to plan worship.</p>
+DTSTART;TZID=America/Chicago:20151010T103000
+DTEND;TZID=America/Chicago:20151010T113000
+RRULE:FREQ=MONTHLY;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:Worship Ministry Team
+URL:http://www.streamwoodiucc.org/event/worship-ministry-team/
+END:VEVENT
+END:VCALENDAR

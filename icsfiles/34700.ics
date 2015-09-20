@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//202.124.241.203//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://aloka.com.au
+X-WR-TIMEZONE:Australia/Brisbane
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+X-LIC-LOCATION:Australia/Brisbane
+BEGIN:STANDARD
+DTSTART:19920301T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:EST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-271@aloka.com.au
+DTSTAMP:20150920T002844Z
+CATEGORIES:
+CONTACT:Erin Bourne\; 0431054311\; erin@aloka.com.au
+DESCRIPTION:
+DTSTART;TZID=Australia/Brisbane:20150921T073000
+DTEND;TZID=Australia/Brisbane:20150921T083000
+GEO:-28.171656;+153.533288
+LOCATION:Kirra Hill Community Centre @ Garrick Street\, Coolangatta QLD 422
+ 5\, Australia
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Yoga
+URL:http://aloka.com.au/event/yoga-3/
+X-COST:$10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-270@aloka.com.au
+DTSTAMP:20150920T002844Z
+CATEGORIES:
+CONTACT:Erin Bourne\; 0431054311\; erin@aloka.com.au
+DESCRIPTION:
+DTSTART;TZID=Australia/Brisbane:20150921T093000
+DTEND;TZID=Australia/Brisbane:20150921T103000
+GEO:-28.175881;+153.430433
+LOCATION:Currumbin Ecovillage @ 639 Currumbin Creek Road\, Currumbin Valley
+  QLD 4223\, Australia
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Yoga
+URL:http://aloka.com.au/event/yoga-2/
+X-COST:$10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-155@aloka.com.au
+DTSTAMP:20150920T002844Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Brisbane:20150922T180000
+DTEND;TZID=Australia/Brisbane:20150922T190000
+GEO:-28.171168;+153.533439
+LOCATION:Kirra Hill Community Centre @ Garrick Street\, Coolangatta QLD 422
+ 5\, Australia
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Yoga
+URL:http://aloka.com.au/event/pilates-3/
+X-COST:$10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-524@aloka.com.au
+DTSTAMP:20150920T002844Z
+CATEGORIES;LANGUAGE=en-US:Pilates\,Yoga
+CONTACT:Erin Bourne\; 0431054311\; erin@aloka.com.au\; http://www.aloka.com
+ .au
+DESCRIPTION:<p>Discover how your unique body structure changes your yoga.</
+ p>\n<p>Gain a deeper insight into your practice through an understanding o
+ f your body. Each of us is unique and unrepeatable in every way. How your 
+ bones are structured\, how your body is put together and life itself has a
+  big impact on how yoga looks and feels for you. Find out how to work with
+  your body and when to let-go\, in order to make the most of your practice
+ .</p>\n<p>Led by Erin Bourne\, Director of Aloka\, senior teacher at Essen
+ ce of Living and Anatomy facilitator on teacher trainings. Erin has combin
+ ed many years of experience teaching yoga\, and Bachelor degrees in Exerci
+ se Science and Education\, in order to develop this informative and practi
+ cal workshop. She would like everyone to understand and appreciated themse
+ lves for all that makes them unique\; to truly understand their OWN practi
+ ce.</p>
+DTSTART;TZID=Australia/Brisbane:20151003T130000
+DTEND;TZID=Australia/Brisbane:20151003T150000
+GEO:-28.038424;+153.4335
+LOCATION:Essence of Living @ 52 Peerless Ave\, Mermaid Beach QLD 4218\, Aus
+ tralia
+SEQUENCE:0
+SUMMARY:Workshop: Unlock Your Practice
+URL:http://aloka.com.au/event/workshop-unlock-your-practice/
+X-TAGS;LANGUAGE=en-US:aloka\,anatomy\,asana\,barre\,body\,fitness\,health\,
+ Pilates\,wellbeing\,Yoga\,Yoga anatomy\,Yogaanatomy
+X-COST:$30
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-154@aloka.com.au
+DTSTAMP:20150920T002844Z
+CATEGORIES;LANGUAGE=en-US:Pilates Barre
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Brisbane:20151012T060000
+DTEND;TZID=Australia/Brisbane:20151012T070000
+GEO:-28.171168;+153.533439
+LOCATION:Kirra Hill Community Centre @ Garrick Street\, Coolangatta QLD 422
+ 5\, Australia
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Pilates Barre
+URL:http://aloka.com.au/event/pilates-barre-2/
+X-COST:$10
+END:VEVENT
+END:VCALENDAR

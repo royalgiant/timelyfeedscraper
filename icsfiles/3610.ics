@@ -1,0 +1,603 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.255.209.5//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.thewinecenter.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3002@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Classroom Courses
+CONTACT:Aaron Mandel\; aaronimandel@yahoo.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes six cla
+ sses over an 6-week period beginning September 13\, 2015.  Students must a
+ ttend all six scheduled classes unless excused by the instructor.</p>\n<p>
+ Students register through The Wine Center and sit the exam at the Dark Roo
+ m on the registered exam date listed on The Wine Center Calendar for Exams
+ . A WSET certified instructor leads the course.</p>\n<p>Successful candida
+ tes receive the WSET Level 2 Award in Wines & Spirits.</p>
+DTSTART;TZID=America/Chicago:20150920T110000
+DTEND;TZID=America/Chicago:20150920T130000
+GEO:+38.63995;-90.230897
+LOCATION:The Dark Room in St Louis @ 615 North Grand Boulevard\, Saint Loui
+ s\, MO 63103\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151018T235959Z
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Class (6 sessions)
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ class-6-sessions/
+X-TAGS;LANGUAGE=en-US:OPEN\,St Louis\,WSET Level 2 Award in Wines &amp\; Sp
+ irits
+X-COST:695
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2971@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Spirits course includes five interactiv
+ e classes over a five-week period.</p>\n<p>Students register through The W
+ ine Center and sit the exam at one of our satellite locations\, but take c
+ lasses in a digital\, global classroom. An instructor from the WSET® leads
+  the course\, which includes five weekly\, interactive classes.</p>\n<p>Su
+ ccessful candidates receive the WSET Level 2 Award in Spirits.</p>
+DTSTART;TZID=America/Chicago:20150926T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-spirits-online
+ -class/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2959@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20150926T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-5/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2975@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20151017T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-8/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2960@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20151024T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-6/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3003@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Exams
+CONTACT:Aaron Mandel\; aaronimandel@yahoo.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits exam is a multiple choi
+ ce test.</p>\n<p>Successful candidates receive the WSET Level 2 Award in W
+ ines & Spirits.</p>\n<p>Please call or email to register at least 15 days 
+ prior to exam date.  If you would like to arrange for a private exam at an
+ other time\, proctor fees apply in addition to any exam fees.  Students ha
+ ve a period of 12 months from the date of course registration to sit the e
+ xam.  If the exam is not completed within 12 months\, another exam fee mus
+ t be paid.  Please call or email for more information.</p>
+DTSTART;TZID=America/Chicago:20151101T110000
+DTEND;TZID=America/Chicago:20151101T130000
+GEO:+38.63995;-90.230897
+LOCATION:The Dark Room in St Louis @ 615 North Grand Boulevard\, Saint Loui
+ s\, MO 63103\, USA
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Exam
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ exam/
+X-TAGS;LANGUAGE=en-US:OPEN\,St Louis\,WSET Level 2 Award in Wines &amp\; Sp
+ irits
+X-COST:Included with course materials & fees
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2961@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20151114T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-7/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2976@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20151121T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-9/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2977@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20160109T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-10/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2962@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20160116T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-8/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2963@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20160206T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-9/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2978@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20160206T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-11/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2964@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20160227T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-10/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2979@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20160305T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-12/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2972@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Spirits course includes five interactiv
+ e classes over a five-week period.</p>\n<p>Students register through The W
+ ine Center and sit the exam at one of our satellite locations\, but take c
+ lasses in a digital\, global classroom. An instructor from the WSET® leads
+  the course\, which includes five weekly\, interactive classes.</p>\n<p>Su
+ ccessful candidates receive the WSET Level 2 Award in Spirits.</p>
+DTSTART;TZID=America/Chicago:20160319T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-spirits-online
+ -class-2/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2965@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20160319T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-11/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2966@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20160409T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-12/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2980@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20160409T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-13/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2967@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20160430T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-13/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2981@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20160507T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-14/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2968@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20160528T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-14/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2982@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20160604T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-15/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2969@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20160625T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-15/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2983@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20160702T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-16/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2970@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 2 Award in Wines & Spirits course includes five in
+ teractive classes over a five-week period.</p>\n<p>Students register throu
+ gh The Wine Center and sit the exam at one of our satellite locations\, bu
+ t take classes in a digital\, global classroom. An instructor from the WSE
+ T® leads the course\, which includes five weekly\, interactive classes.</p
+ >\n<p>Successful candidates receive the WSET Level 2 Award in Wines & Spir
+ its.</p>
+DTSTART;TZID=America/Chicago:20160723T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 2 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-2-award-in-wines-spirits-
+ online-class-16/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 2 Award in Wines &amp\; Spirits
+X-COST:$525
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2984@www.thewinecenter.com
+DTSTAMP:20150920T002111Z
+CATEGORIES;LANGUAGE=en-US:WSET Online Classes
+CONTACT:Lorri Hambuchen\; +1 501.817.1069\; lorri@thewinecenter.com
+DESCRIPTION:<p>The Level 3 Award in Wines & Spirits course includes eight i
+ nteractive classes over a 16-week period.</p>\n<p>Students register throug
+ h The Wine Center and sit the exam at one of our satellite locations\, but
+  take classes in a digital\, global classroom. An instructor from the WSET
+ ® leads the course\, which includes five weekly\, interactive classes.</p>
+ \n<p>Successful candidates receive the WSET Level 3 Award in Wines & Spiri
+ ts.</p>
+DTSTART;TZID=America/Chicago:20160730T080000
+LOCATION:WSET Global Classroom
+SEQUENCE:0
+SUMMARY:WSET Level 3 Award in Wines & Spirits Online Class
+URL:http://www.thewinecenter.com/event/wset-level-3-award-in-wines-spirits-
+ online-class-17/
+X-TAGS;LANGUAGE=en-US:OPEN\,WSET Level 3 Award in Wines &amp\; Spirits
+X-COST:$975
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

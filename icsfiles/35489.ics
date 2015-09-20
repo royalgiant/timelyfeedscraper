@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.13.150.46//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.unsere-rassetauben.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1822@www.unsere-rassetauben.de
+DTSTAMP:20150920T002412Z
+CATEGORIES;LANGUAGE=de-DE:Ausstellungen
+CONTACT:
+DESCRIPTION:<p>Am 17. und 18. Oktober 2015 findet die 134. Deutsche Junggef
+ lügel- und die 40. Bundes-Zuchtbuchschau statt.</p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151019
+GEO:+52.318456;+9.805738
+LOCATION:Deutsche Messe\, Hannover @ Messegelände\, 30521 Hannover\, Deutsc
+ hland
+SEQUENCE:0
+SUMMARY:134. Deutsche Junggeflügelschau Hannover
+URL:http://www.unsere-rassetauben.de/?ai1ec_event=134-deutsche-junggefluege
+ lschau-hannover
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1826@www.unsere-rassetauben.de
+DTSTAMP:20150920T002412Z
+CATEGORIES;LANGUAGE=de-DE:Ausstellungen\,RGZV Alstätte 1959
+CONTACT:
+DESCRIPTION:<p>Am 17. und 18. Oktober findet die diesjähriges Ortsschau des
+  Rassegeflügel- und Vogelzuchtvereins Alstätte statt. Nach jetzigem Planun
+ gsstand ist Veranstaltungsort die bekannte Mehrzweckhalle (Alte Turnhalle)
+  in Alstätte.</p>\n<p>Auf unserer Ortsschau werden voraussichtlich wieder 
+ mehr als 300 Tiere aus der bunten Welt des Rassegeflügels präsentiert. Opt
+ isches Highligt wird daneben sicher die Präsentation von mehr als 70 Vögel
+ n unserer Vogelabteilung sein.</p>\n<p>Unsere Gäste dürfen sich auf eine l
+ iebevoll gestaltete Ausstellung freuen. Für selbstgebackenen Kuchen\, Schn
+ ittchen und Kaffee ist selbstverständlich gesorgt. Auch wird wieder eine s
+ chöne Tombola organisiert.</p>\n<p>Auf Bundesniveau werden unter anderem f
+ olgende Rassen präsentiert:</p>\n<ul>\n<li>Arabische Trommeltauben in Dun\
+ , Schwarz\, Dun gescheckt\, Dominant Gelb\, Dominant Gelb gescheckt und We
+ iß</li>\n<li>Niederländische Hochflieger in Rot-Weißschildig</li>\n<li>Köl
+ ner Tümmler in Grau-Dunkelgesäumt</li>\n<li>Amsterdamer Kröpfer in Weiß\, 
+ Gelb\, Rot\, Rotfahl\, Rotfahlschimmel\, Gelb geherzt\, Rot geherzt\, Schw
+ arz und Schwarz getigert</li>\n<li>Zwerg Wyandotten in Weiß</li>\n</ul>\n<
+ p> </p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151019
+GEO:+52.127309;+6.916747
+LOCATION:Mehrzweckhalle Alstätte @ Alter Weg 1\, 48683 Ahaus\, Deutschland
+SEQUENCE:0
+SUMMARY:Ortsschau des RGZV Alstätte 1959
+URL:http://www.unsere-rassetauben.de/?ai1ec_event=ortsschau-des-rgzv-alstae
+ tte-1959
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1824@www.unsere-rassetauben.de
+DTSTAMP:20150920T002412Z
+CATEGORIES;LANGUAGE=de-DE:Ausstellungen
+CONTACT:
+DESCRIPTION:<p>Vom 13. bis zum 15. November 2015 findet bereits die 28. Eur
+ opaschau statt. Ausrichter ist in diesem Jahr das Land Frankreich. Dieses 
+ besondere Schauereignis wird in den Messehallen der Stadt Metz stattfinden
+ .</p>\n<p>Aktuelle Informationen zur anstehenden Europasschau findet ihr h
+ ier: <a title='28. Europaschau in Metz (Frankreich)' href='http://www.metz
+ 2015.fr/de' target='_blank'>http://www.metz2015.fr/de</a></p>\n<p> </p>
+DTSTART;VALUE=DATE:20151113
+DTEND;VALUE=DATE:20151116
+GEO:+49.119309;+6.175716
+LOCATION:Messegelände\, Metz (Frankreich) @ Metz\, Frankreich
+SEQUENCE:0
+SUMMARY:28. EE-Europaschau in Metz\, Frankreich
+URL:http://www.unsere-rassetauben.de/?ai1ec_event=28-ee-europaschau-in-metz
+ -frankreich
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1823@www.unsere-rassetauben.de
+DTSTAMP:20150920T002412Z
+CATEGORIES;LANGUAGE=de-DE:Ausstellungen
+CONTACT:
+DESCRIPTION:<p>Vom 4. bis zum 6. Dezember 2015 findet die 64. Deutsche Rass
+ etaubenschau statt. Gleichzeitig wird dort auch die 119. Lipsia-Schau durc
+ hgeführt. Veranstaltungsort ist die Neue Messe in Leipzig.</p>\n<p>Der Bes
+ uch dieser Großveranstaltung dürfte ein Muss für jeden ambitionierten Rass
+ etaubenzüchter darstellen.</p>
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151207
+GEO:+51.397649;+12.395357
+LOCATION:Neue Messe\, Leipzig @ Messegelände\, 04356 Leipzig\, Deutschland
+SEQUENCE:0
+SUMMARY:64. Deutsche Rassetaubenschau (VDT Schau)
+URL:http://www.unsere-rassetauben.de/?ai1ec_event=64-deutsche-rassetaubensc
+ hau-vdt-schau
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1825@www.unsere-rassetauben.de
+DTSTAMP:20150920T002412Z
+CATEGORIES;LANGUAGE=de-DE:Ausstellungen
+CONTACT:
+DESCRIPTION:<p>Vom 18. bis zum 20. Dezember findet die 97. Nationale Bundes
+ siegerschau in den Westfalenhallen in Dortmund statt. Angeschlossen sind d
+ ie 52. Bundesjugendschau\, die 42. VHGW-Bundesschau und die 87. Deutsche Z
+ werghuhnschau.</p>
+DTSTART;VALUE=DATE:20151218
+DTEND;VALUE=DATE:20151221
+GEO:+51.495767;+7.450121
+LOCATION:Westfalenhallen\, Dortmund @ Westfalenhalle\, Dortmund\, Deutschla
+ nd
+SEQUENCE:0
+SUMMARY:97. NATIONALE in Dortmund
+URL:http://www.unsere-rassetauben.de/?ai1ec_event=97-nationale-in-dortmund
+END:VEVENT
+END:VCALENDAR

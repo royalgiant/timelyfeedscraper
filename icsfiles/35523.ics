@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//77.244.243.53//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.bluedanubefc.com
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20.09.2015-20:00-KM-DsgBlueDanube-DsgSpiceBalls
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (2. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20150920T200000
+DTEND;TZID=Europe/Vienna:20150920T214000
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : Dsg Spice Balls
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-spice-balls/
+END:VEVENT
+BEGIN:VEVENT
+UID:28.09.2015-20:20-KM-DsgNeusimmering-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (3. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20150928T202000
+DTEND;TZID=Europe/Vienna:20150928T220000
+LOCATION:Donaustadt @ Gemeinde Wien 22 (Am Langen Felde 60\, 1220 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Neusimmering : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-neusimmering-dsg-blue-danube/
+END:VEVENT
+BEGIN:VEVENT
+UID:03.10.2015-18:00-KM-DsgBlueDanube-DSGGießhübl
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (4. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20151003T180000
+DTEND;TZID=Europe/Vienna:20151003T194000
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : DSG Gießhübl
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-gieshubl/
+END:VEVENT
+BEGIN:VEVENT
+UID:11.10.2015-18:00-KM-DsgH-Town-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (5. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20151011T180000
+DTEND;TZID=Europe/Vienna:20151011T194000
+LOCATION:Kinkplatz @ Austria 13 (Kinkplatz\, 1140 Wien)
+SEQUENCE:0
+SUMMARY:Dsg H-Town : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-h-town-dsg-blue-danube/
+END:VEVENT
+BEGIN:VEVENT
+UID:17.10.2015-18:00-KM-DsgBlueDanube-DSGLokomotiveDöbling
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (6. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20151017T180000
+DTEND;TZID=Europe/Vienna:20151017T194000
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : DSG Lokomotive Döbling
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-lokomotive-doblin
+ g/
+END:VEVENT
+BEGIN:VEVENT
+UID:26.10.2015-16:00-KM-DSGLottatori-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (7. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20151026T160000
+DTEND;TZID=Europe/Vienna:20151026T174000
+LOCATION:Franz Hölbl Anlage / Anker @ Arena (Heuberggstättenstr. 1\, 1100 W
+ ien)
+SEQUENCE:0
+SUMMARY:DSG Lottatori : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-lottatori-dsg-blue-danube/
+END:VEVENT
+BEGIN:VEVENT
+UID:30.10.2015-20:00-KM-DSGTorpedo03-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (8. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20151030T200000
+DTEND;TZID=Europe/Vienna:20151030T214000
+LOCATION:Slovan HAC (Steinbruchstr. 5a\, 1140 Wien)
+SEQUENCE:0
+SUMMARY:DSG Torpedo 03 : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-torpedo-03-dsg-blue-danube/
+END:VEVENT
+BEGIN:VEVENT
+UID:07.11.2015-16:00-KM-DsgBlueDanube-DSGViennaInternationals
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (9. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20151107T160000
+DTEND;TZID=Europe/Vienna:20151107T174000
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : DSG Vienna Internationals
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-vienna-internatio
+ nals/
+END:VEVENT
+BEGIN:VEVENT
+UID:15.11.2015-15:00-KM-DSGSektionWestside-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (10. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20151115T150000
+DTEND;TZID=Europe/Vienna:20151115T164000
+LOCATION:Sportplatz Vösendorf ASV (Kindbergstraße  14\, 2331 Vösendorf)
+SEQUENCE:0
+SUMMARY:DSG Sektion Westside : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-sektion-westside-dsg-blue-danube/
+END:VEVENT
+BEGIN:VEVENT
+UID:21.11.2015-16:00-KM-DsgBlueDanube-DsgMannerTitans
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (11. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20151121T160000
+DTEND;TZID=Europe/Vienna:20151121T174000
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : Dsg Manner Titans
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-manner-titans/
+END:VEVENT
+BEGIN:VEVENT
+UID:10.03.2016-22:22-KM-DsgBlueDanube-DSGUnionJosefstadt
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (12. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160310T222200
+DTEND;TZID=Europe/Vienna:20160311T000200
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : DSG Union Josefstadt
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-union-josefstadt/
+END:VEVENT
+BEGIN:VEVENT
+UID:17.03.2016-22:22-KM-DsgSpiceBalls-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (13. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160317T222200
+DTEND;TZID=Europe/Vienna:20160318T000200
+LOCATION:Wienerberg (Computerstr. 3\, 1100 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Spice Balls : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-spice-balls-dsg-blue-danube/
+END:VEVENT
+BEGIN:VEVENT
+UID:07.04.2016-22:22-KM-DsgBlueDanube-DsgNeusimmering
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (14. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160407T222200
+DTEND;TZID=Europe/Vienna:20160408T000200
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : Dsg Neusimmering
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-neusimmering/
+END:VEVENT
+BEGIN:VEVENT
+UID:14.04.2016-22:22-KM-DSGGießhübl-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (15. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160414T222200
+DTEND;TZID=Europe/Vienna:20160415T000200
+LOCATION:Rapid Oberlaa (Franzosenweg 34\, 1100 Wien)
+SEQUENCE:0
+SUMMARY:DSG Gießhübl : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-gieshubl-dsg-blue-danube/
+END:VEVENT
+BEGIN:VEVENT
+UID:21.04.2016-22:22-KM-DsgBlueDanube-DsgH-Town
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (16. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160421T222200
+DTEND;TZID=Europe/Vienna:20160422T000200
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : Dsg H-Town
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-h-town/
+END:VEVENT
+BEGIN:VEVENT
+UID:28.04.2016-22:22-KM-DSGLokomotiveDöbling-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (17. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160428T222200
+DTEND;TZID=Europe/Vienna:20160429T000200
+LOCATION:Fortuna 05 (Krottenbachstr. 53\, 1190 Wien)
+SEQUENCE:0
+SUMMARY:DSG Lokomotive Döbling : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-lokomotive-dobling-dsg-blue-danub
+ e/
+END:VEVENT
+BEGIN:VEVENT
+UID:05.05.2016-22:22-KM-DsgBlueDanube-DSGLottatori
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (18. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160505T222200
+DTEND;TZID=Europe/Vienna:20160506T000200
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : DSG Lottatori
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-lottatori/
+END:VEVENT
+BEGIN:VEVENT
+UID:12.05.2016-22:22-KM-DsgBlueDanube-DSGTorpedo03
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (19. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160512T222200
+DTEND;TZID=Europe/Vienna:20160513T000200
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : DSG Torpedo 03
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-torpedo-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:26.05.2016-22:22-KM-DSGViennaInternationals-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (20. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160526T222200
+DTEND;TZID=Europe/Vienna:20160527T000200
+LOCATION:Marswiese (Neuwaldegger Str. 57a\, 1170 Wien)
+SEQUENCE:0
+SUMMARY:DSG Vienna Internationals : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-vienna-internationals-dsg-blue-da
+ nube/
+END:VEVENT
+BEGIN:VEVENT
+UID:02.06.2016-22:22-KM-DsgBlueDanube-DSGSektionWestside
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (21. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160602T222200
+DTEND;TZID=Europe/Vienna:20160603T000200
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Blue Danube : DSG Sektion Westside
+URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-sektion-westside/
+END:VEVENT
+BEGIN:VEVENT
+UID:09.06.2016-22:22-KM-DsgMannerTitans-DsgBlueDanube
+DTSTAMP:20150920T002351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DSG Oberliga (22. Runde)</p>
+DTSTART;TZID=Europe/Vienna:20160609T222200
+DTEND;TZID=Europe/Vienna:20160610T000200
+LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
+SEQUENCE:0
+SUMMARY:Dsg Manner Titans : Dsg Blue Danube
+URL:http://www.bluedanubefc.com/event/dsg-manner-titans-dsg-blue-danube/
+END:VEVENT
+END:VCALENDAR

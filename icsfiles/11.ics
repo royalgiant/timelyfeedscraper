@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//98.129.229.92//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.bangordyslexiacenter.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-70@www.bangordyslexiacenter.org
+DTSTAMP:20150920T002105Z
+CATEGORIES:
+CONTACT:conference@interdys.org\; http://www.interdys.org
+DESCRIPTION:<p>68th Annual Conference for Professionals and 4th Annual Conf
+ erence for Families</p>\n<p>Sponsored by the International Dyslexia Associ
+ ation</p>
+DTSTART;VALUE=DATE:20151028
+DTEND;VALUE=DATE:20151101
+GEO:+32.934292;-97.078065
+LOCATION:Gaylord Texan Resort & Convention Center @ Grapevine\, TX\, USA
+SEQUENCE:0
+SUMMARY:IDA Annual Reading\, Literacy & Learning Conference
+URL:http://www.bangordyslexiacenter.org/event/ida-annual-reading-literacy-l
+ earning-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-91@www.bangordyslexiacenter.org
+DTSTAMP:20150920T002106Z
+CATEGORIES:
+CONTACT:Guy Chapman\; 207-942-0144\; http://www.valleyofbangor.org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T130000
+GEO:+44.801767;-68.780648
+LOCATION:Bangor City Forest
+SEQUENCE:0
+SUMMARY:Learning Center Walk-a-thon
+URL:http://www.bangordyslexiacenter.org/event/learning-center-walk-a-thon/
+X-COST:$15 or free if you have $15 in sponsors
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

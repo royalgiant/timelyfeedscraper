@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//63.134.195.205//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.matthewfox.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-6183@www.matthewfox.org
+DTSTAMP:20150920T002420Z
+CATEGORIES;LANGUAGE=en-US:Cosmic Mass
+CONTACT:Mariko Pitts\; mariko.pitts@gmail.com\; http://www.thecosmicmass.co
+ m
+DESCRIPTION:<p><strong>Save the Date: </strong></p>\n<p>A Cosmic Mass will 
+ be offered at the Parliament of World Religions\, Friday\, October 16\, at
+  2:00 pm.</p>\n<p>Further information to come as it becomes available…stay
+  tuned!</p>
+DTSTART;TZID=America/Los_Angeles:20151016T140000
+DTEND;TZID=America/Los_Angeles:20151016T153000
+GEO:+40.760779;-111.891047
+LOCATION:Salt Palace Convention Center\, @ Salt Lake City\, UT\, USA
+SEQUENCE:0
+SUMMARY:Save the Date: TCM at Parliament of World Religions
+URL:http://www.matthewfox.org/event/save-the-date-tcm-at-parliament-of-worl
+ d-religions/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6177@www.matthewfox.org
+DTSTAMP:20150920T002420Z
+CATEGORIES;LANGUAGE=en-US:Lecture
+CONTACT:(512) 459-5835\; info@tumc.org\; http://tinyurl.com/ngfutwx
+DESCRIPTION:<p>http://www.tumc.org/calendar/</p>\n<p>Creation Spirituality 
+ Conference – Matthew Fox Lecture (standalone event separate from the confe
+ rence)</p>\n<p>WhenFri\, November 6\, 7pm – 9pm</p>\n<p>Where: First Bapti
+ st Church of Austin\, 901 Trinity Street\, Austin\, TX 78701\, United Stat
+ es</p>
+DTSTART;TZID=America/Los_Angeles:20151106T190000
+DTEND;TZID=America/Los_Angeles:20151106T210000
+GEO:+30.2701;-97.737706
+LOCATION:First Baptist Church of Austin @ 901 Trinity Street\, Austin\, TX 
+ 78701\, USA
+SEQUENCE:0
+SUMMARY:Creation Spirituality Conference: Matthew Fox Lecture
+URL:http://www.matthewfox.org/event/creation-spirituality-conference-matthe
+ w-fox-lecture/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,452 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//209.200.25.36//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.rysc.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1174@www.rysc.org
+DTSTAMP:20150920T002113Z
+CATEGORIES:
+CONTACT:admin@rysc.org\; https://forms.rysc.org/fallsignup_paypal.asp
+DESCRIPTION:<p>Our Fall Program is for children from Kindergarten through G
+ rade 6. The purpose of the Fall Program is to provide a basic understandin
+ g of the game of soccer and introduce the basic skills and principles of t
+ he world’s most popular sport in a positive\, fun oriented environment.</p
+ >\n<p>The program runs for eight weeks starting the first Saturday after L
+ abor Day and concludes in October. This year play begins Saturday\, Septem
+ ber 12\, 2015 and ends on Saturday\, October 31\, 2015. All sessions will 
+ play their games on Saturday.</p>\n<p>Coaches will call their parents dire
+ ctly. Parents should expect to get notified by your child’s coach during t
+ he week of August 23\, 2015. Please be patient\, I repeat\, Please be pati
+ ent some coaches might be on vacation so your call could be delayed.</p>\n
+ <ul>\n<li><strong>Session 1 games – 3rd & 4th grade girls is 9:00 – 10:30 
+ (*practice Monday nights)</strong></li>\n<li><strong>Session 2 games – 1st
+  & 2nd grade girls / 3rd & 4th grade boys is</strong><br /> <strong> 11:00
+  – 12:30 (*practice Tuesday nights)</strong></li>\n<li><strong>Session 3 g
+ ames – Kindergarten** / 1st & 2nd grade boys is 1:00 – 2:30 (*practice Wed
+ nesday nights)</strong></li>\n<li><strong>Session 4 games – 5th & 6th grad
+ e boys & girls is 3:00 – 4:45.</strong><br /> <strong> (*practice Thursday
+  nights)</strong></li>\n</ul>\n<p>*Practice length is up to your coach’s d
+ iscretion. (Time slot 5:00 – 7:30pm is available) Also coach may change pr
+ actice night if conflict occurs.<br /> **Kindergarten is co-ed.</p>\n<p> <
+ /p>\n<p><strong>REGISTRATION</strong></p>\n<p><strong><a href='https://for
+ ms.rysc.org/fallsignup_paypal.asp' target='_blank'>Click here to register<
+ /a></strong> (available June-September)</p>\n<ul>\n<li>ALL registrations m
+ ust be done on-line.</li>\n<li>We offer two payment types – Credit card or
+  Check</li>\n<li>It’s simple and fast!</li>\n<li>Get involved! Please cons
+ ider taking an active part in your child’s enjoyment and growth in soccer!
+  Coaches\, assistants\, team managers\, or general volunteers are always w
+ elcome. Prior experience is not necessary and training will be provided.</
+ li>\n</ul>\n<p><strong>FEES</strong></p>\n<ul>\n<li>The registration fee i
+ s $90.00 for one child\, $180 for two children\, etc…</li>\n<li>“EARLY BIR
+ D” pricing is $65.00 for one child\, $120 for two children and $170 per fa
+ mily.\n<ul>\n<li>NOTE: “EARLY BIRD” registration must occur <strong>BEFORE
+  7/16</strong>.</li>\n</ul>\n</li>\n<li><a href='http://www.rysc.org/wp-co
+ ntent/uploads/rysc_refund.pdf' target='_blank'>CLICK HERE FOR REFUND POLIC
+ Y</a></li>\n</ul>\n<p> </p>\n<p><strong>IMPORTANT DATES TO REMEMBER</stron
+ g></p>\n<ul>\n<li>FIELD SETUP/COACHES CLINIC will be held August 22\, 2015
+ . All coaches\, assistant coaches and volunteers are required to participa
+ te in field setup from 9am – 11:00pm. Following a complimentary lunch\, a 
+ coaches’ clinic may run from 11:00pm – 12:00pm.\n<ul>\n<li>Uniforms and ro
+ sters will be distributed to coaches in attendance after the clinic.</li>
+ \n</ul>\n</li>\n<li>PICTURE DAY will take place on September 26\, 2015. Co
+ aches will distribute information and the schedule to their team.</li>\n<l
+ i>FIELD TAKEDOWN will take place after the last games on Saturday\, Octobe
+ r 31\, 2015. Please make an effort to stay and assist us.</li>\n</ul>\n<p>
+  </p>\n<p><strong>FRIENDLY REMINDERS</strong></p>\n<ul>\n<li>Fall Rec is a
+ bout FUN. Enjoy the game\, respect the referees\, and remember this is abo
+ ut kids having fun.</li>\n<li>NO PETS ARE ALLOWED AT THE SOCCER FIELDS<br 
+ /> (Please abide by this policy for the enjoyment of all- Thank you)</li>
+ \n</ul>
+DTSTART;TZID=America/New_York:20150919T090000
+DTEND;TZID=America/New_York:20150919T164500
+GEO:+42.797107;-73.989926
+LOCATION:RYSC Soccer Fields @ 100 Princetown Road\, Schenectady\, NY 12306\
+ , USA
+RRULE:FREQ=WEEKLY;UNTIL=20151031T235959Z;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Fall Rec
+URL:http://www.rysc.org/event/fall-rec-2/
+X-COST:$90
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1232@www.rysc.org
+DTSTAMP:20150920T002114Z
+CATEGORIES:
+CONTACT:Bobby Jones\; fodayjones@gmail.com
+DESCRIPTION:<pre>Mandatory Travel Coaches Meeting this Sunday September 20\
+ , 2015 at 6:00 pm at the Pede Soccer Center.</pre>
+DTSTART;TZID=America/New_York:20150920T180000
+DTEND;TZID=America/New_York:20150920T190000
+GEO:+42.790836;-73.980777
+LOCATION:Pede Soccer Center
+SEQUENCE:0
+SUMMARY:Mandatory Travel Coaches Meeting
+URL:http://www.rysc.org/event/mandatory-travel-coaches-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1173@www.rysc.org
+DTSTAMP:20150920T002114Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<table class='MsoNormalTable' style='font-family: sans-serif\; 
+ width: 469pt\; border-collapse: collapse\;' border='0' width='625' cellspa
+ cing='0' cellpadding='0'>\n<tbody>\n<tr style='height: 19.5pt\;'>\n<td sty
+ le='width: 106.15pt\; padding: 0in 5.4pt\; height: 19.5pt\;' valign='botto
+ m' width='142'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; fo
+ nt-size: 12pt\; font-family: 'Times New Roman'\, serif\; text-align: cente
+ r\;' align='center'><b><u><span style='font-family: 'Comic Sans MS'\;'>TIM
+ E</span></u></b></p>\n</td>\n<td style='width: 7.9pt\; padding: 0in 5.4pt\
+ ; height: 19.5pt\;' valign='bottom' width='11'> </td>\n<td style='width: 1
+ 43.1pt\; padding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom' width='191
+ '> </td>\n<td style='width: 185.1pt\; padding: 0in 5.4pt\; height: 19.5pt\
+ ;' valign='bottom' width='247'>\n<p class='MsoNormal' style='margin: 0in 0
+ in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\, serif\; t
+ ext-align: center\;' align='center'><b><u><span style='font-family: 'Comic
+  Sans MS'\;'>TEAMS</span></u></b></p>\n</td>\n<td style='width: 1.25pt\; p
+ adding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom' width='2'> </td>\n<t
+ d style='width: 12.75pt\; padding: 0in 5.4pt\; height: 19.5pt\;' valign='b
+ ottom' width='17'> </td>\n<td style='width: 12.75pt\; padding: 0in 5.4pt\;
+  height: 19.5pt\;' valign='bottom' width='17'> </td>\n</tr>\n<tr style='he
+ ight: 19.5pt\;'>\n<td style='width: 106.15pt\; padding: 0in 5.4pt\; height
+ : 19.5pt\;' valign='bottom' width='142'>\n<p class='MsoNormal' style='marg
+ in: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\, 
+ serif\; text-align: right\;' align='right'><span style='font-family: 'Comi
+ c Sans MS'\;'>8:00 AM</span></p>\n</td>\n<td style='width: 7.9pt\; padding
+ : 0in 5.4pt\; height: 19.5pt\;' valign='bottom' width='11'> </td>\n<td sty
+ le='width: 143.1pt\; padding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom
+ ' width='191'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; fon
+ t-size: 12pt\; font-family: 'Times New Roman'\, serif\;'><span style='font
+ -family: 'Comic Sans MS'\;'>3-4 GIRLS:</span></p>\n</td>\n<td style='width
+ : 211.85pt\; padding: 0in 5.4pt\; height: 19.5pt\;' colspan='4' valign='bo
+ ttom' width='282'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\;
+  font-size: 12pt\; font-family: 'Times New Roman'\, serif\;'><span style='
+ font-family: 'Comic Sans MS'\;'>RED\, GOLD\, MAROON\, WHITE</span></p>\n</
+ td>\n</tr>\n<tr style='height: 16.5pt\;'>\n<td style='width: 106.15pt\; pa
+ dding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='142'> </td>\n<
+ td style='width: 7.9pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bo
+ ttom' width='11'> </td>\n<td style='width: 143.1pt\; padding: 0in 5.4pt\; 
+ height: 16.5pt\;' valign='bottom' width='191'> </td>\n<td style='width: 18
+ 5.1pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='247'
+ > </td>\n<td style='width: 1.25pt\; padding: 0in 5.4pt\; height: 16.5pt\;'
+  valign='bottom' width='2'> </td>\n<td style='width: 12.75pt\; padding: 0i
+ n 5.4pt\; height: 16.5pt\;' valign='bottom' width='17'> </td>\n<td style='
+ width: 12.75pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' wi
+ dth='17'> </td>\n</tr>\n<tr style='height: 20.25pt\;'>\n<td style='width: 
+ 106.15pt\; border-style: solid none\; border-top-color: windowtext\; borde
+ r-top-width: 1pt\; border-bottom-color: windowtext\; border-bottom-width: 
+ 1pt\; padding: 0in 5.4pt\; height: 20.25pt\; background: silver\;' valign=
+ 'bottom' width='142'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001p
+ t\; font-size: 12pt\; font-family: 'Times New Roman'\, serif\; text-align:
+  right\;' align='right'><span style='font-family: 'Comic Sans MS'\;'>8:15 
+ AM</span></p>\n</td>\n<td style='width: 7.9pt\; border-style: solid none\;
+  border-top-color: windowtext\; border-top-width: 1pt\; border-bottom-colo
+ r: windowtext\; border-bottom-width: 1pt\; padding: 0in 5.4pt\; height: 20
+ .25pt\; background: silver\;' valign='bottom' width='11'>\n<p class='MsoNo
+ rmal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Ti
+ mes New Roman'\, serif\;'><span style='font-family: 'Comic Sans MS'\;'> </
+ span></p>\n</td>\n<td style='width: 143.1pt\; border-style: solid none\; b
+ order-top-color: windowtext\; border-top-width: 1pt\; border-bottom-color:
+  windowtext\; border-bottom-width: 1pt\; padding: 0in 5.4pt\; height: 20.2
+ 5pt\; background: silver\;' valign='bottom' width='191'>\n<p class='MsoNor
+ mal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Tim
+ es New Roman'\, serif\;'><span style='font-family: 'Comic Sans MS'\;'>1-2 
+ GIRLS:</span></p>\n</td>\n<td style='width: 211.85pt\; border-style: solid
+  none\; border-top-color: windowtext\; border-top-width: 1pt\; border-bott
+ om-color: windowtext\; border-bottom-width: 1pt\; padding: 0in 5.4pt\; hei
+ ght: 20.25pt\; background: silver\;' colspan='4' valign='bottom' width='28
+ 2'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12p
+ t\; font-family: 'Times New Roman'\, serif\;'><span style='font-family: 'C
+ omic Sans MS'\;'>RED\, KELLY\, LT BLUE\, WHITE</span></p>\n</td>\n</tr>\n<
+ tr style='height: 16.5pt\;'>\n<td style='width: 106.15pt\; padding: 0in 5.
+ 4pt\; height: 16.5pt\;' valign='bottom' width='142'> </td>\n<td style='wid
+ th: 7.9pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='
+ 11'> </td>\n<td style='width: 143.1pt\; padding: 0in 5.4pt\; height: 16.5p
+ t\;' valign='bottom' width='191'> </td>\n<td style='width: 185.1pt\; paddi
+ ng: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='247'> </td>\n<td 
+ style='width: 1.25pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bott
+ om' width='2'> </td>\n<td style='width: 12.75pt\; padding: 0in 5.4pt\; hei
+ ght: 16.5pt\;' valign='bottom' width='17'> </td>\n<td style='width: 12.75p
+ t\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='17'> </t
+ d>\n</tr>\n<tr style='height: 19.5pt\;'>\n<td style='width: 106.15pt\; pad
+ ding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom' width='142'>\n<p class
+ ='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-fami
+ ly: 'Times New Roman'\, serif\; text-align: right\;' align='right'><span s
+ tyle='font-family: 'Comic Sans MS'\;'>8:30 AM</span></p>\n</td>\n<td style
+ ='width: 7.9pt\; padding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom' wi
+ dth='11'> </td>\n<td style='width: 143.1pt\; padding: 0in 5.4pt\; height: 
+ 19.5pt\;' valign='bottom' width='191'>\n<p class='MsoNormal' style='margin
+ : 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\, se
+ rif\;'><b><span style='font-family: 'Comic Sans MS'\;'>3-4 BOYS:</span></b
+ ></p>\n</td>\n<td style='width: 211.85pt\; padding: 0in 5.4pt\; height: 19
+ .5pt\;' colspan='4' valign='bottom' width='282'>\n<p class='MsoNormal' sty
+ le='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New R
+ oman'\, serif\;'><span style='font-family: 'Comic Sans MS'\;'>KELLY\, GOLD
+ \, MAROON\, ROYAL</span></p>\n</td>\n</tr>\n<tr style='height: 15.75pt\;'>
+ \n<td style='width: 106.15pt\; padding: 0in 5.4pt\; height: 15.75pt\;' val
+ ign='bottom' width='142'> </td>\n<td style='width: 7.9pt\; padding: 0in 5.
+ 4pt\; height: 15.75pt\;' valign='bottom' width='11'> </td>\n<td style='wid
+ th: 143.1pt\; padding: 0in 5.4pt\; height: 15.75pt\;' valign='bottom' widt
+ h='191'> </td>\n<td style='width: 185.1pt\; padding: 0in 5.4pt\; height: 1
+ 5.75pt\;' valign='bottom' width='247'> </td>\n<td style='width: 1.25pt\; p
+ adding: 0in 5.4pt\; height: 15.75pt\;' valign='bottom' width='2'> </td>\n<
+ td style='width: 12.75pt\; padding: 0in 5.4pt\; height: 15.75pt\;' valign=
+ 'bottom' width='17'> </td>\n<td style='width: 12.75pt\; padding: 0in 5.4pt
+ \; height: 15.75pt\;' valign='bottom' width='17'> </td>\n</tr>\n<tr style=
+ 'height: 19.5pt\;'>\n<td style='width: 106.15pt\; border-style: solid none
+  none\; border-top-color: windowtext\; border-top-width: 1pt\; padding: 0i
+ n 5.4pt\; height: 19.5pt\; background: silver\;' valign='bottom' width='14
+ 2'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12p
+ t\; font-family: 'Times New Roman'\, serif\; text-align: right\;' align='r
+ ight'><span style='font-family: 'Comic Sans MS'\;'>8:45 AM</span></p>\n</t
+ d>\n<td style='width: 7.9pt\; border-style: solid none none\; border-top-c
+ olor: windowtext\; border-top-width: 1pt\; padding: 0in 5.4pt\; height: 19
+ .5pt\; background: silver\;' valign='bottom' width='11'>\n<p class='MsoNor
+ mal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Tim
+ es New Roman'\, serif\;'><span style='font-family: 'Comic Sans MS'\;'> </s
+ pan></p>\n</td>\n<td style='width: 143.1pt\; border-style: solid none none
+ \; border-top-color: windowtext\; border-top-width: 1pt\; padding: 0in 5.4
+ pt\; height: 19.5pt\; background: silver\;' valign='bottom' width='191'>\n
+ <p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; f
+ ont-family: 'Times New Roman'\, serif\;'><b><span style='font-family: 'Com
+ ic Sans MS'\;'>3-4 BOYS:</span></b></p>\n</td>\n<td style='width: 199.1pt\
+ ; border-style: solid none none\; border-top-color: windowtext\; border-to
+ p-width: 1pt\; padding: 0in 5.4pt\; height: 19.5pt\; background: silver\;'
+  colspan='3' valign='bottom' width='265'>\n<p class='MsoNormal' style='mar
+ gin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\,
+  serif\;'><span style='font-family: 'Comic Sans MS'\;'>LT BLUE\, WHITE</sp
+ an></p>\n</td>\n<td style='width: 12.75pt\; border-style: solid none none\
+ ; border-top-color: windowtext\; border-top-width: 1pt\; padding: 0in 5.4p
+ t\; height: 19.5pt\; background: silver\;' valign='bottom' width='17'>\n<p
+  class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; fon
+ t-family: 'Times New Roman'\, serif\;'><span style='font-size: 10pt\; font
+ -family: 'Comic Sans MS'\;'> </span></p>\n</td>\n</tr>\n<tr style='height:
+  20.25pt\;'>\n<td style='width: 106.15pt\; border-style: none none solid\;
+  border-bottom-color: windowtext\; border-bottom-width: 1pt\; padding: 0in
+  5.4pt\; height: 20.25pt\; background: silver\;' valign='bottom' width='14
+ 2'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12p
+ t\; font-family: 'Times New Roman'\, serif\;'><span style='font-family: 'C
+ omic Sans MS'\;'> </span></p>\n</td>\n<td style='width: 7.9pt\; border-sty
+ le: none none solid\; border-bottom-color: windowtext\; border-bottom-widt
+ h: 1pt\; padding: 0in 5.4pt\; height: 20.25pt\; background: silver\;' vali
+ gn='bottom' width='11'>\n<p class='MsoNormal' style='margin: 0in 0in 0.000
+ 1pt\; font-size: 12pt\; font-family: 'Times New Roman'\, serif\;'><span st
+ yle='font-family: 'Comic Sans MS'\;'> </span></p>\n</td>\n<td style='width
+ : 143.1pt\; border-style: none none solid\; border-bottom-color: windowtex
+ t\; border-bottom-width: 1pt\; padding: 0in 5.4pt\; height: 20.25pt\; back
+ ground: silver\;' valign='bottom' width='191'>\n<p class='MsoNormal' style
+ ='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Rom
+ an'\, serif\;'><span style='font-family: 'Comic Sans MS'\;'>KIND:</span></
+ p>\n</td>\n<td style='width: 186.35pt\; border-style: none none solid\; bo
+ rder-bottom-color: windowtext\; border-bottom-width: 1pt\; padding: 0in 5.
+ 4pt\; height: 20.25pt\; background: silver\;' colspan='2' valign='bottom' 
+ width='248'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-
+ size: 12pt\; font-family: 'Times New Roman'\, serif\;'><span style='font-f
+ amily: 'Comic Sans MS'\;'>RED\, GOLD</span></p>\n</td>\n<td style='width: 
+ 12.75pt\; border-style: none none solid\; border-bottom-color: windowtext\
+ ; border-bottom-width: 1pt\; padding: 0in 5.4pt\; height: 20.25pt\; backgr
+ ound: silver\;' valign='bottom' width='17'>\n<p class='MsoNormal' style='m
+ argin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'
+ \, serif\;'><span style='font-size: 10pt\; font-family: 'Comic Sans MS'\;'
+ > </span></p>\n</td>\n<td style='width: 12.75pt\; border-style: none none 
+ solid\; border-bottom-color: windowtext\; border-bottom-width: 1pt\; paddi
+ ng: 0in 5.4pt\; height: 20.25pt\; background: silver\;' valign='bottom' wi
+ dth='17'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-siz
+ e: 12pt\; font-family: 'Times New Roman'\, serif\;'><span style='font-size
+ : 10pt\; font-family: 'Comic Sans MS'\;'> </span></p>\n</td>\n</tr>\n<tr s
+ tyle='height: 16.5pt\;'>\n<td style='width: 106.15pt\; padding: 0in 5.4pt\
+ ; height: 16.5pt\;' valign='bottom' width='142'> </td>\n<td style='width: 
+ 7.9pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='11'>
+  </td>\n<td style='width: 143.1pt\; padding: 0in 5.4pt\; height: 16.5pt\;'
+  valign='bottom' width='191'>\n<p class='MsoNormal' style='margin: 0in 0in
+  0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\, serif\;'><b
+ ><span style='font-size: 10pt\; font-family: 'Comic Sans MS'\;'> </span></
+ b></p>\n</td>\n<td style='width: 185.1pt\; padding: 0in 5.4pt\; height: 16
+ .5pt\;' valign='bottom' width='247'> </td>\n<td style='width: 1.25pt\; pad
+ ding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='2'> </td>\n<td 
+ style='width: 12.75pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bot
+ tom' width='17'> </td>\n<td style='width: 12.75pt\; padding: 0in 5.4pt\; h
+ eight: 16.5pt\;' valign='bottom' width='17'> </td>\n</tr>\n<tr style='heig
+ ht: 16.5pt\;'>\n<td style='width: 106.15pt\; padding: 0in 5.4pt\; height: 
+ 16.5pt\;' valign='bottom' width='142'>\n<p class='MsoNormal' style='margin
+ : 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\, se
+ rif\; text-align: right\;' align='right'><span style='font-family: 'Comic 
+ Sans MS'\;'>9:00 AM</span></p>\n</td>\n<td style='width: 7.9pt\; padding: 
+ 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='11'> </td>\n<td style
+ ='width: 143.1pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' 
+ width='191'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-
+ size: 12pt\; font-family: 'Times New Roman'\, serif\;'><span style='font-f
+ amily: 'Comic Sans MS'\;'>KIND:</span></p>\n</td>\n<td style='width: 199.1
+ pt\; padding: 0in 5.4pt\; height: 16.5pt\;' colspan='3' valign='bottom' wi
+ dth='265'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-si
+ ze: 12pt\; font-family: 'Times New Roman'\, serif\;'><span style='font-fam
+ ily: 'Comic Sans MS'\;'>MAROON\, ORANGE</span></p>\n</td>\n<td style='widt
+ h: 12.75pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width=
+ '17'> </td>\n</tr>\n<tr style='height: 19.5pt\;'>\n<td style='width: 106.1
+ 5pt\; padding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom' width='142'> 
+ </td>\n<td style='width: 7.9pt\; padding: 0in 5.4pt\; height: 19.5pt\;' va
+ lign='bottom' width='11'> </td>\n<td style='width: 143.1pt\; padding: 0in 
+ 5.4pt\; height: 19.5pt\;' valign='bottom' width='191'>\n<p class='MsoNorma
+ l' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times
+  New Roman'\, serif\;'><b><span style='font-family: 'Comic Sans MS'\;'>1-2
+  BOYS:</span></b></p>\n</td>\n<td style='width: 186.35pt\; padding: 0in 5.
+ 4pt\; height: 19.5pt\;' colspan='2' valign='bottom' width='248'>\n<p class
+ ='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-fami
+ ly: 'Times New Roman'\, serif\;'><span style='font-family: 'Comic Sans MS'
+ \;'>KELLY\, GOLD</span></p>\n</td>\n<td style='width: 12.75pt\; padding: 0
+ in 5.4pt\; height: 19.5pt\;' valign='bottom' width='17'> </td>\n<td style=
+ 'width: 12.75pt\; padding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom' w
+ idth='17'> </td>\n</tr>\n<tr style='height: 16.5pt\;'>\n<td style='width: 
+ 106.15pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='1
+ 42'> </td>\n<td style='width: 7.9pt\; padding: 0in 5.4pt\; height: 16.5pt\
+ ;' valign='bottom' width='11'> </td>\n<td style='width: 143.1pt\; border-s
+ tyle: none none solid\; border-bottom-color: windowtext\; border-bottom-wi
+ dth: 1pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='1
+ 91'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12
+ pt\; font-family: 'Times New Roman'\, serif\;'><b><span style='font-size: 
+ 10pt\; font-family: 'Comic Sans MS'\;'> </span></b></p>\n</td>\n<td style=
+ 'width: 185.1pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' w
+ idth='247'> </td>\n<td style='width: 1.25pt\; padding: 0in 5.4pt\; height:
+  16.5pt\;' valign='bottom' width='2'> </td>\n<td style='width: 12.75pt\; p
+ adding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='17'> </td>\n<
+ td style='width: 12.75pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='
+ bottom' width='17'> </td>\n</tr>\n<tr style='height: 20.25pt\;'>\n<td styl
+ e='width: 106.15pt\; border-style: solid none none\; border-top-color: win
+ dowtext\; border-top-width: 1pt\; padding: 0in 5.4pt\; height: 20.25pt\; b
+ ackground: silver\;' valign='bottom' width='142'>\n<p class='MsoNormal' st
+ yle='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New 
+ Roman'\, serif\; text-align: right\;' align='right'><span style='font-fami
+ ly: 'Comic Sans MS'\;'>9:15 AM</span></p>\n</td>\n<td style='width: 7.9pt\
+ ; border-style: solid none none\; border-top-color: windowtext\; border-to
+ p-width: 1pt\; padding: 0in 5.4pt\; height: 20.25pt\; background: silver\;
+ ' valign='bottom' width='11'>\n<p class='MsoNormal' style='margin: 0in 0in
+  0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\, serif\;'><s
+ pan style='font-family: 'Comic Sans MS'\;'> </span></p>\n</td>\n<td style=
+ 'width: 143.1pt\; border-style: none none solid\; border-bottom-color: win
+ dowtext\; border-bottom-width: 1pt\; padding: 0in 5.4pt\; height: 20.25pt\
+ ; background: silver\;' valign='bottom' width='191'>\n<p class='MsoNormal'
+  style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times N
+ ew Roman'\, serif\;'><b><span style='font-family: 'Comic Sans MS'\;'>1-2 B
+ OYS:</span></b></p>\n</td>\n<td style='width: 211.85pt\; border-style: sol
+ id none\; border-top-color: windowtext\; border-top-width: 1pt\; border-bo
+ ttom-color: windowtext\; border-bottom-width: 1pt\; padding: 0in 5.4pt\; h
+ eight: 20.25pt\; background: silver\;' colspan='4' valign='bottom' width='
+ 282'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 1
+ 2pt\; font-family: 'Times New Roman'\, serif\;'><span style='font-family: 
+ 'Comic Sans MS'\;'>MAROON\, ORANGE\, ROYAL\, LT BLUE</span></p>\n</td>\n</
+ tr>\n<tr style='height: 19.5pt\;'>\n<td style='width: 106.15pt\; border-st
+ yle: solid none none\; border-top-color: windowtext\; border-top-width: 1p
+ t\; padding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom' width='142'>\n<
+ p class='MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; fo
+ nt-family: 'Times New Roman'\, serif\;'><span style='font-family: 'Comic S
+ ans MS'\;'> </span></p>\n</td>\n<td style='width: 7.9pt\; border-style: so
+ lid none none\; border-top-color: windowtext\; border-top-width: 1pt\; pad
+ ding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom' width='11'>\n<p class=
+ 'MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-famil
+ y: 'Times New Roman'\, serif\;'><span style='font-family: 'Comic Sans MS'\
+ ;'> </span></p>\n</td>\n<td style='width: 143.1pt\; padding: 0in 5.4pt\; h
+ eight: 19.5pt\;' valign='bottom' width='191'>\n<p class='MsoNormal' style=
+ 'margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roma
+ n'\, serif\;'><b><span style='font-family: 'Comic Sans MS'\;'> </span></b>
+ </p>\n</td>\n<td style='width: 185.1pt\; padding: 0in 5.4pt\; height: 19.5
+ pt\;' valign='bottom' width='247'>\n<p class='MsoNormal' style='margin: 0i
+ n 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\, serif\
+ ;'><span style='font-family: 'Comic Sans MS'\;'> </span></p>\n</td>\n<td s
+ tyle='width: 1.25pt\; padding: 0in 5.4pt\; height: 19.5pt\;' valign='botto
+ m' width='2'> </td>\n<td style='width: 12.75pt\; padding: 0in 5.4pt\; heig
+ ht: 19.5pt\;' valign='bottom' width='17'> </td>\n<td style='width: 12.75pt
+ \; padding: 0in 5.4pt\; height: 19.5pt\;' valign='bottom' width='17'> </td
+ >\n</tr>\n<tr style='height: 16.5pt\;'>\n<td style='width: 106.15pt\; padd
+ ing: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' width='142'>\n<p class=
+ 'MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-famil
+ y: 'Times New Roman'\, serif\; text-align: right\;' align='right'><span st
+ yle='font-family: 'Comic Sans MS'\;'>9:30 AM</span></p>\n</td>\n<td style=
+ 'width: 7.9pt\; padding: 0in 5.4pt\; height: 16.5pt\;' valign='bottom' wid
+ th='11'> </td>\n<td style='width: 143.1pt\; padding: 0in 5.4pt\; height: 1
+ 6.5pt\;' valign='bottom' width='191'>\n<p class='MsoNormal' style='margin:
+  0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\, ser
+ if\;'><b><span style='font-family: 'Comic Sans MS'\;'>5-6 BOYS:</span></b>
+ </p>\n</td>\n<td style='width: 211.85pt\; padding: 0in 5.4pt\; height: 16.
+ 5pt\;' colspan='4' valign='bottom' width='282'>\n<p class='MsoNormal' styl
+ e='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Ro
+ man'\, serif\;'><span style='font-family: 'Comic Sans MS'\;'>KELLY\, ORANG
+ E\, ROYAL\, LT BLUE</span></p>\n</td>\n</tr>\n<tr style='height: 20.25pt\;
+ '>\n<td style='width: 106.15pt\; padding: 0in 5.4pt\; height: 20.25pt\;' v
+ align='bottom' width='142'> </td>\n<td style='width: 7.9pt\; padding: 0in 
+ 5.4pt\; height: 20.25pt\;' valign='bottom' width='11'> </td>\n<td style='w
+ idth: 143.1pt\; padding: 0in 5.4pt\; height: 20.25pt\;' valign='bottom' wi
+ dth='191'> </td>\n<td style='width: 185.1pt\; padding: 0in 5.4pt\; height:
+  20.25pt\;' valign='bottom' width='247'> </td>\n<td style='width: 1.25pt\;
+  padding: 0in 5.4pt\; height: 20.25pt\;' valign='bottom' width='2'> </td>
+ \n<td style='width: 12.75pt\; padding: 0in 5.4pt\; height: 20.25pt\;' vali
+ gn='bottom' width='17'> </td>\n<td style='width: 12.75pt\; padding: 0in 5.
+ 4pt\; height: 20.25pt\;' valign='bottom' width='17'> </td>\n</tr>\n<tr sty
+ le='height: 19.5pt\;'>\n<td style='width: 106.15pt\; border-style: solid n
+ one\; border-top-color: windowtext\; border-top-width: 1pt\; border-bottom
+ -color: windowtext\; border-bottom-width: 1pt\; padding: 0in 5.4pt\; heigh
+ t: 19.5pt\; background: silver\;' valign='bottom' width='142'>\n<p class='
+ MsoNormal' style='margin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family
+ : 'Times New Roman'\, serif\; text-align: right\;' align='right'><span sty
+ le='font-family: 'Comic Sans MS'\;'>9:45 AM</span></p>\n</td>\n<td style='
+ width: 7.9pt\; border-style: solid none\; border-top-color: windowtext\; b
+ order-top-width: 1pt\; border-bottom-color: windowtext\; border-bottom-wid
+ th: 1pt\; padding: 0in 5.4pt\; height: 19.5pt\; background: silver\;' vali
+ gn='bottom' width='11'>\n<p class='MsoNormal' style='margin: 0in 0in 0.000
+ 1pt\; font-size: 12pt\; font-family: 'Times New Roman'\, serif\;'><span st
+ yle='font-family: 'Comic Sans MS'\;'> </span></p>\n</td>\n<td style='width
+ : 143.1pt\; border-style: solid none\; border-top-color: windowtext\; bord
+ er-top-width: 1pt\; border-bottom-color: windowtext\; border-bottom-width:
+  1pt\; padding: 0in 5.4pt\; height: 19.5pt\; background: silver\;' valign=
+ 'bottom' width='191'>\n<p class='MsoNormal' style='margin: 0in 0in 0.0001p
+ t\; font-size: 12pt\; font-family: 'Times New Roman'\, serif\;'><span styl
+ e='font-family: 'Comic Sans MS'\;'>5-6 GIRLS:</span></p>\n</td>\n<td style
+ ='width: 211.85pt\; border-style: solid none\; border-top-color: windowtex
+ t\; border-top-width: 1pt\; border-bottom-color: windowtext\; border-botto
+ m-width: 1pt\; padding: 0in 5.4pt\; height: 19.5pt\; background: silver\;'
+  colspan='4' valign='bottom' width='282'>\n<p class='MsoNormal' style='mar
+ gin: 0in 0in 0.0001pt\; font-size: 12pt\; font-family: 'Times New Roman'\,
+  serif\;'><span style='font-family: 'Comic Sans MS'\;'>RED\, ORANGE\, ROYA
+ L\, LT BLUE</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class='MsoNor
+ mal' style='margin: 0in 0in 0.0001pt\; font-size: medium\; font-family: 'T
+ imes New Roman'\, serif\; color: #000000\; line-height: normal\;'> </p>
+DTSTART;TZID=America/New_York:20150926T080000
+DTEND;TZID=America/New_York:20150926T110000
+SEQUENCE:0
+SUMMARY:Fall Rec Picture Day
+URL:http://www.rysc.org/event/fall-rec-picture-day-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-88@www.rysc.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:
+DESCRIPTION:<p>Everyone is welcome to attend.</p>
+DTSTART;TZID=America/New_York:20151013T200000
+DTEND;TZID=America/New_York:20151013T210000
+GEO:+42.790836;-73.980777
+LOCATION:Pede Soccer Center
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:Membership Meeting
+URL:http://www.rysc.org/event/membership-meeting/
+END:VEVENT
+END:VCALENDAR

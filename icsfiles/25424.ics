@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//188.93.150.119//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.audio-rijnsburg.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2175@www.audio-rijnsburg.nl
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Vooijs Audio Rijnsburg\; +31620265449\; info@audio-rijnsburg.nl\; h
+ ttps://audio-rijnsburg.nl
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.audio-rijnsburg.nl/wp-content/uploads/DJ-Cursus-2015-SCW-Leiderdorp
+ -September-versie-213x300.jpg' width='213' height='300' /></div>
+DTSTART;TZID=Europe/Amsterdam:20150924T154500
+DTEND;TZID=Europe/Amsterdam:20150924T170000
+GEO:+52.165212;+4.542609
+LOCATION:Jongerencentrum Dwars @ Bloemerd 1C\, 2353 Leiderdorp\, Nederland
+RRULE:FREQ=WEEKLY;UNTIL=20151022T235959Z;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:DJ Cursus
+URL:http://www.audio-rijnsburg.nl/event/dj-cursus/
+X-COST:€ 48\,50 voor 6 lessen
+X-TICKETS-URL:http://dwarsleiderdorp.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2176@www.audio-rijnsburg.nl
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Vooijs Audio Rijnsburg\; +31620265449\; info@audio-rijnsburg.nl\; h
+ ttps://audio-rijnsburg.nl
+DESCRIPTION:
+DTSTART;TZID=Europe/Amsterdam:20150926T203000
+DTEND;TZID=Europe/Amsterdam:20150926T003000
+EXDATE;TZID=Europe/Amsterdam:20151226T203000
+GEO:+52.165212;+4.542609
+LOCATION:Jongerencentrum Dwars @ Bloemerd 1C\, 2353 Leiderdorp\, Nederland
+RRULE:FREQ=MONTHLY;UNTIL=20160625T235959Z;BYDAY=-1SA
+SEQUENCE:0
+SUMMARY:I Love Frizzz
+URL:http://www.audio-rijnsburg.nl/event/i-love-frizzz/
+X-COST:€ 2\,00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2182@www.audio-rijnsburg.nl
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Vooijs Audio Rijnsburg\; +31620265449\; info@audio-rijnsburg.nl\; h
+ ttps://audio-rijnsburg.nl
+DESCRIPTION:
+DTSTART;TZID=Europe/Amsterdam:20151031T200000
+DTEND;TZID=Europe/Amsterdam:20151101T010000
+GEO:+52.186226;+4.47481
+LOCATION:Oegstgeest @ Oegstgeest\, Nederland
+SEQUENCE:0
+SUMMARY:Verjaardagsfeest
+URL:http://www.audio-rijnsburg.nl/event/verjaardagsfeest-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2179@www.audio-rijnsburg.nl
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Vooijs Audio Rijnsburg\; +31620265449\; info@audio-rijnsburg.nl\; h
+ ttps://audio-rijnsburg.nl
+DESCRIPTION:
+DTSTART;TZID=Europe/Amsterdam:20151107T200000
+DTEND;TZID=Europe/Amsterdam:20151108T010000
+GEO:+52.160114;+4.49701
+LOCATION:Leiden @ Leiden\, Nederland
+SEQUENCE:0
+SUMMARY:Verjaardagsfeest
+URL:http://www.audio-rijnsburg.nl/event/verjaardagsfeest-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2181@www.audio-rijnsburg.nl
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Vooijs Audio Rijnsburg\; +31620265449\; info@audio-rijnsburg.nl\; h
+ ttps://audio-rijnsburg.nl
+DESCRIPTION:
+DTSTART;TZID=Europe/Amsterdam:20160423T200000
+DTEND;TZID=Europe/Amsterdam:20160424T010000
+GEO:+52.260194;+4.495584
+LOCATION:Noordwijkerhout @ 2211 Noordwijkerhout\, Nederland
+SEQUENCE:0
+SUMMARY:Bruiloft
+URL:http://www.audio-rijnsburg.nl/event/bruiloft-2/
+END:VEVENT
+END:VCALENDAR

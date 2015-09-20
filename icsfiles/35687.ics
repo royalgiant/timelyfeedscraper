@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//194.126.200.41//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.wandervoegel.ch
+X-WR-TIMEZONE:Europe/Zurich
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-61@www.wandervoegel.ch/new
+DTSTAMP:20150920T002242Z
+CATEGORIES:
+CONTACT:Markus
+DESCRIPTION:<p>Das Oktoberfest Zürich darf natürlich nicht auf unserem Jahr
+ esplan fehlen!</p>\n<p><strong>Wir haben einen Tisch! Danke Markus<br />\n
+ </strong></p>
+DTSTART;TZID=Europe/Zurich:20151010T140000
+GEO:+47.367713;+8.542348
+LOCATION:Bauschänzli Zürich @ Bauschänzli\, 8001 Zürich\, Schweiz
+SEQUENCE:0
+SUMMARY:Oktoberfest Zürich
+URL:http://www.wandervoegel.ch/event/oktoberfest-zuerich/
+X-COST:CHF 70
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-62@www.wandervoegel.ch/new
+DTSTAMP:20150920T002242Z
+CATEGORIES:
+CONTACT:Marco
+DESCRIPTION:<p>Ein weiterer Klassiker: der Casinoanlass! Wir werden zuerst 
+ dienieren und anschliessend das Casino Bregenz besuchen.</p>
+DTSTART;TZID=Europe/Zurich:20151121T180000
+SEQUENCE:0
+SUMMARY:Casino-Anlass
+URL:http://www.wandervoegel.ch/event/casino-anlass/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-63@www.wandervoegel.ch/new
+DTSTAMP:20150920T002242Z
+CATEGORIES:
+CONTACT:Marco
+DESCRIPTION:<p>Unsere jährliche Versammlung. Für Mitglieder <strong>obligat
+ orisch</strong>!</p>
+DTSTART;TZID=Europe/Zurich:20160115T190000
+GEO:+47.466306;+9.566957
+LOCATION:Gasthaus Ochsen Thal @ Dorfstrasse 7\, 9425 Thal\, Schweiz
+SEQUENCE:0
+SUMMARY:Hauptversammlung
+URL:http://www.wandervoegel.ch/event/hauptversammlung/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

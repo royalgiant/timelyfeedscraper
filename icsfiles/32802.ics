@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//216.187.79.217//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www2.holohil.com
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+X-LIC-LOCATION:America/Toronto
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-661@www2.holohil.com
+DTSTAMP:20150920T003650Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<h2>Experience The Wildlife Society Live!</h2>\n<p>For the firs
+ t time in a decade\, The Wildlife Society’s Annual Conference is being hel
+ d in Canada. Join us in Winnipeg\, Manitoba for a unique and memorable TWS
+  experience that includes more than 500 educational presentations\, more t
+ han 30 networking opportunities and plenty of engagement and learning oppo
+ rtunities in the TWS Members Activity Center.</p>\n<p><a href='http://www.
+ twsconference.org'>http://www.twsconference.org</a></p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151022
+GEO:+49.888932;-97.144665
+LOCATION:RBC Convention Center @ 375 York Avenue\, Winnipeg\, MB R3C 3J3\, 
+ Canada
+SEQUENCE:0
+SUMMARY:The Wildlife Society 22nd Annual Conference
+URL:http://www2.holohil.com/event/the-wildlife-society-22nd-annual-conferen
+ ce/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-662@www2.holohil.com
+DTSTAMP:20150920T003650Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><em>NASBR is pleased to invite you to its 45<sup>th</sup> An
+ nual Research Symposium in Monterey\, CA. The conference will be from Octo
+ ber 28<sup>th</sup> to October 31<sup>st</sup>\, 2015 at the Monterey Plaz
+ a Hotel\, located on historic Cannery Row. Our local hosts\, Dave Johnston
+  and Shahroukh Mistry\, have an exciting array of conference tours and act
+ ivities scheduled\, and we will have another sensational competition to he
+ lp support the Spallanzani Fund.</em></p>\n<p><a href='http://www.cvent.co
+ m/events/nasbr2015/event-summary-e927bab712ae4d33b274205739633d87.aspx'>ht
+ tp://www.cvent.com/events/nasbr2015/event-summary-e927bab712ae4d33b2742057
+ 39633d87.aspx</a></p>
+DTSTART;VALUE=DATE:20151028
+DTEND;VALUE=DATE:20151101
+GEO:+36.612319;-121.898043
+LOCATION:Monterey Plaza Hotel @ 400 Cannery Row\, Monterey\, CA 93940\, USA
+SEQUENCE:0
+SUMMARY:NASBR 45th Annual Symposium on Bat Research
+URL:http://www2.holohil.com/event/nasbr-45th-annual-symposium-on-bat-resear
+ ch/
+END:VEVENT
+END:VCALENDAR

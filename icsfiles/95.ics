@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//223.252.18.180//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://getready.yfs.org.au/getready
+X-WR-TIMEZONE:Australia/Brisbane
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+X-LIC-LOCATION:Australia/Brisbane
+BEGIN:STANDARD
+DTSTART:19920301T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-379@getready.yfs.org.au/getready
+DTSTAMP:20150920T002106Z
+CATEGORIES:
+CONTACT:Get Ready Team\; 1800 772 383\; getready@yfs.org.au
+DESCRIPTION:<p>Please phone 1800 772 383 to book as capacity is limited</p>
+DTSTART;TZID=Australia/Brisbane:20151001T180000
+DTEND;TZID=Australia/Brisbane:20151001T210000
+GEO:-27.490669;+153.231753
+LOCATION:Redlands Sporting Club @ 20 Anson Road\, Wellington Point QLD 4160
+ \, Australia
+SEQUENCE:0
+SUMMARY:NDIS Get Ready Information Session – Redlands
+URL:http://getready.yfs.org.au/getready/event/ndis-get-ready-information-se
+ ssion-redlands/
+END:VEVENT
+END:VCALENDAR

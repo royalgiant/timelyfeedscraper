@@ -1,0 +1,560 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.30.212.82//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.sebastianus-und-afra-koeln.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-572@www.sebastianus-und-afra-koeln.de
+DTSTAMP:20150920T002327Z
+CATEGORIES;LANGUAGE=de-DE:Event mit Beteiligung\,Umzug
+CONTACT:
+DESCRIPTION:<p>Liebe Schützenbrüder und Schützenschwestern\,</p>\n<p class=
+ 'p1'><span class='s1'>Nachdem wir 2014 die Fahrt nach Sittard wegen techni
+ scher Probleme abgesagt hatten\, haben wir uns für 2015 vorgenommen unsere
+ n niederländischen Freunden wieder einen Besuch abzustatten. Wir werden au
+ ch am dortigen Schützenzug teilnehmen.</span></p>\n<p>An diesem Tag werden
+  sich Schützen- und Gildenvereine aus den über 40 Gruppen aus den Niederla
+ nden\, Belgien\, Deutschland und dem Rest Europas in Sittard einfinden\, u
+ m das dort stattfindende Oktoberfest mitzufeiern. Es sind auf dem großen F
+ estplatz ca. 65 Kirmesattraktionen und Büdchen aufgebaut. Drei riesige Fes
+ tzelte bieten Künstlern der verschiedensten Couleur Platz für ihre Darbiet
+ ungen. Ein bunter Schützenzug durch Sittard wird nachmittags den Tag zu ei
+ nem unvergesslichen Erlebnis machen. Das Internationale Schützen- und Gild
+ enfest im Rahmen des Oktoberfests in Sittard findet in diesem Jahr zum 11.
+  Mal statt. Wir finden\, dass dies der richtige Rahmen ist\, damit wir als
+  Kölner mit den niederländischen Freunden feiern und uns präsentieren könn
+ en.</p>\n<p class='p1'><span class='s1'>Wir fahren von Köln aus mit Privat
+ -PKWs nach Sittard. </span></p>\n<p class='p1'><span class='s1'>Treffpunkt
+  & Uhrzeit: 25.10.2015\, 9:30 Uhr an der Lanxess Arena\, Gummersbacher Str
+ . (bei den Fernbussen/KEC Heim)</span></p>\n<p class='p1'><span class='s1'
+ >Hier findet Ihr mehr Informationen: </span></p>\n<p class='p1'><span clas
+ s='s1'><a href='http://www.oktoberfeestsittard.nl/internationaal'>http://w
+ ww.oktoberfeestsittard.nl/internationaal</a></span></p>\n<p> </p>\n<div cl
+ ass='sharedaddy sd-sharing-enabled'><div class='robots-nocontent sd-block 
+ sd-social sd-social-official sd-sharing'><div class='sd-content'><ul><li c
+ lass='share-facebook'><div class='fb-share-button' data-href='http://www.s
+ ebastianus-und-afra-koeln.de/' data-layout='button_count'></div></li><li c
+ lass='share-google-plus-1'><div class='googleplus1_button'><div class='g-p
+ lus' data-action='share' data-annotation='bubble' data-href='http://www.se
+ bastianus-und-afra-koeln.de/'></div></div></li><li class='share-twitter'><
+ div class='twitter_button'><iframe allowtransparency='true' frameborder='0
+ ' scrolling='no' src='http://platform.twitter.com/widgets/tweet_button.htm
+ l?url=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2F&counturl=http%3A%2
+ F%2Fwww.sebastianus-und-afra-koeln.de%2F&count=horizontal&text=Willkommen%
+ 3A' style='width:101px\; height:20px\;'></iframe></div></li><li><a href='#
+ ' class='sharing-anchor sd-button share-more'><span>Mehr</span></a></li><l
+ i class='share-end'></li></ul><div class='sharing-hidden'><div class='inne
+ r' style='display: none\;'><ul><li class='share-pinterest'><div class='pin
+ terest_button'><a href='//www.pinterest.com/pin/create/button/?url=http%3A
+ %2F%2Fwww.sebastianus-und-afra-koeln.de%2F&media=http%3A%2F%2Fwww.sebastia
+ nus-und-afra-koeln.de%2Fwp-content%2Fuploads%2F2013%2F11%2FQRCode_NewBlack
+ _490x100-300x61.png&description=Willkommen' data-pin-do='buttonPin' data-p
+ in-config='beside'><img src='//assets.pinterest.com/images/pidgets/pinit_f
+ g_en_rect_gray_20.png' /></a></div></li><li class='share-pocket'><div clas
+ s='pocket_button'><a href='https://getpocket.com/save' class='pocket-btn' 
+ data-lang='en' data-save-url='http://www.sebastianus-und-afra-koeln.de/' d
+ ata-pocket-count='horizontal' >Pocket</a></div></li><li class='share-end'>
+ </li><li class='share-reddit'><div class='reddit_button'><iframe src='http
+ ://www.reddit.com/static/button/button1.html?newwindow=true&width=120&url=
+ http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2F&title=Willkommen' height
+ ='22' width='120' scrolling='no' frameborder='0'></iframe></div></li><li c
+ lass='share-linkedin'><div class='linkedin_button'><script type='in/share'
+  data-url='http://www.sebastianus-und-afra-koeln.de/' data-counter='right'
+ ></script></div></li><li class='share-end'></li><li class='share-tumblr'><
+ a target='_blank' href='http://www.tumblr.com/share/link/?url=http%3A%2F%2
+ Fwww.sebastianus-und-afra-koeln.de%2F&name=Willkommen' title='Auf Tumblr t
+ eilen' style='display:inline-block\; text-indent:-9999px\; overflow:hidden
+ \; width:62px\; height:20px\; background:url('//platform.tumblr.com/v1/sha
+ re_2.png') top left no-repeat transparent\;'>Auf Tumblr teilen</a></li><li
+  class='share-print'><a rel='nofollow' data-shared='' class='share-print s
+ d-button' href='http://www.sebastianus-und-afra-koeln.de/#print' target='_
+ blank' title='Klicken zum Ausdrucken'><span>Drucken</span></a></li><li cla
+ ss='share-end'></li><li class='share-email'><a rel='nofollow' data-shared=
+ '' class='share-email sd-button' href='http://www.sebastianus-und-afra-koe
+ ln.de/?share=email' target='_blank' title='Klicken\, um dies einem Freund 
+ per E-Mail zu senden'><span>E-Mail</span></a></li><li class='share-end'></
+ li></ul></div></div></div></div></div>
+DTSTART;VALUE=DATE:20151025
+DTEND;VALUE=DATE:20151026
+GEO:+51.000624;+5.886479
+LOCATION:Festplatz @ Sittard\, Niederlande
+SEQUENCE:0
+SUMMARY:11. Internationales Schützenverein- und Gildentreffen Sittard (NL)
+URL:http://www.sebastianus-und-afra-koeln.de/event/internationales-schuetze
+ nverein-gildentreffen-sittard/
+X-COST:0\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-773@www.sebastianus-und-afra-koeln.de
+DTSTAMP:20150920T002327Z
+CATEGORIES;LANGUAGE=de-DE:Ball\,Event mit Beteiligung
+CONTACT:
+DESCRIPTION:<p>Liebe Schützenbrüder und Schützenschwestern\, liebe Freun
+ de unseres Vereins.<br />\nWir möchten Euch hiermit herzlich zum diesjähri
+ gen Königsschießen und den Königsabend unserer<br />\nBruderschaft einlade
+ n.</p>\n<p>Das Königsschießen findet am Samstag\, den 05.09.2015<span clas
+ s='text_exposed_show'><br />\nab 14.00 Uhr im Schützenstand der Deutzer S
+ chützen\, Reitweg (KVB-H Deutz Fachhochschule\, Li. 1\, 9\, 153) statt.</
+ span></p>\n<div class='text_exposed_show'>\n<p>Ausgeschossen werden dort d
+ er neue Schützenkönig\, der neue Jungschützenkönig (nur Mitglieder) und de
+ r Rainbowking/die Rainbowqueen (nicht-Mitglieder).</p>\n<p>———————————————
+ ——————————————-</p>\n<p>Am Samstag\, den 26.09.2015 findet zu Beginn unser
+ es Königsabends ab 17:00 Uhr in der Kirche<br />\nSt. Petrus Canisius in K
+ öln Buchforst (Voltastr.) die Krönungsmesse statt. Wir bitten alle befreun
+ deten Bruderschaften mit ihren Fahnen daran teil zu nehmen um dem Ganzen e
+ inen<br />\nwürdevollen Rahmen zu geben.<br />\nAnschließend findet der K
+ önigsabend ab 19:00 Uhr im Schützenheim der St. Hubertus Schützengilde K
+ öln-Buchheim (KVB-H Buchheim\, Li. 3\, 13\, 18\, 159) statt.</p>\n<p>Ausfü
+ hrliche Einladungen sind bereits per Post und per E-Mail an alle Brudersch
+ aften\, Mitglieder und Freunde versendet worden.</p>\n<p>Trotz eines limit
+ ierten Raumangebots in beiden Örtlichkeiten\, hoffen wir auf zahlreiche Te
+ ilnahme.</p>\n<p> </p>\n</div>\n<div class='sharedaddy sd-sharing-enabled'
+ ><div class='robots-nocontent sd-block sd-social sd-social-official sd-sha
+ ring'><div class='sd-content'><ul><li class='share-facebook'><div class='f
+ b-share-button' data-href='http://www.sebastianus-und-afra-koeln.de/' data
+ -layout='button_count'></div></li><li class='share-google-plus-1'><div cla
+ ss='googleplus1_button'><div class='g-plus' data-action='share' data-annot
+ ation='bubble' data-href='http://www.sebastianus-und-afra-koeln.de/'></div
+ ></div></li><li class='share-twitter'><div class='twitter_button'><iframe 
+ allowtransparency='true' frameborder='0' scrolling='no' src='http://platfo
+ rm.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.sebastianus-
+ und-afra-koeln.de%2F&counturl=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.
+ de%2F&count=horizontal&text=Willkommen%3A' style='width:101px\; height:20p
+ x\;'></iframe></div></li><li><a href='#' class='sharing-anchor sd-button s
+ hare-more'><span>Mehr</span></a></li><li class='share-end'></li></ul><div 
+ class='sharing-hidden'><div class='inner' style='display: none\;'><ul><li 
+ class='share-pinterest'><div class='pinterest_button'><a href='//www.pinte
+ rest.com/pin/create/button/?url=http%3A%2F%2Fwww.sebastianus-und-afra-koel
+ n.de%2F&media=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2Fwp-content%
+ 2Fuploads%2F2013%2F11%2FQRCode_NewBlack_490x100-300x61.png&description=Wil
+ lkommen' data-pin-do='buttonPin' data-pin-config='beside'><img src='//asse
+ ts.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png' /></a></div>
+ </li><li class='share-pocket'><div class='pocket_button'><a href='https://
+ getpocket.com/save' class='pocket-btn' data-lang='en' data-save-url='http:
+ //www.sebastianus-und-afra-koeln.de/' data-pocket-count='horizontal' >Pock
+ et</a></div></li><li class='share-end'></li><li class='share-reddit'><div 
+ class='reddit_button'><iframe src='http://www.reddit.com/static/button/but
+ ton1.html?newwindow=true&width=120&url=http%3A%2F%2Fwww.sebastianus-und-af
+ ra-koeln.de%2F&title=Willkommen' height='22' width='120' scrolling='no' fr
+ ameborder='0'></iframe></div></li><li class='share-linkedin'><div class='l
+ inkedin_button'><script type='in/share' data-url='http://www.sebastianus-u
+ nd-afra-koeln.de/' data-counter='right'></script></div></li><li class='sha
+ re-end'></li><li class='share-tumblr'><a target='_blank' href='http://www.
+ tumblr.com/share/link/?url=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%
+ 2F&name=Willkommen' title='Auf Tumblr teilen' style='display:inline-block\
+ ; text-indent:-9999px\; overflow:hidden\; width:62px\; height:20px\; backg
+ round:url('//platform.tumblr.com/v1/share_2.png') top left no-repeat trans
+ parent\;'>Auf Tumblr teilen</a></li><li class='share-print'><a rel='nofoll
+ ow' data-shared='' class='share-print sd-button' href='http://www.sebastia
+ nus-und-afra-koeln.de/#print' target='_blank' title='Klicken zum Ausdrucke
+ n'><span>Drucken</span></a></li><li class='share-end'></li><li class='shar
+ e-email'><a rel='nofollow' data-shared='' class='share-email sd-button' hr
+ ef='http://www.sebastianus-und-afra-koeln.de/?share=email' target='_blank'
+  title='Klicken\, um dies einem Freund per E-Mail zu senden'><span>E-Mail<
+ /span></a></li><li class='share-end'></li></ul></div></div></div></div></d
+ iv>
+DTSTART;TZID=Europe/Berlin:20150926T170000
+DTEND;TZID=Europe/Berlin:20150926T230000
+SEQUENCE:0
+SUMMARY:Krönungsfeier
+URL:http://www.sebastianus-und-afra-koeln.de/event/kroenungsfeier/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1032@www.sebastianus-und-afra-koeln.de
+DTSTAMP:20150920T002327Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Liebe Interessierte\, Freunde und Mitglieder\,<br />\nam 04.
+ 10.2015 findet unser 3. <span style='color: #333333\; font-style: normal\;
+  line-height: 24.375px\;'>„Schützen-Käffchen“ statt.</p>\n<p></span>Wo?<br
+  />\nAb 15:00 Uhr im Barcelón\, Pipinstr. 3 in Köln statt  >>  <a href='ht
+ tp://bit.ly/1eXNwVt' target='_blank'>Karte<br />\n</a>(erreichbar mit der 
+ KVB-Haltestelle Heumark\, Li 1\, 5\, 7\, 9\, 106\, 132\, 978).</p>\n<p>Wir
+  möchten für Interessierte und Mitglieder damit einen traditionellen Meeti
+ ngpoint schaffen und Euch kennenlernen. Hier könnt Ihr uns Fragen stellen\
+ , einfach nur mit uns quatschen oder einfach einen Kaffee mit uns trinken 
+ und mit uns Kuchen schlemmen.</p>\n<p>Kommt doch einfach mal vorbei\, wir 
+ würden uns freuen euch zu sehen!</p>\n<div class='sharedaddy sd-sharing-en
+ abled'><div class='robots-nocontent sd-block sd-social sd-social-official 
+ sd-sharing'><div class='sd-content'><ul><li class='share-facebook'><div cl
+ ass='fb-share-button' data-href='http://www.sebastianus-und-afra-koeln.de/
+ ' data-layout='button_count'></div></li><li class='share-google-plus-1'><d
+ iv class='googleplus1_button'><div class='g-plus' data-action='share' data
+ -annotation='bubble' data-href='http://www.sebastianus-und-afra-koeln.de/'
+ ></div></div></li><li class='share-twitter'><div class='twitter_button'><i
+ frame allowtransparency='true' frameborder='0' scrolling='no' src='http://
+ platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.sebast
+ ianus-und-afra-koeln.de%2F&counturl=http%3A%2F%2Fwww.sebastianus-und-afra-
+ koeln.de%2F&count=horizontal&text=Willkommen%3A' style='width:101px\; heig
+ ht:20px\;'></iframe></div></li><li><a href='#' class='sharing-anchor sd-bu
+ tton share-more'><span>Mehr</span></a></li><li class='share-end'></li></ul
+ ><div class='sharing-hidden'><div class='inner' style='display: none\;'><u
+ l><li class='share-pinterest'><div class='pinterest_button'><a href='//www
+ .pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.sebastianus-und-afr
+ a-koeln.de%2F&media=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2Fwp-co
+ ntent%2Fuploads%2F2013%2F11%2FQRCode_NewBlack_490x100-300x61.png&descripti
+ on=Willkommen' data-pin-do='buttonPin' data-pin-config='beside'><img src='
+ //assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png' /></a>
+ </div></li><li class='share-pocket'><div class='pocket_button'><a href='ht
+ tps://getpocket.com/save' class='pocket-btn' data-lang='en' data-save-url=
+ 'http://www.sebastianus-und-afra-koeln.de/' data-pocket-count='horizontal'
+  >Pocket</a></div></li><li class='share-end'></li><li class='share-reddit'
+ ><div class='reddit_button'><iframe src='http://www.reddit.com/static/butt
+ on/button1.html?newwindow=true&width=120&url=http%3A%2F%2Fwww.sebastianus-
+ und-afra-koeln.de%2F&title=Willkommen' height='22' width='120' scrolling='
+ no' frameborder='0'></iframe></div></li><li class='share-linkedin'><div cl
+ ass='linkedin_button'><script type='in/share' data-url='http://www.sebasti
+ anus-und-afra-koeln.de/' data-counter='right'></script></div></li><li clas
+ s='share-end'></li><li class='share-tumblr'><a target='_blank' href='http:
+ //www.tumblr.com/share/link/?url=http%3A%2F%2Fwww.sebastianus-und-afra-koe
+ ln.de%2F&name=Willkommen' title='Auf Tumblr teilen' style='display:inline-
+ block\; text-indent:-9999px\; overflow:hidden\; width:62px\; height:20px\;
+  background:url('//platform.tumblr.com/v1/share_2.png') top left no-repeat
+  transparent\;'>Auf Tumblr teilen</a></li><li class='share-print'><a rel='
+ nofollow' data-shared='' class='share-print sd-button' href='http://www.se
+ bastianus-und-afra-koeln.de/#print' target='_blank' title='Klicken zum Aus
+ drucken'><span>Drucken</span></a></li><li class='share-end'></li><li class
+ ='share-email'><a rel='nofollow' data-shared='' class='share-email sd-butt
+ on' href='http://www.sebastianus-und-afra-koeln.de/?share=email' target='_
+ blank' title='Klicken\, um dies einem Freund per E-Mail zu senden'><span>E
+ -Mail</span></a></li><li class='share-end'></li></ul></div></div></div></d
+ iv></div>
+DTSTART;TZID=Europe/Berlin:20151004T150000
+DTEND;TZID=Europe/Berlin:20151004T180000
+SEQUENCE:0
+SUMMARY:3. offizielles Schützenkäffchen
+URL:http://www.sebastianus-und-afra-koeln.de/event/3-offizielles-schuetzenk
+ aeffchen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-700@www.sebastianus-und-afra-koeln.de
+DTSTAMP:20150920T002327Z
+CATEGORIES;LANGUAGE=de-DE:Event mit Beteiligung\,Königsschießen
+CONTACT:
+DESCRIPTION:<p>Das Stadtkönigsschießen findet wie auch in den letzten Jahre
+ n am Sonntag\, 18.10.2014 ab 9.00 Uhr auf dem Schießstand der Sankt Sebast
+ ianus Schützenbruderschaft Köln – Flittard statt. Wir würden uns über eine
+  zahlreiche Beteiligung sehr freuen.</p>\n<p><a title='Infos von der Websi
+ te des Stadtverbands Köln' href='http://www.stadtverbandkoeln.de/Stadtkoen
+ igsschiessen.htm' target='_blank'>http://www.stadtverbandkoeln.de/Stadtkoe
+ nigsschiessen.htm</a></p>\n<div class='sharedaddy sd-sharing-enabled'><div
+  class='robots-nocontent sd-block sd-social sd-social-official sd-sharing'
+ ><div class='sd-content'><ul><li class='share-facebook'><div class='fb-sha
+ re-button' data-href='http://www.sebastianus-und-afra-koeln.de/' data-layo
+ ut='button_count'></div></li><li class='share-google-plus-1'><div class='g
+ oogleplus1_button'><div class='g-plus' data-action='share' data-annotation
+ ='bubble' data-href='http://www.sebastianus-und-afra-koeln.de/'></div></di
+ v></li><li class='share-twitter'><div class='twitter_button'><iframe allow
+ transparency='true' frameborder='0' scrolling='no' src='http://platform.tw
+ itter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.sebastianus-und-a
+ fra-koeln.de%2F&counturl=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2F
+ &count=horizontal&text=Willkommen%3A' style='width:101px\; height:20px\;'>
+ </iframe></div></li><li><a href='#' class='sharing-anchor sd-button share-
+ more'><span>Mehr</span></a></li><li class='share-end'></li></ul><div class
+ ='sharing-hidden'><div class='inner' style='display: none\;'><ul><li class
+ ='share-pinterest'><div class='pinterest_button'><a href='//www.pinterest.
+ com/pin/create/button/?url=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%
+ 2F&media=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2Fwp-content%2Fupl
+ oads%2F2013%2F11%2FQRCode_NewBlack_490x100-300x61.png&description=Willkomm
+ en' data-pin-do='buttonPin' data-pin-config='beside'><img src='//assets.pi
+ nterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png' /></a></div></li>
+ <li class='share-pocket'><div class='pocket_button'><a href='https://getpo
+ cket.com/save' class='pocket-btn' data-lang='en' data-save-url='http://www
+ .sebastianus-und-afra-koeln.de/' data-pocket-count='horizontal' >Pocket</a
+ ></div></li><li class='share-end'></li><li class='share-reddit'><div class
+ ='reddit_button'><iframe src='http://www.reddit.com/static/button/button1.
+ html?newwindow=true&width=120&url=http%3A%2F%2Fwww.sebastianus-und-afra-ko
+ eln.de%2F&title=Willkommen' height='22' width='120' scrolling='no' framebo
+ rder='0'></iframe></div></li><li class='share-linkedin'><div class='linked
+ in_button'><script type='in/share' data-url='http://www.sebastianus-und-af
+ ra-koeln.de/' data-counter='right'></script></div></li><li class='share-en
+ d'></li><li class='share-tumblr'><a target='_blank' href='http://www.tumbl
+ r.com/share/link/?url=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2F&na
+ me=Willkommen' title='Auf Tumblr teilen' style='display:inline-block\; tex
+ t-indent:-9999px\; overflow:hidden\; width:62px\; height:20px\; background
+ :url('//platform.tumblr.com/v1/share_2.png') top left no-repeat transparen
+ t\;'>Auf Tumblr teilen</a></li><li class='share-print'><a rel='nofollow' d
+ ata-shared='' class='share-print sd-button' href='http://www.sebastianus-u
+ nd-afra-koeln.de/#print' target='_blank' title='Klicken zum Ausdrucken'><s
+ pan>Drucken</span></a></li><li class='share-end'></li><li class='share-ema
+ il'><a rel='nofollow' data-shared='' class='share-email sd-button' href='h
+ ttp://www.sebastianus-und-afra-koeln.de/?share=email' target='_blank' titl
+ e='Klicken\, um dies einem Freund per E-Mail zu senden'><span>E-Mail</span
+ ></a></li><li class='share-end'></li></ul></div></div></div></div></div>
+DTSTART;TZID=Europe/Berlin:20151018T090000
+DTEND;TZID=Europe/Berlin:20151018T180000
+SEQUENCE:0
+SUMMARY:Stadtkönigsschießen Köln
+URL:http://www.sebastianus-und-afra-koeln.de/event/stadtkoenigsschiessen-ko
+ eln/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-702@www.sebastianus-und-afra-koeln.de
+DTSTAMP:20150920T002327Z
+CATEGORIES;LANGUAGE=de-DE:Ball\,Event mit Beteiligung
+CONTACT:
+DESCRIPTION:<p>Stadtkrönungsball</p>\n<p>Der Stadtkrönungsball findet wie i
+ m letzten Jahr am Samstag\, 24.10.2014\, Einlass 18.30 Uhr\, Beginn 19.30 
+ Uhr im Festsaal des Odemshof in Köln – Lövenich statt.</p>\n<p>Weiter ist 
+ wieder ein Kirchgang um 18.30 Uhr und ein Überraschungsauftritt nach der K
+ rönung geplant. Der Einlass ist wieder kostenlos.</p>\n<p><a title='Inform
+ ationen auf der Website des Stadtverbands Kölner Schützen' href='http://ww
+ w.stadtverbandkoeln.de/Stadtkoenigsball.htm' target='_blank'>http://www.st
+ adtverbandkoeln.de/Stadtkoenigsball.htm</a></p>\n<div class='sharedaddy sd
+ -sharing-enabled'><div class='robots-nocontent sd-block sd-social sd-socia
+ l-official sd-sharing'><div class='sd-content'><ul><li class='share-facebo
+ ok'><div class='fb-share-button' data-href='http://www.sebastianus-und-afr
+ a-koeln.de/' data-layout='button_count'></div></li><li class='share-google
+ -plus-1'><div class='googleplus1_button'><div class='g-plus' data-action='
+ share' data-annotation='bubble' data-href='http://www.sebastianus-und-afra
+ -koeln.de/'></div></div></li><li class='share-twitter'><div class='twitter
+ _button'><iframe allowtransparency='true' frameborder='0' scrolling='no' s
+ rc='http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2
+ Fwww.sebastianus-und-afra-koeln.de%2F&counturl=http%3A%2F%2Fwww.sebastianu
+ s-und-afra-koeln.de%2F&count=horizontal&text=Willkommen%3A' style='width:1
+ 01px\; height:20px\;'></iframe></div></li><li><a href='#' class='sharing-a
+ nchor sd-button share-more'><span>Mehr</span></a></li><li class='share-end
+ '></li></ul><div class='sharing-hidden'><div class='inner' style='display:
+  none\;'><ul><li class='share-pinterest'><div class='pinterest_button'><a 
+ href='//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.sebastia
+ nus-und-afra-koeln.de%2F&media=http%3A%2F%2Fwww.sebastianus-und-afra-koeln
+ .de%2Fwp-content%2Fuploads%2F2013%2F11%2FQRCode_NewBlack_490x100-300x61.pn
+ g&description=Willkommen' data-pin-do='buttonPin' data-pin-config='beside'
+ ><img src='//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.
+ png' /></a></div></li><li class='share-pocket'><div class='pocket_button'>
+ <a href='https://getpocket.com/save' class='pocket-btn' data-lang='en' dat
+ a-save-url='http://www.sebastianus-und-afra-koeln.de/' data-pocket-count='
+ horizontal' >Pocket</a></div></li><li class='share-end'></li><li class='sh
+ are-reddit'><div class='reddit_button'><iframe src='http://www.reddit.com/
+ static/button/button1.html?newwindow=true&width=120&url=http%3A%2F%2Fwww.s
+ ebastianus-und-afra-koeln.de%2F&title=Willkommen' height='22' width='120' 
+ scrolling='no' frameborder='0'></iframe></div></li><li class='share-linked
+ in'><div class='linkedin_button'><script type='in/share' data-url='http://
+ www.sebastianus-und-afra-koeln.de/' data-counter='right'></script></div></
+ li><li class='share-end'></li><li class='share-tumblr'><a target='_blank' 
+ href='http://www.tumblr.com/share/link/?url=http%3A%2F%2Fwww.sebastianus-u
+ nd-afra-koeln.de%2F&name=Willkommen' title='Auf Tumblr teilen' style='disp
+ lay:inline-block\; text-indent:-9999px\; overflow:hidden\; width:62px\; he
+ ight:20px\; background:url('//platform.tumblr.com/v1/share_2.png') top lef
+ t no-repeat transparent\;'>Auf Tumblr teilen</a></li><li class='share-prin
+ t'><a rel='nofollow' data-shared='' class='share-print sd-button' href='ht
+ tp://www.sebastianus-und-afra-koeln.de/#print' target='_blank' title='Klic
+ ken zum Ausdrucken'><span>Drucken</span></a></li><li class='share-end'></l
+ i><li class='share-email'><a rel='nofollow' data-shared='' class='share-em
+ ail sd-button' href='http://www.sebastianus-und-afra-koeln.de/?share=email
+ ' target='_blank' title='Klicken\, um dies einem Freund per E-Mail zu send
+ en'><span>E-Mail</span></a></li><li class='share-end'></li></ul></div></di
+ v></div></div></div>
+DTSTART;TZID=Europe/Berlin:20151024T180000
+DTEND;TZID=Europe/Berlin:20151024T230000
+SEQUENCE:0
+SUMMARY:Stadtkrönungsball Köln
+URL:http://www.sebastianus-und-afra-koeln.de/event/stadtkroenungsball_koeln
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-774@www.sebastianus-und-afra-koeln.de
+DTSTAMP:20150920T002327Z
+CATEGORIES;LANGUAGE=de-DE:Mitgliederversammlung
+CONTACT:
+DESCRIPTION:<p>Liebe Mitglieder und Freunde\,</p>\n<p>am 01.11.2015 laden w
+ ir Euch herzlich zu unserer 2. Mitgliederversammlung 2015 ein.<br />\nZusa
+ mmen mit dem 4. Schützenkäffchen findet sie ab 15:00 Uhr im Barcelón\, Pip
+ instr. 3 in Köln statt  >>  <a href='http://bit.ly/1eXNwVt' target='_blank
+ '>Karte<br />\n</a>(erreichbar mit der KVB-Haltestelle Heumark\, Li 1\, 5\
+ , 7\, 9\, 106\, 132\, 978).</p>\n<p>Das Programm der Mitgliederversammlung
+  wird noch bekanntgegeben.</p>\n<div class='sharedaddy sd-sharing-enabled'
+ ><div class='robots-nocontent sd-block sd-social sd-social-official sd-sha
+ ring'><div class='sd-content'><ul><li class='share-facebook'><div class='f
+ b-share-button' data-href='http://www.sebastianus-und-afra-koeln.de/' data
+ -layout='button_count'></div></li><li class='share-google-plus-1'><div cla
+ ss='googleplus1_button'><div class='g-plus' data-action='share' data-annot
+ ation='bubble' data-href='http://www.sebastianus-und-afra-koeln.de/'></div
+ ></div></li><li class='share-twitter'><div class='twitter_button'><iframe 
+ allowtransparency='true' frameborder='0' scrolling='no' src='http://platfo
+ rm.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.sebastianus-
+ und-afra-koeln.de%2F&counturl=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.
+ de%2F&count=horizontal&text=Willkommen%3A' style='width:101px\; height:20p
+ x\;'></iframe></div></li><li><a href='#' class='sharing-anchor sd-button s
+ hare-more'><span>Mehr</span></a></li><li class='share-end'></li></ul><div 
+ class='sharing-hidden'><div class='inner' style='display: none\;'><ul><li 
+ class='share-pinterest'><div class='pinterest_button'><a href='//www.pinte
+ rest.com/pin/create/button/?url=http%3A%2F%2Fwww.sebastianus-und-afra-koel
+ n.de%2F&media=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2Fwp-content%
+ 2Fuploads%2F2013%2F11%2FQRCode_NewBlack_490x100-300x61.png&description=Wil
+ lkommen' data-pin-do='buttonPin' data-pin-config='beside'><img src='//asse
+ ts.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png' /></a></div>
+ </li><li class='share-pocket'><div class='pocket_button'><a href='https://
+ getpocket.com/save' class='pocket-btn' data-lang='en' data-save-url='http:
+ //www.sebastianus-und-afra-koeln.de/' data-pocket-count='horizontal' >Pock
+ et</a></div></li><li class='share-end'></li><li class='share-reddit'><div 
+ class='reddit_button'><iframe src='http://www.reddit.com/static/button/but
+ ton1.html?newwindow=true&width=120&url=http%3A%2F%2Fwww.sebastianus-und-af
+ ra-koeln.de%2F&title=Willkommen' height='22' width='120' scrolling='no' fr
+ ameborder='0'></iframe></div></li><li class='share-linkedin'><div class='l
+ inkedin_button'><script type='in/share' data-url='http://www.sebastianus-u
+ nd-afra-koeln.de/' data-counter='right'></script></div></li><li class='sha
+ re-end'></li><li class='share-tumblr'><a target='_blank' href='http://www.
+ tumblr.com/share/link/?url=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%
+ 2F&name=Willkommen' title='Auf Tumblr teilen' style='display:inline-block\
+ ; text-indent:-9999px\; overflow:hidden\; width:62px\; height:20px\; backg
+ round:url('//platform.tumblr.com/v1/share_2.png') top left no-repeat trans
+ parent\;'>Auf Tumblr teilen</a></li><li class='share-print'><a rel='nofoll
+ ow' data-shared='' class='share-print sd-button' href='http://www.sebastia
+ nus-und-afra-koeln.de/#print' target='_blank' title='Klicken zum Ausdrucke
+ n'><span>Drucken</span></a></li><li class='share-end'></li><li class='shar
+ e-email'><a rel='nofollow' data-shared='' class='share-email sd-button' hr
+ ef='http://www.sebastianus-und-afra-koeln.de/?share=email' target='_blank'
+  title='Klicken\, um dies einem Freund per E-Mail zu senden'><span>E-Mail<
+ /span></a></li><li class='share-end'></li></ul></div></div></div></div></d
+ iv>
+DTSTART;TZID=Europe/Berlin:20151101T150000
+DTEND;TZID=Europe/Berlin:20151101T200000
+SEQUENCE:0
+SUMMARY:Ordentliche Mitgliederversammlung mit dem 4. Schützenkäffchen
+URL:http://www.sebastianus-und-afra-koeln.de/event/mitgliederversammlung/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1035@www.sebastianus-und-afra-koeln.de
+DTSTAMP:20150920T002327Z
+CATEGORIES;LANGUAGE=de-DE:Event mit Beteiligung
+CONTACT:
+DESCRIPTION:<p>Infos folgen…</p>\n<div class='sharedaddy sd-sharing-enabled
+ '><div class='robots-nocontent sd-block sd-social sd-social-official sd-sh
+ aring'><div class='sd-content'><ul><li class='share-facebook'><div class='
+ fb-share-button' data-href='http://www.sebastianus-und-afra-koeln.de/' dat
+ a-layout='button_count'></div></li><li class='share-google-plus-1'><div cl
+ ass='googleplus1_button'><div class='g-plus' data-action='share' data-anno
+ tation='bubble' data-href='http://www.sebastianus-und-afra-koeln.de/'></di
+ v></div></li><li class='share-twitter'><div class='twitter_button'><iframe
+  allowtransparency='true' frameborder='0' scrolling='no' src='http://platf
+ orm.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.sebastianus
+ -und-afra-koeln.de%2F&counturl=http%3A%2F%2Fwww.sebastianus-und-afra-koeln
+ .de%2F&count=horizontal&text=Willkommen%3A' style='width:101px\; height:20
+ px\;'></iframe></div></li><li><a href='#' class='sharing-anchor sd-button 
+ share-more'><span>Mehr</span></a></li><li class='share-end'></li></ul><div
+  class='sharing-hidden'><div class='inner' style='display: none\;'><ul><li
+  class='share-pinterest'><div class='pinterest_button'><a href='//www.pint
+ erest.com/pin/create/button/?url=http%3A%2F%2Fwww.sebastianus-und-afra-koe
+ ln.de%2F&media=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2Fwp-content
+ %2Fuploads%2F2013%2F11%2FQRCode_NewBlack_490x100-300x61.png&description=Wi
+ llkommen' data-pin-do='buttonPin' data-pin-config='beside'><img src='//ass
+ ets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png' /></a></div
+ ></li><li class='share-pocket'><div class='pocket_button'><a href='https:/
+ /getpocket.com/save' class='pocket-btn' data-lang='en' data-save-url='http
+ ://www.sebastianus-und-afra-koeln.de/' data-pocket-count='horizontal' >Poc
+ ket</a></div></li><li class='share-end'></li><li class='share-reddit'><div
+  class='reddit_button'><iframe src='http://www.reddit.com/static/button/bu
+ tton1.html?newwindow=true&width=120&url=http%3A%2F%2Fwww.sebastianus-und-a
+ fra-koeln.de%2F&title=Willkommen' height='22' width='120' scrolling='no' f
+ rameborder='0'></iframe></div></li><li class='share-linkedin'><div class='
+ linkedin_button'><script type='in/share' data-url='http://www.sebastianus-
+ und-afra-koeln.de/' data-counter='right'></script></div></li><li class='sh
+ are-end'></li><li class='share-tumblr'><a target='_blank' href='http://www
+ .tumblr.com/share/link/?url=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de
+ %2F&name=Willkommen' title='Auf Tumblr teilen' style='display:inline-block
+ \; text-indent:-9999px\; overflow:hidden\; width:62px\; height:20px\; back
+ ground:url('//platform.tumblr.com/v1/share_2.png') top left no-repeat tran
+ sparent\;'>Auf Tumblr teilen</a></li><li class='share-print'><a rel='nofol
+ low' data-shared='' class='share-print sd-button' href='http://www.sebasti
+ anus-und-afra-koeln.de/#print' target='_blank' title='Klicken zum Ausdruck
+ en'><span>Drucken</span></a></li><li class='share-end'></li><li class='sha
+ re-email'><a rel='nofollow' data-shared='' class='share-email sd-button' h
+ ref='http://www.sebastianus-und-afra-koeln.de/?share=email' target='_blank
+ ' title='Klicken\, um dies einem Freund per E-Mail zu senden'><span>E-Mail
+ </span></a></li><li class='share-end'></li></ul></div></div></div></div></
+ div>
+DTSTART;TZID=Europe/Berlin:20151107T103000
+DTEND;TZID=Europe/Berlin:20151107T150000
+SEQUENCE:0
+SUMMARY:Hubertusabend der Schützenbruderschaft Köln-Rondorf
+URL:http://www.sebastianus-und-afra-koeln.de/event/hubertusabend-schuetzenb
+ ruderschaft-koeln-rondorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1033@www.sebastianus-und-afra-koeln.de
+DTSTAMP:20150920T002327Z
+CATEGORIES;LANGUAGE=de-DE:Event mit Beteiligung
+CONTACT:
+DESCRIPTION:<p>Liebe Interessierte\, Freunde und Mitglieder\,<br />\nam 06.
+ 12.2015 findet unser 5. <span style='color: #333333\; font-style: normal\;
+  line-height: 24.375px\;'>„Schützen-Käffchen“ zusammen mit unserer Weihnac
+ htsfeier statt. </span></p>\n<p>Wo?<br />\nAb 15:00 Uhr im Barcelón\, Pipi
+ nstr. 3 in Köln >>  <a href='http://bit.ly/1eXNwVt' target='_blank'>Karte<
+ br />\n</a>(erreichbar mit der KVB-Haltestelle Heumark\, Li 1\, 5\, 7\, 9\
+ , 106\, 132\, 978).</p>\n<p>Wir möchten für Interessierte und Mitglieder d
+ amit einen traditionellen Meetingpoint schaffen und Euch kennenlernen. Hie
+ r könnt Ihr uns Fragen stellen\, einfach nur mit uns quatschen oder einfac
+ h einen Kaffee mit uns trinken und mit uns Kuchen schlemmen.</p>\n<p>Kommt
+  doch einfach mal vorbei\, wir würden uns freuen euch zu sehen!</p>\n<div 
+ class='sharedaddy sd-sharing-enabled'><div class='robots-nocontent sd-bloc
+ k sd-social sd-social-official sd-sharing'><div class='sd-content'><ul><li
+  class='share-facebook'><div class='fb-share-button' data-href='http://www
+ .sebastianus-und-afra-koeln.de/' data-layout='button_count'></div></li><li
+  class='share-google-plus-1'><div class='googleplus1_button'><div class='g
+ -plus' data-action='share' data-annotation='bubble' data-href='http://www.
+ sebastianus-und-afra-koeln.de/'></div></div></li><li class='share-twitter'
+ ><div class='twitter_button'><iframe allowtransparency='true' frameborder=
+ '0' scrolling='no' src='http://platform.twitter.com/widgets/tweet_button.h
+ tml?url=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2F&counturl=http%3A
+ %2F%2Fwww.sebastianus-und-afra-koeln.de%2F&count=horizontal&text=Willkomme
+ n%3A' style='width:101px\; height:20px\;'></iframe></div></li><li><a href=
+ '#' class='sharing-anchor sd-button share-more'><span>Mehr</span></a></li>
+ <li class='share-end'></li></ul><div class='sharing-hidden'><div class='in
+ ner' style='display: none\;'><ul><li class='share-pinterest'><div class='p
+ interest_button'><a href='//www.pinterest.com/pin/create/button/?url=http%
+ 3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2F&media=http%3A%2F%2Fwww.sebast
+ ianus-und-afra-koeln.de%2Fwp-content%2Fuploads%2F2013%2F11%2FQRCode_NewBla
+ ck_490x100-300x61.png&description=Willkommen' data-pin-do='buttonPin' data
+ -pin-config='beside'><img src='//assets.pinterest.com/images/pidgets/pinit
+ _fg_en_rect_gray_20.png' /></a></div></li><li class='share-pocket'><div cl
+ ass='pocket_button'><a href='https://getpocket.com/save' class='pocket-btn
+ ' data-lang='en' data-save-url='http://www.sebastianus-und-afra-koeln.de/'
+  data-pocket-count='horizontal' >Pocket</a></div></li><li class='share-end
+ '></li><li class='share-reddit'><div class='reddit_button'><iframe src='ht
+ tp://www.reddit.com/static/button/button1.html?newwindow=true&width=120&ur
+ l=http%3A%2F%2Fwww.sebastianus-und-afra-koeln.de%2F&title=Willkommen' heig
+ ht='22' width='120' scrolling='no' frameborder='0'></iframe></div></li><li
+  class='share-linkedin'><div class='linkedin_button'><script type='in/shar
+ e' data-url='http://www.sebastianus-und-afra-koeln.de/' data-counter='righ
+ t'></script></div></li><li class='share-end'></li><li class='share-tumblr'
+ ><a target='_blank' href='http://www.tumblr.com/share/link/?url=http%3A%2F
+ %2Fwww.sebastianus-und-afra-koeln.de%2F&name=Willkommen' title='Auf Tumblr
+  teilen' style='display:inline-block\; text-indent:-9999px\; overflow:hidd
+ en\; width:62px\; height:20px\; background:url('//platform.tumblr.com/v1/s
+ hare_2.png') top left no-repeat transparent\;'>Auf Tumblr teilen</a></li><
+ li class='share-print'><a rel='nofollow' data-shared='' class='share-print
+  sd-button' href='http://www.sebastianus-und-afra-koeln.de/#print' target=
+ '_blank' title='Klicken zum Ausdrucken'><span>Drucken</span></a></li><li c
+ lass='share-end'></li><li class='share-email'><a rel='nofollow' data-share
+ d='' class='share-email sd-button' href='http://www.sebastianus-und-afra-k
+ oeln.de/?share=email' target='_blank' title='Klicken\, um dies einem Freun
+ d per E-Mail zu senden'><span>E-Mail</span></a></li><li class='share-end'>
+ </li></ul></div></div></div></div></div>
+DTSTART;TZID=Europe/Berlin:20151206T150000
+DTEND;TZID=Europe/Berlin:20151206T190000
+SEQUENCE:0
+SUMMARY:5. offizielles Schützenkäffchen & Weihnachtsfeier
+URL:http://www.sebastianus-und-afra-koeln.de/event/5-offizielles-schuetzenk
+ aeffchen-weihnachtsfeier/
+END:VEVENT
+END:VCALENDAR

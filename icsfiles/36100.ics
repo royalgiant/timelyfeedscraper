@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//213.186.33.2//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://baucher.org/kangouroute
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-814@baucher.org/kangouroute
+DTSTAMP:20150920T002124Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Proinde concepta rabie saeviore\, quam desperatio incendebat
+  et fames\, amplificatis viribus ardore incohibili in excidium urbium matr
+ is Seleuciae efferebantur\, quam comes tuebatur Castricius tresque legione
+ s bellicis sudoribus induratae.</p>
+DTSTART;TZID=Europe/Paris:20150919T140000
+DTEND;TZID=Europe/Paris:20150919T164500
+RDATE;TZID=Europe/Paris:20150911T140000
+RDATE;TZID=Europe/Paris:20150919T140000
+RDATE;TZID=Europe/Paris:20150923T140000
+RDATE;TZID=Europe/Paris:20150926T140000
+SEQUENCE:0
+SUMMARY:Stage récupération de point
+URL:http://baucher.org/kangouroute/agenda/stage/
+END:VEVENT
+END:VCALENDAR

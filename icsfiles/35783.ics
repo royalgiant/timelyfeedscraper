@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.147.242.185//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.andersonscouting.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-630@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:Council Training Events
+CONTACT:Matt Kubler\; 864-233-8363 \; matt.kubler@scouting.org\; http://www
+ .blueridgecouncil.org
+DESCRIPTION:<div></div>\n<div>Look for more info at: <a href='http://www.bl
+ ueridgecouncil.org/' target='_blank'>www.blueridgecouncil.org</a></div>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+GEO:+34.801802;-82.282497
+LOCATION:Blue Ridge Council @ 1 Park Plaza\, Greenville\, SC 29607\, USA
+SEQUENCE:0
+SUMMARY:Boy Scout Leader Specific Training
+URL:http://www.andersonscouting.com/event/boy-scout-leader-specific-trainin
+ g/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-613@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:Council Event
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151103
+DTEND;VALUE=DATE:20151104
+SEQUENCE:0
+SUMMARY:Popcorn Take Order Forms Due
+URL:http://www.andersonscouting.com/event/popcorn-take-order-forms-due/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-506@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:Boy Scout Event
+CONTACT:Adam Owens\; adam@andersonscouting.com
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151113
+DTEND;VALUE=DATE:20151116
+GEO:+34.533558;-82.675696
+LOCATION:Anderson County Recycling Center (near the Civic Center) @ Woodcre
+ st Drive\, Anderson\, SC 29625\, USA
+SEQUENCE:0
+SUMMARY:Fall Camporee
+URL:http://www.andersonscouting.com/event/fall-camporee/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-507@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151127
+SEQUENCE:0
+SUMMARY:Thanksgiving
+URL:http://www.andersonscouting.com/event/thanksgiving/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-508@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+SEQUENCE:0
+SUMMARY:Christmas
+URL:http://www.andersonscouting.com/event/christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-509@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:District Event
+CONTACT:Adam Owens\; adam@andersonscouting.com
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160128
+DTEND;VALUE=DATE:20160129
+SEQUENCE:0
+SUMMARY:District Banquet
+URL:http://www.andersonscouting.com/event/district-banquet/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-510@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:Council Event
+CONTACT:Adam Owens\; adam@andersonscouting.com
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160204
+DTEND;VALUE=DATE:20160205
+SEQUENCE:0
+SUMMARY:Council Banquet
+URL:http://www.andersonscouting.com/event/council-banquet/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-511@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:Boy Scout Event
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160415
+DTEND;VALUE=DATE:20160418
+SEQUENCE:0
+SUMMARY:Spring Camporee
+URL:http://www.andersonscouting.com/event/spring-camporee/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-512@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:Cub Scout Event
+CONTACT:Ron Cromer\; ron@andersonscouting.com
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160423
+DTEND;VALUE=DATE:20160424
+SEQUENCE:0
+SUMMARY:District Race of Champions Pinewood Derby
+URL:http://www.andersonscouting.com/event/district-race-of-champions-pinewo
+ od-derby/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-514@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160704
+DTEND;VALUE=DATE:20160705
+SEQUENCE:0
+SUMMARY:Independence Day
+URL:http://www.andersonscouting.com/event/independence-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-505@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:District Event
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T190000
+DTEND;TZID=America/New_York:20150924T200000
+RRULE:FREQ=MONTHLY;BYDAY=-1TH
+SEQUENCE:0
+SUMMARY:Eagle Board of Review
+URL:http://www.andersonscouting.com/event/eagle-board-of-review/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-454@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:District Event
+CONTACT:Adam Owens\; adam@andersonscouting.com
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151001T190000
+DTEND;TZID=America/New_York:20151001T203000
+GEO:+34.530069;-82.654969
+LOCATION:LDS Church @ 412 Harden Road\, Anderson\, SC 29621\, USA
+RRULE:FREQ=MONTHLY;UNTIL=20160505T235959Z;BYDAY=1TH
+SEQUENCE:0
+SUMMARY:District Roundtable
+URL:http://www.andersonscouting.com/event/district-roundtable/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-504@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:District Event
+CONTACT:Doug Larson\; doug@andersonscouting.com
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151015T180000
+DTEND;TZID=America/New_York:20151015T200000
+GEO:+34.510931;-82.652716
+LOCATION:SunTrust/Foothills Foundation Building (2nd floor) @ 907 North Mai
+ n Street\, Anderson\, SC 29621\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+SEQUENCE:0
+SUMMARY:District Committee/ Commissioners Meeting
+URL:http://www.andersonscouting.com/event/district-committee-commissioners-
+ meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-515@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:Cub Scout Event
+CONTACT:Ron Cromer\; ron@andersonscouting.com
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151023T170000
+DTEND;TZID=America/New_York:20151025T110000
+GEO:+34.418288;-82.809299
+LOCATION:Sadlers Creek State Park (Primitive Camping Area) @ 940 Sadlers Cr
+ eek Road\, Anderson\, SC 29626\, USA
+SEQUENCE:0
+SUMMARY:Fall Family Campout
+URL:http://www.andersonscouting.com/event/fall-family-campout/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-513@www.andersonscouting.com
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=en-US:Cub Scout Event
+CONTACT:Trista Kane\; trista@andersonscouting.com
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160620T080000
+DTEND;TZID=America/New_York:20160620T163000
+GEO:+34.574048;-82.687696
+LOCATION:Darwin Wright Park @ 1020 Manse Jolly Road\, Anderson\, SC 29621\,
+  USA
+RRULE:FREQ=DAILY;UNTIL=20160624T235959Z
+SEQUENCE:0
+SUMMARY:Day Camp
+URL:http://www.andersonscouting.com/event/day-camp/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//82.165.216.56//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.sinng.org.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4229@www.sinng.org.uk
+DTSTAMP:20150920T002347Z
+CATEGORIES;LANGUAGE=en-GB:Outreach
+CONTACT:
+DESCRIPTION:<p>SINNG stand at Fresher’s Fair</p>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+GEO:+50.410549;-5.068223
+LOCATION:Cornwall College @ Cornwall College\, Newquay\, Cornwall TR7 2LZ\,
+  UK
+SEQUENCE:0
+SUMMARY:SINNG stand at Fresher’s Fair
+URL:http://www.sinng.org.uk/event/sinng-stand-at-freshers-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4230@www.sinng.org.uk
+DTSTAMP:20150920T002347Z
+CATEGORIES;LANGUAGE=en-GB:Outreach
+CONTACT:
+DESCRIPTION:<p>SINNG stand at Boscastle Festival 10am-4pm or hours to suit 
+ you</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151005
+GEO:+50.686914;-4.692832
+LOCATION:Boscastle Festival @ Boscastle\, Boscastle\, Cornwall PL35\, UK
+SEQUENCE:0
+SUMMARY:SINNG stand at Boscastle Festival
+URL:http://www.sinng.org.uk/event/sinng-stand-at-boscastle-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4231@www.sinng.org.uk
+DTSTAMP:20150920T002347Z
+CATEGORIES;LANGUAGE=en-GB:Outreach
+CONTACT:
+DESCRIPTION:<p>SINNG stand at Exotic Pet Awareness event</p>
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151008
+GEO:+50.50363;-4.652498
+LOCATION:Exotic Pet Awareness @ Cornwall\, UK
+SEQUENCE:0
+SUMMARY:SINNG stand at Exotic Pet Awareness event
+URL:http://www.sinng.org.uk/event/sinng-stand-at-exotic-pet-awareness-event
+ /
+END:VEVENT
+END:VCALENDAR

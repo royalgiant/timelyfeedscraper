@@ -1,0 +1,531 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.228.60.217//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.cbcs.org/school
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3587@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+SEQUENCE:0
+SUMMARY:End of 1st Quarter
+URL:http://www.cbcs.org/school/archives/event/end-of-1st-quarter
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3585@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151010
+SEQUENCE:0
+SUMMARY:NO SCHOOL – Teacher Convention
+URL:http://www.cbcs.org/school/archives/event/no-school-teacher-convention
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3592@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151107
+SEQUENCE:0
+SUMMARY:Around the World Program
+URL:http://www.cbcs.org/school/archives/event/around-the-world-program
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3593@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151111
+DTEND;VALUE=DATE:20151112
+SEQUENCE:0
+SUMMARY:NO SCHOOL – Veterans’ Day
+URL:http://www.cbcs.org/school/archives/event/no-school-veterans-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3594@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,No School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151123
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:NO SCHOOL – Thanksgiving Break
+URL:http://www.cbcs.org/school/archives/event/no-school-thanksgiving-break-
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3597@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,No School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151219
+DTEND;VALUE=DATE:20160104
+SEQUENCE:0
+SUMMARY:Christmas Break
+URL:http://www.cbcs.org/school/archives/event/christmas-break-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2860@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+RDATE;TZID=America/Chicago:20151225T000000
+RDATE;TZID=America/Chicago:20161225T000000
+RDATE;TZID=America/Chicago:20171225T000000
+SEQUENCE:0
+SUMMARY:Christmas
+URL:http://www.cbcs.org/school/archives/event/christmas
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3599@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160104
+DTEND;VALUE=DATE:20160105
+SEQUENCE:0
+SUMMARY:School Resumes
+URL:http://www.cbcs.org/school/archives/event/school-resumes
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3600@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160108
+DTEND;VALUE=DATE:20160109
+SEQUENCE:0
+SUMMARY:End of 2nd Quarter
+URL:http://www.cbcs.org/school/archives/event/end-of-2nd-quarter-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3601@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160119
+SEQUENCE:0
+SUMMARY:NO SCHOOL – Teacher In-Service
+URL:http://www.cbcs.org/school/archives/event/no-school-teacher-in-service-
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3602@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,No School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SEQUENCE:0
+SUMMARY:NO SCHOOL – Presidents’ Day
+URL:http://www.cbcs.org/school/archives/event/no-school-presidents-day-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3609@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160311
+DTEND;VALUE=DATE:20160312
+SEQUENCE:0
+SUMMARY:NO SCHOOL – WACS JH/SH Meet
+URL:http://www.cbcs.org/school/archives/event/no-school-wacs-jhsh-meet
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3610@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160318
+DTEND;VALUE=DATE:20160319
+SEQUENCE:0
+SUMMARY:End of 3rd Quarter
+URL:http://www.cbcs.org/school/archives/event/end-of-3rd-quarter
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3611@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160321
+DTEND;VALUE=DATE:20160326
+SEQUENCE:0
+SUMMARY:NO SCHOOL – Spring Break
+URL:http://www.cbcs.org/school/archives/event/no-school-spring-break
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3614@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160411
+DTEND;VALUE=DATE:20160416
+SEQUENCE:0
+SUMMARY:Standardized Testing
+URL:http://www.cbcs.org/school/archives/event/standardized-testing-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3619@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160429
+DTEND;VALUE=DATE:20160430
+SEQUENCE:0
+SUMMARY:NO SCHOOL – WACS Elementary Meet at CBCS
+URL:http://www.cbcs.org/school/archives/event/no-school-wacs-elementary-mee
+ t-at-cbcs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3621@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160523
+DTEND;VALUE=DATE:20160525
+SEQUENCE:0
+SUMMARY:8th Grade Trip
+URL:http://www.cbcs.org/school/archives/event/8th-grade-trip
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3655@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150922T163000
+DTEND;TZID=America/Chicago:20150922T173000
+SEQUENCE:0
+SUMMARY:Home Volleyball vs. Prairie Hill
+URL:http://www.cbcs.org/school/archives/event/away-volleyball-prairie-hill
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3657@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150924T163000
+DTEND;TZID=America/Chicago:20150924T173000
+SEQUENCE:0
+SUMMARY:Away Volleyball @ Brookfield
+URL:http://www.cbcs.org/school/archives/event/away-volleyball-brookfield
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3658@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151001T163000
+DTEND;TZID=America/Chicago:20151001T173000
+SEQUENCE:0
+SUMMARY:Home Volleyball vs. SPOC
+URL:http://www.cbcs.org/school/archives/event/home-volleyball-vs-spoc
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3700@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151013T163000
+DTEND;TZID=America/Chicago:20151013T183000
+GEO:+43.049572;-88.291609
+LOCATION:Prairie Hill Waldorf School @ Silvernail Rd\, Pewaukee\, WI\, USA
+SEQUENCE:0
+SUMMARY:Volleyball Game – Away @ Prairie Hill Waldorf
+URL:http://www.cbcs.org/school/archives/event/volleyball-game-away-prairie-
+ hill-waldorf
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3701@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151015T163000
+DTEND;TZID=America/Chicago:20151015T183000
+SEQUENCE:0
+SUMMARY:Volleyball HOME vs. Utica Christian School
+URL:http://www.cbcs.org/school/archives/event/volleyball-home-vs-utica-chri
+ stian-school
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3702@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151020T161500
+DTEND;TZID=America/Chicago:20151020T181500
+GEO:+42.981087;-88.091437
+LOCATION:Heritage Christian School @ 3500 S Glen Park Rd\, New Berlin\, WI 
+ 53151\, USA
+SEQUENCE:0
+SUMMARY:Volleyball Away @ Heritage Christian
+URL:http://www.cbcs.org/school/archives/event/volleyball-away-heritage-chri
+ stian
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3586@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151021T090000
+DTEND;TZID=America/Chicago:20151021T110000
+SEQUENCE:0
+SUMMARY:Picture Re-Take Day
+URL:http://www.cbcs.org/school/archives/event/picture-re-take-day
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3588@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151030T114500
+DTEND;TZID=America/Chicago:20151030T124500
+SEQUENCE:0
+SUMMARY:Early Dismissal
+URL:http://www.cbcs.org/school/archives/event/early-dismissal-7
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3589@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151030T130000
+DTEND;TZID=America/Chicago:20151030T190000
+SEQUENCE:0
+SUMMARY:Parent-Teacher Conferences
+URL:http://www.cbcs.org/school/archives/event/parent-teacher-conferences-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3595@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Fine Arts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151213T153000
+DTEND;TZID=America/Chicago:20151213T163000
+SEQUENCE:0
+SUMMARY:Christmas Program
+URL:http://www.cbcs.org/school/archives/event/christmas-program-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3596@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151218T114500
+DTEND;TZID=America/Chicago:20151218T124500
+SEQUENCE:0
+SUMMARY:Early Dismissmal
+URL:http://www.cbcs.org/school/archives/event/early-dismissmal
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3705@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:Fine Arts
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160211T130000
+DTEND;TZID=America/Chicago:20160211T140000
+SEQUENCE:0
+SUMMARY:Classical Kids Concert at CBC
+URL:http://www.cbcs.org/school/archives/event/classical-kids-concert-at-cbc
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3603@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160219T083000
+DTEND;TZID=America/Chicago:20160219T100000
+SEQUENCE:0
+SUMMARY:Kindergarten Open House
+URL:http://www.cbcs.org/school/archives/event/kindergarten-open-house-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3604@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160226T114500
+DTEND;TZID=America/Chicago:20160226T124500
+SEQUENCE:0
+SUMMARY:Early Dismissal
+URL:http://www.cbcs.org/school/archives/event/early-dismissal-8
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3605@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160226T130000
+DTEND;TZID=America/Chicago:20160226T170000
+SEQUENCE:0
+SUMMARY:Parent-Teacher Conferences
+URL:http://www.cbcs.org/school/archives/event/parent-teacher-conferences-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3606@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160310T114500
+DTEND;TZID=America/Chicago:20160310T124500
+SEQUENCE:0
+SUMMARY:Early Dismissal
+URL:http://www.cbcs.org/school/archives/event/early-dismissal-9
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3612@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160401T090000
+DTEND;TZID=America/Chicago:20160401T110000
+SEQUENCE:0
+SUMMARY:Spring Pictures
+URL:http://www.cbcs.org/school/archives/event/spring-pictures
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3616@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160415T114500
+DTEND;TZID=America/Chicago:20160415T143000
+SEQUENCE:0
+SUMMARY:Grandparents Day
+URL:http://www.cbcs.org/school/archives/event/grandparents-day-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3617@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160428T114500
+DTEND;TZID=America/Chicago:20160428T124500
+SEQUENCE:0
+SUMMARY:Early Dismissal – WACS Prep
+URL:http://www.cbcs.org/school/archives/event/early-dismissal-wacs-prep
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3620@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160519T190000
+DTEND;TZID=America/Chicago:20160519T200000
+SEQUENCE:0
+SUMMARY:Kindergarten Graduation
+URL:http://www.cbcs.org/school/archives/event/kindergarten-graduation-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3624@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160526T020900
+DTEND;TZID=America/Chicago:20160526T030900
+SEQUENCE:0
+SUMMARY:End of 4th Quarter
+URL:http://www.cbcs.org/school/archives/event/end-of-4th-quarter
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3622@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES;LANGUAGE=en-US:No School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160526T114500
+DTEND;TZID=America/Chicago:20160526T124500
+SEQUENCE:0
+SUMMARY:Early Dismissal
+URL:http://www.cbcs.org/school/archives/event/early-dismissal-10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3623@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160526T190000
+DTEND;TZID=America/Chicago:20160526T200000
+SEQUENCE:0
+SUMMARY:8th Grade Graduation
+URL:http://www.cbcs.org/school/archives/event/8th-grade-graduation-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3626@www.cbcs.org/school
+DTSTAMP:20150920T003047Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160527T083000
+DTEND;TZID=America/Chicago:20160527T114500
+SEQUENCE:0
+SUMMARY:Field Day – Early Dismissal
+URL:http://www.cbcs.org/school/archives/event/field-day-early-dismissal
+END:VEVENT
+END:VCALENDAR

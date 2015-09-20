@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//23.229.214.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.shoplocalmovement.org/
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1191@www.shoplocalmovement.org
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en:Community Events\,Farmers and Food Markets\,Free Eve
+ nts\,Outdoor Activities
+CONTACT:
+DESCRIPTION:<p><a href='http://www.shoplocalmovement.org/wp-content/uploads
+ /2015/05/farmers-market.jpg'><img class='alignleft  wp-image-1164' src='ht
+ tp://www.shoplocalmovement.org/wp-content/uploads/2015/05/farmers-market.j
+ pg' alt='farmers market' width='484' height='352' /></a>Every Saturday in 
+ the Homewood Village Hall parking lot enjoy the fruits (literally) of your
+  local growers’ labor with fresh locally-grown produce\, gourmet and artis
+ an vendors\, and other local and regional surprises. Enjoy live entertainm
+ ent and fun for children at the Kids Corner.</p>
+DTSTART;TZID=America/Chicago:20150919T080000
+DTEND;TZID=America/Chicago:20150919T130000
+GEO:+41.562562;-87.665673
+LOCATION:Homewood Village Hall Parking Lot @ 2010 Chestnut Road\, Homewood\
+ , IL 60430\, USA
+RRULE:FREQ=WEEKLY;COUNT=10;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Homewood Farmers Market
+URL:http://www.shoplocalmovement.org/event/homewood-farmers-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1176@www.shoplocalmovement.org
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en:Business Events\,Community Events\,Craft &amp\; Arti
+ san Fairs\,Festivals\,Free Events\,Fun For Kids\,Outdoor Activities
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.shoplocalmovement.org/wp-content/uploads/2015/07/BOB-300x266.jpg' w
+ idth='300' height='266' /></div><p>SAVE the DATE and join us for <span cla
+ ss='text_exposed_show'>a wacky\, whimsical\, and outrageous time </span>at
+  the Downtown Hammond Council’s 10th Annual Bizarre Bazaar!</p>\n<p><span 
+ class='text_exposed_show'>-Saturday\, September 19 from 10 am – 4 pm at hi
+ storic Harrison Park in Downtown Hammond<br />\n</span></p>\n<p> </p>\n<p>
+ <span class='text_exposed_show'>Visit <a href='http://l.facebook.com/l.php
+ ?u=http%3A%2F%2Fwww.downtownhammond.org%2F&h=rAQGy1k6b&enc=AZM9Vu2y-KZiLfq
+ aEECYLmkpZE38C_rroCz1PGV4BlveWTl-RTC4JPa9LMhZntczr9t2aZrf5qnFWcegkk8MpBtDq
+ NtkUegOVcNE2P1J0jbnwhVBjc6p96ZOTu43d1d-fPC0hoO3WrervHLzkTy-q7g-_YSOeA_znRC
+ -ynltq-XiUk_TIJI4T4IjLDVtcm-Wr4s&s=1' target='_blank' rel='nofollow'>www.d
+ owntownhammond.org</a> for vendor registration forms</span></p>
+DTSTART;TZID=America/Chicago:20150919T100000
+DTEND;TZID=America/Chicago:20150919T160000
+GEO:+41.583369;-87.500041
+LOCATION:Harrison Park @ Hammond\, IN\, USA
+SEQUENCE:0
+SUMMARY:Bizarre Bazaar
+URL:http://www.shoplocalmovement.org/event/bizazrre-bazaar/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1202@www.shoplocalmovement.org
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en:Community Events\,Festivals\,Free Events
+CONTACT:
+DESCRIPTION:<p><a href='http://www.shoplocalmovement.org/wp-content/uploads
+ /2015/08/fall-day-3-1564042-638x431.jpg'><img class='alignleft  wp-image-1
+ 203' src='http://www.shoplocalmovement.org/wp-content/uploads/2015/08/fall
+ -day-3-1564042-638x431.jpg' alt='fall-day-3-1564042-638x431' width='391' h
+ eight='265' /></a>Check back for more information on the Homewood Fall Fes
+ t and Chili Cook-off Registration.</p>
+DTSTART;TZID=America/Chicago:20150919T110000
+DTEND;TZID=America/Chicago:20150919T220000
+GEO:+41.560264;-87.66831
+LOCATION:Downtown Homewood @ Hickory Road\, Homewood\, IL 60430\, USA
+SEQUENCE:0
+SUMMARY:Fall Fest and Annual Chili Cook Off
+URL:http://www.shoplocalmovement.org/event/fall-fest-and-annual-chili-cook-
+ off/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1212@www.shoplocalmovement.org
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en:Community Events\,Outdoor Activities
+CONTACT:708.747.6320\; thorn_creek@att.net\; http://www.tcwoods.org
+DESCRIPTION:<p><a href='http://www.shoplocalmovement.org/wp-content/uploads
+ /2015/04/1364352_77201994.jpg'><img class='alignleft size-full wp-image-11
+ 07' src='http://www.shoplocalmovement.org/wp-content/uploads/2015/04/13643
+ 52_77201994.jpg' alt='1364352_77201994' width='448' height='301' /></a>Get
+  your volunteer on! Help care for Thorn Creek Woods Nature Preserve’s prai
+ rie sampler by assisting in weeding\, trimming out woody plants\, pull tal
+ l goldenrod\, and tending newly planted prairie plants. Bring your own glo
+ ves\, hand clippers\, and kneelers if you like and dress for the weather. 
+ Loppers\, gloves\, buckets\, and waste bag will be provided. Water\, coffe
+ e\, tea\, and refreshments will be provided to keep everyone going. So vol
+ unteer for a good cause\, get outside\, and get some physical activity by 
+ helping keep our natural resources happy and healthy!</p>\n<p>All ages are
+  welcome\; however\, children under 15 must be accompanied by an adult. Ca
+ ll or email for more information or to register.</p>
+DTSTART;TZID=America/Chicago:20150921T093000
+DTEND;TZID=America/Chicago:20150921T120000
+GEO:+41.462381;-87.697002
+LOCATION:Thorn Creek Woods Nature Center @ 247 Monee Road\, Park Forest\, I
+ L 60466\, USA
+SEQUENCE:0
+SUMMARY:Prairie Sampler Workday (Park Forest)
+URL:http://www.shoplocalmovement.org/event/prairie-sampler-workday-park-for
+ est-2/
+END:VEVENT
+END:VCALENDAR

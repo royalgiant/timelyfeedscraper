@@ -1,0 +1,1410 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//194.247.30.112//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://pgzeewolde.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-8759@pgzeewolde.nl
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:Voorbereidingsgroep\; musicalfranciscus@gmail.com
+DESCRIPTION:<p>Op 15\, 16 en 17 april wordt de musical ‘Franciscus\, Trouba
+ dour van God’ opgevoerd in Open Haven. Lees het <a href='https://pgzeewold
+ e.nl/musical-franciscus-troubadour-van-god'>nieuwsbericht</a> voor meer in
+ fo.</p>
+DTSTART;VALUE=DATE:20160415
+DTEND;VALUE=DATE:20160418
+LOCATION:Open Haven Zeewolde
+SEQUENCE:0
+SUMMARY:Musical ‘Franciscus\, troubadour van God’
+URL:https://pgzeewolde.nl/activiteit/musical-franciscus-troubadour-van-god
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8723@pgzeewolde.nl
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Op zondag 22 mei 2016 organiseert de werkgroep pastoraat nam
+ ens de kerkenraad een dag voor alle vrijwilligers. Details over de invulli
+ ng van deze dag volgt ter zijner tijd.</p>
+DTSTART;VALUE=DATE:20160522
+DTEND;VALUE=DATE:20160523
+LOCATION:Open Haven Zeewolde
+SEQUENCE:0
+SUMMARY:Vrijwilligersdag
+URL:https://pgzeewolde.nl/activiteit/vrijwilligersdag
+END:VEVENT
+BEGIN:VEVENT
+UID:2015920090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20150920T090000
+DTEND;TZID=Europe/Amsterdam:20150920T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks (Heilig Avondmaal)
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-heilig-avondmaa
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:2015920103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20150920T103000
+DTEND;TZID=Europe/Amsterdam:20150920T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks (Heilig Avondmaal/Vrije viering)
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-heilig-avondmaa
+ lvrije-viering
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f4kj1bqnk4a03h576v2ql8ak@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Harry Jaspers Focks  </p>\n<p>De  beweging 
+  ‘Moderne  Devotie’  wil  vanuit  deze navolging van Christus in onze indi
+ vidualistische en materialistische tijd wegen wijzen naar meer  aandacht  
+ voor  spiritualiteit\,  solidariteit\,  medemenselijkheid  en  bescheidenh
+ eid.  Het Marcus-evangelie is hiervoor een bron van inspiratie. We gaan hi
+ eruit enkele hoofdstukken<br />\nsamen bespreken aan de hand van het boekj
+ e ‘Navolging nu’.</p>
+DTSTART;TZID=Europe/Amsterdam:20150922T200000
+DTEND;TZID=Europe/Amsterdam:20150922T220000
+LOCATION:Open Haven / zaal De Punter
+SEQUENCE:0
+SUMMARY:Navolging nu\, het Marcus-evangelie als bron van spiritualiteit
+URL:https://pgzeewolde.nl/activiteit/navolging-nu-het-marcus-evangelie-als-
+ bron-van-spiritualiteit
+END:VEVENT
+BEGIN:VEVENT
+UID:2015927090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20150927T090000
+DTEND;TZID=Europe/Amsterdam:20150927T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-7
+END:VEVENT
+BEGIN:VEVENT
+UID:2015927103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20150927T103000
+DTEND;TZID=Europe/Amsterdam:20150927T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks (Bevestiging ambtsdragers m.m.v. Cantorij
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-bevestiging-amb
+ tsdragers-m-m-v-cantorij
+END:VEVENT
+BEGIN:VEVENT
+UID:j7p8jkk2sds96er1qf6r9939d0@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Lex Boot </p>\n<p>Aan de hand van het werks
+ chrift dat wordt uitgegeven door het landelijk bureau van de PKN kijken we
+  naar wat zich beweegt in de onderstroom van ons bestaan. Dat doen we rond
+  de thema’s verlangen\, overgave\, vruchtdragen\, volharden en liefhebben.
+  Dit is geen gewone gespreksgroep maar een kring waarin we ook geestelijke
+  oefeningen krijgen aangereikt uit de rijke traditie van het  christelijk 
+  geloof.  Aan  te  schaffen:  Werkschrift  Weg  van  Leven\,  te  bestelle
+ n  via www.pkn.nl</p>
+DTSTART;TZID=Europe/Amsterdam:20150929T200000
+DTEND;TZID=Europe/Amsterdam:20150929T220000
+LOCATION:Plaats: in huiskamers van deelnemers
+SEQUENCE:0
+SUMMARY:WEG VAN LEVEN\, huiskamergroep dinsdagavond
+URL:https://pgzeewolde.nl/activiteit/weg-van-leven-huiskamergroep-dinsdagav
+ ond
+END:VEVENT
+BEGIN:VEVENT
+UID:k5jao0qoaqhfqs2g8f1tb5kfbc@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Informatie: Magdaleen van der Bijl:<br />\nmagdaleenvanderbi
+ jl@hotmail.com / tel: 06-50478201<br />\nof de website Evangelisch Werkver
+ band:<br />\nhttp://www.ewv.nl/vorming/bouwstenen-bijbel-school/bbs </p>
+DTSTART;TZID=Europe/Amsterdam:20150930T200000
+DTEND;TZID=Europe/Amsterdam:20150930T220000
+LOCATION:NGK Het Kruispunt\, Gedempte Gracht 1
+SEQUENCE:0
+SUMMARY:Bouwstenen Bijbel School (BBS)
+URL:https://pgzeewolde.nl/activiteit/bouwstenen-bijbel-school-bbs
+END:VEVENT
+BEGIN:VEVENT
+UID:2cgaqksq3tn12p7m1lltk5orpo@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Lex Boot en Wilma Beijderwellen </p>\n<p>De
+   groep die  vorig  jaar op  donderdagmorgen  deze  kring  volgden heeft  
+ gezegd  graag  met elkaar door te willen gaan. Daarbij is het mogelijk dat
+  enkelen toch besluiten om dit niet te doen\,  waardoor  er  stoelen  vrij
+   komen  voor  nieuwe  instromers.  We  gaan  verder  met  het boekje lang
+ s de thema’s die nog niet zijn behandeld\, en er is ruimte voor nieuwe inb
+ reng.<br />\n(Ds. Lex zal mogelijk niet op alle ochtenden de volle 2 uur a
+ anwezig kunnen zijn.) </p>
+DTSTART;TZID=Europe/Amsterdam:20151001T100000
+DTEND;TZID=Europe/Amsterdam:20151001T120000
+EXDATE;TZID=Europe/Amsterdam:20151015T100000
+LOCATION:Open Haven / zaal De Schokker
+RRULE:FREQ=WEEKLY;COUNT=3;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:WEG VAN LEVEN\, vervolg donderdagmorgengroep
+URL:https://pgzeewolde.nl/activiteit/weg-van-leven-vervolg-donderdagmorgeng
+ roep-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8467@nieuw.pgzeewolde.nl
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>WAT?<br />\nGa je mee op kamp? Niet zomaar een kamp\, maar e
+ en spetterend Kerkkamp. Het programma is bijna klaar en het  thema is  “Fe
+ estdagen”. Verder verklappen we nog niets maar het belooft een spannend\, 
+ sportief en vooral gezellig weekend te worden\; tenminste……..als jij ook m
+ ee gaat!</p>\n<p>WAAR?<br />\nWe gaan van vrijdagmiddag 2 oktober tot zond
+ agmiddag 4 oktober en logeren op kampeerboerderij  ’t Campvelt in Doornspi
+ jk.  Nieuwsgierig? Kijk dan op <a href='http://www.campvelt.com/'>www.camp
+ velt.com</a>.</p>\n<p>EN NU?<br />\nNu kan je je opgeven. Print <a href='h
+ ttps://pgzeewolde.nl/wp-content/uploads/2015/05/uitnodiging-kerkkamp-2015-
+ 2.pdf'>dit aanmeldingsformulier uit</a>\, vul het in en doe het samen met 
+ het inschrijfgeld (€ 30\,00 per kind) in een envelop en lever het <strong>
+ voor 1 juli</strong> in bij Albert en Annet de Groot\, Fitislaan 69\, tel.
+  522 4755 of  06-53161802 of 06-53161802</p>\n<p>Natuurlijk wel even met é
+ én van je ouders overleggen!</p>
+DTSTART;TZID=Europe/Amsterdam:20151002T160000
+DTEND;TZID=Europe/Amsterdam:20151004T120000
+GEO:+52.418277;+5.817677
+LOCATION:Het Campvelt  @ 8085 Doornspijk\, Nederland
+SEQUENCE:0
+SUMMARY:Kerkkamp groep 5-8
+URL:https://pgzeewolde.nl/activiteit/kerkkamp-groep-5-8
+X-COST:€ 30\,- p.p.
+END:VEVENT
+BEGIN:VEVENT
+UID:2015104090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151004T090000
+DTEND;TZID=Europe/Amsterdam:20151004T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-8
+END:VEVENT
+BEGIN:VEVENT
+UID:2015104103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151004T103000
+DTEND;TZID=Europe/Amsterdam:20151004T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-kerk-school-gezinsdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:16tg64o3c03sbh25543qi36tf4@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Harry Jaspers Focks </p>\n<p>We lezen samen
+  gedeelten uit het Marcus-evangelie aan de hand van het boekje ‘Navolging 
+ nu’  van  Mink  de  Vries.  Vorig  seizoen  heeft  Mink  twee  keer  een  
+ boeiende  avond  in  onze gemeente gehouden en hebben we samen zijn vertal
+ ing van het boek van Thomas à Kempis ‘De  Navolging  van  Christus’  bestu
+ deerd.  De  beweging  ‘Moderne  Devotie’  wil  vanuit  deze navolging van 
+ Christus in onze individualistische en materialistische tijd wegen wijzen 
+ naar<br />\nmeer  aandacht  voor  spiritualiteit\,  solidariteit\,  medeme
+ nselijkheid  en  bescheidenheid.  Het Marcus-evangelie is hiervoor een bro
+ n van inspiratie. We gaan hieruit enkele hoofdstukken samen bespreken aan 
+ de hand van het boekje ‘Navolging nu’.  </p>
+DTSTART;TZID=Europe/Amsterdam:20151006T200000
+DTEND;TZID=Europe/Amsterdam:20151006T220000
+LOCATION:Open Haven / zaal De Punter
+SEQUENCE:0
+SUMMARY:Navolging nu\, het Marcus-evangelie als bron van spiritualiteit
+URL:https://pgzeewolde.nl/activiteit/navolging-nu-het-marcus-evangelie-als-
+ bron-van-spiritualiteit-3
+END:VEVENT
+BEGIN:VEVENT
+UID:6s6iag2sc55pf2tk24sl6naq14@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: Wilma Beijderwellen </p>\n<p>Kerkcentrum Open H
+ aven nodigt u van harte uit voor een gratis kopje koffie tijdens Open HeAV
+ EN.  Kom  gezellig  langs  voor  een  drankje\,  een  rustplek\,  een  pra
+ atje\,  een sfeervolle ontmoetingsplek  waar  niets  moet en veel  kan.  Z
+ o  zijn er  ook  mensen  aanwezig waar u met uw verhaal\, ervaringen en vr
+ agen terecht kunt. Ook is er een stilteruimte\, voor het aansteken van een
+  kaarsje of eventueel gevraagd gebed. We zien naar u uit want ook u bent v
+ an harte welkom! </p>
+DTSTART;TZID=Europe/Amsterdam:20151009T093000
+DTEND;TZID=Europe/Amsterdam:20151009T110000
+LOCATION:Open Haven
+SEQUENCE:0
+SUMMARY:Inloopochtend OPEN HeAVEN
+URL:https://pgzeewolde.nl/activiteit/inloopochtend-open-heaven
+END:VEVENT
+BEGIN:VEVENT
+UID:39ac4ghe6in4nq0bpgv8agit50@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Aanvangstijd nog nader te bepalen</p>
+DTSTART;TZID=Europe/Amsterdam:20151009T200000
+DTEND;TZID=Europe/Amsterdam:20151009T210000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Veiling tbv Open Haven
+URL:https://pgzeewolde.nl/activiteit/veiling-tbv-open-haven
+END:VEVENT
+BEGIN:VEVENT
+UID:20151011090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151011T090000
+DTEND;TZID=Europe/Amsterdam:20151011T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-7
+END:VEVENT
+BEGIN:VEVENT
+UID:20151011103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.<br />\nDeze dienst vormt de afsluiting van het Roemenië project 20
+ 15</p>
+DTSTART;TZID=Europe/Amsterdam:20151011T103000
+DTEND;TZID=Europe/Amsterdam:20151011T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-6
+END:VEVENT
+BEGIN:VEVENT
+UID:3m83mkd6ltqt5qh0jjhtafhq7k@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151011T123000
+DTEND;TZID=Europe/Amsterdam:20151011T133000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks (Gezamenlijke doopdienst)
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-gezamenlijke-do
+ opdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:0slcgt4j7vm6sf68bv4cgqivgc@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151011T160000
+DTEND;TZID=Europe/Amsterdam:20151011T170000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Kind op Schootdienst
+URL:https://pgzeewolde.nl/activiteit/kind-op-schootdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:5k7tcl269su8pu1568rc3i3qeo@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151011T190000
+DTEND;TZID=Europe/Amsterdam:20151011T200000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Taizéviering
+URL:https://pgzeewolde.nl/activiteit/taizeviering-2
+END:VEVENT
+BEGIN:VEVENT
+UID:q041ddginsl3q43oir1ui8cqhs@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Lex Boot </p>\n<p>Vorig jaar zijn er gemeen
+ tekringen ‘Weg van leven’ geweest die smaakten naar meer. Ook andere gemee
+ nteleden krijgen nu gelegenheid om dit project te volgen. Aan de hand van 
+ het werkschrift dat wordt uitgegeven door het landelijk bureau van de PKN 
+ kijken we naar wat zich beweegt in de onderstroom van ons bestaan. Dat doe
+ n we rond de thema’s verlangen\, overgave\, vruchtdragen\, volharden en li
+ efhebben. Dit is geen gewone gespreksgroep maar een kring waarin we ook ge
+ estelijke oefeningen krijgen aangereikt uit de rijke traditie van het  chr
+ istelijk  geloof.<br />\nAan  te  schaffen:  Werkschrift  Weg  van  Leven\
+ ,  te  bestellen  via www.pkn.nl </p>
+DTSTART;TZID=Europe/Amsterdam:20151013T200000
+DTEND;TZID=Europe/Amsterdam:20151013T220000
+LOCATION:huiskamer
+RRULE:FREQ=WEEKLY;COUNT=3;INTERVAL=2;BYDAY=TU
+SEQUENCE:0
+SUMMARY:WEG VAN LEVEN\, huiskamergroep dinsdagavond
+URL:https://pgzeewolde.nl/activiteit/weg-van-leven-huiskamergroep-dinsdagav
+ ond-3
+END:VEVENT
+BEGIN:VEVENT
+UID:mhb2ai4fd01r3q6j01efpul0io@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Wil je na de ALPHA-cursus nog meer en intensiever met de Bij
+ bel bezig zijn of wil je eens je kennis  over  de  Bijbel  en  het  christ
+ elijk  geloof  wat  verdiepen  dan  kan  de  cursus  van  de Bouwstenen  B
+ ijbel  School  iets  voor  je  betekenen.  Deze  cursus  is  interkerkelij
+ k  en  de onderlinge  ontmoeting  is  een  wezenlijk  onderdeel  ervan.  I
+ n  september  gaat  in  Zeewolde weer een cursus van de BBS van start. De 
+ manier waarop het cursusmateriaal in 16 avonden wordt aangeboden is zeer a
+ fwisselend.<br />\nEr wordt gebruik gemaakt van diverse werkvormen en er i
+ s veel ruimte voor persoonlijke Bijbelstudie. Mochten de kosten een proble
+ em zijn om<br />\ndeel te nemen dan is overleg hierover mogelijk.<br />\nI
+ nformatie: Magdaleen van der Bijl: magdaleenvanderbijl@hotmail.com / tel: 
+ 06-50478201<br />\nof de website Evangelisch Werkverband:<br />\nhttp://ww
+ w.ewv.nl/vorming/bouwstenen-bijbel-school/bbs </p>
+DTSTART;TZID=Europe/Amsterdam:20151014T200000
+DTEND;TZID=Europe/Amsterdam:20151014T220000
+LOCATION:NGK Het Kruispunt\, Gedempte Gracht 1
+SEQUENCE:0
+SUMMARY:Bouwstenen Bijbel School (BBS)
+URL:https://pgzeewolde.nl/activiteit/bouwstenen-bijbel-school-bbs-4
+END:VEVENT
+BEGIN:VEVENT
+UID:20151015100000-2cgaqksq3tn12p7m1lltk5orpo@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Lex Boot en Wilma Beijderwellen </p>\n<p>De
+   groep die  vorig  jaar op  donderdagmorgen  deze  kring  volgden heeft  
+ gezegd  graag  met elkaar door te willen gaan. Daarbij is het mogelijk dat
+  enkelen toch besluiten om dit niet te doen\,  waardoor  er  stoelen  vrij
+   komen  voor  nieuwe  instromers.  We  gaan  verder  met  het boekje lang
+ s de thema’s die nog niet zijn behandeld\, en er is ruimte voor nieuwe inb
+ reng.<br />\n(Ds. Lex zal mogelijk niet op alle ochtenden de volle 2 uur a
+ anwezig kunnen zijn.) </p>
+DTSTART;TZID=Europe/Amsterdam:20151015T100000
+DTEND;TZID=Europe/Amsterdam:20151015T120000
+LOCATION:Open Haven / zaal De Schokker
+SEQUENCE:0
+SUMMARY:WEG VAN LEVEN\, vervolg donderdagmorgengroep
+URL:https://pgzeewolde.nl/activiteit/weg-van-leven-vervolg-donderdagmorgeng
+ roep-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8826@pgzeewolde.nl
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>De Stichting Verlies Verwerken Flevoland organiseert op zate
+ rdag 17 oktober a.s. van 10.00 tot 16.00 de 15e provinciale ontmoetingsdag
+ .<br />\nHet thema is: ‘Het leven gaat verder’….. zeggen ze</p>\n<p>Spreke
+ r: Martinus van den Berg<br />\n’s Middags zijn er workshops.</p>\n<p>Waar
+ : Centrum ‘De Hoeksteen’ Swifterbant<br />\nKosten: € 15\,00 incl. lunch<b
+ r />\nInfo/aanmelding (<u>noodzakelijk!):<br />\n</u>036-8483108 of: <a hr
+ ef='http://www.verliezenverwerkenflevoland.nl/'>www.verliezenverwerkenflev
+ oland.nl</a></p>\n<p><a href='https://pgzeewolde.nl/het-leven-gaat-verder-
+ zeggen-ze' target='_blank'>Ontmoetingsdag </a></p>
+DTSTART;TZID=Europe/Amsterdam:20151017T100000
+DTEND;TZID=Europe/Amsterdam:20151017T153000
+GEO:+52.567315;+5.641093
+LOCATION:De Hoeksteen @ 8255 Swifterbant\, Nederland
+SEQUENCE:0
+SUMMARY:Ontmoetingsdag Stichting Verlies Verwerken
+URL:https://pgzeewolde.nl/activiteit/ontmoetingsdag-stichting-verlies-verwe
+ rken
+X-COST:€ 15\,00
+X-TICKETS-URL:http://www.verliezenverwerkenflevoland.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:20151018090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151018T093000
+DTEND;TZID=Europe/Amsterdam:20151018T103000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-6
+END:VEVENT
+BEGIN:VEVENT
+UID:20151025090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151025T093000
+DTEND;TZID=Europe/Amsterdam:20151025T103000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Dhr. R. de Bes (Wageningen)
+URL:https://pgzeewolde.nl/activiteit/dhr-r-de-bes-wageningen
+END:VEVENT
+BEGIN:VEVENT
+UID:q09p6k1dgnk6jfn4p9fabaocqo@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Wil je na de ALPHA-cursus nog meer en intensiever met de Bij
+ bel bezig zijn of wil je eens je kennis  over  de  Bijbel  en  het  christ
+ elijk  geloof  wat  verdiepen  dan  kan  de  cursus  van  de Bouwstenen  B
+ ijbel  School  iets  voor  je  betekenen.  Deze  cursus  is  interkerkelij
+ k  en  de onderlinge  ontmoeting  is  een  wezenlijk  onderdeel  ervan.  I
+ n  september  gaat  in  Zeewolde weer een cursus van de BBS van start. De 
+ manier waarop het cursusmateriaal in 16 avonden wordt aangeboden is zeer a
+ fwisselend.<br />\nEr wordt gebruik gemaakt van diverse werkvormen en er i
+ s veel ruimte voor persoonlijke Bijbelstudie. Mochten de kosten een proble
+ em zijn om<br />\ndeel te nemen dan is overleg hierover mogelijk.<br />\nI
+ nformatie: Magdaleen van der Bijl: magdaleenvanderbijl@hotmail.com / tel: 
+ 06-50478201<br />\nof de website Evangelisch Werkverband:<br />\nhttp://ww
+ w.ewv.nl/vorming/bouwstenen-bijbel-school/bbs </p>
+DTSTART;TZID=Europe/Amsterdam:20151028T200000
+DTEND;TZID=Europe/Amsterdam:20151028T220000
+LOCATION:NGK Het Kruispunt\, Gedempte Gracht 1
+SEQUENCE:0
+SUMMARY:Bouwstenen Bijbel School (BBS)
+URL:https://pgzeewolde.nl/activiteit/bouwstenen-bijbel-school-bbs-3
+END:VEVENT
+BEGIN:VEVENT
+UID:j4v7ofrict9sgiaek1di53bdgo@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: Antoinette van Laar e.a. </p>\n<p>Het doel van 
+ Ouders Connect is de ontmoeting van ouders die zich willen verbinden met e
+ lkaar en met God. De avonden zullen in tweetallen worden voorbereid. Er za
+ l tijdens de eerste avond een spel worden gebruikt om in gesprek te raken 
+ over jezelf\, de ander en God.<br />\nDoelgroep: ouders van kinderen tot c
+ a. 12 jaar (basisschoolleeftijd).</p>
+DTSTART;TZID=Europe/Amsterdam:20151028T200000
+DTEND;TZID=Europe/Amsterdam:20151028T220000
+LOCATION:1 e  x in Open Haven\, daarna in huiskamer
+SEQUENCE:0
+SUMMARY:Ouders Connect
+URL:https://pgzeewolde.nl/activiteit/ouders-connect
+END:VEVENT
+BEGIN:VEVENT
+UID:frb7kj40deqs7deuu99i45o2oo@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Harry Jaspers Focks  </p>\n<p>Das  Leben  d
+ er  Anderen  –  over  een  agent  van  de  geheime  politie  van  Oost-Dui
+ tsland\, de Stasi\, die de opdracht krijgt om een succesvolle zakenman en 
+ zijn geliefde af te luisteren. Plichtsgetrouw voert hij zijn taak uit\, ma
+ ar hoe langer het duurt\, hoe minder hij zijn afstandelijkheid kan bewaren
+  en zijn menselijkheid het wint.</p>
+DTSTART;TZID=Europe/Amsterdam:20151030T194500
+DTEND;TZID=Europe/Amsterdam:20151030T230000
+LOCATION:Open Haven / zaal Enter (ingang achterzijde)
+SEQUENCE:0
+SUMMARY:Films die ertoe doen
+URL:https://pgzeewolde.nl/activiteit/films-die-ertoe-doen-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2015111090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151101T090000
+DTEND;TZID=Europe/Amsterdam:20151101T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot (ZWO)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-zwo-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2015111103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151101T103000
+DTEND;TZID=Europe/Amsterdam:20151101T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot (ZWO)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-zwo
+END:VEVENT
+BEGIN:VEVENT
+UID:52o1i495blipf3ceqbg24vhhpk@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Harry Jaspers Focks </p>\n<p>Er is elk jaar
+  een Alpha-cursus voor volwassenen die nog niet veel weten over het geloof
+  of die op zoek zijn naar geloof. Maar als je al wel gelooft of al langer 
+ lid bent van de kerk\, maar graag meer wilt weten en er dieper over door w
+ ilt praten\, dan ben je van harte welkom op deze  zondagavonden.  We  zull
+ en  enkele  kernwoorden  van  het  geloof  bespreken\,  zoals bekering\, e
+ vangelie\, genade\, verzoening\, verbond\, gerechtigheid\, hoop\, Koninkri
+ jk van God\, eeuwigheid\,  vrede.  Maar  natuurlijk  is  er  ook  ruimte  
+ voor  de  vragen  die  ieder  zelf  in  wil<br />\nbrengen. </p>
+DTSTART;TZID=Europe/Amsterdam:20151101T200000
+DTEND;TZID=Europe/Amsterdam:20151101T213000
+LOCATION:Open Haven / zaal Enter (ingang achterzijde)
+RRULE:FREQ=WEEKLY;COUNT=4;INTERVAL=2;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Basiscatechese voor volwassenen
+URL:https://pgzeewolde.nl/activiteit/basiscatechese-voor-volwassenen
+END:VEVENT
+BEGIN:VEVENT
+UID:6tgafq9jhe3n0q1pagmn5fi8l4@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Harry Jaspers Focks </p>\n<p>We lezen samen
+  gedeelten uit het Marcus-evangelie aan de hand van het boekje ‘Navolging 
+ nu’  van  Mink  de  Vries.  Vorig  seizoen  heeft  Mink  twee  keer  een  
+ boeiende  avond  in  onze gemeente gehouden en hebben we samen zijn vertal
+ ing van het boek van Thomas à Kempis ‘De  Navolging  van  Christus’  bestu
+ deerd.  De  beweging  ‘Moderne  Devotie’  wil  vanuit  deze navolging van 
+ Christus in onze individualistische en materialistische tijd wegen wijzen 
+ naar<br />\nmeer  aandacht  voor  spiritualiteit\,  solidariteit\,  medeme
+ nselijkheid  en  bescheidenheid.  Het Marcus-evangelie is hiervoor een bro
+ n van inspiratie. We gaan hieruit enkele hoofdstukken samen bespreken aan 
+ de hand van het boekje ‘Navolging nu’.  </p>
+DTSTART;TZID=Europe/Amsterdam:20151103T200000
+DTEND;TZID=Europe/Amsterdam:20151103T220000
+LOCATION:Open Haven / zaal De Punter
+SEQUENCE:0
+SUMMARY:Navolging nu\, het Marcus-evangelie als bron van spiritualiteit
+URL:https://pgzeewolde.nl/activiteit/navolging-nu-het-marcus-evangelie-als-
+ bron-van-spiritualiteit-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ocah0g794ucri3h51pfdm068dk@google.com
+DTSTAMP:20150920T002120Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151104T193000
+DTEND;TZID=Europe/Amsterdam:20151104T203000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Ds. L. Boot (Dankdag voor gewas en arbeid)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-dankdag-voor-gewas-en-arbeid
+END:VEVENT
+BEGIN:VEVENT
+UID:pfd9poa170c927jjc64ueb1e9k@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Pubers  en  de  kerk  zijn  niet  een  vanzelfsprekende  com
+ binatie.  Tijdens  2  thema  avonden onder  leiding  van  een  inspirerend
+ e  spreker  worden  verschillende  thema’s  rond geloofsopvoeding besproke
+ n. Natuurlijk is er ook ruimte om met elkaar te delen en elkaar te ontmoet
+ en.<br />\nMeer informatie: jeugdouderlingen@pgzeewolde.nl  </p>
+DTSTART;TZID=Europe/Amsterdam:20151104T200000
+DTEND;TZID=Europe/Amsterdam:20151104T210000
+LOCATION:Open Haven
+SEQUENCE:0
+SUMMARY:Ouders van tieners
+URL:https://pgzeewolde.nl/activiteit/ouders-van-tieners
+END:VEVENT
+BEGIN:VEVENT
+UID:79tipj283kc4tticmpo436sugg@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>aanvangstijd nog te bepalen</p>
+DTSTART;TZID=Europe/Amsterdam:20151106T190000
+DTEND;TZID=Europe/Amsterdam:20151106T200000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=FR,SA
+SEQUENCE:0
+SUMMARY:Open Haven Open
+URL:https://pgzeewolde.nl/activiteit/open-haven-open
+END:VEVENT
+BEGIN:VEVENT
+UID:2015118090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151108T090000
+DTEND;TZID=Europe/Amsterdam:20151108T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-5
+END:VEVENT
+BEGIN:VEVENT
+UID:2015118103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151108T103000
+DTEND;TZID=Europe/Amsterdam:20151108T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks (Doopdienst)
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-doopdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:8puld4l09roj1vsoc9h07eulr4@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151108T190000
+DTEND;TZID=Europe/Amsterdam:20151108T200000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Taizéviering
+URL:https://pgzeewolde.nl/activiteit/taizeviering
+END:VEVENT
+BEGIN:VEVENT
+UID:ueme6eb218bcbstsurtre3nqmc@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: Wilma Beijderwellen </p>\n<p>Kerkcentrum Open H
+ aven nodigt u van harte uit voor een gratis kopje koffie tijdens Open HeAV
+ EN.  Kom  gezellig  langs  voor  een  drankje\,  een  rustplek\,  een  pra
+ atje\,  een sfeervolle ontmoetingsplek  waar  niets  moet en veel  kan.  Z
+ o  zijn er  ook  mensen  aanwezig waar u met uw verhaal\, ervaringen en vr
+ agen terecht kunt. Ook is er een stilteruimte\, voor het aansteken van een
+  kaarsje of eventueel gevraagd gebed. We zien naar u uit want ook u bent v
+ an harte welkom! </p>
+DTSTART;TZID=Europe/Amsterdam:20151111T093000
+DTEND;TZID=Europe/Amsterdam:20151111T113000
+LOCATION:Open haven
+SEQUENCE:0
+SUMMARY:Inloopochtend OPEN HeAVEN
+URL:https://pgzeewolde.nl/activiteit/inloopochtend-open-heaven-3
+END:VEVENT
+BEGIN:VEVENT
+UID:o86vj5pj1cl3rl62kceqc2kv4s@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Lex Boot en Wilma Beijderwellen </p>\n<p>De
+   groep die  vorig  jaar op  donderdagmorgen  deze  kring  volgden heeft  
+ gezegd  graag  met elkaar door te willen gaan. Daarbij is het mogelijk dat
+  enkelen toch besluiten om dit niet te doen\,  waardoor  er  stoelen  vrij
+   komen  voor  nieuwe  instromers.  We  gaan  verder  met  het boekje lang
+ s de thema’s die nog niet zijn behandeld\, en er is ruimte voor nieuwe inb
+ reng.<br />\n(Ds. Lex zal mogelijk niet op alle ochtenden de volle 2 uur a
+ anwezig kunnen zijn.) </p>
+DTSTART;TZID=Europe/Amsterdam:20151112T100000
+DTEND;TZID=Europe/Amsterdam:20151112T120000
+LOCATION:Open Haven / zaal De Schokker
+RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:WEG VAN LEVEN\, vervolg donderdagmorgengroep
+URL:https://pgzeewolde.nl/activiteit/weg-van-leven-vervolg-donderdagmorgeng
+ roep
+END:VEVENT
+BEGIN:VEVENT
+UID:n08sjlh2a9cd9svv45u296ql2o@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: Wilma Beijderwellen </p>\n<p>Kerkcentrum Open H
+ aven nodigt u van harte uit voor een gratis kopje koffie tijdens Open HeAV
+ EN.  Kom  gezellig  langs  voor  een  drankje\,  een  rustplek\,  een  pra
+ atje\,  een sfeervolle ontmoetingsplek  waar  niets  moet en veel  kan.  Z
+ o  zijn er  ook  mensen  aanwezig waar u met uw verhaal\, ervaringen en vr
+ agen terecht kunt. Ook is er een stilteruimte\, voor het aansteken van een
+  kaarsje of eventueel gevraagd gebed. We zien naar u uit want ook u bent v
+ an harte welkom! </p>
+DTSTART;TZID=Europe/Amsterdam:20151113T093000
+DTEND;TZID=Europe/Amsterdam:20151113T113000
+LOCATION:Open Haven
+SEQUENCE:0
+SUMMARY:Inloopochtend OPEN HeAVEN
+URL:https://pgzeewolde.nl/activiteit/inloopochtend-open-heaven-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-9115@pgzeewolde.nl
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Amsterdam:20151113T193000
+DTEND;TZID=Europe/Amsterdam:20151113T220000
+SEQUENCE:0
+SUMMARY:Music All-inn
+URL:https://pgzeewolde.nl/activiteit/music-all-inn
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-9114@pgzeewolde.nl
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:Ans Groot Koerkamp\; josenansgrootkoerkamp@gmail.com
+DESCRIPTION:
+DTSTART;TZID=Europe/Amsterdam:20151114T100000
+DTEND;TZID=Europe/Amsterdam:20151114T160000
+LOCATION:Open Haven
+SEQUENCE:0
+SUMMARY:Open Haven Open Beurs
+URL:https://pgzeewolde.nl/activiteit/open-haven-open-beurs
+END:VEVENT
+BEGIN:VEVENT
+UID:20151115090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151115T090000
+DTEND;TZID=Europe/Amsterdam:20151115T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-5
+END:VEVENT
+BEGIN:VEVENT
+UID:20151115103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151115T110000
+DTEND;TZID=Europe/Amsterdam:20151115T123000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot (Jongerendienst m.m.v. Combo)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-jongerendienst-m-m-v-combo
+END:VEVENT
+BEGIN:VEVENT
+UID:20151122090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151122T090000
+DTEND;TZID=Europe/Amsterdam:20151122T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot en ds. H.I.G. Jaspers Focks (Laatste zondag kerkelijk j
+ aar m.m.v. Cantorij)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-en-ds-h-i-g-jaspers-focks-la
+ atste-zondag-kerkelijk-jaar-m-m-v-cantorij-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151122103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151122T103000
+DTEND;TZID=Europe/Amsterdam:20151122T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot en ds. H.I.G. Jaspers Focks (Laatste zondag kerkelijk j
+ aar m.m. v. Cantorij)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-en-ds-h-i-g-jaspers-focks-la
+ atste-zondag-kerkelijk-jaar-m-m-v-cantorij
+END:VEVENT
+BEGIN:VEVENT
+UID:qugas806ht9lj0fu4d20hamg5g@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Lex Boot </p>\n<p>Vorig jaar zijn er gemeen
+ tekringen ‘Weg van leven’ geweest die smaakten naar meer. Ook andere gemee
+ nteleden krijgen nu gelegenheid om dit project te volgen. Aan de hand van 
+ het werkschrift dat wordt uitgegeven door het landelijk bureau van de PKN 
+ kijken we naar wat zich beweegt in de onderstroom van ons bestaan. Dat doe
+ n we rond de thema’s verlangen\, overgave\, vruchtdragen\, volharden en li
+ efhebben. Dit is geen gewone gespreksgroep maar een kring waarin we ook ge
+ estelijke oefeningen krijgen aangereikt uit de rijke traditie van het  chr
+ istelijk  geloof.<br />\nAan  te  schaffen:  Werkschrift  Weg  van  Leven\
+ ,  te  bestellen  via www.pkn.nl </p>
+DTSTART;TZID=Europe/Amsterdam:20151124T200000
+DTEND;TZID=Europe/Amsterdam:20151124T220000
+LOCATION:huiskamer
+SEQUENCE:0
+SUMMARY:WEG VAN LEVEN\, huiskamergroep dinsdagavond
+URL:https://pgzeewolde.nl/activiteit/weg-van-leven-huiskamergroep-dinsdagav
+ ond-2
+END:VEVENT
+BEGIN:VEVENT
+UID:u2ptavl8rhe4hhqdr1n121oom4@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Activiteiten
+CONTACT:
+DESCRIPTION:<p>Begeleiding: ds. Harry Jaspers Focks </p>\n<p>Mar Adentro – 
+ over een man die al dertig jaar verlamd in bed licht en wordt<br />\nverzo
+ rgd door zijn familie. Zijn slaapkamerraam kijkt uit over de zee. Dezelfde
+  zee waar hij tijdens zijn jeugd een vreselijk ongeluk heeft gekregen. Sin
+ dsdien is zijn enige doel zijn leven op een waardige manier te beëindigen.
+  Dit geeft problemen bij zijn familie en bij 2 vrouwen die hem proberen te
+  beïnvloeden. Beide vrouwen raken onder de indruk van Ramon en dat verande
+ rt  hun  principes.  Alleen  wie  echt  van  hem  houdt\,  zal  hem  mogen
+   helpen  op  zijn laatste reis. </p>
+DTSTART;TZID=Europe/Amsterdam:20151127T194500
+DTEND;TZID=Europe/Amsterdam:20151127T231500
+SEQUENCE:0
+SUMMARY:Films die ertoe doen
+URL:https://pgzeewolde.nl/activiteit/films-die-ertoe-doen
+END:VEVENT
+BEGIN:VEVENT
+UID:20151129090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151129T090000
+DTEND;TZID=Europe/Amsterdam:20151129T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-4
+END:VEVENT
+BEGIN:VEVENT
+UID:20151129103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151129T110000
+DTEND;TZID=Europe/Amsterdam:20151129T123000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks (Kerk School Gezinsdienst)
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-3
+END:VEVENT
+BEGIN:VEVENT
+UID:otfemqlviur73sm47c5dah604c@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151129T190000
+DTEND;TZID=Europe/Amsterdam:20151129T200000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Adventsvesper
+URL:https://pgzeewolde.nl/activiteit/adventsvesper-4
+END:VEVENT
+BEGIN:VEVENT
+UID:2015126090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151206T090000
+DTEND;TZID=Europe/Amsterdam:20151206T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot (Heilig Avondmaal)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-heilig-avondmaal
+END:VEVENT
+BEGIN:VEVENT
+UID:2015126103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151206T103000
+DTEND;TZID=Europe/Amsterdam:20151206T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot (Heilig Avondmaal/Traditionele viering)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-heilig-avondmaaltraditionele
+ -viering
+END:VEVENT
+BEGIN:VEVENT
+UID:1u0pajovb65m30d6fbaie623l0@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151206T190000
+DTEND;TZID=Europe/Amsterdam:20151206T200000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Adventsvesper
+URL:https://pgzeewolde.nl/activiteit/adventsvesper-3
+END:VEVENT
+BEGIN:VEVENT
+UID:20151213090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151213T090000
+DTEND;TZID=Europe/Amsterdam:20151213T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151213103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151213T103000
+DTEND;TZID=Europe/Amsterdam:20151213T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks (Vrije viering)
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-vrije-viering
+END:VEVENT
+BEGIN:VEVENT
+UID:blct230dmh6t6fso7agfvpfpsk@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151213T190000
+DTEND;TZID=Europe/Amsterdam:20151213T200000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Adventsvesper
+URL:https://pgzeewolde.nl/activiteit/adventsvesper-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151220090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151220T090000
+DTEND;TZID=Europe/Amsterdam:20151220T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-4
+END:VEVENT
+BEGIN:VEVENT
+UID:20151220103000-ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151220T103000
+DTEND;TZID=Europe/Amsterdam:20151220T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-3
+END:VEVENT
+BEGIN:VEVENT
+UID:mpojkoi6hde8ednhus2dn2p4c4@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151220T190000
+DTEND;TZID=Europe/Amsterdam:20151220T200000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Adventsvesper
+URL:https://pgzeewolde.nl/activiteit/adventsvesper
+END:VEVENT
+BEGIN:VEVENT
+UID:fkg3nd318lua0j6kjjd6c1votk@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151224T183000
+DTEND;TZID=Europe/Amsterdam:20151224T193000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Kerst op Schootdienst
+URL:https://pgzeewolde.nl/activiteit/kerst-op-schootdienst
+END:VEVENT
+BEGIN:VEVENT
+UID:o41q4lb0urqjf80kqr030rajm0@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151224T200000
+DTEND;TZID=Europe/Amsterdam:20151224T210000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Ds. L. Boot (Kerstavond)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-kerstavond
+END:VEVENT
+BEGIN:VEVENT
+UID:tj1f5um9k0pfeb3jqlkifh0su0@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151224T223000
+DTEND;TZID=Europe/Amsterdam:20151225T000000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Ds. L. Boot (Kerstavond laat m.m.v. Combo)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-kerstavond-laat-m-m-v-combo
+END:VEVENT
+BEGIN:VEVENT
+UID:2sla0d5dv3stcn5ramoqpr1688@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151225T090000
+DTEND;TZID=Europe/Amsterdam:20151225T100000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks (Kerst m.m.v. Cantorij
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-kerst-m-m-v-can
+ torij
+END:VEVENT
+BEGIN:VEVENT
+UID:23pn91c6413out4sduqs5rvtvs@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151225T110000
+DTEND;TZID=Europe/Amsterdam:20151225T120000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks (Kerst m.m.v. Jeugdensemble)
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks-kerst-m-m-v-jeu
+ gdensemble
+END:VEVENT
+BEGIN:VEVENT
+UID:20151227090000-bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151227T093000
+DTEND;TZID=Europe/Amsterdam:20151227T103000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+SEQUENCE:0
+SUMMARY:Ds. L. Boot
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3nlq20gln7dhri41rpv0hh1evs@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20151231T193000
+DTEND;TZID=Europe/Amsterdam:20151231T203000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Ds. H.I.G. Jaspers Focks
+URL:https://pgzeewolde.nl/activiteit/ds-h-i-g-jaspers-focks
+END:VEVENT
+BEGIN:VEVENT
+UID:uu5vjn7fgi7nippsvnnheobkao@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20160101T100000
+DTEND;TZID=Europe/Amsterdam:20160101T110000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein 8\, 3891 ED Zeewolde\, Nederlan
+ d
+SEQUENCE:0
+SUMMARY:Ds. L. Boot (morgengebed)
+URL:https://pgzeewolde.nl/activiteit/ds-l-boot
+END:VEVENT
+BEGIN:VEVENT
+UID:bpk37gflfmcsgl9ctlmb31v870@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20160103T090000
+DTEND;TZID=Europe/Amsterdam:20160103T100000
+EXDATE;TZID=Europe/Amsterdam:20140525T090000
+EXDATE;TZID=Europe/Amsterdam:20140608T090000
+EXDATE;TZID=Europe/Amsterdam:20140615T090000
+EXDATE;TZID=Europe/Amsterdam:20140622T090000
+EXDATE;TZID=Europe/Amsterdam:20140629T090000
+EXDATE;TZID=Europe/Amsterdam:20140706T090000
+EXDATE;TZID=Europe/Amsterdam:20140713T090000
+EXDATE;TZID=Europe/Amsterdam:20140720T090000
+EXDATE;TZID=Europe/Amsterdam:20140727T090000
+EXDATE;TZID=Europe/Amsterdam:20140803T090000
+EXDATE;TZID=Europe/Amsterdam:20140810T090000
+EXDATE;TZID=Europe/Amsterdam:20140817T090000
+EXDATE;TZID=Europe/Amsterdam:20140824T090000
+EXDATE;TZID=Europe/Amsterdam:20140831T090000
+EXDATE;TZID=Europe/Amsterdam:20140907T090000
+EXDATE;TZID=Europe/Amsterdam:20140914T090000
+EXDATE;TZID=Europe/Amsterdam:20140921T090000
+EXDATE;TZID=Europe/Amsterdam:20140928T090000
+EXDATE;TZID=Europe/Amsterdam:20141005T090000
+EXDATE;TZID=Europe/Amsterdam:20141012T090000
+EXDATE;TZID=Europe/Amsterdam:20141019T090000
+EXDATE;TZID=Europe/Amsterdam:20141026T090000
+EXDATE;TZID=Europe/Amsterdam:20141102T090000
+EXDATE;TZID=Europe/Amsterdam:20141109T090000
+EXDATE;TZID=Europe/Amsterdam:20141116T090000
+EXDATE;TZID=Europe/Amsterdam:20141123T090000
+EXDATE;TZID=Europe/Amsterdam:20141130T090000
+EXDATE;TZID=Europe/Amsterdam:20141207T090000
+EXDATE;TZID=Europe/Amsterdam:20141214T090000
+EXDATE;TZID=Europe/Amsterdam:20141221T090000
+EXDATE;TZID=Europe/Amsterdam:20141228T090000
+EXDATE;TZID=Europe/Amsterdam:20150104T090000
+EXDATE;TZID=Europe/Amsterdam:20150111T090000
+EXDATE;TZID=Europe/Amsterdam:20150118T090000
+EXDATE;TZID=Europe/Amsterdam:20150125T090000
+EXDATE;TZID=Europe/Amsterdam:20150201T090000
+EXDATE;TZID=Europe/Amsterdam:20150208T090000
+EXDATE;TZID=Europe/Amsterdam:20150215T090000
+EXDATE;TZID=Europe/Amsterdam:20150222T090000
+EXDATE;TZID=Europe/Amsterdam:20150301T090000
+EXDATE;TZID=Europe/Amsterdam:20150308T090000
+EXDATE;TZID=Europe/Amsterdam:20150315T090000
+EXDATE;TZID=Europe/Amsterdam:20150322T090000
+EXDATE;TZID=Europe/Amsterdam:20150329T090000
+EXDATE;TZID=Europe/Amsterdam:20150405T090000
+EXDATE;TZID=Europe/Amsterdam:20150412T090000
+EXDATE;TZID=Europe/Amsterdam:20150419T090000
+EXDATE;TZID=Europe/Amsterdam:20150426T090000
+EXDATE;TZID=Europe/Amsterdam:20150503T090000
+EXDATE;TZID=Europe/Amsterdam:20150510T090000
+EXDATE;TZID=Europe/Amsterdam:20150517T090000
+EXDATE;TZID=Europe/Amsterdam:20150524T090000
+EXDATE;TZID=Europe/Amsterdam:20150531T090000
+EXDATE;TZID=Europe/Amsterdam:20150607T090000
+EXDATE;TZID=Europe/Amsterdam:20150614T090000
+EXDATE;TZID=Europe/Amsterdam:20150621T090000
+EXDATE;TZID=Europe/Amsterdam:20150628T090000
+EXDATE;TZID=Europe/Amsterdam:20150705T090000
+EXDATE;TZID=Europe/Amsterdam:20150712T090000
+EXDATE;TZID=Europe/Amsterdam:20150719T090000
+EXDATE;TZID=Europe/Amsterdam:20150726T090000
+EXDATE;TZID=Europe/Amsterdam:20150802T090000
+EXDATE;TZID=Europe/Amsterdam:20150809T090000
+EXDATE;TZID=Europe/Amsterdam:20150816T090000
+EXDATE;TZID=Europe/Amsterdam:20150823T090000
+EXDATE;TZID=Europe/Amsterdam:20150830T090000
+EXDATE;TZID=Europe/Amsterdam:20150906T090000
+EXDATE;TZID=Europe/Amsterdam:20150913T090000
+EXDATE;TZID=Europe/Amsterdam:20150920T090000
+EXDATE;TZID=Europe/Amsterdam:20150927T090000
+EXDATE;TZID=Europe/Amsterdam:20151004T090000
+EXDATE;TZID=Europe/Amsterdam:20151011T090000
+EXDATE;TZID=Europe/Amsterdam:20151018T090000
+EXDATE;TZID=Europe/Amsterdam:20151025T090000
+EXDATE;TZID=Europe/Amsterdam:20151101T090000
+EXDATE;TZID=Europe/Amsterdam:20151108T090000
+EXDATE;TZID=Europe/Amsterdam:20151115T090000
+EXDATE;TZID=Europe/Amsterdam:20151122T090000
+EXDATE;TZID=Europe/Amsterdam:20151129T090000
+EXDATE;TZID=Europe/Amsterdam:20151206T090000
+EXDATE;TZID=Europe/Amsterdam:20151213T090000
+EXDATE;TZID=Europe/Amsterdam:20151220T090000
+EXDATE;TZID=Europe/Amsterdam:20151227T090000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Kerkdienst
+URL:https://pgzeewolde.nl/activiteit/kerkdienst-6
+END:VEVENT
+BEGIN:VEVENT
+UID:ihu6nak7dc51n83rh40mnu4k8k@google.com
+DTSTAMP:20150920T002121Z
+CATEGORIES;LANGUAGE=nl-NL:Kerkdiensten
+CONTACT:
+DESCRIPTION:<p>Kerkdienst Protestantse gemeente Zeewolde. U bent van harte 
+ welkom.</p>
+DTSTART;TZID=Europe/Amsterdam:20160103T103000
+DTEND;TZID=Europe/Amsterdam:20160103T120000
+EXDATE;TZID=Europe/Amsterdam:20140608T103000
+EXDATE;TZID=Europe/Amsterdam:20140615T103000
+EXDATE;TZID=Europe/Amsterdam:20140622T103000
+EXDATE;TZID=Europe/Amsterdam:20140629T103000
+EXDATE;TZID=Europe/Amsterdam:20140706T103000
+EXDATE;TZID=Europe/Amsterdam:20140713T103000
+EXDATE;TZID=Europe/Amsterdam:20140720T103000
+EXDATE;TZID=Europe/Amsterdam:20140727T103000
+EXDATE;TZID=Europe/Amsterdam:20140803T103000
+EXDATE;TZID=Europe/Amsterdam:20140810T103000
+EXDATE;TZID=Europe/Amsterdam:20140817T103000
+EXDATE;TZID=Europe/Amsterdam:20140824T103000
+EXDATE;TZID=Europe/Amsterdam:20140831T103000
+EXDATE;TZID=Europe/Amsterdam:20140907T103000
+EXDATE;TZID=Europe/Amsterdam:20140914T103000
+EXDATE;TZID=Europe/Amsterdam:20140921T103000
+EXDATE;TZID=Europe/Amsterdam:20140928T103000
+EXDATE;TZID=Europe/Amsterdam:20141005T103000
+EXDATE;TZID=Europe/Amsterdam:20141012T103000
+EXDATE;TZID=Europe/Amsterdam:20141019T103000
+EXDATE;TZID=Europe/Amsterdam:20141026T103000
+EXDATE;TZID=Europe/Amsterdam:20141102T103000
+EXDATE;TZID=Europe/Amsterdam:20141109T103000
+EXDATE;TZID=Europe/Amsterdam:20141116T103000
+EXDATE;TZID=Europe/Amsterdam:20141123T103000
+EXDATE;TZID=Europe/Amsterdam:20141130T103000
+EXDATE;TZID=Europe/Amsterdam:20141207T103000
+EXDATE;TZID=Europe/Amsterdam:20141214T103000
+EXDATE;TZID=Europe/Amsterdam:20141221T103000
+EXDATE;TZID=Europe/Amsterdam:20141228T103000
+EXDATE;TZID=Europe/Amsterdam:20150104T103000
+EXDATE;TZID=Europe/Amsterdam:20150111T103000
+EXDATE;TZID=Europe/Amsterdam:20150118T103000
+EXDATE;TZID=Europe/Amsterdam:20150125T103000
+EXDATE;TZID=Europe/Amsterdam:20150201T103000
+EXDATE;TZID=Europe/Amsterdam:20150208T103000
+EXDATE;TZID=Europe/Amsterdam:20150215T103000
+EXDATE;TZID=Europe/Amsterdam:20150222T103000
+EXDATE;TZID=Europe/Amsterdam:20150301T103000
+EXDATE;TZID=Europe/Amsterdam:20150308T103000
+EXDATE;TZID=Europe/Amsterdam:20150315T103000
+EXDATE;TZID=Europe/Amsterdam:20150322T103000
+EXDATE;TZID=Europe/Amsterdam:20150329T103000
+EXDATE;TZID=Europe/Amsterdam:20150405T103000
+EXDATE;TZID=Europe/Amsterdam:20150412T103000
+EXDATE;TZID=Europe/Amsterdam:20150419T103000
+EXDATE;TZID=Europe/Amsterdam:20150426T103000
+EXDATE;TZID=Europe/Amsterdam:20150503T103000
+EXDATE;TZID=Europe/Amsterdam:20150510T103000
+EXDATE;TZID=Europe/Amsterdam:20150517T103000
+EXDATE;TZID=Europe/Amsterdam:20150524T103000
+EXDATE;TZID=Europe/Amsterdam:20150531T103000
+EXDATE;TZID=Europe/Amsterdam:20150607T103000
+EXDATE;TZID=Europe/Amsterdam:20150614T103000
+EXDATE;TZID=Europe/Amsterdam:20150621T103000
+EXDATE;TZID=Europe/Amsterdam:20150628T103000
+EXDATE;TZID=Europe/Amsterdam:20150705T103000
+EXDATE;TZID=Europe/Amsterdam:20150712T103000
+EXDATE;TZID=Europe/Amsterdam:20150719T103000
+EXDATE;TZID=Europe/Amsterdam:20150726T103000
+EXDATE;TZID=Europe/Amsterdam:20150802T103000
+EXDATE;TZID=Europe/Amsterdam:20150809T103000
+EXDATE;TZID=Europe/Amsterdam:20150816T103000
+EXDATE;TZID=Europe/Amsterdam:20150823T103000
+EXDATE;TZID=Europe/Amsterdam:20150830T103000
+EXDATE;TZID=Europe/Amsterdam:20150906T103000
+EXDATE;TZID=Europe/Amsterdam:20150913T103000
+EXDATE;TZID=Europe/Amsterdam:20150920T103000
+EXDATE;TZID=Europe/Amsterdam:20150927T103000
+EXDATE;TZID=Europe/Amsterdam:20151004T103000
+EXDATE;TZID=Europe/Amsterdam:20151011T103000
+EXDATE;TZID=Europe/Amsterdam:20151018T103000
+EXDATE;TZID=Europe/Amsterdam:20151025T103000
+EXDATE;TZID=Europe/Amsterdam:20151101T103000
+EXDATE;TZID=Europe/Amsterdam:20151108T103000
+EXDATE;TZID=Europe/Amsterdam:20151115T103000
+EXDATE;TZID=Europe/Amsterdam:20151122T103000
+EXDATE;TZID=Europe/Amsterdam:20151129T103000
+EXDATE;TZID=Europe/Amsterdam:20151206T103000
+EXDATE;TZID=Europe/Amsterdam:20151213T103000
+EXDATE;TZID=Europe/Amsterdam:20151220T103000
+EXDATE;TZID=Europe/Amsterdam:20151227T103000
+LOCATION:Kerkcentrum Open Haven\, Kerkplein\, Zeewolde\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Kerkdienst
+URL:https://pgzeewolde.nl/activiteit/kerkdienst-4
+END:VEVENT
+END:VCALENDAR

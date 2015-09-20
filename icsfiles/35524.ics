@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.232.246.17//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://10pintimes.com
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-610@10pintimes.com
+DTSTAMP:20150920T002349Z
+CATEGORIES:
+CONTACT:http://pba.com/Tournaments/Details/2058
+DESCRIPTION:<p>For more information about the World Series of Bowling VII\,
+  check out the tournament's official website at: <a href='http://pba.com/T
+ ournaments/Details/2058'>pba.com/Tournaments/Details/2058</a></p>
+DTSTART;VALUE=DATE:20151016
+DTEND;VALUE=DATE:20151102
+LOCATION:South Point Hotel & Casino @ 9777 South Las Vegas Boulevard\, Las 
+ Vegas\, NV 89183\, USA
+SEQUENCE:0
+SUMMARY:PBA World Series of Bowling VII
+URL:http://10pintimes.com/event/pba-world-series-of-bowling-vii/
+X-TAGS;LANGUAGE=en-US:bowling\,Nevada\,PBA\,South Point\,World Series
+X-COST:Check Website For Costs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-608@10pintimes.com
+DTSTAMP:20150920T002349Z
+CATEGORIES:
+CONTACT:Damon Sarrocco\; Damon.Sarrocco@bowl.com
+DESCRIPTION:<p>For more information about the event\, check out the tournam
+ ent info at: <a href='http://www.bowl.com/Templates/Interior.aspx?id=23622
+ 323153'>www.bowl.com/Templates/Interior.aspx</a>.</p>
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151109
+GEO:+32.862898;-96.654361
+LOCATION:AMF Garland Lanes @ 1950 Marketplace Drive\, Garland\, TX 75041\, 
+ USA
+SEQUENCE:0
+SUMMARY:2015 U.S. Open
+URL:http://10pintimes.com/event/2015-u-s-open/
+X-TAGS;LANGUAGE=en-US:bowling\,PBA\,Texas\,U.S. Open\,USBC
+X-COST:TBD
+END:VEVENT
+END:VCALENDAR

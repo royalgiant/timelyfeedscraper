@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//188.93.150.84//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.take2two.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-214@www.take2two.nl
+DTSTAMP:20150920T002207Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Besloten feest</p>\n<div style='min-height:33px\;' class='re
+ ally_simple_share really_simple_share_button robots-nocontent snap_noprevi
+ ew'><div class='really_simple_share_facebook_like' style='width:160px\;'><
+ div class='fb-like' data-href='http://www.take2two.nl/' data-layout='butto
+ n_count' data-width='160' data-share='true'></div></div><div class='really
+ _simple_share_twitter' style='width:107px\;'><a href='https://twitter.com/
+ share' class='twitter-share-button' data-count='horizontal'  data-text='We
+ lkom bij topduo TAKE2two' data-url='http://www.take2two.nl/'  data-via='@a
+ llroundduo' data-lang='nl'  ></a></div><div class='really_simple_share_goo
+ gle1' style='width:75px\;'><div class='g-plusone' data-size='medium' data-
+ href='http://www.take2two.nl/' ></div></div><div class='really_simple_shar
+ e_linkedin' style='width:100px\;'><script type='IN/Share' data-counter='ri
+ ght' data-url='http://www.take2two.nl/'></script></div></div>\n		<div class=
+ 'really_simple_share_clearfix'></div>
+DTSTART;TZID=Europe/Amsterdam:20150926T193000
+DTEND;TZID=Europe/Amsterdam:20150926T234500
+GEO:+52.379857;+6.286237
+LOCATION:Raalte\, Nederland
+SEQUENCE:0
+SUMMARY:Besloten feest
+URL:http://www.take2two.nl/event/besloten-feest-3/
+END:VEVENT
+END:VCALENDAR

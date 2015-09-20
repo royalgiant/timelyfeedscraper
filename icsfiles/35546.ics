@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.89.31.59//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.greenplaycooperative.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1639@www.greenplaycooperative.org
+DTSTAMP:20150920T002342Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.greenplaycooperative.org/wp-content/uplo
+ ads/2015/09/2015-Community-Harvest-Festival-FB.jpg'><img class='alignleft 
+ size-medium wp-image-1621' src='http://www.greenplaycooperative.org/wp-con
+ tent/uploads/2015/09/2015-Community-Harvest-Festival-FB-232x300.jpg' alt='
+ 2015 Community Harvest Festival FB' width='232' height='300' /></a></p>
+DTSTART;TZID=America/Los_Angeles:20150926T100000
+DTEND;TZID=America/Los_Angeles:20150926T140000
+GEO:+47.361405;-122.042433
+LOCATION:Lake Wilderness Arboretum @ 22520 224th Ave SE\, Maple Valley\, WA
+  98038\, USA
+SEQUENCE:0
+SUMMARY:Greenplay Cooperative’s First Community Harvest Festival
+URL:http://www.greenplaycooperative.org/event/harvestfestival/
+X-COST:$12 adult donation\; free for children
+END:VEVENT
+END:VCALENDAR

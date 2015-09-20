@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//178.79.175.74//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.sailscorpion.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-318@www.sailscorpion.co.uk
+DTSTAMP:20150920T002310Z
+CATEGORIES;LANGUAGE=en-GB:Class Racing\,Inland Championships\,Silver Scorpi
+ on Traveler
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150928
+GEO:+53.022835;-0.949686
+LOCATION:Northampton Sailing Club @ Pitsford Reservoir\, Northampton Rd\, N
+ orthampton NN6 9DG
+SEQUENCE:0
+SUMMARY:Inland Championships Northampton
+URL:http://www.sailscorpion.co.uk/?ai1ec_event=notts-county-scorpion-open
+X-TAGS;LANGUAGE=en-GB:Inland championships\,Silver Scorpion
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-394@www.sailscorpion.co.uk
+DTSTAMP:20150920T002310Z
+CATEGORIES;LANGUAGE=en-GB:Class Racing\,Silver Scorpion Traveler\,Southern 
+ Travelers
+CONTACT:
+DESCRIPTION:<p>Castle Cove Sailing Club is an active and friendly\, family 
+ club located on the north shore of Portland Harbour. From small beginnings
+  in a cliff-top chalet in 1923\, we have grown steadily and in September 2
+ 002 we moved to our present site at the end of Old Castle Road\, Weymouth.
+ </p>\n<p>During the lead up to the Olympics in 2012 we have welcomed sailo
+ rs from over 20 countries to join us and train at the club. We have a stro
+ ng self-help ethos and run an extensive programme of racing for both dingh
+ ies and keelboats. In conjunction with our busy sailing calendar we have a
+  full social diary taking pride in being a very friendly club\, run by mem
+ bers for members.</p>\n<p> </p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151012
+GEO:+50.598981;-2.45969
+LOCATION:Castle Cove @ Old Castle Road\, Weymouth\, Dorset DT4 8QB\, UK
+SEQUENCE:0
+SUMMARY:Castle Cove Scorpion Open
+URL:http://www.sailscorpion.co.uk/?ai1ec_event=weymouth-regatta
+X-TAGS;LANGUAGE=en-GB:Southern Travelers
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1122@www.sailscorpion.co.uk
+DTSTAMP:20150920T002310Z
+CATEGORIES;LANGUAGE=en-GB:Silver Scorpion Traveler
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.sailscorpion.co.uk/wp-content/uploads/dinnerdance-222x300.png' widt
+ h='222' height='300' /></div><p> </p>\n<p style='text-align: center\;'><st
+ rong>Silver Scorpion End Of Year/Season Dinner & Prize Giving </strong></p
+ >\n<p style='text-align: center\;'>This years EOS & Prize Giving Lunch wil
+ l be hosted by the Dunchurch Park Hotel</p>\n<p style='text-align: center\
+ ;'>Black Tie Dinner</p>\n<p style='text-align: center\;'>£20 Cheques Payab
+ le to NSA from Linda email\;nationals@sailscorpion.co.uk</p>\n<p style='te
+ xt-align: center\;'>Special Room Rates Available Of £75 for 2 in a double 
+ room incl.Brekafast for the first 20 rooms booked (£65 single occupancy)</
+ p>\n<p style='text-align: center\;'>Book Direct With Hotel on \;0178881065
+ 6 quoting 294341</p>\n<p style='text-align: center\;'><a href='http://www.
+ signaturegroup.co.uk/'>http://www.signaturegroup.co.uk/</a></p>\n<p style=
+ 'text-align: center\;'>Ran in conjunction with the Draycote Water Sailing 
+ Club Scorpion Open</p>\n<p style='text-align: center\;'>This is Race 1 Of 
+ Silver Scorpion 2016 so a chance to get an early result in</p>\n<p> </p>\n
+ <p> </p>\n<p> </p>\n<p> </p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151026
+GEO:+52.319304;-1.319861
+LOCATION:Draycote Sailing Club @ Kites Hardwick\, Rugby\, Warwickshire CV23
+  8AB\, UK
+SEQUENCE:0
+SUMMARY:End of Seasons Open @ Draycote SC
+URL:http://www.sailscorpion.co.uk/?ai1ec_event=end-of-seasons-open-draycote
+ -sc
+END:VEVENT
+END:VCALENDAR

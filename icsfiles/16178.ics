@@ -1,0 +1,1089 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//195.93.201.141//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://basketball-ebs.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-89382@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Kein Training !
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2012/02/keinTraining-e13
+ 81958382457.png?fit=300%2C300' width='' height='' /></div><p>die Stadthall
+ e EBS ist anderweitig belegt oder geschlossen – alle Trainingstermine fall
+ en aus!</p>
+DTSTART;VALUE=DATE:20151006
+DTEND;VALUE=DATE:20151007
+LOCATION:Stadthalle EBS
+RDATE;TZID=Europe/Berlin:20151006T000000
+RDATE;TZID=Europe/Berlin:20151224T000000
+RDATE;TZID=Europe/Berlin:20151225T000000
+RDATE;TZID=Europe/Berlin:20151228T000000
+RDATE;TZID=Europe/Berlin:20151229T000000
+RDATE;TZID=Europe/Berlin:20151230T000000
+RDATE;TZID=Europe/Berlin:20151231T000000
+RDATE;TZID=Europe/Berlin:20160101T000000
+RDATE;TZID=Europe/Berlin:20160105T000000
+RDATE;TZID=Europe/Berlin:20160106T000000
+RDATE;TZID=Europe/Berlin:20160108T000000
+RDATE;TZID=Europe/Berlin:20160129T000000
+SEQUENCE:0
+SUMMARY:Kein Training in der Stadthalle!
+URL:http://basketball-ebs.de/event/kein-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89809@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Kein Training !
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2015/09/keinTraining.png
+ ?fit=300%2C300' width='' height='' /></div><p>Vom 1.11.2015 – einschl. 7.1
+ 1.2015 ist die Stadthalle EBS wegen den Herbstferien 2015 geschlossen !</p
+ >
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151108
+LOCATION:Stadthalle EBS
+SEQUENCE:0
+SUMMARY:Herbstferien 2015
+URL:http://basketball-ebs.de/event/herbstferien-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:4lftshr5n7st68mov0d0js4ht8@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160220
+DTEND;VALUE=DATE:20160222
+SEQUENCE:0
+SUMMARY:TOP 4
+URL:http://basketball-ebs.de/event/top-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:n7oc745i5hahg0sdp60tuqf5bk@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150919T163000
+DTEND;TZID=Europe/Berlin:20150920T180000
+LOCATION:Landstede Sportcentrum\, Hogeland 10\, 8024 AZ Zwolle\, Niederland
+ e
+SEQUENCE:0
+SUMMARY:Turnier Landstede
+URL:http://basketball-ebs.de/event/turnier-landstede/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89804@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Auswärtsspiele\,Herren 1
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i0.wp.com/basketball-ebs.de/wp-content/uploads/2015/09/he1_logo1.jpg?fi
+ t=300%2C300' width='' height='' /></div><p>am Sonntag 20.9.2015 empfängt d
+ ie SpVgg Hausen (Kreisliga) die 1. Herrenmannschaft des TSV Ebermannstadt 
+ (Bezirksliga) zu einem Vorbereitungsspiel auf die neue Saison 2015/16.</p>
+DTSTART;TZID=Europe/Berlin:20150920T150000
+DTEND;TZID=Europe/Berlin:20150920T163000
+LOCATION:Sporthalle Hausen
+SEQUENCE:0
+SUMMARY:TSV EBS Herren 1 vs. Spvgg Hausen
+URL:http://basketball-ebs.de/event/tsv-herren-1-vs-spvgg-hausen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89392@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Hobby-/Freizeitgruppe\,Training
+CONTACT:Verantwortlich: Zoltan Egresi
+DESCRIPTION:<p>…Männlein u. Weiblein\, jung und alt\, Anfänger und Wiederei
+ nsteiger und Ü40 – aber keine Profis\, Leistungssportler und Einzelspieler
+ !</p>\n<p>Zeit für „gepflegten“ und ruhigen Mannschaftssport…</p>\n<p>Mont
+ ags von 20.00 – 21.30 Uhr</p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=Europe/Berlin:20150921T200000
+DTEND;TZID=Europe/Berlin:20150921T213000
+EXDATE;TZID=Europe/Berlin:20151102T200000
+EXDATE;TZID=Europe/Berlin:20151228T200000
+EXDATE;TZID=Europe/Berlin:20160104T200000
+LOCATION:Stadthalle EBS
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Hobby-/Freizeitgruppe
+URL:http://basketball-ebs.de/event/hobby-freizeitgruppe/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89379@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Training\,U14
+CONTACT:Trainer: Thomas Wiese
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2013/12/u14_logo1.jpg?fi
+ t=300%2C300' width='' height='' /></div><p>Jungs und Mädels</p>\n<p>Jahrgä
+ nge 2004/2005/2006</p>\n<p>Trainer: Thomas Wiese</p>\n<p><span style='colo
+ r: #ff0000\;'><strong>Trainingszeit-Änderung: ab den 22.9.2015 von 18.30 –
+  20.00 Uhr !</strong></span></p>
+DTSTART;TZID=Europe/Berlin:20150922T183000
+DTEND;TZID=Europe/Berlin:20150922T200000
+EXDATE;TZID=Europe/Berlin:20150724T183000
+EXDATE;TZID=Europe/Berlin:20151006T183000
+EXDATE;TZID=Europe/Berlin:20151103T183000
+EXDATE;TZID=Europe/Berlin:20151229T183000
+EXDATE;TZID=Europe/Berlin:20160105T183000
+LOCATION:Stadthalle EBS / H2
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:U14-Training
+URL:http://basketball-ebs.de/event/u14-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89384@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Training\,U18m
+CONTACT:Trainer: Guido Hübschmann und Dirk Schwarze
+DESCRIPTION:<p>Jungs Jahrgang 1997 a.K./1998/99/2000</p>\n<p>Dienstags von 
+ 18.30 – 20.00 Uhr</p>\n<p>Trainer: Guido Hübschmann u. Dirk Schwarze</p>
+DTSTART;TZID=Europe/Berlin:20150922T183000
+DTEND;TZID=Europe/Berlin:20150922T200000
+EXDATE;TZID=Europe/Berlin:20151006T183000
+EXDATE;TZID=Europe/Berlin:20151103T183000
+EXDATE;TZID=Europe/Berlin:20151105T183000
+EXDATE;TZID=Europe/Berlin:20151229T183000
+EXDATE;TZID=Europe/Berlin:20151231T183000
+EXDATE;TZID=Europe/Berlin:20160105T183000
+LOCATION:Stadthalle EBS
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;WKST=MO
+SEQUENCE:0
+SUMMARY:U18-Training
+URL:http://basketball-ebs.de/event/u18-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89615@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Herren 1\,Training
+CONTACT:Trainer: 'Otto' Hauser
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2013/12/he1_logo1.jpg?fi
+ t=300%2C300' width='' height='' /></div>
+DTSTART;TZID=Europe/Berlin:20150922T200000
+DTEND;TZID=Europe/Berlin:20150922T213000
+EXDATE;TZID=Europe/Berlin:20151006T200000
+EXDATE;TZID=Europe/Berlin:20151103T200000
+EXDATE;TZID=Europe/Berlin:20151106T200000
+EXDATE;TZID=Europe/Berlin:20151225T200000
+EXDATE;TZID=Europe/Berlin:20160101T200000
+EXDATE;TZID=Europe/Berlin:20160105T200000
+EXDATE;TZID=Europe/Berlin:20160108T200000
+EXDATE;TZID=Europe/Berlin:20160129T200000
+LOCATION:Stadthalle EBS
+RRULE:FREQ=WEEKLY;BYDAY=TU,FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Herren 1 – Training
+URL:http://basketball-ebs.de/event/herren-1-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:2bse4u5alu7ph3vitao283pp90@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150923T190000
+DTEND;TZID=Europe/Berlin:20150923T210000
+LOCATION:HUK-COBURG arena\, Oudenaarder Straße\, 96450 Coburg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. WALTER Tigers Tübingen
+URL:http://basketball-ebs.de/event/brose-baskets-vs-walter-tigers-tuebingen
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89391@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Mädels U17w\,Training
+CONTACT:
+DESCRIPTION:<p>nur Mädels – Jahrgang ab 2001 und älter</p>\n<p><strong>neue
+  Trainingszeit ab 16.9.15:</strong> Mittwochs von 20.00 – 21.30 Uhr</p>\n<
+ p>Trainerin: Sonja Vogler</p>
+DTSTART;TZID=Europe/Berlin:20150923T200000
+DTEND;TZID=Europe/Berlin:20150923T213000
+EXDATE;TZID=Europe/Berlin:20151104T200000
+EXDATE;TZID=Europe/Berlin:20151223T200000
+EXDATE;TZID=Europe/Berlin:20151230T200000
+EXDATE;TZID=Europe/Berlin:20160106T200000
+LOCATION:Stadthalle EBS
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Mädels/U17w-Training
+URL:http://basketball-ebs.de/event/maedelsu17w-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89412@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Herren 2\,Training
+CONTACT:Verantwortlich: Oliver Redlin / Jochen Hostalka
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i0.wp.com/basketball-ebs.de/wp-content/uploads/2013/12/he2_logo1.jpg?fi
+ t=300%2C300' width='' height='' /></div><p>2. Herrenmannschaft (spielt in 
+ der Kreisliga)</p>\n<p>…sowie ein Teil der Ü40…und sportliche Kerle\, die 
+ bei der Hobby-/Freizeitgruppe nichts verloren haben…</p>
+DTSTART;TZID=Europe/Berlin:20150924T200000
+DTEND;TZID=Europe/Berlin:20150924T213000
+EXDATE;TZID=Europe/Berlin:20151105T200000
+EXDATE;TZID=Europe/Berlin:20151224T200000
+EXDATE;TZID=Europe/Berlin:20151231T200000
+LOCATION:Stadthalle EBS
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Herren2-Training
+URL:http://basketball-ebs.de/event/herren2-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89378@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Training\,U10
+CONTACT:Trainerinnen: Silke Jakisch und Diana Striegel
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i0.wp.com/basketball-ebs.de/wp-content/uploads/2013/11/U10_logo.jpg?fit
+ =300%2C300' width='' height='' /></div><p>Jungs und Mädels</p>\n<p>für Alt
+ er ca. 7 – 9/10Jahre (Jhg. ab 2006/07 und jünger)</p>\n<p>Trainerinnen: Si
+ lke Jakisch und Diana Striegel</p>\n<p>Ort: Halle 3 / Stadthalle EBS</p>
+DTSTART;TZID=Europe/Berlin:20150925T170000
+DTEND;TZID=Europe/Berlin:20150925T183000
+EXDATE;TZID=Europe/Berlin:20151106T170000
+EXDATE;TZID=Europe/Berlin:20151225T170000
+EXDATE;TZID=Europe/Berlin:20160101T170000
+EXDATE;TZID=Europe/Berlin:20160108T170000
+EXDATE;TZID=Europe/Berlin:20160129T170000
+LOCATION:Stadthalle EBS / H3
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Schnuppertraining
+URL:http://basketball-ebs.de/event/schnuppertraining/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89376@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Training\,U12
+CONTACT:Trainer: Thoms Kurth und Frank Löser
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i1.wp.com/basketball-ebs.de/wp-content/uploads/2013/11/U12_logo1.png?fi
+ t=300%2C300' width='' height='' /></div><p>Jungs und Mädels</p>\n<p>Jahrgä
+ nge 2004/2005/2006</p>\n<p>Trainer: Thomas Kurth und Frank Löser</p>\n<p>O
+ rt: Halle 1 Stadthalle\, EBS</p>
+DTSTART;TZID=Europe/Berlin:20150925T170000
+DTEND;TZID=Europe/Berlin:20150925T183000
+EXDATE;TZID=Europe/Berlin:20150918T170000
+EXDATE;TZID=Europe/Berlin:20151106T170000
+EXDATE;TZID=Europe/Berlin:20151225T170000
+EXDATE;TZID=Europe/Berlin:20160101T170000
+EXDATE;TZID=Europe/Berlin:20160108T170000
+EXDATE;TZID=Europe/Berlin:20160129T170000
+LOCATION:Stadthalle EBS / H1
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:U12-Training
+URL:http://basketball-ebs.de/event/u12-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89380@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Training\,U14
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2013/12/u14_logo1.jpg?fi
+ t=300%2C300' width='' height='' /></div><p>Jungs und Mädels</p>\n<p>Jahrgä
+ nge 2004/2005/2006</p>\n<p>Trainer: Thomas Wiese</p>\n<p>Ort: Halle 2 / St
+ adthalle EBS</p>
+DTSTART;TZID=Europe/Berlin:20150925T170000
+DTEND;TZID=Europe/Berlin:20150925T183000
+EXDATE;TZID=Europe/Berlin:20151106T170000
+EXDATE;TZID=Europe/Berlin:20151225T170000
+EXDATE;TZID=Europe/Berlin:20160101T170000
+EXDATE;TZID=Europe/Berlin:20160108T170000
+EXDATE;TZID=Europe/Berlin:20160129T170000
+LOCATION:Stadthalle EBS / H2
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:U14-Training
+URL:http://basketball-ebs.de/event/u14-training-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89389@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Training\,U16m
+CONTACT:Trainer: Thomas Krauß und Alex Schnell
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2013/11/u16_logo1.jpg?fi
+ t=300%2C300' width='' height='' /></div><p>Jungs Jahrgang 2001/2002</p>\n<
+ p>Freitags von 18.30 – 20.00 Uhr</p>\n<p>Trainer: Thomas Krauß u. Alexande
+ r Schnell</p>
+DTSTART;TZID=Europe/Berlin:20150925T183000
+DTEND;TZID=Europe/Berlin:20150925T200000
+EXDATE;TZID=Europe/Berlin:20151106T183000
+EXDATE;TZID=Europe/Berlin:20151225T183000
+EXDATE;TZID=Europe/Berlin:20160101T183000
+EXDATE;TZID=Europe/Berlin:20160108T183000
+EXDATE;TZID=Europe/Berlin:20160129T183000
+LOCATION:Stadthalle EBS / H3
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:U16-Training
+URL:http://basketball-ebs.de/event/u16-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:n8bjkhgvs48mcvoc66qdr4tbkc@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T000000
+DTEND;TZID=Europe/Berlin:20150927T233000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:ChampionsCup
+URL:http://basketball-ebs.de/event/championscup/
+END:VEVENT
+BEGIN:VEVENT
+UID:fih1v3q77juaiggi4f786pfm7s@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151004T170000
+DTEND;TZID=Europe/Berlin:20151004T190000
+LOCATION:Volkswagen Halle Braunschweig\, Europaplatz 1\, 38100 Braunschweig
+ \, Deutschland
+SEQUENCE:0
+SUMMARY:Basketball Löwen Braunschweig vs. Brose Baskets
+URL:http://basketball-ebs.de/event/basketball-loewen-braunschweig-vs-brose-
+ baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89608@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Herren 1
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2013/12/he1_logo1.jpg?fi
+ t=300%2C300' width='' height='' /></div><p>Bezirkspokalspiel – 1. Runde</p
+ >\n<p>Die 1. Herrenmannschaft (Bez.liga) spielt zuhause gegen den Bez.Ober
+ ligisten SpVgg  Rattelsdorf 2</p>
+DTSTART;TZID=Europe/Berlin:20151004T170000
+DTEND;TZID=Europe/Berlin:20151004T183000
+LOCATION:Stadthalle EBS
+SEQUENCE:0
+SUMMARY:Bez.Pokal Herren 1 vs Rattelsdorf 2
+URL:http://basketball-ebs.de/event/bez-pokal-herren-1-vs-rattelsdorf/
+END:VEVENT
+BEGIN:VEVENT
+UID:88tb6omffclm6p4ct25379u5o4@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151007T200000
+DTEND;TZID=Europe/Berlin:20151007T220000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Crailsheim Merlins
+URL:http://basketball-ebs.de/event/brose-baskets-vs-crailsheim-merlins/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89619@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Heimspiele\,Herren 1\,U16m\,U18m
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2015/09/heimspiele.jpg?f
+ it=300%2C300' width='' height='' /></div><p>Saisoneröffnung ! Die ersten 3
+  Heimspiele der neuen Saison 2015/16 – diesmal ausnahmsweise in der <stron
+ g>Gymnasium-Turnhalle Fränk. Schweiz\, EBS</strong>.</p>\n<p><strong>Samst
+ ag 10.10.2015</strong></p>\n<p>Ab 14.45 Uhr – TSV U18m a.K. vs. ASV Wunsie
+ del</p>\n<p>Ab 17.00 Uhr – TSV U16m vs. Maintal Baskets Hassberge</p>\n<p>
+ Ab 19.30 Uhr – TSV Herren 1 vs. TSV Hof</p>
+DTSTART;TZID=Europe/Berlin:20151010T144500
+DTEND;TZID=Europe/Berlin:20151010T210000
+LOCATION:Gymnasium Fränk. Schweiz\, EBS
+SEQUENCE:0
+SUMMARY:3 Heimspiele am 10.10.
+URL:http://basketball-ebs.de/event/heimspiele/
+END:VEVENT
+BEGIN:VEVENT
+UID:7rft7l58hgpmnjsii8gh32k7f4@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151010T203000
+DTEND;TZID=Europe/Berlin:20151010T223000
+LOCATION:Sporthalle Gießen-Ost @ GIESSEN 46ers Heimspiele\, Sporthalle Gieß
+ en-Ost\, Karl-Reuter-Weg 3\, 35394 Gießen\, Deutschland
+SEQUENCE:0
+SUMMARY:Gießen 46ers vs. Brose Baskets
+URL:http://basketball-ebs.de/event/giessen-46ers-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:0qj8faivjdq9v2eb3gdsdoko4g@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151015T204500
+DTEND;TZID=Europe/Berlin:20151015T224500
+LOCATION:Palacio de Deportes José María Martín Carpena\, Calle Miguel de Me
+ rida Nicolich\, 2\, 29004 Málaga\, Málaga\, Spanien
+SEQUENCE:0
+SUMMARY:Unicaja Malaga vs. Brose Baskets
+URL:http://basketball-ebs.de/event/unicaja-malaga-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89620@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Heimspiele\,U14\,U18m
+CONTACT:
+DESCRIPTION:<p>Sa\, 17.10.2015 14.45  BZ U14 2407 TSV EBS U14 – TS Kronach<
+ br />\nSa\, 17.10.2015 17.00  BK U18 3851 TSV EBS U18 a.K. – ATS Kulmbach<
+ /p>\n<p><!--more--><br />\nSo\, 18.10.2015 12.15  BZ U16 2655 TSV EBS U16 
+ – TV Weismain<br />\nSo\, 18.10.2015 14.30 KLHA 410 TSV EBS Herren 2 – TSV
+  Ludwigsstadt 2<br />\nSo\, 18.10.2015 17.00 BZH 110 TSV EBS Herren 1 – Re
+ gnitztal Bask. 2</p>
+DTSTART;TZID=Europe/Berlin:20151017T144500
+DTEND;TZID=Europe/Berlin:20151017T183000
+LOCATION:Stadthalle EBS
+SEQUENCE:0
+SUMMARY:2 Heimspiele am Sa\, 17.10.
+URL:http://basketball-ebs.de/event/2-heimspiele-am-sa-17-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89621@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Heimspiele\,Herren 1\,Herren 2\,U16m
+CONTACT:
+DESCRIPTION:<p>So\, 18.10.2015 12.15  BZ U16 2655 TSV EBS U16 – TV Weismain
+ <br />\nSo\, 18.10.2015 14.30 KLHA 410 TSV EBS Herren 2 – TSV Ludwigsstadt
+  2<br />\nSo\, 18.10.2015 17.00 BZH 110 TSV EBS Herren 1 – Regnitztal Bask
+ . 2</p>
+DTSTART;TZID=Europe/Berlin:20151018T121500
+DTEND;TZID=Europe/Berlin:20151018T183000
+LOCATION:Stadthalle EBS
+SEQUENCE:0
+SUMMARY:3 Heimspiel am So\, 18.10.
+URL:http://basketball-ebs.de/event/3-heimspiel-am-so-18-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:1gem9t9v0h33gukmbahumq40ig@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151018T170000
+DTEND;TZID=Europe/Berlin:20151018T190000
+LOCATION:Sparkassen-Arena\, Schützenplatz\, 37081 Göttingen\, Deutschland
+SEQUENCE:0
+SUMMARY:BG Göttingen vs. Brose Baskets
+URL:http://basketball-ebs.de/event/bg-goettingen-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:eu012bk4lf5bu994j904noqjkg@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151023T200000
+DTEND;TZID=Europe/Berlin:20151023T220000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Darussafaka Dogus Istanbul
+URL:http://basketball-ebs.de/event/brose-baskets-vs-darussafaka-dogus-istan
+ bul/
+END:VEVENT
+BEGIN:VEVENT
+UID:n6tt8pj15poa9jjc9d05rlco2c@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151025T170000
+DTEND;TZID=Europe/Berlin:20151025T190000
+LOCATION:EWE ARENA\, Maastrichter Straße 1\, 26123 Oldenburg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. EWE Baskets Oldenburg
+URL:http://basketball-ebs.de/event/brose-baskets-vs-ewe-baskets-oldenburg/
+END:VEVENT
+BEGIN:VEVENT
+UID:aq4pgtv2t0gjgcivvccfra1sns@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151029T200000
+DTEND;TZID=Europe/Berlin:20151029T220000
+LOCATION:ZSKA-Universal-Sporthalle
+SEQUENCE:0
+SUMMARY:CSKA Moskau vs. Brose Baskets
+URL:http://basketball-ebs.de/event/cska-moskau-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:15r0vlniist06lcrediats70co@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151101T170000
+DTEND;TZID=Europe/Berlin:20151101T190000
+LOCATION:ratiopharm arena\, Europastraße 25\, 89231 Neu-Ulm\, Deutschland
+SEQUENCE:0
+SUMMARY:ratiopharm ulm vs. Brose Baskets
+URL:http://basketball-ebs.de/event/ratiopharm-ulm-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:k1bellrlfs1aqbvf415t1q3b30@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151105T190000
+DTEND;TZID=Europe/Berlin:20151105T210000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Maccabi Tel Aviv
+URL:http://basketball-ebs.de/event/brose-baskets-vs-maccabi-tel-aviv/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89805@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Heimspiele\,Herren 1\,Herren 2\,U14\,U16m
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2015/09/heimspiele.jpg?f
+ it=300%2C300' width='' height='' /></div><p>So\, 08.11.2015 10.00 Uhr: BZ 
+ U14 #2417 TSV EBS U14 – BG Litzendorf (KG:U16)<br />\nSo\, 08.11.2015 12.1
+ 5Uhr:   BZ U16 #2619 TSV EBS U16 – TSV Ludwigsstadt (KG:U14)<br />\nSo\, 0
+ 8.11.2015 14.30Uhr:  KLHA #420 TSV EBS Herren 2 – TS Kronach 2 (KG:He1)<br
+  />\nSo\, 08.11.2015 17.00Uhr:  EBS BZH #120 TSV EBS Herren 1 – TS Kronach
+  (KG:He2)<br />\n…alle 4 Heimspiel finden in der Stadthalle EBS statt…</p>
+DTSTART;TZID=Europe/Berlin:20151108T100000
+DTEND;TZID=Europe/Berlin:20151108T183000
+LOCATION:Stadthalle EBS
+SEQUENCE:0
+SUMMARY:4 Heimspiele am So\, 8.11.15
+URL:http://basketball-ebs.de/event/4-heimspiele-am-so-8-11-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:lf8qnm23igl0fl4b79tq9oe248@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151108T170000
+DTEND;TZID=Europe/Berlin:20151108T190000
+LOCATION:Paul-Horn-Arena\, Europastraße 50\, 72072 Tübingen\, Deutschland
+SEQUENCE:0
+SUMMARY:WALTER Tigers Tübingen vs. Brose Baskets
+URL:http://basketball-ebs.de/event/walter-tigers-tuebingen-vs-brose-baskets
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:j4gqo91s38g25gmhin02k9d1b0@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151110T200000
+DTEND;TZID=Europe/Berlin:20151110T220000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Mitteldeutscher Basketball Club
+URL:http://basketball-ebs.de/event/brose-baskets-vs-mitteldeutscher-basketb
+ all-club/
+END:VEVENT
+BEGIN:VEVENT
+UID:s6c8pidlsbnfrdg90s1d5njubk@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151113T203000
+DTEND;TZID=Europe/Berlin:20151113T223000
+LOCATION:PalaSerradimigni\, Piazza Antonio Segni\, Sassari SS\, Italien
+SEQUENCE:0
+SUMMARY:Dinamo Banco di Sardegna Sassari vs. Brose Baskets
+URL:http://basketball-ebs.de/event/dinamo-banco-di-sardegna-sassari-vs-bros
+ e-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:kmc4qvraalodi4nbfsomt7uo3c@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151115T170000
+DTEND;TZID=Europe/Berlin:20151115T190000
+LOCATION:Fraport Arena\, Silostraße 46\, 65929 Frankfurt am Main\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:FRAPORT SKYLINERS Frankfurt vs. Brose Baskets
+URL:http://basketball-ebs.de/event/fraport-skyliners-frankfurt-vs-brose-bas
+ kets/
+END:VEVENT
+BEGIN:VEVENT
+UID:ovcbcl9cl54terdp9uoegqqfuo@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151120T200000
+DTEND;TZID=Europe/Berlin:20151120T220000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Unicaja Malaga
+URL:http://basketball-ebs.de/event/brose-baskets-vs-unicaja-malaga/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89807@basketball-ebs.de
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Heimspiele\,Herren 1\,Herren 2\,U14\,U18m
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2015/09/heimspiele.jpg?f
+ it=300%2C300' width='' height='' /></div><p>Sa\, 21.11.2015 14.45:  BZ U14
+  #2427 TSV EBS U14 – Maintal Bask.Hassb. (KG: U18)<br />\nSa\, 21.11.2015 
+ 17.00:  BK U18 #3828 TSV EBS U18 a.K. – SV Zapfendorf (KG: U14)<br />\nSo\
+ , 22.11.2015 14.30: KLHA #430 TSV EBS Herren 2 – BG Litzendorf 3 (KG: He1)
+ <br />\nSo\, 22.11.2015 17.00: BZH #130 TSV EBS Herren 1 – TSV Bindlach (K
+ G: He2)</p>
+DTSTART;TZID=Europe/Berlin:20151121T144500
+DTEND;TZID=Europe/Berlin:20151121T183000
+LOCATION:Stadthalle EBS
+SEQUENCE:0
+SUMMARY:4 Heimspiele am Sa\, 21.11.15
+URL:http://basketball-ebs.de/event/4-heimspiele-am-sa-21-11-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:e54dk9nusfau97to502f3khl64@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151122T170000
+DTEND;TZID=Europe/Berlin:20151122T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Phoenix Hagen
+URL:http://basketball-ebs.de/event/brose-baskets-vs-phoenix-hagen/
+END:VEVENT
+BEGIN:VEVENT
+UID:b83dbk04qtatcd2k4i0li42pp0@google.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151127T214500
+DTEND;TZID=Europe/Berlin:20151127T234500
+LOCATION:Darussafaka Ayhan Sahenk Spor Salonu\, Daruşşafaka Mah.\, Daruşşaf
+ aka Cad. Darüşşafaka Eğitim Kurumları No:14\, Şişli/İstanbul\, Türkei
+SEQUENCE:0
+SUMMARY:Darussafaka Dogus Istanbul vs. Brose Baskets
+URL:http://basketball-ebs.de/event/darussafaka-dogus-istanbul-vs-brose-bask
+ ets/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpp5fum0lhqv3c0a67dirr5bjo@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151203T200000
+DTEND;TZID=Europe/Berlin:20151203T220000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. CSKA Moskau
+URL:http://basketball-ebs.de/event/brose-baskets-vs-cska-moskau/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-89808@basketball-ebs.de
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Heimspiele\,Herren 1\,Herren 2\,U16m
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/basketball-ebs.de/wp-content/uploads/2015/09/heimspiele.jpg?f
+ it=300%2C300' width='' height='' /></div><p>So\, 06.12.2015 12.15 Uhr : BZ
+  U16 #2639 TSV EBS U16 – DJK Eggolsheim a.K. (KG: He1)<br />\nSo\, 06.12.2
+ 015 14.30Uhr : KLHA #440 TSV EBS Herren 2 – SpVgg Hausen (KG: U16)<br />\n
+ So\, 06.12.2015 17.00 Uhr: BZH #140 TSV EBS Herren 1 – BBC Bayreuth 3 (KG:
+  He2)</p>
+DTSTART;TZID=Europe/Berlin:20151206T121500
+DTEND;TZID=Europe/Berlin:20151206T183000
+LOCATION:Stadthalle EBS
+SEQUENCE:0
+SUMMARY:3 Heimspiele am So\, 6.12.15
+URL:http://basketball-ebs.de/event/3-heimspiele-am-so-6-12-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:dk3u6og5eig8eb1b3h1f0aaq0k@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151206T150000
+DTEND;TZID=Europe/Berlin:20151206T170000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. FC Bayern München
+URL:http://basketball-ebs.de/event/brose-baskets-vs-fc-bayern-muenchen/
+END:VEVENT
+BEGIN:VEVENT
+UID:cfcblqn0148u223pkb3nbdn52k@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151210T210500
+DTEND;TZID=Europe/Berlin:20151210T230500
+LOCATION:Menora Mivtachim Arena\, Yigal Alon Street 51\, Tel Aviv-Yafo\, 67
+ 062\, Israel
+SEQUENCE:0
+SUMMARY:Maccabi Tel Aviv vs. Brose Baskets
+URL:http://basketball-ebs.de/event/maccabi-tel-aviv-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:3slrm6dkcd946mkgf3i0tn6fh4@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151213T170000
+DTEND;TZID=Europe/Berlin:20151213T190000
+LOCATION:Mercedes-Benz Arena Berlin\, Mercedes-Platz 1\, 10243 Berlin\, Deu
+ tschland
+SEQUENCE:0
+SUMMARY:ALBA Berlin vs. Brose Baskets
+URL:http://basketball-ebs.de/event/alba-berlin-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:t5p67rnm77jhhnh4dlb31kfvnc@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151217T200000
+DTEND;TZID=Europe/Berlin:20151217T220000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Dinamo Banco di Sardegna Sassari
+URL:http://basketball-ebs.de/event/brose-baskets-vs-dinamo-banco-di-sardegn
+ a-sassari/
+END:VEVENT
+BEGIN:VEVENT
+UID:e679hhgutaafjhmvjc0dm12beo@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151220T170000
+DTEND;TZID=Europe/Berlin:20151220T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. s.Oliver Würzburg
+URL:http://basketball-ebs.de/event/brose-baskets-vs-s-oliver-wuerzburg/
+END:VEVENT
+BEGIN:VEVENT
+UID:27r6v3dc2rk1hsvc8a2a6a86mo@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151223T200000
+DTEND;TZID=Europe/Berlin:20151223T220000
+LOCATION:MHPArena\, Schwieberdinger Straße 30\, 71636 Ludwigsburg\, Deutsch
+ land
+SEQUENCE:0
+SUMMARY:MHP Riesen Ludwigsburg vs. Brose Baskets
+URL:http://basketball-ebs.de/event/mhp-riesen-ludwigsburg-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5krfaj2j5tmq0vpn0j711047s@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151226T150000
+DTEND;TZID=Europe/Berlin:20151226T170000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. medi bayreuth
+URL:http://basketball-ebs.de/event/brose-baskets-vs-medi-bayreuth/
+END:VEVENT
+BEGIN:VEVENT
+UID:46qnr6eolcrk4g34dmscr25usk@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151230T200000
+DTEND;TZID=Europe/Berlin:20151230T220000
+LOCATION:ÖVB-Arena\, Findorffstraße 101\, 28215 Bremen\, Deutschland
+SEQUENCE:0
+SUMMARY:Eisbären Bremerhaven vs. Brose Baskets
+URL:http://basketball-ebs.de/event/eisbaeren-bremerhaven-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:roueq8c8kapsrrmk9gfhls04n8@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160103T170000
+DTEND;TZID=Europe/Berlin:20160103T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Telekom Baskets Bonn
+URL:http://basketball-ebs.de/event/brose-baskets-vs-telekom-baskets-bonn/
+END:VEVENT
+BEGIN:VEVENT
+UID:38pp5hvkl40gvr0p0antj87aug@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160117T170000
+DTEND;TZID=Europe/Berlin:20160117T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. BG Göttingen
+URL:http://basketball-ebs.de/event/brose-baskets-vs-bg-goettingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:3lshhump8vsshmp7kkbkjso7s8@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160124T170000
+DTEND;TZID=Europe/Berlin:20160124T190000
+LOCATION:Stadthalle Weißenfels\, Beuditzstraße 69a\, 06667 Weißenfels\, Deu
+ tschland
+SEQUENCE:0
+SUMMARY:Mitteldeutscher BC vs. Brose Baskets
+URL:http://basketball-ebs.de/event/mitteldeutscher-bc-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:vm6rf3q3u5ju4938uupgusrji8@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160131T170000
+DTEND;TZID=Europe/Berlin:20160131T190000
+LOCATION:S.Oliver Arena\, Stettiner Straße 1\, 97072 Würzburg\, Deutschland
+SEQUENCE:0
+SUMMARY:s. Oliver Baskets vs. Brose Baskets
+URL:http://basketball-ebs.de/event/s-oliver-baskets-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:9ejjsktauqaffdfckit5b1fs40@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160207T170000
+DTEND;TZID=Europe/Berlin:20160207T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. WALTER Tigers Tübingen
+URL:http://basketball-ebs.de/event/brose-baskets-vs-walter-tigers-tuebingen
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:uuvc684gao09f611u7k7ciqpfo@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160213T183000
+DTEND;TZID=Europe/Berlin:20160213T203000
+LOCATION:Arena Hohenlohe\, Justus-von-Liebig-Straße 1\, 74532 Ilshofen\, De
+ utschland
+SEQUENCE:0
+SUMMARY:Crailsheim Merlins vs. Brose Baskets
+URL:http://basketball-ebs.de/event/crailsheim-merlins-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:p9dp185npn4ctik99gt76jp378@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160228T170000
+DTEND;TZID=Europe/Berlin:20160228T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. FRAPORT SKYLINERS Frankfurt
+URL:http://basketball-ebs.de/event/brose-baskets-vs-fraport-skyliners-frank
+ furt/
+END:VEVENT
+BEGIN:VEVENT
+UID:hvrirni1mpkqbk5jmk0rmadq08@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160306T150000
+DTEND;TZID=Europe/Berlin:20160306T170000
+LOCATION:Enervie Arena\, Sportpark Ischeland\, Stadionstraße\, 58097 Hagen\
+ , Deutschland
+SEQUENCE:0
+SUMMARY:Phoenix Hagen vs. Brose Baskets
+URL:http://basketball-ebs.de/event/phoenix-hagen-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:uun4oslj97fmeoiunlav06hg30@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160313T170000
+DTEND;TZID=Europe/Berlin:20160313T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Gießen 46ers
+URL:http://basketball-ebs.de/event/brose-baskets-vs-giessen-46ers/
+END:VEVENT
+BEGIN:VEVENT
+UID:qfi6l9tmnlqm5otkpee60823ls@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160320T170000
+DTEND;TZID=Europe/Berlin:20160320T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. MHP Riesen Ludwigsburg
+URL:http://basketball-ebs.de/event/brose-baskets-vs-mhp-riesen-ludwigsburg/
+END:VEVENT
+BEGIN:VEVENT
+UID:phdie24nk3h8d3blb248chpemk@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160327T170000
+DTEND;TZID=Europe/Berlin:20160327T190000
+LOCATION:Gaststätte Oberfrankenhalle\, Am Sportpark 3\, 95448 Bayreuth\, De
+ utschland
+SEQUENCE:0
+SUMMARY:medi bayreuth vs. Brose Baskets
+URL:http://basketball-ebs.de/event/medi-bayreuth-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:duqtmql5ovbspc3e5ka0tntog0@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160403T170000
+DTEND;TZID=Europe/Berlin:20160403T190000
+LOCATION:Telekom Dome\, Basketsring\, 53123 Bonn\, Deutschland
+SEQUENCE:0
+SUMMARY:Telekom Baskets Bonn vs. Brose Baskets
+URL:http://basketball-ebs.de/event/telekom-baskets-bonn-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:kvtbh1i2jn8ct8tb7sot87ecto@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160410T170000
+DTEND;TZID=Europe/Berlin:20160410T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. ratiopharm ulm
+URL:http://basketball-ebs.de/event/brose-baskets-vs-ratiopharm-ulm/
+END:VEVENT
+BEGIN:VEVENT
+UID:scjsjag02j2momd9fbaus0hspg@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160416T203000
+DTEND;TZID=Europe/Berlin:20160416T223000
+LOCATION:EWE ARENA\, Maastrichter Straße 1\, 26123 Oldenburg\, Deutschland
+SEQUENCE:0
+SUMMARY:EWE Baskets Oldenburg vs. Brose Baskets
+URL:http://basketball-ebs.de/event/ewe-baskets-oldenburg-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:svc35vuakd7jep3rrtrfns05bk@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160422T183000
+DTEND;TZID=Europe/Berlin:20160422T203000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Basketball Löwen Braunschweig
+URL:http://basketball-ebs.de/event/brose-baskets-vs-basketball-loewen-braun
+ schweig/
+END:VEVENT
+BEGIN:VEVENT
+UID:9032dstlhiimdnrhcv8f70dd2g@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160424T170000
+DTEND;TZID=Europe/Berlin:20160424T190000
+LOCATION:Audi Dome\, Grasweg 74\, 81373 München\, Deutschland
+SEQUENCE:0
+SUMMARY:FC Bayern München vs. Brose Baskets
+URL:http://basketball-ebs.de/event/fc-bayern-muenchen-vs-brose-baskets/
+END:VEVENT
+BEGIN:VEVENT
+UID:8b4jbf9eeljhhctaqlpi17bmtk@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160429T200000
+DTEND;TZID=Europe/Berlin:20160429T220000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. ALBA Berlin
+URL:http://basketball-ebs.de/event/brose-baskets-vs-alba-berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:d1tv191jvlnav92v2c6fia67os@google.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=de-DE:Brose Baskets Spiele
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160501T170000
+DTEND;TZID=Europe/Berlin:20160501T190000
+LOCATION:brose ARENA\, Forchheimer Straße 15\, 96050 Bamberg\, Deutschland
+SEQUENCE:0
+SUMMARY:Brose Baskets vs. Eisbären Bremerhaven
+URL:http://basketball-ebs.de/event/brose-baskets-vs-eisbaeren-bremerhaven/
+END:VEVENT
+END:VCALENDAR

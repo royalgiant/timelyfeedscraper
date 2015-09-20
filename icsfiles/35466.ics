@@ -1,0 +1,652 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//213.186.33.24//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.forum-gv.com
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-91@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:http://www.siati.fr/
+DESCRIPTION:<p>Pour consulter le programme et s’inscrire <a href='http://ww
+ w.siati.fr/'>cliquez ici</a></p>
+DTSTART;VALUE=DATE:20151104
+DTEND;VALUE=DATE:20151105
+GEO:+48.870167;+2.257877
+LOCATION:Allée de Longchamp\, Paris\, France
+SEQUENCE:0
+SUMMARY:SIATI : Sommet Infrastructures\, Aménagement du territoire & Immobi
+ lier
+URL:http://www.forum-gv.com/event/siati-sommet-infrastructures-amenagement-
+ du-territoire-immobilier/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-152@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:
+DESCRIPTION:<p>Pour plus d’information et vous inscrire veuillez contacter 
+ : jcmoingt@gmail.com</p>
+DTSTART;TZID=Europe/Paris:20150919T090000
+DTEND;TZID=Europe/Paris:20150919T200000
+GEO:+48.880777;+2.110156
+LOCATION:Le Port-Marly\, France
+SEQUENCE:0
+SUMMARY:Grand Prix des Pyramides – Trophée Léonard
+URL:http://www.forum-gv.com/event/grand-prix-des-pyramides-trophee-leonard/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-153@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES:
+CONTACT:http://www.bibchip-france.fr/evenements/voir/198/un-podium-pour-2-v
+ incennes
+DESCRIPTION:<p>Pour vous inscrire veuillez copier le lien suivant : http://
+ www.bibchip-france.fr/evenements/voir/198/un-podium-pour-2-vincennes Pour 
+ voir la vidéo de présentation veuillez copier le lien suivant : https://ww
+ w.youtube.com/watch?v=OefZxeWbfV0&feature=youtu.be</p>
+DTSTART;TZID=Europe/Paris:20150920T120100
+DTEND;TZID=Europe/Paris:20150920T130100
+SEQUENCE:0
+SUMMARY:1 podium pour 2 Kacy Run
+URL:http://www.forum-gv.com/event/1-podium-pour-2-kacy-run/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-392@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:mission.ecoter@ecoter.org\; http://www.ecoter.org/agenda?view=inscr
+ iption&cid=114
+DESCRIPTION:<h3>Journée de formation pour les élus locaux et les cadres ter
+ ritoriaux</h3>\n<p><strong>MODULE 1</strong></p>\n<p>A l’heure de la volon
+ té du ministère de l’Éducation nationale de faire entrer « L’École dans l’
+ ère du numérique »\, nombreux sont les élus qui souhaitent doter leurs éco
+ les et leurs établissements d’équipements numériques et éducatifs.</p>\n<p
+ >Lobjectif de cette formation est de répondre à vos besoins\, interrogati
+ ons\, attentes et vous permettre d’avoir les « clés » de la réussite de vo
+ tre projet numérique concerté en partenariat avec les instances académique
+ s de lÉducation nationale\, grâce à une équipe de formateurs polyvalente 
+ et compétente dans le domaine de lÉducation.<br />\nLa matinée est consac
+ rée à <strong>la mise en oeuvre d’une coopération institutionnelle collect
+ ivité-Éducation nationale</strong><br />\nL’après-midi est consacrée aux <
+ strong>écosystèmes matériels et financiers.</strong></p>\n<p>Pour consulte
+ r le programme complet et vous inscrire <a href='http://www.ecoter.org/age
+ nda?view=inscription&cid=114' target='_blank'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20150923T093000
+DTEND;TZID=Europe/Paris:20150923T173000
+GEO:+48.84124;+2.368298
+LOCATION:72 Avenue Pierre Mendès-France\, 75013 Paris\, France
+SEQUENCE:0
+SUMMARY:Réussir une politique d’équipement pour l’éducation – module 1
+URL:http://www.forum-gv.com/event/reussir-une-politique-dequipement-numeriq
+ ue-pour-leducation-module-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-361@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>Le formateur : <b>Jean-François LEMMET</b></p>\n<p>Consultan
+ t-Formateur dans le domaine RH</p>\n<p>Administrateur territorial\, il a o
+ ccupé les fonctions de DGA-RH et modernisation dans une importante collect
+ ivité dÎle-de-France et de Président de lAssociation nationale des direc
+ teurs de ressources humaines des territoires (ANDRHDT)</p>\n<p>Les objecti
+ fs :</p>\n<ul>\n<li>Connaître les modalités de recrutement et de gestion d
+ es contractuels suite aux dispositions de la loi du 12 mars 2012 (dite <i>
+ loi Sauvadet</i>) et de la jurisprudence</li>\n<li>Mieux connaître le stat
+ ut et les droits des agents concernés</li>\n<li>Sécuriser les procédures p
+ our la collectivité</li>\n</ul>\n<p>Pour consulter le programme et vous in
+ scrire <a href='http://www.forum-gv.com/wp-content/uploads/2015/09/Fiche-L
+ a-Gestion-des-contractuels-dans-la-FPT.pdf'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20150925T100000
+DTEND;TZID=Europe/Paris:20150925T173000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:La gestion des contractuels dans la FPT
+URL:http://www.forum-gv.com/event/la-gestion-des-contractuels-dans-la-fpt-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-397@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:mission.ecoter@ecoter.org
+DESCRIPTION:<p><span class='rouge text12'>09h30 – 10h00 </span>Accueil et c
+ afé</p>\n<p><span class='rouge text12'>10h00 – 12h00 </span><strong>« Perf
+ ormance de l’achat : les enjeux et leviers de gains »</strong></p>\n<p><sp
+ an class='rouge text12'>12h00 – 13h30 </span>Cocktail déjeunatoire</p>\n<p
+ ><span class='rouge text12 '>13h30 – 14h15 </span><span class='block gauch
+ e'><strong>« Véhicules et services associés : quelles solutions de mobilit
+ é ? Gestion de flotte\, achat\, location »</strong></span></p>\n<p><span c
+ lass='rouge text12 gauche'>14h15 – 15h00 </span><span class='block gauche'
+ ><strong class='block margin_bottom_5px'>« Déplacements professionnels » :
+  une offre clés en main</strong></span></p>\n<p><span class='rouge text12 
+ gauche'>15h00 – 15h30 </span><span class='block gauche'><strong class='blo
+ ck margin_bottom_5px'>« Formation professionnelle » : concilier achat perf
+ ormant et apprentissage – nouveauté 2015</strong></span></p>\n<p><span cla
+ ss='rouge text12'>12h00 – 16h00 </span>Visite de l’exposition</p>\n<p> </p
+ >\n<p>Pour consulter le programme et vous inscrire <a href='https://www.ug
+ ap.fr/actualites/colloque-le-code-des-marches-publics-a-dijon_88160.html' 
+ target='_blank'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20150929T093000
+DTEND;TZID=Europe/Paris:20150929T160000
+GEO:+47.329715;+5.054073
+LOCATION:Parc des Expositions et Congrès @ 3 Boulevard de Champagne\, 21000
+  Dijon\, France
+SEQUENCE:0
+SUMMARY:Colloque Performance de l’achat public de Dijon
+URL:http://www.forum-gv.com/event/colloque-performance-de-lachat-public-de-
+ dijon/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-362@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>La formatrice :<b> Isabelle MICOTTIS</b></p>\n<p>Consultante
+ -Formatrice</p>\n<p>Les objectifs :</p>\n<ul>\n<li>Apprendre à rebondir av
+ ec aisance\, gagner en répartie et argumenter clairement grâce aux techniq
+ ues dimprovisation et de rhétorique savèrent être une compétence indispe
+ nsable aujourdhui.</li>\n<li>Vous souhaitez développer vos capacités à mo
+ biliser et parvenir à les convaincre plus facilement ?</li>\n<li>Vous avez
+  des difficultés à vous défaire des critiques\, désapprobations et questio
+ ns déstabilisantes ?</li>\n<li>Cette formation vous propose de vous former
+  aux mécanismes de persuasion orale\, et aux techniques de réponses aux ob
+ jections.</li>\n</ul>\n<p>Pour consulter le programme complet et vous insc
+ rire <a href='http://www.forum-gv.com/wp-content/uploads/2015/09/Fiche-Mai
+ triser-la-prise-de-parole-en-public.pdf'>cliquez ici</a></p>\n<p> </p>
+DTSTART;TZID=Europe/Paris:20150929T100000
+DTEND;TZID=Europe/Paris:20150930T173000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Maîtriser la prise de parole en public
+URL:http://www.forum-gv.com/event/maitriser-la-prise-de-parole-en-public/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-393@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:mission.ecoter@ecoter.org\; http://www.ecoter.org/agenda?view=inscr
+ iption&cid=115
+DESCRIPTION:<h3>Journée de formation pour les élus locaux et les cadres ter
+ ritoriaux</h3>\n<p><strong>MODULE 2</strong></p>\n<p>A l’heure de la volon
+ té du ministère de l’Éducation nationale de faire entrer « L’École dans l’
+ ère du numérique »\, nombreux sont les élus qui souhaitent doter leurs éco
+ les et leurs établissements d’équipements numériques et éducatifs.</p>\n<p
+ >Lobjectif de cette formation est de répondre à vos besoins\, interrogati
+ ons\, attentes et vous permettre d’avoir les « clés » de la réussite de vo
+ tre projet numérique concerté en partenariat avec les instances académique
+ s de lÉducation nationale\, grâce à une équipe de formateurs polyvalente 
+ et compétente dans le domaine de lÉducation.</p>\n<p> <strong>La matinée
+ </strong> est consacrée à l’accompagnement des enseignants innovants dans 
+ le développement des usages et à la mise en place d’une éducation partagée
+  (<strong>partie 1</strong>)</p>\n<p><strong> L’après-midi</strong> est c
+ onsacrée aux à l’évaluation d’une politique numérique pour l’éducation et 
+ à la mise en place d’une éducation partagée (<strong>partie 2</strong>)</p
+ >\n<p>Pour consulter le programme complet et vous inscrire <a href='http:/
+ /www.ecoter.org/agenda?view=inscription&cid=115' target='_blank'>cliquez i
+ ci</a></p>
+DTSTART;TZID=Europe/Paris:20150930T093000
+DTEND;TZID=Europe/Paris:20150930T173000
+GEO:+48.84124;+2.368298
+LOCATION:72 Avenue Pierre Mendès-France\, 75013 Paris\, France
+SEQUENCE:0
+SUMMARY:Réussir une politique d’équipement pour l’éducation – module 2
+URL:http://www.forum-gv.com/event/reussir-une-politique-dequipement-pour-le
+ ducation-module-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-400@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:
+DESCRIPTION:<p><strong>PROGRAMME</strong></p>\n<p><span class='rouge text12
+ '>09h00 – 09h30 </span>Accueil et café</p>\n<p><span class='rouge text12 g
+ auche'>09h30 – 10h00 </span><span class='block gauche'><strong>Discours d’
+ ouverture avec Joël Bruneau\, Maire de Caen et Président de la Communauté 
+ d’Agglomération de Caen La Mer et Philippe Jacoillot\, Directeur interrégi
+ onal Nord de l’UGAP</strong></span></p>\n<p><span class='rouge text12 gauc
+ he'>10h00 – 12h00 </span><strong>« Performance de l’achat : les enjeux et 
+ leviers de gains »</strong></p>\n<p><span class='rouge text12'>12h00 – 13h
+ 30 </span>Cocktail déjeunatoire & espace rencontre location de véhicules</
+ p>\n<p><span class='rouge text12 gauche'>13h30 – 14h45 </span><span class=
+ 'block gauche'><strong>« Véhicules et services associés : quelles solution
+ s de mobilité ? Gestion de flotte\, achat\, location »</strong></span></p>
+ \n<p><span class='block gauche'><strong>Déplacements professionnels : une 
+ offre clés en main</strong></span></p>\n<p><span class='rouge text12 gauch
+ e'>13h30 – 15h00 </span><span class='block gauche'><strong>Formation profe
+ ssionnelle : concilier achat performant et apprentissage – nouveauté 2015<
+ /strong></span></p>\n<p>Pour consulter le programme et vous inscrire <a hr
+ ef='https://www.ugap.fr/actualites/actualites/evenements/performance-de-la
+ chat-public-de-caen_415751.html' target='_blank'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151006T090000
+DTEND;TZID=Europe/Paris:20151006T150000
+GEO:+49.175092;-0.370794
+LOCATION:Centre de Congrès de Caen @ 13 Avenue Albert Sorel\, 14000 Caen\, 
+ France
+SEQUENCE:0
+SUMMARY:Colloque Performance de l’achat public de Caen
+URL:http://www.forum-gv.com/event/colloque-performance-de-lachat-public-de-
+ caen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-364@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>La formatrice : <b>Isabelle MICOTTIS</b></p>\n<p>Consultante
+ -Formatrice</p>\n<p>Les objectifs :</p>\n<ul>\n<li>Vous êtes confronté à u
+ n contexte de tensions\, voire de conflits\, dans votre environnement de t
+ ravail ?</li>\n<li>Vous manquez doutils pour comprendre et gérer ce type 
+ de situation et vous en extraire ?</li>\n<li>Cette formation vous propose 
+ de découvrir des outils simples\, efficaces et performants qui permettent 
+ de rétablir un lien relationnel usé ou rompu tout en en préservant lestim
+ e de soi.</li>\n</ul>\n<p>Pour consulter le programme et vous inscrire <a 
+ href='http://www.forum-gv.com/wp-content/uploads/2015/09/Fiche-Désamorçez-
+ vos-conflits.pdf'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151008T103000
+DTEND;TZID=Europe/Paris:20151009T173000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Désamorcez vos conflits
+URL:http://www.forum-gv.com/event/desamorcez-vos-conflits/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-410@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:Quentin Meullemiestre\; quentin.meulleumiestre@forumgestionvilles.c
+ om
+DESCRIPTION:<p>Pour vous inscrire <a href='http://www.forum-gv.com/wpgforms
+ /conference-debat-autour-de-louvrage-pour-en-finir-vraiment-avec-le-millef
+ euille-territorial/'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151008T173000
+DTEND;TZID=Europe/Paris:20151008T193000
+GEO:+51.039108;+2.373644
+LOCATION:Université du Littoral Côte d'Opale\, 1 Place de l'Yser\, 59375 Du
+ nkerque\, France
+SEQUENCE:0
+SUMMARY:Conférence – débat autour de louvrage Pour en finir (vraiment) ave
+ c le millefeuille territorial
+URL:http://www.forum-gv.com/event/conference-debat-autour-de-louvrage-pour-
+ en-finir-vraiment-avec-le-millefeuille-territorial/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-419@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:sylvie.loiseleur@forumgestionvilles.com
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151013T100000
+DTEND;TZID=Europe/Paris:20151013T120000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Comité de Gestion et Conseil dOrientation du Forum pour la Gestion
+  des Villes
+URL:http://www.forum-gv.com/event/comite-de-gestion-et-conseil-dorientation
+ -du-forum-pour-la-gestion-des-villes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-494@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/www.forum-gv.com/wp-content/uploads/2015/09/millefeuille.jpg?
+ fit=300%2C300' width='' height='' /></div><p>« Multiplication de strates a
+ dministratives\, émiettement communal\, enchevêtrement de compétences\, di
+ sparition de la responsabilité fiscale. 30 ans après les lois Defferre de
+  décentralisation\, la France est devenu un « millefeuille » indigeste de 
+ territoires. Dans le cadre des débats lancés par François Hollande en 2012
+  sur lorganisation territoriale de la République\, Eric Giuily et Olivier
+  Régis émettent 7 propositions <em>pour en finir vraiment avec le millefeu
+ ille territorial</em>. »</p>\n<p>Pour vous inscrire <a href='http://www.fo
+ rum-gv.com/wpgforms/dedicace-de-louvrage-pour-en-finir-vraiment-avec-le-mi
+ llefeuille-territorial/'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151013T190000
+DTEND;TZID=Europe/Paris:20151013T200000
+GEO:+48.826028;+2.270112
+LOCATION:Médiathèque Centre-Ville @ 33 Rue du Gouverneur Général Éboué\, 92
+ 130 Issy-les-Moulineaux\, France
+SEQUENCE:0
+SUMMARY:Dédicace « Pour en finir vraiment avec le millefeuille territorial 
+ »
+URL:http://www.forum-gv.com/event/dedicace-pour-en-finir-vraiment-avec-le-m
+ illefeuille-territorial/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-401@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:
+DESCRIPTION:<p><span class='rouge text12'>09h30 – 10h00 </span>Accueil et c
+ afé</p>\n<p><span class='rouge text12'>10h00 – 12h00 </span><strong>« Perf
+ ormance de l’achat : les enjeux et leviers de gains »</strong></p>\n<p><sp
+ an class='rouge text12'>12h00 – 13h30 </span>Cocktail déjeunatoire</p>\n<p
+ ><span class='rouge text12 '>13h30 – 15h00 </span><span class='block gauch
+ e'><strong>« Gestion des ressources humaines\, gestion des bâtiments et ac
+ hats d’énergie\, quelles prestations de qualité dans un contexte de contra
+ intes budgétaires ? »</strong></span></p>\n<ul>\n<li><span class='block ga
+ uche'><span class='liste_carre_gris margin_bottom_5px block'>L’innovation 
+ au service de la formation professionnelle</span></span></li>\n<li><span c
+ lass='block gauche'><span class='liste_carre_gris margin_bottom_5px block'
+ >La gestion centralisée de vos bâtiments et de vos déplacements</span></sp
+ an></li>\n<li><span class='block gauche'><span class='liste_carre_gris mar
+ gin_bottom_5px block'>Les modalités d’achats d’énergie</span></span></li>
+ \n<li><span class='block gauche'><span class='liste_carre_gris margin_bott
+ om_5px block'><strong>Atelier DILA : Les démarches en ligne proposées aux 
+ collectivités</strong></span></span></li>\n</ul>\n<p>Pour consulter le pro
+ gramme et vous inscrire <a href='https://www.ugap.fr/actualites/actualites
+ /evenements/performance-de-lachat/colloque-performance-de-lachat-public-de
+ -strasbourg_415753.html' target='_blank'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151015T090000
+DTEND;TZID=Europe/Paris:20151015T150000
+GEO:+48.594571;+7.757995
+LOCATION:Palais des Congrès de Strasbourg  @ Place de Bordeaux\, 67000 Stra
+ sbourg\, France
+SEQUENCE:0
+SUMMARY:Colloque Performance de l’achat public de Strasbourg
+URL:http://www.forum-gv.com/event/colloque-performance-de-lachat-public-de-
+ strasbourg/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-394@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:mission.ecoter@ecoter.org
+DESCRIPTION:<p>Colloque de la Mission Ecoter</p>\n<p>Ce colloque\, consacré
+  à la visioconférence dans le primaire\, secondaire et lenseignement supé
+ rieur\, apportera des réponses aux collectivités territoriales et aux repr
+ ésentants institutionnels en faisant le point sur les usages et les nouvea
+ ux modèles pédagogiques (enseignement à distance\, Moocs\, e-learning\, et
+ c.)\, les besoins\, les services\, les compétences requises pour construir
+ e une offre\, les retours sur des dispositifs de visioconférence déployés 
+ dans les écoles\, collèges\, à luniversité\, sur les coûts\, les investis
+ sements\, les financements\, le montage de projets.</p>\n<p>Pour consulter
+  le programme complet et vous inscrire <a href='http://www.ecoter.org/agen
+ da?view=inscription&cid=119' target='_blank'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151015T094500
+DTEND;TZID=Europe/Paris:20151015T161500
+GEO:+48.836572;+2.371185
+LOCATION:2 Avenue Pierre Mendès-France\, 75013 Paris\, France
+SEQUENCE:0
+SUMMARY:La visioconférence\, un vecteur de changement de léducation ? Pour
+  quels besoins\, quels usages\, avec quels services ?
+URL:http://www.forum-gv.com/event/la-visioconference-un-vecteur-de-changeme
+ nt-de-leducation-pour-quels-besoins-quels-usages-avec-quels-services/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-365@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>Le formateur : <b>JEAN-PASCAL BONSIGNORE</b></p>\n<p>Directe
+ ur de communication\, Elu municipal\, Ancien directeur de cabinet\, Chargé
+  de cours à lIEP Lille (Master CPU 5e année)</p>\n<p>Les objectifs :</p>
+ \n<p>Associée à des retours dexpériences\, cette formation apportera outi
+ ls et conseils pour faire face aux situations difficiles :</p>\n<ul>\n<li>
+ Anticiper et comprendre la situation de crise</li>\n<li>Maîtriser ses comm
+ unications en période de crise</li>\n<li>Savoir répondre aux attentes des 
+ médias et des partenaires institutionnels</li>\n<li>Préparer les messages 
+ de demain.</li>\n</ul>\n<p>Pour consulter le programme et vous inscrire <a
+  href='http://www.forum-gv.com/wp-content/uploads/2015/09/Fiche-Communicat
+ ion-de-crise.pdf' target='_blank'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151015T100000
+DTEND;TZID=Europe/Paris:20151015T173000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Communication de crise : les 10 réflexes indispensables
+URL:http://www.forum-gv.com/event/communication-de-crise-les-10-reflexes-in
+ dispensables/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-366@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>Le formateur : <b>Jean-François LEMMET</b></p>\n<p>Consultan
+ t-Formateur dans le domaine RH</p>\n<p>Administrateur territorial\, il a o
+ ccupé les fonctions de DGA-RH et modernisation dans une importante collect
+ ivité dÎle-de-France et de Président de lAssociation nationale des direc
+ teurs de ressources humaines des territoires (ANDRHDT)</p>\n<p>Les objecti
+ fs :</p>\n<p>Mieux appréhender les compétences et le fonctionnement des in
+ stances représentatives du personnel au sein de la FPT\,  dans un contexte
+  de rénovation du dialogue social marqué par une évolution réglementaire i
+ mportante</p>\n<p>Pour consulter le programme et vous inscrire <a href='ht
+ tp://www.forum-gv.com/wp-content/uploads/2015/09/Fiche-Les-instances-repré
+ sentatives-du-personnel.pdf'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151016T100000
+DTEND;TZID=Europe/Paris:20151016T173000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Les instances représentatives du personnel
+URL:http://www.forum-gv.com/event/les-instances-representatives-du-personne
+ l/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-367@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>Le formateur : <b>Nicolas LAROCHE</b></p>\n<p>Délégué Généra
+ l du Forum pour la Gestion des Villes</p>\n<p>Président de Conjuguer</p>\n
+ <p>Les objectifs :</p>\n<ul>\n<li>Connaître les grands principes budgétair
+ es des collectivités</li>\n<li>Appréhender les modalités de vote dun budg
+ et local</li>\n<li>Savoir se repérer dans un document budgétaire</li>\n</u
+ l>\n<p>Pour consulter le programme et vous inscrire <a href='http://www.fo
+ rum-gv.com/wp-content/uploads/2015/09/Fiche-Comprendre-les-budgets-locaux.
+ pdf'>Cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151103T100000
+DTEND;TZID=Europe/Paris:20151103T173000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Comprendre les budgets locaux
+URL:http://www.forum-gv.com/event/comprendre-les-budgets-locaux/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-368@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>La formatrice : <b>Isabelle MICOTTIS</b></p>\n<p>Consultante
+ -Formatrice</p>\n<p>Les objectifs :</p>\n<p>Vous trouvez que négociation r
+ ime avec âpreté\, adversité\, colère\, et menace ?</p>\n<p>Vos négociation
+ s séternisent et vous avez le sentiment que vous ne maîtrisez pas les tec
+ hniques qui vous permettraient de gagner en en persuasion et en habileté ?
+ </p>\n<p>Vous avez\, avec de lexpérience\, développé des comportements in
+ stinctifs qui fonctionnent mais vous souhaitez aujourdhui aller plus loin
+  en faisant le tri dans vos pratiques ?</p>\n<p>Cette formation vous propo
+ se de vous entraîner aux techniques et stratégies de négociation.</p>\n<p>
+ Pour consulter le programme et vous inscrire <a href='http://www.forum-gv.
+ com/wp-content/uploads/2015/09/Fiche-Negociez-avec-agilité.pdf'>cliquez ic
+ i</a></p>
+DTSTART;TZID=Europe/Paris:20151105T100000
+DTEND;TZID=Europe/Paris:20151106T173000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Négociez avec agilité
+URL:http://www.forum-gv.com/event/negociez-avec-agilite/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-395@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:à mission.ecoter@ecoter.org
+DESCRIPTION:<p>Délégation Grande Couronne du CNFPT\, ANDEV et Mission ECOTE
+ R</p>\n<p>Journée du CNFPT Grande Couronne en partenariat avec l’ANDEV et 
+ la Mission Ecoter.<br />\nPublics : Directeurs de services de léducation\
+ , directeurs des systèmes d’information et cadres en charge du numérique é
+ ducatif\, élus.</p>\n<p>Pour consulter le programme et vous inscrire <a hr
+ ef='http://www.ecoter.org/agenda?view=inscription&cid=121' target='_blank'
+ >cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151112T090000
+DTEND;TZID=Europe/Paris:20151112T170000
+GEO:+49.050231;+2.00872
+LOCATION:Médiathèque Visages du monde @ Place du Nautilus\, 95800 Cergy\, F
+ rance
+SEQUENCE:0
+SUMMARY:Lécole numérique : le rôle des collectivités territoriales
+URL:http://www.forum-gv.com/event/lecole-numerique-le-role-des-collectivite
+ s-territoriales/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-396@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:
+DESCRIPTION:<p>Réunion débat de la Mission Ecoter</p>\n<p>Les enjeux qui se
+  profilent dès avril 2016 pour lÎle-de-France\, puis entre octobre 2017 e
+ t 2019 pour les autres territoires français avec la libération des fréquen
+ ces de la bande des 700 Mhz par les services audiovisuels sont importants 
+ et doivent être portés à la connaissance des élus et des directions des co
+ llectivités concernées sur les items suivants :</p>\n<ul>\n<li>marché et r
+ èglements\,</li>\n<li>incidences pour les administrés au regard de la rédu
+ ction de la consommation du spectre par la télévision et la fin du MPEG-2 
+ et aides à léquipement pour les téléspectateurs démunis\,</li>\n<li>bénéf
+ ices attendus\,</li>\n<li>suivi et évaluation du plan de couverture en trè
+ s haut débit mobile des opérateurs.</li>\n</ul>\n<p>Pour consulter le prog
+ ramme et vous inscrire <a href='http://www.ecoter.org/agenda?view=inscript
+ ion&cid=122' target='_blank'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151118T120000
+DTEND;TZID=Europe/Paris:20151118T143000
+SEQUENCE:0
+SUMMARY:Arcep – Monsieur Pierre-Jean Benghozi – Membre du Collège
+URL:http://www.forum-gv.com/event/arcep-monsieur-pierre-jean-benghozi-membr
+ e-du-college/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-369@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>Le formateur : <b>Jean-François LEMMET</b></p>\n<p>Consultan
+ t-Formateur dans le domaine RH</p>\n<p>Administrateur territorial\, il a o
+ ccupé les fonctions de DGA-RH et modernisation dans une importante collect
+ ivité dÎle-de-France et de Président de lAssociation nationale des direc
+ teurs de ressources humaines des territoires (ANDRHDT)</p>\n<p>Les objecti
+ fs :</p>\n<p>Dans une fonction publique territoriale en évolution permanen
+ te\, connaître les principaux enjeux RH est un atout pour anticiper les so
+ lutions et dispositifs à mettre en place. La formation sinscrit dans une 
+ démarche prospective et pragmatique<b>.</b></p>\n<p>Pour consulter le prog
+ ramme et vous inscrire <a href='http://www.forum-gv.com/wp-content/uploads
+ /2015/09/Fiche-Les-principaux-enjeux-RH-des-collectivités.pdf'>cliquez ici
+ </a></p>
+DTSTART;TZID=Europe/Paris:20151119T143200
+DTEND;TZID=Europe/Paris:20151119T153200
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Les principaux enjeux RH des collectivités territoriales
+URL:http://www.forum-gv.com/event/les-principaux-enjeux-rh-des-collectivite
+ s-territoriales/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-370@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>La formatrice : <b>Yannick Piquet-</b><b>Bonfils</b></p>\n<p
+ >Associée-Gérante de DURANTON CONSULTANTS</p>\n<p>Conseil en accompagnemen
+ t des transformations des collectivités territoriales</p>\n<p>Les objectif
+ s :</p>\n<p>La conduite du changement désigne lensemble de la démarche qu
+ i va de la perception dun problème dorganisation à la définition dun ca
+ dre dactions qui permette lélaboration\, le choix et la mise en place d
+ une solution dans des conditions optimales de réussite. Conduire le change
+ ment fait aujourdhui partie des responsabilités qui incombent tout partic
+ ulièrement aux Directions Générales des Collectivités\, dans un contexte e
+ n perpétuelle évolution.</p>\n<ul>\n<li>Apporter aux participants une conn
+ aissance des principaux auteurs et théoriciens de la conduite du changemen
+ t et des enseignements principaux issus de ces théories</li>\n<li>A partir
+  de projets concrets de conduite du changement apportés par les participan
+ ts\, leur permettre de disposer doptions opérationnelles pour conduire et
+  réussir la mise en uvre de ces projets</li>\n<li>Proposer\, à partir da
+ pports sur les phénomènes de résistance au changement\, une réflexion sur 
+ les conditions de réussite des démarches de conduite du changement.</li>\n
+ </ul>\n<p>Pour consulter le programme et vous inscrire <a href='http://www
+ .forum-gv.com/wp-content/uploads/2015/09/Fiche-Conduire-un-projet-de-chang
+ ement.pdf'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151120T100000
+DTEND;TZID=Europe/Paris:20151120T173000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Conduire un projet de changement au sein de la collectivité
+URL:http://www.forum-gv.com/event/conduire-un-projet-de-changement-au-sein-
+ de-la-collectivite/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-371@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Laurianne Rossi\; laurianne.rossi@forumgestionvilles.com
+DESCRIPTION:<p>Le formateur : <b>Loïc BOURLET</b></p>\n<p>Dirigeant de LEXI
+ O Conseil</p>\n<p>les objectifs :</p>\n<p>La France bénéficie pour la péri
+ ode 2014-2020 de fonds de 13\,3 milliards deuros (prix 2011) au titre de 
+ la politique de cohésion économique\, sociale et territoriale de lUnion e
+ uropéenne. Toutefois\, de multiples interlocuteurs existent et il nest pa
+ s toujours aisé de disposer dune vision claire des <b>projets finançables
+  sur un territoire donné </b>et danticiper la <b>gestion rigoureuse néces
+ saire à toute opération cofinancée par les fonds européens</b>.</p>\n<p>Ce
+ tte formation permettra aux stagiaires :</p>\n<ul>\n<li>de replacer la pol
+ itique de cohésion dans le cadre global des politiques de lUnion européen
+ ne</li>\n<li>de connaître les orientations stratégiques de la politique de
+  cohésion en France</li>\n<li>didentifier les fonds et programmes mobilis
+ ables sur leurs territoires ainsi que les autorités responsables</li>\n<li
+ >de maîtriser les règles de base pour la mise en uvre dune opération cof
+ inancée par le fonds européens.</li>\n</ul>\n<p>Pour consulter le programm
+ e et vous inscrire <a href='http://www.forum-gv.com/wp-content/uploads/201
+ 5/09/Fiche-Fonds-Européens.pdf'>cliquez ici</a></p>
+DTSTART;TZID=Europe/Paris:20151124T093000
+DTEND;TZID=Europe/Paris:20151124T173000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:La nouvelle programmation 2014-2020 des fonds européens : de multip
+ les évolutions
+URL:http://www.forum-gv.com/event/la-nouvelle-programmation-2014-2020-des-f
+ onds-europeens-de-multiples-evolutions/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-420@www.forum-gv.com
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=fr-FR:Événements
+CONTACT:sylvie.loiseleur@forumgestionvilles.com
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151208T100000
+DTEND;TZID=Europe/Paris:20151208T120000
+GEO:+48.875589;+2.308174
+LOCATION:39 Rue de Courcelles\, 75008 Paris\, France
+SEQUENCE:0
+SUMMARY:Comité de Gestion et Conseil du Développement du Forum pour la Gest
+ ion des Villes
+URL:http://www.forum-gv.com/event/comite-de-gestion-et-conseil-du-developpe
+ ment-du-forum-pour-la-gestion-des-villes/
+END:VEVENT
+END:VCALENDAR

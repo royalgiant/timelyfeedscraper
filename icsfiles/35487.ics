@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.87.248.219//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://petalumasmallcraftcenter.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2925@petalumasmallcraftcenter.org
+DTSTAMP:20150920T002413Z
+CATEGORIES;LANGUAGE=en-US:events\,History\,rowing\,Sports\,Youth
+CONTACT:Colene Mace\; 707-5292226\; colenemace@aol.com\; http://northbayrow
+ ing.org
+DESCRIPTION:<p>This annual event brings 600+ athletes to Petaluma. Come wat
+ ch it from Shollenberger Park!</p>\n<div id='attachment_591' style='width:
+  160px' class='wp-caption alignleft'><a href='http://petalumasmallcraftcen
+ ter.org/wp-content/uploads/2012/10/20121007-084525-wine-country-rowing-cla
+ ssic-11-10.jpg'><img class='size-thumbnail wp-image-591' src='http://petal
+ umasmallcraftcenter.org/wp-content/uploads/2012/10/20121007-084525-wine-co
+ untry-rowing-classic-11-10-150x150.jpg' alt='Wine Country Rowing Classic 2
+ 012' width='150' height='150' /></a><p class='wp-caption-text'>Wine Countr
+ y Rowing Classic 2012</p></div>\n<p>Each year PSCC member <a href='http://
+ northbayrowing.org/' onclick='__gaTracker('send'\, 'event'\, 'outbound-art
+ icle'\, 'http://northbayrowing.org/'\, 'North Bay Rowing Club')\;'>North B
+ ay Rowing Club</a> and <a href='http://www.students.sonoma.edu/clubs/crew/
+ ' onclick='__gaTracker('send'\, 'event'\, 'outbound-article'\, 'http://www
+ .students.sonoma.edu/clubs/crew/'\, 'SSU Crew')\;'>SSU Crew</a> co-host th
+ e Annual Wine Country Rowing Classic\, a 5\,000-meter “head” race on the f
+ irst Sunday in October\, attracting dozens of clubs and 500 athletes. Rowe
+ rs can sign up on regatta central for this US Rowing-registered regatta. T
+ he event is free to the spectating public\, who get the best views from Sh
+ ollenberger Park.</p>\n<p>Local businesses and organizations that support 
+ this world-class event are the Petaluma Wetlands Alliance\, manning the pa
+ ths at Shollenberger Park for spectators\; The Petaluma Marina\; Community
+  Bikes Petaluma\; the Petaluma Sheriff’s Department\; the Sonoma County Co
+ ast Guard Auxiliary\; food and apparel vendors and the Petaluma Sheraton.<
+ /p>\n<p>Results\, competitors\, event lists and more from past years can b
+ e seen on <a href='https://www.regattacentral.com/regatta/index.jsp?job_id
+ =2355' onclick='__gaTracker('send'\, 'event'\, 'outbound-article'\, 'https
+ ://www.regattacentral.com/regatta/index.jsp?job_id=2355'\, 'Regatta Centra
+ l')\;'>Regatta Central</a>.</p>
+DTSTART;TZID=America/Los_Angeles:20151004T070000
+DTEND;TZID=America/Los_Angeles:20151004T143000
+GEO:+38.232377;-122.614152
+LOCATION:Petaluma Marina @ 781 Baywood Drive\, Petaluma\, CA 94954\, USA
+SEQUENCE:0
+SUMMARY:10th Annual Wine Country Rowing Classic
+URL:http://petalumasmallcraftcenter.org/event/10th-annual-wine-country-rowi
+ ng-classic/
+X-TAGS;LANGUAGE=en-US:boating\,Petaluma regatta\,Petaluma River\,Regatta\,r
+ owing\,Wine Country Regatta\,Wine Country Rowing Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2929@petalumasmallcraftcenter.org
+DTSTAMP:20150920T002413Z
+CATEGORIES;LANGUAGE=en-US:Beer\,Boating\,competition\,downtown
+CONTACT:paddler@susanstarbird.com
+DESCRIPTION:<p class='p1'><a href='http://petalumasmallcraftcenter.org/wp-c
+ ontent/uploads/2014/06/KidsKayakKampGraduationDay-0171-e1409685380500.jpg'
+ ><img class='alignleft size-thumbnail wp-image-2691' src='http://petalumas
+ mallcraftcenter.org/wp-content/uploads/2014/06/KidsKayakKampGraduationDay-
+ 0171-150x150.jpg' alt='KidsKayakKampGraduationDay-0171' width='150' height
+ ='150' /></a>River Town Racers’ premier K1 sprint event.  Organized like a
+  drag race\, with qualifying and eliminations\, between the Turning Basin 
+ and a point 800m downstream.  Starts early and is followed by a 5K sprint 
+ for any watercraft and no-host lunch at Dempsey’s. For details email <a hr
+ ef='mailto:paddler@susanstarbird.com'><span class='s1'>paddler@susanstarbi
+ rd.com</span></a>.</p>
+DTSTART;TZID=America/Los_Angeles:20151011T083000
+DTEND;TZID=America/Los_Angeles:20151011T143000
+GEO:+38.23566;-122.637163
+LOCATION:Cavanagh Landing Park\,  @ 150 Weller Street\, Petaluma\, CA 94952
+ \, USA
+SEQUENCE:0
+SUMMARY:Roostertail Drag Races in Petaluma
+URL:http://petalumasmallcraftcenter.org/event/roostertail-drag-races-in-pet
+ aluma/
+X-TAGS;LANGUAGE=en-US:boating\,kayaking\,mixer\,olympic kayaks\,Petaluma Ri
+ ver\,River Town Racers\,sprint kayak races
+X-COST:TBA
+END:VEVENT
+END:VCALENDAR

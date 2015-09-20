@@ -1,0 +1,1516 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//10.48.9.80//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.chattahoocheetech.edu
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-19920@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Final Exams (1st Eight Weeks)</p>
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151010
+SEQUENCE:0
+SUMMARY:Final Exams (1st Eight Weeks)
+URL:http://www.chattahoocheetech.edu/event/fall-semester-final-exams-1st-ei
+ ght-weeks/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19922@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Last Day of Term (1st Eight Weeks)</p>
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151010
+SEQUENCE:0
+SUMMARY:Last Day of Fall Term (1st Eight Weeks)
+URL:http://www.chattahoocheetech.edu/event/fall-semester-last-day-of-term-1
+ st-eight-weeks/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19904@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>First Day of Fall Semester (2nd 8 Weeks)</p>
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:First Day of Fall Semester (2nd 8 Weeks)
+URL:http://www.chattahoocheetech.edu/event/first-day-of-fall-semester-2nd-8
+ -weeks/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19919@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Final Exams (Full Term and 2nd Eight Weeks)</p
+ >
+DTSTART;VALUE=DATE:20151209
+DTEND;VALUE=DATE:20151213
+SEQUENCE:0
+SUMMARY:Final Exams (Full Term and 2nd Eight Weeks)
+URL:http://www.chattahoocheetech.edu/event/fall-semester-final-exams-full-t
+ erm-and-2nd-eight-weeks/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19921@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Last Day of Term (Full Term and 2nd Eight Week
+ s)</p>
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151213
+SEQUENCE:0
+SUMMARY:Last Day of Fall Term
+URL:http://www.chattahoocheetech.edu/event/fall-semester-last-day-of-term-f
+ ull-term-and-2nd-eight-weeks/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19542@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p id='gov-deadline-2015' class='gov-deadline'><strong>Federal 
+ FAFSA Deadline – </strong><span id='app-startup'>Online applications must 
+ be submitted by midnight Central Time\, <span class='prev-cycle-app-shutdo
+ wn-date'>June 30\, 2015</span>.</span>  <span id='corr-startup'>Any correc
+ tions or updates must be submitted by midnight Central Time\, <span class=
+ 'prev-cycle-corr-shutdown-date'>September 19\, 2015</span>.</span></p>
+DTSTART;TZID=America/New_York:20150919T235900
+DTEND;TZID=America/New_York:20150919T235900
+SEQUENCE:0
+SUMMARY:2014-15 FAFSA Correction/Update Deadline
+URL:http://www.chattahoocheetech.edu/event/fafsa-correctionupdate-deadline/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22302@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES:
+CONTACT:Tina Nesbitt\; syntina.nesbitt@chattahoocheetech.edu
+DESCRIPTION:<p>Save a life!  Stop by the Atrium and donate blood through Re
+ d Cross.  Register online for a guaranteed spot!</p>\n<p>http://www.redcro
+ ssblood.org/rcbmobile/drive/chooseDonationTime.jsp</p>\n<p> </p>
+DTSTART;TZID=America/New_York:20150922T100000
+DTEND;TZID=America/New_York:20150922T150000
+LOCATION:Marietta Campus Atrium
+SEQUENCE:0
+SUMMARY:Red Cross Blood Drive – Marietta Campus
+URL:http://www.chattahoocheetech.edu/event/red-cross-blood-drive-marietta-c
+ ampus/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19916@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Withdrawal Period</p>\n<ul>\n<li>Full Semester
+ \, 8:00am\, August 28 – 11:59pm\, October 26</li>\n<li>1st Eight Weeks\, 8
+ :00am\, August 28 – 11:59pm\, September 23</li>\n<li>2nd Eight Weeks\, 8:0
+ 0am\, October 19 – 11:59pm\, November 18</li>\n</ul>
+DTSTART;TZID=America/New_York:20150923T235900
+DTEND;TZID=America/New_York:20150923T235900
+SEQUENCE:0
+SUMMARY:Withdrawal Period Deadline (1st Eight Weeks)
+URL:http://www.chattahoocheetech.edu/event/fall-semester-withdrawal-period-
+ deadline-1st-eight-weeks/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19888@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Application and Document Deadline (2nd Eight W
+ eeks)</p>
+DTSTART;TZID=America/New_York:20151002T163000
+DTEND;TZID=America/New_York:20151002T163000
+SEQUENCE:0
+SUMMARY:Application and Document Deadline
+URL:http://www.chattahoocheetech.edu/event/fall-semester-application-and-do
+ cument-deadline-2/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19550@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Program-Specific
+CONTACT:Health Sciences Office\; 770-975-4102
+DESCRIPTION:<p>EMT/AEMT Application Sessions for Spring Semester 2016</p>\n
+ <p>Sessions will be held on the following days/times:</p>\n<p>Tuesday\, Ap
+ ril 14\, 1:00pm and 4:00pm<br />\nThursday\, June 25\, 1:00pm and 4:00pm<b
+ r />\nTuesday\, August 11\, 9:00am and 2:00pm<br />\nWednesday\, October 7
+ \, 9:00am and 4:00pm</p>\n<p>ALL students interested in applying to the EM
+ T/AEMT PROGRAM must attend one of these MANDATORY application sessions to 
+ receive an application.</p>\n<p>Late arrivals will not be permitted to ent
+ er the session.</p>
+DTSTART;TZID=America/New_York:20151007T130000
+DTEND;TZID=America/New_York:20151007T160000
+GEO:+34.084359;-84.670438
+LOCATION:North Metro Campus\, Health Education Center (HEC) Building F\, Ro
+ om F224 @ 5198 Ross Road\, Acworth\, GA 30102\, USA
+RDATE;TZID=America/New_York:20150625T130000
+RDATE;TZID=America/New_York:20150811T130000
+RDATE;TZID=America/New_York:20151007T130000
+SEQUENCE:0
+SUMMARY:EMT/AEMT Application Session
+URL:http://www.chattahoocheetech.edu/event/emergency-medical-services-profe
+ ssion-application-session/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19551@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Program-Specific
+CONTACT:Health Sciences Office\; 770-975-4102
+DESCRIPTION:<p>Paramedic Application Sessions for Spring Semester 2016</p>
+ \n<p>Sessions will be held on the following days/times:</p>\n<p>Tuesday\, 
+ April 14\, 2:30pm and 6:00pm<br />\nThursday\, June 25\, 2:30pm and 6:00pm
+ <br />\nTuesday\, August 11\, 10:30am and 4:00pm<br />\nWednesday\, Octobe
+ r 7\, 10:30am and 6:00pm</p>\n<p>ALL students interested in applying to th
+ e PARAMEDIC PROGRAM must attend one of these MANDATORY application session
+ s to receive an application.</p>\n<p>Late arrivals will not be permitted t
+ o enter the session.</p>
+DTSTART;TZID=America/New_York:20151007T143000
+DTEND;TZID=America/New_York:20151007T153000
+GEO:+34.084359;-84.670438
+LOCATION:North Metro Campus\, Health Education Center (HEC) Building F\, Ro
+ om F224 @ 5198 Ross Road\, Acworth\, GA 30102\, USA
+RDATE;TZID=America/New_York:20150625T143000
+RDATE;TZID=America/New_York:20150811T143000
+RDATE;TZID=America/New_York:20151007T143000
+SEQUENCE:0
+SUMMARY:Paramedic Application Session
+URL:http://www.chattahoocheetech.edu/event/emergency-medical-services-profe
+ ssion-application-session-2/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22297@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Campus Life
+CONTACT:Annette Davis\, Career Services Coordinator\; 770-528-4430\; Annett
+ e.Davis@chattahoocheetech.edu
+DESCRIPTION:<p><strong><em>ECCE Fall 2015 College & Career Expo<br />\n<str
+ ong>October 8\, 2015</strong><br />\n</em></strong><em>4:00pm – 6:00pm</em
+ ><em><br />\nAtrium\, Marietta Campus This event is for employers and coll
+ eges to meet with students and graduates who are pursuing careers in the E
+ arly Childhood Care & Education field.</em></p>
+DTSTART;TZID=America/New_York:20151008T160000
+DTEND;TZID=America/New_York:20151008T180000
+GEO:+33.92937;-84.553706
+LOCATION:Marietta Campus Atrium Building C @ 980 S Cobb Dr\, Marietta\, GA 
+ 30060\, USA
+SEQUENCE:0
+SUMMARY:ECCE Fall 2015 College & Career Expo
+URL:http://www.chattahoocheetech.edu/event/career-expo-2/
+X-TAGS;LANGUAGE=en-US:#ctccampuslife\,Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20020@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Additional self-registration time (via BannerW
+ eb\; no late fee) 2nd Eight Weeks (August 20 – October 11)</p>
+DTSTART;TZID=America/New_York:20151011T235900
+DTEND;TZID=America/New_York:20151011T235900
+SEQUENCE:0
+SUMMARY:Additional Self-Registration Ends
+URL:http://www.chattahoocheetech.edu/event/fall-semester-additional-self-re
+ gistration-ends/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19907@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Drop/Add Period (Late Fee Applies) 2nd Eight W
+ eeks</p>
+DTSTART;TZID=America/New_York:20151012T080000
+DTEND;TZID=America/New_York:20151014T180000
+SEQUENCE:0
+SUMMARY:Drop/Add Period (Late Fee Applies)
+URL:http://www.chattahoocheetech.edu/event/fall-semester-dropadd-period-lat
+ e-fee-applies-2/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22114@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Campus Life
+CONTACT:Annette Davis\, Career Services Coordinator\; 770-528-4430\; Annett
+ e.Davis@chattahoocheetech.edu
+DESCRIPTION:<p><a href='http://www.chattahoocheetech.edu/wp-content/uploads
+ /2015/08/PowerHour-Sept-Nov_2015.pptx'>PowerHour Sept-Nov_2015</a></p>
+DTSTART;TZID=America/New_York:20151012T113000
+DTEND;TZID=America/New_York:20151012T130000
+GEO:+33.92937;-84.553706
+LOCATION:Marietta  Campus - Building C @ 980 South Cobb Drive\, Marietta\, 
+ GA 30060\, USA
+RDATE;TZID=America/New_York:20150910T113000
+RDATE;TZID=America/New_York:20150916T113000
+RDATE;TZID=America/New_York:20151012T113000
+RDATE;TZID=America/New_York:20151013T113000
+RDATE;TZID=America/New_York:20151019T113000
+RDATE;TZID=America/New_York:20151111T113000
+RDATE;TZID=America/New_York:20151112T113000
+SEQUENCE:0
+SUMMARY:Power Hour +
+URL:http://www.chattahoocheetech.edu/event/power-hour/
+X-TAGS;LANGUAGE=en-US:Career Services
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22274@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Campus Life
+CONTACT:Alaina Abney\, Director of Student Engagement\; (770) 528-4514 \; A
+ laina.Abney@chattahoocheetech.edu
+DESCRIPTION:<p>Bringing the community to you! Area vendors will be on hand 
+ to talk about their products and services. Come by to find some good deals
+  in banking\, apartment homes\, workout facilities\, and many more!</p>\n<
+ p>October 13\, 2015<br />\n10 AM – 2 PM<br />\nMarietta Campus Atrium<br /
+ >\nBuilding C</p>\n<p><strong><em><u>Vendors </u></em></strong>who are int
+ erested in having a table at CTC’s Community Marketplace will need to comp
+ lete the online registration form below. The application must be completed
+  by September 30\, 2015.</p>\n<p>All registrations forms will be reviewed 
+ by Chattahoochee Technical College. You will be notified if your applicati
+ on was approved no later than October 5\, 2015. Please review our Communit
+ y Marketplace Policy.</p>\n<p><a href='http://www.chattahoocheetech.edu/wp
+ -content/uploads/2015/09/Market-Day-Policy_Final-1.pdf' onclick='__gaTrack
+ er('send'\, 'event'\, 'download'\, 'http://www.chattahoocheetech.edu/wp-co
+ ntent/uploads/2015/09/Market-Day-Policy_Final-1.pdf')\;' target='_blank'>M
+ arket Day Policy</a></p>\n<form enctype='multipart/form-data' class='fm-fo
+ rm' method='post' action='http://www.chattahoocheetech.edu/' name='fm-form
+ -17' id='fm-form-17' autocomplete='on' >\n<fieldset>\n<legend>Communty Mar
+ ketplace Vendor Registation</legend>\n<ul>\n<li id='fm-item-text-55f1c880a
+ d9ce'>\n<table>\n<tr>\n<td style='width:200px'><label>Name of Vendor <em>*
+ </em></label></td>\n<td><input type='text' name='text-55f1c880ad9ce' id='t
+ ext-55f1c880ad9ce' style='width:300px\;' placeholder='' /></td>\n</tr>\n</
+ table>\n</li>\n<li id='fm-item-text-55f1c88290f45'>\n<table>\n<tr>\n<td st
+ yle='width:200px'><label>Contact Person <em>*</em></label></td>\n<td><inpu
+ t type='text' name='text-55f1c88290f45' id='text-55f1c88290f45' style='wid
+ th:300px\;' placeholder='' /></td>\n</tr>\n</table>\n</li>\n<li id='fm-ite
+ m-text-55f1c884b417c'>\n<table>\n<tr>\n<td style='width:200px'><label>Stre
+ et Address <em>*</em></label></td>\n<td><input type='text' name='text-55f1
+ c884b417c' id='text-55f1c884b417c' style='width:300px\;' placeholder='' />
+ </td>\n</tr>\n</table>\n</li>\n<li id='fm-item-text-55f1c907be21c'>\n<tabl
+ e>\n<tr>\n<td style='width:200px'><label>City <em>*</em></label></td>\n<td
+ ><input type='text' name='text-55f1c907be21c' id='text-55f1c907be21c' styl
+ e='width:300px\;' placeholder='' /></td>\n</tr>\n</table>\n</li>\n<li id='
+ fm-item-text-55f1c9087e71f'>\n<table>\n<tr>\n<td style='width:200px'><labe
+ l>State <em>*</em></label></td>\n<td><input type='text' name='text-55f1c90
+ 87e71f' id='text-55f1c9087e71f' style='width:300px\;' placeholder='' /></t
+ d>\n</tr>\n</table>\n</li>\n<li id='fm-item-text-55f1c8876ac08'>\n<table>
+ \n<tr>\n<td style='width:200px'><label>Zip Code <em>*</em></label></td>\n<
+ td><input type='text' name='text-55f1c8876ac08' id='text-55f1c8876ac08' st
+ yle='width:300px\;' placeholder='' /></td>\n</tr>\n</table>\n</li>\n<li id
+ ='fm-item-text-55f1c88960a29'>\n<table>\n<tr>\n<td style='width:200px'><la
+ bel>E-Mail Address <em>*</em></label></td>\n<td><input type='text' name='t
+ ext-55f1c88960a29' id='text-55f1c88960a29' style='width:300px\;' placehold
+ er='' /></td>\n</tr>\n</table>\n</li>\n<li id='fm-item-text-55f1c93a47cbf'
+ >\n<table>\n<tr>\n<td style='width:200px'><label>Phone <em>*</em></label><
+ /td>\n<td><input type='text' name='text-55f1c93a47cbf' id='text-55f1c93a47
+ cbf' style='width:300px\;' placeholder='' /></td>\n</tr>\n</table>\n</li>
+ \n<li id='fm-item-textarea-55f1c88b52c9e'>\n<table>\n<tr>\n<td style='widt
+ h:200px'><label>Description of items to be sold</label></td>\n<td><textare
+ a name='textarea-55f1c88b52c9e' id='textarea-55f1c88b52c9e' style='width:3
+ 00px\;height:100px\;' placeholder=''></textarea></td>\n</tr>\n</table>\n</
+ li>\n<li id='fm-item-textarea-55f1c88d4fb78'>\n<table>\n<tr>\n<td style='w
+ idth:200px'><label>Description of services to be offered</label></td>\n<td
+ ><textarea name='textarea-55f1c88d4fb78' id='textarea-55f1c88d4fb78' style
+ ='width:300px\;height:100px\;' placeholder=''></textarea></td>\n</tr>\n</t
+ able>\n</li>\n<li id='fm-item-text-55f1c89807c1e'>\n<table>\n<tr>\n<td sty
+ le='width:200px'><label>Vendor Representatives <em>*</em></label></td>\n<t
+ d><input type='text' name='text-55f1c89807c1e' id='text-55f1c89807c1e' sty
+ le='width:300px\;' placeholder='' /></td>\n</tr>\n</table>\n</li>\n<li id=
+ 'fm-item-text-55f1c89b90f05'>\n<table>\n<tr>\n<td style='width:200px'><lab
+ el>FEI# <em>*</em></label></td>\n<td><input type='text' name='text-55f1c89
+ b90f05' id='text-55f1c89b90f05' style='width:300px\;' placeholder='' /></t
+ d>\n</tr>\n</table>\n</li>\n<li id='fm-item-textarea-55f1c89e8b55c'>\n<tab
+ le>\n<tr>\n<td style='width:200px'><label>Set-up requests</label></td>\n<t
+ d><textarea name='textarea-55f1c89e8b55c' id='textarea-55f1c89e8b55c' styl
+ e='width:300px\;height:100px\;' placeholder=''></textarea></td>\n</tr>\n</
+ table>\n</li>\n<li id='fm-item-textarea-55f1c8a0e4510'>\n<table>\n<tr>\n<t
+ d style='width:200px'><label>Electricity requirements</label></td>\n<td><t
+ extarea name='textarea-55f1c8a0e4510' id='textarea-55f1c8a0e4510' style='w
+ idth:300px\;height:100px\;' placeholder=''></textarea></td>\n</tr>\n</tabl
+ e>\n</li>\n<li id='fm-item-checkbox-55f1c8b43aeb3'>\n<table>\n<tr>\n<td st
+ yle='width:200px'><label>I have read and accept the terms and conditions o
+ f the policy and procedures outlined in the attached document\, which is i
+ ncorporated fully herein. I understand strict compliance with said terms i
+ s a condition of participation in Market Day and any violation of any Coll
+ ege or TCSG policy or procedure as outlined will result in the expulsion o
+ f the vendor from Market Day and/or future CTC events. I understand that i
+ f I am unable to attend Market Day on the date indicated\, I must contact 
+ the Student Affairs Department as soon as possible. <em>*</em></label></td
+ >\n<td><input type='checkbox' name='checkbox-55f1c8b43aeb3' id='checkbox-5
+ 5f1c8b43aeb3' style='' /></td>\n</tr>\n</table>\n</li>\n<li id='fm-item-te
+ xt-55f1c8ca84605'>\n<table>\n<tr>\n<td style='width:200px'><label>Electron
+ ic Signature <em>*</em></label></td>\n<td><input type='text' name='text-55
+ f1c8ca84605' id='text-55f1c8ca84605' style='width:300px\;' placeholder='' 
+ /></td>\n</tr>\n</table>\n</li>\n<li id='fm-item-text-55f1c8d5ce0a2'>\n<ta
+ ble>\n<tr>\n<td style='width:200px'><label>Date (DD/MM/YY) <em>*</em></lab
+ el></td>\n<td><input type='text' name='text-55f1c8d5ce0a2' id='text-55f1c8
+ d5ce0a2' style='width:300px\;' placeholder='' /></td>\n</tr>\n</table>\n</
+ li>\n<li id='fm-item-recaptcha-55f1c8d7d699d'>\n<table>\n<tr>\n<td style='
+ width:200px'><label>Enter Characters to Validate</label></td>\n<td>\n<div 
+ dir='ltr'><script type='text/javascript'> var RecaptchaOptions = { theme :
+  'red'\, lang : 'en'\, tabindex : 100 }\; </script><script type='text/java
+ script' src='//www.google.com/recaptcha/api/challenge?k=6LfYluISAAAAAPR_OD
+ OCBJXIyI7AN-5OYJwIzjY8'></script><br />\n	<noscript><br />\n  		<iframe src='
+ //www.google.com/recaptcha/api/noscript?k=6LfYluISAAAAAPR_ODOCBJXIyI7AN-5O
+ YJwIzjY8' height='300' width='500' frameborder='0'></iframe><br />\n  		<tex
+ tarea name='recaptcha_challenge_field' rows='3' cols='40'></textarea><br /
+ >\n  		<input type='hidden' name='recaptcha_response_field' value='manual_ch
+ allenge'/><br />\n	</noscript></div>\n</td>\n</tr>\n</table>\n</li>\n</ul>
+ \n<div>\n		 <input type='submit' name='fm_form_submit' id='fm_form_submit' c
+ lass='submit' value='Submit' onclick='return fm_submit_onclick(17)'  />\n		<
+ /div>\n</fieldset>\n<p>	<input type='hidden' name='fm_nonce' id='fm_nonce' 
+ value='d68ec40f3e' /><br />\n<input type='hidden' name='fm_id' id='fm_id' 
+ value='17' /><br />\n<input type='hidden' name='fm_uniq_id' id='fm_uniq_id
+ ' value='fm-55fdfc26912f0' /><br />\n<input type='hidden' name='fm_parent_
+ post_id' id='fm_parent_post_id' value='163' /><br />\n</form>
+DTSTART;TZID=America/New_York:20151013T100000
+DTEND;TZID=America/New_York:20151013T140000
+GEO:+33.92937;-84.553706
+LOCATION:Marietta Campus Atrium Building C @ 980 S Cobb Dr\, Marietta\, GA 
+ 30060\, USA
+SEQUENCE:0
+SUMMARY:CTC’s Community Marketplace
+URL:http://www.chattahoocheetech.edu/event/ctcs-community-marketplace/
+X-TAGS;LANGUAGE=en-US:#ctccampuslife\,#ctclife\,Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22120@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Campus Life
+CONTACT:Annette Davis\, Career Services Coordinator\; 770-528-4430\; Annett
+ e.Davis@chattahoocheetech.edu
+DESCRIPTION:<p><a href='http://www.chattahoocheetech.edu/wp-content/uploads
+ /2015/08/PowerHour-Sept-Nov_2015.pptx'>PowerHour Sept-Nov_2015</a></p>
+DTSTART;TZID=America/New_York:20151013T103000
+DTEND;TZID=America/New_York:20151013T120000
+GEO:+34.084359;-84.670438
+LOCATION:North Metro Campus\, Building A\, Room 108 @ 5198 Ross Road\, Acwo
+ rth\, GA 30102\, USA
+SEQUENCE:0
+SUMMARY:Power Hour +
+URL:http://www.chattahoocheetech.edu/event/power-hour-6/
+X-TAGS;LANGUAGE=en-US:Career Services
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22121@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Campus Life
+CONTACT:Annette Davis\, Career Services Coordinator\; 770-528-4430\; Annett
+ e.Davis@chattahoocheetech.edu
+DESCRIPTION:<p><a href='http://www.chattahoocheetech.edu/wp-content/uploads
+ /2015/08/PowerHour-Sept-Nov_2015.pptx'>PowerHour Sept-Nov_2015</a></p>
+DTSTART;TZID=America/New_York:20151014T133000
+DTEND;TZID=America/New_York:20151014T150000
+GEO:+34.084359;-84.670438
+LOCATION:North Metro Campus\, Building A\, Room 108 @ 5198 Ross Road\, Acwo
+ rth\, GA 30102\, USA
+SEQUENCE:0
+SUMMARY:Power Hour +
+URL:http://www.chattahoocheetech.edu/event/power-hour-7/
+X-TAGS;LANGUAGE=en-US:Career Services
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19909@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Tuition and Fees Payment Deadline (2nd Eight W
+ eeks)</p>
+DTSTART;TZID=America/New_York:20151014T180000
+DTEND;TZID=America/New_York:20151014T180000
+SEQUENCE:0
+SUMMARY:Tuition and Fees Payment Deadline (2nd Eight Weeks)
+URL:http://www.chattahoocheetech.edu/event/fall-semester-tuition-and-fees-p
+ ayment-deadline-2nd-eight-weeks/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19913@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Withdrawal Period</p>\n<ul>\n<li>Full Semester
+ \, 8:00am\, August 28 – 11:59pm\, October 26</li>\n<li>1st Eight Weeks\, 8
+ :00am\, August 28 – 11:59pm\, September 23</li>\n<li>2nd Eight Weeks\, 8:0
+ 0am\, October 19 – 11:59pm\, November 18</li>\n</ul>
+DTSTART;TZID=America/New_York:20151019T080000
+DTEND;TZID=America/New_York:20151019T080000
+SEQUENCE:0
+SUMMARY:Withdrawal Period Begins (2nd Eight Weeks)
+URL:http://www.chattahoocheetech.edu/event/fall-semester-withdrawal-period-
+ begins-2nd-eight-weeks/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22117@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Campus Life
+CONTACT:Annette Davis\, Career Services Coordinator\; 770-528-4430\; Annett
+ e.Davis@chattahoocheetech.edu
+DESCRIPTION:<p><a href='http://www.chattahoocheetech.edu/wp-content/uploads
+ /2015/08/PowerHour-Sept-Nov_2015.pptx'>PowerHour Sept-Nov_2015</a></p>
+DTSTART;TZID=America/New_York:20151019T163000
+DTEND;TZID=America/New_York:20151019T180000
+GEO:+33.92937;-84.553706
+LOCATION:Marietta  Campus - Building C @ 980 South Cobb Drive\, Marietta\, 
+ GA 30060\, USA
+SEQUENCE:0
+SUMMARY:Power Hour +
+URL:http://www.chattahoocheetech.edu/event/power-hour-3/
+X-TAGS;LANGUAGE=en-US:Career Services
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22112@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Campus Life
+CONTACT:Annette Davis\, Career Services Coordinator\; 770-528-4430\; Annett
+ e.Davis@chattahoocheetech.edu
+DESCRIPTION:<p>Career Expo<br />\nOctober 22\, 2015<br />\n2pm – 6pm<br />
+ \nNorth Metro Campus\, Building D</p>
+DTSTART;TZID=America/New_York:20151022T140000
+DTEND;TZID=America/New_York:20151022T180000
+GEO:+34.084359;-84.670438
+LOCATION:North Metro Campus\, Building D @ 5198 Ross Road\, Acworth\, GA 30
+ 102\, USA
+SEQUENCE:0
+SUMMARY:Career Expo
+URL:http://www.chattahoocheetech.edu/event/career-expo/
+X-TAGS;LANGUAGE=en-US:Career Services
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20931@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration begins for Spring Semester: for studen
+ ts with 45+ earned credit hours</p>
+DTSTART;VALUE=DATE:20151026
+DTEND;VALUE=DATE:20151027
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -spring-semester/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19915@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Withdrawal Period</p>\n<ul>\n<li>Full Semester
+ \, 8:00am\, August 28 – 11:59pm\, October 26</li>\n<li>1st Eight Weeks\, 8
+ :00am\, August 28 – 11:59pm\, September 23</li>\n<li>2nd Eight Weeks\, 8:0
+ 0am\, October 19 – 11:59pm\, November 18</li>\n</ul>
+DTSTART;TZID=America/New_York:20151026T235900
+DTEND;TZID=America/New_York:20151026T235900
+SEQUENCE:0
+SUMMARY:Withdrawal Period Deadline (Full Term)
+URL:http://www.chattahoocheetech.edu/event/fall-semester-withdrawal-period-
+ deadline-full-term/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20932@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration begins for Spring Semester: for studen
+ ts with 30+ earned credit hours</p>
+DTSTART;VALUE=DATE:20151027
+DTEND;VALUE=DATE:20151028
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -spring-semester-2/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20933@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>“Priority” Registration begins for Spring Semester: for stud
+ ents with 15+ earned credit hours</p>
+DTSTART;VALUE=DATE:20151028
+DTEND;VALUE=DATE:20151029
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -spring-semester-3/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20934@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration begins for Spring Semester: all curren
+ t students may register</p>
+DTSTART;VALUE=DATE:20151029
+DTEND;VALUE=DATE:20151030
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -spring-semester-4/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20935@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>New and Current students may register for Spring Semester.</
+ p>
+DTSTART;TZID=America/New_York:20151030T080000
+DTEND;TZID=America/New_York:20151209T235900
+SEQUENCE:0
+SUMMARY:Early Registration Period
+URL:http://www.chattahoocheetech.edu/event/spring-semester-early-registrati
+ on-period/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22118@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Campus Life
+CONTACT:Annette Davis\, Career Services Coordinator\; 770-528-4430\; Annett
+ e.Davis@chattahoocheetech.edu
+DESCRIPTION:<p><a href='http://www.chattahoocheetech.edu/wp-content/uploads
+ /2015/08/PowerHour-Sept-Nov_2015.pptx'>PowerHour Sept-Nov_2015</a></p>
+DTSTART;TZID=America/New_York:20151104T150000
+DTEND;TZID=America/New_York:20151104T163000
+GEO:+33.92937;-84.553706
+LOCATION:Marietta  Campus - Building C @ 980 South Cobb Drive\, Marietta\, 
+ GA 30060\, USA
+RDATE;TZID=America/New_York:20151105T150000
+SEQUENCE:0
+SUMMARY:Power Hour +
+URL:http://www.chattahoocheetech.edu/event/power-hour-4/
+X-TAGS;LANGUAGE=en-US:Career Services
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-22122@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Campus Life
+CONTACT:Annette Davis\, Career Services Coordinator\; 770-528-4430\; Annett
+ e.Davis@chattahoocheetech.edu
+DESCRIPTION:<p><a href='http://www.chattahoocheetech.edu/wp-content/uploads
+ /2015/08/PowerHour-Sept-Nov_2015.pptx'>PowerHour Sept-Nov_2015</a></p>
+DTSTART;TZID=America/New_York:20151104T150000
+DTEND;TZID=America/New_York:20151104T163000
+GEO:+34.084359;-84.670438
+LOCATION:North Metro Campus\, Building A\, Room 109 @ 5198 Ross Road\, Acwo
+ rth\, GA 30102\, USA
+RDATE;TZID=America/New_York:20151105T150000
+SEQUENCE:0
+SUMMARY:Power Hour +
+URL:http://www.chattahoocheetech.edu/event/power-hour-8/
+X-TAGS;LANGUAGE=en-US:Career Services
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19918@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Withdrawal Period</p>\n<ul>\n<li>Full Semester
+ \, 8:00am\, August 28 – 11:59pm\, October 26</li>\n<li>1st Eight Weeks\, 8
+ :00am\, August 28 – 11:59pm\, September 23</li>\n<li>2nd Eight Weeks\, 8:0
+ 0am\, October 19 – 11:59pm\, November 18</li>\n</ul>
+DTSTART;TZID=America/New_York:20151118T235900
+DTEND;TZID=America/New_York:20151118T235900
+SEQUENCE:0
+SUMMARY:Withdrawal Period Deadline (2nd Eight Weeks)
+URL:http://www.chattahoocheetech.edu/event/fall-semester-withdrawal-period-
+ deadline-2nd-eight-weeks/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20940@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151125T000000
+DTEND;TZID=America/New_York:20151125T235900
+SEQUENCE:0
+SUMMARY:NO CLASSES: College is Open
+URL:http://www.chattahoocheetech.edu/event/no-classes-college-is-open/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20939@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151126T000000
+DTEND;TZID=America/New_York:20151129T000000
+SEQUENCE:0
+SUMMARY:COLLEGE CLOSED: Thanksgiving
+URL:http://www.chattahoocheetech.edu/event/college-closed-thanksgiving/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20938@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Application and Document Deadline for Spring Semester\, incl
+ uding change of program\, transient and readmit requests\, financial aid d
+ ocuments\, and petitions to graduate.</p>
+DTSTART;VALUE=DATE:20151211
+DTEND;VALUE=DATE:20151212
+SEQUENCE:0
+SUMMARY:Application and Document Deadline
+URL:http://www.chattahoocheetech.edu/event/application-and-document-deadlin
+ e-for-spring-semester/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20936@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Tuition and Fee Payment Deadline: Spring Priority/Early Regi
+ stration Period</p>
+DTSTART;VALUE=DATE:20151211
+DTEND;VALUE=DATE:20151212
+SEQUENCE:0
+SUMMARY:Tuition and Fee Payment Deadline: Priority/Early Registration Perio
+ d
+URL:http://www.chattahoocheetech.edu/event/tuition-and-fee-payment-deadline
+ -spring-semester-priorityearly-registration-period/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20937@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester Regular Registration Period</p>
+DTSTART;TZID=America/New_York:20151214T080000
+DTEND;TZID=America/New_York:20160104T235900
+SEQUENCE:0
+SUMMARY:Regular Registration Period
+URL:http://www.chattahoocheetech.edu/event/spring-semester-regular-registra
+ tion-period/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-19923@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Grades Available via BannerWeb</p>
+DTSTART;TZID=America/New_York:20151216T080000
+DTEND;TZID=America/New_York:20151216T080000
+SEQUENCE:0
+SUMMARY:Grades Available via BannerWeb
+URL:http://www.chattahoocheetech.edu/event/fall-semester-grades-available-v
+ ia-bannerweb/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20941@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151225T000000
+DTEND;TZID=America/New_York:20160102T000000
+SEQUENCE:0
+SUMMARY:COLLEGE CLOSED: Winter Holiday
+URL:http://www.chattahoocheetech.edu/event/college-closed-winter-holiday/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20942@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Tuition and Fees Payment Deadline: Spring Semester Regular R
+ egistration Period</p>
+DTSTART;VALUE=DATE:20160106
+DTEND;VALUE=DATE:20160107
+SEQUENCE:0
+SUMMARY:Tuition and Fees Payment Deadline: Regular Registration Period
+URL:http://www.chattahoocheetech.edu/event/tuition-and-fees-payment-deadlin
+ e-spring-semester-regular-registration-period/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20943@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester Final Registration Period</p>
+DTSTART;TZID=America/New_York:20160107T080000
+DTEND;TZID=America/New_York:20160110T235900
+SEQUENCE:0
+SUMMARY:Final Registration Period
+URL:http://www.chattahoocheetech.edu/event/spring-semester-final-registrati
+ on-period/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20944@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester A&B Terms Begin: Full 16 weeks + 1st 8 weeks
+ </p>
+DTSTART;TZID=America/New_York:20160111T000000
+DTEND;TZID=America/New_York:20170112T000000
+SEQUENCE:0
+SUMMARY:A&B Terms Begin: Full 16 weeks + 1st 8 weeks
+URL:http://www.chattahoocheetech.edu/event/spring-semester-ab-terms-begin-f
+ ull-16-weeks-1st-8-weeks/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20948@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester C-Term (2nd 8 weeks) Registration is DOWN/Un
+ available</p>
+DTSTART;TZID=America/New_York:20160111T000000
+DTEND;TZID=America/New_York:20160115T000000
+SEQUENCE:0
+SUMMARY:C-Term (2nd 8 weeks) Registration is DOWN/Unavailable
+URL:http://www.chattahoocheetech.edu/event/spring-semester-c-term-2nd-8-wee
+ ks-registration-is-downunavailable/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20945@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160111T080000
+DTEND;TZID=America/New_York:20160113T235900
+SEQUENCE:0
+SUMMARY:A&B Terms Drop/Add: Full 16 weeks + 1st 8 weeks
+URL:http://www.chattahoocheetech.edu/event/spring-semester-ab-terms-dropadd
+ -full-16-weeks-1st-8-weeks/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20946@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Tuition and Fees Payment Deadline for Spring Semester\, “Fin
+ al” Registration\, and “Drop/Add” periods for A&B Terms (Full 16 weeks + 1
+ st 8 weeks)</p>
+DTSTART;VALUE=DATE:20160114
+DTEND;VALUE=DATE:20160115
+SEQUENCE:0
+SUMMARY:Tuition and Fees Payment Deadline\; Final Registration\; Drop/Add
+URL:http://www.chattahoocheetech.edu/event/tuition-and-fees-payment-deadlin
+ e-spring-semester-final-registration-dropadd/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20953@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester C-Term (2nd 8 weeks) Registration Continues<
+ /p>
+DTSTART;TZID=America/New_York:20160115T080000
+DTEND;TZID=America/New_York:20160306T235900
+SEQUENCE:0
+SUMMARY:C-Term (2nd 8 weeks) Registration Continues
+URL:http://www.chattahoocheetech.edu/event/spring-semester-c-term-2nd-8-wee
+ ks-registration-continues/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20947@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160116T000000
+DTEND;TZID=America/New_York:20160119T000000
+SEQUENCE:0
+SUMMARY:COLLEGE CLOSED: MLK Holiday Weekend
+URL:http://www.chattahoocheetech.edu/event/college-closed-mlk-holiday-weeke
+ nd/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20954@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester A-Term (Full 16 Weeks) Withdrawal Period</p>
+DTSTART;TZID=America/New_York:20160119T080000
+DTEND;TZID=America/New_York:20160326T235900
+SEQUENCE:0
+SUMMARY:A-Term (Full 16 Weeks) Withdrawal Period
+URL:http://www.chattahoocheetech.edu/event/spring-semester-a-term-full-16-w
+ eeks-withdrawal-period/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20955@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester B-Term (1st 8 weeks) Withdrawal Period</p>
+DTSTART;TZID=America/New_York:20160119T080000
+DTEND;TZID=America/New_York:20160219T235900
+SEQUENCE:0
+SUMMARY:B-Term (1st 8 weeks) Withdrawal Period
+URL:http://www.chattahoocheetech.edu/event/spring-semester-b-term-1st-8-wee
+ ks-withdrawal-period/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20956@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Grade Appeal Initiation Deadline for Fall Semester grades</p
+ >
+DTSTART;VALUE=DATE:20160201
+DTEND;VALUE=DATE:20160202
+SEQUENCE:0
+SUMMARY:Grade Appeal Initiation Deadline
+URL:http://www.chattahoocheetech.edu/event/grade-appeal-initiation-deadline
+ -for-fall-semester-grades/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20957@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>“I” Grades must be resolved from Fall Semester (or will roll
+  to “F”)</p>
+DTSTART;VALUE=DATE:20160208
+DTEND;VALUE=DATE:20160209
+SEQUENCE:0
+SUMMARY:“I” Grades must be resolved (or will roll to “F”)
+URL:http://www.chattahoocheetech.edu/event/i-grades-must-be-resolved-from-f
+ all-semester-or-will-roll-to-f/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20958@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160302T000000
+DTEND;TZID=America/New_York:20160305T000000
+SEQUENCE:0
+SUMMARY:B-Term (1st 8 weeks) Final Exams
+URL:http://www.chattahoocheetech.edu/event/spring-semester-b-term-1st-8-wee
+ ks-final-exams/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20959@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160307
+DTEND;VALUE=DATE:20160308
+SEQUENCE:0
+SUMMARY:C-Term (2nd 8 weeks) Begins
+URL:http://www.chattahoocheetech.edu/event/spring-semester-c-term-2nd-8-wee
+ ks-begins/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20960@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160307T080000
+DTEND;TZID=America/New_York:20160309T235900
+SEQUENCE:0
+SUMMARY:C-Term (2nd 8 weeks) Drop/Add
+URL:http://www.chattahoocheetech.edu/event/spring-semester-c-term-2nd-8-wee
+ ks-dropadd/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20961@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Tuition and Fees Payment Deadline Spring Semester C-Term (2n
+ d 8 weeks)\; Continued Registration\; Drop/Add periods</p>
+DTSTART;VALUE=DATE:20160310
+DTEND;VALUE=DATE:20160311
+SEQUENCE:0
+SUMMARY:Tuition and Fees Payment Deadline
+URL:http://www.chattahoocheetech.edu/event/tuition-and-fees-payment-deadlin
+ e-spring-semester-c-term-continued-registration-dropadd/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20962@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester C-Term (2nd 8 weeks) Withdrawal Period</p>
+DTSTART;TZID=America/New_York:20160314T080000
+DTEND;TZID=America/New_York:20160418T235900
+SEQUENCE:0
+SUMMARY:C-Term Withdrawal Period
+URL:http://www.chattahoocheetech.edu/event/spring-semester-c-term-2nd-8-wee
+ ks-withdrawal-period/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20964@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160315
+DTEND;VALUE=DATE:20160316
+SEQUENCE:0
+SUMMARY:NO CLASSES
+URL:http://www.chattahoocheetech.edu/event/no-classes/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20965@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration Begins for Summer Semester for student
+ s with 45+ earned credit hours.</p>
+DTSTART;VALUE=DATE:20160321
+DTEND;VALUE=DATE:20160322
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -summer-semester/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20966@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration Begins for Summer Semester for student
+ s with 30+ earned credit hours.</p>
+DTSTART;VALUE=DATE:20160322
+DTEND;VALUE=DATE:20160323
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -summer-semester-2/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20967@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration Begins for Summer Semester for student
+ s with 15+ earned credit hours.</p>
+DTSTART;VALUE=DATE:20160323
+DTEND;VALUE=DATE:20160324
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -summer-semester-3/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20968@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration Begins for Summer Semester: all curren
+ t students may register.</p>
+DTSTART;VALUE=DATE:20160324
+DTEND;VALUE=DATE:20160325
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -summer-semester-4/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20969@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>New and Current students may register for Summer Semester.</
+ p>
+DTSTART;TZID=America/New_York:20160325T080000
+DTEND;TZID=America/New_York:20160427T235900
+SEQUENCE:0
+SUMMARY:Early Registration Period
+URL:http://www.chattahoocheetech.edu/event/summer-semester-early-registrati
+ on-period/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20970@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160404T000000
+DTEND;TZID=America/New_York:20160410T000000
+SEQUENCE:0
+SUMMARY:SPRING BREAK
+URL:http://www.chattahoocheetech.edu/event/spring-break/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20972@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration Begins for Fall Semester for students 
+ with 45+ earned credit hours.</p>
+DTSTART;VALUE=DATE:20160418
+DTEND;VALUE=DATE:20160419
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -fall-semester-2/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20973@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration Begins for Fall Semester for students 
+ with 30+ earned credit hours.</p>
+DTSTART;VALUE=DATE:20160419
+DTEND;VALUE=DATE:20160420
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -fall-semester-3/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20974@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration Begins for Fall Semester for students 
+ with 15+ earned credit hours.</p>
+DTSTART;VALUE=DATE:20160420
+DTEND;VALUE=DATE:20160421
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -fall-semester-4/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20975@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Priority Registration Begins for Fall Semester: all current 
+ students may register.</p>
+DTSTART;VALUE=DATE:20160421
+DTEND;VALUE=DATE:20160422
+SEQUENCE:0
+SUMMARY:Priority Registration Begins
+URL:http://www.chattahoocheetech.edu/event/priority-registration-begins-for
+ -fall-semester-5/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20976@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>New and Current students may register. Fall Semester.</p>
+DTSTART;TZID=America/New_York:20160423T080000
+DTEND;TZID=America/New_York:20160624T235900
+SEQUENCE:0
+SUMMARY:Early Registration Period
+URL:http://www.chattahoocheetech.edu/event/fall-semester-early-registration
+ -period/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20971@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Tuition and Fees Payment Deadline for Summer Semester Priori
+ ty/Early Registration Period</p>
+DTSTART;VALUE=DATE:20160429
+DTEND;VALUE=DATE:20160430
+SEQUENCE:0
+SUMMARY:Tuition and Fees Payment Deadline
+URL:http://www.chattahoocheetech.edu/event/tuition-and-fees-payment-deadlin
+ e-for-summer-semester-priorityearly-registration-period/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20977@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Summer Semester Regular Registration Period</p>
+DTSTART;TZID=America/New_York:20160502T000000
+DTEND;TZID=America/New_York:20160531T235900
+SEQUENCE:0
+SUMMARY:Regular Registration Period
+URL:http://www.chattahoocheetech.edu/event/summer-semester-regular-registra
+ tion-period/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20978@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester A&C Terms (Full 16 Weeks + 2nd 8 Weeks) Fina
+ l Exams</p>
+DTSTART;TZID=America/New_York:20160504T000000
+DTEND;TZID=America/New_York:20160508T000000
+SEQUENCE:0
+SUMMARY:Final Exams
+URL:http://www.chattahoocheetech.edu/event/spring-semester-ac-terms-full-16
+ -weeks-2nd-8-weeks-final-exams/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20979@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Spring Semester (A/B/C Terms) Grades Available to Students v
+ ia BannerWeb</p>
+DTSTART;VALUE=DATE:20160511
+DTEND;VALUE=DATE:20160512
+SEQUENCE:0
+SUMMARY:Grades Available to Students via BannerWeb
+URL:http://www.chattahoocheetech.edu/event/spring-semester-abc-terms-grades
+ -available-to-students-via-bannerweb/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20980@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Application and Document Deadline for Summer Semester\, incl
+ uding change of program\, transient and readmit requests\, financial aid d
+ ocuments\, and petitions to graduate.</p>
+DTSTART;VALUE=DATE:20160520
+DTEND;VALUE=DATE:20160521
+SEQUENCE:0
+SUMMARY:Application and Document Deadline
+URL:http://www.chattahoocheetech.edu/event/application-and-document-deadlin
+ e-for-summer-semester/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20981@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:COLLEGE CLOSED: Memorial Day
+URL:http://www.chattahoocheetech.edu/event/college-closed-memorial-day/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20982@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Tuition and Fees Payment Deadline for Summer Semester Regula
+ r Registration Period</p>
+DTSTART;VALUE=DATE:20160602
+DTEND;VALUE=DATE:20160603
+SEQUENCE:0
+SUMMARY:Tuition and Fees Payment Deadline
+URL:http://www.chattahoocheetech.edu/event/tuition-and-fees-payment-deadlin
+ e-for-summer-semester-regular-registration-period/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20983@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Summer Semester Final Registration Period</p>
+DTSTART;TZID=America/New_York:20160603T080000
+DTEND;TZID=America/New_York:20160605T235900
+SEQUENCE:0
+SUMMARY:Final Registration Period
+URL:http://www.chattahoocheetech.edu/event/summer-semester-final-registrati
+ on-period/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20984@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160606
+DTEND;VALUE=DATE:20160607
+SEQUENCE:0
+SUMMARY:Summer Semester Begins
+URL:http://www.chattahoocheetech.edu/event/summer-semester-begins/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20985@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Summer Semester Drop/Add Period</p>
+DTSTART;TZID=America/New_York:20160606T080000
+DTEND;TZID=America/New_York:20160608T235900
+SEQUENCE:0
+SUMMARY:Drop/Add Period
+URL:http://www.chattahoocheetech.edu/event/summer-semester-dropadd-period/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20986@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Tuition and Fees Payment Deadline for Summer Semester Final 
+ Registration and Drop/Add Periods</p>
+DTSTART;VALUE=DATE:20160609
+DTEND;VALUE=DATE:20160610
+SEQUENCE:0
+SUMMARY:Tuition and Fees Payment Deadline
+URL:http://www.chattahoocheetech.edu/event/tuition-and-fees-payment-deadlin
+ e-for-summer-semester-final-registration-and-dropadd-periods/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20988@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Summer Semester Withdrawal Period</p>
+DTSTART;TZID=America/New_York:20160613T080000
+DTEND;TZID=America/New_York:20160626T235900
+SEQUENCE:0
+SUMMARY:Withdrawal Period
+URL:http://www.chattahoocheetech.edu/event/summer-semester-withdrawal-perio
+ d/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20987@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160624T000000
+DTEND;TZID=America/New_York:20160701T000000
+SEQUENCE:0
+SUMMARY:BannerWeb DOWN for Scheduled Maintenance
+URL:http://www.chattahoocheetech.edu/event/bannerweb-down-for-scheduled-mai
+ ntenance/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20989@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Grade Appeal Initiation Deadline for Spring Semester Grades<
+ /p>
+DTSTART;VALUE=DATE:20160628
+DTEND;VALUE=DATE:20160629
+SEQUENCE:0
+SUMMARY:Grade Appeal Initiation Deadline
+URL:http://www.chattahoocheetech.edu/event/grade-appeal-initiation-deadline
+ -for-spring-semester-grades/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20993@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>New and Current students may register for Fall Semester.</p>
+DTSTART;TZID=America/New_York:20160701T080000
+DTEND;TZID=America/New_York:20160713T235900
+SEQUENCE:0
+SUMMARY:Early Registration Period
+URL:http://www.chattahoocheetech.edu/event/fall-semester-early-registration
+ -period-2/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20992@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Summer Semester Withdrawal Period</p>
+DTSTART;TZID=America/New_York:20160701T080000
+DTEND;TZID=America/New_York:20160711T235900
+SEQUENCE:0
+SUMMARY:Withdrawal Period
+URL:http://www.chattahoocheetech.edu/event/summer-semester-withdrawal-perio
+ d-2/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20991@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160702T000000
+DTEND;TZID=America/New_York:20160705T000000
+SEQUENCE:0
+SUMMARY:HOLIDAY WEEKEND: Independence Day
+URL:http://www.chattahoocheetech.edu/event/holiday-weekend-independence-day
+ /
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20990@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>“I” Grades must be resolved from Spring Semester (or will ro
+ ll to “F”)</p>
+DTSTART;VALUE=DATE:20160705
+DTEND;VALUE=DATE:20160706
+SEQUENCE:0
+SUMMARY:“I” Grades must be resolved (or will roll to “F”)
+URL:http://www.chattahoocheetech.edu/event/i-grades-must-be-resolved-from-s
+ pring-semester-or-will-roll-to-f/
+X-TAGS;LANGUAGE=en-US:Spring Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20994@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Tuition and Fees Payment Deadline for Fall Semester Priority
+ /Early Registration Period</p>
+DTSTART;VALUE=DATE:20160715
+DTEND;VALUE=DATE:20160716
+SEQUENCE:0
+SUMMARY:Tuition and Fees Payment Deadline
+URL:http://www.chattahoocheetech.edu/event/tuition-and-fees-payment-deadlin
+ e-for-fall-semester-priorityearly-registration-period/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20995@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Fall Semester Regular Registration Period</p>
+DTSTART;TZID=America/New_York:20160718T080000
+DTEND;TZID=America/New_York:20160815T235900
+SEQUENCE:0
+SUMMARY:Regular Registration Period
+URL:http://www.chattahoocheetech.edu/event/fall-semester-regular-registrati
+ on-period/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20997@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Summer Semester Final Exams</p>
+DTSTART;TZID=America/New_York:20160802T000000
+DTEND;TZID=America/New_York:20160804T000000
+SEQUENCE:0
+SUMMARY:Final Exams
+URL:http://www.chattahoocheetech.edu/event/summer-semester-final-exams/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20996@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Application and Document Deadline for Fall Semester\, includ
+ ing change of program\, transient and readmit requests\, financial aid doc
+ uments\, and petitions to graduate.</p>
+DTSTART;VALUE=DATE:20160805
+DTEND;VALUE=DATE:20160806
+SEQUENCE:0
+SUMMARY:Application and Document Deadline
+URL:http://www.chattahoocheetech.edu/event/application-and-document-deadlin
+ e-for-fall-semester/
+X-TAGS;LANGUAGE=en-US:Fall Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-20998@www.chattahoocheetech.edu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Key Dates
+CONTACT:
+DESCRIPTION:<p>Summer Semester Grades Available to Students via BannerWeb</
+ p>
+DTSTART;VALUE=DATE:20160808
+DTEND;VALUE=DATE:20160809
+SEQUENCE:0
+SUMMARY:Grades Available to Students via BannerWeb
+URL:http://www.chattahoocheetech.edu/event/summer-semester-grades-available
+ -to-students-via-bannerweb/
+X-TAGS;LANGUAGE=en-US:Summer Semester
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//187.174.96.99//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://cdhdfbeta.cdhdf.org.mx
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VTIMEZONE
+TZID:America/Mexico_City
+X-LIC-LOCATION:America/Mexico_City
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150405T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160403T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-29752@cdhdfbeta.cdhdf.org.mx
+DTSTAMP:20150920T002500Z
+CATEGORIES;LANGUAGE=es-ES:Presentación
+CONTACT:
+DESCRIPTION:<div align='center'><a href='http://cdhdfbeta.cdhdf.org.mx/wp-c
+ ontent/uploads/2015/09/libro-justicia.jpg' rel='prettyPhoto'><img class='a
+ lignnone size-full wp-image-29755' src='http://cdhdfbeta.cdhdf.org.mx/wp-c
+ ontent/uploads/2015/09/libro-justicia.jpg' alt='libro-justicia' width='600
+ ' /></a></div>
+DTSTART;TZID=America/Mexico_City:20150924T170000
+DTEND;TZID=America/Mexico_City:20150924T180000
+LOCATION:CDHDF @ Avenida Universidad 1449\, Colonia Pueblo Axotla\, Delegac
+ ión Álvaro Obregón\, 01030 México\, Distrito Federal.
+SEQUENCE:0
+SUMMARY:Presentación del libro Justicia Distributiva y Salud
+URL:http://cdhdfbeta.cdhdf.org.mx/event/presentacion-del-libro-justicia-dis
+ tributiva-y-salud/
+X-TAGS;LANGUAGE=es-ES:Presentación del libro Justicia Distributiva y Salud
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-29061@cdhdfbeta.cdhdf.org.mx
+DTSTAMP:20150920T002500Z
+CATEGORIES;LANGUAGE=es-ES:Coloquio
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://cdhdfbeta.cdhdf.org.mx/wp-content/uploads/2015/08/desta_260815.jpg' wid
+ th='1024' height='510' /></div><a href=' http://eventos.cdhdf.org.mx/reg_e
+ vent?cv=4876' target='_blank' class='shortc-button big purple'>Registro</a
+ >\n<div class='box  shadow'><div class='box-inner-block'><i class='tieicon
+ -boxicon'></i>\n			\n<table border='1' cellspacing='0'>\n<tbody>\n<tr>\n<td c
+ olspan='4' align='center'><b>Lunes 28 de septiembre de 2015</b></td>\n</tr
+ >\n<tr>\n<td align='center'>Horario</td>\n<td align='center'>Actividad</td
+ >\n<td colspan='2'></td>\n</tr>\n<tr>\n<td align='center'>9:00 a 9:50</td>
+ \n<td colspan='3' align='center'>REGISTRO</td>\n</tr>\n<tr>\n<td align='ce
+ nter'>10:00 a 11:10</td>\n<td align='center'>Inauguración</td>\n<td colspa
+ n='2' align='center'><b>Perla Gómez Gallardo<br />\nMiguel Julio Rodríguez
+  Villafañe</b></td>\n</tr>\n<tr>\n<td align='center'>Horario</td>\n<td ali
+ gn='center'>Actividad</td>\n<td align='center'>Ponentes</td>\n<td align='c
+ enter'>Tema</td>\n</tr>\n<tr>\n<td colspan='4' align='center'>Panel de Esp
+ ecialistas simultáneos e independientes</td>\n</tr>\n<tr>\n<td align='cent
+ er'>11:30 a 13:10</td>\n<td align='center'>Panel 1</td>\n<td align='center
+ '><b>Sergio Jaime Rochín del Rincón<br />\nSamuel Kenny<br />\nKarla Canto
+ ral Domínguez</b></td>\n<td align='center'>“El Derecho a saber de las víct
+ imas”</td>\n</tr>\n<tr>\n<td></td>\n<td align='center'>Panel 2</td>\n<td a
+ lign='center'><b>Mariclaire Acosta<br />\nJosé Reveles<br />\nBalbina Flor
+ es Martínez</b></td>\n<td align='center'>“Derechos Humanos y riesgos a la 
+ Libertad de Expresión”</td>\n</tr>\n<tr>\n<td></td>\n<td align='center'>Pa
+ nel 3</td>\n<td align='center'><b>Jenaro Villamil<br />\nMarco Lara Klahr<
+ /b></td>\n<td align='center'>“Libertad de Expresión en el marco de un Peri
+ odismo Plural”</td>\n</tr>\n</tbody>\n</table>\n\n			</div></div>\n<div class
+ ='box  shadow'><div class='box-inner-block'><i class='tieicon-boxicon'></i
+ >\n			\n<table>\n<tbody>\n<tr>\n<td colspan='4' align='center'>Martes 29 de s
+ eptiembre de 2015</td>\n</tr>\n<tr>\n<td align='center'>9:00 a 9:50</td>\n
+ <td colspan='3' align='center'>REGISTRO</td>\n</tr>\n<tr>\n<td align='cent
+ er'>Horario</td>\n<td align='center'>Actividad</td>\n<td align='center'>Po
+ nentes</td>\n<td align='center'>Tema</td>\n</tr>\n<tr>\n<td colspan='4' al
+ ign='center'>Panel de Especialistas simultáneos</td>\n</tr>\n<tr>\n<td ali
+ gn='center'>10:00 a 11:40</td>\n<td align='center'>Panel 4</td>\n<td align
+ ='center'><b>Francisco Prieto Echaso<br />\nAdriana Solórzano Fuentes<br /
+ >\nAleida Callejas<br />\nGabriel Sosa Plata</b></td>\n<td align='center'>
+ “Derecho de las audiencias”</td>\n</tr>\n<tr>\n<td></td>\n<td align='cente
+ r'>Panel 5</td>\n<td align='center'><b>Raúl Trejo Delarbre<br />\nMauricio
+  Romero<br />\nHéctor Pérez Pintor<br />\nOmar Raúl Martínez</b></td>\n<td
+  align='center'>“La Libertad de expresión el derecho a la privacidad e int
+ imidad”</td>\n</tr>\n<tr>\n<td></td>\n<td align='center'>Panel 6</td>\n<td
+  align='center'><b>Julio Alejandro Téllez Valdez<br />\nAlejandro Cárdenas
+ <br />\nGisela María Pérez Fuentes</b></td>\n<td align='center'>“Democraci
+ a\, redes sociales y el derecho a saber”</td>\n</tr>\n<tr>\n<td align='cen
+ ter'></td>\n<td align='center'>Clausura</td>\n<td align='center'><b>Lorenz
+ o Francisco Meyer Cossio<br />\nMiguel Julio Rodríguez Villafañe</b></td>
+ \n<td align='center'></td>\n</tr>\n<tr>\n<td colspan='4' align='center'><b
+ >Nota: Edison Lanza</b><br />\nRelator Especial para la Libertad de Expres
+ ión de la Comisión Interamericana de Derechos Humanos por confirmar</td>\n
+ </tr>\n</tbody>\n</table>\n\n			</div></div>\n<a href=' http://cdhdfbeta.cdhd
+ f.org.mx/wp-content/uploads/2015/08/cartel-coloquio.jpg' target='_blank' c
+ lass='shortc-button small purple'>Cartel</a>\n<a href=' http://cdhdfbeta.c
+ dhdf.org.mx/wp-content/uploads/2015/08/programa-coloquio.pdf' target='_bla
+ nk' class='shortc-button small purple'>Programa</a>
+DTSTART;TZID=America/Mexico_City:20150928T093000
+DTEND;TZID=America/Mexico_City:20150929T153000
+LOCATION:CDHDF @ Avenida Universidad 1449\, Colonia Pueblo Axotla\, Delegac
+ ión Álvaro Obregón\, 01030 México\, Distrito Federal.
+SEQUENCE:0
+SUMMARY:Libertad de Información y el derecho a saber un reto para la vida d
+ emocrática
+URL:http://cdhdfbeta.cdhdf.org.mx/event/libertad-de-informacion-y-el-derech
+ o-a-saber-un-reto-para-la-vida-democratica/
+X-TAGS;LANGUAGE=es-ES:Libertad de Información y el derecho a saber un reto 
+ para la vida democrática
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-29748@cdhdfbeta.cdhdf.org.mx
+DTSTAMP:20150920T002500Z
+CATEGORIES;LANGUAGE=es-ES:Feria
+CONTACT:Secretaría Ejecutiva\; 52295600 ext. 2434\; secretaria.ejecutiva@cd
+ hdf.org.mx
+DESCRIPTION:<p style='text-align: center\;'><a href=' http://cdhdfbeta.cdhd
+ f.org.mx/wp-content/uploads/2015/09/Convocatoria-5ta-Feria.pdf' target='_b
+ lank' class='shortc-button big purple'>Convocatoria</a>\n<p><a href='http:
+ //cdhdfbeta.cdhdf.org.mx/wp-content/uploads/2015/09/5ta-feria.jpg' rel='pr
+ ettyPhoto'><img class=' size-full wp-image-29749 aligncenter' src='http://
+ cdhdfbeta.cdhdf.org.mx/wp-content/uploads/2015/09/5ta-feria.jpg' alt='5ta-
+ feria' width='400' /></a></p>
+DTSTART;TZID=America/Mexico_City:20151012T100000
+DTEND;TZID=America/Mexico_City:20151012T173000
+LOCATION:CDHDF @ Avenida Universidad 1449\, Colonia Pueblo Axotla\, Delegac
+ ión Álvaro Obregón\, 01030 México\, Distrito Federal.
+SEQUENCE:0
+SUMMARY:5ª Feria de los derechos de las personas con discapacidad
+URL:http://cdhdfbeta.cdhdf.org.mx/event/5a-feria-de-los-derechos-de-las-per
+ sonas-con-discapacidad/
+X-TAGS;LANGUAGE=es-ES:5ª Feria de los derechos de las personas con discapac
+ idad
+END:VEVENT
+END:VCALENDAR

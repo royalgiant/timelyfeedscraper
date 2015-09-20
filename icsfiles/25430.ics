@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//195.64.164.131//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.ski-marseille.com
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fi5iep94et0kn3e20c42fe1ea8@google.com
+DTSTAMP:20150920T002119Z
+CATEGORIES;LANGUAGE=fr-FR:Ski Competition
+CONTACT:
+DESCRIPTION:<div class='fcbk_share'><div class='fcbk_like'><fb:like href='h
+ ttp://www.ski-marseille.com/2015/03/22/champions-de-france-de-ski-de-vites
+ se-jeunes-2015/' layout='button_count' width='450' show_faces='false' shar
+ e='true'></fb:like></div></div>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151024
+LOCATION:Les Deux Alpes\, 38860 Mont-de-Lans\, France
+SEQUENCE:0
+SUMMARY:Stage de Toussaint
+URL:http://www.ski-marseille.com/event/stage-de-toussaint/
+END:VEVENT
+END:VCALENDAR

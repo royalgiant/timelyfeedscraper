@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.47.225//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://ac5.6ab.myftpupload.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-31@ac5.6ab.myftpupload.com
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Luncheons
+CONTACT:Blevian Moore\; 708-596-0065\; info@shba.org\; http://www.shba.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://ac5.6ab.myftpupload.com/wp-content/uploads/2015/08/Profile-Logo.png' wi
+ dth='148' height='148' /></div><div align='center'><strong>Topic:</strong>
+   Connection Business with Education</div>\n<div align='center'></div>\n<d
+ iv align='center'>\n<div>\n<div><strong>September’s luncheon is the educat
+ ion panel. Panelists include: </strong></div>\n<div><strong>Dr. Jerry Jord
+ an</strong>\, Superintendent\, SOUTH HOLLAND SCHOOL DISTRICT 150</div>\n<d
+ iv><strong>Dr. Teresa Hill</strong>\, Superintendent\, SOUTH HOLLAND SCHOO
+ L DISTRICT 151</div>\n<div><strong>Dr. Leotis Swopes</strong>\, Superinten
+ dent\, THORNTON TOWNSHIP HIGH SCHOOL DISTRICT 205</div>\n<div><strong>Don 
+ Manning</strong>\, President\, SOUTH SUBURBAN COLLEGE</div>\n<div></div>\n
+ <div>The purpose of the education panel is to provide South Holland’s scho
+ ol districts with the opportunity to share highlights of their students wi
+ th the South Holland businesses. It also affords the businesses a chance t
+ o make connections and form partnerships for student growth and developmen
+ t.</div>\n</div>\n</div>
+DTSTART;TZID=America/Chicago:20150924T113000
+DTEND;TZID=America/Chicago:20150924T130000
+GEO:+41.585425;-87.604303
+LOCATION:South Holland Community Center @ 501 East 170th Street\, South Hol
+ land\, IL 60473\, USA
+SEQUENCE:0
+SUMMARY:September Networking Luncheon
+URL:http://ac5.6ab.myftpupload.com/event/september-networking-luncheon/
+X-TAGS;LANGUAGE=en-US:luncheon
+X-COST:$10 Members / $15 Non-Members
+X-TICKETS-URL:http://events.constantcontact.com/register/event?llr=lr6cbwua
+ b&oeidk=a07ebho2kjjc3fb0e21
+END:VEVENT
+END:VCALENDAR

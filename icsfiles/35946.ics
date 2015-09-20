@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//157.7.188.164//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://shinyoko.tomboy.jp
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+DTSTART:19510908T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+0900
+TZNAME:JST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-627@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/08/image-2.jpg' width='180' 
+ height='240' /></div><p>ジャンル：Jazz HipHop(ジャズヒップホップ)</p>\n<p>レベル：入門</p>\n<p
+ >インストラクター：木村清美</p>\n<p>曜日時間：土曜日13:30-15:00（12月スタート)</p>\n<p>木村清美メッセージ：<br 
+ />\nストレッチや筋トレ、アイソレーションでしっかり踊れる身体をつくり、最後のコンビネーションでは気持ち良く、踊りましょう。楽しく、自由なダンスを
+ 体験しに来て下さい！</p>
+DTSTART;TZID=Asia/Tokyo:20150919T133000
+DTEND;TZID=Asia/Tokyo:20150919T150000
+EXDATE;TZID=Asia/Tokyo:20150502T133000
+EXDATE;TZID=Asia/Tokyo:20150509T133000
+EXDATE;TZID=Asia/Tokyo:20150530T133000
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:JazzHipHop (ジャズヒップホップ）入門｜木村清美
+URL:http://shinyoko.tomboy.jp/event/jazzhiphop-%e3%82%b8%e3%83%a3%e3%82%ba%
+ e3%83%92%e3%83%83%e3%83%97%e3%83%9b%e3%83%83%e3%83%97%ef%bc%89%e5%85%a5%e9
+ %96%80%ef%bd%9c%e6%9c%a8%e6%9d%91%e6%b8%85%e7%be%8e/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-637@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=ja:イベント
+CONTACT:
+DESCRIPTION:<p>ナチュラルポイント<br />\n・なちゅぽのピチ★ぱち★ホリデー定期ライブ（ネットTV+ライブイベント)<br />
+ \n・ナチュラルポイント after Cafe（トークライブ+cafeイベント)</p>\n<p>トムボウイアイドルアカデミー定期ライブ<br />
+ \n・トムボウイアイドルアカデミーTV（ネットTV+ライブイベント)</p>\n<p>スケジュールなど詳細は　http://nachupo.com<
+ /p>
+DTSTART;TZID=Asia/Tokyo:20150920T144500
+DTEND;TZID=Asia/Tokyo:20150920T154500
+EXDATE;TZID=Asia/Tokyo:20150503T144500
+EXDATE;TZID=Asia/Tokyo:20150510T144500
+EXDATE;TZID=Asia/Tokyo:20150517T144500
+EXDATE;TZID=Asia/Tokyo:20150524T144500
+EXDATE;TZID=Asia/Tokyo:20150531T144500
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:ライブイベント
+URL:http://shinyoko.tomboy.jp/event/%e3%83%a9%e3%82%a4%e3%83%96%e3%82%a4%e3
+ %83%99%e3%83%b3%e3%83%88/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-615@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/08/U-ki-2-168x300.jpg' width
+ ='168' height='300' /></div><p>ジャンル：GirlsHipHip|ガールスヒップホップ</p>\n<p>レベル：初級<
+ /p>\n<p>インストラクター：U-ki</p>\n<p>開催日：月曜日19:00～20:30</p>\n<p>u-kiメッセージ：<br />
+ \n更にステップアツプを目指すクラスです！<br />\n女性らしいダンススタイルをレッツダンス！<br />\n皆さんで作品を作りましょう♪<br
+  />\n和気あいあいとした楽しいクラスです！<br />\nセクシー&ポップに♪<br />\n楽しく踊りましょう★</p>
+DTSTART;TZID=Asia/Tokyo:20150921T193000
+DTEND;TZID=Asia/Tokyo:20150921T203000
+EXDATE;TZID=Asia/Tokyo:20141229T193000
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:【発表会】GirlsHipHop|ガールズヒップホップ初級(U-ki)
+URL:http://shinyoko.tomboy.jp/event/girlshiphop%e5%88%9d%e7%b4%9au-ki/
+X-TAGS;LANGUAGE=ja:GirlsHipHop\,ガールズヒップホップ\,ダンススクール\,ダンスレッスン\,ダンス初級\,大倉山ダンス
+ スクール\,横浜市港北区新横浜ダンススクール\,菊名ダンススクール
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1012@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>R&B HIPHOP入門(Meiko Takahashi)アイソレーションからしっかり基礎をやっていきます！振りも少しず
+ つ進めていってレベルアップしていけたらと思ってます^_^一緒にいい汗かきましょう！</p>
+DTSTART;TZID=Asia/Tokyo:20150922T190000
+DTEND;TZID=Asia/Tokyo:20150922T203000
+EXDATE;TZID=Asia/Tokyo:20150421T190000
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:R&B HipHop 入門
+URL:http://shinyoko.tomboy.jp/event/rb-hiphop-%e5%85%a5%e9%96%80/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-611@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/10/acds212x159.jpg' width='2
+ 12' height='159' /></div><p>kihoメッセージ：嵐、W-inds、三浦大知などのJ-POPや東方神起、SHINee、KA
+ RA、少女時代などのK-POPダンスを学べます<br />\n楽しくなりきりダンスを習いましょう！</p>\n<p>http://coverdanc
+ e.caseof.net/ アーティストになりきりカバーダンスで楽しくダンス！シェイプアップ、健康管理、ストレス発散、学生、社会人、主婦、サラリーマ
+ ン、ご年配の方など楽しくダンスできます。ダンス経験・年齢不問、丁寧に指導します！</p>
+DTSTART;TZID=Asia/Tokyo:20150923T173000
+DTEND;TZID=Asia/Tokyo:20150923T190000
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:アーティストカバーダンスフリータイム付き水曜日(kiho)
+URL:http://shinyoko.tomboy.jp/event/%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3
+ %82%b9%e3%83%88%e3%82%ab%e3%83%90%e3%83%bc%e3%83%80%e3%83%b3%e3%82%b9-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1085@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2015/04/mizuki1-300x229.jpg' widt
+ h='300' height='229' /></div><p>HipHopヒップホップ入門(MIZUKI)まずは音楽を楽しむことから！形やジャンル
+ にとらわれず、音楽を体で表現することを一緒に楽しみましょう！！</p>
+DTSTART;TZID=Asia/Tokyo:20150923T190000
+DTEND;TZID=Asia/Tokyo:20150923T203000
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:HipHop入門
+URL:http://shinyoko.tomboy.jp/event/hiphop%e5%85%a5%e9%96%80/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-612@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/10/acds212x159.jpg' width='2
+ 12' height='159' /></div><p>kihoメッセージ：嵐、W-inds、三浦大知などのJ-POPや東方神起、SHINee、KA
+ RA、少女時代などのK-POPダンスを学べます<br />\n楽しくなりきりダンスを習いましょう！</p>\n<p>http://coverdanc
+ e.caseof.net/ アーティストになりきりカバーダンスで楽しくダンス！シェイプアップ、健康管理、ストレス発散、学生、社会人、主婦、サラリーマ
+ ン、ご年配の方など楽しくダンスできます。ダンス経験・年齢不問、丁寧に指導します！</p>
+DTSTART;TZID=Asia/Tokyo:20150923T203000
+DTEND;TZID=Asia/Tokyo:20150923T220000
+EXDATE;TZID=Asia/Tokyo:20150429T203000
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:アーティストカバーダンスフリータイム付き水曜日(kiho)
+URL:http://shinyoko.tomboy.jp/event/%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3
+ %82%b9%e3%83%88%e3%82%ab%e3%83%90%e3%83%bc%e3%83%80%e3%83%b3%e3%82%b9%e3%8
+ 3%95%e3%83%aa%e3%83%bc%e3%82%bf%e3%82%a4%e3%83%a0%e4%bb%98%e3%81%8d/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-625@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/08/kiho-225x300.jpg' width='
+ 225' height='300' /></div><p>ジャンル：KIDS HIPHOP｜キッズヒップホップ</p>\n<p>レベル：キッズ(小学
+ 生)</p>\n<p>インストラクター：KIho</p>\n<p>開催日：木曜日17:00～18:00</p>\n<p>kihoメッセージ：<br 
+ />\n体力作りの為の筋トレを取り入れ、一般クラスのような大人っぽいヒップホップを教えます。<br />\n「エクザイル」のようにクールでかっこいい
+ ダンスを一緒に踊りましょう！</p>
+DTSTART;TZID=Asia/Tokyo:20150924T170000
+DTEND;TZID=Asia/Tokyo:20150924T180000
+EXDATE;TZID=Asia/Tokyo:20150430T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:KIDS HIPHOP|キッズヒップホップ(Kiho)
+URL:http://shinyoko.tomboy.jp/event/kids-hiphop%e3%82%ad%e3%83%83%e3%82%ba%
+ e3%83%92%e3%83%83%e3%83%97%e3%83%9b%e3%83%83%e3%83%97kiho/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-600@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:トムボウイ・ダンスインスティテュート神奈川県横浜市港北区新横浜スタジオ\; 045-620-6669\; shinyoko@tombo
+ y.jp\; http://shinyoko.tomboy.jp
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/10/acds212x159.jpg' width='2
+ 12' height='159' /></div><p>U-Kiメッセージ：アイドル楽曲中心のレッスン＆フリータイム☆<br />\n毎週いろいろな
+ アイドルのダンスカバーをダンシング！<br />\nAKB.ハロプロ.ももクロ…初心者からOK！<br />\n「楽しむ」が目的ですので、どなたでも
+ 1回から気軽に参加できます！</p>\n<p>http://coverdance.caseof.net/  アーティストになりきりカバーダンスで楽し
+ くダンス！シェイプアップ、健康管理、ストレス発散、学生、社会人、主婦、サラリーマン、ご年配の方など楽しくダンスできます。ダンス経験・年齢不問、丁寧に
+ 指導します！</p>
+DTSTART;TZID=Asia/Tokyo:20150924T180000
+DTEND;TZID=Asia/Tokyo:20150924T190000
+EXDATE;TZID=Asia/Tokyo:20141229T180000
+GEO:+35.513866;+139.620944
+LOCATION:トムボウイ・ダンスインスティテュート神奈川県横浜市港北区新横浜スタジオ @ 日本\, 〒222-0033 神奈川県横浜市港北区新横浜
+ ３丁目１３−６ 新横浜葉山第３ビル
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:アーティストカバーダンス木曜日(U-Ki)
+URL:http://shinyoko.tomboy.jp/event/%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3
+ %82%b9%e3%83%88%e3%82%ab%e3%83%90%e3%83%bc%e3%83%80%e3%83%b3%e3%82%b9/
+X-TICKETS-URL:http://shinyoko.tomboy.jp/contact
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-620@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/08/yasu.jpg' width='180' hei
+ ght='239' /></div><p>ジャンル：SOUL＆HipHop｜ソウル&ヒップホップ</p>\n<p>レベル：入門～初級</p>\n<p
+ >インストラクター：yasu</p>\n<p>曜日時間：木曜日19:00～20:30</p>\n<p>yasuメッセージ：<br />\n基礎や基本
+ から体作りもしっかり教えますが、まずは誰でも楽しくダンスを踊れるように、を大事に教えていきます。</p>
+DTSTART;TZID=Asia/Tokyo:20150924T190000
+DTEND;TZID=Asia/Tokyo:20150924T203000
+EXDATE;TZID=Asia/Tokyo:20150430T190000
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:【発表会】SOUL＆HipHop初級｜ソウル&ヒップホップ(yasu)
+URL:http://shinyoko.tomboy.jp/event/soul%ef%bc%86hiphop%e5%88%9d%e7%b4%9aya
+ su/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-613@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/10/acds212x159.jpg' width='2
+ 12' height='159' /></div><p>U-Kiメッセージ：アイドル楽曲中心のレッスン＆フリータイム☆<br />\n毎週いろいろな
+ アイドルのダンスカバーをダンシング！<br />\nAKB.ハロプロ.ももクロ…初心者からOK！<br />\n「楽しむ」が目的ですので、どなたでも
+ 1回から気軽に参加できます！</p>\n<p>http://coverdance.caseof.net/ アーティストになりきりカバーダンスで楽しく
+ ダンス！シェイプアップ、健康管理、ストレス発散、学生、社会人、主婦、サラリーマン、ご年配の方など楽しくダンスできます。ダンス経験・年齢不問、丁寧に指
+ 導します！</p>
+DTSTART;TZID=Asia/Tokyo:20150924T203000
+DTEND;TZID=Asia/Tokyo:20150924T220000
+EXDATE;TZID=Asia/Tokyo:20150430T203000
+EXDATE;TZID=Asia/Tokyo:20150507T203000
+EXDATE;TZID=Asia/Tokyo:20150514T203000
+EXDATE;TZID=Asia/Tokyo:20150521T203000
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:アーティストカバーダンスフリータイム付き木曜日(U-ki)
+URL:http://shinyoko.tomboy.jp/event/%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3
+ %82%b9%e3%83%88%e3%82%ab%e3%83%90%e3%83%bc%e3%83%80%e3%83%b3%e3%82%b9%e3%8
+ 3%95%e3%83%aa%e3%83%bc%e3%82%bf%e3%82%a4%e3%83%a0%e4%bb%98/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-607@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/08/U-ki-2-168x300.jpg' width
+ ='168' height='300' /></div><p>ジャンル：KIDS IDOL|キッズアイドル</p>\n<p>レベル：キッズ(小学生)
+ </p>\n<p>インストラクター：U-ki</p>\n<p>U-kiメッセージ：<br />\nアイドルダンスをレッスンします♪<br />\n表
+ 現力をつけて、アイドルの様に元気にかわいく踊ってみよう！</p>
+DTSTART;TZID=Asia/Tokyo:20150925T170000
+DTEND;TZID=Asia/Tokyo:20150925T180000
+EXDATE;TZID=Asia/Tokyo:20150102T170000
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:KIDS IDOL|キッズアイドル(U-ki)
+URL:http://shinyoko.tomboy.jp/event/kids-idol%e3%82%ad%e3%83%83%e3%82%ba%e3
+ %82%a2%e3%82%a4%e3%83%89%e3%83%abu-ki/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-614@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/10/acds212x159.jpg' width='2
+ 12' height='159' /></div><p>kihoメッセージ：嵐、W-inds、三浦大知などのJ-POPや東方神起、SHINee、KA
+ RA、少女時代などのK-POPダンスを学べます<br />\n楽しくなりきりダンスを習いましょう！</p>\n<p>http://coverdanc
+ e.caseof.net/ アーティストになりきりカバーダンスで楽しくダンス！シェイプアップ、健康管理、ストレス発散、学生、社会人、主婦、サラリーマ
+ ン、ご年配の方など楽しくダンスできます。ダンス経験・年齢不問、丁寧に指導します！</p>
+DTSTART;TZID=Asia/Tokyo:20150925T180000
+DTEND;TZID=Asia/Tokyo:20150925T190000
+EXDATE;TZID=Asia/Tokyo:20150529T180000
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:アーティストカバーダンス金曜日(kiho)
+URL:http://shinyoko.tomboy.jp/event/%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3
+ %82%b9%e3%83%88%e3%82%ab%e3%83%90%e3%83%bc%e3%83%80%e3%83%b3%e3%82%b9-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-624@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/08/kiho-225x300.jpg' width='
+ 225' height='300' /></div><p>ジャンル：HipHop Choreography|ヒップホップ振付(kiho)</p>\n
+ <p>レベル：入門</p>\n<p>インストラクター：Kiho</p>\n<p>開催日：金曜日19:30～20:30</p>\n<p>kihoメッセ
+ ージ：<br />\n基礎を中心に筋トレなども入れていきます。<br />\n大人な雰囲気のHIPHOPです。<br />\n一緒にレッスンしてカッ
+ コよくなろう！</p>
+DTSTART;TZID=Asia/Tokyo:20150925T193000
+DTEND;TZID=Asia/Tokyo:20150925T203000
+EXDATE;TZID=Asia/Tokyo:20150529T193000
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:【発表会】HipHop Choreography|ヒップホップ振付(kiho)
+URL:http://shinyoko.tomboy.jp/event/hiphop-choreography%e3%83%92%e3%83%83%e
+ 3%83%97%e3%83%9b%e3%83%83%e3%83%97%e6%8c%af%e4%bb%98kiho/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-626@shinyoko.tomboy.jp
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://shinyoko.tomboy.jp/wp-content/uploads/2014/11/d160a53f71104dc4e5ed3c300
+ ba3ba79-300x248.jpg' width='300' height='248' /></div><p>U-KIメッセージ：<br />
+ \nアイドル楽曲中心のレッスン＆フリータイム☆<br />\n毎週いろいろなアイドルのダンスカバーをダンシング！<br />\nAKB.ハロプロ.も
+ もクロ…初心者からOK！<br />\n「楽しむ」が目的ですので、どなたでも1回から気軽に参加できます！</p>\n<p>http://coverd
+ ance.caseof.net/ 　アーティストになりきりカバーダンスで楽しくダンス！シェイプアップ、健康管理、ストレス発散、学生、社会人、主婦、サ
+ ラリーマン、ご年配の方など楽しくダンスできます。ダンス経験・年齢不問、丁寧に指導します！</p>
+DTSTART;TZID=Asia/Tokyo:20150925T203000
+DTEND;TZID=Asia/Tokyo:20150925T210000
+EXDATE;TZID=Asia/Tokyo:20150501T203000
+EXDATE;TZID=Asia/Tokyo:20150515T203000
+EXDATE;TZID=Asia/Tokyo:20150522T203000
+EXDATE;TZID=Asia/Tokyo:20150529T203000
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:アーティストカバーダンスフリータイム付き金曜日(U-Ki)
+URL:http://shinyoko.tomboy.jp/event/%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3
+ %82%b9%e3%83%88%e3%82%ab%e3%83%90%e3%83%bc%e3%83%80%e3%83%b3%e3%82%b9%e3%8
+ 3%95%e3%83%aa%e3%83%bc%e3%82%bf%e3%82%a4%e3%83%a0%e4%bb%98%e3%81%8du-ki/
+END:VEVENT
+END:VCALENDAR

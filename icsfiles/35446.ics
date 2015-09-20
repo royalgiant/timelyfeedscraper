@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//62.149.144.48//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.smarteducationlab.it
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+X-LIC-LOCATION:Europe/Rome
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-888@www.smarteducationlab.it
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=it-IT:stampa 3D
+CONTACT:
+DESCRIPTION:<p>argomenti del corso</p>\n<ul>\n<li>Breve storia della stampa
+  3D. Analisi delle differenti tecnologie di stampa 3D e dei diversi materi
+ ali di stampa\;</li>\n<li></li>\n<li>Introduzione ad attività di modellazi
+ one e realizzazione di solidi da primitive base (NETFABB)</li>\n<li>Analis
+ i delle principali problematiche del file in formato STL (standard per tut
+ te le macchine di stampa 3D)<b>\;</b></li>\n<li>Introduzione alla fase di 
+ gestione ed ottimizzazione dei file STL.</li>\n<li></li>\n</ul>\n<p>Creazi
+ one di un G-code ed operazioni per la Stampa 3D</p>
+DTSTART;VALUE=DATE:20150922
+DTEND;VALUE=DATE:20150923
+GEO:+40.334946;+18.118984
+LOCATION:Smarteducationlab c/o Ditech @ Campus Universitario Ecotekne\, 730
+ 47 Monteroni di Lecce LE\, Italia
+SEQUENCE:0
+SUMMARY:Modellazione 3D per la prototipazione rapida
+URL:http://www.smarteducationlab.it/?ai1ec_event=modellazione-3d
+X-TAGS;LANGUAGE=it-IT:stampa 3D
+END:VEVENT
+END:VCALENDAR

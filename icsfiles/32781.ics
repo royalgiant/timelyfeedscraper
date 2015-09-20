@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.27.147.71//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.myfc.org.my/v2
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+X-LIC-LOCATION:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19820101T000000
+TZOFFSETFROM:+0730
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2298@www.myfc.org.my/v2
+DTSTAMP:20150920T003949Z
+CATEGORIES;LANGUAGE=en-US:Malacca
+CONTACT:Nyet Lee 月丽\; 012-6280594
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Sports and Adventure
+URL:http://www.myfc.org.my/v2/event/sports-and-adventure/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2266@www.myfc.org.my/v2
+DTSTAMP:20150920T003949Z
+CATEGORIES;LANGUAGE=en-US:Johor
+CONTACT:Kuok Han 国汉\; 016-7123526
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+LOCATION:Johor YFC
+SEQUENCE:0
+SUMMARY:Mid Autumn event
+URL:http://www.myfc.org.my/v2/event/mid-autumn-event-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2269@www.myfc.org.my/v2
+DTSTAMP:20150920T003949Z
+CATEGORIES;LANGUAGE=en-US:Johor
+CONTACT:Bee Bee 美美\; 016-6650095
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151123
+DTEND;VALUE=DATE:20151128
+LOCATION:Johor
+SEQUENCE:0
+SUMMARY:Project Serve 1
+URL:http://www.myfc.org.my/v2/event/project-serve-1-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2299@www.myfc.org.my/v2
+DTSTAMP:20150920T003949Z
+CATEGORIES;LANGUAGE=en-US:Malacca
+CONTACT:Hannah Chin 秀玉\; 012-7081974
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151123
+DTEND;VALUE=DATE:20151128
+LOCATION:Malacca YFC
+SEQUENCE:0
+SUMMARY:Project Serve 1
+URL:http://www.myfc.org.my/v2/event/project-serve-1-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2303@www.myfc.org.my/v2
+DTSTAMP:20150920T003949Z
+CATEGORIES;LANGUAGE=en-US:Johor\,Kuala Lumpur\,Malacca
+CONTACT:
+DESCRIPTION:<p><center><br />\n<a href='http://www.myfc.org.my/v2/wp-conten
+ t/uploads/2015/01/Project-Serve-1-2015-Email-01.jpg'><img src='http://www.
+ myfc.org.my/v2/wp-content/uploads/2015/01/Project-Serve-1-2015-Email-01.jp
+ g' alt='Project-Serve-1-2015-Email 01' width='1052' height='1487' class='a
+ ligncenter size-full wp-image-2463' /></a></p>\n<p><a href='http://www.myf
+ c.org.my/v2/wp-content/uploads/2015/01/Project-Serve-1-2015-Email-02.jpg'>
+ <img src='http://www.myfc.org.my/v2/wp-content/uploads/2015/01/Project-Ser
+ ve-1-2015-Email-02.jpg' alt='Project-Serve-1-2015-Email 02' width='1052' h
+ eight='1487' class='aligncenter size-full wp-image-2464' /></a></p>\n<p><c
+ enter></p>\n<ul id='resurrect-sermon-full-buttons' class='resurrect-list-b
+ uttons'>\n<li id='resurrect-sermon-full-pdf-download-button'><a title='Dow
+ nload PDF' href='http://www.myfc.org.my/v2/wp-content/uploads/2015/05/Proj
+ ectServe1-2015-Email.pdf'>Download Registration Form</a></li>\n</ul>\n<p><
+ /center></p>
+DTSTART;VALUE=DATE:20151123
+DTEND;VALUE=DATE:20151128
+LOCATION:Kuala Lumpur
+SEQUENCE:0
+SUMMARY:Project Serve 1
+URL:http://www.myfc.org.my/v2/event/project-serve-1-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2270@www.myfc.org.my/v2
+DTSTAMP:20150920T003949Z
+CATEGORIES;LANGUAGE=en-US:Johor
+CONTACT:Office 办事处\; 07-3597818
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151216
+DTEND;VALUE=DATE:20151217
+LOCATION:Johor
+SEQUENCE:0
+SUMMARY:Christmas Party
+URL:http://www.myfc.org.my/v2/event/christmas-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2469@www.myfc.org.my/v2
+DTSTAMP:20150920T003949Z
+CATEGORIES;LANGUAGE=en-US:Johor\,Kuala Lumpur\,Malacca
+CONTACT:
+DESCRIPTION:<p><a href='http://www.myfc.org.my/v2/wp-content/uploads/2015/0
+ 5/Project-Serve-2-colour.jpg'><img src='http://www.myfc.org.my/v2/wp-conte
+ nt/uploads/2015/05/Project-Serve-2-colour.jpg' alt='Project-Serve-2---colo
+ ur' width='992' height='1403' class='aligncenter size-full wp-image-2470' 
+ /></a></p>\n<p><center></p>\n<ul id='resurrect-sermon-full-buttons' class=
+ 'resurrect-list-buttons'>\n<li id='resurrect-sermon-full-pdf-download-butt
+ on'><a title='Download PDF' href='http://www.myfc.org.my/v2/wp-content/upl
+ oads/2015/05/PS2_2016_reg.pdf'>Download Registration Form</a></li>\n</ul>
+ \n<p></center></p>
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160401
+SEQUENCE:0
+SUMMARY:Project Serve 2
+URL:http://www.myfc.org.my/v2/event/projectserve2_2016/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.195.50//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.richmondwinesociety.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-145@www.richmondwinesociety.co.uk
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Masterclasses
+CONTACT:Tim Syrad\; 07850 329111\; tim@timsyradwines.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.richmondwinesociety.co.uk/wp-content/uploads/2015/01/california-ore
+ gon-wine-tour-vineyard-Saratoga-300x224.jpg' width='300' height='224' /></
+ div><p>Having just returned from California\, I can say that I was serious
+ ly impressed by the depth\, range and quality of the wines I tasted.</p>\n
+ <p>In our masterclass we will have a top class selection that will showcas
+ e some serious names and styles with the Chateau Montelena 2000 sure to be
+  one of the highlights. Napa and Sonoma Valley\, Russian River and Mendoci
+ no will all feature in what should a wonderful exposition of this part of 
+ California.</p>\n<p>A fabulous masterclass awaits along side the usual top
+  class dinner from Bacco.</p>
+DTSTART;TZID=Europe/London:20150921T193000
+GEO:+51.464212;-0.301554
+LOCATION:Bacco Restaurant @ 39-41 Kew Road\, Richmond\, Surrey TW9 2NQ\, UK
+SEQUENCE:0
+SUMMARY:September Masterclass – Premium Californian
+URL:http://www.richmondwinesociety.co.uk/event/september-masterclass/
+X-COST:£90 per person including wine tasting and four course dinner with wi
+ ne
+X-TICKETS-URL:https://events.r20.constantcontact.com/register/eventReg?oeid
+ k=a07ebhbj3p47b1836b9&oseq=&c=f72142f0-200e-11e3-a627-d4ae5292c426&ch=f765
+ 50d0-200e-11e3-a674-d4ae5292c426
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-139@www.richmondwinesociety.co.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES;LANGUAGE=en-US:All Events\,Monthly Wine Tastings
+CONTACT:Tim Syrad\; 07850 329111\; tim@richmondwinesociety.co.uk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.richmondwinesociety.co.uk/wp-content/uploads/2015/01/Chile-Valle-de
+ l-Elqui-300x200.jpg' width='300' height='200' /></div><p>Chile continues t
+ o excite the world of wine\, with new areas being developed and better exa
+ mples of classic grapes with greater elegance and balance. While one third
+  of Chile is planted to Cabernet Sauvignon\, cooler climate varieties such
+  as Sauvignon Blanc and Pinot Noir\, and even some sparkling wines are hav
+ ing an impact.</p>\n<p>Prior to the two tours I am running to Chile in Nov
+ ember\, I am taking the chance to explore some new regions\, taste some fa
+ bulous wines\, and thoroughly whet everyone’s appetites to the delights of
+  Chilean wine.</p>
+DTSTART;TZID=Europe/London:20151013T193000
+GEO:+51.460873;-0.305238
+LOCATION:The Britannia Pub @ 5 Brewers Lane\, Richmond\, Greater London TW9
+  1HH\, UK
+RRULE:FREQ=DAILY;UNTIL=20151014T235959Z
+SEQUENCE:0
+SUMMARY:October Tasting – Update on Chile
+URL:http://www.richmondwinesociety.co.uk/event/chile-wine-tasting/
+X-COST:£40 per person including tasting and dinner with wine
+X-TICKETS-URL:https://events.r20.constantcontact.com/register/eventReg?llr=
+ gdtdsfdab&oeidk=a07ebkbuv398b544e20&oseq=
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-146@www.richmondwinesociety.co.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES;LANGUAGE=en-US:Masterclasses
+CONTACT:Tim Syrad\; 07850 329111\; tim@timsyradwines.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.richmondwinesociety.co.uk/wp-content/uploads/2015/01/Wine-Award-log
+ os-300x105.jpg' width='300' height='105' /></div><p>At Bacco on the 20th O
+ ctober we will be tasting some of the best wines from the annual wine awar
+ ds.</p>\n<p>To win a Trophy requires a wine to be judged by a series of pa
+ nels of wine experts of increasing reputation and discernment\, and to eme
+ rge as one of the finest example of its type.  I am selecting a fabulous l
+ ine up of wines that will of course complement a wonderful Bacco dinner.</
+ p>\n<p>A sublime night of wine and food awaits.</p>\n<p>I look forward to 
+ seeing you there.</p>
+DTSTART;TZID=Europe/London:20151020T193000
+GEO:+51.464212;-0.301554
+LOCATION:Bacco Restaurant @ 39-41 Kew Road\, Richmond\, Surrey TW9 2NQ\, UK
+SEQUENCE:0
+SUMMARY:October Masterclass –  Trophy and Award Winners
+URL:http://www.richmondwinesociety.co.uk/event/trophy-winner-wine-tasting/
+X-COST:£90 per person including tasting and four course dinner with wine
+X-TICKETS-URL:https://events.r20.constantcontact.com/register/eventReg?oeid
+ k=a07ebkbxr2t06a8a8cf&oseq=&c=&ch=
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-140@www.richmondwinesociety.co.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES;LANGUAGE=en-US:Monthly Wine Tastings
+CONTACT:Tim Syrad\; 07850 329111\; tim@richmondwinesociety.co.uk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.richmondwinesociety.co.uk/wp-content/uploads/2015/01/Christmas-imag
+ e-2015-300x300.jpg' width='300' height='300' /></div><p>Our Christmas tast
+ ing will kick the festive season off with a bang.  Or perhaps a few pops!<
+ /p>\n<p>We’ll definitely be sampling some fizz\, and we’ll enjoy wines tha
+ t match all the Christmas classic dishes\, so we’ll round off the evening 
+ with something fortified.</p>
+DTSTART;TZID=Europe/London:20151201T193000
+GEO:+51.460873;-0.305238
+LOCATION:The Britannia Pub @ 5 Brewers Lane\, Richmond\, Greater London TW9
+  1HH\, UK
+RRULE:FREQ=DAILY;UNTIL=20151202T235959Z
+SEQUENCE:0
+SUMMARY:December Tasting – Christmas Spectacular
+URL:http://www.richmondwinesociety.co.uk/event/christmas-tasting/
+X-COST:£45 per person including wine tasting and dinner with wine.
+X-TICKETS-URL:https://events.r20.constantcontact.com/register/eventReg?oeid
+ k=a07ebkc83pwe8d6acf6&oseq=&c=&ch=
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-148@www.richmondwinesociety.co.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES;LANGUAGE=en-US:Masterclasses
+CONTACT:Tim Syrad\; 07850 329111\; tim@timsyradwines.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.richmondwinesociety.co.uk/wp-content/uploads/2015/01/Brochure-image
+ -300x226.jpg' width='300' height='226' /></div><div>What better way to get
+  into the Christmas spirit than with some fine\, interesting\, expensive a
+ nd sublime wines?</div>\n<div></div>\n<div>I am preparing the menu for our
+  annual Christmas dinner\, and the only thing I will guarantee is that tur
+ key is not on it.  I’m feeling scallops\, foie gras\, guinea fowl\, someth
+ ing chocolatey\, and I must get down to Teddington Cheese.</div>
+DTSTART;TZID=Europe/London:20151207T193000
+EXDATE;TZID=Europe/London:20151210T193000
+EXDATE;TZID=Europe/London:20151211T193000
+EXDATE;TZID=Europe/London:20151212T193000
+EXDATE;TZID=Europe/London:20151213T193000
+GEO:+51.432798;-0.345847
+LOCATION:222 Stanley Rd\, Teddington @ 222 Stanley Road\, Teddington\, Grea
+ ter London TW11 8UE\, UK
+RRULE:FREQ=DAILY;UNTIL=20151215T235959Z
+SEQUENCE:0
+SUMMARY:December Masterclass – Christmas Extravaganza
+URL:http://www.richmondwinesociety.co.uk/event/christmas-masterclass/
+X-COST:£80 per person including wine and five (or more) course dinner
+X-TICKETS-URL:https://events.r20.constantcontact.com/register/eventReg?oeid
+ k=a07ebkc32ti7fffcfa0&oseq=&c=&ch=
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

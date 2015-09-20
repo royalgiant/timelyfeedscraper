@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.47.225//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://capeannvacationhomes.com
+X-WR-TIMEZONE:Atlantic/Azores
+BEGIN:VTIMEZONE
+TZID:Atlantic/Azores
+X-LIC-LOCATION:Atlantic/Azores
+BEGIN:STANDARD
+DTSTART:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0100
+TZNAME:AZOT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T000000
+TZOFFSETFROM:-0100
+TZOFFSETTO:+0000
+RDATE:20160327T000000
+TZNAME:AZOST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2143@capeannvacationhomes.com
+DTSTAMP:20150920T002144Z
+CATEGORIES;LANGUAGE=en-US:Festival
+CONTACT:
+DESCRIPTION:<p>The Manhattan Short Film Festival is a unique experience\, e
+ xtending beyond its headquarters in New York City by inviting participatin
+ g venues worldwide to screen entries and allow audience voting to determin
+ e the winner.  These short films will not only entertain a global audience
+  but will be judged by them as well.</p>
+DTSTART;TZID=Atlantic/Azores:20150926T200000
+DTEND;TZID=Atlantic/Azores:20150928T190000
+GEO:+42.658532;-70.617717
+LOCATION:SHALIN LIU PERFORMANCE CENTER @ 35 Main Street\, Rockport\, MA 019
+ 66\, USA
+SEQUENCE:0
+SUMMARY:Manhattan Short Film Festival
+URL:http://capeannvacationhomes.com/event/manhattan-short-film-festival/
+X-TAGS;LANGUAGE=en-US:Film\,Film Festival\,Short Film
+X-COST:$9.75 | Students $7.00
+X-TICKETS-URL:http://rockportmusic.org/manhattan-short-film-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2145@capeannvacationhomes.com
+DTSTAMP:20150920T002144Z
+CATEGORIES;LANGUAGE=en-US:Family Event
+CONTACT:
+DESCRIPTION:<p><a href='http://capeannvacationhomes.com/wp-content/uploads/
+ 2015/08/ROckport-at-night.jpg'><img class='wp-image-2146 alignleft' src='h
+ ttp://capeannvacationhomes.com/wp-content/uploads/2015/08/ROckport-at-nigh
+ t-786x1024.jpg' alt='ROckport at night' width='400' height='521' /></a>Sho
+ ps and galleries will open their doors at night to welcome you with food\,
+  wine and drink as you enjoy the renowned talents of this artistic communi
+ ty\, the unique shops\, demos and music. Come celebrate as they illuminate
+  downtown and enjoy the ambiance that only Rockport provides.</p>
+DTSTART;TZID=Atlantic/Azores:20151002T160000
+DTEND;TZID=Atlantic/Azores:20151002T200000
+GEO:+42.646548;-70.62798
+LOCATION:Rockport MA @ Main Street\, Rockport\, MA 01966\, USA
+SEQUENCE:0
+SUMMARY:Rockport At Night
+URL:http://capeannvacationhomes.com/event/rockport-at-night/
+X-TAGS;LANGUAGE=en-US:family\,MA\,Rockport\,shopping\,stores
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2147@capeannvacationhomes.com
+DTSTAMP:20150920T002144Z
+CATEGORIES;LANGUAGE=en-US:Theatre
+CONTACT:
+DESCRIPTION:<p>Academy Award® nominee Benedict Cumberbatch (BBC’s Sherlock\
+ , The Imitation Game\, Frankenstein at the National Theatre) takes on the 
+ title role of Shakespeare’s great tragedy. Directed by Lyndsey Turner (Pos
+ h\, Chimerica) and produced by Sonia Friedman Productions\, National Theat
+ re Live will broadcast this eagerly awaited production live to cinemas. As
+  a country arms itself for war\, a family tears itself apart. Forced to av
+ enge his father’s death but paralysed by the task ahead\, Hamlet rages aga
+ inst the impossibility of his predicament\, threatening both his sanity an
+ d the security of the state.</p>
+DTSTART;TZID=Atlantic/Azores:20151015T190000
+DTEND;TZID=Atlantic/Azores:20151015T220000
+GEO:+42.658465;-70.618787
+LOCATION:SHALIN LIU PERFORMANCE CENTER @ 37 Main Street\, Rockport\, MA 019
+ 66\, USA
+SEQUENCE:0
+SUMMARY:Hamlet in HD
+URL:http://capeannvacationhomes.com/event/hamlet-in-hd/
+X-TAGS;LANGUAGE=en-US:Hamlet\,Hamlet in HD\,Shalin Liu Performance Center
+X-COST:$22 Adult | $15 Student | $5 Youth
+X-TICKETS-URL:http://rockportmusic.org/hamlet/
+END:VEVENT
+END:VCALENDAR

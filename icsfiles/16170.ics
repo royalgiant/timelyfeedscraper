@@ -1,0 +1,2153 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="fr-FR">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="fr-FR">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="fr-FR">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>EMS BRON NATATION</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://ems2.bronnatation.fr/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://ems2.bronnatation.fr/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="EMS BRON NATATION &raquo; Flux" href="http://ems2.bronnatation.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="EMS BRON NATATION &raquo; Flux des commentaires" href="http://ems2.bronnatation.fr/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ems2.bronnatation.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyfourteen-jetpack-css'  href='http://ems2.bronnatation.fr/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ecwd_font-awesome-css'  href='http://ems2.bronnatation.fr/wp-content/plugins/event-calendar-wd/css/font-awesome/font-awesome.css?ver=1.0.20' type='text/css' media='all' />
+<link rel='stylesheet' id='ecwd-public-css'  href='http://ems2.bronnatation.fr/wp-content/plugins/event-calendar-wd/css/style.css?ver=1.0.20' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://ems2.bronnatation.fr/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://ems2.bronnatation.fr/wp-content/themes/twentyfourteen/style.css?ver=4.3.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://ems2.bronnatation.fr/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='tablepress-default-css'  href='http://ems2.bronnatation.fr/wp-content/plugins/tablepress/css/default.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpgmp-frontend-css'  href='http://ems2.bronnatation.fr/wp-content/plugins/wp-google-map-plugin//assets/css/frontend.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='photonic-css'  href='http://ems2.bronnatation.fr/wp-content/plugins/photonic/include/css/photonic.css?ver=1.49' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://ems2.bronnatation.fr/wp-content/plugins/jetpack/css/jetpack.css?ver=3.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.google.com/jsapi?ver=4.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpgmp_local = {"language":"fr","urlforajax":"http:\/\/ems2.bronnatation.fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-content/plugins/wp-google-map-plugin//assets/js/maps.js?ver=4.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Photonic_JS = {"ajaxurl":"http:\/\/ems2.bronnatation.fr\/wp-admin\/admin-ajax.php","fbox_show_title":"1","fbox_title_position":null,"flickr_collection_set_title_display":null,"flickr_gallery_title_display":null,"flickr_photo_title_display":null,"picasa_photo_title_display":null,"picasa_photo_pop_title_display":null,"wp_thumbnail_title_display":null,"Dpx_photo_title_display":null,"smug_photo_title_display":null,"smug_photo_pop_title_display":null,"smug_albums_album_title_display":null,"instagram_photo_title_display":null,"instagram_user_title_display":null,"zenfolio_photo_title_display":null,"zenfolio_set_title_display":null,"slideshow_library":null,"slideshow_mode":"","slideshow_interval":"5000","pphoto_theme":"pp_default","gallery_panel_width":null,"gallery_panel_items":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-content/plugins/photonic/include/scripts/photonic.js?ver=1.49'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-content/plugins/photonic/include/scripts/jquery.cycle.all.min.js?ver=1.49'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ems2.bronnatation.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ems2.bronnatation.fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='shortlink' href='http://wp.me/4WMoI' />
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css" id="twentyfourteen-header-css">
+			.site-title a {
+			color: #e50000;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #3d4aff; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="EMS BRON NATATION" />
+<meta property="og:url" content="http://ems2.bronnatation.fr/" />
+<meta property="og:site_name" content="EMS BRON NATATION" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="fr_FR" />
+<style type="text/css">
+.photonic-pad-photosets { margin: px; }
+.photonic-pad-galleries { margin: px; }
+.photonic-flickr-stream .photonic-pad-photos { margin: 0 px; }
+.photonic-picasa-stream .photonic-pad-photos { margin: 0 px; }
+.photonic-picasa-stream img {  }
+.photonic-panel .photonic-picasa-image img {  }
+.photonic-500px-stream .photonic-pad-photos { margin: 0 px; }
+.photonic-500px-stream img {  }
+.photonic-zenfolio-stream .photonic-pad-photos { margin: 0 px; }
+.photonic-zenfolio-stream .photonic-pad-photosets { margin: 0 px; }
+.photonic-zenfolio-photo img {  }
+.photonic-zenfolio-set-thumb img {  }
+.photonic-instagram-stream .photonic-pad-photos { margin: 0 px; }
+.photonic-instagram-photo img {  }
+.photonic-instagram-stream .photonic-pad-users { margin: 0 px; }
+.photonic-instagram-user img {  }
+.photonic-pad-albums { margin: px; }
+.photonic-smug-stream .photonic-pad-photos { margin: 0 px; }
+.photonic-smug-stream img {  }
+.photonic-panel .photonic-smug-image img {  }
+.photonic-panel { background:  transparent ;
+ }
+.photonic-panel .photonic-flickr-image img {  }
+.photonic-flickr-panel .photonic-pad-photos { margin: 0 px; }
+.photonic-picasa-panel .photonic-pad-photos { margin: 0 px; }
+.photonic-smug-panel .photonic-pad-photos { margin: 0 px; }
+.photonic-flickr-coll-thumb img {  }
+.photonic-flickr-set .photonic-flickr-set-solo-thumb img {  }
+.photonic-flickr-set-thumb img {  }
+.photonic-flickr-set-pop-thumb img {  }
+.photonic-flickr-gallery-pop-thumb img {  }
+.photonic-smug-album-thumb img {  }
+
+</style>
+
+<!-- Styles cached and displayed inline for speed. Generated by http://stylesplugin.com -->
+<style type="text/css" id="styles-plugin-css">
+.styles .featured-content{background-color:#3d4aff}.styles .featured-content .entry-header{background-color:#d62828}.styles .grid .featured-content .entry-header,.styles .featured-content .entry-header{border-color:#3d4aff!important}.styles .featured-content .entry-title{font-size:18px;font-family:'Comic Sans MS', Arial, sans-serif}.styles .search-toggle,.styles .search-box,.styles .search-toggle.active{background-color:#ff2219}.styles #page #masthead{background:#1524ff url()}.styles #page .site-title{font-size:18px;font-family:Bookman, Palatino, Georgia, serif}.styles #page .site-title a{color:#fff!important}.styles #page .site-title a:hover{color:#d33!important}.styles #masthead .primary-navigation li a,.styles #masthead .primary-navigation li > a{font-size:16px;font-family:Bookman, Palatino, Georgia, serif}.styles #masthead .primary-navigation li a:hover,.styles #masthead .primary-navigation li:hover > a{color:#ffcb55}.styles .primary-navigation ul ul,.styles .primary-navigation ul ul a:hover,.styles .primary-navigation ul ul li.focus > a,.styles .primary-navigation li:hover > a,.styles .primary-navigation li > a:hover,.styles .primary-navigation li.focus > a,.styles .primary-navigation li.focus > a{background-color:#0a127f}.styles .site-navigation .current-menu-item > a,.styles .site-navigation .current-menu-ancestor > a,.styles .site-navigation .current_page_item > a,.styles .site-navigation .current_page_ancestor > a{color:#ffcb55!important}.styles .site:before,.styles #secondary{background-color:#3d4aff}.styles .content-sidebar .widget .widget-title{border-top-color:#000}.styles .footer-sidebar .widget-title,.styles .widget_calendar caption{font-size:10px;font-family:Arial, Helvetica, sans-serif}.styles .site-footer{background-color:#1524ff}
+</style>
+</head>
+
+<body class="home blog custom-background ecwd-theme-twentyfourteen styles group-blog masthead-fixed list-view grid">
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://ems2.bronnatation.fr/" rel="home">EMS BRON NATATION</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text" aria-expanded="false" aria-controls="search-container">Recherche</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Menu principal</button>
+				<a class="screen-reader-text skip-link" href="#content">Aller au contenu principal</a>
+				<div class="menu-menu-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-127" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-127"><a title="Accueil" href="http://ems2.bronnatation.fr">Accueil</a></li>
+<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-208"><a href="http://ems2.bronnatation.fr/le-club/">L&#8217;EMS BRON NATATION</a>
+<ul class="sub-menu">
+	<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="http://ems2.bronnatation.fr/le-club/lequipe-pedagogique/">L&#8217;équipe Pédagogique</a></li>
+	<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="http://ems2.bronnatation.fr/le-club/reglement-interieur/">Le Réglement Interieur</a></li>
+</ul>
+</li>
+<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-155"><a href="http://ems2.bronnatation.fr/les-groupes/">Les Groupes</a>
+<ul class="sub-menu">
+	<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="http://ems2.bronnatation.fr/les-groupes/bebes-nageurs/">Bébés Nageurs (6 mois à 4 ans)</a></li>
+	<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="http://ems2.bronnatation.fr/les-groupes/ecole-de-natation-4-ans-a-10-ans/">Ecole de Natation (4 ans à 10 ans)</a></li>
+	<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="http://ems2.bronnatation.fr/les-groupes/ados-adultes/">Ados &#038; Adultes (à partir de 10 ans)</a></li>
+	<li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://ems2.bronnatation.fr/les-groupes/compet-jeunes/">Compétition Jeune (- 25 ans)</a></li>
+	<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="http://ems2.bronnatation.fr/les-groupes/masters/">Compétition Masters (+ 25 ans)</a></li>
+	<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="http://ems2.bronnatation.fr/les-groupes/officiels/">Officiels (à partir de 14 ans)</a></li>
+</ul>
+</li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://ems2.bronnatation.fr/inscription/">Inscription</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://ems2.bronnatation.fr/contact/">Contact</a></li>
+</ul></div>			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://ems2.bronnatation.fr/">
+				<label>
+					<span class="screen-reader-text">Rechercher&nbsp;:</span>
+					<input type="search" class="search-field" placeholder="Recherche&hellip;" value="" name="s" title="Rechercher&nbsp;:" />
+				</label>
+				<input type="submit" class="search-submit" value="Rechercher" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+<div id="main-content" class="main-content">
+
+
+<div id="featured-content" class="featured-content">
+	<div class="featured-content-inner">
+	
+<article id="post-966" class="post-966 post type-post status-publish format-standard has-post-thumbnail hentry category-actu-club tag-69 tag-inscriptions">
+	<a class="post-thumbnail" href="http://ems2.bronnatation.fr/inscriptions-point-sur-les-groupes-complets/">
+	<img width="640" height="372" src="http://ems2.bronnatation.fr/wp-content/uploads/2015/06/2015-06-03_10.06.37-640x372.jpg" class="attachment-post-thumbnail wp-post-image" alt="2015-06-03_10.06.37" />	</a>
+
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links"><a href="http://ems2.bronnatation.fr/category/actu-club/" rel="category tag">Actu club</a></span>
+		</div><!-- .entry-meta -->
+		
+		<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/inscriptions-point-sur-les-groupes-complets/" rel="bookmark">Inscriptions : point sur les groupes complets</a></h1>	</header><!-- .entry-header -->
+</article><!-- #post-## -->
+
+<article id="post-845" class="post-845 post type-post status-publish format-standard has-post-thumbnail hentry category-actu-club category-evt">
+	<a class="post-thumbnail" href="http://ems2.bronnatation.fr/ems-partenaire-de-lyon-a-la-nage-le-principe-en-2-mots/">
+	<img width="672" height="372" src="http://ems2.bronnatation.fr/wp-content/uploads/2015/05/miribel.lyon_.a.la_.nage_-672x372.jpg" class="attachment-post-thumbnail wp-post-image" alt="miribel.lyon.a.la.nage" />	</a>
+
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links"><a href="http://ems2.bronnatation.fr/category/actu-club/" rel="category tag">Actu club</a>, <a href="http://ems2.bronnatation.fr/category/evt/" rel="category tag">Evènement</a></span>
+		</div><!-- .entry-meta -->
+		
+		<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/ems-partenaire-de-lyon-a-la-nage-le-principe-en-2-mots/" rel="bookmark">Lyon à la nage: 21 Juin 2015 &#8211; Parc Miribel Jonage</a></h1>	</header><!-- .entry-header -->
+</article><!-- #post-## -->
+
+<article id="post-797" class="post-797 post type-post status-publish format-image has-post-thumbnail hentry category-actu-club category-bbn category-evt tag-bebes tag-photos post_format-post-format-image">
+	<a class="post-thumbnail" href="http://ems2.bronnatation.fr/bebes-nageurs-les-derniers-albums-photos/">
+	<img width="672" height="372" src="http://ems2.bronnatation.fr/wp-content/uploads/2015/05/photo.article.bb_-e1430757031574-672x372.jpg" class="attachment-post-thumbnail wp-post-image" alt="photo.article.bb" />	</a>
+
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links"><a href="http://ems2.bronnatation.fr/category/actu-club/" rel="category tag">Actu club</a>, <a href="http://ems2.bronnatation.fr/category/bbn/" rel="category tag">Bébés Nageurs</a>, <a href="http://ems2.bronnatation.fr/category/evt/" rel="category tag">Evènement</a></span>
+		</div><!-- .entry-meta -->
+		
+		<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/bebes-nageurs-les-derniers-albums-photos/" rel="bookmark">Bébés Nageurs : les derniers albums photos</a></h1>	</header><!-- .entry-header -->
+</article><!-- #post-## -->
+	</div><!-- .featured-content-inner -->
+</div><!-- #featured-content .featured-content -->
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+		
+<article id="post-1161" class="post-1161 post type-post status-publish format-aside has-post-thumbnail hentry category-actu-club post_format-post-format-aside">
+	
+	<a class="post-thumbnail" href="http://ems2.bronnatation.fr/le-bonnet/" aria-hidden="true">
+	<img width="96" height="90" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/08/logo_EmsBron.vect_petit90x.jpg" class="attachment-post-thumbnail wp-post-image" alt="Le bonnet" />	</a>
+
+	
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links"><a href="http://ems2.bronnatation.fr/category/actu-club/" rel="category tag">Actu club</a></span>
+		</div><!-- .entry-meta -->
+		<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/le-bonnet/" rel="bookmark">Le bonnet</a></h1>
+		<div class="entry-meta">
+			<span class="post-format">
+				<a class="entry-format" href="http://ems2.bronnatation.fr/type/aside/">En passant</a>
+			</span>
+
+			<span class="entry-date"><a href="http://ems2.bronnatation.fr/le-bonnet/" rel="bookmark"><time class="entry-date" datetime="2015-09-18T13:25:41+02:00">18 septembre 2015</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://ems2.bronnatation.fr/author/didier/" rel="author">dfa</a></span></span>
+						<span class="comments-link"><a href="http://ems2.bronnatation.fr/le-bonnet/#respond">Laisser un commentaire</a></span>
+			
+					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Pas de bonnet = pas de bassin</p>
+<p>Le bonnet de ton club tu porteras</p>
+<p>sinon sur le banc tu resteras</p>
+	</div><!-- .entry-content -->
+
+	</article><!-- #post-## -->
+
+<article id="post-1159" class="post-1159 post type-post status-publish format-aside has-post-thumbnail hentry category-actu-club post_format-post-format-aside">
+	
+	<a class="post-thumbnail" href="http://ems2.bronnatation.fr/rentree-2015-2016/" aria-hidden="true">
+	<img width="602" height="372" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/10700751_719768348100001_6018853118464652261_o-602x372.jpg" class="attachment-post-thumbnail wp-post-image" alt="Rentrée 2015-2016:" />	</a>
+
+	
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links"><a href="http://ems2.bronnatation.fr/category/actu-club/" rel="category tag">Actu club</a></span>
+		</div><!-- .entry-meta -->
+		<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/rentree-2015-2016/" rel="bookmark">Rentrée 2015-2016:</a></h1>
+		<div class="entry-meta">
+			<span class="post-format">
+				<a class="entry-format" href="http://ems2.bronnatation.fr/type/aside/">En passant</a>
+			</span>
+
+			<span class="entry-date"><a href="http://ems2.bronnatation.fr/rentree-2015-2016/" rel="bookmark"><time class="entry-date" datetime="2015-09-18T13:23:25+02:00">18 septembre 2015</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://ems2.bronnatation.fr/author/didier/" rel="author">dfa</a></span></span>
+						<span class="comments-link"><a href="http://ems2.bronnatation.fr/rentree-2015-2016/#respond">Laisser un commentaire</a></span>
+			
+					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>N&#8217;oubliez pas &#8230;&#8230; <a href="http://ems2.bronnatation.fr/rentree-2015-2016/#more-1159" class="more-link">Continuer la lecture de <span class="screen-reader-text">Rentrée 2015-2016:</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+
+	</article><!-- #post-## -->
+
+<article id="post-1131" class="post-1131 post type-post status-publish format-image has-post-thumbnail hentry category-actu-club post_format-post-format-image">
+	
+	<a class="post-thumbnail" href="http://ems2.bronnatation.fr/swim-in-app-petite-pepite/" aria-hidden="true">
+	<img width="96" height="90" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/08/logo_EmsBron.vect_petit90x.jpg" class="attachment-post-thumbnail wp-post-image" alt="SWIM IN APP&#8230;..petite pépite ?" />	</a>
+
+	
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links"><a href="http://ems2.bronnatation.fr/category/actu-club/" rel="category tag">Actu club</a></span>
+		</div><!-- .entry-meta -->
+		<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/swim-in-app-petite-pepite/" rel="bookmark">SWIM IN APP&#8230;..petite pépite ?</a></h1>
+		<div class="entry-meta">
+			<span class="post-format">
+				<a class="entry-format" href="http://ems2.bronnatation.fr/type/image/">Image</a>
+			</span>
+
+			<span class="entry-date"><a href="http://ems2.bronnatation.fr/swim-in-app-petite-pepite/" rel="bookmark"><time class="entry-date" datetime="2015-09-08T14:59:47+02:00">8 septembre 2015</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://ems2.bronnatation.fr/author/didier/" rel="author">dfa</a></span></span>
+			
+					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Je vous invite à la découvrir sur le <a href="http://www.arenawaterinstinct.com/fr_fr/app/swimin/">swim&#8217;in app de arena</a> <a href="http://ems2.bronnatation.fr/swim-in-app-petite-pepite/#more-1131" class="more-link">Continuer la lecture de <span class="screen-reader-text">SWIM IN APP&#8230;..petite pépite ?</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+
+	</article><!-- #post-## -->
+
+<article id="post-898" class="post-898 post type-post status-publish format-standard has-post-thumbnail hentry category-actu-club tag-inscriptions">
+	
+	<a class="post-thumbnail" href="http://ems2.bronnatation.fr/le-2109-est-proche/" aria-hidden="true">
+	<img width="602" height="372" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/10700751_719768348100001_6018853118464652261_o-602x372.jpg" class="attachment-post-thumbnail wp-post-image" alt="Le 21/09 est proche." />	</a>
+
+	
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links"><a href="http://ems2.bronnatation.fr/category/actu-club/" rel="category tag">Actu club</a></span>
+		</div>
+		<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/le-2109-est-proche/" rel="bookmark">Le 21/09 est proche.</a></h1>
+		<div class="entry-meta">
+			<span class="entry-date"><a href="http://ems2.bronnatation.fr/le-2109-est-proche/" rel="bookmark"><time class="entry-date" datetime="2015-09-08T14:53:58+02:00">8 septembre 2015</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://ems2.bronnatation.fr/author/didier/" rel="author">dfa</a></span></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>Merci les bénévoles &#8211; Merci les bénévoles &#8211; Merci les bénévoles !<br />
+ <a href="http://ems2.bronnatation.fr/le-2109-est-proche/#more-898" class="more-link">Continuer la lecture de <span class="screen-reader-text">Le 21/09 est proche.</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta"><span class="tag-links"><a href="http://ems2.bronnatation.fr/tag/inscriptions/" rel="tag">INSCRIPTIONS</a></span></footer></article><!-- #post-## -->
+
+<article id="post-1115" class="post-1115 post type-post status-publish format-aside has-post-thumbnail hentry category-compet post_format-post-format-aside">
+	
+	<a class="post-thumbnail" href="http://ems2.bronnatation.fr/ems-bron-est-ce-quil-vous-manque-du-matos/" aria-hidden="true">
+	<img width="282" height="186" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/arena.noir_.jpg" class="attachment-post-thumbnail wp-post-image" alt="EMS Bron: est-ce qu&#8217;il vous manque du matos ?" />	</a>
+
+	
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links"><a href="http://ems2.bronnatation.fr/category/compet/" rel="category tag">Compétition</a></span>
+		</div><!-- .entry-meta -->
+		<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/ems-bron-est-ce-quil-vous-manque-du-matos/" rel="bookmark">EMS Bron: est-ce qu&#8217;il vous manque du matos ?</a></h1>
+		<div class="entry-meta">
+			<span class="post-format">
+				<a class="entry-format" href="http://ems2.bronnatation.fr/type/aside/">En passant</a>
+			</span>
+
+			<span class="entry-date"><a href="http://ems2.bronnatation.fr/ems-bron-est-ce-quil-vous-manque-du-matos/" rel="bookmark"><time class="entry-date" datetime="2015-09-03T11:00:19+02:00">3 septembre 2015</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://ems2.bronnatation.fr/author/didier/" rel="author">dfa</a></span></span>
+			
+					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Notez le site et l&#8217;adresse du magasin ARENA &#8230;..<br />
+ <a href="http://ems2.bronnatation.fr/ems-bron-est-ce-quil-vous-manque-du-matos/#more-1115" class="more-link">Continuer la lecture de <span class="screen-reader-text">EMS Bron: est-ce qu&#8217;il vous manque du matos ?</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+
+	</article><!-- #post-## -->
+	<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Navigation au sein des articles</h1>
+		<div class="pagination loop-pagination">
+			<span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://ems2.bronnatation.fr/page/2/?plugin=all-in-one-event-calendar&#038;controller=ai1ec_exporter_controller&#038;action=export_events'>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://ems2.bronnatation.fr/page/19/?plugin=all-in-one-event-calendar&#038;controller=ai1ec_exporter_controller&#038;action=export_events'>19</a>
+<a class="next page-numbers" href="http://ems2.bronnatation.fr/page/2/?plugin=all-in-one-event-calendar&#038;controller=ai1ec_exporter_controller&#038;action=export_events">Suivant &rarr;</a>		</div><!-- .pagination -->
+	</nav><!-- .navigation -->
+	
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	<div id="content-sidebar" class="content-sidebar widget-area" role="complementary">
+	<aside id="widget_twentyfourteen_ephemera-5" class="widget widget_twentyfourteen_ephemera">			<h1 class="widget-title aside">
+				<a class="entry-format" href="http://ems2.bronnatation.fr/type/aside/">Brèves</a>
+			</h1>
+			<ol>
+
+								<li>
+				<article class="post-1161 post type-post status-publish format-aside has-post-thumbnail hentry category-actu-club post_format-post-format-aside">
+					<div class="entry-content">
+						<p>Pas de bonnet = pas de bassin</p>
+<p>Le bonnet de ton club tu porteras</p>
+<p>sinon sur le banc tu resteras</p>
+					</div><!-- .entry-content -->
+
+					<header class="entry-header">
+						<div class="entry-meta">
+							<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/le-bonnet/" rel="bookmark">Le bonnet</a></h1><span class="entry-date"><a href="http://ems2.bronnatation.fr/le-bonnet/" rel="bookmark"><time class="entry-date" datetime="2015-09-18T13:25:41+02:00">18 septembre 2015</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://ems2.bronnatation.fr/author/didier/" rel="author">dfa</a></span></span>							<span class="comments-link"><a href="http://ems2.bronnatation.fr/le-bonnet/#respond">Laisser un commentaire</a></span>
+													</div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+				</article><!-- #post-## -->
+				</li>
+								<li>
+				<article class="post-1159 post type-post status-publish format-aside has-post-thumbnail hentry category-actu-club post_format-post-format-aside">
+					<div class="entry-content">
+						<p>N&#8217;oubliez pas &#8230;&#8230; <a href="http://ems2.bronnatation.fr/rentree-2015-2016/#more-1159" class="more-link">Continuer la lecture <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+
+					<header class="entry-header">
+						<div class="entry-meta">
+							<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/rentree-2015-2016/" rel="bookmark">Rentrée 2015-2016:</a></h1><span class="entry-date"><a href="http://ems2.bronnatation.fr/rentree-2015-2016/" rel="bookmark"><time class="entry-date" datetime="2015-09-18T13:23:25+02:00">18 septembre 2015</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://ems2.bronnatation.fr/author/didier/" rel="author">dfa</a></span></span>							<span class="comments-link"><a href="http://ems2.bronnatation.fr/rentree-2015-2016/#respond">Laisser un commentaire</a></span>
+													</div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+				</article><!-- #post-## -->
+				</li>
+				
+			</ol>
+			<a class="post-format-archive-link" href="http://ems2.bronnatation.fr/type/aside/">
+				Plus d&rsquo;apartés <span class="meta-nav">&rarr;</span>			</a>
+			</aside><aside id="widget_twentyfourteen_ephemera-6" class="widget widget_twentyfourteen_ephemera">			<h1 class="widget-title video">
+				<a class="entry-format" href="http://ems2.bronnatation.fr/type/video/">Vidéos</a>
+			</h1>
+			<ol>
+
+								<li>
+				<article class="post-131 post type-post status-publish format-video has-post-thumbnail hentry category-actu-club tag-masters post_format-post-format-video">
+					<div class="entry-content">
+						<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='306' height='203' src='http://www.youtube.com/embed/rGcreQvFQIc?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0' allowfullscreen='true'></iframe></span></p>
+<p> <a href="http://ems2.bronnatation.fr/les-masters-a-montreal/#more-131" class="more-link">Continuer la lecture <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+
+					<header class="entry-header">
+						<div class="entry-meta">
+							<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/les-masters-a-montreal/" rel="bookmark">Les Masters à Montréal</a></h1><span class="entry-date"><a href="http://ems2.bronnatation.fr/les-masters-a-montreal/" rel="bookmark"><time class="entry-date" datetime="2014-08-24T16:37:55+02:00">24 août 2014</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://ems2.bronnatation.fr/author/admin/" rel="author">isa</a></span></span>						</div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+				</article><!-- #post-## -->
+				</li>
+								<li>
+				<article class="post-211 post type-post status-publish format-video has-post-thumbnail hentry category-actu-club post_format-post-format-video">
+					<div class="entry-content">
+						<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='306' height='203' src='http://www.youtube.com/embed/NbxCVb5NKXs?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0' allowfullscreen='true'></iframe></span></p>
+					</div><!-- .entry-content -->
+
+					<header class="entry-header">
+						<div class="entry-meta">
+							<h1 class="entry-title"><a href="http://ems2.bronnatation.fr/secret-dathlete-natation/" rel="bookmark">Remember &#8230; Secret d’athlète : Natation</a></h1><span class="entry-date"><a href="http://ems2.bronnatation.fr/secret-dathlete-natation/" rel="bookmark"><time class="entry-date" datetime="2014-08-20T17:23:05+02:00">20 août 2014</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://ems2.bronnatation.fr/author/admin/" rel="author">isa</a></span></span>						</div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+				</article><!-- #post-## -->
+				</li>
+				
+			</ol>
+			<a class="post-format-archive-link" href="http://ems2.bronnatation.fr/type/video/">
+				Plus de vidéos <span class="meta-nav">&rarr;</span>			</a>
+			</aside></div><!-- #content-sidebar -->
+</div><!-- #main-content -->
+
+<div id="secondary">
+	
+	
+		<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+		<aside id="huge_it_widget-2" class="widget widget_huge_it_widget"><h1 class="widget-title">Partenaires</h1>	
+	<style>		
+/***<add>***/
+	
+	  #huge_it_loading_image_3 {
+		height:375px;
+		width:600px;
+		display: table-cell;
+		text-align: center;
+		vertical-align: middle;
+	 }
+	  #huge_it_loading_image_3.display {
+		display: table-cell;
+	 }
+	  #huge_it_loading_image_3.nodisplay {
+		display: none;
+	 }
+	 #huge_it_loading_image_3 img {
+		margin: auto 0;
+		width: 20% !important;
+		
+	 }
+	 
+	 .huge_it_slideshow_image_wrap_3 {
+		height:375px;
+		width:600px;
+
+		position:relative;
+		display: block;
+		text-align: center;
+		/*HEIGHT FROM HEADER.PHP*/
+		clear:both;
+		
+				float:left;		
+		border-style:solid;
+		border-left:0px !important;
+		border-right:0px !important;
+	}
+	 .huge_it_slideshow_image_wrap1_3.display {
+		 width: 100%;
+		 height:100%;
+	 }
+	 .huge_it_slideshow_image_wrap1_3.display {
+		 display:block;
+	 }
+	 .huge_it_slideshow_image_wrap1_3.nodisplay {
+		 display:none;
+	 }
+	.huge_it_slideshow_image_wrap_3 * {
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+	}
+		 
+
+	  .huge_it_slideshow_image_3 {
+			/*width:100%;*/
+	  }
+
+	  #huge_it_slideshow_left_3,
+	  #huge_it_slideshow_right_3 {
+		cursor: pointer;
+		display:none;
+		display: block;
+		
+		height: 100%;
+		outline: medium none;
+		position: absolute;
+
+		/*z-index: 10130;*/
+		z-index: 13;
+		bottom:25px;
+		top:50%;		
+	  }
+	 
+
+	  #huge_it_slideshow_left-ico_3,
+	  #huge_it_slideshow_right-ico_3 {
+		z-index: 13;
+		-moz-box-sizing: content-box;
+		box-sizing: content-box;
+		cursor: pointer;
+		display: table;
+		left: -9999px;
+		line-height: 0;
+		margin-top: -15px;
+		position: absolute;
+		top: 50%;
+		/*z-index: 10135;*/
+	  }
+	  #huge_it_slideshow_left-ico_3:hover,
+	  #huge_it_slideshow_right-ico_3:hover {
+		cursor: pointer;
+	  }
+	  
+	  .huge_it_slideshow_image_container_3 {
+		display: table;
+		position: relative;
+		top:0px;
+		left:0px;
+		text-align: center;
+		vertical-align: middle;
+		width:100%;
+	  }	  
+		
+	  .huge_it_slideshow_title_text_3 {
+		text-decoration: none;
+		position: absolute;
+		z-index: 11;
+		display: inline-block;
+				
+		width:24%;
+		/*height:44%;*/
+		
+		right:3%;top:3%;		padding:2%;
+		text-align:right;  
+		font-weight:bold;
+		color:#000000;
+			
+		background:rgba(255,255,255,0.7)  !important;
+		border-style:solid;
+		font-size:13px;
+		border-width:0px;
+		border-color:#ffffff;
+		border-radius:4px;
+	  }
+	  	  
+	  .huge_it_slideshow_description_text_3 {
+		text-decoration: none;
+		position: absolute;
+		z-index: 11;
+		border-style:solid;
+		display: inline-block;
+				
+		width:64%;
+		/*height:44%;*/
+		right:3%;bottom:3%;		padding:3%;
+		text-align:justify;  
+		color:#ffffff;
+		
+		background:rgba(0,0,0,0.7) !important;
+		border-style:solid;
+		font-size:13px;
+		border-width:0px;
+		border-color:#ffffff;
+		border-radius:0px;
+	  }
+	  
+	   .huge_it_slideshow_title_text_3.none, .huge_it_slideshow_description_text_3.none,
+	   .huge_it_slideshow_title_text_3.hidden, .huge_it_slideshow_description_text_3.hidden	   {display:none;}
+	      
+	   .huge_it_slideshow_title_text_3 h1, .huge_it_slideshow_description_text_3 h1,
+	   .huge_it_slideshow_title_text_3 h2, .huge_it_slideshow_title_text_3 h2,
+	   .huge_it_slideshow_title_text_3 h3, .huge_it_slideshow_title_text_3 h3,
+	   .huge_it_slideshow_title_text_3 h4, .huge_it_slideshow_title_text_3 h4,
+	   .huge_it_slideshow_title_text_3 p, .huge_it_slideshow_title_text_3 p,
+	   .huge_it_slideshow_title_text_3 strong,  .huge_it_slideshow_title_text_3 strong,
+	   .huge_it_slideshow_title_text_3 span, .huge_it_slideshow_title_text_3 span,
+	   .huge_it_slideshow_title_text_3 ul, .huge_it_slideshow_title_text_3 ul,
+	   .huge_it_slideshow_title_text_3 li, .huge_it_slideshow_title_text_3 li {
+			padding:2px;
+			margin:0px;
+	   }
+
+	  .huge_it_slide_container_3 {
+		display: table-cell;
+		margin: 0 auto;
+		position: relative;
+		vertical-align: middle;
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+	  }
+	  .huge_it_slide_bg_3 {
+		margin: 0 auto;
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+	  }
+	  .huge_it_slider_3 {
+		width:100%;
+		height:100%;
+		display:table !important;
+		padding:0px !important;
+		margin:0px !important;
+		
+	  }
+	  .huge_it_slideshow_image_item_3 {
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+		display: table-cell;
+		filter: Alpha(opacity=100);
+		opacity: 1;
+		position: absolute;
+		top:0px !important;
+		left:0px !important;
+		vertical-align: middle;
+		z-index: 1;
+		margin:0px !important;
+		padding:0px  !important;
+		border-radius: 0px !important;
+	  }
+	  .huge_it_slideshow_image_second_item_3 {
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+		display: table-cell;
+		filter: Alpha(opacity=0);
+		opacity: 0;
+		position: absolute;
+		top:0px !important;
+		left:0px !important;
+		vertical-align: middle;
+		overflow:hidden;
+		margin:0px !important;
+		visibility:visible !important;
+		padding:0px  !important;
+		border-radius: 0px !important;
+	  }
+	  
+	   .huge_it_slideshow_image_second_item_3 a, .huge_it_slideshow_image_item_3 a {
+			display:block;
+			width:100%;
+			height:100%;	
+	   }
+	   
+	  .huge_it_grid_3 {
+		display: none;
+		height: 100%;
+		overflow: hidden;
+		position: absolute;
+		width: 100%;
+	  }
+	  .huge_it_gridlet_3 {
+		opacity: 1;
+		filter: Alpha(opacity=100);
+		position: absolute;
+	  }
+	  
+					
+	  .huge_it_slideshow_dots_container_3 {
+		display: table;
+		position: absolute;
+		width:100% !important;
+		height:100% !important;
+	  }
+	  .huge_it_slideshow_dots_thumbnails_3 {
+		margin: 0 auto;
+		overflow: hidden;
+		position: absolute;
+		width:100%;
+		height:30px;
+	  }
+	  
+	  .huge_it_slideshow_dots_3 {
+		display: inline-block;
+		position: relative;
+		cursor: pointer;
+		box-shadow: 1px 1px 1px rgba(0,0,0,0.1) inset, 1px 1px 1px rgba(255,255,255,0.1);
+		width:10px;
+		height: 10px;
+		border-radius: 10px;
+		background: #00f;
+		margin: 10px;
+		overflow: hidden;
+		z-index: 17;
+	  }
+	  
+	  .huge_it_slideshow_dots_active_3 {
+		opacity: 1;
+		filter: Alpha(opacity=100);
+	  }
+	  .huge_it_slideshow_dots_deactive_3 {
+	  
+	  }
+	  
+	
+		
+		.huge_it_slideshow_image_wrap_3 {
+			background:#ffffff;
+			border-width:0px;
+			border-color:#ffffff;
+			border-radius:0px;
+		}
+		.huge_it_slideshow_image_wrap_3.nocolor {
+			background: transparent;
+		}
+		
+		.huge_it_slideshow_dots_thumbnails_3 {
+						top:0px; 		}
+		
+		.huge_it_slideshow_dots_3 {
+			background:#000000;
+		}
+		
+		.huge_it_slideshow_dots_active_3 {
+			background:#ffffff;
+		}
+					
+		/*//////////////////////slider thunbnail styles start///////////////////////////*/
+		
+		.bx-wrapper .bx-controls-direction a.disabled {
+		  display: ;
+		}
+		.bx-viewport {
+		  height: 100px !important;
+		  -webkit-transform: translatez(0);
+		}
+		.entry-content a{
+			border-bottom: none !important;
+		}
+		.entry-content li{
+			margin:0px !important;
+			padding: 0px !important;
+		}
+		.entry-content ul{
+			list-style-type:none !important;
+			margin: 0px !important;
+			padding: 0px !important;
+		}
+		.bx-wrapper {
+		  position: relative;
+		  margin: 0 auto 0 auto;
+		  padding: 0;
+		  max-width: px !important;
+		  *zoom: 1;
+		  -ms-touch-action: pan-y;
+		  touch-action: pan-y;
+		}
+		.huge_it_slideshow_thumbs_container_3{
+							display: none;
+					}
+		.huge_it_slideshow_thumbs_3{
+
+			
+		}
+		.huge_it_slideshow_thumbs_3 li{
+			display: inline-block;
+			 
+		    height: 100px ;
+		    
+
+			
+		}
+		.huge_it_slideshow_thumbnails_3 {
+		    display: inline-block;
+		    position: relative;
+		    cursor: pointer;
+		    background: #FFFFFF;
+		    z-index: 17;
+		}
+		.sl_thumb_img{
+		    width: 100% !important;
+		    height: 100% !important;
+		    display: block;
+		    margin: 0 auto;
+		}
+		.sl_thumb_img2{
+		    height: 100% !important;
+		    display: block;
+		    margin: 0 auto;
+		}
+		.trans_back{
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+			background:rgba(255,255,255,0.5);
+			transition: 0.3s ease;
+		}
+		.trans_back:hover{
+			background:none !important;
+		}
+		.play-icon.youtube {background:url(http://ems2.bronnatation.fr/wp-content/plugins/slider-image/images/play.youtube.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;}
+
+		.play-icon.vimeo {background:url(http://ems2.bronnatation.fr/wp-content/plugins/slider-image/images/play.vimeo.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+		}
+		.bx-wrapper {
+		  
+		  border: 0px solid #fff;
+		  background: #fff;
+		}
+		
+		/*////////////slider thunbnail styles end//////////////*/
+		
+							#huge_it_slideshow_left_3 {	
+						left:0px;
+						margin-top:-21px;
+						height:43px;
+						width:29px;
+						background:url(http://ems2.bronnatation.fr/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat; 
+					}
+					
+					#huge_it_slideshow_right_3 {
+						right:0px;
+						margin-top:-21px;
+						height:43px;
+						width:29px;
+						background:url(http://ems2.bronnatation.fr/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat; 
+					}
+				/***</add>***/
+
+	</style>
+
+
+
+		
+<script>
+	var huge_video_playing={};
+	var autoplayMatch={};
+	
+	
+
+</script>
+
+
+
+	
+	
+<script>
+
+	jQuery(document).ready(function($) {
+
+  $('.thumb_wrapper').on('click', function(ev) {
+  	var hugeid=$(this).data('rowid');
+  	var myid=hugeid;
+  	myid=parseInt(myid);
+  	eval('player_'+myid+'.playVideo()')
+   ev.preventDefault();
+ 
+  });
+});
+
+	if(typeof sliderID_array =="undefined"){
+		var sliderID_array=[];
+	}
+	
+	var data_3 = [];      
+	var event_stack_3 = [];
+	huge_video_playing['video_is_playing_'+3]=false;
+	data_3["0"]=[];data_3["0"]["id"]="0";data_3["0"]["image_url"]="http://ems2.bronnatation.fr/wp-content/uploads/2015/01/lOGO-Onlyskin.-vectorise-2.png";data_3["0"]["description"]="";data_3["0"]["alt"]="";data_3["1"]=[];data_3["1"]["id"]="1";data_3["1"]["image_url"]="http://ems2.bronnatation.fr/wp-content/uploads/2015/01/BANNIEREEN40HAUT.jpg";data_3["1"]["description"]="";data_3["1"]["alt"]="";data_3["2"]=[];data_3["2"]["id"]="2";data_3["2"]["image_url"]="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/Logo_chez_leon1.jpg";data_3["2"]["description"]="";data_3["2"]["alt"]="";data_3["3"]=[];data_3["3"]["id"]="3";data_3["3"]["image_url"]="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/logo_Mingat.petit_.jpg";data_3["3"]["description"]="";data_3["3"]["alt"]="";data_3["4"]=[];data_3["4"]["id"]="4";data_3["4"]["image_url"]="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/credit-mutuel_petit.jpg";data_3["4"]["description"]="";data_3["4"]["alt"]="";data_3["5"]=[];data_3["5"]["id"]="5";data_3["5"]["image_url"]="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/Logo-ville-bron-bleu12.jpg";data_3["5"]["description"]="";data_3["5"]["alt"]="";data_3["6"]=[];data_3["6"]["id"]="6";data_3["6"]["image_url"]="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/arena.noir_.jpg";data_3["6"]["description"]="";data_3["6"]["alt"]="";	
+	
+
+      var huge_it_trans_in_progress_3 = false;
+      var huge_it_transition_duration_3 = 1000;
+      var huge_interval ={};
+      var id_array_index=sliderID_array.length
+
+	  
+      
+	  var ifhasthumb ="dotstop";
+	  sliderID_array[id_array_index] =       // Stop autoplay.
+      window.clearInterval(huge_interval['huge_it_playInterval_'+3]);
+	  
+     var huge_it_current_key_3 = '';
+	 function huge_it_move_dots_3() {
+        var image_left = jQuery(".huge_it_slideshow_dots_active_3").position().left;
+        var image_right = jQuery(".huge_it_slideshow_dots_active_3").position().left + jQuery(".huge_it_slideshow_dots_active_3").outerWidth(true);
+       
+      }
+      function huge_it_testBrowser_cssTransitions_3() {
+        return huge_it_testDom_3('Transition');
+      }
+      function huge_it_testBrowser_cssTransforms3d_3() {
+        return huge_it_testDom_3('Perspective');
+      }
+      function huge_it_testDom_3(prop) {
+        // Browser vendor CSS prefixes.
+        var browserVendors = ['', '-webkit-', '-moz-', '-ms-', '-o-', '-khtml-'];
+        // Browser vendor DOM prefixes.
+        var domPrefixes = ['', 'Webkit', 'Moz', 'ms', 'O', 'Khtml'];
+        var i = domPrefixes.length;
+        while (i--) {
+          if (typeof document.body.style[domPrefixes[i] + prop] !== 'undefined') {
+            return true;
+          }
+        }
+        return false;
+      }
+		function huge_it_cube_3(tz, ntx, nty, nrx, nry, wrx, wry, current_image_class, next_image_class, direction) {
+		
+        /* If browser does not support 3d transforms/CSS transitions.*/
+        if (!huge_it_testBrowser_cssTransitions_3()) {
+			jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+        jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+          return huge_it_fallback_3(current_image_class, next_image_class, direction);
+        }
+        if (!huge_it_testBrowser_cssTransforms3d_3()) {
+          return huge_it_fallback3d_3(current_image_class, next_image_class, direction);
+        }
+			//alert(current_image_class+' '+next_image_class);
+		  jQuery(current_image_class).css({'z-index': 'none'});
+          jQuery(next_image_class).css({'z-index' : 2});
+        huge_it_trans_in_progress_3 = true;
+        /* Set active thumbnail.*/
+		jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");  
+		jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+        jQuery(".huge_it_slide_bg_3").css('perspective', 1000);
+        jQuery(current_image_class).css({
+          transform : 'translateZ(' + tz + 'px)',
+          backfaceVisibility : 'hidden'
+        });
+		
+		 jQuery(".huge_it_slideshow_image_wrap_3,.huge_it_slide_bg_3,.huge_it_slideshow_image_item_3,.huge_it_slideshow_image_second_item_3 ").css('overflow', 'visible');
+		
+        jQuery(next_image_class).css({
+          opacity : 1,
+          filter: 'Alpha(opacity=100)',
+          backfaceVisibility : 'hidden',
+          transform : 'translateY(' + nty + 'px) translateX(' + ntx + 'px) rotateY('+ nry +'deg) rotateX('+ nrx +'deg)'
+        });
+        jQuery(".huge_it_slider_3").css({
+          transform: 'translateZ(-' + tz + 'px)',
+          transformStyle: 'preserve-3d'
+        });
+        /* Execution steps.*/
+        setTimeout(function () {
+          jQuery(".huge_it_slider_3").css({
+            transition: 'all ' + huge_it_transition_duration_3 + 'ms ease-in-out',
+            transform: 'translateZ(-' + tz + 'px) rotateX('+ wrx +'deg) rotateY('+ wry +'deg)'
+          });
+        }, 20);
+        /* After transition.*/
+        jQuery(".huge_it_slider_3").one('webkitTransitionEnd transitionend otransitionend oTransitionEnd mstransitionend', jQuery.proxy(huge_it_after_trans));
+        function huge_it_after_trans() {
+          /*if (huge_it_from_focus_3) {
+            huge_it_from_focus_3 = false;
+            return;
+          }*/
+		  jQuery(".huge_it_slide_bg_3,.huge_it_slideshow_image_item_3,.huge_it_slideshow_image_second_item_3 ").css('overflow', 'hidden');
+		  jQuery(".huge_it_slide_bg_3").removeAttr('style');
+          jQuery(current_image_class).removeAttr('style');
+          jQuery(next_image_class).removeAttr('style');
+          jQuery(".huge_it_slider_3").removeAttr('style');
+		 // alert(current_image_class+' '+next_image_class);
+          jQuery(current_image_class).css({'opacity' : 0, filter: 'Alpha(opacity=0)', 'z-index': 1});
+          jQuery(next_image_class).css({'opacity' : 1, filter: 'Alpha(opacity=100)', 'z-index' : 2});
+         // huge_it_change_watermark_container_3();
+          huge_it_trans_in_progress_3 = false;
+          if (typeof event_stack_3 !== 'undefined' && event_stack_3.length > 0) {
+            key = event_stack_3[0].split("-");
+            event_stack_3.shift();
+            huge_it_change_image_3(key[0], key[1], data_3, true,false);
+          }
+        }
+      }
+      function huge_it_cubeH_3(current_image_class, next_image_class, direction) {
+        /* Set to half of image width.*/
+        var dimension = jQuery(current_image_class).width() / 2;
+        if (direction == 'right') {
+          huge_it_cube_3(dimension, dimension, 0, 0, 90, 0, -90, current_image_class, next_image_class, direction);
+        }
+        else if (direction == 'left') {
+          huge_it_cube_3(dimension, -dimension, 0, 0, -90, 0, 90, current_image_class, next_image_class, direction);
+        }
+      }
+      function huge_it_cubeV_3(current_image_class, next_image_class, direction) {
+        /* Set to half of image height.*/
+        var dimension = jQuery(current_image_class).height() / 2;
+        /* If next slide.*/
+        if (direction == 'right') {
+          huge_it_cube_3(dimension, 0, -dimension, 90, 0, -90, 0, current_image_class, next_image_class, direction);
+        }
+        else if (direction == 'left') {
+          huge_it_cube_3(dimension, 0, dimension, -90, 0, 90, 0, current_image_class, next_image_class, direction);
+        }
+      }
+      /* For browsers that does not support transitions.*/
+      function huge_it_fallback_3(current_image_class, next_image_class, direction) {
+        huge_it_fade_3(current_image_class, next_image_class, direction);
+      }
+      /* For browsers that support transitions, but not 3d transforms (only used if primary transition makes use of 3d-transforms).*/
+      function huge_it_fallback3d_3(current_image_class, next_image_class, direction) {
+        huge_it_sliceV_3(current_image_class, next_image_class, direction);
+      }
+      function huge_it_none_3(current_image_class, next_image_class, direction) {
+        jQuery(current_image_class).css({'opacity' : 0, 'z-index': 1});
+        jQuery(next_image_class).css({'opacity' : 1, 'z-index' : 2});
+
+        /* Set active thumbnail.*/
+        jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+        jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+      }
+      function huge_it_fade_3(current_image_class, next_image_class, direction) {
+		if (huge_it_testBrowser_cssTransitions_3()) {
+			
+          jQuery(next_image_class).css('transition', 'opacity ' + huge_it_transition_duration_3 + 'ms linear');
+		  jQuery(current_image_class).css('transition', 'opacity ' + huge_it_transition_duration_3 + 'ms linear');
+          jQuery(current_image_class).css({'opacity' : 0, 'z-index': 1});
+          jQuery(next_image_class).css({'opacity' : 1, 'z-index' : 2});
+        }
+        else {
+		
+          jQuery(current_image_class).animate({'opacity' : 0, 'z-index' : 1}, huge_it_transition_duration_3);
+          jQuery(next_image_class).animate({
+              'opacity' : 1,
+              'z-index': 2
+            }, {
+              duration: huge_it_transition_duration_3,
+              complete: function () {return false;}
+            });
+          // For IE.
+          jQuery(current_image_class).fadeTo(huge_it_transition_duration_3, 0);
+          jQuery(next_image_class).fadeTo(huge_it_transition_duration_3, 1);
+        }
+
+		jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+		jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+      }
+      function huge_it_grid_3(cols, rows, ro, tx, ty, sc, op, current_image_class, next_image_class, direction) {
+        /* If browser does not support CSS transitions.*/
+        if (!huge_it_testBrowser_cssTransitions_3()) {
+			jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+        jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+          return huge_it_fallback_3(current_image_class, next_image_class, direction);
+		  
+        }
+        huge_it_trans_in_progress_3 = true;
+        /* Set active thumbnail.*/
+		jQuery(".huge_it_slideshow_dots_3").removeClass("huge_it_slideshow_dots_active_3").addClass("huge_it_slideshow_dots_deactive_3");
+        jQuery("#huge_it_dots_" + huge_it_current_key_3 + "_3").removeClass("huge_it_slideshow_dots_deactive_3").addClass("huge_it_slideshow_dots_active_3");
+        /* The time (in ms) added to/subtracted from the delay total for each new gridlet.*/
+        var count = (huge_it_transition_duration_3) / (cols + rows);
+        /* Gridlet creator (divisions of the image grid, positioned with background-images to replicate the look of an entire slide image when assembled)*/
+        function huge_it_gridlet(width, height, top, img_top, left, img_left, src, imgWidth, imgHeight, c, r) {
+          var delay = (c + r) * count;
+          /* Return a gridlet elem with styles for specific transition.*/
+          return jQuery('<div class="huge_it_gridlet_3" />').css({
+            width : width,
+            height : height,
+            top : top,
+            left : left,
+            backgroundImage : 'url("' + src + '")',
+            backgroundColor: jQuery(".huge_it_slideshow_image_wrap_3").css("background-color"),
+            /*backgroundColor: rgba(0, 0, 0, 0),*/
+            backgroundRepeat: 'no-repeat',
+            backgroundPosition : img_left + 'px ' + img_top + 'px',
+            backgroundSize : imgWidth + 'px ' + imgHeight + 'px',
+            transition : 'all ' + huge_it_transition_duration_3 + 'ms ease-in-out ' + delay + 'ms',
+            transform : 'none'
+          });
+        }
+        /* Get the current slide's image.*/
+        var cur_img = jQuery(current_image_class).find('img');
+        /* Create a grid to hold the gridlets.*/
+        var grid = jQuery('<div />').addClass('huge_it_grid_3');
+        /* Prepend the grid to the next slide (i.e. so it's above the slide image).*/
+        jQuery(current_image_class).prepend(grid);
+        /* vars to calculate positioning/size of gridlets*/
+        var cont = jQuery(".huge_it_slide_bg_3");
+        var imgWidth = cur_img.width();
+        var imgHeight = cur_img.height();
+        var contWidth = cont.width(),
+            contHeight = cont.height(),
+            imgSrc = cur_img.attr('src'),/*.replace('/thumb', ''),*/
+            colWidth = Math.floor(contWidth / cols),
+            rowHeight = Math.floor(contHeight / rows),
+            colRemainder = contWidth - (cols * colWidth),
+            colAdd = Math.ceil(colRemainder / cols),
+            rowRemainder = contHeight - (rows * rowHeight),
+            rowAdd = Math.ceil(rowRemainder / rows),
+            leftDist = 0,
+            img_leftDist = (jQuery(".huge_it_slide_bg_3").width() - cur_img.width()) / 2;
+        /* tx/ty args can be passed as 'auto'/'min-auto' (meaning use slide width/height or negative slide width/height).*/
+        tx = tx === 'auto' ? contWidth : tx;
+        tx = tx === 'min-auto' ? - contWidth : tx;
+        ty = ty === 'auto' ? contHeight : ty;
+        ty = ty === 'min-auto' ? - contHeight : ty;
+        /* Loop through cols*/
+        for (var i = 0; i < cols; i++) {
+          var topDist = 0,
+              img_topDst = (jQuery(".huge_it_slide_bg_3").height() - cur_img.height()) / 2,
+              newColWidth = colWidth;
+          /* If imgWidth (px) does not divide cleanly into the specified number of cols, adjust individual col widths to create correct total.*/
+          if (colRemainder > 0) {
+            var add = colRemainder >= colAdd ? colAdd : colRemainder;
+            newColWidth += add;
+            colRemainder -= add;
+          }
+          /* Nested loop to create row gridlets for each col.*/
+          for (var j = 0; j < rows; j++)  {
+            var newRowHeight = rowHeight,
+                newRowRemainder = rowRemainder;
+            /* If contHeight (px) does not divide cleanly into the specified number of rows, adjust individual row heights to create correct total.*/
+            if (newRowRemainder > 0) {
+              add = newRowRemainder >= rowAdd ? rowAdd : rowRemainder;
+              newRowHeight += add;
+              newRowRemainder -= add;
+            }
+            /* Create & append gridlet to grid.*/
+            grid.append(huge_it_gridlet(newColWidth, newRowHeight, topDist, img_topDst, leftDist, img_leftDist, imgSrc, imgWidth, imgHeight, i, j));
+            topDist += newRowHeight;
+            img_topDst -= newRowHeight;
+          }
+          img_leftDist -= newColWidth;
+          leftDist += newColWidth;
+        }
+        /* Set event listener on last gridlet to finish transitioning.*/
+        var last_gridlet = grid.children().last();
+        /* Show grid & hide the image it replaces.*/
+        grid.show();
+        cur_img.css('opacity', 0);
+        /* Add identifying classes to corner gridlets (useful if applying border radius).*/
+        grid.children().first().addClass('rs-top-left');
+        grid.children().last().addClass('rs-bottom-right');
+        grid.children().eq(rows - 1).addClass('rs-bottom-left');
+        grid.children().eq(- rows).addClass('rs-top-right');
+        /* Execution steps.*/
+        setTimeout(function () {
+          grid.children().css({
+            opacity: op,
+            transform: 'rotate('+ ro +'deg) translateX('+ tx +'px) translateY('+ ty +'px) scale('+ sc +')'
+          });
+        }, 1);
+        jQuery(next_image_class).css('opacity', 1);
+        /* After transition.*/
+        jQuery(last_gridlet).one('webkitTransitionEnd transitionend otransitionend oTransitionEnd mstransitionend', jQuery.proxy(huge_it_after_trans));
+        function huge_it_after_trans() {
+          jQuery(current_image_class).css({'opacity' : 0, 'z-index': 1});
+          jQuery(next_image_class).css({'opacity' : 1, 'z-index' : 2});
+          cur_img.css('opacity', 1);
+          grid.remove();
+          huge_it_trans_in_progress_3 = false;
+          if (typeof event_stack_3 !== 'undefined' && event_stack_3.length > 0) {
+            key = event_stack_3[0].split("-");
+            event_stack_3.shift();
+            huge_it_change_image_3(key[0], key[1], data_3, true,false);
+          }
+        }
+      }
+      function huge_it_sliceH_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateX = 'min-auto';
+        }
+        else if (direction == 'left') {
+          var translateX = 'auto';
+        }
+        huge_it_grid_3(1, 8, 0, translateX, 0, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_sliceV_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateY = 'min-auto';
+        }
+        else if (direction == 'left') {
+          var translateY = 'auto';
+        }
+        huge_it_grid_3(10, 1, 0, 0, translateY, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_slideV_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateY = 'auto';
+        }
+        else if (direction == 'left') {
+          var translateY = 'min-auto';
+        }
+        huge_it_grid_3(1, 1, 0, 0, translateY, 1, 1, current_image_class, next_image_class, direction);
+      }
+      function huge_it_slideH_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateX = 'min-auto';
+        }
+        else if (direction == 'left') {
+          var translateX = 'auto';
+        }
+        huge_it_grid_3(1, 1, 0, translateX, 0, 1, 1, current_image_class, next_image_class, direction);
+      }
+      function huge_it_scaleOut_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(1, 1, 0, 0, 0, 1.5, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_scaleIn_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(1, 1, 0, 0, 0, 0.5, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_blockScale_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(8, 6, 0, 0, 0, .6, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_kaleidoscope_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(10, 8, 0, 0, 0, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_fan_3(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var rotate = 45;
+          var translateX = 100;
+        }
+        else if (direction == 'left') {
+          var rotate = -45;
+          var translateX = -100;
+        }
+        huge_it_grid_3(1, 10, rotate, translateX, 0, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_blindV_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(1, 8, 0, 0, 0, .7, 0, current_image_class, next_image_class);
+      }
+      function huge_it_blindH_3(current_image_class, next_image_class, direction) {
+        huge_it_grid_3(10, 1, 0, 0, 0, .7, 0, current_image_class, next_image_class);
+      }
+      function huge_it_random_3(current_image_class, next_image_class, direction) {
+        var anims = ['sliceH', 'sliceV', 'slideH', 'slideV', 'scaleOut', 'scaleIn', 'blockScale', 'kaleidoscope', 'fan', 'blindH', 'blindV'];
+        /* Pick a random transition from the anims array.*/
+        this["huge_it_" + anims[Math.floor(Math.random() * anims.length)] + "_3"](current_image_class, next_image_class, direction);
+      }
+      
+      function iterator_3() {
+        var iterator = 1;
+
+        return iterator;
+     }
+	 
+     function huge_it_change_image_3(current_key, key, data_3, from_effect,clicked) {
+		
+        if (data_3[key]) {
+		
+			if(huge_video_playing['video_is_playing_'+3] && !clicked){
+				return false;
+			}
+         
+		 
+		 
+          if (!from_effect) {
+            // Change image key.
+            jQuery("#huge_it_current_image_key_3").val(key);
+             // if (current_key == '-2') { /* Dots.*/
+				current_key = jQuery(".huge_it_slideshow_dots_active_3").attr("data-image_key");
+			//  }
+          }
+
+          if (huge_it_trans_in_progress_3) {
+			//errorlogjQuery(".huge_it_slideshow_image_wrap_3").after(" --IN TRANSACTION-- <br />");
+            event_stack_3.push(current_key + '-' + key);
+            return;
+          }
+		  
+          var direction = 'right';
+          if (huge_it_current_key_3 > key) {
+            var direction = 'left';
+          }
+          else if (huge_it_current_key_3 == key) {
+            return false;
+          }
+         
+          // Set active thumbnail position.
+      
+          huge_it_current_key_3 = key;
+          //Change image id, title, description.
+          jQuery("#huge_it_slideshow_image_3").attr('data-image_id', data_3[key]["id"]);
+		  
+		  
+		  jQuery(".huge_it_slideshow_title_text_3").html(data_3[key]["alt"]);
+          jQuery(".huge_it_slideshow_description_text_3").html(data_3[key]["description"]);
+        
+		  var current_image_class = "#image_id_3_" + data_3[current_key]["id"];
+          var next_image_class = "#image_id_3_" + data_3[key]["id"];
+          
+		  
+		
+		 if(jQuery(current_image_class).find('.huge_it_video_frame_3').length>0) {
+			var streffect='cubeH';
+			if(streffect=="cubeV" || streffect=="cubeH" || streffect=="none" || streffect=="fade"){
+				huge_it_cubeH_3(current_image_class, next_image_class, direction);
+			}else{	
+				huge_it_fade_3(current_image_class, next_image_class, direction);
+			}	
+		  }else{	
+				huge_it_cubeH_3(current_image_class, next_image_class, direction);
+		  }	
+		  
+		  
+		jQuery('.huge_it_slideshow_title_text_3').removeClass('none');
+		if(jQuery('.huge_it_slideshow_title_text_3').html()==""){jQuery('.huge_it_slideshow_title_text_3').addClass('none');}
+
+		jQuery('.huge_it_slideshow_description_text_3').removeClass('none');
+		if(jQuery('.huge_it_slideshow_description_text_3').html()==""){jQuery('.huge_it_slideshow_description_text_3').addClass('none');}
+	  
+		  
+		  
+		  jQuery(current_image_class).find('.huge_it_slideshow_title_text_3').addClass('none');
+		  jQuery(current_image_class).find('.huge_it_slideshow_description_text_3').addClass('none');
+		
+		
+
+		  
+		  //errorlogjQuery(".huge_it_slideshow_image_wrap_3").after("--cur-key="+current_key+" --cur-img-class="+current_image_class+" nxt-img-class="+next_image_class+"--");
+			 huge_it_move_dots_3();
+						window.clearInterval(huge_interval['huge_it_playInterval_'+3]);
+			play_3();
+        }
+
+      }
+	   var staticthumbWidth;
+      jQuery(window).load(function(){
+      	 staticthumbWidth=jQuery('#huge_it_thumb_slider>li').width()
+	  	
+      })
+     function huge_it_popup_resize_3() {
+
+		var staticsliderwidth=600;
+		var sliderwidth=600;
+		
+		var thumbWidth=jQuery(".huge_it_slideshow_thumbnails_3").width();
+		
+		//alert(thumbHeight)
+		//alert(thumbWidth/2)
+		var bodyWidth=jQuery(window).width();
+        var parentWidth = jQuery(".huge_it_slideshow_image_wrap_3").parent().width();
+		//if responsive js late responsive.js @  take body size and not parent div
+		jQuery(".huge_it_slideshow_thumbnails_3").css({height: 100});
+		if(sliderwidth>parentWidth){sliderwidth=parentWidth;}
+		if(sliderwidth>bodyWidth){sliderwidth=bodyWidth;}
+		var str=(375/staticsliderwidth); 
+		
+			
+			jQuery(".huge_it_slideshow_thumbnails_3").css({width: thumbWidth});
+			
+				var str2=(100/staticthumbWidth);
+			
+			jQuery(".huge_it_slideshow_thumbnails_3").css({height: thumbWidth*str2});
+			jQuery(".bx-viewport").css({height: thumbWidth*str2});
+			
+			
+			
+		
+		
+		
+		jQuery(".huge_it_slideshow_image_wrap_3").css({width: (sliderwidth)});
+		jQuery(".huge_it_slideshow_image_wrap_3").css({height: ((sliderwidth) * str)});
+		
+		jQuery(".huge_it_slideshow_image_container_3").css({width: (sliderwidth)});
+		jQuery(".huge_it_slideshow_image_container_3").css({height: ((sliderwidth) * str)});
+			
+		if("top"=="middle"){var titlemargintopminus=jQuery(".huge_it_slideshow_title_text_3").outerHeight()/2;}		
+		if("right"=="center"){var titlemarginleftminus=jQuery(".huge_it_slideshow_title_text_3").outerWidth()/2;}		
+		jQuery(".huge_it_slideshow_title_text_3").css({cssText: "margin-top:-" + titlemargintopminus + "px; margin-left:-"+titlemarginleftminus+"px;"});
+		
+		if("bottom"=="middle"){var descriptionmargintopminus=jQuery(".huge_it_slideshow_description_text_3").outerHeight()/2;}	
+		if("right"=="center"){var descriptionmarginleftminus=jQuery(".huge_it_slideshow_description_text_3").outerWidth()/2;}
+		jQuery(".huge_it_slideshow_description_text_3").css({cssText: "margin-top:-" + descriptionmargintopminus + "px; margin-left:-"+descriptionmarginleftminus+"px;"});
+		        jQuery("#huge_it_loading_image_3").css({display: "none"});
+                jQuery(".huge_it_slideshow_image_wrap1_3").css({display: "block"});
+				jQuery(".huge_it_slideshow_image_wrap_3").removeClass("nocolor");
+
+		
+		
+		if("resize"=="resize"){
+			jQuery(".huge_it_slideshow_image_3,  .huge_it_slideshow_image_container_3 img").css({
+				cssText: "width:" + sliderwidth + "px; height:" + ((sliderwidth) * str)	+"px;"
+			});
+		}else {
+			jQuery(".huge_it_slideshow_image_3,.huge_it_slideshow_image_item2_3").css({
+			cssText: "max-width: " + sliderwidth + "px !important; max-height: " + (sliderwidth * str) + "px !important;"
+		  });
+		}
+		
+		jQuery('.huge_it_video_frame_3').each(function (e) {
+          jQuery(this).width(sliderwidth);
+          jQuery(this).height(sliderwidth * str);
+        });
+      }
+      
+      jQuery(window).load(function () {
+		jQuery(window).resize(function() {
+			huge_it_popup_resize_3();
+		});
+		
+		jQuery('#huge_it_slideshow_left_3').on('click',function(){
+			huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), (parseInt(jQuery('#huge_it_current_image_key_3').val()) - iterator_3()) >= 0 ? (parseInt(jQuery('#huge_it_current_image_key_3').val()) - iterator_3()) % data_3.length : data_3.length - 1, data_3,false,true);
+			return false;
+		});
+		
+		jQuery('#huge_it_slideshow_right_3').on('click',function(){
+			huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), (parseInt(jQuery('#huge_it_current_image_key_3').val()) + iterator_3()) % data_3.length, data_3,false,true);
+			return false;
+		});
+	
+
+		
+	
+		
+		huge_it_popup_resize_3();
+        /* Disable right click.*/
+        jQuery('div[id^="huge_it_container"]').bind("contextmenu", function () {
+          return false;
+        });
+        			
+		/*HOVER SLIDESHOW*/
+		jQuery("#huge_it_slideshow_image_container_3, .huge_it_slideshow_image_container_3, .huge_it_slideshow_dots_container_3,#huge_it_slideshow_right_3,#huge_it_slideshow_left_3").hover(function(){
+			//errorlogjQuery(".huge_it_slideshow_image_wrap_3").after(" -- hover -- <br /> ");
+			jQuery("#huge_it_slideshow_right_3").css({'display':'inline'});
+			jQuery("#huge_it_slideshow_left_3").css({'display':'inline'});
+		},function(){
+			jQuery("#huge_it_slideshow_right_3").css({'display':'none'});
+			jQuery("#huge_it_slideshow_left_3").css({'display':'none'});
+		});
+		var pausehover="off";
+		if(pausehover=="on"){
+			jQuery("#huge_it_slideshow_image_container_3, .huge_it_slideshow_image_container_3").hover(function(){
+				window.clearInterval(huge_interval['huge_it_playInterval_'+3]);
+			},function(){
+				window.clearInterval(huge_interval['huge_it_playInterval_'+3]);
+				play_3();
+			});		
+		}	
+          play_3();        
+      });
+		//var huge_play={};
+
+      function play_3(){	   
+        /* Play.*/
+		//errorlogjQuery(".huge_it_slideshow_image_wrap_3").after(" -- paly  ---- ");
+        huge_interval['huge_it_playInterval_'+3] = setInterval(function () {
+			//errorlogjQuery(".huge_it_slideshow_image_wrap_3").after(" -- time left ---- ");
+          var iterator = 1;
+          huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), (parseInt(jQuery('#huge_it_current_image_key_3').val()) + iterator) % data_3.length, data_3,false,false);
+        }, '4000');
+      }
+	  
+      jQuery(window).focus(function() {
+       /*event_stack_3 = [];*/
+        var i_3 = 0;
+        jQuery(".huge_it_slider_3").children("div").each(function () {
+          if (jQuery(this).css('opacity') == 1) {
+            jQuery("#huge_it_current_image_key_3").val(i_3);
+          }
+          i_3++;
+        });
+      });
+      jQuery(window).blur(function() {
+        event_stack_3 = [];
+        window.clearInterval(huge_interval['huge_it_playInterval_'+3]);
+      });      
+    </script>
+<style>
+	.thumb_image{
+		  position: absolute;
+		  width: 100%;
+		  height: 100%;
+		  top: 0;
+		  left:0;
+	}
+	.entry-content a{
+		border-bottom: none !important;
+	}
+	.play-button-slider{
+		top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+	}
+	.youtube-icon { position: absolute;
+    
+    background:url(http://ems2.bronnatation.fr/wp-content/plugins/slider-image/images/play.youtube.png) center center no-repeat;background-size:14%;}
+</style>
+	
+<div class="huge_it_slideshow_image_wrap_3 ">
+			<div id="huge_it_loading_image_3" class="nodisplay"> <img src="http://ems2.bronnatation.fr/wp-content/plugins/slider-image/Front_images/loading/loading1.gif"  alt="" width="100" height="100" style=" margin: 0px auto;" /> </div>
+		<div class="huge_it_slideshow_image_wrap1_3"class="display">
+	            
+		<!-- ##########################DOTS######################### -->
+        <div class="huge_it_slideshow_dots_container_3">
+			  <div class="huge_it_slideshow_dots_thumbnails_3">
+												<div id="huge_it_dots_0_3" class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_active_3" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '0', data_3,false,true);return false;" data-image_id="11" data-image_key="0"></div>
+															<div id="huge_it_dots_1_3" class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_deactive_3" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '1', data_3,false,true);return false;" data-image_id="10" data-image_key="1"></div>
+															<div id="huge_it_dots_2_3" class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_deactive_3" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '2', data_3,false,true);return false;" data-image_id="9" data-image_key="2"></div>
+															<div id="huge_it_dots_3_3" class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_deactive_3" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '3', data_3,false,true);return false;" data-image_id="8" data-image_key="3"></div>
+															<div id="huge_it_dots_4_3" class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_deactive_3" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '4', data_3,false,true);return false;" data-image_id="7" data-image_key="4"></div>
+															<div id="huge_it_dots_5_3" class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_deactive_3" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '5', data_3,false,true);return false;" data-image_id="6" data-image_key="5"></div>
+															<div id="huge_it_dots_6_3" class="huge_it_slideshow_dots_3 huge_it_slideshow_dots_deactive_3" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_3')) { return false; } huge_it_change_image_3(parseInt(jQuery('#huge_it_current_image_key_3').val()), '6', data_3,false,true);return false;" data-image_id="5" data-image_key="6"></div>
+										  </div>
+			
+							<a id="huge_it_slideshow_left_3" href="#">
+					<div id="huge_it_slideshow_left-ico_3">
+					<div><i class="huge_it_slideshow_prev_btn_3 fa"></i></div></div>
+				</a>
+				
+				<a id="huge_it_slideshow_right_3" href="#">
+					<div id="huge_it_slideshow_right-ico_3">
+					<div><i class="huge_it_slideshow_next_btn_3 fa"></i></div></div>
+				</a>
+					</div>
+	  <!-- ##########################IMAGES######################### -->
+
+      <div id="huge_it_slideshow_image_container_3" class="huge_it_slideshow_image_container_3">        
+        <div class="huge_it_slide_container_3">
+          <div class="huge_it_slide_bg_3">
+            <ul class="huge_it_slider_3">
+			  					  <li class="huge_it_slideshow_image_item_3" id="image_id_3_0">      
+						<a href="http://www.jepile.net" >						<img id="huge_it_slideshow_image_3_0" class="huge_it_slideshow_image_3" src="http://ems2.bronnatation.fr/wp-content/uploads/2015/01/lOGO-Onlyskin.-vectorise-2.png"  alt="" data-image_id="11" />
+						</a>		
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_3" id="image_id_3_1">      
+						<a href="http://www.mamontagne.com" >						<img id="huge_it_slideshow_image_3_1" class="huge_it_slideshow_image_3" src="http://ems2.bronnatation.fr/wp-content/uploads/2015/01/BANNIEREEN40HAUT.jpg"  alt="" data-image_id="10" />
+						</a>		
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_3" id="image_id_3_2">      
+												<img id="huge_it_slideshow_image_3_2" class="huge_it_slideshow_image_3" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/Logo_chez_leon1.jpg"  alt="" data-image_id="9" />
+								
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_3" id="image_id_3_3">      
+												<img id="huge_it_slideshow_image_3_3" class="huge_it_slideshow_image_3" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/logo_Mingat.petit_.jpg"  alt="" data-image_id="8" />
+								
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_3" id="image_id_3_4">      
+												<img id="huge_it_slideshow_image_3_4" class="huge_it_slideshow_image_3" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/credit-mutuel_petit.jpg"  alt="" data-image_id="7" />
+								
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_3" id="image_id_3_5">      
+												<img id="huge_it_slideshow_image_3_5" class="huge_it_slideshow_image_3" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/Logo-ville-bron-bleu12.jpg"  alt="" data-image_id="6" />
+								
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_3" id="image_id_3_6">      
+						<a href="http://www.arenawaterinstinct.com/fr_fr/" >						<img id="huge_it_slideshow_image_3_6" class="huge_it_slideshow_image_3" src="http://ems2.bronnatation.fr/wp-content/uploads/2014/12/arena.noir_.jpg"  alt="" data-image_id="5" />
+						</a>		
+						<div class="huge_it_slideshow_title_text_3 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_3 none">
+													</div>
+					  </li>
+					              </ul>
+          </div>
+		  <input  type="hidden" id="huge_it_current_image_key_3" value="0" />
+        </div>
+      </div>
+	</div>
+<!-- slider thumbs  -->
+
+<script>
+jQuery(document).ready(function($) {
+
+		
+	setInterval(function() {
+	jQuery('.huge_it_slider_3').find("li").each(function (){
+		
+  		if($(this).css("opacity") == "1"){
+
+  			var img_id=$(this).attr('id');
+  			jQuery('.huge_it_slideshow_thumbs_3').each(function (){
+  				//if ($(this).hasClass('bx-clone')){$(this).removeAttr('id')}
+  				var allListElements = $( 'li[id='+img_id+']' );
+  				
+  				$(this).find(allListElements).not(".bx-clone").each(function() {
+  					
+
+  					jQuery('.huge_it_slideshow_thumbs_3 li').find(".trans_back").css('background','rgba(255,255,255,0.3)');
+  					$(this).find('.trans_back').css('background','none');
+
+  						
+  					
+  				})
+  				
+
+  			
+  			})
+			
+  		}
+		
+	})
+},100)
+
+
+	
+
+})
+</script>
+
+	
+</div>
+
+
+	  </aside><aside id="linkcat-52" class="widget widget_links"><h1 class="widget-title">liens</h1>
+	<ul class='xoxo blogroll'>
+<li><a href="http://abcnatation.com/natation/lyonnais/" title="Comité du Lyonnais ">Comité du Lyonnais</a></li>
+<li><a href="http://abcnatation.com/natation/lyonnais/69/" title="Comité du Rhone" target="_blank">Comité du Rhone</a></li>
+<li><a href="http://www.ffnatation.fr/webffn/index.php" title="FFN" target="_blank">FFN</a></li>
+<li><a href="http://www.ville-bron.fr/">Ville de Bron</a></li>
+
+	</ul>
+</aside>
+<aside id="archives-3" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Sélectionner un mois</option>
+				<option value='http://ems2.bronnatation.fr/2015/09/'> septembre 2015 &nbsp;(5)</option>
+	<option value='http://ems2.bronnatation.fr/2015/08/'> août 2015 &nbsp;(12)</option>
+	<option value='http://ems2.bronnatation.fr/2015/06/'> juin 2015 &nbsp;(14)</option>
+	<option value='http://ems2.bronnatation.fr/2015/05/'> mai 2015 &nbsp;(15)</option>
+	<option value='http://ems2.bronnatation.fr/2015/04/'> avril 2015 &nbsp;(6)</option>
+	<option value='http://ems2.bronnatation.fr/2015/03/'> mars 2015 &nbsp;(11)</option>
+	<option value='http://ems2.bronnatation.fr/2015/02/'> février 2015 &nbsp;(9)</option>
+	<option value='http://ems2.bronnatation.fr/2015/01/'> janvier 2015 &nbsp;(9)</option>
+	<option value='http://ems2.bronnatation.fr/2014/12/'> décembre 2014 &nbsp;(9)</option>
+	<option value='http://ems2.bronnatation.fr/2014/11/'> novembre 2014 &nbsp;(2)</option>
+	<option value='http://ems2.bronnatation.fr/2014/08/'> août 2014 &nbsp;(2)</option>
+
+		</select>
+</aside>	</div><!-- #primary-sidebar -->
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+								<a href="http://wordpress.org/">Fièrement propulsé par WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+		<div style="display:none">
+	</div>
+	
+	<style>		
+/***<add>***/
+	
+	  #huge_it_loading_image_ {
+		height:px;
+		width:px;
+		display: table-cell;
+		text-align: center;
+		vertical-align: middle;
+	 }
+	  #huge_it_loading_image_.display {
+		display: table-cell;
+	 }
+	  #huge_it_loading_image_.nodisplay {
+		display: none;
+	 }
+	 #huge_it_loading_image_ img {
+		margin: auto 0;
+		width: 20% !important;
+		
+	 }
+	 
+	 .huge_it_slideshow_image_wrap_ {
+		height:px;
+		width:px;
+
+		position:relative;
+		display: block;
+		text-align: center;
+		/*HEIGHT FROM HEADER.PHP*/
+		clear:both;
+		
+				float:none; margin:0px auto;		
+		border-style:solid;
+		border-left:0px !important;
+		border-right:0px !important;
+	}
+	 .huge_it_slideshow_image_wrap1_.display {
+		 width: 100%;
+		 height:100%;
+	 }
+	 .huge_it_slideshow_image_wrap1_.display {
+		 display:block;
+	 }
+	 .huge_it_slideshow_image_wrap1_.nodisplay {
+		 display:none;
+	 }
+	.huge_it_slideshow_image_wrap_ * {
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+	}
+		 
+
+	  .huge_it_slideshow_image_ {
+			/*width:100%;*/
+	  }
+
+	  #huge_it_slideshow_left_,
+	  #huge_it_slideshow_right_ {
+		cursor: pointer;
+		display:none;
+		display: block;
+		
+		height: 100%;
+		outline: medium none;
+		position: absolute;
+
+		/*z-index: 10130;*/
+		z-index: 13;
+		bottom:25px;
+		top:50%;		
+	  }
+	 
+
+	  #huge_it_slideshow_left-ico_,
+	  #huge_it_slideshow_right-ico_ {
+		z-index: 13;
+		-moz-box-sizing: content-box;
+		box-sizing: content-box;
+		cursor: pointer;
+		display: table;
+		left: -9999px;
+		line-height: 0;
+		margin-top: -15px;
+		position: absolute;
+		top: 50%;
+		/*z-index: 10135;*/
+	  }
+	  #huge_it_slideshow_left-ico_:hover,
+	  #huge_it_slideshow_right-ico_:hover {
+		cursor: pointer;
+	  }
+	  
+	  .huge_it_slideshow_image_container_ {
+		display: table;
+		position: relative;
+		top:0px;
+		left:0px;
+		text-align: center;
+		vertical-align: middle;
+		width:100%;
+	  }	  
+		
+	  .huge_it_slideshow_title_text_ {
+		text-decoration: none;
+		position: absolute;
+		z-index: 11;
+		display: inline-block;
+				
+		width:24%;
+		/*height:44%;*/
+		
+		right:3%;top:3%;		padding:2%;
+		text-align:right;  
+		font-weight:bold;
+		color:#000000;
+			
+		background:rgba(255,255,255,0.7)  !important;
+		border-style:solid;
+		font-size:13px;
+		border-width:0px;
+		border-color:#ffffff;
+		border-radius:4px;
+	  }
+	  	  
+	  .huge_it_slideshow_description_text_ {
+		text-decoration: none;
+		position: absolute;
+		z-index: 11;
+		border-style:solid;
+		display: inline-block;
+				
+		width:64%;
+		/*height:44%;*/
+		right:3%;bottom:3%;		padding:3%;
+		text-align:justify;  
+		color:#ffffff;
+		
+		background:rgba(0,0,0,0.7) !important;
+		border-style:solid;
+		font-size:13px;
+		border-width:0px;
+		border-color:#ffffff;
+		border-radius:0px;
+	  }
+	  
+	   .huge_it_slideshow_title_text_.none, .huge_it_slideshow_description_text_.none,
+	   .huge_it_slideshow_title_text_.hidden, .huge_it_slideshow_description_text_.hidden	   {display:none;}
+	      
+	   .huge_it_slideshow_title_text_ h1, .huge_it_slideshow_description_text_ h1,
+	   .huge_it_slideshow_title_text_ h2, .huge_it_slideshow_title_text_ h2,
+	   .huge_it_slideshow_title_text_ h3, .huge_it_slideshow_title_text_ h3,
+	   .huge_it_slideshow_title_text_ h4, .huge_it_slideshow_title_text_ h4,
+	   .huge_it_slideshow_title_text_ p, .huge_it_slideshow_title_text_ p,
+	   .huge_it_slideshow_title_text_ strong,  .huge_it_slideshow_title_text_ strong,
+	   .huge_it_slideshow_title_text_ span, .huge_it_slideshow_title_text_ span,
+	   .huge_it_slideshow_title_text_ ul, .huge_it_slideshow_title_text_ ul,
+	   .huge_it_slideshow_title_text_ li, .huge_it_slideshow_title_text_ li {
+			padding:2px;
+			margin:0px;
+	   }
+
+	  .huge_it_slide_container_ {
+		display: table-cell;
+		margin: 0 auto;
+		position: relative;
+		vertical-align: middle;
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+	  }
+	  .huge_it_slide_bg_ {
+		margin: 0 auto;
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+	  }
+	  .huge_it_slider_ {
+		width:100%;
+		height:100%;
+		display:table !important;
+		padding:0px !important;
+		margin:0px !important;
+		
+	  }
+	  .huge_it_slideshow_image_item_ {
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+		display: table-cell;
+		filter: Alpha(opacity=100);
+		opacity: 1;
+		position: absolute;
+		top:0px !important;
+		left:0px !important;
+		vertical-align: middle;
+		z-index: 1;
+		margin:0px !important;
+		padding:0px  !important;
+		border-radius: 0px !important;
+	  }
+	  .huge_it_slideshow_image_second_item_ {
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+		display: table-cell;
+		filter: Alpha(opacity=0);
+		opacity: 0;
+		position: absolute;
+		top:0px !important;
+		left:0px !important;
+		vertical-align: middle;
+		overflow:hidden;
+		margin:0px !important;
+		visibility:visible !important;
+		padding:0px  !important;
+		border-radius: 0px !important;
+	  }
+	  
+	   .huge_it_slideshow_image_second_item_ a, .huge_it_slideshow_image_item_ a {
+			display:block;
+			width:100%;
+			height:100%;	
+	   }
+	   
+	  .huge_it_grid_ {
+		display: none;
+		height: 100%;
+		overflow: hidden;
+		position: absolute;
+		width: 100%;
+	  }
+	  .huge_it_gridlet_ {
+		opacity: 1;
+		filter: Alpha(opacity=100);
+		position: absolute;
+	  }
+	  
+					
+	  .huge_it_slideshow_dots_container_ {
+		display: table;
+		position: absolute;
+		width:100% !important;
+		height:100% !important;
+	  }
+	  .huge_it_slideshow_dots_thumbnails_ {
+		margin: 0 auto;
+		overflow: hidden;
+		position: absolute;
+		width:100%;
+		height:30px;
+	  }
+	  
+	  .huge_it_slideshow_dots_ {
+		display: inline-block;
+		position: relative;
+		cursor: pointer;
+		box-shadow: 1px 1px 1px rgba(0,0,0,0.1) inset, 1px 1px 1px rgba(255,255,255,0.1);
+		width:10px;
+		height: 10px;
+		border-radius: 10px;
+		background: #00f;
+		margin: 10px;
+		overflow: hidden;
+		z-index: 17;
+	  }
+	  
+	  .huge_it_slideshow_dots_active_ {
+		opacity: 1;
+		filter: Alpha(opacity=100);
+	  }
+	  .huge_it_slideshow_dots_deactive_ {
+	  
+	  }
+	  
+	
+		
+		.huge_it_slideshow_image_wrap_ {
+			background:#ffffff;
+			border-width:0px;
+			border-color:#ffffff;
+			border-radius:0px;
+		}
+		.huge_it_slideshow_image_wrap_.nocolor {
+			background: transparent;
+		}
+		
+		.huge_it_slideshow_dots_thumbnails_ {
+					}
+		
+		.huge_it_slideshow_dots_ {
+			background:#000000;
+		}
+		
+		.huge_it_slideshow_dots_active_ {
+			background:#ffffff;
+		}
+							/*//////////////////////slider thunbnail styles start///////////////////////////*/
+		
+		.bx-wrapper .bx-controls-direction a.disabled {
+		  display: ;
+		}
+		.bx-viewport {
+		  height: 100px !important;
+		  -webkit-transform: translatez(0);
+		}
+		.entry-content a{
+			border-bottom: none !important;
+		}
+		.entry-content li{
+			margin:0px !important;
+			padding: 0px !important;
+		}
+		.entry-content ul{
+			list-style-type:none !important;
+			margin: 0px !important;
+			padding: 0px !important;
+		}
+		.bx-wrapper {
+		  position: relative;
+		  margin: 0 auto 0 auto;
+		  padding: 0;
+		  max-width: 600px !important;
+		  *zoom: 1;
+		  -ms-touch-action: pan-y;
+		  touch-action: pan-y;
+		}
+		.huge_it_slideshow_thumbs_container_{
+						}
+		.huge_it_slideshow_thumbs_{
+
+			
+		}
+		.huge_it_slideshow_thumbs_ li{
+			display: inline-block;
+			 
+		    height: 100px ;
+		    
+
+			
+		}
+		.huge_it_slideshow_thumbnails_ {
+		    display: inline-block;
+		    position: relative;
+		    cursor: pointer;
+		    background: #FFFFFF;
+		    z-index: 17;
+		}
+		.sl_thumb_img{
+		    width: 100% !important;
+		    height: 100% !important;
+		    display: block;
+		    margin: 0 auto;
+		}
+		.sl_thumb_img2{
+		    height: 100% !important;
+		    display: block;
+		    margin: 0 auto;
+		}
+		.trans_back{
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+			background:rgba(255,255,255,0.5);
+			transition: 0.3s ease;
+		}
+		.trans_back:hover{
+			background:none !important;
+		}
+		.play-icon.youtube {background:url(http://ems2.bronnatation.fr/wp-content/plugins/slider-image/images/play.youtube.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;}
+
+		.play-icon.vimeo {background:url(http://ems2.bronnatation.fr/wp-content/plugins/slider-image/images/play.vimeo.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+		}
+		.bx-wrapper {
+		  
+		  border: 0px solid #fff;
+		  background: #fff;
+		}
+		
+		/*////////////slider thunbnail styles end//////////////*/
+		
+							#huge_it_slideshow_left_ {	
+						left:0px;
+						margin-top:-21px;
+						height:43px;
+						width:29px;
+						background:url(http://ems2.bronnatation.fr/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat; 
+					}
+					
+					#huge_it_slideshow_right_ {
+						right:0px;
+						margin-top:-21px;
+						height:43px;
+						width:29px;
+						background:url(http://ems2.bronnatation.fr/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat; 
+					}
+				/***</add>***/
+
+	</style>
+
+
+
+		
+<link rel='stylesheet' id='bxSlidercss-css'  href='http://ems2.bronnatation.fr/wp-content/plugins/slider-image/style/jquery.bxslider.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201538'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-content/themes/twentyfourteen/js/functions.js?ver=20150315'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-content/plugins/event-calendar-wd/js/gmap/gmap3.js?ver=1.0.20'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ecwd = {"ajaxurl":"http:\/\/ems2.bronnatation.fr\/wp-admin\/admin-ajax.php","ajaxnonce":"4d564a17b3","loadingText":"Chargement\u2026","plugin_url":"http:\/\/ems2.bronnatation.fr\/wp-content\/plugins\/event-calendar-wd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-content/plugins/event-calendar-wd/js/scripts.js?ver=1.0.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var huge_it_obj = {"slideCount":"3","pauseTime":"4000","width_thumbs":"200","speed":"1000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-content/plugins/slider-image/js/jquery.bxslider.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://ems2.bronnatation.fr/wp-content/plugins/slider-image/js/bxslider.setup.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201538.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.7',blog:'73114412',post:'0',tz:'2',srv:'ems2.bronnatation.fr'} ]);
+	_stq.push([ 'clickTrackerInit', '73114412', '0' ]);
+</script>
+</body>
+</html>

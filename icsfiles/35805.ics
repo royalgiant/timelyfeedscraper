@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.186.251.41//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://agenda.e342.com
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VTIMEZONE
+TZID:America/Argentina/Buenos_Aires
+X-LIC-LOCATION:America/Argentina/Buenos_Aires
+BEGIN:STANDARD
+DTSTART:20090315T000000
+TZOFFSETFROM:-0200
+TZOFFSETTO:-0300
+TZNAME:ART
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-130@agenda.e342.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:Andrea\; 41104500\; email@email.com\; http://www.web.com
+DESCRIPTION:<p><a href='http://agenda.e342.com/wp-content/uploads/2015/09/T
+ heater.jpg'><img class='alignleft  wp-image-266' src='http://agenda.e342.c
+ om/wp-content/uploads/2015/09/Theater-300x297.jpg' alt='Theater' width='13
+ 5' height='134' /></a>Lorem ipsum dolor sit amet\, consectetur adipiscing 
+ elit\, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+ Ut enim ad minim veniam\, quis nostrud exercitation ullamco laboris nisi u
+ t aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
+ in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur 
+ sint occaecat cupidatat non proident\, sunt in culpa qui officia deserunt 
+ mollit anim id est laborum. Lorem ipsum dolor sit amet\, consectetur adipi
+ scing elit\, sed do eiusmod tempor incididunt ut labore et dolore magna al
+ iqua. Ut enim ad minim veniam\, quis nostrud exercitation ullamco laboris 
+ nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen
+ derit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Exce
+ pteur sint occaecat cupidatat non proident\, sunt in culpa qui officia des
+ erunt mollit anim id est laborum.</p>
+DTSTART;TZID=America/Argentina/Buenos_Aires:20150919T093000
+DTEND;TZID=America/Argentina/Buenos_Aires:20150919T104500
+GEO:-34.61708;-58.38083
+LOCATION:Teatro 9 Julio @ Avenida 9 de Julio 100\, Ciudad Autónoma de Bueno
+ s Aires\, Argentina
+RRULE:FREQ=DAILY;INTERVAL=2
+SEQUENCE:0
+SUMMARY:Auditorio en el Teatro
+URL:http://agenda.e342.com/event/auditorio-en-el-teatro/
+X-COST:100
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-262@agenda.e342.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Lorem ipsum dolor sit amet\, consectetur adipiscing elit\, s
+ ed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim 
+ ad minim veniam\, quis nostrud exercitation ullamco laboris nisi ut aliqui
+ p ex ea commodo consequat. Duis aute irure dolor in reprehenderit in volup
+ tate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occ
+ aecat cupidatat non proident\, sunt in culpa qui officia deserunt mollit a
+ nim id est laborum. Lorem ipsum dolor sit amet\, consectetur adipiscing el
+ it\, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+  enim ad minim veniam\, quis nostrud exercitation ullamco laboris nisi ut 
+ aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+  voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur si
+ nt occaecat cupidatat non proident\, sunt in culpa qui officia deserunt mo
+ llit anim id est laborum.</p>
+DTSTART;TZID=America/Argentina/Buenos_Aires:20150921T120000
+DTEND;TZID=America/Argentina/Buenos_Aires:20150921T140000
+LOCATION:Gimnasio Local
+RRULE:FREQ=WEEKLY;BYDAY=MO,WE,FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Clase de ingles
+URL:http://agenda.e342.com/event/clase-de-ingles/
+X-COST:P$ 30
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-259@agenda.e342.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://agenda.e342.com/wp-content/uploads/2015/09/g
+ ym.jpg'><img class='alignleft  wp-image-264' src='http://agenda.e342.com/w
+ p-content/uploads/2015/09/gym-300x200.jpg' alt='gym' width='203' height='1
+ 35' /></a>Lorem ipsum dolor sit amet\, consectetur adipiscing elit\, sed d
+ o eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m
+ inim veniam\, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+  ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaeca
+ t cupidatat non proident\, sunt in culpa qui officia deserunt mollit anim 
+ id est laborum. Lorem ipsum dolor sit amet\, consectetur adipiscing elit\,
+  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut eni
+ m ad minim veniam\, quis nostrud exercitation ullamco laboris nisi ut aliq
+ uip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in vol
+ uptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint o
+ ccaecat cupidatat non proident\, sunt in culpa qui officia deserunt mollit
+  anim id est laborum.</p>
+DTSTART;TZID=America/Argentina/Buenos_Aires:20150921T130000
+DTEND;TZID=America/Argentina/Buenos_Aires:20150921T160000
+GEO:-34.583776;-58.498083
+LOCATION:Gimnasio Local @ Avenida General Mosconi 2540\, C1419EQR CABA\, Ar
+ gentina
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Clase de gimnasia Profesora Mirta
+URL:http://agenda.e342.com/event/clase-de-gimnasia-profesora-mirta/
+X-COST:50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-258@agenda.e342.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://agenda.e342.com/wp-content/uploads/2015/09/A
+ ccountemps-auditor.jpg'><img class='alignleft  wp-image-265' src='http://a
+ genda.e342.com/wp-content/uploads/2015/09/Accountemps-auditor-300x200.jpg'
+  alt='Accountemps auditor' width='207' height='138' /></a>Lorem ipsum dolo
+ r sit amet\, consectetur adipiscing elit\, sed do eiusmod tempor incididun
+ t ut labore et dolore magna aliqua. Ut enim ad minim veniam\, quis nostrud
+  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Dui
+ s aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
+ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident\,
+  sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsu
+ m dolor sit amet\, consectetur adipiscing elit\, sed do eiusmod tempor inc
+ ididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam\, quis n
+ ostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa
+ t. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum d
+ olore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proi
+ dent\, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+DTSTART;TZID=America/Argentina/Buenos_Aires:20151005T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20151005T180000
+GEO:-34.601626;-58.375374
+LOCATION:Centro de Auditores @ Florida 550\, C1005AAL CABA\, Argentina
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+SEQUENCE:0
+SUMMARY:Evento en el Centro de Auditores
+URL:http://agenda.e342.com/event/evento-en-el-centro-de-auditores/
+END:VEVENT
+END:VCALENDAR

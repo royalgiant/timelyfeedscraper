@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//216.15.245.49//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.bc-strings.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1396@www.bc-strings.org
+DTSTAMP:20150920T003751Z
+CATEGORIES;LANGUAGE=en-US:Special Event
+CONTACT:ASTA\; https://sites.google.com/site/westvirginiaasta/string-day-1
+DESCRIPTION:<div>\n<h3><a class='dt-single-image' href='http://www.bc-strin
+ gs.org/wp-content/uploads/2012/04/bcop-wp-splash21.jpg' data-dt-img-descri
+ ption=''><img class='aligncenter wp-image-415 size-full' src='http://www.b
+ c-strings.org/wp-content/uploads/2012/04/bcop-wp-splash21.jpg' alt='bcop-w
+ p-splash2' width='940' height='285' /></a></h3>\n<h3></h3>\n<h3></h3>\n<h3
+ ><b>What is WV String Day?</b></h3>\n<div>String Day is sponsored by the W
+ V chapter of the American String Teachers Association and consists of stri
+ ng students grades 7-12 from across the state. Each year it is held in a d
+ ifferent location\, and this year Spring Mills High School is the host! St
+ udents will have the opportunity to work with String Educator and Penn Sta
+ te Professor\, Dr. Robert Gardner\, along with string teachers from WV for
+  a full day of musical enrichment. We will begin at 9am and work together 
+ all day to put on a concert at 5pm. There is a $20 participation fee this 
+ year (2015)\, which includes pizza lunch and a souvenir t-shirt.</div>\n</
+ div>\n<div></div>\n<h3 align='center'><span style='color: #ff0000\; font-f
+ amily: Cambria\;'>2015 WV ASTA String Day Schedule</span></h3>\n<ul>\n<li>
+ <span style='font-family: Cambria\;'>8:30-9:00- Registration in Cafeteria<
+ /span></li>\n<li><span style='font-family: Cambria\;'>9:15-10:15- Full orc
+ hestra rehearsal (on stage in auditorium)</span></li>\n<li><span style='fo
+ nt-family: Cambria\;'>10:30-11:30- <i>Sectionals*</i> (see assigned locati
+ ons below)</span></li>\n<li><span style='font-family: Cambria\;'>11:30-12:
+ 30- Lunch break in Cafeteria</span></li>\n<li><span style='font-family: Ca
+ mbria\;'>12:45-1:45- Full orchestra rehearsal (on stage)</span></li>\n<li>
+ <span style='font-family: Cambria\;'>2:00-3:00- <i>Sectionals</i></span></
+ li>\n<li><span style='font-family: Cambria\;'>3:00-4:30: Full orchestra dr
+ ess rehearsal (on stage)</span></li>\n<li><span style='font-family: Cambri
+ a\;'>4:30-5:00- Break to change/prep for concert  (change in bathrooms in 
+ Cafeteria area).</span></li>\n<li><span style='font-family: Cambria\;'>5:0
+ 0- Concert in Auditorium on stage</span></li>\n</ul>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+GEO:+39.538355;-77.898541
+LOCATION:Spring Mills High School\, 499 Campus Drive\, Martinsburg\, WV 254
+ 04\, USA
+SEQUENCE:0
+SUMMARY:String Day 2015
+URL:http://www.bc-strings.org/event/string-day-2015/
+X-TAGS;LANGUAGE=en-US:2015\,ASTA\,Berkeley County\,string day
+END:VEVENT
+END:VCALENDAR

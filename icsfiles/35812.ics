@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Proyecto 'En construcción'</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="html/css/reset.css">
+    <link rel="stylesheet" href="html/fonts/stylesheet.css">
+    <link rel="stylesheet" href="html/css/styles.css">
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" href="css/ie.css">
+    <![endif]-->
+    <!-- IE fix for HTML5 tags -->
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- jQuery and Modernizr-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="html/js/modernizr.custom.js"></script>
+    <!-- Countdown timer and other animations -->
+    <script src="html/js/jquery.countdown.js"></script>
+    <script src="html/js/script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Estamos trabajando para tener listo el sitio web pronto.</h1>
+		<p>Mi querido novio Emilio J. Fernandez, está haciendo todo un esfuerzo para finalizar la página web antes que esta cuenta atrás finalice.</p>
+		<p>Por favor, tened paciencia. (Es mentira lo de querido; ésta es su parte y lo tiene que terminar. Por ello, lo azoto para que trabaje 20 horas al día jeje).</p>
+    </header>
+    <div id="main">
+        <div id="links">
+            <div id="links">
+				<div class="home"><a href="">http://1stwebdesigner.com/</a></div>
+				<div class="support"><a href="">http://support.1wd.com/</a></div>
+				<div class="browser"><a href="">Google Chrome OS. 10.X.23</a></div>
+				<div class="books"><a href="">http://1wd.co/e-books/</a></div>
+				<div class="download"><a href="">http://1wd.com/download/</a></div>
+				<div class="ups"><a href="">UPS Signed Worldwide</a></div>
+			</div>
+        </div>
+        <div id="counter" class="countdownHolder">
+			<div class="countDays">
+				<span class="position">
+					<span class="digit static">0</span>
+				</span>
+				<span class="position"
+					<span class="digit static">0</span>
+				</span>
+				<span class="boxName">
+					<span class="Days">DAYS</span>
+				</span>
+			</div>
+			<span class="points">:</span>
+			<span class="countDiv countDiv0"></span>
+			<div class="countHours">
+				<span class="position">
+					<span class="digit static">0</span>
+				</span>
+				<span class="position">
+					<span class="digit static">0</span>
+				</span>
+				<span class="boxName">
+					<span class="Hours">HRS</span>
+				</span>
+			</div>
+			<span class="points">:</span>
+			<span class="countDiv countDiv1"></span>
+			<div class="countMinutes">
+				<span class="position">
+					<span class="digit static">0</span>
+				</span>
+				<span class="position">
+					<span class="digit static">0</span>
+				</span>
+				<span class="boxName">
+					<span class="Minutes">MNTS</span>
+				</span>
+			</div>
+			<span class="points">:</span>
+			<span class="countDiv countDiv2"></span>
+			<div class="countSeconds">
+				<span class="position">
+					<span class="digit static">0</span>
+				</span>
+				<span class="position">
+					<span class="digit static">0</span>
+				</span>
+				<span class="boxName">
+					<span class="Seconds">SECS</span>
+				</span>
+			</div>
+		</div>
+        </div>
+        <form action="" method="get">
+            <!-- El formulario de suscripción -->
+        </form>
+        
+		<!-- 
+			<div class="social-media-arrow"></div>
+		-->
+        
+		<footer>
+		   <ul>
+			  <li><a class="email" href="mailto://info@patriciayemilio.es"></a></li>
+			  <li><a class="facebook" href="https://www.facebook.com/groups/1553371894932878/?ref=bookmarks" target="_new"></a></li>
+			  <li><a class="twitter" href="http://www.twitter.com/patriyemilio" target="_new"></a></li>
+			  <li><a class="youtube" href=""></a></li>
+		   </ul>
+		</footer>
+    </div>
+</body>
+</html>

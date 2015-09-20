@@ -1,0 +1,177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.21.136//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://dekalbgop.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-197@dekalbgop.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:Repeating
+CONTACT:
+DESCRIPTION:<img src='http://dekalbgop.org/wp-content/gallery/images/jimtys
+ ingerbreakfastad7.jpg' alt='jimtysingerbreakfastad7' class='ngg-singlepic 
+ ngg-none alignleft' height='276' width='354' /><br /><strong><span style='
+ color: #008080\; font-size: 14pt\;'><span style='color: #008080\;'><span s
+ tyle='font-family: times new roman\,times\;'>The Senator Jim Tysinger Brea
+ kfast Forum meets each Saturday from 8:00 AM to 9:00 AM at the Panera Brea
+ d in Briarcliff Village\, 2100 Henderson Mill Rd at LaVista Rd for legis</
+ span></span></span></strong><span style='color: #008080\;'><strong><span s
+ tyle='font-family: times new roman\,times\; font-size: 14pt\;'>lative and 
+ governmental reports by candidates\, public officials\, and discussion of 
+ current events.<br />   </span></strong></span><br /><span style='color: #
+ 008080\;'><strong><span style='font-family: times new roman\,times\; font-
+ size: 14pt\;'>The forum is nonpartisan\, open to the public and free of ch
+ arge. No reservations are required.  Coffee\, breakfast fare available for
+  purchase.</span></strong></span><br /><span style='font-family: times new
+  roman\,times\; font-size: 14pt\;'>   </span><br /><strong>See this and ot
+ her events on our <a href='http://georgiaabc.com/DGOP/calendar/' onclick='
+ __gaTracker('send'\, 'event'\, 'outbound-article'\, 'http://georgiaabc.com
+ /DGOP/calendar/'\, 'calendar.')\;' title='Calendar of Events'>calendar.</a
+ ></strong>
+DTSTART;TZID=America/New_York:20150919T080000
+DTEND;TZID=America/New_York:20150919T090000
+GEO:+33.847045;-84.25566
+LOCATION:Panera Bread #600629 Near Northlake Mall @ 2100 Henderson Mill Roa
+ d Northeast\, Atlanta\, GA 30345\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Jim Tysinger Breakfast Forum
+URL:http://dekalbgop.org/event/jim-tysinger-breakfast-forum/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1008@dekalbgop.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:Brian Anderson\, Chairman\; 678-468-7293\; chairman@dekalbgop.org\;
+  http://www.dekalbgop.org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T193000
+DTEND;TZID=America/New_York:20150924T210000
+LOCATION:TBD
+SEQUENCE:0
+SUMMARY:County Committee Meeting
+URL:http://dekalbgop.org/event/county-committee-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-877@dekalbgop.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T193000
+DTEND;TZID=America/New_York:20150924T203000
+LOCATION:DeKalb GOP Headquarters @ 1532 Dunwoody Village Court\, Ste #100\,
+  Atlanta\, GA 30338
+SEQUENCE:0
+SUMMARY:September County Committee Meeting
+URL:http://dekalbgop.org/event/dekalb-gop-september-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1009@dekalbgop.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:GOP
+CONTACT:Georgia GOP\; http://www.gagop.org
+DESCRIPTION:<p>The Georgia Republican Party will host a celebration for gun
+  owners and Second Amendment advocates from 11:00AM until 2:00PM on Saturd
+ ay\, October 24 at Wild Bill’s in Duluth\, the largest country music venue
+  in the Southeast.<a href='http://dekalbgop.org/wp-content/uploads/2015/09
+ /2nd_Amendment_Revised_JPG-2.jpg'><img src='http://dekalbgop.org/wp-conten
+ t/uploads/2015/09/2nd_Amendment_Revised_JPG-2.jpg' alt='2nd_Amendment_Revi
+ sed_JPG (2)' class='alignleft size-full wp-image-1010' height='3300' width
+ ='2550' /></a>  Purchase tickets at:  <a href='http://www.gagop.org/2aday'
+  onclick='__gaTracker('send'\, 'event'\, 'outbound-article'\, 'http://www.
+ gagop.org/2aday'\, 'www.gagop.org/2aday')\;' target='_blank'>www.gagop.org
+ /2aday</a> </p>
+DTSTART;TZID=America/New_York:20151024T110000
+DTEND;TZID=America/New_York:20151024T140000
+LOCATION:Wild Bill's  @ 2075 Market St\, Duluth\, GA 30096
+SEQUENCE:0
+SUMMARY:Celebration for Gun Owners and Second Amendment Advocates
+URL:http://dekalbgop.org/event/celebration-for-gun-owners-and-second-amendm
+ ent-advocates/
+X-COST:$22/adults\; $12/children
+X-TICKETS-URL:http://www.gagop.org/2aday
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-878@dekalbgop.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151119T193000
+DTEND;TZID=America/New_York:20151119T203000
+LOCATION:DeKalb GOP Headquarters @ 1532 Dunwoody Village Court\, Ste #100\,
+  Atlanta\, GA 30338
+SEQUENCE:0
+SUMMARY:November County Committee Meeting
+URL:http://dekalbgop.org/event/dekalb-gop-november-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1004@dekalbgop.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:GOP
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160220T100000
+DTEND;TZID=America/New_York:20160220T120000
+SEQUENCE:0
+SUMMARY:2016 Precinct Mass Meetings
+URL:http://dekalbgop.org/event/2016-precinct-mass-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1005@dekalbgop.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:GOP
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160319T100000
+DTEND;TZID=America/New_York:20160319T120000
+SEQUENCE:0
+SUMMARY:2016 County Conventions
+URL:http://dekalbgop.org/event/2016-county-conventions/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1006@dekalbgop.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:GOP
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160416T100000
+DTEND;TZID=America/New_York:20160416T120000
+SEQUENCE:0
+SUMMARY:2016 District Conventions
+URL:http://dekalbgop.org/event/2016-district-conventions/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1007@dekalbgop.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:GOP
+CONTACT:Adam Pipkin\; adam@gagop.org\; http://www.gagop.org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160603T140000
+DTEND;TZID=America/New_York:20160604T160000
+LOCATION:Augusta Convention Center @ 2 10th Street\, Augusta\, GA 30901
+SEQUENCE:0
+SUMMARY:2016 Ga GOP State Convention
+URL:http://dekalbgop.org/event/2016-ga-gop-state-convention/
+END:VEVENT
+END:VCALENDAR

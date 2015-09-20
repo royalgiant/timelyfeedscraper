@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.87.197.169//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://cecilcasa.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-5745@cecilcasa.org
+DTSTAMP:20150920T002251Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>To register\, you can download the packet <a href='http://ce
+ cilcasa.org/wp-content/uploads/2015/08/Registration-Sponsorship-Form1.pdf'
+  target='_blank' rel='attachment wp-att-5747'>here</a> or go to the link a
+ bove under ‘Tickets.’<a href='http://marylandcasa.org/event/fore-children-
+ golf-tournament/casa_golf_flyer_092815/' rel='attachment wp-att-5746'><img
+  class='alignleft wp-image-5746' src='http://cecilcasa.org/wp-content/uplo
+ ads/2015/08/CASA_GOLF_flyer_0928151.jpg' alt='CASA_GOLF_flyer_092815' widt
+ h='750' height='970' /></a></p>
+DTSTART;TZID=America/New_York:20150928T080000
+DTEND;TZID=America/New_York:20150928T170000
+SEQUENCE:0
+SUMMARY:‘Fore’ Children Golf Tournament
+URL:http://cecilcasa.org/event/fore-children-golf-tournament/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5463@cecilcasa.org
+DTSTAMP:20150920T002251Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://marylandcasa.org/volunteer-for-team-casa-at-the
+ -2015-baltimore-running-festival/hero-casa-logo-1/' rel='attachment wp-att
+ -5442'><img class='aligncenter wp-image-5442' src='http://cecilcasa.org/wp
+ -content/uploads/2015/06/Hero-CASA-Logo-11.jpg' alt='Hero-CASA-Logo (1)' w
+ idth='200' height='187' /></a>\n<p> </p>\n<p style='text-align: center\;'>
+ <a class='button red-button' title='Team CASA Runner Sign Up Page' href='h
+ ttp://marylandcasa.org/2015-baltimore-running-fesitval/runner-sign-up/' ta
+ rget='_blank'>Become a Team CASA Runner</a></p>\n<p style='text-align: cen
+ ter\;'><a class='button' title='Team CASA Supporter Page' href='https://ac
+ t.myngp.com/Forms/508474150692980736' target='_blank'>Support Team CASA</a
+ ></p>\n<p style='text-align: center\;'><a class='button red-button' title=
+ 'Team CASA Sponsor Page' href='http://marylandcasa.org/2015-baltimore-runn
+ ing-fesitval/sponsor-team-casa/' target='_blank'>Sponsor Team CASA</a></p>
+ \n<p> </p>
+DTSTART;TZID=America/New_York:20151017T080000
+DTEND;TZID=America/New_York:20151017T170000
+SEQUENCE:0
+SUMMARY:Team CASA at the 2015 Baltimore Running Festival
+URL:http://cecilcasa.org/event/team-casa-at-the-2015-baltimore-running-fest
+ ival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5740@cecilcasa.org
+DTSTAMP:20150920T002251Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://marylandcasa.org/event/a-harvest-of-hope-for-ch
+ ildren/harvest-of-hope/' rel='attachment wp-att-5741'><img class='alignlef
+ t wp-image-5741' src='http://cecilcasa.org/wp-content/uploads/2015/08/harv
+ est-of-hope1.png' alt='harvest of hope' width='450' height='600' /></a>
+DTSTART;TZID=America/New_York:20151106T183000
+DTEND;TZID=America/New_York:20151106T223000
+SEQUENCE:0
+SUMMARY:A Harvest of Hope for Children
+URL:http://cecilcasa.org/event/a-harvest-of-hope-for-children/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5594@cecilcasa.org
+DTSTAMP:20150920T002251Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://marylandcasa.org/event/anne-arundel-countys-cas
+ ablanca-a-starry-night/2015casablanca_std-front/' rel='attachment wp-att-5
+ 595'><img class='alignleft size-full wp-image-5595' src='http://cecilcasa.
+ org/wp-content/uploads/2015/07/2015CASAblanca_STD-FRONT1.jpg' alt='2015CAS
+ Ablanca_STD-FRONT' width='909' height='615' /></a>
+DTSTART;TZID=America/New_York:20151107T180000
+DTEND;TZID=America/New_York:20151107T220000
+SEQUENCE:0
+SUMMARY:Anne Arundel County’s CASAblanca: A Starry Night
+URL:http://cecilcasa.org/event/anne-arundel-countys-casablanca-a-starry-nig
+ ht/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5738@cecilcasa.org
+DTSTAMP:20150920T002251Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://marylandcasa.org/event/5738/hoedownforhope/' re
+ l='attachment wp-att-5739'><img class='alignleft wp-image-5739' src='http:
+ //cecilcasa.org/wp-content/uploads/2015/08/hoedownforhope1.jpg' alt='hoedo
+ wnforhope' width='900' height='1165' /></a>
+DTSTART;TZID=America/New_York:20160227T180000
+DTEND;TZID=America/New_York:20160227T220000
+SEQUENCE:0
+SUMMARY:Hoedown for Hope
+URL:http://cecilcasa.org/event/5738/
+END:VEVENT
+END:VCALENDAR

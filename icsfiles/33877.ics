@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//10.200.10.25//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.skola.sundsvall.se/net21
+X-WR-TIMEZONE:Europe/Stockholm
+BEGIN:VTIMEZONE
+TZID:Europe/Stockholm
+X-LIC-LOCATION:Europe/Stockholm
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1546@www.skola.sundsvall.se/net21
+DTSTAMP:20150920T003307Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Förskolepedagoger från Alnö/Ljustadalens skolområde berättar
+  om sitt arbete.<br />\nInfo om anmälan kommer.</p>\n<div class='addtoany_
+ share_save_container addtoany_content_bottom'><div class='a2a_kit a2a_kit_
+ size_32 addtoany_list a2a_target' id='wpa2a_1'><a class='a2a_button_facebo
+ ok' href='http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww
+ .skola.sundsvall.se%2Fnet21%2F&linkname=Start' title='Facebook' rel='nofol
+ low' target='_blank'></a><a class='a2a_button_twitter' href='http://www.ad
+ dtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.skola.sundsvall.se%2Fne
+ t21%2F&linkname=Start' title='Twitter' rel='nofollow' target='_blank'></a>
+ <a class='a2a_button_google_plus' href='http://www.addtoany.com/add_to/goo
+ gle_plus?linkurl=http%3A%2F%2Fwww.skola.sundsvall.se%2Fnet21%2F&linkname=S
+ tart' title='Google+' rel='nofollow' target='_blank'></a><a class='a2a_dd 
+ addtoany_share_save' href='https://www.addtoany.com/share_save'></a>\n<scr
+ ipt type='text/javascript'><!--\nwpa2a.script_load()\;\n//--></script>\n</
+ div></div>
+DTSTART;TZID=Europe/Stockholm:20150923T160000
+DTEND;TZID=Europe/Stockholm:20150923T170000
+SEQUENCE:0
+SUMMARY:Pedagogiskt café fsk
+URL:http://www.skola.sundsvall.se/net21/?ai1ec_event=pedagogiskt-cafe-fsk-2
+END:VEVENT
+END:VCALENDAR

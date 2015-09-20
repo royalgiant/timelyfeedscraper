@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//198.57.163.146//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://rrgc.ca
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+X-LIC-LOCATION:America/Toronto
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1237@rrgc.ca
+DTSTAMP:20150920T002355Z
+CATEGORIES:
+CONTACT:Dave Ulch\; undrtkr@teksavvy.com
+DESCRIPTION:<p><strong>18th Annual Trap Shoot and Pig Roast Fundraiser for 
+ Huntington’s Disease</strong></p>\n<p>ALL funds raised go towards Research
+  and Family Services directly in our area.</p>\n<p>See the tab under Club 
+ Activities for more information as well as the pledge sheets.</p>\n<p> </p
+ >
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+SEQUENCE:0
+SUMMARY:Huntington Disease Annual Trap Shoot
+URL:http://rrgc.ca/event/huntington-disease-annual-trap-shoot/
+X-COST:$25 Entry fee for the Trap Shoot     $10 Pig roast Ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1235@rrgc.ca
+DTSTAMP:20150920T002355Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Two Skeet fields are open to the public every Sunday beginni
+ ng at 10:00 AM (unless posted otherwise)</p>\n<p>Last sign-ups should be m
+ ade by 2:00 PM</p>
+DTSTART;TZID=America/Toronto:20150920T100000
+DTEND;TZID=America/Toronto:20150920T140000
+EXRULE:FREQ=MONTHLY;BYDAY=SU;WKST=SU
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Skeet
+URL:http://rrgc.ca/event/skeet-2/
+X-COST:Non-Members $5.00 / Members $4.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1225@rrgc.ca
+DTSTAMP:20150920T002355Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Stand Alone CFSC / CRFSC / HEP Courses<br />\nCFSC/CRFSC or 
+ CFSC/HEP Combined Courses<br />\nCFSC / CRFSC test challenges accepted.<br
+  />\nWild Turkey Tests available</p>\n<p>All courses taught with 3 certifi
+ ed Instructor/Examiners<br />\nWayne Passmore / Bill Tye / Jim Jackson<br 
+ />\n22 Years of Teaching Together in Chatham Kent</p>\n<p>Rondeau Rod and 
+ Gun Club<br />\n10260 Campbell Line<br />\nBlenheim ON</p>\n<p>DETAILS: EM
+ AIL: onestoptraining@outlook.com</p>
+DTSTART;TZID=America/Toronto:20150925T190000
+DTEND;TZID=America/Toronto:20150927T190000
+SEQUENCE:0
+SUMMARY:One Stop Hunter Education and Firearms Training
+URL:http://rrgc.ca/event/one-stop-hunter-education-and-firearms-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1243@rrgc.ca
+DTSTAMP:20150920T002355Z
+CATEGORIES:
+CONTACT:Captain William Finlay\; finfms4@hotmail.com
+DESCRIPTION:<p>291 Air Cadet Rifle Teams practice on the main floors of the
+  clubhouse.</p>\n<p><span style='color: #0000ff\;'><strong>All ranges rema
+ in open to members during this time.</strong> </span></p>
+DTSTART;TZID=America/Toronto:20151015T183000
+DTEND;TZID=America/Toronto:20151015T210000
+RRULE:FREQ=WEEKLY;UNTIL=20151217T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Air Rifle
+URL:http://rrgc.ca/event/air-rifle/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1244@rrgc.ca
+DTSTAMP:20150920T002355Z
+CATEGORIES:
+CONTACT:Captain William Finlay\; finfms4@hotmail.com
+DESCRIPTION:<p>Air Cadets are training with their air rifles on the main fl
+ oor only.</p>\n<p><span style='color: #0000ff\;'><strong>All ranges remain
+  open to the members during this time.</strong></span></p>
+DTSTART;TZID=America/Toronto:20160107T183000
+DTEND;TZID=America/Toronto:20160107T210000
+RRULE:FREQ=WEEKLY;UNTIL=20160428T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Air Rifle
+URL:http://rrgc.ca/event/air-rifle-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1245@rrgc.ca
+DTSTAMP:20150920T002355Z
+CATEGORIES:
+CONTACT:Captain William Finlay\; finfms4@hotmail.com
+DESCRIPTION:<p>Air Cadets are training with their air rifles on the main fl
+ oor only.</p>\n<p><span style='color: #0000ff\;'><strong>All ranges remain
+  open to the members during this time.</strong></span></p>\n<p><span style
+ ='color: #0000ff\;'><strong>All Club Events (IDPA\, Youth\, Traphoots\, et
+ c) that require the same floorspace will supersede the cadet training.</st
+ rong></span></p>
+DTSTART;TZID=America/Toronto:20160109T090000
+DTEND;TZID=America/Toronto:20160109T120000
+RRULE:FREQ=WEEKLY;UNTIL=20160430T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Air Rifle
+URL:http://rrgc.ca/event/air-rifle-2-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//213.186.33.40//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://boisdecene-stejeannedarc.fr
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-238@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:CM1-CM2
+CONTACT:
+DESCRIPTION:<p>Copier les mots de la dictée 4</p>
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150922
+SEQUENCE:0
+SUMMARY:Français
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=francais
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-239@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:CM1-CM2
+CONTACT:
+DESCRIPTION:<p>Faire signer le cahier du jour et le rapporter</p>
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150922
+SEQUENCE:0
+SUMMARY:Signature
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=signature
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-240@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:CM1-CM2
+CONTACT:
+DESCRIPTION:<p>Poser et calculer les quatre opérations</p>
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Mathématiques
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=mathematiques
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-237@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:CM1-CM2
+CONTACT:
+DESCRIPTION:<p>Apprendre les mots de vocabulaire.</p>\n<p>Réécouter les pag
+ es 10 et 11 des albums de Lily et Charlie.</p>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:English
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=english
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-136@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:Ecole
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150921T183000
+DTEND;TZID=Europe/Paris:20150921T193000
+SEQUENCE:0
+SUMMARY:Réunion de rentrée CE2-CM1 (Nadège)
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-ce2-
+ cm1-nadege
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-137@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:Ecole
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150921T200000
+DTEND;TZID=Europe/Paris:20150921T210000
+SEQUENCE:0
+SUMMARY:Réunion de rentrée PS
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-ps
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-138@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:Ecole
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150922T183000
+DTEND;TZID=Europe/Paris:20150922T193000
+SEQUENCE:0
+SUMMARY:Réunion de rentrée CE1 (Anne et Delphine)
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-ce1-
+ anne-et-delphine
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-139@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:Ecole
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150928T200000
+DTEND;TZID=Europe/Paris:20150928T210000
+SEQUENCE:0
+SUMMARY:Réunion de rentrée GS (Véronique)
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-gs-v
+ eronique
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-140@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:Ecole
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150929T200000
+DTEND;TZID=Europe/Paris:20150929T210000
+SEQUENCE:0
+SUMMARY:Réunion de rentrée MS (Véronique)
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-ms-v
+ eronique
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-141@boisdecene-stejeannedarc.fr
+DTSTAMP:20150920T002357Z
+CATEGORIES;LANGUAGE=fr-FR:Ecole
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151004T110000
+DTEND;TZID=Europe/Paris:20151004T120000
+LOCATION:Eglise La Garnache
+SEQUENCE:0
+SUMMARY:Célébration de rentrée de la catéchèse
+URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=celebration-de-rentree-
+ de-la-catechese
+END:VEVENT
+END:VCALENDAR

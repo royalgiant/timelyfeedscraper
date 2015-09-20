@@ -1,0 +1,1239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//209.200.231.190//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://business.gwu.edu
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-27948@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>25% Refund for On-Campus Mod 1 and Full Semester Courses</p>
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:25% Refund for On-Campus Mod 1 and Full Semester Courses
+URL:http://business.gwu.edu/event/25-refund-for-on-campus-mod-1-and-full-se
+ mester-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-34757@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Applications for the Winter 2016 Short Term Study Away Progr
+ am must be submitted no later than <strong>5 pm on Sunday\, September 20th
+ . </strong></p>\n<p>To start your application\, please visit the <a href='
+ http://business.gwu.edu/international-programs/study-abroad/short-term/'>S
+ hort Term Study Abroad</a> page and click on the program of your choice.</
+ p>
+DTSTART;VALUE=DATE:20150920
+DTEND;VALUE=DATE:20150921
+SEQUENCE:0
+SUMMARY:Application Deadline: Winter 2016\, Short Term Study Away Program
+URL:http://business.gwu.edu/event/application-deadline-winter-2016-short-te
+ rm-study-away-program/
+X-TAGS;LANGUAGE=en-US:2016\,Application\,G&amp\;EE\,Global MBA\,GMBA\,Study
+  Abroad\,Winter Semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27949@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Drop Mod 1 and Full Semester Courses with No Aca
+ demic Penalty</p>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:Last Day to Drop Mod 1 and Full Semester Courses with No Academic P
+ enalty
+URL:http://business.gwu.edu/event/last-day-to-drop-mod-1-and-full-semester-
+ courses-with-no-academic-penalty/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27954@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Start of 0% Refund for On-Campus and Online Mod 1 and Full S
+ emester Courses</p>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150927
+SEQUENCE:0
+SUMMARY:Start of 0% Refund for On-Campus and Online Mod 1 and Full Semester
+  Courses
+URL:http://business.gwu.edu/event/start-of-0-refund-for-on-campus-mod-1-and
+ -full-semester-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27950@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Withdraw from Mod 1 Courses with Dean’s Approval
+ </p>
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151010
+SEQUENCE:0
+SUMMARY:Last Day to Withdraw from Mod 1 Courses with Dean’s Approval
+URL:http://business.gwu.edu/event/last-day-to-withdraw-from-mod-1-courses-w
+ ith-deans-approval/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32503@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+SEQUENCE:0
+SUMMARY:Colonial Cup – Sports League – Rowing
+URL:http://business.gwu.edu/event/colonial-cup-sports-league-rowing/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32502@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151013
+DTEND;VALUE=DATE:20151014
+SEQUENCE:0
+SUMMARY:Colonial Cup – Jazz Night
+URL:http://business.gwu.edu/event/colonial-cup-jazz-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27951@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Mod 1 Ends</p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151018
+SEQUENCE:0
+SUMMARY:Mod 1 Ends
+URL:http://business.gwu.edu/event/mod-1-ends/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27952@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Mod 1 MBA Finals Week</p>
+DTSTART;VALUE=DATE:20151019
+DTEND;VALUE=DATE:20151025
+SEQUENCE:0
+SUMMARY:Mod 1 MBA Finals Week
+URL:http://business.gwu.edu/event/mod-1-mba-finals-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27953@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Withdraw From Full Semester Courses with a ‘W’</
+ p>
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Last Day to Withdraw From Full Semester Courses with a ‘W’
+URL:http://business.gwu.edu/event/last-day-to-withdraw-from-full-semester-c
+ ourses-with-a-w/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27956@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>90% Refund for On-Campus and Online Mod 2 Courses</p>
+DTSTART;VALUE=DATE:20151026
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:90% Refund for On-Campus and Online Mod 2 Courses
+URL:http://business.gwu.edu/event/90-refund-for-on-campus-mod-2-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27955@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Mod 2 Begins</p>
+DTSTART;VALUE=DATE:20151026
+DTEND;VALUE=DATE:20151027
+SEQUENCE:0
+SUMMARY:Mod 2 Begins
+URL:http://business.gwu.edu/event/mod-2-begins/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27960@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>TENTATIVE Mod 2 Make-Up (Tuesday class)</p>
+DTSTART;VALUE=DATE:20151030
+DTEND;VALUE=DATE:20151031
+SEQUENCE:0
+SUMMARY:TENTATIVE Mod 2 Make-Up (Tuesday class)
+URL:http://business.gwu.edu/event/tentative-mod-2-make-up-tuesday-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-34761@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Applications for the Winter 2016 Short Term Study Away Progr
+ am must be submitted no later than <strong>5 pm on Sunday\, September 20th
+ . </strong></p>\n<p>To start your application\, please visit the <a href='
+ http://business.gwu.edu/international-programs/study-abroad/short-term/'>S
+ hort Term Study Abroad</a> page and click on the program of your choice.</
+ p>
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:Application Deadline: Spring Break 2016\, Short Term Study Away Pro
+ gram
+URL:http://business.gwu.edu/event/application-deadline-spring-break-2016-sh
+ ort-term-study-away-program/
+X-TAGS;LANGUAGE=en-US:2016\,Application\,G&amp\;EE\,Global MBA\,GMBA\,Sprin
+ g\,Study Abroad
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27961@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>60% Refund for On-Campus Mod 2 Courses</p>
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151109
+SEQUENCE:0
+SUMMARY:60% Refund for On-Campus Mod 2 Courses
+URL:http://business.gwu.edu/event/60-refund-for-on-campus-mod-2-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27957@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>90% Refund for Online Mod 2 Courses</p>
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151109
+SEQUENCE:0
+SUMMARY:90% Refund for Online Mod 2 Courses
+URL:http://business.gwu.edu/event/90-refund-for-online-mod-2-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27962@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>TENTATIVE Mod 2 Make-Up (Wednesday class)</p>
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151107
+SEQUENCE:0
+SUMMARY:TENTATIVE Mod 2 Make-Up (Wednesday class)
+URL:http://business.gwu.edu/event/tentative-mod-2-make-up-wednesday-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32505@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+SEQUENCE:0
+SUMMARY:Colonial Cup – Day of Service
+URL:http://business.gwu.edu/event/colonial-cup-day-of-service-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27963@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>40% Refund for On-Campus Mod 2 Courses</p>
+DTSTART;VALUE=DATE:20151109
+DTEND;VALUE=DATE:20151114
+SEQUENCE:0
+SUMMARY:40% Refund for On-Campus Mod 2 Courses
+URL:http://business.gwu.edu/event/40-refund-for-on-campus-mod-2-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27958@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>50% Refund for Online Mod 2 Courses</p>
+DTSTART;VALUE=DATE:20151109
+DTEND;VALUE=DATE:20151121
+SEQUENCE:0
+SUMMARY:50% Refund for Online Mod 2 Courses
+URL:http://business.gwu.edu/event/50-refund-for-online-mod-2-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32504@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151109
+DTEND;VALUE=DATE:20151110
+SEQUENCE:0
+SUMMARY:Alumni Roundtables
+URL:http://business.gwu.edu/event/alumni-roundtables/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27965@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>TENTATIVE Mod 2 Make-Up (Thursday class)</p>
+DTSTART;VALUE=DATE:20151113
+DTEND;VALUE=DATE:20151114
+SEQUENCE:0
+SUMMARY:TENTATIVE Mod 2 Make-Up (Thursday class)
+URL:http://business.gwu.edu/event/tentative-mod-2-make-up-thursday-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27966@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>25% Refund for On-Campus Mod 2 Courses</p>
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151121
+SEQUENCE:0
+SUMMARY:25% Refund for On-Campus Mod 2 Courses
+URL:http://business.gwu.edu/event/25-refund-for-on-campus-mod-2-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32507@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151115
+SEQUENCE:0
+SUMMARY:Colonial Cup – Sports League – Cricket
+URL:http://business.gwu.edu/event/colonial-cup-sports-league-cricket/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32506@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151118
+DTEND;VALUE=DATE:20151119
+SEQUENCE:0
+SUMMARY:1st year Town Hall with Dean Livingstone
+URL:http://business.gwu.edu/event/1st-year-town-hall-with-dean-livingstone/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32508@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151118
+DTEND;VALUE=DATE:20151119
+SEQUENCE:0
+SUMMARY:2nd year and PMBA Town Hall with Dean Livingstone
+URL:http://business.gwu.edu/event/2nd-year-and-pmba-town-hall-with-dean-liv
+ ingstone/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32509@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151120
+SEQUENCE:0
+SUMMARY:Thanksgiving Luncheon
+URL:http://business.gwu.edu/event/thanksgiving-luncheon/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-33599@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:<p>Thanksgiving Luncheon</p>
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151120
+SEQUENCE:0
+SUMMARY:Thanksgiving Luncheon
+URL:http://business.gwu.edu/event/thanksgiving-luncheon-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27968@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Drop Mod 2 Courses with No Academic Penalty</p>
+DTSTART;VALUE=DATE:20151120
+DTEND;VALUE=DATE:20151121
+SEQUENCE:0
+SUMMARY:Last Day to Drop Mod 2 Courses with No Academic Penalty
+URL:http://business.gwu.edu/event/last-day-to-drop-mod-2-courses-with-no-ac
+ ademic-penalty/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27967@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>TENTATIVE Mod 2 Make-Up (Thursday class)</p>
+DTSTART;VALUE=DATE:20151120
+DTEND;VALUE=DATE:20151121
+SEQUENCE:0
+SUMMARY:TENTATIVE Mod 2 Make-Up (Thursday class)
+URL:http://business.gwu.edu/event/tentative-mod-2-make-up-thursday-class-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27969@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Start of 0% Refund for On-Campus and Online Mod 2 Courses</p
+ >
+DTSTART;VALUE=DATE:20151121
+DTEND;VALUE=DATE:20151122
+SEQUENCE:0
+SUMMARY:Start of 0% Refund for On-Campus and Online Mod 2 Courses
+URL:http://business.gwu.edu/event/start-of-0-refund-for-on-campus-mod-2-cou
+ rses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27970@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:<p>Thanksgiving Break (no classes)</p>
+DTSTART;VALUE=DATE:20151125
+DTEND;VALUE=DATE:20151129
+SEQUENCE:0
+SUMMARY:Thanksgiving Break (no classes)
+URL:http://business.gwu.edu/event/thanksgiving-break-no-classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27971@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Withdraw from Full Semester Courses with Dean’s 
+ Approval</p>
+DTSTART;VALUE=DATE:20151127
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:Last Day to Withdraw from Full Semester Courses with Dean’s Approva
+ l
+URL:http://business.gwu.edu/event/last-day-to-withdraw-from-full-semester-c
+ ourses-with-deans-approval/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27972@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Withdraw from Mod 2 Courses with Dean’s Approval
+ </p>
+DTSTART;VALUE=DATE:20151127
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:Last Day to Withdraw from Mod 2 Courses with Dean’s Approval
+URL:http://business.gwu.edu/event/last-day-to-withdraw-from-mod-2-courses-w
+ ith-deans-approval/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27973@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>TENTATIVE Mod 2 Make-Up (Friday and Saturday classes)</p>
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151205
+SEQUENCE:0
+SUMMARY:TENTATIVE Mod 2 Make-Up (Friday and Saturday classes)
+URL:http://business.gwu.edu/event/tentative-mod-2-make-up-friday-and-saturd
+ ay-classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27974@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Semester Designated Thursday</p>
+DTSTART;VALUE=DATE:20151208
+DTEND;VALUE=DATE:20151209
+SEQUENCE:0
+SUMMARY:Semester Designated Thursday
+URL:http://business.gwu.edu/event/semester-designated-thursday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27976@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Semester and Mod 2 Ends</p>
+DTSTART;VALUE=DATE:20151209
+DTEND;VALUE=DATE:20151210
+SEQUENCE:0
+SUMMARY:Semester and Mod 2 Ends
+URL:http://business.gwu.edu/event/semester-and-mod-2-ends/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27975@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Reading Day</p>
+DTSTART;VALUE=DATE:20151210
+DTEND;VALUE=DATE:20151211
+SEQUENCE:0
+SUMMARY:Reading Day
+URL:http://business.gwu.edu/event/reading-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27978@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Final Examinations (Semester and Mod 2)</p>
+DTSTART;VALUE=DATE:20151211
+DTEND;VALUE=DATE:20151220
+SEQUENCE:0
+SUMMARY:Final Examinations (Semester and Mod 2)
+URL:http://business.gwu.edu/event/final-examinations-semester-and-mod-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27977@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Full Semester Saturday Class</p>
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151213
+SEQUENCE:0
+SUMMARY:Last Full Semester Saturday Class
+URL:http://business.gwu.edu/event/last-full-semester-saturday-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32511@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Healthcare MBA\,Professional MBA
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160109
+DTEND;VALUE=DATE:20160110
+SEQUENCE:0
+SUMMARY:PMBA/HCMBA Institute
+URL:http://business.gwu.edu/event/pmbahcmba-institute-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27979@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Drop Courses with 100% Refund</p>
+DTSTART;VALUE=DATE:20160110
+DTEND;VALUE=DATE:20160111
+SEQUENCE:0
+SUMMARY:Last Day to Drop Courses with 100% Refund
+URL:http://business.gwu.edu/event/last-day-to-drop-courses-with-100-refund-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27981@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>90% Refund for On-Campus and Online Mod 3 and Full Semester 
+ Courses</p>
+DTSTART;VALUE=DATE:20160111
+DTEND;VALUE=DATE:20160118
+SEQUENCE:0
+SUMMARY:90% Refund for On-Campus and Online Mod 3 and Full Semester Courses
+URL:http://business.gwu.edu/event/90-refund-for-on-campus-mod-3-and-full-se
+ mester-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27980@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Classes Begin (Semester and Mod 3)</p>
+DTSTART;VALUE=DATE:20160111
+DTEND;VALUE=DATE:20160112
+SEQUENCE:0
+SUMMARY:Classes Begin (Semester and Mod 3)
+URL:http://business.gwu.edu/event/classes-begin-semester-and-mod-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32512@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160112
+DTEND;VALUE=DATE:20160113
+SEQUENCE:0
+SUMMARY:Student Org Fair
+URL:http://business.gwu.edu/event/student-org-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27986@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>60% Refund for On-Campus Mod 3 and Full Semester Courses</p>
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160125
+SEQUENCE:0
+SUMMARY:60% Refund for On-Campus Mod 3 and Full Semester Courses
+URL:http://business.gwu.edu/event/60-refund-for-on-campus-mod-3-and-full-se
+ mester-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27982@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>90% Refund for Online Mod 3 and Full Semester Courses</p>
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160125
+SEQUENCE:0
+SUMMARY:90% Refund for Online Mod 3 and Full Semester Courses
+URL:http://business.gwu.edu/event/90-refund-for-online-mod-3-and-full-semes
+ ter-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27985@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:<p>Martin Luther King Jr. Day (No classes)</p>
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160119
+SEQUENCE:0
+SUMMARY:Martin Luther King Jr. Day (No classes)
+URL:http://business.gwu.edu/event/martin-luther-king-jr-day-no-classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32513@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Professional MBA
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160122
+DTEND;VALUE=DATE:20160123
+SEQUENCE:0
+SUMMARY:PMBA and Alumni Reception
+URL:http://business.gwu.edu/event/pmba-and-alumni-reception-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32025@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160122
+DTEND;VALUE=DATE:20160123
+SEQUENCE:0
+SUMMARY:Tentative Make-Up Day for Module 3 Monday Classes
+URL:http://business.gwu.edu/event/tentative-make-up-day-for-module-3-monday
+ -classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27987@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>40% Refund for On-Campus Mod 3 and Full Semester Courses</p>
+DTSTART;VALUE=DATE:20160125
+DTEND;VALUE=DATE:20160130
+SEQUENCE:0
+SUMMARY:40% Refund for On-Campus Mod 3 and Full Semester Courses
+URL:http://business.gwu.edu/event/40-refund-for-on-campus-mod-3-and-full-se
+ mester-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27983@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>50% Refund for Online Mod 3 and Full Semester Courses</p>
+DTSTART;VALUE=DATE:20160125
+DTEND;VALUE=DATE:20160206
+SEQUENCE:0
+SUMMARY:50% Refund for Online Mod 3 and Full Semester Courses
+URL:http://business.gwu.edu/event/50-refund-for-online-mod-3-and-full-semes
+ ter-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27988@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>25% Refund for On-Campus Mod 3 and Full Semester Courses</p>
+DTSTART;VALUE=DATE:20160130
+DTEND;VALUE=DATE:20160206
+SEQUENCE:0
+SUMMARY:25% Refund for On-Campus Mod 3 and Full Semester Courses
+URL:http://business.gwu.edu/event/25-refund-for-on-campus-mod-3-and-full-se
+ mester-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27989@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Drop Mod 3 and Full Semester Courses with No Aca
+ demic Penalty</p>
+DTSTART;VALUE=DATE:20160205
+DTEND;VALUE=DATE:20160206
+SEQUENCE:0
+SUMMARY:Last Day to Drop Mod 3 and Full Semester Courses with No Academic P
+ enalty
+URL:http://business.gwu.edu/event/last-day-to-drop-mod-3-and-full-semester-
+ courses-with-no-academic-penalty/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27990@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Start of 0% Refund for On-Campus and Online Mod 3 and Full S
+ emester Courses</p>
+DTSTART;VALUE=DATE:20160206
+DTEND;VALUE=DATE:20160207
+SEQUENCE:0
+SUMMARY:Start of 0% Refund for On-Campus and Online Mod 3 and Full Semester
+  Courses
+URL:http://business.gwu.edu/event/start-of-0-refund-for-on-campus-mod-3-and
+ -full-semester-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32514@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160207
+DTEND;VALUE=DATE:20160208
+SEQUENCE:0
+SUMMARY:Colonial Cup – Superbowl Party
+URL:http://business.gwu.edu/event/colonial-cup-superbowl-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32515@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160208
+DTEND;VALUE=DATE:20160209
+SEQUENCE:0
+SUMMARY:Chinese New Year Lunch
+URL:http://business.gwu.edu/event/chinese-new-year-lunch/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32516@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160213
+DTEND;VALUE=DATE:20160214
+SEQUENCE:0
+SUMMARY:Colonial Cup – Sports League – Valentine’s Iceskating
+URL:http://business.gwu.edu/event/colonial-cup-sports-league-valentines-ice
+ skating/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-33602@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160213
+DTEND;VALUE=DATE:20160214
+SEQUENCE:0
+SUMMARY:Colonial Cup- Sports League- Valentine’s Day Ice Skating
+URL:http://business.gwu.edu/event/colonial-cup-sports-league-valentines-day
+ -ice-skating/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27991@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:<p>Presidents Day (No classes)</p>
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SEQUENCE:0
+SUMMARY:Presidents Day (No classes)
+URL:http://business.gwu.edu/event/presidents-day-no-classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27992@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Withdraw from Mod 3 Courses with Dean’s Approval
+ </p>
+DTSTART;VALUE=DATE:20160219
+DTEND;VALUE=DATE:20160220
+SEQUENCE:0
+SUMMARY:Last Day to Withdraw from Mod 3 Courses with Dean’s Approval
+URL:http://business.gwu.edu/event/last-day-to-withdraw-from-mod-3-courses-w
+ ith-deans-approval/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32026@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160229
+DTEND;VALUE=DATE:20160301
+SEQUENCE:0
+SUMMARY:Module 3 Courses End
+URL:http://business.gwu.edu/event/module-3-courses-end/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32028@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160301
+DTEND;VALUE=DATE:20160308
+SEQUENCE:0
+SUMMARY:Module 3 Final Exams
+URL:http://business.gwu.edu/event/module-1-final-exams/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27993@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Withdraw From Full Semester Courses with a ‘W’</
+ p>
+DTSTART;VALUE=DATE:20160304
+DTEND;VALUE=DATE:20160305
+SEQUENCE:0
+SUMMARY:Last Day to Withdraw From Full Semester Courses with a ‘W’
+URL:http://business.gwu.edu/event/last-day-to-withdraw-from-full-semester-c
+ ourses-with-a-w-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32517@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160306
+DTEND;VALUE=DATE:20160307
+SEQUENCE:0
+SUMMARY:Colonial Cup – Day of Service
+URL:http://business.gwu.edu/event/colonial-cup-day-of-service-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32030@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160308
+DTEND;VALUE=DATE:20160315
+SEQUENCE:0
+SUMMARY:90% REFUND FOR ON-CAMPUS AND ONLINE MOD 4 COURSES
+URL:http://business.gwu.edu/event/90-refund-for-on-campus-and-online-mod-3-
+ courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32029@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160308
+DTEND;VALUE=DATE:20160309
+SEQUENCE:0
+SUMMARY:Module 4 Courses Start
+URL:http://business.gwu.edu/event/module-4-courses-start/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27994@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:<p>Spring Break (no classes) – March 14 – 19</p>
+DTSTART;VALUE=DATE:20160314
+DTEND;VALUE=DATE:20160320
+SEQUENCE:0
+SUMMARY:Spring Break (no classes) – March 14 – 19
+URL:http://business.gwu.edu/event/spring-break-no-classes-march-14-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32032@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160315
+DTEND;VALUE=DATE:20160321
+SEQUENCE:0
+SUMMARY:60% REFUND FOR ON-CAMPUS MOD 4 COURSES
+URL:http://business.gwu.edu/event/60-refund-for-on-campus-mod-4-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32031@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160315
+DTEND;VALUE=DATE:20160321
+SEQUENCE:0
+SUMMARY:90% REFUND FOR ONLINE MOD 4 COURSES
+URL:http://business.gwu.edu/event/90-refund-for-online-mod-4-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32033@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160321
+DTEND;VALUE=DATE:20160328
+SEQUENCE:0
+SUMMARY:40% REFUND FOR ON-CAMPUS MOD 4 COURSES
+URL:http://business.gwu.edu/event/40-refund-for-on-campus-mod-4-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32034@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160321
+DTEND;VALUE=DATE:20160404
+SEQUENCE:0
+SUMMARY:50% REFUND FOR ONLINE MOD 4 COURSES
+URL:http://business.gwu.edu/event/50-refund-for-online-mod-4-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32518@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160326
+DTEND;VALUE=DATE:20160327
+SEQUENCE:0
+SUMMARY:Colonial Cup Sports League – Kickball
+URL:http://business.gwu.edu/event/colonial-cup-sports-league-kickball/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32036@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160328
+DTEND;VALUE=DATE:20160404
+SEQUENCE:0
+SUMMARY:25% REFUND FOR ON-CAMPUS MOD 4 COURSES
+URL:http://business.gwu.edu/event/25-refund-for-on-campus-mod-4-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32037@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160401
+DTEND;VALUE=DATE:20160402
+SEQUENCE:0
+SUMMARY:LAST DAY TO DROP MOD 4 COURSES WITH NO ACADEMIC PENALTY
+URL:http://business.gwu.edu/event/last-day-to-drop-mod-4-courses-with-no-ac
+ ademic-penalty/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32038@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160404
+DTEND;VALUE=DATE:20160405
+SEQUENCE:0
+SUMMARY:Start of 0% Refund for On-Campus and Online Mod 4 Courses
+URL:http://business.gwu.edu/event/start-of-0-refund-for-on-campus-and-onlin
+ e-mod-4-courses/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32519@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays\,Student Enagement
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160409
+DTEND;VALUE=DATE:20160410
+SEQUENCE:0
+SUMMARY:Colonial Cup – Sports League – Cherry Blossom Picnic and Volleyball
+URL:http://business.gwu.edu/event/colonial-cup-sports-league-cherry-blossom
+ -picnic-and-volleyball/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32520@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160414
+DTEND;VALUE=DATE:20160415
+SEQUENCE:0
+SUMMARY:Alumni Roundtables
+URL:http://business.gwu.edu/event/alumni-roundtables-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27995@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Last Day to Withdraw from Full Semester Courses with Dean’s 
+ Approval</p>
+DTSTART;VALUE=DATE:20160415
+DTEND;VALUE=DATE:20160416
+SEQUENCE:0
+SUMMARY:Last Day to Withdraw from Full Semester Courses with Dean’s Approva
+ l
+URL:http://business.gwu.edu/event/last-day-to-withdraw-from-full-semester-c
+ ourses-with-deans-approval-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32521@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160421
+DTEND;VALUE=DATE:20160422
+SEQUENCE:0
+SUMMARY:Big Board Happy Hour
+URL:http://business.gwu.edu/event/big-board-happy-hour/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-33604@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Global MBA
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160421
+DTEND;VALUE=DATE:20160422
+SEQUENCE:0
+SUMMARY:Big Board Happy Hour
+URL:http://business.gwu.edu/event/big-board-happy-hour-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32040@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160422
+DTEND;VALUE=DATE:20160423
+SEQUENCE:0
+SUMMARY:Last Day to Withdraw from MOD 4 Courses with Dean’s Approval
+URL:http://business.gwu.edu/event/last-day-to-withdraw-from-mod-4-courses-w
+ ith-deans-approval/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32039@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160422
+DTEND;VALUE=DATE:20160423
+SEQUENCE:0
+SUMMARY:Tentative Make-Up Day for Module 4 Wednesday Classes
+URL:http://business.gwu.edu/event/tentative-make-up-day-for-module-4-wednes
+ day-classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32522@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Holidays
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160425
+DTEND;VALUE=DATE:20160426
+SEQUENCE:0
+SUMMARY:Finals Snacks
+URL:http://business.gwu.edu/event/finals-snacks/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27996@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Semester Ends</p>
+DTSTART;VALUE=DATE:20160425
+DTEND;VALUE=DATE:20160426
+SEQUENCE:0
+SUMMARY:Semester Ends
+URL:http://business.gwu.edu/event/semester-ends/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27997@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Semester Make-Up Day</p>
+DTSTART;VALUE=DATE:20160426
+DTEND;VALUE=DATE:20160427
+SEQUENCE:0
+SUMMARY:Semester Make-Up Day
+URL:http://business.gwu.edu/event/semester-make-up-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27999@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Semester Designated Monday</p>
+DTSTART;VALUE=DATE:20160427
+DTEND;VALUE=DATE:20160428
+SEQUENCE:0
+SUMMARY:Semester Designated Monday
+URL:http://business.gwu.edu/event/semester-designated-monday-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-27998@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Final Examinations (Semester and Mod 4) – May 2 – 10</p>
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160511
+SEQUENCE:0
+SUMMARY:Final Examinations (Semester and Mod 4)
+URL:http://business.gwu.edu/event/final-examinations-semester-and-mod-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32041@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+SEQUENCE:0
+SUMMARY:Module 4 Courses End
+URL:http://business.gwu.edu/event/module-4-courses-end/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32042@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160503
+DTEND;VALUE=DATE:20160510
+SEQUENCE:0
+SUMMARY:Module 4 Final Exams
+URL:http://business.gwu.edu/event/module-4-final-exams/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32523@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Global MBA
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160509
+DTEND;VALUE=DATE:20160510
+SEQUENCE:0
+SUMMARY:GMBA Celebration Brunch
+URL:http://business.gwu.edu/event/gmba-celebration-brunch/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-28000@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Student Enagement
+CONTACT:
+DESCRIPTION:<p>Commencement Weekend</p>
+DTSTART;VALUE=DATE:20160513
+DTEND;VALUE=DATE:20160516
+SEQUENCE:0
+SUMMARY:Commencement Weekend
+URL:http://business.gwu.edu/event/commencement-weekend-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-32524@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Healthcare MBA
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160514
+DTEND;VALUE=DATE:20160515
+SEQUENCE:0
+SUMMARY:Online/Healthcare MBA Celebration Brunch
+URL:http://business.gwu.edu/event/onlinehealthcare-mba-celebration-brunch/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-28001@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Academic Dates
+CONTACT:
+DESCRIPTION:<p>Spring Degree Conferral</p>
+DTSTART;VALUE=DATE:20160515
+DTEND;VALUE=DATE:20160516
+SEQUENCE:0
+SUMMARY:Spring Degree Conferral
+URL:http://business.gwu.edu/event/spring-degree-conferral-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-35060@business.gwu.edu
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:Student Enagement
+CONTACT:
+DESCRIPTION:<p>Join us for lunch with Jenny Burns from Honest Tea.</p>\n<p>
+ Come learn about CSR\, or “mission” work and marketing behind Honest Tea!<
+ /p>
+DTSTART;TZID=America/New_York:20150923T120000
+DTEND;TZID=America/New_York:20150923T130000
+GEO:+38.898606;-77.049571
+LOCATION:Duques Hall\, Room 652 @ 2201 G St NW\, Washington\, DC 20037\, US
+ A
+SEQUENCE:0
+SUMMARY:Net Impact | Honest Tea Event
+URL:http://business.gwu.edu/event/net-impact-honest-tea-event/
+X-TAGS;LANGUAGE=en-US:2015\,Engagement\,Student Engagement
+END:VEVENT
+END:VCALENDAR

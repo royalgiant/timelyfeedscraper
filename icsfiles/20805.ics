@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//80.67.17.174//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://lkoldenburg.interseth.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-354@lkoldenburg.interseth.de
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Die letzte Tagung des Jahres 2015 findet in Leipzig statt.</
+ p>
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151109
+LOCATION:Leipzig
+SEQUENCE:0
+SUMMARY:SETh VV 2015-03
+URL:http://lkoldenburg.interseth.de/event/seth-vv-2015-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-355@lkoldenburg.interseth.de
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151122
+LOCATION:Ev. Bildungshaus Rastede
+SEQUENCE:0
+SUMMARY:Synode
+URL:http://lkoldenburg.interseth.de/event/synode/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-459@lkoldenburg.interseth.de
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Die erste Tagung des Jahres findet findet in Marburg statt.<
+ /p>
+DTSTART;VALUE=DATE:20160129
+DTEND;VALUE=DATE:20160201
+LOCATION:Marburg
+SEQUENCE:0
+SUMMARY:SETh 2016-01
+URL:http://lkoldenburg.interseth.de/event/seth-2016-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-356@lkoldenburg.interseth.de
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Diese Tagung wird sich mit dem Thema:<em> „Kirchenaustritte:
+  Gründe\, Chancen und Perspektiven“</em> beschäftigen.</p>
+DTSTART;VALUE=DATE:20160224
+DTEND;VALUE=DATE:20160227
+LOCATION:Ev. Bildungshaus Rastede
+SEQUENCE:0
+SUMMARY:Fühjahrstagung 2016
+URL:http://lkoldenburg.interseth.de/event/fuehjahrstagung-2016/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-461@lkoldenburg.interseth.de
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Die 2. Tagung des Jahres ist die ökumenische Tagung des SETh
+  mit der AGT in München!</p>
+DTSTART;VALUE=DATE:20160520
+DTEND;VALUE=DATE:20160523
+LOCATION:München
+SEQUENCE:0
+SUMMARY:Ökumenische Tagung SETh
+URL:http://lkoldenburg.interseth.de/event/oekumenische-tagung-seth/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-460@lkoldenburg.interseth.de
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Die Herbsttagung des Jahres findet wieder in Ahlhorn statt.<
+ /p>
+DTSTART;VALUE=DATE:20160921
+DTEND;VALUE=DATE:20160924
+LOCATION:Blockhaus Ahlhorn
+SEQUENCE:0
+SUMMARY:Herbsttagung 2016
+URL:http://lkoldenburg.interseth.de/event/herbsttagung-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-462@lkoldenburg.interseth.de
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Die Frühjahrstagung 2017 findet wieder in Rastede statt.</p>
+DTSTART;VALUE=DATE:20170315
+DTEND;VALUE=DATE:20170318
+LOCATION:EBZ Rastede
+SEQUENCE:0
+SUMMARY:Frühjahrstagung 2017
+URL:http://lkoldenburg.interseth.de/event/462/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-464@lkoldenburg.interseth.de
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Der 36. Deutsche Evangelische Kirchentage findet vom 24. bis
+  28. Mai 2017 voraussichtlich in Berlin und Wittenberg statt.</p>
+DTSTART;VALUE=DATE:20170524
+DTEND;VALUE=DATE:20170529
+LOCATION:Berlin & Wittenberg
+SEQUENCE:0
+SUMMARY:36. DEKT „Reformationsjubiläum“
+URL:http://lkoldenburg.interseth.de/event/36-dekt-reformationsjubilaeum/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-463@lkoldenburg.interseth.de
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Die Herbsttagung des Jahres findet wieder in Ahlhorn statt.<
+ /p>
+DTSTART;VALUE=DATE:20170913
+DTEND;VALUE=DATE:20170916
+LOCATION:Blockhaus Ahlhorn
+SEQUENCE:0
+SUMMARY:Herbsttagung 2017
+URL:http://lkoldenburg.interseth.de/event/herbsttagung-3/
+END:VEVENT
+END:VCALENDAR

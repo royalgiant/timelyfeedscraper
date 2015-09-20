@@ -1,0 +1,226 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//64.37.52.154//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.karatejutsukai.com
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-10264@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Social
+CONTACT:
+DESCRIPTION:<h4>Event details to be confirmed</h4>
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151213
+LOCATION:TBC
+SEQUENCE:0
+SUMMARY:Sedlescombe Christmas Event
+URL:http://www.karatejutsukai.com/event/sedlescombe-christmas-event
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-9919@www.pxpworld.com/kjkuk
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Karate
+CONTACT:Your club instructor
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/07/grading-300x225.jpg' 
+ width='300' height='225' /></div><p>Standard grading (up to and including 
+ those going for 5th Kyu (second yellow belt))</p>\n<p>Booking in at 0945</
+ p>\n<p>Grading starts at 1000 and finishes at 1130</p>\n<p> </p>\n<p>OSSU<
+ /p>
+DTSTART;TZID=Europe/London:20150920T094500
+DTEND;TZID=Europe/London:20150920T113000
+GEO:+50.988773;+0.606252
+LOCATION:Pretious Sports Hall @ Northiam CE Primary School\, Main Street\, 
+ Northiam\, Rye\, East Sussex TN31 6NB\, UK
+SEQUENCE:0
+SUMMARY:Standard Grading
+URL:http://www.karatejutsukai.com/event/standard-grading
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10336@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Social
+CONTACT:Shihan Cliff Bolt\; cb@karatejutsu.dk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/09/laser2-300x125.jpg' w
+ idth='300' height='125' /></div><h3>Family Laser Quest fun day</h3>\n<p>Th
+ e Club has booked for two games one at 2pm the second at 2.40pm.<br />\nDe
+ pending on number of people\, cost will be approximately £7 for the two ga
+ mes.</p>\n<p>Can all those who would like to join us please give your name
+  to book a place.</p>\n<p>Location: Lloyds Lane\, Broadwater Way\, Eastbou
+ rne\, East Sussex BN22 9PZ</p>
+DTSTART;TZID=Europe/London:20150926T140000
+DTEND;TZID=Europe/London:20150926T160000
+GEO:+50.792511;+0.279085
+LOCATION:Laser Quest @ Broadwater Way\, Eastbourne\, East Sussex BN22 9PW\,
+  UK
+SEQUENCE:0
+SUMMARY:Eastbourne/Hailsham Family Fun Day
+URL:http://www.karatejutsukai.com/event/eastbournehailsham-family-fun-day
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10333@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Karate
+CONTACT:Shihan Cliff Bolt\; cb@karatejutsu.dk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/09/mgardens2-300x225.jpg
+ ' width='300' height='225' /></div><h3>Theme:  Kata training</h3>\n<h4>Ope
+ n to ALL</h4>\n<h4>Training in T-shirts\, hoodies & training bottoms</h4>
+DTSTART;TZID=Europe/London:20151003T100000
+DTEND;TZID=Europe/London:20151003T120000
+GEO:+50.774264;+0.265126
+LOCATION:Motcombe Gardens @ Motcombe Ln\, Eastbourne\, East Sussex BN21\, U
+ K
+SEQUENCE:0
+SUMMARY:Outdoor Training – Eastbourne
+URL:http://www.karatejutsukai.com/event/outdoor-training-eastbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10149@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Karate
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/08/ashfordsquad-300x217.
+ jpg' width='300' height='217' /></div>
+DTSTART;TZID=Europe/London:20151011T093000
+DTEND;TZID=Europe/London:20151011T113000
+GEO:+51.145744;+0.878623
+LOCATION:Stour Centre @ Station Approach\, Ashford\, Kent TN23 1ET\, UK
+SEQUENCE:0
+SUMMARY:Squad Training Ashford
+URL:http://www.karatejutsukai.com/event/squad-training-ashford-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10150@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Karate\,Kickboxing\,Tournament
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/09/wealdtourn2015-213x30
+ 0.jpg' width='213' height='300' /></div><p>Annual Weald Tournament</p>\n<p
+ >Booking in will be from<strong> 8.15a.m.</strong> with the first category
+  starting as soon after <strong>9.00a.m.</strong> as possible. There are a
+ mple facilities for changing and showering.  As with last year\, there wil
+ l be a refreshments van in the school car park but please remind your memb
+ ers that food and drink cannot be consumed in the sports hall itself.  The
+ y may eat and drink in the playground or the corridor.  Also please impres
+ s upon your members that there is <strong>NO PARKING</strong> in the Sport
+ s Hall car park and they should park in the Surgery car park\, which is fr
+ ee\, and preferably not on the main road\, as the School is situated oppos
+ ite a road junction.</p>\n<p>Entries should be sent to <span class='gD'>MA
+ RILYN MARTIN</span> <span class='go'><marilynmartin53@btinternet.com>\, </
+ span>no later than <strong>Monday 13th October.</strong></p>
+DTSTART;TZID=Europe/London:20151024T081500
+GEO:+50.992054;+0.603638
+LOCATION:Pretious Sports Hall @ Main Street\, Northiam\, Rye\, East Sussex 
+ TN31\, UK
+SEQUENCE:0
+SUMMARY:Weald Tournament
+URL:http://www.karatejutsukai.com/event/weald-tournament
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10152@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Social
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/08/halloween-300x167.jpg
+ ' width='300' height='167' /></div><p>Details to be confirmed.</p>
+DTSTART;TZID=Europe/London:20151031T180000
+DTEND;TZID=Europe/London:20151031T223000
+LOCATION:TBC
+SEQUENCE:0
+SUMMARY:Junior Halloween Party Ashford
+URL:http://www.karatejutsukai.com/event/junior-halloween-party-ashford
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10335@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Karate
+CONTACT:Shihan Cliff Bolt\; cb@karatejutsu.dk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/09/mgardens2-300x225.jpg
+ ' width='300' height='225' /></div><h3>Theme- Fitness and Kumite</h3>\n<h4
+ >Open to ALL</h4>\n<h4>Training in T-shirts\, hoodies & training bottoms</
+ h4>
+DTSTART;TZID=Europe/London:20151101T100000
+DTEND;TZID=Europe/London:20151101T120000
+GEO:+50.774264;+0.265126
+LOCATION:Motcombe Gardens @ Motcombe Ln\, Eastbourne\, East Sussex BN21\, U
+ K
+SEQUENCE:0
+SUMMARY:Outdoor Training – Eastbourne
+URL:http://www.karatejutsukai.com/event/outdoor-training-eastbourne-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10154@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Karate
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/07/pregrading-300x225.jp
+ g' width='300' height='225' /></div><p>To be confirmed</p>
+DTSTART;TZID=Europe/London:20151115T094500
+DTEND;TZID=Europe/London:20151119T113000
+GEO:+50.988773;+0.606252
+LOCATION:Pretious Sports Hall @ Northiam CE Primary School\, Main Street\, 
+ Northiam\, Rye\, East Sussex TN31 6NB\, UK
+SEQUENCE:0
+SUMMARY:Standard & Intermediate Pre Grading
+URL:http://www.karatejutsukai.com/event/standard-intermediate-pre-grading
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10155@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Karate
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/07/grading-300x225.jpg' 
+ width='300' height='225' /></div><p>To be confirmed.</p>
+DTSTART;TZID=Europe/London:20151205T094500
+DTEND;TZID=Europe/London:20151205T113000
+GEO:+50.988773;+0.606252
+LOCATION:Pretious Sports Hall @ Northiam CE Primary School\, Main Street\, 
+ Northiam\, Rye\, East Sussex TN31 6NB\, UK
+SEQUENCE:0
+SUMMARY:Standard & Intermediate Grading
+URL:http://www.karatejutsukai.com/event/standard-intermediate-grading-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10158@www.karatejutsukai.com
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=en-US:Social
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.karatejutsukai.com/wp-content/uploads/2015/08/kidsxmas-300x225.jpg'
+  width='300' height='225' /></div><p>Full details to be confirmed.</p>
+DTSTART;TZID=Europe/London:20151221T170000
+LOCATION:Brabourne & Smeet Village Hall
+SEQUENCE:0
+SUMMARY:Junior Christmas Party Ashford
+URL:http://www.karatejutsukai.com/event/junior-christmas-party-ashford
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//65.254.238.128//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.danburybar.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-969@www.danburybar.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please save the date for our Annual Judge’s Reception to rec
+ ognize our local judges\, and discuss any changes to the Danbury J.D. Judi
+ cial Assignments which may take place this year. The location is to be Ann
+ ounced. For questions\, please contact one of our officers!</p>
+DTSTART;TZID=America/New_York:20151029T180000
+DTEND;TZID=America/New_York:20151029T210000
+SEQUENCE:0
+SUMMARY:October 29\, 2015 – Annual Judge’s Reception
+URL:http://www.danburybar.org/event/october-29-2015-annual-judges-reception
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-971@www.danburybar.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please save the date for our November Member’s Meeting which
+  will be held on November 12th\, at a location to be Announced. For questi
+ ons\, please contact one of our officers!</p>
+DTSTART;TZID=America/New_York:20151104T180000
+DTEND;TZID=America/New_York:20151104T210000
+SEQUENCE:0
+SUMMARY:November 12\, 2015 – Regular Membership Meeting
+URL:http://www.danburybar.org/event/november-12-2015-regular-membership-mee
+ ting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-970@www.danburybar.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:Leah F. Walsh\, DBA Treasurer\; 203-730-5080\; lwalsh@vrslaw.com\; 
+ http://vrslaw.com
+DESCRIPTION:<p>Please save the date for our Annual Danbury Bar Association 
+ Holiday Party which will be held on December 3rd\, at the beautiful Tarryw
+ ile Mansion. We are planning this year’s holiday party to include an eveni
+ ng of fun entertainment and a gourmet meal to remember. Please mark your c
+ alendars to be sure to join us for the wonderful winter event! For questio
+ ns\, please contact Leah F. Walsh using the Email Link above.</p>\n<p> </p
+ >\n<p>For information on Tarrywile Mansion\, please visit their website: h
+ ttp://tarrywile.com/</p>
+DTSTART;TZID=America/New_York:20151203T180000
+DTEND;TZID=America/New_York:20151203T210000
+GEO:+41.365213;-73.446217
+LOCATION:Tarrywile Mansion @ Brushy Hill Road\, Danbury\, CT 06810\, USA
+SEQUENCE:0
+SUMMARY:December 3\, 2015 – Annual DBA Holiday Party
+URL:http://www.danburybar.org/event/december-3-2015-annual-dba-holiday-part
+ y/
+X-COST:TBD
+END:VEVENT
+END:VCALENDAR

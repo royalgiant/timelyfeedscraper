@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//91.189.41.163//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.bertil.nu
+X-WR-TIMEZONE:Europe/Stockholm
+BEGIN:VTIMEZONE
+TZID:Europe/Stockholm
+X-LIC-LOCATION:Europe/Stockholm
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-9189@www.bertil.nu
+DTSTAMP:20150920T002158Z
+CATEGORIES;LANGUAGE=sv-SE:Marsch &amp\; möte
+CONTACT:
+DESCRIPTION:<div class='page-restrict-output'><h2>Kockar</h2>\n\n		<style typ
+ e='text/css'>\n			#gallery-1 {\n				margin: auto\;\n			}\n			#gallery-1 .gallery-item {
+ \n				float: left\;\n				margin-top: 10px\;\n				text-align: center\;\n				width: 25%\;\n			}
+ \n			#gallery-1 img {\n				border: 2px solid #cfcfcf\;\n			}\n			#gallery-1 .gallery-ca
+ ption {\n				margin-left: 0\;\n			}\n			/* see gallery_shortcode() in wp-includes/me
+ dia.php */\n		</style>\n		<div id='gallery-1' class='gallery galleryid-9454 ga
+ llery-columns-4 gallery-size-thumbnail'><dl class='gallery-item'>\n			<dt cla
+ ss='gallery-icon portrait'>\n				<a href='http://www.bertil.nu/vilka-vi-ar/sty
+ relsen/24-kryzzet/'><img width='41' height='53' src='http://www.bertil.nu/
+ wp-content/upLoads/24-Kryzzet-117x150.jpg' class='attachment-thumbnail' al
+ t='Kryzzet fungerar som ex libris (f d läskunnig).' aria-describedby='gall
+ ery-1-5653' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id=
+ 'gallery-1-5653'>\n				Kryzzet fungerar som ex libris (f d läskunnig).\n				</dd><
+ /dl><dl class='gallery-item'>\n			<dt class='gallery-icon portrait'>\n				<a href
+ ='http://www.bertil.nu/?attachment_id=5112'><img width='41' height='53' sr
+ c='http://www.bertil.nu/wp-content/upLoads/03-Vivoren-116x150.jpg' class='
+ attachment-thumbnail' alt='Vivören fungerar som brygg- och brygdmästare.' 
+ aria-describedby='gallery-1-5112' /></a>\n			</dt>\n				<dd class='wp-caption-tex
+ t gallery-caption' id='gallery-1-5112'>\n				Vivören fungerar som brygg- och b
+ rygdmästare.\n				</dd></dl><dl class='gallery-item'>\n			<dt class='gallery-icon
+  portrait'>\n				<a href='http://www.bertil.nu/?attachment_id=5119'><img width
+ ='42' height='53' src='http://www.bertil.nu/wp-content/upLoads/18A-Orerare
+ n-119x150.jpg' class='attachment-thumbnail' alt='Oreraren fungerar som för
+ eningens lingvale fantom.' aria-describedby='gallery-1-5119' /></a>\n			</dt>
+ \n				<dd class='wp-caption-text gallery-caption' id='gallery-1-5119'>\n				Orerar
+ en fungerar som föreningens lingvale fantom.\n				</dd></dl><dl class='gallery
+ -item'>\n			<dt class='gallery-icon portrait'>\n				<a href='http://www.bertil.nu
+ /?attachment_id=5115'><img width='42' height='53' src='http://www.bertil.n
+ u/wp-content/upLoads/09-Munskanken-119x150.jpg' class='attachment-thumbnai
+ l' alt='Munskänken fungerar som förmedlare av livets goda.' aria-described
+ by='gallery-1-5115' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-capt
+ ion' id='gallery-1-5115'>\n				Munskänken fungerar som förmedlare av livets go
+ da.\n				</dd></dl><br style='clear: both' />\n		</div>\n\n<h2>Servitörer</h2>\n
+ \n		<style type='text/css'>\n			#gallery-2 {\n				margin: auto\;\n			}\n			#gallery-2 .ga
+ llery-item {\n				float: left\;\n				margin-top: 10px\;\n				text-align: center\;\n				wid
+ th: 25%\;\n			}\n			#gallery-2 img {\n				border: 2px solid #cfcfcf\;\n			}\n			#gallery-2
+  .gallery-caption {\n				margin-left: 0\;\n			}\n			/* see gallery_shortcode() in wp
+ -includes/media.php */\n		</style>\n		<div id='gallery-2' class='gallery galle
+ ryid-9454 gallery-columns-4 gallery-size-thumbnail'><dl class='gallery-ite
+ m'>\n			<dt class='gallery-icon portrait'>\n				<a href='http://www.bertil.nu/?at
+ tachment_id=5114'><img width='42' height='53' src='http://www.bertil.nu/wp
+ -content/upLoads/05-Koksceremonimastaren-119x150.jpg' class='attachment-th
+ umbnail' alt='Köksceremonimästaren fungerar alldeles utmärkt.' aria-descri
+ bedby='gallery-2-5114' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-c
+ aption' id='gallery-2-5114'>\n				Köksceremonimästaren fungerar alldeles utmär
+ kt.\n				</dd></dl><dl class='gallery-item'>\n			<dt class='gallery-icon portrait
+ '>\n				<a href='http://www.bertil.nu/?attachment_id=5111'><img width='39' hei
+ ght='53' src='http://www.bertil.nu/wp-content/upLoads/02-Punghallaren-111x
+ 150.jpg' class='attachment-thumbnail' alt='Punghållaren fungerar som skatt
+ mästare och kassör.' aria-describedby='gallery-2-5111' /></a>\n			</dt>\n				<dd 
+ class='wp-caption-text gallery-caption' id='gallery-2-5111'>\n				Punghållaren
+  fungerar som skattmästare och kassör.\n				</dd></dl><dl class='gallery-item'
+ >\n			<dt class='gallery-icon portrait'>\n				<a href='http://www.bertil.nu/?atta
+ chment_id=5126'><img width='42' height='53' src='http://www.bertil.nu/wp-c
+ ontent/upLoads/26-Sven_Drufva-119x150.jpg' class='attachment-thumbnail' al
+ t='Sven Drufva fungerar som föreningens jämviktsekvilibrist.' aria-describ
+ edby='gallery-2-5126' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-ca
+ ption' id='gallery-2-5126'>\n				Sven Drufva fungerar som föreningens jämvikts
+ ekvilibrist.\n				</dd></dl>\n			<br style='clear: both' />\n		</div>\n\n<script ty
+ pe='text/javascript'> toolTips('.classtoolTips19'\,'<div id='attachment_51
+ 16' style='width: 130px' class='wp-caption aligncenter'><a href='http://ww
+ w.bertil.nu/wp-content/upLoads/14-fumadoren.jpg'><img class='size-thumbnai
+ l wp-image-5116' alt='Fumadoren fungerar förvillande.' src='http://www.ber
+ til.nu/wp-content/upLoads/14-fumadoren-120x150.jpg' width='120' height='15
+ 0' /></a><p class='wp-caption-text'>Fumadoren fungerar förvillande.</p></d
+ iv>')\; </script><script type='text/javascript'> toolTips('.classtoolTips2
+ 3'\,'<div id='attachment_5112' style='width: 126px' class='wp-caption alig
+ ncenter'><a href='http://www.bertil.nu/wp-content/upLoads/03-Vivoren.jpg'>
+ <img class='size-thumbnail wp-image-5112' alt='Vivören fungerar som brygg-
+  och brygdmästare.' src='http://www.bertil.nu/wp-content/upLoads/03-Vivore
+ n-116x150.jpg' width='116' height='150' /></a><p class='wp-caption-text'>V
+ ivören fungerar som brygg- och brygdmästare.</p></div>')\; </script><scrip
+ t type='text/javascript'> toolTips('.classtoolTips25'\,'<div id='attachmen
+ t_5110' style='width: 160px' class='wp-caption aligncenter'><a href='http:
+ //www.bertil.nu/wp-content/upLoads/01-Viking.jpg'><img class='size-thumbna
+ il wp-image-5110' alt='Viking fungerar som ordförande.' src='http://www.be
+ rtil.nu/wp-content/upLoads/01-Viking-150x119.jpg' width='150' height='119'
+  /></a><p class='wp-caption-text'>Viking fungerar som ordförande.</p></div
+ >')\; </script></div>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+SEQUENCE:0
+SUMMARY:Oktobermötet 2015
+URL:http://www.bertil.nu/event/oktobermotet-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-9190@www.bertil.nu
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=sv-SE:Marsch &amp\; möte
+CONTACT:
+DESCRIPTION:<div class='page-restrict-output'><h2>Kockar</h2>\n\n		<style typ
+ e='text/css'>\n			#gallery-3 {\n				margin: auto\;\n			}\n			#gallery-3 .gallery-item {
+ \n				float: left\;\n				margin-top: 10px\;\n				text-align: center\;\n				width: 25%\;\n			}
+ \n			#gallery-3 img {\n				border: 2px solid #cfcfcf\;\n			}\n			#gallery-3 .gallery-ca
+ ption {\n				margin-left: 0\;\n			}\n			/* see gallery_shortcode() in wp-includes/me
+ dia.php */\n		</style>\n		<div id='gallery-3' class='gallery galleryid-9454 ga
+ llery-columns-4 gallery-size-thumbnail'><dl class='gallery-item'>\n			<dt cla
+ ss='gallery-icon landscape'>\n				<a href='http://www.bertil.nu/vilka-vi-ar/ko
+ cklag-1/04-ankaret/'><img width='53' height='43' src='http://www.bertil.nu
+ /wp-content/upLoads/04-Ankaret-150x122.jpg' class='attachment-thumbnail' a
+ lt='Ankaret fungerar som mediumansvarig och föreningens ansikte (nåja) utå
+ t.' aria-describedby='gallery-3-5113' /></a>\n			</dt>\n				<dd class='wp-caption
+ -text gallery-caption' id='gallery-3-5113'>\n				Ankaret fungerar som mediuman
+ svarig och föreningens ansikte (nåja) utåt.\n				</dd></dl><dl class='gallery-
+ item'>\n			<dt class='gallery-icon portrait'>\n				<a href='http://www.bertil.nu/
+ ?attachment_id=5117'><img width='42' height='53' src='http://www.bertil.nu
+ /wp-content/upLoads/16-Idolen-120x150.jpg' class='attachment-thumbnail' al
+ t='Idolen fungerar förförande.' aria-describedby='gallery-3-5117' /></a>\n
+ 			</dt>\n				<dd class='wp-caption-text gallery-caption' id='gallery-3-5117'>\n				I
+ dolen fungerar förförande.\n				</dd></dl><dl class='gallery-item'>\n			<dt class
+ ='gallery-icon portrait'>\n				<a href='http://www.bertil.nu/?attachment_id=51
+ 27'><img width='40' height='53' src='http://www.bertil.nu/wp-content/upLoa
+ ds/27-Batsman-112x150.jpg' class='attachment-thumbnail' alt='Båtsman funge
+ rar som föreningens filmstjärnenamne & förtöjare.' aria-describedby='galle
+ ry-3-5127' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id='
+ gallery-3-5127'>\n				Båtsman fungerar som föreningens filmstjärnenamne & fört
+ öjare.\n				</dd></dl><dl class='gallery-item'>\n			<dt class='gallery-icon portr
+ ait'>\n				<a href='http://www.bertil.nu/?attachment_id=5128'><img width='42' 
+ height='53' src='http://www.bertil.nu/wp-content/upLoads/28-TinTin-120x150
+ .jpg' class='attachment-thumbnail' alt='TinTin fungerar som föreningens ir
+ oniker.' aria-describedby='gallery-3-5128' /></a>\n			</dt>\n				<dd class='wp-ca
+ ption-text gallery-caption' id='gallery-3-5128'>\n				TinTin fungerar som före
+ ningens ironiker.\n				</dd></dl><br style='clear: both' />\n		</div>\n\n<h2>Ser
+ vitörer</h2>\n\n		<style type='text/css'>\n			#gallery-4 {\n				margin: auto\;\n			}\n
+ 			#gallery-4 .gallery-item {\n				float: left\;\n				margin-top: 10px\;\n				text-align:
+  center\;\n				width: 25%\;\n			}\n			#gallery-4 img {\n				border: 2px solid #cfcfcf\;
+ \n			}\n			#gallery-4 .gallery-caption {\n				margin-left: 0\;\n			}\n			/* see gallery_sh
+ ortcode() in wp-includes/media.php */\n		</style>\n		<div id='gallery-4' class
+ ='gallery galleryid-9454 gallery-columns-4 gallery-size-thumbnail'><dl cla
+ ss='gallery-item'>\n			<dt class='gallery-icon portrait'>\n				<a href='http://ww
+ w.bertil.nu/vilka-vi-ar/kocklag-1/25-gps/'><img width='43' height='53' src
+ ='http://www.bertil.nu/wp-content/upLoads/25-GPS-121x150.jpg' class='attac
+ hment-thumbnail' alt='GPS (Ganska Packad Svensk) fungerar som föreningens 
+ navigator (riktkarl och förebild).' aria-describedby='gallery-4-5125' /></
+ a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id='gallery-4-5125'
+ >\n				GPS (Ganska Packad Svensk) fungerar som föreningens navigator (riktkarl
+  och förebild).\n				</dd></dl><dl class='gallery-item'>\n			<dt class='gallery-i
+ con landscape'>\n				<a href='http://www.bertil.nu/vilka-vi-ar/vilka-vi-ar-wid
+ get/01-viking/'><img width='53' height='42' src='http://www.bertil.nu/wp-c
+ ontent/upLoads/01-Viking-150x119.jpg' class='attachment-thumbnail' alt='Vi
+ king fungerar som ordförande.' aria-describedby='gallery-4-5110' /></a>\n			<
+ /dt>\n				<dd class='wp-caption-text gallery-caption' id='gallery-4-5110'>\n				Vi
+ king fungerar som ordförande.\n				</dd></dl><dl class='gallery-item'>\n			<dt cl
+ ass='gallery-icon portrait'>\n				<a href='http://www.bertil.nu/?attachment_id
+ =5116'><img width='42' height='53' src='http://www.bertil.nu/wp-content/up
+ Loads/14-fumadoren-120x150.jpg' class='attachment-thumbnail' alt='Fumadore
+ n fungerar förvillande.' aria-describedby='gallery-4-5116' /></a>\n			</dt>\n
+ 				<dd class='wp-caption-text gallery-caption' id='gallery-4-5116'>\n				Fumadore
+ n fungerar förvillande.\n				</dd></dl><dl class='gallery-item'>\n			<dt class='g
+ allery-icon portrait'>\n				<a href='http://www.bertil.nu/?attachment_id=5122'
+ ><img width='41' height='53' src='http://www.bertil.nu/wp-content/upLoads/
+ 22-Il_Dottore-117x150.jpg' class='attachment-thumbnail' alt='Il Dottore fu
+ ngerar fryntligt funderande.' aria-describedby='gallery-4-5122' /></a>\n			</
+ dt>\n				<dd class='wp-caption-text gallery-caption' id='gallery-4-5122'>\n				Il 
+ Dottore fungerar fryntligt funderande.\n				</dd></dl><br style='clear: both' 
+ /><dl class='gallery-item'>\n			<dt class='gallery-icon portrait'>\n				<a href='
+ http://www.bertil.nu/vilka-vi-ar/styrelsen/29-pinus/'><img width='45' heig
+ ht='53' src='http://www.bertil.nu/wp-content/upLoads/29-Pinus-127x150.jpg'
+  class='attachment-thumbnail' alt='P:r Pinus fungerar frimodigt frimicklan
+ de' aria-describedby='gallery-4-8260' /></a>\n			</dt>\n				<dd class='wp-caption
+ -text gallery-caption' id='gallery-4-8260'>\n				P:r Pinus fungerar frimodigt 
+ frimicklande \n				</dd></dl>\n			<br style='clear: both' />\n		</div>\n\n<p> </p>
+ \n<script type='text/javascript'> toolTips('.classtoolTips19'\,'<div id='a
+ ttachment_5116' style='width: 130px' class='wp-caption aligncenter'><a hre
+ f='http://www.bertil.nu/wp-content/upLoads/14-fumadoren.jpg'><img class='s
+ ize-thumbnail wp-image-5116' alt='Fumadoren fungerar förvillande.' src='ht
+ tp://www.bertil.nu/wp-content/upLoads/14-fumadoren-120x150.jpg' width='120
+ ' height='150' /></a><p class='wp-caption-text'>Fumadoren fungerar förvill
+ ande.</p></div>')\; </script><script type='text/javascript'> toolTips('.cl
+ asstoolTips23'\,'<div id='attachment_5112' style='width: 126px' class='wp-
+ caption aligncenter'><a href='http://www.bertil.nu/wp-content/upLoads/03-V
+ ivoren.jpg'><img class='size-thumbnail wp-image-5112' alt='Vivören fungera
+ r som brygg- och brygdmästare.' src='http://www.bertil.nu/wp-content/upLoa
+ ds/03-Vivoren-116x150.jpg' width='116' height='150' /></a><p class='wp-cap
+ tion-text'>Vivören fungerar som brygg- och brygdmästare.</p></div>')\; </s
+ cript><script type='text/javascript'> toolTips('.classtoolTips25'\,'<div i
+ d='attachment_5110' style='width: 160px' class='wp-caption aligncenter'><a
+  href='http://www.bertil.nu/wp-content/upLoads/01-Viking.jpg'><img class='
+ size-thumbnail wp-image-5110' alt='Viking fungerar som ordförande.' src='h
+ ttp://www.bertil.nu/wp-content/upLoads/01-Viking-150x119.jpg' width='150' 
+ height='119' /></a><p class='wp-caption-text'>Viking fungerar som ordföran
+ de.</p></div>')\; </script></div>
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151115
+SEQUENCE:0
+SUMMARY:Novembermötet 2015
+URL:http://www.bertil.nu/event/novembermotet-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-9191@www.bertil.nu
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=sv-SE:Barn &amp\; blomma
+CONTACT:
+DESCRIPTION:<div class='page-restrict-output'><script type='text/javascript
+ '> toolTips('.classtoolTips19'\,'<div id='attachment_5116' style='width: 1
+ 30px' class='wp-caption aligncenter'><a href='http://www.bertil.nu/wp-cont
+ ent/upLoads/14-fumadoren.jpg'><img class='size-thumbnail wp-image-5116' al
+ t='Fumadoren fungerar förvillande.' src='http://www.bertil.nu/wp-content/u
+ pLoads/14-fumadoren-120x150.jpg' width='120' height='150' /></a><p class='
+ wp-caption-text'>Fumadoren fungerar förvillande.</p></div>')\; </script><s
+ cript type='text/javascript'> toolTips('.classtoolTips23'\,'<div id='attac
+ hment_5112' style='width: 126px' class='wp-caption aligncenter'><a href='h
+ ttp://www.bertil.nu/wp-content/upLoads/03-Vivoren.jpg'><img class='size-th
+ umbnail wp-image-5112' alt='Vivören fungerar som brygg- och brygdmästare.'
+  src='http://www.bertil.nu/wp-content/upLoads/03-Vivoren-116x150.jpg' widt
+ h='116' height='150' /></a><p class='wp-caption-text'>Vivören fungerar som
+  brygg- och brygdmästare.</p></div>')\; </script><script type='text/javasc
+ ript'> toolTips('.classtoolTips25'\,'<div id='attachment_5110' style='widt
+ h: 160px' class='wp-caption aligncenter'><a href='http://www.bertil.nu/wp-
+ content/upLoads/01-Viking.jpg'><img class='size-thumbnail wp-image-5110' a
+ lt='Viking fungerar som ordförande.' src='http://www.bertil.nu/wp-content/
+ upLoads/01-Viking-150x119.jpg' width='150' height='119' /></a><p class='wp
+ -caption-text'>Viking fungerar som ordförande.</p></div>')\; </script></di
+ v>
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151213
+SEQUENCE:0
+SUMMARY:Nåbel fest 2015
+URL:http://www.bertil.nu/event/nabel-fest-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-9192@www.bertil.nu
+DTSTAMP:20150920T002159Z
+CATEGORIES;LANGUAGE=sv-SE:Marsch &amp\; möte
+CONTACT:
+DESCRIPTION:<div class='page-restrict-output'><h2>Kockar</h2>\n\n		<style typ
+ e='text/css'>\n			#gallery-5 {\n				margin: auto\;\n			}\n			#gallery-5 .gallery-item {
+ \n				float: left\;\n				margin-top: 10px\;\n				text-align: center\;\n				width: 25%\;\n			}
+ \n			#gallery-5 img {\n				border: 2px solid #cfcfcf\;\n			}\n			#gallery-5 .gallery-ca
+ ption {\n				margin-left: 0\;\n			}\n			/* see gallery_shortcode() in wp-includes/me
+ dia.php */\n		</style>\n		<div id='gallery-5' class='gallery galleryid-9454 ga
+ llery-columns-4 gallery-size-thumbnail'><dl class='gallery-item'>\n			<dt cla
+ ss='gallery-icon portrait'>\n				<a href='http://www.bertil.nu/?attachment_id=
+ 5114'><img width='42' height='53' src='http://www.bertil.nu/wp-content/upL
+ oads/05-Koksceremonimastaren-119x150.jpg' class='attachment-thumbnail' alt
+ ='Köksceremonimästaren fungerar alldeles utmärkt.' aria-describedby='galle
+ ry-5-5114' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id='
+ gallery-5-5114'>\n				Köksceremonimästaren fungerar alldeles utmärkt.\n				</dd></
+ dl><dl class='gallery-item'>\n			<dt class='gallery-icon portrait'>\n				<a href=
+ 'http://www.bertil.nu/?attachment_id=5111'><img width='39' height='53' src
+ ='http://www.bertil.nu/wp-content/upLoads/02-Punghallaren-111x150.jpg' cla
+ ss='attachment-thumbnail' alt='Punghållaren fungerar som skattmästare och 
+ kassör.' aria-describedby='gallery-5-5111' /></a>\n			</dt>\n				<dd class='wp-ca
+ ption-text gallery-caption' id='gallery-5-5111'>\n				Punghållaren fungerar so
+ m skattmästare och kassör.\n				</dd></dl><dl class='gallery-item'>\n			<dt class
+ ='gallery-icon portrait'>\n				<a href='http://www.bertil.nu/?attachment_id=51
+ 26'><img width='42' height='53' src='http://www.bertil.nu/wp-content/upLoa
+ ds/26-Sven_Drufva-119x150.jpg' class='attachment-thumbnail' alt='Sven Druf
+ va fungerar som föreningens jämviktsekvilibrist.' aria-describedby='galler
+ y-5-5126' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id='g
+ allery-5-5126'>\n				Sven Drufva fungerar som föreningens jämviktsekvilibrist.
+ \n				</dd></dl>\n			<br style='clear: both' />\n		</div>\n\n<h2>Servitörer</h2>\n
+ \n		<style type='text/css'>\n			#gallery-6 {\n				margin: auto\;\n			}\n			#gallery-6 .ga
+ llery-item {\n				float: left\;\n				margin-top: 10px\;\n				text-align: center\;\n				wid
+ th: 25%\;\n			}\n			#gallery-6 img {\n				border: 2px solid #cfcfcf\;\n			}\n			#gallery-6
+  .gallery-caption {\n				margin-left: 0\;\n			}\n			/* see gallery_shortcode() in wp
+ -includes/media.php */\n		</style>\n		<div id='gallery-6' class='gallery galle
+ ryid-9454 gallery-columns-4 gallery-size-thumbnail'><dl class='gallery-ite
+ m'>\n			<dt class='gallery-icon portrait'>\n				<a href='http://www.bertil.nu/vil
+ ka-vi-ar/styrelsen/24-kryzzet/'><img width='41' height='53' src='http://ww
+ w.bertil.nu/wp-content/upLoads/24-Kryzzet-117x150.jpg' class='attachment-t
+ humbnail' alt='Kryzzet fungerar som ex libris (f d läskunnig).' aria-descr
+ ibedby='gallery-6-5653' /></a>\n			</dt>\n				<dd class='wp-caption-text gallery-
+ caption' id='gallery-6-5653'>\n				Kryzzet fungerar som ex libris (f d läskunn
+ ig).\n				</dd></dl><dl class='gallery-item'>\n			<dt class='gallery-icon portrai
+ t'>\n				<a href='http://www.bertil.nu/?attachment_id=5112'><img width='41' he
+ ight='53' src='http://www.bertil.nu/wp-content/upLoads/03-Vivoren-116x150.
+ jpg' class='attachment-thumbnail' alt='Vivören fungerar som brygg- och bry
+ gdmästare.' aria-describedby='gallery-6-5112' /></a>\n			</dt>\n				<dd class='wp
+ -caption-text gallery-caption' id='gallery-6-5112'>\n				Vivören fungerar som 
+ brygg- och brygdmästare.\n				</dd></dl><dl class='gallery-item'>\n			<dt class='
+ gallery-icon portrait'>\n				<a href='http://www.bertil.nu/?attachment_id=5119
+ '><img width='42' height='53' src='http://www.bertil.nu/wp-content/upLoads
+ /18A-Oreraren-119x150.jpg' class='attachment-thumbnail' alt='Oreraren fung
+ erar som föreningens lingvale fantom.' aria-describedby='gallery-6-5119' /
+ ></a>\n			</dt>\n				<dd class='wp-caption-text gallery-caption' id='gallery-6-51
+ 19'>\n				Oreraren fungerar som föreningens lingvale fantom.\n				</dd></dl><dl cl
+ ass='gallery-item'>\n			<dt class='gallery-icon portrait'>\n				<a href='http://w
+ ww.bertil.nu/?attachment_id=5115'><img width='42' height='53' src='http://
+ www.bertil.nu/wp-content/upLoads/09-Munskanken-119x150.jpg' class='attachm
+ ent-thumbnail' alt='Munskänken fungerar som förmedlare av livets goda.' ar
+ ia-describedby='gallery-6-5115' /></a>\n			</dt>\n				<dd class='wp-caption-text 
+ gallery-caption' id='gallery-6-5115'>\n				Munskänken fungerar som förmedlare 
+ av livets goda.\n				</dd></dl><br style='clear: both' />\n		</div>\n\n<script t
+ ype='text/javascript'> toolTips('.classtoolTips19'\,'<div id='attachment_5
+ 116' style='width: 130px' class='wp-caption aligncenter'><a href='http://w
+ ww.bertil.nu/wp-content/upLoads/14-fumadoren.jpg'><img class='size-thumbna
+ il wp-image-5116' alt='Fumadoren fungerar förvillande.' src='http://www.be
+ rtil.nu/wp-content/upLoads/14-fumadoren-120x150.jpg' width='120' height='1
+ 50' /></a><p class='wp-caption-text'>Fumadoren fungerar förvillande.</p></
+ div>')\; </script><script type='text/javascript'> toolTips('.classtoolTips
+ 23'\,'<div id='attachment_5112' style='width: 126px' class='wp-caption ali
+ gncenter'><a href='http://www.bertil.nu/wp-content/upLoads/03-Vivoren.jpg'
+ ><img class='size-thumbnail wp-image-5112' alt='Vivören fungerar som brygg
+ - och brygdmästare.' src='http://www.bertil.nu/wp-content/upLoads/03-Vivor
+ en-116x150.jpg' width='116' height='150' /></a><p class='wp-caption-text'>
+ Vivören fungerar som brygg- och brygdmästare.</p></div>')\; </script><scri
+ pt type='text/javascript'> toolTips('.classtoolTips25'\,'<div id='attachme
+ nt_5110' style='width: 160px' class='wp-caption aligncenter'><a href='http
+ ://www.bertil.nu/wp-content/upLoads/01-Viking.jpg'><img class='size-thumbn
+ ail wp-image-5110' alt='Viking fungerar som ordförande.' src='http://www.b
+ ertil.nu/wp-content/upLoads/01-Viking-150x119.jpg' width='150' height='119
+ ' /></a><p class='wp-caption-text'>Viking fungerar som ordförande.</p></di
+ v>')\; </script></div>
+DTSTART;VALUE=DATE:20160109
+DTEND;VALUE=DATE:20160110
+SEQUENCE:0
+SUMMARY:Januarimötet 2016
+URL:http://www.bertil.nu/event/januarimotet-2016/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,352 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//37.218.254.107//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.tischtennis-in-rostock.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-7061@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150928
+LOCATION:Wesselburen
+SEQUENCE:0
+SUMMARY:Norddeutsche Rangliste Schüler B
+URL:http://www.tischtennis-in-rostock.de/event/norddeutsche-rangliste-schue
+ ler-b/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7063@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:Jens Hamborg\; http://www.ssv-langenhagen.de/index.php?id=115
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151026
+GEO:+52.44055;+9.74269
+LOCATION:Turnhalle des Schulzentrums Langenhagen @ Konrad-Adenauer-Straße 2
+ 1\, 30853 Langenhagen\, Deutschland
+SEQUENCE:0
+SUMMARY:24. Offene Langenhagener Stadtmeisterschaft
+URL:http://www.tischtennis-in-rostock.de/event/24-offene-langenhagener-stad
+ tmeisterschaft/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7059@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:info.tt.lehrgang@gmail.com
+DESCRIPTION:<p>Trainerteam:</p>\n<ul>\n<li>Lennart Wehking (A-Lizenz\, Nr.1
+ 5 in Deutschland)</li>\n<li>Daniel Ringleb (A-Lizenz\, Regionalliga)</li>
+ \n<li>Gianluca Walther (B-Lizenz\, 3.Bundesliga)</li>\n<li>Anton Adler (Ab
+ wehrspieler\, Regionalliga)</li>\n<li>weitere Trainer mit entsprechender K
+ lasse und Lehrgangserfahrung</li>\n<li>Fitness-Trainer</li>\n</ul>\n<p>Anr
+ eise: Sonntag\, 27.03.2016<br />\nAbreise: Freitag\, 01.04.2016 ab Mittag<
+ br />\nTrainingszeiten: Mo.-Fr. 09:00 – 12:30 Uhr und Mo-Do. 14:30 – 17:00
+  Uhr</p>\n<p>Hier geht’s zum <a href='http://www.tischtennis-in-rostock.de
+ /wp-content/uploads/2015/09/Anmeldebogen-TT-Lehrgang.docx'>Anmeldebogen fü
+ r den TT-Lehrgang auf Amrum</a>.</p>
+DTSTART;VALUE=DATE:20160328
+DTEND;VALUE=DATE:20160402
+GEO:+54.663715;+8.333599
+LOCATION:Turnhalle der Öömrang Skuul @ Amrum\, Deutschland
+SEQUENCE:0
+SUMMARY:Tischtennis Lehrgang auf Amrum (Anmeldung bis 10.10.2015!)
+URL:http://www.tischtennis-in-rostock.de/event/tischtennis-lehrgang-auf-amr
+ um-anmeldung-bis-10-10-2015/
+X-COST:1.199 €
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7024@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=177&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150920T100000
+GEO:+54.072211;+12.128534
+LOCATION:Sporthalle Berufliche Schule Wirtschaft @ Erich-Schlesinger-Straße
+ \, 18059 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Süd 6 – Lok 2 (BL)
+URL:http://www.tischtennis-in-rostock.de/event/sued-6-lok-2-bl/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7008@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=1566&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150921T183000
+GEO:+54.072211;+12.128534
+LOCATION:Sporthalle Berufliche Schule Wirtschaft @ Erich-Schlesinger-Straße
+ \, 18059 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Süd 8 – Süd 9 (SL)
+URL:http://www.tischtennis-in-rostock.de/event/sued-8-sued-9-sl/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7004@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=1566&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150921T190000
+SEQUENCE:0
+SUMMARY:Rövershagen 1 – Süd 7 (SL)
+URL:http://www.tischtennis-in-rostock.de/event/roevershagen-1-sued-7-sl/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7013@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=1571&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150922T193000
+GEO:+54.093465;+12.117454
+LOCATION:Sporthalle 603 @ Warnowufer 56\, 18057 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Hafen 2 – Süd 10 (SK1)
+URL:http://www.tischtennis-in-rostock.de/event/hafen-2-sued-10-sk1/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7014@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=1571&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150924T183000
+GEO:+54.072211;+12.128534
+LOCATION:Sporthalle Berufliche Schule Wirtschaft @ Erich-Schlesinger-Straße
+ \, 18059 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Süd 12 – Süd 10 (SK1)
+URL:http://www.tischtennis-in-rostock.de/event/sued-12-sued-10-sk1/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7035@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=1534&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150926T100000
+GEO:+54.31909;+13.07806
+LOCATION:Turnhalle Förderzentrum 'L.-Steinwich' @ An den Bleichen 27\, 1843
+ 5 Stralsund\, Deutschland
+SEQUENCE:0
+SUMMARY:Medizin Stralsund – Süd (LL Schüler A)
+URL:http://www.tischtennis-in-rostock.de/event/medizin-stralsund-sued-ll-sc
+ hueler-a/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7033@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://dttb.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupP
+ age?championship=RL-OL+Nord+15%2F16&group=250592
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150926T110000
+GEO:+54.072211;+12.128534
+LOCATION:Sporthalle Berufliche Schule Wirtschaft @ Erich-Schlesinger-Straße
+ \, 18059 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Süd 1 – Spandau (OL)
+URL:http://www.tischtennis-in-rostock.de/event/sued-1-spandau-ol/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7031@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150926T140000
+GEO:+54.124623;+12.055118
+LOCATION:Sporthalle Evershagen @ Thomas-Morus-Straße\, 18106 Rostock\, Deut
+ schland
+SEQUENCE:0
+SUMMARY:Nord-West 1 – Süd 4 (VL)
+URL:http://www.tischtennis-in-rostock.de/event/nord-west-1-sued-4-vl/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7025@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=177&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T100000
+GEO:+54.31909;+13.07806
+LOCATION:Turnhalle Förderzentrum 'L.-Steinwich'	 @ An den Bleichen 27\, 1843
+ 5 Stralsund\, Deutschland
+SEQUENCE:0
+SUMMARY:Medizin Stralsund 2 – Süd 6 (BL)
+URL:http://www.tischtennis-in-rostock.de/event/medizin-stralsund-2-sued-6-b
+ l/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7030@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=173&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T100000
+GEO:+54.072211;+12.128534
+LOCATION:Sporthalle Berufliche Schule Wirtschaft @ Erich-Schlesinger-Straße
+ \, 18059 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Süd 2 – Süd 3 (VL)
+URL:http://www.tischtennis-in-rostock.de/event/sued-2-sued-3-vl/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7028@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=175&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T100000
+GEO:+54.072211;+12.128534
+LOCATION:Sporthalle Berufliche Schule Wirtschaft @ Erich-Schlesinger-Straße
+ \, 18059 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Süd 5 – Anklam 1 (LL)
+URL:http://www.tischtennis-in-rostock.de/event/sued-5-anklam-1-ll/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7034@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://dttb.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupP
+ age?championship=RL-OL+Nord+15%2F16&group=250592
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150927T110000
+GEO:+53.664597;+10.073731
+LOCATION:Sporthalle am Heinrich-Heine-Gymnasium	 @ Harksheider Straße 70\, 2
+ 2399 Hamburg\, Deutschland
+SEQUENCE:0
+SUMMARY:Poppenbüttel 1 – Süd 1 (OL)
+URL:http://www.tischtennis-in-rostock.de/event/poppenbuettel-1-sued-1-ol/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7006@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=1566&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150928T183000
+GEO:+54.072211;+12.128534
+LOCATION:Sporthalle Berufliche Schule Wirtschaft @ Erich-Schlesinger-Straße
+ \, 18059 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Süd 7 – Hafen 1 (SL)
+URL:http://www.tischtennis-in-rostock.de/event/sued-7-hafen-1-sl/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7017@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150929T193000
+GEO:+54.158005;+12.076812
+LOCATION:Sporthalle Groß Klein @ Sprengmeisterweg\, 18109 Rostock\, Deutsch
+ land
+SEQUENCE:0
+SUMMARY:Warnow 3 – Süd 12 (SK1)
+URL:http://www.tischtennis-in-rostock.de/event/warnow-3-sued-12-sk1/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7009@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=1566&srq=&c_t=
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150930T183000
+GEO:+54.102492;+12.17161
+LOCATION:Turnhalle der 4. Gesamtschule Dierkow @ Kurt-Schumacher-Ring 160\,
+  18146 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Warnow 1 – Süd 8 (SL)
+URL:http://www.tischtennis-in-rostock.de/event/warnow-1-sued-8-sl/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7055@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:Peter Kuchling
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151002T160000
+GEO:+54.072378;+12.12838
+LOCATION:Sporthalle der Beruflichen Schule Wirtschaft @ Erich-Schlesinger-S
+ traße 37A\, 18059 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Rostocker Stadtmeisterschaften Schüler C & A
+URL:http://www.tischtennis-in-rostock.de/event/rostocker-stadtmeisterschaft
+ en-schueler-c/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7056@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:Peter Kuchling
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151002T180000
+GEO:+54.072378;+12.12838
+LOCATION:Sporthalle der Beruflichen Schule Wirtschaft @ Erich-Schlesinger-S
+ traße 37A\, 18059 Rostock\, Deutschland
+SEQUENCE:0
+SUMMARY:Rostocker Stadtmeisterschaften Schüler B & Jugend
+URL:http://www.tischtennis-in-rostock.de/event/rostocker-stadtmeisterschaft
+ en-schueler-b-jugend/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7027@www.tischtennis-in-rostock.de
+DTSTAMP:20150920T002413Z
+CATEGORIES:
+CONTACT:http://tt-info.de/tt-online.cgi?akt=1006&spk_nummer=175&srq=&c_t=
+DESCRIPTION:<p>Info: Das Spiel wurde vom 20.9. auf den 8.11. verlegt.</p>
+DTSTART;TZID=Europe/Berlin:20151108T100000
+GEO:+52.33157;+9.801186
+LOCATION:Neue Turnhalle der Regionalschule @ Gundelachweg 45\, 30519 Hannov
+ er\, Deutschland
+SEQUENCE:0
+SUMMARY:Ferdinandshof 1 – Süd 5 (LL)
+URL:http://www.tischtennis-in-rostock.de/event/ferdinandshof-1-sued-5-ll/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.254.190.17//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://wheatleylibrary.org
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-543@wheatleylibrary.org
+DTSTAMP:20150920T002335Z
+CATEGORIES;LANGUAGE=en-GB:Events
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i0.wp.com/wheatleylibrary.org/wp-content/uploads/2014/12/knitting_yarn_
+ needles_blue.png?fit=300%2C300' width='' height='' /></div><p>Bring a proj
+ ect to work on or let us help you find a new one!  All crafts and abilitie
+ s welcome.</p>\n<p>Small charge for refreshments only.</p>\n<div style='cl
+ ear:both\;'></div>
+DTSTART;TZID=Europe/London:20150921T100000
+DTEND;TZID=Europe/London:20150921T120000
+EXDATE;TZID=Europe/London:20150831T100000
+EXDATE;TZID=Europe/London:20151026T100000
+LOCATION:Wheatley Library
+RRULE:FREQ=WEEKLY;UNTIL=20151220T235959Z;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Craft Group
+URL:http://wheatleylibrary.org/event/craft-group-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:qd0bdg1s03m6515e8t6c3nlbu4@google.com
+DTSTAMP:20150920T002335Z
+CATEGORIES;LANGUAGE=en-GB:Events
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/wheatleylibrary.org/wp-content/uploads/2014/12/teapot_blue.pn
+ g?fit=300%2C300' width='' height='' /></div><div style='clear:both\;'></di
+ v>
+DTSTART;TZID=Europe/London:20151007T100000
+DTEND;TZID=Europe/London:20151007T120000
+RRULE:FREQ=MONTHLY;UNTIL=20151202T235959Z;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:Coffee Morning
+URL:http://wheatleylibrary.org/event/coffee-morning-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-544@wheatleylibrary.org
+DTSTAMP:20150920T002335Z
+CATEGORIES;LANGUAGE=en-GB:Events
+CONTACT:Anne\; 07710-474472\; craft@wheatleylibrary.org
+DESCRIPTION:<p>Bring a project to work on or let us help you find a new one
+ !  All crafts and abilities welcome.</p>\n<p>Small charge for refreshments
+  only.</p>\n<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/London:20151012T190000
+DTEND;TZID=Europe/London:20151012T210000
+LOCATION:Wheatley Library
+RRULE:FREQ=MONTHLY;COUNT=3;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:Craft Group – evening session
+URL:http://wheatleylibrary.org/event/craft-group-evening-session/
+END:VEVENT
+END:VCALENDAR

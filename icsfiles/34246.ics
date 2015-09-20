@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//94.102.13.100//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://kongreajandam.matematik.us
+X-WR-TIMEZONE:Europe/Istanbul
+BEGIN:VTIMEZONE
+TZID:Europe/Istanbul
+X-LIC-LOCATION:Europe/Istanbul
+BEGIN:STANDARD
+DTSTART:20151025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+RDATE:20160327T030000
+TZNAME:EEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-48@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim
+CONTACT:Dr. Fatih Kana\; 0 530 692 0750\; fatihkana@gmail.com\; http://ulea
+ d2015.ulead.org.tr/
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/07/5.-Uluslararası-Eğitimde-Araştırmalar-Kongresi-ICRE2015.jpeg'><i
+ mg class='alignnone size-full wp-image-49' src='http://kongreajandam.matem
+ atik.us/wp-content/uploads/2015/07/5.-Uluslararası-Eğitimde-Araştırmalar-K
+ ongresi-ICRE2015.jpeg' alt='5. Uluslararası Eğitimde Araştırmalar Kongresi
+  ICRE2015' width='1245' height='533' /></a></p>
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151011
+GEO:+41.641264;+26.615635
+LOCATION:Trakya Üniversitesi @ Trakya Üniversitesi\, 22030 İskender Köyü/Ed
+ irne Merkez/Edirne\, Türkiye
+SEQUENCE:0
+SUMMARY:5. Uluslararası Eğitimde Araştırmalar Kongresi – ICRE 2015
+URL:http://kongreajandam.matematik.us/event/5-uluslararasi-egitimde-arastir
+ malar-kongresi-icre-2015/
+X-TAGS;LANGUAGE=tr-TR:eğitim
+X-COST:100 Euro - 85 Euro
+X-TICKETS-URL:http://ulead2015.ulead.org.tr/index/sayfa/313/kongre-katilim-
+ ucreti
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-44@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim\,İlkokul Eğitimi
+CONTACT:Arş. Gör. Mehmet Hayri SARI\; 0 384 2281000 Dahili: 21020\; ilkokul
+ egitimi2015@gmail.com\; http://icpe.nevsehir.edu.tr/
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/07/III.-International-Conference-on-Primary-Education-2015.jpg'><im
+ g class='alignnone size-full wp-image-45' src='http://kongreajandam.matema
+ tik.us/wp-content/uploads/2015/07/III.-International-Conference-on-Primary
+ -Education-2015.jpg' alt='III. International Conference on Primary Educati
+ on 2015' width='960' height='273' /></a></p>
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151011
+GEO:+38.674348;+34.744741
+LOCATION:Nevşehir Hacı Bektaş Veli Üniversitesi Eğitim Fakültesi @ 2000 Evl
+ er Mahallesi\, Nevşehir Hacı Bektaş Veli Üniversitesi\, Nevşehir Fakülte Y
+ olu\, 50300 Nevşehir Merkez/Nevşehir\, Türkiye
+SEQUENCE:0
+SUMMARY:III. International Conference on Primary Education 2015
+URL:http://kongreajandam.matematik.us/event/iii-international-conference-on
+ -primary-education-2015/
+X-TAGS;LANGUAGE=tr-TR:ilkokul eğitimi
+X-COST:200 TL - 250 TL
+X-TICKETS-URL:http://icpe.nevsehir.edu.tr/tr/kayit-ve-odeme
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-71@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim
+CONTACT:ace@iafor.org\; http://iafor.org/conferences/ace2015/
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/08/ace2015.jpg'><img class='alignnone size-full wp-image-72' src='h
+ ttp://kongreajandam.matematik.us/wp-content/uploads/2015/08/ace2015.jpg' a
+ lt='ace2015' width='960' height='181' /></a></p>\n<p>Abstract Submission D
+ eadline: <strong>August 20\, 2015</strong></p>\n<p>Registration Deadline f
+ or Presenters: <strong>September 20\, 2015</strong></p>
+DTSTART;VALUE=DATE:20151021
+DTEND;VALUE=DATE:20151026
+GEO:+34.690083;+135.195511
+LOCATION:Art Center of Kobe\, Kobe\, Japan @ Kobe\, Hyōgo ili\, Japonya
+SEQUENCE:0
+SUMMARY:The Asian Conference on Education 2015 ACE2015
+URL:http://kongreajandam.matematik.us/event/the-asian-conference-on-educati
+ on-2015-ace2015/
+X-TAGS;LANGUAGE=tr-TR:ACE2015\,Asian Conference\,Education
+X-COST:40\,000 JPY - 55\,000 JPY
+X-TICKETS-URL:http://iafor.org/ace2015-registration/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-73@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim
+CONTACT:acset@iafor.org\; http://iafor.org/conferences/acset2015/
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/08/acset2015.jpg'><img class='alignnone size-full wp-image-74' src=
+ 'http://kongreajandam.matematik.us/wp-content/uploads/2015/08/acset2015.jp
+ g' alt='acset2015' width='960' height='181' /></a></p>\n<p>Abstract Submis
+ sion Deadline: <strong>August 20\, 2015</strong></p>\n<p>Registration Dead
+ line for Presenters: <strong>September 20\, 2015</strong></p>\n<p> </p>
+DTSTART;VALUE=DATE:20151021
+DTEND;VALUE=DATE:20151026
+GEO:+34.690083;+135.195511
+LOCATION:Art Center of Kobe\, Kobe\, Japan @ Kobe\, Hyōgo ili\, Japonya
+SEQUENCE:0
+SUMMARY:The Asian Conference on Society\, Education & Technology 2015
+URL:http://kongreajandam.matematik.us/event/the-asian-conference-on-society
+ -education-technology-2015/
+X-TAGS;LANGUAGE=tr-TR:Asian Conference\,Education\,Society\,Technology
+X-COST:40\,000 JPY - 55\,000 JPY
+X-TICKETS-URL:http://iafor.org/acset2015-registration/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-50@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim
+CONTACT:Amasya Univeristy Technology Faculty Amasya Turkey\; +905063059613\
+ ; info@ideal-konferans.net\; http://www.ideal-konferans.net/
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/07/II.-International-Dynamic-Explorative-and-Active-Learning-IDEAL-
+ Conference.png'><img class='alignnone size-full wp-image-51' src='http://k
+ ongreajandam.matematik.us/wp-content/uploads/2015/07/II.-International-Dyn
+ amic-Explorative-and-Active-Learning-IDEAL-Conference.png' alt='II. Intern
+ ational Dynamic\, Explorative and Active Learning (IDEAL) Conference' widt
+ h='981' height='193' /></a></p>\n<p><!--more--></p>\n<table width='100%'>
+ \n<tbody>\n<tr>\n<td>Abstract Submission</td>\n<td>August 1st 2015 <strong
+ >(extended)</strong></td>\n</tr>\n<tr>\n<td>Notification of Acceptance/Rej
+ ection</td>\n<td>August 15th 2015</td>\n</tr>\n<tr>\n<td>Early Registratio
+ n</td>\n<td>September 1st</td>\n</tr>\n<tr>\n<td>Full Paper Submission</td
+ >\n<td>September 1st</td>\n</tr>\n<tr>\n<td>Announcement of Symposium Prog
+ ramme</td>\n<td>October 1st 2015</td>\n</tr>\n<tr>\n<td><b>Symposium Date<
+ /b></td>\n<td><b>November 5th – 7th 2015</b></td>\n</tr>\n</tbody>\n</tabl
+ e>\n<p>*Deadlines time: By midnight – 23:59 GMT+2 Istanbul Time Zone</p>
+DTSTART;VALUE=DATE:20151105
+DTEND;VALUE=DATE:20151108
+GEO:+40.65358;+35.805729
+LOCATION:Amasya University Education Faculty @ Akbilek Mahallesi\, Amasya E
+ ğitim Fakültesi\, 05100 Amasya Merkez/Amasya\, Türkiye
+SEQUENCE:0
+SUMMARY:II. International Dynamic\, Explorative and Active Learning (IDEAL)
+  Conference
+URL:http://kongreajandam.matematik.us/event/ii-international-dynamic-explor
+ ative-and-active-learning-ideal-conference/
+X-COST:$150 - $200
+X-TICKETS-URL:http://www.ideal-konferans.net/registration/registration-and-
+ payment
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-34@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim\,Matematik Eğitimi
+CONTACT:Sally Smith\; +44 (0) 1993 885 036.\; sally_smith@wolfram.com\; htt
+ ps://www.computerbasedmath.org/events/maths-education-summit-2015/register
+ .cgi
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/07/logo.png'><img class='alignnone size-full wp-image-35' src='http
+ ://kongreajandam.matematik.us/wp-content/uploads/2015/07/logo.png' alt='lo
+ go' width='538' height='147' /></a></p>
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151121
+GEO:+51.509584;-0.142308
+LOCATION:21 Albemarle St @ The Royal Institution of Great Britain\, 21 Albe
+ marle Street\, Mayfair\, London W1S 4BS\, İngiltere
+SEQUENCE:0
+SUMMARY:The Computer-Based Maths (CBM) Education Summit
+URL:http://kongreajandam.matematik.us/event/the-computer-based-maths-cbm-ed
+ ucation-summit/
+X-TAGS;LANGUAGE=tr-TR:bilgisayar destekli matematik eğitimi\,cbm\,Matematik
+  eğitimi\,wolfram
+X-COST:£295
+X-TICKETS-URL:https://www.computerbasedmath.org/events/maths-education-summ
+ it-2015/register.cgi
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-77@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim\,Psikoloji
+CONTACT:icep.conf@gmail.com\; http://tw-knowledge.org/icep
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/08/ICEP2016.png'><img class=' size-full wp-image-78 aligncenter' sr
+ c='http://kongreajandam.matematik.us/wp-content/uploads/2015/08/ICEP2016.p
+ ng' alt='ICEP2016' width='300' height='150' /></a></p>\n<p>Abstract/Paper 
+ submission due: October 1\, 2015<br />\nNotification of acceptance/rejecti
+ on: 3 weeks after submission<br />\nEarly registration deadline for ALL (a
+ uthors and non-authors): November 10\, 2015<br />\nUpload final version of
+  manuscript due: November 25\, 2015<br />\nAuthors registration deadline f
+ or papers to be included in the program and proceedings: November 25\, 201
+ 5<br />\nTentative conference program announcement: December 1\, 2015</p>
+ \n<p> </p>
+DTSTART;VALUE=DATE:20160113
+DTEND;VALUE=DATE:20160116
+GEO:+25.072497;+121.523919
+LOCATION:Taipei\, Taiwan @ Section 3\, Zhongshan North Road & Zhongshan Bri
+ dge\, Zhongshan District\, Taipei City\, Tayvan 104
+SEQUENCE:0
+SUMMARY:2016 Taiwan International Conference on Education and Psychology (I
+ CEP 2016)
+URL:http://kongreajandam.matematik.us/event/2016-taiwan-international-confe
+ rence-on-education-and-psychology-icep-2016/
+X-COST:US$400 - US$450
+X-TICKETS-URL:http://192.169.244.28/icep2016/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-68@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim\,Eğitim Teknolojileri\,Üniversite Eğitimi
+CONTACT:inted2016@iated.org\; http://iated.org/inted/
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/08/INTED2016.jpg'><img class='alignnone size-full wp-image-69' src=
+ 'http://kongreajandam.matematik.us/wp-content/uploads/2015/08/INTED2016.jp
+ g' alt='INTED2016' width='970' height='150' /></a></p>\n<p>Please\, rememb
+ er the following important dates:</p>\n<p>Abstract Submission Deadline: 3r
+ d of December\, 2015. (included) (*)<br />\nNotification of Acceptance/Rej
+ ection: December 28th\, 2015.<br />\nFinal Paper Submission Deadline: Janu
+ ary 21st\, 2016. (included) (*)<br />\nRegistration deadline for authors: 
+ January 21st\, 2016. (included) (*)<br />\nConference Dates: Valencia (Spa
+ in)\, March 7th-8th-9th\, 2016.</p>
+DTSTART;VALUE=DATE:20160307
+DTEND;VALUE=DATE:20160309
+GEO:+39.49484;-0.40117
+LOCATION:Hotel Meliá Valencia @ Avenida de las Cortes Valencianas\, 52\, 46
+ 015 València\, Valencia\, İspanya
+SEQUENCE:0
+SUMMARY:10th annual International Technology\, Education and Development Co
+ nference (INTED2016)
+URL:http://kongreajandam.matematik.us/event/10th-annual-international-techn
+ ology-education-and-development-conference-inted2016/
+X-COST:260 € - 570 €
+X-TICKETS-URL:http://iated.org/inted/registration
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-52@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim\,Eğitim Teknolojileri
+CONTACT:Jenny Chow\; +1-617-229-6820 (USA)\; iceit@asr.org  \; http://www.a
+ sr.org
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/07/iceit2016.png'><img class='alignnone size-full wp-image-54' src=
+ 'http://kongreajandam.matematik.us/wp-content/uploads/2015/07/iceit2016.pn
+ g' alt='iceit2016' width='254' height='58' /></a></p>\n<table border='0' w
+ idth='100%'>\n<tbody>\n<tr>\n<td bgcolor='#5BC0DE' height='39'><b><span st
+ yle='color: #ac2925\; font-family: Verdana\;'>Submission Deadline:</span><
+ /b></td>\n<td bgcolor='#5BC0DE' height='39'><b><span style='color: #ac2925
+ \; font-family: Verdana\;'>November 5\, 2015</span></b></td>\n</tr>\n<tr>
+ \n<td bgcolor='#A6E1EC' height='36'><b><span style='font-family: Verdana\;
+ '>Notification Date:</span></b></td>\n<td bgcolor='#A6E1EC' height='36'><b
+ ><span style='font-family: Verdana\;'>On November 30\, 2015</span></b></td
+ >\n</tr>\n<tr>\n<td bgcolor='#D9EDF7' height='36'><b><span style='font-fam
+ ily: Verdana\;'>Registration Deadline:</span></b></td>\n<td bgcolor='#D9ED
+ F7' height='36'><b><span style='font-family: Verdana\;'>December 15\, 2015
+ </span></b></td>\n</tr>\n<tr>\n<td bgcolor='#E1EDF7'><b><span style='font-
+ family: Verdana\;'>Conference Dates:</span></b></td>\n<td bgcolor='#E1EDF7
+ '><b><span style='font-family: Verdana\;'>March 17-18\, 2016</span></b></t
+ d>\n</tr>\n</tbody>\n</table>
+DTSTART;VALUE=DATE:20160317
+DTEND;VALUE=DATE:20160319
+LOCATION:Paris\, France
+SEQUENCE:0
+SUMMARY:5th International Conference on Educational and Information Technol
+ ogy (ICEIT 2016)
+URL:http://kongreajandam.matematik.us/event/5th-international-conference-on
+ -educational-and-information-technology-iceit-2016/
+X-COST:500 USD
+X-TICKETS-URL:http://www.iceit.org/reg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-39@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Çocuk Gelişimi\,Sağlık Bilimleri
+CONTACT:Öğr. Gör. Özlem KAYHAN\; 0506-276-12-86\; okayhan@pau.edu.tr\; http
+ ://www.kadincocuksagligiveegitimkongresi.org/
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/07/1.-Uluslararası-Kadın-Çocuk-Sağlığı-ve-Eğitimi-Kongresi.jpg'><im
+ g class='alignnone size-full wp-image-40' src='http://kongreajandam.matema
+ tik.us/wp-content/uploads/2015/07/1.-Uluslararası-Kadın-Çocuk-Sağlığı-ve-E
+ ğitimi-Kongresi.jpg' alt='1. Uluslararası Kadın Çocuk Sağlığı ve Eğitimi K
+ ongresi' width='640' height='307' /></a></p>
+DTSTART;VALUE=DATE:20160414
+DTEND;VALUE=DATE:20160416
+GEO:+41.013657;+28.902736
+LOCATION:Polis Eğitim ve Kongre Merkezi
+SEQUENCE:0
+SUMMARY:1. Uluslararası Kadın Çocuk Sağlığı ve Eğitimi Kongresi
+URL:http://kongreajandam.matematik.us/event/1-uluslararasi-kadin-cocuk-sagl
+ igi-ve-egitimi-kongresi/
+X-TAGS;LANGUAGE=tr-TR:çocuk gelişimi\,Çocuk Sağlığı\,Eğitimi\,Kadın
+X-COST:400 TL - 450 TL
+X-TICKETS-URL:http://www.kadincocuksagligiveegitimkongresi.org/icerik/kadin
+ -cocuk-sagligi-ve-egitimi-kongresi/kayit-ve-konaklama.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-46@kongreajandam.matematik.us
+DTSTAMP:20150920T003050Z
+CATEGORIES;LANGUAGE=tr-TR:Eğitim\,Fen Eğitimi\,Matematik Eğitimi\,Teknoloji
+  Eğitimi
+CONTACT:Assist. Prof. Dr. S. Ahmet KIRAY\; +90 532 592 02 19\; icemstoffice
+ @gmail.com\; http://www.icemst.com/
+DESCRIPTION:<p><a href='http://kongreajandam.matematik.us/wp-content/upload
+ s/2015/07/icemst2016.png'><img class='alignnone size-full wp-image-47' src
+ ='http://kongreajandam.matematik.us/wp-content/uploads/2015/07/icemst2016.
+ png' alt='icemst2016' width='900' height='154' /></a></p>
+DTSTART;VALUE=DATE:20160519
+DTEND;VALUE=DATE:20160523
+GEO:+37.016667;+27.266667
+LOCATION:Turgutreis\, Bodrum\, Muğla - Türkiye  @ Turgutreis\, Bahçelievler
+  Mahallesi\, 48960 Turgutreis Belediyesi/Bodrum/Muğla\, Türkiye
+SEQUENCE:0
+SUMMARY:International Conference on Education in Mathematics\, Science & Te
+ chnology (ICEMST) 2016
+URL:http://kongreajandam.matematik.us/event/international-conference-on-edu
+ cation-in-mathematics-science-technology-icemst-2016/
+X-TAGS;LANGUAGE=tr-TR:fen eğitimi\,icemst\,Matematik eğitimi\,teknoloji eği
+ timi
+X-COST:$ 250 - $ 300 - $ 350
+X-TICKETS-URL:http://www.icemst.com/registration_fee.htm?rnd=491934593
+END:VEVENT
+END:VCALENDAR

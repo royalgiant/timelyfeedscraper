@@ -1,0 +1,375 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.236.157.21//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.ville-yutz.fr
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-803@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Environnement
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /Capture-d’écran-2015-09-18-à-15.25.24.png'><img class='size-full wp-image
+ -825 aligncenter' src='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /Capture-d’écran-2015-09-18-à-15.25.24.png' alt='Capture d’écran 2015-09-1
+ 8 à 15.25.24' width='870' height='1235' /></a></p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151005
+LOCATION:Aéroparc - Yutz
+SEQUENCE:0
+SUMMARY:La Nature n’en fait qu’à sa tête !
+URL:http://www.ville-yutz.fr/event/la-nature-nen-fait-qua-sa-tete/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-828@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Economie
+CONTACT:
+DESCRIPTION:<p>Organisée par Yutz’actif</p>
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151008
+GEO:+49.362443;+6.198123
+LOCATION:Avenue des Nations\, Yutz\, France
+SEQUENCE:0
+SUMMARY:Braderie
+URL:http://www.ville-yutz.fr/event/braderie/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-600@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:
+DESCRIPTION:<p><img class='aligncenter size-large wp-image-601' src='http:/
+ /www.ville-yutz.fr/wp-content/uploads/2015/08/savary-2015-724x1024.jpg' al
+ t='savary-2015' width='724' height='1024' /></p>
+DTSTART;TZID=Europe/Paris:20150919T140000
+DTEND;TZID=Europe/Paris:20150927T180000
+LOCATION:Maison des Bains
+SEQUENCE:0
+SUMMARY:Exposition Suzanne Savary
+URL:http://www.ville-yutz.fr/event/exposition-suzanne-savary/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-809@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Sport
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /Fête-de-cheval.jpg'><img class='size-full wp-image-810 aligncenter' src='
+ http://www.ville-yutz.fr/wp-content/uploads/2015/09/Fête-de-cheval.jpg' al
+ t='Fête de cheval' width='678' height='960' /></a></p>
+DTSTART;TZID=Europe/Paris:20150920T100000
+DTEND;TZID=Europe/Paris:20150920T180000
+GEO:+49.357493;+6.212148
+LOCATION:Centre Yutz Equitation @ 13 Rue de Poitiers\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Fête du cheval à Yutz équitation
+URL:http://www.ville-yutz.fr/event/fete-du-cheval-a-yutz-equitation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-784@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /2015-09-20-fete-de-quartier-2015.jpg'><img class='size-full wp-image-785 
+ aligncenter' src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/2015
+ -09-20-fete-de-quartier-2015.jpg' alt='2015-09-20 fete de quartier 2015' w
+ idth='3508' height='4961' /></a></p>
+DTSTART;TZID=Europe/Paris:20150920T120000
+DTEND;TZID=Europe/Paris:20150920T180000
+GEO:+49.346343;+6.182926
+LOCATION:Rue du Vieux Bourg\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Fête de quartier – Associations de Haute-Yutz / CLCV
+URL:http://www.ville-yutz.fr/event/fete-de-quartier-associations-de-haute-y
+ utz-clcv/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-786@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /Flyer-Rdv-Automne1-1.jpg'><img class='size-full wp-image-788 aligncenter'
+  src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/Flyer-Rdv-Automn
+ e1-1.jpg' alt='Flyer-Rdv-Automne.pptx' width='2250' height='3000' /></a></
+ p>
+DTSTART;TZID=Europe/Paris:20150920T120000
+GEO:+49.349597;+6.184604
+LOCATION:Rue de Bourgogne\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Rendez-vous de l’automne de l’association YAQ’A (Yutz Association Q
+ uartier Ambanie)
+URL:http://www.ville-yutz.fr/event/rendez-vous-de-lautomne-de-lassociation-
+ yaqa-yutz-association-quartier-ambanie/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-596@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Commémoration
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150920T113000
+LOCATION:Parvis Eglise St-Nicolas
+SEQUENCE:0
+SUMMARY:Commémoration de la St-Michel
+URL:http://www.ville-yutz.fr/event/commemoration-de-la-st-michel/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-598@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:
+DESCRIPTION:<p><img class='aligncenter size-large wp-image-599' src='http:/
+ /www.ville-yutz.fr/wp-content/uploads/2015/08/harmonie-sept15-724x1024.jpg
+ ' alt='harmonie-sept15' width='724' height='1024' /></p>
+DTSTART;TZID=Europe/Paris:20150920T150000
+DTEND;TZID=Europe/Paris:20150920T180000
+LOCATION:Salle Bestien
+SEQUENCE:0
+SUMMARY:Concert de l’Harmonie municipale
+URL:http://www.ville-yutz.fr/event/concert-de-lharmonie-municipale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-763@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Santé\,Solidarité
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /Conférence-apnées-du-sommeil.jpg'><img class='size-full wp-image-764 alig
+ ncenter' src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/Conféren
+ ce-apnées-du-sommeil.jpg' alt='Conférence apnées du sommeil' width='3378' 
+ height='4836' /></a></p>
+DTSTART;TZID=Europe/Paris:20150923T200000
+LOCATION:Salle Bestien
+SEQUENCE:0
+SUMMARY:Conférence sur le syndrome d’apnées du sommeil
+URL:http://www.ville-yutz.fr/event/conference-sur-le-syndrome-dapnees-du-so
+ mmeil/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-602@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:
+DESCRIPTION:<p><img class='aligncenter size-full wp-image-514' src='http://
+ www.ville-yutz.fr/wp-content/uploads/2015/07/TIMBO-MEHRSTEIN.jpg' alt='TIM
+ BO-MEHRSTEIN' width='720' height='477' /></p>
+DTSTART;TZID=Europe/Paris:20150925T200000
+LOCATION:Salle Bestien
+SEQUENCE:0
+SUMMARY:Concert Timbo Merhstein
+URL:http://www.ville-yutz.fr/event/concert-timbo-merhstein/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-789@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Solidarité
+CONTACT:
+DESCRIPTION:<p>Deux parcours seront proposés aux participants : parcours ad
+ apté 5km et 10 km (départ échelonnés de 7h à 14h)<br />\nBuvette\, casse-c
+ roûtes et repas chaud seront assurés au point de départ.<br />\nUn stand d
+ e boissons\, gâteaux et tartes sera également installé.</p>
+DTSTART;TZID=Europe/Paris:20150927T070000
+GEO:+49.360587;+6.201699
+LOCATION:Salle Petit Prince @ Rue du Gymnase\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:5ème marche populaire IVV  de FADAMA
+URL:http://www.ville-yutz.fr/event/5eme-marche-populaire-ivv-de-fadama/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-829@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150927T150000
+DTEND;TZID=Europe/Paris:20150927T170000
+GEO:+49.353817;+6.203464
+LOCATION:La Guinguette - Aéroparc
+SEQUENCE:0
+SUMMARY:Concert des Joyeux Lurons
+URL:http://www.ville-yutz.fr/event/concert-des-joyeux-lurons/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-821@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Solidarité
+CONTACT:
+DESCRIPTION:<p>Dépôt de vêtements : Mardi 29 septembre de 9h à 16h</p>\n<p>
+ Restitution des invendus : Jeudi 1er octobre de 8h à 16h</p>
+DTSTART;TZID=Europe/Paris:20150930T090000
+DTEND;TZID=Europe/Paris:20150930T180000
+GEO:+49.357444;+6.189684
+LOCATION:Salle Bestien @ 2 Rue de la République\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Bourse aux vêtements Automne / Hiver de l’AVF
+URL:http://www.ville-yutz.fr/event/bourse-aux-vetements-de-lavf/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-804@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Santé
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /Don-du-sang1.jpg'><img class='aligncenter wp-image-805 size-full' src='ht
+ tp://www.ville-yutz.fr/wp-content/uploads/2015/09/Don-du-sang1.jpg' alt='D
+ on du sang1' width='399' height='403' /></a></p>
+DTSTART;TZID=Europe/Paris:20151001T160000
+DTEND;TZID=Europe/Paris:20151001T190000
+GEO:+49.360587;+6.201699
+LOCATION:Salle Petit Prince @ Rue du Gymnase\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Collecte de sang organisée par l’Amicale des donneurs de sang de Yu
+ tz
+URL:http://www.ville-yutz.fr/event/collecte-de-sang-organisee-par-lamicale-
+ des-donneurs-de-sang-de-yutz/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-813@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Solidarité
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /conférence-Yutz-sur-les-enfants-précoces.jpg'><img class='size-full wp-im
+ age-814 aligncenter' src='http://www.ville-yutz.fr/wp-content/uploads/2015
+ /09/conférence-Yutz-sur-les-enfants-précoces.jpg' alt='conférence Yutz sur
+  les enfants précoces' width='2480' height='3506' /></a></p>
+DTSTART;TZID=Europe/Paris:20151002T200000
+GEO:+49.357444;+6.189684
+LOCATION:Salle Bestien @ 2 Rue de la République\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Conférence – L’enfant\, L’écolier\, L’élève intellectuellement préc
+ oce « Particularités et besoins spécifiques »
+URL:http://www.ville-yutz.fr/event/conference-lenfant-lecolier-leleve-intel
+ lectuellement-precoce-particularites-et-besoins-specifiques/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-822@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:
+DESCRIPTION:<p>Synopsis: Ils sont enfin de retour ! A force d’accumuler les
+  gaffes dans ‘’Les Garçons Coiffeurs‘’ et ‘’Les Garçons Chômeurs‘’\, les «
+  MISTERS DE L’EST » se retrouvent arrêtés et…jugés ! Ils nous entraînent d
+ ans une course folle pour suivre leurs nouvelles et inoubliables aventures
+ …car la prison\, ce n’est vraiment pas leur truc !…<br />\nENTRÉE LIBRE (s
+ ous réserve de places disponibles)</p>\n<p><a href='http://www.ville-yutz.
+ fr/wp-content/uploads/2015/09/Les-garçons-cavaleurs.jpg'><img class='align
+ none size-full wp-image-823' src='http://www.ville-yutz.fr/wp-content/uplo
+ ads/2015/09/Les-garçons-cavaleurs.jpg' alt='Les garçons cavaleurs' width='
+ 494' height='700' /></a></p>
+DTSTART;TZID=Europe/Paris:20151002T203000
+GEO:+49.345993;+6.188412
+LOCATION:M.J.C. La Pépinière @ 30 Rue de la Pépinière\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Soirée Théâtre « Les garçons cavaleurs » par les Misters de l’Est
+URL:http://www.ville-yutz.fr/event/soiree-theatre-les-garcons-cavaleurs-par
+ -les-misters-de-lest/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-665@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151003T140000
+DTEND;TZID=Europe/Paris:20151011T180000
+LOCATION:Maison des Bains
+SEQUENCE:0
+SUMMARY:Exposition Nicolas Carter
+URL:http://www.ville-yutz.fr/event/exposition-nicolas-cartier/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-811@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /2015-10-04-thé-dansant.jpg'><img class='aligncenter wp-image-812 size-lar
+ ge' src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/2015-10-04-th
+ é-dansant-714x1024.jpg' alt='2015-10-04 thé dansant' width='714' height='1
+ 024' /></a></p>
+DTSTART;TZID=Europe/Paris:20151004T150000
+DTEND;TZID=Europe/Paris:20151004T190000
+GEO:+49.351996;+6.199054
+LOCATION:L'amphY @ 126 Rue de la République\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Thé dansant
+URL:http://www.ville-yutz.fr/event/the-dansant/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-827@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Solidarité
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151005T090000
+DTEND;TZID=Europe/Paris:20151005T170000
+GEO:+49.357444;+6.189684
+LOCATION:Salle Bestien @ 2 Rue de la République\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Job dating des métiers de la vente à domicile
+URL:http://www.ville-yutz.fr/event/job-dating-des-metiers-de-la-vente-a-dom
+ icile/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-830@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /2015-10-11-st-ursule.jpg'><img class='aligncenter wp-image-831 size-full'
+  src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/2015-10-11-st-ur
+ sule.jpg' alt='2015-10-11 st ursule' width='3508' height='4843' /></a></p>
+DTSTART;TZID=Europe/Paris:20151011T090000
+DTEND;TZID=Europe/Paris:20151011T180000
+LOCATION:Angles rues Liberté/Bois/Chapelle
+SEQUENCE:0
+SUMMARY:Fête de la Sainte-Ursule
+URL:http://www.ville-yutz.fr/event/fete-de-la-sainte-ursule/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-753@www.ville-yutz.fr
+DTSTAMP:20150920T003159Z
+CATEGORIES;LANGUAGE=fr-FR:Solidarité
+CONTACT:
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /octobre-rose-petite.jpg'><img class='size-full wp-image-754 aligncenter' 
+ src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/octobre-rose-peti
+ te.jpg' alt='Octobre rose' width='2480' height='3508' /></a></p>
+DTSTART;TZID=Europe/Paris:20151018T093000
+LOCATION:Aéroparc
+SEQUENCE:0
+SUMMARY:Octobre rose
+URL:http://www.ville-yutz.fr/event/octobre-rose/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

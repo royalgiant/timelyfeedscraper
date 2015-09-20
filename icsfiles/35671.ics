@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.92.92.50//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.oakesbaptist.org.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2475@www.oakesbaptist.org.uk
+DTSTAMP:20150920T002300Z
+CATEGORIES:
+CONTACT:David Pickering\; 07831 176549\; info@oakesbaptist.org.uk
+DESCRIPTION:<p>It’s back! Join us for the fun alternative to Hallowe’en wit
+ h crafts\, games and some (nice!) surprises. Fun for all the family.</p>
+DTSTART;TZID=Europe/London:20151031T180000
+DTEND;TZID=Europe/London:20151031T200000
+GEO:+53.654584;-1.823796
+LOCATION:HD3 3EW @ Oakes Road\, Lindley\, Huddersfield HD3 3EW\, Oakes Bapt
+ ist Church\, Huddersfield\, Huddersfield\, West Yorkshire HD3\, UK
+SEQUENCE:0
+SUMMARY:Bright Light Family Fun Night
+URL:http://www.oakesbaptist.org.uk/event/bright-light-family-fun-night-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2483@www.oakesbaptist.org.uk
+DTSTAMP:20150920T002300Z
+CATEGORIES:
+CONTACT:David Pickering\; 07831 176549\; info@oakesbaptist.org.uk
+DESCRIPTION:<p>Join us for a ‘Messy church’ event with craft activities for
+  all the family\, make your own Christingle and find out what the Christin
+ gle represents.Then join in a carol or two – the perfect way to prepare fo
+ r Christmas!</p>
+DTSTART;TZID=Europe/London:20151213T150000
+DTEND;TZID=Europe/London:20151213T160000
+GEO:+53.655163;-1.824328
+LOCATION:Oakes Baptist Church @ Huddersfield\, Huddersfield\, West Yorkshir
+ e HD3 3EW\, UK
+SEQUENCE:0
+SUMMARY:Christingle
+URL:http://www.oakesbaptist.org.uk/event/2483/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2484@www.oakesbaptist.org.uk
+DTSTAMP:20150920T002300Z
+CATEGORIES:
+CONTACT:David Pickering\; 07831 176549\; info@oakesbaptist.org.uk
+DESCRIPTION:<p>An evening of traditional carols combined with the occasiona
+ l surprise\, come and join us to celebrate Christmas together</p>
+DTSTART;TZID=Europe/London:20151219T180000
+DTEND;TZID=Europe/London:20151219T193000
+GEO:+53.655163;-1.824328
+LOCATION:Oakes Baptist Church @ Huddersfield\, Huddersfield\, West Yorkshir
+ e HD3 3EW\, UK
+SEQUENCE:0
+SUMMARY:Carol service
+URL:http://www.oakesbaptist.org.uk/event/carol-service-3/
+END:VEVENT
+END:VCALENDAR

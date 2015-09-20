@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-US"><!--<![endif]-->
+
+<head>
+	
+	
+	<title>Grace Community Church</title>
+	<meta charset="UTF-8">
+	
+	<!-- Apple iOS Settings -->
+	<meta name="viewport" content="width=device-width, minimum-scale=1" />
+	
+			<!-- The Favicon, change this to whatever you'd like -->
+		<link rel="shortcut icon" href="http://www.gracemaryville.org/wp-content/uploads/2013/01/Grace-Fav.ico" />
+	<!-- Added by SermonBrowser (version 0.45.12) - http://www.sermonbrowser.com/ --><link rel="alternate" type="application/rss+xml" title="Sermon podcast" href="http://www.gracemaryville.org/sermons/?podcast" /><!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="dBw5CvburAxi537Rp9qi5uG2174Vb6JwHwIRwPSLIK8" />
+<meta name="p:domain_verify" content="f100679e6048d45e4a0b0b92dce1efce" />
+<link rel="alternate" type="application/rss+xml" title="Grace Community Church &raquo; Feed" href="http://www.gracemaryville.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Grace Community Church &raquo; Comments Feed" href="http://www.gracemaryville.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Grace Community Church &raquo; Home Comments Feed" href="http://www.gracemaryville.org/homepage/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.gracemaryville.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sb_style-css'  href='http://www.gracemaryville.org/sb-style.css?ver=1426099815' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.gracemaryville.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gabfire-widget-css-css'  href='http://www.gracemaryville.org/wp-content/plugins/gabfire-widget-pack/css/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-audio-player-css'  href='http://www.gracemaryville.org/wp-content/plugins/wp-audio-player/css/audioplayer.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-audio-player-theme-css'  href='http://www.gracemaryville.org/wp-content/plugins/wp-audio-player/css/plugin.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='onebyone-css'  href='http://www.gracemaryville.org/wp-content/themes/savior/_theme_styles/jquery.onebyone.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.gracemaryville.org/wp-content/themes/savior/js/fancybox/jquery.fancybox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Puritan%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic%2Cgreek-ext%2Cvietnamese%2Clatin-ext&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-stylesheet-css'  href='http://www.gracemaryville.org/wp-content/themes/savior/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-responsive-css'  href='http://www.gracemaryville.org/wp-content/themes/savior/_theme_styles/responsive.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='customized-styles-css'  href='http://www.gracemaryville.org/wp-content/themes/savior/_theme_styles/custom.php?bg_color=ffffff&#038;text_color=333333&#038;color=5886a6&#038;font=Puritan&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.gracemaryville.org/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.gracemaryville.org/wp-content/plugins/jetpack/css/jetpack.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jq_ui_css-css'  href='http://www.gracemaryville.org/wp-content/themes/savior/_theme_settings/plugins/ajax-event-calendar/css/jquery-ui-1.8.16.custom.css?ver=1.8.16' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='http://www.gracemaryville.org/wp-content/themes/savior/_theme_settings/plugins/ajax-event-calendar/css/custom.css?ver=1.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/plugins/wp-audio-player/js/audioplayer.min.js?ver=1.7'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/plugins/wp-audio-player/js/plugin.min.js?ver=1.7'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/modernizr.js?ver=2.6.0'></script>
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='canonical' href='http://www.gracemaryville.org/' />
+<link rel='shortlink' href='http://wp.me/P6w8FO-7' />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Grace Community Church" />
+<meta property="og:description" content="Maryville, TN" />
+<meta property="og:url" content="http://www.gracemaryville.org/" />
+<meta property="og:site_name" content="Grace Community Church" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary" />
+<style type="text/css">#logo a { background: url('http://www.gracemaryville.org/wp-content/uploads/2013/01/Grace-logo-White-transparent-Inac-1-e1407215560976.png') left center no-repeat !important; }header { background: #5886a6 url('http://www.gracemaryville.org/wp-content/uploads/2013/01/blue-navy.jpg') top left repeat; }footer { background: #9fc2cc url('http://www.gracemaryville.org/wp-content/uploads/2013/01/blue-dark.jpg') top center no-repeat; }footer { background-image:none; }</style>	
+</head>
+<body class="home page page-id-7 page-parent page-template-default">
+	
+		
+	<div id="mobile-nav">
+		<ul id="menu-primary" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-14"><a href="http://www.gracemaryville.org/">Home</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19"><a href="http://www.gracemaryville.org/homepage/about-grace/">About Grace</a>
+<ul>
+	<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/">Our Objectives</a>
+	<ul>
+		<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/worship/">Worship</a></li>
+		<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/gods-word/">God&#8217;s Word</a></li>
+		<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/spiritual-authority/">Spiritual Authority</a></li>
+		<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/holiness/">Holiness</a></li>
+		<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/discipleship/">Discipleship</a></li>
+		<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/evangelism/">Evangelism</a></li>
+		<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/prayer/">Prayer</a></li>
+	</ul>
+</li>
+	<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://www.gracemaryville.org/homepage/about-grace/when-we-meet/">When We Meet</a></li>
+	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.gracemaryville.org/homepage/about-grace/location/">Location and Parking</a></li>
+	<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://www.gracemaryville.org/homepage/about-grace/our-elders/">Our Elders</a></li>
+	<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://www.gracemaryville.org/homepage/about-grace/frequently-asked-questions/">Frequently Asked Questions</a></li>
+	<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://www.gracemaryville.org/homepage/about-grace/constitution-and-by-laws/">Constitution and By-Laws</a></li>
+	<li id="menu-item-1946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1946"><a href="http://www.gracemaryville.org/building/">Grace Building Expansion</a></li>
+</ul>
+</li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-117"><a href="http://www.gracemaryville.org/homepage/what-we-believe/">What We Believe</a>
+<ul>
+	<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://www.gracemaryville.org/homepage/what-we-believe/statement-of-faith/">Statement of Faith</a></li>
+	<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/">Distinctives of Grace</a>
+	<ul>
+		<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/the-lords-supper/">The Lord&#8217;s Supper</a></li>
+		<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/baptism/">Baptism</a></li>
+		<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/pre-millenial/">Pre-Millennial</a></li>
+		<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/elder-qualifications/">Elder Qualifications</a></li>
+		<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/creation/">Creation</a></li>
+		<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/sunday-worship/">Sunday Worship</a></li>
+		<li id="menu-item-989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/grace-community-church-marriage-statement/">Grace Community Church Marriage Statement</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="http://www.gracemaryville.org/homepage/what-we-believe/affirmation-of-faith/">Affirmation of Faith</a></li>
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="http://www.gracemaryville.org/homepage/what-we-believe/our-covenant/">Our Covenant</a></li>
+</ul>
+</li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-116"><a href="http://www.gracemaryville.org/homepage/ministries/">Ministries</a>
+<ul>
+	<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="http://www.gracemaryville.org/homepage/ministries/fellowship-groups/">Fellowship Groups</a></li>
+	<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="http://www.gracemaryville.org/homepage/ministries/sunday-school-clases/">Sunday School Classes</a></li>
+	<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://www.gracemaryville.org/homepage/ministries/childrens-ministries/">Children&#8217;s Ministries</a></li>
+	<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://www.gracemaryville.org/homepage/ministries/uth-ministry/">Uth Ministry</a></li>
+	<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="http://www.gracemaryville.org/homepage/ministries/college-career-ministry/">College &#038; Career Ministry</a></li>
+	<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-169"><a href="http://www.gracemaryville.org/homepage/ministries/mens-ministries/">Men&#8217;s Ministries</a>
+	<ul>
+		<li id="menu-item-497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a href="http://www.gracemaryville.org/homepage/ministries/mens-ministries/shepherds-institute/">Shepherds Institute</a></li>
+	</ul>
+</li>
+	<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://www.gracemaryville.org/homepage/ministries/womens-ministries/">Women&#8217;s Ministries</a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-167"><a href="http://www.gracemaryville.org/homepage/ministries/missions/">Missions</a>
+	<ul>
+		<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a href="http://www.gracemaryville.org/homepage/ministries/missions/church-plant-crossway-bible-church/">Church Plant &#8211; Crossway Bible Church</a></li>
+	</ul>
+</li>
+	<li id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://www.gracemaryville.org/homepage/ministries/sola-conference/">Sola Conference</a></li>
+</ul>
+</li>
+<li id="menu-item-1126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1126"><a href="http://www.gracemaryville.org/homepage/media/">Media</a>
+<ul>
+	<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="http://www.gracemaryville.org/sermons/">Sermon and Sunday School Audio</a></li>
+	<li id="menu-item-1127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1127"><a href="http://www.gracemaryville.org/live/">Grace Community Church LIVE!</a></li>
+	<li id="menu-item-1131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1131"><a href="http://gracemaryville.sermon.net">Video Archive</a></li>
+	<li id="menu-item-1181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1181"><a href="https://www.youtube.com/user/gracemaryville">Check out our Youtube Channel!</a></li>
+</ul>
+</li>
+<li id="menu-item-673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-673"><a href="http://www.gracemaryville.org/calendar/">Calendar</a></li>
+<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://www.gracemaryville.org/homepage/about-grace/contact-us/">Contact Us</a></li>
+</ul>	</div>
+	
+	<div class="toggle-shell"><a class="mobile-nav-toggle">+</a></div>
+
+	<header id="header" class="has-slider type-oneByOne">
+		<div class="shell">
+		
+			<h1 id="logo"><a href="http://www.gracemaryville.org" class="notext">Grace Community Church</a></h1>
+
+			<nav>
+				<ul id="menu-primary-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-14"><a href="http://www.gracemaryville.org/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19"><a href="http://www.gracemaryville.org/homepage/about-grace/">About Grace</a>
+<ul>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/">Our Objectives</a>
+	<ul>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/worship/">Worship</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/gods-word/">God&#8217;s Word</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/spiritual-authority/">Spiritual Authority</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/holiness/">Holiness</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/discipleship/">Discipleship</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/evangelism/">Evangelism</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="http://www.gracemaryville.org/homepage/about-grace/our-objectives/prayer/">Prayer</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://www.gracemaryville.org/homepage/about-grace/when-we-meet/">When We Meet</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.gracemaryville.org/homepage/about-grace/location/">Location and Parking</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://www.gracemaryville.org/homepage/about-grace/our-elders/">Our Elders</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://www.gracemaryville.org/homepage/about-grace/frequently-asked-questions/">Frequently Asked Questions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://www.gracemaryville.org/homepage/about-grace/constitution-and-by-laws/">Constitution and By-Laws</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1946"><a href="http://www.gracemaryville.org/building/">Grace Building Expansion</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-117"><a href="http://www.gracemaryville.org/homepage/what-we-believe/">What We Believe</a>
+<ul>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://www.gracemaryville.org/homepage/what-we-believe/statement-of-faith/">Statement of Faith</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/">Distinctives of Grace</a>
+	<ul>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/the-lords-supper/">The Lord&#8217;s Supper</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/baptism/">Baptism</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/pre-millenial/">Pre-Millennial</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/elder-qualifications/">Elder Qualifications</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/creation/">Creation</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/sunday-worship/">Sunday Worship</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="http://www.gracemaryville.org/homepage/what-we-believe/distinctives-of-grace/grace-community-church-marriage-statement/">Grace Community Church Marriage Statement</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="http://www.gracemaryville.org/homepage/what-we-believe/affirmation-of-faith/">Affirmation of Faith</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="http://www.gracemaryville.org/homepage/what-we-believe/our-covenant/">Our Covenant</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-116"><a href="http://www.gracemaryville.org/homepage/ministries/">Ministries</a>
+<ul>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="http://www.gracemaryville.org/homepage/ministries/fellowship-groups/">Fellowship Groups</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="http://www.gracemaryville.org/homepage/ministries/sunday-school-clases/">Sunday School Classes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://www.gracemaryville.org/homepage/ministries/childrens-ministries/">Children&#8217;s Ministries</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://www.gracemaryville.org/homepage/ministries/uth-ministry/">Uth Ministry</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="http://www.gracemaryville.org/homepage/ministries/college-career-ministry/">College &#038; Career Ministry</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-169"><a href="http://www.gracemaryville.org/homepage/ministries/mens-ministries/">Men&#8217;s Ministries</a>
+	<ul>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a href="http://www.gracemaryville.org/homepage/ministries/mens-ministries/shepherds-institute/">Shepherds Institute</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://www.gracemaryville.org/homepage/ministries/womens-ministries/">Women&#8217;s Ministries</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-167"><a href="http://www.gracemaryville.org/homepage/ministries/missions/">Missions</a>
+	<ul>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a href="http://www.gracemaryville.org/homepage/ministries/missions/church-plant-crossway-bible-church/">Church Plant &#8211; Crossway Bible Church</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://www.gracemaryville.org/homepage/ministries/sola-conference/">Sola Conference</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1126"><a href="http://www.gracemaryville.org/homepage/media/">Media</a>
+<ul>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="http://www.gracemaryville.org/sermons/">Sermon and Sunday School Audio</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1127"><a href="http://www.gracemaryville.org/live/">Grace Community Church LIVE!</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1131"><a href="http://gracemaryville.sermon.net">Video Archive</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1181"><a href="https://www.youtube.com/user/gracemaryville">Check out our Youtube Channel!</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-673"><a href="http://www.gracemaryville.org/calendar/">Calendar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://www.gracemaryville.org/homepage/about-grace/contact-us/">Contact Us</a></li>
+</ul>			</nav>
+				
+		</div>
+		
+				<div class="top">
+			<div class="shell">
+			
+				<!-- Top Right Content -->
+				<div class="right"><ul class="socials right"><li class="facebook"><a href="https://www.facebook.com/pages/Grace-Community-Church/492128917478701">Facebook</a></li><li class="twitter"><a href="https://twitter.com/GraceMaryville">Twitter</a></li><li class="vimeo"><a href="http://www.vimeo.com/gracemaryville">Vimeo</a></li><li class="youtube"><a href="https://www.youtube.com/user/gracemaryville">YouTube</a></li><li class="rss"><a href="http://feeds.feedburner.com/gracemaryville/pWlZ">Feed</a></li></ul></div>
+				
+				<!-- Top Left Content -->
+				<ul><li><span>Phone:</span> (865) 984-0116 // <span>Address:</span> 161 E Harper Ave, Maryville, TN 37804</li></ul>				
+			</div>
+		</div>
+						<div id="slider">
+					<div class="shell">
+						<div class="oneByOne_item"><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/Welcome_to.853ed5ecc7.png?resize=308%2C66" class="attachment-full" alt="Welcome_to.853ed5ecc7" style="position:absolute;left:0px;top:0px;" data-animate="fadeInLeft" /><img src="http://i2.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/Grace_Community_Church.687d44b334.png?resize=704%2C87" class="attachment-full" alt="Grace_Community_Church.687d44b334" style="position:absolute;left:100px;top:75px;" data-animate="fadeInLeft" /><img src="http://i2.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/Online.56e1addc5b.png?resize=196%2C66" class="attachment-full" alt="Online.56e1addc5b" style="position:absolute;left:700px;top:150px;" data-animate="fadeInLeft" /><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/sharing.250f29b5e9.png?resize=813%2C46" class="attachment-full" alt="sharing.250f29b5e9" style="position:absolute;left:50px;top:250px;" data-animate="fadeInRight" /><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/dry_and_thirsty.1ad52f7907.png?resize=340%2C45" class="attachment-full" alt="dry_and_thirsty.1ad52f7907" style="position:absolute;left:300px;top:300px;" data-animate="fadeInRight" /></div><div class="oneByOne_item"><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2015/09/Mens_breakfast_2015_1.c1a89a6998.jpg?resize=900%2C350" class="attachment-full" alt="Mens_breakfast_2015_1.c1a89a6998" style="position:absolute;left:50px;top:0px;" /></div><div class="oneByOne_item"><div class="text" data-animate="bounceInLeft" style="width:1000px; top:300px; left:0px;">
+											<h3>Grace services are now streamed live and archived to view later!</h3>
+											
+											
+										</div><a style="position:absolute;left:0px;top:30px;" href="http://www.gracemaryville.org/live" data-animate="bounceInDown"><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/09/watch-300x225.b0516c6941.png?resize=300%2C225" class="attachment-full" alt="watch-300x225.b0516c6941" style="position:relative;" data-animate="" /></a><a href="http://gracemaryville.sermon.net"><img src="http://i2.wp.com/www.gracemaryville.org/wp-content/uploads/2014/09/resized_video_archive_icon.2cc81e5086.jpg?resize=496%2C187" class="attachment-full" alt="resized_video_archive_icon.2cc81e5086" style="position:absolute;left:400px;top:67px;" /></a></div><div class="oneByOne_item"><a style="position:absolute;left:600px;top:50px;" href="https://mapsengine.google.com/map/edit?mid=zSdJO9xmkJEE.kZxH4szGr42k" data-animate="bounceInLeft"><img src="http://i1.wp.com/www.gracemaryville.org/wp-content/uploads/2014/09/parking.89d40764d3.jpg?resize=177%2C180" class="attachment-full" alt="parking.89d40764d3" style="position:relative;" data-animate="" /></a><div class="text" data-animate="bounceInRight" style="width:500px; top:100px; left:50px;">
+											<h3>Grace Parking Options</h3>
+											<p>Click the icon to view parking areas near Grace Community Church.<br />
+Click the yellow boxes on the map for a description.</p>
+
+											
+										</div></div><div class="oneByOne_item"><div class="text" data-animate="fadeInLeft" style="width:375px; top:25px; left:75px;">
+											<h3>About Grace</h3>
+											<p>We desire to bring glory and pleasure to our Heavenly Father in Christ-centered worship, fellowship and ministry. Our Lord Jesus Christ has blessed us with a loving, caring and giving fellowship with families spread out over five counties surrounding Knoxville and the Smoky Mountain National Park. We invite you to worship with us if you are vacationing in the Smoky Mountains or moving to this area!</p>
+
+											
+										</div><div class="text" data-animate="fadeInLeft" style="width:375px; top:200px; left:515px;">
+											
+											
+											<a href="http://www.gracemaryville.org/homepage/about-grace/" class="button-mini">Click Here to learn a little bit more about Grace</a>
+										</div></div><div class="oneByOne_item"><div class="text" data-animate="fadeInLeft" style="width:375px; top:75px; left:75px;">
+											<h3>Sunday Morning</h3>
+											<p>8:00 - Worship Service<br />
+9:45 - Sunday School<br />
+11:00 - Worship Service</p>
+
+											
+										</div><div class="text" data-animate="fadeInLeft" style="width:375px; top:75px; left:300px;">
+											<h3>Sunday Afternoon Fellowship Groups</h3>
+											<p>Various Homes and Times</p>
+
+											<a href="http://dev.gracemaryville.org/homepage/ministries/fellowship-groups/" class="button-mini">Click Here For More Details</a>
+										</div><div class="text" data-animate="fadeInLeft" style="width:375px; top:75px; left:650px;">
+											<h3>Wednesday Nights</h3>
+											<p>Wednesday 7-9 PM<br />
+Adult Bible Study<br />
+Youth Group (12-18)<br />
+Kingdom Kids (4-11)</p>
+
+											<a href="http://www.gracemaryville.org/homepage/about-grace/when-we-meet/" class="button-mini">Click Here For More Details</a>
+										</div></div><div class="oneByOne_item"><a style="position:absolute;left:140px;top:40px;" href="http://www.gracemaryville.org/homepage/sermons/" data-animate="fadeInLeft"><img src="http://i1.wp.com/www.gracemaryville.org/wp-content/uploads/2014/08/LG_online-sermons_2.bcb9d67c26.jpg?resize=701%2C271" class="attachment-full" alt="LG_online-sermons_2.bcb9d67c26" style="position:relative;" data-animate="" /></a><div class="text" data-animate="rotateInUpLeft" style="width:500px; top:0px; left:390px;">
+											<h3>Click to listen!</h3>
+											
+											
+										</div><div class="text" data-animate="rotateInUpRight" style="width:1000px; top:325px; left:170px;">
+											<h3> Sermons are searchable by speaker, title, series, and more!</h3>
+											
+											
+										</div></div><div class="oneByOne_item"><div class="text" data-animate="fadeInLeft" style="width:375px; top:75px; left:75px;">
+											<h3>Contact Us</h3>
+											<p>By Mail<br />
+PO Box 4574<br />
+Maryville, TN 37802-4574</p>
+
+											<a href="http://www.gracemaryville.org/homepage/about-grace/contact-us/" class="button-mini">Or by EMAIL</a>
+										</div><div class="text" data-animate="fadeInLeft" style="width:375px; top:85px; left:300px;">
+											
+											<p>By Phone or Fax<br />
+Church Office Phone: (865) 984-0116<br />
+Church Office Fax: (865) 984-0136</p>
+
+											
+										</div><a style="position:absolute;left:600px;top:65px;" href="http://www.gracemaryville.org/homepage/about-grace/location/" data-animate="fadeInLeft"><img src="http://i1.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/DrivingDirectionsIcon.7cef784077.png?resize=275%2C115" class="attachment-full" alt="DrivingDirectionsIcon.7cef784077" style="position:relative;" data-animate="" /></a></div><div class="oneByOne_item"><div class="text" data-animate="bounceInDown" style="width:100px; top:150px; left:100px;">
+											<h3>Podcast?</h3>
+											
+											
+										</div><a style="position:absolute;left:300px;top:0px;" href="http://feeds.feedburner.com/gracemaryville/pWlZ" data-animate="rotateInUpLeft"><img src="http://i2.wp.com/www.gracemaryville.org/wp-content/uploads/2014/08/logopodcast.64fc1beb65.jpg?resize=300%2C300" class="attachment-full" alt="logopodcast.64fc1beb65" style="position:relative;" data-animate="" /></a><div class="text" data-animate="bounceInUp" style="width:100px; top:150px; left:700px;">
+											<h3>CLICK TO SUBSCRIBE!</h3>
+											
+											
+										</div></div><div class="oneByOne_item"><a style="position:absolute;left:0px;top:0px;" href="http://www.gracemaryville.org/roku" data-animate="bounceInUp"><img src="http://i1.wp.com/www.gracemaryville.org/wp-content/uploads/2015/05/roku-logo.ec96c3829b.jpeg?resize=268%2C110" class="attachment-full" alt="roku-logo.ec96c3829b" style="position:relative;" data-animate="" /></a><a style="position:absolute;left:100px;top:200px;" href="http://gracemaryville.sermon.net" data-animate="bounceInDown"><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2015/05/sermonlogo.4046bffa55.png?resize=199%2C132" class="attachment-full" alt="sermonlogo.4046bffa55" style="position:relative;" data-animate="" /></a><a style="position:absolute;left:300px;top:0px;" href="http://www.youtube.com/gracemaryville" data-animate="bounceInRight"><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2015/05/YouTube-logo-full_color.251b02abcb.png?resize=773%2C481" class="attachment-full" alt="YouTube-logo-full_color.251b02abcb" style="position:relative;" data-animate="" /></a><div class="text" data-animate="fadeInLeft" style="width:400px; top:25px; left:450px;">
+											<h3>WATCH US ONLINE!  Click an option!</h3>
+											
+											
+										</div></div><div class="oneByOne_item"><a href="http://www.gracemaryville.org/building"><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2015/09/construction-update.a1541f89d0.jpg?resize=599%2C146" class="attachment-full" alt="construction-update.a1541f89d0" style="position:absolute;left:200px;top:100px;" /></a><div class="text" data-animate="fadeInLeft" style="width:300px; top:50px; left:75px;">
+											<h3>Click for...</h3>
+											
+											
+										</div></div>					</div>
+				</div>
+				
+						
+	</header>
+	
+		
+	<div id="main">		<div id="countdown">
+		
+							
+					<a href="#" id="countdown_link" onclick="jQuery.aecDialog({'id':158,'start':'2015-09-18 00:00:00','end':'2015-09-20 00:00:00'}); return false;">
+						<div class="shell">
+						
+														
+															<h4 class="countdown"><span>September 18, 2015 0 00 -14400</span></h4>
+								<h2>College/Career Ekklesia Conference in Florida</h2>
+														<span class="arrow"></span>
+							
+						</div>
+					</a>
+				
+							
+					
+		</div>
+			
+		<div class="shell"><div id="page-widgets"><div class="one_third"><div id="gabfire_search_widget-3" class="widget gabfire_search_widget"><h4>Search in Site</h4>					<form class="gabfire_search_style1" action="http://www.gracemaryville.org/">
+						<fieldset style="background:#efefef;border:1px solid #eee;">
+							<input type="text" style="width:80%;background:#efefef" class="gab_search_text" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" />
+							<input type="submit" class="submit_style1" alt="Search..." />
+							<div class="clearfix"></div>
+						</fieldset>
+					</form>				
+				<div class='clear'></div></div></div><div class="one_third"><div id="theme-widget-widget-upcoming-events-2" class="widget theme-widget-upcoming-events"><div class="events" rel="5"><h4>Upcoming Events</h4>				
+				<span class="prev"></span>
+					<span class="next"></span>				
+				<ul>				
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':158,'start':'2015-09-18 00:00:00','end':'2015-09-20 00:00:00'}); return false;">
+							<span class="date-area">Sep <strong>18</strong></span>
+							<h5>College/Career Ekklesia Conference in Florida</h5>
+							<p></p>
+															<p>All day</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':138,'start':'2015-09-20 00:00:00','end':'2015-09-20 00:00:00'}); return false;">
+							<span class="date-area">Sep <strong>20</strong></span>
+							<h5>Fellowship Groups Kick Off</h5>
+							<p>Grace Community Church</p>
+															<p>All day</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':169,'start':'2015-09-22 07:45:00','end':'2015-09-22 08:45:00'}); return false;">
+							<span class="date-area">Sep <strong>22</strong></span>
+							<h5>Ladies Prayer Group</h5>
+							<p>GCC Annex</p>
+															<p class="ico-time">7:45am - 8:45am</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':166,'start':'2015-09-22 09:00:00','end':'2015-09-22 11:00:00'}); return false;">
+							<span class="date-area">Sep <strong>22</strong></span>
+							<h5>Ladies Bible Study</h5>
+							<p>Grace Community Church</p>
+															<p class="ico-time">9:00am - 11:00am</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':145,'start':'2015-09-23 19:00:00','end':'2015-09-23 20:45:00'}); return false;">
+							<span class="date-area">Sep <strong>23</strong></span>
+							<h5>UTH (Garamuts)</h5>
+							<p>Grace Community Church of E TN</p>
+															<p class="ico-time">7:00pm - 8:45pm</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':164,'start':'2015-09-24 18:00:00','end':'2015-09-24 21:00:00'}); return false;">
+							<span class="date-area">Sep <strong>24</strong></span>
+							<h5>Shepherd's Institute (SI)</h5>
+							<p>Grace Community Church of East Tennessee</p>
+															<p class="ico-time">6:00pm - 9:00pm</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':146,'start':'2015-09-24 19:00:00','end':'2015-09-24 22:00:00'}); return false;">
+							<span class="date-area">Sep <strong>24</strong></span>
+							<h5>College & Career Bible Study</h5>
+							<p>Menard's Home</p>
+															<p class="ico-time">7:00pm - 10:00pm</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':140,'start':'2015-09-26 09:00:00','end':'2015-09-26 12:00:00'}); return false;">
+							<span class="date-area">Sep <strong>26</strong></span>
+							<h5>Evangelism Implosion</h5>
+							<p></p>
+															<p class="ico-time">9:00am - 12:00pm</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':63,'start':'2015-09-27 08:30:00','end':'2015-09-27 10:00:00'}); return false;">
+							<span class="date-area">Sep <strong>27</strong></span>
+							<h5>Sunday Morning Worship (1st Service)</h5>
+							<p>Grace Community Church</p>
+															<p class="ico-time">8:30am - 10:00am</p>
+													</a>
+					</li>
+					
+				</ul></div></div></div><div class="one_third last"><div id="socialcountplus-4" class="widget widget_socialcountplus"><h4>Check us out!</h4><div class="social-count-plus"><ul class="default"><li class="count-facebook"><a class="icon" href="https://www.facebook.com/492128917478701?fields=likes&#038;access_token=CAAQTyregjEgBAM6TZBY7lTuHWPW4mHVZAQU6GVpoHUm1ThWsrkZC4u033PGiHwbNZCjmYqLxy7NERgFKmBoRHe8fuyDteUB7NSe1PANiX7fXTHBABVvcKGo3xRjFDI4zwbMlp03mX5TpHpBoZAeXpWCz3c6VsK9FHubNpIJiStZBZASuf6W82gFEuvqPGeEoZAmyZAdyZA6SB6tH327miRPUyz&#038;expires=5182974" target="_blank"></a><span class="items"><span class="count" style="color: #333333 !important;">229</span><span class="label" style="color: #333333 !important;">likes</span></span></li><li class="count-youtube"><a class="icon" href="https://www.youtube.com/user/gracemaryville" target="_blank"></a><span class="items"><span class="count" style="color: #333333 !important;">0</span><span class="label" style="color: #333333 !important;">subscribers</span></span></li><li class="count-twitter"><a class="icon" href="https://twitter.com/gracemaryville" target="_blank"></a><span class="items"><span class="count" style="color: #333333 !important;">100</span><span class="label" style="color: #333333 !important;">followers</span></span></li></ul></div></div></div></div></div></div>	
+	</div>
+	
+		
+	<script type="text/javascript">
+		var slider_speed = 500;
+		var slider_autocycle = false;
+		var slider_interval = 8000;
+	</script>
+
+
+
+	<footer id="footer">
+		
+			
+			<div class="shell">
+			
+				<div class="one_third"><div id="rss-2" class="widget widget_rss"><h4><a class='rsswidget' href='http://feeds.feedburner.com/gracemaryville/pWlZ'><img style='border:0' width='14' height='14' src='http://www.gracemaryville.org/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.gracemaryville.org/'>Grace RSS Feed</a></h4><ul><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/zLJL68G2_3g/01-Gods%20Choice%20of%20You%21.mp3'>Gods Choice of You!</a> <span class="rss-date">September 16, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/ISsFobvzgKo/01-Effective%20Prayer%20Part%206%20%20%20%20%20Pray%20for%20Holiness.mp3'>Effective Prayer Part 6     Pray for Holiness</a> <span class="rss-date">September 13, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/eTfsJiU8yek/01-Pauls%20Prayer%20for%20the%20Thessalonians%20Part%201.mp3'>Pauls Prayer for the Thessalonians Part 1</a> <span class="rss-date">September 9, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/jv1-2MHG_v8/01-Effective%20Prayer%20Part%205%20Desiring%20Gods%20Forgiveness.mp3'>Effective Prayer Part 5 Desiring Gods Forgiveness</a> <span class="rss-date">September 6, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/wbd_3VzTcmg/01-Introduction%20to%201%20Thessalonians.mp3'>Introduction to 1 Thessalonians</a> <span class="rss-date">September 2, 2015</span></li></ul></div></div><div class="one_third"></div><div class="one_third last"><div id="sermon-browser-popular" class="widget sermon-browser-popular"><h4>Most Popular Sermons</h4><p><a id="popular_sermons_trigger_w" href="#">Sermons</a></p><div id="sb_popular_wrapper_w"><div class="popular-sermons_w"><ul><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=818">What the Bible Says About Homosexuality Part 2  The Sinfulness of Homosexuality</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=649">The Blessedness of the Kingdom</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=655">Conflict Resolution Conference - Session 2 - Gentleness</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=644">The King Preaches the Kingdom</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=648">The King\'s Sermon - Part 1</a></li></ul></div></div><script type="text/javascript">jQuery.setSbCookie = function (value) {
+											document.cookie = "sb_popular="+encodeURIComponent(value);
+										 };</script><script type="text/javascript">jQuery.getSbCookie = function () {
+											var cookieValue = null;
+											if (document.cookie && document.cookie != "") {
+												var cookies = document.cookie.split(";");
+												for (var i = 0; i < cookies.length; i++) {
+													var cookie = jQuery.trim(cookies[i]);
+													var name = "sb_popular";
+													if (cookie.substring(0, name.length + 1) == (name + "=")) {
+														cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+														break;
+													}
+												}
+											}
+										 return cookieValue;
+										 }</script><script type="text/javascript">jQuery(document).ready(function() {jQuery("#popular_sermons_trigger_w").click(function() {
+							jQuery(this).attr("style", "font-weight:bold");
+							jQuery("#popular_series_trigger_w").removeAttr("style");
+							jQuery("#popular_preachers_trigger_w").removeAttr("style");
+							jQuery.setSbCookie ("sermons");
+							jQuery("#sb_popular_wrapper_w").fadeOut("slow", function() {
+								jQuery("#sb_popular_wrapper_w").html("<div class=\"popular-sermons_w\"><ul><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=818\">What the Bible Says About Homosexuality Part 2  The Sinfulness of Homosexuality</a></li><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=649\">The Blessedness of the Kingdom</a></li><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=655\">Conflict Resolution Conference - Session 2 - Gentleness</a></li><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=644\">The King Preaches the Kingdom</a></li><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=648\">The King\\\'s Sermon - Part 1</a></li></ul></div>").fadeIn("slow");
+							});
+							return false;
+						});if (jQuery.getSbCookie() == "preachers") { jQuery("#popular_preachers_trigger_w").attr("style", "font-weight:bold"); jQuery("#sb_popular_wrapper_w").html("")};if (jQuery.getSbCookie() == "series") { jQuery("#popular_series_trigger_w").attr("style", "font-weight:bold"); jQuery("#sb_popular_wrapper_w").html("")};if (jQuery.getSbCookie() == "sermons") { jQuery("#popular_sermons_trigger_w").attr("style", "font-weight:bold"); jQuery("#sb_popular_wrapper_w").html("<div class=\"popular-sermons_w\"><ul><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=818\">What the Bible Says About Homosexuality Part 2  The Sinfulness of Homosexuality</a></li><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=649\">The Blessedness of the Kingdom</a></li><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=655\">Conflict Resolution Conference - Session 2 - Gentleness</a></li><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=644\">The King Preaches the Kingdom</a></li><li><a href=\"http://www.gracemaryville.org/sermons/?sermon_id=648\">The King\\\'s Sermon - Part 1</a></li></ul></div>")};});</script></div></div>				
+			</div>
+
+				
+				<div class="bottom">
+			<div class="shell">
+			
+				<!-- Bottom Right Content -->
+				<div class="right"><ul class="socials right"><li class="facebook"><a href="https://www.facebook.com/pages/Grace-Community-Church/492128917478701">Facebook</a></li><li class="twitter"><a href="https://twitter.com/GraceMaryville">Twitter</a></li><li class="vimeo"><a href="http://www.vimeo.com/gracemaryville">Vimeo</a></li><li class="youtube"><a href="https://www.youtube.com/user/gracemaryville">YouTube</a></li><li class="rss"><a href="http://feeds.feedburner.com/gracemaryville/pWlZ">Feed</a></li></ul></div>
+				
+				<!-- Bottom Left Content -->
+				<p>Copyright © 2006 - 2015 Grace Community Church, Maryville, Tennessee</p>				
+			</div>
+		</div>
+				
+	</footer>
+	
+	<script type="text/javascript">
+		var customColor = '5886a6';
+		var templateDir = 'http://www.gracemaryville.org/wp-content/themes/savior';
+		var in_lang = 'in';
+	</script>
+	
+		
+		<div style="display:none">
+	</div>
+<link rel='stylesheet' id='social-count-plus-css'  href='http://www.gracemaryville.org/wp-content/plugins/social-count-plus/assets/css/counter.css?ver=3.3.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-includes/js/comment-reply.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.gracemaryville.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201538'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/fancybox/jquery.fancybox.pack.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/audio-player.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/jquery.carouFredSel-6.1.0-packed.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/jquery.easing.1.3.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/jquery.onebyone.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/jquery.placeholders-1.0.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/jquery.touchwipe.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/jquery.countdown.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/js/functions.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/_theme_settings/plugins/ajax-event-calendar/js/jquery.fullcalendar.min.js?ver=1.5.3'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/_theme_settings/plugins/ajax-event-calendar/js/jquery.simplemodal.1.4.3.min.js?ver=1.4.3'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/_theme_settings/plugins/ajax-event-calendar/js/jquery.mousewheel.min.js?ver=3.0.6'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/_theme_settings/plugins/ajax-event-calendar/js/jquery.jgrowl.min.js?ver=1.2.5'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var custom = {"is_rtl":"","locale":"en","start_of_week":"0","step_interval":"5","datepicker_format":"mm\/dd\/yy","is24HrTime":"","show_weekends":"1","agenda_time_format":"h:mmt{ - h:mmt}","other_time_format":"h:mmt","axis_time_format":"h:mmt","limit":"1","today":"Today","all_day":"All Day","years":"Years","year":"Year","months":"Months","month":"Month","weeks":"Weeks","week":"Week","days":"Days","day":"Day","hours":"Hours","hour":"Hour","minutes":"Minutes","minute":"Minute","january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December","jan":"Jan","feb":"Feb","mar":"Mar","apr":"Apr","may_short":"May","jun":"Jun","jul":"Jul","aug":"Aug","sep":"Sep","oct":"Oct","nov":"Nov","dec":"Dec","sunday":"Sunday","monday":"Monday","tuesday":"Tuesday","wednesday":"Wednesday","thursday":"Thursday","friday":"Friday","saturday":"Saturday","sun":"Sun","mon":"Mon","tue":"Tue","wed":"Wed","thu":"Thu","fri":"Fri","sat":"Sat","close_event_form":"Close Event","loading_event_form":"Loading event...","update_btn":"Update","delete_btn":"Delete","category_type":"Category type","hide_all_notifications":"hide all notifications","has_been_created":"has been created.","has_been_modified":"has been modified.","has_been_deleted":"has been deleted.","add_event":"Add Event","edit_event":"Edit Event","delete_event":"Delete this event?","loading":"Loading Events...","category_filter_label":"Category filter label","repeats_every":"Repeats Every","until":"Until","success":"Success!","whoops":"Whoops!","ajaxurl":"http:\/\/www.gracemaryville.org\/wp-admin\/admin-ajax.php","editable":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/_theme_settings/plugins/ajax-event-calendar/js/jquery.init_show_calendar.js?ver=1.0.2'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201538.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.7',blog:'96317856',post:'7',tz:'-4',srv:'www.gracemaryville.org'} ]);
+	_stq.push([ 'clickTrackerInit', '96317856', '7' ]);
+</script>
+	
+</body>
+</html>

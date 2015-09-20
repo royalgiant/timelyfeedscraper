@@ -1,0 +1,428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.47.225//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.duncanfitness.ca
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-13348@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150921T053000
+DTEND;TZID=America/Vancouver:20150921T061500
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – MONDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-monday-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13349@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150921T061500
+DTEND;TZID=America/Vancouver:20150921T070000
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – MONDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-monday-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13350@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150921T074500
+DTEND;TZID=America/Vancouver:20150921T083000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – MONDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-monday-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13351@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150921T091500
+DTEND;TZID=America/Vancouver:20150921T100000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – MONDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-monday-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13353@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150921T121000
+DTEND;TZID=America/Vancouver:20150921T125500
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – MONDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-monday-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13354@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150921T164500
+DTEND;TZID=America/Vancouver:20150921T173000
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – MONDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-monday-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13355@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150921T173000
+DTEND;TZID=America/Vancouver:20150921T181500
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – MONDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-monday-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13356@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150921T181500
+DTEND;TZID=America/Vancouver:20150921T190000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – MONDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-monday-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13343@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150922T184500
+DTEND;TZID=America/Vancouver:20150922T194500
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:YOGA – TUESDAY
+URL:http://www.duncanfitness.ca/event/yoga-tuesday-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13327@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150923T053000
+DTEND;TZID=America/Vancouver:20150923T061500
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – WEDNESDAY
+URL:http://www.duncanfitness.ca/event/group-fitness/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13328@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150923T061500
+DTEND;TZID=America/Vancouver:20150923T070000
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – WEDNESDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-monday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13332@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150923T074500
+DTEND;TZID=America/Vancouver:20150923T083000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – WEDNESDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-wednesday-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13329@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150923T091500
+DTEND;TZID=America/Vancouver:20150923T100000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – WEDNESDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-wednesday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13331@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150923T121000
+DTEND;TZID=America/Vancouver:20150923T125500
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – WEDNESDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-wednesday-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13334@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150923T164500
+DTEND;TZID=America/Vancouver:20150923T173000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – WEDNESDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-wednesday-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13336@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150923T173000
+DTEND;TZID=America/Vancouver:20150923T181500
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – WEDNESDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-wednesday-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13337@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150923T181500
+DTEND;TZID=America/Vancouver:20150923T190000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – WEDNESDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-wednesday-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13339@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150924T121000
+DTEND;TZID=America/Vancouver:20150924T125500
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – THURSDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-thursday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13340@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150924T164500
+DTEND;TZID=America/Vancouver:20150924T173000
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – THURSDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-thursday-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13341@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150924T173000
+DTEND;TZID=America/Vancouver:20150924T181500
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – THURSDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-thursday-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13342@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150924T181500
+DTEND;TZID=America/Vancouver:20150924T190000
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – THURSDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-thursday-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13344@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150925T053000
+DTEND;TZID=America/Vancouver:20150925T061500
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – FRIDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-friday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13345@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150925T061500
+DTEND;TZID=America/Vancouver:20150925T070000
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – FRIDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-friday-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13346@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150925T074500
+DTEND;TZID=America/Vancouver:20150925T083000
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – FRIDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-friday-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13347@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150925T091500
+DTEND;TZID=America/Vancouver:20150925T100000
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – FRIDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-friday-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13361@www.duncanfitness.ca
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.duncanfitness.ca/wp-content/uploads/2015/08/group-training_500x300-
+ 300x180.png' width='300' height='180' /></div>
+DTSTART;TZID=America/Vancouver:20150925T121000
+DTEND;TZID=America/Vancouver:20150925T125500
+LOCATION:Duncan Fitness Centre @ 3006 Boys Road‎\,Duncan\, BC\, V9L 6W4
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:GROUP FITNESS – FRIDAY
+URL:http://www.duncanfitness.ca/event/group-fitness-friday-5/
+END:VEVENT
+END:VCALENDAR

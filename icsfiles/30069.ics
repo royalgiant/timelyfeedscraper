@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//213.162.240.30//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://nyttibergen.no
+X-WR-TIMEZONE:Europe/Oslo
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:uifbpdqv674orftm7aruh29dlo_R20150802T100000@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Felleskap – ta med noe som kan deles. </p>
+DTSTART;TZID=Europe/Oslo:20150920T120000
+DTEND;TZID=Europe/Oslo:20150920T140000
+EXDATE;TZID=Europe/Oslo:20150809T120000
+EXDATE;TZID=Europe/Oslo:20150816T120000
+EXDATE;TZID=Europe/Oslo:20150823T120000
+EXDATE;TZID=Europe/Oslo:20150913T120000
+EXDATE;TZID=Europe/Oslo:20151004T120000
+EXDATE;TZID=Europe/Oslo:20151018T120000
+EXDATE;TZID=Europe/Oslo:20151101T120000
+EXDATE;TZID=Europe/Oslo:20151122T120000
+EXDATE;TZID=Europe/Oslo:20151206T120000
+EXDATE;TZID=Europe/Oslo:20151220T120000
+EXDATE;TZID=Europe/Oslo:20160110T120000
+EXDATE;TZID=Europe/Oslo:20160117T120000
+LOCATION:Vigdis og Per-Erik Gåskjenn dersom ikke annet blir bestemt @ følg 
+ med
+RRULE:FREQ=WEEKLY;COUNT=25;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Brunsj og Fellesskap på Landås
+URL:http://nyttibergen.no/event/brunsj-og-fellesskap-pa-landas/
+END:VEVENT
+BEGIN:VEVENT
+UID:9pk1didht34v13lbosp99rb6ik@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Vi samles om Guds Ord og hverdagsspørsmål vi måtte ha. Ta gj
+ erne med litt å bite i til kaffen.</p>
+DTSTART;TZID=Europe/Oslo:20150920T180000
+DTEND;TZID=Europe/Oslo:20150920T200000
+EXDATE;TZID=Europe/Oslo:20150802T180000
+EXDATE;TZID=Europe/Oslo:20150809T180000
+EXDATE;TZID=Europe/Oslo:20150816T180000
+EXDATE;TZID=Europe/Oslo:20150823T180000
+EXDATE;TZID=Europe/Oslo:20150913T180000
+EXDATE;TZID=Europe/Oslo:20151004T180000
+EXDATE;TZID=Europe/Oslo:20151018T180000
+EXDATE;TZID=Europe/Oslo:20151101T180000
+EXDATE;TZID=Europe/Oslo:20151122T180000
+EXDATE;TZID=Europe/Oslo:20151206T180000
+EXDATE;TZID=Europe/Oslo:20151220T180000
+EXDATE;TZID=Europe/Oslo:20151227T180000
+EXDATE;TZID=Europe/Oslo:20160110T180000
+EXDATE;TZID=Europe/Oslo:20160117T180000
+LOCATION:Gerd og Morten Askeland\, Helldalssåta 24 om ikke annet formidles
+RRULE:FREQ=WEEKLY;COUNT=25;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Ettermiddagssamling Sædalen
+URL:http://nyttibergen.no/event/ettermiddagssamling-saedalen/
+END:VEVENT
+BEGIN:VEVENT
+UID:2015104120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt frukt eller noe som kan deles – men bare 
+ kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20151004T160000
+DTEND;TZID=Europe/Oslo:20151004T180000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+SEQUENCE:0
+SUMMARY:OBS tiden! Fellessamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/obs-tiden-fellessamling-pa-ulriken-bydelsse
+ nter/
+END:VEVENT
+BEGIN:VEVENT
+UID:khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt frukt eller noe som kan deles – men bare 
+ kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20151018T120000
+DTEND;TZID=Europe/Oslo:20151018T140000
+EXDATE;TZID=Europe/Oslo:20150712T120000
+EXDATE;TZID=Europe/Oslo:20150726T120000
+EXDATE;TZID=Europe/Oslo:20150809T120000
+EXDATE;TZID=Europe/Oslo:20150906T120000
+EXDATE;TZID=Europe/Oslo:20150920T120000
+EXDATE;TZID=Europe/Oslo:20151004T120000
+EXDATE;TZID=Europe/Oslo:20151115T120000
+EXDATE;TZID=Europe/Oslo:20151129T120000
+EXDATE;TZID=Europe/Oslo:20151213T120000
+EXDATE;TZID=Europe/Oslo:20151227T120000
+EXDATE;TZID=Europe/Oslo:20160124T120000
+EXDATE;TZID=Europe/Oslo:20160207T120000
+EXDATE;TZID=Europe/Oslo:20160221T120000
+EXDATE;TZID=Europe/Oslo:20160306T120000
+EXDATE;TZID=Europe/Oslo:20160320T120000
+EXDATE;TZID=Europe/Oslo:20160501T120000
+EXDATE;TZID=Europe/Oslo:20160515T120000
+EXDATE;TZID=Europe/Oslo:20160529T120000
+EXDATE;TZID=Europe/Oslo:20160612T120000
+EXDATE;TZID=Europe/Oslo:20160710T120000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+RRULE:FREQ=WEEKLY;COUNT=28;INTERVAL=2;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Fellessamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/fellessamling-pa-ulriken-bydelssenter-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151115120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Leir for storfamilien – kommer tilbake med informasjon</p>
+DTSTART;TZID=Europe/Oslo:20151120T190000
+DTEND;TZID=Europe/Oslo:20151122T150000
+LOCATION:Raknestunet Osterøy
+SEQUENCE:0
+SUMMARY:Raknestunet – leir
+URL:http://nyttibergen.no/event/raknestunet-leir/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151129120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt frukt eller noe som kan deles – men bare 
+ kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20151206T120000
+DTEND;TZID=Europe/Oslo:20151206T140000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+SEQUENCE:0
+SUMMARY:Adventssamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/adventssamling-pa-ulriken-bydelssenter/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151213120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt julekaker eller noe som kan deles – men b
+ are kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20151220T120000
+DTEND;TZID=Europe/Oslo:20151220T140000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+SEQUENCE:0
+SUMMARY:Julesamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/julesamling-pa-ulriken-bydelssenter/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151227120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt frukt eller noe som kan deles – men bare 
+ kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20160117T120000
+DTEND;TZID=Europe/Oslo:20160117T140000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+SEQUENCE:0
+SUMMARY:Fellessamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/fellessamling-pa-ulriken-bydelssenter-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016124120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt frukt eller noe som kan deles – men bare 
+ kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20160131T120000
+DTEND;TZID=Europe/Oslo:20160131T140000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+SEQUENCE:0
+SUMMARY:Fellessamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/fellessamling-pa-ulriken-bydelssenter-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016221120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt frukt eller noe som kan deles – men bare 
+ kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20160228T120000
+DTEND;TZID=Europe/Oslo:20160228T140000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+SEQUENCE:0
+SUMMARY:Fellessamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/fellessamling-pa-ulriken-bydelssenter-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:201636120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt frukt eller noe som kan deles – men bare 
+ kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20160320T120000
+DTEND;TZID=Europe/Oslo:20160320T140000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+SEQUENCE:0
+SUMMARY:Fellessamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/fellessamling-pa-ulriken-bydelssenter-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016320120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt frukt eller noe som kan deles – men bare 
+ kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20160508T120000
+DTEND;TZID=Europe/Oslo:20160508T140000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+SEQUENCE:0
+SUMMARY:Fellessamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/fellessamling-pa-ulriken-bydelssenter-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016515120000-khfhrqjbkae8s4f3g2jf5ssoi4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ta gjerne med litt frukt eller noe som kan deles – men bare 
+ kom som du er! Velkommen!</p>
+DTSTART;TZID=Europe/Oslo:20160605T120000
+DTEND;TZID=Europe/Oslo:20160605T140000
+LOCATION:Ulriken Bydelssenter vis a vis Landåshallen
+SEQUENCE:0
+SUMMARY:Fellessamling på Ulriken Bydelssenter
+URL:http://nyttibergen.no/event/fellessamling-pa-ulriken-bydelssenter/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.30.212.86//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://makemefly.be/
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2762@makemefly.be
+DTSTAMP:20150920T002133Z
+CATEGORIES;LANGUAGE=en-US:Webinar
+CONTACT:Els Deboutte \; els@makemefly.be
+DESCRIPTION:<p><a href='http://makemefly.be/wp-content/uploads/2015/08/inte
+ rview-607713_1280.jpg'><img class='size-thumbnail wp-image-2778 alignleft'
+  src='http://makemefly.be/wp-content/uploads/2015/08/interview-607713_1280
+ -150x150.jpg' alt='interview-607713_1280' width='150' height='150' /></a>I
+ s a headhunter really going to help you to get that job you want? Aren’t t
+ hey just the one who’s in standing in your way\, right between you and you
+ r dream job? How do you survive an interview with ‘the intermediate’ and m
+ ake it to the job offer?</p>\n<div class=''>\n<p>Isabel Verhelst\, founder
+  of Ingenium Executive Search (<a class='' href='http://www.ingenium-searc
+ h.be/' target='_blank'>www.ingenium-search.be</a>). She started her career
+  in audit at KPMG and moved to consulting at PricewaterhouseCoopers. In 20
+ 01 she decided to re-orient her career to HR. She has taken up global\, Eu
+ ropean and Belgian HR roles with a focus on human capital. Currently she p
+ erforms direct searches for top jobs in an international context.</p>\n<h4
+  style='text-align: center\;'><strong><span style='color: #3399ff\;'><a st
+ yle='color: #3399ff\;' href='https://attendee.gotowebinar.com/register/472
+ 2589727096034305' target='_blank'>Register here</a>!</span></strong></h4>
+ \n<p>During this webinar you will learn the 5 secrets that make Isabelle’s
+  candidates successful. From her broad experience\, she will share her do’
+ s and don’ts and explain how you can shine in the interview and land the j
+ ob offer. You will also get the chance to Q&A.</p>\n<p>Limited seats avail
+ able! Enroll to get the recording if you miss the live session!</p>\n<h4 s
+ tyle='text-align: center\;'><strong><span style='color: #3399ff\;'><a styl
+ e='color: #3399ff\;' href='https://attendee.gotowebinar.com/register/47225
+ 89727096034305' target='_blank'>Register here</a>!</span></strong></h4>\n<
+ /div>
+DTSTART;TZID=Europe/Brussels:20150921T200000
+DTEND;TZID=Europe/Brussels:20150921T204500
+SEQUENCE:0
+SUMMARY:Webinar: 5 secrets to successfully pass the headhunter
+URL:http://makemefly.be/event/webinar-5-secrets-to-successfully-pass-the-he
+ adhunter/
+END:VEVENT
+END:VCALENDAR

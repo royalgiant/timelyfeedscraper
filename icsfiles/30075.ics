@@ -1,0 +1,577 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//208.113.185.215//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://windmastershill.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-31454@windmastershill.org/wordpress
+DTSTAMP:20150920T002125Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ s://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/p480x480/11855754_10446127
+ 48885041_7073805426108514290_n.jpg?oh=3c74f4e8bf5ab4d1ec54acb025512462&oe=
+ 566F56DB' width='720' height='480' /></div>\n<p>Mark you calendar now for 
+ the Windmasters’ Hill September Baronial Gathering to be held at Honeycutt
+  Park in Fuquay-Varina\, NC on Sunday\, September 20.</p>\n<p>Baronial gat
+ herings include fighter practice (rapier & armoured)\, arts\, a business m
+ eeting\, and socializing with other members of the Barony.</p>\n<p>Honeycu
+ tt Park offers space for rapier and armoured practice\, a play area for ch
+ ildren\, and a covered pavilion for gathering.</p>\n<p>More details will b
+ e posted closer to the date of the event.</p>\n<p>Current Schedule (subjec
+ t to change):<br />\n1:00 Armoured & Rapier Practice<br />\n5:00 Baronial 
+ Meeting</p>
+DTSTART;TZID=America/New_York:20150920T130000
+DTEND;TZID=America/New_York:20150920T180000
+LOCATION:Honeycutt Park\, 101 Fitness Drive\, Fuquay-Varina\, NC
+SEQUENCE:0
+SUMMARY:Windmasters’ Hill September Baronial Gathering
+URL:http://windmastershill.org/event/windmasters-hill-september-baronial-ga
+ thering-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1595@windmastershill.org/wordpress
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Windmasters' Hill
+CONTACT:chronicler@windmastershill.org
+DESCRIPTION:<p>Submissions for our monthly news letter are due.  Please sen
+ d in your submissions to the Baronial Chronicler.</p>\n<p>chronicler@windm
+ astershill.org</p>
+DTSTART;TZID=America/New_York:20150920T210000
+DTEND;TZID=America/New_York:20150920T211500
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SEQUENCE:0
+SUMMARY:Submissions for Windlore due
+URL:http://windmastershill.org/event/submissions-for-windlore-due/
+END:VEVENT
+BEGIN:VEVENT
+UID:sbmvefk031lmpotrs335tn5ro4@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Kappellenberg
+CONTACT:
+DESCRIPTION:<p>This is our weekly business meeting. We usually discuss upco
+ ming events\, have a short class about medieval things\, and then go out f
+ or dinner afterwards.</p>\n<p>The meetings take place in the basement of t
+ he Chapel of the Cross.</p>
+DTSTART;TZID=America/New_York:20150921T193000
+DTEND;TZID=America/New_York:20150921T203000
+LOCATION:Chapel of the Cross\, 304 East Franklin Street\, Chapel Hill\, NC 
+ 27514\, United States
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SEQUENCE:0
+SUMMARY:Kapellenberg Weekly Business Meeting
+URL:http://windmastershill.org/event/weekly-business-meeting/
+X-TAGS;LANGUAGE=en-US:Business Meeting\,Class\,Practice
+END:VEVENT
+BEGIN:VEVENT
+UID:rblikoq121dasoth87n1asfjqk@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Kappellenberg
+CONTACT:
+DESCRIPTION:<p>Commedia del Arte practice following the Canton Meeting</p>
+DTSTART;TZID=America/New_York:20150921T203000
+DTEND;TZID=America/New_York:20150921T220000
+LOCATION:Chapel of the Cross\, 304 East Franklin Street\, Chapel Hill\, NC 
+ 27514\, United States
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=MO
+SEQUENCE:0
+SUMMARY:I Firenzi Rehearsal
+URL:http://windmastershill.org/event/i-firenzi-rehearsal/
+X-TAGS;LANGUAGE=en-US:Business Meeting\,Class\,Practice
+END:VEVENT
+BEGIN:VEVENT
+UID:kkklmapvoj85uv5thrd94b9bns@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Buckston
+CONTACT:
+DESCRIPTION:<p>Sounds like a band right! Come out to Buckston\, which as we
+  know is the place to be\, and check out Bambi’s class on Henna and Woad. 
+ If all goes well\, Ragnarr goes to work on Wednesday with a blue face!</p>
+ \n<p>https://www.facebook.com/events/514124625406260/</p>
+DTSTART;TZID=America/New_York:20150922T230000
+DTEND;TZID=America/New_York:20150923T010000
+LOCATION:210 St Marys Rd\, Hillsborough\, NC 27278\, USA
+SEQUENCE:0
+SUMMARY:Henna and Woad
+URL:http://windmastershill.org/event/henna-and-woad/
+END:VEVENT
+BEGIN:VEVENT
+UID:kru0jueolh81mf3mr5g4p6nr68@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Kappellenberg
+CONTACT:
+DESCRIPTION:<p>Weekly Rapier practice. Please Contact the marshal in advanc
+ e to let them know you are coming.</p>
+DTSTART;TZID=America/New_York:20150924T173000
+DTEND;TZID=America/New_York:20150924T203000
+LOCATION:CM Herndon Park\, 511 Scott King Road\, Durham\, NC 27713\, United
+  States
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Kapellenberg Rapier Practice
+URL:http://windmastershill.org/event/rapier-practice/
+X-TAGS;LANGUAGE=en-US:Business Meeting\,Class\,Practice
+END:VEVENT
+BEGIN:VEVENT
+UID:037fl5nf2tboe5559v75v2l5mo@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Buckston\,Kappellenberg
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T180000
+DTEND;TZID=America/New_York:20150924T200000
+EXDATE;TZID=America/New_York:20141016T180000
+EXDATE;TZID=America/New_York:20141023T180000
+EXDATE;TZID=America/New_York:20141030T180000
+EXDATE;TZID=America/New_York:20141120T180000
+EXDATE;TZID=America/New_York:20141127T180000
+EXDATE;TZID=America/New_York:20150604T180000
+EXDATE;TZID=America/New_York:20150730T180000
+EXDATE;TZID=America/New_York:20150806T180000
+EXDATE;TZID=America/New_York:20150827T180000
+EXDATE;TZID=America/New_York:20151126T180000
+EXDATE;TZID=America/New_York:20151224T180000
+EXDATE;TZID=America/New_York:20151231T180000
+LOCATION:Solterra Way\, Durham\, NC 27705\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Buckston/K’Berg Heavy Practice
+URL:http://windmastershill.org/event/heavy-practice-4/
+X-TAGS;LANGUAGE=en-US:Practice
+END:VEVENT
+BEGIN:VEVENT
+UID:dchsjhi0k8vip455th832n3pes@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Attillium
+CONTACT:
+DESCRIPTION:<p>Come and meet up with the group for a hangout. Sometimes we 
+ do art and chat\, sometimes we play games. There is almost always dinner a
+ fterwards. </p>
+DTSTART;TZID=America/New_York:20150924T190000
+DTEND;TZID=America/New_York:20150924T210000
+EXDATE;TZID=America/New_York:20140828T190000
+EXDATE;TZID=America/New_York:20141127T190000
+EXDATE;TZID=America/New_York:20141225T190000
+EXDATE;TZID=America/New_York:20151126T190000
+EXDATE;TZID=America/New_York:20151224T190000
+LOCATION:Kiwanis Club Recreation Center: 352 Devers Street\, Fayetteville\,
+  NC 28303
+RRULE:FREQ=MONTHLY;BYDAY=4TH
+SEQUENCE:0
+SUMMARY:Attillium Arts Social
+URL:http://windmastershill.org/event/attillium-arts-social-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:cuib1uh53ieduvqjmjnsbqtaj0@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T190000
+DTEND;TZID=America/New_York:20150924T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20151022T230000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast Business
+URL:http://windmastershill.org/event/elvegast-business-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:bl77m983bm09fiuketvr1pn3c8@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Attillium
+CONTACT:
+DESCRIPTION:<p>Armored Combat and Fencing practice occurs in the park most 
+ Sundays and you are welcome to bring the family as we have playgrounds and
+  people working on arts as well. New fighters will have the opportunity to
+  try fighting  as we do have loaner armor and equipment available but you 
+ will need your on personal athletic protection to fully engage in combat.<
+ /p>\n<p>We may cancel practice due to weather or lack of appropriate marsh
+ als\; please watch the Windmasters’ Hill Baronial feed (http://windmasters
+ hill.org/calendar-2/) or Facebook (https://www.facebook.com/pages/Canton-o
+ f-Attilium/190089997707034) for updates. </p>
+DTSTART;TZID=America/New_York:20150927T130000
+DTEND;TZID=America/New_York:20150927T170000
+LOCATION:Honeycutt Park\, 352 Devers Street\, Fayetteville\, NC 28303
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=4SU
+SEQUENCE:0
+SUMMARY:Attillium Fighter Practice
+URL:http://windmastershill.org/event/attillium-fighter-practice-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:arebiftt8hr23g2uo55gt9fkmc@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Attillium
+CONTACT:
+DESCRIPTION:<p>Come and meet up with the group for a hangout. Sometimes we 
+ do art and chat\, sometimes we play games. There is almost always dinner a
+ fterwards. </p>
+DTSTART;TZID=America/New_York:20151001T190000
+DTEND;TZID=America/New_York:20151001T210000
+LOCATION:Kiwanis Club Recreation Center: 352 Devers Street\, Fayetteville\,
+  NC 28303
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=1TH
+SEQUENCE:0
+SUMMARY:Attillium Arts Social
+URL:http://windmastershill.org/event/attillium-arts-social-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:2015101190000-q4olj1098ipjvhhq5l8ur3c3k0@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:<p>Tonight’s teacher will be our very own Baroness of Windmaste
+ r’s Hill! Baroness Adriana la Bretonne</p>\n<p>Want to know how to work yo
+ ur SCA experience into your resume? This is the class you don’t want to mi
+ ss!!!</p>
+DTSTART;TZID=America/New_York:20151001T190000
+DTEND;TZID=America/New_York:20151001T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+SEQUENCE:0
+SUMMARY:Elvegast A&S – SCA and your Resume
+URL:http://windmastershill.org/event/elvegast-as-sca-and-your-resume/
+END:VEVENT
+BEGIN:VEVENT
+UID:5s63469ci63sdrspqpnk069p7o@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Attillium
+CONTACT:
+DESCRIPTION:<p>Armored Combat and Fencing practice occurs in the park most 
+ Sundays and you are welcome to bring the family as we have playgrounds and
+  people working on arts as well. New fighters will have the opportunity to
+  try fighting  as we do have loaner armor and equipment available but you 
+ will need your on personal athletic protection to fully engage in combat.<
+ /p>\n<p>We may cancel practice due to weather or lack of appropriate marsh
+ als\; please watch the Windmasters’ Hill Baronial feed (http://windmasters
+ hill.org/calendar-2/) or Facebook (https://www.facebook.com/pages/Canton-o
+ f-Attilium/190089997707034) for updates. </p>
+DTSTART;TZID=America/New_York:20151004T130000
+DTEND;TZID=America/New_York:20151004T170000
+LOCATION:Honeycutt Park\, 352 Devers Street\, Fayetteville\, NC 28303
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=1SU
+SEQUENCE:0
+SUMMARY:Attillium Fighter Practice
+URL:http://windmastershill.org/event/attillium-fighter-practice-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:k2cht2tnp39c4hufoqd8igggc8@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Attillium
+CONTACT:
+DESCRIPTION:<p>Our business meetings are a great way to know what’s going o
+ n in the Canton. This is where we discuss upcoming events\, vote on policy
+  and financial expenditures\, and talk about how best to have an awesome t
+ ime doing what we do. Meetings usually last around an hour. Current member
+ ship card is required to vote. </p>
+DTSTART;TZID=America/New_York:20151008T190000
+DTEND;TZID=America/New_York:20151008T210000
+LOCATION:Kiwanis Recreation Center\, 352 Devers Street\, Fayetteville\, NC 
+ 28303
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=2TH
+SEQUENCE:0
+SUMMARY:Attillium Business Meeting
+URL:http://windmastershill.org/event/attillium-business-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:g3oakt6rgn588ei8hth5ot9k7k@google.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Attillium
+CONTACT:
+DESCRIPTION:<p>Armored Combat and Fencing practice occurs in the park most 
+ Sundays and you are welcome to bring the family as we have playgrounds and
+  people working on arts as well. New fighters will have the opportunity to
+  try fighting  as we do have loaner armor and equipment available but you 
+ will need your on personal athletic protection to fully engage in combat.<
+ /p>\n<p>We may cancel practice due to weather or lack of appropriate marsh
+ als\; please watch the Windmasters’ Hill Baronial feed (http://windmasters
+ hill.org/calendar-2/) or Facebook (https://www.facebook.com/pages/Canton-o
+ f-Attilium/190089997707034) for updates. </p>
+DTSTART;TZID=America/New_York:20151011T130000
+DTEND;TZID=America/New_York:20151011T170000
+LOCATION:Honeycutt Park\, 352 Devers Street\, Fayetteville\, NC 28303
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:Attillium Fighter Practice
+URL:http://windmastershill.org/event/attillium-fighter-practice-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151015190000-q4olj1098ipjvhhq5l8ur3c3k0@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151015T190000
+DTEND;TZID=America/New_York:20151015T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+SEQUENCE:0
+SUMMARY:No Class – See you at WOW!
+URL:http://windmastershill.org/event/no-class-see-you-at-wow/
+END:VEVENT
+BEGIN:VEVENT
+UID:c8rss6q4v54a50306o2gc32oi4@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:<p>Bring a dish to share!<br />\nHang out and get to know every
+ one!</p>
+DTSTART;TZID=America/New_York:20151029T190000
+DTEND;TZID=America/New_York:20151029T200000
+LOCATION:Our Savior Lutheran Church\, 1500 Glenwood Avenue\, Raleigh\, NC 2
+ 7608\, United States
+SEQUENCE:0
+SUMMARY:Elvegast Potluck
+URL:http://windmastershill.org/event/elvegast-potluck-68/
+END:VEVENT
+BEGIN:VEVENT
+UID:rks1r11r20ct6ct7kubqascqu0@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151105T190000
+DTEND;TZID=America/New_York:20151105T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20151218T000000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast A&S
+URL:http://windmastershill.org/event/elvegast-as-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:7meb3j85kmb8vtd2ma2ugu56k4@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151112T190000
+DTEND;TZID=America/New_York:20151112T200000
+EXDATE;TZID=America/New_York:20151126T190000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20151211T000000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast Business
+URL:http://windmastershill.org/event/elvegast-business-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:nrh1gmv2pvrv45fq97f0kl40bs@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Buckston
+CONTACT:
+DESCRIPTION:<p>Fight\, feast\, and spend a day in the past! Royals\, fighte
+ rs\, artisans\, and merchants encouraged. Family friendly activities will 
+ be available.</p>\n<p>https://www.facebook.com/events/1100676883298096/</p
+ >
+DTSTART;TZID=America/New_York:20151114T150000
+DTEND;TZID=America/New_York:20151115T030000
+LOCATION:Schley Grange Hall 3416 Schley Road\, Hillsborough\, NC 27278
+SEQUENCE:0
+SUMMARY:Buckston Birthday\, November 14th 2015
+URL:http://windmastershill.org/event/buckston-birthday-november-14th-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:o1bga7l7bjpqrh45cq7bhc514k@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160107T190000
+DTEND;TZID=America/New_York:20160107T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20160317T230000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast A&S
+URL:http://windmastershill.org/event/elvegast-as-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:um733gfjdqs49m6c38i4v1g63k@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160114T190000
+DTEND;TZID=America/New_York:20160114T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20160324T230000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast Business
+URL:http://windmastershill.org/event/elvegast-business-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-31455@windmastershill.org/wordpress
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ s://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/p480x480/11888033_10446232
+ 08883995_2432538084260474504_n.jpg?oh=fef372792a7331d62faaa382d257c2d7&oe=
+ 563EF359' width='720' height='480' /></div>
+DTSTART;TZID=America/New_York:20160226T170000
+DTEND;TZID=America/New_York:20160228T120000
+GEO:+36.394419;-79.708252
+LOCATION:Betsy Jeff Penn 4-H Educational Center @ 804 Cedar Ln\, Reidsville
+ \, NC\, 27320\, United States
+SEQUENCE:0
+SUMMARY:Ymir 2016
+URL:http://windmastershill.org/event/ymir-2016/
+END:VEVENT
+BEGIN:VEVENT
+UID:hunjn4qh90fp5ssq79hb0vst78@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:<p>Bring a dish to share!<br />\nHang out and get to know every
+ one!</p>
+DTSTART;TZID=America/New_York:20160331T190000
+DTEND;TZID=America/New_York:20160331T200000
+LOCATION:Our Savior Lutheran Church\, 1500 Glenwood Avenue\, Raleigh\, NC 2
+ 7608\, United States
+SEQUENCE:0
+SUMMARY:Elvegast Potluck
+URL:http://windmastershill.org/event/elvegast-potluck-67/
+END:VEVENT
+BEGIN:VEVENT
+UID:ifmptr35f7lm0q9m62tqh31g48@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160407T190000
+DTEND;TZID=America/New_York:20160407T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20160616T230000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast A&S
+URL:http://windmastershill.org/event/elvegast-as-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:olrhf5k2377sc6e1bv1okdspic@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160414T190000
+DTEND;TZID=America/New_York:20160414T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20160623T230000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast Business
+URL:http://windmastershill.org/event/elvegast-business-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:nobd8ad8rp06m3950adpph6i0k@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:<p>Bring a dish to share!<br />\nHang out and get to know every
+ one!</p>
+DTSTART;TZID=America/New_York:20160630T190000
+DTEND;TZID=America/New_York:20160630T200000
+LOCATION:Our Savior Lutheran Church\, 1500 Glenwood Avenue\, Raleigh\, NC 2
+ 7608\, United States
+SEQUENCE:0
+SUMMARY:Elvegast Potluck
+URL:http://windmastershill.org/event/elvegast-potluck-66/
+END:VEVENT
+BEGIN:VEVENT
+UID:p8su585lf71ls3ka15v1jlpe0k@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160707T190000
+DTEND;TZID=America/New_York:20160707T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20160915T230000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast A&S
+URL:http://windmastershill.org/event/elvegast-as-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9jqia045ojrnqcjg7prs3ofc@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160714T190000
+DTEND;TZID=America/New_York:20160714T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20160922T230000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast Business
+URL:http://windmastershill.org/event/elvegast-business-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:k9pprleevlgj7kf04t99farjuc@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:<p>Bring a dish to share!<br />\nHang out and get to know every
+ one!</p>
+DTSTART;TZID=America/New_York:20160929T190000
+DTEND;TZID=America/New_York:20160929T200000
+LOCATION:Our Savior Lutheran Church\, 1500 Glenwood Avenue\, Raleigh\, NC 2
+ 7608\, United States
+SEQUENCE:0
+SUMMARY:Elvegast Potluck
+URL:http://windmastershill.org/event/elvegast-potluck-65/
+END:VEVENT
+BEGIN:VEVENT
+UID:g1e69h63aupc0bf6hj68vscdvg@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161006T190000
+DTEND;TZID=America/New_York:20161006T200000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20161216T000000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast A&S
+URL:http://windmastershill.org/event/elvegast-as-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:rl83cmktlba5ij09tflafmdtjo@google.com
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=en-US:Elvegast
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161013T190000
+DTEND;TZID=America/New_York:20161013T200000
+EXDATE;TZID=America/New_York:20161124T190000
+LOCATION:Our Saviour's Lutheran Church\, Glenwood Avenue\, Raleigh\, NC\, U
+ nited States
+RRULE:FREQ=WEEKLY;UNTIL=20161223T000000Z;INTERVAL=2;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Elvegast Business
+URL:http://windmastershill.org/event/elvegast-business-9/
+END:VEVENT
+END:VCALENDAR

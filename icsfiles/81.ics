@@ -1,0 +1,276 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//185.7.249.25//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://newmarketuncovered.com
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-279149@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Race Dates
+CONTACT:01638 675500\; http://newmarket.thejockeyclub.co.uk/events-tickets/
+ whats-on/the-cambridgeshire-meeting
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2012/08/newmarket-horse-racin
+ g-300x201.png' width='300' height='201' /></div><p>Come and be part of thi
+ s memorable late-summer meeting with activities for all to enjoy including
+  our very own beer festival. As you would expect on our historic turf\, th
+ e racing is special too: check out the stunning sight that is the charge o
+ f 35 horses down the Rowley Mile in the Betfred Cambridgeshire Handicap. L
+ ike so many aspects of racing and the town of Newmarket\, the Cambridgeshi
+ re (first run in the 19th century) has a colourful history and a thrilling
+  new chapter will unfold this autumn.</p>
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+LOCATION:Newmarket Racecourses @ July Course\, Newmarket CB8 0FG
+RRULE:FREQ=DAILY;COUNT=3
+SEQUENCE:0
+SUMMARY:The Cambridgeshire Meeting
+URL:http://newmarketuncovered.com/event/the-cambridgeshire-meeting/
+X-COST:Ticket prices vary
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-279101@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Horse Sales
+CONTACT:01638 665931\; sales@tattersalls.com\; http://www.tattersalls.com/o
+ ctober1-sale-overview.php
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2015/01/tattersalls-300x225.j
+ pg' width='300' height='225' /></div><p><b>Europe’s Premier Yearling Sale.
+ </b></p>\n<p>Tattersalls is the world’s oldest bloodstock auctioneers. Som
+ e of the greatest thoroughbreds in racing have been sold at Tattersalls. V
+ isitors can sit in the magnificent sale ring and watch proceedings unfold.
+ </p>\n<h1>Tattersalls Live</h1>\n<p><embed src='http://docs.tattersalls.co
+ m/av/player.swf' height='470' width='627' allowscriptaccess='always' allow
+ fullscreen='true' flashvars='&author=Tattersalls&description=Live%20Video%
+ 20Stream&file=tattersalls1.flv&plugins=viral-2d&streamer=rtmp%3A%2F%2Ftatt
+ ersallslivefs.fplive.net%2Ftattersallslive-live%2F&stretching=exactfit&tit
+ le=Tattersalls%20Live%20Video'/></p>
+DTSTART;VALUE=DATE:20151006
+DTEND;VALUE=DATE:20151007
+LOCATION:Tattersalls @ The Avenue\, Newmarket
+RRULE:FREQ=DAILY;COUNT=4
+SEQUENCE:0
+SUMMARY:October Yearling Sale Book 1
+URL:http://newmarketuncovered.com/event/october-yearling-sale-book-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-279103@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Horse Sales
+CONTACT:01638 665931\; sales@tattersalls.com\; http://www.tattersalls.com/o
+ ctober2-sale-overview.php
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2015/01/tattersalls-300x225.j
+ pg' width='300' height='225' /></div><p><b>Book 2 of Europe’s Largest Year
+ ling Sale.</b></p>\n<p>Tattersalls is the world’s oldest bloodstock auctio
+ neers. Some of the greatest thoroughbreds in racing have been sold at Tatt
+ ersalls. Visitors can sit in the magnificent sale ring and watch proceedin
+ gs unfold.</p>\n<h1>Tattersalls Live</h1>\n<p><embed src='http://docs.tatt
+ ersalls.com/av/player.swf' height='470' width='627' allowscriptaccess='alw
+ ays' allowfullscreen='true' flashvars='&author=Tattersalls&description=Liv
+ e%20Video%20Stream&file=tattersalls1.flv&plugins=viral-2d&streamer=rtmp%3A
+ %2F%2Ftattersallslivefs.fplive.net%2Ftattersallslive-live%2F&stretching=ex
+ actfit&title=Tattersalls%20Live%20Video'/></p>
+DTSTART;VALUE=DATE:20151011
+DTEND;VALUE=DATE:20151012
+LOCATION:Tattersalls @ The Avenue\, Newmarket
+RRULE:FREQ=DAILY;COUNT=4
+SEQUENCE:0
+SUMMARY:October Yearling Sale Book 2
+URL:http://newmarketuncovered.com/event/october-yearling-sale-book-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-279104@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Horse Sales
+CONTACT:01638 665931\; sales@tattersalls.com\; http://www.tattersalls.com/o
+ ctober3-sale-overview.php
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2015/01/tattersalls-300x225.j
+ pg' width='300' height='225' /></div><p><b>Book 3 of Europe’s Largest Year
+ ling Sale.</b></p>\n<p>Tattersalls is the world’s oldest bloodstock auctio
+ neers. Some of the greatest thoroughbreds in racing have been sold at Tatt
+ ersalls. Visitors can sit in the magnificent sale ring and watch proceedin
+ gs unfold.</p>\n<h1>Tattersalls Live</h1>\n<p><embed src='http://docs.tatt
+ ersalls.com/av/player.swf' height='470' width='627' allowscriptaccess='alw
+ ays' allowfullscreen='true' flashvars='&author=Tattersalls&description=Liv
+ e%20Video%20Stream&file=tattersalls1.flv&plugins=viral-2d&streamer=rtmp%3A
+ %2F%2Ftattersallslivefs.fplive.net%2Ftattersallslive-live%2F&stretching=ex
+ actfit&title=Tattersalls%20Live%20Video'/></p>
+DTSTART;VALUE=DATE:20151015
+DTEND;VALUE=DATE:20151016
+LOCATION:Tattersalls @ The Avenue\, Newmarket
+RRULE:FREQ=DAILY;COUNT=2
+SEQUENCE:0
+SUMMARY:October Yearling Sale Book 3
+URL:http://newmarketuncovered.com/event/october-yearling-sale-book-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-279105@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Horse Sales
+CONTACT:01638 665931\; sales@tattersalls.com\; http://www.tattersalls.com/a
+ utumnhit-sale-overview.php
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2015/01/tattersalls-300x225.j
+ pg' width='300' height='225' /></div><p><b>The World’s Largest H-I-T Sale.
+ </b></p>\n<p>Tattersalls is the world’s oldest bloodstock auctioneers. Som
+ e of the greatest thoroughbreds in racing have been sold at Tattersalls. V
+ isitors can sit in the magnificent sale ring and watch proceedings unfold.
+ </p>\n<h1>Tattersalls Live</h1>\n<p><embed src='http://docs.tattersalls.co
+ m/av/player.swf' height='470' width='627' allowscriptaccess='always' allow
+ fullscreen='true' flashvars='&author=Tattersalls&description=Live%20Video%
+ 20Stream&file=tattersalls1.flv&plugins=viral-2d&streamer=rtmp%3A%2F%2Ftatt
+ ersallslivefs.fplive.net%2Ftattersallslive-live%2F&stretching=exactfit&tit
+ le=Tattersalls%20Live%20Video'/></p>
+DTSTART;VALUE=DATE:20151026
+DTEND;VALUE=DATE:20151027
+LOCATION:Tattersalls @ The Avenue\, Newmarket
+RRULE:FREQ=DAILY;COUNT=4
+SEQUENCE:0
+SUMMARY:Autumn Horses in Training Sale
+URL:http://newmarketuncovered.com/event/autumn-horses-in-training-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-279106@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Horse Sales
+CONTACT:01638 665931\; sales@tattersalls.com\; http://www.tattersalls.com/o
+ ctober4-sale-overview.php
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2015/01/tattersalls-300x225.j
+ pg' width='300' height='225' /></div><p><b>Book 4 of Europe’s Largest Year
+ ling Sale.</b></p>\n<p>Tattersalls is the world’s oldest bloodstock auctio
+ neers. Some of the greatest thoroughbreds in racing have been sold at Tatt
+ ersalls. Visitors can sit in the magnificent sale ring and watch proceedin
+ gs unfold.</p>\n<h1>Tattersalls Live</h1>\n<p><embed src='http://docs.tatt
+ ersalls.com/av/player.swf' height='470' width='627' allowscriptaccess='alw
+ ays' allowfullscreen='true' flashvars='&author=Tattersalls&description=Liv
+ e%20Video%20Stream&file=tattersalls1.flv&plugins=viral-2d&streamer=rtmp%3A
+ %2F%2Ftattersallslivefs.fplive.net%2Ftattersallslive-live%2F&stretching=ex
+ actfit&title=Tattersalls%20Live%20Video'/></p>
+DTSTART;VALUE=DATE:20151029
+DTEND;VALUE=DATE:20151030
+LOCATION:Tattersalls @ The Avenue\, Newmarket
+RRULE:FREQ=DAILY;COUNT=2
+SEQUENCE:0
+SUMMARY:October Yearling Sale Book 4
+URL:http://newmarketuncovered.com/event/october-yearling-sale-book-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-279107@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Horse Sales
+CONTACT:01638 665931\; sales@tattersalls.com\; http://www.tattersalls.com/d
+ ecyearlings-sale-overview.php
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2015/01/tattersalls-300x225.j
+ pg' width='300' height='225' /></div><p><b>The World’s Most International 
+ Thoroughbred Sale.</b></p>\n<p>Tattersalls is the world’s oldest bloodstoc
+ k auctioneers. Some of the greatest thoroughbreds in racing have been sold
+  at Tattersalls. Visitors can sit in the magnificent sale ring and watch p
+ roceedings unfold.</p>\n<h1>Tattersalls Live</h1>\n<p><embed src='http://d
+ ocs.tattersalls.com/av/player.swf' height='470' width='627' allowscriptacc
+ ess='always' allowfullscreen='true' flashvars='&author=Tattersalls&descrip
+ tion=Live%20Video%20Stream&file=tattersalls1.flv&plugins=viral-2d&streamer
+ =rtmp%3A%2F%2Ftattersallslivefs.fplive.net%2Ftattersallslive-live%2F&stret
+ ching=exactfit&title=Tattersalls%20Live%20Video'/></p>
+DTSTART;VALUE=DATE:20151123
+DTEND;VALUE=DATE:20151124
+LOCATION:Tattersalls @ The Avenue\, Newmarket
+SEQUENCE:0
+SUMMARY:December Yearling Sale
+URL:http://newmarketuncovered.com/event/december-yearling-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-279108@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Horse Sales
+CONTACT:01638 665931\; sales@tattersalls.com\; http://www.tattersalls.com/d
+ ecfoals-sale-overview.php
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2015/01/tattersalls-300x225.j
+ pg' width='300' height='225' /></div><p><b>The World’s Most International 
+ Thoroughbred Sale.</b></p>\n<p>Tattersalls is the world’s oldest bloodstoc
+ k auctioneers. Some of the greatest thoroughbreds in racing have been sold
+  at Tattersalls. Visitors can sit in the magnificent sale ring and watch p
+ roceedings unfold.</p>\n<h1>Tattersalls Live</h1>\n<p><embed src='http://d
+ ocs.tattersalls.com/av/player.swf' height='470' width='627' allowscriptacc
+ ess='always' allowfullscreen='true' flashvars='&author=Tattersalls&descrip
+ tion=Live%20Video%20Stream&file=tattersalls1.flv&plugins=viral-2d&streamer
+ =rtmp%3A%2F%2Ftattersallslivefs.fplive.net%2Ftattersallslive-live%2F&stret
+ ching=exactfit&title=Tattersalls%20Live%20Video'/></p>
+DTSTART;VALUE=DATE:20151125
+DTEND;VALUE=DATE:20151126
+LOCATION:Tattersalls @ The Avenue\, Newmarket
+RRULE:FREQ=DAILY;COUNT=4
+SEQUENCE:0
+SUMMARY:December Foal Sale
+URL:http://newmarketuncovered.com/event/december-foal-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-279109@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Horse Sales
+CONTACT:01638 665931\; sales@tattersalls.com\; http://www.tattersalls.com/d
+ ecmares-sale-overview.php
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2015/01/tattersalls-300x225.j
+ pg' width='300' height='225' /></div><p><b>The World’s Most International 
+ Thoroughbred Sale.</b></p>\n<p>Tattersalls is the world’s oldest bloodstoc
+ k auctioneers. Some of the greatest thoroughbreds in racing have been sold
+  at Tattersalls. Visitors can sit in the magnificent sale ring and watch p
+ roceedings unfold.</p>\n<h1>Tattersalls Live</h1>\n<p><embed src='http://d
+ ocs.tattersalls.com/av/player.swf' height='470' width='627' allowscriptacc
+ ess='always' allowfullscreen='true' flashvars='&author=Tattersalls&descrip
+ tion=Live%20Video%20Stream&file=tattersalls1.flv&plugins=viral-2d&streamer
+ =rtmp%3A%2F%2Ftattersallslivefs.fplive.net%2Ftattersallslive-live%2F&stret
+ ching=exactfit&title=Tattersalls%20Live%20Video'/></p>
+DTSTART;VALUE=DATE:20151130
+DTEND;VALUE=DATE:20151201
+LOCATION:Tattersalls @ The Avenue\, Newmarket
+RRULE:FREQ=DAILY;COUNT=5
+SEQUENCE:0
+SUMMARY:December Breeding Stock Sale
+URL:http://newmarketuncovered.com/event/december-breeding-stock-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-277731@newmarketuncovered.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Live Music
+CONTACT:01638 660668\; events@kingsnewmarket.co.uk\; http://www.kingsnewmar
+ ket.co.uk/#!whats-on/c66t
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newmarketuncovered.com/wp-content/uploads/2015/01/motown-at-kings-226x3
+ 00.png' width='226' height='300' /></div><p>Enjoy a night of Motown and So
+ ul at Kings Restaurant and Bar\, Newmarket.</p>
+DTSTART;TZID=Europe/London:20150925T193000
+DTEND;TZID=Europe/London:20150925T230000
+LOCATION:Kings Restaurant & Bar @ Kingston Passage\, High Street\, Newmarke
+ t CB8 8UG
+SEQUENCE:0
+SUMMARY:Motown & Soul Night
+URL:http://newmarketuncovered.com/event/motown-soul-night/
+X-COST:£5 per person
+END:VEVENT
+END:VCALENDAR

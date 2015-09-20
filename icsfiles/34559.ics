@@ -1,0 +1,678 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//127.0.0.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.pinelandschool.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-831@www.pinelandschool.org
+DTSTAMP:20150920T002944Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Book Fair</p>
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150930
+SEQUENCE:0
+SUMMARY:Book Fair
+URL:http://www.pinelandschool.org/event/book-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-835@www.pinelandschool.org
+DTSTAMP:20150920T002944Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Fire Prevention Week</p>
+DTSTART;VALUE=DATE:20151005
+DTEND;VALUE=DATE:20151009
+SEQUENCE:0
+SUMMARY:Fire Prevention Week
+URL:http://www.pinelandschool.org/event/fire-prevention-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-834@www.pinelandschool.org
+DTSTAMP:20150920T002944Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Week of Respect</p>
+DTSTART;VALUE=DATE:20151005
+DTEND;VALUE=DATE:20151009
+SEQUENCE:0
+SUMMARY:Week of Respect
+URL:http://www.pinelandschool.org/event/week-of-respect/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-836@www.pinelandschool.org
+DTSTAMP:20150920T002944Z
+CATEGORIES;LANGUAGE=en-US:Holiday\,Staff In-Service
+CONTACT:
+DESCRIPTION:<p>Staff In-Service – School Closed</p>
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151010
+SEQUENCE:0
+SUMMARY:Staff In-Service – School Closed
+URL:http://www.pinelandschool.org/event/staff-in-service-school-closed/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-837@www.pinelandschool.org
+DTSTAMP:20150920T002944Z
+CATEGORIES;LANGUAGE=en-US:Holiday
+CONTACT:
+DESCRIPTION:<p>Columbus Day – School Closed</p>
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:Columbus Day – School Closed
+URL:http://www.pinelandschool.org/event/columbus-day-school-closed-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-838@www.pinelandschool.org
+DTSTAMP:20150920T002944Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>School Violence & Awareness Week</p>
+DTSTART;VALUE=DATE:20151019
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:School Violence & Awareness Week
+URL:http://www.pinelandschool.org/event/school-violence-awareness-week-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-840@www.pinelandschool.org
+DTSTAMP:20150920T002944Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Student Council Campaign Week</p>
+DTSTART;VALUE=DATE:20151026
+DTEND;VALUE=DATE:20151031
+SEQUENCE:0
+SUMMARY:Student Council Campaign Week
+URL:http://www.pinelandschool.org/event/student-council-campaign-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-841@www.pinelandschool.org
+DTSTAMP:20150920T002944Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Election Day – Student Council Election</p>
+DTSTART;VALUE=DATE:20151104
+DTEND;VALUE=DATE:20151105
+SEQUENCE:0
+SUMMARY:Election Day – Student Council Election
+URL:http://www.pinelandschool.org/event/election-day-student-council-electi
+ on/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-842@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday\,Staff In-Service
+CONTACT:
+DESCRIPTION:<p>School Closed – NJEA Convention</p>
+DTSTART;VALUE=DATE:20151105
+DTEND;VALUE=DATE:20151107
+SEQUENCE:0
+SUMMARY:School Closed – NJEA Convention
+URL:http://www.pinelandschool.org/event/school-closed-njea-convention-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-843@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>1st Marking Period Ends</p>
+DTSTART;VALUE=DATE:20151111
+DTEND;VALUE=DATE:20151112
+SEQUENCE:0
+SUMMARY:1st MP Ends
+URL:http://www.pinelandschool.org/event/1st-mp-ends/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-845@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday
+CONTACT:
+DESCRIPTION:<p>School Closed – Thanksgiving</p>
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:School Closed – Thanksgiving
+URL:http://www.pinelandschool.org/event/school-closed-thanksgiving-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-848@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday
+CONTACT:
+DESCRIPTION:<p>School Closed – Christmas</p>
+DTSTART;VALUE=DATE:20151224
+DTEND;VALUE=DATE:20151225
+SEQUENCE:0
+SUMMARY:School Closed – Christmas
+URL:http://www.pinelandschool.org/event/school-closed-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-849@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday
+CONTACT:
+DESCRIPTION:<p>School Closed – Winter Break</p>
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20160102
+SEQUENCE:0
+SUMMARY:School Closed – Winter Break
+URL:http://www.pinelandschool.org/event/school-closed-winter-break-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-850@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Classes Resume</p>
+DTSTART;VALUE=DATE:20160104
+DTEND;VALUE=DATE:20160105
+SEQUENCE:0
+SUMMARY:Classes Resume
+URL:http://www.pinelandschool.org/event/classes-resume/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-851@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday\,Staff In-Service
+CONTACT:
+DESCRIPTION:<p>School Closed – Staff In-Service</p>
+DTSTART;VALUE=DATE:20160115
+DTEND;VALUE=DATE:20160116
+SEQUENCE:0
+SUMMARY:School Closed – Staff In-Service
+URL:http://www.pinelandschool.org/event/school-closed-staff-in-service-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-852@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday
+CONTACT:
+DESCRIPTION:<p>School Closed – Martin Luther King</p>
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160119
+SEQUENCE:0
+SUMMARY:School Closed – Martin Luther King
+URL:http://www.pinelandschool.org/event/school-closed-martin-luther-king-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-853@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>2nd Marking Period Ends</p>
+DTSTART;VALUE=DATE:20160128
+DTEND;VALUE=DATE:20160129
+SEQUENCE:0
+SUMMARY:2nd MP Ends
+URL:http://www.pinelandschool.org/event/2nd-mp-ends/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-854@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Job Shadow Week</p>
+DTSTART;VALUE=DATE:20160201
+DTEND;VALUE=DATE:20160206
+SEQUENCE:0
+SUMMARY:Job Shadow Week
+URL:http://www.pinelandschool.org/event/job-shadow-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-855@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Ground Hog Day</p>
+DTSTART;VALUE=DATE:20160202
+DTEND;VALUE=DATE:20160203
+SEQUENCE:0
+SUMMARY:Ground Hog Day
+URL:http://www.pinelandschool.org/event/ground-hog-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-856@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday\,Staff In-Service
+CONTACT:
+DESCRIPTION:<p>School Closed Staff In-Service</p>
+DTSTART;VALUE=DATE:20160212
+DTEND;VALUE=DATE:20160213
+SEQUENCE:0
+SUMMARY:School Closed Staff In-Service
+URL:http://www.pinelandschool.org/event/school-closed-staff-in-service-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-857@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday
+CONTACT:
+DESCRIPTION:<p>School Closed – President’s Day</p>
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SEQUENCE:0
+SUMMARY:School Closed – President’s Day
+URL:http://www.pinelandschool.org/event/school-closed-presidents-day-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-858@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Read Across America</p>
+DTSTART;VALUE=DATE:20160301
+DTEND;VALUE=DATE:20160305
+SEQUENCE:0
+SUMMARY:Read Across America
+URL:http://www.pinelandschool.org/event/read-across-america/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-859@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Bookfair</p>
+DTSTART;VALUE=DATE:20160314
+DTEND;VALUE=DATE:20160323
+SEQUENCE:0
+SUMMARY:Bookfair
+URL:http://www.pinelandschool.org/event/bookfair/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-860@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Art Expo</p>
+DTSTART;VALUE=DATE:20160317
+DTEND;VALUE=DATE:20160318
+SEQUENCE:0
+SUMMARY:Art Expo
+URL:http://www.pinelandschool.org/event/art-expo/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-861@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Parent Teacher Conferences</p>
+DTSTART;VALUE=DATE:20160317
+DTEND;VALUE=DATE:20160318
+SEQUENCE:0
+SUMMARY:Parent Teacher Conferences
+URL:http://www.pinelandschool.org/event/parent-teacher-conferences-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-864@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday
+CONTACT:
+DESCRIPTION:<p>School Closed – Spring Break</p>
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160402
+SEQUENCE:0
+SUMMARY:School Closed – Spring Break
+URL:http://www.pinelandschool.org/event/school-closed-spring-break-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-865@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>World Autism Day</p>
+DTSTART;VALUE=DATE:20160404
+DTEND;VALUE=DATE:20160405
+SEQUENCE:0
+SUMMARY:World Autism Day
+URL:http://www.pinelandschool.org/event/world-autism-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-866@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>National Volunteer Week</p>
+DTSTART;VALUE=DATE:20160411
+DTEND;VALUE=DATE:20160416
+SEQUENCE:0
+SUMMARY:National Volunteer Week
+URL:http://www.pinelandschool.org/event/national-volunteer-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-867@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>3rd MP Ends</p>
+DTSTART;VALUE=DATE:20160412
+DTEND;VALUE=DATE:20160413
+SEQUENCE:0
+SUMMARY:3rd MP Ends
+URL:http://www.pinelandschool.org/event/3rd-mp-ends/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-869@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Earth Day</p>
+DTSTART;VALUE=DATE:20160422
+DTEND;VALUE=DATE:20160423
+SEQUENCE:0
+SUMMARY:Earth Day
+URL:http://www.pinelandschool.org/event/earth-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-868@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday\,Staff In-Service
+CONTACT:
+DESCRIPTION:<p>School Closed Staff In-Service</p>
+DTSTART;VALUE=DATE:20160422
+DTEND;VALUE=DATE:20160423
+SEQUENCE:0
+SUMMARY:School Closed Staff In-Service
+URL:http://www.pinelandschool.org/event/school-closed-staff-in-service-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-872@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Special Education Week</p>
+DTSTART;VALUE=DATE:20160516
+DTEND;VALUE=DATE:20160521
+SEQUENCE:0
+SUMMARY:Special Education Week
+URL:http://www.pinelandschool.org/event/special-education-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-870@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Skills Show Presentation</p>
+DTSTART;VALUE=DATE:20160518
+DTEND;VALUE=DATE:20160520
+SEQUENCE:0
+SUMMARY:Skills Show Presentation
+URL:http://www.pinelandschool.org/event/skills-show-presentation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-873@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Graduation</p>
+DTSTART;VALUE=DATE:20160527
+DTEND;VALUE=DATE:20160528
+SEQUENCE:0
+SUMMARY:Graduation
+URL:http://www.pinelandschool.org/event/graduation-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-874@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Holiday
+CONTACT:
+DESCRIPTION:<p>School Closed – Memorial Day</p>
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:School Closed – Memorial Day
+URL:http://www.pinelandschool.org/event/school-closed-memorial-day-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-879@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Awards Ceremony (p.m.)</p>
+DTSTART;VALUE=DATE:20160606
+DTEND;VALUE=DATE:20160609
+SEQUENCE:0
+SUMMARY:Awards Ceremony (p.m.)
+URL:http://www.pinelandschool.org/event/awards-ceremony-p-m/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-876@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Field Day HS (a.m.)</p>
+DTSTART;VALUE=DATE:20160606
+DTEND;VALUE=DATE:20160607
+SEQUENCE:0
+SUMMARY:Field Day HS (a.m.)
+URL:http://www.pinelandschool.org/event/field-day-hs-a-m/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-877@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Field Day MS (a.m.)</p>
+DTSTART;VALUE=DATE:20160607
+DTEND;VALUE=DATE:20160608
+SEQUENCE:0
+SUMMARY:Field Day MS (a.m.)
+URL:http://www.pinelandschool.org/event/field-day-ms-a-m/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-878@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Field Day ES (a.m.)</p>
+DTSTART;VALUE=DATE:20160608
+DTEND;VALUE=DATE:20160609
+SEQUENCE:0
+SUMMARY:Field Day ES (a.m.)
+URL:http://www.pinelandschool.org/event/field-day-es-a-m/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-880@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Talent Show</p>
+DTSTART;VALUE=DATE:20160609
+DTEND;VALUE=DATE:20160610
+SEQUENCE:0
+SUMMARY:Talent Show
+URL:http://www.pinelandschool.org/event/talent-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-881@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Grade 8 Moving Up Day</p>
+DTSTART;VALUE=DATE:20160610
+DTEND;VALUE=DATE:20160611
+SEQUENCE:0
+SUMMARY:Grade 8 Moving Up Day
+URL:http://www.pinelandschool.org/event/grade-8-moving-up-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-883@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Early Dismissal
+CONTACT:
+DESCRIPTION:<p>Early Dismissal (Students Only) – 12:30</p>
+DTSTART;VALUE=DATE:20160614
+DTEND;VALUE=DATE:20160616
+SEQUENCE:0
+SUMMARY:Early Dismissal (Students Only) – 12:30
+URL:http://www.pinelandschool.org/event/early-dismissal-students-only-1230-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-882@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>PLC Fun Day</p>
+DTSTART;VALUE=DATE:20160614
+DTEND;VALUE=DATE:20160615
+SEQUENCE:0
+SUMMARY:PLC Fun Day
+URL:http://www.pinelandschool.org/event/plc-fun-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-885@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Staff In-Service
+CONTACT:
+DESCRIPTION:<p>Staff In-Service</p>
+DTSTART;VALUE=DATE:20160615
+DTEND;VALUE=DATE:20160617
+SEQUENCE:0
+SUMMARY:Staff In-Service
+URL:http://www.pinelandschool.org/event/staff-in-service-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-887@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Last Day for Staff</p>
+DTSTART;VALUE=DATE:20160617
+DTEND;VALUE=DATE:20160618
+SEQUENCE:0
+SUMMARY:Last Day for Staff
+URL:http://www.pinelandschool.org/event/last-day-for-staff-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-832@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Back to School Night</p>
+DTSTART;TZID=America/New_York:20150924T173000
+DTEND;TZID=America/New_York:20150924T193000
+SEQUENCE:0
+SUMMARY:Back to School Night
+URL:http://www.pinelandschool.org/event/back-to-school-night-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-833@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Early Dismissal
+CONTACT:
+DESCRIPTION:<p>Early Dismissal (Students & Staff) – 12:30PM</p>
+DTSTART;TZID=America/New_York:20150925T123000
+SEQUENCE:0
+SUMMARY:Early Dismissal (Students & Staff) – 12:30PM
+URL:http://www.pinelandschool.org/event/early-dismissal-students-staff-1230
+ pm/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-839@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Parent Visitation</p>\n<p>9:30AM – 11:00AM</p>\n<p>1:00PM – 
+ 2:30PM</p>
+DTSTART;TZID=America/New_York:20151022T093000
+DTEND;TZID=America/New_York:20151022T143000
+SEQUENCE:0
+SUMMARY:Parent Visitation
+URL:http://www.pinelandschool.org/event/parent-visitation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-844@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Early Dismissal
+CONTACT:
+DESCRIPTION:<p>Early Dismissal (Students Only) – 12:30</p>
+DTSTART;TZID=America/New_York:20151125T123000
+SEQUENCE:0
+SUMMARY:Early Dismissal (Students Only) – 12:30
+URL:http://www.pinelandschool.org/event/early-dismissal-students-only-1230/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-846@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Elementary Christmas Program</p>
+DTSTART;TZID=America/New_York:20151211T173000
+DTEND;TZID=America/New_York:20151211T200000
+SEQUENCE:0
+SUMMARY:Elementary Christmas Program
+URL:http://www.pinelandschool.org/event/elementary-christmas-program-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-847@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Early Dismissal
+CONTACT:
+DESCRIPTION:<p>Early Dismissal – 12:30</p>
+DTSTART;TZID=America/New_York:20151223T123000
+SEQUENCE:0
+SUMMARY:Early Dismissal – 12:30
+URL:http://www.pinelandschool.org/event/early-dismissal-1230/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-862@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Early Dismissal
+CONTACT:
+DESCRIPTION:<p>Early Dismissal – 12:30</p>
+DTSTART;TZID=America/New_York:20160318T123000
+SEQUENCE:0
+SUMMARY:Early Dismissal – 12:30
+URL:http://www.pinelandschool.org/event/early-dismissal-1230-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-875@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:
+DESCRIPTION:<p>Author’s Celebration</p>
+DTSTART;TZID=America/New_York:20160603T093000
+DTEND;TZID=America/New_York:20160603T113000
+SEQUENCE:0
+SUMMARY:Author’s Celebration
+URL:http://www.pinelandschool.org/event/authors-celebration/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-886@www.pinelandschool.org
+DTSTAMP:20150920T002945Z
+CATEGORIES;LANGUAGE=en-US:Early Dismissal
+CONTACT:
+DESCRIPTION:<p>Early Dismissal Last Day for Students – 12:30</p>
+DTSTART;TZID=America/New_York:20160616T123000
+SEQUENCE:0
+SUMMARY:Early Dismissal Last Day for Students – 12:30
+URL:http://www.pinelandschool.org/event/early-dismissal-last-day-for-studen
+ ts-1230/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

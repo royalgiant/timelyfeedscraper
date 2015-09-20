@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.63.43.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://petalumagap.com
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1063@petalumagap.com
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>A match made in – PETALUMA!!!</p>\n<p><a href='http://petalu
+ magap.com/wp-content/uploads/2015/09/achadinha_logo.jpg'><img class='align
+ left size-full wp-image-1064' src='http://petalumagap.com/wp-content/uploa
+ ds/2015/09/achadinha_logo.jpg' alt='achadinha_logo' width='194' height='21
+ 6' /></a>Achadinha <em>(Osh-a-deen-a)</em> Cheese tour – join the Petaluma
+  Gap Winegrowers Alliance in finding out more about this great\, and local
+ \, artisan cheese producer. Find out the whole process\, including what a 
+ loafing barn is for!</p>\n<p>There will also be a wine-and-cheese tasting 
+ following the tour. Get your palates geared up for this always popular tou
+ r. Space is <strong>extremely</strong> limited\; it has sold out in the pa
+ st\, so do not miss out on this!!!</p>
+DTSTART;TZID=America/Los_Angeles:20150926T100000
+DTEND;TZID=America/Los_Angeles:20150926T130000
+GEO:+38.212475;-122.675871
+LOCATION:Achadinha Cheese Company @ 750 Chileno Valley Road\, Petaluma\, CA
+  94952\, USA
+SEQUENCE:0
+SUMMARY:Achadinha Cheese Tour
+URL:http://petalumagap.com/event/achadinha-cheese-tour/
+X-COST:PGWA Members $25\; Non-members $35
+X-TICKETS-URL:https://www.eventbrite.com/e/achadinha-cheese-tour-tickets-18
+ 440265330
+END:VEVENT
+END:VCALENDAR

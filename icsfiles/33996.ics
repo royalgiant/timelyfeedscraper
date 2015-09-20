@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.31.75.17//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.miningreview.com.au
+X-WR-TIMEZONE:Australia/Brisbane
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+X-LIC-LOCATION:Australia/Brisbane
+BEGIN:STANDARD
+DTSTART:19920301T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-8017@www.miningreview.com.au
+DTSTAMP:20150920T003224Z
+CATEGORIES:
+CONTACT:02 9211 7544 \; rme@reedexhibitions.com.au  \; http://www.miningand
+ engineeringnsw.com.au/
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151011
+GEO:-32.926689;+151.778921
+LOCATION:Newcastle NSW\, Australia
+SEQUENCE:0
+SUMMARY:Mining & Engineering Exhibition New South Wales
+URL:http://www.miningreview.com.au/event/mining-engineering-exhibition-new-
+ south-wales/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8002@www.miningreview.com.au
+DTSTAMP:20150920T003224Z
+CATEGORIES:
+CONTACT:02 9080 4307\; info@informa.com.au\; http://www.longwallconference.
+ com.au/
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151026
+DTEND;VALUE=DATE:20151028
+GEO:-32.781376;+151.349206
+LOCATION:Crowne Plaza  @ 430 Wine Country Drive\, Lovedale NSW 2325\, Austr
+ alia
+SEQUENCE:0
+SUMMARY:Longwall Conference
+URL:http://www.miningreview.com.au/event/longwall-conference/
+X-COST:$ 2634.50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8003@www.miningreview.com.au
+DTSTAMP:20150920T003224Z
+CATEGORIES:
+CONTACT:02 9211 7544\; info@queenslandgasconference.com.au\; http://www.que
+ enslandgasconference.com.au/en/home/
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151124
+DTEND;VALUE=DATE:20151126
+GEO:-27.478506;+153.018825
+LOCATION:Brisbane Convention & Exhibition Centre @ Merivale Street & Glenel
+ g Street\, South Brisbane QLD 4101\, Australia
+SEQUENCE:0
+SUMMARY:Queensland Gas Conference & Exhibition
+URL:http://www.miningreview.com.au/event/queensland-gas-conference-exhibiti
+ on/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//41.185.13.153//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://senepolsa.co.za
+X-WR-TIMEZONE:Atlantic/Azores
+BEGIN:VTIMEZONE
+TZID:Atlantic/Azores
+X-LIC-LOCATION:Atlantic/Azores
+BEGIN:STANDARD
+DTSTART:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0100
+TZNAME:AZOT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T000000
+TZOFFSETFROM:-0100
+TZOFFSETTO:+0000
+RDATE:20160327T000000
+TZNAME:AZOST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-87@www.senepolsa.co.za
+DTSTAMP:20150920T003732Z
+CATEGORIES;LANGUAGE=en-US:Sale
+CONTACT:Danie Nieuwoudt\; 0833021796
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151002
+GEO:-28.931269;+27.061755
+LOCATION:Circle C Ranches @ Excelsior\, 9760\, South Africa
+SEQUENCE:0
+SUMMARY:Arrival of sale animals
+URL:http://senepolsa.co.za/index.php/event/arrival-of-sale-animals/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-90@www.senepolsa.co.za
+DTSTAMP:20150920T003732Z
+CATEGORIES;LANGUAGE=en-US:Sale
+CONTACT:Danie Nieuwoudt\; 0833021796
+DESCRIPTION:<p><a href='http://senepolsa.co.za/wp-content/uploads/2015/08/n
+ at-veiling-2015-senepol.jpg'><img class='alignnone wp-image-214 size-full 
+ colorbox-255' src='http://www.senepolsa.co.za/wp-content/uploads/2015/08/n
+ at-veiling-2015-senepol.jpg' alt='nat-veiling-2015-senepol' width='600' he
+ ight='794' /></a></p>\n<p> </p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+GEO:-28.931269;+27.061755
+LOCATION:Circle C Ranches @ Excelsior\, 9760\, South Africa
+SEQUENCE:0
+SUMMARY:Senepol National Sale
+URL:http://senepolsa.co.za/index.php/event/senepol-national-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-215@www.senepolsa.co.za
+DTSTAMP:20150920T003732Z
+CATEGORIES;LANGUAGE=en-US:Show
+CONTACT:Danie Nieuwoudt\; 0833021796\; flora@ntelecom.co.za
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151108
+GEO:-30.251477;+25.271905
+LOCATION:Philippolis\, 9970\, South Africa
+SEQUENCE:0
+SUMMARY:Philippolis skou
+URL:http://senepolsa.co.za/index.php/event/philippolis-skou/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-216@www.senepolsa.co.za
+DTSTAMP:20150920T003732Z
+CATEGORIES;LANGUAGE=en-US:Festival
+CONTACT:Dr. Chris Nel\; 0836549638
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160216
+DTEND;VALUE=DATE:20160222
+GEO:-27.800957;+28.431831
+LOCATION:Reitz\, South Africa
+SEQUENCE:0
+SUMMARY:Bielie Mielie Fees
+URL:http://senepolsa.co.za/index.php/event/bielie-mielie-fees-reitz/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-217@www.senepolsa.co.za
+DTSTAMP:20150920T003732Z
+CATEGORIES;LANGUAGE=en-US:Festival\,Show
+CONTACT:Wilhelm Oosthuisen\; 0826117766
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160517
+DTEND;VALUE=DATE:20160521
+GEO:-27.374025;+26.619959
+LOCATION:Bothaville\, South Africa
+SEQUENCE:0
+SUMMARY:Nampo
+URL:http://senepolsa.co.za/index.php/event/nampo/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-88@www.senepolsa.co.za
+DTSTAMP:20150920T003732Z
+CATEGORIES;LANGUAGE=en-US:Sale
+CONTACT:Danie Nieuwoudt\; 0833021796\; flora@ntelecom.co.za
+DESCRIPTION:
+DTSTART;TZID=Atlantic/Azores:20151002T100000
+DTEND;TZID=Atlantic/Azores:20151002T150000
+GEO:-28.931269;+27.061755
+LOCATION:Circle C Ranches @ Excelsior\, 9760\, South Africa
+SEQUENCE:0
+SUMMARY:Screening of sale animals / Annual Senepol Dinner
+URL:http://senepolsa.co.za/index.php/event/screening-of-sale-animals-annual
+ -senepol-dinner/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-233@www.senepolsa.co.za
+DTSTAMP:20150920T003732Z
+CATEGORIES;LANGUAGE=en-US:Sale
+CONTACT:Danie Nieuwoudt\; 0833021796\; flora@ntelecom.co.za
+DESCRIPTION:
+DTSTART;TZID=Atlantic/Azores:20151002T183000
+DTEND;TZID=Atlantic/Azores:20151002T210000
+GEO:-28.931269;+27.061755
+LOCATION:Circle C Ranches @ Excelsior\, 9760\, South Africa
+SEQUENCE:0
+SUMMARY:Annual Senepol Dinner
+URL:http://senepolsa.co.za/index.php/event/annual-senepol-dinner/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,420 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.201.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.uccofmarion.org
+X-WR-TIMEZONE:America/Indiana/Indianapolis
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+X-LIC-LOCATION:America/Indiana/Indianapolis
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-8276@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events\,Harvest of Talents
+CONTACT:
+DESCRIPTION:<p>Bring your spare change for the “Change the World” event for
+  Harvest of Talents for World Hunger.</p>
+DTSTART;VALUE=DATE:20150927
+DTEND;VALUE=DATE:20150928
+EXDATE;TZID=America/Indiana/Indianapolis:20131222T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20140323T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20140622T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20140824T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20141123T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20141222T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20141228T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20150322T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20150524T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20150823T000000
+RRULE:FREQ=MONTHLY;BYDAY=4SU
+SEQUENCE:0
+SUMMARY:Change the World
+URL:http://www.uccofmarion.org/event/change-the-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8277@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events\,Harvest of Talents
+CONTACT:
+DESCRIPTION:<p>Bring your spare change for the “Change the World” event for
+  Harvest of Talents for World Hunger. The last Sunday of each month\, we s
+ et up two buckets at the front of the church and have people decide which 
+ bucket to put their change into based on the question of the month. One bu
+ cket is for “yes” and one bucket is for “no.” You vote with your change!</
+ p>\n<p>December 2013 — Did you have a big family gathering at Christmas?</
+ p>\n<p>January 2014 — Have you ever been snow skiing?</p>
+DTSTART;VALUE=DATE:20151129
+DTEND;VALUE=DATE:20151130
+RRULE:FREQ=MONTHLY;BYDAY=5SU
+SEQUENCE:0
+SUMMARY:Change the World
+URL:http://www.uccofmarion.org/event/change-the-world-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8216@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:<p>Classes for adults and children:</p>\n<p>Women’s class lead 
+ by Tana Rae Leak (held in room off main front hall).</p>\n<p>Adult class l
+ ead by Kevin Trimble\, lessons from the Restoration Herald (held in room a
+ cross from Men’s restroom in back hall).</p>\n<p>Adult class lead by Kevin
+  Greenlee\, lessons from the deep dark recesses of his mind (room next to 
+ kitchen).</p>\n<p>Children’s class lead by Elisha Vitali. (youth room).</p
+ >
+DTSTART;TZID=America/Indiana/Indianapolis:20150920T091500
+DTEND;TZID=America/Indiana/Indianapolis:20150920T101500
+EXDATE;TZID=America/Indiana/Indianapolis:20140420T091500
+EXDATE;TZID=America/Indiana/Indianapolis:20150405T091500
+GEO:+40.562652;-85.643166
+LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
+ IN 46952\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday School
+URL:http://www.uccofmarion.org/event/sunday-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8218@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20150920T103000
+DTEND;TZID=America/Indiana/Indianapolis:20150920T120000
+EXDATE;TZID=America/Indiana/Indianapolis:20140309T103000
+GEO:+40.562652;-85.643166
+LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
+ IN 46952\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Worship
+URL:http://www.uccofmarion.org/event/worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8706@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Youth Events
+CONTACT:
+DESCRIPTION:<p>5th through 9th grade. food\, fun\, and Bible Study</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150920T183000
+DTEND;TZID=America/Indiana/Indianapolis:20150920T194500
+EXDATE;TZID=America/Indiana/Indianapolis:20150405T183000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday Night Youth Group (SNYG)
+URL:http://www.uccofmarion.org/event/sunday-night-youth-group-snyg/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8931@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Harvest of Talents
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20150921T190000
+DTEND;TZID=America/Indiana/Indianapolis:20150921T203000
+SEQUENCE:0
+SUMMARY:Harvest Committee Meeting — Special Date
+URL:http://www.uccofmarion.org/event/harvest-committee-meeting-special-date
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8222@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:<p>Bring a dish to share with the group as we fellowship togeth
+ er before Bible Study.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150923T173000
+DTEND;TZID=America/Indiana/Indianapolis:20150923T183000
+EXDATE;TZID=America/Indiana/Indianapolis:20150805T173000
+GEO:+40.562652;-85.643166
+LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
+ IN 46952\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Food & Fellowship
+URL:http://www.uccofmarion.org/event/food-fellowship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8224@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:<p>After the meal\, adults and children separate for their own 
+ studies.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150923T183000
+DTEND;TZID=America/Indiana/Indianapolis:20150923T193000
+EXDATE;TZID=America/Indiana/Indianapolis:20150805T183000
+GEO:+40.56707;-85.767493
+LOCATION:Unity Christian Church @ 140 Pennsylvania Street\, Marion\, IN 469
+ 53\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Family Night Bible Study
+URL:http://www.uccofmarion.org/event/family-night-bible-study/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8767@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20150926T180000
+DTEND;TZID=America/Indiana/Indianapolis:20150926T190000
+RRULE:FREQ=MONTHLY;BYDAY=4SA
+SEQUENCE:0
+SUMMARY:Upward Praise Concert
+URL:http://www.uccofmarion.org/event/upward-praise-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8220@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Harvest of Talents
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20150928T190000
+DTEND;TZID=America/Indiana/Indianapolis:20150928T201500
+EXDATE;TZID=America/Indiana/Indianapolis:20150525T190000
+GEO:+40.562652;-85.643166
+LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
+ IN 46952\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4MO
+SEQUENCE:0
+SUMMARY:Harvest of Talents Committee Meeting
+URL:http://www.uccofmarion.org/event/harvest-of-talents-committee-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8417@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151001T190000
+DTEND;TZID=America/Indiana/Indianapolis:20151001T200000
+EXDATE;TZID=America/Indiana/Indianapolis:20150402T190000
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+SEQUENCE:0
+SUMMARY:N.A.M.I. Support Meeting
+URL:http://www.uccofmarion.org/event/n-a-m-i-support-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8227@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Primetimers
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151006T083000
+DTEND;TZID=America/Indiana/Indianapolis:20151006T093000
+GEO:+40.572739;-85.678526
+LOCATION:Gabriel's Pancake House @ 1129 North Baldwin Avenue\, Marion\, IN 
+ 46952\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1TU
+SEQUENCE:0
+SUMMARY:Primetimers Breakfast
+URL:http://www.uccofmarion.org/event/primetimers-breakfast/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8231@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Men
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151010T090000
+DTEND;TZID=America/Indiana/Indianapolis:20151010T100000
+EXDATE;TZID=America/Indiana/Indianapolis:20150808T090000
+GEO:+40.562652;-85.643166
+LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
+ IN 46952\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:Men’s Breakfast
+URL:http://www.uccofmarion.org/event/mens-breakfast/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8232@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Board and Elders
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151010T100000
+DTEND;TZID=America/Indiana/Indianapolis:20151010T110000
+EXDATE;TZID=America/Indiana/Indianapolis:20150808T100000
+RRULE:FREQ=MONTHLY;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:Elders Meeting
+URL:http://www.uccofmarion.org/event/elders-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8712@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Women
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151010T113000
+DTEND;TZID=America/Indiana/Indianapolis:20151010T123000
+EXDATE;TZID=America/Indiana/Indianapolis:20150808T113000
+RRULE:FREQ=MONTHLY;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:Women’s Meeting
+URL:http://www.uccofmarion.org/event/womens-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8958@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events\,Harvest of Talents
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151014T180000
+DTEND;TZID=America/Indiana/Indianapolis:20151014T190000
+SEQUENCE:0
+SUMMARY:Meeting for All Harvest Workers
+URL:http://www.uccofmarion.org/event/meeting-for-all-harvest-workers/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8636@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:<p>For information about this big event\, <a href='http://www.u
+ ccofmarion.org/ministries/harvest-of-talents/'>click here</a>.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151017T080000
+DTEND;TZID=America/Indiana/Indianapolis:20151017T170000
+SEQUENCE:0
+SUMMARY:11th Annual Harvest of Talents for World Hunger
+URL:http://www.uccofmarion.org/event/10th-annual-harvest-of-talents-for-wor
+ ld-hunger/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8632@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Board and Elders
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151022T190000
+DTEND;TZID=America/Indiana/Indianapolis:20151022T200000
+RDATE;TZID=America/Indiana/Indianapolis:20160114T190000
+SEQUENCE:0
+SUMMARY:Leadership Meeting (special day)
+URL:http://www.uccofmarion.org/event/board-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8796@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events\,Youth Events
+CONTACT:
+DESCRIPTION:<p>Come to the church and have a safe and warm Halloween inside
+  as we give out candy to local kids!</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151031T180000
+DTEND;TZID=America/Indiana/Indianapolis:20151031T200000
+GEO:+40.562652;-85.643166
+LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
+ IN 46952\, USA
+SEQUENCE:0
+SUMMARY:Trunk or Treat
+URL:http://www.uccofmarion.org/event/trunk-or-treat/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8740@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:Board and Elders
+CONTACT:
+DESCRIPTION:<p>Elders Deacons and Ministers meet to discuss the needs and b
+ usiness of the church.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151119T190000
+DTEND;TZID=America/Indiana/Indianapolis:20151119T200000
+EXDATE;TZID=America/Indiana/Indianapolis:20151015T190000
+EXDATE;TZID=America/Indiana/Indianapolis:20160121T190000
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+SEQUENCE:0
+SUMMARY:Leadership Meeting
+URL:http://www.uccofmarion.org/event/board-meeting-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8797@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:<p>We always have fun decorating the church for Christmas.  Com
+ e share in the festivities!</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151202T183000
+DTEND;TZID=America/Indiana/Indianapolis:20151202T193000
+GEO:+40.562652;-85.643166
+LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
+ IN 46952\, USA
+SEQUENCE:0
+SUMMARY:Hanging of the greens
+URL:http://www.uccofmarion.org/event/hanging-of-the-greens-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8795@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:<p>Join us as we go sing Christmas songs to some of our older m
+ embers at their homes.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151220T163000
+DTEND;TZID=America/Indiana/Indianapolis:20151220T190000
+SEQUENCE:0
+SUMMARY:Christmas Caroling
+URL:http://www.uccofmarion.org/event/christmas-caroling-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8752@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:<p>We will be having special music\, a devotional from the Chri
+ stmas story and congregational singing\, some by candlelight.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151224T183000
+DTEND;TZID=America/Indiana/Indianapolis:20151224T193000
+SEQUENCE:0
+SUMMARY:Christmas Eve Service
+URL:http://www.uccofmarion.org/event/christmas-eve-service-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8756@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:<p>Bring your favorite snack and game to play.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151231T190000
+DTEND;TZID=America/Indiana/Indianapolis:20160101T000000
+SEQUENCE:0
+SUMMARY:New Year’s Eve Party
+URL:http://www.uccofmarion.org/event/new-years-eve-party-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8853@www.uccofmarion.org
+DTSTAMP:20150920T002325Z
+CATEGORIES;LANGUAGE=en-US:General Church Events\,Harvest of Talents
+CONTACT:
+DESCRIPTION:<p>Quilting Blitz days in conjunction with craft days! Come wor
+ k on the quilt! It will be sold to #feedhungrypeople on October 17th.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20160116T090000
+DTEND;TZID=America/Indiana/Indianapolis:20160116T170000
+EXDATE;TZID=America/Indiana/Indianapolis:20150919T090000
+EXDATE;TZID=America/Indiana/Indianapolis:20151017T090000
+EXDATE;TZID=America/Indiana/Indianapolis:20151121T090000
+EXDATE;TZID=America/Indiana/Indianapolis:20151219T090000
+RRULE:FREQ=MONTHLY;BYDAY=3SA
+SEQUENCE:0
+SUMMARY:Community Quilt Work Day
+URL:http://www.uccofmarion.org/event/community-quilt-work-day/
+END:VEVENT
+END:VCALENDAR

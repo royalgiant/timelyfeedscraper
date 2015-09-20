@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//75.98.175.100//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.sccrtc.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-12372@www.sccrtc.org
+DTSTAMP:20150920T003926Z
+CATEGORIES:
+CONTACT:Yesenia Parra\; 831-460-3200\; http://www.sccrtc.org/meetings/commi
+ ssion/agendas/
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151001T090000
+GEO:+36.97785;-122.022635
+LOCATION:County Board of Supervisor Chambers @ 701 Ocean Street\, Santa Cru
+ z\, CA 95060\, USA
+SEQUENCE:0
+SUMMARY:Commission Meeting
+URL:http://www.sccrtc.org/event/commission-meeting-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12375@www.sccrtc.org
+DTSTAMP:20150920T003926Z
+CATEGORIES:
+CONTACT:Karena Pushnik\; 831-460-3200\; http://www.sccrtc.org/meetings/elde
+ rly-disabled/agendas/
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151013T133000
+GEO:+36.975646;-122.026847
+LOCATION:Commission Office @ 1523 Pacific Avenue\, Santa Cruz\, CA 95060\, 
+ USA
+SEQUENCE:0
+SUMMARY:E&D TAC Meeting
+URL:http://www.sccrtc.org/event/ed-tac-meeting-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12376@www.sccrtc.org
+DTSTAMP:20150920T003926Z
+CATEGORIES:
+CONTACT:Yesenia Parra\; 831-460-3200\; http://www.sccrtc.org/meetings/commi
+ ssion/agendas/
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151015T090000
+GEO:+36.975646;-122.026847
+LOCATION:Commission Office @ 1523 Pacific Avenue\, Santa Cruz\, CA 95060\, 
+ USA
+SEQUENCE:0
+SUMMARY:TPW Meeting
+URL:http://www.sccrtc.org/event/tpw-meeting-16/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12377@www.sccrtc.org
+DTSTAMP:20150920T003926Z
+CATEGORIES:
+CONTACT:Yesenia Parra\; 831-460-3200\; http://www.sccrtc.org/meetings/inter
+ -agency/agendas/
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151015T133000
+GEO:+36.975646;-122.026847
+LOCATION:Commission Office @ 1523 Pacific Avenue\, Santa Cruz\, CA 95060\, 
+ USA
+SEQUENCE:0
+SUMMARY:ITAC Meeting
+URL:http://www.sccrtc.org/event/itac-meeting-18/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12374@www.sccrtc.org
+DTSTAMP:20150920T003926Z
+CATEGORIES:
+CONTACT:Yesenia Parra\; 831-460-3200\; http://www.sccrtc.org/meetings/bike-
+ committee/agendas/
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151019T180000
+GEO:+36.975646;-122.026847
+LOCATION:Commission Office @ 1523 Pacific Avenue\, Santa Cruz\, CA 95060\, 
+ USA
+SEQUENCE:0
+SUMMARY:Bicycle Advisory Committee Mtg
+URL:http://www.sccrtc.org/event/bicycle-advisory-committee-mtg/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12518@www.sccrtc.org
+DTSTAMP:20150920T003926Z
+CATEGORIES:
+CONTACT:Yesenia Parra\; 831-460-3200\; http://www.sccrtc.org/meetings/budge
+ t-personnel/agendas/
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151112T150000
+GEO:+36.975646;-122.026847
+LOCATION:RTC Office @ 1523 Pacific Avenue\, Santa Cruz\, CA 95060\, USA
+SEQUENCE:0
+SUMMARY:B&A/P Committee Meeting
+URL:http://www.sccrtc.org/event/bap-committee-meeting-4/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

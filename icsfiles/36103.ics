@@ -1,0 +1,345 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//216.187.79.146//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://chorleoni.org
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2392@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Fundraiser
+CONTACT:Chor Leoni\; 604.263.7061\; admin@chorleoni.org
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20150930T183000
+DTEND;TZID=America/Vancouver:20150930T213000
+LOCATION:private residence
+SEQUENCE:0
+SUMMARY:at Home
+URL:https://chorleoni.org/event/at-home-2/
+X-TAGS;LANGUAGE=en-US:At Home
+X-COST:$200 - available through choir office 604.263.7061 or as add on to s
+ eason subscription
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2378@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151111T130000
+DTEND;TZID=America/Vancouver:20151111T143000
+GEO:+49.330525;-123.167517
+LOCATION:West Vancouver United Church @ 2062 Esquimalt Avenue\, West Vancou
+ ver\, BC V7V 1S4\, Canada
+SEQUENCE:0
+SUMMARY:Brothers in Arms
+URL:https://chorleoni.org/event/brothers-arms/
+X-TAGS;LANGUAGE=en-US:Remembrance Day
+X-COST:Section A $40 | Section B $35 | Section C $30 | Student with ID $10 
+ (inclusive of fees)
+X-TICKETS-URL:http://bit.ly/Brothers_WV
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2379@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151111T200000
+DTEND;TZID=America/Vancouver:20151111T213000
+GEO:+49.281187;-123.125989
+LOCATION:St. Andrew's-Wesley United Church @ Burrard Street & Nelson Street
+ \, Vancouver\, BC V6Z\, Canada
+SEQUENCE:0
+SUMMARY:Brothers in Arms
+URL:https://chorleoni.org/event/brothers-arms-2/
+X-TAGS;LANGUAGE=en-US:Remembrance Day
+X-COST:Section A $40 | Section B $35 | Section C $30 | Student with ID $10 
+ (inclusive of fees)
+X-TICKETS-URL:http://bit.ly/Brothers_Van
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2382@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151205T150000
+DTEND;TZID=America/Vancouver:20151205T161500
+GEO:+49.280292;-123.112388
+LOCATION:Queen Elizabeth Theatre @ 649 Cambie Street\, Vancouver\, BC V6B 2
+ P1\, Canada
+SEQUENCE:0
+SUMMARY:All is Calm: The Christmas Truce of 1914
+URL:https://chorleoni.org/event/calm-christmas-truce-1914-7/
+X-TAGS;LANGUAGE=en-US:Christmas
+X-COST:Section A $45 | Section B $40 | Section C $35 | Student with ID $15 
+ (includes ticket surcharges & City of Vancouver facility fee)
+X-TICKETS-URL:http://bit.ly/AIC_3pm
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2383@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151205T200000
+DTEND;TZID=America/Vancouver:20151205T211500
+GEO:+49.280292;-123.112388
+LOCATION:Queen Elizabeth Theatre @ 649 Cambie Street\, Vancouver\, BC V6B 2
+ P1\, Canada
+SEQUENCE:0
+SUMMARY:All is Calm: The Christmas Truce of 1914
+URL:https://chorleoni.org/event/calm-christmas-truce-1914-8/
+X-TAGS;LANGUAGE=en-US:Christmas
+X-COST:Section A $45 | Section B $40 | Section C $35 | Student with ID $15 
+ (includes ticket surcharges & City of Vancouver facility fee)
+X-TICKETS-URL:http://bit.ly/AIC_8
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2385@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151218T163000
+DTEND;TZID=America/Vancouver:20151218T174500
+GEO:+49.281652;-123.127106
+LOCATION:St. Andrew's-Wesley United Church @ 1022 Nelson Street\, Vancouver
+ \, BC V6E 4S7\, Canada
+SEQUENCE:0
+SUMMARY:Christmas with Chor Leoni
+URL:https://chorleoni.org/event/christmas-chor-leoni/
+X-TAGS;LANGUAGE=en-US:Christmas
+X-COST:Section A $40 | Section B $35 | Section C $30 | Student with ID $10 
+ (inclusive of fees)
+X-TICKETS-URL:http://bit.ly/CL_Christmas430
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2386@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151218T200000
+DTEND;TZID=America/Vancouver:20151218T211500
+GEO:+49.281652;-123.127106
+LOCATION:St. Andrew's-Wesley United Church @ 1022 Nelson Street\, Vancouver
+ \, BC V6E 4S7\, Canada
+SEQUENCE:0
+SUMMARY:Christmas with Chor Leoni
+URL:https://chorleoni.org/event/christmas-chor-leoni-2/
+X-TAGS;LANGUAGE=en-US:Christmas
+X-COST:Section A $40 | Section B $35 | Section C $30 | Student with ID $10 
+ (inclusive of fees)
+X-TICKETS-URL:http://bit.ly/CL_Christmas8pm
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2387@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151219T140000
+DTEND;TZID=America/Vancouver:20151219T151500
+GEO:+49.330525;-123.167517
+LOCATION:West Vancouver United Church @ 2062 Esquimalt Avenue\, West Vancou
+ ver\, BC V7V 1S4\, Canada
+SEQUENCE:0
+SUMMARY:Christmas with Chor Leoni
+URL:https://chorleoni.org/event/christmas-chor-leoni-3/
+X-TAGS;LANGUAGE=en-US:Christmas
+X-COST:Section A $40 | Section B $35 | Section C $30 | Student with ID $10 
+ (inclusive of fees)
+X-TICKETS-URL:http://bit.ly/CL_ChristmasWV
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2390@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,MYVoice
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160312T160000
+DTEND;TZID=America/Vancouver:20160312T170000
+GEO:+49.269616;-123.255276
+LOCATION:Chan Centre for the Performing Arts at UBC @ The University of Bri
+ tish Columbia\, 6265 Crescent Road\, Vancouver\, BC V6T 1Z1\, Canada
+SEQUENCE:0
+SUMMARY:MYVoice at the Chan
+URL:https://chorleoni.org/event/myvoice-chan-2/
+X-TAGS;LANGUAGE=en-US:MYvoice
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2388@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Festival\,MYVoice
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160312T193000
+DTEND;TZID=America/Vancouver:20160312T213000
+GEO:+49.269616;-123.255276
+LOCATION:Chan Centre for the Performing Arts at UBC @ The University of Bri
+ tish Columbia\, 6265 Crescent Road\, Vancouver\, BC V6T 1Z1\, Canada
+SEQUENCE:0
+SUMMARY:VanMan Male Choral Summit Concert
+URL:https://chorleoni.org/event/vanman-choral-summit-concert-2/
+X-TAGS;LANGUAGE=en-US:MYvoice\,VanMan Choral Summit
+X-COST:$28 adults | $10 students [w/ID] (includes service fees)
+X-TICKETS-URL:https://tickets.ubc.ca/online/mapSelect.asp?BOset::WSmap::sea
+ tmap::performance_ids=04DB3E04-DC1D-4B51-843E-EA2D217D1E2D
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2417@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160408T200000
+DTEND;TZID=America/Vancouver:20160408T213000
+GEO:+49.231073;-123.158967
+LOCATION:Ryerson United Church @ 2195 West 45th Avenue\, Vancouver\, BC V6M
+  2J4\, Canada
+SEQUENCE:0
+SUMMARY:Sea to Sky
+URL:https://chorleoni.org/event/sea-to-sky/
+X-COST:Section A $40 | Section B $35 | Section C $30 | Student with ID $10 
+ (inclusive of fees)
+X-TICKETS-URL:http://bit.ly/SS_88
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2418@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160409T140000
+DTEND;TZID=America/Vancouver:20160409T153000
+GEO:+49.330525;-123.167517
+LOCATION:West Vancouver United Church @ 2062 Esquimalt Avenue\, West Vancou
+ ver\, BC V7V 1S4\, Canada
+SEQUENCE:0
+SUMMARY:Sea to Sky
+URL:https://chorleoni.org/event/sea-to-sky-2/
+X-COST:Section A $40 | Section B $35 | Section C $30 | Student with ID $10 
+ (inclusive of fees)
+X-TICKETS-URL:http://bit.ly/SS_92
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2419@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160409T200000
+DTEND;TZID=America/Vancouver:20160409T213000
+GEO:+49.231073;-123.158967
+LOCATION:Ryerson United Church @ 2195 West 45th Avenue\, Vancouver\, BC V6M
+  2J4\, Canada
+SEQUENCE:0
+SUMMARY:Sea to Sky
+URL:https://chorleoni.org/event/sea-to-sky-3/
+X-COST:Section A $40 | Section B $35 | Section C $30 | Student with ID $10 
+ (inclusive of fees)
+X-TICKETS-URL:http://bit.ly/SS_98
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2479@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Fundraiser
+CONTACT:Chor Leoni Men's Choir\; 604.263.7061
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160515T173000
+DTEND;TZID=America/Vancouver:20160515T213000
+GEO:+49.283809;-123.106216
+LOCATION:Lamplighter Public House @ 92 Water Street\, Vancouver\, BC V6B\, 
+ Canada
+SEQUENCE:0
+SUMMARY:Chor Leoni Idol
+URL:https://chorleoni.org/event/chor-leoni-idol-3/
+X-COST:General Admission $20
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2420@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160620T140000
+DTEND;TZID=America/Vancouver:20160620T160000
+GEO:+49.275573;-123.142335
+LOCATION:BMO Mainstage tent at Bard on the Beach @ Vanier Park\, 1000 Chest
+ nut Street\, Vancouver\, BC V6J 3J9\, Canada
+SEQUENCE:0
+SUMMARY:Chor Leoni Mane Stage
+URL:https://chorleoni.org/event/manely-canadian-5/
+X-COST:Section A $45 | Section B $40 | Section C $35 | Student with ID $20 
+ (includes ticket surcharge. Matinée only)
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2423@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160620T193000
+DTEND;TZID=America/Vancouver:20160620T213000
+GEO:+49.275573;-123.142335
+LOCATION:BMO Mainstage tent at Bard on the Beach @ Vanier Park\, 1000 Chest
+ nut Street\, Vancouver\, BC V6J 3J9\, Canada
+SEQUENCE:0
+SUMMARY:Chor Leoni Mane Stage
+URL:https://chorleoni.org/event/chor-leoni-mane-stage/
+X-COST:Section A $45 | Section B $40 | Section C $35
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2424@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160627T140000
+DTEND;TZID=America/Vancouver:20160627T160000
+GEO:+49.275573;-123.142335
+LOCATION:BMO Mainstage tent at Bard on the Beach @ Vanier Park\, 1000 Chest
+ nut Street\, Vancouver\, BC V6J 3J9\, Canada
+SEQUENCE:0
+SUMMARY:Chor Leoni Mane Stage
+URL:https://chorleoni.org/event/chor-leoni-mane-stage-2/
+X-COST:Section A $45 | Section B $40 | Section C $35 | Student with ID $20 
+ (includes ticket surcharge. Matinée only)
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2425@chorleoni.org
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:2015/2016\,Regular Season
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160627T193000
+DTEND;TZID=America/Vancouver:20160627T213000
+GEO:+49.275573;-123.142335
+LOCATION:BMO Mainstage tent at Bard on the Beach @ Vanier Park\, 1000 Chest
+ nut Street\, Vancouver\, BC V6J 3J9\, Canada
+SEQUENCE:0
+SUMMARY:Chor Leoni Mane Stage
+URL:https://chorleoni.org/event/chor-leoni-mane-stage-3/
+X-COST:Section A $45 | Section B $40 | Section C $35
+END:VEVENT
+END:VCALENDAR

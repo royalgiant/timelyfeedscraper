@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//64.22.138.9//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://home.biblebowl.org
+X-WR-TIMEZONE:America/Kentucky/Louisville
+BEGIN:VTIMEZONE
+TZID:America/Kentucky/Louisville
+X-LIC-LOCATION:America/Kentucky/Louisville
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-8750@home.biblebowl.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Beginner Tournaments\,Teen Tournaments
+CONTACT:Minta Hardman\; (540) 868-1231\; minta.Hardman@ccmv.com
+DESCRIPTION:<p>Material: same as October/November months</p>\n<p>Format: Ro
+ und Robin followed by Double Elimination</p>\n<p>Who: Beginner and Teen</p
+ >\n<p><a href='/download/8751/'>Download registration form</a></p>\n<p>Thi
+ s tournament is a wonderful way for us to introduce Beginner/Bible Bowl to
+  more churches and hopefully recruit additional teams to compete on a regu
+ lar basis. We anticipate reaching out to teams all across the country who 
+ would like a review earlier in the Bible Bowl season. We truly believe the
+ re is no better way to get our young people in the word than through the m
+ inistry of Bible Bowl. Our prayer is that the Bible Bowl ministry will get
+  exposure through ECC/ICOM and that many more young people can delve into 
+ God’s word on a regular basis.</p>\n<p>We will have a round robin and doub
+ le elimination format for both Beginner and Bible Bowl. Depending on the n
+ umber of teams\, we will either divide all of the teams into brackets and 
+ do mini Round Robins that will determine seeding for the Double Eliminatio
+ n tournament\, or all of the teams will play in a Round Robin and then pro
+ ceed on to a Double Elimination tournament. Your prompt registration will 
+ assist us in planning.</p>\n<p>Team registration will be <strong>$30 per t
+ eam</strong>. Individual registration will be <strong>$15 per person</stro
+ ng>. Please return the <strong>registration form by October 9\, 2015</stro
+ ng>. The individual registration fee will also register your students for 
+ the convention itself and allow them to participate in the Children and Te
+ en Sessions. Information on the convention sessions is available online at
+  icomvirginia.com to help you in promoting the event.</p>\n<p>Lodging info
+ rmation can also be accessed through the ICOM website. Of course there are
+  many other hotels in the area. If you need additional assistance with hou
+ sing\, please let me know. We have not put together a list of hotels in th
+ e area\, but would be happy to assist you\, if needed. There are also many
+  fast food restaurants in easy access of the convention center for inexpen
+ sive meals.</p>\n<p>Team registration will begin at the Greater Richmond C
+ onvention Center Friday afternoon. Times and rooms will be sent as I know 
+ more information. The Round Robin Competition will begin Friday afternoon 
+ and the Double Elimination Tournament will begin on Saturday morning with 
+ finals being held in the afternoon. Schedules will be sent out as we know 
+ the number of teams participating.</p>\n<p>Looking forward to a great time
+  of fellowship\, worship\, competition\, and spiritual renewal. Please do 
+ not hesitate to call if we can be of assistance in any way.</p>
+DTSTART;VALUE=DATE:20151030
+DTEND;VALUE=DATE:20151101
+GEO:+40.269674;-76.676821
+LOCATION:Hershey Lodge and Convention Center @ 325 University Drive\, Hersh
+ ey\, PA 17033\, USA
+SEQUENCE:0
+SUMMARY:ECC Annual Bible Bowl Tournament
+URL:http://home.biblebowl.org/event/8750/
+X-COST:$30 per team\, $15 per person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8744@home.biblebowl.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Beginner Tournaments
+CONTACT:Jenny Hill\; MsJennyBBB@yahoo.com
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160305
+DTEND;VALUE=DATE:20160307
+GEO:+38.228215;-85.545233
+LOCATION:Southeast Christian Church @ 920 Blankenbaker Parkway\, Louisville
+ \, KY 40243\, USA
+SEQUENCE:0
+SUMMARY:Beginner Main Game Event
+URL:http://home.biblebowl.org/event/beginner-main-game-event/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8742@home.biblebowl.org
+DTSTAMP:20150920T002107Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>For complete details on the National Tournament please see t
+ he <a href='http://home.biblebowl.org/nationals/'>Nationals page</a>.</p>
+DTSTART;VALUE=DATE:20160711
+DTEND;VALUE=DATE:20160715
+SEQUENCE:0
+SUMMARY:Nationals – Anaheim\, CA
+URL:http://home.biblebowl.org/event/national-tournament-anaheim-ca/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,591 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//5.77.35.249//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://midhurstcameraclub.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-153@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Workshop
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/workshop-50
+ 0x400-300x240.png' width='300' height='240' /></div>
+DTSTART;TZID=Europe/London:20150923T193000
+DTEND;TZID=Europe/London:20150923T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Practical Evening / Workshop: Entering Competitions
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=practical-evening-workshop
+ -entering-competitions
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-152@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,Print Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/print-compe
+ tition-500x400px-300x240.png' width='300' height='240' /></div><p>Open – N
+ o set subject\, but must be new work.<br />\nJudge – David Eastley LRPS</p
+ >
+DTSTART;TZID=Europe/London:20150930T193000
+DTEND;TZID=Europe/London:20150930T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Print Competition (Non-league) – Ladies and Gentlemen’s Trophy
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=print-competition-non-leag
+ ue-ladies-and-gentlemens-trophy
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-151@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Speaker Evening
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/speaker-500
+ x400-300x240.png' width='300' height='240' /></div><p>“Atlantic crossing o
+ n JST’s Tenacious” – Since its inception in 1978\, the Jubilee Sailing Tru
+ st has strived to enable people of all physical abilities to sail. This is
+  Derek’s story of his trip across the Atlantic.</p>\n<p><!--more--></p>\n<
+ p>The Jubilee Sailing Trust is a registered charity and was set up with th
+ e aim of promoting the integration of people of all physical abilities thr
+ ough the challenge and adventure of sailing tall ships on the open sea. Th
+ e Jubilee Sailing Trust has been changing lives since 1978. In that year i
+ t became a registered charity through the extraordinary vision of a dedica
+ ted group of people working against the odds to make their dream a reality
+ . Back then the idea of integrating physically disabled with able-bodied p
+ eople on a tall ship was a unique concept\, and yet the JST still remains 
+ to this day the only organisation of its kind in the world.</p>\n<p>The JS
+ T’s two ships\, Lord Nelson and Tenacious\, have sailed many hundreds of t
+ housands of miles and have helped change thousands of lives\, operating in
+  European and North Atlantic waters. Both ships are regular visitors to Fr
+ ance and Ireland in the summer and the Canaries or Mediterranean in the wi
+ nter. Tenacious has spent many of her winters in the Caribbean (with numer
+ ous Atlantic crossings)\, since she was launched. Tenacious took part in t
+ he Queen’s Diamond Jubilee Pageant\, a fitting follow up to the charity ha
+ ving being named after the Queen’s Silver Jubilee Fund.</p>\n<p>This is De
+ rek Trendell’s story of his crossing of the Atlantic from Bermuda to South
+ ampton on the Jubilee Sailing Trust’s square rigger “Tenacious”.</p>
+DTSTART;TZID=Europe/London:20151014T193000
+DTEND;TZID=Europe/London:20151014T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Speaker Evening: Derek Trendle
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=speaker-evening-derek-tren
+ dle
+X-COST:£5 for non-members
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-150@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Workshop
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/workshop-50
+ 0x400-300x240.png' width='300' height='240' /></div>
+DTSTART;TZID=Europe/London:20151021T193000
+DTEND;TZID=Europe/London:20151021T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Practical Evening / Workshop – Camera basics and beyond
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=practical-evening-worshop-
+ camera-basics-and-beyond
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-149@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,PDI Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/pdi-competi
+ tion-500x400px-300x240.png' width='300' height='240' /></div><p>Open (no s
+ et subject).<br />\nJudge – Caroline Colegate\, ARPS</p>
+DTSTART;TZID=Europe/London:20151028T193000
+DTEND;TZID=Europe/London:20151028T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:PDI Competition R1
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=pdi-competition-r1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-148@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Speaker Evening
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/speaker-500
+ x400-300x240.png' width='300' height='240' /></div><p>“The world of a wild
+ life photographer” – David promises to make everything achievable and fun 
+ – and prove that expensive equipment is not what is important.</p>\n<p><!-
+ -more--></p>\n<p> </p>\n<p>This entertaining lecture spans 35 years of pho
+ tography and take us to 5 continents. The questions David is most often as
+ ked are about his ‘favourites’! What are the pictures you are most pleased
+  with – what is the best place you have visited – which subjects do you mo
+ st enjoy photographing? These are impossible questions to answer because o
+ nes opinion constantly changes. How can you possibly compare the Queenslan
+ d tropical rain forest with the desert of Utah\; or compare the delicate b
+ ut vibrant sunbirds with the power and majesty of a bald eagle? It may be 
+ impossible but\, in this lecture\, he is going to try! Working his way thr
+ ough his commissions over a span of 30 years\, he brings us right up to da
+ te with his latest and most exciting project</p>
+DTSTART;TZID=Europe/London:20151111T193000
+DTEND;TZID=Europe/London:20151111T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Speaker Evening: David Boag
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=speaker-evening-david-boag
+X-COST:£5 for non-members
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-147@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Workshop
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/workshop-50
+ 0x400-300x240.png' width='300' height='240' /></div>
+DTSTART;TZID=Europe/London:20151118T193000
+DTEND;TZID=Europe/London:20151118T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Practical Evening / Workshop –  After dark
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=practical-evening-worshop-
+ after-dark
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-146@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,Print Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/print-compe
+ tition-500x400px-300x240.png' width='300' height='240' /></div><p>Set subj
+ ect “Simplicity”<br />\nJudge – Rob de Ruiter LRPS</p>
+DTSTART;TZID=Europe/London:20151125T193000
+DTEND;TZID=Europe/London:20151125T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Print Competition R1
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=print-competition-r1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-145@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Speaker Evening
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/speaker-500
+ x400-300x240.png' width='300' height='240' /></div><p>“His sporting life” 
+ – Dave is a multi-award winning international sports photographer – if it’
+ s a sport\, Dave will have photographed it.</p>\n<p>Freelance sports photo
+ grapher Dave Shopland was originally a printer for the Press Association a
+ nd then the Associated Press\, where he printed the work of the world’s be
+ st sports photographers.</p>\n<p>He got his big break by filling in for an
+  AP colleague who was injured just before the 1986 FIFA World Cup Finals i
+ n Mexico. He then became a full-time freelance photographer\, mainly for t
+ he Daily Telegraph\, covering a diverse array of sports. In 1992 he joined
+  the Daily Mail as a freelance contributor\, where he has worked ever sinc
+ e. Dave is the official photographer for the NFL in the UK\, and has\, to 
+ date\, covered 22 Super Bowls.</p>\n<p>He won Sports Photographer of the Y
+ ear in 2002 and 2007 and was Barclays Football Photographer of the Season 
+ 2012-13.</p>
+DTSTART;TZID=Europe/London:20151209T193000
+DTEND;TZID=Europe/London:20151209T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Speaker Evening: Dave Shopland
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=speaker-evening-dave-shopl
+ and
+X-COST:£5 for non-members
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-144@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Social Event
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/christmas-s
+ ocial-500x400px-300x240.png' width='300' height='240' /></div>
+DTSTART;TZID=Europe/London:20151216T193000
+DTEND;TZID=Europe/London:20151216T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Christmas Social Evening
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=social-evening
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-143@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,PDI Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/pdi-competi
+ tion-500x400px-300x240.png' width='300' height='240' /></div><p>“Monochrom
+ e”<br />\nJudge – Stephané Rocher</p>
+DTSTART;TZID=Europe/London:20160106T193000
+DTEND;TZID=Europe/London:20160106T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:PDI Competition R2
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=pdi-competition-r2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-142@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Workshop
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/workshop-50
+ 0x400-300x240.png' width='300' height='240' /></div>
+DTSTART;TZID=Europe/London:20160113T193000
+DTEND;TZID=Europe/London:20160113T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Practical Evening / Workshop – portrait photography
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=practical-evening-worshop-
+ portrait-photography
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-141@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Speaker Evening
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/speaker-500
+ x400-300x240.png' width='300' height='240' /></div><p>“Urban exploration” 
+ – Abandoned buildings are her passion\,  as are the details of places that
+  attract her eye\, the minutiae that collects in hidden corners\, the smal
+ l parts of bigger things that are fascinating in their own right.</p>\n<p>
+ Viveca Koh is a self-taught Fine Art photographer\, with a special fascina
+ tion for small details\, for lost\, abandoned\, poignant and generally bro
+ ken objects\, and also for darkness contrasting with light\, both in a phy
+ sical and emotional sense.</p>\n<p>Many of her illustrative images simply 
+ evolve as she is working on them – starting off with a quite straightforwa
+ rd idea of what she wants to achieve but is always willing to venture wher
+ ever the photograph wants her to go\, as she overlays multiple images toge
+ ther or add textures\, scanned documents as new layers\, and subtle shadin
+ g. Two photographs may blend together in a way that she could not have pre
+ viously imagined\, and this is one of the things that Viveca finds so exci
+ ting and all-consuming in her work\, to produce a final image that perhaps
+  a little bit different\, that invokes emotion in the viewer and makes the
+ m question their sense of the world as they know it.</p>\n<p>In June 2014 
+ she was awarded a Fellowship Distinction by the Royal Photographic Society
+ \, following on from an Associateship Distinction in June 2011 and a Licen
+ tiateship Distinction in 2010.</p>
+DTSTART;TZID=Europe/London:20160120T193000
+DTEND;TZID=Europe/London:20160120T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Speaker Evening: Viveca Koh
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=speaker-evening-viveca-koh
+X-COST:£5 for non-members
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-140@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,Print Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/print-compe
+ tition-500x400px-300x240.png' width='300' height='240' /></div><p>Set subj
+ ect “Moving Water”<br />\nJudge – Ken Scott ARPS</p>
+DTSTART;TZID=Europe/London:20160203T193000
+DTEND;TZID=Europe/London:20160203T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Print Competition R2 – Beaton Cup
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=print-competition-r2-beato
+ n-cup
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-139@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Workshop
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/workshop-50
+ 0x400-300x240.png' width='300' height='240' /></div>
+DTSTART;TZID=Europe/London:20160210T193000
+DTEND;TZID=Europe/London:20160210T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Practical Evening / Workshop: What judges look for
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=practical-evening-worshop-
+ what-judges-look-for
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-138@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Speaker Evening
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/speaker-500
+ x400-300x240.png' width='300' height='240' /></div><p>“A little of what yo
+ u fancy” – Jon will discuss how to get the most from a photographic opport
+ unity by exploring the scene\, use of different apertures and shutter spee
+ ds\, use of filters (e.g. polariser and graduated neutral density) and dif
+ ferent lenses. He will also explore the times of day and indeed times of y
+ ear to get the best photos.</p>\n<p>A Little of What You Fancy is a tour t
+ hrough the experience of a generalist photographer who has put together a 
+ show that demonstrates a range of tools and techniques that are available 
+ to all (given a little patience and the desire to get up early at times!).
+ </p>\n<p>All told with a large pinch of humour throughout in the stories b
+ ehind the pictures.</p>
+DTSTART;TZID=Europe/London:20160217T193000
+DTEND;TZID=Europe/London:20160217T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Speaker Evening: Jon Mitchell
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=speaker-evening-jon-mitche
+ ll
+X-COST:£5 for non-members
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-137@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,PDI Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/pdi-competi
+ tion-500x400px-300x240.png' width='300' height='240' /></div><p>Set subjec
+ t “Out of Place”<br />\nJudge – Carole Speight APAGB ARPS DPAGB</p>
+DTSTART;TZID=Europe/London:20160302T193000
+DTEND;TZID=Europe/London:20160302T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:PDI Competition R3
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=pdi-competition-r3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-136@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Speaker Evening
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/speaker-500
+ x400-300x240.png' width='300' height='240' /></div><p>“From canal to coast
+ ” – Starting with the Wey Navigation and Basingstoke Canals and moving on 
+ to images from the coast.</p>\n<p>Rachael Talibart is an outdoor photograp
+ her\, lecturer and workshop leader. She is co-founder of f11 Workshops\, p
+ roviding photography day tours and workshops in Surrey\, West Sussex and L
+ ondon\, and a judge for the Surrey Photographic Association.</p>\n<p>Her i
+ mages have been published in books and magazines\, both print and on-line.
+  In this talk\, Rachael shares many of her images taken on or near water\,
+  from the inland waterways of Surrey to the rivers and coastline of Britai
+ n and further afield\, together with tips and advice on landscape photogra
+ phy techniques.</p>
+DTSTART;TZID=Europe/London:20160316T193000
+DTEND;TZID=Europe/London:20160316T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Speaker Evening: Rachael Talibart
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=speaker-evening-rachael-ta
+ libart
+X-COST:£5 for non-members
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-135@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Workshop
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/workshop-50
+ 0x400-300x240.png' width='300' height='240' /></div>
+DTSTART;TZID=Europe/London:20160323T193000
+DTEND;TZID=Europe/London:20160323T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Practical Evening / Workshop: Flash photography
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=practical-evening-worshop-
+ flash-photography
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-134@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,Print Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/print-compe
+ tition-500x400px-300x240.png' width='300' height='240' /></div><p>Open (No
+  set subject).<br />\nJudge – Barbara Holder CPAGB</p>
+DTSTART;TZID=Europe/London:20160330T193000
+DTEND;TZID=Europe/London:20160330T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Print Competition R3
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=print-competition-r3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-133@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Speaker Evening
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/speaker-500
+ x400-300x240.png' width='300' height='240' /></div><p>“Into the Darkness” 
+ including a demonstration of painting with light.</p>\n<p>On this evening 
+ we will be treated to a show of superb artistic talent by Diana Goss\, MSc
+  UKCP ARPS who specialises in\, and thoroughly enjoys\, Night Photography.
+  Diana will be giving us her history of shooting in the darkness with a co
+ uple of audiovisuals and a selection of DPIs. During the first half she wi
+ ll explain the technical aspects of shooting in the dark\, and after the b
+ reak\, the creative aspects. Her friend and colleague Elmer Maniebo will b
+ e coming with her and giving us some light painting demos during the talk.
+ </p>\n<p>Diana has led a very interesting life being a qualified Consultan
+ t Psychotherapist and also being involved with the retail motor trade with
+  a partner importing exotic models\, not to mention raising two children.<
+ /p>\n<p>Diana will explain some of the techniques she uses to obtain some 
+ of her images which involves ‘stacking’ a great many different frames\; us
+ ing torches and other light sources to ‘paint objects with light’ during l
+ ong exposures and using illuminated wires to produce coloured lines in spe
+ cific places within the images.</p>\n<p>Diana possesses the most amazing a
+ rtistic talent to bring together all the different facets of her images fo
+ rming a finished masterpiece. She has had many acceptances by different Sa
+ lons and was recently awarded her ARPS with a panel of prints which will b
+ e on display.</p>
+DTSTART;TZID=Europe/London:20160413T193000
+DTEND;TZID=Europe/London:20160413T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Speaker Evening: Diana Goss
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=speaker-evening-diana-goss
+X-COST:£5 for non-members
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-132@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,PDI Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/pdi-competi
+ tion-500x400px-300x240.png' width='300' height='240' /></div><p>A fun even
+ ing where three clubs compete to match each other’s images.  All Club memb
+ ers are encouraged to submit images for consideration.  Unusual images are
+  the key\, technical quality and composition are not important for this ev
+ ening.</p>
+DTSTART;TZID=Europe/London:20160420T193000
+DTEND;TZID=Europe/London:20160420T220000
+GEO:+50.996198;-0.723718
+LOCATION:Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Inter-Club “Mix & Match” PDI
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=inter-club-mix-match-pdi
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-131@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,Print Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/print-compe
+ tition-500x400px-300x240.png' width='300' height='240' /></div><p>One pane
+ l of between three and six prints on a related theme. No set subject. Prin
+ ts may be displayed individually or mounted on a single board<br />\nJudge
+  – Roger Crocombe ARPS</p>
+DTSTART;TZID=Europe/London:20160427T193000
+DTEND;TZID=Europe/London:20160427T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Len Clarke Memorial Trophy Competition (in memory of our founder ch
+ airman).
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=len-clarke-memorial-trophy
+ -competition-in-memory-of-our-founder-chairman
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-130@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,Print Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/print-compe
+ tition-500x400px-300x240.png' width='300' height='240' /></div><p>Set subj
+ ect “Flora and Fauna”.<br />\nJudge – Ann Smith ARPS</p>
+DTSTART;TZID=Europe/London:20160511T193000
+DTEND;TZID=Europe/London:20160511T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:Print Competition R4 – Rotherhill Cup
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=print-competition-r4-rothe
+ rhill-cup
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-129@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,Other\,Print Competitions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/print-compe
+ tition-500x400px-300x240.png' width='300' height='240' /></div><p>(Enprint
+ s are un-mounted and un-manipulated photographs). They can be printed eith
+ er 4”x6” or 5”x7” – a chance for all members to be “a judge for the night”
+ </p>
+DTSTART;TZID=Europe/London:20160525T193000
+DTEND;TZID=Europe/London:20160525T220000
+GEO:+50.996198;-0.723718
+LOCATION:Cowdray Hall @ Easebourne\, Midhurst\, West Sussex GU29 0AW\, UK
+SEQUENCE:0
+SUMMARY:AGM and Enprint Competition
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=agm-and-enprint-competitio
+ n
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-128@midhurstcameraclub.co.uk/wordpress
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Social Event
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://midhurstcameraclub.co.uk/wordpress/wp-content/uploads/diary/prize-500x4
+ 00px-300x240.png' width='300' height='240' /></div>
+DTSTART;TZID=Europe/London:20160528T193000
+DTEND;TZID=Europe/London:20160528T220000
+LOCATION:TBC
+SEQUENCE:0
+SUMMARY:Annual Dinner and Prize Giving
+URL:http://midhurstcameraclub.co.uk/?ai1ec_event=annual-dinner-and-prize-gi
+ ving
+X-COST:tbc
+END:VEVENT
+END:VCALENDAR

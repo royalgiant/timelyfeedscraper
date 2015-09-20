@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//65.254.250.102//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.toistudio.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-168764@www.toistudio.com/toi2
+DTSTAMP:20150920T002134Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.piday.org/'><img alt='' src='http://www.
+ pi314.net/imagespi/Pi_day/2010_pi.jpg' class='grouped_elements' rel='tc-fa
+ ncybox-group1712' /></a>Combining two of my favorite things\, PIE and MATH
+ . Easiest holiday to celebrate. Just eat some pie and think about some num
+ bers.</p>\n<p>By the way\, ratio of a circle’s circumference to its diamet
+ er has a varied history across many cultures and various highly (adding ye
+ t another favorite thing\, eg. history).</p>\n<p>image from pi314.net</p>
+ \n<p> </p>
+DTSTART;VALUE=DATE:20160314
+DTEND;VALUE=DATE:20160315
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Pi Day
+URL:http://www.toistudio.com/event/pi-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-168758@www.toistudio.com/toi2
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:AIA Cleveland
+CONTACT:Angela Jayjack\; 216.572.1242
+DESCRIPTION:<p><img src='http://aiacleveland.com/wp-content/uploads/2014/05
+ /AIACLE_logo2-e1406775764808.jpg' alt='AIACLE_logo2' /></p>\n<p><b>AIA CLE
+  Associates Committee Meeting</b> : Join the AIA Cleveland Associates Comm
+ ittee the second Monday of each month as we get together to discuss the va
+ rious programming\, networking and learning opportunities the committee is
+  focused on bringing to the chapter. Past programs put on by this committe
+ e include the S\,M\,L\,XL Hard Hat Tours\, the Emerging Practitioner Lectu
+ re Series\, the ARE Study Sessions and various other programs.</p>\n<p><b>
+ Location:</b> AIA Cleveland Center for Architecture and Design – Playhouse
+  Square – 2059 East 14th Street\, Cleveland\, OH 44115<br />\n<b>Time:</b>
+  6:00pm-7:00pm</p>
+DTSTART;TZID=America/New_York:20151012T180000
+DTEND;TZID=America/New_York:20151012T190000
+GEO:+41.500083;-81.68062
+LOCATION:AIA Cleveland Center for Architecture and Design @ 2059 East 14th 
+ Street\, Cleveland\, OH 44115\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:AIA Associates + Young Architects Monthly Meeting
+URL:http://www.toistudio.com/event/168758/
+END:VEVENT
+BEGIN:VEVENT
+UID:ncs01hgggn6tmiikg72ecjvh0s@google.com
+DTSTAMP:20150920T002134Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Monthly meeting for AIA Associates where we try to figur
+ e out just what AIA Cleveland is up to (for Associates and Young Architect
+ s).</p>
+DTSTART;TZID=America/New_York:20151012T180000
+DTEND;TZID=America/New_York:20151012T193000
+LOCATION:AIA Cleveland\, 1001 Huron Road #105\, Cleveland\, OH 44115
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:CLE AIA Associates and Young Architects Committee Meeting
+URL:http://www.toistudio.com/event/cle-aia-associates-and-young-architects-
+ committee-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-358334@www.toistudio.com/toi2
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:lecture
+CONTACT:Thomas Fox\; http://twitter.com/tommylovessoup
+DESCRIPTION:<p>Creative Mornings is a breakfast lecture series where invite
+ d speakers from the creative community talk about their passions\, their e
+ xperiences or just what moves them.</p>\n<p>Hosted in major cities around 
+ the world\, Cleveland has it’s own incarnation.</p>\n<p> </p>\n<p>You can 
+ sign up for a newsletter that gives you a reminder about new speakers and 
+ to register for upcoming events on their <a href='http://creativemornings.
+ com/cities/cle' target='_blank'>website</a>.</p>
+DTSTART;TZID=America/New_York:20151016T083000
+DTEND;TZID=America/New_York:20151016T100000
+LOCATION:Varies Monthly Check Website
+RRULE:FREQ=MONTHLY;BYDAY=3FR
+SEQUENCE:0
+SUMMARY:Creative Morning Cleveland
+URL:http://www.toistudio.com/event/creative-morning-cleveland/
+X-TICKETS-URL:http://creativemornings.com/cities/cle
+END:VEVENT
+BEGIN:VEVENT
+UID:a0680b0b5dtbahck11ji29npg0@google.com
+DTSTAMP:20150920T002134Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>http://www.dscdo.org/thirdfridays.aspx</p>\n<p>Third Fridays
+  in Gordon Square Launch</p>\n<p> CLEVELAND- ThirdFridays in the Gordon Sq
+ uare Arts District (GSAD) just even better!  Merchants in the District hav
+ e teamed up with the galleries inside 78th Street Studios\, led by Hilary 
+ Gent (ofHEDGE Gallery) to launch a bigger monthly event.  From September-D
+ ecember (9/20\, 10/18\, 11/15\,12/20) in 2013\, you have 13 more reasons t
+ o visit the internationally recognized Gordon Square Arts District\, inclu
+ ding merchant specials\, 78th Street Studios openings and a shuttle throug
+ h the district. </p>\n<p> The goal of expanding what’s happening in the ar
+ ea on Third Fridays\, is to further awareness of the arts within the neigh
+ borhood\, and to give visitors even more reasons to visit Gordon Square on
+  the Third Friday of every month.  From sales\, to late night Happy Hours\
+ , to new gallery openings\, food specials and live entertainment\, GSAD is
+  THE Cleveland hot spot on Third Fridays.</p>\n<p>  78thStreet Studios is 
+ the largest fine arts complex in Northeast Ohio with over 40 retail galler
+ ies\, studios and other creative spaces all under one roof (http://78thstr
+ eetstudios.com/).  The 78th Street Studios’ Third Fridays event\, monthly 
+ hosts more than 1\,000 guests from 5pm-9pm.  “78th Street Studios has beco
+ me a regional asset for the arts\, creating economic development opportuni
+ ties and a spring board for arts-based entrepreneurs\,” said Dan Bush\, ow
+ ner of the 78th Street Studios Complex. “We are excited about the expansio
+ n of Third Fridays throughout the Gordon Square Arts District.”</p>\n<p>“T
+ hird Fridays have been a great way for people to get to know the area\, me
+ et working artists and be a part of the neighborhood’s resurgence\,” comme
+ nts Judi Feniger\, President of the Gordon Square Arts District. </p>\n<p>
+  “The merchants in the district have collaborated in a very unique way\, w
+ orking together to launch the Third Fridays in Gordon Square initiative\,”
+  said Cleveland City Councilman Matt Zone. “The collaboration allows neigh
+ borhood residents to experience even more of the arts\, culture and entert
+ ainment in their own backyard.”</p>\n<p> The four month initiative will in
+ clude special promotions at area businesses\, special events\, extended ho
+ urs (see list below) and free shuttles in the district- providing easier t
+ ransportation and more public parking options\, encouraging visitors to ex
+ plore all that the Arts District has to offer. </p>
+DTSTART;TZID=America/New_York:20151016T170000
+DTEND;TZID=America/New_York:20151016T210000
+LOCATION:Gordon Square Arts District\, Cleveland\, Ohio
+RRULE:FREQ=MONTHLY;BYDAY=3FR
+SEQUENCE:0
+SUMMARY:Third Fridays in the GSAD (Gordon Square Arts District)
+URL:http://www.toistudio.com/event/third-fridays-in-the-gsad-gordon-square-
+ arts-district/
+END:VEVENT
+END:VCALENDAR

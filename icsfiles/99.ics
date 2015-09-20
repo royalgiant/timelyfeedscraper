@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.247.242.235//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://www.aimcorexchange.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4177@www.aimcorexchange.com
+DTSTAMP:20150920T002107Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:In order to view this information\, you must be an authorized m
+ ember. - <a href='http://aimcorexchange.net/register-login/'> Login</a>
+DTSTART;TZID=America/New_York:20150924T133000
+DTEND;TZID=America/New_York:20150924T143000
+SEQUENCE:0
+SUMMARY:OneAmerica Introduction and Rollout
+URL:https://www.aimcorexchange.com/event/oneamerica-introduction-and-rollou
+ t/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4171@www.aimcorexchange.com
+DTSTAMP:20150920T002107Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:In order to view this information\, you must be an authorized m
+ ember. - <a href='http://aimcorexchange.net/register-login/'> Login</a>
+DTSTART;TZID=America/New_York:20150924T140000
+DTEND;TZID=America/New_York:20150924T142500
+SEQUENCE:0
+SUMMARY:25 Minutes to Better LTC Underwriting with Genworth and Happier Cli
+ ents
+URL:https://www.aimcorexchange.com/event/25-minutes-to-better-ltc-underwrit
+ ing-with-genworth-and-happier-clients/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3971@www.aimcorexchange.com
+DTSTAMP:20150920T002107Z
+CATEGORIES:
+CONTACT:Terry Broewr\; 763-219-1241\; terry.brower@aimcorgroup.com\; https:
+ //www.regonline.com/builder/site/?eventid=1754953
+DESCRIPTION:In order to view this information\, you must be an authorized m
+ ember. - <a href='http://aimcorexchange.net/register-login/'> Login</a>
+DTSTART;TZID=America/New_York:20151116T140000
+DTEND;TZID=America/New_York:20151118T140000
+GEO:+27.369694;-82.542886
+LOCATION:JW Marriott Orlando Grande Lakes @ 4040 Central Avenue\, Sarasota\
+ , FL 34234\, USA
+SEQUENCE:0
+SUMMARY:Annual Partner Meeting
+URL:https://www.aimcorexchange.com/event/annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4151@www.aimcorexchange.com
+DTSTAMP:20150920T002107Z
+CATEGORIES:
+CONTACT:Terry Brower\; 763-219-1241\; terry.brower@aimcorgroup.com
+DESCRIPTION:In order to view this information\, you must be an authorized m
+ ember. - <a href='http://aimcorexchange.net/register-login/'> Login</a>
+DTSTART;TZID=America/New_York:20160418T150000
+DTEND;TZID=America/New_York:20160420T140000
+GEO:+32.917223;-97.00901
+LOCATION:Westin Dallas/Fort Worth Airport Hotel @ 4545 West John W Carpente
+ r Freeway\, Irving\, TX 75063\, USA
+SEQUENCE:0
+SUMMARY:AimcoR Marketing Meeting
+URL:https://www.aimcorexchange.com/event/2016-aimcor-marketing-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3972@www.aimcorexchange.com
+DTSTAMP:20150920T002107Z
+CATEGORIES:
+CONTACT:Desiree Grupe\; 512.355.1127\; https://aimcor.dpsincentives.com/
+DESCRIPTION:In order to view this information\, you must be an authorized m
+ ember. - <a href='http://aimcorexchange.net/register-login/'> Login</a>
+DTSTART;TZID=America/New_York:20160615T080000
+DTEND;TZID=America/New_York:20160619T170000
+SEQUENCE:0
+SUMMARY:Aim High Producer’s Conference
+URL:https://www.aimcorexchange.com/event/aim-high-producers-conference/
+END:VEVENT
+END:VCALENDAR

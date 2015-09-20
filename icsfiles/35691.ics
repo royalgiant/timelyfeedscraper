@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.28.30.102//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://angkorhub.com
+X-WR-TIMEZONE:Asia/Phnom_Penh
+BEGIN:VTIMEZONE
+TZID:Asia/Phnom_Penh
+X-LIC-LOCATION:Asia/Phnom_Penh
+BEGIN:STANDARD
+DTSTART:19200401T000000
+TZOFFSETFROM:+064204
+TZOFFSETTO:+0700
+TZNAME:ICT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:jn3mlarpi77jc513afa5nggpd8@google.com
+DTSTAMP:20150920T002314Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Every Friday\, ‪#‎AngkorHUB‬ transforms into ‪#‎PopUpBar‬ wh
+ ere local and expat ‪#‎enTRIPreneurs‬ gather for casual talk over beers an
+ d tuktuk pizzas. Meet our ever-growing community and share your insights a
+ bout your life as a digital nomad or entrepreneur. We start at 6:00 PM!</p
+ >
+DTSTART;TZID=Asia/Phnom_Penh:20150925T180000
+DTEND;TZID=Asia/Phnom_Penh:20150925T210000
+EXDATE;TZID=Asia/Phnom_Penh:20150821T180000
+EXDATE;TZID=Asia/Phnom_Penh:20150904T180000
+EXDATE;TZID=Asia/Phnom_Penh:20150911T180000
+LOCATION:AngkorHUB
+RRULE:FREQ=WEEKLY;UNTIL=20151225T110000Z;BYDAY=FR
+SEQUENCE:0
+SUMMARY:Pop-Up Bar @AngkorHUB
+URL:https://angkorhub.com/event/pop-up-bar-angkorhub/
+END:VEVENT
+END:VCALENDAR

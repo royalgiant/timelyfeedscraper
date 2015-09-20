@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.30.212.181//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://fracturahidraulicaenburgosno.com
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+X-LIC-LOCATION:Europe/Madrid
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3142@fracturahidraulicaenburgosno.com
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=es-ES:Manifestaciones
+CONTACT:http://www.globalfrackdown.org/
+DESCRIPTION:<p style='text-align: justify\;'><a href='http://www.globalfrac
+ kdown.org/' onclick='__gaTracker('send'\, 'event'\, 'outbound-article'\, '
+ http://www.globalfrackdown.org/'\, '')\;' title='http://www.globalfrackdow
+ n.org/'  target='_blank'><img class='alignleft wp-image-3143' src='http://
+ fracturahidraulicaenburgosno.com/wp-content/uploads/2015/07/FrackdownParis
+ -1.png' alt='FrackdownParis-1' width='220' height='225' /></a><span style=
+ 'color: #000000\;'>Se hará coincidir con la <span style='color: #0000ff\;'
+ ><a href='http://www.cop21.gouv.fr/es' onclick='__gaTracker('send'\, 'even
+ t'\, 'outbound-article'\, 'http://www.cop21.gouv.fr/es'\, 'Conferencia de 
+ las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio C
+ limático en Paris (COP 21)')\;' style='color: #0000ff\;'  target='_blank'>
+ Conferencia de las Partes de la Convención Marco de las Naciones Unidas so
+ bre el Cambio Climático en Paris (COP 21)</a></span>  que tendrá lugar en 
+ Paris durante el mes de Noviembre. Los organizadores pretenden que se:</sp
+ an></p>\n<p style='text-align: justify\;'><em><span style='color: #000000\
+ ;'> “tome una acción decisiva\; no sólo a partir del establecimiento de ob
+ jetivos para la reducción de emisiones\, sino también\, confrontando explí
+ citamente la necesidad fundamental\, basada en la ciencia\, de mantener lo
+ s combustibles fósiles bajo tierra. Concretamente\, le solicitamos que rec
+ hace la fractura hidráulica (fracking) y el uso de acidificación para la p
+ roducción de petróleo y gas natural y toda la infraestructura relacionada 
+ con estas técnicas. Usted debe tomar medidas para realizar una transición 
+ radical hacia un futuro con energía 100% renovable\, y necesaria para reme
+ diar el calentamiento global y contar con una garantía para la estabilidad
+  del clima.”</span></em></p>\n<p><a href='https://twitter.com/hashtag/frac
+ kdownparis' onclick='__gaTracker('send'\, 'event'\, 'outbound-article'\, '
+ https://twitter.com/hashtag/frackdownparis'\, 'Tweets sobre #frackdownpari
+ s')\;' class='twitter-timeline'  data-widget-id='623443335290724352'>Tweet
+ s sobre #frackdownparis</a><br />\n<script>// < ![CDATA[\n!function(d\,s\,
+ id){var js\,fjs=d.getElementsByTagName(s)[0]\,p=/^http:/.test(d.location)?
+ 'http':'https'\;if(!d.getElementById(id)){js=d.createElement(s)\;js.id=id\
+ ;js.src=p+'://platform.twitter.com/widgets.js'\;fjs.parentNode.insertBefor
+ e(js\,fjs)\;}}(document\,'script'\,'twitter-wjs')\;\n// ]]></script></p>
+DTSTART;TZID=Europe/Madrid:20151102T100000
+DTEND;TZID=Europe/Madrid:20151130T100000
+GEO:+48.936752;+2.425377
+LOCATION:Le Bourget\, Francia
+SEQUENCE:0
+SUMMARY:Global frackdown to Paris.
+URL:http://fracturahidraulicaenburgosno.com/event/global-frackdown-to-paris
+ /
+END:VEVENT
+END:VCALENDAR

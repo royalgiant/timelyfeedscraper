@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//98.129.229.42//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://westsanjosenjb.com
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3496@westsanjosenjb.com/wp
+DTSTAMP:20150920T002105Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>For details please visit: <a href='http://westsanjosenjb.com
+ /registration/'>http://westsanjosenjb.com/registration/</a></p>
+DTSTART;TZID=America/Los_Angeles:20150920T083000
+DTEND;TZID=America/Los_Angeles:20150920T190000
+SEQUENCE:0
+SUMMARY:All-Net Try-Outs
+URL:http://westsanjosenjb.com/event/all-net-try-outs-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3497@westsanjosenjb.com/wp
+DTSTAMP:20150920T002105Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>For details please visit: <a href='http://westsanjosenjb.com
+ /registration/'>http://westsanjosenjb.com/registration/</a></p>
+DTSTART;TZID=America/Los_Angeles:20150921T184500
+DTEND;TZID=America/Los_Angeles:20150921T214500
+RRULE:FREQ=DAILY;COUNT=2
+SEQUENCE:0
+SUMMARY:All-Net call-backs
+URL:http://westsanjosenjb.com/event/all-net-call-backs/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3523@westsanjosenjb.com/wp
+DTSTAMP:20150920T002105Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Board and volunteer members only please.</p>
+DTSTART;TZID=America/Los_Angeles:20151004T190000
+DTEND;TZID=America/Los_Angeles:20151004T210000
+LOCATION:Roundtable Pizza
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://westsanjosenjb.com/event/board-meeting-5/
+END:VEVENT
+END:VCALENDAR

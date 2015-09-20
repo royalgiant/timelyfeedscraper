@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//142.4.34.194//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.informationpress.net
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4322@www.informationpress.net
+DTSTAMP:20150920T002143Z
+CATEGORIES:
+CONTACT:Kevin\;  (805) 547-1318\; kpsslopoet@charter.net\; http://languageo
+ fthesoul.org/corners/index.html
+DESCRIPTION:<p>This is a monthly series of featured and open poetry reading
+ s held on the third Sunday of the month at Linnaea’s Cafe since 1984. Read
+ ings start at 7:00 pm. This is a FREE event.</p>
+DTSTART;TZID=America/Los_Angeles:20150920T190000
+GEO:+35.27926;-120.663177
+LOCATION:Linnea’s Cafe @ 1110 Garden Street\, San Luis Obispo\, CA 93401\, 
+ USA
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Corners of the Mouth
+URL:http://www.informationpress.net/event/corners-of-the-mouth-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2410@www.informationpress.net
+DTSTAMP:20150920T002143Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:Mary White
+DESCRIPTION:<p><span style='color: #464646\;'>Buy Local\, Eat Fresh. Fast &
+  Convenient</span><br style='color: #464646\;' /><span style='color: #4646
+ 46\;'>Rain or Shine! Plenty of parking!</span></p>
+DTSTART;TZID=America/Los_Angeles:20150922T150000
+DTEND;TZID=America/Los_Angeles:20150922T180000
+GEO:+35.263914;-120.651021
+LOCATION:The Neighborhood Market at the Grange @ 2880 Broad Street\, San Lu
+ is Obispo\, CA 93401\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Tuesday Farmer’s Market
+URL:http://www.informationpress.net/event/tuesday-farmers-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2425@localhost/~Scott/wordpress
+DTSTAMP:20150920T002143Z
+CATEGORIES;LANGUAGE=en-US:Art
+CONTACT:http://www.sloartscouncil.org
+DESCRIPTION:<p><span style='color: #464646\;'>1st Friday of each month 6 – 
+ 9 pm</span><br style='color: #464646\;' /><span style='color: #464646\;'>O
+ ver 37 participating galleries in<br />\nSan Luis Obispo.  Visit website f
+ or a list.</span></p>
+DTSTART;TZID=America/Los_Angeles:20151002T180000
+DTEND;TZID=America/Los_Angeles:20151002T210000
+LOCATION:San Luis Obispo
+RRULE:FREQ=MONTHLY;BYDAY=1FR
+SEQUENCE:0
+SUMMARY:SLO Art After Dark
+URL:http://www.informationpress.net/event/2425/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2406@www.informationpress.net
+DTSTAMP:20150920T002143Z
+CATEGORIES;LANGUAGE=en-US:Art
+CONTACT:(805) 544-9251 ext 14\; http://www.artobispo.org
+DESCRIPTION:<p><span style='color: #666666\;'>Art After Dark Paso is held t
+ he first Saturday of every month\, 6-9pm in the City of Paso Robles\, Cali
+ fornia. This free\, self-guided art walk promotes artists\, galleries\, wi
+ ne tasting rooms\, and other venues that showcase the arts.</span></p>
+DTSTART;TZID=America/Los_Angeles:20151003T180000
+DTEND;TZID=America/Los_Angeles:20151003T210000
+GEO:+35.626944;-120.677778
+LOCATION:Paso Robles @ Paso Robles\, CA 93446\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1SA
+SEQUENCE:0
+SUMMARY:Art After Dark Paso
+URL:http://www.informationpress.net/event/art-after-dark-paso/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2411@www.informationpress.net
+DTSTAMP:20150920T002143Z
+CATEGORIES;LANGUAGE=en-US:Art\,Community Events
+CONTACT:Seven Sisters Gallery\; (805) 772-9955
+DESCRIPTION:<p><span style='color: #464646\;'>Open House\, 5-8pm\, 2nd Fri.
+  of the month at </span><span style='color: #000000\;'>va<span style='colo
+ r: #008000\;'><span style='color: #000000\;'>rious Embarcadero Art Galleri
+ es.</span></span></span></p>\n<p><span style='color: #000000\;'><span styl
+ e='color: #008000\;'><span style='color: #000000\;'> Meet the artists\, en
+ joy art\, food & wine.</span></span></span></p>
+DTSTART;TZID=America/Los_Angeles:20151009T170000
+DTEND;TZID=America/Los_Angeles:20151009T200000
+GEO:+35.365944;-120.849992
+LOCATION:Various Embarcadero Art Galleries @ Morro Bay\, CA\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2FR
+SEQUENCE:0
+SUMMARY:Morro Bay Art Walk
+URL:http://www.informationpress.net/event/morro-bay-art-walk/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2424@localhost/~Scott/wordpress
+DTSTAMP:20150920T002143Z
+CATEGORIES;LANGUAGE=en-US:Classes &amp\; Workshops
+CONTACT:(805) 438-4347\; http://www.lightshare.us
+DESCRIPTION:<p><span style='color: #464646\;'>No registration required<br /
+ >\n</span><span style='color: #464646\;'>No experience necessary<br />\n</
+ span><span style='color: #464646\;'>Information provided to those<br />\n<
+ /span><span style='color: #464646\;'>new to Pineal Toning</span></p>
+DTSTART;TZID=America/Los_Angeles:20151013T183000
+DTEND;TZID=America/Los_Angeles:20151013T193000
+GEO:+35.389024;-120.612922
+LOCATION:Lightshare Center @ 22720 El Camino Real\, Santa Margarita\, CA 93
+ 453\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:Learn About Pineal Toning
+URL:http://www.informationpress.net/event/learn-about-pineal-toning/
+END:VEVENT
+END:VCALENDAR

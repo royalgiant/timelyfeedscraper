@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="cs-CZ">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="cs-CZ">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+
+<!-- BEGIN html -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="cs-CZ">
+<!--<![endif]-->
+	<!-- BEGIN head -->
+	<head>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66659778-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+		<!-- Title -->
+		<title>
+			Svět medicíny | Informace z domova i ze zahraničí		</title>
+
+		<!-- Meta Tags -->
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		
+		<!-- Favicon -->
+					<link rel="shortcut icon" href="http://www.svetmediciny.cz/wp-content/uploads/2015/08/favicon1.png" type="image/x-icon" />
+				
+		<link rel="alternate" type="application/rss+xml" href="http://www.svetmediciny.cz/feed/" title="Svět medicíny latest posts" />
+		<link rel="alternate" type="application/rss+xml" href="http://www.svetmediciny.cz/comments/feed/" title="Svět medicíny latest comments" />
+		<link rel="pingback" href="http://www.svetmediciny.cz/xmlrpc.php" />
+
+		<link rel="alternate" type="application/rss+xml" title="Svět medicíny &raquo; RSS zdroj" href="http://www.svetmediciny.cz/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Svět medicíny &raquo; RSS komentářů" href="http://www.svetmediciny.cz/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Svět medicíny &raquo; iCal Feed" href="http://www.svetmediciny.cz/events/?ical=1" />
+<link rel="alternate" type="application/rss+xml" title="Svět medicíny &raquo; RSS komentářů pro Homepage" href="http://www.svetmediciny.cz/homepage-2/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.svetmediciny.cz\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://www.svetmediciny.cz/wp-includes/css/dashicons.min.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elusive-css'  href='http://www.svetmediciny.cz/wp-content/plugins/menu-icons/css/elusive.min.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fa-css'  href='http://www.svetmediciny.cz/wp-content/plugins/menu-icons/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-icons-css'  href='http://www.svetmediciny.cz/wp-content/plugins/menu-icons/css/foundation-icons.min.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genericon-css'  href='http://www.svetmediciny.cz/wp-content/plugins/menu-icons/css/genericons.min.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='http://www.svetmediciny.cz/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.svetmediciny.cz/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='http://www.svetmediciny.cz/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='//www.svetmediciny.cz/wp-content/plugins/woocommerce/assets/css/select2.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.svetmediciny.cz/wp-content/plugins/wp-polls/polls-css.css?ver=2.7' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.svetmediciny.cz/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='google-fonts-1-css'  href='http://fonts.googleapis.com/css?family=Open+Sans&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-2-css'  href='http://fonts.googleapis.com/css?family=Roboto+Slab&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='reset-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/reset.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.svetmediciny.cz/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=4.5.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='animate-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/animate.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='main-stylesheet-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/main-stylesheet.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/lightbox.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/shortcodes.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dat-menu-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/dat-menu.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/responsive.css?ver=4.2.5' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='ie-only-styles-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/ie-ancient.css?ver=4.2.5' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='owl.carousel-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/owl.carousel.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.theme-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/css/owl.theme.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamic-css-css'  href='http://www.svetmediciny.cz/wp-admin/admin-ajax.php?action=ot_dynamic_css&#038;ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/style.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='FxTickerCSS-css'  href='http://www.svetmediciny.cz/wp-content/plugins/forex-quotes/assets/css/style.css?ver=4.2.5' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ot = {"THEME_NAME":"fraction","adminUrl":"http:\/\/www.svetmediciny.cz\/wp-admin\/admin-ajax.php","gallery_id":"","galleryCat":"","imageUrl":"http:\/\/www.svetmediciny.cz\/wp-content\/themes\/fraction-theme\/images\/","cssUrl":"http:\/\/www.svetmediciny.cz\/wp-content\/themes\/fraction-theme\/css\/","themeUrl":"http:\/\/www.svetmediciny.cz\/wp-content\/themes\/fraction-theme"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/www.svetmediciny.cz\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/www.svetmediciny.cz\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"cs","dateFormat":"dd.mm.yy","ui_css":"http:\/\/www.svetmediciny.cz\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"1","is_ssl":"","bookingInProgress":"Po\u010dkejte pros\u00edm, rezervace je odes\u00edl\u00e1na.","tickets_save":"Ulo\u017eit l\u00edstek\/vstupenku","bookingajaxurl":"http:\/\/www.svetmediciny.cz\/wp-admin\/admin-ajax.php","bookings_export_save":"Exportovat rezervace","bookings_settings_save":"Ulo\u017eit nastaven\u00ed","booking_delete":"Jste si jisti smaz\u00e1n\u00edm?","bb_full":"Vyprod\u00e1no","bb_book":"rezervovat","bb_booking":"Rezervuji...","bb_booked":"Rezervace odesl\u00e1no","bb_error":"Rezervace chyba. Zkusit znovu?","bb_cancel":"zru\u0161it","bb_canceling":"Stornuji...","bb_cancelled":"Zru\u0161eno","bb_cancel_error":"Stornov\u00e1n\u00ed chyba. Zkusit znovu?","txt_search":"Vyhled\u00e1n\u00ed","txt_searching":"Vyhled\u00e1v\u00e1n\u00ed ...","txt_loading":"Nahr\u00e1v\u00e1m ...","event_reschedule_warning":"Jste si jisti, \u017ee chcete zm\u011bnit pl\u00e1n t\u00e9to opakuj\u00edc\u00ed se ud\u00e1losti? Pokud tak u\u010din\u00edte, ztrat\u00edte v\u0161echny informace o rezervac\u00edch a star\u00e9 opakuj\u00edc\u00ed se ud\u00e1losti budou smaz\u00e1ny.","event_detach_warning":"Jste si jisti, \u017ee chcete uvolnit tuto ud\u00e1lost? T\u00edm se tato ud\u00e1lost je nez\u00e1visl\u00e1 na opakuj\u00edc\u00ed soubor ud\u00e1lost\u00ed.","delete_recurrence_warning":"Jste si jisti, \u017ee chcete odstranit v\u0161echna opakov\u00e1n\u00ed t\u00e9to ud\u00e1losti? V\u0161echny ud\u00e1losti budou p\u0159esunuty do ko\u0161e.","disable_bookings_warning":"Jste si jisti, \u017ee chcete zak\u00e1zat rezervaci? Pokud tak u\u010din\u00edte a ulo\u017e\u00edte ji, p\u0159ijdete o v\u0161echny p\u0159edchoz\u00ed rezervace. Pokud chcete, aby se zabr\u00e1nilo dal\u0161\u00ed rezervaci, sni\u017ete po\u010det m\u00edst k dispozici k rezervaci","booking_warning_cancel":"Jste si jisti, \u017ee chcete zru\u0161it svou rezervaci?","locale_data":{"closeText":"Zav\u0159\u00edt","prevText":"<D\u0159\u00edve","nextText":"Pozd\u011bji>","currentText":"Nyn\u00ed","monthNames":["leden","\u00fanor","b\u0159ezen","duben","kv\u011bten","\u010derven","\u010dervenec","srpen","z\u00e1\u0159\u00ed","\u0159\u00edjen","listopad","prosinec"],"monthNamesShort":["led","\u00fano","b\u0159e","dub","kv\u011b","\u010der","\u010dvc","srp","z\u00e1\u0159","\u0159\u00edj","lis","pro"],"dayNames":["ned\u011ble","pond\u011bl\u00ed","\u00fater\u00fd","st\u0159eda","\u010dtvrtek","p\u00e1tek","sobota"],"dayNamesShort":["ne","po","\u00fat","st","\u010dt","p\u00e1","so"],"dayNamesMin":["ne","po","\u00fat","st","\u010dt","p\u00e1","so"],"weekHeader":"T\u00fdd","dateFormat":"dd.mm.yy","firstDay":1,"isRTL":false,"showMonthAfterYear":false,"yearSuffix":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&wc-ajax=%%endpoint%%","i18n_view_cart":"Zobrazit ko\u0161\u00edk","cart_url":"","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.svetmediciny.cz/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.4.5'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-admin/admin-ajax.php?action=ot_dynamic_js&#038;ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_action = {"ajaxurl":"http:\/\/www.svetmediciny.cz\/wp-admin\/admin-ajax.php"};
+var php_data = {"expiration":"10"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/plugins/forex-quotes/assets/js/script.js?ver=4.2.5'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.svetmediciny.cz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.svetmediciny.cz/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.5" />
+<meta name="generator" content="WooCommerce 2.4.5" />
+<link rel='canonical' href='http://www.svetmediciny.cz/' />
+<link rel='shortlink' href='http://www.svetmediciny.cz/' />
+<style type="text/css">	.ssba {
+									
+									
+									
+									
+								}
+								.ssba img
+								{
+									width: px !important;
+									padding: px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+								}
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									border:0;
+									background: none;
+									
+									
+									
+									font-weight: bold;
+								}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.svetmediciny.cz/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]-->
+<!-- BEGIN GADWP v4.8.1.3 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-66659778-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Tracking -->
+
+			
+							<style id="tt-easy-google-font-styles" type="text/css">
+			
+																						p {
+													}
+								
+																										h1 {
+													}
+								
+																										h2 {
+													}
+								
+																										h3 {
+													}
+								
+																										h4 {
+													}
+								
+																										h5 {
+													}
+								
+																										h6 {
+													}
+								
+										
+							</style>
+						<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+
+	<!-- END head -->
+	</head>
+	
+	<!-- BEGIN body -->
+	<body class="home page page-id-105 page-template page-template-template-homepage page-template-template-homepage-php wpb-js-composer js-comp-ver-4.5.3 vc_responsive">
+			
+					
+		<a href="#dat-menu" class="ot-menu-toggle"><i class="fa fa-bars"></i>Toggle Menu</a>
+		<!-- BEGIN .boxed -->
+		<div class="boxed active">
+			
+			<!-- BEGIN .header -->
+			<header class="header willfix">
+				
+				<!-- BEGIN .wrapper -->
+				<div class="wrapper">
+
+					<div class="header-left">
+						<div class="header-logo">
+															<a href="http://www.svetmediciny.cz" class="otanimation" data-anim-object=".header-logo a.otanimation img, .header-logo a.otanimation h1" data-anim-in="flipOutX" data-anim-out="bounceIn">
+									<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/logo_svet_fraction2.png" alt="Svět medicíny" />
+								</a>
+														<strong data-anim-in="fadeOutUpBig" data-anim-out="bounceIn"><i class="fa fa-home"></i> Homepage</strong>
+						</div>
+													<div class="header-socials">
+								<a href="https://www.twitter.com/orangethemes" target="_blank"><i class="fa fa-twitter"></i></a>								<a href="https://www.facebook.com/pages/Sv%C4%9Bt-medic%C3%ADny/107785389574489?ref=bookmarks" target="_blank"><i class="fa fa-facebook"></i></a>								<a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>								<a href="https://www.youtube.com/user/OrangeThemes" target="_blank"><i class="fa fa-youtube"></i></a>								<a href="http://vimeo.com/orangethemes" target="_blank"><i class="fa fa-vimeo-square"></i></a>							</div>
+											</div>
+						
+
+					<div class="header-right">
+						<nav class="main-menu">
+							<ul class="load-responsive menu" rel="Main Menu"><li id="menu-item-6" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a title="ZPRÁVY Z DOMOVA" href="http://www.svetmediciny.cz/category/domaci/">Domácí</a></li>
+<li id="menu-item-12" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a title="ZPRÁVY ZE SVĚTA" href="http://www.svetmediciny.cz/category/zahranicni/">Zahraniční</a></li>
+<li id="menu-item-10" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ot-dropdown"><a href="http://www.svetmediciny.cz/category/nazory/"><span>Názory</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-38" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/blogeri/">Blogeři</a></li>
+	<li id="menu-item-40" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/lekari/">Lékaři</a></li>
+	<li id="menu-item-41" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/pacienti/">Pacienti</a></li>
+</ul>
+</li>
+<li id="menu-item-93" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ot-dropdown"><a href="http://www.svetmediciny.cz/category/hi-tech-medicina/"><span>Hi-Tech Medicina</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-54" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/pupecnikova-krev/">Pupečníková krev</a></li>
+	<li id="menu-item-53" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/klouby-a-chrupavky/">Klouby a chrupavky</a></li>
+	<li id="menu-item-55" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/tkanove-inzenyrstvi/">Tkáňové inženýrství</a></li>
+	<li id="menu-item-56" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/diabeticka-noha/">Diabetická noha</a></li>
+</ul>
+</li>
+<li id="menu-item-11" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/odkazy/">Odkazy</a></li>
+<li id="menu-item-151" class="normal-drop   no-description menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.svetmediciny.cz/kontakt/">Kontakt</a></li>
+</ul>
+						
+															<div class="search-header">
+									<form method="get" action="http://www.svetmediciny.cz" name="searchform">
+										<input type="search" value="" placeholder="Search.." autocomplete="off" required="required" name="s" id="s" />
+										<input type="submit" value="Search" />
+									</form>
+								</div>
+													</nav>
+						
+
+													<nav class="under-menu">
+								<ul class="load-responsive" rel="Second Menu"><li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category single"><a href="http://www.svetmediciny.cz/category/dokumenty/">Dokumenty</a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ot-dropdown single"><a href="http://www.svetmediciny.cz/category/data/"><span>Data</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-47" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/analyzy/">Analýzy</a></li>
+	<li id="menu-item-49" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/klinicke-studie/">Klinické studie</a></li>
+</ul>
+</li>
+<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children ot-dropdown single"><a href="http://www.svetmediciny.cz/category/kdo-je-kdo/"><span>Kdo je kdo</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/lekari/">Lékaři</a></li>
+	<li id="menu-item-59" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/media/">Média</a></li>
+	<li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/farmaceuticke-firmy/">Firmy</a></li>
+	<li id="menu-item-50" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.svetmediciny.cz/category/fakulty/">Fakulty</a></li>
+</ul>
+</li>
+</ul>							</nav>
+						
+						
+					</div>
+
+					<div class="clear-float"></div>
+					
+				<!-- END .wrapper -->
+				</div>
+				
+			<!-- END .header -->
+			</header>
+
+
+
+
+
+
+
+	<!-- BEGIN .content -->
+	<section class="content">
+		
+		<!-- BEGIN .wrapper -->
+		<div class="wrapper">
+			<!-- Slaideri -->
+				
+
+					<!-- BEGIN .breaking-news -->
+					<div class="breaking-news">
+						<div class="breaking-title">
+							<h3>Breaking News</h3>
+						</div>
+						<div class="breaking-block">
+							<ul>
+																								<li>
+																			<a href="http://www.svetmediciny.cz/category/zahranicni/" class="break-category" style="background-color: #3C98CA;">Zahraniční</a>
+																		<h4>
+										<a href="http://www.svetmediciny.cz/2015/08/05/na-floride-zahajili-prulomovou-klinickou-studii-posuzujici-vyuziti-kmenovych-bunek-pri-lecbe-detske-mrtvice/">Na Floridě zahájili průlomovou klinickou studii posuzující využití kmenových buněk při léčbě dětské mrtvice</a>
+									</h4>
+																			<a href="http://www.svetmediciny.cz/2015/08/05/na-floride-zahajili-prulomovou-klinickou-studii-posuzujici-vyuziti-kmenovych-bunek-pri-lecbe-detske-mrtvice/#comments" class="comment-link">
+											<i class="fa fa-comment-o"></i>0										</a>
+																	</li>
+																								<li>
+																			<a href="http://www.svetmediciny.cz/category/zahranicni/" class="break-category" style="background-color: #3C98CA;">Zahraniční</a>
+																		<h4>
+										<a href="http://www.svetmediciny.cz/2015/08/05/pupecnikova-krev-jako-mozna-odpoved-na-lecbu-alzheimerovy-choroby/">Pupečníková krev jako možná odpověď na léčbu Alzheimerovy choroby</a>
+									</h4>
+																			<a href="http://www.svetmediciny.cz/2015/08/05/pupecnikova-krev-jako-mozna-odpoved-na-lecbu-alzheimerovy-choroby/#comments" class="comment-link">
+											<i class="fa fa-comment-o"></i>0										</a>
+																	</li>
+																								<li>
+																			<a href="http://www.svetmediciny.cz/category/domaci/" class="break-category" style="background-color: #3C98CA;">Domácí</a>
+																		<h4>
+										<a href="http://www.svetmediciny.cz/2015/07/30/potreba-pupecnikovych-krvi-pro-regenerativni-medicinu-bude-stoupat-vzniknou-hybridni-banky/">Potřeba pupečníkových krví pro regenerativní medicínu bude stoupat. Vzniknou hybridní banky</a>
+									</h4>
+																			<a href="http://www.svetmediciny.cz/2015/07/30/potreba-pupecnikovych-krvi-pro-regenerativni-medicinu-bude-stoupat-vzniknou-hybridni-banky/#comments" class="comment-link">
+											<i class="fa fa-comment-o"></i>0										</a>
+																	</li>
+								
+							</ul>
+						</div>
+					<!-- END .breaking-news -->
+					</div>
+
+						
+	<!-- BEGIN .ot-slider -->
+	<div class="ot-slider owl-carousel">
+
+		<!-- BEGIN .ot-slide -->
+		<div class="ot-slide">
+													<div class="ot-slider-layer first">
+					<a href="http://www.svetmediciny.cz/2015/08/19/trileta-gia-bude-bojovat-s-leukemii-pomoci-transplantace-pupecnikove-krve/">
+						<strong>
+															<i style="background-color: #3C98CA; color: #fff;">Zahraniční</i>
+														Tříletá Gia bude bojovat s leukémií pomocí transplantace pupečníkové krve						</strong>
+						<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/Gia-Lesselroth-3-is-shown-with-her-mom-Marissa-516x368_c.jpg" alt="Tříletá Gia bude bojovat s leukémií pomocí transplantace pupečníkové krve" />
+					</a>
+				</div>
+																				<div class="ot-slider-layer second">
+					<a href="http://www.svetmediciny.cz/2015/08/05/na-floride-zahajili-prulomovou-klinickou-studii-posuzujici-vyuziti-kmenovych-bunek-pri-lecbe-detske-mrtvice/">
+						<strong>
+															<i style="background-color: #3C98CA; color: #fff;">Hi-Tech Medicina</i>
+														Na Floridě zahájili průlomovou klinickou studii posuzující využití kmenových buněk při léčbě dětské mrtvice						</strong>
+						<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/A-importância-da-tecnologia-na-medicina-2-247x368_c.jpg" alt="Na Floridě zahájili průlomovou klinickou studii posuzující využití kmenových buněk při léčbě dětské mrtvice" />
+					</a>
+				</div>
+																				<div class="ot-slider-layer third">
+					<a href="http://www.svetmediciny.cz/2015/08/05/pupecnikova-krev-jako-mozna-odpoved-na-lecbu-alzheimerovy-choroby/">
+						<strong>
+															<i style="background-color: #3C98CA; color: #fff;">Hi-Tech Medicina</i>
+														Pupečníková krev jako možná odpověď na léčbu Alzheimerovy choroby						</strong>
+						<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/7412937724_9e32997495_k-406x180_c.jpg" alt="Pupečníková krev jako možná odpověď na léčbu Alzheimerovy choroby" />
+					</a>
+				</div>
+																				<div class="ot-slider-layer fourth">
+					<a href="http://www.svetmediciny.cz/2015/07/30/potreba-pupecnikovych-krvi-pro-regenerativni-medicinu-bude-stoupat-vzniknou-hybridni-banky/">
+						<strong>
+															<i style="background-color: #3C98CA; color: #fff;">Zahraniční</i>
+														Potřeba pupečníkových krví pro regenerativní medicínu bude stoupat. Vzniknou hybridní banky						</strong>
+						<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/centrum_2-406x180_c.jpg" alt="Potřeba pupečníkových krví pro regenerativní medicínu bude stoupat. Vzniknou hybridní banky" />
+					</a>
+				</div>
+																		<!-- END .ot-slide -->
+		</div>
+	<!-- END .ot-slider -->
+	</div>
+				
+			<!--
+			<div class="with-sidebar-layout left">
+			-->
+				<!-- <div class="main-content has-sidebar"> -->
+				<!-- <div class="main-content has-double-sidebar"> -->
+				<div class="main-content has-sidebar">
+
+										<!-- BEGIN .left-content -->
+					<div class="left-content left">
+						
+
+
+	<div class="main-title" style="border-left: 4px solid #3C98CA;">
+		<h2>Homepage</h2>
+			</div>
+ 	
+	
+
+    <!-- BEGIN .home-block -->
+    <div class="home-block">
+                    <div class="main-title" style="border-left: 4px solid #3C98CA">
+                                    <a href="http://www.svetmediciny.cz/" class="right button"  style="background: #3C98CA; color: #3C98CA;">View More Posts</a>
+                                <h2>Nejnovější články</h2>
+                <span>Aktálně z domova a ze světa</span>
+            </div>
+        
+        <!-- BEGIN .category-default-block -->
+        <div class="category-default-block paragraph-row">
+
+            <!-- BEGIN .column6 -->
+            <div class="column6">
+                                            <div class="item-main">
+                    <div class="item-header">
+                        <a href="http://www.svetmediciny.cz/2015/08/27/jak-porozumet-kmenovym-bunkam/" class="image-hover">
+                            <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/stem-cell-163711_1280-406x250_c.jpg" alt="Jak porozumět kmenovým buňkám" />
+                        </a>
+                    </div>
+                    <div class="item-content">
+                                                    <div class="content-category">
+                                                                    <a href="http://www.svetmediciny.cz/category/dokumenty/" style="color: #3C98CA;">Dokumenty</a>
+                                                            </div>
+                                                <h3>
+                            <a href="http://www.svetmediciny.cz/2015/08/27/jak-porozumet-kmenovym-bunkam/">Jak porozumět kmenovým buňkám</a>
+                        </h3>
+                        <p>Obecně se dá říci, že kmenové buňky se používají k léčbě onemocnění nebo opravě poškozené tkáně, slouží k pochopení procesů</p>
+                        <a href="http://www.svetmediciny.cz/2015/08/27/jak-porozumet-kmenovym-bunkam/" class="read-more-link">Read More<i class="fa fa-angle-double-right"></i></a>
+                    </div>
+                </div>
+                        <!-- END .column6 -->
+            </div>
+
+            <!-- BEGIN .column6 -->
+            <div class="column6 smaller-articles">
+                                            <div class="item">
+                    <div class="item-header">
+                        <a href="http://www.svetmediciny.cz/2015/08/24/dar-15-mil-usd-pomuze-s-odpovedi-zda-pupecnikova-krev-pomaha-pri-lecbe-autismu-nebo-mrtvice/" class="image-hover">
+                            <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/7412939250_a11497f595_k-61x61_c.jpg" alt="Dar 15 mil USD pomůže s odpovědí, zda pupečníková krev pomáhá při léčbě autismu nebo mrtvice" />
+                        </a>
+                    </div>
+                    <div class="item-content">
+                        <h3>
+                            <a href="http://www.svetmediciny.cz/2015/08/24/dar-15-mil-usd-pomuze-s-odpovedi-zda-pupecnikova-krev-pomaha-pri-lecbe-autismu-nebo-mrtvice/">Dar 15 mil USD pomůže s odpovědí, zda pupečníková krev pomáhá při léčbě autismu nebo mrtvice</a>
+                        </h3>
+                        <a href="http://www.svetmediciny.cz/2015/08/24/dar-15-mil-usd-pomuze-s-odpovedi-zda-pupecnikova-krev-pomaha-pri-lecbe-autismu-nebo-mrtvice/" class="read-more-link">Read More<i class="fa fa-angle-double-right"></i></a>
+                    </div>
+                </div>
+
+                                            <div class="item">
+                    <div class="item-header">
+                        <a href="http://www.svetmediciny.cz/2015/08/19/trileta-gia-bude-bojovat-s-leukemii-pomoci-transplantace-pupecnikove-krve/" class="image-hover">
+                            <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/Gia-Lesselroth-3-is-shown-with-her-mom-Marissa-61x61_c.jpg" alt="Tříletá Gia bude bojovat s leukémií pomocí transplantace pupečníkové krve" />
+                        </a>
+                    </div>
+                    <div class="item-content">
+                        <h3>
+                            <a href="http://www.svetmediciny.cz/2015/08/19/trileta-gia-bude-bojovat-s-leukemii-pomoci-transplantace-pupecnikove-krve/">Tříletá Gia bude bojovat s leukémií pomocí transplantace pupečníkové krve</a>
+                        </h3>
+                        <a href="http://www.svetmediciny.cz/2015/08/19/trileta-gia-bude-bojovat-s-leukemii-pomoci-transplantace-pupecnikove-krve/" class="read-more-link">Read More<i class="fa fa-angle-double-right"></i></a>
+                    </div>
+                </div>
+
+                                            <div class="item">
+                    <div class="item-header">
+                        <a href="http://www.svetmediciny.cz/2015/08/19/studie-potvrzuje-ze-se-pacienti-s-vyuzitim-moderniho-leku-mohou-vyhnout-totalni-nahrade-kloubu/" class="image-hover">
+                            <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/06_12_08_Roller_Dolls_003-61x61_c.jpg" alt="Studie potvrzuje, že se pacienti s využitím moderního léku mohou vyhnout totální náhradě kloubu" />
+                        </a>
+                    </div>
+                    <div class="item-content">
+                        <h3>
+                            <a href="http://www.svetmediciny.cz/2015/08/19/studie-potvrzuje-ze-se-pacienti-s-vyuzitim-moderniho-leku-mohou-vyhnout-totalni-nahrade-kloubu/">Studie potvrzuje, že se pacienti s využitím moderního léku mohou vyhnout totální náhradě kloubu</a>
+                        </h3>
+                        <a href="http://www.svetmediciny.cz/2015/08/19/studie-potvrzuje-ze-se-pacienti-s-vyuzitim-moderniho-leku-mohou-vyhnout-totalni-nahrade-kloubu/" class="read-more-link">Read More<i class="fa fa-angle-double-right"></i></a>
+                    </div>
+                </div>
+
+                                            <div class="item">
+                    <div class="item-header">
+                        <a href="http://www.svetmediciny.cz/2015/08/18/pupecnikova-krev-setri-cas-i-zivoty-neni-nutne-cekat-na-perfektni-shodu/" class="image-hover">
+                            <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/centrum_2-61x61_c.jpg" alt="Pupečníková krev šetří čas i životy – není nutné čekat na perfektní shodu" />
+                        </a>
+                    </div>
+                    <div class="item-content">
+                        <h3>
+                            <a href="http://www.svetmediciny.cz/2015/08/18/pupecnikova-krev-setri-cas-i-zivoty-neni-nutne-cekat-na-perfektni-shodu/">Pupečníková krev šetří čas i životy – není nutné čekat na perfektní shodu</a>
+                        </h3>
+                        <a href="http://www.svetmediciny.cz/2015/08/18/pupecnikova-krev-setri-cas-i-zivoty-neni-nutne-cekat-na-perfektni-shodu/" class="read-more-link">Read More<i class="fa fa-angle-double-right"></i></a>
+                    </div>
+                </div>
+
+                                            <div class="item">
+                    <div class="item-header">
+                        <a href="http://www.svetmediciny.cz/2015/08/05/na-floride-zahajili-prulomovou-klinickou-studii-posuzujici-vyuziti-kmenovych-bunek-pri-lecbe-detske-mrtvice/" class="image-hover">
+                            <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/A-importância-da-tecnologia-na-medicina-2-61x61_c.jpg" alt="Na Floridě zahájili průlomovou klinickou studii posuzující využití kmenových buněk při léčbě dětské mrtvice" />
+                        </a>
+                    </div>
+                    <div class="item-content">
+                        <h3>
+                            <a href="http://www.svetmediciny.cz/2015/08/05/na-floride-zahajili-prulomovou-klinickou-studii-posuzujici-vyuziti-kmenovych-bunek-pri-lecbe-detske-mrtvice/">Na Floridě zahájili průlomovou klinickou studii posuzující využití kmenových buněk při léčbě dětské mrtvice</a>
+                        </h3>
+                        <a href="http://www.svetmediciny.cz/2015/08/05/na-floride-zahajili-prulomovou-klinickou-studii-posuzujici-vyuziti-kmenovych-bunek-pri-lecbe-detske-mrtvice/" class="read-more-link">Read More<i class="fa fa-angle-double-right"></i></a>
+                    </div>
+                </div>
+
+                                    <!-- END .column6 -->
+            </div>
+
+        <!-- END .category-default-block -->
+        </div>
+
+    <!-- END .home-block -->
+    </div><!-- BEGIN .home-block -->
+    <div class="home-block">
+                    <div class="main-title" style="border-left: 4px solid #CA5B53">
+                                    <a href="http://www.svetmediciny.cz/category/zahranicni/" class="right button"  style="background: #CA5B53; color: #CA5B53;">View More Posts</a>
+                                <h2>Zprávy ze zahraničí</h2>
+                <span>Aktuálně ze zahraničí</span>
+            </div>
+                <!-- BEGIN .article-list-block -->
+        <div class="article-list-block">
+                                            <div class="item">
+                    <div class="item-header">
+                        <a href="http://www.svetmediciny.cz/2015/08/24/dar-15-mil-usd-pomuze-s-odpovedi-zda-pupecnikova-krev-pomaha-pri-lecbe-autismu-nebo-mrtvice/" class="image-hover">
+                            <figure>
+                                <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/7412939250_a11497f595_k-381x260_c.jpg" alt="Dar 15 mil USD pomůže s odpovědí, zda pupečníková krev pomáhá při léčbě autismu nebo mrtvice" />
+                                                            </figure>
+                        </a>
+                    </div>
+                    <div class="item-content">
+                                                    <div class="content-category">
+                                                                    <a href="http://www.svetmediciny.cz/category/pupecnikova-krev/" style="color: #3C98CA;">Pupečníková krev</a>
+                                                                    <a href="http://www.svetmediciny.cz/category/zahranicni/" style="color: #3C98CA;">Zahraniční</a>
+                                                            </div>
+                                                <h3 class="entry-title"><a href="http://www.svetmediciny.cz/2015/08/24/dar-15-mil-usd-pomuze-s-odpovedi-zda-pupecnikova-krev-pomaha-pri-lecbe-autismu-nebo-mrtvice/">Dar 15 mil USD pomůže s odpovědí, zda pupečníková krev pomáhá při léčbě autismu nebo mrtvice</a></h3>
+                                                <p>DURHAM, NC – Americký Institut Duke Medicine získal 15 milionů dolarů (360 mil. korun) na podporu inovativního výzkumného programu, který</p>
+                        <a href="http://www.svetmediciny.cz/2015/08/24/dar-15-mil-usd-pomuze-s-odpovedi-zda-pupecnikova-krev-pomaha-pri-lecbe-autismu-nebo-mrtvice/" class="read-more-link">Read More<i class="fa fa-angle-double-right"></i></a>
+
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div class="item-header">
+                        <a href="http://www.svetmediciny.cz/2015/08/19/trileta-gia-bude-bojovat-s-leukemii-pomoci-transplantace-pupecnikove-krve/" class="image-hover">
+                            <figure>
+                                <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/Gia-Lesselroth-3-is-shown-with-her-mom-Marissa-381x260_c.jpg" alt="Tříletá Gia bude bojovat s leukémií pomocí transplantace pupečníkové krve" />
+                                                            </figure>
+                        </a>
+                    </div>
+                    <div class="item-content">
+                                                    <div class="content-category">
+                                                                    <a href="http://www.svetmediciny.cz/category/hi-tech-medicina/" style="color: #3C98CA;">Hi-Tech Medicina</a>
+                                                                    <a href="http://www.svetmediciny.cz/category/pupecnikova-krev/" style="color: #3C98CA;">Pupečníková krev</a>
+                                                                    <a href="http://www.svetmediciny.cz/category/zahranicni/" style="color: #3C98CA;">Zahraniční</a>
+                                                            </div>
+                                                <h3 class="entry-title"><a href="http://www.svetmediciny.cz/2015/08/19/trileta-gia-bude-bojovat-s-leukemii-pomoci-transplantace-pupecnikove-krve/">Tříletá Gia bude bojovat s leukémií pomocí transplantace pupečníkové krve</a></h3>
+                                                <p>Bradenton, Florida, USA &#8211; Gianna &#8220;Gia&#8221; Lesselroth, tříletá holčička, která se potýká s leukémií a jejíž osud sledují prostřednictvím facebooku stovky</p>
+                        <a href="http://www.svetmediciny.cz/2015/08/19/trileta-gia-bude-bojovat-s-leukemii-pomoci-transplantace-pupecnikove-krve/" class="read-more-link">Read More<i class="fa fa-angle-double-right"></i></a>
+
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div class="item-header">
+                        <a href="http://www.svetmediciny.cz/2015/08/18/pupecnikova-krev-setri-cas-i-zivoty-neni-nutne-cekat-na-perfektni-shodu/" class="image-hover">
+                            <figure>
+                                <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/centrum_2-381x260_c.jpg" alt="Pupečníková krev šetří čas i životy – není nutné čekat na perfektní shodu" />
+                                                            </figure>
+                        </a>
+                    </div>
+                    <div class="item-content">
+                                                    <div class="content-category">
+                                                                    <a href="http://www.svetmediciny.cz/category/pupecnikova-krev/" style="color: #3C98CA;">Pupečníková krev</a>
+                                                                    <a href="http://www.svetmediciny.cz/category/zahranicni/" style="color: #3C98CA;">Zahraniční</a>
+                                                            </div>
+                                                <h3 class="entry-title"><a href="http://www.svetmediciny.cz/2015/08/18/pupecnikova-krev-setri-cas-i-zivoty-neni-nutne-cekat-na-perfektni-shodu/">Pupečníková krev šetří čas i životy – není nutné čekat na perfektní shodu</a></h3>
+                                                <p>Přetrvávající pocit, že pupečníková krev není plnohodnotným zdrojem kmenových buněk, je chybný a může mít za následek fatální zpoždění při</p>
+                        <a href="http://www.svetmediciny.cz/2015/08/18/pupecnikova-krev-setri-cas-i-zivoty-neni-nutne-cekat-na-perfektni-shodu/" class="read-more-link">Read More<i class="fa fa-angle-double-right"></i></a>
+
+                    </div>
+                </div>
+                                <!-- END .article-list-block -->
+        </div>
+    <!-- END .home-block -->
+    </div>
+
+    <!-- BEGIN .home-block -->
+    <div class="home-block">
+                    <div class="main-title" style="border-left: 4px solid EF8722">
+                <h2>Latest Reviews</h2>
+                <span>Most recent reviews</span>
+            </div>
+        
+        <!-- BEGIN .article-review-block -->
+        <div class="article-review-block">
+            
+        <!-- END .article-review-block -->
+        </div>
+
+    <!-- END .home-block -->
+    </div>
+
+		<!-- BEGIN .home-block -->
+		<div class="home-block">
+			<div class="banner">
+				 <a href="http://www.orange-themes.com" target="_blank"><img src="http://fraction.orange-themes.com/wp-content/themes/fraction-theme/images/no-banner-728x90.jpg" alt="" title="" /></a>			</div>
+		<!-- END .home-block -->
+		</div>
+
+
+<!-- BEGIN .home-block -->
+    <div class="home-block">
+
+                    <div class="main-title" style="border-left: 4px solid #3C98CA">
+                <a href="http://www.svetmediciny.cz/2015/08/18/pupecnikova-krev-setri-cas-i-zivoty-neni-nutne-cekat-na-perfektni-shodu/" class="right button" style="background: #3C98CA; color: #3C98CA;">View More Galleries</a>
+                <h2>Featured From World News</h2>
+                <span>Most recent photo galleries</span>
+            </div>
+        
+
+            <div class="home-featured-article">
+                                                                        <a href="http://www.svetmediciny.cz/gallery/narodni-centrum-tkani-a-bunek/" class="home-featured-item active">
+                        <span class="feature-text">
+                            <strong>Národní centrum tkání a buněk</strong>
+                            <span>
+                                                            </span>
+                        </span>
+                        <img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/centrum_3-853x420_c.jpg" alt="Národní centrum tkání a buněk" />
+                    </a>
+                                                    
+                <div class="home-featured-menu">
+                                                                <a href="#"class="active">1</a>
+                                                                                </div>
+
+            </div>
+        <!-- END .home-block -->
+        </div>
+ 
+				</div>
+					
+	<!-- BEGIN #sidebar -->
+	<aside id="sidebar" class="right">
+		        <div class="widget-1 first widget">			<h3>Latest Galleries</h3>			<div class="photo-gallery-widget">
+															<div class="item" rel="gallery-115">
+							<div class="item-header">
+								<div class="gallery-navi">
+									<a href="#gal-left"><i class="fa fa-angle-left"></i></a>
+									<a href="#gal-right"><i class="fa fa-angle-right"></i></a>
+								</div>
+								<div class="gallery-change">
+									
+												<a href="http://www.svetmediciny.cz/gallery/narodni-centrum-tkani-a-bunek/?page=1" class="image-hover active" data-id="gallery-115">
+													<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/centrum_3-300x239_c.jpg" data-id="1" alt="Národní centrum tkání a buněk" />
+												</a>
+											
+												<a href="http://www.svetmediciny.cz/gallery/narodni-centrum-tkani-a-bunek/?page=2" class="image-hover" data-id="gallery-115">
+													<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/centrum_4-300x239_c.jpg" data-id="2" alt="Národní centrum tkání a buněk" />
+												</a>
+											
+												<a href="http://www.svetmediciny.cz/gallery/narodni-centrum-tkani-a-bunek/?page=3" class="image-hover" data-id="gallery-115">
+													<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/centrum_2-300x239_c.jpg" data-id="3" alt="Národní centrum tkání a buněk" />
+												</a>
+											
+												<a href="http://www.svetmediciny.cz/gallery/narodni-centrum-tkani-a-bunek/?page=4" class="image-hover" data-id="gallery-115">
+													<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/centrum_1-300x239_c.jpg" data-id="4" alt="Národní centrum tkání a buněk" />
+												</a>
+																			</div>
+							</div>
+							<div class="item-content">
+								<h4><a href="http://www.svetmediciny.cz/gallery/narodni-centrum-tkani-a-bunek/" data-id="gallery-115" class="">Národní centrum tkání a buněk</a></h4>
+															</div>
+						</div>
+
+													
+
+			</div>
+
+
+		</div>	
+        <div class="widget-2 widget"><h3>Štítky</h3><div class="tagcloud"><a href='http://www.svetmediciny.cz/tag/alzheimerova-choroba/' class='tag-link-42' title='1 příspěvek' style='font-size: 8pt;'>Alzheimerova choroba</a>
+<a href='http://www.svetmediciny.cz/tag/autismus/' class='tag-link-40' title='1 příspěvek' style='font-size: 8pt;'>autismus</a>
+<a href='http://www.svetmediciny.cz/tag/chondrograft/' class='tag-link-34' title='1 příspěvek' style='font-size: 8pt;'>chondrograft</a>
+<a href='http://www.svetmediciny.cz/tag/cryo/' class='tag-link-45' title='2 příspěvky' style='font-size: 12.581818181818pt;'>CRYO</a>
+<a href='http://www.svetmediciny.cz/tag/ema/' class='tag-link-35' title='1 příspěvek' style='font-size: 8pt;'>EMA</a>
+<a href='http://www.svetmediciny.cz/tag/kmenove-bunky/' class='tag-link-39' title='2 příspěvky' style='font-size: 12.581818181818pt;'>kmenové buňky</a>
+<a href='http://www.svetmediciny.cz/tag/kostni-transplantat/' class='tag-link-44' title='1 příspěvek' style='font-size: 8pt;'>kostní transplantát</a>
+<a href='http://www.svetmediciny.cz/tag/mrtvice/' class='tag-link-41' title='1 příspěvek' style='font-size: 8pt;'>mrtvice</a>
+<a href='http://www.svetmediciny.cz/tag/narodni-centrum-tkani-a-bunek/' class='tag-link-36' title='2 příspěvky' style='font-size: 12.581818181818pt;'>Národní centrum tkání a buněk</a>
+<a href='http://www.svetmediciny.cz/tag/pupecnikova-krev/' class='tag-link-10' title='6 příspěvků' style='font-size: 22pt;'>pupečníková krev</a>
+<a href='http://www.svetmediciny.cz/tag/scca/' class='tag-link-43' title='1 příspěvek' style='font-size: 8pt;'>SCCA</a></div>
+</div><div class="widget-3 last widget"><h3>Hledat</h3>
+	<form method="get" action="http://www.svetmediciny.cz" name="searchform" >
+		<div>
+			<label class="screen-reader-text" for="s">Search for:</label>
+			<input type="text" placeholder="search here" class="search" name="s" id="s" />
+			<input type="submit" id="searchsubmit" value="Search" />
+		</div>
+	<!-- END .searchform -->
+	</form>
+</div>
+					<div class="sidebar-fixed">
+				<div class="widget-1 first widget"><div class="banner"><a href="http://www.svetmediciny.cz" target="_blank"><img src="http://www.svetmediciny.cz/wp-content/themes/fraction-theme/images/no-banner-300x250.jpg" alt="Banner"/></a></div></div>		
+	<div class="widget-2 widget">		<h3>Nejnovější články</h3>
+			<div class="article-block">
+													<div class="item">
+													<div class="item-header">
+								<a href="http://www.svetmediciny.cz/2015/08/05/pupecnikova-krev-jako-mozna-odpoved-na-lecbu-alzheimerovy-choroby/" class="image-hover">
+									<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/7412937724_9e32997495_k-161x161_c.jpg" alt="Pupečníková krev jako možná odpověď na léčbu Alzheimerovy choroby" />								</a>
+							</div>
+												<div class="item-content">
+															<div class="content-category">
+																			<a href="http://www.svetmediciny.cz/category/hi-tech-medicina/" style="color: #3C98CA;">Hi-Tech Medicina</a>
+																			<a href="http://www.svetmediciny.cz/category/pupecnikova-krev/" style="color: #3C98CA;">Pupečníková krev</a>
+																			<a href="http://www.svetmediciny.cz/category/zahranicni/" style="color: #3C98CA;">Zahraniční</a>
+																	</div>
+														<h4><a href="http://www.svetmediciny.cz/2015/08/05/pupecnikova-krev-jako-mozna-odpoved-na-lecbu-alzheimerovy-choroby/">Pupečníková krev jako možná odpověď na léčbu Alzheimerovy choroby</a></h4>
+															<span><a href="http://www.svetmediciny.cz/2015/08/">5.8.2015</a></span>
+													</div>
+					</div>
+													<div class="item">
+													<div class="item-header">
+								<a href="http://www.svetmediciny.cz/2015/08/27/jak-porozumet-kmenovym-bunkam/" class="image-hover">
+									<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/stem-cell-163711_1280-161x161_c.jpg" alt="Jak porozumět kmenovým buňkám" />								</a>
+							</div>
+												<div class="item-content">
+															<div class="content-category">
+																			<a href="http://www.svetmediciny.cz/category/dokumenty/" style="color: #3C98CA;">Dokumenty</a>
+																	</div>
+														<h4><a href="http://www.svetmediciny.cz/2015/08/27/jak-porozumet-kmenovym-bunkam/">Jak porozumět kmenovým buňkám</a></h4>
+															<span><a href="http://www.svetmediciny.cz/2015/08/">27.8.2015</a></span>
+													</div>
+					</div>
+													<div class="item">
+													<div class="item-header">
+								<a href="http://www.svetmediciny.cz/2015/08/19/studie-potvrzuje-ze-se-pacienti-s-vyuzitim-moderniho-leku-mohou-vyhnout-totalni-nahrade-kloubu/" class="image-hover">
+									<img src="http://www.svetmediciny.cz/wp-content/uploads/2015/08/06_12_08_Roller_Dolls_003-161x161_c.jpg" alt="Studie potvrzuje, že se pacienti s využitím moderního léku mohou vyhnout totální náhradě kloubu" />								</a>
+							</div>
+												<div class="item-content">
+															<div class="content-category">
+																			<a href="http://www.svetmediciny.cz/category/domaci/" style="color: #3C98CA;">Domácí</a>
+																			<a href="http://www.svetmediciny.cz/category/hi-tech-medicina/" style="color: #3C98CA;">Hi-Tech Medicina</a>
+																			<a href="http://www.svetmediciny.cz/category/klouby-a-chrupavky/" style="color: #3C98CA;">Klouby a chrupavky</a>
+																	</div>
+														<h4><a href="http://www.svetmediciny.cz/2015/08/19/studie-potvrzuje-ze-se-pacienti-s-vyuzitim-moderniho-leku-mohou-vyhnout-totalni-nahrade-kloubu/">Studie potvrzuje, že se pacienti s využitím moderního léku mohou vyhnout totální náhradě kloubu</a></h4>
+															<span><a href="http://www.svetmediciny.cz/2015/08/">19.8.2015</a></span>
+													</div>
+					</div>
+							</div>
+
+	</div>		
+	
+      		
+	<div class="widget-3 last widget">		<h3>Socialize</h3>			<div class="socialize-widget">
+								<div class="ot-social-block">
+					<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.svetmediciny.cz" data-url="http://www.svetmediciny.cz" data-url="http://www.svetmediciny.cz" class="soc-link soc-facebook ot-share">
+						<strong><span class="count">0</span><small>likes</small></strong>
+						<span>facebook</span>
+					</a>
+					<a href="#" data-hashtags="" data-url="http://www.svetmediciny.cz" data-via="" data-text="Homepage" class="soc-link soc-twitter ot-tweet">
+						<strong><span class="count">0</span><small>tweets</small></strong>
+						<span>twitter</span>
+					</a>
+					<a href="https://plus.google.com/share?url=http://www.svetmediciny.cz" class="soc-link soc-google ot-pluss">
+						<strong>0<small>+1's</small></strong>
+						<span>google+</span>
+					</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.svetmediciny.cz&title=Homepage" data-url="http://www.svetmediciny.cz" class="soc-link soc-linkedin ot-link">
+						<strong><span class="count">0</span><small>shares</small></strong>
+						<span>linkedin</span>
+					</a>
+				</div>
+			</div>
+
+	</div>		
+	
+      			</div>
+			<!-- END #sidebar -->
+	</aside>
+
+			<!-- END .main-content-->
+			</div>
+
+		<!-- END .wrapper -->
+		</div>
+		
+	<!-- END .content -->
+	</section>
+
+
+							<!-- BEGIN .footer -->
+			<footer class="footer">
+				
+				<!-- BEGIN .wrapper -->
+				<div class="wrapper">
+
+					<div class="footer-widgets">
+						<div class="widget-1 first widget"><h3><a class='rsswidget' href='http://feeds.sciencedaily.com/sciencedaily?format=xml'><img style='border:0' width='14' height='14' src='http://www.svetmediciny.cz/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.sciencedaily.com/news/'>Sciece Daily</a></h3><ul><li><a class='rsswidget' href='http://www.sciencedaily.com/releases/2015/09/150918180315.htm'>Flowing electrons help ocean microbes gulp methane</a> <span class="rss-date">18.9.2015</span></li><li><a class='rsswidget' href='http://www.sciencedaily.com/releases/2015/09/150918180310.htm'>&#039;Tree of life&#039; for 2.3 million species released</a> <span class="rss-date">18.9.2015</span></li><li><a class='rsswidget' href='http://www.sciencedaily.com/releases/2015/09/150918180307.htm'>In-hospital nocturnal dialysis may be good for the heart</a> <span class="rss-date">18.9.2015</span></li><li><a class='rsswidget' href='http://www.sciencedaily.com/releases/2015/09/150918152244.htm'>Reducing catastrophic wildfires through managed burns</a> <span class="rss-date">18.9.2015</span></li><li><a class='rsswidget' href='http://www.sciencedaily.com/releases/2015/09/150918152008.htm'>Customized exoskeleton helps veteran walk again</a> <span class="rss-date">18.9.2015</span></li></ul></div><div class="widget-2 widget"><h3><a class='rsswidget' href='http://feeds.bbci.co.uk/news/health/rss.xml'><img style='border:0' width='14' height='14' src='http://www.svetmediciny.cz/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.bbc.co.uk/news/health/#sa-ns_mchannel=rss&#038;ns_source=PublicRSS20-sa'>BBC News &#8211; Health</a></h3><ul><li><a class='rsswidget' href='http://www.bbc.co.uk/news/health-34285608#sa-ns_mchannel=rss&#038;ns_source=PublicRSS20-sa'>VIDEO: The lifesaving power of paper</a> <span class="rss-date">19.9.2015</span></li><li><a class='rsswidget' href='http://www.bbc.co.uk/news/health-34301413#sa-ns_mchannel=rss&#038;ns_source=PublicRSS20-sa'>VIDEO: How much do rugby players eat?</a> <span class="rss-date">19.9.2015</span></li><li><a class='rsswidget' href='http://www.bbc.co.uk/news/health-34295481#sa-ns_mchannel=rss&#038;ns_source=PublicRSS20-sa'>Hope for faster treatment of urinary infections</a> <span class="rss-date">19.9.2015</span></li><li><a class='rsswidget' href='http://www.bbc.co.uk/news/education-34287667#sa-ns_mchannel=rss&#038;ns_source=PublicRSS20-sa'>VIDEO: NHS quality &#039;location dependent&#039;</a> <span class="rss-date">18.9.2015</span></li><li><a class='rsswidget' href='http://www.bbc.co.uk/news/health-34279181#sa-ns_mchannel=rss&#038;ns_source=PublicRSS20-sa'>Smoking &#039;risk for type 2 diabetes&#039;</a> <span class="rss-date">18.9.2015</span></li><li><a class='rsswidget' href='http://www.bbc.co.uk/news/health-34279190#sa-ns_mchannel=rss&#038;ns_source=PublicRSS20-sa'>Tai Chi &#039;could be prescribed&#039;</a> <span class="rss-date">18.9.2015</span></li><li><a class='rsswidget' href='http://www.bbc.co.uk/news/uk-england-cambridgeshire-34292835#sa-ns_mchannel=rss&#038;ns_source=PublicRSS20-sa'>Ex-chief says CQC assessment &#039;wrong&#039;</a> <span class="rss-date">18.9.2015</span></li></ul></div>		
+	<div class="widget-3 last widget">	<h3>Napište nám</h3>			<div class="socialize-widget">
+					
+				<ul class="list-group">
+															<li><i class="fa fa-envelope fa-fw"></i>redakce@svetmediciny.cz</li>				</ul>
+			</div>
+	</div>		
+	
+      					</div>
+					
+				<!-- END .wrapper -->
+				</div>
+				
+				<div class="footer-copyright">
+					<!-- BEGIN .wrapper -->
+					<div class="wrapper">
+						<p class="right">Designed by <strong><a href="http://orange-themes.com" target="_blank">Orange-Themes.com</a></strong></p>
+						<p>© 2015 Copyright <b>Svět medicíny</b>. All Rights reserved.</p>
+					<!-- END .wrapper -->
+					</div>
+				</div>
+
+			<!-- END .footer -->
+			</footer>
+
+			
+		<!-- END .boxed -->
+		</div>
+		<div class="lightbox">
+			<div class="lightcontent-loading">
+				<a href="#" onclick="javascript:lightboxclose();" class="light-close"><i class="fa fa-minus-square"></i>&nbsp;&nbsp;Close Window</a>
+				<div class="loading-box">
+					<h3>Loading, Please Wait!</h3>
+					<span>This may take a second or two.</span>
+					<span class="loading-image"><img src="http://www.svetmediciny.cz/wp-content/themes/fraction-theme/images/loading.gif" title="Loading" alt="Loading" /></span>
+				</div>
+			</div>
+			<div class="lightcontent"></div>
+		</div>
+
+	<link rel='stylesheet' id='wp-color-picker-css'  href='http://www.svetmediciny.cz/wp-admin/css/color-picker.min.css?ver=4.2.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.svetmediciny.cz\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Odes\u00edl\u00e1m..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/plugins/simple-share-buttons-adder/js/ssba.min.js?ver=4.2.5'></script>
+<script type='text/javascript' src='//www.svetmediciny.cz/wp-content/plugins/woocommerce/assets/js/select2/select2.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='//www.svetmediciny.cz/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.svetmediciny.cz/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.4.5'></script>
+<script type='text/javascript' src='//www.svetmediciny.cz/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.svetmediciny.cz/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.4.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.svetmediciny.cz\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/plugins/wp-polls/polls-js.js?ver=2.7'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/admin/jquery.c00kie.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/jquery.floating_popup.1.3.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/modernizr.custom.50878.js?ver=4.2.5'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/SmoothScroll.min.js?ver=4.2.5'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/iscroll.js?ver=4.2.5'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/snap.svg-min.js?ver=1.5.19'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/lightbox.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/theme-scripts.js?ver=4.2.5'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/owl.carousel.min.js?ver=4.2.5'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/jquery.event.move.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/jquery.event.swipe.js?ver=4.2.5'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/dat-menu.js?ver=4.2.5'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-includes/js/comment-reply.min.js?ver=4.2.5'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/ot_gallery.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.svetmediciny.cz/wp-content/themes/fraction-theme/js/fraction.js?ver=1.0.0'></script>
+	<!-- END body -->
+	</body>
+<!-- END html -->
+</html>

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.190.84.109//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://dementiaconnectionofhavasu.org
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VTIMEZONE
+TZID:America/Phoenix
+X-LIC-LOCATION:America/Phoenix
+BEGIN:STANDARD
+DTSTART:19671029T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-852@dawnthewebdesigner.com/adcoh
+DTSTAMP:20150920T002408Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Phoenix:20150929T100000
+DTEND;TZID=America/Phoenix:20150929T110000
+GEO:+34.476787;-114.280497
+LOCATION:Community Presbyterian Church @ 3450 Chemehuevi Boulevard\, Lake H
+ avasu City\, AZ 86406\, USA
+RDATE;TZID=America/Phoenix:20150929T100000
+RDATE;TZID=America/Phoenix:20151027T100000
+RDATE;TZID=America/Phoenix:20151124T100000
+RDATE;TZID=America/Phoenix:20151229T100000
+RDATE;TZID=America/Phoenix:20160126T100000
+RDATE;TZID=America/Phoenix:20160223T100000
+SEQUENCE:0
+SUMMARY:Roundtable Educational Discussions
+URL:http://dementiaconnectionofhavasu.org/event/roundtable-educational-disc
+ ussions/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-849@dawnthewebdesigner.com/adcoh
+DTSTAMP:20150920T002408Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Phoenix:20151013T130000
+DTEND;TZID=America/Phoenix:20151013T140000
+GEO:+34.507247;-114.342668
+LOCATION:Covenant Church @ 2100 College Drive\, Lake Havasu City\, AZ 86403
+ \, USA
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:Support Group with Activity Group for Loved Ones
+URL:http://dementiaconnectionofhavasu.org/event/support-group-with-activity
+ -group-for-loved-ones/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1170@dawnthewebdesigner.com/adcoh
+DTSTAMP:20150920T002408Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Phoenix:20151014T010000
+DTEND;TZID=America/Phoenix:20151014T020000
+GEO:+34.476787;-114.280497
+LOCATION:Community Presbyterian Church @ 3450 Chemehuevi Boulevard\, Lake H
+ avasu City\, AZ 86406\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:Parkinson’s Support Group
+URL:http://dementiaconnectionofhavasu.org/event/parkinsons-support-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-851@dawnthewebdesigner.com/adcoh
+DTSTAMP:20150920T002408Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Phoenix:20151020T130000
+DTEND;TZID=America/Phoenix:20151020T140000
+GEO:+34.507247;-114.342668
+LOCATION:Covenant Church @ 2100 College Drive\, Lake Havasu City\, AZ 86403
+ \, USA
+RRULE:FREQ=MONTHLY;BYDAY=3TU
+SEQUENCE:0
+SUMMARY:Support Group with Activity Group for Loved One
+URL:http://dementiaconnectionofhavasu.org/event/support-group-2/
+END:VEVENT
+END:VCALENDAR

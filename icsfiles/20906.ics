@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//107.180.1.4//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.aidandoyle.info
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-429@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Professional
+CONTACT:
+DESCRIPTION:<p>On Wednesday\, September 23<sup>rd</sup>\, City & State host
+ s its 4<sup>th</sup> annual Diversity forum featuring leaders in governmen
+ t\, business and advocacy to discuss the social and economic advantages of
+  promoting diversity in both public and private sectors.</p>\n<p>Keynote: 
+ <strong>Patricia Gatling</strong>\, Deputy Secretary for Civil Rights</p>
+DTSTART;TZID=America/New_York:20150923T080000
+DTEND;TZID=America/New_York:20150923T110000
+GEO:+40.71;-74.01
+LOCATION:BNY Mellon @ New York\, NY 10286\, USA
+SEQUENCE:0
+SUMMARY:On Diversity!
+URL:http://www.aidandoyle.info/event/on-diversity/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-448@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Japanese
+CONTACT:
+DESCRIPTION:<div>\n<div>As a supporting organization\, CJEB is pleased to i
+ nform you that the <strong>Japan External Trade Organization (JETRO)</stro
+ ng> will be hosting a seminar featuring:</div>\n</div>\n<div><em>Keynote s
+ peaker</em><br />\n<strong>Jamie Dimon</strong>\, Chairman\, President and
+  CEO\, JP Morgan Chase & Co.<em>Local government officials</em><br />\n<st
+ rong>Eikei Suzuki</strong>\, Governor\, Mie Prefecture<br />\n<strong>Fumi
+ ko Hayashi</strong>\, Mayor\, Yokohama City</p>\n<p><em>Presentation by a 
+ leading U.S. company</em><br />\n<strong>Douglas Beck</strong>\, Vice Pres
+ ident of Sales for North America\, Japan\, and Northeast Asia\, Apple Inc.
+ </p>\n<p><em>Special presentation</em><br />\n<strong>Eran Westman</strong
+ >\, CEO\, Vidyo\, Inc.</p>\n</div>
+DTSTART;TZID=America/New_York:20150928T090000
+DTEND;TZID=America/New_York:20150928T110000
+GEO:+40.785946;-73.974187
+LOCATION:New York Athletic Club @ New York\, NY 10024\, USA
+SEQUENCE:0
+SUMMARY:Invest Japan
+URL:http://www.aidandoyle.info/event/invest-japan/
+X-TAGS;LANGUAGE=en-US:JETRO
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-433@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Technology
+CONTACT:
+DESCRIPTION:<table border='0' width='100%' cellspacing='0' cellpadding='0'>
+ \n<tbody>\n<tr>\n<td>\n<table border='0' width='100%' cellspacing='0' cell
+ padding='0'>\n<tbody>\n<tr>\n<td width='63%'>\n<div id='ecxsubject' class=
+ 'ecxmktEditable'>A Threat-Centric Approach to Security</div>\n</td>\n<td w
+ idth='37%'>\n<div id='ecxdate' class='ecxmktEditable'>Sep 01\, 2015</div>
+ \n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n<tr>\n<td>\n<table borde
+ r='0' width='100%' cellspacing='0' cellpadding='0'>\n<tbody>\n<tr>\n<td cl
+ ass='ecxstack' valign='top' width='310'>\n<div id='ecxleftBody' class='ecx
+ mktEditable'>\n<p><strong>If you knew yo</strong><strong>u were going to b
+ e compromised\, would you do security differently?</strong></p>\n<p>In the
+  real world\, it’s no longer a matter of if an attacker will get in\, but 
+ when and for how long. Security professionals need to evolve their strateg
+ y from a point-in-time approach to pervasive protection across the full at
+ tack continuum before\, during and after an attack.</p>\n</div>\n</td>\n</
+ tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>
+DTSTART;TZID=America/New_York:20150929T140000
+DTEND;TZID=America/New_York:20150929T150000
+GEO:+40.757717;-73.974721
+LOCATION:Maloney & Porcelli's @ 37 East 50th Street\, New York\, NY 10022\,
+  USA
+SEQUENCE:0
+SUMMARY:Cisco Luncheon
+URL:http://www.aidandoyle.info/event/cisco-luncheon/
+X-TAGS;LANGUAGE=en-US:cisco
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-459@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Professional
+CONTACT:
+DESCRIPTION:<p>The New York Chapter of the MTA invites you to our chapter l
+ uncheon on Wednesday\, September 30\, 2015. We are honored to have Jeff de
+ Graaf\, CMT\, CFA\, and Ed Egilinsky as our guest speakers for this meetin
+ g.</p>
+DTSTART;TZID=America/New_York:20150930T133000
+DTEND;TZID=America/New_York:20150930T143000
+GEO:+40.758196;-73.985076
+LOCATION:NYSSA @ 1540 Broadway\, New York\, NY 10001\, USA
+SEQUENCE:0
+SUMMARY:MTA @ NYSSA Luncheon
+URL:http://www.aidandoyle.info/event/mta-nyssa-luncheon/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-427@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Professional
+CONTACT:
+DESCRIPTION:<p>The rise in non-bank lending in Europe/Ireland<br />\n– UCIT
+ S / AIFMD Remuneration<br />\n– AIFMD Third Country Issues<br />\n– Cayman
+  Update<br />\n– Irish Tax Update</p>
+DTSTART;TZID=America/New_York:20150930T163000
+DTEND;TZID=America/New_York:20150930T200000
+GEO:+40.731412;-73.996985
+LOCATION:Council rOOM @ 5th Avenue\, New York\, NY\, USA
+SEQUENCE:0
+SUMMARY:Dillon Eustace
+URL:http://www.aidandoyle.info/event/dillon-eustace/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-454@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Bloomberg
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.aidandoyle.info/wp-content/uploads/2015/09/BloombergMMI-300x92.png'
+  width='300' height='92' /></div><p>MMI is a gathering of 150 prominent an
+ d influential CEO’s\, CFO’s\, and CIO’s from leading corporate and financi
+ al institutions who shape economies and move markets.</p>
+DTSTART;TZID=America/New_York:20151006T080000
+DTEND;TZID=America/New_York:20151006T180000
+GEO:+40.761589;-73.96763
+LOCATION:Bloomberg @ Bloomberg Tower\, 731 Lexington Ave\, New York\, NY 10
+ 022\, USA
+SEQUENCE:0
+SUMMARY:Bloomberg Markets Most influential
+URL:http://www.aidandoyle.info/event/bloomberg-markets-most-influential/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-457@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Professional
+CONTACT:
+DESCRIPTION:<p>The Forum deep dives into a series of panel discussions amon
+ g industry experts\, which will address the trends\, developments and outl
+ ook of ETFs while reviewing major investment strategies using ETFs.</p>
+DTSTART;TZID=America/New_York:20151013T080000
+DTEND;TZID=America/New_York:20151013T170000
+LOCATION:Metropolitan Club
+SEQUENCE:0
+SUMMARY:Dissect ETFs Forum
+URL:http://www.aidandoyle.info/event/dissect-etfs-forum/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-451@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Fundraising
+CONTACT:
+DESCRIPTION:<p><a href='http://click.icptrack.com/icp/relay.php?r=52816038&
+ msgid=447404&act=4JCX&c=784041&destination=http://altso.org/hedge-fund-roc
+ ktoberfest/' target='_blank'>Hedge Fund Rocktoberfest</a>\, the annual fun
+ draiser for children’s charity A Leg To Stand On (ALTSO)\, will celebrate 
+ its 12th anniversary on Thursday\, October 15 at Capitale on 130 Bowery in
+  New York City</p>
+DTSTART;TZID=America/New_York:20151015T190000
+DTEND;TZID=America/New_York:20151015T200000
+GEO:+40.718856;-73.994942
+LOCATION:Capitale @ 130 Bowery\, New York\, NY 10013\, USA
+SEQUENCE:0
+SUMMARY:ALTSO Rocktoberfest
+URL:http://www.aidandoyle.info/event/altso-rocktoberfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-452@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Celebrities
+CONTACT:
+DESCRIPTION:<p><strong>CTI Cocktails and Collaboration Event  at the<br />
+ \nSaturday Night Live Exhibition</strong></p>
+DTSTART;TZID=America/New_York:20151022T173000
+DTEND;TZID=America/New_York:20151022T200000
+SEQUENCE:0
+SUMMARY:CTI Saturday Night Live Eshibition
+URL:http://www.aidandoyle.info/event/cti-saturday-night-live-eshibition/
+X-TAGS;LANGUAGE=en-US:Consolidated technologies inc
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-458@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Professional
+CONTACT:conference@c-suitenetwork.com
+DESCRIPTION:<p>C-Suite Network is home to the world’s most powerful network
+  of C-Suite leaders. We are focused on the professional success of our mem
+ bers through an online network\, content tailored to the evolving needs of
+  C-Suite executives\, conferences\, business intel\, and services that sup
+ port the members’ business in attaining operational excellence.</p>
+DTSTART;TZID=America/New_York:20151101T083000
+DTEND;TZID=America/New_York:20151103T181500
+GEO:+37.791802;-122.406971
+LOCATION:Ritz-Carlton San Francisco @ 600 Stockton St\, San Francisco\, CA 
+ 94108\, USA
+SEQUENCE:0
+SUMMARY:C-Suite Conference – San Francisco
+URL:http://www.aidandoyle.info/event/c-suite-conference-san-francisco/
+X-TAGS;LANGUAGE=en-US:c-suite network
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-447@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Professional
+CONTACT:
+DESCRIPTION:<p>Opening Reception</p>
+DTSTART;TZID=America/New_York:20151109T180000
+DTEND;TZID=America/New_York:20151109T210000
+GEO:+40.765377;-73.979072
+LOCATION:Park Hyatt @ 153 W 57th St\, New York\, NY 10019\, USA
+SEQUENCE:0
+SUMMARY:Bloomberg Year Ahead
+URL:http://www.aidandoyle.info/event/bloomberg-year-ahead-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-444@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Professional
+CONTACT:http://www.bloomberg.com/the-year-ahead/?utm_medium=email&utm_campa
+ ign=tya2015&utm_source=alumniinvite
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.aidandoyle.info/wp-content/uploads/2015/09/BloombergYearAhead2015-3
+ 00x92.jpg' width='300' height='92' /></div><p>This fall\, Bloomberg’s <a c
+ lass='' href='http://app.c.bloomberg.com/e/er?s=522772699&lid=2399&elq=f07
+ 250472f254cb3b61082b799439736&elqaid=1493&elqat=1&elqTrackId=a20036947bea4
+ 848942c4e330584c8b8' target='_blank'>The Year Ahead</a> Summit will conven
+ e top executives\, innovators and global influencers like you for candid c
+ onversations about the most important trends\, issues and challenges that 
+ every executive will face in 2016.</p>
+DTSTART;TZID=America/New_York:20151110T080000
+DTEND;TZID=America/New_York:20151110T180000
+GEO:+40.765377;-73.979072
+LOCATION:Park Hyatt @ 153 W 57th St\, New York\, NY 10019\, USA
+SEQUENCE:0
+SUMMARY:Bloomberg Year Ahead
+URL:http://www.aidandoyle.info/event/bloomberg-year-ahead/
+X-TAGS;LANGUAGE=en-US:Bloomberg Year Ahead
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-439@www.aidandoyle.info
+DTSTAMP:20150920T002118Z
+CATEGORIES;LANGUAGE=en-US:Technology
+CONTACT:
+DESCRIPTION:<p>During the press preview find out how technology is changing
+  our world\, see the CES 2016 Best of Innovation Awards Honorees and get t
+ he much-anticipated CEA Holiday Sales and End-of-Year Trend Analysis along
+  with breaking CES news.</p>
+DTSTART;TZID=America/New_York:20151110T140000
+DTEND;TZID=America/New_York:20151110T150000
+LOCATION:Manhattan Pavillion
+SEQUENCE:0
+SUMMARY:CES Unveiled New York
+URL:http://www.aidandoyle.info/event/ces-unveiled-new-york/
+X-TAGS;LANGUAGE=en-US:consumer electronics
+END:VEVENT
+END:VCALENDAR

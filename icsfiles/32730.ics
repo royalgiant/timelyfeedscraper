@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//64.227.224.30//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.elburnlions.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4407@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+RRULE:FREQ=YEARLY;BYMONTH=1
+SEQUENCE:0
+SUMMARY:Happy New Year!
+URL:http://www.elburnlions.com/event/happy-new-year-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4406@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160704
+DTEND;VALUE=DATE:20160705
+LOCATION:Everywhere
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Happy Birthday\, America!
+URL:http://www.elburnlions.com/event/happy-birthday-america/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4440@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES;LANGUAGE=en-US:Dinners
+CONTACT:Gerry Arno\; (630) 365-6315
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.elburnlions.com/wp-content/uploads/2013/12/Pasta-Dinners-featured-i
+ mage-JPG-300x168.jpg' width='300' height='168' /></div><p>Come on down\, m
+ eet some neighbors and enjoy a free spaghetti dinner\, courtesy of the Elb
+ urn Lions Club.</p>\n<p>We’ll be hosting these spaghetti dinners the 4th T
+ uesday of every month\, unless otherwise noted on our calendar.</p>\n<p>Th
+ ere is no charge for dinner\, but as always\, we are accepting donations f
+ or Elburn Lions Charities. Dine-in only\, please – no carryouts.</p>\n<p>W
+ e hope to see you there!</p>
+DTSTART;TZID=America/Chicago:20150922T170000
+DTEND;TZID=America/Chicago:20150922T190000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Club @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+RRULE:FREQ=MONTHLY;UNTIL=20151222T235959Z;BYDAY=4TU
+SEQUENCE:0
+SUMMARY:Community Spaghetti Dinner
+URL:http://www.elburnlions.com/event/community-pasta-dinner/
+X-COST:Free (but donations appreciated!)
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4436@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES;LANGUAGE=en-US:Bingo
+CONTACT:
+DESCRIPTION:<p>Come down and join us for Bingo</p>\n<ul>5:00PM – DOORS OPEN
+ </ul>\n<ul>6:30PM – EARLY BIRD GAMES</ul>\n<ul>7:00PM – BINGO AND RAFFLES<
+ /ul>\n<p><strong>FOOD AND CASH BAR</strong></p>\n<p>Proceeds go to Elburn 
+ Lions Park and Lions Charities</p>
+DTSTART;TZID=America/Chicago:20150925T170000
+DTEND;TZID=America/Chicago:20150925T213000
+EXDATE;TZID=America/Chicago:20150410T170000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Club @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151218T235959Z
+SEQUENCE:0
+SUMMARY:Bingo
+URL:http://www.elburnlions.com/event/bingo-38/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4602@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES:
+CONTACT:Elburn Lions Club\; 630-365-4017
+DESCRIPTION:<p>Warm for the <a href='http://www.elburnlions.com/event/car-s
+ how-4/'>October 4th car show</a> at our Destination Cruise!</p>\n<p>Meet a
+ t Elburn Lions Park at 2:00pm\, and cruise to Frank’s Classic Cars.</p>\n<
+ p>$10.00 pre-registration is required\, and includes beer\, pizza and entr
+ ance to the car collection at Frank’s Classic Cars.</p>\n<p>Any car is wel
+ come to cruise.</p>\n<p>We’ll be cruising rain or shine!</p>\n<p>Pre-regis
+ tration must be postmarked by September 26th\, 2015. Click below to downlo
+ ad the registration form.</p>\n<p><a href='http://www.elburnlions.com/wp-c
+ ontent/uploads/2015/06/Lions-Car-Show-Flyer-B.pdf' target='new'><img src='
+ http://www.elburnlions.com/wp-content/uploads/2015/06/2015-car-show-regist
+ ration-form-snapshot-300x132.png' alt='2015 car show registration' class='
+ alignnone size-medium wp-image-4603' /></a></p>
+DTSTART;TZID=America/Chicago:20151003T140000
+DTEND;TZID=America/Chicago:20151003T170000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Park @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+SEQUENCE:0
+SUMMARY:Destination Cruise
+URL:http://www.elburnlions.com/event/destination-cruise-3/
+X-COST:$10 - Pre-registration required
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4441@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES:
+CONTACT:Elburn Lions Club\; 630-365-4017
+DESCRIPTION:<p><center></p>\n<p><strong>22nd Annual Fall Classic<br />\nElb
+ urn Lions All Wheel Show</strong></p>\n<p></center></p>\n<p>Almost 300 car
+ s and motorcycles took part in 2014!</p>\n<p>Rain or Shine ~ No dogs allow
+ ed in the park</p>\n<p>Gate opens at 8:00am</p>\n<p>Registration closes at
+  12:00pm</p>\n<p>Awards at 3:00pm</p>\n<p><a href='http://www.elburnlions.
+ com/event/destination-cruise-3/?instance_id=2753'>Destination cruise – Sat
+ urday\, Oct 3rd\, 2015. Meet at Elburn Lions Park\, and cruise up to Frank
+ ’s Classic Cars. Click for more details.</a></p>\n<hr />\n<p><strong>Attra
+ ctions – Fun for the whole family!</strong></p>\n<ul>\n<li>Pumpkin Decorat
+ ing Contest!</li>\n<li>50/50 Raffle</li>\n<li>Swap Meet/Vendor Space Avail
+ able</li>\n<li>Craft Show</li>\n<li>Free chili to show participants (while
+  supplies last)</li>\n<li>Donuts and Coffee available in the morning</li>
+ \n<li>Food and Drink available\, including cash bar</li>\n<li>All food pro
+ vided by the Leo Club\, the youth division of our organization</li>\n<li>C
+ hildren’s playground</li>\n<li>DJ Music by Carousel Sound</li>\n<li>Sporti
+ ng events will be on TV in our club house</li>\n</ul>\n<hr />\n<p><strong>
+ Show Classes</strong></p>\n<ul>\n<li>1900-1949 Stock</li>\n<li>1950-1962 S
+ tock</li>\n<li>1963-1966 Stock</li>\n<li>1967-1969 Stock</li>\n<li>1970-19
+ 79 Stock</li>\n<li>1980-Up Stock</li>\n<li>1900-1949 Modified</li>\n<li>19
+ 50-1962 Modified</li>\n<li>1963-1966 Modified</li>\n<li>1967-1969 Modified
+ </li>\n<li>1970-1979 Modified</li>\n<li>1980-Up Modified</li>\n<li>Survivo
+ r Vehicles\, 1900-1985</li>\n<li>Stock Trucks\, All years</li>\n<li>Modifi
+ ed Trucks\, All years</li>\n<li>Imports\, All years</li>\n<li>Special Inte
+ rest\, All years</li>\n<li>Camaro</li>\n<li>Chevelle</li>\n<li>Corvette</l
+ i>\n<li>GTO</li>\n<li>Mustang</li>\n<li>MOPAR</li>\n<li>Stock Motorcycles\
+ , All years</li>\n<li>Custom Motorcycles\, All years</li>\n<li>Best of the
+  Best – Stock</li>\n<li>Best of the Best – Modified</li>\n</ul>\n<p>To qua
+ lify for Best of the Best\, entrant vehicle must have won a Best of Show a
+ t a previous area car show.</p>\n<p>Pre-registration must be postmarked by
+  September 26th\, 2015. Click below to download the registration form.</p>
+ \n<p><a href='http://www.elburnlions.com/wp-content/uploads/2015/06/Lions-
+ Car-Show-Flyer-B.pdf' target='new'><img src='http://www.elburnlions.com/wp
+ -content/uploads/2015/06/2015-car-show-registration-form-snapshot-300x132.
+ png' alt='2015 car show registration' class='alignnone size-medium wp-imag
+ e-4603' /></a></p>\n<p>Proceeds go to Elburn Lions Charities</p>
+DTSTART;TZID=America/Chicago:20151004T080000
+DTEND;TZID=America/Chicago:20151004T150000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Club @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+SEQUENCE:0
+SUMMARY:Car Show
+URL:http://www.elburnlions.com/event/car-show-4/
+X-COST:Vehicle Pre-registration $15\, or $20 at the gate
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4431@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151008T190000
+DTEND;TZID=America/Chicago:20151008T203000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Club @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+RRULE:FREQ=MONTHLY;UNTIL=20151112T235959Z;BYDAY=2TH
+SEQUENCE:0
+SUMMARY:Lions Club Meeting
+URL:http://www.elburnlions.com/event/lions-club-meeting-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4452@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES;LANGUAGE=en-US:Dinners
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.elburnlions.com/wp-content/uploads/2013/12/German-Dinner-featured-i
+ mage-and-coupon-JPG-300x168.jpg' width='300' height='168' /></div><p><cent
+ er></p>\n<p><strong>Elburn Lions Annual German Dinner</strong></p>\n<p>4:0
+ 0pm – 7:30pm</p>\n<p></center></p>\n<p>Buffet Style Dinner choices consist
+ ing of:</p>\n<p>Bratwurst\, Pork Loins\, Sauerkraut\, Red Cabbage\, Spaetz
+ el\, German Potato Salad\, Pretzel Rolls\, Dessert and Coffee.</p>\n<p>Cas
+ h bar will feature German Beer and Wine.</p>\n<ul>\n<li>Adults $14</li>\n<
+ li>Seniors (65 yrs and up) $13</li>\n<li>Children (4-11 Years Old) $9.00</
+ li>\n<li>Kids (3 and under) FREE</li>\n</ul>\n<p>Carryouts available</p>
+DTSTART;TZID=America/Chicago:20151017T160000
+DTEND;TZID=America/Chicago:20151017T193000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Club @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+SEQUENCE:0
+SUMMARY:Lions German Dinner
+URL:http://www.elburnlions.com/event/german-dinner-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4435@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES;LANGUAGE=en-US:Dinners\,Raffles
+CONTACT:
+DESCRIPTION:<p><center></p>\n<p><strong>We only sell 300 tickets!</strong><
+ /p>\n<p></center></p>\n<p> </p>\n<p>The 300 Raffle is an action-packed eve
+ ning\, featuring a drawdown raffle\, dinner\, cash bar and more.</p>\n<p>R
+ affle tickets are $50 each\, and include dinner for one. Additional dinner
+ s can be purchased for $15 each.</p>\n<p>Raffle tickets are drawn as follo
+ ws:</p>\n<ul>\n<li>The first ticket drawn and every 10th ticket thereafter
+  wins $100.</li>\n<li>The 13th\, 113th and 213th tickets drawn win $200.</
+ li>\n<li>The 55th\, 155th and 255th tickets drawn win $300…</li>\n<li>… an
+ d the last ticket drawn wins $3\,000!</li>\n</ul>\n<p>Winner need not be p
+ resent to win. Contact Lion Cheryl Lee for more information at (630) 885-4
+ 410.</p>\n<p> </p>\n<p><img alt='' src='http://www.elburnlions.com/documen
+ ts/300/300logo.jpg' width='200' height='286' /></p>
+DTSTART;TZID=America/Chicago:20151107T180000
+DTEND;TZID=America/Chicago:20151107T220000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Club @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+SEQUENCE:0
+SUMMARY:300 Raffle
+URL:http://www.elburnlions.com/event/300-raffle-5/
+X-COST:$50 per ticket\, including dinner. $15 per additional dinner.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4437@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES;LANGUAGE=en-US:Raffles
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.elburnlions.com/wp-content/uploads/2013/12/Meat-Raffle-Featured-Ima
+ ge-300x168.jpg' width='300' height='168' /></div><p>Our annual\, family-fr
+ iendly Holiday Meat Raffle offers you a chance to win cash prizes\, turkey
+ s\, hams\, steaks\, pork loins and other assorted meat packages\, as well 
+ as cash prizes and gift cards!</p>\n<p>Doors open at 6:00pm – bring your a
+ ppetite\, family and friends! Doors </p>\n<p>We serve free appetizers thro
+ ughout the event\, and a cash bar will be available.</p>\n<p>Proceeds from
+  this raffle help support Elburn Lions Community Park and the Elburn Food 
+ Pantry.</p>
+DTSTART;TZID=America/Chicago:20151121T180000
+DTEND;TZID=America/Chicago:20151121T220000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Club @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+SEQUENCE:0
+SUMMARY:Holiday Meat Raffle
+URL:http://www.elburnlions.com/event/holiday-meat-raffle-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4453@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES:
+CONTACT:Lion Lara Broz\; (630) 544-0236\; larab@elburnlions.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.elburnlions.com/wp-content/uploads/2014/12/Breakfast-with-Santa-fea
+ tured-image-2-300x168.jpg' width='300' height='168' /></div><p><strong>One
+  of the Leo Club’s most popular fundraisers! Come on down for a good break
+ fast\, bring your camera and take a picture with Santa.</strong></p>\n<p><
+ span style='color: #2828d2\;'>All you can eat:</span></p>\n<ul>\n<li>Panca
+ kes</li>\n<li>Scrambled eggs</li>\n<li>Sausage</li>\n<li>Pastries</li>\n<l
+ i>Milk\, orange juice and coffee</li>\n</ul>\n<p><span style='color: #2828
+ d2\;'>Back by popular demand: Omelet Special!</span></p>\n<ul>\n<li>Childr
+ en ages 0-2 FREE</li>\n<li>Children ages 3-12 $6.00</li>\n<li>Adults $8.00
+ </li>\n<li>Made-to-order omelet</li>\n<li>Additional $2.00 per omelet</li>
+ \n</ul>\n<p>The Leo Club is also hosting a food drive for the Elburn Food 
+ Pantry. Please bring down your canned goods and other non-perishables.</p>
+DTSTART;TZID=America/Chicago:20151206T080000
+DTEND;TZID=America/Chicago:20151206T110000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Club @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+SEQUENCE:0
+SUMMARY:Breakfast with Santa
+URL:http://www.elburnlions.com/event/breakfast-with-santa-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4454@www.elburnlions.com
+DTSTAMP:20150920T003727Z
+CATEGORIES;LANGUAGE=en-US:Dinners
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.elburnlions.com/wp-content/uploads/2013/12/Potluck-Dinner-featured-
+ image-JPG-300x168.jpg' width='300' height='168' /></div><p>Bring your frie
+ nds\, family\, and a dish to pass!</p>
+DTSTART;TZID=America/Chicago:20151217T180000
+DTEND;TZID=America/Chicago:20151217T220000
+GEO:+41.887015;-88.47453
+LOCATION:Elburn Lions Club @ 500 Filmore Street\, Elburn\, IL 60119\, USA
+SEQUENCE:0
+SUMMARY:Lions Holiday Potluck Dinner
+URL:http://www.elburnlions.com/event/lions-holiday-potluck-dinner/
+END:VEVENT
+END:VCALENDAR

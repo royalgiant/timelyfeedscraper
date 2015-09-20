@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//37.191.97.201//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.penninecrc.org
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-107@www.penninecrc.org
+DTSTAMP:20150920T001609Z
+CATEGORIES;LANGUAGE=en-US:Coaching\,Recreation
+CONTACT:Andrew Carden\; 07866692410\; info@penninecanoeclub.org.uk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.penninecrc.org/wp-content/uploads/2012/09/Lewis-300x200.png' width=
+ '300' height='200' /></div><p>The Saturday Sessions are growing in popular
+ ity</p>\n<p>Please view the poster for sessions details <a href='http://ww
+ w.penninecanoeclub.org.uk/wp-content/uploads/2012/10/Kayak.pdf'>Kayak</a><
+ /p>\n<p>The Sessions is run in partnership with Kirklees Atcive Leisure an
+ d aimed at young people but not to the exclusion of adults.</p>\n<p>Partic
+ ipants should register for a KAL card.</p>\n<p>This session takes paddlers
+  to the level of paddler power passport or 1 star.</p>\n<p>If you are intr
+ ested in the session please contact the Andrew on 07980811628 or info@penn
+ inecanoe club.org.uk</p>\n<p>You will be asked to complete the attached re
+ gistraion form <a href='http://www.penninecanoeclub.org.uk/wp-content/uplo
+ ads/2012/10/Session-Form-2012-132.docx'>Session Form 2012-13</a></p>
+DTSTART;TZID=Europe/London:20150919T150000
+DTEND;TZID=Europe/London:20150919T160000
+EXDATE;TZID=Europe/London:20150613T150000
+EXDATE;TZID=Europe/London:20150620T150000
+EXDATE;TZID=Europe/London:20150627T150000
+EXDATE;TZID=Europe/London:20150704T150000
+EXDATE;TZID=Europe/London:20150711T150000
+EXDATE;TZID=Europe/London:20150718T150000
+EXDATE;TZID=Europe/London:20150725T150000
+EXDATE;TZID=Europe/London:20150801T150000
+EXDATE;TZID=Europe/London:20150808T150000
+EXDATE;TZID=Europe/London:20150815T150000
+EXDATE;TZID=Europe/London:20150822T150000
+EXDATE;TZID=Europe/London:20150829T150000
+EXDATE;TZID=Europe/London:20150905T150000
+EXDATE;TZID=Europe/London:20150912T150000
+GEO:+53.689384;-1.627798
+LOCATION:Dewsbury Sports Centre @ Longcauseway\, Dewsbury\, West Yorkshire 
+ WF12 8EN\, UK
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Coaching Sessions Paddlepower Passport
+URL:http://www.penninecrc.org/?ai1ec_event=kids-session-paddlepower-passpor
+ t-beginners
+X-COST:£5.80 (£4.85 with a KAL card)
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-103@www.penninecanoeclub.org.uk
+DTSTAMP:20150920T001609Z
+CATEGORIES;LANGUAGE=en-US:Canoe Polo
+CONTACT:Andrew Carden or David Edwards\; 07866692410\; Canoepolo@penninecan
+ oeclub.org.uk
+DESCRIPTION:<p>All attendees must have a place booked through Monday Night 
+ facebook group.</p>\n<p>Session is open to A & B Team players with spare p
+ laces available to local GB paddlers who are able to regularly train and C
+  team player aspiring to play for the B team.</p>\n<p>All paddlers must be
+  members of the club.</p>
+DTSTART;TZID=Europe/London:20150921T213000
+DTEND;TZID=Europe/London:20150921T223000
+EXDATE;TZID=Europe/London:20140519T213000
+EXDATE;TZID=Europe/London:20140526T213000
+EXDATE;TZID=Europe/London:20140602T213000
+EXDATE;TZID=Europe/London:20140609T213000
+EXDATE;TZID=Europe/London:20140616T213000
+EXDATE;TZID=Europe/London:20140623T213000
+EXDATE;TZID=Europe/London:20140630T213000
+EXDATE;TZID=Europe/London:20140707T213000
+EXDATE;TZID=Europe/London:20140714T213000
+EXDATE;TZID=Europe/London:20140721T213000
+EXDATE;TZID=Europe/London:20140728T213000
+EXDATE;TZID=Europe/London:20140804T213000
+EXDATE;TZID=Europe/London:20140811T213000
+EXDATE;TZID=Europe/London:20140818T213000
+EXDATE;TZID=Europe/London:20140825T213000
+EXDATE;TZID=Europe/London:20140901T213000
+EXDATE;TZID=Europe/London:20140908T213000
+LOCATION:Dewsbury Sports Centre @ Dewsbury\, West Yorkshire WF12 8EN\, UK
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Canoe polo training (A/B Teams)
+URL:http://www.penninecrc.org/?ai1ec_event=canoe-polo-traning-ab-teams
+X-COST:£4:50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-106@www.penninecrc.org
+DTSTAMP:20150920T001609Z
+CATEGORIES;LANGUAGE=en-US:Recreation
+CONTACT:Aaron Emms\; 07725 742 495\; aaronemms@me.com
+DESCRIPTION:<p>This Club night allows members to develop their skills in an
+  informal enviroment\, from beginer practicing skills to freestyles practi
+ cing expert moves.  Paddlers can just come down meet and chat about new bo
+ ats\, plan river trips.</p>\n<p>We have a program of:-</p>\n<ul>\n<li>Coac
+ hing</li>\n<li>Freestyle sessions</li>\n<li>Demo boats sessions</li>\n<li>
+ Slalom Skills</li>\n<li>Challenges and fun games</li>\n</ul>\n<p> </p>
+DTSTART;TZID=Europe/London:20150922T203000
+DTEND;TZID=Europe/London:20150922T213000
+EXDATE;TZID=Europe/London:20130624T203000
+EXDATE;TZID=Europe/London:20130701T203000
+EXDATE;TZID=Europe/London:20130708T203000
+EXDATE;TZID=Europe/London:20130715T203000
+EXDATE;TZID=Europe/London:20130722T203000
+EXDATE;TZID=Europe/London:20130729T203000
+EXDATE;TZID=Europe/London:20130805T203000
+EXDATE;TZID=Europe/London:20130812T203000
+EXDATE;TZID=Europe/London:20130819T203000
+EXDATE;TZID=Europe/London:20130826T203000
+EXDATE;TZID=Europe/London:20140520T203000
+EXDATE;TZID=Europe/London:20140527T203000
+EXDATE;TZID=Europe/London:20140603T203000
+EXDATE;TZID=Europe/London:20140610T203000
+EXDATE;TZID=Europe/London:20140617T203000
+EXDATE;TZID=Europe/London:20140624T203000
+EXDATE;TZID=Europe/London:20140701T203000
+EXDATE;TZID=Europe/London:20140708T203000
+EXDATE;TZID=Europe/London:20140715T203000
+EXDATE;TZID=Europe/London:20140722T203000
+EXDATE;TZID=Europe/London:20140729T203000
+EXDATE;TZID=Europe/London:20140805T203000
+EXDATE;TZID=Europe/London:20140812T203000
+EXDATE;TZID=Europe/London:20140819T203000
+EXDATE;TZID=Europe/London:20140826T203000
+EXDATE;TZID=Europe/London:20140902T203000
+EXDATE;TZID=Europe/London:20140909T203000
+EXDATE;TZID=Europe/London:20150505T203000
+EXDATE;TZID=Europe/London:20150512T203000
+EXDATE;TZID=Europe/London:20150519T203000
+EXDATE;TZID=Europe/London:20150526T203000
+EXDATE;TZID=Europe/London:20150602T203000
+EXDATE;TZID=Europe/London:20150609T203000
+EXDATE;TZID=Europe/London:20150616T203000
+EXDATE;TZID=Europe/London:20150623T203000
+EXDATE;TZID=Europe/London:20150630T203000
+EXDATE;TZID=Europe/London:20150707T203000
+EXDATE;TZID=Europe/London:20150714T203000
+EXDATE;TZID=Europe/London:20150721T203000
+EXDATE;TZID=Europe/London:20150728T203000
+EXDATE;TZID=Europe/London:20150804T203000
+EXDATE;TZID=Europe/London:20150811T203000
+EXDATE;TZID=Europe/London:20150818T203000
+EXDATE;TZID=Europe/London:20150825T203000
+EXDATE;TZID=Europe/London:20150901T203000
+EXDATE;TZID=Europe/London:20150908T203000
+EXDATE;TZID=Europe/London:20150915T203000
+GEO:+53.689211;-1.628013
+LOCATION:Dewsbury Sports Centre @ Dewsbury\, Dewsbury\, West Yorkshire WF12
+  8EN\, UK
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Club Night
+URL:http://www.penninecrc.org/?ai1ec_event=canoe-skills-improvement
+X-COST:Members £3.50 Adults\, £3:00 Under 18's\, None Members Adults £ Unde
+ r 18's
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-104@www.penninecanoeclub.org.uk
+DTSTAMP:20150920T001609Z
+CATEGORIES;LANGUAGE=en-US:C Team Competition\,Canoe Polo
+CONTACT:Andrew Carden or David Edwards\; 07866692410\; canoepolo@penninecan
+ oeclub.org.uk
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150922T213000
+DTEND;TZID=Europe/London:20150922T223000
+EXDATE;TZID=Europe/London:20130624T213000
+EXDATE;TZID=Europe/London:20130701T213000
+EXDATE;TZID=Europe/London:20130708T213000
+EXDATE;TZID=Europe/London:20130715T213000
+EXDATE;TZID=Europe/London:20130722T213000
+EXDATE;TZID=Europe/London:20130729T213000
+EXDATE;TZID=Europe/London:20130805T213000
+EXDATE;TZID=Europe/London:20130812T213000
+EXDATE;TZID=Europe/London:20130819T213000
+EXDATE;TZID=Europe/London:20130826T213000
+EXDATE;TZID=Europe/London:20140520T213000
+EXDATE;TZID=Europe/London:20140527T213000
+EXDATE;TZID=Europe/London:20140603T213000
+EXDATE;TZID=Europe/London:20140610T213000
+EXDATE;TZID=Europe/London:20140617T213000
+EXDATE;TZID=Europe/London:20140624T213000
+EXDATE;TZID=Europe/London:20140701T213000
+EXDATE;TZID=Europe/London:20140708T213000
+EXDATE;TZID=Europe/London:20140715T213000
+EXDATE;TZID=Europe/London:20140722T213000
+EXDATE;TZID=Europe/London:20140729T213000
+EXDATE;TZID=Europe/London:20140805T213000
+EXDATE;TZID=Europe/London:20140812T213000
+EXDATE;TZID=Europe/London:20140819T213000
+EXDATE;TZID=Europe/London:20140826T213000
+EXDATE;TZID=Europe/London:20140902T213000
+EXDATE;TZID=Europe/London:20140909T213000
+LOCATION:Dewsbury Sports Centre @ Dewsbury\, West Yorkshire WF12 8EN\, UK
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Canoe polo training (Beginners to National League)
+URL:http://www.penninecrc.org/?ai1ec_event=water-polo-training-c-team
+X-COST:£3:50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-456@www.penninecanoeclub.org.uk
+DTSTAMP:20150920T001609Z
+CATEGORIES:
+CONTACT:Viv\; secratery@penninecanoeclub.org.uk
+DESCRIPTION:<p>Please contact <a href='mailto:Secratery@penninecanoeclub.or
+ g.uk'>Secratery@penninecanoeclub.org.uk</a> for minutes\, agendas and to r
+ equest attendance.</p>
+DTSTART;TZID=Europe/London:20151005T180000
+DTEND;TZID=Europe/London:20151005T200000
+LOCATION:Navigation Pub @ Mirfield\, West Yorkshire\, UK
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+SEQUENCE:0
+SUMMARY:Club Committee Meeting
+URL:http://www.penninecrc.org/?ai1ec_event=club-committee-meeting
+X-COST:£0:00
+END:VEVENT
+END:VCALENDAR

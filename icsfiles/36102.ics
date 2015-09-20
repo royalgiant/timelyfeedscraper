@@ -1,0 +1,366 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//45.79.201.39//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://lmctv.staging.wpengine.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:27gs44nv00i8vi2nred3k5iq1c@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150921T120000
+DTEND;TZID=America/New_York:20150921T150000
+LOCATION:Studio 2
+SEQUENCE:0
+SUMMARY:Progress in Works Shoot at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/progress-in-works-shoot-at-stud
+ io-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6rfs4p9mdai4a29sp96n8so68@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150921T160000
+DTEND;TZID=America/New_York:20150921T170000
+EXDATE;TZID=America/New_York:20150831T160000
+EXDATE;TZID=America/New_York:20150907T160000
+EXDATE;TZID=America/New_York:20151012T160000
+EXDATE;TZID=America/New_York:20151019T160000
+RRULE:FREQ=WEEKLY;UNTIL=20151214T210000Z;BYDAY=MO
+SEQUENCE:0
+SUMMARY:The Grid recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/the-grid-recording-at-studio-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:jfet71sf5novct2a8kt41ivg00@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>A half hour bible study in the format of conversation betwee
+ n two people. Pastor Frank Stagno and Nancy Stagno share the gospel of Jes
+ us Christ and inform the public at large that there is hope in the bible f
+ or everyone. At times the format includes invited guests that give persona
+ l accounts of changes in their life</p>
+DTSTART;TZID=America/New_York:20150921T190000
+DTEND;TZID=America/New_York:20150921T210000
+SEQUENCE:0
+SUMMARY:Hope in the Bible recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/hope-in-the-bible-recording-at-
+ studio-2-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:5frr7eua2u8vbti52qbtindkhk@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Vistazos is a program in Spanish about the Mamaroneck Public
+  Schools – programs\, activities\, events. It was created with the desire 
+ and purpose of informing the Spanish-speaking parents of children in the D
+ istrict´s schools about the education of their children so that families w
+ ill know what is happening in the schools and in the classrooms and be bet
+ ter prepared to participate in the education of their children.</p>
+DTSTART;TZID=America/New_York:20150922T130000
+DTEND;TZID=America/New_York:20150922T140000
+LOCATION:Studio 2
+RRULE:FREQ=WEEKLY;UNTIL=20151215T180000Z;BYDAY=TU
+SEQUENCE:0
+SUMMARY:Vistazos Calendar recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/vistazos-calendar-recording-at-
+ studio-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:lq733ighiae8or8l0fj18i9mco@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150922T170000
+DTEND;TZID=America/New_York:20150922T180000
+LOCATION:the Media recording at Studio 2
+RRULE:FREQ=WEEKLY;UNTIL=20151215T220000Z;BYDAY=TU
+SEQUENCE:0
+SUMMARY:In the Media recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/in-the-media-recording-at-studi
+ o-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:a01noss47lp7g9rtqakd8pvo7s@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150922T190000
+DTEND;TZID=America/New_York:20150922T210000
+LOCATION:Studio 2
+SEQUENCE:0
+SUMMARY:Larchmont Today recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/larchmont-today-recording-at-st
+ udio-2-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:9FBC4596-99B1-44D5-BBC3-82AABE8BA92A
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T180000
+DTEND;TZID=America/New_York:20150923T210000
+SEQUENCE:0
+SUMMARY:Indie action show case recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/indie-action-show-case-recordin
+ g-at-studio-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:8mhi53vvn3kgeftnb8duqcohpk@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Carmine’s Arena is a production which engages the joys of We
+ stern Civilization its wisdom\, its treasures and the precautions we under
+ take to assure its preservation.</p>
+DTSTART;TZID=America/New_York:20150924T150000
+DTEND;TZID=America/New_York:20150924T160000
+LOCATION:Studio 2
+SEQUENCE:0
+SUMMARY:Carmine’s Arena recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/carmines-arena-recording-at-stu
+ dio-2-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:8EA9DDAF-C320-461D-A8E3-9A24DE6D701F
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T160000
+DTEND;TZID=America/New_York:20150924T210000
+EXDATE;TZID=America/New_York:20150820T160000
+EXDATE;TZID=America/New_York:20150827T160000
+RRULE:FREQ=WEEKLY;UNTIL=20151001T200000Z
+SEQUENCE:0
+SUMMARY:News: the Local Live
+URL:http://lmctv.staging.wpengine.com/event/news-the-local-live-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:itgh70k8svg0vsc9o40rac6b2s@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150925T170000
+DTEND;TZID=America/New_York:20150925T200000
+SEQUENCE:0
+SUMMARY:Rose Cooper Tonight. recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/rose-cooper-tonight-recording-a
+ t-studio-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:agpmqjikvrum2euk9aqinsgibg@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Kelvin Sibylla</p>
+DTSTART;TZID=America/New_York:20150925T190000
+DTEND;TZID=America/New_York:20150925T220000
+LOCATION:village court
+SEQUENCE:0
+SUMMARY:LIVE MEETING: Deer Forum
+URL:http://lmctv.staging.wpengine.com/event/live-meeting-deer-forum/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpf43hv42rnt2ge3gudnt2v2k0@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Give and Take (the positives in life) is a talk show that wi
+ ll have people share their personal spiritual and religious practices. How
+  do they cope and manage to turn the negatives into the positives in life.
+  I (Host) and guest will then share some techniques\, affirmations\, bless
+ ings\, materials and books that the audience can use to enlighten\, renew 
+ and enhance the positives they have in their life Thus the name of the sho
+ w “Give and Take” the goal is to have the viewer reap the benefits of bein
+ g uplifted\, enhanced and encourage -through the pleasantness that is shar
+ ed.</p>
+DTSTART;TZID=America/New_York:20150928T180000
+DTEND;TZID=America/New_York:20150928T210000
+LOCATION:studio 2
+SEQUENCE:0
+SUMMARY:Give and Take recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/give-and-take-recording-at-stud
+ io-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:4m181bkla3rof1uthdh4mmddlk@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CCF Paul</p>
+DTSTART;TZID=America/New_York:20150928T193000
+DTEND;TZID=America/New_York:20150928T223000
+SEQUENCE:0
+SUMMARY:LIVE MEETING:  VofL BOT
+URL:http://lmctv.staging.wpengine.com/event/live-meeting-vofl-bot-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:o4j5kkq9mdqrfktv7bq0oda2dc@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CREW: Ernesto\, Sibylla</p>
+DTSTART;TZID=America/New_York:20150928T193000
+DTEND;TZID=America/New_York:20150928T223000
+SEQUENCE:0
+SUMMARY:LIVE MEETING:  VofM BOT
+URL:http://lmctv.staging.wpengine.com/event/live-meeting-vofm-bot-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:v2r6pvsbbob0lmra0d0bvdc4o4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150929T180000
+DTEND;TZID=America/New_York:20150929T210000
+LOCATION:Studio 2
+RRULE:FREQ=WEEKLY;UNTIL=20150930T220000Z;BYDAY=TU,WE
+SEQUENCE:0
+SUMMARY:“The Great Internet Swindle” recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/the-great-internet-swindle-reco
+ rding-at-studio-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2bbre2ieqlt7eqiou5fhhs6og0@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Stephen Vera</p>
+DTSTART;TZID=America/New_York:20150930T190000
+DTEND;TZID=America/New_York:20150930T220000
+SEQUENCE:0
+SUMMARY:LIVE MEETING: VofM Planning Bd
+URL:http://lmctv.staging.wpengine.com/event/live-meeting-vofm-planning-bd-7
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:trnn6en3bl4eq0fnhaebtb48q4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151002T190000
+DTEND;TZID=America/New_York:20151002T210000
+LOCATION:Studio 1
+SEQUENCE:0
+SUMMARY:Summer Workshop Screening at Studio 1
+URL:http://lmctv.staging.wpengine.com/event/summer-workshop-screening-at-st
+ udio-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:bmb5kv55r6n73b8q8acv79i864@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151006T180000
+DTEND;TZID=America/New_York:20151006T210000
+LOCATION:Studio 2
+SEQUENCE:0
+SUMMARY:Meet the Candidates recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/meet-the-candidates-recording-a
+ t-studio-2-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:qceakjhlsbavab3vgjl02pqk8c@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151007T180000
+DTEND;TZID=America/New_York:20151007T210000
+LOCATION:studio 2
+SEQUENCE:0
+SUMMARY:The Great Internet Swindle recording at studio 2
+URL:http://lmctv.staging.wpengine.com/event/the-great-internet-swindle-reco
+ rding-at-studio-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:1F02C9A2-ADF5-4702-A1F5-24537978143D
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151008T170000
+DTEND;TZID=America/New_York:20151008T210000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:News: the Local Live
+URL:http://lmctv.staging.wpengine.com/event/news-the-local-live-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:m8utfufg9v558kbodra4l7oks4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Way to Go -The show features places to go and things to 
+ do in the Greater NY area\,  with a focus on the performing arts and indep
+ endent filmmakers.</p>
+DTSTART;TZID=America/New_York:20151016T180000
+DTEND;TZID=America/New_York:20151016T210000
+LOCATION:Studio 2
+SEQUENCE:0
+SUMMARY:The Way to Go Recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/the-way-to-go-recording-at-stud
+ io-2-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:4D596C6D-476B-4BA1-903C-23735F210427
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151019T170000
+DTEND;TZID=America/New_York:20151019T180000
+SEQUENCE:0
+SUMMARY:The Grid recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/the-grid-recording-at-studio-2-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hh2i3nlapjfk17lqvdt0uk4og4@google.com
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The show features places to go and things to do in the Great
+ er NY area\,  with a focus on the performing arts and independent filmmake
+ rs.</p>
+DTSTART;TZID=America/New_York:20151023T180000
+DTEND;TZID=America/New_York:20151023T210000
+LOCATION:Studio 2
+SEQUENCE:0
+SUMMARY:The Way to Go recording at Studio 2
+URL:http://lmctv.staging.wpengine.com/event/the-way-to-go-recording-at-stud
+ io-2-16/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//118.127.46.83//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.teamsoceania.com.au
+X-WR-TIMEZONE:Australia/Brisbane
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+X-LIC-LOCATION:Australia/Brisbane
+BEGIN:STANDARD
+DTSTART:19920301T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1330@www.teamsoceania.com.au
+DTSTAMP:20150920T002742Z
+CATEGORIES;LANGUAGE=en-US:Victoria East
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151201
+SEQUENCE:0
+SUMMARY:Vic East Regional Meeting
+URL:http://www.teamsoceania.com.au/event/vic-east-regional-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1435@www.teamsoceania.com.au
+DTSTAMP:20150920T002742Z
+CATEGORIES;LANGUAGE=en-US:Queensland\, Northern NSW and New Zealand
+CONTACT:
+DESCRIPTION:<p>NZ Teams Charter Mass.</p>\n<p>New Zealand – Wellington  – V
+ enue and details to be confirmed.</p>
+DTSTART;VALUE=DATE:20151208
+DTEND;VALUE=DATE:20151209
+SEQUENCE:0
+SUMMARY:NZ Teams Charter Mass 2015
+URL:http://www.teamsoceania.com.au/event/nz-teams-charter-mass-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1371@www.teamsoceania.com.au
+DTSTAMP:20150920T002742Z
+CATEGORIES;LANGUAGE=en-US:Queensland\, Northern NSW and New Zealand
+CONTACT:
+DESCRIPTION:<p>Annual Charter Mass and Dinner including installation of the
+  new Regional Couple and Sector Couples.</p>
+DTSTART;TZID=Australia/Brisbane:20151113T190000
+DTEND;TZID=Australia/Brisbane:20151113T220000
+GEO:-27.393649;+153.040058
+LOCATION:St Paschals Church @ 30 Warraba Avenue\, Wavell Heights QLD 4012\,
+  Australia
+SEQUENCE:0
+SUMMARY:Charter Mass and Dinner
+URL:http://www.teamsoceania.com.au/event/charter-mass-and-dinner/
+END:VEVENT
+END:VCALENDAR

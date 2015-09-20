@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.247.246.8//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://stage1dance.com
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1609@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2015/09/yard-sale-2014-300x300.jpg' 
+ width='300' height='300' /></div>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+SEQUENCE:0
+SUMMARY:NBPA Yard Sale
+URL:http://stage1dance.com/event/nbpa-yard-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1601@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:310.591.5595\; http://hollywooddanceshoot.com/
+DESCRIPTION:<p><a href='http://stage1dance.com/wp-content/uploads/2015/06/K
+ ennedy-sm.jpg'><img class='alignnone size-medium wp-image-1403' src='http:
+ //stage1dance.com/wp-content/uploads/2015/06/Kennedy-sm-300x300.jpg' alt='
+ Kennedy sm' /></a></p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151012
+GEO:+38.05175;-122.149219
+LOCATION:Stage One Dance Center @ 390 Military E\, Benicia\, CA 94510\, USA
+SEQUENCE:0
+SUMMARY:Hollywood Dance Shoot
+URL:http://stage1dance.com/event/hollywood-dance-shoot/
+X-COST:$99 Portrait sitting fee
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1409@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2015/06/Kiana-crop-300x300.jpg' widt
+ h='300' height='300' /></div>
+DTSTART;VALUE=DATE:20151122
+DTEND;VALUE=DATE:20151129
+SEQUENCE:0
+SUMMARY:Closed for Thanksgiving
+URL:http://stage1dance.com/event/closed-for-thanksgiving-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1610@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2014/10/DSC_8729-300x300.jpg' width=
+ '300' height='300' /></div>
+DTSTART;VALUE=DATE:20151128
+DTEND;VALUE=DATE:20151130
+GEO:+37.787817;-122.408767
+LOCATION:Westin St. Francis @ 335 Powell St\, San Francisco\, CA 94102\, US
+ A
+SEQUENCE:0
+SUMMARY:Tremaine Dance Convention
+URL:http://stage1dance.com/event/tremaine-dance-convention/
+X-COST:Student tuition and observers fees
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1602@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://stage1dance.com/wp-content/uploads/2013/10/E
+ OD2-SS.jpg'><img class='alignnone size-medium wp-image-1080' src='http://s
+ tage1dance.com/wp-content/uploads/2013/10/EOD2-SS-300x300.jpg' alt='EOD2 S
+ S' /></a></p>
+DTSTART;VALUE=DATE:20151205
+DTEND;VALUE=DATE:20151206
+GEO:+38.05175;-122.149219
+LOCATION:Stage One Dance Center @ 390 Military E\, Benicia\, CA 94510\, USA
+SEQUENCE:0
+SUMMARY:North Bay Performing Arts Holiday Market
+URL:http://stage1dance.com/event/north-bay-performing-arts-holiday-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1410@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2015/06/Vanessa-300x300.jpg' width='
+ 300' height='300' /></div>
+DTSTART;VALUE=DATE:20151213
+DTEND;VALUE=DATE:20160103
+SEQUENCE:0
+SUMMARY:Holiday Break
+URL:http://stage1dance.com/event/holiday-break-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1611@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2015/06/Newsies-2-300x300.jpg' width
+ ='300' height='300' /></div>
+DTSTART;VALUE=DATE:20160104
+DTEND;VALUE=DATE:20160105
+SEQUENCE:0
+SUMMARY:Spring Semester Begins
+URL:http://stage1dance.com/event/spring-semester-begins-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1005@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2015/06/awards1-300x300.jpg' width='
+ 300' height='300' /></div>
+DTSTART;VALUE=DATE:20160304
+DTEND;VALUE=DATE:20160307
+GEO:+37.565752;-122.29511
+LOCATION:Bayside Performing Arts Center @ 2025 Kehoe Ave\, San Mateo\, CA 9
+ 4403\, USA
+SEQUENCE:0
+SUMMARY:Rainbow Competition
+URL:http://stage1dance.com/event/masquerade-competition/
+X-COST:Dancers pay entry fee
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1009@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2015/04/Prima-crop-300x300.jpg' widt
+ h='300' height='300' /></div>
+DTSTART;VALUE=DATE:20160327
+DTEND;VALUE=DATE:20160403
+SEQUENCE:0
+SUMMARY:Closed for Spring Break
+URL:http://stage1dance.com/event/closed-for-spring-break/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-960@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:Miss Julie\; 707-745-1834\; contact@stage1dance.com
+DESCRIPTION:<p><a href='http://stage1dance.com/wp-content/uploads/2014/05/T
+ he-Jungle-crop.jpg'><img class='alignnone size-medium wp-image-1073' src='
+ http://stage1dance.com/wp-content/uploads/2014/05/The-Jungle-crop-300x300.
+ jpg' alt='The Jungle crop' /></a></p>
+DTSTART;VALUE=DATE:20160408
+DTEND;VALUE=DATE:20160411
+GEO:+37.546388;-122.303757
+LOCATION:San Mateo County Event Center @ 2495 South Delaware Street\, San M
+ ateo\, CA 94403\, USA
+SEQUENCE:0
+SUMMARY:Showstopper’s Dance Competition
+URL:http://stage1dance.com/event/showstoppers-dance-competition/
+X-COST:Dancer's submit entry fees
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1004@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:Stage One Dance Center\; 707-745-1834
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2014/11/The-Inbetween-sm-300x300.jpg
+ ' width='300' height='300' /></div>
+DTSTART;VALUE=DATE:20160506
+DTEND;VALUE=DATE:20160509
+GEO:+38.019139;-121.884315
+LOCATION:Pittsburg Performing Arts Center @ 1750 Harbor St\, Pittsburg\, CA
+  94565\, USA
+SEQUENCE:0
+SUMMARY:BravO Competition
+URL:http://stage1dance.com/event/starsystems-competition/
+X-COST:Dancers submit entry fees
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1017@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2014/06/Good-Ship-Lollipop-2-2014-30
+ 0x300.jpg' width='300' height='300' /></div>
+DTSTART;VALUE=DATE:20160527
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:Closed for Memorial Day
+URL:http://stage1dance.com/event/closed-for-memorial-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1256@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:Stage One Dance Center\; 707-745-1834
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2015/06/Kalandero1-300x300.jpg' widt
+ h='300' height='300' /></div>
+DTSTART;VALUE=DATE:20160604
+DTEND;VALUE=DATE:20160606
+GEO:+38.101504;-122.21606
+LOCATION:Hogan High Auditorium @ 850 Rosewood Avenue\, Vallejo\, CA 94591\,
+  USA
+SEQUENCE:0
+SUMMARY:Showcase of Dancers 2016
+URL:http://stage1dance.com/event/showcase-of-dancers-2015/
+X-COST:$15.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-786@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:Stage One Dance Center\; 707 745-1834
+DESCRIPTION:<p>Stage One Pre-Ballet/Tap dancers will perform with their Hol
+ iday best during Benicia Senior Citizen’s Christmas celebration.</p>\n<p><
+ a href='http://stage1dance.com/wp-content/uploads/2014/11/JBR.jpg'><img cl
+ ass='alignnone size-medium wp-image-1603' src='http://stage1dance.com/wp-c
+ ontent/uploads/2014/11/JBR-300x300.jpg' alt='JBR' /></a></p>
+DTSTART;TZID=America/Los_Angeles:20151204T183000
+DTEND;TZID=America/Los_Angeles:20151204T190000
+GEO:+38.049263;-122.152009
+LOCATION:Casa de Vilarrasa @ 383 East I Street\, Benicia\, CA 94510\, USA
+SEQUENCE:0
+SUMMARY:Benicia Senior Citizen’s Christmas Party
+URL:http://stage1dance.com/event/786-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1247@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:North Bay Performing Arts Board of Directors\; 707-745-1834
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2015/04/Kiana-leap-sm-300x300.jpg' w
+ idth='300' height='300' /></div>
+DTSTART;TZID=America/Los_Angeles:20160213T180000
+DTEND;TZID=America/Los_Angeles:20160213T213000
+GEO:+38.086892;-122.202563
+LOCATION:St Pat/St Vincent High School @ 1500 Benicia Road\, Vallejo\, CA 9
+ 4591\, USA
+SEQUENCE:0
+SUMMARY:NBPA Spaghetti Dinner
+URL:http://stage1dance.com/event/nbpa-spaghetti-dinner-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1014@stage1dance.com
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=en-US:event
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://stage1dance.com/wp-content/uploads/2014/02/pic-day-300x300.jpg' width='
+ 300' height='300' /></div>
+DTSTART;TZID=America/Los_Angeles:20160521T110000
+DTEND;TZID=America/Los_Angeles:20160522T171500
+GEO:+38.05175;-122.149219
+LOCATION:Stage One Dance Center @ 390 Military East\, Benicia\, CA 94510\, 
+ USA
+SEQUENCE:0
+SUMMARY:Showcase Portraits
+URL:http://stage1dance.com/event/showcase-portraits/
+END:VEVENT
+END:VCALENDAR

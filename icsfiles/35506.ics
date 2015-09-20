@@ -1,0 +1,389 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//195.20.230.220//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://www.agv-muenchen.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3409@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Junges Theater\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p><img class='' src='https://cloud.githubusercontent.com/asset
+ s/8321620/9773901/896475fa-5745-11e5-9f65-f131c1964828.jpg' alt='flyer_fin
+ al-page-001' width='685' height='946' /></p>\n<p><span class='fsl'>Krankhe
+ it der Jugend von Ferdinand Bruckner</span></p>\n<p><span class='fsl'>Sie 
+ sind jung\, schön\, gesund und gut ausgebildet – sie haben unendliches Pot
+ ential und nichts\, was sie einschränkt. Egal ob in Bruckners Wien der 20e
+ r Jahre oder 2015 in München: Wenn neun Freunde gegen Ende des Studiums zu
+ sammen kommen\, wird die ganze Bandbreite möglicher Lebensentwürfe deutlic
+ h. In diesem hochexplosiven Beziehungsgeflecht beginnt ein Kampf\, der all
+ es verändern wird: Gnadenlos wird um Selbstbehauptung und Selbsterkenntnis
+  um Kontrolle über sich selbst und andere gerungen. Denn wenn man alle Mög
+ lichkeiten hat\, wer ist dann schuld\, wenn der große Traum vom erfüllten 
+ und ungewöhnlichen Leben zu scheitern droht?</p>\n<p>Was passiert\, wenn d
+ er Ernst des Lebens beginnt?</span></p>\n<p><span class='fsl'>Regie: Nina 
+ Buß</p>\n<p>09. Oktober 2015<br />\n10. Oktober 2015<br />\n11. Oktober 20
+ 15</p>\n<p>jeweils 19:30 Uhr – Eintritt frei – großer Saal der Scholastika
+ <br />\nLedererstraße 5\, 80331 München\, nähe Marienplatz</span></p>\n<p>
+ Krankheit der Jugend <a href='https://www.facebook.com/events/956753741049
+ 156/' onclick='_gaq.push(['_trackEvent'\, 'outbound-article'\, 'https://ww
+ w.facebook.com/events/956753741049156/'\, 'auf Facebook'])\;' >auf Faceboo
+ k</a>.</p>
+DTSTART;TZID=Europe/Berlin:20151009T193000
+DTEND;TZID=Europe/Berlin:20151009T223000
+RRULE:FREQ=DAILY;UNTIL=20150919T235959Z
+SEQUENCE:0
+SUMMARY:Jg. Theater: Krankheit der Jugend
+URL:https://www.agv-muenchen.de/event/jg-theater-krankheit-der-jugend/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3407@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Junges Orchester\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p><img class='fancybox-image' src='http://pdf2jpg.net/files/a9
+ 1f865837889476a47a0e53aab79e0849e30eea/Junges%20Orchester%20WS1516-page-00
+ 1.jpg' alt='' width='500' height='697' /></p>\n<p>Das Junger Orchester des
+  AGV freut sich Ihnen einen spannendes Programm bieten zu können. Genauere
+  Infos folgen</p>
+DTSTART;TZID=Europe/Berlin:20151017T193000
+DTEND;TZID=Europe/Berlin:20151017T213000
+GEO:+48.12057;+11.54274
+LOCATION:Himmelfahrtskirche\, Sendling @ Kidlerstraße 15\, 81371 München\, 
+ Deutschland
+SEQUENCE:0
+SUMMARY:Konzert: Junges Orchester
+URL:https://www.agv-muenchen.de/event/3407/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3400@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Junges Theater\,schlAGVertig\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Ihr bestimmt die Themen – schlAGVertig spielt. Wir freuen un
+ s auf viel Spaß und Theatralik.</p>\n<p>Weitere Informationen folgen.</p>
+DTSTART;TZID=Europe/Berlin:20151102T193000
+DTEND;TZID=Europe/Berlin:20151102T213000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Improvisationstheater mit schlAGVertig
+URL:https://www.agv-muenchen.de/event/improvisationstheater-mit-schlagverti
+ g-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3401@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Auch in diesem Jahr lädt das Wohnheim zum Bayerischen Abend 
+ ein.</p>\n<p>Nähere Informationen folgen.</p>
+DTSTART;TZID=Europe/Berlin:20151105T180000
+DTEND;TZID=Europe/Berlin:20151105T220000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Bayerischer Abend des Wohnheims
+URL:https://www.agv-muenchen.de/event/bayerischer-abend-des-wohnheims-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3403@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Schon lange gab es in der Aktivitas Bestrebungen einen Banda
+ bend zu organisieren. Diese Aufgabe hat Bbr. Florian Dellinger nun in die 
+ Hand genommen. Wir rechnen mit mehreren Bands und einem Potpourrie von ver
+ schiedenen Klängen.</p>\n<p>Sobald es nähere Informationen gibt\, werden d
+ iese hier bekanntgegeben.</p>
+DTSTART;TZID=Europe/Berlin:20151113T200000
+DTEND;TZID=Europe/Berlin:20151113T230000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:AGV-Bandabend
+URL:https://www.agv-muenchen.de/event/agv-bandabend/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3405@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Junger Chor\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Der Junge Chor gibt in diesem Jahr das fulminante\, “Deutsch
+ e Requiem” von Johannes Brahms zum Besten – in der Version mit zwei Klavie
+ ren und Pauken.</p>\n<p>Nähere Informationen folgen.</p>
+DTSTART;TZID=Europe/Berlin:20151115T190000
+DTEND;TZID=Europe/Berlin:20151115T210000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Brahms – Ein Deutsches Requiem
+URL:https://www.agv-muenchen.de/event/brahms-ein-deutsches-requiem/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3406@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Die Rektorenkneipe ist wie in jedem Jahr das absolute Highli
+ ght des Semesters. Zum 124. Mal feiern wir dieses traditionelle Fest zu Eh
+ ren der Münchner Professoren. Wir freuen uns auf interessante Reden und Gr
+ ußworte\, kräftigen Gesang und einen unvergesslichen Abend.</p>\n<p>Die Ve
+ ranstaltung ist wie immer hochoffiziell.</p>
+DTSTART;TZID=Europe/Berlin:20151119T200000
+DTEND;TZID=Europe/Berlin:20151119T230000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:124. Rektorenkneipe
+URL:https://www.agv-muenchen.de/event/rektorenkneipe/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3408@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Eines unserer wichtigsten Prinzipien ist das Lebensbundprinz
+ ip. Dieses wollen wir feiern und gedenken an unserem Vereinsgrab auf dem S
+ üdfriedhof unserer verstorbenen Bundesbrüder.</p>\n<p>Die Veranstaltung is
+ t hochoffiziell.</p>
+DTSTART;TZID=Europe/Berlin:20151122T100000
+DTEND;TZID=Europe/Berlin:20151122T110000
+GEO:+48.120187;+11.555773
+LOCATION:Vereinsgrab am Südfriedhof @ Thalkirchner Str.\, München\, Deutsch
+ land
+SEQUENCE:0
+SUMMARY:Totengedenken
+URL:https://www.agv-muenchen.de/event/totengedenken-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3410@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Kammermusik hat im AGV Tradition. Umso mehr freuen wir uns\,
+  das Trio Kammerton in der Scholastika erleben zu dürfen. Wir freuen uns a
+ uf einen wunderschönen Abend.</p>
+DTSTART;TZID=Europe/Berlin:20151123T193000
+DTEND;TZID=Europe/Berlin:20151123T213000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Kammerkonzert: Duo Kammerton
+URL:https://www.agv-muenchen.de/event/kammerkonzert-duo-kammerton/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3411@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Wei in jedem Semester verbringt die Aktivitas ein gemeinsame
+ s Wochenende auf unserer wunderschönen Drehmöser Hütte auf dem Hausberg in
+  Garmisch-Partenkirchen. Die Anmeldung erfolgt im Voraus beim zweiten Vors
+ tand.</p>
+DTSTART;TZID=Europe/Berlin:20151127T180000
+DTEND;TZID=Europe/Berlin:20151129T190000
+GEO:+47.490028;+11.085391
+LOCATION:Drehmöser Hütte @ Hausbergstraße\, 82467 Garmisch-Partenkirchen\, 
+ Deutschland
+SEQUENCE:0
+SUMMARY:Aktivenhütte
+URL:https://www.agv-muenchen.de/event/aktivenhuette-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3413@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Unser Bbr. Alexander Detzner will uns im Rahmen eines Vortra
+ ges von seinem Auslandssemester in China berichten\, was er erleben durfte
+  – und wie es sich in einer fremden Kultur lebt.</p>
+DTSTART;TZID=Europe/Berlin:20151128T143000
+DTEND;TZID=Europe/Berlin:20151128T163000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Chinavortrag
+URL:https://www.agv-muenchen.de/event/chinavortrag/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3415@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Der AGV feiert Weihnachten. Dazu sind alle AGVer sowie gelad
+ ene Gäste herzlich willkommen.</p>
+DTSTART;TZID=Europe/Berlin:20151204T190000
+DTEND;TZID=Europe/Berlin:20151204T210000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Weihnachtsfeier
+URL:https://www.agv-muenchen.de/event/weihnachtsfeier-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3417@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Junges Theater\,schlAGVertig\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Auch an diesem Abend wird wieder mächtig imrpovisiert. Ihr b
+ estimmt das Thema – schlAGVertig spielt.</p>\n<p>Nähere Informationen folg
+ en.</p>
+DTSTART;TZID=Europe/Berlin:20151207T193000
+DTEND;TZID=Europe/Berlin:20151207T213000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Improvisationstheater mit schlAGVertig
+URL:https://www.agv-muenchen.de/event/improvisationstheater-mit-schlagverti
+ g-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3425@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Großer Chor\,Junges Orchester\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Nähere Informationen folgen.</p>
+DTSTART;TZID=Europe/Berlin:20151211T193000
+DTEND;TZID=Europe/Berlin:20151211T213000
+GEO:+48.12057;+11.54274
+LOCATION:Himmelfahrtskirche @ Kidlerstraße 15\, 81371 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Konzert: Jg. Orchester und Gr. Chor
+URL:https://www.agv-muenchen.de/event/konzert-jg-orchester-und-gr-chor/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3426@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Big Band\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Nähere Informationen folgen.</p>
+DTSTART;TZID=Europe/Berlin:20151212T200000
+DTEND;TZID=Europe/Berlin:20151212T230000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Konzert: AGV Big Band
+URL:https://www.agv-muenchen.de/event/konzert-agv-big-band/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3427@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Schon längst eine Tradition im Wintersemester: Die Feuerzang
+ enbowle mit Bbr. Frater Simon. Zum gemeinsamen Filmabend mit adäquatem Tru
+ nk freuen wir uns über jeden\, der vorbeikommt.</p>
+DTSTART;TZID=Europe/Berlin:20151217T190000
+DTEND;TZID=Europe/Berlin:20151217T230000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Feuerzangenbowle
+URL:https://www.agv-muenchen.de/event/feuerzangenbowle-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3428@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Die Bierfamilie “Oratores Vaporis” lädt zu ihrer traditionel
+ len Neujahreskneipe ein. AGVer und geladene Gäste dürfen sich hier an kühl
+ em Gerstensaft laben und sich auf einige spannende Einlagen gefasst machen
+ .</p>
+DTSTART;TZID=Europe/Berlin:20160105T200000
+DTEND;TZID=Europe/Berlin:20160105T230000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Neujahrskneipe der Oratores Vaporis
+URL:https://www.agv-muenchen.de/event/neujahrskneipe-der-oratores-vaporis-3
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3429@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Bbr. Wilhelm Schwarzmayr lädt zur Weinvorlesung ein. Um Anme
+ ldung beim zweiten Vorsitzenden wird gebeten. Diese Veranstaltung ist nur 
+ für AGVer und geladene Gäste bestimmt.</p>
+DTSTART;TZID=Europe/Berlin:20160111T180000
+DTEND;TZID=Europe/Berlin:20160111T210000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Weinvorlesung
+URL:https://www.agv-muenchen.de/event/weinvorlesung-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3430@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Blasorchester\,Junges Orchester\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Weitere Konzerte am Samstag\, den 16. Januar 2016\, um 19.00
+  Uhr sowie am Sonntag\, den 17. Januar 2016\, um 17.00 Uhr.</p>\n<p>Nähere
+  Informationen folgen.</p>
+DTSTART;TZID=Europe/Berlin:20160115T200000
+DTEND;TZID=Europe/Berlin:20160115T220000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Konzert: Jg. Orchester und Blasorchester
+URL:https://www.agv-muenchen.de/event/konzert-jg-orchester-und-blasorcheste
+ r/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3431@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Blasorchester\,Junges Orchester\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Weitere Konzerte am Freitag\, den 15. Januar 2016\, um 20.00
+  Uhr sowie am Sonntag\, den 17. Januar 2016\, um 17.00 Uhr.</p>\n<p>Nähere
+  Informationen folgen.</p>
+DTSTART;TZID=Europe/Berlin:20160116T190000
+DTEND;TZID=Europe/Berlin:20160116T210000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Konzert: Jg. Orchester und Blasorchester
+URL:https://www.agv-muenchen.de/event/konzert-jg-orchester-und-blasorcheste
+ r-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3433@www.agv-muenchen.de
+DTSTAMP:20150920T002358Z
+CATEGORIES;LANGUAGE=de-DE:Blasorchester\,Junges Orchester\,Semesterprogramm
+CONTACT:
+DESCRIPTION:<p>Weitere Konzerte am Freitag\, den 15. Januar 2016\, um 20.00
+  Uhr\, sowie am Samstag\, den 16. Januar 2016\, um 19.00 Uhr.</p>\n<p>Nähe
+ re Informationen folgen.</p>
+DTSTART;TZID=Europe/Berlin:20160117T170000
+DTEND;TZID=Europe/Berlin:20160117T190000
+GEO:+48.137444;+11.578643
+LOCATION:Scholastika @ Ledererstraße 5\, 80331 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Konzert: Jg. Orchester und Blasorchester
+URL:https://www.agv-muenchen.de/event/konzert-jg-orchester-und-blasorcheste
+ r-3/
+END:VEVENT
+END:VCALENDAR

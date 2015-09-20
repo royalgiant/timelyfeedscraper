@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.89.31.108//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.pittsburghpartycentral.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-112@www.pittsburghpartycentral.com
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:Bar\,Hollywood Lanes
+CONTACT:Jeff\; (412) 563-ROLL\; http://www.hollywoodlanes.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.pittsburghpartycentral.com/wp-content/uploads/2014/12/10520824_1015
+ 2576002046245_5428236128756516735_n-300x300.jpg' width='300' height='300' 
+ /></div><p>Come and enjoy a relaxing Sunday evening of bowling\, food\, mu
+ sic and fun!</p>\n<p>Soundtrack provided by DJ Phinesse (<a title='@djphin
+ esse' href='http://www.twitter.com/djphinesse'>http://www.twitter.com/djph
+ inesse</a>)</p>\n<p>Hip-Hop * R&B * Reggae * Soca * Baltimore Club Music</
+ p>\n<p> </p>\n<p>$20 for free food\, free drinks and 2 hours of free bowli
+ ng!</p>\n<p> </p>
+DTSTART;TZID=America/New_York:20150920T193000
+DTEND;TZID=America/New_York:20150921T000000
+GEO:+40.393828;-80.035199
+LOCATION:Hollywood Lanes @ 2961 West Liberty Avenue\, Pittsburgh\, PA 15216
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Chicken & Waffles Sundays
+URL:http://www.pittsburghpartycentral.com/event/chicken-waffles-sundays/
+X-TAGS;LANGUAGE=en-US:alcohol\,bowling\,chicken\,Dormont\,drinks\,South Sid
+ e\,waffles\,West Liberty\,women
+X-COST:$20
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-52@www.pittsburghpartycentral.com
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:Happy Hour\,Savoy
+CONTACT:(412) 281-0660\; http://www.savoypgh.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.pittsburghpartycentral.com/wp-content/uploads/2014/10/10511638_1015
+ 2840215446579_4681058442697706729_o-300x300.jpg' width='300' height='300' 
+ /></div>
+DTSTART;TZID=America/New_York:20150923T170000
+DTEND;TZID=America/New_York:20150923T200000
+GEO:+40.455525;-79.978064
+LOCATION:Savoy @ 2623 Penn Avenue\, Pittsburgh\, PA 15222\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE,TH,FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Cocktails & Converstation
+URL:http://www.pittsburghpartycentral.com/event/cocktails-converstation/
+X-TAGS;LANGUAGE=en-US:appetizers\,beer\,half priced\,happy hour\,martinis\,
+ Wednesday
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-78@www.pittsburghpartycentral.com
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:Nightclub
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.pittsburghpartycentral.com/wp-content/uploads/2014/10/10700411_7977
+ 71006933167_1641240815970281418_o-300x214.jpg' width='300' height='214' />
+ </div>
+DTSTART;TZID=America/New_York:20150924T220000
+DTEND;TZID=America/New_York:20150925T020000
+GEO:+40.454608;-79.883573
+LOCATION:Taboo Night Club @ 8023 Bennett Street\, Pittsburgh\, PA 15221\, U
+ SA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Start Up Thursdays
+URL:http://www.pittsburghpartycentral.com/event/start-up-thursdays/
+X-TAGS;LANGUAGE=en-US:21\,dancehall\,djs\,drinks\,good music\,hip-hop\,Home
+ wood\,ladies\,music\,r&amp\;b\,reggae\,specials
+END:VEVENT
+END:VCALENDAR

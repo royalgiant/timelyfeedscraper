@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//198.74.51.108//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.oceansideurc.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1026@www.oceansideurc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Lord's Day
+CONTACT:
+DESCRIPTION:<div class='shareaholic-canvas' data-app-id='7647958' data-app=
+ 'share_buttons' data-title='' data-link='' data-summary=''></div>
+DTSTART;TZID=America/Los_Angeles:20150920T030000
+DTEND;TZID=America/Los_Angeles:20150920T044500
+GEO:+33.162652;-117.354748
+LOCATION:The Chapel of the Army & Navy (a.k.a.\, “Academy by the Sea”) @ 26
+ 05 Carlsbad Boulevard\, Carlsbad\, CA 92008\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Morning Worship
+URL:http://www.oceansideurc.org/event/morning-worship/
+X-TAGS;LANGUAGE=en-US:worship
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1025@www.oceansideurc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Lord's Day
+CONTACT:
+DESCRIPTION:<div class='shareaholic-canvas' data-app-id='7647958' data-app=
+ 'share_buttons' data-title='' data-link='' data-summary=''></div>
+DTSTART;TZID=America/Los_Angeles:20150920T100000
+DTEND;TZID=America/Los_Angeles:20150920T110000
+GEO:+33.162652;-117.354748
+LOCATION:The Chapel of the Army & Navy (a.k.a.\, “Academy by the Sea”) @ 26
+ 05 Carlsbad Boulevard\, Carlsbad\, CA 92008\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Evening Worship
+URL:http://www.oceansideurc.org/event/evening-worship/
+X-TAGS;LANGUAGE=en-US:worship
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1515@www.oceansideurc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Council
+CONTACT:
+DESCRIPTION:<div class='shareaholic-canvas' data-app-id='7647958' data-app=
+ 'share_buttons' data-title='' data-link='' data-summary=''></div>
+DTSTART;TZID=America/Los_Angeles:20151006T190000
+DTEND;TZID=America/Los_Angeles:20151006T203000
+RRULE:FREQ=MONTHLY;BYDAY=1TU
+SEQUENCE:0
+SUMMARY:Monthly Council Meeting
+URL:http://www.oceansideurc.org/event/monthly-council-meeting/
+X-TAGS;LANGUAGE=en-US:Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1514@www.oceansideurc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Consistory
+CONTACT:
+DESCRIPTION:<div class='shareaholic-canvas' data-app-id='7647958' data-app=
+ 'share_buttons' data-title='' data-link='' data-summary=''></div>
+DTSTART;TZID=America/Los_Angeles:20151006T203000
+DTEND;TZID=America/Los_Angeles:20151006T220000
+RRULE:FREQ=MONTHLY;BYDAY=1TU
+SEQUENCE:0
+SUMMARY:Monthly Consistory Meeting
+URL:http://www.oceansideurc.org/event/monthly-consistory-meeting/
+X-TAGS;LANGUAGE=en-US:Meeting
+END:VEVENT
+END:VCALENDAR

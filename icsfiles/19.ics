@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.233.160.139//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://lorrainecm.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-375@lorrainecm.co.uk
+DTSTAMP:20150920T002111Z
+CATEGORIES:
+CONTACT:Lorraine Clarke-McGhie\; 01375 271000\; info@lorrainecm.co.uk
+DESCRIPTION:<p>This is a church event raising money for St Joseph Hospice &
+  Prostate Cancer.  Looking forward to a great day – come along: there’s no
+ thing to loose.</p>
+DTSTART;TZID=Europe/London:20151017T150000
+DTEND;TZID=Europe/London:20151017T170000
+GEO:+51.531206;-0.091437
+LOCATION:Holy Trinity Church @ Bletchley Street\, London N1\, UK
+SEQUENCE:0
+SUMMARY:LCM performs at the Holy Trinity Church
+URL:http://lorrainecm.co.uk/event/375/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-379@lorrainecm.co.uk
+DTSTAMP:20150920T002111Z
+CATEGORIES:
+CONTACT:Andre Gabrielle\; 07932 765 127\; andre_1625@yahoo.co.uk
+DESCRIPTION:<p>A great opportunity has arisen for me to perform at the grea
+ t 606 Club – a full 90minute performance awaits.  This is a time to sit an
+ d enjoy great food and good music. The entrance fee is for your table book
+ ing so you can relax and enjoy the atmosphere to the fullest with a delici
+ ous meal.</p>\n<p>PLEASE NOTE:</p>\n<p>ALL GUESTS MUST CALL THE VENUE AND 
+ BOOK A TABLE TO DO SO PLEASE CONTACT CLUB OWNER:-</p>\n<p>Steve Rubie</p>
+ \n<p>TEL – 0207 352 5953</p>
+DTSTART;TZID=Europe/London:20151108T134500
+DTEND;TZID=Europe/London:20151108T154500
+GEO:+51.478513;-0.181333
+LOCATION:606 Club @ 90 Lots Road\, Chelsea\, London SW10 0SW\, UK
+SEQUENCE:0
+SUMMARY:606 Club – LCM Performance
+URL:http://lorrainecm.co.uk/event/606-club-lcm-performance/
+X-COST:£12
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-397@lorrainecm.co.uk
+DTSTAMP:20150920T002111Z
+CATEGORIES:
+CONTACT:Lorraine Clarke-McGhie\; 01375 271000\; info@lorrainecm.co.uk
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151114T180000
+DTEND;TZID=Europe/London:20151114T200000
+GEO:+51.550642;+0.029152
+LOCATION:ARC @ 66A Sebert Rd\, London E7 0NH\, UK
+SEQUENCE:0
+SUMMARY:ARC – Conference
+URL:http://lorrainecm.co.uk/event/arc-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-399@lorrainecm.co.uk
+DTSTAMP:20150920T002111Z
+CATEGORIES:
+CONTACT:Justin Lewis (Facebook)
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151213T173000
+DTEND;TZID=Europe/London:20151213T190000
+GEO:+51.575182;+0.180525
+LOCATION:Costa Coffee Shop @ The Brewery\, 4 The Brewery\, Romford\, Greate
+ r London RM1 1AU\, UK
+SEQUENCE:0
+SUMMARY:Costa – Music with a twist of Faith
+URL:http://lorrainecm.co.uk/event/costa-music-with-a-twist-of-faith/
+END:VEVENT
+END:VCALENDAR

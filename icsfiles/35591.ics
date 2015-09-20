@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//194.109.6.98//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.volendamsoperakoor.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3116@www.volendamsoperakoor.nl
+DTSTAMP:20150920T002329Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><strong>Bestel uw kaarten!</strong></p>\n<p><strong>Titel: <
+ /strong>Concert in Volendam 2015<br />\n<strong>Locatie: </strong>St. Vinc
+ entiuskerk\, Kerkepad 1 – 1131 XN Volendam<br />\n<strong>Beschrijving:</s
+ trong> Concert in Volendam.</p>\n<p>Op zondag 25 oktober 2015 om 15:30 uur
+  houdt het Volendams Opera Koor een spectaculair operaconcert in de St. Vi
+ ncentiuskerk te Volendam. Elk jaar repeteert dit koor wekelijks voor het g
+ rote concert in Volendam en pakt altijd uit met solisten en een groot orke
+ st. Dit mag u niet missen. Het worden in ieder geval stukken uit de volgen
+ de opera’s: Aroldo van G. Verdi\, Hoffmanns vertellingen van J. Offenbach 
+ en Le Villi van Giacomo Puccini\,<br />\nWe gaan ouderwets zorgen voor een
+  spectaculair optreden. Kortom\, genieten.<br />\nWe hebben de volgende so
+ listen al uitgenodigd: Claudia Patacca\, sopraan\, Frank Wong\, bariton en
+  Ingmar Ruttens\, tenor.<br />\nBegeleiding het Promenade orkest en Peter 
+ Schlamilch als dirigent. Tot ziens.</p>\n<p>Kaarten ad € 25\,- verkrijgbaa
+ r o.a. bij: via onze website <a href='http://www.volendamsoperakoor.nl/'>w
+ ww.volendamsoperakoor.nl</a> of bel met 06-12257495</p>\n<p>Bank of Ibannr
+ . NL81RABO0315627867</p>\n<p><strong>Datum: 25-10-2015\, 15:30 uur</strong
+ ><br />\n<strong>De kerk is open vanaf 14:30 uur</strong></p>\n<p><strong>
+ Begeleiding</strong> :</p>\n<ul>\n<li><a href='http://www.hetpromenadeorke
+ st.nl/' target='_blank'>Het Promenade orkest</a></li>\n</ul>\n<p><strong>D
+ irigent:</strong></p>\n<ul>\n<li><a href='http://www.volendamsoperakoor.nl
+ /?page_id=270' target='_blank'>Peter Schlamilch</a></li>\n</ul>\n<p><stron
+ g>Solisten:</strong></p>\n<ul>\n<li><a href='http://www.patacca.nl/' targe
+ t='_blank'>Claudia Patacca\, sopraan</a></li>\n<li><a href='http://www.fra
+ nkdolphinwong.nl/' target='_blank'>Frank Wong\, bariton</a></li>\n<li><a h
+ ref='http://www.volendamsoperakoor.nl/artistiek/solisten/ingmar-ruttens-2/
+ ' target='_blank'>Ingmar Ruttens\, tenor</a></li>\n</ul>\n<p><a href='http
+ ://www.volendamsoperakoor.nl/wp-content/uploads/2011/03/Vok-Concert-7.jpg'
+ ><img class='size-full wp-image-1464 alignnone' title='Vok Concert 7' src=
+ 'http://www.volendamsoperakoor.nl/wp-content/uploads/2011/03/Vok-Concert-7
+ .jpg' alt='' width='448' height='299' /></a></p>\n<p style='text-align: le
+ ft\;'>U kunt via onderstaand formulier kaarten bestellen voor dit concert.
+ </p>\n<p style='text-align: left\;'><div role='form' class='wpcf7' id='wpc
+ f7-f2020-o1' dir='ltr'>\n<div class='screen-reader-response'></div>\n<form
+  action='/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_cont
+ roller&action=export_events#wpcf7-f2020-o1' method='post' class='wpcf7-for
+ m' novalidate='novalidate'>\n<div style='display: none\;'>\n<input type='h
+ idden' name='_wpcf7' value='2020' />\n<input type='hidden' name='_wpcf7_ve
+ rsion' value='4.3' />\n<input type='hidden' name='_wpcf7_locale' value='' 
+ />\n<input type='hidden' name='_wpcf7_unit_tag' value='wpcf7-f2020-o1' />
+ \n<input type='hidden' name='_wpnonce' value='ffab2d19de' />\n</div>\n<p>*
+  = verplicht\n<p />\n<p>Uw naam *<br />\n    <span class='wpcf7-form-contr
+ ol-wrap your-name'><input type='text' name='your-name' value='' size='40' 
+ class='wpcf7-form-control wpcf7-text wpcf7-validates-as-required' aria-req
+ uired='true' aria-invalid='false' /></span> </p>\n<p>Adres en huisnummer *
+ <br />\n    <span class='wpcf7-form-control-wrap adres-nummer'><input type
+ ='text' name='adres-nummer' value='' size='40' class='wpcf7-form-control w
+ pcf7-text wpcf7-validates-as-required' aria-required='true' aria-invalid='
+ false' /></span> </p>\n<p>Postcode *<br />\n    <span class='wpcf7-form-co
+ ntrol-wrap postcode'><input type='text' name='postcode' value='' size='6' 
+ maxlength='6' class='wpcf7-form-control wpcf7-text wpcf7-validates-as-requ
+ ired' aria-required='true' aria-invalid='false' placeholder='1000AA' /></s
+ pan> </p>\n<p>Woonplaats *<br />\n    <span class='wpcf7-form-control-wrap
+  woonplaats'><input type='text' name='woonplaats' value='' size='40' class
+ ='wpcf7-form-control wpcf7-text wpcf7-validates-as-required' aria-required
+ ='true' aria-invalid='false' /></span> </p>\n<p>Telefoonnummer <br />\n   
+  <span class='wpcf7-form-control-wrap tel'><input type='text' name='tel' v
+ alue='' size='10' maxlength='10' class='wpcf7-form-control wpcf7-text' ari
+ a-invalid='false' /></span> </p>\n<p>Uw email *<br />\n    <span class='wp
+ cf7-form-control-wrap your-email'><input type='email' name='your-email' va
+ lue='' size='40' class='wpcf7-form-control wpcf7-text wpcf7-email wpcf7-va
+ lidates-as-required wpcf7-validates-as-email' aria-required='true' aria-in
+ valid='false' /></span> </p>\n<p>Onderwerp<br />\n    <span class='wpcf7-f
+ orm-control-wrap your-subject'><input type='text' name='your-subject' valu
+ e='' size='40' class='wpcf7-form-control wpcf7-text' aria-invalid='false' 
+ /></span> </p>\n</p>\n<p>Aantal Kaarten!<br />\n<span class='wpcf7-form-co
+ ntrol-wrap keuzemenu'><select name='keuzemenu' class='wpcf7-form-control w
+ pcf7-select wpcf7-validates-as-required' aria-required='true' aria-invalid
+ ='false'><option value='Maak uw keuze:'>Maak uw keuze:</option><option val
+ ue='1 = € 25\,-'>1 = € 25\,-</option><option value='2 = € 50\,-'>2 = € 50\
+ ,-</option><option value='3 = € 75\,-'>3 = € 75\,-</option><option value='
+ 4 = € 100\,-'>4 = € 100\,-</option><option value='5 = € 125\,-'>5 = € 125\
+ ,-</option><option value='6 = € 150\,-'>6 = € 150\,-</option><option value
+ ='7 = € 175\,-'>7 = € 175\,-</option><option value='8 = € 200\,-'>8 = € 20
+ 0\,-</option><option value='9 = € 225\,-'>9 = € 225\,-</option><option val
+ ue='10 = € 250\,-'>10 = € 250\,-</option><option value='Anders namelijk'>A
+ nders namelijk</option></select></span></p>\n<p>Bij de keuze 'anders namel
+ ijk'\, gebruikt u dan het bericht venster.</p>\n<p>Uw bericht<br />\n    <
+ span class='wpcf7-form-control-wrap your-message'><textarea name='your-mes
+ sage' cols='40' rows='10' class='wpcf7-form-control wpcf7-textarea' aria-i
+ nvalid='false'></textarea></span> </p>\n<p> Wilt u zichzelf aanmelden voor
+  onze nieuwsbrief?<br />\n<span class='wpcf7-form-control-wrap Nieuwsbrief
+ '><span class='wpcf7-form-control wpcf7-radio'><span class='wpcf7-list-ite
+ m first'><span class='wpcf7-list-item-label'>Ja</span> <input type='radio'
+  name='Nieuwsbrief' value='Ja' /></span><span class='wpcf7-list-item last'
+ ><span class='wpcf7-list-item-label'>Nee</span> <input type='radio' name='
+ Nieuwsbrief' value='Nee' /></span></span></span> </p>\n<p><input type='hid
+ den' name='_wpcf7_captcha_challenge_captcha-243' value='3091187992' /><img
+  class='wpcf7-form-control wpcf7-captchac wpcf7-captcha-captcha-243' width
+ ='84' height='28' alt='captcha' src='http://www.volendamsoperakoor.nl/wp-c
+ ontent/uploads/wpcf7_captcha/3091187992.png' /> </p>\n<p>Vul hier bovensta
+ ande code in. *<br />\n    <span class='wpcf7-form-control-wrap captcha-24
+ 3'><input type='text' name='captcha-243' value='' size='6' maxlength='6' c
+ lass='wpcf7-form-control wpcf7-captchar' aria-invalid='false' /></span> </
+ p>\n<p>Ik ga akkoord met de algemene voorwaarden *<br />\n     <span class
+ ='wpcf7-form-control-wrap acceptance-934'><input type='checkbox' name='acc
+ eptance-934' value='1' class='wpcf7-form-control wpcf7-acceptance' aria-in
+ valid='false' /></span> <a href='http://www.volendamsoperakoor.nl/?page_id
+ =2299' target='_blank'>Privacy Policy</a></p>\n<p><input type='submit' val
+ ue='Verzenden' class='wpcf7-form-control wpcf7-submit' /></p>\n<div class=
+ 'wpcf7-response-output wpcf7-display-none'></div></form></div></p>\n<p sty
+ le='text-align: left\;'><strong>Betalingswijze:</strong><br />\nU maakt € 
+ 25\,- (of een veelvoud daarvan) over op rekeningnummer NL81 RABO 031.56.27
+ .867 op naam van <em>Volendams Opera Koor</em> o.v.v. <em>concert Volendam
+  2015</em>. Na ontvangst van het bedrag ontvangt u een bevestiging.</p>\n<
+ p style='text-align: left\;'>Wilt u gebruik maken van het Hotel Spaander a
+ rrangement. <a href='http:/http://www.volendamsoperakoor.nl/2014/07/hotel-
+ spaander-arragement/'>Klik dan hier</a>.</p>\n<p> </p>\n<div class='addtoa
+ ny_share_save_container addtoany_content_bottom'><div class='a2a_kit a2a_k
+ it_size_32 addtoany_list a2a_target' id='wpa2a_1'><a class='a2a_dd addtoan
+ y_share_save' href='https://www.addtoany.com/share_save'><img src='http://
+ www.volendamsoperakoor.nl/wp-content/plugins/add-to-any/share_save_171_16.
+ png' width='171' height='16' alt='Share'/></a>\n<script type='text/javascr
+ ipt'><!--\nwpa2a.script_load()\;\n//--></script>\n</div></div></p>
+DTSTART;TZID=Europe/Amsterdam:20151025T153000
+DTEND;TZID=Europe/Amsterdam:20151025T173000
+GEO:+52.495364;+5.077362
+LOCATION:St. Vincentiuskerk @ Kerkepad 1\, 1131 XN Volendam\, Nederland
+SEQUENCE:0
+SUMMARY:Concert Volendam
+URL:http://www.volendamsoperakoor.nl/event/concert-volendam/
+X-COST:€ 25\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3093@www.volendamsoperakoor.nl
+DTSTAMP:20150920T002329Z
+CATEGORIES:
+CONTACT:Theater De lampegiet\; 0318 540 141\; reserveren@lampegiet.nl\; htt
+ ps://www.lampegiet.nl/home/
+DESCRIPTION:<p>Gezamenlijke concerten met <a href='http://www.goog.nl/produ
+ ctie2015' target='_blank'>GOOG</a> uit Arnhem.</p>\n<p>Dirigent GOOG: Hans
+  Lamers. Pianist GOOG: Chris Kok<br />\nDirigent Volendams Opera Koor: Pet
+ er Schlamilch. Pianist: Jorrit van den Ham</p>\n<p>22.11.2015 in Veenendaa
+ l. <a href='https://www.lampegiet.nl/home/' target='_blank'>Theater De lam
+ pegiet</a><br />\nKaartverkoop <a href='http://www.cultuurfabriek-veenenda
+ al.nl/stadswinkel/' target='_blank'>De Stadswinkel</a> in de cultuurfabrie
+ k\, Kees Stipplein 74\, Veenendaal<br />\nKassa open ma tm vrij 10.00 – 17
+ .00 uur\, za 10.00 – 16.00 uur.<br />\nTheaterkassa een uur voor de voorst
+ elling open.<br />\n28.11.2015 in Arnhem\, <a href='http://www.mssa.nl/hom
+ e/' target='_blank'>Musis Sacrum</a><br />\nKaartverkoop ma tm vrij 10.00 
+ – 17.00 uur en een uur voor de voorstelling.</p>\n<div class='addtoany_sha
+ re_save_container addtoany_content_bottom'><div class='a2a_kit a2a_kit_siz
+ e_32 addtoany_list a2a_target' id='wpa2a_2'><a class='a2a_dd addtoany_shar
+ e_save' href='https://www.addtoany.com/share_save'><img src='http://www.vo
+ lendamsoperakoor.nl/wp-content/plugins/add-to-any/share_save_171_16.png' w
+ idth='171' height='16' alt='Share'/></a></div></div>
+DTSTART;TZID=Europe/Amsterdam:20151122T150000
+GEO:+52.024504;+5.553024
+LOCATION:Theater De lampegiet @ Kerkewijk 10\, 3901 EG Veenendaal\, Nederla
+ nd
+SEQUENCE:0
+SUMMARY:Gezamenlijke concerten met GOOG uit Arnhem
+URL:http://www.volendamsoperakoor.nl/event/gezamenlijke-concerten-met-goog-
+ uit-arnhem-2/
+X-COST:€ 27.50
+X-TICKETS-URL:https://www.lampegiet.nl/programma/?maand=2015-11&p=2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3092@www.volendamsoperakoor.nl
+DTSTAMP:20150920T002329Z
+CATEGORIES:
+CONTACT:Musis Sacrum\; 026-3720720\; musis.schouwburg@arnhem.nl\; http://ww
+ w.mssa.nl/home/
+DESCRIPTION:<p>Gezamenlijke concerten met <a href='http://www.goog.nl/produ
+ ctie2015' target='_blank'>GOOG</a> uit Arnhem.</p>\n<p>Dirigent GOOG: Hans
+  Lamers. Pianist GOOG: Chris Kok<br />\nDirigent Volendams Opera Koor: Pet
+ er Schlamilch. Pianist: Jorrit van den Ham</p>\n<p>22.11.2015 in Veenendaa
+ l. <a href='https://www.lampegiet.nl/home/' target='_blank'>Theater De lam
+ pegiet</a><br />\nKaartverkoop <a href='http://www.cultuurfabriek-veenenda
+ al.nl/stadswinkel/' target='_blank'>De Stadswinkel</a> in de cultuurfabrie
+ k\, Kees Stipplein 74\, Veenendaal<br />\nKassa open ma tm vrij 10.00 – 17
+ .00 uur\, za 10.00 – 16.00 uur.<br />\nTheaterkassa een uur voor de voorst
+ elling open.<br />\n28.11.2015 in Arnhem\, <a href='http://www.mssa.nl/hom
+ e/' target='_blank'>Musis Sacrum</a><br />\nKaartverkoop ma tm vrij 10.00 
+ – 17.00 uur en een uur voor de voorstelling.</p>\n<div class='addtoany_sha
+ re_save_container addtoany_content_bottom'><div class='a2a_kit a2a_kit_siz
+ e_32 addtoany_list a2a_target' id='wpa2a_3'><a class='a2a_dd addtoany_shar
+ e_save' href='https://www.addtoany.com/share_save'><img src='http://www.vo
+ lendamsoperakoor.nl/wp-content/plugins/add-to-any/share_save_171_16.png' w
+ idth='171' height='16' alt='Share'/></a></div></div>
+DTSTART;TZID=Europe/Amsterdam:20151128T201500
+GEO:+51.982978;+5.913625
+LOCATION:Musis Sacrum @ Velperbuitensingel 25\, 6828 CV Arnhem\, Nederland
+SEQUENCE:0
+SUMMARY:Gezamenlijke concerten met GOOG uit Arnhem
+URL:http://www.volendamsoperakoor.nl/event/gezamenlijke-concerten-met-goog-
+ uit-arnhem/
+X-COST:€ 28.-
+X-TICKETS-URL:https://www.arnhemsepodia.nl/programma/?maand=2015-11&p=5
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

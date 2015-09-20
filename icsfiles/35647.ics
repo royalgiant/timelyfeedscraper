@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//212.227.187.66//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://www.website.loge-carl-und-charlotte.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-791@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150922T200000
+DTEND;TZID=Europe/Berlin:20150922T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Interner Vortragsabend für Interessierte und Brüder
+URL:https://www.website.loge-carl-und-charlotte.de/event/interner-vortragsa
+ bend-fuer-interessierte-und-brueder/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-792@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151006T200000
+DTEND;TZID=Europe/Berlin:20151006T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:TA 1° mit Gesellenzeichnung (Bruder HÖ) / Parallel dazu finden Lehr
+ lingsgespräche statt
+URL:https://www.website.loge-carl-und-charlotte.de/event/bruederliches-gesp
+ raech-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-794@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151013T190000
+DTEND;TZID=Europe/Berlin:20151013T200000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Instruktionen für Brüder Lehrlinge\, Gesellen und Meister
+URL:https://www.website.loge-carl-und-charlotte.de/event/instruktionen-fuer
+ -brueder-lehrlinge-gesellen-und-meister-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-795@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151013T200000
+DTEND;TZID=Europe/Berlin:20151013T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Brüderliches Gespräch
+URL:https://www.website.loge-carl-und-charlotte.de/event/bruederliches-gesp
+ raech-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-796@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151020T200000
+DTEND;TZID=Europe/Berlin:20151020T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:TA 1° mit Lehrlingszeichnung (Bruder HGJ) / die zugeordneten Beamte
+ n leiten die Arbeit
+URL:https://www.website.loge-carl-und-charlotte.de/event/ta-1-mit-lehrlings
+ zeichnung-bruder-hgj-die-zugeordneten-brueder-leiten-die-arbeit/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-797@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151027T200000
+DTEND;TZID=Europe/Berlin:20151027T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Abend für Interessierte an der Freimauerei
+URL:https://www.website.loge-carl-und-charlotte.de/event/abend-fuer-interes
+ sierte-an-der-freimauerei-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-798@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151103T200000
+DTEND;TZID=Europe/Berlin:20151103T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenahus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Vortragsabend mit dem Lionsclub Offenbach am Main
+URL:https://www.website.loge-carl-und-charlotte.de/event/vortragsabend-mit-
+ dem-lionsclub-offenbach-am-main/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-799@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151110T190000
+DTEND;TZID=Europe/Berlin:20151110T200000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Beamtenrat
+URL:https://www.website.loge-carl-und-charlotte.de/event/beamtenrat-13-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-800@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151110T200000
+DTEND;TZID=Europe/Berlin:20151110T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Brüderliches Gespräch
+URL:https://www.website.loge-carl-und-charlotte.de/event/bruederliches-gesp
+ raech-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-801@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151117T200000
+DTEND;TZID=Europe/Berlin:20151117T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Trauerloge
+URL:https://www.website.loge-carl-und-charlotte.de/event/bruederliches-gesp
+ raech-3-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-802@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Extern
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151124T200000
+DTEND;TZID=Europe/Berlin:20151124T220000
+GEO:+50.121361;+8.678649
+LOCATION:Loge Sokrates zur Standhaftigkeit @ Finkenhofstraße 17\, 60322 Fra
+ nkfurt am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Musik bei Kerzenlicht / Wir bitten um Anmeldung beim Bruder Sekretä
+ r
+URL:https://www.website.loge-carl-und-charlotte.de/event/musik-bei-kerzenli
+ cht-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-803@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151201T200000
+DTEND;TZID=Europe/Berlin:20151201T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:TA 2° Mit Beförderung (Brüder BG und DB) / Parallel dazu finden Leh
+ rlingsgespräche statt
+URL:https://www.website.loge-carl-und-charlotte.de/event/ta-1-mit-lehrlings
+ zeichnung-bruder-hgj-die-zugeordneten-brueder-leiten-die-arbeit-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-807@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151207T200000
+DTEND;TZID=Europe/Berlin:20151207T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:X-Mas Jazz Session
+URL:https://www.website.loge-carl-und-charlotte.de/event/x-mas-jazz-session
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-809@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151208T200000
+DTEND;TZID=Europe/Berlin:20151208T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:TA 1° (ggf. mit Aufnahme)
+URL:https://www.website.loge-carl-und-charlotte.de/event/bruederliches-gesp
+ raech-3-2-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-808@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151215T190000
+DTEND;TZID=Europe/Berlin:20151215T200000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Instruktionen für Brüder Lehrlinge\, Gesellen und Meister
+URL:https://www.website.loge-carl-und-charlotte.de/event/instruktionen-fuer
+ -brueder-lehrlinge-gesellen-und-meister-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-810@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151215T200000
+DTEND;TZID=Europe/Berlin:20151215T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Brüderliches Gespräch und Vorbereitungen für den 19.12.
+URL:https://www.website.loge-carl-und-charlotte.de/event/bruederliches-gesp
+ raech-3-2-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-811@website.loge-carl-und-charlotte.de
+DTSTAMP:20150920T002346Z
+CATEGORIES;LANGUAGE=de-DE:Logenhaus / Tempel (Offenbach am Main)
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151219T170000
+DTEND;TZID=Europe/Berlin:20151219T220000
+GEO:+50.1068;+8.754263
+LOCATION:Logenhaus @ Domstraße 66\, 63067 Offenbach am Main\, Deutschland
+SEQUENCE:0
+SUMMARY:Jahresschluß- und Schwesternfest (Mit separater Einladung)
+URL:https://www.website.loge-carl-und-charlotte.de/event/jahresschluss-und-
+ schwesternfest-mit-separater-einladung-2/
+END:VEVENT
+END:VCALENDAR

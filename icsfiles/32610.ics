@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//114.141.199.163//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.ignitedm.com
+X-WR-TIMEZONE:Australia/Brisbane
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+X-LIC-LOCATION:Australia/Brisbane
+BEGIN:STANDARD
+DTSTART:19920301T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:EST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-482@www.ignitedm.com
+DTSTAMP:20150920T003914Z
+CATEGORIES:
+CONTACT:Beerwah Golf Club\; 07 5494 0630\; manager@beerwahgolfclub.com.au
+DESCRIPTION:<p><img class='aligncenter size-full wp-image-483' src='http://
+ www.ignitedm.com/wp-content/uploads/social-play.jpg' alt='social-play' wid
+ th='282' height='304' /></p>
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+GEO:-26.859793;+152.964694
+LOCATION:Beerwah Golf Club @ 24 Biondi Cres\, Beerwah QLD 4519\, Australia
+RDATE;TZID=Australia/Brisbane:20151225T000000
+RDATE;TZID=Australia/Brisbane:20151226T000000
+RDATE;TZID=Australia/Brisbane:20151231T000000
+RDATE;TZID=Australia/Brisbane:20160102T000000
+RDATE;TZID=Australia/Brisbane:20160103T000000
+SEQUENCE:0
+SUMMARY:Social Play
+URL:http://www.ignitedm.com/event/social-play/
+X-TAGS;LANGUAGE=en-US:social\,social play
+END:VEVENT
+END:VCALENDAR

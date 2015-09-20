@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.46.18//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://montagecompton.com
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-259@montagecompton.com
+DTSTAMP:20150920T002702Z
+CATEGORIES;LANGUAGE=en-US:Community Meeting
+CONTACT:Michael Wiltse\; mwiltse@keystonepacific.com
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150920T160000
+DTEND;TZID=America/Los_Angeles:20150920T180000
+LOCATION:Montage Pool Area
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Community Meeting
+URL:http://montagecompton.com/event/community-meeting/
+X-TAGS;LANGUAGE=en-US:community\,compton\,meeting\,montage\,pool area\,sund
+ ay\,sundays
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-171@montagecompton.com
+DTSTAMP:20150920T002703Z
+CATEGORIES;LANGUAGE=en-US:Street Sweeping
+CONTACT:Clean Street\; (800) 225-7316
+DESCRIPTION:<p>Street sweeping will take place on the 1st Wednesday and 3rd
+  Wednesday of every month by Clean Street.</p>\n<p>Duration: 7:00 a.m. – 1
+ :00 p.m.</p>
+DTSTART;TZID=America/Los_Angeles:20151007T070000
+DTEND;TZID=America/Los_Angeles:20151007T130000
+LOCATION:Montage Maintenance Corporation Community
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:Street Sweeping
+URL:http://montagecompton.com/event/street-sweeping/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-173@montagecompton.com
+DTSTAMP:20150920T002703Z
+CATEGORIES;LANGUAGE=en-US:Street Sweeping
+CONTACT:Clean Street\; (800) 225-7316
+DESCRIPTION:<p>Street sweeping will take place on the 1st Wednesday and 3rd
+  Wednesday of every month by Clean Street.</p>\n<p>Duration: 7:00 a.m. – 1
+ :00 p.m.</p>
+DTSTART;TZID=America/Los_Angeles:20151021T070000
+DTEND;TZID=America/Los_Angeles:20151021T130000
+LOCATION:Montage Maintenance Corporation Community
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+SEQUENCE:0
+SUMMARY:Street Sweeping
+URL:http://montagecompton.com/event/street-sweeping-2/
+END:VEVENT
+END:VCALENDAR

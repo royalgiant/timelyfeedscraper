@@ -1,0 +1,345 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//110.232.140.111//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://wtech.com.au/football
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+DTSTART:20150405T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+RDATE:20160403T030000
+TZNAME:AEST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20151004T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-44@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://wtech.com.au/football/index.php/national-cam
+ p/' target='_blank'>West Ham United National Camp</a></p>
+DTSTART;TZID=Australia/Sydney:20150919T133000
+DTEND;TZID=Australia/Sydney:20150922T133000
+SEQUENCE:0
+SUMMARY:National Camp
+URL:http://wtech.com.au/football/index.php/event/national-camp/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-52@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150923T121500
+SEQUENCE:0
+SUMMARY:Depart for London via Bandar Seri Begawan\, Brunei
+URL:http://wtech.com.au/football/index.php/event/depart-for-london-heathrow
+ -2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-51@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150923T192000
+SEQUENCE:0
+SUMMARY:Arrive at Bandar Seri Begawan\, Brunei
+URL:http://wtech.com.au/football/index.php/event/arrive-bandar-seri-begawan
+ -brunei/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-50@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150923T215500
+SEQUENCE:0
+SUMMARY:Depart for London Heathrow
+URL:http://wtech.com.au/football/index.php/event/depart-for-london-heathrow
+ /
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-48@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150924T152500
+SEQUENCE:0
+SUMMARY:Arrive at London Heathrow
+URL:http://wtech.com.au/football/index.php/event/arrive-london-heathrow/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-49@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150924T223000
+SEQUENCE:0
+SUMMARY:Guided Tour of London
+URL:http://wtech.com.au/football/index.php/event/guided-tour-of-london/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-46@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150925T193000
+SEQUENCE:0
+SUMMARY:Coaching session – West Ham United Academy
+URL:http://wtech.com.au/football/index.php/event/coaching-session-west-ham-
+ united-academy/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-47@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150925T230000
+SEQUENCE:0
+SUMMARY:Stadium Tour – West Ham United\, Boleyn Ground
+URL:http://wtech.com.au/football/index.php/event/stadium-tour-west-ham-unit
+ ed-boleyn-ground/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-54@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150926T190000
+SEQUENCE:0
+SUMMARY:Game vs West Ham United Academy
+URL:http://wtech.com.au/football/index.php/event/game-v-west-ham-united-aca
+ demy/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-55@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150927T000000
+SEQUENCE:0
+SUMMARY:Watch EPL – West Ham United v Norwich City
+URL:http://wtech.com.au/football/index.php/event/watch-epl-west-ham-united-
+ v-norwich-city/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-56@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150927T200000
+SEQUENCE:0
+SUMMARY:Coaching session – West Ham United Academy
+URL:http://wtech.com.au/football/index.php/event/coaching-session-west-ham-
+ united-academy-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-57@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150928T000000
+SEQUENCE:0
+SUMMARY:Wembley Stadium Tour
+URL:http://wtech.com.au/football/index.php/event/wembley-stadium-tour/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-58@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Gordon <a href='http://www.strachanfootballfoundation.co.uk/
+ ' target='_blank'>Strachan Coaching Foundation</a> with Head Coach George 
+ Mackie\, he is a Scout for Arsenal and UEFA Pro License coach.</p>
+DTSTART;TZID=Australia/Sydney:20150928T200000
+SEQUENCE:0
+SUMMARY:Coaching Session – Gordon Strachan Coaching Foundation
+URL:http://wtech.com.au/football/index.php/event/gordon-strachan-coaching-f
+ oundation-sff/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-59@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150929T050000
+SEQUENCE:0
+SUMMARY:Watch EPL – West Bromwich Albion v Everton (not confirmed)
+URL:http://wtech.com.au/football/index.php/event/watch-epl-west-bromwich-al
+ bion-v-everton-not-confirmed/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-60@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150929T183000
+SEQUENCE:0
+SUMMARY:Stadium Tour – Wolverhampton Wanderers FC\, Macron Stadium
+URL:http://wtech.com.au/football/index.php/event/stadium-tour-wolverhampton
+ -wanderers-fc-macron-stadium/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-61@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20150929T213000
+SEQUENCE:0
+SUMMARY:Coaching session – Wolverhampton Wanderers Academy
+URL:http://wtech.com.au/football/index.php/event/coaching-session-wolverham
+ pton-wanderers-academy/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-62@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20151001T044500
+SEQUENCE:0
+SUMMARY:Champions League – Man Utd vs Wolfsurg at Old Trafford
+URL:http://wtech.com.au/football/index.php/event/champions-league-man-utd-v
+ s-wolfsurg-at-old-trafford/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-63@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20151002T050500
+SEQUENCE:0
+SUMMARY:Europa League – Liverpool vs FC Sion at Anfield (not confirmed)
+URL:http://wtech.com.au/football/index.php/event/europa-league-liverpool-vs
+ -fc-sion-at-anfield-not-confirmed/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-64@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20151004T000000
+DTEND;TZID=Australia/Sydney:20151004T010000
+SEQUENCE:0
+SUMMARY:Watch EPL – Manchester City v Newcastle
+URL:http://wtech.com.au/football/index.php/event/watch-epl-manchester-city-
+ v-newcastle/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-65@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20151005T034500
+SEQUENCE:0
+SUMMARY:Depart for Melbourne via Bandar Seri Begawan\, Brunei
+URL:http://wtech.com.au/football/index.php/event/depart-for-melbourne-via-b
+ andar-seri-begawan-brunei/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-66@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20151005T202500
+SEQUENCE:0
+SUMMARY:Arrive Bandar Seri Begawan\, Brunei
+URL:http://wtech.com.au/football/index.php/event/arrive-bandar-seri-begawan
+ -brunei-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-67@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20151005T230000
+SEQUENCE:0
+SUMMARY:Depart for Melbourne
+URL:http://wtech.com.au/football/index.php/event/depart-for-melbourne/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-68@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20151006T060000
+SEQUENCE:0
+SUMMARY:Arrive at Melbourne
+URL:http://wtech.com.au/football/index.php/event/arrive-melbourne/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-69@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20151006T091500
+SEQUENCE:0
+SUMMARY:Depart for Sydney
+URL:http://wtech.com.au/football/index.php/event/depart-for-sydney/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-70@wtech.com.au/football
+DTSTAMP:20150920T003054Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Sydney:20151006T104000
+SEQUENCE:0
+SUMMARY:Arrive Sydney
+URL:http://wtech.com.au/football/index.php/event/arrive-sydney/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

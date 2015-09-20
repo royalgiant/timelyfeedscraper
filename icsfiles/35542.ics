@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//195.160.189.71//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://morbihan-energies.fr
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2168@morbihan-energies.fr
+DTSTAMP:20150920T002404Z
+CATEGORIES;LANGUAGE=fr-FR:Comité
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150924T143000
+DTEND;TZID=Europe/Paris:20150924T173000
+GEO:+47.657447;-2.803608
+LOCATION:Morbihan énergies @ Morbihan énergies (SDEM)\, 27 Rue de Luscanen\
+ , 56000 Vannes\, France
+SEQUENCE:0
+SUMMARY:Réunion du Comité
+URL:http://morbihan-energies.fr/event/reunion-du-comite-2/
+X-TAGS;LANGUAGE=fr-FR:Comité
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2170@morbihan-energies.fr
+DTSTAMP:20150920T002404Z
+CATEGORIES;LANGUAGE=fr-FR:Manifestations
+CONTACT:
+DESCRIPTION:<p>Morbihan énergies accueillera Le France Electrique Tour le m
+ ercredi 7 octobre 2015. Le France Electrique Tour est un véritable Tour de
+  France en véhicules électriques. Cette manifestation est destinée à promo
+ uvoir la mobilité durable dans son ensemble\, le véhicule électrique en pa
+ rticulier mais aussi les infrastructures de recharge accélérée et rapide i
+ mplantées ainsi que leur inter-opérabilité.</p>
+DTSTART;TZID=Europe/Paris:20151007T090000
+DTEND;TZID=Europe/Paris:20151007T150000
+GEO:+47.657447;-2.803608
+LOCATION:Morbihan énergies @ Morbihan énergies (SDEM)\, 27 Rue de Luscanen\
+ , 56000 Vannes\, France
+SEQUENCE:0
+SUMMARY:France Electrique Tour
+URL:http://morbihan-energies.fr/event/france-electrique-tour/
+X-TAGS;LANGUAGE=fr-FR:borne de recharge\,voiture électrique
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2189@morbihan-energies.fr
+DTSTAMP:20150920T002404Z
+CATEGORIES;LANGUAGE=fr-FR:Bureau
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151125T093000
+DTEND;TZID=Europe/Paris:20151125T123000
+GEO:+47.656847;-2.806016
+LOCATION:Morbihan énergies @ 27 Rue de Luscanen\, 56000 Vannes\, France
+SEQUENCE:0
+SUMMARY:Réunion du Bureau
+URL:http://morbihan-energies.fr/event/reunion-du-bureau-3/
+X-TAGS;LANGUAGE=fr-FR:Bureau
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2190@morbihan-energies.fr
+DTSTAMP:20150920T002404Z
+CATEGORIES;LANGUAGE=fr-FR:Comité
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151207T143000
+DTEND;TZID=Europe/Paris:20151207T173000
+GEO:+47.656847;-2.806016
+LOCATION:Morbihan énergies @ 27 Rue de Luscanen\, 56000 Vannes\, France
+SEQUENCE:0
+SUMMARY:Réunion du Comité
+URL:http://morbihan-energies.fr/event/reunion-du-comite-3/
+X-TAGS;LANGUAGE=fr-FR:Comité
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,617 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//198.251.74.127//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.pgcountyfarmfun.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-374@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:646.621.6968\; http://www.cheverlycommunitymarket.com
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150919T080000
+DTEND;TZID=America/New_York:20150919T120000
+GEO:+38.923849;-76.908376
+LOCATION:6401 Forest Road\, Cheverly\, MD 20785\, USA
+RDATE;TZID=America/New_York:20150530T080000
+RDATE;TZID=America/New_York:20150613T080000
+RDATE;TZID=America/New_York:20150627T080000
+RDATE;TZID=America/New_York:20150711T080000
+RDATE;TZID=America/New_York:20150725T080000
+RDATE;TZID=America/New_York:20150808T080000
+RDATE;TZID=America/New_York:20150822T080000
+RDATE;TZID=America/New_York:20150905T080000
+RDATE;TZID=America/New_York:20150919T080000
+RDATE;TZID=America/New_York:20151003T080000
+RDATE;TZID=America/New_York:20151017T080000
+SEQUENCE:0
+SUMMARY:Cheverly Community Market
+URL:http://www.pgcountyfarmfun.com/event/cheverly-community-market/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-385@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Jeff Colburn\; 301.627.8469\; http://www.stthomascroom.org/ourlocal
+ bounty
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150919T080000
+DTEND;TZID=America/New_York:20150919T120000
+GEO:+38.748692;-76.760131
+LOCATION:St. Thomas Church @ 14300 Saint Thomas Church Road\, Upper Marlbor
+ o\, MD 20772\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150926T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Our Local Bounty: St. Thomas Church Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/our-local-bounty-st-thomas-church-
+ farmers-market/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-390@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Barry Carey\; 202.476.9029\; http://www.fleamarketdcmetro.com
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150919T083000
+DTEND;TZID=America/New_York:20150919T163000
+GEO:+38.85063;-76.953541
+LOCATION:3100 Branch Avenue\, Temple Hills\, MD 20748\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151107T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Up on the Hill Flea & Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/up-on-the-hill-flea-farmers-market
+ /
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-372@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Fleming Thomas\; 301.702.2250\; http://www.branchavenueinbloom.org
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150919T090000
+DTEND;TZID=America/New_York:20150919T140000
+GEO:+38.83872;-76.947799
+LOCATION:Iverson Mall Parking Lot @ Iverson Mall Shopping Center\, 3737 Bra
+ nch Avenue\, Temple Hills\, MD 20748\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151121T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Branch Avenue in Bloom Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/branch-avenue-in-bloom-farmers-mar
+ ket/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-363@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farm tour\,local farms\,open house
+CONTACT:
+DESCRIPTION:<h2>Farm Store Open House</h2>\n<p>The <strong>farm store</stro
+ ng> is open Thursdays 10-4\,  Fridays 10-4\, Saturdays 9-2\, and by appoin
+ tment.</p>\n<p><strong>FREE Farm tours:</strong> Saturdays\, 10am\, 12pm</
+ p>\n<p>Stock up on woodland raised Berkshire pork\, charcuterie\,  pasture
+ -raised soy/corn-free eggs\, grass fed and finished lamb\,  pastured chick
+ en\, rabbit (new this season!)\, goat milk soap\, turkey\, home-spun yarn\
+ , and hand-knit items.</p>\n<p>Visit with the animals and learn more about
+  Cabin Creek Heritage Farm’s livestock raising practices and taste delicio
+ us charcuterie!</p>\n<p>Cabin Creek offers CSA shares in 4-month increment
+ s year-round and are partnering with other local farms to bring their CSA 
+ customers organic produce.</p>\n<p>Visit their <a href='http://r20.rs6.net
+ /tn.jsp?e=001R3YUPfkJOD4-gfX1laTIzfaMzlOYcODIW_yetNPr2fulNxJXYgBanUjCX34XL
+ XdMOFF50jrxUssyhiq6I-b4W4UcA1VuQooGW5F5t5j3Ml0Vt8bnmAyGWH_nGDRjlVW_'>websi
+ te</a> and Facebook <a href='http://r20.rs6.net/tn.jsp?e=001R3YUPfkJOD4-gf
+ X1laTIzfaMzlOYcODIW_yetNPr2fulNxJXYgBanUjCX34XLXdMX3dS7p1fnhTq0LM1fJNlS0Pf
+ q_fZShZVUIJkFHwIC0FPNnZDfxc2aCasYlJ7oTeiKTSUS0TjrsQ='>page</a> for details
+ .</p>
+DTSTART;TZID=America/New_York:20150919T090000
+DTEND;TZID=America/New_York:20150919T140000
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Cabin Creek Open House & Farm Tour
+URL:http://www.pgcountyfarmfun.com/event/363/
+X-TAGS;LANGUAGE=en-US:farm tour\,open house
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-377@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Donny Oluokun\; 301.806.0111\; http://www.facebook.com/glenndalefar
+ mersmarket
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150919T090000
+DTEND;TZID=America/New_York:20150919T133000
+GEO:+39.653274;-82.923122
+LOCATION:Marietta Mansion @ 5626 Bell Station Road\, Ashville\, OH 43103\, 
+ USA
+RRULE:FREQ=WEEKLY;UNTIL=20151121T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Glenn Dale Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/glenn-dale-farmers-market/
+X-TAGS;LANGUAGE=en-US:farmers markets
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-379@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Fazlul Kabir\; 301.659.6295\; http://www.hollywoodfarmersmarket.org
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150919T090000
+DTEND;TZID=America/New_York:20150919T130000
+GEO:+39.013871;-76.919879
+LOCATION:HollywoodPlaza\, 9801 Rhode Island Avenue\, College Park\, MD 2074
+ 0\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151219T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Hollywood Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/hollywood-farmers-market/
+X-TAGS;LANGUAGE=en-US:farmers markets
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-342@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:agritourism\,demonstrations\,open house
+CONTACT:http://accokeekfoundation.org/event/weekend-interpretation-on-the-f
+ arm/2015-04-04/
+DESCRIPTION:<p>Each month\, the National Colonial Farm invites visitors to 
+ examine a different current-day environmental issue through the lens of hi
+ story. What historical paths did Americans follow that have led us to this
+  critical stage of concern about the Earth’s future vitality? By working a
+ nd playing along-side the Bolton family\, visitors discover a time before 
+ acid rain and shrinking polar ice-caps. They will have fun learning some o
+ f the lost arts of homesteading\, while also coming to understand that col
+ onial people had environmental challenges too. Paired with each monthly co
+ lonial experience\, museum interpreters will be on hand to engage visitors
+  of all ages in interactive activities that help to illuminate some of our
+  time’s most pressing environmental issues.</p>
+DTSTART;TZID=America/New_York:20150919T100000
+DTEND;TZID=America/New_York:20150919T160000
+GEO:+38.690893;-77.070737
+LOCATION:Accokeek Foundation @ Piscataway Park\, 3400 Bryan Point Road\, Ac
+ cokeek\, MD 20607\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151206T235959Z;BYDAY=SU,SA;WKST=SU
+SEQUENCE:0
+SUMMARY:National Colonial Farm Interpretation Weekends
+URL:http://www.pgcountyfarmfun.com/event/national-colonial-farm-interpretat
+ ion-weekends/
+X-TAGS;LANGUAGE=en-US:agriculture\,Farm\,homesteading\,Kids
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-394@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Amanda West\; (301) 288-1125\; amanda@ecocityfarms.org\; http://www
+ .ecocityfarms.org/PTFM/
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T100000
+DTEND;TZID=America/New_York:20150919T130000
+GEO:+38.947359;-76.913146
+LOCATION:Emerson Street & 58th Avenue\, Bladensburg\, MD 20710\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151003T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Port Towns Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/port-towns-farmers-market/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-361@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:agritourism\,local farms\,open house\,wine tastin
+ g
+CONTACT:301-752-1103\; info@romanowinery.com\; http://www.romanowinery.com
+DESCRIPTION:<h2 class='font_8'><span class='color_15'>Romano Vineyard and W
+ inery Open House</span></h2>\n<p class='font_8'><span class='color_15'>Fou
+ nded by Joseph and Jo-Ann Romano\, Romano Vineyard and Winery is located s
+ outh of Washington\, D.C.\, in the scenic rural tier of Prince George’s Co
+ unty\, Maryland. Our family is committed to producing small lots of handcr
+ afted wine from the grapes grown in our vineyard and those of carefully se
+ lected custom growers.</span></p>\n<p class='font_8'><span class='color_15
+ '>In 2008 and 2009\, The Romano’s first grape harvests\, gave Joseph the o
+ pportunity to learn the characteristics of their grapes and develop his sk
+ ills as a winemaker.</span></p>\n<p class='font_8'><span class='color_15'>
+ In the</span><span class='color_15'> meantime\, Jo-Ann started her work as
+  the vineyard manager\, taking care of the vines with the help of the coup
+ le’s daughters. She uses two different training systems\, based on the gro
+ wing preference of the vines. You’ll often find her outside\,pruning\, de-
+ leafing\, hedging\, positioning the shoots\, thinning the clusters\, etc. 
+ With all of that “babying\,” it’s no wonder Tiffany and Tarah tease Jo-Ann
+  about when she’s going to start crocheting hats for the vines!</span></p>
+ \n<p class='font_8'><span class='color_15'>A </span><span style='line-heig
+ ht: 1.714285714\; font-size: 1rem\;'>true testament to the time and care g
+ iven to the vineyard.</span></p>\n<p class='font_8'><span class='color_15'
+ >After giving the grapes time for their vines to mature and their roots to
+  grow deep\, the Romano’s harvested their first grapes for commercial wine
+  production in 2010.</span></p>\n<p class='font_8'><span class='color_15'>
+ Today\, the vineyard is home to six wine grape varietals – Cabernet Franc\
+ , Merlot\, Chambourcin\, Vidal\, Cayuga and Traminette – as well as six ta
+ ble grape varietals.</span></p>\n<p class='font_8'><span class='color_15'>
+ We believe that wine is made in the vineyard: quality grapes make quality 
+ wine. That’s why we give every ounce of attention to our vines\, so that t
+ hey’ll produce the high-quality grapes that give us one of Maryland’s best
+  wines.</span></p>\n<p class='font_8'><span class='color_15'>We hope you e
+ njoy our wines as much as we enjoy making them for you.</span></p>
+DTSTART;TZID=America/New_York:20150919T160000
+DTEND;TZID=America/New_York:20150919T200000
+GEO:+38.675404;-76.731731
+LOCATION:Romano Vineyard & Winery @ 15715 Bald Eagle School Road\, Brandywi
+ ne\, MD 20613\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Open House at Romano’s Winery & Vineyard
+URL:http://www.pgcountyfarmfun.com/event/open-house-romanos-winery-vineyard
+ /
+X-TAGS;LANGUAGE=en-US:open house\,Wine\,wine tasting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-371@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Matt Corley\; 301.809.3078\; http://www.bowiefarmersmarket.org
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150920T080000
+DTEND;TZID=America/New_York:20150920T120000
+GEO:+38.978316;-76.743741
+LOCATION:Bowie High School Parking Lot @ 15200 Annapolis Road\, Bowie\, MD 
+ 20715\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151025T235959Z
+SEQUENCE:0
+SUMMARY:Bowie Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/bowie-farmers-market/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-391@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Barry Carey\; 202.476.9029\; http://www.fleamarketdcmetro.com
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150920T083000
+DTEND;TZID=America/New_York:20150920T163000
+GEO:+38.85063;-76.953541
+LOCATION:3100 Branch Avenue\, Temple Hills\, MD 20748\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151106T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Up on the Hill Flea & Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/up-on-the-hill-flea-farmers-market
+ -2/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-376@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:240.487.3543\; http://www.downtowncollegepark.org
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150920T100000
+DTEND;TZID=America/New_York:20150920T140000
+RRULE:FREQ=WEEKLY;UNTIL=20151122T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Downtown College Park Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/downtown-college-park-farmers-mark
+ et/
+X-TAGS;LANGUAGE=en-US:farmers markets
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-378@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Nancy Solomon\; 240.476.8769\; http://www.greenbeltfarmersmarket.or
+ g
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150920T100000
+DTEND;TZID=America/New_York:20150920T140000
+GEO:+39.000489;-76.877439
+LOCATION:Greenbelt Municipal Building Parking Lot @ 25 Crescent Road\, Gree
+ nbelt\, MD 20770\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151122T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Greenbelt Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/greenbelt-farmers-market/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-381@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Ellarose Preston\; 301.985.5000\; http://www.hyattsville.org/farmer
+ smarket
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150922T150000
+DTEND;TZID=America/New_York:20150922T190000
+GEO:+38.96575;-76.950446
+LOCATION:Redeemer Lutheran Church @ 3799 East West Highway\, West Hyattsvil
+ le\, MD 20782\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20150926T235959Z;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Hyattsville Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/hyattsville-farmers-market/
+X-TAGS;LANGUAGE=en-US:farmers markets
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-324@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Larry Tumlin\; 301.314.8081\; TerpMarketManager@umd.edu\; http://cr
+ s.umd.edu/Wellness/Farmers-Market
+DESCRIPTION:<p><strong><a href='http://www.pgcountyfarmfun.com/wp-content/u
+ ploads/2015/02/UMDFarmersMarket2.jpg'><img class='alignleft size-full wp-i
+ mage-325' src='http://www.pgcountyfarmfun.com/wp-content/uploads/2015/02/U
+ MDFarmersMarket2.jpg' alt='Farmers Market at Maryland' width='198' height=
+ '126' /></a>When and where will the Farmers Market be held?</strong> The F
+ armers Market at Maryland will be held every Wednesday from 11am to 3pm in
+  front of Cole Student Activities Building.<br />\nHow long will the Farme
+ rs Market run? The market will run through November. The final market of t
+ he 2015 season is November 18.</p>\n<p><strong>Will the market ever be can
+ celled?</strong> The market will be held rain or shine. However\, severe w
+ eather\, or the threat of severe weather\, may force us to cancel a market
+  for everyone’s safety. When possible\, notice of a cancellation will be p
+ osted on the website and on our Facebook page and Twitter account.</p>\n<p
+ ><strong>Why should I shop at a farmers market?</strong> Farmers markets p
+ rovide an opportunity to purchase food directly from local farms. Local fo
+ od is full of flavor\, harvested at its nutritional peak\, and available a
+ t the market soon after. It doesn’t travel long distances\, so buying from
+  local farms also reduces the environmental impact of bringing food to you
+ r table (the average food item travels about 1\,500 miles to reach us) whi
+ le providing support for the local economy.</p>\n<p><strong>Who is sponsor
+ ing the Farmers Market at Maryland?</strong> The Farmers Market at Marylan
+ d is organized and managed by the Farmers Market Committee and supported b
+ y Campus Recreation Services\, Dining Services\, and the Office of Sustain
+ ability. The market is financially supported by the Department of Transpor
+ tation.</p>\n<p><strong>Why host a farmers market on campus when there are
+  other markets available in the College Park area?</strong> We believe it 
+ is important to introduce students to the health and environmental benefit
+ s of shopping at farmers markets. We hope to teach them how to use local f
+ arm products to create healthy meals and support sustainable agriculture. 
+ We believe our community of nearly 40\,000 students\, faculty\, and staff 
+ will see value in having convenient access to a weekly farmers market on c
+ ampus.</p>\n<p><strong>Is the market open to the public?</strong> Yes\, ev
+ eryone is welcome at The Farmers Market at Maryland.<br />\nHow can studen
+ ts help with the farmers market? One of the best ways students can support
+  the market is by coming to the market and buy products from the farmers. 
+ Use your voice and your social network to tell your friends to visit and s
+ hop at the market. Students can also volunteer to assist the farmers and m
+ arket manager with weekly market staffing\, setup and cleanup.</p>\n<p><st
+ rong>Where is the Farmers Market?</strong> The Farmers Market is located a
+ long Campus Drive directly in front of Cole Student Activities Building (a
+ lso referred to as Cole Fieldhouse\, next to the Stamp Student Union)</p>
+ \n<p><strong>How do I get to the Farmers Market?</strong>  The Maryland ca
+ mpus is pedestrian-friendly\, and we encourage walking to the market\, if 
+ possible\, to limit the impact on the environment. You can plan your route
+  using TerpNav at <a href='http://www.map.umd.edu/' target='_blank'>www.ma
+ p.umd.edu</a>. Enter “Cole Student Activities Building” as the destination
+  location. There is parking and public transit options also available. See
+  below.</p>\n<p><strong>Is parking available?</strong>  Yes\, pay-by-space
+  parking is available nearby in the Union Lane Garage. <a href='http://www
+ .transportation.umd.edu/parking/maps/map_visitor.pdf' target='_blank'>Down
+ load a map</a> for location\, hours and rates.</p>\n<p><strong>What are my
+  public transportation options to get to the market?</strong> Both Metro b
+ uses and Shuttle-UM share a covered stop in front of Cole Student Activiti
+ es Building. <a href='http://www.wmata.com/bus/' target='_blank'>Metro bus
+ es</a> with a drop-off near Cole – C2\, C8\, J4\, and F6. <a href='http://
+ www.wmata.com/rail/' target='_blank'>Metrorail stations</a> served by <a h
+ ref='http://www.transportation.umd.edu/shuttle.html' target='_blank'>Shutt
+ le-UM</a> – College Park Metro station\, West Hyattsville\, Prince George’
+ s County Plaza\, and Silver Spring.</p>
+DTSTART;TZID=America/New_York:20150923T110000
+DTEND;TZID=America/New_York:20150923T150000
+GEO:+38.986918;-76.942554
+LOCATION:Cole Student Activities Building @ University of Maryland\, Colleg
+ e Park\, MD 20742\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151118T235959Z;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Farmers Market at Maryland
+URL:http://www.pgcountyfarmfun.com/event/farmers-market-at-maryland/
+X-TAGS;LANGUAGE=en-US:farmers markets\,local food
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-389@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Larry Tumlin\; 240.305.6485\; http://www.farmersmarket.umd.edu
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150923T110000
+DTEND;TZID=America/New_York:20150923T150000
+GEO:+38.986918;-76.942554
+LOCATION:UMD Cole Student Activities Building @ University of Maryland\, Co
+ llege Park\, MD 20742\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151118T235959Z
+SEQUENCE:0
+SUMMARY:The Farmers Market at Maryland
+URL:http://www.pgcountyfarmfun.com/event/the-farmers-market-at-maryland/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-384@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Charmaine Smalley\; 301.877.4399
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150923T120000
+DTEND;TZID=America/New_York:20150923T160000
+GEO:+38.748567;-76.875742
+LOCATION:7503 Surratts Road\, Clinton\, MD 20735\, USA
+RDATE;TZID=America/New_York:20150603T120000
+RDATE;TZID=America/New_York:20150617T120000
+RDATE;TZID=America/New_York:20150701T120000
+RDATE;TZID=America/New_York:20150715T120000
+RDATE;TZID=America/New_York:20150729T120000
+RDATE;TZID=America/New_York:20150812T120000
+RDATE;TZID=America/New_York:20150826T120000
+RDATE;TZID=America/New_York:20150909T120000
+RDATE;TZID=America/New_York:20150923T120000
+SEQUENCE:0
+SUMMARY:MedStar Southern MD Hospital Center Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/medstar-southern-md-hospital-cente
+ r-farmers-market/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-382@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Maureen Rogers\; 301.483.0838\; http://www.facebook.com/groups/Laur
+ elMarket
+DESCRIPTION:<p>For more information about additional farmers markets in the
+  County\, <a href='http://www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat
+ =3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150924T090000
+DTEND;TZID=America/New_York:20150924T140000
+GEO:+39.105208;-76.847279
+LOCATION:378 Main Street\, Laurel\, MD 20707\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151029T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Laurel Farmers Market & Bazaar
+URL:http://www.pgcountyfarmfun.com/event/laurel-farmers-market-bazaar/
+X-TAGS;LANGUAGE=en-US:farmers markets
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-392@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Carletha McGriff\; 301.504.1776
+DESCRIPTION:<p>Parking Lot B.</p>\n<p>For more information about additional
+  farmers markets in the County\, <a href='http://www.pgcountyfarmfun.com/?
+ page_id=13&cn-s=&cn-cat=3' target='_blank'>click here</a>.</p>
+DTSTART;TZID=America/New_York:20150924T093000
+DTEND;TZID=America/New_York:20150924T140000
+GEO:+39.019947;-76.90981
+LOCATION:George Washington Carver Center @ 5601 Sunnyside Avenue\, Beltsvil
+ le\, MD 20705\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151029T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:USDA Farmers Market (Beltsville)
+URL:http://www.pgcountyfarmfun.com/event/usda-farmers-market-beltsville/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-349@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:open house
+CONTACT:Doug & Lori Hill\; 301-430-0170\; info@cabincreekheritagefarm.com  
+  \; http://www.cabincreekheritagefarm.com/
+DESCRIPTION:<h2>Farm Store Open House</h2>\n<p>The <strong>farm store</stro
+ ng> is open Thursdays 10-4\,  Fridays 10-4\, Saturdays 10-2\, and by appoi
+ ntment.</p>\n<p>Stock up on woodland raised Berkshire pork\, charcuterie\,
+   pasture-raised soy/corn-free eggs\, grass fed and finished lamb\,  pastu
+ red chicken\, rabbit (new this season!)\, goat milk soap\, turkey\, home-s
+ pun yarn\, and hand-knit items.</p>\n<p>Visit with the animals and learn m
+ ore about Cabin Creek Heritage Farm’s livestock raising practices and tast
+ e delicious charcuterie!</p>\n<p>Cabin Creek offers CSA shares in 4-month 
+ increments year-round and are partnering with other local farms to bring t
+ heir CSA customers organic produce.</p>\n<p>Visit their <a href='http://r2
+ 0.rs6.net/tn.jsp?e=001R3YUPfkJOD4-gfX1laTIzfaMzlOYcODIW_yetNPr2fulNxJXYgBa
+ nUjCX34XLXdMOFF50jrxUssyhiq6I-b4W4UcA1VuQooGW5F5t5j3Ml0Vt8bnmAyGWH_nGDRjlV
+ W_'>website</a> and Facebook <a href='http://r20.rs6.net/tn.jsp?e=001R3YUP
+ fkJOD4-gfX1laTIzfaMzlOYcODIW_yetNPr2fulNxJXYgBanUjCX34XLXdMX3dS7p1fnhTq0LM
+ 1fJNlS0Pfq_fZShZVUIJkFHwIC0FPNnZDfxc2aCasYlJ7oTeiKTSUS0TjrsQ='>page</a> fo
+ r details.</p>
+DTSTART;TZID=America/New_York:20150924T100000
+DTEND;TZID=America/New_York:20150924T160000
+GEO:+38.873327;-76.686845
+LOCATION:Cabin Creek Heritage Farm @ 18235 Clagett Landing Road\, Upper Mar
+ lboro\, MD 20774\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH,FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Cabin Creek Farm Store Open House
+URL:http://www.pgcountyfarmfun.com/event/farm-store-open-house/
+X-TAGS;LANGUAGE=en-US:charcuterie\,CSA\,Farm
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-386@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:farmers market
+CONTACT:Jim Coleman\; 301.586.5973\; http://www.rpfm.org
+DESCRIPTION:<p>Winter market indoors (January – March).</p>\n<p>For more in
+ formation about additional farmers markets in the County\, <a href='http:/
+ /www.pgcountyfarmfun.com/?page_id=13&cn-s=&cn-cat=3' target='_blank'>click
+  here</a>.</p>
+DTSTART;TZID=America/New_York:20150924T150000
+DTEND;TZID=America/New_York:20150924T190000
+GEO:+38.962651;-76.935547
+LOCATION:MARC Station Parking Lot @ Queensbury Road & Rhode Island Avenue\,
+  Riverdale\, MD 20737\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160331T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Riverdale Park Farmers Market
+URL:http://www.pgcountyfarmfun.com/event/riverdale-park-farmers-market/
+X-TAGS;LANGUAGE=en-US:farmers market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-276@www.pgcountyfarmfun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:local farms
+CONTACT:
+DESCRIPTION:<p><em><strong>Stitch ‘n Time</strong></em> is a volunteer-base
+ d textiles club where members enjoy learning about the <a href='http://www
+ .pgcountyfarmfun.com/wp-content/uploads/2014/10/Tricia-Drop-Spindel-textil
+ e-volunteer-300x199.jpg'><img class='alignright size-full wp-image-277' sr
+ c='http://www.pgcountyfarmfun.com/wp-content/uploads/2014/10/Tricia-Drop-S
+ pindel-textile-volunteer-300x199.jpg' alt='textiles' width='300' height='1
+ 99' /></a>cultivation of fleece\, dyeing of wool\, and the art of colonial
+ -era textile making. Club members join Foundation staff and other textile 
+ artists to use wool from the farm’s heritage breed sheep to card\, spin\, 
+ and knit. The club meets monthly on the 2nd Saturday\, and is open to novi
+ ce and expert spinners and knitters\, as well as those handy with a sewing
+  needle or sewing machine to make costumes for interpreters.</p>\n<p>To le
+ arn more about how to become a <strong>Stitch ‘n Time Club</strong> volunt
+ eer please email <a href='mailto:volunteers@accokeek.org' target='_blank'>
+ volunteers@accokeek.org</a> or call 301-283-2113.</p>
+DTSTART;TZID=America/New_York:20151010T130000
+DTEND;TZID=America/New_York:20151010T160000
+GEO:+38.690893;-77.070737
+LOCATION:Accokeek Foundation at Piscataway Park @ 3400 Bryan Point Road\, P
+ iscataway Park\, Accokeek\, MD 20607\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:Stitch N’ Time
+URL:http://www.pgcountyfarmfun.com/event/276/
+X-TAGS;LANGUAGE=en-US:textiles\,workshop
+X-TICKETS-URL:http://accokeekfoundation.org/event/stitch-n-time/all/
+END:VEVENT
+END:VCALENDAR

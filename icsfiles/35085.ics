@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//103.9.170.115//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.whitsunday.qld.edu.au/wp-test
+X-WR-TIMEZONE:Australia/Brisbane
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+X-LIC-LOCATION:Australia/Brisbane
+BEGIN:STANDARD
+DTSTART:19920301T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:74a27ab5fe5bb79af2dc28e9347ea67c
+DTSTAMP:20150920T002615Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Public Holiday</p>
+DTSTART;TZID=Australia/Brisbane:20151005T010000
+DTEND;TZID=Australia/Brisbane:20151005T235900
+SEQUENCE:0
+SUMMARY:Labour Day
+URL:http://www.whitsunday.qld.edu.au/wp-test/event/labour-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:df19136b523ace37695b6cc436f85cdb
+DTSTAMP:20150920T002615Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Australia/Brisbane:20151017T140000
+DTEND;TZID=Australia/Brisbane:20151017T190000
+SEQUENCE:0
+SUMMARY:Open Day Fair
+URL:http://www.whitsunday.qld.edu.au/wp-test/event/open-day-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7408f6c7f79bdb21bfbf1d37228bed9
+DTSTAMP:20150920T002615Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Student Free Day</p>
+DTSTART;TZID=Australia/Brisbane:20151019T010000
+DTEND;TZID=Australia/Brisbane:20151019T235900
+SEQUENCE:0
+SUMMARY:Staff Development Day
+URL:http://www.whitsunday.qld.edu.au/wp-test/event/staff-development-day-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:a2bf96d7ce7cc9ef8a63730f2dc8379f
+DTSTAMP:20150920T002615Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Awards Ceremony</p>
+DTSTART;TZID=Australia/Brisbane:20151118T123000
+DTEND;TZID=Australia/Brisbane:20151118T143000
+LOCATION:College Hall
+SEQUENCE:0
+SUMMARY:Primary Awards Ceremony
+URL:http://www.whitsunday.qld.edu.au/wp-test/event/primary-awards-ceremony/
+END:VEVENT
+BEGIN:VEVENT
+UID:73bffd87b589a5788e49099b0eb3cc9b
+DTSTAMP:20150920T002615Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Awards Ceremony</p>
+DTSTART;TZID=Australia/Brisbane:20151118T183000
+DTEND;TZID=Australia/Brisbane:20151118T210000
+LOCATION:College Hall
+SEQUENCE:0
+SUMMARY:Secondary Awards Ceremony
+URL:http://www.whitsunday.qld.edu.au/wp-test/event/secondary-awards-ceremon
+ y/
+END:VEVENT
+END:VCALENDAR

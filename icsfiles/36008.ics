@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//84.18.197.194//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.pewseyvaleridingcentre.com/pvrc
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-385@www.pewseyvaleridingcentre.com/pvrc
+DTSTAMP:20150920T002130Z
+CATEGORIES;LANGUAGE=en-GB:Outdoor
+CONTACT:PVRC\; 01672 851 400\; info@pewseyvaleridingcentre.com\; http://ted
+ worthhunt.co.uk/save-the-date-fun-ride-at-mount-orleans-collingbourne-duci
+ s-21-september-2014/
+DESCRIPTION:<p>Mount Orleans Fun Ride</p>\n<p>We can supply a horse transpo
+ rted to the event for you to take part in this great event.</p>\n<p>Riders
+  are responsible for their own entry registration.</p>\n<p>For more detail
+ s from the organisers and entry instruction follow the link below.</p>\n<p
+ >http://tedworthhunt.co.uk/save-the-date-fun-ride-at-mount-orleans-colling
+ bourne-ducis-21-september-2014/</p>\n<p>Please ensure you book your horse 
+ with us in advance to avoid disappointment.</p>\n<p>£50 Deposit is require
+ d to secure a place</p>
+DTSTART;TZID=Europe/London:20150920T100000
+DTEND;TZID=Europe/London:20150920T130000
+GEO:+51.279717;-1.638697
+LOCATION:Mount Orleans @ Collingbourne Ducis\, Marlborough\, Wiltshire SN8 
+ 3EF\, UK
+SEQUENCE:0
+SUMMARY:Mount Orleans Fun Ride
+URL:http://www.pewseyvaleridingcentre.com/pvrc/event/mount-orleans-fun-ride
+ /
+X-COST:£130
+END:VEVENT
+END:VCALENDAR

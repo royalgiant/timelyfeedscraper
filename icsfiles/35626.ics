@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//131.111.172.179//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.asnc.cam.ac.uk/news
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1911@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>All alumni are invited to this year’s reunion on Saturday\, 
+ 26 September 2015 in the ASNC Common Room. Drinks will be served from 5-7p
+ m and there will be a chance to catch-up and reminisce with staff and stud
+ ents. At 6pm there will be a brief presentation on current research in the
+  Department on manuscripts\, in particular work on the Black Book of Carma
+ rthen and its margins that went viral in the news earlier this year. We wi
+ ll also launch the recently-published volume edited by Professor Michael L
+ apidge on the work of H.M. Chadwick and the early history of the Departmen
+ t. If you would like to attend\, please email asnc@hermes.cam.ac.uk</p>
+DTSTART;TZID=Europe/London:20150926T170000
+DTEND;TZID=Europe/London:20150926T190000
+SEQUENCE:0
+SUMMARY:26 September 2015 – The 2015 ASNC Alumni Reunion Event
+URL:http://www.asnc.cam.ac.uk/news/event/the-2015-asnc-alumni-reunion-event
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1920@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Mike King (County Down Museum)\, ‘Redemption and Recognition
+  in Stone Carvings: Moving and Interpreting the 1100-year-old Downpatrick 
+ High Cross’</p>
+DTSTART;TZID=Europe/London:20151026T170000
+DTEND;TZID=Europe/London:20151026T180000
+LOCATION:GR06/07 Faculty of English Building
+SEQUENCE:0
+SUMMARY:26 October 2015 – Graduate Seminar
+URL:http://www.asnc.cam.ac.uk/news/event/26-october-2015-redemption-and-rec
+ ognition-in-stone-carvings/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1922@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Dr Mark Atherton (Oxford)\, ‘When Edgar “got tough”: Literat
+ ure and Politics in Tenth Century England\, from Lantfred to Wulfstan’</p>
+DTSTART;TZID=Europe/London:20151109T170000
+DTEND;TZID=Europe/London:20151109T180000
+LOCATION:GR06/07\, Faculty of English Building
+SEQUENCE:0
+SUMMARY:9 November 2015 – Graduate Seminar
+URL:http://www.asnc.cam.ac.uk/news/event/9-november-2015-graduate-seminar/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1923@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Professor Greg Toner (Queen’s University Belfast)\, ‘Desire 
+ and Divorce in the Wasting Sickness of Cu Chulainn (Serglige Con Culainn)’
+ </p>
+DTSTART;TZID=Europe/London:20151116T170000
+DTEND;TZID=Europe/London:20151116T180000
+LOCATION:GR06/07\, Faculty of English Building
+SEQUENCE:0
+SUMMARY:16 November 2015 – Graduate Seminar
+URL:http://www.asnc.cam.ac.uk/news/event/16-november-2015-graduate-seminar/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1924@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Caitlan Ellis ‘Go West: Contextualising the Naval Expedition
+ s of Scandinavian Royals in the Insular World\, 1103-1103’\,</p>\n<p>Willi
+ am Norman\, (Title to be confirmed)</p>\n<p>Rebecca Shercliff\, (Title to 
+ be confirmed)</p>
+DTSTART;TZID=Europe/London:20151123T170000
+DTEND;TZID=Europe/London:20151123T180000
+LOCATION:GR06/07\, Faculty of English Building
+SEQUENCE:0
+SUMMARY:23 November – Graduate Presentations
+URL:http://www.asnc.cam.ac.uk/news/event/23-november-graduate-presentation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1912@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The lecture is to be delivered by Professor Lars Borje Morte
+ nsen\, University of Southern Denmark\, on Thursday\, 3rd December 2015 at
+  5pm in GR06/07\, English Faculty Building\, 9 West Road. Followed by a re
+ ception in the Social Space\, English Faculty Building. All welcome!</p>
+DTSTART;TZID=Europe/London:20151203T170000
+LOCATION:GR06/07 @ English Faculty Building\, 9 West Road\, Cambridge
+SEQUENCE:0
+SUMMARY:3 December 2015 – The Eighteenth Annual E.C. Quiggan Memorial Lectu
+ re
+URL:http://www.asnc.cam.ac.uk/news/event/the-eighteenth-annual-e-c-quiggan-
+ memorial-lecture/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1925@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ben Allport – title to be confirmed</p>\n<p>Jonathan Hui – t
+ itle to be confirmed</p>\n<p>Harriett Soper – title to be confirmed</p>
+DTSTART;TZID=Europe/London:20160125T170000
+DTEND;TZID=Europe/London:20160125T180000
+LOCATION:GR06/07\, Faculty of English Building
+SEQUENCE:0
+SUMMARY:25 January 2016 – Graduate Presentations
+URL:http://www.asnc.cam.ac.uk/news/event/25-january-2016-graduate-presentat
+ ions/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1926@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Dr Caroline Brett\, Dr Fiona Edmonds and Professor Paul Russ
+ ell ‘Contact\, Myth and History: Brittany and the Atlantic Archipelago\, 4
+ 50-1200’</p>
+DTSTART;TZID=Europe/London:20160208T170000
+DTEND;TZID=Europe/London:20160208T180000
+LOCATION:GR06/07\, Faculty of English Building
+SEQUENCE:0
+SUMMARY:8 February 2016 – Graduate Seminar
+URL:http://www.asnc.cam.ac.uk/news/event/8-february-2016-graduate-seminars/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1927@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Matthew Driscoll (Copenhagen) – title to be confirmed</p>
+DTSTART;TZID=Europe/London:20160222T170000
+DTEND;TZID=Europe/London:20160222T180000
+LOCATION:GR06/07\, Faculty of English Building
+SEQUENCE:0
+SUMMARY:22 February 2016 – Graduate Seminar
+URL:http://www.asnc.cam.ac.uk/news/event/22-february-2016-graduate-seminar/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1928@www.asnc.cam.ac.uk/news
+DTSTAMP:20150920T002310Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20160310T170000
+DTEND;TZID=Europe/London:20160310T180000
+LOCATION:GR06/07\, Faculty of English Building
+SEQUENCE:0
+SUMMARY:10 March 2016 – Chadwick Lecture
+URL:http://www.asnc.cam.ac.uk/news/event/10-march-2016-chadwick-lecture/
+END:VEVENT
+END:VCALENDAR

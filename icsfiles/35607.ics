@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.147.244.85//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://bethlehemrva.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-941@bethlehemrva.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150920T134500
+DTEND;TZID=America/New_York:20150920T144500
+LOCATION:Bethlehem Lutheran Church @ 1100 West Grace Street\, Richmond\, VA
+  23220\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday School
+URL:http://bethlehemrva.com/event/sunday-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1427@bethlehemrva.com
+DTSTAMP:20150920T002320Z
+CATEGORIES;LANGUAGE=en-US:Worship Calendar
+CONTACT:Our Office\; (804) 355-4413
+DESCRIPTION:<p>We worship together every Sunday 10am</p>\n<p>Holy Communion
+  celebrated on the first and third Sunday of the month.</p>\n<p>We use fol
+ low the Order of Matins on the second Sunday and the Morning Worship on th
+ e fourth Sunday.</p>
+DTSTART;TZID=America/New_York:20150920T150000
+DTEND;TZID=America/New_York:20150920T161500
+LOCATION:Bethlehem Lutheran Church @ 1100 West Grace Street\, Richmond\, VA
+  23220\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Holy Communion Worship Service
+URL:http://bethlehemrva.com/event/holy-communion-worship-service-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-946@bethlehemrva.com
+DTSTAMP:20150920T002320Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150925T200000
+DTEND;TZID=America/New_York:20150925T210000
+LOCATION:Dominion Place
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Bible Study at Dominion Place
+URL:http://bethlehemrva.com/event/bible-study-at-dominion-place/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1429@bethlehemrva.com
+DTSTAMP:20150920T002320Z
+CATEGORIES;LANGUAGE=en-US:Worship Calendar
+CONTACT:Our Office\; (804) 355-4413
+DESCRIPTION:<p>We worship together every Sunday 10am</p>\n<p>Holy Communion
+  celebrated on the first and third Sunday of the month.</p>\n<p>We use fol
+ low the Order of Matins on the second Sunday and the Morning Worship on th
+ e fourth Sunday.</p>
+DTSTART;TZID=America/New_York:20150927T150000
+DTEND;TZID=America/New_York:20150927T160000
+LOCATION:Bethlehem Lutheran Church @ 1100 West Grace Street\, Richmond\, VA
+  23220\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4SU
+SEQUENCE:0
+SUMMARY:Morning Worship Service
+URL:http://bethlehemrva.com/event/morning-worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1426@bethlehemrva.com
+DTSTAMP:20150920T002320Z
+CATEGORIES;LANGUAGE=en-US:Worship Calendar
+CONTACT:Our Office\; (804) 355-4413
+DESCRIPTION:<p>We worship together every Sunday 10am</p>\n<p>Holy Communion
+  celebrated on the first and third Sunday of the month.</p>\n<p>We use fol
+ low the Order of Matins on the second Sunday and the Morning Worship on th
+ e fourth Sunday.</p>
+DTSTART;TZID=America/New_York:20151004T100000
+DTEND;TZID=America/New_York:20151004T111500
+GEO:+37.552189;-77.454604
+LOCATION:Bethlehem Lutheran Church @ 1100 West Grace Street\, Richmond\, VA
+  23220\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1SU
+SEQUENCE:0
+SUMMARY:Holy Communion Worship Service
+URL:http://bethlehemrva.com/event/holy-communion-worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1428@bethlehemrva.com
+DTSTAMP:20150920T002320Z
+CATEGORIES;LANGUAGE=en-US:Worship Calendar
+CONTACT:Our Office\; (804) 355-4413
+DESCRIPTION:<p>We worship together every Sunday at 10am</p>\n<p>Holy Commun
+ ion is celebrated on the first and third Sunday of the month.</p>\n<p>We f
+ ollow the Order of Matins on the second Sunday and the Morning Worship on 
+ the fourth Sunday.</p>
+DTSTART;TZID=America/New_York:20151011T100000
+DTEND;TZID=America/New_York:20151011T230000
+GEO:+37.552189;-77.454604
+LOCATION:Bethlehem Lutheran Church @ 1100 West Grace Street\, Richmond\, VA
+  23220\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:Matins Worship Service
+URL:http://bethlehemrva.com/event/matins-worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1430@bethlehemrva.com
+DTSTAMP:20150920T002320Z
+CATEGORIES;LANGUAGE=en-US:Worship Calendar
+CONTACT:Our Office\; (804) 355-4413
+DESCRIPTION:<p>We worship together every Sunday 10am</p>\n<p>Holy Communion
+  celebrated on the first and third Sunday of the month.</p>\n<p>We use fol
+ low the Order of Matins on the second Sunday and the Morning Worship on th
+ e fourth Sunday.</p>
+DTSTART;TZID=America/New_York:20151129T100000
+DTEND;TZID=America/New_York:20151129T111500
+GEO:+37.552189;-77.454604
+LOCATION:Bethlehem Lutheran Church @ 1100 West Grace Street\, Richmond\, VA
+  23220\, USA
+RRULE:FREQ=MONTHLY;BYDAY=5SU
+SEQUENCE:0
+SUMMARY:Holy Communion Worship Service
+URL:http://bethlehemrva.com/event/holy-communion-worship-service-3/
+END:VEVENT
+END:VCALENDAR

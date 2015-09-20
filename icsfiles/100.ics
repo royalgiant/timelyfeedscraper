@@ -1,0 +1,1757 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//81.169.145.159//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://spurensuchesh.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-345@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>In der Zeit von 00.40 – 05.00 
+ Uhr überquerten 51 feindliche Flugzeuge der Royal Air Force die Front Laal
+ and – Poel. Von diesen 51 Maschinen gehen 30 nördlich Kiel\, 13 südlich Ki
+ el und 8 über das Stadtgebiet Kiel nach Westen. 3 weitere Flugzeuge kehren
+  aus dem Raum Hamburg – Lübeck nach Westen zurück\, von diesen überfliegt 
+ ein Flugzeug Kiel\, während zwei über Neumünster – Heide nach Westen abfli
+ egen. Als Abschüsse werden hier zwei Maschinen gemeldet\, wovon eines um 0
+ 1.09 Uhr „bei Felm“ abgestürzt ist.</p>\n<p style='text-align: justify\;'>
+ <a title='Felm' href='http://spurensuchesh.de/felm/'><em>weiter</em></a></
+ p>
+DTSTART;TZID=Europe/Berlin:20150930T010900
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Felm
+URL:http://spurensuchesh.de/event/absturz-der-wellington-w5378-bei-felm/
+X-TAGS;LANGUAGE=de-DE:Felm\,Wellington
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-534@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Am 09.10.1943 vollzog ein in E
+ ngland stationierter Bomber eine Notlandung auf den Salzwiesen. Der Landep
+ latz befindet sich in der Nähe vom Schönberger Strand\, unweit vom Ferienz
+ entrum Holm entfernt. Schwer durch den Beschuss deutscher Jagdflugzeuge (F
+ W-190) getroffen\, gelang es den Piloten der „Fightin Pappy“ die Maschine 
+ nahezu unversehrt notzulanden.</p>\n<p style='text-align: justify\;'><a ti
+ tle='Holm' href='http://spurensuchesh.de/holm/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20151009T120000
+RRULE:FREQ=YEARLY;BYMONTH=10
+SEQUENCE:0
+SUMMARY:Notlandung bei Holm/Schönberg
+URL:http://spurensuchesh.de/event/notlandung-der-b-17-42-5407-bei-holm/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-331@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Am Dienstag den 13.10.1942 flog der englische Bomber mit sei
+ ner sechs Mann starken Besatzung aus Richtung Rendsburg kommend auf Kiel z
+ u. Kurz vor 22.00 Uhr brach vermutlich durch Treffer von Jäger und Flak de
+ r Funk- und Sichtkontakt zu den anderen Maschinen der angreifenden Bomberf
+ ormation ab\, das Flugzeug wurde vermisst.</p>\n<p><a title='Felde' href='
+ http://spurensuchesh.de/felde/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20151013T220000
+RRULE:FREQ=YEARLY;BYMONTH=10
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz am Westensee
+URL:http://spurensuchesh.de/event/absturz-der-short-stirling-bk599-am-weste
+ nsee/
+X-TAGS;LANGUAGE=de-DE:Felm\,Stirling\,Westensee
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-695@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Am 23.10.1941 ereignete sich i
+ n der Scheinwerferstellung „Jasdorf“ ein schweres Unglück. Ein von der Fla
+ k beschossener Bomber vom Typ „Handley Page Hampden“\, flog von Schilksee 
+ über die Kieler Förde und drehte kurz nach vier Uhr Morgens\, bei Stein in
+  Richtung Schlesen auf Süd-Ost-Kurs und griff dann aus etwa 50m Höhe die S
+ cheinwerferstellung „Jasdorf“ mit heftigen MG-Feuer an. Hierbei wurde ein 
+ deutscher Soldat am Fuß verwundet. Die MG-Bedienung der Stellung feuerte b
+ ereits aus einer Distanz von etwa 300m auf den herannahenden Bomber.</p>\n
+ <p style='text-align: justify\;'><a title='Jasdorf' href='http://spurensuc
+ hesh.de/jasdorf-2/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20151023T055100
+RRULE:FREQ=YEARLY;BYMONTH=10
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Jasdorf
+URL:http://spurensuchesh.de/event/absturz-der-page-hampden-ae256-bei-jasdor
+ f/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-772@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Am späten Abend erfolgte der E
+ influg von 34 feindlichen Flugzeugen. Zwischen 20.00 Uhr und 21.30 Uhr err
+ eichten 18 Maschinen die Westküste Schleswig-Holsteins\, 10 Maschinen kame
+ n zwischen 20.15 Uhr und 22.20 Uhr über den dänischen Luftraum\, 6 weitere
+  zwischen 21.50 Uhr und 23.10 Uhr aus dem Raum Hamburg und führten einen A
+ ngriff auf Kiel durch.</p>\n<p style='text-align: justify\;'><a title='Kle
+ in Königsförde' href='http://spurensuchesh.de/klein-koenigsfoerde/'><em>we
+ iter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20151130T212500
+RRULE:FREQ=YEARLY;BYMONTH=11
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Klein Königsförde
+URL:http://spurensuchesh.de/event/absturz-der-whitley-z6800-bei-klein-koeni
+ gsfoerde/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1080@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>In der Nacht zum 01.12.1941 führten 34 Flugzeuge der Royal A
+ ir Force einen Angriff auf Kiel durch\, von denen 20 Maschinen in die Flak
+ zone und 6 Maschinen in die Bombenabwurfzone eindringen konnten. Bei diese
+ m Angriff wurden\, neben Spreng- und Brandbomben\, auch Flugblätter am Kie
+ ler Standrand und den benachbarten Landkreisen abgeworfen. In den Stadttei
+ len Kiel-Ellerbek und Kiel-Elmschenhagen verursachen die Bomben nur Gebäud
+ eschäden.</p>\n<p><a title='Tüttendorf' href='http://spurensuchesh.de/tuet
+ tendorf/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20151130T213100
+RRULE:FREQ=YEARLY;BYMONTH=11
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Tüttendorf
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-tuettendorf/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-909@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Es ist später Abend\, ein klei
+ nes vierjähriges Mädchen steht mit ihrer Mutter am Küchenfenster. Sie blic
+ kt hinaus in die helle Vollmondnacht und sieht plötzlich ein brennendes Fl
+ ugzeug in extrem geringer Höhe\, direkt auf das Bauernhaus zufliegen. Die 
+ große Maschine fliegt so tief\, dass das Mädchen drei Mann der Besatzung i
+ m brennenden Cockpit und selbst die kreisrunde Kokarde am Rumpf erkennen k
+ ann. Wie angewurzelt steht das kleine Mädchen am Fenster und ahnt die droh
+ ende Gefahr – das Flugzeug wird genau in das Haus stürzen.</p>\n<p style='
+ text-align: justify\;'><a title='Rastorfer Passau' href='http://spurensuch
+ esh.de/rastorfer-passau/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20151130T222300
+RRULE:FREQ=YEARLY;BYMONTH=11
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Rastorfer Passau
+URL:http://spurensuchesh.de/event/rastorfer-passau/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1202@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Montag\, 13. 12 1943<br />\n(Frau Gesche Ric
+ hter – Zeitzeugin)</p>\n<blockquote>\n<p style='text-align: justify\;'><em
+ >„Mein Elternhaus in einem Kieler Vorort ist bei vorhergehenden Angriffen 
+ mal mehr\, mal weniger beschädigt worden. Die Schulen sind zum Teil zerstö
+ rt\, zum Teil werden sie als Lazarett gebraucht. Ich muss eine Schule im Z
+ entrum besuchen\, wo mehrere Klassen verschiedener Schulen zusammengefasst
+  sind. Am 13. Dezember fuhr morgens noch teilweise eine Straßenbahn. Im Le
+ hrerzimmer wurde der Drahtfunk abgehört. Mitten in den Unterricht platzt d
+ er Voralarm. Wir gehen klassenweise in einen etwa 300 Meter entfernten gro
+ ßen Hochbunker direkt hinter dem Rathaus. Es fallen viele Bomben\, der Bun
+ ker scheint zu tanzen\, die Einschläge dröhnen dumpf. Alle\, Erwachsene un
+ d Kinder\, hocken ängstlich auf den Bänken. Dann gibt es Entwarnung. Als w
+ ir aus dem Bunker kommen\, brennt es überall. Wir laufen zunächst in unser
+ er Schule\, aber auch da brennt es. Wir werden aufgefordert\, ein Taschent
+ uch vor Mund und Nase zu halten und sollen versuchen\, aus dem Nebengebäud
+ e der Schule\, das noch nicht brennt\, wo aber Türen und Fenster herausger
+ issen und drinnen auch Mauern teilweise eingestürzt sind\, unsere Schultas
+ chen aus den Trümmern zu holen. Ich finde meine auch\, aber dann blieben w
+ ir uns selbst überlassen und mussten versuchen\, nach Hause zu kommen. Ein
+  Stück nahm mich der Vater einer Klassenkameradin mit\, aber dann musste i
+ ch allein\, an brennenden oder eingestürzten Häusern vorbei\, durch Qualm 
+ und über Trümmer meinen Weg suchen. Überall versuchten die Leute\, noch et
+ was aus ihren Häusern zu retten\, aber es lagen da auch Verletzte\, die ve
+ rbunden wurden\, und tote Menschen. Diesen Weg durch die brennende Altstad
+ t\, durch Qualm\, der in die Augen biss und das Atmen schwer machte\, über
+  Staub\, Schutt und Trümmer\, vorbei an Menschen\, die zu retten versuchte
+ n\, was noch zu retten war\, ist für mich ein schlimmes Erlebnis gewesen.<
+ /em>“ (Quelle: http://www.jf-archiv.de)</p></blockquote>
+DTSTART;TZID=Europe/Berlin:20151213T120000
+RRULE:FREQ=YEARLY;BYMONTH=12
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/1202/
+X-TAGS;LANGUAGE=de-DE:1943\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-784@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Am letzten Januartag des Jahres 1944 stürzte die Me-110 bei 
+ Glückstadt\, südlich von Krempe\, nach heftigen Luftkämpfen auf den hartge
+ frorenen Boden einer Wiese und explodierte. Ein damaliger Augenzeuge beric
+ htet\; „<em>Man konnte deutlich das Rattern der Bordkanonen hören. Plötzli
+ ch flog eine Maschine mit schwarzer Rauchfahne direkt auf uns zu ! Sie kam
+  ins trudeln und verlor noch in der Luft irgendwelche Teile</em>.“</p>\n<p
+ ><a title='Krempe' href='http://spurensuchesh.de/krempe/'><em>weiter</em><
+ /a></p>
+DTSTART;TZID=Europe/Berlin:20160103T120000
+RRULE:FREQ=YEARLY;BYMONTH=1
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Krempe
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-krempe/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1204@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Dienstag\, 04.01.1944</p>\n<p style='text-al
+ ign: justify\;'>(1) 371 B-17 und 115 B-24 mit dem Ziel des Kieler Hafenber
+ eiches. 7 B-17 und 34 B-24 trafen weitere Ziele. 11 B-17 und 6 B-24 verlor
+ en\, 113 B-17 und 19 B-24 beschädigt. 22 Tote Besatzungsmitglieder\, 53 wu
+ rden verwundet und 170 vermisst. 70 P-38- und 42 P-51 eskortierten die Bom
+ berstaffel. 1 P-38 und 1 P-51 abgeschossen\, 1 P-38 beschädigt. 1 Verwunde
+ ter und 2 vermisste Besatzungsmitglieder.</p>\n<blockquote>\n<p style='tex
+ t-align: justify\;'>(2) „<em>Es war vernebelt. Eine größere Anzahl feindli
+ cher Flugzeuge griff Kiel an. Diesmal fielen die Spreng- und Brandbomben h
+ auptsächlich auf den nördlichen Teil der Stadt. So sind z.B. in der Preuße
+ r-\, Lornsen-\, Adolf-\, Holtenauer-\, Waitz- und Gerhardstraße sowie in d
+ er Beseler Allee\, Breiter Weg und Langersegen\, mehrere Häuser zerstört b
+ zw. schwer beschädigt. Ebenfalls hat das Oberfinanzpräsidium 2 Volltreffer
+  bekommen\, wobei mehrere Menschen ums Leben gekommen sind. Auch das Bekle
+ idungsamt und das Gerichtsgebäude\, Langersegen\, sind ziemlich mitgenomme
+ n. Das Schloss\, der Westbahnhof und die Nordostseehalle wurden schwer bes
+ chädigt bzw. zerstört. Unsere Stadthauptkasse wurde durch einen Phosphorka
+ nister beschädigt. In der Schule Philosophengang sind ungefähr 45 Tote dur
+ ch Volltreffer zu beklagen“.</em></p>\n<p style='text-align: justify\;'><e
+ m>(3) „Am 4. zogen sie über uns\, mindestens 5-6 Wellen hinweg\, unheimlic
+ h war das. Über 2 Stunden dauerte der Angriff“.</em></p>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160104T110300
+RRULE:FREQ=YEARLY;BYMONTH=1
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-3/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-847@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Am 04. Januar 1944 erfolgt durch amerikanische Verbände ein 
+ Großangriff auf Kiel\, bei dem etwa 500 – 600 Flugzeuge zum Einsatz kommen
+ . Der Flakalarm wird durch „Einflug starker Feindverbände ab 10.40 Uhr in 
+ die Deutsche Bucht“ ausgelöst. Gegen 11.00 Uhr erreichen die Verbände die 
+ Westküste bei Trischen\, drehen zum Teil in den Raum Rendsburg – Neumünste
+ r und greifen Kiel ab 11.30 Uhr von Süden her an…</p>\n<p><a title='Oppend
+ orf' href='http://spurensuchesh.de/oppendorf/'><em>weiter…</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160104T114500
+RRULE:FREQ=YEARLY;BYMONTH=1
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Oppendorf
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-oppendorf/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1205@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Mittwoch\, 05.01.1944</p>\n<p style='text-al
+ ign: justify\;'>(1) 119 B-17 und 96 B-24 trafen die Schiffswerft und das I
+ ndustriegebiet von Kiel\, weitere 10 Maschinen bombardierten andere Ziele.
+  5 B-17 und 5 B-24 abgeschossen\, 64 B-17 und 16 B-24 beschädigt. 36 tote 
+ Besatzungsmitglieder\, 5 Verwundete und 100 Vermisste. Diese Mission wurde
+  eskortiert von 70 P-38 und 41 P-51. 7 P-38 abgeschossen\, 7 Besatzungsmit
+ glieder vermisst.</p>\n<blockquote><p>(3) „<em>Am 5. wieder um die Mittags
+ zeit\, zogen sie seitwärts an uns vorbei in sehr großer Höhe\, es brummte 
+ natürlich wieder gewaltig. Die in Kiel angerichteten Schäden waren noch gr
+ ößer als die am Vortage</em>„.</p></blockquote>
+DTSTART;TZID=Europe/Berlin:20160105T103900
+RRULE:FREQ=YEARLY;BYMONTH=1
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-4/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-739@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://spurensuchesh.de/wp-content/uploads/2014/12/Kiel-Lutherkirche-300x212.j
+ pg' width='300' height='212' /></div><p>Etwa 100 Bomber der Royal Air Forc
+ e drangen zum Durchflug nach Berlin in den Luftraum Schleswig-Holsteins ei
+ n. Über die Westküste und aus dem Raum Dänemark kommend\, erreichten die e
+ rsten Maschinen um 18.15 Uhr Schleswig-Holstein.  6 Flugzeuge gingen aus n
+ ordwestlicher Richtung um 19.15 Uhr zum Anflug auf die Stadt Kiel. Während
+  eines dieser Flugzeuge nach einigem Kurven über Kiel weiter nach Südosten
+  flog\, gingen die restlichen 5 Bomber in der Eckernförder Außenförde zum 
+ Abflug auf Westkurs.</p>\n<p><a title='Kiel-Lutherkirche' href='http://spu
+ rensuchesh.de/kiel-lutherkirche/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160117T221200
+RRULE:FREQ=YEARLY;BYMONTH=1
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz an der Lutherkirche in Kiel
+URL:http://spurensuchesh.de/event/absturz-der-lancaster-w4767-an-der-luther
+ kirche-in-kiel/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1125@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Am 21.01.1945 um 14.22 Uhr sta
+ rten der amerikanischen Piloten Lt. Jerry M. Roberts und sein Navigator Lt
+ . Ralph E. Fisher mit ihrer Mosquito (Seriennummer NS509) vom englischen F
+ lugplatz Watton in Richtung Deutschland. Ihr Auftrag ist es den Luftraum s
+ üdöstlich Dänemarks und nordöstlich Schleswig-Holsteins zu besetzen und di
+ e dortigen Wetterbedingungen zu beobachten. Plötzlich sind sie in ihrer Ma
+ schine von mehreren feuerrot leuchtender Leuchtspurgeschossen umgeben\, di
+ e um ihre Maschine schwirren. „Mustang!“ schreit Lt. Fisher\, während der 
+ Pilot die „Mossie“ (ein Synonym für eine Mosquito) schlagartig in eine tie
+ f angesetzte Linkskurve steuert\, um die Maschine aus dem Gefahrenbereich 
+ zu bringen.</p>\n<p style='text-align: justify\;'><em><a title='Emkendorf'
+  href='http://spurensuchesh.de/emkendorf/'>weiter</a></em></p>
+DTSTART;TZID=Europe/Berlin:20160121T160300
+RRULE:FREQ=YEARLY;BYMONTH=1
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Emkendorf
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-emkendorf/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2157@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><span style='text-decoration: underline\;'>19./20.02.1943 Ab
+ schuss einer Stirling bei Niebüll</span></p>\n<p>Während des Angriffes ein
+ es englischen Verbandes auf Wilhelmshaven (von 19.40 Uhr bis 21.00 Uhr) fl
+ iegt um 19.52 Uhr ein feindliches Störflugzeug bei Fanö ein\, erreicht die
+  Hafenstadt Flensburg um 20.18 Uhr und fliegt wieder nach Nordwesten ab.</
+ p>\n<p>Ein zweites Flugzeug\, eine Short Stirling I (BK627)\, die um 17.54
+  Uhr vom englischen Flugplatz Ridgewell gestartet ist und um 20.00 Uhr die
+  Nordseeinsel Sylt überfliegt\, wird um 20.55 Uhr im Raum Niebüll durch di
+ e vom Flugplatz Jagel gestarteten Nachtjäger vom Typ Messerschmitt Me-110 
+ abgeschossen. Die gesamte Besatzung (7 Mann) kommt bei dem Absturz ums Leb
+ en.</p>\n<p>Für Kiel würde in der Zeit von 20.15 Uhr bis 20.45 Uhr Flakala
+ rm ausgegeben.</p>\n<p>Vom Flugplatz Jagel starteten zwischen 20.17 Uhr un
+ d 20.55 Uhr vier Me-110</p>
+DTSTART;TZID=Europe/Berlin:20160219T205500
+RRULE:FREQ=YEARLY;BYMONTH=2
+SEQUENCE:0
+SUMMARY:Abschuss der Stirling BK627 bei Niebüll
+URL:http://spurensuchesh.de/event/abschuss-der-stirling-bk627-bei-niebuell/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2158@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><span style='text-decoration: underline\;'>22.02.1945 Abschu
+ ss von Tieffliegern</span></p>\n<p style='text-align: justify\;'>Am Morgen
+  zwischen 10.40 Uhr und 11.50 Uhr erfolgt der Einflug starker Bomberverbän
+ de mit Jagdschutz über die mittlere Zuider See (Niederlande). Ihr Weg führ
+ t in breiter Front über Osnabrück\, Hannover\, Magdeburg bis in den Raum w
+ estlich von Berlin. Die Verbände greifen auf ihrem gesamten Anflugweg zahl
+ reiche Einzelziele mit Bomben und Bordwaffen an. Der Großteil ihrer Rückfl
+ üge erfolgt auf Gegenkurs.</p>\n<p style='text-align: justify\;'>Einige kl
+ eine Jagdgruppen (Mosquitos) von bis zu 12 Maschinen und Einzelflugzeugen 
+ fliegen mit etwa 550 km/h auf dem Rückflug durch den schleswig-holsteinisc
+ hen Luftraum. Hier treffen sie mit einer nördlich der ostfriesischen Insel
+ n und Helgoland über Pellworm (12.52 Uhr) neu einfliegenden Jagdgruppe zus
+ ammen und werfen im Raum Itzehoe\, Weddingstedt\, Jevenstedt\, Schleswig\,
+  Husum und südlich Rendsburg einzelne Bomben. Im Raum Meldorf\, Bredstedt\
+ , Tellingstedt\, Schleswig\, Jübek und Husum greift die Jagdgruppe im Tief
+ flug einzelne Ziele mit Bordwaffen an. Zwischen 13.10 Uhr und 13.35 Uhr er
+ folgen die Rückflüge über die Westküste Schleswig-Holsteins.</p>\n<p>Die M
+ arineflak meldet den Abschuss von drei Mosquitos um 13.09 Uhr\, 13.19 Uhr 
+ und 13.14 Uhr.<br />\nFlakalarm für Kiel: 12.20 Uhr bis 13.31 Uhr<br />\nF
+ lakalarm für Lübeck: 11.06 Uhr bis 12.10 Uhr und 12.13 Uhr bis 13.45 Uhr<b
+ r />\nFliegeralarm für Lübeck: 12.21 Uhr bis 13.23 Uhr<br />\nÖffentliche 
+ Luftwarnung (ÖLW) für Kiel: 12.42 Uhr bis 13.31 Uhr<br />\nÖffentliche Luf
+ twarnung für Lübeck: 11.07 Uhr bis 12.21 Uhr und 13.23 Uhr bis 13.39 Uhr</
+ p>
+DTSTART;TZID=Europe/Berlin:20160222T130000
+RRULE:FREQ=YEARLY;BYMONTH=2
+SEQUENCE:0
+SUMMARY:Abschuss von Tieffliegern
+URL:http://spurensuchesh.de/event/abschuss-von-tieffliegern/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2159@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p>28.02.1945 Tieffliegerangriff</p>\n<p>Um 13.50 Uhr fliegt ei
+ ne Jagdgruppe von 10-12 Maschinen des Typs „P-51 Mustang“ mit einer Flugge
+ schwindigkeit von 500 km/h über Rotenburg in den östlichen Hamburger Raum.
+  Von dort kommend\, kurvt sie von 13.55 Uhr bis 14.40 Uhr im Luftraum zwis
+ chen Lübeck und Ratzeburg. Um 14.17 Uhr erfolgt ein Tieffliegerangriff auf
+  den Fliegerhorst Blanckensee. Die Jagdgruppe löst sich dann in mehrere Kl
+ einstgruppen auf\, die dann nach Westen und Südwesten abfliegen.</p>\n<p><
+ span style='text-decoration: underline\;'>Das Flugkommando in Lübeck melde
+ t folgende Opfer und Schäden durch die Tieffliegerangriffe:</span></p>\n<p
+ >– Angriff auf den Personenzug von Lübeck nach Dassow bei Herrenburg: 2 To
+ te\, 3 Verletzte<br />\n– Die Flugwache in Lüdersdorf erhält einige Durchs
+ chüsse: Geringer Schaden\, keine Verletzten.<br />\n– Beim Tieffliegerangr
+ iff auf den Fliegerhorst Blanckensee wird dort eine Maschine zerstört und 
+ zwei weitere beschädigt.<br />\n– Zwischen Dassow und Pötenitz wird der Ve
+ rsorgungszug vom Luftzeugamt See von 6 – 8 Tieffliegern beschossen:Die Lok
+ omotive wird dabei schwer      beschädigt\, 2 Leichtverletzte.<br />\n– Be
+ i Grevesmühlen wird ein LKW beschossen: Der Angriff fordert 3 Tote und meh
+ rere Verletzte.</p>
+DTSTART;TZID=Europe/Berlin:20160228T140000
+RRULE:FREQ=YEARLY;BYMONTH=2
+SEQUENCE:0
+SUMMARY:Tieffliegerangriffe durch P-51
+URL:http://spurensuchesh.de/event/tieffliegerangriffe-durch-p-51/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1213@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>onntag\, 11.03.1945</p>\n<p>(1) 1256 B-17 un
+ d 814 P-51 griffen die U-Boot-Werft und Schiffswerften in Kiel und Bremen 
+ sowie die Raffinerie in Hamburg an. 1 B-17 und 4 P-51 verloren. 344 B-24 g
+ riffen die Krupp-Germania-\, und U-Boot-Werft in Kiel an. 2 B-24 beschädig
+ t. 232 P-47 und P- 51 eskortierten den Angriff. 1 P-51 verloren.</p>\n<blo
+ ckquote>\n<p style='text-align: justify\;'>(2) „<em>Am Sonntagmittag nach 
+ längerer Pause wieder einmal ein Angriff. Mehrere Wellen feindlicher Flugz
+ euge warfen eine Anzahl Spreng- und besonders Brandbomben ab. Getroffen wu
+ rde hauptsächlich Kiel-Süd\, die Innenstadt und das Ostufer. Häuser wurden
+  zerstört oder beschädigt. Einige Bomben fielen auch wieder auf das Rathau
+ s. Die Vereinsbäckerei brannte\, und vor dem Perlebunker brannten mehrere 
+ Kinderwagen“.</em></p>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160311T122400
+RRULE:FREQ=YEARLY;BYMONTH=3
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-12/
+X-TAGS;LANGUAGE=de-DE:1945\,Bombenabwürfe\,Kiel\,Luftangriff\,Nachtangriffe
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1093@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Der Nachtangriff mit 68 Flugzeugen der Royal Air Force auf d
+ ie Kieler Ubootwerft hatte für 6 Flugzeugbesatzungen schwere Folgen. Von d
+ en Suchscheinwerfern angestrahlt wurden 3 Maschinen vermutlich von der Fla
+ k abgeschossen.</p>\n<p><a title='Waabs' href='http://spurensuchesh.de/waa
+ bs/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160312T000000
+RRULE:FREQ=YEARLY;BYMONTH=3
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Waabs
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-waabs/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2160@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>18./19.03.1945 Bombenangriff auf Kiel</p>\n<p style='text-al
+ ign: justify\;'>Von 21.20 Uhr bis 00.00 Uhr erfolgt der Einflug von 40 fei
+ ndlichen Flugzeugen auf der Front Esbjerg – Cuxhaven zum konzentrischen Bo
+ mbenangriff auf Kiel. Zahlreiche Spreng- und Brandbomben treffen das Werft
+ gelände\, das Stadtgebiet und die nähere Umgebung Kiels.  10 Maschinen gre
+ ifen Kiel von Westen\, 12 Maschinen von Nordwesten\, 15 Maschinen von Nord
+ en und 3 Maschinen von Südosten an. Hierbei gehen zahlreiche Flugzeuge meh
+ rmals in einen von der Kieler Außenförde bis zur Schleimünde und in einen 
+ vom Selenter See bis zum Plöner See reichenden Warteraum und stoßen daraus
+  erneut zum Angriff auf Kiel vor. Die Linie Flensburg – Schleswig – Rendsb
+ urg wird im Abflug von 22-25 Maschinen überflogen. Der Flakbereich Kiel – 
+ Rendsburg wird insgesamt von 33 Flugzeugen in einer Höhe zwischen 2500m un
+ d 3500m mit etwa 300 km/h überflogen.</p>
+DTSTART;TZID=Europe/Berlin:20160318T212000
+RRULE:FREQ=YEARLY;BYMONTH=3
+SEQUENCE:0
+SUMMARY:Bombenangriff auf Kiel
+URL:http://spurensuchesh.de/event/bombenangriff-auf-kiel/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-733@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Die Royal Air Force führte in 
+ den späten Abend- und Nachtstunden mit 61 Flugzeugen einen Angriffsversuch
+  auf die Stadt Kiel und die Hansestadt Lübeck durch\, bei dem nur 31 Flugz
+ euge die Flakzone Kiel-Rendsburg und von diesen nur 11 die Bombenabwurfzon
+ e von Kiel erreichen.<br />\nUm 22.50 Uhr erreichten die ersten 24 Bomber 
+ in 4000m Höhe und mit einer Fluggeschwindigkeit von durchschnittlich 360km
+ /h die schleswig-holsteinische Westküste\, 5 weitere Flugzeuge dringen aus
+  dem Raum Dänemark und 11 Flugzeuge aus dem Raum Langeland nach Schleswig-
+ Holstein ein. Die 12 vom Fliegerhorst Jagel zwischen 22.45 Uhr und 00.35 U
+ hr gestarteten Me-110 machten sich zum Abfangen der Feindmaschinen bereit<
+ /p>\n<p style='text-align: justify\;'><a title='Kiel-Gaarden' href='http:/
+ /spurensuchesh.de/kiel-gaarden/'><em>weiter</em></a>.</p>
+DTSTART;TZID=Europe/Berlin:20160328T002300
+RRULE:FREQ=YEARLY;BYMONTH=3
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz in Kiel-Gaarden
+URL:http://spurensuchesh.de/event/absturz-der-wellington-x3462-in-kiel-gaar
+ den/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2126@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><strong><span style='font-family: Arial\, sans-serif\;'>Die 
+ Ermordung von vier alliierten Piloten durch Angehörige der Kieler Gestapo<
+ /span></strong></p>\n<p> </p>\n<p><span style='font-family: Arial\, sans-s
+ erif\;'>Es ist früher Nachmittag des 29.03.1944. Auf der Bundesstraße 4 be
+ i Rotenhahn (8km südlich von Kiel) kommt ein PKW der Kieler Gestapo (Gehei
+ me Staatspolizei) mit drei Insassen zum stehen. Kurz darauf hält ein weite
+ res Fahrzeug\, in dem sich vier Personen befinden. Die sieben Männer steig
+ en aus den Fahrzeugen und begeben sich auf eine angrenzende Wiese\, unweit
+  der Bundesstraße. Wenige Minuten später fallen tödliche Schüsse. <a href=
+ 'http://spurensuchesh.de/mord-rotenhahn/'> weiter…</a></span></p>
+DTSTART;TZID=Europe/Berlin:20160329T140000
+GEO:+54.242129;+10.036105
+LOCATION:Mord in Rotenhahn @ Rotenhahn\, 24254 Rumohr\, Deutschland
+RRULE:FREQ=YEARLY;BYMONTH=3
+SEQUENCE:0
+SUMMARY:Mord in Rotenhahn
+URL:http://spurensuchesh.de/event/mord-rotenhahn/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1214@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Dienstag\, 03.04.1945</p>\n<p>(1) 752 B-17 u
+ nd 569 P-51 griffen die U-Boot-Werft in Kiel an. 2 Bomber und 4 Jäger verl
+ oren. 693 B-17  griffen die deutsche U-Boot-Werft\, 24 Bomber die Howaldt-
+ UBbootwerft an. 98 P-51 überflogen den Kieler Bereich\, 1 Maschine beschäd
+ igt.</p>\n<p style='text-align: justify\;'>(2) „Heute hatten wir bei schön
+ em Wetter einen schweren Angriff zu bestehen. Zuerst kamen einige feindlic
+ he Flugzeuge und umkreisten die Stadt\, dann folgten mehrere Wellen feindl
+ icher Bomber und warfen unablässig Luftminen\, Spreng -und Brandbomben. Vo
+ m Rathausturm aus wurden 42 Bombenteppiche gezählt. Nach der Entwarnung bo
+ t sich uns ein furchtbares Bild. Die Schäden aufzuzählen ist unmöglich. Be
+ sonders die Werften und der Stadtteil Neumühlen-Dietrichsdorf wurden schwe
+ r getroffen. Auf den Deutschen Werken wurden 70\, auf der Germaniawerft 50
+  Sprengbomben gezählt. Mehrere Kriegsschiffe und sonstige Fahrzeuge wurden
+  schwer getroffen\, u.a. erhielt der schwere Kreuzer „Admiral Hipper“ 2\, 
+ und die „Emden“ 1 Treffer. Gas\, Wasser und Licht gibt es nicht. Eine Spre
+ ngbombe verschüttete den Eingang des „Moltke-Stollens“. In dem Stollen war
+ en mehrere Öfen geheizt. Durch den Luftdruck und den verschütteten Eingang
+  fanden ca. 230 Menschen den Tod durch Kohlenoxydgase. 20 Personen kamen i
+ m „Lessing-Bunker“ ums Leben\, der einen Volltreffer erhielt“.</p>
+DTSTART;TZID=Europe/Berlin:20160403T161900
+RRULE:FREQ=YEARLY;BYMONTH=4
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-13/
+X-TAGS;LANGUAGE=de-DE:1945\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1215@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Mittwoch\, 04.04.1945</p>\n<p>(1) 505 B-17 t
+ rafen die Deutsche Schiffswerft\, 2 weitere Maschinen griffen den Flugplat
+ z in Eggebek an. 3 B-17 verloren und 50 beschädigt. 27 Besatzungsmitgliede
+ r werden vermisst</p>\n<blockquote>\n<p style='text-align: justify\;'>(2) 
+ „<em>Gestern Nachmittag hatten wir erst den schweren Angriff zu ertragen u
+ nd heute morgen 08.34 Uhr schon wieder Großalarm und ein furchtbarer Angri
+ ff. Mehrere Wellen feindlicher Flugzeuge brachten Tod und Verderben durch 
+ Abwurf von Luftminen\, Spreng -und Brandbomben. Wir hatten Gewitter. Donne
+ r\, Blitze und Bombenabwürfe wetteiferten miteinander\, ein schauriges Sch
+ auspiel. Vom Rathaus wurden 34 Bombenteppiche gezählt. Alle 3 Werften sowi
+ e die Stadtteile Gaarden und Ellerbek wurden schwer heimgesucht. Kiel wird
+  immer mehr eine Stadt der Trümmer. Der Angriff hat 26 Menschenleben gefor
+ dert. Auf dem Kasernenhof in Gaarden ist ein Brotwagen der Vereinsbäckerei
+  mit dem Pferd durch eine Sprengbombe vollkommen vom Erdboden verschwunden
+ </em>„.</p>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160404T083400
+RRULE:FREQ=YEARLY;BYMONTH=4
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-14/
+X-TAGS;LANGUAGE=de-DE:1945\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-282@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Um 22.31 Uhr wird für Kiel „Fl
+ akalarm“ ausgelöst\, um 22.32 Uhr erfolgt „Fliegeralarm“. Die ersten 20 Ma
+ schinen die Schleswig-Holstein erreichen\, gehen über die Kieler Bucht und
+  den Raum Fehmarn bis in die Lübecker Bucht\, vermutlich zum beabsichtigte
+ n Durchflug nach Berlin. Aufgrund tiefhängender Wolken und völliger Bedeck
+ ung (Wolkenhöhe zwischen 300-800m) drehen diese Maschinen dann aber über d
+ en Raum Neumünster – Hamburg zum Abflug nach Westen.</p>\n<p style='text-a
+ lign: justify\;'><a title='Bordesholm' href='http://spurensuchesh.de/borde
+ sholm/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160404T232000
+RRULE:FREQ=YEARLY;BYMONTH=4
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz in Bordesholm
+URL:http://spurensuchesh.de/event/absturz-der-wellington-w4210-in-bordeshol
+ m/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-988@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Am späten Abend des 04.04.1943 wurden bei einem Luftangriff 
+ auf Kiel mehrere britische Bomber abgeschossen. Eine dieser Maschinen vers
+ uchte auf einem am Dobersdorfer See angrenzendem Feld eine Notlandung durc
+ hzuführen. Bei diesem Versuch rutschte der tonnenschwere Bomber ca. 300m ü
+ ber das Feld\, überschlug sich und landete schließlich im See.</p>\n<p><a 
+ title='Schlesen' href='http://spurensuchesh.de/schlesen/'><em>weiter</em><
+ /a></p>
+DTSTART;TZID=Europe/Berlin:20160404T233000
+RRULE:FREQ=YEARLY;BYMONTH=4
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Schlesen
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-schlesen/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-799@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>In der Nacht zum 09.04.1941 st
+ ürzte die Wellington „R1007“ in der Nähe des Bahndammes in Melsdorf ab. Di
+ e Wellington wurde beim Aufschlag völlig zerstört und in viele Einzelteile
+  zerrissen. Noch kurz vor dem Absturz hatte die Besatzung einen Teil ihre 
+ Bombenlast\, ohne größeren Schaden anzurichten\, auf dem Gelände vom Dorot
+ heental abgeworfen.</p>\n<p style='text-align: justify\;'><a title='Melsdo
+ rf' href='http://spurensuchesh.de/melsdorf/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160408T023000
+RRULE:FREQ=YEARLY;BYMONTH=4
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz in Melsdorf
+URL:http://spurensuchesh.de/event/flugzeugabsturz-in-melsdorf/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1074@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>In der Zeit von 01.45 Uhr bis 
+ 04.00 Uhr des 18.04.1942 überfliegen 11 feindliche Flugzeuge die Westküste
+  Schleswig-Holsteins. Von 02.50 Uhr bis 03.10 Uhr strömen weitere 4 Maschi
+ nen aus nördlicher Richtung ins Landesinnere. Aus dem Raum Hamburg – Lübec
+ k kommend\, dringen 6 Feindflüge in der Zeit von 02.20 Uhr bis 03.45 Uhr i
+ n Richtung Kaiser-Wilhelm-Kanal\, 1 Maschine nimmt Kurs auf Laaland.</p>\n
+ <p style='text-align: justify\;'><a title='Taterborn' href='http://spurens
+ uchesh.de/taterborn/'><em>weiter</em></a></p>\n<p style='text-align: justi
+ fy\;'>
+DTSTART;TZID=Europe/Berlin:20160418T035600
+RRULE:FREQ=YEARLY;BYMONTH=4
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Taterborn
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-taterborn/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-308@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Zeitzeugen berichteten über ei
+ nen Vorfall\, der sich vermutlich in den letzten Kriegsjahren zugetragen h
+ atte. Hierbei handelt es sich um ein englisches Jagdflugzeug\, das am Tage
+  einen in Brandsbek (bei Felde) stehenden Güterzug im Tiefflug mit seinen 
+ Bordwaffen angriff. Die am Ende des Güterzuges auf einem Waggon befindlich
+ e Vierlingsflak eröffnete das Abwehrfeuer auf den angreifenden Jäger.</p>
+ \n<p style='text-align: justify\;'><a title='Bredenbek' href='http://spure
+ nsuchesh.de/bredenbek/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160503T120000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Bredenbek
+URL:http://spurensuchesh.de/event/absturz-einer-hawker-typhoon-ib-bei-brede
+ nbek/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-314@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Ein Zeitzeuge berichtet\, dass
+  er während des Heimaturlaubes an einem Badesee liegend beobachtete\, wie 
+ südlich von Rendsburg ein Flugzeug aus einer Gruppe von 10-15 Maschinen vo
+ n einem deutschen Jagdflugzeug heftig beschossen und zum Absturz gebracht 
+ wurde. Schwer getroffen stürzte der Bomber auf einem Feld bei Embühren ab.
+ </p>\n<p style='text-align: justify\;'><a title='Embühren' href='http://sp
+ urensuchesh.de/embuehren/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160514T120000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Embühren
+URL:http://spurensuchesh.de/event/absturz-der-b-24-42-40126-bei-embuehren/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-931@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Den letzten Sichtkontakt zu di
+ eser Maschine hatten andere Flugzeugbesatzungen aus der Formation\, in der
+  Nähe von Amrum. Hier wurde beobachtet\, dass bei der „War Eagle“ nach meh
+ reren Treffern drei Motoren ausgefallen und das Höhenleitwerk abgerissen w
+ ar. Mit nur einem funktionsfähigem Motor und ohne Höhenruder versuchte der
+  Pilot verzweifelt die Höhe zu halten\, was ihm aber nicht gelang.</p>\n<p
+  style='text-align: justify\;'><a title='Rendsburg' href='http://spurensuc
+ hesh.de/rendsburg/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160514T120000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Rendsburg
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-rendsburg/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1193@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Freitag\, 14.05.1943</p>\n<p>(1) Eine große 
+ Anzahl an Flugzeugen stieg in die Luft\, als Teil einer kombinierten Offen
+ sive gegen die Wehrmacht. 154 B-17\, 21 B-24 und 12 B-26 wurden auf vier Z
+ iele abgesandt. Hauptziel war die U-Bootwerft und der Marinestandort in Ki
+ el. 126 B-17 und 17 B-24 trafen ihre Ziele zwischen 12.00 Uhr und 12.03 Uh
+ r. Abgeschossen wurden hierbei 3 B-17 und 5 B-24. 27 B-17 und 10 B-24 wurd
+ en beschädigt. 3 Besatzungsmitglieder wurden getötet\, 17 verwundet und 81
+  werden vermisst.</p>\n<blockquote><p>(2) „<em>Bei herrlichem Sommerwetter
+  und strahlend blauen Himmel waren ca. 75 feindliche Flugzeuge gemeldet\, 
+ wovon 30 Kiel anflogen. Sie warfen innerhalb von 10 Minuten ca. 380 Spreng
+ - und 5 bis 6.000 Brandbomben ab\, die eine fürchterliche Wirkung hatten. 
+ Als wir aus den Luftschutzräumen herauskamen\, hatte sich der Himmel verdu
+ nkelt\, die Sonne war durch den Qualm nicht mehr zu sehen. In Gaarden bran
+ nten ganze Straßenzüge\, und das Feuer hatte einen Sturm entfacht. Das war
+  der bisher größte Angriff auf Kiel.Die Germaniawerft wird für einige Zeit
+  nicht voll arbeiten können. Viele Häuser wurden zerstört oder beschädigt.
+  Eine große Anzahl Haushaltungen ist ohne Licht\, Wasser und Gas. Eine Mas
+ senbespeisung muss durchgeführt werden. Die Straßenbahn Linie 8 nach Welli
+ ngdorf kann für längere Zeit nicht fahren. Ungefähr 2.700 Wohnungen sind d
+ urch Total – bzw. Großschäden vernichtet worden. 2805 Personen müssen evak
+ uiert werden. 354 Todesopfer sind zu beklagen. Das Licht in unserem Luftsc
+ hutzkeller war ausgegangen und die Notbeleuchtung wurde eingeschaltet. Ein
+  besonders schwerer Brocken\, eine 42 Zentner schwere Sprengbombe\, krepie
+ rte auf freiem Feld zwischen Preetzer Chaussee und Segeberger Straße. Der 
+ Durchmesser des Bombentrichters beträgt ca. 23m bei einer Tiefe von 8 -10m
+ . Ein Flugzeug wurde in nordwestlicher Richtung abgeschossen. Mehrere Flie
+ ger sprangen mit dem Fallschirm ab</em>.“</p></blockquote>\n<p align='just
+ ify'>Bericht des Zeitzeugen Jochen Große aus Heikendorf zum Luftangriff au
+ f Kiel am 14.05.1943:</p>\n<blockquote>\n<p align='justify'>„<em>Gegen Mit
+ tag des 14. Mai\, einem wolkenlosen Frühlingstag\, wurden die ABC-Schützen
+  der Volksschule in Kiel-Gaarden nach dem Voralarm in den Keller der Schul
+ e geführt. Dieser hatte der keinerlei technischen Schutz gegen Bomben. Ich
+  stand direkt am Kellerfenster auf Höhe des Schornsteins. Durch den Keller
+ rost sah ich helle Blitze. Die Schüler schrien nach jedem Blitz bzw. nach 
+ jeder Erschütterung. Irgendwann verließen wir den Keller und wurden ohne B
+ egleitung nach Hause geschickt. Ich entdeckte ein Auto auf dem Dach der Sc
+ hule. Es stand auf seinen vier Rädern. Das fanden wir auch in den nächsten
+  Tagen noch toll. Nach meiner Erinnerung stand diese Autowrack noch 1947/4
+ 8 auf der Rasenfläche Kaiserstraße 63a.</em></p>\n<p align='justify'><em>M
+ it meiner Mutter hatte ich vorher den Nachhauseweg eingeübt. Ich ging auf 
+ dem Weg zur Bothwellstraße 4 über den Vinetaplatz in die Wikingerstraße\, 
+ kam aber an der Kreuzung zur Johannesstraße nicht weiter\, weil gerade ein
+  riesiger Dachstuhl brennend aus dem Haus Wikingerstraße 5 (oder der Baulü
+ cke daneben) auf die Straße krachte. Wie ich nun weiterkam\, ist mir nicht
+  mehr erinnerlich\, jedenfalls kam mir meine Mutter an der Ecke Kaiserstra
+ ße / Pickertstraße entgegen. Ich fühlte mich jetzt geborgen und war der sc
+ hrecklichen Verantwortung für den richtigen Nachhauseweg enthoben.</em></p
+ >\n<p align='justify'><em>Wir wohnten in der 3. Etage der Bothwellstraße N
+ r. 4 (Neubauten ca. 1937/38\, schon mit WC in der Wohnung und Betondecken\
+ , Eigentümer: Schlachter Bierwitz aus der Augustenstraße). Vom Balkon konn
+ te ich beobachten\, wie der Altbau des heutigen Hauses Ostring Nr. 172 bra
+ nnte. Dieses Haus und die weiteren 5-7 nördlich hatten alle Holzdecken und
+  Holztreppenhäuser. In den nächsten 3 Stunden gerieten alle Häuser nachein
+ ander über die brennenden Dachstühle bis zu dem heute noch stehenden Haus 
+ Ostring Nr.188 in Brand. Unvergesslich ist für mich\, dass die Bewohner je
+ weils kurz vor Erreichen des Feuers begannen\, ihre Bettwäsche und sonstig
+ e leichte Gegenstände aus den oberen Etagen in den Hof zu werfen. Wir habe
+ n natürlich auch schon gebangt\, ob das Feuer auch zu uns auf die gegenübe
+ rliegende Seite kommen würde. Die Feuerwehr erschien erst am späteren Nach
+ mittag\, also nach 3 bis 4 Stunden. Sie konnte nur noch das Haus Ostring N
+ r. 188 retten. Es steht heute noch.</em></p>\n<p align='justify'><em>Späte
+ r als Kind hatte ich Alpträume\, weniger wegen der Bomben\, sondern wegen 
+ des möglicherweise umfallenden Schornsteins\, obwohl ich heute weiß\, dass
+  Schornsteine nie in voller Länge umfallen und auch selten von Bomben dire
+ kt getroffen werden.</em></p>\n<p align='justify'><em>Meine Mutter und mei
+ ne zwei- und 12-jährigen Schwestern wurden anschließend nach Franken evaku
+ iert. Mein Großvater Paul Beutler\, ehemals Schirrmachermeister auf der Ge
+ rmaniawerft\, bewachte unsere Wohnung. Er kam am 16.9.1944 im Luftschutzke
+ ller dieses Hauses nach einem Bombenvolltreffer ums Leben. 1946/47 konnte 
+ ich noch unsere Tapeten an der Wand nördlich zum Nachbarhaus erkennen.</em
+ ></p>\n<p align='justify'><em>Nachtangriffe durch englische Bomberverbände
+  müssen auch schon vor dem 14.05.1943 stattgefunden haben. Meine Mutter we
+ ckte uns dann und lief mit den 3 Kindern entweder in den Pickert-Hochbunke
+ r (auf dem Hinterhof Ecke Kaiserstraße/Pickertstraße\, in den 60ger Jahren
+  abgerissen) oder in den Hochbunker vor der Schule Große Ziegelstraße.</em
+ ></p>\n<p style='text-align: justify\;'><em>Erinnerlich ist mir besonders\
+ , dass einmal die Türen des Pickertbunker wegen Überfüllung geschlossen wa
+ ren. Wir liefen dann über den Ostring zum Bunker Große Ziegelstraße. Ich h
+ örte schon irgendwo Bomben fallen. Ein anderes Mal war der Bunker Pickerts
+ traße so überfüllt\, dass einige Menschen wegen Sauerstoffmangel umfielen.
+  Bei Schwankungen des Bunkers fand ein infernalisches Geschrei statt\, das
+  mir heute noch in den Ohren klingt. Hier standen Stockbetten dreifach übe
+ reinander\, in jedem der Betten lagen 7-8 Kinder.</em></p>\n<p style='text
+ -align: justify\;' align='justify'><em>Das Haus uns gegenüber Bothwellstra
+ ße 7 oder 9 erhielt wohl schon vor 1942 oder früher einen Volltreffer. Es 
+ wurde wieder aufgebaut. Kaum war es fertig\, fiel wieder eine Bombe hinein
+  und es war weg. In das Haus Pickertstraße 14 / Jachmannstraße 4 fiel auch
+  am 14.5.1943 eine Bombe. Diese explodierte jedoch nicht. Nach dem Blindgä
+ nger wurde lange gegraben\, aber nichts gefunden. Selbst in der Nachkriegs
+ zeit bis in die 50 Jahre wurde mehrmals gegraben. Wiederum ergebnislos</em
+ >.“</p>\n</blockquote>\n<p style='text-align: justify\;'>Jochen Große mach
+ te 2002 mit Freunden eine Golfreise nach Wales. „<em>In einem PUB in Alber
+ gavenny wurden wir von einem älteren Gentleman angesprochen\, der uns wohl
+  als Deutsche erkannte. Aus welcher Stadt wir wohl kämen\, fragte er. Kiel
+  war die Antwort. Oh\, Kiel sei ihm aus mehreren Besuchen bekannt. Wo er d
+ enn gewohnt habe\, fragten wir. “Ich habe da nicht wohnt\, ich habe Bomben
+  auf die Ubootswerften geworfen\, aber nicht freiwillig\, die Engländer ha
+ ben mich dazu gezwungen”. „Wir schieden nach mehreren Pint als Freunde</em
+ >.“</p>
+DTSTART;TZID=Europe/Berlin:20160514T120000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Großangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel/
+X-TAGS;LANGUAGE=de-DE:1943\,Bombenabwürfe\,Kiel\,Luftangriff\,Nachtangriffe
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1047@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Um 11.50 Uhr erreichen etwa 12
+ 0 amerikanische Feindmaschinen in 8.000m Höhe die schleswig-holsteinische 
+ Westküste\, gehen auf Ostkurs und fliegen zwischen Rendsburg und Hochdonn 
+ über den Kaiser-Wilhelm-Kanal. Aus der Sonne heraus erfolgt aus Süden in f
+ ünf Wellen (im Abstand von 2-3 Minuten) der Angriff von 12.02 Uhr bis 12.1
+ 5 Uhr auf das Kieler Werftgelände. Die abgeworfenen Bomben fallen auf die 
+ Werften und die angrenzenden Stadtteile.</p>\n<p style='text-align: justif
+ y\;'><a title='Surendorf' href='http://spurensuchesh.de/surendorf/'><em>we
+ iter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160514T183700
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Notlandung bei Surendorf
+URL:http://spurensuchesh.de/event/notlandung-bei-surendorf/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-759@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Das eigentliche primäre Ziel d
+ er 37 Bomber\, den „fliegenden Festungen“\, war an diesem Freitag ursprüng
+ lich Berlin\, der 70. Einsatz dieser Einheit. Aufgrund sehr starker Bewölk
+ ung war das geplante Zusammentreffen der Bomber mit einer Jäger-Eskorte üb
+ er dem Feindgebiet vollkommen unmöglich. Die Folge war nun die Bombardieru
+ ng des Sekundärzieles…</p>\n<p style='text-align: justify\;'><a title='Kie
+ l-Professor-Peters-Platz' href='http://spurensuchesh.de/kiel-professor-pet
+ ers-platz/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160519T000000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz  auf den Prof.-Peters-Platz in Kiel
+URL:http://spurensuchesh.de/event/absturz-der-b-17g-42-38026-auf-den-prof-p
+ eters-platz-in-kiel/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-754@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Ab 12.44 Uhr erfolgte in 8000m
+  der Einflug eines größeren feindlichen Verbandes 150km westlich von Sylt.
+  Die ersten zwei Wellen\, mit etwa 60 Flugzeugen\, gingen über die Flensbu
+ rger Förde und griffen die Flensburger Werften zwischen 13.22 Uhr und 13.2
+ 5 Uhr von Osten her an. Die folgenden vier Wellen\, von etwa 120 Flugzeuge
+ n\, gingen zwischen 13.16 Uhr und 13.19 Uhr auf Südostkurs über Eiderstedt
+  und Rendsburg zum Angriff auf Kiel aus Westen und Südwesten.</p>\n<p styl
+ e='text-align: justify\;'><a title='Kieler Förde' href='http://spurensuche
+ sh.de/kieler-foerde/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160519T120000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz in die Kieler Förde
+URL:http://spurensuchesh.de/event/absturz-der-boeing-b-17f-41-24483-in-die-
+ kieler-foerde/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1196@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<blockquote>\n<p align='justify'>Mittwoch\, 19.05.1943</p>\n<p>
+ (1) 123 B-17 waren zum Bombenangriff der Kieler U-Boot-Werft gestartet. 10
+ 3 Maschinen bombardierten das Ziel zwischen 13.29 Uhr und 13.33 Uhr. 6 B-1
+ 7 wurden abgeschossen\, 28 weitere beschädigt.</p>\n<blockquote><p>(2) „<e
+ m>Alle Sperrballons sind hoch\, es ist vernebelt. Sehr viel Theaterpubliku
+ m musste im Schutzraum untergebracht werden. Mehrere feindliche Flugzeuge 
+ über Kiel.“</em></p>\n<p style='text-align: justify\;'><em>(3 ) „Mittwoch.
+  Mittag wieder mal Großangriff. Ununterbrochen rauschte und rummelte es üb
+ er uns hinweg\, blauer Himmel\, heller Sonnenschein. Wieder geschlossener 
+ Verband in großer Höhe. Bald sehen wir in Richtung Rönne bis Elmschenhagen
+  dicken Rauch aufsteigen\, diesmal haben sie die Umgebung von Kiel schwer 
+ getroffen. 79 Sprengbomben. 6 Bauern abgebrannt\, 13 Tote\, Meimersdorf 80
+  Bomben. Auf Elmschenhagen rund 50\, Neuland 8. Schulensee soll schwer get
+ roffen sein. Klausdorf wurde mit Brandbomben besät. Es brannte ab Pfeff\, 
+ Meierei Schnack\, Ernst Voß (Bauer)\, die alte Schule\, Bauer Otto Schnack
+ \, Stellmacher Bartsch. In Elmschenhagen brannte es am Barackenlager\, die
+  alte Post wurde von einer Sprengbombe getroffen und anderes mehr. 28 Flug
+ zeuge sollen hier gewesen sein. 5 Flieger sind abgeschossen\, davon 1 bei 
+ Schlüsbek\, da er sich wehrte\, wurde er mitsamt einem herbei nahenden fra
+ nzösischen Gefangenen sofort erschossen von einem Schlüsbeker.</em>„</p>\n
+ </blockquote>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160519T133000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Großangriff auf Kiel u. Flensburg
+URL:http://spurensuchesh.de/event/grossangriff-auf-kiel-u-flensburg/
+X-TAGS;LANGUAGE=de-DE:1943\,Bombenabwürfe\,Flensburg\,Kiel\,Luftangriff\,Na
+ chtangriffe
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1206@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Freitag\, 19.05.1944</p>\n<p>(1) Von 588 B-1
+ 7 trafen 49 den Kieler Hafenbereich\, 1 Maschine traf ein weiteres Ziel.</
+ p>\n<blockquote>\n<p style='text-align: justify\;'>(2) „<em>Mehrere Hunder
+ t feindliche Flugzeuge waren in die Provinz eingeflogen\, wovon ca. 50 Bom
+ ber Kiel angriffen. Sie warfen ca. 300 Spreng- und eine Anzahl Brandbomben
+  ab. U.a. wurden zerstört bzw. beschädigt: das Ernährungsamt\, Fleethörn 2
+ 5\, das Rathaus an der Ecke Fleethörn/Rathausstraße\, der Schwertträgerbru
+ nnen auf dem Adolf-Hitler-Platz\, die Reichsbank\, die Stadtbücherei und d
+ as Oberlandesgericht am Lorenzendamm\, die Universität\, das Antoniusheim 
+ in der Muhliusstraße\, Häuser in der Rathausstraße\, Dammstraße\, Ziegelte
+ ich\, Schülperbaum 14\, Knooper Weg\, Brunswiker Straße\, das Stadtkaffee 
+ in der Karlsstraße\, das Wehrbezirkskommando in der Holstenstraße und die 
+ Germaniawerft. Beim Rathaus handelt es sich um 3 Korridoreinstürze\, wobei
+  Herr Danker von der Stadtplanung vor Zimmer 3 ums Leben kam. Frau Stephan
+  und Tochter\, die sich gerade im Rathaus befanden\, suchten Schutz im Tur
+ mzimmer 163. Der Angriff forderte ungefähr 25 Todesopfer. Nach der Vorentw
+ arnung noch einmal Alarm mit starkem Flakbeschuss</em>„.</p>\n<p style='te
+ xt-align: justify\;'>(3) „<em>25 Bomber flogen Kiel an\, haben allerhand a
+ ngerichtet. Talotmuseum\, Kinderklinik\, Dr. Reher-Klinik\, Universität\, 
+ Kaiserkaffee und gegenüber die Ecke. Muhliusstraße\, Germaniawerft\, Masch
+ inenhalle\, Verwaltungsgebäude usw. Die Opfer sind erfreulicher Weise dies
+ mal gering\, doch es langt für diesmal\, wird gesagt</em>„.</p>\n</blockqu
+ ote>
+DTSTART;TZID=Europe/Berlin:20160519T140000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-5/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1198@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Montag\, 22.05.1944</p>\n<p>(1) 342 B-17 mit
+  dem Ziel des Kieler Hafengebietes. 289 trafen das primäre Ziel\, 5 Maschi
+ nen trafen weitere Ziele. 5 B-17 abgeschossen\, 210 Maschinen beschädigt. 
+ 4 Besatzungsmitglieder getötet\, 3 verwundet und 78 vermisst</p>\n<blockqu
+ ote>\n<p style='text-align: justify\;'>(2) „<em>Eine größere Anzahl feindl
+ icher Seeminenflugzeuge ist eingeflogen und vermint die Ostsee. Zeitweise 
+ lebhaftes Flakfeuer. Mehrere nordamerikanische Bomberverbände griffen Kiel
+  an. 20 Minuten nach Auslösung des Alarms fielen die ersten Spreng- und Br
+ andbomben. Starker Beschuss besonders durch die schwere Flak. Es wurden u.
+ a. zerstört oder beschädigt: das Rathaus durch Brandbomben im Dachgeschoss
+ \, beim Tiefbauamt\, das Stadttheater\, die Sparkasse und die Kinderklinik
+  am Lorentzendamm\, das Arbeitsamt\, die Lehrmeierei\, das Intendanturgebä
+ ude in Düsternbrook\, wo ca. 15 sowie das Bekleidungsamt Langer Segen\, wo
+  ca. 33 Menschen ums Leben kamen\, ferner Häuser in der Rathausstraße\, Kn
+ ooper Weg\, Kehden-\, Holsten-\, Küterstraße\, Lorentzendamm\, Schloßgarte
+ n\, Brunswiker Straße\, Markt\, Dänische Straße.\, Schuhmacherstraße\, Flä
+ mische Straße.\, die persianischen Häuser und die Nikolaikirche\, Dahlmann
+ straße\, Koldingstraße\, Karl-\, Preußer- und die Christianistraße. Außerd
+ em haben die Stadtteile Ellerbek und Wellingdorf sowie die Deutschen Werke
+  und die Howaldtswerke sehr gelitten. Durch den starken Wind griff das Feu
+ er sehr schnell um sich. Es mussten viele Feuerwehren von außerhalb hinzug
+ ezogen werden. Bei der Straßenbahn müssen mehrere Linien für längere Zeit 
+ den Betrieb einstellen. Gas\, Wasser und Licht gibt es in vielen Haushaltu
+ ngen für mehrere Tage nicht. Im ganzen wurden ungefähr 600 Spreng- und meh
+ rere tausend Brandbomben auf das Kieler Stadtgebiet abgeworfen. Dies wird 
+ wohl bisher der größte und schwerste Angriff auf unsere Gauhauptstadt gewe
+ sen sein</em>„.</p>\n<p style='text-align: justify\;'>(3) „<em>Mittags der
+  schwerste Angriff den Kiel je erlebt hat\, ein erheblicher Schaden wurde 
+ angerichtet von der Ringstraße bis zum alten Markt und von Eros bis zur Sc
+ hlossbrauerei überall Feuer. Unter anderem die schöne Sparkasse am kleinen
+  Kiel\, Jacobsen am Markt\, Hof-\, Alte Rats- und Schwanenapotheke\, versc
+ hiedene Klinikgebäude\, mehrere Kirchen\, Kaiser-Wilhelm-Stift am Knooper 
+ Weg u.v.a. In der Brunswikerstraße kam Wilhelmine Lepthien ums Leben im Ke
+ ller</em>„.</p>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160522T120000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-2/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-768@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Capt. Coon flog mit seiner Loc
+ kheed P-38 „Lightning“ Begleitschutz zum amerikanischen Tagesangriff mit B
+ -17 Bombern auf Kiel. Gegen 13.00 Uhr befand sich der Pilot im nordwestlic
+ hen Luftraum über Kiel. Während Coon und eine weitere P-38 nach Süden abdr
+ ehen\, werden sieben deutsche Abfangjäger vom Typ Fw-190 beobachtet\, die 
+ sich über die auf Kiel anfliegenden B-17 Bombern nähern.</p>\n<p style='te
+ xt-align: justify\;'><a title='Kleinvollstedt' href='http://spurensuchesh.
+ de/kleinvollstedt/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160522T133000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz  in Kleinvollstedt
+URL:http://spurensuchesh.de/event/absturz-der-lockheed-p-38j-42-28270-in-kl
+ einvollstedt/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-835@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Es ist Montag\, der 22.05.1944
+ . Für die Besatzung der Boeing B-17 „Dear Mom“ beginnt dieser Morgen wie j
+ eder andere mit einem „Briefing“\, einer Einsatzbesprechung. Ihr Auftrag l
+ autet „Bombenabwurf auf Kiel“. Für diese B-17\, die am 01.04.1944 erstmals
+  zum Einsatz kam\, ist es die 17. Mission. Nur wenige Stunden später \,um 
+ 12.10 Uhr befindet sich die Maschine\, die vom englischen Flugplatz „Knett
+ ishall“ gestartet ist\, in einer Flughöhe von 7.600m über Kiel.</p>\n<p st
+ yle='text-align: justify\;'><a title='Nettelsee' href='http://spurensuches
+ h.de/nettelsee/'><em>weiter</em></a></p>\n<p style='text-align: justify\;'
+ >
+DTSTART;TZID=Europe/Berlin:20160522T133000
+RRULE:FREQ=YEARLY;BYMONTH=5
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Nettelsee
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-nettelsee/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-157@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Abschuss der B-24  #42-94770 durch die Flakbatterie „Tüttend
+ orf“ um 14.10 Uhr.</p>\n<p><a title='Altenhof' href='http://spurensuchesh.
+ de/altenhof/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160529T141000
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Altenhof
+URL:http://spurensuchesh.de/event/absturz-der-b-24-42-94770/
+X-TAGS;LANGUAGE=de-DE:Altenhof\,Flakbatterie\,Tüttendorf
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1199@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Sonntag\, 13.06.1943</p>\n<p style='text-ali
+ gn: justify\;'>(1) 76 B-17 flogen nach Kiel\, mit dem Ziel Germania-U-Boot
+ werft\, 60 Maschinen trafen das Ziel\, 22 Maschinen verloren\, 24 beschädi
+ gt. 3 Besatzungsmitglieder getötet\, 20 verwundet und 213 vermisst. Größte
+ r Angriff von (deutschen) Jägern bis heute\, gegen die 8. Air Force gezähl
+ t.</p>\n<blockquote>\n<p style='text-align: justify\;'>(2) „<em>Auf dem We
+ ge war heftiges Flakfeuer zu beobachten. Es sollen ca. 80 Flugzeuge eingef
+ logen sein\, wovon 48 Kiel angriffen. Eine größere Anzahl Sprengbomben wur
+ de abgeworfen\, die hauptsächlich im Stadtteil Neumühlen-Dietrichsdorf Häu
+ ser zerstörten oder beschädigten und ca. 400 Personen obdachlos machten. 2
+ 8 Tote sind zu beklagen. In Raisdorf haben die feindlichen Flieger den dor
+ t haltenden Lübecker Zug angegriffen. Das kostete auch einige Tote und ca.
+  50 Verletzte. Dieser Fliegerangriff am Pfingstsonntagmorgen brachte viel 
+ Kummer und Sorgen in manche Familie“.</em></p>\n<p style='text-align: just
+ ify\;'><em>(3) „Am 1. Pfingsttag morgens halb zehn ging es wieder los. Dam
+ it hatte niemand gerechnet. Raisdorf bekam den ersten Segen. 2 Bomben\, ei
+ ne Wasserwerk\, eine bei Langmaak\, Haus und Stall zerstört. Franz Betschk
+ a war gerade auf Urlaub hier\, wurde am linken Bein schwer verletzt\, war 
+ auf dem Weg nach Hause. 3 Bomben bei Ladehofs Teich. 3 in Wilhelms Garten\
+ , vollständig verwüstet. 1 Bombe neben der Bahn aufs Gleis\, wie gerade de
+ r Zug hielt. Ein wahres Blutbild wurde unter den Fahrgästen angerichtet. M
+ an sagt 7 Tote und über 50 Verletzte. Dann links und rechts vom Fernsichtw
+ eg auf den Koppeln große Trichter\, auf dem Fernsicht\, und Grundstück 4 B
+ omben\, eine halb vom Haus\, der Platz ist schwer mitgenommen. Und dann da
+ s Schwentinetal von einem bis zum anderen mit Trichtern übersät. Dort soll
+ en 90 Bomben gefallen sein mit denen von Raisdorf sind es bestimmt 100. Di
+ e Werke haben sie treffen wollen\, ging diesmal noch daneben. Das schöne S
+ chwentinetal ist ganz verschandelt. Dann Dietrichsdorf\, Wellingdorf\, Lab
+ oe beworfen. 36 Tote standen in der Zeitung</em>„</p>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160613T090000
+RRULE:FREQ=YEARLY;BYMONTH=6
+SEQUENCE:0
+SUMMARY:Großangriff auf Kiel
+URL:http://spurensuchesh.de/event/grossangriff-auf-kiel/
+X-TAGS;LANGUAGE=de-DE:1943\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-863@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Der 13.06.1943 (Pfingstsonntag) war für die amerikanische Lu
+ ftwaffe ein schwarzer Tag.</p>\n<p>Von 120 Maschinen\, die an diesem Tag i
+ hren dritten Tages-Großangriff auf Kiel flogen\, fielen alleine im Großrau
+ m Kiel 7 Bomber der deutschen Abwehr zum Opfer. Laut Kriegstagebuch der Ma
+ rineflakbrigade flog der Bomberpulk bereits um 08.50 Uhr aus nordwestliche
+ r Richtung auf Helgoland zu\, gingen dann über Helgoland und erreichte um 
+ 09.15 Uhr die schleswig-holsteinische Westküste auf Höhe Eiderstedt und Di
+ thmarscher Bucht.</p>\n<p><a title='Padenstedt' href='http://spurensuchesh
+ .de/padenstedt/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160613T093000
+RRULE:FREQ=YEARLY;BYMONTH=6
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Marienhof/Padenstedt
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-marienhofpadenstedt/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-362@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Der schwere Bomber\, mit Kurs 
+ auf Kiel und aus Richtung Rendsburg kommend\, wurde vermutlich bereits übe
+ r dem Rendsburger Luftraum von deutschen Jagdflugzeugen angegriffen und me
+ hrfach getroffen. Das Flugzeug steuerte brennend auf Groß Königsförde zu u
+ nd schlug schließlich auf einem Feld nahe des Nord-Ostsee-Kanals auf einem
+  Feld auf.</p>\n<p style='text-align: justify\;'><a title='Großkönigsförde
+ ' href='http://spurensuchesh.de/grosskoenigsfoerde/'><em>weiter</em></a></
+ p>
+DTSTART;TZID=Europe/Berlin:20160613T120000
+RRULE:FREQ=YEARLY;BYMONTH=6
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Großkönigsförde
+URL:http://spurensuchesh.de/event/absturz-der-b-17-42-29949-bei-grosskoenig
+ sfoerde/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-852@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Kurz vor erreichen der Stadt K
+ iel wurde die B-17 durch mehrere Flaksplitter im Cockpit und am Motor Nr. 
+ 4 getroffen. Der Bomber verlor zunächst an Geschwindigkeit\, erreichte abe
+ r über dem Zielgebiet wieder die Formation. Kurz nachdem die Besatzung die
+  letzte Bombe auf Kiel fallen lies wurde das Flugzeug von drei deutschen J
+ agdflugzeugen angegriffen und heftig beschossen.</p>\n<p style='text-align
+ : justify\;'><a title='Ostsee' href='http://spurensuchesh.de/ostsee/'><em>
+ weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160613T120000
+RRULE:FREQ=YEARLY;BYMONTH=6
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz in die Ostsee
+URL:http://spurensuchesh.de/event/flugzeugabsturz-in-die-ostsee/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1040@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>An diesem Morgen startete Flig
+ ht Lieutenant James Mason mit seiner Gloster Meteor Mk. III (F) EE411 um 1
+ 0.00 Uhr vom Flugplatz Lübeck\, um an einem Manöver mit Heeresverbänden te
+ ilzunehmen. Unter der Führung des Flight Officers Bishop hoben drei Gloste
+ r Meteor ab. Als taktische Nummer 1 startete FO Bishop\, gefolgt von seine
+ m Rottenflieger und stellvertretendem Staffelkapitän Leutnant Walkington\,
+  als taktische Nummer 3 an Steuerbord\, James Mason folgte als taktische N
+ ummer 2 an Backbord.</p>\n<p style='text-align: justify\;'><a title='Sülfe
+ ld' href='http://spurensuchesh.de/suelfeld/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160616T101000
+RRULE:FREQ=YEARLY;BYMONTH=6
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz in Sülfeld
+URL:http://spurensuchesh.de/event/flugzeugabsturz-in-suelfeld/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-158@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Abschuss der B-24  41-28733 „RHAPSODY IN JUNK“\, durch die F
+ lakbatterie „Hemmelmark“</p>\n<p><a title='Blick' href='http://spurensuche
+ sh.de/blick/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160618T102500
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Kappeln
+URL:http://spurensuchesh.de/event/kappeln/
+X-TAGS;LANGUAGE=de-DE:Abschuss\,B-24\,Hemmelmark\,Marineflak
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-711@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Nach heutigen Erkenntnissen stürzte die Maschine nach Beschu
+ ss und Treffer der leichten Flak der 6. Kompanie („Adlerhorst“) des „Ugruk
+ o Mitte“\, sowie unter Beteiligung mehrerer Stellungen dieser Kompanie\,  
+ in der Nähe der Kriegsmarinewerft in Kiel-Dietrichsdorf ab.</p>\n<p><a tit
+ le='Kiel-Schwentinemündung' href='http://spurensuchesh.de/kiel-schwentinem
+ uendung/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160702T000000
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz an der Schwentinemündung
+URL:http://spurensuchesh.de/event/absturz-der-page-hampden-an-der-schwentin
+ emuendung/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-701@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Nach vorliegenden Erkenntnissen stürzte diese Maschine nach 
+ Beschuss und Treffer der leichten Flak des „Untergruppenkommandos-Mitte“ (
+ Ugruko-Mitte) sowie unter Beteiligung der Seestreitkräfte\, in der Nähe de
+ r Nervenklinik in Kiel-Düsternbrook ab.</p>\n<p><a title='Kiel-Düsternbroo
+ k' href='http://spurensuchesh.de/kiel-duesternbrook/'><em>weiter</em></a><
+ /p>
+DTSTART;TZID=Europe/Berlin:20160702T000000
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz in Kiel-Düsternbrook
+URL:http://spurensuchesh.de/event/absturz-der-whitley-n1461-in-kiel-duester
+ nbrook/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-719@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Diese Maschine gehörte zu den 
+ ersten britischen Bombern\, die von der Marineflak über Kiel abgeschossen 
+ wurden und abgestürzt sind. Nach Aussage eines Augenzeugen befand sich die
+  Page Hampden bereits im tiefen Gleitflug aus Richtung Kiel-Wik\, überflog
+  in Russee die damalige Firma Neelsen und stürzte dann bei der heute dort 
+ ansässigen Firma Löptien\, am Ostufer des vorderen Russee ab.</p>\n<p styl
+ e='text-align: justify\;'><a title='Kiel-Russee' href='http://spurensuches
+ h.de/kiel-russee/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160705T033000
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz in Kiel-Russee
+URL:http://spurensuchesh.de/event/absturz-der-p4361-in-kiel-russee/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1207@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Donnerstag\, 06.07.1944</p>\n<p style='text-
+ align: justify\;'>(1) 229 von 262 B-24 bombardierten das Hafengebiet von K
+ iel. 1 Maschine traf ein weiteres Ziel. 3 B-24 verloren\, 106 beschädigt. 
+ 8 Besatzungsmitglieder verwundet und 22 vermisst. Eskortiert wurden die Ma
+ schinen von 168 P-51\, wovon 1 Maschine abgeschossen und der Pilot vermiss
+ t wird.</p>\n<blockquote>\n<p style='text-align: justify\;'>(2) „<em>Ungef
+ ähr 300 – 400 feindliche Flugzeuge haben den Kieler Raum angeflogen und ih
+ re Bombenlast trotz der guten Vernebelung über der Stadt abgeladen. Neben 
+ einer größeren Anzahl Spreng- und Brandbomben wurden auch Flugblätter abge
+ worfen. Nach der Entwarnung war der Himmel schwarz von Qualm und Rauch. 49
+  Todesopfer forderte dieser Angriff\; zahlreiche Gebäude wurden zerstört b
+ zw. beschädigt\, u.a. in der Annenstraße\, Jungmann-\, Holtenauer-\, Adolf
+ -\, Tirpitz-\, Esmarch-\, Moltkestraße\, Sophienblatt\, Königsweg\, Papenk
+ amp\, Wilhelmplatz\, Knooper Weg\, Straße. der SA\, Jess-\, Ring-\, Bonins
+ traße\, Schützenwall\, Gellertstraße\, Winterbeker Weg\, Kirchhofallee\, P
+ aul-Flemming-Straße\, Bellmannstraße\, Eichhofkaserne\, Hasselmannstraße\,
+  Düvelsbeker Weg\, Lehmberg\, Teichstraße\, Niemannsweg\, Reventlouallee\,
+  Gerhardstrasse\, Waitzstraße\, Ellerbek\, Neumühlen-Dietrichsdorf\, das I
+ nstitut für Weltwirtschaft und Seeverkehr\, Howaldtswerke\, Deutsche Werke
+ \, die Holzhandlung Ahrens\, Bartels & Langness\, Alte Weide. Die Straßenb
+ ahn und Omnibusse können in den nächsten Tagen den Verkehr nur beschränkt 
+ aufrechterhalten. Mehrere Wasserwagen aus Hamburg sind eingetroffen. Heute
+  hat Herr Fahje\, früher „Stadt Hamburg“\, wieder DM 100\,00 versprochen\,
+  also bis jetzt insgesamt DM 200\, für eine Feier beim Friedensschluss für
+  die ständige Rathauswache</em>„.</p>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160706T091700
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-6/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1216@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<h1>Luftangriffe auf Lübeck</h1>\n<div><img src='http://www.spu
+ rensuchesh.de/images/luebeck1.jpg' alt='' align='left' hspace='2' /><img s
+ rc='http://www.spurensuchesh.de/images/lubeck4.jpg' alt='' align='left' hs
+ pace='4' /><img src='http://www.spurensuchesh.de/images/luebeck6.jpg' alt=
+ '' align='left' hspace='4' /><img src='http://www.spurensuchesh.de/images/
+ luebeck5.jpg' alt='' align='left' hspace='4' /></div>\n<p> </p>\n<p align=
+ 'justify'>» Sachschäden der Berlin-Lübecker Maschinenfabriken<br />\n» Sac
+ hschäden der Firma Hannemann & Co.<br />\n» Durch Schäden verursachte Prod
+ uktionsstörungen der BLM-Werke<br />\n» Zustand der Fa. Hannemann & Co.<br
+  />\n» Hilfeleistung außenstehender Dienststellen</p>\n<p align='justify'>
+ Schadensbericht des Kraftwerkes Lübeck\, nach dem Luftangriff auf die Hans
+ estadt am 16.07.1942</p>\n<p align='justify'>Am späten Abend des 16.07.194
+ 2 wurde in Lübeck um 22.00 Uhr Fliegeralarm ausgelöst\, vierundzwanzig Min
+ uten später überflog eine Feindmaschine das Kraftwerk Lübeck-Herrenwyk in 
+ ostwestlicher Richtung und warf mehrere Sprengbomben ab. Eine der abgeworf
+ enen Sprengbomben traf als Volltreffer einen in der Kesselanlage mit Gicht
+ gas geheizten Kessel von 600qm Heizfläche und brachte diesen zur Explosion
+ . Durch die starke Explosion des Kessels entstanden weitere Schäden\, die 
+ wie folgt beschrieben werden\;</p>\n<p>1. Völlige Zerstörung des getroffen
+ en Kessels<br />\n2. Zerstörung der rechts und links stehenden Nachbarkess
+ el (Instandsetzung unmöglich)<br />\n3. Beschädigung weiterer drei Kessel<
+ br />\n4. Beschädigung der Hauptdampf- und Speisewasserleitungen (Schäden 
+ umfangreich)<br />\n5. Beschädigung des eisernen Kohlenbunkers von ca. 150
+  t. Fassungsvermögen<br />\n6. Völlige Zerstörung einer Eigenverbrauchs-Tr
+ avo-Station\, bestehend aus drei Transformatoren von insgesamt 1200 kVa mi
+ t den dazugehörigen zweisystemigen Schaltanlagen<br />\n7. Völlige Zerstör
+ ung der Holzbedachung des Kesselhauses und des Bürogebäudes<br />\n8. Völl
+ ige Zerstörung einen Teiles (ca. 30%) der Fachwerk- und Dacheisenkonstrukt
+ ion des Kesselhauses<br />\n9. Teilweise Beschädigung der Gichtgasleitung<
+ br />\n10. Totalzerstörung der umfangreichen Fensterverglasung aller Gebäu
+ de<br />\n11. Totalzerstörung der Oberlichtverglasung des Kessel- und Masc
+ hinenhauses<br />\n12. Teilweise Zerstörung der Ziegelbedachung des Schalt
+ hauses des Wohlfahrtsgebäudes<br />\n13. Totalzerstörung eines Wellblech- 
+ und Fachwerkschuppens (Eislager) und Teilzerstörung des Daches der Werksta
+ tt<br />\n14. Beschädigung einiger 30 kV-Freileitungen (Drahtbrüche)</p>\n
+ <p>Ein Teil der Stromversorgung der Stadt Lübeck konnte bereits einige Stu
+ nden nach dem Luftangriff durch Fremdstrombezug über die Transformatorenst
+ ation Geninerstraße wieder aufgenommen werden. Nachdem die zerstörten Frei
+ leitungen instandgesetzt waren\, konnte 15 Stunden nach dem Angriff das ge
+ samte Versorgungsgebiet mit Fremdstrombezug (mit einer Einschränkung von c
+ a. 25%) beliefert werden.</p>\n<p>Durch den explodieren Kessel wurde der H
+ eizer Ernst Sch.\, der zur Notbelegschaft gehörte\, bei der Ausübung seine
+ s Dienstes tödlich verletzt. Verletzungen der übrigen Belegschaft\, die al
+ s Notbelegschaft und Brandwachen tätig waren\, sind außer unbedeutenden Ve
+ rletzungen\, wie Hautabschürfungen und Prellungen\, nicht aufgetreten.</p>
+ \n<p>Die Lübecker Flender-Werke melden den mehrfachen Überflug feindlicher
+  Flugzeuge\, um 22.45 Uhr den Abwurf von vier Sprengbomben aus einem zweim
+ otorigen Bomber\, der das Werk in ca. 800m Höhe von Nordost nach Südwest ü
+ berflog. Die erste der vier abgeworfenen Bomben fiel ca. 25m vom Ausrüstka
+ i in die Trave\, die übrigen drei folgten im Reihenwurf mit Abstand von ca
+ . 25m auf freies Gelände.</p>
+DTSTART;TZID=Europe/Berlin:20160716T211800
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Luftangriff auf Lübeck
+URL:http://spurensuchesh.de/event/luftangriff-auf-luebeck/
+X-TAGS;LANGUAGE=de-DE:1942\,Bombenabwürfe\,Herrenwyk\,Lübeck\,Luftangriff\,
+ Nachtangriffe
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1208@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;' align='justify'>Dienstag\, 18.
+ 07.1944</p>\n<p style='text-align: justify\;'>(1) 107 B-24 trafen das Kiel
+ er Hafengebiet\, 55 Maschinen griffen die Öl-Raffinerie in Hemmingstedt an
+ . Eskorte flogen 48 P-38 und 84 P-51\, ohne Verluste.</p>\n<blockquote>\n<
+ p style='text-align: justify\;'>(2) „<em>Nachdem der Nachtalarm ruhig vorü
+ berging\, weil der Angriff auf Berlin ging\, besuchten die feindlichen Fli
+ eger heute morgen Kiel. Es war vernebelt. Ca. 120 Bomber griffen die Stadt
+  an und bekamen zeitweise heftiges Flakfeuer. Ungefähr 20 Minuten nach dem
+  Alarm fielen die ersten Bomben\, und zwar wurden ca. 700 Spreng- und 200 
+ Brandbomben abgeworfen. Der Schützenpark ist wie umgepflügt\, rd. 50 Trich
+ ter wurden gezählt. Häuser wurden zerstört bzw. beschädigt\, u.a. Bahnhofs
+ hotel Sophienblatt\, Germaniawerft\, Deutsche Werke\, Schulstraße\, Johann
+ es-\, Elisabeth-\, Hügelstraße\, Anlegebrücke der Fähre auf der Gaardener 
+ Seite\, Arsenal\, Ellerbek\, Howaldtswerke\, Bohn & Kähler\, Kirchhofallee
+ \, Gerichtsgebäude\, Schützenwall\, Ring-\, Bonin-\, Dänische Straße\, die
+  Apotheke in der Fleethörn\, Knooper Weg\, Prinz-Heinrich-Straße\, Prinz-H
+ einrich-Brücke\, Flugplatz Holtenau\, Walther & Co.\, Projensdorfer Straße
+ \, Hindenburgschule\, Stadtfeldkamp\, Stadtkloster\, Harmsstraße\, Luther-
+ \, Lüdemann-\, Gellert-\, Zastrowstraße und Hasseldieksdammer Weg. Straßen
+ bahnen und Omnibusse müssen wieder einmal den Verkehr z.T. einstellen</em>
+ „.</p>\n<p style='text-align: justify\;'>(3) „<em>Wieder ein Großangriff. 
+ auf Kiel. Morgens gegen 8 Uhr gab es schon Alarm\, bis halb 12 dauerte es\
+ , es gab mal Vorentwarnung und dann noch 2x Vollalarm. Wir haben hier gar 
+ nicht so viel davon gemerkt. Hier ging ein paarmal ein Verband rüber\, es 
+ wurde heftig geschossen und weiter haben wir nichts wahrgenommen. Es sind 
+ nur Sprengbomben geworfen worden\, zum Teil 4-5 zusammengekoppelt\, hörte 
+ ich heute v. Dr. Rüske\, dagegen ist kein Keller mehr sicher. Gegend Schüt
+ zenpark soll Loch an Loch sein. Bombenteppich ebenfalls auf Deutsche Werke
+ . In 33 Straßen sind Schäden verursacht. Auch Menschenverluste. Auch im Os
+ tseeraum Angriffe am Tage und in der Nacht (Westdeutschland und Berlin)</e
+ m>„</p>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160718T094400
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-7/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1200@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p>Sonntag\, 25.07.1943</p>\n<p>(1) 59 B-17 gegen die Kieler Sc
+ hiffswerft. Abbruch wegen zu starker Bewölkung.</p>\n<blockquote>\n<p styl
+ e='text-align: justify\;'>(2) „<em>Die Ballone waren hoch\, und es war ver
+ nebelt. Hedwig und ich gingen in Düsternbrook spazieren. Beim ertönen der 
+ Sirenen suchten wir den Schutzraum des Luftgaukommandos am Hindenburgufer 
+ auf. Es waren ca. 30 Flugzeuge über Kiel. Zeitweise hatten wir lebhaftes F
+ lakfeuer. Eine größere Anzahl Spreng- und Brandbomben wurde abgeworfen. Me
+ hrere Häuser wurden zerstört bzw. beschädigt\, z.B. Klinik Dr. Kaerger\, L
+ orenzendamm\, Küterstraße\, Markt\, Ahlmannstraße\, Blocksberg\, Deutsche 
+ Werke\, Peter-Hansen-Straße\, Franziusallee\, Schönberger Straße\, Prinzen
+ straße und Klausdorfer Weg. 2 Flugzeuge und 2 Sperrballone wurden abgescho
+ ssen. 9 Tote sind zu beklagen“.</em></p>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160725T165000
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/1200/
+X-TAGS;LANGUAGE=de-DE:1943\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-432@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Am späten Abend des 28.07.1943 (ein Mittwoch) startet die Ha
+ lifax JD150 um 22.32 Uhr mit weiteren 786 Maschinen vom englischen Flugpla
+ tz Pocklington. Der offizielle Auftrag dieses Angriffes auf Hamburg lautet
+ : „Operation Gomorrha“. Die feindlichen Bomber vom Typ „Halifax“ und „Lanc
+ aster“ werden über dem Festland Schleswig-Holsteins von der Marineflak und
+  zahlreichen deutschen Abfangjägern heftig unter Beschuss genommen. Aufgru
+ nd der schlechten Wetterlage teilt sich der angreifende Verband auf und ni
+ mmt hierbei auch Kurs auf das Sekundärziel – Kiel.</p>\n<p><a title='Höbek
+ ' href='http://spurensuchesh.de/hoebek/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160728T010000
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Höbek
+URL:http://spurensuchesh.de/event/absturz-der-halifax-jd150-bei-hoebek/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1201@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'><em>Donnerstag\, 29.07.1943</em></p>\n<p><em
+ >(1) 167 B-17 und 1 YB-40 mit dem Ziel der Kieler Schiffswerften. 91 trafe
+ n die Schiffswerft um 09.01 Uhr und 48 Maschinen trafen weitere Ziele. 6 B
+ -17 abgeschossen und 64 beschädigt. 2 Besatzungsmitglieder getötet\, 8 ver
+ wundet und 61 vermisst.</em></p>\n<p style='text-align: justify\;'><em>(2)
+  „Kurz nach Beginn des Alarms und später lebhaftes Schießen unserer Flak. 
+ Ungefähr 80 feindliche Flugzeuge griffen Kiel an und warfen eine größere A
+ nzahl Spreng- und Brandbomben\, u.a. auf die Kriegsmarinewerft\, Deutsche 
+ Werke\, Ellerbek und Neumühlen-Dietrichsdorf. Letzteres wurde besonders sc
+ hwer getroffen. Dieser Angriff kostete wieder einige Tote“</em></p>
+DTSTART;TZID=Europe/Berlin:20160729T090000
+RRULE:FREQ=YEARLY;BYMONTH=7
+SEQUENCE:0
+SUMMARY:Tagesgroßangriff auf Kiel
+URL:http://spurensuchesh.de/event/tagesgrossangriff-auf-kiel/
+X-TAGS;LANGUAGE=de-DE:1943\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1212@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Mittwoch\, 30.08.1944</p>\n<p>(1) Spät am Ta
+ ge griffen 637 B-17 die U-Boot-Basis und Schiffswerft in Kiel an.</p>\n<bl
+ ockquote><p>(2) „<em>Wir haben regnerisches Wetter. Auf dem Wege zu dem Bu
+ nker schon Flakfeuer. Bombenabwurf am Bahnhof Hassee\, Gärtnerstraße\, Has
+ seer Straße\, Saarbrückenstraße\, Alte Lübecker Chaussee\, Baracken auf de
+ r Moorteichwiese\, Braustraße\, (…) Wohnschiff S. Louis\, Deutsche Werke. 
+ Außerdem sind die Feinmechanischen Werkstätten in Neumühlen-Dietrichsdorf 
+ stark beschädigt. Wieder sind einige Tote zu beklagen“.</em></p>\n<p><em>(
+ 3) „Nachmittags\, 3-5 schon wieder schwerer Terrorangriff auf Kiel. Hassee
+ \, Winterbek\, Schulensee\, Hamburger Chaussee\, Wik\, Ellerbek\, Dietrich
+ sdorf wurden besonders schwer getroffen. Gut Schrevenborn brannte vollstän
+ dig ab</em>„.</p></blockquote>
+DTSTART;TZID=Europe/Berlin:20160801T002000
+DTEND;TZID=Europe/Berlin:20160801T164200
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-11/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff\,Nachtangriffe
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1209@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Freitag\, 04.08.1944</p>\n<p>(1) 89 B-24 tra
+ fen Kiel\, 39 trafen das Husumer Flugfeld\, weitere B-24 bombardierten ern
+ eut die Öl-Raffinerie in Hemmingstedt.</p>\n<blockquote><p>(2) „<em>Zwei S
+ tunden nach Auslösung des Alarms wird Anflug auf Kiel gemeldet\, und nur 2
+  Minuten später fallen die ersten Bomben. Besonders getroffen werden die K
+ asernen in der Wik\, die Gasanstalt\, Walther & Co. und das Schleusengelän
+ de. Außer Sprengbomben werden Strahlstabbrandbomben mit Zeitzünder abgewor
+ fen. Bei dem zweiten Alarm handelt es sich um Rückflüge aus dem Raum Pomme
+ rn und Mecklenburg</em>„.</p></blockquote>
+DTSTART;TZID=Europe/Berlin:20160804T122400
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-8/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1210@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p align='justify'>Sonntag\, 06.08.1944</p>\n<p style='text-ali
+ gn: justify\;'>(1) 58 B-24 bombardierten den Marine-Stützpunkt in Kiel</p>
+ \n<blockquote>\n<p style='text-align: justify\;'>(2) „<em>Ungefähr 150 Flu
+ gzeuge unternahmen einen Angriff auf die Schleusen\, Marineanlagen und den
+  Flugplatz. Mehrere hundert Sprengbomben und einige zehntausend Brandbombe
+ n wurden abgeworfen und trafen den Stadtteil Wik\, die Kasernen\, die Gasa
+ nstalt\, Zerssen & Co.\, die Prinz-Heinrich-Brücke sowie die Fa. Walther &
+  Co. Während des 2. Alarms fielen einige Sprengbomben in Holtenau“.</em></
+ p>\n<p style='text-align: justify\;'><em>(3) „Sonntagvormittag gegen 10 na
+ ch 1 Uhr Vollalarm. (…) Wir haben von Bomben nichts gehört. Doch die Wik s
+ oll schwer was abbekommen haben\, wieder das Gaswerk getroffen. Kiel ist n
+ och vom großen Angriff vor 3 Wochen ohne Gas\, teilweise ohne Licht u. Was
+ ser</em>„.</p>\n</blockquote>
+DTSTART;TZID=Europe/Berlin:20160806T131000
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-9/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-928@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Der Bombenangriff auf die Stadt Kiel wurde für die zweimotor
+ ige Handley Page Hampden zum Verhängnis. Der kleine englische Bomber kam g
+ egen 02.25 Uhr im Tiefflug von Kiel in Richtung Revensdorf und wurde von d
+ en Flakbatterien „Tüttendorf“ und „Warleberg“ unter Feuer genommen.</p>\n<
+ p><a title='Revensdorf/Sande' href='http://spurensuchesh.de/revensdorfsand
+ e/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160809T023000
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Revensdorf/Sande
+URL:http://spurensuchesh.de/event/flugzeugabsturz-bei-revensdorfsande/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-292@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Nur wenige Minuten nach ihrem Start vom Flugplatz Schleswig-
+ Jagel stürzte die Me-110 durch den irrtümlichen Abschuss der eigenen Marin
+ eflak in der Nähe von Brammer auf einem Feld ab. Für die dreiköpfige Besat
+ zung gab es keine Möglichkeit sich mit ihren Fallschirmen zu retten.</p>\n
+ <p><a title='Brammer' href='http://spurensuchesh.de/brammer/'><em>weiter</
+ em></a></p>
+DTSTART;TZID=Europe/Berlin:20160820T023000
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Brammer
+URL:http://spurensuchesh.de/event/absturz-einer-me-110-in-der-naehe-von-bra
+ mmer/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-479@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Der Einsatz in der Nacht des 2
+ 1.08.1942 war für die Staffel eine kostspielige Angelegenheit\, der Verlus
+ t von vier erfahrenen Besatzungen ein schwerer Schlag auf die Moral. Die W
+ etterbedingungen für den Angriff in dieser Nacht waren für die Alliierten 
+ äußerst schlecht und entsprachen nicht denen der Vorhersage. Vier Bomber d
+ es 218. Squadron wurden aufgrund schlechter Wetterverhältnisse und vermutl
+ ich durch Flaktreffer abgeschossen.</p>\n<p style='text-align: justify\;'>
+ <a title='Hoffnungsthal' href='http://spurensuchesh.de/hoffnungsthal/'><em
+ >weiter</em></a></p>\n<p style='text-align: justify\;'>
+DTSTART;TZID=Europe/Berlin:20160821T000000
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Hoffnungsthal
+URL:http://spurensuchesh.de/event/absturz-der-short-stirling-bf338-bei-hoff
+ nungsthal/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1211@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Luftangriffe
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;' align='justify'>Donnerstag\, 2
+ 4.08.1944</p>\n<p style='text-align: justify\;'>(1) 43 von 52 B-24 griffen
+  die Walther-Werke in Kiel an. 3 weitere Maschinen trafen das Fluggelände 
+ in Hemmingstedt\, 2 Maschinen trafen weitere Ziele. 2 B-24 verloren\, 33 b
+ eschädigt. 27 Besatzungsmitglieder vermisst. Eskortiert wurden die Maschin
+ en von 17 P-51\, ohne Verluste.</p>\n<blockquote>\n<p style='text-align: j
+ ustify\;'>(2) „<em>Es war vernebelt. Um 11.30 Uhr flog ein feindlicher Ver
+ band Kiel an und warf Spreng- und Brandbomben ab. Beschädigungen sind ents
+ tanden bei Walther & Co. und in der Funkschule am Tannenberg</em>„.</p>\n<
+ /blockquote>
+DTSTART;TZID=Europe/Berlin:20160824T113000
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Luftangriff auf Kiel
+URL:http://spurensuchesh.de/event/luftangriff-auf-kiel-10/
+X-TAGS;LANGUAGE=de-DE:1944\,Bombenabwürfe\,Kiel\,Luftangriff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-351@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160824T114500
+RRULE:FREQ=YEARLY;BYMONTH=8
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz bei Felm
+URL:http://spurensuchesh.de/event/absturz-der-b-24-42-94780-bei-felm/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1006@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>Nach bisherigen Erkenntnissen hatte dieser britische Bomber 
+ die Hansestadt Bremen als Ziel und wurde vermutlich bereits während des An
+ fluges auf Bremen von der Flak oder deutschen Jägern nach Norden in Richtu
+ ng Kiel abgedrängt.</p>\n<p><a title='Schönhagen' href='http://spurensuche
+ sh.de/schoenhagen/'><em>weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160910T045800
+RRULE:FREQ=YEARLY;BYMONTH=9
+SEQUENCE:0
+SUMMARY:Notwasserung bei Schönhagen
+URL:http://spurensuchesh.de/event/1006/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-726@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Genauere Hinweise über den Absturz dieses Flugzeuges liegen 
+ bisher leider nicht vor. Es ist aber anzunehmen\, dass es sich bei dem auf
+  den Fotos gezeigten Absturz um den dieser Maschine handelt.</p>\n<p><a ti
+ tle='Kiel-Hochbrücke' href='http://spurensuchesh.de/kiel-hochbruecke/'><em
+ >weiter</em></a></p>
+DTSTART;TZID=Europe/Berlin:20160911T000000
+RRULE:FREQ=YEARLY;BYMONTH=9
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz an der Holtenauer Hochbrücke
+URL:http://spurensuchesh.de/event/absturz-der-wellington-x9879-an-der-holte
+ nauer-hochbruecke/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-921@spurensuchesh.de
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=de-DE:Abstürze
+CONTACT:
+DESCRIPTION:<p>In der Zeit von 21.50 Uhr bis 00.00 Uhr erreichen 18 feindli
+ che Flugzeuge die Westküste Schleswig-Holsteins. Neun dieser Flugzeuge dre
+ hen später auf Höhe Schleswig nach Süden\, in Richtung Hamburg\, eine Masc
+ hine kehrt nördlich von Husum wieder nach Westen um\, zwei Maschinen drehe
+ n südwestlich von Rendburg nach Süden und sechs gehen über Heide\, aus nor
+ dwestlicher Richtung kommend\, zum Angriff auf Hamburg.</p>\n<p><a title='
+ Revensdorf' href='http://spurensuchesh.de/revensdorf/'><em>weiter</em></a>
+ </p>
+DTSTART;TZID=Europe/Berlin:20160916T233700
+RRULE:FREQ=YEARLY;BYMONTH=9
+SEQUENCE:0
+SUMMARY:Flugzeugabsturz in Revensdorf
+URL:http://spurensuchesh.de/event/flugzeugabsturz-in-revensdorf/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

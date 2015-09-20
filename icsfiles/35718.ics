@@ -1,0 +1,2394 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//10.10.50.136//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://lincin.llcc.edu
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:vcal_1409-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1409</p>
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150920
+LOCATION:Lebanon\, IL
+SEQUENCE:0
+SUMMARY:Softball at  McKendree University
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-at-mckendree-university
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000804F58675B70D001000000000000000
+ 010000000B1C65527A36A23418C5DFDDCE2286936
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+SEQUENCE:0
+SUMMARY:Last drop date for tuition refund – Short Semester
+URL:http://lincin.llcc.edu/?ai1ec_event=last-drop-date-for-tuition-refund-s
+ hort-semester
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000B04E126F5B70D001000000000000000
+ 01000000040B8115844CE0D4F9EA0541AA8379FBE
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Last day to add classes – Short Semester
+URL:http://lincin.llcc.edu/?ai1ec_event=last-day-to-add-classes-short-semes
+ ter
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000D0F05FC85B70D001000000000000000
+ 0100000003DFA9A0A5F719B45BB437171DEC1A0DD
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:Institutional Improvement Day (No Classes)
+URL:http://lincin.llcc.edu/?ai1ec_event=institutional-improvement-day-no-cl
+ asses-2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1413-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1413</p>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150927
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Softball vs  Robert Morris\, Lincoln\, Spoon River
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-vs-danville-area-community
+ -college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1414-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1414</p>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150927
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Softball vs  Spoon River College
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-vs-spoon-river-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1415-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1415</p>
+DTSTART;VALUE=DATE:20150927
+DTEND;VALUE=DATE:20150928
+LOCATION:Charleston\, IL
+SEQUENCE:0
+SUMMARY:Softball at  EIU
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-at-eiu-invite-tba
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000B0104B895A70D001000000000000000
+ 01000000065D72CD5DBBA19429F662EE404962B73
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150930
+DTEND;VALUE=DATE:20151001
+SEQUENCE:0
+SUMMARY:Tuition due – MOD II
+URL:http://lincin.llcc.edu/?ai1ec_event=tuition-due-mod-ii
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000000D3685E5A70D001000000000000000
+ 0100000003B1BAB41BBE93C4D8D9938C1F45FAF25
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151003
+SEQUENCE:0
+SUMMARY:Last day to withdraw (W grade) – MOD I
+URL:http://lincin.llcc.edu/?ai1ec_event=last-day-to-withdraw-w-grade-mod-i
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1476-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Baseball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1476</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Baseball vs  Lake Land College
+URL:http://lincin.llcc.edu/?ai1ec_event=baseball-vs-lake-land-and-rmu
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1416-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1416</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+LOCATION:Kankakee\, IL
+SEQUENCE:0
+SUMMARY:Softball at  Muscatine\, Prairie State and Kankakee
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-at-muscatine-prairie-state
+ -and-kankakee
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000D08DB3BCABA9D001000000000000000
+ 010000000AB5A0199C16DE245A1BF3AC2B49D9285
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151008
+SEQUENCE:0
+SUMMARY:Multicultural Fest
+URL:http://lincin.llcc.edu/?ai1ec_event=multicultural-fest-3
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000006003BC7F5A70D001000000000000000
+ 010000000C8AFE9C216471A4286CCA3A4001C8421
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151017
+SEQUENCE:0
+SUMMARY:Final exams (last two hours the class meets) – MOD I
+URL:http://lincin.llcc.edu/?ai1ec_event=final-exams-last-two-hours-the-clas
+ s-meets-mod-i
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1418-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1418</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Softball vs  Robert Morris\, Parkland\, and Kaskaskia
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-vs-parkland-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1514-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1514</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+LOCATION:East Peoria\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Illinois Central College (scrimmage)
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-illinois-centr
+ al-college-scrimmage
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1515-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1515</p>
+DTSTART;VALUE=DATE:20151018
+DTEND;VALUE=DATE:20151019
+LOCATION:Belleville\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Southwestern Illinois College (scrimmage)
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-southwestern-i
+ llinois-college-scrimmage
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000701A529F5A70D001000000000000000
+ 0100000004113D2DF30B3974A89A9C522040E3DCD
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151020
+DTEND;VALUE=DATE:20151021
+SEQUENCE:0
+SUMMARY:Last drop dated for tuition  refund – MOD II
+URL:http://lincin.llcc.edu/?ai1ec_event=last-drop-dated-for-tuiution-refund
+ -mod-ii
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000000C543AA5A70D001000000000000000
+ 01000000011A1A359ABCB2940BECE464C03E9CD56
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151021
+DTEND;VALUE=DATE:20151022
+SEQUENCE:0
+SUMMARY:Last day to add classes – MOD II
+URL:http://lincin.llcc.edu/?ai1ec_event=last-day-to-add-classes-mod-ii
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1442-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1442</p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Frontier Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-at-frontier-commu
+ nity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1516-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1516</p>
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151101
+LOCATION:Carterville\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  John A. Logan College Classic
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-john-a-logan-c
+ ollege-classic-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1517-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1517</p>
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+LOCATION:Carterville\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  John A. Logan College Classic
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-john-a-logan-c
+ ollege-classic
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000080561FD55B70D001000000000000000
+ 0100000002CBD70CCE1904D40AA6C7230FD3B45F9
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151103
+DTEND;VALUE=DATE:20151104
+SEQUENCE:0
+SUMMARY:Professional Development Day (No Classes)
+URL:http://lincin.llcc.edu/?ai1ec_event=professional-development-day-no-cla
+ sses-2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1446-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1446</p>
+DTSTART;VALUE=DATE:20151104
+DTEND;VALUE=DATE:20151105
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  NJCAA
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-regional-tourn
+ ament-round-1
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1480-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1480</p>
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151107
+LOCATION:Chicago\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Harry S. Truman College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-harry-s-truman-c
+ ollege-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1481-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1481</p>
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+LOCATION:Chicago\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Harry S. Truman College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-harry-s-truman-c
+ ollege
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1447-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1447</p>
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+LOCATION:Springifeld\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  NJCAA
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-regional-tourn
+ ament-round-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1483-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1483</p>
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151115
+LOCATION:Trenton\, MO
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  North Central Missouri College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-north-central-mi
+ ssouri-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1485-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1485</p>
+DTSTART;VALUE=DATE:20151121
+DTEND;VALUE=DATE:20151122
+LOCATION:Chicago IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Richard J. Daley College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-richard-j-daley-
+ college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000606091055C70D001000000000000000
+ 01000000067D314548483A4478304961EF1D391CE
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151125
+DTEND;VALUE=DATE:20151130
+SEQUENCE:0
+SUMMARY:Thanksgiving Recess (College Closed
+URL:http://lincin.llcc.edu/?ai1ec_event=thanksgiving-recess-college-closed-
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000D0D05DE55B70D001000000000000000
+ 010000000EBE304F8553A584C8C89FC79CFCC8234
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151201
+DTEND;VALUE=DATE:20151202
+SEQUENCE:0
+SUMMARY:Deadline for fall graduation applications
+URL:http://lincin.llcc.edu/?ai1ec_event=deadline-for-fall-graduation-applic
+ ations
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000010EA99FC5970D001000000000000000
+ 01000000077AC292ABA6DD94D8745E18327322294
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151205
+SEQUENCE:0
+SUMMARY:Last day to withdraw (W grade)
+URL:http://lincin.llcc.edu/?ai1ec_event=last-day-to-withdraw-w-grade-3
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000E02D10B85A70D001000000000000000
+ 010000000227D0BC0684AA849A0C276E44A418756
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151205
+SEQUENCE:0
+SUMMARY:Last day to withdraw (W grade) – MOD II
+URL:http://lincin.llcc.edu/?ai1ec_event=last-day-to-with-draw-w-grade-mod-i
+ i
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000607144835B70D001000000000000000
+ 0100000003725678F003F684F8BD008592585874E
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151205
+SEQUENCE:0
+SUMMARY:Last day to withdraw (W grade) – Short Semester
+URL:http://lincin.llcc.edu/?ai1ec_event=last-day-to-withdraw-w-grade-short-
+ semester
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1525-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1525</p>
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151205
+LOCATION:Lincoln\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Lincoln Classic
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-lincoln-classi
+ c-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1526-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1526</p>
+DTSTART;VALUE=DATE:20151205
+DTEND;VALUE=DATE:20151206
+LOCATION:Lincoln\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Lincoln Classic
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-lincoln-classi
+ c
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000500E4D215A70D001000000000000000
+ 010000000A910FEF36189C64F8638EC3A59BE86F8
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151218
+SEQUENCE:0
+SUMMARY:Final Exams
+URL:http://lincin.llcc.edu/?ai1ec_event=final-exams-5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000030A0A1EB5A70D001000000000000000
+ 0100000001395A61EE75A31429790A997D8E8C757
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151218
+SEQUENCE:0
+SUMMARY:Final Exams – MOD II
+URL:http://lincin.llcc.edu/?ai1ec_event=final-exams-mod-ii
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000050DEB39D5B70D001000000000000000
+ 01000000047D6F6C0E706FE41B1DAA8B41D4028BF
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151218
+SEQUENCE:0
+SUMMARY:Final exams – Short Semester
+URL:http://lincin.llcc.edu/?ai1ec_event=final-exams-short-semester
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1490-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1490</p>
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151213
+LOCATION:Chicago Heights\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Prairie State College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-prairie-state-co
+ llege
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000080BEB8CD0B71D001000000000000000
+ 010000000F84475875BEE144A809534B6EB65E114
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151218
+DTEND;VALUE=DATE:20160109
+SEQUENCE:0
+SUMMARY:Winter Holiday Recess
+URL:http://lincin.llcc.edu/?ai1ec_event=winter-holiday-recess
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000C04484465C70D001000000000000000
+ 010000000B435CFFEAA82954DBC31DE1AEA06573C
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151219
+DTEND;VALUE=DATE:20160104
+SEQUENCE:0
+SUMMARY:College Offices Closed
+URL:http://lincin.llcc.edu/?ai1ec_event=college-offices-closed
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000B020B1345C70D001000000000000000
+ 01000000061F1F317137BA84AA7CF42E26A110CA8
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:College
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151220
+DTEND;VALUE=DATE:20160105
+SEQUENCE:0
+SUMMARY:Winter Holiday Recess (College Closed)
+URL:http://lincin.llcc.edu/?ai1ec_event=winter-holiday-recess-college-close
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1494-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1494</p>
+DTSTART;VALUE=DATE:20160109
+DTEND;VALUE=DATE:20160110
+LOCATION:Ina\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Rend Lake College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-rend-lake-colleg
+ e
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1530-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1530</p>
+DTSTART;VALUE=DATE:20160113
+DTEND;VALUE=DATE:20160114
+LOCATION:St. Louis\, MO
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  St. Louis Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-st-louis-commu
+ nity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1496-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1496</p>
+DTSTART;VALUE=DATE:20160114
+DTEND;VALUE=DATE:20160115
+LOCATION:Jacksonville\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  MacMurray College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-macmurray-colleg
+ e
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1504-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1504</p>
+DTSTART;VALUE=DATE:20160213
+DTEND;VALUE=DATE:20160214
+LOCATION:Lincoln\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Lincoln College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-lincoln-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1431-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p>L 2-3  http://www.lincolnlandloggers.com/calendar.aspx?id=14
+ 31</p>
+DTSTART;TZID=America/Chicago:20150919T131500
+DTEND;TZID=America/Chicago:20150919T161500
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:[L] Women’s Volleyball vs  Kirkwood Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-parkland-colle
+ ge-invite
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1560-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1560</p>
+DTSTART;TZID=America/Chicago:20150919T183000
+DTEND;TZID=America/Chicago:20150919T213000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Jackson Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-jackson-commun
+ ity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1410-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1410</p>
+DTSTART;TZID=America/Chicago:20150920T130000
+DTEND;TZID=America/Chicago:20150920T160000
+LOCATION:Quincy\, IL
+SEQUENCE:0
+SUMMARY:Softball at  Quincy University (DH)
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-at-quincy-university-dh
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1472-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Baseball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1472</p>
+DTSTART;TZID=America/Chicago:20150920T133000
+DTEND;TZID=America/Chicago:20150920T163000
+LOCATION:Indianapolis\, IN
+SEQUENCE:0
+SUMMARY:Baseball at  University of Indianapolis
+URL:http://lincin.llcc.edu/?ai1ec_event=baseball-at-university-of-indianapo
+ lis
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1456-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1456</p>
+DTSTART;TZID=America/Chicago:20150920T140000
+DTEND;TZID=America/Chicago:20150920T170000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Soccer vs  East Central College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-vs-east-central-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000070C0D7285CF0D001000000000000000
+ 01000000086EC3CF72F12F340AABAE8257C6DF0DC
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:<p>“Classical Guitar Music: Classical to Modern”</p>
+DTSTART;TZID=America/Chicago:20150920T160000
+DTEND;TZID=America/Chicago:20150920T180000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:Recital Series\, Russel Brazzel
+URL:http://lincin.llcc.edu/?ai1ec_event=recital-series-russel-brazzel
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000090ED0470AAA9D001000000000000000
+ 01000000055684CCD1E1DA6448FC91F762E6B7B34
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150921T120000
+DTEND;TZID=America/Chicago:20150921T130000
+LOCATION:A. Lincoln Commons
+SEQUENCE:0
+SUMMARY:Healthy Eating Demo
+URL:http://lincin.llcc.edu/?ai1ec_event=healthy-eating-demo
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1457-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1457</p>
+DTSTART;TZID=America/Chicago:20150922T190000
+DTEND;TZID=America/Chicago:20150922T220000
+LOCATION:SASA Field
+SEQUENCE:0
+SUMMARY:Men’s Soccer vs  Parkland College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-vs-parkland-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000006028C982AAA9D001000000000000000
+ 0100000006B61D616726ACF41BCD2930037278D1B
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T093000
+DTEND;TZID=America/Chicago:20150923T133000
+LOCATION:A. Lincoln Commons
+SEQUENCE:0
+SUMMARY:Club Info Day
+URL:http://lincin.llcc.edu/?ai1ec_event=club-info-day
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1473-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Baseball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1473</p>
+DTSTART;TZID=America/Chicago:20150923T150000
+DTEND;TZID=America/Chicago:20150923T180000
+LOCATION:Lincoln\, IL
+SEQUENCE:0
+SUMMARY:Baseball at  Lincoln College
+URL:http://lincin.llcc.edu/?ai1ec_event=baseball-at-lincoln-college-3
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1411-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1411</p>
+DTSTART;TZID=America/Chicago:20150925T140000
+DTEND;TZID=America/Chicago:20150925T170000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Softball vs  University of Illinois Springfield
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-vs-university-of-illinois-
+ springfield-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1432-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1432</p>
+DTSTART;TZID=America/Chicago:20150925T170000
+DTEND;TZID=America/Chicago:20150925T200000
+LOCATION:East Peoria\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Sauk Valley Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-illinois-centr
+ al-college-tournament-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1550-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1550</p>
+DTSTART;TZID=America/Chicago:20150925T190000
+DTEND;TZID=America/Chicago:20150925T220000
+LOCATION:East Peoria\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball at  Illinois Central College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-at-illinois-centr
+ al-college-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1412-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1412</p>
+DTSTART;TZID=America/Chicago:20150926T080000
+DTEND;TZID=America/Chicago:20150926T110000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Softball vs  Robert Morris University (Ill.)-Springfield
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-vs-robert-morris-universit
+ y-ill-springfield-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1433-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1433</p>
+DTSTART;TZID=America/Chicago:20150926T110000
+DTEND;TZID=America/Chicago:20150926T140000
+LOCATION:East Peoria\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Southwestern Illinois College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-illinois-centr
+ al-college-tournament
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1474-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Baseball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1474</p>
+DTSTART;TZID=America/Chicago:20150926T130000
+DTEND;TZID=America/Chicago:20150926T160000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Baseball vs  University of Illinois Springfield
+URL:http://lincin.llcc.edu/?ai1ec_event=baseball-at-university-of-illinois-
+ springfield
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1551-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1551</p>
+DTSTART;TZID=America/Chicago:20150926T130000
+DTEND;TZID=America/Chicago:20150926T160000
+LOCATION:East Peoria\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  South Suburban College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-south-suburban
+ -community-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1458-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1458</p>
+DTSTART;TZID=America/Chicago:20150926T140000
+DTEND;TZID=America/Chicago:20150926T170000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Soccer vs  Illinois Central College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-vs-illinois-central-col
+ lege
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1475-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Baseball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1475</p>
+DTSTART;TZID=America/Chicago:20150927T160000
+DTEND;TZID=America/Chicago:20150927T190000
+LOCATION:Heartland
+SEQUENCE:0
+SUMMARY:Baseball at  Parkland College
+URL:http://lincin.llcc.edu/?ai1ec_event=baseball-at-mwac-showcase-at-heartl
+ and-parkland
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000090770A95AAA9D001000000000000000
+ 01000000024226E10D193984B8534DF0DCD9FCF57
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150930T110000
+DTEND;TZID=America/Chicago:20150930T123000
+LOCATION:A. Lincoln Commons
+SEQUENCE:0
+SUMMARY:Show Off Your Culture
+URL:http://lincin.llcc.edu/?ai1ec_event=show-off-your-culture-2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1459-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1459</p>
+DTSTART;TZID=America/Chicago:20150930T160000
+DTEND;TZID=America/Chicago:20150930T190000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Soccer vs  Heartland Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-vs-heartland-community-
+ college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1434-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1434</p>
+DTSTART;TZID=America/Chicago:20150930T180000
+DTEND;TZID=America/Chicago:20150930T210000
+LOCATION:Lincoln\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball at  Lincoln College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-at-lincoln-colleg
+ e
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000708AA2B4AAA9D001000000000000000
+ 0100000007B2979D97215AD4AAE8D1AC9C948AA62
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151001T110000
+DTEND;TZID=America/Chicago:20151001T123000
+LOCATION:A. Lincoln Commons
+SEQUENCE:0
+SUMMARY:Show Off Your Culture
+URL:http://lincin.llcc.edu/?ai1ec_event=show-off-your-culture
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1545-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1545</p>
+DTSTART;TZID=America/Chicago:20151002T140000
+DTEND;TZID=America/Chicago:20151002T170000
+LOCATION:Springfield (LLCC)
+SEQUENCE:0
+SUMMARY:Softball vs  University of Illinois Springfield
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-vs-university-of-illinois-
+ springfield
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1460-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1460</p>
+DTSTART;TZID=America/Chicago:20151003T140000
+DTEND;TZID=America/Chicago:20151003T170000
+LOCATION:Greenville\, IL
+SEQUENCE:0
+SUMMARY:Men’s Soccer at  Greenville College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-at-greenville-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1477-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Baseball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1477</p>
+DTSTART;TZID=America/Chicago:20151006T160000
+DTEND;TZID=America/Chicago:20151006T190000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Baseball vs  Robert Morris University (Ill.)-Springfield
+URL:http://lincin.llcc.edu/?ai1ec_event=baseball-vs-robert-morris-universit
+ y-ill-springfield
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1461-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1461</p>
+DTSTART;TZID=America/Chicago:20151006T160000
+DTEND;TZID=America/Chicago:20151006T190000
+LOCATION:Lincoln\, IL
+SEQUENCE:0
+SUMMARY:Men’s Soccer at  Lincoln College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-at-lincoln-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000305F9742ACA9D001000000000000000
+ 010000000F696C9CA49E83E40A39658C651459108
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151007T100000
+DTEND;TZID=America/Chicago:20151007T130000
+LOCATION:Outside A. Lincoln Commons
+SEQUENCE:0
+SUMMARY:Henna Artist
+URL:http://lincin.llcc.edu/?ai1ec_event=henna-artist
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1462-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1462</p>
+DTSTART;TZID=America/Chicago:20151007T160000
+DTEND;TZID=America/Chicago:20151007T190000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Soccer vs  Illinois Wesleyan University
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-vs-illinois-wesleyan-un
+ iversity
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1435-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1435</p>
+DTSTART;TZID=America/Chicago:20151007T180000
+DTEND;TZID=America/Chicago:20151007T210000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Mineral Area College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-mineral-area-c
+ ollege
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000060DAE3BB7BF0D001000000000000000
+ 010000000F2DFCE83CA0AE4458880A9F92E97CA24
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151008T180000
+DTEND;TZID=America/Chicago:20151008T210000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:East Asia Film and Lecture Series “Spring\, Summer\, Fall\, Winter…
+ and Spring”
+URL:http://lincin.llcc.edu/?ai1ec_event=east-asia-film-series-spring-summer
+ -fall-winter-and-spring
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1436-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1436</p>
+DTSTART;TZID=America/Chicago:20151009T160000
+DTEND;TZID=America/Chicago:20151009T190000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Kishwaukee College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-lincoln-land-c
+ ommunity-classic-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1437-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1437</p>
+DTSTART;TZID=America/Chicago:20151009T200000
+DTEND;TZID=America/Chicago:20151009T230000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Kankakee Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-lincoln-land-c
+ ommunity-classic
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1417-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1417</p>
+DTSTART;TZID=America/Chicago:20151010T080000
+DTEND;TZID=America/Chicago:20151010T110000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Softball vs  Robert Morris University (Ill.)-Springfield
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-vs-robert-morris-universit
+ y-ill-springfield
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1552-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1552</p>
+DTSTART;TZID=America/Chicago:20151010T120000
+DTEND;TZID=America/Chicago:20151010T150000
+LOCATION:Springifeld\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Sauk Valley Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-harper-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1419-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Softball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1419</p>
+DTSTART;TZID=America/Chicago:20151010T153000
+DTEND;TZID=America/Chicago:20151010T183000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Softball vs  Kaskaskia College
+URL:http://lincin.llcc.edu/?ai1ec_event=softball-vs-kaskaskia-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1553-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1553</p>
+DTSTART;TZID=America/Chicago:20151010T160000
+DTEND;TZID=America/Chicago:20151010T190000
+LOCATION:Springifeld\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  East Central College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-sauk-valley-co
+ mmunity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1478-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Baseball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1478</p>
+DTSTART;TZID=America/Chicago:20151011T130000
+DTEND;TZID=America/Chicago:20151011T160000
+LOCATION:Macomb\, IL
+SEQUENCE:0
+SUMMARY:Baseball at  Western Illinois University
+URL:http://lincin.llcc.edu/?ai1ec_event=baseball-at-western-illinois-univer
+ sity
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1463-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1463</p>
+DTSTART;TZID=America/Chicago:20151011T140000
+DTEND;TZID=America/Chicago:20151011T170000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Soccer vs  Lewis & Clark Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-vs-lewis-clark-communit
+ y-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000050B66676D7A9D001000000000000000
+ 01000000003125BAE3F24DD4CAD56228D77B0F8DB
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151012T080000
+DTEND;TZID=America/Chicago:20151012T083000
+SEQUENCE:0
+SUMMARY:Campus Visit Day
+URL:http://lincin.llcc.edu/?ai1ec_event=campus-visit-day-4
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1464-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1464</p>
+DTSTART;TZID=America/Chicago:20151014T160000
+DTEND;TZID=America/Chicago:20151014T190000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Men’s Soccer at  Parkland College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-at-parkland-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1438-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1438</p>
+DTSTART;TZID=America/Chicago:20151015T183000
+DTEND;TZID=America/Chicago:20151015T213000
+LOCATION:Belleville\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball at  Southwestern Illinois College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-at-southwestern-i
+ llinois-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000020EDB65EACA9D001000000000000000
+ 010000000C41BBF2C43230F4BB7A59343243C7839
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151016T110000
+DTEND;TZID=America/Chicago:20151016T150000
+LOCATION:A. Lincoln Commons
+SEQUENCE:0
+SUMMARY:Spooktacular
+URL:http://lincin.llcc.edu/?ai1ec_event=spooktacular
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1439-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1439</p>
+DTSTART;TZID=America/Chicago:20151017T090000
+DTEND;TZID=America/Chicago:20151017T120000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Lincoln College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-mwac-volleybal
+ l-tournament
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1554-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1554</p>
+DTSTART;TZID=America/Chicago:20151017T110000
+DTEND;TZID=America/Chicago:20151017T140000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Lewis & Clark Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-lewis-and-clar
+ k-community-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1555-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1555</p>
+DTSTART;TZID=America/Chicago:20151017T150000
+DTEND;TZID=America/Chicago:20151017T180000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball at  Parkland College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-at-parkland-colle
+ ge-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000B03321595CF0D001000000000000000
+ 010000000E424A7F11A1CAC40A48C841F20A25D03
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151018T160000
+DTEND;TZID=America/Chicago:20151018T180000
+SEQUENCE:0
+SUMMARY:Recital Series\, Central Illinois Woodwind Quintet
+URL:http://lincin.llcc.edu/?ai1ec_event=recital-series-central-illinois-woo
+ dwind-quintet
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000205DC3C8ACA9D001000000000000000
+ 01000000027D796E99EEC604C94E4BD3483080B5D
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151019T100000
+DTEND;TZID=America/Chicago:20151019T140000
+SEQUENCE:0
+SUMMARY:Relax and Recharge
+URL:http://lincin.llcc.edu/?ai1ec_event=relax-and-recharge
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1509-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1509</p>
+DTSTART;TZID=America/Chicago:20151019T193000
+DTEND;TZID=America/Chicago:20151019T223000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Lindenwood-Bellville (Scrimmage)
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-lindenwood-bellv
+ ille-scrimmage-3
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1465-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Soccer
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1465</p>
+DTSTART;TZID=America/Chicago:20151020T190000
+DTEND;TZID=America/Chicago:20151020T220000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Soccer at  Robert Morris University (Ill.)-Springfield
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-soccer-at-robert-morris-univer
+ sity-ill-springfield
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000004B0739ADA9D001000000000000000
+ 0100000002E16CE409A21B74E965C174987F59D92
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151021T110000
+DTEND;TZID=America/Chicago:20151021T130000
+LOCATION:R.H. Stephens Room
+SEQUENCE:0
+SUMMARY:Leadership Series: Karla Carwile
+URL:http://lincin.llcc.edu/?ai1ec_event=leadership-series-karla-carwile
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1440-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1440</p>
+DTSTART;TZID=America/Chicago:20151021T180000
+DTEND;TZID=America/Chicago:20151021T210000
+LOCATION:East Peoria\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball at  Illinois Central College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-at-illinois-centr
+ al-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1441-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1441</p>
+DTSTART;TZID=America/Chicago:20151024T143000
+DTEND;TZID=America/Chicago:20151024T173000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Lincoln Trail College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-at-lincoln-trail-
+ college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1443-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1443</p>
+DTSTART;TZID=America/Chicago:20151025T090000
+DTEND;TZID=America/Chicago:20151025T120000
+LOCATION:Decatur\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Illinois Wesleyan JV
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-millikin-unive
+ rsity-tournament
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1556-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1556</p>
+DTSTART;TZID=America/Chicago:20151025T130000
+DTEND;TZID=America/Chicago:20151025T160000
+LOCATION:Decatur\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  MacMurray College JV
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-macmurray-jv
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000000063E452ADA9D001000000000000000
+ 01000000008F71C3EE4F2E248900441015481F831
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151029T110000
+DTEND;TZID=America/Chicago:20151029T120000
+LOCATION:R.H. Stephens Room
+SEQUENCE:0
+SUMMARY:Sexual Assault presentation
+URL:http://lincin.llcc.edu/?ai1ec_event=sexual-assault-presentation
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1444-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1444</p>
+DTSTART;TZID=America/Chicago:20151030T120000
+DTEND;TZID=America/Chicago:20151030T150000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  South Suburban College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-parkland-colle
+ ge
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1561-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1561</p>
+DTSTART;TZID=America/Chicago:20151030T153000
+DTEND;TZID=America/Chicago:20151030T183000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Kishwaukee College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-kishwaukee-col
+ lege
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1445-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1445</p>
+DTSTART;TZID=America/Chicago:20151031T141500
+DTEND;TZID=America/Chicago:20151031T171500
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Sauk Valley Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-at-parkland-colle
+ ge-tournament
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1562-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Volleyball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1562</p>
+DTSTART;TZID=America/Chicago:20151031T160000
+DTEND;TZID=America/Chicago:20151031T190000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Volleyball vs  Carl Sandburg College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-volleyball-vs-carl-sandburg-
+ college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1479-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1479</p>
+DTSTART;TZID=America/Chicago:20151102T190000
+DTEND;TZID=America/Chicago:20151102T220000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Hannibal-LaGrange College (Mo.)
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-hannibal-lagrang
+ e-college-mo
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000C0E40C75ADA9D001000000000000000
+ 010000000B2689098E07FDF48AD21E60BFA1872BF
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151104T113000
+DTEND;TZID=America/Chicago:20151104T133000
+LOCATION:A. Lincoln Commons
+SEQUENCE:0
+SUMMARY:Thank You to the Troops
+URL:http://lincin.llcc.edu/?ai1ec_event=thank-you-to-the-troops-2
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000102B3084ADA9D001000000000000000
+ 01000000078FE214C0DA83045AC637B559DA32D9D
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151105T113000
+DTEND;TZID=America/Chicago:20151105T133000
+SEQUENCE:0
+SUMMARY:Thank You to the Troops
+URL:http://lincin.llcc.edu/?ai1ec_event=thank-you-to-the-troops
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000F07973E87BF0D001000000000000000
+ 010000000F711AC7F408B3941B66CDF44769217C5
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151105T180000
+DTEND;TZID=America/Chicago:20151105T210000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:East Asia Film and Lecture Series “Tokyo Story”
+URL:http://lincin.llcc.edu/?ai1ec_event=east-asia-film-series-tokyo-story
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1518-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1518</p>
+DTSTART;TZID=America/Chicago:20151106T173000
+DTEND;TZID=America/Chicago:20151106T203000
+LOCATION:Lincoln\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Moraine Valley Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-lincoln-colleg
+ e-classic-2
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1519-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1519</p>
+DTSTART;TZID=America/Chicago:20151107T113000
+DTEND;TZID=America/Chicago:20151107T143000
+LOCATION:Lincoln\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Black Hawk College-Moline
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-lincoln-colleg
+ e-classic
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000010DA2193ADA9D001000000000000000
+ 0100000001965551A96185F4F8F340D1C3987DF5E
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151109T090000
+DTEND;TZID=America/Chicago:20151109T150000
+LOCATION:Student Union
+SEQUENCE:0
+SUMMARY:Blood Drive
+URL:http://lincin.llcc.edu/?ai1ec_event=blood-drive-2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1482-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1482</p>
+DTSTART;TZID=America/Chicago:20151110T190000
+DTEND;TZID=America/Chicago:20151110T220000
+LOCATION:West Burlington\, IA
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Southeastern Iowa Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-southeastern-iow
+ a-community-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000B06FE1A7ADA9D001000000000000000
+ 010000000ABED3161C6B15E4A94660BF2E729DFCD
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151111T120000
+DTEND;TZID=America/Chicago:20151111T130000
+LOCATION:A. Lincoln Commons
+SEQUENCE:0
+SUMMARY:Veterans Day Ceremony
+URL:http://lincin.llcc.edu/?ai1ec_event=veterans-day-ceremony-2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1520-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1520</p>
+DTSTART;TZID=America/Chicago:20151112T173000
+DTEND;TZID=America/Chicago:20151112T203000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Kaskaskia College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-kaskaskia-coll
+ ege
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1521-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1521</p>
+DTSTART;TZID=America/Chicago:20151114T140000
+DTEND;TZID=America/Chicago:20151114T170000
+LOCATION:Mattoon\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Lake Land College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-lake-land-coll
+ ege
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000080C60B7F5CF0D001000000000000000
+ 01000000067A81F9EA6DC544A92B2ED0502FE0DBA
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151115T160000
+DTEND;TZID=America/Chicago:20151115T180000
+SEQUENCE:0
+SUMMARY:Recital Series\, Theresa O’Hare and Tom Irwin
+URL:http://lincin.llcc.edu/?ai1ec_event=recital-series-theresa-ohare-and-to
+ m-irwin
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000005091BF3EAEA9D001000000000000000
+ 010000000B7A0018CB8EB914FBDD1530EB533C02B
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151116T090000
+DTEND;TZID=America/Chicago:20151116T100000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:Hemingway Workshop
+URL:http://lincin.llcc.edu/?ai1ec_event=hemingway-workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000C0CB5047B0A9D001000000000000000
+ 010000000729AFC007F94C74F8C80D830247D243B
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151116T120000
+DTEND;TZID=America/Chicago:20151116T130000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:Dine and Develop
+URL:http://lincin.llcc.edu/?ai1ec_event=dine-and-develop
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1522-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1522</p>
+DTSTART;TZID=America/Chicago:20151118T173000
+DTEND;TZID=America/Chicago:20151118T203000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  St. Louis Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-st-louis-commu
+ nity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1484-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1484</p>
+DTSTART;TZID=America/Chicago:20151118T193000
+DTEND;TZID=America/Chicago:20151118T223000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Illinois Wesleyan University
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-illinois-wesleya
+ n-university
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1523-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1523</p>
+DTSTART;TZID=America/Chicago:20151123T193000
+DTEND;TZID=America/Chicago:20151123T223000
+LOCATION:Belleville\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Lindenwood University-Belleville
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-lindenwood-uni
+ versity-belleville
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1486-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1486</p>
+DTSTART;TZID=America/Chicago:20151124T190000
+DTEND;TZID=America/Chicago:20151124T220000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Black Hawk College-East
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-black-hawk-colle
+ ge-east
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1524-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1524</p>
+DTSTART;TZID=America/Chicago:20151202T173000
+DTEND;TZID=America/Chicago:20151202T203000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Illinois Valley Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-illinois-valle
+ y-community-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1487-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1487</p>
+DTSTART;TZID=America/Chicago:20151202T193000
+DTEND;TZID=America/Chicago:20151202T223000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Illinois Valley Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-illinois-valley-
+ community-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1488-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1488</p>
+DTSTART;TZID=America/Chicago:20151205T140000
+DTEND;TZID=America/Chicago:20151205T170000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  St. Louis Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-st-louis-communi
+ ty-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1527-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1527</p>
+DTSTART;TZID=America/Chicago:20151208T173000
+DTEND;TZID=America/Chicago:20151208T203000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Millikin University JV
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-millikin-unive
+ rsity-jv
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1489-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1489</p>
+DTSTART;TZID=America/Chicago:20151208T193000
+DTEND;TZID=America/Chicago:20151208T223000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Rend Lake College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-rend-lake-colleg
+ e
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1528-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1528</p>
+DTSTART;TZID=America/Chicago:20151212T140000
+DTEND;TZID=America/Chicago:20151212T170000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Black Hawk College-East
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-black-hawk-col
+ lege-east
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1491-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1491</p>
+DTSTART;TZID=America/Chicago:20151219T130000
+DTEND;TZID=America/Chicago:20151219T160000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  University of Wisconsin Rock County
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-university-of-wi
+ sconsin-rock-county
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1492-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1492</p>
+DTSTART;TZID=America/Chicago:20160104T190000
+DTEND;TZID=America/Chicago:20160104T220000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Lindenwood University-Belleville
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-lindenwood-unive
+ rsity-belleville
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1493-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1493</p>
+DTSTART;TZID=America/Chicago:20160106T190000
+DTEND;TZID=America/Chicago:20160106T220000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  North Central Missouri College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-north-central-mi
+ ssouri-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1529-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1529</p>
+DTSTART;TZID=America/Chicago:20160109T140000
+DTEND;TZID=America/Chicago:20160109T170000
+LOCATION:Decatur\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Millikin University JV
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-millikin-unive
+ rsity-jv
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1495-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1495</p>
+DTSTART;TZID=America/Chicago:20160113T193000
+DTEND;TZID=America/Chicago:20160113T223000
+LOCATION:St. Louis\, MO
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  St. Louis Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-st-louis-communi
+ ty-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1531-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1531</p>
+DTSTART;TZID=America/Chicago:20160116T150000
+DTEND;TZID=America/Chicago:20160116T180000
+LOCATION:East Peoria\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Illinois Central College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-illinois-centr
+ al-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1497-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1497</p>
+DTSTART;TZID=America/Chicago:20160118T130000
+DTEND;TZID=America/Chicago:20160118T160000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Harry S. Truman College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-harry-s-truman-c
+ ollege
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1532-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1532</p>
+DTSTART;TZID=America/Chicago:20160118T150000
+DTEND;TZID=America/Chicago:20160118T180000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Lindenwood University-Belleville
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-lindenwood-uni
+ versity-belleville
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1533-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1533</p>
+DTSTART;TZID=America/Chicago:20160123T140000
+DTEND;TZID=America/Chicago:20160123T170000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Lincoln College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-lincoln-colleg
+ e
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1498-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1498</p>
+DTSTART;TZID=America/Chicago:20160123T160000
+DTEND;TZID=America/Chicago:20160123T190000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Lincoln College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-lincoln-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1534-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1534</p>
+DTSTART;TZID=America/Chicago:20160127T173000
+DTEND;TZID=America/Chicago:20160127T203000
+LOCATION:Danville\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Danville Area Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-danville-area-
+ community-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1499-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1499</p>
+DTSTART;TZID=America/Chicago:20160127T193000
+DTEND;TZID=America/Chicago:20160127T223000
+LOCATION:Danville\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Danville Area Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-danville-area-co
+ mmunity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1535-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1535</p>
+DTSTART;TZID=America/Chicago:20160130T140000
+DTEND;TZID=America/Chicago:20160130T170000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Lewis & Clark Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-lewis-clark-co
+ mmunity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1500-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1500</p>
+DTSTART;TZID=America/Chicago:20160130T160000
+DTEND;TZID=America/Chicago:20160130T190000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Illinois Central College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-illinois-central
+ -college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000E0A930C45EF0D001000000000000000
+ 01000000015837945458A354FA81FC14C2A5B8080
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160131T160000
+DTEND;TZID=America/Chicago:20160131T180000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:Recital Series\, Melinda Pitt Kaye
+URL:http://lincin.llcc.edu/?ai1ec_event=recital-series-melinda-pitt-kaye
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1536-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1536</p>
+DTSTART;TZID=America/Chicago:20160203T173000
+DTEND;TZID=America/Chicago:20160203T203000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Parkland College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-parkland-colle
+ ge
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1501-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1501</p>
+DTSTART;TZID=America/Chicago:20160203T193000
+DTEND;TZID=America/Chicago:20160203T223000
+LOCATION:Champaign\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Parkland College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-parkland-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1537-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1537</p>
+DTSTART;TZID=America/Chicago:20160206T140000
+DTEND;TZID=America/Chicago:20160206T170000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  John Wood Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-john-wood-comm
+ unity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1502-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1502</p>
+DTSTART;TZID=America/Chicago:20160206T160000
+DTEND;TZID=America/Chicago:20160206T190000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  John Wood Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-john-wood-commun
+ ity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1503-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1503</p>
+DTSTART;TZID=America/Chicago:20160208T190000
+DTEND;TZID=America/Chicago:20160208T220000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  MacMurray College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-macmurray-colleg
+ e
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1538-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1538</p>
+DTSTART;TZID=America/Chicago:20160213T140000
+DTEND;TZID=America/Chicago:20160213T170000
+LOCATION:Lincoln\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Lincoln College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-lincoln-colleg
+ e
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1539-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1539</p>
+DTSTART;TZID=America/Chicago:20160217T173000
+DTEND;TZID=America/Chicago:20160217T203000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Danville Area Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-danville-area-
+ community-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1505-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1505</p>
+DTSTART;TZID=America/Chicago:20160217T193000
+DTEND;TZID=America/Chicago:20160217T223000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Danville Area Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-danville-area-co
+ mmunity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1540-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1540</p>
+DTSTART;TZID=America/Chicago:20160220T140000
+DTEND;TZID=America/Chicago:20160220T170000
+LOCATION:Godfrey\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  Lewis & Clark Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-lewis-clark-co
+ mmunity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1506-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1506</p>
+DTSTART;TZID=America/Chicago:20160220T160000
+DTEND;TZID=America/Chicago:20160220T190000
+LOCATION:East Peoria\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  Illinois Central College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-illinois-central
+ -college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000B03BE70A5FF0D001000000000000000
+ 010000000DD2B08FDE7BDB249B5B7AFC08F579AA3
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160221T160000
+DTEND;TZID=America/Chicago:20160221T180000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:Recital Series\, River Ramblers
+URL:http://lincin.llcc.edu/?ai1ec_event=recital-series-river-ramblers
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1541-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1541</p>
+DTSTART;TZID=America/Chicago:20160224T173000
+DTEND;TZID=America/Chicago:20160224T203000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball vs  Parkland College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-vs-parkland-colle
+ ge
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1507-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1507</p>
+DTSTART;TZID=America/Chicago:20160224T193000
+DTEND;TZID=America/Chicago:20160224T223000
+LOCATION:Springfield\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball vs  Parkland College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-vs-parkland-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1542-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Women's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1542</p>
+DTSTART;TZID=America/Chicago:20160227T140000
+DTEND;TZID=America/Chicago:20160227T170000
+LOCATION:Quincy\, IL
+SEQUENCE:0
+SUMMARY:Women’s Basketball at  John Wood Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=womens-basketball-at-john-wood-comm
+ unity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_1508-www.lincolnlandloggers.com
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Men's Basketball
+CONTACT:
+DESCRIPTION:<p> http://www.lincolnlandloggers.com/calendar.aspx?id=1508</p>
+DTSTART;TZID=America/Chicago:20160227T160000
+DTEND;TZID=America/Chicago:20160227T190000
+LOCATION:Quincy\, IL
+SEQUENCE:0
+SUMMARY:Men’s Basketball at  John Wood Community College
+URL:http://lincin.llcc.edu/?ai1ec_event=mens-basketball-at-john-wood-commun
+ ity-college
+X-TAGS;LANGUAGE=en-US:Athletics
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000F06E15645FF0D001000000000000000
+ 010000000951DC4481E605F4E9EBB52C2BA2B9736
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160320T160000
+DTEND;TZID=America/Chicago:20160320T180000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:Recital Series\, Brickhouse Brass
+URL:http://lincin.llcc.edu/?ai1ec_event=recital-series-brickhouse-brass
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000007085EFA25FF0D001000000000000000
+ 010000000BFA4D324EEA18442B55B29DC65686698
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160403T160000
+DTEND;TZID=America/Chicago:20160403T180000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:Recital Series\, Emerald Underground
+URL:http://lincin.llcc.edu/?ai1ec_event=recital-series-emerald-underground
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000080CB3ED05FF0D001000000000000000
+ 010000000749EABF9B10B8747AE7B0D317FA703F6
+DTSTAMP:20150920T002424Z
+CATEGORIES;LANGUAGE=en-US:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160501T160000
+DTEND;TZID=America/Chicago:20160501T180000
+LOCATION:Trutter Center
+SEQUENCE:0
+SUMMARY:Recital Series\, Paul VanHeuklum\, Native American Flutes
+URL:http://lincin.llcc.edu/?ai1ec_event=recital-series-paul-vanheuklum-nati
+ ve-american-flutes
+END:VEVENT
+END:VCALENDAR

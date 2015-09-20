@@ -1,0 +1,576 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.147.244.183//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.theshanecenter.org
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1847@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Outreach Production
+CONTACT:
+DESCRIPTION:<p style='text-align: left\;'><a href='http://www.theshanecente
+ r.org/wp-content/uploads/2015/09/wildest_west_cover.jpg'><img class='wp-im
+ age-1849 aligncenter' src='http://www.theshanecenter.org/wp-content/upload
+ s/2015/09/wildest_west_cover-652x1024.jpg' alt='wildest_west_cover' width=
+ '484' height='760' /></a>The Shane Center’s educational outreach with the 
+ Park County Homeschool Network culminates in two public performances of <e
+ m>The Wildest West Show Ever! </em>on Friday\, September 18th at 7pm and S
+ aturday\, September 19th at 12:30 pm.</p>\n<p style='text-align: left\;'>T
+ ickets are available at the door.</p>
+DTSTART;TZID=America/Denver:20150918T190000
+DTEND;TZID=America/Denver:20150918T200000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 E Lewis St\, Livingst
+ on\, MT 59047\, USA
+SEQUENCE:0
+SUMMARY:The Wildest West Show Ever!
+URL:http://www.theshanecenter.org/event/the-wildest-west-show-ever/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1848@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Outreach Production
+CONTACT:
+DESCRIPTION:<p style='text-align: left\;'><a href='http://www.theshanecente
+ r.org/wp-content/uploads/2015/09/wildest_west_cover.jpg'><img class='wp-im
+ age-1849 aligncenter' src='http://www.theshanecenter.org/wp-content/upload
+ s/2015/09/wildest_west_cover-652x1024.jpg' alt='wildest_west_cover' width=
+ '484' height='760' /></a>The Shane Center’s educational outreach with the 
+ Park County Homeschool Network culminates in two public performances of <e
+ m>The Wildest West Show Ever! </em>on Friday\, September 18th at 7pm and S
+ aturday\, September 19th at 12:30 pm.</p>\n<p style='text-align: left\;'>T
+ ickets are available at the door.</p>
+DTSTART;TZID=America/Denver:20150919T123000
+DTEND;TZID=America/Denver:20150919T133000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 E Lewis St\, Livingst
+ on\, MT 59047\, USA
+SEQUENCE:0
+SUMMARY:The Wildest West Show Ever!
+URL:http://www.theshanecenter.org/event/the-wildest-west-show-ever-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1818@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Classes
+CONTACT:Chaeli Mulholland\; 406-600-4616\; cmulholland08@gmail.com
+DESCRIPTION:<h1 style='text-align: center\;'></h1>\n<p style='text-align: l
+ eft\;'><a href='http://www.theshanecenter.org/wp-content/uploads/2015/09/D
+ ance-Class-Flyer.jpg'><img class='wp-image-1817 aligncenter' src='http://w
+ ww.theshanecenter.org/wp-content/uploads/2015/09/Dance-Class-Flyer-768x102
+ 4.jpg' alt='Dance Class Flyer' width='484' height='645' /></a>Get your dan
+ ce on! The Shane Center is delighted to offer another round of dance class
+ es instructed by Chaeli Mulholland. Jazz/Hip Hop Beginner Level 1 for ages
+  8-12 will take place Saturdays from 10 – 10:50 am beginning October 3rd.<
+ /p>\n<p style='text-align: left\;'>This is great way to get ready for this
+  season’s shows – or just come and have a blast!</p>\n<p style='text-align
+ : left\;'>Classes are $40 per month. Discounts are available for multiple 
+ family members and those taking multiple classes.</p>\n<p style='text-alig
+ n: left\;'>Call or email Chaeli Mulholland for more information and reserv
+ e your spot today!</p>\n<p style='text-align: left\;'>406-600-4616 / <a hr
+ ef='mailto:cmulholland08@gmail.com' target='_blank'>cmulholland08@gmail.co
+ m</a></p>
+DTSTART;TZID=America/Denver:20151003T100000
+DTEND;TZID=America/Denver:20151003T105000
+GEO:+45.662346;-110.555377
+LOCATION:The Mike & Eve Art Rehearsal Hall at the Shane Center @ 415 E Lewi
+ s St\, Livingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160528T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Jazz/Hip Hop Dance Class Level 1
+URL:http://www.theshanecenter.org/event/jazz-hip-hop-dance-class-level-1/
+X-COST:$40/month
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1820@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Classes
+CONTACT:Chaeli Mulholland\; 406-600-4616\; cmulholland08@gmail.com
+DESCRIPTION:<h1 style='text-align: center\;'></h1>\n<p style='text-align: l
+ eft\;'><a href='http://www.theshanecenter.org/wp-content/uploads/2015/09/D
+ ance-Class-Flyer.jpg'><img class='wp-image-1817 aligncenter' src='http://w
+ ww.theshanecenter.org/wp-content/uploads/2015/09/Dance-Class-Flyer-768x102
+ 4.jpg' alt='Dance Class Flyer' width='484' height='645' /></a>Get your dan
+ ce on! The Shane Center is delighted to offer another round of dance class
+ es instructed by Chaeli Mulholland. Jazz/Hip Hop Beginner Level 2 for ages
+  13+ will take place Saturdays from 11 – 11:50 am beginning October 3rd.</
+ p>\n<p style='text-align: left\;'>This is great way to get ready for this 
+ season’s shows – or just come and have a blast!</p>\n<p style='text-align:
+  left\;'>Classes are $40 per month. Discounts are available for multiple f
+ amily members and those taking multiple classes.</p>\n<p style='text-align
+ : left\;'>Call or email Chaeli Mulholland for more information and reserve
+  your spot today!</p>\n<p style='text-align: left\;'>406-600-4616 / <a hre
+ f='mailto:cmulholland08@gmail.com' target='_blank'>cmulholland08@gmail.com
+ </a></p>
+DTSTART;TZID=America/Denver:20151003T110000
+DTEND;TZID=America/Denver:20151003T115000
+GEO:+45.662346;-110.555377
+LOCATION:The Mike & Eve Art Rehearsal Hall at the Shane Center @ 415 E Lewi
+ s St\, Livingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160528T235959Z;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Jazz/Hip Hop Dance Class Level 2
+URL:http://www.theshanecenter.org/event/jazzhip-hop-dance-class-level-2/
+X-COST:$40/month
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1816@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Classes
+CONTACT:Chaeli Mulholland\; 406-600-4616\; cmulholland08@gmail.com
+DESCRIPTION:<h1 style='text-align: center\;'></h1>\n<p style='text-align: l
+ eft\;'><a href='http://www.theshanecenter.org/wp-content/uploads/2015/09/D
+ ance-Class-Flyer.jpg'><img class='wp-image-1817 aligncenter' src='http://w
+ ww.theshanecenter.org/wp-content/uploads/2015/09/Dance-Class-Flyer-768x102
+ 4.jpg' alt='Dance Class Flyer' width='484' height='645' /></a>Get your dan
+ ce on! The Shane Center is delighted to offer another round of dance class
+ es instructed by Chaeli Mulholland. Tap Dance for ages 13+ will take place
+  on Tuesdays from 6 – 6:50 pm beginning October 6th.</p>\n<p style='text-a
+ lign: left\;'>This is great way to get ready for this season’s community t
+ heatre shows – or just come and have a blast! No tap shoes necessary.</p>
+ \n<p style='text-align: left\;'>Classes are $40 per month. Discounts are a
+ vailable for multiple family members and those taking multiple classes.</p
+ >\n<p style='text-align: left\;'>Call or email Chaeli Mulholland for more 
+ information and reserve your spot today!</p>\n<p style='text-align: left\;
+ '>406-600-4616 / <a href='mailto:cmulholland08@gmail.com' target='_blank'>
+ cmulholland08@gmail.com</a></p>
+DTSTART;TZID=America/Denver:20151006T180000
+DTEND;TZID=America/Denver:20151006T185000
+GEO:+45.662346;-110.555377
+LOCATION:The Mike & Eve Art Rehearsal Hall at the Shane Center @ 415 E Lewi
+ s St\, Livingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160524T235959Z;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Tap Dance Class
+URL:http://www.theshanecenter.org/event/tap-dance-class-2/
+X-COST:$40/month
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-831@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Film Screening\,Independent Event
+CONTACT:Livingston Film Festival\; livingstonfilmfestival@gmail.com
+DESCRIPTION:<p> </p>\n<p style='text-align: left\;'><a href='http://www.the
+ shanecenter.org/wp-content/uploads/2014/09/LFFLogo.jpg'><img class=' wp-im
+ age-1045 aligncenter' src='http://www.theshanecenter.org/wp-content/upload
+ s/2014/09/LFFLogo-300x150.jpg' alt='EmailPoster' width='426' height='213' 
+ /></a>The Livingston Film Festival screens a film on the third Tuesday of 
+ every month here at the Shane Center. These screenings are  always free an
+ d open to the public.</p>\n<p style='text-align: left\;'>Check back for de
+ tails! You can also find the LFF on facebook <a href='https://www.facebook
+ .com/LivingstonFilmFest'>here</a>.</p>
+DTSTART;TZID=America/Denver:20151020T190000
+DTEND;TZID=America/Denver:20151020T210000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=MONTHLY;UNTIL=20160930T235959Z;BYDAY=3TU
+SEQUENCE:0
+SUMMARY:Livingston Film Festival
+URL:http://www.theshanecenter.org/event/livingston-film-festival/
+X-COST:Free!
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1756@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
+ www.theshanecenter.org/wp-content/uploads/2015/08/woods_fb1.jpg'><img clas
+ s='wp-image-1757 size-full aligncenter' src='http://www.theshanecenter.org
+ /wp-content/uploads/2015/08/woods_fb1.jpg' alt='' width='484' height='252'
+  /></a></p>\n<p style='text-align: left\;'>The first show of our 2015-2016
+  Community Theatre Season will be Stephen Sondheim’s <strong><em>Into the 
+ Woods</em></strong>. Fairy tales collide in this modern musical twist on t
+ he Brothers Grimm and the notion of ‘happily ever after.’</p>\n<p style='t
+ ext-align: left\;'><em>Into the Woods</em> runs in the Dulcie Theatre from
+  October 30 through November 22\, playing Fridays and Saturdays at 8pm\, w
+ ith Sunday matinees at 3pm. Tickets are $16 for adults\, $13 for college s
+ tudents and seniors\, and $10 for youth\, and are available by calling the
+  box office at (406) 222-1420.</p>
+DTSTART;TZID=America/Denver:20151030T200000
+DTEND;TZID=America/Denver:20151030T230000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151122T235959Z;BYDAY=FR,SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Into the Woods
+URL:http://www.theshanecenter.org/event/into-the-woods/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1758@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
+ www.theshanecenter.org/wp-content/uploads/2015/08/woods_fb1.jpg'><img clas
+ s='wp-image-1757 size-full aligncenter' src='http://www.theshanecenter.org
+ /wp-content/uploads/2015/08/woods_fb1.jpg' alt='' width='484' height='252'
+  /></a></p>\n<p style='text-align: left\;'>The first show of our 2015-2016
+  Community Theatre Season will be Stephen Sondheim’s <strong><em>Into the 
+ Woods</em></strong>. Fairy tales collide in this modern musical twist on t
+ he Brothers Grimm and the notion of ‘happily ever after.’</p>\n<p style='t
+ ext-align: left\;'><em>Into the Woods</em> runs in the Dulcie Theatre from
+  October 30 through November 22\, playing Fridays and Saturdays at 8pm\, w
+ ith Sunday matinees at 3pm. Tickets are $16 for adults\, $13 for college s
+ tudents and seniors\, and $10 for youth\, and are available by calling the
+  box office at (406) 222-1420.</p>
+DTSTART;TZID=America/Denver:20151101T150000
+DTEND;TZID=America/Denver:20151101T180000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151122T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Into the Woods Matinee
+URL:http://www.theshanecenter.org/event/into-the-woods-matinee/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1822@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><a href='http://www.th
+ eshanecenter.org/wp-content/uploads/2015/09/vaud_web.jpg'><img class='size
+ -full wp-image-1804 aligncenter' src='http://www.theshanecenter.org/wp-con
+ tent/uploads/2015/09/vaud_web.jpg' alt='vaud_web' width='484' height='252'
+  /></a>The<em> Holiday Vaudeville Extravaganza!</em> is a yearly tradition
+  at the Shane Center\, offering a delightful (if sometimes irreverent) tak
+ e on the cherished chestnuts of the season. We’ve assembled another crack 
+ squad of talented community performers to present songs\, skits\, and viva
+ cious acts of vaudevillian virtuosity that will amaze\, amuse\, and mystif
+ y – all presented with a heaping helping of heart. Fun for the whole famil
+ y\, and guaranteed to get you in the spirit!</p>\n<p style='text-align: le
+ ft\;'><em>Holiday Vaudeville Extravaganza!</em> runs in the Dulcie Theatre
+  at the Shane Center in Livingston from December 11 through 20\, playing F
+ ridays and Saturdays at 8 pm\, with Sunday matinees at 3 pm. Tickets are $
+ 16 for adults\, $13 for college students and seniors\, and $10 for youth\,
+  and are available by calling the box office at (406) 222-1420.</p>\n<p> <
+ /p>
+DTSTART;TZID=America/Denver:20151211T200000
+DTEND;TZID=America/Denver:20151211T223000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151220T235959Z;BYDAY=FR,SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Holiday Vaudeville Extravaganza!
+URL:http://www.theshanecenter.org/event/holiday-vaudeville-extravaganza-4/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1823@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><a href='http://www.th
+ eshanecenter.org/wp-content/uploads/2015/09/vaud_web.jpg'><img class='size
+ -full wp-image-1804 aligncenter' src='http://www.theshanecenter.org/wp-con
+ tent/uploads/2015/09/vaud_web.jpg' alt='vaud_web' width='484' height='252'
+  /></a>The<em> Holiday Vaudeville Extravaganza!</em> is a yearly tradition
+  at the Shane Center\, offering a delightful (if sometimes irreverent) tak
+ e on the cherished chestnuts of the season. We’ve assembled another crack 
+ squad of talented community performers to present songs\, skits\, and viva
+ cious acts of vaudevillian virtuosity that will amaze\, amuse\, and mystif
+ y – all presented with a heaping helping of heart. Fun for the whole famil
+ y\, and guaranteed to get you in the spirit!</p>\n<p style='text-align: le
+ ft\;'><em>Holiday Vaudeville Extravaganza!</em> runs in the Dulcie Theatre
+  at the Shane Center in Livingston from December 11 through 20\, playing F
+ ridays and Saturdays at 8 pm\, with Sunday matinees at 3 pm. Tickets are $
+ 16 for adults\, $13 for college students and seniors\, and $10 for youth\,
+  and are available by calling the box office at (406) 222-1420.</p>\n<p> <
+ /p>
+DTSTART;TZID=America/Denver:20151213T150000
+DTEND;TZID=America/Denver:20151213T173000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151220T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Holiday Vaudeville Extravaganza! Matinee
+URL:http://www.theshanecenter.org/event/holiday-vaudeville-extravaganza-mat
+ inee-4/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1824@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Auditions
+CONTACT:Russell Lewis\; 406-222-1420\; russ@theshanecenter.org
+DESCRIPTION:<p><a href='http://www.theshanecenter.org/wp-content/uploads/20
+ 15/09/superstar_logo_web.jpg'><img class='alignleft wp-image-1797 size-ful
+ l' src='http://www.theshanecenter.org/wp-content/uploads/2015/09/superstar
+ _logo_web.jpg' alt='' width='260' height='210' /></a></p>\n<p>On Tuesday\,
+  January 19th at 7:00 pm director Russell Lewis will hold open auditions f
+ or <em>Jesus Christ Superstar</em> in the Ballroom at the Shane Center.</p
+ >\n<p>Roles will be available for ages 13 and up. No prepared audition mat
+ erial is required.</p>\n<p>Rehearsals for this production will take place 
+ weekday evenings from January 25 through March 3. <em>Jesus Christ Superst
+ ar</em> runs weekends from March 4 through 26.</p>\n<p>For questions or mo
+ re information\, please contact Russ at (406) 222-1420 or russ@theshanecen
+ ter.org.</p>
+DTSTART;TZID=America/Denver:20160119T190000
+DTEND;TZID=America/Denver:20160119T220000
+GEO:+45.662346;-110.555377
+LOCATION:The Ballroom at the Shane Center @ 415 East Lewis Street\, Livings
+ ton\, MT 59047\, USA
+SEQUENCE:0
+SUMMARY:Auditions: Jesus Christ Superstar
+URL:http://www.theshanecenter.org/event/auditions-jesus-christ-superstar/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1826@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><em><a href='http://ww
+ w.theshanecenter.org/wp-content/uploads/2015/09/superstar_web.jpg'><img cl
+ ass='size-full wp-image-1805 aligncenter' src='http://www.theshanecenter.o
+ rg/wp-content/uploads/2015/09/superstar_web.jpg' alt='superstar_web' width
+ ='484' height='252' /></a>Jesus Christ Superstar</em> runs in the Dulcie T
+ heatre from March 4 through March 26\, playing Fridays and Saturdays at 8 
+ pm\, with Sunday matinees at 3 pm. Special Saturday matinees will be prese
+ nted at 3 pm on 3/12\, 3/19\, and 3/26. This show will close on Saturday e
+ vening\, March 26th.</p>\n<p style='text-align: left\;'>Tickets are $16 fo
+ r adults\, $13 for college students and seniors\, and $10 for youth\, and 
+ are available by calling the box office at (406) 222-1420.</p>\n<p> </p>
+DTSTART;TZID=America/Denver:20160304T200000
+DTEND;TZID=America/Denver:20160304T230000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160326T235959Z;BYDAY=FR,SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Jesus Christ Superstar
+URL:http://www.theshanecenter.org/event/jesus-christ-superstar/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1827@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><em><a href='http://ww
+ w.theshanecenter.org/wp-content/uploads/2015/09/superstar_web.jpg'><img cl
+ ass='size-full wp-image-1805 aligncenter' src='http://www.theshanecenter.o
+ rg/wp-content/uploads/2015/09/superstar_web.jpg' alt='superstar_web' width
+ ='484' height='252' /></a>Jesus Christ Superstar</em> runs in the Dulcie T
+ heatre from March 4 through March 26\, playing Fridays and Saturdays at 8 
+ pm\, with Sunday matinees at 3 pm. Special Saturday matinees will be prese
+ nted at 3 pm on 3/12\, 3/19\, and 3/26. This show will close on Saturday e
+ vening\, March 26th.</p>\n<p style='text-align: left\;'>Tickets are $16 fo
+ r adults\, $13 for college students and seniors\, and $10 for youth\, and 
+ are available by calling the box office at (406) 222-1420.</p>\n<p> </p>
+DTSTART;TZID=America/Denver:20160306T150000
+DTEND;TZID=America/Denver:20160306T180000
+EXDATE;TZID=America/Denver:20160305T150000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160326T235959Z;BYDAY=SU,SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Jesus Christ Superstar Matinee
+URL:http://www.theshanecenter.org/event/jesus-christ-superstar-matinee/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1828@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><em><a href='http://ww
+ w.theshanecenter.org/wp-content/uploads/2015/09/superstar_web.jpg'><img cl
+ ass='size-full wp-image-1805 aligncenter' src='http://www.theshanecenter.o
+ rg/wp-content/uploads/2015/09/superstar_web.jpg' alt='superstar_web' width
+ ='484' height='252' /></a>Jesus Christ Superstar</em> runs in the Dulcie T
+ heatre from March 4 through March 26\, playing Fridays and Saturdays at 8 
+ pm\, with Sunday matinees at 3 pm. Special Saturday matinees will be prese
+ nted at 3 pm on 3/12\, 3/19\, and 3/26. This show will close on Saturday e
+ vening\, March 26th.</p>\n<p style='text-align: left\;'>Tickets are $16 fo
+ r adults\, $13 for college students and seniors\, and $10 for youth\, and 
+ are available by calling the box office at (406) 222-1420.</p>\n<p> </p>
+DTSTART;TZID=America/Denver:20160326T200000
+DTEND;TZID=America/Denver:20160326T230000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+SEQUENCE:0
+SUMMARY:Jesus Christ Superstar Closing
+URL:http://www.theshanecenter.org/event/jesus-christ-superstar-closing/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1829@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Auditions
+CONTACT:Russell Lewis\; 406-222-1420\; russ@theshanecenter.org
+DESCRIPTION:<p><a href='http://www.theshanecenter.org/wp-content/uploads/20
+ 15/09/chicago_logo_web.jpg'><img class='alignleft wp-image-1798 size-full'
+  src='http://www.theshanecenter.org/wp-content/uploads/2015/09/chicago_log
+ o_web.jpg' alt='' width='260' height='210' /></a></p>\n<p>On Tuesday\, May
+  3rd at 7:00 pm director Russell Lewis will hold open auditions for <em>Ch
+ icago</em> in the Dulcie Theatre at the Shane Center.</p>\n<p>Roles will b
+ e available for ages 13 and up. No prepared audition material is required.
+ </p>\n<p>Rehearsals for this production will take place weekday evenings f
+ rom May 9 through June 16. <em>Chicago</em> runs weekends from June 17 thr
+ ough July 10.</p>\n<p>For questions or more information\, please contact R
+ uss at (406) 222-1420 or russ@theshanecenter.org.</p>
+DTSTART;TZID=America/Denver:20160503T190000
+DTEND;TZID=America/Denver:20160503T220000
+GEO:+45.662346;-110.555377
+LOCATION:The Duclie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+SEQUENCE:0
+SUMMARY:Auditions: Chicago
+URL:http://www.theshanecenter.org/event/auditions-chicago/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1837@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Auditions
+CONTACT:406-222-1420\; info@theshanecenter.org
+DESCRIPTION:<p><a href='http://www.theshanecenter.org/wp-content/uploads/20
+ 15/09/broadway_bound_logo_web.jpg'><img class='alignleft wp-image-1799 siz
+ e-full' src='http://www.theshanecenter.org/wp-content/uploads/2015/09/broa
+ dway_bound_logo_web.jpg' alt='' width='260' height='210' /></a></p>\n<p>On
+  Tuesday\, May 31st at 7:00 pm the Shane Center will hold open auditions f
+ or Neil Simon’s<i> Broadway Bound</i> in the Dulcie Theatre at the Shane C
+ enter.</p>\n<p>Rehearsals for this production will take place weekday even
+ ings from June 6 through July 14. <em>Broadway Bound</em> runs weekends fr
+ om July 15 through August 7.</p>\n<p>For questions or more information\, p
+ lease contact the Shane Center at (406) 222-1420 or info@theshanecenter.or
+ g.</p>
+DTSTART;TZID=America/Denver:20160531T190000
+DTEND;TZID=America/Denver:20160531T220000
+GEO:+45.662346;-110.555377
+LOCATION:The Duclie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+SEQUENCE:0
+SUMMARY:Auditions: Broadway Bound
+URL:http://www.theshanecenter.org/event/auditions-broadway-bound/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1831@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
+ www.theshanecenter.org/wp-content/uploads/2015/09/chicago_web.jpg'><img cl
+ ass='wp-image-1806 size-full aligncenter' src='http://www.theshanecenter.o
+ rg/wp-content/uploads/2015/09/chicago_web.jpg' alt='' width='484' height='
+ 252' /></a></p>\n<p style='text-align: left\;'><em>Chicago</em> runs in th
+ e Dulcie Theatre from June 17 through July 10\, playing Fridays and Saturd
+ ays at 8pm\, with Sunday matinees at 3pm. Tickets are $16 for adults\, $13
+  for college students and seniors\, and $10 for youth\, and are available 
+ by calling the box office at (406) 222-1420.</p>
+DTSTART;TZID=America/Denver:20160617T200000
+DTEND;TZID=America/Denver:20160617T230000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160710T235959Z;BYDAY=FR,SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Chicago
+URL:http://www.theshanecenter.org/event/chicago/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1834@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
+ www.theshanecenter.org/wp-content/uploads/2015/09/chicago_web.jpg'><img cl
+ ass='wp-image-1806 size-full aligncenter' src='http://www.theshanecenter.o
+ rg/wp-content/uploads/2015/09/chicago_web.jpg' alt='' width='484' height='
+ 252' /></a></p>\n<p style='text-align: left\;'><em>Chicago</em> runs in th
+ e Dulcie Theatre from June 17 through July 10\, playing Fridays and Saturd
+ ays at 8pm\, with Sunday matinees at 3pm. Tickets are $16 for adults\, $13
+  for college students and seniors\, and $10 for youth\, and are available 
+ by calling the box office at (406) 222-1420.</p>
+DTSTART;TZID=America/Denver:20160619T150000
+DTEND;TZID=America/Denver:20160619T180000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160710T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Chicago Matinee
+URL:http://www.theshanecenter.org/event/chicago-matinee/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1839@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
+ www.theshanecenter.org/wp-content/uploads/2015/09/broadway_bound_web.jpg'>
+ <img class='aligncenter wp-image-1807 size-full' src='http://www.theshanec
+ enter.org/wp-content/uploads/2015/09/broadway_bound_web.jpg' alt='' width=
+ '484' height='252' /></a></p>\n<p style='text-align: left\;'>Neil Simon’s<
+ em> Broadway Bound</em> runs in the Dulcie Theatre from July 15 through Au
+ gust 7\, playing Fridays and Saturdays at 8pm\, with Sunday matinees at 3p
+ m. Tickets are $16 for adults\, $13 for college students and seniors\, and
+  $10 for youth\, and are available by calling the box office at (406) 222-
+ 1420.</p>
+DTSTART;TZID=America/Denver:20160715T200000
+DTEND;TZID=America/Denver:20160715T230000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160807T235959Z;BYDAY=FR,SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Neil Simon’s Broadway Bound
+URL:http://www.theshanecenter.org/event/neil-simons-broadway-bound/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1842@www.theshanecenter.org
+DTSTAMP:20150920T002312Z
+CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
+CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
+DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
+ www.theshanecenter.org/wp-content/uploads/2015/09/broadway_bound_web.jpg'>
+ <img class='aligncenter wp-image-1807 size-full' src='http://www.theshanec
+ enter.org/wp-content/uploads/2015/09/broadway_bound_web.jpg' alt='' width=
+ '484' height='252' /></a></p>\n<p style='text-align: left\;'>Neil Simon’s<
+ em> Broadway Bound</em> runs in the Dulcie Theatre from July 15 through Au
+ gust 7\, playing Fridays and Saturdays at 8pm\, with Sunday matinees at 3p
+ m. Tickets are $16 for adults\, $13 for college students and seniors\, and
+  $10 for youth\, and are available by calling the box office at (406) 222-
+ 1420.</p>
+DTSTART;TZID=America/Denver:20160717T150000
+DTEND;TZID=America/Denver:20160717T180000
+GEO:+45.662346;-110.555377
+LOCATION:The Dulcie Theatre at the Shane Center @ 415 East Lewis Street\, L
+ ivingston\, MT 59047\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160807T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Neil Simon’s Broadway Bound Matinee
+URL:http://www.theshanecenter.org/event/neil-simons-broadway-bound-matinee/
+X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
+END:VEVENT
+END:VCALENDAR

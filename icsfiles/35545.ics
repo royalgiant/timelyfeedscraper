@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.147.242.86//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://calvaryofwashington.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-240@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Calvary Baptist Church\; (724) 222-2524\; info@calvaryofwashington.
+ com
+DESCRIPTION:<p></p>
+DTSTART;TZID=America/New_York:20150920T093000
+DTEND;TZID=America/New_York:20150920T103000
+LOCATION:Calvary Baptist Church @ 1701 Ridgewood Drive\, Washington\, PA 15
+ 301\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday School for all ages
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-241@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Calvary Baptist Church\; (724) 222-2524\; info@calvaryofwashington.
+ com\; http://calvaryofwashington.com/downloads/media/
+DESCRIPTION:<p>The service is streamed most Sundays at <a href='http://www.
+ ustream.tv/channel/calvarywashpa'>http://www.ustream.tv/channel/calvarywas
+ hpa</a></p>\n<p> </p>\n<p></p>
+DTSTART;TZID=America/New_York:20150920T110000
+DTEND;TZID=America/New_York:20150920T121500
+LOCATION:Calvary Baptist Church @ 1701 Ridgewood Drive\, Washington\, PA 15
+ 301\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday Morning Service
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-250@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:Pastor Fred McCloskey\; (724) 222-2524\; pastorfred@calvaryofwashin
+ gton.com
+DESCRIPTION:<p></p>
+DTSTART;TZID=America/New_York:20150920T123000
+DTEND;TZID=America/New_York:20150920T133000
+LOCATION:Calvary Baptist Church @ 1701 Ridgewood Drive\, Washington\, PA 15
+ 301\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Evangelism Team Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-273@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:Pastor Fred McCloskey\; (724) 222-2524\; info@calvaryofwashington.c
+ om
+DESCRIPTION:<p></p>
+DTSTART;TZID=America/New_York:20150922T180000
+DTEND;TZID=America/New_York:20150922T190000
+EXDATE;TZID=America/New_York:20140722T180000
+GEO:+40.150611;-80.276691
+LOCATION:Calvary Baptist Church @ 1701 Ridgewood Drive\, Washington\, PA 15
+ 301\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4TU
+SEQUENCE:0
+SUMMARY:Elder Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-260@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:Dr. Rick Cummings\; (724) 222-2524\; info@calvaryofwashington.com
+DESCRIPTION:<p></p>
+DTSTART;TZID=America/New_York:20150927T170000
+DTEND;TZID=America/New_York:20150927T180000
+LOCATION:Calvary Baptist Church @ 1701 Ridgewood Drive\, Washington\, PA 15
+ 301\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4SU
+SEQUENCE:0
+SUMMARY:Worship Team Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-248@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:Pastor Fred McCloskey\; (724) 222-2524\; pastorfred@calvaryofwashin
+ gton.com
+DESCRIPTION:<p></p>
+DTSTART;TZID=America/New_York:20151004T164500
+DTEND;TZID=America/New_York:20151004T174500
+LOCATION:Calvary Baptist Church @ 1701 Ridgewood Drive\, Washington\, PA 15
+ 301\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1SU
+SEQUENCE:0
+SUMMARY:Missions Team Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-249@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:Pastor Fred McCloskey\; (724) 222-2524\; pastorfred@calvaryofwashin
+ gton.com
+DESCRIPTION:<p></p>
+DTSTART;TZID=America/New_York:20151011T163000
+DTEND;TZID=America/New_York:20151011T173000
+LOCATION:Calvary Baptist Church @ 1701 Ridgewood Drive\, Washington\, PA 15
+ 301\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:Fellowship Team Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-268@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Events\,Services
+CONTACT:Calvary Baptist Church\; (724) 222-2524\; info@calvaryofwashington.
+ com
+DESCRIPTION:<p></p>
+DTSTART;TZID=America/New_York:20151011T173000
+DTEND;TZID=America/New_York:20151011T183000
+GEO:+40.150611;-80.276691
+LOCATION:Wolfe Fellowship Center @ 1701 Ridgewood Drive\, Washington\, PA 1
+ 5301\, USA
+RRULE:FREQ=MONTHLY;INTERVAL=2;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:Communion Dinner
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-270@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:Pastor Fred McCloskey\; (724) 222-2524\; info@calvaryofwashington.c
+ om
+DESCRIPTION:<p></p>
+DTSTART;TZID=America/New_York:20151021T180000
+DTEND;TZID=America/New_York:20151021T190000
+LOCATION:Calvary Baptist Church @ 1701 Ridgewood Drive\, Washington\, PA 15
+ 301\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+SEQUENCE:0
+SUMMARY:Discipleship Team Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-269@www.calvaryofwashington.com
+DTSTAMP:20150920T002345Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:
+DESCRIPTION:<p></p>
+DTSTART;TZID=America/New_York:20151225T000000
+DTEND;TZID=America/New_York:20151225T010000
+RRULE:FREQ=MONTHLY;INTERVAL=12;BYMONTHDAY=24
+SEQUENCE:0
+SUMMARY:Christmas Eve Service
+END:VEVENT
+END:VCALENDAR

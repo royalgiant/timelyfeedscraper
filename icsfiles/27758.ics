@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//45.79.192.30//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://hillswp.wpengine.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3944@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:All\,Nursery\,Preschool\,Youth (Pre K - 5th Grade
+ )
+CONTACT:
+DESCRIPTION:<p><a href='http://hillswp.wpengine.com/wp-content/uploads/2015
+ /08/consign-logo-2015small.jpg'><img class='alignnone size-medium wp-image
+ -3945' src='http://hillswp.wpengine.com/wp-content/uploads/2015/08/consign
+ -logo-2015small-300x241.jpg' alt='consign logo 2015small' width='300' heig
+ ht='241' /></a></p>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151004
+SEQUENCE:0
+SUMMARY:Children’s Consignment Sale
+URL:http://hillswp.wpengine.com/event/childrens-consignment-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3939@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:All\,Small Groups
+CONTACT:Office\; office@hillsdaleumc.com
+DESCRIPTION:<p><a href='http://hillswp.wpengine.com/wp-content/uploads/2015
+ /08/untitled.png'><img class='alignnone  wp-image-3938' src='http://hillsw
+ p.wpengine.com/wp-content/uploads/2015/08/untitled.png' alt='untitled' wid
+ th='177' height='75' /></a></p>\n<p>A new Disciple Fast Track has been des
+ igned to meet the needs of our busy work world with shorter reading assign
+ ments in a 24 session study and all new videos.  Pastor Jerry will teach e
+ ach class on Sunday’s at 8am\, beginning August 30th\, with an orientation
+  session.  Come and grow in this small group encounter of the Bible\, from
+  Genesis to Revelation.  Sign up in the lobby or by contacting the office.
+ </p>
+DTSTART;TZID=America/New_York:20150920T080000
+DTEND;TZID=America/New_York:20150920T091500
+RRULE:FREQ=WEEKLY;UNTIL=20160224T235959Z;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Disciple 1 Bible Study
+URL:http://hillswp.wpengine.com/event/disciple-1-bible-study/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3885@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Weekly Services
+CONTACT:
+DESCRIPTION:<h2>Come and worship with us!</h2>
+DTSTART;TZID=America/New_York:20150920T093000
+DTEND;TZID=America/New_York:20150920T103000
+GEO:+35.997444;-80.44817
+LOCATION:Hillsdale United Methodist Church @ 5018 U.S. 158\, Advance\, NC 2
+ 7006\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Sunday 1st Praise and Worship Service
+URL:http://hillswp.wpengine.com/event/sunday-1st-praise-and-worship-service
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3886@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Weekly Services
+CONTACT:
+DESCRIPTION:<h2>Come and worship with us!</h2>
+DTSTART;TZID=America/New_York:20150920T110000
+DTEND;TZID=America/New_York:20150920T120000
+GEO:+35.997444;-80.44817
+LOCATION:Hillsdale United Methodist Church @ 5018 U.S. 158\, Advance\, NC 2
+ 7006\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Sunday 2nd Praise and Worship Service
+URL:http://hillswp.wpengine.com/event/sunday-2nd-praise-and-worship-service
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3943@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:All\,Events
+CONTACT:Office\; office@hillsdaleumc.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://hillswp.wpengine.com/wp-content/uploads/2015/09/Baptism-300x200.jpg' wi
+ dth='300' height='200' /></div><p>One thing special about Hillsdale UMC is
+  our River Baptism Service. We gather at the river twice a year as a famil
+ y of believers to celebrate the sacrament of baptism\, much like believers
+  did when Jesus was baptized. We invite you to begin your new life with Ch
+ rist Jesus and be baptized in the river. We also welcome those who wish to
+  renew their baptismal covenant to participate in this unforgettable cerem
+ ony.<br />\nFor more information or to sign up\, you may email the <a href
+ ='mailto:office@hillsdaleumc.com' target='_blank'>office</a>.</p>\n<p><a h
+ ref='http://hillswp.wpengine.com/wp-content/uploads/2015/09/Directions-to-
+ the-River.pdf'>Directions to the River</a></p>
+DTSTART;TZID=America/New_York:20150920T150000
+DTEND;TZID=America/New_York:20150920T160000
+SEQUENCE:0
+SUMMARY:Baptism at the River
+URL:http://hillswp.wpengine.com/event/baptism-at-the-river/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3884@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Food Ministry
+CONTACT:Ricky Jones\; rickyjones55@icloud.com
+DESCRIPTION:<h2>HUMC Manna Meals Soup Ministry</h2>\n<p>HUMC Manna Meals So
+ up Ministry volunteers sharing soup outside Bethesda Center for the Homele
+ ss.</p>
+DTSTART;TZID=America/New_York:20150920T170000
+DTEND;TZID=America/New_York:20150920T190000
+GEO:+35.997444;-80.44817
+LOCATION:Hillsdale United Methodist Church @ 5018 U.S. 158\, Advance\, NC 2
+ 7006\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Mobile Soup Trailer Leaves for Winston-Salem
+URL:http://hillswp.wpengine.com/event/mobile-soup-trailer-leaves-for-winsto
+ n-salem/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3883@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Food Ministry
+CONTACT:Alan Miller\; aclsmill@yadtel.net
+DESCRIPTION:<h2>HUMC Manna Meals Soup Ministry</h2>\n<p>HUMC Manna Meals So
+ up Ministry volunteers sharing soup outside A Storehouse for Jesus and del
+ ivering soup and fruit to Mock Place.</p>
+DTSTART;TZID=America/New_York:20150923T083000
+DTEND;TZID=America/New_York:20150923T103000
+GEO:+35.997444;-80.44817
+LOCATION:Hillsdale United Methodist Church @ 5018 U.S. 158\, Advance\, NC 2
+ 7006\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Mobile Soup Trailer Leaves for Mocksville
+URL:http://hillswp.wpengine.com/event/mobile-soup-trailer-leaves-for-mocksv
+ ille/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3936@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Small Groups
+CONTACT:Office\; office@hillsdaleumc.com
+DESCRIPTION:<p><a href='http://hillswp.wpengine.com/wp-content/uploads/2015
+ /08/disciple4a.jpg'><img class='alignnone  wp-image-3937' src='http://hill
+ swp.wpengine.com/wp-content/uploads/2015/08/disciple4a-220x300.jpg' alt='d
+ isciple4a' width='101' height='138' /></a></p>\n<p>Disciple 4\, “Under the
+  Tree of Life” is an in depth stud of the Old Testament Writings\, the gos
+ pel of John\, James\, Jude and Revelation.  Disciple 4 is suggested as a c
+ ontinued study for Disciple 1 graduates.  Sign up at the welcome desk or b
+ y emailing the <a href='mail to: office@hillsdaleumc.com' target='_blank'>
+ office</a>.  Nursery\, TeamKid (grades K-5) and Youth (grades 6-12) offere
+ d during class timeframe.</p>
+DTSTART;TZID=America/New_York:20150923T183000
+DTEND;TZID=America/New_York:20150923T200000
+RRULE:FREQ=WEEKLY;UNTIL=20160525T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Disciple 4 Bible Study
+URL:http://hillswp.wpengine.com/event/disciple-4-bible-study/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3888@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Food Ministry
+CONTACT:Lori Barr\; ctbarr@triad.rr.com
+DESCRIPTION:<h2>Heavenly Bags Ministry</h2>\n<p>Heavenly Bags volunteers pa
+ ck weekend meals to be given to area school “Bookbags of Hope” programs an
+ d 2 neighborhoods in Mocksville.</p>
+DTSTART;TZID=America/New_York:20150924T160000
+DTEND;TZID=America/New_York:20150924T170000
+GEO:+35.997444;-80.44817
+LOCATION:Hillsdale United Methodist Church @ 5018 U.S. 158\, Advance\, NC 2
+ 7006\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Heavenly Bags Ministry – Packing
+URL:http://hillswp.wpengine.com/event/heavenly-bags-ministry-packing/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3887@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Food Ministry
+CONTACT:Lori Barr\; ctbarr@triad.rr.com
+DESCRIPTION:<h2>Heavenly Bags Ministry</h2>\n<p>Heavenly Bags volunteers de
+ liver weekend meals to area school “Bookbags of Hope” programs and 2 neigh
+ borhoods in Mocksville. RAIN OR SHINE!</p>
+DTSTART;TZID=America/New_York:20150925T160000
+DTEND;TZID=America/New_York:20150925T174500
+GEO:+35.997444;-80.44817
+LOCATION:Hillsdale United Methodist Church @ 5018 U.S. 158\, Advance\, NC 2
+ 7006\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Heavenly Bags Ministry – Delivery
+URL:http://hillswp.wpengine.com/event/heavenly-bags-ministry-delivery/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3946@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:All\,Events\,Youth (6th - 12th Grade)\,Youth (Pre
+  K - 5th Grade)
+CONTACT:Tiffany Gulledge\; tiffanyg@hillsdaleumc.com
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151011T093000
+DTEND;TZID=America/New_York:20151011T120000
+SEQUENCE:0
+SUMMARY:Youth Sunday (Both Services)
+URL:http://hillswp.wpengine.com/event/youth-sunday-both-services/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3994@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Youth (6th - 12th Grade)
+CONTACT:Lake Slabach\; lakes@hillsdaleumc.com\; https://www.carowinds.com/h
+ aunt
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://hillswp.wpengine.com/wp-content/uploads/2015/09/Scarowinds.png' width='
+ 191' height='96' /></div><p><span class='fsl'>A night of fun with the yout
+ h group as we head to Scarowinds and return to the church afterwards for a
+  lock in!</span>  THIS EVENT IS FULL.</p>
+DTSTART;TZID=America/New_York:20151017T170000
+DTEND;TZID=America/New_York:20151018T104500
+SEQUENCE:0
+SUMMARY:Scarowinds/Lock-In
+URL:http://hillswp.wpengine.com/event/scarowindslock-in/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3997@hillswp.wpengine.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:All\,Events
+CONTACT:Hillsdale Office\; office@hillsdaleumc.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://hillswp.wpengine.com/wp-content/uploads/2015/09/Christmaseve-300x137.gi
+ f' width='300' height='137' /></div><p>Christmas Eve Candlelight Communion
+  Services</p>\n<p>5:00pm and 6:30pm (identical services)</p>\n<p>“Best of 
+ all\, Christmas means a spirit of love\, a time when the love of God and l
+ ove of our fellow men should prevail over all hatred and bitterness\, a ti
+ me when our thoughts and deeds and the spirit of our lives manifest the pr
+ esence of God.”-George F. McDougall<br />\nPlease join us this Christmas E
+ ve to celebrate the true meaning of Christmas.</p>
+DTSTART;TZID=America/New_York:20151224T170000
+DTEND;TZID=America/New_York:20151224T200000
+SEQUENCE:0
+SUMMARY:Christmas Eve Services (5pm & 6:30pm)
+URL:http://hillswp.wpengine.com/event/christmas-eve-services-5pm-630pm/
+END:VEVENT
+END:VCALENDAR

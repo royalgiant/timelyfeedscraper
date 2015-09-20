@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//127.0.0.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://apcpartnercentral.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4373@apcpartnercentral.com
+DTSTAMP:20150920T002107Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><strong>Schneider Electric will be platinum sponsors for the
+  2015 IT SMB Success Summits hosted by ASCII.</strong></p>\n<p><a href='ht
+ tp://asciievents.com/registration' target='_blank'>Click here for registra
+ tion information on each 2015 ASCII summit.</a></p>\n<p>ASCII is a communi
+ ty of 2\,000+ MSP/VARs worldwide.  ASCII provides a portfolio of IT busine
+ ss-building services that range from turnkey marketing campaigns to a high
+ ly utilized peer-to-peer business referral and lead network. The final eve
+ nt in this series will take place Wednesday\, October 21 and Thursday\, Oc
+ tober 22 at Irvine Marriott\, and will be followed by the ASCII Cup Party!
+ </p>\n<p style='text-align: left\;'><strong>2015 Schedule of ASCII SMB Suc
+ cess Summits:</strong></p>\n<p><strong>February 18-19</strong> @ Hyatt Reg
+ ency: Miami\, FL<br />\n<strong>March 25-26</strong> @ Hyatt Regency: Colu
+ mbus\, OH<br />\n<strong>April 29-30</strong> @ Double Tree: Austin\, TX<b
+ r />\n<strong>May 27-28</strong> @ Hyatt Regency O’Hare: Chicago\, IL<br /
+ >\n<strong>June 24-25</strong> @ Renaissance Newark Airport Hotel: Elizabe
+ th\, NJ<br />\n<strong>August 19-20</strong> @ The Westin Waltham-Boston: 
+ Boston\, MA<br />\n<strong>September</strong> <strong>16-17</strong> @ Wes
+ tfield’s Marriott Washington Dulles: Washington DC<br />\n<strong>October 
+ 21-22</strong> @ Irvine Marriott: Irvine\, CA<br />\n<strong>October 23 AS
+ CII Cup Party</strong> @  Irvine Marriott: Irvine\, CA</p>\n<p><a href='ht
+ tp://asciievents.com/registration' target='_blank'>Click here for registra
+ tion information on each 2015 ASCII summit.</a></p>\n<img src='http://asci
+ ievents.com/images/hotel/2015/IrvineMarriottCropped.jpg' alt='IrvineMarrio
+ ttCropped' />
+DTSTART;VALUE=DATE:20151021
+DTEND;VALUE=DATE:20151023
+GEO:+33.675826;-117.853718
+LOCATION:Irvine Marriott @ Von Karman Avenue\, Irvine\, CA 92612\, USA
+SEQUENCE:0
+SUMMARY:ASCII 2015 IT SMB Success Summit
+URL:http://apcpartnercentral.com/event/ascii-2015-it-smb-success-summit-7
+X-TAGS;LANGUAGE=en-US:Cloud\,Cloud Computing\,managed services
+X-TICKETS-URL:https://www.cvent.com/events/the-ascii-smb-it-success-summit-
+ winning-msp-var-strategies-on-selling-and-retaining-more-business-in/regis
+ tration-8a4e265218c9430f9afaf24f77c3f739.aspx
+END:VEVENT
+END:VCALENDAR

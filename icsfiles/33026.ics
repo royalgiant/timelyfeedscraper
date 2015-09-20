@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.27.174.134//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://droidlab.pt
+X-WR-TIMEZONE:Europe/Lisbon
+BEGIN:VTIMEZONE
+TZID:Europe/Lisbon
+X-LIC-LOCATION:Europe/Lisbon
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:WET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:WEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1766@droidlab.pt
+DTSTAMP:20150920T003557Z
+CATEGORIES;LANGUAGE=pt-PT:Novos Equipamentos
+CONTACT:WileyFox\; https://www.wileyfox.com/swift/
+DESCRIPTION:<p><a href='http://droidlab.pt/wp-content/uploads/2015/09/swift
+ -front.png'><img class='alignnone size-full wp-image-1754' src='http://dro
+ idlab.pt/wp-content/uploads/2015/09/swift-front.png' alt='swift-front' wid
+ th='700' height='920' data-wp-pid='1754' /></a></p>\n<p><strong>WileyFox S
+ wift</strong> começa a ser vendido Online em <a href='https://www.wileyfox
+ .com/swift/' onclick='__gaTracker('send'\, 'event'\, 'outbound-article'\, 
+ 'https://www.wileyfox.com/swift/'\, 'https://www.wileyfox.com/swift/')\;'>
+ https://www.wileyfox.com/swift/</a></p>
+DTSTART;TZID=Europe/Lisbon:20150922T080000
+SEQUENCE:0
+SUMMARY:WileyFox Swift começa a ser vendido Online
+URL:http://droidlab.pt/event/wileyfox-swift-comeca-a-ser-vendido-online/
+X-TAGS;LANGUAGE=pt-PT:WileyFox Swift
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2435@droidlab.pt
+DTSTAMP:20150920T003557Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://droidlab.pt/wp-content/uploads/2015/09/Google-Mountain-View-300x169.jpg
+ ' width='300' height='169' /></div><p>O gigante tecnológico irá apresentar
+  <strong><em>oficialmente</em></strong> os <strong><em>Nexus 5X e 6P</em><
+ /strong> assim como o <em><strong>Chromecast</strong></em> v2.</p>\n<p>O <
+ em><strong>droidlab.pt</strong></em> promete estar atento a dar-te as <em>
+ <strong>novidades</strong></em> que precisas.</p>
+DTSTART;TZID=Europe/Lisbon:20150929T100000
+GEO:+37.774929;-122.419416
+LOCATION:San Francisco\, CA\, USA
+SEQUENCE:0
+SUMMARY:Evento Google – San Francisco
+URL:http://droidlab.pt/event/evento-google-san-francisco/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

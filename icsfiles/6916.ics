@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//216.97.235.25//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://kelownalightroom.ca
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-652@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Laura\; submissions@kelownalightroom.ca
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151002
+SEQUENCE:0
+SUMMARY:Photo Submissions – Reflection Images
+URL:http://kelownalightroom.ca/archives/event/photo-submissions-reflection-
+ images
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-653@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Laura\; submissions@kelownalightroom.ca
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:Photo Submissions – Unusual Views
+URL:http://kelownalightroom.ca/archives/event/photo-submissions-unusual-vie
+ ws
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-654@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Laura\; submissions@kelownalightroom.ca
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151201
+DTEND;VALUE=DATE:20151202
+SEQUENCE:0
+SUMMARY:Photo Submissions – Harvest Images
+URL:http://kelownalightroom.ca/archives/event/photo-submissions-harvest-ima
+ ges
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-713@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151007T184500
+DTEND;TZID=America/Vancouver:20151007T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – Education Night
+URL:http://kelownalightroom.ca/archives/event/club-meeting-education-night-
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-719@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:<p style='text-align: justify\;'>Reflection images\, critique n
+ ight.</p>
+DTSTART;TZID=America/Vancouver:20151021T184500
+DTEND;TZID=America/Vancouver:20151021T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – Critique Night
+URL:http://kelownalightroom.ca/archives/event/club-meeting-critique-night-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-714@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151104T184500
+DTEND;TZID=America/Vancouver:20151104T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – Education Night
+URL:http://kelownalightroom.ca/archives/event/club-meeting-education-night-
+ 3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-720@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:<p style='text-align: justify\;'>Unusual Viewpoints images\, cr
+ itique night.</p>
+DTSTART;TZID=America/Vancouver:20151118T184500
+DTEND;TZID=America/Vancouver:20151118T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – Critique Night
+URL:http://kelownalightroom.ca/archives/event/club-meeting-critique-night-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-715@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151202T184500
+DTEND;TZID=America/Vancouver:20151202T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – Education Night
+URL:http://kelownalightroom.ca/archives/event/club-meeting-education-night-
+ 4
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-721@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20151216T184500
+DTEND;TZID=America/Vancouver:20151216T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – TBD
+URL:http://kelownalightroom.ca/archives/event/club-meeting-critique-night-3
+ -2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-716@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160106T184500
+DTEND;TZID=America/Vancouver:20160106T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – Education Night
+URL:http://kelownalightroom.ca/archives/event/club-meeting-education-night-
+ 5
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-722@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:<p style='text-align: justify\;'>Harvest images\, critique nigh
+ t.</p>
+DTSTART;TZID=America/Vancouver:20160120T184500
+DTEND;TZID=America/Vancouver:20160120T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – Critique Night
+URL:http://kelownalightroom.ca/archives/event/club-meeting-critique-night-4
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-717@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:
+DTSTART;TZID=America/Vancouver:20160203T184500
+DTEND;TZID=America/Vancouver:20160203T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – Education Night
+URL:http://kelownalightroom.ca/archives/event/club-meeting-education-night-
+ 6
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-723@kelownalightroom.ca
+DTSTAMP:20150920T002110Z
+CATEGORIES:
+CONTACT:Linda\; membership@kelownalightroom.ca
+DESCRIPTION:<p style='text-align: justify\;'>February image submissions\, c
+ ritique night.</p>
+DTSTART;TZID=America/Vancouver:20160217T184500
+DTEND;TZID=America/Vancouver:20160217T204500
+GEO:+49.883229;-119.457357
+LOCATION:Parkinson Recreation Centre @ 1800 Parkinson Way\, Kelowna\, BC V1
+ Y 4P9\, Canada
+SEQUENCE:0
+SUMMARY:Club Meeting – Critique Night
+URL:http://kelownalightroom.ca/archives/event/club-meeting-critique-night-5
+END:VEVENT
+END:VCALENDAR

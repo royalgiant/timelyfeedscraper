@@ -1,0 +1,278 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.23.201.243//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://eplsocceronline.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-147@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Arsenal
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://eplsocceronline.com/wp-content/uploads/2015/08/Arsenal-300x175.jpg' wid
+ th='300' height='175' /></div>
+DTSTART;TZID=America/Chicago:20150919T064500
+DTEND;TZID=America/Chicago:20150919T084500
+GEO:+51.481663;-0.190956
+LOCATION:Stamford Bridge @ Fulham Road\, Fulham\, London SW6\, UK
+SEQUENCE:0
+SUMMARY:Arsenal at Chelsea
+URL:http://eplsocceronline.com/event/arsenal-at-chelsea/
+X-TAGS;LANGUAGE=en-US:Chelsea\,Match Week 06
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-129@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Manchester City
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://eplsocceronline.com/wp-content/uploads/2015/08/Manchester-City-300x175.
+ jpg' width='300' height='175' /></div>
+DTSTART;TZID=America/Chicago:20150919T113000
+DTEND;TZID=America/Chicago:20150919T133000
+GEO:+53.483138;-2.200395
+LOCATION:Etihad Stadium @ Ashton New Road\, Manchester\, Manchester M11\, U
+ K
+SEQUENCE:0
+SUMMARY:Manchester City vs West Ham United
+URL:http://eplsocceronline.com/event/manchester-city-vs-west-ham-united/
+X-TAGS;LANGUAGE=en-US:Match Week 06\,West Ham
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-132@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Manchester United
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://eplsocceronline.com/wp-content/uploads/2015/08/Manchester-United-300x17
+ 5.jpg' width='300' height='175' /></div>
+DTSTART;TZID=America/Chicago:20150920T100000
+DTEND;TZID=America/Chicago:20150920T120000
+GEO:+50.906713;-1.390571
+LOCATION:St Mary's stadium @ Britannia Road\, Southampton\, Southampton SO1
+ 4\, UK
+SEQUENCE:0
+SUMMARY:Manchester United at Southampton
+URL:http://eplsocceronline.com/event/manchester-united-at-southampton/
+X-TAGS;LANGUAGE=en-US:Match Week 06\,Southampton
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-150@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Liverpool
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://eplsocceronline.com/wp-content/uploads/2015/08/Liverpool-300x175.jpg' w
+ idth='300' height='175' /></div>
+DTSTART;TZID=America/Chicago:20150920T120000
+DTEND;TZID=America/Chicago:20150920T140000
+GEO:+53.431405;-2.959987
+LOCATION:Anfield @ Anfield Road\, Liverpool\, Merseyside L4\, UK
+SEQUENCE:0
+SUMMARY:Liverpool vs Norwich City
+URL:http://eplsocceronline.com/event/liverpool-vs-norwich-city/
+X-TAGS;LANGUAGE=en-US:Match Week 06\,Norwich City
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-287@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Manchester City
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150926T064500
+DTEND;TZID=America/Chicago:20150926T084500
+GEO:+51.603214;-0.066435
+LOCATION:White Hart Lane @ 748 High Rd\, London N17\, UK
+SEQUENCE:0
+SUMMARY:Manchester City at Tottenham Hotspurs
+URL:http://eplsocceronline.com/event/manchester-city-at-tottenham-hotspurs/
+X-TAGS;LANGUAGE=en-US:Manchester City\,Match Week 07\,Tottenham Hotspurs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-288@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Arsenal
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150926T090000
+DTEND;TZID=America/Chicago:20150926T110000
+GEO:+52.621741;-1.142473
+LOCATION:King Power Stadium @ Filbert Way\, Leicester\, Leicester LE2 7GE\,
+  UK
+SEQUENCE:0
+SUMMARY:Arsenal at Leicester City
+URL:http://eplsocceronline.com/event/arsenal-at-leicester-city/
+X-TAGS;LANGUAGE=en-US:Arsenal\,Leicester City\,Match Week 07
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-289@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Liverpool
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150926T090000
+DTEND;TZID=America/Chicago:20150926T110000
+GEO:+53.431866;-2.960937
+LOCATION:Anfield @ Anfield Rd\, Liverpool\, Merseyside L4 0TF\, UK
+SEQUENCE:0
+SUMMARY:Liverpool vs Aston Villa
+URL:http://eplsocceronline.com/event/liverpool-vs-aston-villa/
+X-TAGS;LANGUAGE=en-US:Aston Villa\,Liverpool\,Match Week 07
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-290@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Manchester United
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150926T090000
+DTEND;TZID=America/Chicago:20150926T110000
+GEO:+53.463059;-2.29134
+LOCATION:Old Trafford @ Old Trafford\, Sir Matt Busby Way\, Stretford\, Man
+ chester M16 0RA\, UK
+SEQUENCE:0
+SUMMARY:Manchester United vs Sunderland
+URL:http://eplsocceronline.com/event/manchester-united-vs-sunderland/
+X-TAGS;LANGUAGE=en-US:Manchester United\,Match Week 07\,Sunderland
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-291@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Manchester City
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151003T090000
+DTEND;TZID=America/Chicago:20151003T110000
+GEO:+53.482585;-2.190742
+LOCATION:Etihad Stadium @ Ashton New Rd\, Manchester M11\, UK
+SEQUENCE:0
+SUMMARY:Manchester City vs Newcastle United
+URL:http://eplsocceronline.com/event/manchester-city-vs-newcastle-united/
+X-TAGS;LANGUAGE=en-US:Manchester City\,Match Week 08\,Newcastle United
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-292@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Liverpool
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151004T073000
+DTEND;TZID=America/Chicago:20151004T093000
+GEO:+53.431866;-2.960937
+LOCATION:Anfield @ Anfield Rd\, Liverpool\, Merseyside L4 0TF\, UK
+SEQUENCE:0
+SUMMARY:Liverpool at Everton
+URL:http://eplsocceronline.com/event/liverpool-at-everton/
+X-TAGS;LANGUAGE=en-US:Everton\,Liverpool\,Match Week 08
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-293@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Arsenal
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151004T100000
+DTEND;TZID=America/Chicago:20151004T120000
+GEO:+51.554888;-0.108438
+LOCATION:Emirates Stadium @ Hornsey Rd\, United Kingdom
+SEQUENCE:0
+SUMMARY:Arsenal vs Manchester United
+URL:http://eplsocceronline.com/event/arsenal-vs-manchester-united/
+X-TAGS;LANGUAGE=en-US:Arsenal\,Manchester United\,Match Week 08
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-294@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Manchester United
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151004T100000
+DTEND;TZID=America/Chicago:20151004T120000
+GEO:+51.554888;-0.108438
+LOCATION:Emirates Stadium
+SEQUENCE:0
+SUMMARY:Manchester United at Arsenal
+URL:http://eplsocceronline.com/event/manchester-united-at-arsenal/
+X-TAGS;LANGUAGE=en-US:Arsenal\,Manchester United\,Match Week 08
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-295@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Liverpool
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151017T064500
+DTEND;TZID=America/Chicago:20151017T084500
+GEO:+51.603212;-0.065739
+LOCATION:White Hart Lane @ High Rd\, London\, UK
+SEQUENCE:0
+SUMMARY:Liverpool at Tottenham Hotspurs
+URL:http://eplsocceronline.com/event/liverpool-at-tottenham-hotspurs/
+X-TAGS;LANGUAGE=en-US:Liverpool\,Match Week 09\,Tottenham Hotspurs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-297@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Manchester City
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151017T090000
+DTEND;TZID=America/Chicago:20151017T110000
+GEO:+53.483138;-2.200395
+LOCATION:Etihad Stadium @ Ashton New Rd\, Manchester M11\, UK
+SEQUENCE:0
+SUMMARY:Manchester City vs Bournemouth
+URL:http://eplsocceronline.com/event/manchester-city-vs-bournemouth/
+X-TAGS;LANGUAGE=en-US:Bournemouth\,Manchester City\,Match Week 09
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-296@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Manchester United
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151017T090000
+DTEND;TZID=America/Chicago:20151017T110000
+GEO:+53.438787;-2.966319
+LOCATION:Goodison Park @ Goodison Rd\, Liverpool\, Merseyside L4 4EW\, UK
+SEQUENCE:0
+SUMMARY:Manchester United at Everton
+URL:http://eplsocceronline.com/event/manchester-united-at-everton/
+X-TAGS;LANGUAGE=en-US:Everton\,Manchester United\,Match Week 09
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-298@eplsocceronline.com
+DTSTAMP:20150920T002321Z
+CATEGORIES;LANGUAGE=en-US:Arsenal
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151017T113000
+DTEND;TZID=America/Chicago:20151017T133000
+GEO:+51.649933;-0.40169
+LOCATION:Vicarage Road @ Vicarage Rd\, Watford\, Hertfordshire WD18 0HA\, U
+ K
+SEQUENCE:0
+SUMMARY:Arsenal at Watford
+URL:http://eplsocceronline.com/event/arsenal-at-watford/
+X-TAGS;LANGUAGE=en-US:Arsenal\,Match Week 09\,Watford
+END:VEVENT
+END:VCALENDAR

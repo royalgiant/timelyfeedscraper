@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.154.112.156//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://covenantmarriagesinc.org
+X-WR-TIMEZONE:America/Kentucky/Louisville
+BEGIN:VTIMEZONE
+TZID:America/Kentucky/Louisville
+X-LIC-LOCATION:America/Kentucky/Louisville
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-669@covenantmarriagesinc.org
+DTSTAMP:20150920T002143Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><img class='aligncenter wp-image-670' src='http://covenantma
+ rriagesinc.org/wp-content/uploads/2015/04/CMI-We-Are-One-Phone-Conference-
+ Call-Image-21.jpg' alt='CMI We Are One Phone Conference Call Image-2' widt
+ h='600' height='450' /></p>
+DTSTART;TZID=America/Kentucky/Louisville:20151015T200000
+DTEND;TZID=America/Kentucky/Louisville:20151015T210000
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+SEQUENCE:0
+SUMMARY:Empowerment Phone Conference Call for Couples
+URL:http://covenantmarriagesinc.org/event/empowerment-phone-conference-call
+ -for-couples/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-867@covenantmarriagesinc.org
+DTSTAMP:20150920T002143Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://covenantmarriagesinc.org/wp-content/uploads/
+ 2015/09/New-World-Order-Post-Card-for-Website-Board-Image3.jpg'><img class
+ ='alignnone size-medium wp-image-875' src='http://covenantmarriagesinc.org
+ /wp-content/uploads/2015/09/New-World-Order-Post-Card-for-Website-Board-Im
+ age3-300x119.jpg' alt='New World Order Post Card for Website Board Image' 
+ width='300' height='119' /></a></p>\n<p>New World Order Philly Primiere</p
+ >
+DTSTART;TZID=America/Kentucky/Louisville:20151030T180000
+DTEND;TZID=America/Kentucky/Louisville:20151030T211500
+SEQUENCE:0
+SUMMARY:Mt Airy C.O.G.I.C Movie Night
+URL:http://covenantmarriagesinc.org/event/mt-airy-c-o-g-i-c-movie-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-877@covenantmarriagesinc.org
+DTSTAMP:20150920T002143Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Evening Of Elegance Gala <a href='http://covenantmarriagesin
+ c.org/wp-content/uploads/2015/09/Evening-of-Elagence-2015-Final-Flyer-2015
+ .jpg'><img class='alignnone size-medium wp-image-878' src='http://covenant
+ marriagesinc.org/wp-content/uploads/2015/09/Evening-of-Elagence-2015-Final
+ -Flyer-2015-225x300.jpg' alt='Evening of Elagence 2015 Final Flyer 2015' w
+ idth='225' height='300' /></a></p>
+DTSTART;TZID=America/Kentucky/Louisville:20151205T170000
+DTEND;TZID=America/Kentucky/Louisville:20151205T220000
+SEQUENCE:0
+SUMMARY:Evening Of Elegance Gala “We Are One”
+URL:http://covenantmarriagesinc.org/event/877/
+END:VEVENT
+END:VCALENDAR

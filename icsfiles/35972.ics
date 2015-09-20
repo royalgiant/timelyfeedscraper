@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.28.20.38//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.midwestswapmeets.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1974@www.midwestswapmeets.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Missouri
+CONTACT:573-489-4762\; http://www.columbiamoswapmeet.com
+DESCRIPTION:<h2>Fall Annual Swap Meet Jeff City MO Oct 3 2015</h2>\n<p>Oct.
+ 3 Fall Annual swap meet at the North Jefferson City Pavilion & Park. From 
+ 7am – 2pm. 18 X 18 spaces are $40\, under roof 10×10 $35\, rolling stock $
+ 20. For more information visit us at <a href='http://www.columbiamoswapmee
+ t.com/' onclick='_gaq.push(['_trackEvent'\, 'outbound-article'\, 'http://w
+ ww.columbiamoswapmeet.com/'\, 'www.columbiamoswapmeet.com'])\;' target='_b
+ lank' rel='noreferrer'>www.columbiamoswapmeet.com</a> or call <a href='tel
+ :573-489-4762'>573-489-4762</a></p>\n<p><a href='http://i1.wp.com/www.midw
+ estswapmeets.com/wp-content/uploads/2015/06/Fall-Flyer.jpg' target='_blank
+ '><img class='alignnone size-thumbnail wp-image-1975' src='http://i1.wp.co
+ m/www.midwestswapmeets.com/wp-content/uploads/2015/06/Fall-Flyer.jpg?resiz
+ e=150%2C116' alt='Fall Annual Swap Meet Jeff City MO Oct 3 2015' data-reca
+ lc-dims='1' /></a></p>
+DTSTART;TZID=America/Chicago:20151003T070000
+DTEND;TZID=America/Chicago:20151003T140000
+GEO:+38.597391;-92.174709
+LOCATION:North Jefferson City Pavilion & Park @ 927 4th Street\, Jefferson 
+ City\, MO 65101\, USA
+SEQUENCE:0
+SUMMARY:Fall Annual Swap Meet Jeff City MO Oct 3 2015
+URL:http://www.midwestswapmeets.com/event/fall-annual-swap-meet-jeff-city-m
+ o-oct-3-2015/
+X-TAGS;LANGUAGE=en-US:2015\,City\,Fall\,Jeff\,MO
+X-COST:$5.00 kids 14 and under are free
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1996@www.midwestswapmeets.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Oklahoma
+CONTACT:Richard Greenway\; ecrt66swapmeet@gmail.com\; https://sites.google.
+ com/site/rt66swapmeetelkcity/
+DESCRIPTION:<h2>Rt 66 Swap Meet Western Oklahoma Sayre OK Oct 3-4 2015</h2>
+ \n<p>AUTO SWAP MEETS ALONG ROUTE 66 IN WESTERN OKLAHOMA<br />\nCar/Truck/M
+ otorcycle/Tools<br />\nArts/Crafts/Memorabilia/<wbr />Antiques<br />\nFood
+ <br />\nSpecial Exhibits</p>\n<p>Rt. 66 Swap Meet – Western Oklahoma will 
+ be traveling to Sayre<br />\nOklahoma October 3-4\, 2015 at the Beckham Co
+ unty Activity Center (just<br />\none block east of Downtown Sayre on Hwy 
+ 152).<br />\nHOSTED BY THE SAYRE STREET RACES AND THE SAYRE CHAMBER OF COM
+ MERCE.<br />\n*** SAYRE STREET RACES WILL BE SATURDAY OCTOBER 3RD WITH A D
+ OWNTOWN<br />\nPRE-PARTY FRIDAY EVENING OCTOBER 2ND. ***<br />\nSPACE RESE
+ RVATION REQUESTS NOW OPEN – Space are indoors\, 10X12\, and<br />\n$20 unt
+ il Sept 15th. Wanting anyone with … Auto/motorcycle related<br />\nparts\;
+  tools\; arts & crafts\; antiques\; auto & Route 66 memorabilia\;<br />\na
+ nd food vendors. Some outdoor spaces available\, 18X40\, $20.</p>\n<p><a h
+ ref='http://Facebook.com/Rt66SwapMeetWestOK' onclick='_gaq.push(['_trackEv
+ ent'\, 'outbound-article'\, 'http://Facebook.com/Rt66SwapMeetWestOK'\, 'ht
+ tp://Facebook.com/Rt66SwapMeetWestOK'])\;' target='_blank'>http://Facebook
+ .com/<wbr />Rt66SwapMeetWestOK</a></p>\n<p><a href='https://sites.google.c
+ om/site/rt66swapmeetelkcity/' onclick='_gaq.push(['_trackEvent'\, 'outboun
+ d-article'\, 'https://sites.google.com/site/rt66swapmeetelkcity/'\, 'https
+ ://sites.google.com/site/rt66swapmeetelkcity/'])\;' target='_blank'>https:
+ //sites.google.com/site/rt66swapmeetelkcity/</a></p>\n<p><a href='http://i
+ 0.wp.com/www.midwestswapmeets.com/wp-content/uploads/2015/08/Sayre-Ok.png'
+  target='_blank'><img class='alignnone size-thumbnail wp-image-1997' src='
+ http://i0.wp.com/www.midwestswapmeets.com/wp-content/uploads/2015/08/Sayre
+ -Ok.png?resize=116%2C150' alt='Rt 66 Swap Meet Western Oklahoma Sayre OK O
+ ct 3 2015' data-recalc-dims='1' /></a></p>
+DTSTART;TZID=America/Chicago:20151003T090000
+DTEND;TZID=America/Chicago:20151004T170000
+GEO:+35.291772;-99.636716
+LOCATION:Beckham County Activity Center @ 310 East Main Street\, Sayre\, OK
+  73662\, USA
+SEQUENCE:0
+SUMMARY:Rt 66 Swap Meet Western Oklahoma Sayre OK Oct 3-4 2015
+URL:http://www.midwestswapmeets.com/event/rt-66-swap-meet-western-oklahoma-
+ sayre-ok-oct-3-2015/
+X-TAGS;LANGUAGE=en-US:66\,Oklahoma\,Route\,Sayre
+X-COST:free parking and admission
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1944@www.midwestswapmeets.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Missouri
+CONTACT:Randy\; 417-850-5933\; mapleleafcarshow@gmail.com\; http://www.mapl
+ eleafcarshow.com
+DESCRIPTION:<h2>Carthage Maple Leaf Car Show Carthage Mo Oct 17 2015</h2>\n
+ <p>Oct. 16 – 17 Carthage Missouri – Carthage Maple Leaf Car Show & Cruise<
+ br />\nNight. Cruise Night Friday Oct. 16th on Historic Carthage Square\, 
+ 302<br />\nSouth Main 6 to 9 pm. Oct. 17th 35th Annual Maple Leaf Car Show
+  & Swap<br />\nMeet. Pre Reg. $10\, $12 after Oct. 1. 26 classes 78 trophi
+ es. Located<br />\nat the CMC 1900 South Grand Ave. Car Show Info: Larry a
+ t 417-825-6773\,<br />\nAlan at 620-856-2020. Swap Meet & Car Corral: Rand
+ y at 417-850-5933.<br />\nSwap Meet $25 Car Corral $5. Reg. on line at <a 
+ href='http://www.mapleleafcarshow.com/' onclick='_gaq.push(['_trackEvent'\
+ , 'outbound-article'\, 'http://www.mapleleafcarshow.com/'\, 'www.mapleleaf
+ carshow.com'])\;' target='_blank'>www.mapleleafcarshow.com</a>\,<br />\nem
+ ail us at <a href='mailto:mapleleafcarshow@gmail.com'>mapleleafcarshow@gma
+ il.com</a>\, or follow us on Facebook at<br />\nMaple Leaf Carshow.</p>\n<
+ p><a href='http://i1.wp.com/www.midwestswapmeets.com/wp-content/uploads/20
+ 15/05/Carthage-Mo.jpg' target='_blank'><img class='alignnone wp-image-1948
+  size-thumbnail' src='http://i1.wp.com/www.midwestswapmeets.com/wp-content
+ /uploads/2015/05/Carthage-Mo.jpg?resize=117%2C150' alt='Carthage Maple Lea
+ f Car Show Carthage Mo Oct 17 2015' data-recalc-dims='1' /></a></p>
+DTSTART;TZID=America/Chicago:20151017T080000
+DTEND;TZID=America/Chicago:20151017T170000
+GEO:+37.156439;-94.309463
+LOCATION:Congregation Of The Mother Co-Redemptrix @ Our Lady of the Ozarks 
+ College\, 1900 Grand Avenue\, Carthage\, MO 64836\, USA
+SEQUENCE:0
+SUMMARY:Carthage Maple Leaf Car Show Carthage Mo Oct 17 2015
+URL:http://www.midwestswapmeets.com/event/carthage-maple-leaf-car-show-cart
+ hage-mo-oct-17-2015/
+X-TAGS;LANGUAGE=en-US:Carthage\,leaf\,maple\,MO
+END:VEVENT
+END:VCALENDAR

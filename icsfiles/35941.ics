@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//81.169.145.171//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://gran-canaria.today
+X-WR-TIMEZONE:Europe/Lisbon
+BEGIN:VTIMEZONE
+TZID:Europe/Lisbon
+X-LIC-LOCATION:Europe/Lisbon
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:WET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:WEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-403@gran-canaria.today
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=de-DE:Märkte
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://gran-canaria.today/wp-content/uploads/2014/09/sioux-city-199x300.jpg' w
+ idth='199' height='300' /></div><p>Jeden zweiten Sonntag findet in San Fer
+ nando der Bauernmarkt statt.</p>
+DTSTART;TZID=Europe/Lisbon:20150920T073000
+DTEND;TZID=Europe/Lisbon:20150920T130000
+GEO:+27.766834;-15.583269
+LOCATION:Estadio Municipal\, San fernando @ Estadio Municipal\, P. Díaz\, L
+ oma Alta\, 87600 San Fernando\, Tamps.\, Mexiko
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Bauernmarkt in San Fernando
+URL:http://gran-canaria.today/event/bauernmarkt-in-san-fernando/
+END:VEVENT
+END:VCALENDAR

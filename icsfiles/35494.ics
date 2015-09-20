@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+	<script language="JavaScript">
+	<!--
+		window.onload = function getHostname(){
+			var hname = location.hostname;
+			var refreshURL = "http://hostinfo.cafe24.com/serviceExpire/servicestop.html";
+			var RrefreshURL = "../rindex.html";
+			
+			if ( hname.indexOf("fmcity")>0 ){
+				window.location.href = RrefreshURL;
+			}else{
+				window.location.href = refreshURL;
+			}
+		}
+	//-->
+	</script>
+</HEAD>
+</HTML>

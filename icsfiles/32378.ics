@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//103.9.171.9//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.caxtonjazz.com.au
+X-WR-TIMEZONE:Australia/Brisbane
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+X-LIC-LOCATION:Australia/Brisbane
+BEGIN:STANDARD
+DTSTART:19920301T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-950@testing.bluegumwebdesign.com.au/CaxtonJazz
+DTSTAMP:20150920T003928Z
+CATEGORIES:
+CONTACT:Ruth and Bill White\; 07 4696 1349\; ruthenator@gmail.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.caxtonjazz.com.au/wp-content/uploads/2015/01/DSC02525-Band-cr-150x1
+ 50.jpeg' width='150' height='150' /></div>
+DTSTART;TZID=Australia/Brisbane:20151009T194500
+GEO:-27.541233;+151.958316
+LOCATION:North Toowoomba Bowls Club @ 2 Elworthy Street\, Harlaxton QLD 435
+ 0\, Australia
+SEQUENCE:0
+SUMMARY:Toowoomba Jazz Society
+URL:http://www.caxtonjazz.com.au/event/toowoomba-jazz-society/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-952@testing.bluegumwebdesign.com.au/CaxtonJazz
+DTSTAMP:20150920T003928Z
+CATEGORIES:
+CONTACT:Robert Channon Wines\; 07 4683 3260\; info@robertchannonwines.com\;
+  http://www.robertchannonwines.com/Scripts/openExtra.asp?extra=11
+DESCRIPTION:<p style='text-align: left\;'><a href='http://www.caxtonjazz.co
+ m.au/wp-content/uploads/2015/03/Swigmore-150712-IMG_4086-30-cr2.jpg'><img 
+ class=' size-medium wp-image-959 alignright' src='http://www.caxtonjazz.co
+ m.au/wp-content/uploads/2015/03/Swigmore-150712-IMG_4086-30-cr2-300x199.jp
+ g' alt='Swigmore 150712 IMG_4086 30 cr2' width='300' height='199' /></a>Ou
+ r 7th successive appearance at Swigmore Hall. Photo is from July 2012.</p>
+ \n<p>Enjoy a visit to Queensland’s premier wine district\, have lunch at t
+ he Singing Lake Café at Robert Channon Wines\, and then adjourn to the atm
+ ospheric Swigmore Hall for a 2 hour jazz concert.</p>\n<p>This is one of t
+ he CSJB’s favourite gigs.</p>\n<p> </p>
+DTSTART;TZID=Australia/Brisbane:20151010T143000
+GEO:-28.60832;+151.85091
+LOCATION:'Swigmore Hall' at Robert Channon Wines @ Bradley Lane\, Amiens QL
+ D 4352\, Australia
+SEQUENCE:0
+SUMMARY:Robert Channon Wines
+URL:http://www.caxtonjazz.com.au/event/robert-channon-wines/
+X-COST:$25 or $20 concession
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-876@testing.bluegumwebdesign.com.au/CaxtonJazz
+DTSTAMP:20150920T003928Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.caxtonjazz.com.au/wp-content/uploads/2015/01/bjc-riverdeck-300x200-
+ 300x200.jpg' width='300' height='200' /></div>
+DTSTART;TZID=Australia/Brisbane:20151113T193000
+GEO:-27.466216;+153.034053
+LOCATION:Brisbane Jazz Club @ 1 Annie Street\, Kangaroo Point QLD 4169\, Au
+ stralia
+SEQUENCE:0
+SUMMARY:Brisbane Jazz Club
+URL:http://www.caxtonjazz.com.au/event/brisbane-jazz-club-4/
+X-TICKETS-URL:http://www.brisbanejazzclub.com.au/event/caxton-street-jazz-b
+ and/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-583@testing.bluegumwebdesign.com.au/CaxtonJazz
+DTSTAMP:20150920T003928Z
+CATEGORIES:
+CONTACT:Ted O'Connor\; 07 5491 6017\; scoastjazz@bigpond.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.caxtonjazz.com.au/wp-content/uploads/2015/01/Ted2-20-300x138.jpg' w
+ idth='300' height='138' /></div>
+DTSTART;TZID=Australia/Brisbane:20151205T193000
+GEO:-26.699088;+153.132655
+LOCATION:Kawana Community Hall @ Nanyima Street\, Buddina QLD 4575\, Austra
+ lia
+SEQUENCE:0
+SUMMARY:Sunshine Coast Jazz Club
+URL:http://www.caxtonjazz.com.au/event/5-december-2015/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1201@www.caxtonjazz.com.au
+DTSTAMP:20150920T003928Z
+CATEGORIES:
+CONTACT:Gold Coast Arts Centre\; 07 5588 4000\; http://www.theartscentregc.
+ com.au/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.caxtonjazz.com.au/wp-content/uploads/2015/01/GCJB1014-all-6-cr-300x
+ 230.jpg' width='300' height='230' /></div>
+DTSTART;TZID=Australia/Brisbane:20160123T193000
+DTEND;TZID=Australia/Brisbane:20160123T203000
+GEO:-28.001487;+153.416248
+LOCATION:Paradise Room\, Gold Carts Arts Centre @ 135 Bundall Road\, Surfer
+ s Paradise QLD 4217\, Australia
+SEQUENCE:0
+SUMMARY:Gold Coast Jazz and Blues Club
+URL:http://www.caxtonjazz.com.au/event/gold-coast-jazz-and-blues-club/
+END:VEVENT
+END:VCALENDAR

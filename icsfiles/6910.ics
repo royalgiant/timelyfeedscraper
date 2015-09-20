@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.47.225//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://humanepa.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1616@humanepa.org
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:HLLC\,HSBC\,MISC
+CONTACT:
+DESCRIPTION:<p>All Humane Pennsylvania locations will be closed Saturday Se
+ ptember 19th\, 2015 for the 38th Annual Walk for the Animals and Walktober
+ fest. Come join us at Jim Dietrich Park\, Muhlenberg! <a href='http://berk
+ shumane.org/events/walk-for-the-animals/'>Click here for more information<
+ /a>.<img class='aligncenter wp-image-1465 size-full' src='http://humanepa.
+ org/wp-content/uploads/2014/07/2015-Walk-Art.jpg' alt='2015 Walk Art' widt
+ h='926' height='558' /></p>
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150920
+GEO:+40.40435;-75.970004
+LOCATION:38th Annual Walk for the Animals and Walktoberfest @ 4899 Stoudts 
+ Ferry Bridge Rd\, Reading\, PA 19605\, USA
+SEQUENCE:0
+SUMMARY:All Humane Pennsylvania locations closed
+URL:http://humanepa.org/event/all-humane-pennsylvania-locations-closed-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1409@humanepa.org
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:HLLC\,HSBC\,MISC
+CONTACT:
+DESCRIPTION:<p>Humane Society of Berks County and Humane League of Lancaste
+ r County will be closed in honor of the Thanksgiving holiday. From all you
+ r friends at Humane Pennsylvania\, have a happy Thanksgiving!</p>
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151127
+SEQUENCE:0
+SUMMARY:ALL HUMANE PENNSYLVANIA LOCATIONS CLOSED
+URL:http://humanepa.org/event/all-humane-pennsylvania-locations-closed-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1306@humanepa.org
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:HSBC
+CONTACT:
+DESCRIPTION:<p>Join us at the Humane League of Lancaster County on December
+  6th for our festive Howliday Open House!</p>
+DTSTART;VALUE=DATE:20151205
+DTEND;VALUE=DATE:20151206
+SEQUENCE:0
+SUMMARY:HSBC: HOWLIDAY OPEN HOUSE
+URL:http://humanepa.org/event/hllc-howliday-open-house-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1303@humanepa.org
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:HLLC
+CONTACT:
+DESCRIPTION:<p>Join us at the Humane League of Lancaster County on December
+  6th for our festive Howliday Open House!</p>
+DTSTART;VALUE=DATE:20151206
+DTEND;VALUE=DATE:20151207
+SEQUENCE:0
+SUMMARY:HLLC: HOWLIDAY OPEN HOUSE
+URL:http://humanepa.org/event/hllc-howliday-open-house/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1410@humanepa.org
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:HLLC\,HSBC\,MISC
+CONTACT:
+DESCRIPTION:<p>Humane Society of Berks County and Humane League of Lancaste
+ r County will be closed on Christmas day. Happy holidays from your friends
+  at Humane Pennsylvania!</p>
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+SEQUENCE:0
+SUMMARY:ALL HUMANE PENNSYLVANIA LOCATIONS CLOSED
+URL:http://humanepa.org/event/all-humane-pennsylvania-locations-closed-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1298@humanepa.org
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:HSBC
+CONTACT:
+DESCRIPTION:<p>Join us for the 38th Annual Walk for the Animals and Walktob
+ erfest Benefiting HSBC!</p>\n<div id='tab-details' class='event-tab-conten
+ t visible clearfix'>\n<div id='event-details-right'>\n<p>The Humane Societ
+ y of Berks County’s <a href='http://berkshumane.org/events/walk-for-the-an
+ imals/' target='_blank'>Walk for the Animals & Walktoberfest</a> is the ol
+ dest and largest animal welfare event in the region. For thirty-seven year
+ s walkers have been helping to raise funds and awareness to improve the li
+ ves of animals and the people who love them – and having lots of fun doing
+  it!</p>\n</div>\n<div class='clear'></div>\n</div>
+DTSTART;TZID=America/New_York:20150919T110000
+SEQUENCE:0
+SUMMARY:HSBC: WALK FOR THE ANIMALS
+URL:http://berkshumane.org/events/walk-for-the-animals/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1453@humanepa.org
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:HLLC
+CONTACT:POUR\; 717-290-8080
+DESCRIPTION:<p>POUR is once again going to the dogs during their fun and hi
+ ghly-anticipated Barks & Beers “Bring Your Pup for a Pint” event! This fun
+  event features delicious food\, a wide variety of beer & wine\, and plent
+ y of treats and water for the pups! PLUS\, $1 from each beer and specialty
+  food item sold will be donated to the Humane League!</p>\n<p>All well-beh
+ aved and leashed pups are invited to attend!</p>\n<p>Stop by with or witho
+ ut your pup to enjoy delicious food & great beer\, mingle with fellow anim
+ al lovers & their adorable dogs\, and support the Humane League at the sam
+ e time!</p>\n<p>Give POUR a call with any questions about the event: 717-2
+ 90-8080.</p>
+DTSTART;TZID=America/New_York:20150927T150000
+DTEND;TZID=America/New_York:20150927T180000
+GEO:+40.039749;-76.308522
+LOCATION:POUR @ 114 North Prince Street\, Lancaster\, PA 17603\, USA
+SEQUENCE:0
+SUMMARY:HLLC: Barks & Beers
+URL:http://humanepa.org/event/1453/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1300@humanepa.org
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:HLLC
+CONTACT:
+DESCRIPTION:<p>Join us for the 26th Annual Tailwagger’s Trot!</p>\n<p>The T
+ ailwagger’s Trot is the Humane League’s biggest fundraiser event of the ye
+ ar! People from all over secure pledges from their family\, friends\, neig
+ hbors\, their friend’s friends\, their family’s neighbors… (you get the id
+ ea!) and then they come together to trot for our community’s homeless anim
+ als. Most trotters come with their dogs\, but some trot with their cats in
+  strollers\, their pet rat in a cozy carrier\, their ferret riding on thei
+ r shoulder or their pet goat on a leash! At the conclusion of the walk\, t
+ here will be family-friendly fun\, entertainment\, food vendors\, arts & c
+ rafts and more!</p>\n<p style='padding-left: 30px\;'>>> <a href='http://hu
+ maneleague.com/events/tailwaggers-trot/' target='_blank'>read more</a></p>
+DTSTART;TZID=America/New_York:20151010T110000
+SEQUENCE:0
+SUMMARY:HLLC: TAILWAGGERS TROT
+URL:http://humaneleague.com/events/tailwaggers-trot/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1454@humanepa.org
+DTSTAMP:20150920T002112Z
+CATEGORIES;LANGUAGE=en-US:HLLC
+CONTACT:POUR\; 717-290-8080
+DESCRIPTION:<p>POUR is once again going to the dogs during their fun and hi
+ ghly-anticipated Barks & Beers “Bring Your Pup for a Pint” event! This fun
+  event features delicious food\, a wide variety of beer & wine\, and plent
+ y of treats and water for the pups! PLUS\, $1 from each beer and specialty
+  food item sold will be donated to the Humane League!</p>\n<p>All well-beh
+ aved and leashed pups are invited to attend and participate in a Halloween
+  pet costume contest!</p>\n<p>Stop by with or without your pup to enjoy de
+ licious food & great beer\, mingle with fellow animal lovers & their adora
+ ble dogs\, and support the Humane League at the same time!</p>\n<p>Give PO
+ UR a call with any questions about the event: 717-290-8080.</p>
+DTSTART;TZID=America/New_York:20151025T150000
+DTEND;TZID=America/New_York:20151025T180000
+GEO:+40.039749;-76.308522
+LOCATION:POUR @ 114 North Prince Street\, Lancaster\, PA 17603\, USA
+SEQUENCE:0
+SUMMARY:HLLC: Barks & Beers
+URL:http://humanepa.org/event/hllc-barks-beers-2/
+END:VEVENT
+END:VCALENDAR

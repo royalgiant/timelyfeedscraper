@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//208.91.198.24//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://naga.farm
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+DTSTART:19451015T000000
+TZOFFSETFROM:+0630
+TZOFFSETTO:+0530
+TZNAME:IST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-882@naga.farm/wp
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Rajasthan
+CONTACT:http://rajasthanstartupfest.com/index.php
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://naga.farm/wp/wp-content/uploads/2015/09/JaipurStFesh-300x201.png' width
+ ='300' height='201' /></div>
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151011
+LOCATION:Jaipur
+SEQUENCE:0
+SUMMARY:Rajasthan Startup Fest
+URL:http://naga.farm/event/rajasthan-startup-fest/
+X-TAGS;LANGUAGE=en-US:India vision\,Innovation\,Rajasthan\,solve problems
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-850@naga.farm/wp
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:http://acumen.org/leaders/regional-fellows/india/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://naga.farm/wp/wp-content/uploads/2014/12/acumen.png' width='292' height=
+ '173' /></div>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151018
+LOCATION:Mumbai
+SEQUENCE:0
+SUMMARY:2015 Selection Conference of Acumen’s India Fellows Program.
+URL:http://naga.farm/event/2015-selection-conference-of-acumens-india-fello
+ ws-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-894@naga.farm/wp
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:New Delhi
+CONTACT:http://actionforindia.org/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://naga.farm/wp/wp-content/uploads/2014/12/afilogo.png' width='291' height
+ ='173' /></div>
+DTSTART;VALUE=DATE:20160122
+DTEND;VALUE=DATE:20160124
+LOCATION:New Delhi
+SEQUENCE:0
+SUMMARY:Action For India Forum
+URL:http://naga.farm/event/action-for-india-forum/
+X-TAGS;LANGUAGE=en-US:India vision\,Innovation\,solve problems
+END:VEVENT
+END:VCALENDAR

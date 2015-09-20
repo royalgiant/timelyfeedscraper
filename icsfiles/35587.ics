@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//181.224.136.237//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://rocyoganetwork.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-44@rocyoganetwork.com
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-US:Monica Alanna Classes
+CONTACT:Monica Alanna\; (585) 406 - 5548  \; organicmechanics@gmail.com\; h
+ ttp://www.monicaalanna.com
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150921T183000
+DTEND;TZID=America/New_York:20150921T200000
+GEO:+43.165702;-77.590157
+LOCATION:The Yards @ 280 Union Street North\, Rochester\, NY 14609\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Yoga for Artists with Monica Alanna
+URL:http://rocyoganetwork.com/event/yoga-for-artists-with-monica-alanna/
+X-COST:$10.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-114@rocyoganetwork.com
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-US:Firefly Kids Yoga Classes
+CONTACT:Amanda Terrigino\; 585.305.2948\; amanda@fireflykidsroc.com
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150922T180000
+DTEND;TZID=America/New_York:20150922T193000
+GEO:+43.115941;-77.492297
+LOCATION:Baby Bump Academy @ 349 West Commercial Street #1980\, East Roches
+ ter\, NY 14445\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Kids Yoga Class with Amanda of Firefly Kids Yoga
+URL:http://rocyoganetwork.com/event/kids-yoga-class-with-amanda-of-firefly-
+ kids-yoga-2/
+X-COST:$10.00
+X-TICKETS-URL:http://fireflykidsroc.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-115@rocyoganetwork.com
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-US:Kidding Around Yoga\,Workshops &amp\; Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151107T090000
+DTEND;TZID=America/New_York:20151108T180000
+GEO:+42.977196;-78.738576
+LOCATION:Rising Sun Yoga @ 5225 Sheridan Drive\, Buffalo\, NY 14221\, USA
+SEQUENCE:0
+SUMMARY:Kidding Around Yoga Teacher Training
+URL:http://rocyoganetwork.com/event/kidding-around-yoga-teacher-training/
+X-COST:$650 or $222 per month
+X-TICKETS-URL:http://kiddingaroundyoga.com/kids-yoga-teacher-trainings/sche
+ dule/buffalo/
+END:VEVENT
+END:VCALENDAR

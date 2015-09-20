@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//181.224.138.139//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://rpanimalshelter.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-401@rpanimalshelter.org/newsite
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Adoption Outreach\,Special Event
+CONTACT:
+DESCRIPTION:<p>Come meet some of our friendliest adoptable animals when we 
+ take them off-site to this store in the hopes of finding them their foreve
+ r homes!<a class='lightbox' href='http://rpanimalshelter.org/wp-content/up
+ loads/2014/03/Petco-Event-Wendy-Cat.jpg'><img class='alignnone size-medium
+  wp-image-402' src='http://rpanimalshelter.org/wp-content/uploads/2014/03/
+ Petco-Event-Wendy-Cat-225x300.jpg' alt='Petco Event -Wendy & Cat' width='2
+ 25' height='300' /></a></p>
+DTSTART;TZID=America/Los_Angeles:20150919T180000
+DTEND;TZID=America/Los_Angeles:20150919T220000
+EXDATE;TZID=America/Los_Angeles:20140920T180000
+EXDATE;TZID=America/Los_Angeles:20141018T180000
+GEO:+38.442806;-122.674149
+LOCATION:Unleashed by Petco @ 1175 Yulupa Avenue\, Santa Rosa\, CA 95405\, 
+ USA
+RRULE:FREQ=MONTHLY;BYDAY=3SA
+SEQUENCE:0
+SUMMARY:Adoption Outreach
+URL:http://rpanimalshelter.org/event/adoption-outreach-unleashed-petco/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-515@rpanimalshelter.org/newsite
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150919T130000
+DTEND;TZID=America/Los_Angeles:20150919T173000
+GEO:+38.354871;-122.715687
+LOCATION:Rohnert Park Animal Shelter @ J Rogers Lane\, Rohnert Park\, CA 94
+ 928\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Shelter Open
+URL:http://rpanimalshelter.org/event/shelter-open-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-514@rpanimalshelter.org/newsite
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150920T130000
+DTEND;TZID=America/Los_Angeles:20150920T163000
+GEO:+38.354871;-122.715687
+LOCATION:Rohnert Park Animal Shelter @ J Rogers Lane\, Rohnert Park\, CA 94
+ 928\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Shelter Open
+URL:http://rpanimalshelter.org/event/shelter-open-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-506@rpanimalshelter.org/newsite
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150923T130000
+DTEND;TZID=America/Los_Angeles:20150923T183000
+GEO:+38.354871;-122.715687
+LOCATION:Rohnert Park Animal Shelter @ J Rogers Lane\, Rohnert Park\, CA 94
+ 928\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Shelter Open
+URL:http://rpanimalshelter.org/event/shelter-open/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-508@rpanimalshelter.org/newsite
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150924T130000
+DTEND;TZID=America/Los_Angeles:20150924T173000
+GEO:+38.354871;-122.715687
+LOCATION:Rohnert Park Animal Shelter @ J Rogers Lane\, Rohnert Park\, CA 94
+ 928\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Shelter Open
+URL:http://rpanimalshelter.org/event/shelter-open-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-510@rpanimalshelter.org/newsite
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150925T130000
+DTEND;TZID=America/Los_Angeles:20150925T173000
+GEO:+38.354871;-122.715687
+LOCATION:Rohnert Park Animal Shelter @ J Rogers Lane\, Rohnert Park\, CA 94
+ 928\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Shelter Open
+URL:http://rpanimalshelter.org/event/shelter-open-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-361@rpanimalshelter.org/newsite
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Shelter Promotion\,Special Event
+CONTACT:
+DESCRIPTION:<p>Come meet our adorable\, adoptable rabbits!  Have your rabbi
+ t care questions answered by our knowledgeable volunteers.  Bring your bun
+ ny by for a FREE nail trim and shop our Bunny Boutique – an excellent sele
+ ction of fun toys and supplies\, and fresh hay for only $5.  All proceeds 
+ supports the care of our small animals at the shelter.<a class='lightbox' 
+ href='http://rpanimalshelter.org/wp-content/uploads/2014/03/Aragon-adoptio
+ n.jpg'><img class='alignnone size-medium wp-image-362' src='http://rpanima
+ lshelter.org/wp-content/uploads/2014/03/Aragon-adoption-225x300.jpg' alt='
+ Aragon adoption' width='225' height='300' /></a></p>
+DTSTART;TZID=America/Los_Angeles:20151010T130000
+DTEND;TZID=America/Los_Angeles:20151010T170000
+GEO:+38.354871;-122.715687
+LOCATION:Rohnert Park Animal Shelter @ J Rogers Lane\, Rohnert Park\, CA 94
+ 928\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:Bunny Day
+URL:http://rpanimalshelter.org/event/bunny-day/
+END:VEVENT
+END:VCALENDAR

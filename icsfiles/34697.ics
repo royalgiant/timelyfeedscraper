@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//95.110.205.39//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.aicoo.it
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+X-LIC-LOCATION:Europe/Rome
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-616@www.aicoo.it
+DTSTAMP:20150920T002850Z
+CATEGORIES:
+CONTACT:Giulio Bisaccioni\; 333 1802736\; info@aicoo.it
+DESCRIPTION:<p><a href='http://www.aicoo.it/wp-content/uploads/2015/08/AICO
+ O_AREZZO_locandina.jpg'><img class='alignnone size-medium wp-image-595' sr
+ c='http://www.aicoo.it/wp-content/uploads/2015/08/AICOO_AREZZO_locandina-2
+ 12x300.jpg' alt='AICOO_AREZZO_locandina' width='212' height='300' /></a></
+ p>
+DTSTART;TZID=Europe/Rome:20160111T210000
+DTEND;TZID=Europe/Rome:20160215T210000
+GEO:+43.471215;+11.849026
+LOCATION:Arte Cafè @ Via Fratelli Lumiere\, 11\, 52100 Arezzo AR\, Italia
+SEQUENCE:0
+SUMMARY:Corso Primo Livello Arezzo
+URL:http://www.aicoo.it/event/corso-primo-livello-arezzo/
+X-TAGS;LANGUAGE=it-IT:corso primo livello arezzo
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-618@www.aicoo.it
+DTSTAMP:20150920T002850Z
+CATEGORIES:
+CONTACT:Giulio Bisaccioni\; 333 1802736\; info@aicoo.it
+DESCRIPTION:<p><a href='http://www.aicoo.it/wp-content/uploads/2015/08/AICO
+ O_locandina_Reggello.jpg'><img class='alignnone size-medium wp-image-614' 
+ src='http://www.aicoo.it/wp-content/uploads/2015/08/AICOO_locandina_Reggel
+ lo-211x300.jpg' alt='AICOO_locandina_Reggello' width='211' height='300' />
+ </a></p>
+DTSTART;TZID=Europe/Rome:20160301T210000
+DTEND;TZID=Europe/Rome:20160405T210000
+GEO:+43.682331;+11.5241
+LOCATION:Frantoio Pasquini @ Località Fornacina\, 253\, 50066 Reggello FI\,
+  Italia
+SEQUENCE:0
+SUMMARY:Corso Primo Livello REGGELLO
+URL:http://www.aicoo.it/event/corso-primo-livello-reggello/
+X-TAGS;LANGUAGE=it-IT:corso primo livello arezzo\,corso primo livello regge
+ llo
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-620@www.aicoo.it
+DTSTAMP:20150920T002850Z
+CATEGORIES:
+CONTACT:Giulio Bisaccioni\; 333 1802736\; info@aicoo.it
+DESCRIPTION:<p><a href='http://www.aicoo.it/wp-content/uploads/2015/08/AICO
+ O_loc_TERNI.jpg'><img class='alignnone size-medium wp-image-607' src='http
+ ://www.aicoo.it/wp-content/uploads/2015/08/AICOO_loc_TERNI-212x300.jpg' al
+ t='AICOO_loc_TERNI' width='212' height='300' /></a></p>
+DTSTART;TZID=Europe/Rome:20160303T210000
+DTEND;TZID=Europe/Rome:20160407T210000
+GEO:+42.572806;+12.717025
+LOCATION:Frantoio Fonte Santa Maria @ Strada Fonte San Maria\, 05100 Terni 
+ TR\, Italia
+SEQUENCE:0
+SUMMARY:Corso Primo Livello COLLESTATTE – TERNI
+URL:http://www.aicoo.it/event/corso-primo-livello-collestatte-terni/
+X-TAGS;LANGUAGE=it-IT:corso primo livello arezzo\,corso primo livello colle
+ statte - terni\,corso primo livello reggello
+END:VEVENT
+END:VCALENDAR

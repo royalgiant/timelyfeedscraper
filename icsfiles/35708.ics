@@ -1,0 +1,954 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.47.225//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://shinebasketball.com
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:aokbdl6vn5quv1s6khg9qjtotc@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151123
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:Shine Thanksgiving Break – No Training
+URL:http://shinebasketball.com/event/shine-thanksgiving-break-no-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:bnkd82jc8u7bssi09skhu870kk@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151220
+DTEND;VALUE=DATE:20160103
+SEQUENCE:0
+SUMMARY:Shine HOLIDAY BREAK – No Training
+URL:http://shinebasketball.com/event/shine-holiday-break-no-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:8laerpn1k349e40eff8h8f5qrc@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150920T083000
+DTEND;TZID=America/Denver:20150920T100000
+LOCATION:Northglenn Recreation Center\, 11801 Community Center Drive\, Nort
+ hglenn\, CO 80233\, United States
+RRULE:FREQ=WEEKLY;UNTIL=20150927T143000Z;BYDAY=SU
+SEQUENCE:0
+SUMMARY:OPEN Workout | Free for current Trainees | $10 Drop In Guests | Nor
+ thglenn Rec Center
+URL:http://shinebasketball.com/event/open-workout-free-for-current-trainees
+ -10-drop-in-guests-northglenn-rec-center/
+END:VEVENT
+BEGIN:VEVENT
+UID:k02o2es97due7fe4l7teaupfrs@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Want to learn more about Shine and our vision for basketball
+  in Colorado? Have questions about your player’s development or future pla
+ n? Just want to hang out with a smoothie? Join Shine Director Rob Pierson 
+ for an informal hangout to ask questions and get to know each other. Paren
+ ts\, players\, guests welcome!</p>
+DTSTART;TZID=America/Denver:20150920T110000
+DTEND;TZID=America/Denver:20150920T120000
+LOCATION:Panera Bread | 14415 Deleware Street\, Westminster
+SEQUENCE:0
+SUMMARY:Coffee with Coach Rob | Come Hang Out!
+URL:http://shinebasketball.com/event/coffee-with-coach-rob-come-hang-out/
+END:VEVENT
+BEGIN:VEVENT
+UID:sp37hn54aj3fntmvv5ena0ts5c@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150921T183000
+DTEND;TZID=America/Denver:20150921T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:i2l94lehvuq9hcfk60a23gvoqs@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150921T183000
+DTEND;TZID=America/Denver:20150921T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Westlake MS
+URL:http://shinebasketball.com/event/training-skillselite-westlake-ms-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:o6d498nj0mcejmruv5me4kgu78@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150922T183000
+DTEND;TZID=America/Denver:20150922T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Team Practice | STEM Launch
+URL:http://shinebasketball.com/event/team-practice-stem-launch/
+END:VEVENT
+BEGIN:VEVENT
+UID:feperq13med3k99hkdcog8clec@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150923T183000
+DTEND;TZID=America/Denver:20150923T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Westlake MS
+URL:http://shinebasketball.com/event/training-skillselite-westlake-ms-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:n4bf9qfl8ktadrv1ocp8fien44@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150924T183000
+DTEND;TZID=America/Denver:20150924T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Westlake MS
+URL:http://shinebasketball.com/event/team-practice-westlake-ms/
+END:VEVENT
+BEGIN:VEVENT
+UID:5mo609euglo220ppqhj6o217ho@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150928T183000
+DTEND;TZID=America/Denver:20150928T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small/
+END:VEVENT
+BEGIN:VEVENT
+UID:qemi6m1ikbi3ofemkr10kkkaog@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150928T183000
+DTEND;TZID=America/Denver:20150928T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Westlake MS
+URL:http://shinebasketball.com/event/training-skillselite-westlake-ms/
+END:VEVENT
+BEGIN:VEVENT
+UID:s7dltpn0teqb236eq8sh16jkvc@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150929T183000
+DTEND;TZID=America/Denver:20150929T203000
+LOCATION:Northglenn Middle School\, 1123 Muriel Drive\, Northglenn\, CO 802
+ 33\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Northglenn MS
+URL:http://shinebasketball.com/event/team-practice-northglenn-ms-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:id0ct6g2j0tea73ino1a4smm2k@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150930T183000
+DTEND;TZID=America/Denver:20150930T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Westlake MS
+URL:http://shinebasketball.com/event/training-skillselite-westlake-ms-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:4n8tvslbgma0idts3gighpg5s0@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151001T183000
+DTEND;TZID=America/Denver:20151001T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Westlake MS
+URL:http://shinebasketball.com/event/training-skillselite-westlake-ms-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:jh38qr0lkitbjntcptu32s2elg@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151004T110000
+DTEND;TZID=America/Denver:20151004T122000
+EXDATE;TZID=America/Denver:20151025T110000
+LOCATION:Northglenn Recreation Center\, 11801 Community Center Dr\, Northgl
+ enn\, CO 80233\, United States
+RRULE:FREQ=WEEKLY;UNTIL=20151108T180000Z;BYDAY=SU
+SEQUENCE:0
+SUMMARY:OPEN Workout | Free for current Trainees | $10 Drop In Guests | Nor
+ thglenn Rec Center
+URL:http://shinebasketball.com/event/open-workout-free-for-current-trainees
+ -10-drop-in-guests-northglenn-rec-center-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:31cj3lerbr79fcqeeda1jrrbng@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151005T183000
+DTEND;TZID=America/Denver:20151005T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d0ekmvbeqc54s2ddmj7kje8g@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151005T183000
+DTEND;TZID=America/Denver:20151005T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Westlake MS
+URL:http://shinebasketball.com/event/training-skillselite-westlake-ms-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:hc0drr7frvruohn4ab4nsvl4j4@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151006T183000
+DTEND;TZID=America/Denver:20151006T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Team Practice | STEM Launch
+URL:http://shinebasketball.com/event/team-practice-stem-launch-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6qukrim4svcdhn1qq0nfjafs@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151007T183000
+DTEND;TZID=America/Denver:20151007T203000
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Gym TBA
+URL:http://shinebasketball.com/event/training-skillselite-gym-tba/
+END:VEVENT
+BEGIN:VEVENT
+UID:6mq3rqmuvrr4jqf3o3lquo3grg@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151008T183000
+DTEND;TZID=America/Denver:20151008T203000
+SEQUENCE:0
+SUMMARY:Team Practice | Gym TBA
+URL:http://shinebasketball.com/event/team-practice-gym-tba/
+END:VEVENT
+BEGIN:VEVENT
+UID:4ed7rk274f2tefr782cs662at0@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151012T183000
+DTEND;TZID=America/Denver:20151012T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:n13t5larr5sqk8nc4ccq78i5cg@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151012T183000
+DTEND;TZID=America/Denver:20151012T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Westlake MS
+URL:http://shinebasketball.com/event/training-skillselite-westlake-ms-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ceri9spuurbmdue6fvf5v0cgvg@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151013T183000
+DTEND;TZID=America/Denver:20151013T203000
+SEQUENCE:0
+SUMMARY:Team Practice | Gym TBA
+URL:http://shinebasketball.com/event/team-practice-gym-tba-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:tetgntuet5kp9h3outhnnggiik@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151014T183000
+DTEND;TZID=America/Denver:20151014T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Westlake MS
+URL:http://shinebasketball.com/event/training-skillselite-westlake-ms-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:rr57d1cogsds0bvjo62mngvds0@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151015T183000
+DTEND;TZID=America/Denver:20151015T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Westlake MS
+URL:http://shinebasketball.com/event/team-practice-westlake-ms-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ei1i96u068hi0i6a3g1ar8nh4@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151017T130000
+DTEND;TZID=America/Denver:20151017T160000
+LOCATION:Bishop Machebeuf High School\, 458 Uinta Way\, Denver\, CO 80230\,
+  United States
+SEQUENCE:0
+SUMMARY:Bishop Machebeuf Camp (BM Players Only)
+URL:http://shinebasketball.com/event/bishop-machebeuf-camp-bm-players-only-
+ tentative/
+END:VEVENT
+BEGIN:VEVENT
+UID:2aetdngt6c9l3vf7tvqpvc08fk@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151019T183000
+DTEND;TZID=America/Denver:20151019T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-small/
+END:VEVENT
+BEGIN:VEVENT
+UID:jkdcqnj20rq57pp2s0bjp6g18g@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151019T183000
+DTEND;TZID=America/Denver:20151019T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Shadow Ridge Large
+URL:http://shinebasketball.com/event/training-skillselite-shadow-ridge-larg
+ e/
+END:VEVENT
+BEGIN:VEVENT
+UID:02st6ub02bs9k6lidhfd2ebcfs@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151020T183000
+DTEND;TZID=America/Denver:20151020T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Shadow Ridge Large
+URL:http://shinebasketball.com/event/team-practice-shadow-ridge-large/
+END:VEVENT
+BEGIN:VEVENT
+UID:m0h06rdptl89ebf7jrbe6dcb34@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151021T183000
+DTEND;TZID=America/Denver:20151021T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Westlake MS
+URL:http://shinebasketball.com/event/training-skillselite-westlake-ms-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:fh9l28t0dp9udr1df0lgsmcpa8@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151022T183000
+DTEND;TZID=America/Denver:20151022T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Team Practice| Shadow Ridge MS Large
+URL:http://shinebasketball.com/event/team-practice-shadow-ridge-ms-large/
+END:VEVENT
+BEGIN:VEVENT
+UID:l673a6aov6fp5h6eeng4qm0sl0@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151026T183000
+DTEND;TZID=America/Denver:20151026T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-11
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:s38pg1tc06pf6dl4qug658vgpo@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151026T183000
+DTEND;TZID=America/Denver:20151026T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Shadow Ridge MS Large
+URL:http://shinebasketball.com/event/training-skillselite-shadow-ridge-ms-l
+ arge-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:luo3jiutqlvs9cv5n34jujuj4o@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151027T183000
+DTEND;TZID=America/Denver:20151027T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Westlake MS
+URL:http://shinebasketball.com/event/team-practice-westlake-ms-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:u6vkq51m4kq6vtslld84tcpsq4@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151028T183000
+DTEND;TZID=America/Denver:20151028T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | STEM Launch
+URL:http://shinebasketball.com/event/training-skillselite-stem-launch/
+END:VEVENT
+BEGIN:VEVENT
+UID:u6ifj2gra0gmngjgpp9tc8n8hk@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151029T183000
+DTEND;TZID=America/Denver:20151029T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Westlake MS
+URL:http://shinebasketball.com/event/team-practice-westlake-ms-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:gntkgsqguh63cdgjtk4rqclro0@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151102T183000
+DTEND;TZID=America/Denver:20151102T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-10
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:agj01u9vc88ppvfhqo7ic734cs@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151102T183000
+DTEND;TZID=America/Denver:20151102T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Shadow Ridge MS Large
+URL:http://shinebasketball.com/event/training-skillselite-shadow-ridge-ms-l
+ arge-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:19q4l5rso95m3ose3r8kv4eoog@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151103T183000
+DTEND;TZID=America/Denver:20151103T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Team Practice | STEM Launch
+URL:http://shinebasketball.com/event/team-practice-stem-launch-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:aca6cmvu28et6i4nv4fnvtsr60@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151104T183000
+DTEND;TZID=America/Denver:20151104T203000
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Gym TBA
+URL:http://shinebasketball.com/event/training-skillselite-gym-tba-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ltc2mjgk8v0ku0asth05sbk6vk@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151105T183000
+DTEND;TZID=America/Denver:20151105T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Westlake MS
+URL:http://shinebasketball.com/event/team-practice-westlake-ms-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:nroe3018u3n111560ra4m922e0@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151107T130000
+DTEND;TZID=America/Denver:20151107T160000
+LOCATION:Bishop Machebeuf High School\, 458 Uinta Way\, Denver\, CO 80230\,
+  United States
+SEQUENCE:0
+SUMMARY:Bishop Machebeuf Camp (BM Players only)
+URL:http://shinebasketball.com/event/bishop-machebeuf-camp-bm-players-only/
+END:VEVENT
+BEGIN:VEVENT
+UID:64hfo2firfovj2m1lbmlpc6jgo@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151109T183000
+DTEND;TZID=America/Denver:20151109T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:aa0m73gt2t2o1io3dkr4h3vib4@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151109T183000
+DTEND;TZID=America/Denver:20151109T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Shadow Ridge MS Large
+URL:http://shinebasketball.com/event/training-skillselite-shadow-ridge-ms-l
+ arge-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:qqjtg2o1hhb1r5nd3s87pii9gg@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151110T183000
+DTEND;TZID=America/Denver:20151110T203000
+SEQUENCE:0
+SUMMARY:Team Practice | Gym TBA
+URL:http://shinebasketball.com/event/team-practice-gym-tba-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1bhah9tvosb1vot6ghmi7bjes@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151111T183000
+DTEND;TZID=America/Denver:20151111T203000
+SEQUENCE:0
+SUMMARY:NO Training Tonight
+URL:http://shinebasketball.com/event/no-training-tonight/
+END:VEVENT
+BEGIN:VEVENT
+UID:685ccguv7gv5iv8hkg7vfs4l8s@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151112T183000
+DTEND;TZID=America/Denver:20151112T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Westlake MS
+URL:http://shinebasketball.com/event/team-practice-westlake-ms-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:s2f2solbp7c0gi3ch47pibid00@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151116T183000
+DTEND;TZID=America/Denver:20151116T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:5o2qt1skqr4e8r77hqsmnovjik@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151116T183000
+DTEND;TZID=America/Denver:20151116T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Shadow Ridge MS Large
+URL:http://shinebasketball.com/event/training-skillselite-shadow-ridge-ms-l
+ arge-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:9rhva93n2rsqhqt2vitasj6pk4@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151117T183000
+DTEND;TZID=America/Denver:20151117T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Team Practice | STEM Launch
+URL:http://shinebasketball.com/event/team-practice-stem-launch-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:5oan8mnbs7ofgcp5a9el02ibr8@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151118T183000
+DTEND;TZID=America/Denver:20151118T203000
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Gym TBA
+URL:http://shinebasketball.com/event/training-skillselite-gym-tba-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:t5llarqsep7e1ggsecel5r9vag@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151119T183000
+DTEND;TZID=America/Denver:20151119T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Team Practice | STEM Launch
+URL:http://shinebasketball.com/event/team-practice-stem-launch-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:tkfnudbhsn3t0ho4uqchvhpskc@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151130T183000
+DTEND;TZID=America/Denver:20151130T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:omb55jeub5p6n0hqajn2s8iqo4@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151130T183000
+DTEND;TZID=America/Denver:20151130T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Shadow Ridge MS Large
+URL:http://shinebasketball.com/event/training-skillselite-shadow-ridge-ms-l
+ arge-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:sjvoeeoir2lpa4josktgqhoo6s@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151201T183000
+DTEND;TZID=America/Denver:20151201T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Team Practice | STEM Launch
+URL:http://shinebasketball.com/event/team-practice-stem-launch-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:rhsvokj7j9cogl2npgcf79porc@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151202T183000
+DTEND;TZID=America/Denver:20151202T203000
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Gym TBA
+URL:http://shinebasketball.com/event/training-skillselite-gym-tba-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:73uplk3ifd7nc3bleg3s4np820@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151203T183000
+DTEND;TZID=America/Denver:20151203T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Westlake MS
+URL:http://shinebasketball.com/event/team-practice-westlake-ms-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:k102e9ioe0l0fg45vr6is1fpjc@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151207T183000
+DTEND;TZID=America/Denver:20151207T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:3i7ofl926ht66p4fquv05f16rg@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151207T183000
+DTEND;TZID=America/Denver:20151207T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Shadow Ridge MS Large
+URL:http://shinebasketball.com/event/training-skillselite-shadow-ridge-ms-l
+ arge/
+END:VEVENT
+BEGIN:VEVENT
+UID:v5ut5rp06gi1du6huighda4t50@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151208T183000
+DTEND;TZID=America/Denver:20151208T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Team Practice | STEM Launch
+URL:http://shinebasketball.com/event/team-practice-stem-launch-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:o6v8crub1reot4upjh76inq73o@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151209T183000
+DTEND;TZID=America/Denver:20151209T203000
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Gym TBA
+URL:http://shinebasketball.com/event/training-skillselite-gym-tba-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:7mdpplero9p5646g5a9bib7fds@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151210T183000
+DTEND;TZID=America/Denver:20151210T203000
+LOCATION:The International School at Thornton Middle\, 9451 Hoffman Way\, T
+ hornton\, CO 80229\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | The International School
+URL:http://shinebasketball.com/event/team-practice-the-international-school
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:4iqrp7engirpr3grjdld6lolnc@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151214T183000
+DTEND;TZID=America/Denver:20151214T194500
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | PREP | Shadow Ridge MS Small
+URL:http://shinebasketball.com/event/training-prep-shadow-ridge-ms-small-12
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:m26v1ldknokhc4kgeoin9svsh0@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151214T183000
+DTEND;TZID=America/Denver:20151214T203000
+LOCATION:Shadow Ridge Middle School\, 12551 Holly Street\, Thornton\, CO 80
+ 602\, United States
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | Shadow Ridge MS Large
+URL:http://shinebasketball.com/event/training-skillselite-shadow-ridge-ms-l
+ arge-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:lu71b7iis6k11a5i7aces11ijs@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151215T183000
+DTEND;TZID=America/Denver:20151215T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Team Practice | STEM Launch
+URL:http://shinebasketball.com/event/team-practice-stem-launch-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:tsfnm3egroqt98erh910rse44k@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151216T183000
+DTEND;TZID=America/Denver:20151216T203000
+LOCATION:9450 Pecos St\, Thornton\, CO 80260\, USA
+SEQUENCE:0
+SUMMARY:Training | SKILLS/ELITE | STEM Launch
+URL:http://shinebasketball.com/event/training-skillselite-stem-launch-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:3k3o5s27n6qcpmvd21ufnbiukc@google.com
+DTSTAMP:20150920T002312Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151217T183000
+DTEND;TZID=America/Denver:20151217T203000
+LOCATION:Westlake Middle School\, 2800 West 135th Avenue\, Broomfield\, CO 
+ 80020\, United States
+SEQUENCE:0
+SUMMARY:Team Practice | Westlake MS
+URL:http://shinebasketball.com/event/team-practice-westlake-ms-9/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//213.133.104.52//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.plays-in-business.com
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-5777@www.plays-in-business.com
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-GB:Workshop
+CONTACT:Jacqui Davidson\, Software Acumen Ltd\; +44(0) 1223 900 107\; jacqu
+ i@software-acumen.com\; http://agilecambridge.net/2015/
+DESCRIPTION:<p><a href='http://agilecambridge.net/2015/sessions/index.php?s
+ ession=27' target='_blank'><img class='alignleft' src='http://www.plays-in
+ -business.com/wp-content/uploads/2015/08/logo.jpg' alt='Agile Cambridge Lo
+ go' width='109' height='42' /></a>Team chartering is generally only used a
+ t the start of a project\, and team charters tend to be quite universal.</
+ p>\n<p>In this workshop\, we will use the ‘Lego Serious Play’ method to de
+ velop a team-specific team charter\, which is suited to team goals and ada
+ pted continuously. You’ll be able to use it in your own organisation.</p>
+ \n<p> </p>\n<p>More Info: <a href='http://agilecambridge.net/2015/programm
+ e/' target='_blank'>http://agilecambridge.net/2015/programme/</a></p>\n<p>
+ Website: <a href='http://agilecambridge.net/2015/' target='_blank'>http://
+ agilecambridge.net/2015/</a></p>\n<p>Tickets: <a href='http://agilecambrid
+ ge.net/2015/tickets/' target='_blank'>http://agilecambridge.net/2015/ticke
+ ts/</a></p>
+DTSTART;TZID=Europe/Berlin:20150930T133000
+DTEND;TZID=Europe/Berlin:20150930T150000
+GEO:+52.212419;+0.104005
+LOCATION:Agile Cambridge\, UK @ Churchill College\, Storey's Way\, Cambridg
+ e\, Cambridge CB3 0DS\, UK
+SEQUENCE:0
+SUMMARY:Do I need a “Prime Directive”?
+URL:http://www.plays-in-business.com/event/do-i-need-a-prime-directive/
+X-COST:£900.00 — £130.00
+X-TICKETS-URL:http://agilecambridge.net/2015/tickets/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5784@www.plays-in-business.com
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-GB:LEGO Serious Play Meetup
+CONTACT:Michael Tarnowski\, Plays-In-Business.com\; lsp-meetup@gmx.de\; htt
+ p://legoseriousplay-rheinmain.weebly.com
+DESCRIPTION:<p><img class='wp-image-4820 alignleft' src='http://www.plays-i
+ n-business.com/wp-content/uploads/2015/07/lsp-meetup-rhein-main-logo.jpg' 
+ alt='LEGO Serious Play Rhein-Main Meetup' width='300' height='200' /><br /
+ >\n<span style='font-size: 8pt\;'><a href='http://www.plays-in-business.co
+ m/lego-serious-play/'>LEGO® Serious Play</a>® (LSP) is a structured and fa
+ cilitated workshop method for strategic decision making and problem resolu
+ tion in business environments. </span><span style='font-size: 8pt\;'>This 
+ Meetup group is for anyone interested in using LEGO® Serious Play to solve
+  business issues. It is a forum to exchange experiences as well for traine
+ d LSP facilitators as for all interested in the method.<br />\n</span><spa
+ n style='font-size: 8pt\;'>We meet at a regular basis each 2nd Monday a mo
+ nth (starting 8.6.2014) at:<br />\n</span><span style='font-size: 8pt\;'><
+ a href='http://heimathafen-wiesbaden.de/'>heimathafen Wiesbaden</a> – Cowo
+ rking Space & Café\, Karlstrasse 22\, 65185 D-Wiesbaden.</span></p>\n<p><s
+ pan style='font-size: 8pt\;'>Our hashtag is #LSPRheinMain\; email: lsp-mee
+ tup (@) gmx.de<br />\nMore: <a href='http://legoseriousplay-rheinmain.weeb
+ ly.com/'>http://legoseriousplay-rheinmain.weebly.com/</a></span></p>\n<hr 
+ />\n<p> </p>\n<p><span style='font-family: 'trebuchet ms'\, geneva\, sans-
+ serif\;'>Topic of the evening:</span></p>\n<p><em><strong>to be defined</s
+ trong></em></p>\n<hr />\n<p>Registration to this event via the <a href='ht
+ tp://www.meetup.com/LEGO-Serious-Play-Rhein-Main-Germany/' target='_blank'
+ >meetup group</a>:<br />\n<a href='http://www.meetup.com/LEGO-Serious-Play
+ -Rhein-Main-Germany/' target='_blank'><img class='wp-image-4406 alignleft'
+  src='http://www.plays-in-business.com/wp-content/uploads/2015/07/meetup-l
+ ogo.png' alt='' width='90' height='60' /></a></p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=Europe/Berlin:20151012T190000
+DTEND;TZID=Europe/Berlin:20151012T220000
+GEO:+50.075621;+8.235582
+LOCATION:heimathafen Wiesbaden - Coworking Space & Café @ Karlstraße 22\, 6
+ 5185 Wiesbaden\, Germany
+SEQUENCE:0
+SUMMARY:LSP Rhein-Main Meetup: Topic to be defined
+URL:http://www.plays-in-business.com/event/lsp-rhein-main-meetup-topic-to-b
+ e-defined-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5786@www.plays-in-business.com
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-GB:LEGO Serious Play Meetup
+CONTACT:Michael Tarnowski\, Plays-In-Business.com\; lsp-meetup@gmx.de\; htt
+ p://legoseriousplay-rheinmain.weebly.com
+DESCRIPTION:<p><img class='wp-image-4820 alignleft' src='http://www.plays-i
+ n-business.com/wp-content/uploads/2015/07/lsp-meetup-rhein-main-logo.jpg' 
+ alt='LEGO Serious Play Rhein-Main Meetup' width='300' height='200' /><br /
+ >\n<span style='font-size: 8pt\;'><a href='http://www.plays-in-business.co
+ m/lego-serious-play/'>LEGO® Serious Play</a>® (LSP) is a structured and fa
+ cilitated workshop method for strategic decision making and problem resolu
+ tion in business environments. </span><span style='font-size: 8pt\;'>This 
+ Meetup group is for anyone interested in using LEGO® Serious Play to solve
+  business issues. It is a forum to exchange experiences as well for traine
+ d LSP facilitators as for all interested in the method.<br />\n</span><spa
+ n style='font-size: 8pt\;'>We meet at a regular basis each 2nd Monday a mo
+ nth (starting 8.6.2014) at:<br />\n</span><span style='font-size: 8pt\;'><
+ a href='http://heimathafen-wiesbaden.de/'>heimathafen Wiesbaden</a> – Cowo
+ rking Space & Café\, Karlstrasse 22\, 65185 D-Wiesbaden.</span></p>\n<p><s
+ pan style='font-size: 8pt\;'>Our hashtag is #LSPRheinMain\; email: lsp-mee
+ tup (@) gmx.de<br />\nMore: <a href='http://legoseriousplay-rheinmain.weeb
+ ly.com/'>http://legoseriousplay-rheinmain.weebly.com/</a></span></p>\n<hr 
+ />\n<p> </p>\n<p><span style='font-family: 'trebuchet ms'\, geneva\, sans-
+ serif\;'>Topic of the evening:</span></p>\n<p><em><strong>to be defined</s
+ trong></em></p>\n<hr />\n<p>Registration to this event via the <a href='ht
+ tp://www.meetup.com/LEGO-Serious-Play-Rhein-Main-Germany/' target='_blank'
+ >meetup group</a>:<br />\n<a href='http://www.meetup.com/LEGO-Serious-Play
+ -Rhein-Main-Germany/' target='_blank'><img class='wp-image-4406 alignleft'
+  src='http://www.plays-in-business.com/wp-content/uploads/2015/07/meetup-l
+ ogo.png' alt='' width='90' height='60' /></a></p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=Europe/Berlin:20151109T190000
+DTEND;TZID=Europe/Berlin:20151109T220000
+GEO:+50.075621;+8.235582
+LOCATION:heimathafen Wiesbaden - Coworking Space & Café @ Karlstraße 22\, 6
+ 5185 Wiesbaden\, Germany
+SEQUENCE:0
+SUMMARY:LSP Rhein-Main Meetup: Topic to be defined
+URL:http://www.plays-in-business.com/event/lsp-rhein-main-meetup-topic-to-b
+ e-defined-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5816@www.plays-in-business.com
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-GB:Conference
+CONTACT:CoRe Orga Team\; orga@coachreflectionday.org\; http://www.coachrefl
+ ectionday.org/
+DESCRIPTION:<p><a href='http://www.coachreflectionday.org/'><img class='ali
+ gnleft wp-image-5818' src='http://www.plays-in-business.com/wp-content/upl
+ oads/2015/08/coach-reflection-day-core-day-logo.png' alt='Coach Reflection
+  Day - CoRe Day Logo' width='150' height='141' /></a></p>\n<h1>Coach Refle
+ ction Day – CoRe Day</h1>\n<p>The CoRe Day is a 1-day <a href='http://www.
+ plays-in-business.com/open-space-technology/'>open space format</a> for (A
+ gile)  Coaches to train and learn in mutually supervised sessions and coac
+ hing dojos.</p>
+DTSTART;TZID=Europe/Berlin:20151113T083000
+DTEND;TZID=Europe/Berlin:20151113T170000
+GEO:+51.256072;+9.395531
+LOCATION:GenoHotel Baunatal GmbH @ D-34225 Baunatal\, Germany\, Schulze-Del
+ itzsch-Straße 2
+SEQUENCE:0
+SUMMARY:Coach Reflection Day – CoRe Day
+URL:http://www.plays-in-business.com/event/coach-reflection-day-core-day/
+X-TICKETS-URL:http://www.eventbrite.de/e/1-coach-reflection-day-nordhessen-
+ kassel-core-day-tickets-17514892515
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5787@www.plays-in-business.com
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-GB:LEGO Serious Play Meetup
+CONTACT:Michael Tarnowski\, Plays-In-Business.com\; lsp-meetup@gmx.de\; htt
+ p://legoseriousplay-rheinmain.weebly.com
+DESCRIPTION:<p><img class='wp-image-4820 alignleft' src='http://www.plays-i
+ n-business.com/wp-content/uploads/2015/07/lsp-meetup-rhein-main-logo.jpg' 
+ alt='LEGO Serious Play Rhein-Main Meetup' width='300' height='200' /><br /
+ >\n<span style='font-size: 8pt\;'><a href='http://www.plays-in-business.co
+ m/lego-serious-play/'>LEGO® Serious Play</a>® (LSP) is a structured and fa
+ cilitated workshop method for strategic decision making and problem resolu
+ tion in business environments. </span><span style='font-size: 8pt\;'>This 
+ Meetup group is for anyone interested in using LEGO® Serious Play to solve
+  business issues. It is a forum to exchange experiences as well for traine
+ d LSP facilitators as for all interested in the method.<br />\n</span><spa
+ n style='font-size: 8pt\;'>We meet at a regular basis each 2nd Monday a mo
+ nth (starting 8.6.2014) at:<br />\n</span><span style='font-size: 8pt\;'><
+ a href='http://heimathafen-wiesbaden.de/'>heimathafen Wiesbaden</a> – Cowo
+ rking Space & Café\, Karlstrasse 22\, 65185 D-Wiesbaden.</span></p>\n<p><s
+ pan style='font-size: 8pt\;'>Our hashtag is #LSPRheinMain\; email: lsp-mee
+ tup (@) gmx.de<br />\nMore: <a href='http://legoseriousplay-rheinmain.weeb
+ ly.com/'>http://legoseriousplay-rheinmain.weebly.com/</a></span></p>\n<hr 
+ />\n<p> </p>\n<p><span style='font-family: 'trebuchet ms'\, geneva\, sans-
+ serif\;'>Topic of the evening:</span></p>\n<p><em><strong>to be defined</s
+ trong></em></p>\n<hr />\n<p>Registration to this event via the <a href='ht
+ tp://www.meetup.com/LEGO-Serious-Play-Rhein-Main-Germany/' target='_blank'
+ >meetup group</a>:<br />\n<a href='http://www.meetup.com/LEGO-Serious-Play
+ -Rhein-Main-Germany/' target='_blank'><img class='wp-image-4406 alignleft'
+  src='http://www.plays-in-business.com/wp-content/uploads/2015/07/meetup-l
+ ogo.png' alt='' width='90' height='60' /></a></p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=Europe/Berlin:20151214T190000
+DTEND;TZID=Europe/Berlin:20151214T220000
+GEO:+50.075621;+8.235582
+LOCATION:heimathafen Wiesbaden - Coworking Space & Café @ Karlstraße 22\, 6
+ 5185 Wiesbaden\, Germany
+SEQUENCE:0
+SUMMARY:LSP Rhein-Main Meetup: Topic to be defined
+URL:http://www.plays-in-business.com/event/lsp-rhein-main-meetup-topic-to-b
+ e-defined-6/
+END:VEVENT
+END:VCALENDAR

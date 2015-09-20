@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//209.59.151.26//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://fsmbc.com
+X-WR-TIMEZONE:America/Detroit
+BEGIN:VTIMEZONE
+TZID:America/Detroit
+X-LIC-LOCATION:America/Detroit
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2212@fsmbc.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151115
+RRULE:FREQ=YEARLY;BYMONTH=11
+SEQUENCE:0
+SUMMARY:First Lady Dawn Tatum’s Birthday
+URL:http://fsmbc.com/event/first-lady-dawn-tatums-birthday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2172@fsmbc.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:Church Secretary \; 269-964-9637\; fsmbc@fsmbc.com
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20150920T053000
+DTEND;TZID=America/Detroit:20150920T074500
+GEO:+42.311031;-85.193286
+LOCATION:First Salem Missionary Baptist Church  @ 370 Capital Avenue Southw
+ est\, Battle Creek\, MI 49015\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:LIVE WORSHIP EXPERIENCE
+URL:http://fsmbc.com/event/live-worship-experience/
+X-TAGS;LANGUAGE=en-US:BIBLE\,excitement\,fun\,Guest\,LIVE\,LOVE\,Members\,m
+ usic\,PREACHING\,teaching\,Word\,Worship
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3073@fsmbc.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:Sis. Ann Thompson\, Church Secretary \; 269-964-9637\; fsmbc@fsmbc.
+ com
+DESCRIPTION:<p><a href='http://fsmbc.com/wp-content/uploads/2014/01/DEA.jpg
+ '><img class='aligncenter size-full wp-image-3074' alt='DEA' src='http://f
+ smbc.com/wp-content/uploads/2014/01/DEA.jpg' width='504' height='360' /></
+ a></p>
+DTSTART;TZID=America/Detroit:20150922T184500
+DTEND;TZID=America/Detroit:20150922T194500
+LOCATION:First Salem Missionary Baptist Church  @ 370 Capital Avenue Southw
+ est\, Battle Creek\, MI 49015\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Discipleship Empowerment Academy “D.E.A”
+URL:http://fsmbc.com/event/discipleship-empowerment-academy-d-e-a/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2176@fsmbc.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:Ann Thompson\, Church Secretary \; 269-964-9637\; fsmbc@fsmbc.com
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20150923T163000
+DTEND;TZID=America/Detroit:20150923T180000
+EXDATE;TZID=America/Detroit:20130522T163000
+EXDATE;TZID=America/Detroit:20130612T163000
+EXDATE;TZID=America/Detroit:20130717T163000
+EXDATE;TZID=America/Detroit:20131127T163000
+EXDATE;TZID=America/Detroit:20131211T163000
+EXDATE;TZID=America/Detroit:20131218T163000
+EXDATE;TZID=America/Detroit:20131225T163000
+LOCATION:First Salem Missionary Baptist Church  @ 370 Capital Avenue Southw
+ est\, Battle Creek\, MI 49015\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Noon Bible Study
+URL:http://fsmbc.com/event/noon-bible-study/
+X-TAGS;LANGUAGE=en-US:BIBLE\,GOD\,noon\,of\,Study\,Word
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3077@fsmbc.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:Ann Thompson\, Church Secretary \; 269-964-9637\; fsmbc@fsmbc.com
+DESCRIPTION:<p style='text-align: center\;'><a href='http://fsmbc.com/wp-co
+ ntent/uploads/2013/01/LIVESTREAM2.jpg'><img class=' wp-image-3075 aligncen
+ ter' alt='LIVESTREAM2' src='http://fsmbc.com/wp-content/uploads/2013/01/LI
+ VESTREAM2.jpg' width='562' height='284' /></a></p>
+DTSTART;TZID=America/Detroit:20150923T230000
+DTEND;TZID=America/Detroit:20150924T004500
+LOCATION:First Salem Missionary Baptist Church  @ Pasaje 370\, Santiago del
+  Estero\, Santiago del Estero Province\, Argentina
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Evening Prayer & Bible Study
+URL:http://fsmbc.com/event/evening-prayer-bible-study/
+X-TAGS;LANGUAGE=en-US:app\,BIBLE\,GOD\,jesus\,LIVE\,mobile\,Now\,stream\,St
+ udy\,ustream\,website
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2167@fsmbc.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:Dr. Craig Tatum\; 269-964-9637\; fsmbc@fsmbc.com
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20151010T160000
+DTEND;TZID=America/Detroit:20151010T170000
+EXDATE;TZID=America/Detroit:20130413T160000
+EXDATE;TZID=America/Detroit:20131214T160000
+LOCATION:FIrst Salem Missionary Baptist Church  @ 370 Capital Avenue Southw
+ est\, Battle Creek\, MI 49015\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:Brotherhood
+URL:http://fsmbc.com/event/brotherhood/
+X-TAGS;LANGUAGE=en-US:Brotherhood\,fellowship\,Learning\,men\,saturday\,tea
+ ching\,training\,young males
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2165@fsmbc.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:Dr. Craig Tatum\; 269-964-9637\; fsmbc@fsmbc.com
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20151010T160000
+DTEND;TZID=America/Detroit:20151010T164500
+EXDATE;TZID=America/Detroit:20130413T160000
+EXDATE;TZID=America/Detroit:20131214T160000
+LOCATION:First Salem Missionary Baptist Church  @ 370 Capital Avenue Southw
+ est\, Battle Creek\, MI 49015\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:Teachers Training
+URL:http://fsmbc.com/event/teachers-training/
+X-TAGS;LANGUAGE=en-US:students\,Sunday school\,teaching\,training\,youth
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2166@fsmbc.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:First Lady Dawn Tatum\; 269-964-9637\; fsmbc@fsmbc.com
+DESCRIPTION:<p><a href='http://fsmbc.com/wp-content/uploads/2014/01/wow-log
+ o1.png'><img class='aligncenter size-full wp-image-3091' alt='wow-logo' sr
+ c='http://fsmbc.com/wp-content/uploads/2014/01/wow-logo1.png' width='269' 
+ height='143' /></a></p>
+DTSTART;TZID=America/Detroit:20151010T160000
+DTEND;TZID=America/Detroit:20151010T170000
+EXDATE;TZID=America/Detroit:20130413T160000
+EXDATE;TZID=America/Detroit:20131214T160000
+LOCATION:First Salem Missionary Baptist Church  @ 370 Capital Avenue Southw
+ est\, Battle Creek\, MI 49015\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SA
+SEQUENCE:0
+SUMMARY:Women Of Wisdom
+URL:http://fsmbc.com/event/women-of-wisdom/
+X-TAGS;LANGUAGE=en-US:fun\,Gathering\,Learning\,wisdom\,women
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2218@fsmbc.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:Ann Thompson\, Church Secretary \; 269-964-9637\; fsmbc@fsmbc.com
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20151204T023000
+DTEND;TZID=America/Detroit:20151204T053000
+LOCATION:FIrst Salem Missionary Baptist Church  @ 370 Capital Avenue Southw
+ est\, Battle Creek\, MI 49015\, USA
+RRULE:FREQ=YEARLY;BYMONTH=12
+SEQUENCE:0
+SUMMARY:New Years Eve Service
+URL:http://fsmbc.com/event/new-years-eve-service/
+END:VEVENT
+END:VCALENDAR

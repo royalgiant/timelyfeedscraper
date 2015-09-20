@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//62.129.233.25//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://canadian-school.pl/elementary
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+X-LIC-LOCATION:Europe/Warsaw
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-6207@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151002
+SEQUENCE:0
+SUMMARY:PYP session
+URL:http://canadian-school.pl/elementary/?ai1ec_event=pyp-session
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6208@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151015
+SEQUENCE:0
+SUMMARY:Teacher’s Day / Dzień Edukacji Narodowej | Canadian Thanksgiving Da
+ y / Kanadyjskie Święto Dziękczynienia | 1st Grader Initiation Ceremony / Ś
+ lubowanie Klas Pierwszych
+URL:http://canadian-school.pl/elementary/?ai1ec_event=teachers-day-dzien-ed
+ ukacji-narodowej-canadian-thanksgiving-day-kanadyjskie-swieto-dziekczynien
+ ia-1st-grader-initiation-ceremony-slubowanie-klas-pierwszych
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6210@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:Autumn break / przerwa jesienna
+URL:http://canadian-school.pl/elementary/?ai1ec_event=autumn-break-przerwa-
+ jesienna
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6211@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:All Saints Day / Wszystkich Świętych
+URL:http://canadian-school.pl/elementary/?ai1ec_event=all-saints-day-wszyst
+ kich-swietych
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6212@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151110
+DTEND;VALUE=DATE:20151111
+SEQUENCE:0
+SUMMARY:Polish Independence Day / Dzień Niepodległości
+URL:http://canadian-school.pl/elementary/?ai1ec_event=polish-independence-d
+ ay-dzien-niepodleglosci
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6213@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151111
+DTEND;VALUE=DATE:20151112
+SEQUENCE:0
+SUMMARY:school closed / szkoła zamknięta
+URL:http://canadian-school.pl/elementary/?ai1ec_event=school-closed-szkola-
+ zamknieta
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6214@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151127
+SEQUENCE:0
+SUMMARY:International Day – Open day / Dzień Międzynarodowy – Dzień Otwarty
+URL:http://canadian-school.pl/elementary/?ai1ec_event=international-day-ope
+ n-day-dzien-miedzynarodowy-dzien-otwarty
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6215@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151203
+DTEND;VALUE=DATE:20151204
+SEQUENCE:0
+SUMMARY:PYP session
+URL:http://canadian-school.pl/elementary/?ai1ec_event=pyp-session-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6217@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151214
+DTEND;VALUE=DATE:20151223
+SEQUENCE:0
+SUMMARY:Class Christmas Shows / Klasowe Przedstawienia Świąteczne
+URL:http://canadian-school.pl/elementary/?ai1ec_event=class-christmas-shows
+ -klasowe-przedstawienia-swiateczne
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6216@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151223
+DTEND;VALUE=DATE:20160104
+SEQUENCE:0
+SUMMARY:Christmas Break
+URL:http://canadian-school.pl/elementary/?ai1ec_event=christmas-break
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6209@canadian-school.pl/elementary
+DTSTAMP:20150920T002340Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Warsaw:20151023T150000
+SEQUENCE:0
+SUMMARY:Halloween\, school closed at 3 p.m.
+URL:http://canadian-school.pl/elementary/?ai1ec_event=halloween-school-clos
+ ed-at-3-p-m
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

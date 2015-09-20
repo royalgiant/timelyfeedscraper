@@ -1,0 +1,1320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//198.89.127.2//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://geekbarchicago.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2631@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Experience\,Food\,Geek Bar\,Geek Bar Beta
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Geek-Bar-One-Year-Anniversary-WS-v1.png'><img class='alignnone size-ful
+ l wp-image-2632' src='https://geekbarchicago.com/wp-content/uploads/2015/0
+ 9/Geek-Bar-One-Year-Anniversary-WS-v1.png' alt='Geek Bar One Year Annivers
+ ary WS v1' width='300' height='300' data-id='2632' /></a></p>\n<p>On Octob
+ er 3rd\, 2014\, Geek Bar Beta opened its doors to the public at 1941 W Nor
+ th Ave in Wicker Park\, Chicago. One full year has passed and\, with it\, 
+ a bevy of celebrations of geekdom – from C2E2 parties\, a Hogwart’s Holida
+ y Feast\, a celebration of the Greatest Pi Day of Our Lives\, and many\, m
+ any screening of geeky films and TV shows.</p>\n<p>On October 3rd\, 2015\,
+  we’re celebrating a year that’s made us stronger\, tastier\, more fun\, a
+ nd geekier – all because of YOU. We’ll be celebrating and thanking you all
+  day long with plenty of events\, specials\, games\, and guests including:
+ </p>\n<p>– A very special Geek Bar-themed RPG session!<br />\n– Terran Sta
+ r Navy Academy\, a starship bridge simulator game!<br />\n– ONE DOLLAR Pro
+ secco with every food purchase (excluding snacks)!<br />\n– A very special
+  dish from our Archmage of Fire\, Chef Joshua Mutchnick!<br />\n– Free gam
+ e rentals all day!<br />\n– And more!</p>\n<p>It’s all because of you that
+  Geek Bar Beta is here and better than ever after a full year of serving t
+ he geek community of Chicago. We can’t thank you enough – but we’re gonna 
+ do our damndest on October 3rd!</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Geek Bar One Year Anniversary
+URL:https://geekbarchicago.com/event/geek-bar-one-year-anniversary/
+X-TAGS;LANGUAGE=en-US:anniversary\,geek bar\,party
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2582@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Performance
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Zero-Hour-Poster-WS-v1.png'><img class='alignnone size-full wp-image-25
+ 83' src='https://geekbarchicago.com/wp-content/uploads/2015/09/Zero-Hour-P
+ oster-WS-v1.png' alt='Zero Hour Poster WS v1' width='300' height='300' /><
+ /a></p>\n<p>We’re proud to present a staged reading of <em>Zero Hour</em> 
+ from <a href='http://otherworldtheatre.org'>Otherworld Theatre Company</a>
+ !</p>\n<p>“Six ordinary people from around the world were chosen and train
+ ed to be the first colonists on Mars. They left their families\, underwent
+  demanding mental and physical examinations\, and signed contracts. Contra
+ cts to agree to have their experience recorded for a reality show used to 
+ entertain people back on Earth in order to generate advertising\, fund the
+  mission\, and keep them alive.”</p>\n<p>Join us to hear these words broug
+ ht life\, live!</p>\n<p>Donations will be accepted at the door.</p>\n<p>Wr
+ itten By The Wily West Team: Head Writer Jennifer Roberts\, Bridgette Dutt
+ a Portman\, Charles Lewis III\, Jaene Leonard\, Karl Schackne\, Layah Mura
+ n de Asserto\, Melissa Keith and Morgan Ludlow</p>\n<p>For questions and/o
+ r comments about the performance or the play please contact Otherworld The
+ atre’s Literary Manager Elliott Sowards at elliott@otherworldtheatre.org.<
+ /p>\n<p><a href='https://www.facebook.com/events/441189236064719/'>RSVP on
+  Facebook!</a></p>\n<p>Or <a href='https://www.eventbrite.com/e/zero-hour-
+ a-staged-reading-by-otherworld-theatre-company-tickets-18538629540'>RSVP o
+ n Eventbrite!</a></p>\n<p><a href='https://geekbarchicago.com/wp-content/u
+ ploads/2015/09/Zero-Hour-Portrait-Poster.jpg'><img class='alignnone size-l
+ arge wp-image-2584' src='https://geekbarchicago.com/wp-content/uploads/201
+ 5/09/Zero-Hour-Portrait-Poster-663x1024.jpg' alt='Zero Hour Portrait Poste
+ r' width='663' height='1024' /></a></p>
+DTSTART;TZID=America/Chicago:20150918T193000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Zero Hour: A Staged Reading by Otherworld Theatre Company
+URL:https://geekbarchicago.com/event/zero-hour-a-staged-reading-by-otherwor
+ ld-theatre-company/
+X-TAGS;LANGUAGE=en-US:otherworld theatre company\,scifi\,theatre\,zero hour
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2525@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Experience\,Geek Bar Beta\,Panel\,Performance\,TV
+ /Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 08/Doctor-Who-Series-9-Premiere-Party-Basic.png'><img class='alignnone siz
+ e-full wp-image-2526' src='https://geekbarchicago.com/wp-content/uploads/2
+ 015/08/Doctor-Who-Series-9-Premiere-Party-Basic.png' alt='Doctor Who Serie
+ s 9 Premiere Party Basic' width='300' height='300' /></a></p>\n<p>Calling 
+ all Whovians! The time draws near and the space is here. Join us at Geek B
+ ar Beta at 5 PM on September 19th to welcome The Doctor back in style.</p>
+ \n<p>The evening will kick off with a <strong>Doctor Who Dicsussion Panel<
+ /strong>\, featuring:</p>\n<ul>\n<li>Paul Booth\, Author of <a href='http:
+ //www.amazon.com/Fan-Phenomena-Doctor-Intellect-Books/dp/1783200200'>Fan P
+ henomena: Doctor Who</a> and Associate Professor of Media and Cinema Studi
+ es & Communication Technology in the College of Communication at DePaul Un
+ iversity.</li>\n<li>Jef Burnham\, Media scholar who has researched and wri
+ tten about Doctor Who fandom and brings Who into the classroom whenever po
+ ssible.</li>\n<li>Mary Mascati\, Writer who isn’t ashamed that Ten is her 
+ Doctor.</li>\n<li>Jennifer Adams Kelley\, Programming Director of <a href=
+ 'http://chicagotardis.com/'>Chicago Tardis</a>.</li>\n<li>Ronen Kohn\, of 
+ Doctor Who-inspired band\, Time Crash.</li>\n</ul>\n<p>Plus\, at 6:30 PM\,
+  the night will feature <strong>an acoustic performance by Ronen Kohn & Mi
+ chael Fye of <a href='https://www.timecrashband.com/'>Time Crash</a></stro
+ ng>\, a hard-rocking space band and sci-fi dance explosion\, inspired by t
+ he stories and characters of Doctor Who!</p>\n<p>AND artist <strong>The Al
+ mighty Aeophex</strong> (you may have seen their art on our wall) will be 
+ in house selling their Doctor Who prints! Get a taste of Almighty Aeophex’
+ s style on their <a href='https://instagram.com/almgtyaeoart/'>Instagram</
+ a> or <a href='http://aeopro.tumblr.com/'>Tumblr</a> pages!</p>\n<p>Not en
+ ough? How about a <strong>10% discount</strong> for anyone who comes in Do
+ ctor Who cosplay!</p>\n<p>Of course\, at 8 PM we’ll be watching <strong>th
+ e Series 9 Premiere</strong> itself!</p>\n<p>And there’s more! Be sure to 
+ allow plenty of time\, as space will be limted!</p>\n<p><a href='https://w
+ ww.facebook.com/events/432361016968056/'>RSVP on Facebook!</a></p>\n<p><a 
+ href='https://www.eventbrite.com/e/doctor-who-series-9-premiere-party-tick
+ ets-18353408539'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150919T170000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Doctor Who Series 9 Premiere Party
+URL:https://geekbarchicago.com/event/doctor-who-series-9-premiere-party/
+X-TAGS;LANGUAGE=en-US:Doctor Who\,party\,premiere
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2507@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 08/Doctor-Who-Series-9-Basic.png'><img class='alignnone size-full wp-image
+ -2508' src='https://geekbarchicago.com/wp-content/uploads/2015/08/Doctor-W
+ ho-Series-9-Basic.png' alt='Doctor Who Series 9 Basic' width='300' height=
+ '300' /></a></p>\n<p>Join us for the latest episode of Series 9!</p>\n<p><
+ a href='https://www.eventbrite.com/e/doctor-who-tickets-18619448271'>RSVP 
+ on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150919T200000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+RRULE:FREQ=WEEKLY;COUNT=12;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Doctor Who
+URL:https://geekbarchicago.com/event/doctor-who/
+X-TAGS;LANGUAGE=en-US:Doctor Who\,series 9
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2559@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Odd-Obsession-Jan-Svankmejers-Alice-WS-v1.png'><img class='alignnone si
+ ze-full wp-image-2560' src='https://geekbarchicago.com/wp-content/uploads/
+ 2015/09/Odd-Obsession-Jan-Svankmejers-Alice-WS-v1.png' alt='Odd Obsession 
+ Jan Svankmejer's Alice WS v1' width='300' height='300' /></a></p>\n<p>Geek
+  Bar Beta is excited to partner with Wicker Park’s own <a href='https://ww
+ w.facebook.com/pages/Odd-Obsession-Movies/60131770861?ref=stream'>Odd Obse
+ ssion Movies</a> to present weekly midnight showings of the obscure\, stra
+ nge\, and more!</p>\n<p>On September 19th\, we’ll be showing <i>Jan Svankm
+ ajer’s Alice</i>! IMDB describes it thusly:</p>\n<p>“A surrealistic revisi
+ on of Alice in Wonderland.”</p>\n<p>Watch the <a href='https://www.youtube
+ .com/watch?v=KVOmGJzj5LM'>trailer</a>! See you at midnight!</p>\n<p><a hre
+ f='https://www.eventbrite.com/e/midnight-move-with-odd-obsession-jan-svank
+ majers-alice-tickets-18491571789'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150919T235900
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Midnight Movie with Odd Obsession: Jan Svankmajer’s Alice
+URL:https://geekbarchicago.com/event/midnight-movie-with-odd-obsession-jan-
+ svankmajers-alice/
+X-TAGS;LANGUAGE=en-US:jan svankmajer's alice\,midnight movie\,odd obsession
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1672@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Meetup/Group\,Tabletop
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 02/Chess-Meetup-New-Basic-v1.png'><img class='alignnone size-full wp-image
+ -2534' src='https://geekbarchicago.com/wp-content/uploads/2015/02/Chess-Me
+ etup-New-Basic-v1.png' alt='Chess Meetup New Basic v1' width='300' height=
+ '300' /></a></p>\n<p>Join <a href='http://www.chichess.org/events/'>Chicag
+ o Chess Center</a> at Geek Bar Beta for a weekly chess meetup. Anyone is w
+ elcome to join\, so come drink\, dine\, learn\, and play! For more informa
+ tion on the Chicago Chess Center\, <a href='http://www.chichess.org/events
+ /'>click here</a>.</p>\n<p><a href='https://www.eventbrite.com/e/routine-c
+ heck-up-chess-meetup-tickets-18619185485'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150920T130000
+DTEND;TZID=America/Chicago:20150920T150000
+EXDATE;TZID=America/Chicago:20150405T130000
+EXDATE;TZID=America/Chicago:20150705T130000
+GEO:+41.910406;-87.676674
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+RRULE:FREQ=WEEKLY;COUNT=40;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Routine CHECK-Up
+URL:https://geekbarchicago.com/event/routine-check-up/
+X-TAGS;LANGUAGE=en-US:chess
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2477@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 08/Fear-the-Walking-Dead-Basic-v1.png'><img class='alignnone size-full wp-
+ image-2481' src='https://geekbarchicago.com/wp-content/uploads/2015/08/Fea
+ r-the-Walking-Dead-Basic-v1.png' alt='Fear the Walking Dead Basic v1' widt
+ h='300' height='300' /></a></p>\n<p>Join us Sundays at 8 PM for the latest
+  episode of AMC’s new Walking Dead spin-off.</p>\n<p><a href='https://www.
+ eventbrite.com/e/fear-the-walking-dead-tickets-18171925719'>RSVP on Eventb
+ rite!</a></p>
+DTSTART;TZID=America/Chicago:20150920T200000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+RRULE:FREQ=WEEKLY;COUNT=7;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Fear the Walking Dead
+URL:https://geekbarchicago.com/event/fear-the-walking-dead/
+X-TAGS;LANGUAGE=en-US:fear the walking dead\,the walking dead\,zombies
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1296@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Meetup/Group
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 01/AMG-New-Basic.png'><img class='alignnone size-full wp-image-2467' src='
+ https://geekbarchicago.com/wp-content/uploads/2015/01/AMG-New-Basic.png' a
+ lt='AM&G New Basic' width='300' height='300' /></a></p>\n<p>Put on a clean
+  shirt and come out to play games and meet some new people at this low-key
+  event for single people sponsored by Geek Bar Chicago and Chicago Game Lo
+ vers!</p>\n<p>Let us know you’re coming out by <a href='http://www.meetup.
+ com/chicagogames/events/224222392/'>joining the Meetup event</a>!</p>\n<p>
+ <b>Who can come to this event?</b></p>\n<p>Anyone over the age of 21.</p>
+ \n<p><b>Can I come to this event if I’m not single?</b></p>\n<p>We aren’t 
+ checking relationship statuses at the door\, but you will probably feel fa
+ r more comfortable coming to one of the many other great Chicago Game Love
+ rs events that are for anyone and everyone (of which there are about 50 ev
+ ery month all around the Chicagoland area!). Check out the Chicago Game Lo
+ vers calendar page (<a class='linkified' href='http://www.meetup.com/chica
+ gogames/events/'>http://www.meetup.com/chicagogames/events/</a>) to find a
+  great event that will probably be more up your alley!</p>\n<p>Or keep you
+ r eyes peeled for our next <a href='https://geekbarchicago.com/event/poly-
+ meet-geek'>Poly Meet & Geek</a>!</p>\n<p><b>Is this speed dating?</b></p>
+ \n<p>Nope. We’ll have board games like Settlers of Catan\, Battlestar Gala
+ ctica\, and King of Tokyo\, some video games like Super Smash Bros. Melee 
+ and Pokemon Stadium\, some art supplies and coloring books so you’ll have 
+ something to talk about and do with your hands.</p>\n<p>We’ll also have li
+ ttle cards you can fill out with your contact information\, like so: “<i>H
+ i\, my name is ___________. I really liked _________________(playing a gam
+ e/geeking out/coloring) with you and I’d love to hang out again sometime. 
+ If we did get together\, I would like it to be a (check one) _______ DATE-
+ date/_______ FRIEND-date. If you’d like to get in touch you can reach me a
+ t _____________@________________________.</i>”</p>\n<p>If you like someone
+ \, you can fill out a card and awkwardly hand it to them before you (or th
+ ey) leave. They may email you. They may not – there is absolutely no oblig
+ ation! The idea is to make a low-key and friendly event where everyone can
+  meet some new people without any pressure or “hitting on” (please see <a 
+ href='https://geekbarchicago.com/about-2/anti-harrassment-policy/'>Geek Ba
+ r’s Anti-Harassment Policy</a>) needing to take place.</p>\n<p><b>Is this 
+ for straight people only?</b></p>\n<p>Nope! However\, if you feel more com
+ fortable in an atmosphere designed specifically for the LGBTQ community\, 
+ keep an eye out for our next <a href='https://geekbarchicago.com/event/rai
+ nbow-meet-geek'>Rainbow Meet & Geek</a>!</p>\n<p><b>What if no one of my p
+ referred gender or orientation shows up?</b></p>\n<p>SOME nice people of s
+ ome sort will show up\, and you’ll play games with them\, and it will be a
+  pretty fun night out of your house.</p>\n<p><b>What else should we know?<
+ /b></p>\n<p>There’s a full bar and a menu of awesome food you can order.</
+ p>\n<p><b>I’m scared it will be awkward.</b></p>\n<p>We are (wo)men of act
+ ion\, and lies do not become us: It will probably be awkward\, for the fir
+ st 5-10 minutes. Putting yourself out there as ‘I am single and actively l
+ ooking’ is awkward and vulnerable. It’s also an incredibly brave and wonde
+ rful thing to do. If you come to this thing\, you may not meet the R2 to y
+ our Threepio\, but you won’t be alone.</p>
+DTSTART;TZID=America/Chicago:20150921T180000
+DTEND;TZID=America/Chicago:20150921T220000
+GEO:+41.910406;-87.676674
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Awkward Meet & Geek
+URL:https://geekbarchicago.com/event/awkward-meet-geek-3/
+X-TAGS;LANGUAGE=en-US:meet and greet\,mixer\,singles
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2462@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Tabletop
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 08/Magic-the-Gathering-Basic.png'><img class='alignnone size-full wp-image
+ -2519' src='https://geekbarchicago.com/wp-content/uploads/2015/08/Magic-th
+ e-Gathering-Basic.png' alt='Magic the Gathering Basic' width='300' height=
+ '300' /></a></p>\n<p>Draft at Geek Bar Beta! Cost is $9 for 3 packs. We wi
+ ll be drafting Magic Origins. Players are welcome to use their own packs i
+ f they already have them. Mana is provided.</p>\n<p><a href='http://www.ev
+ entbrite.com/e/magic-the-gathering-draft-tickets-18110280336'>RSVP on Even
+ tbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150922T180000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+RRULE:FREQ=WEEKLY;COUNT=8;INTERVAL=2;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Magic the Gathering Draft
+URL:https://geekbarchicago.com/event/magic-the-gathering-draft/
+X-TAGS;LANGUAGE=en-US:draft\,magic the gathering
+X-COST:$9 for 3 Packs
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2590@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Performance
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Starlight-Radio-Dreams-WS-v1.png'><img class='alignnone size-full wp-im
+ age-2591' src='https://geekbarchicago.com/wp-content/uploads/2015/09/Starl
+ ight-Radio-Dreams-WS-v1.png' alt='Starlight Radio Dreams WS v1' width='300
+ ' height='300' /></a></p>\n<p>Imagine\, if you will\, a washed up former g
+ reat from the golden age of Hollywood and his YouTube celebrity niece\, mu
+ tually trying to ride each other’s coattails into the mainstream’s collect
+ ive eye. The result is an audio comedy drama/variety show spectacular\, fe
+ aturing comedic skits\, special celebrity guests\, and adventure serials i
+ n the style of old time radio. Nifty Project proudly presents the exciting
+  new podcast performed before a live audience\, Starlight Radio Dreams!</p
+ >\n<p>Starlight Radio Dreams is an exciting fusion of comedy and adventure
+ \, old school and new school aesthetics\, and original scripts with comedi
+ c improv. The episodes that will be featured on this night are “Geezerspac
+ e” and “Mob Daughters.” Plus\, they’ll be joined by “special guest” Profes
+ sor Pianist!</p>\n<p><a href='https://www.facebook.com/events/865988790145
+ 699/'>RSVP on Facebook!</a></p>\n<p><a href='https://www.eventbrite.com/e/
+ starlight-radio-dreams-tickets-18540881275'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150922T200000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Starlight Radio Dreams
+URL:https://geekbarchicago.com/event/starlight-radio-dreams/
+X-TAGS;LANGUAGE=en-US:starlight radio dreams\,theatre
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1302@geekbarchicago.com
+DTSTAMP:20150920T002154Z
+CATEGORIES;LANGUAGE=en-US:Tabletop
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 01/DD-New-Basic-v1.png'><img class='alignnone size-full wp-image-2533' src
+ ='https://geekbarchicago.com/wp-content/uploads/2015/01/DD-New-Basic-v1.pn
+ g' alt='D&D New Basic v1' width='300' height='300' /></a></p>\n<p>Join us 
+ for free open play hosted by RPG Chicago!</p>\n<p><a href='http://www.meet
+ up.com/RPGChicago/'>Join the Meetup group!</a></p>\n<p>Or <a href='https:/
+ /www.eventbrite.com/e/chicago-dungeons-dragons-encounters-tickets-18619344
+ 962'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150923T180000
+EXDATE;TZID=America/Chicago:20150218T180000
+EXDATE;TZID=America/Chicago:20150513T180000
+EXDATE;TZID=America/Chicago:20150520T180000
+EXDATE;TZID=America/Chicago:20150715T180000
+EXDATE;TZID=America/Chicago:20150729T180000
+GEO:+41.910406;-87.676674
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+RRULE:FREQ=WEEKLY;COUNT=47;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Chicago Dungeons & Dragons Encounters
+URL:https://geekbarchicago.com/event/chicago-dungeons-dragons-encounters/
+X-TAGS;LANGUAGE=en-US:dungeons &amp\; dragons
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2621@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Art\,Geek Bar Beta
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Drink-Draw-In-Space-WS-v1.png'><img class='alignnone size-full wp-image
+ -2622' src='https://geekbarchicago.com/wp-content/uploads/2015/09/Drink-Dr
+ aw-In-Space-WS-v1.png' alt='Drink & Draw In Space! WS v1' width='300' heig
+ ht='300' /></a></p>\n<p>In space\, no one can see your eraser marks. Join 
+ other art and space enthusiasts at Geek Bar Beta on Wednesday\, September 
+ 23rd at 8:00 PM for a chance to drink (not from a pouch) and draw (with tr
+ aditional tools that are probably also used in space)\, surrounding themes
+  of space\, space travel\, the cosmos\, aliens\, and more!</p>\n<p><a href
+ ='https://www.eventbrite.com/e/drink-draw-in-space-tickets-18657437899'>RS
+ VP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150923T200000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Drink & Draw: IN SPACE!
+URL:https://geekbarchicago.com/event/drink-draw-in-space/
+X-TAGS;LANGUAGE=en-US:drink &amp\; draw\,scifi\,space
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1377@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 01/Trivia-New-Basic.png'><img class='alignnone size-full wp-image-2465' sr
+ c='https://geekbarchicago.com/wp-content/uploads/2015/01/Trivia-New-Basic.
+ png' alt='Trivia New Basic' width='300' height='300' /></a></p>\n<p>Join u
+ s for five rounds of geek-themed trivia! The first place team wins $50 off
+  their bill\, second place wins $25 off\, third place wins $10 off\, and f
+ ourth place gets to pick a category for the next edition! Teams are limite
+ d to 6 or less players. For a preview of the night’s categories\, <a href=
+ 'https://twitter.com/geekbarchicago'>follow us on Twitter</a> and check ou
+ r feed throughout the day. Seating is limited and first-come\, first-serve
+ .</p>\n<p><a href='https://www.eventbrite.com/e/geeky-trivia-tickets-18617
+ 674967'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150924T200000
+DTEND;TZID=America/Chicago:20150924T220000
+GEO:+41.910406;-87.676674
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+RRULE:FREQ=WEEKLY;COUNT=44;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Geeky Trivia
+URL:https://geekbarchicago.com/event/geeky-trivia-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2536@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Meetup/Group\,Music\,Performance
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Windycon-Music-Night-WS-Basic-v1.png'><img class='alignnone size-full w
+ p-image-2537' src='https://geekbarchicago.com/wp-content/uploads/2015/09/W
+ indycon-Music-Night-WS-Basic-v1.png' alt='Windycon Music Night WS Basic v1
+ ' width='300' height='300' /></a></p>\n<p> </p>\n<p>We’re welcoming back t
+ he good folks from <a href='http://www.windycon.org/pages/about_windycon.a
+ spx'>Windycon</a> for a night of geeky music!</p>\n<p>Scheduled to perform
+ :<br />\n7:00pm <strong><a href='http://www.adamselzer.com/'>Adam Selzer</
+ a></strong></p>\n<p><a href='https://geekbarchicago.com/wp-content/uploads
+ /2015/09/Adam-Selzer.jpg'><img class='alignnone size-full wp-image-2538' s
+ rc='https://geekbarchicago.com/wp-content/uploads/2015/09/Adam-Selzer.jpg'
+  alt='Adam Selzer' width='490' height='400' /></a></p>\n<p>Adam Selzer was
+  born in Des Moines and now lives in Chicago\, where he writes humorous bo
+ oks by day and researches history\, ghost stories and naughty playground r
+ hymes by night. After sixteen published books\, including the acclaimed <a
+  href='http://www.smartalecksguide.com/'>Smart Aleck’s Guide to American H
+ istory</a> and <a href='http://www.ikissedazombie.com/'>I Kissed a Zombie 
+ and I Liked It</a>\, he is just famous enough to have a <a href='http://en
+ .wikipedia.org/wiki/Adam_selzer'>page on wikipedia</a>.<br />\n8:00pm <str
+ ong><a href='http://www.danthebard.com/'>Dan the Bard</a></strong></p>\n<p
+ ><a href='https://geekbarchicago.com/wp-content/uploads/2015/09/Dan-the-Ba
+ rd.jpg'><img class='alignnone size-full wp-image-2539' src='https://geekba
+ rchicago.com/wp-content/uploads/2015/09/Dan-the-Bard.jpg' alt='Dan the Bar
+ d' width='222' height='338' /></a></p>\n<p>Dan the Bard sets fantasy\, sci
+ -fi\, steampunk\, and anime lyrics to Renaissance\, Medieval\, Celtic and 
+ original music. He performs on period instruments at conventions and Renai
+ ssance Faires.<br />\n9:00pm <strong><a href='http://threefifths.band/'>Th
+ ree-Fifths</a></strong></p>\n<p><a href='https://geekbarchicago.com/wp-con
+ tent/uploads/2015/09/Three-Fifths-Trio.png'><img class='alignnone size-ful
+ l wp-image-2540' src='https://geekbarchicago.com/wp-content/uploads/2015/0
+ 9/Three-Fifths-Trio.png' alt='Three-Fifths Trio' width='546' height='362' 
+ /></a></p>\n<p>Three-Fifths is a Chicago-area trio made up of Cathy McMana
+ mon (guitar\, vocals)\, Jason Neerenberg (electric bass\, vocals)\, and Da
+ niel “gundo” Gunderson (keyboards\, octave mandolin\, everything else).  P
+ laying mostly Cathy’s original music and blending in covers from artists t
+ hey admire\, Three-Fifths weaves together a folk-rock-pagan soundscape tha
+ t varies from introspective to socially conscious to just plain fun.</p>\n
+ <p><a href='https://www.facebook.com/events/1118019234893789/'>RSVP on Fac
+ ebook!</a></p>
+DTSTART;TZID=America/Chicago:20150925T190000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Windycon Music Night
+URL:https://geekbarchicago.com/event/windycon-music-night/
+X-TAGS;LANGUAGE=en-US:adam selzer\,dan the bard\,three-fifths\,Windycon
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2541@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Meetup/Group\,Tabletop
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Fluxx-WS-v1.png'><img class='alignnone size-full wp-image-2542' src='ht
+ tps://geekbarchicago.com/wp-content/uploads/2015/09/Fluxx-WS-v1.png' alt='
+ Fluxx WS v1' width='300' height='300' /></a></p>\n<p>On Sept 26th\, 2015 <
+ a href='http://www.windycon.org/'>Windycon</a> is sponsoring a Fluxx tourn
+ ament at Geek Bar Beta. Fluxx is a card game\, played with a specially des
+ igned deck published by Looney Labs\, Windycon’s gaming Guests of Honor th
+ is year. It is different from most other card games in that the rules and 
+ the conditions for winning are altered throughout the game\, via cards pla
+ yed by the players. Because the rules and goals change\, people who have n
+ ever played the game have a good chance of winning\, “beginner’s luck” tru
+ ly comes into play.</p>\n<p>The tournament will run from 1PM until it ends
+ . There will be 1st\, 2nd\, and 3rd place prizes. Each game you play will 
+ be with a randomly picked version of Fluxx\, so who knows what you’ll be p
+ laying next. (One game might be basic Fluxx\, then Zombie Fluxx\, Pirate F
+ luxx\, Cthulhu Fluxx\, or even Monty Python Fluxx.) Anyone can enter and a
+ nyone can win. You can win a membership to Windycon\, t-shirts\, decals\, 
+ and more! Come in\, bring your friends\, join us\, and have fun. To regist
+ er please contact hotel@windycon.org. You can also show up at Geek Bar Bet
+ a the day of the event and register that day.</p>\n<p>If you aren’t famili
+ ar with the game\, we will give lessons at the tournament as necessary\, o
+ r your can have it explained by Guest of Honor Andy Looney himself in <a h
+ ref='https://www.youtube.com/watch?v=PcR0nSmoUsw'>this video</a>.</p>\n<p>
+ <a href='https://www.facebook.com/events/1118019234893789/'>RSVP on Facebo
+ ok!</a></p>
+DTSTART;TZID=America/Chicago:20150926T130000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Windycon Fluxx Tournament
+URL:https://geekbarchicago.com/event/windycon-fluxx-tournament/
+X-TAGS;LANGUAGE=en-US:fluxx\,tournament\,Windycon
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1285@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Experience\,Geek Bar Beta\,Meetup/Group
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 01/Steampunk-Tea-9-26-15-WS-v1.png'><img class='alignnone size-full wp-ima
+ ge-2592' src='https://geekbarchicago.com/wp-content/uploads/2015/01/Steamp
+ unk-Tea-9-26-15-WS-v1.png' alt='Steampunk Tea 9-26-15 WS v1' width='300' h
+ eight='300' /></a></p>\n<p>Put on your best steampunk finery and join us f
+ or special-tea cocktails! 10% off for cosplayers!</p>\n<p><a href='https:/
+ /www.eventbrite.com/e/steampunk-tea-party-tickets-18564315367'>RSVP on Eve
+ ntbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150926T150000
+DTEND;TZID=America/Chicago:20150926T180000
+GEO:+41.910406;-87.676674
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Steampunk Tea Party
+URL:https://geekbarchicago.com/event/steampunk-tea-time/
+X-TAGS;LANGUAGE=en-US:steampunk\,tea
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2561@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Odd-Obsession-Two-Orphan-Vampires-WS-v1.png'><img class='alignnone size
+ -full wp-image-2562' src='https://geekbarchicago.com/wp-content/uploads/20
+ 15/09/Odd-Obsession-Two-Orphan-Vampires-WS-v1.png' alt='Odd Obsession Two 
+ Orphan Vampires WS v1' width='300' height='300' /></a></p>\n<p>Geek Bar Be
+ ta is excited to partner with Wicker Park’s own <a href='https://www.faceb
+ ook.com/pages/Odd-Obsession-Movies/60131770861?ref=stream'>Odd Obsession M
+ ovies</a> to present weekly midnight showings of the obscure\, strange\, a
+ nd more!</p>\n<p>On September 26th\, we’ll be showing <i>Two Orphan Vampir
+ es</i>! IMDB describes it thusly:</p>\n<p>“A pair of teenage girls\, who a
+ re blind by day\, but when the sun goes down\, they roam the streets to qu
+ ench their thirst for blood.”</p>\n<p>Watch the <a href='https://www.youtu
+ be.com/watch?v=zQ27ef_M4CQ'>trailer</a>! See you at midnight!</p>\n<p><a h
+ ref='https://www.eventbrite.com/e/midnight-movie-with-odd-obsession-two-or
+ phan-vampires-tickets-18491744305'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150926T235900
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Midnight Movie w/ Odd Obsession: Two Orphan Vampires
+URL:https://geekbarchicago.com/event/midnight-movie-w-odd-obsession-two-orp
+ han-vampires/
+X-TAGS;LANGUAGE=en-US:midnight movie\,odd obsession\,two orphan vampires
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2573@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Panel\,Tabletop
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/GB-Pop-Culture-Chat-Series-Logo-with-Name-WS-v1.png'><img class='alignn
+ one size-full wp-image-2598' src='https://geekbarchicago.com/wp-content/up
+ loads/2015/09/GB-Pop-Culture-Chat-Series-Logo-with-Name-WS-v1.png' alt='GB
+  Pop Culture Chat Series Logo with Name WS v1' width='300' height='300' />
+ </a></p>\n<p>We’re welcoming DePaul University’s Dr. Paul Booth – associat
+ e professor of Media and Cinema Studies in the College of Communication – 
+ to bring his academic focus to the popularity of board games. Here’s how h
+ e descibes his talk:</p>\n<p>“Board games are more popular than ever\; ove
+ r the last 10 years board game sales have been rising 10 to 20 percent <em
+ >per year</em>. But in an increasingly-complex mediated world\, and as the
+  digital has become the buzzword of the decade\, how to make sense of this
+  meteoric increase in popularity of such low-tech entertainment? In my res
+ earch\, I’ve explored the relationship between media products and the boar
+ d games that are based on them (“paratextual board games”)\, and in this t
+ alk\, I’ll look at some of the ways that these paratextual board games sli
+ p into our contemporary media environment.”</p>\n<p><a href='http://www.mc
+ sdepaul.com/paul-booth.html'>See his full bio.</a></p>\n<p><a href='https:
+ //www.eventbrite.com/e/the-popularity-of-board-games-with-dr-paul-booth-ti
+ ckets-18492933863'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150929T190000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Pop Culture Chat: “The Popularity of Board Games” with Dr. Paul Boo
+ th
+URL:https://geekbarchicago.com/event/the-popularity-of-board-games-with-dr-
+ paul-booth/
+X-TAGS;LANGUAGE=en-US:board games\,pop culture
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2609@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Performance\,Science/Technology
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/SCIENCE-Show-WS-v1.png'><img class='alignnone size-full wp-image-2610' 
+ src='https://geekbarchicago.com/wp-content/uploads/2015/09/SCIENCE-Show-WS
+ -v1.png' alt='SCIENCE Show! WS v1' width='300' height='300' /></a></p>\n<p
+ >Everyone likes science\, and no one likes lectures. That is why Truman Co
+ llege Chemistry and Education Professor\, Mike Davis\, has been touring Ch
+ icago with an exciting series of science demonstrations complete with expl
+ osions\, reactions\, and bubbles. He regularly appears at family science n
+ ights around Chicago\, and goes on WCIU and ABC-7. The show at Geek Bar wi
+ ll showcase some fun experiments with Liquid Nitrogen\, Dry Ice\, gasses\,
+  and more!</p>\n<p><a href='https://www.eventbrite.com/e/science-show-tick
+ ets-18640839252'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20150930T190000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:SCIENCE Show!
+URL:https://geekbarchicago.com/event/science-show/
+X-TAGS;LANGUAGE=en-US:chemistry\,physics\,Science
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2563@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Odd-Obsession-Watcher-in-the-Woods-WS-v1.png'><img class='alignnone siz
+ e-full wp-image-2564' src='https://geekbarchicago.com/wp-content/uploads/2
+ 015/09/Odd-Obsession-Watcher-in-the-Woods-WS-v1.png' alt='Odd Obsession Wa
+ tcher in the Woods WS v1' width='300' height='300' /></a></p>\n<p>Geek Bar
+  Beta is excited to partner with Wicker Park’s own <a href='https://www.fa
+ cebook.com/pages/Odd-Obsession-Movies/60131770861?ref=stream'>Odd Obsessio
+ n Movies</a> to present weekly midnight showings of the obscure\, strange\
+ , and more!</p>\n<p>On October 3rd\, we’ll be showing <i>The Watcher in th
+ e Woods</i>! IMDB describes it thusly:</p>\n<p>“When a family moves to a c
+ ountry home\, the young girls experience strange happenings that have a li
+ nk to an occult event years past.”</p>\n<p>Watch the <a href='https://www.
+ youtube.com/watch?v=3DFacqQp8uw'>trailer</a>! See you at midnight!</p>\n<p
+ ><a href='https://www.eventbrite.com/e/midnight-movie-with-odd-obsession-t
+ he-watcher-in-the-woods-tickets-18491882719'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20151003T235900
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Midnight Movies with Odd Obsession: The Watcher in the Woods
+URL:https://geekbarchicago.com/event/midnight-movies-with-odd-obsession-the
+ -watcher-in-the-woods/
+X-TAGS;LANGUAGE=en-US:midnight movie\,odd obsession\,the watcher in the woo
+ ds
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2422@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Experience\,Geek Bar Beta\,Meetup/Group\,Tabletop
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 07/RMG-New-Basic.png'><img class='alignnone size-full wp-image-2464' src='
+ https://geekbarchicago.com/wp-content/uploads/2015/07/RMG-New-Basic.png' a
+ lt='RM&G New Basic' width='300' height='300' /></a></p>\n<p>Have you been 
+ interested in our <a href='http://bit.ly/gbamg826'>Awkward Meet & Geek</a>
+  events\, but are looking for friends in the LGBTQ community? Now there’s 
+ a Meet & Geek specifically designed to be a safe\, fun\, and comfortable s
+ pace for you!</p>\n<p>Put on a clean shirt and come out to play games and 
+ meet some new LGBTQ people at this low-key event for LGBTQ singles sponsor
+ ed by Geek Bar and Chicago Game Lovers!</p>\n<p>Let us know you’re coming 
+ out by joining <a href='http://www.meetup.com/chicagogames/events/22526972
+ 3/'>the Meetup event</a>!</p>\n<p><b>Who can come to this event?</b></p>\n
+ <p>Anyone in the LGBTQ community over the age of 21.</p>\n<p><b>Can I come
+  to this event if I’m not single?</b></p>\n<p>We aren’t checking relations
+ hip statuses at the door\, but you will probably feel far more comfortable
+  coming to one of the many other great Chicago Game Lovers events that are
+  for anyone and everyone (of which there are about 50 every month all arou
+ nd the Chicagoland area!). Check out the Chicago Game Lovers calendar page
+  (<a class='linkified' href='http://www.meetup.com/chicagogames/events/'>h
+ ttp://www.meetup.com/chicagogames/events/</a>) to find a great event that 
+ will probably be more up your alley!</p>\n<p>Plus\, you can now check out 
+ our <a href='http://bit.ly/gbpoly'>Poly Meet & Geek</a> events!</p>\n<p><b
+ >Is this speed dating?</b></p>\n<p>Nope. We’ll have board games like Settl
+ ers of Catan\, Battlestar Galactica\, and King of Tokyo\, some video games
+  like Super Smash Bros. Melee and Pokemon Stadium\, some art supplies and 
+ coloring books so you’ll have something to talk about and do with your han
+ ds.</p>\n<p>We’ll also have little cards you can fill out with your contac
+ t information\, like so: “<i>Hi\, my name is ___________. I really liked _
+ ________________(playing a game/geeking out/coloring) with you and I’d lov
+ e to hang out again sometime. If we did get together\, I would like it to 
+ be a (check one) _______ DATE-date/_______ FRIEND-date. If you’d like to g
+ et in touch you can reach me at _____________@________________________.</i
+ >”</p>\n<p>If you like someone\, you can fill out a card and awkwardly han
+ d it to them before you (or they) leave. They may email you. They may not 
+ – there is absolutely no obligation! The idea is to make a low-key and fri
+ endly event where everyone can meet some new people without any pressure o
+ r “hitting on” (please see <a href='https://geekbarchicago.com/about-2/ant
+ i-harrassment-policy/'>Geek Bar’s Anti-Harassment Policy</a>) needing to t
+ ake place.</p>\n<p><b>Is this for LGBTQ people only?</b></p>\n<p>This has 
+ been designed to be an event specifically for the single LGBTQ community\,
+  so in keeping with making it a fun\, safe\, and comfortable environment\,
+  we ask that those who are not of that community (even allies) to check ou
+ t our <a href='http://bit.ly/gbamg826'>Awkward Meet & Geek</a> or <a href=
+ 'http://bit.ly/gbpoly'>Poly Meet & Geek</a> events instead. That said\, Ge
+ ek Bar Beta will be open for regular business.</p>\n<p><b>What if no one o
+ f my preferred gender or orientation shows up?</b></p>\n<p>SOME nice peopl
+ e of some sort will show up\, and you’ll play games with them\, and it wil
+ l be a pretty fun night out of your house.</p>\n<p><b>What else should we 
+ know?</b></p>\n<p>There’s a full bar and a menu of awesome food you can or
+ der.</p>\n<p><b>I’m scared it will be awkward.</b></p>\n<p>We are people o
+ f action\, and lies do not become us: It will probably be awkward\, for th
+ e first 5-10 minutes. Putting yourself out there as ‘I am single and activ
+ ely looking’ is awkward and vulnerable. It’s also an incredibly brave and 
+ wonderful thing to do. If you come to this thing\, you may not meet the R2
+  to your Threepio\, but you won’t be alone.</p>
+DTSTART;TZID=America/Chicago:20151005T180000
+DTEND;TZID=America/Chicago:20151005T220000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Rainbow Meet & Geek
+URL:https://geekbarchicago.com/event/rainbow-meet-geek/
+X-TAGS;LANGUAGE=en-US:lgbtq\,meet &amp\; geek\,rainbow
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2593@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Performance
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Bad-Dates-or-What-WS-v1.png'><img class='alignnone size-full wp-image-2
+ 594' src='https://geekbarchicago.com/wp-content/uploads/2015/09/Bad-Dates-
+ or-What-WS-v1.png' alt='Bad Dates or What WS v1' width='300' height='300' 
+ /></a></p>\n<p>“Bad Dates…” is a one woman show about one woman’s journey 
+ through the asteroid field of love\, dating\, and Harrison Ford movies. A 
+ long time ago\, in a galaxy far\, far away . . . <a href='http://www.eilee
+ ntull.com'>Eileen Tull</a> fell in love with Han Solo. And then with a pro
+ fessor by day\, loud-punching adventurer by night Indiana Jones. And then 
+ with the man behind the hat\, the whip\, and the tight space pants: Harris
+ on Ford himself. But once the movie is over and the credits roll\, how are
+  you supposed to navigate romantic relationships in the real world? Nothin
+ g can stop Eileen from trying to find the scruffy-looking Nerf herder she’
+ s looking for.</p>\n<p>There is a $10 suggested donation. You will have th
+ e opportunity to donate after the performance.</p>\n<p><a href='https://ww
+ w.eventbrite.com/e/bad-dates-or-what-killed-that-monkey-in-indiana-jones-o
+ nly-makes-me-stronger-tickets-18564833918'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20151005T200000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Bad Dates\, Or What Killed That Monkey In Indiana Jones Only Makes 
+ Me Stronger
+URL:https://geekbarchicago.com/event/bad-dates-or-what-killed-that-monkey-i
+ n-indiana-jones-only-makes-me-stronger/
+X-TAGS;LANGUAGE=en-US:bad dates\,eileen tull\,han solo\,harrison ford\,indi
+ ana jones
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2577@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Panel\,Science/Technology
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 07/C2ST-New-Basic-v1.png'><img class='alignnone size-full wp-image-2532' s
+ rc='https://geekbarchicago.com/wp-content/uploads/2015/07/C2ST-New-Basic-v
+ 1.png' alt='C2ST New Basic v1' width='300' height='300' /></a></p>\n<p>The
+  United Nations has recognized 2015 as the International Year of Soils\, y
+ et how many of us appreciate the fact that we can’t eat\, breathe\, drink\
+ , or maintain healthy communities without good soil. Let’s talk dirty and 
+ explore the diverse and complex world of soil as well as how local scienti
+ sts manage soil systems to maintain ecosystem services. Come learn how Chi
+ cago scientists are incorporating soil organisms into green roofs to manag
+ e storm water\, cool neighborhoods\, and reduce energy costs. Also\, learn
+  what you can do to improve soil health in your own backyard and beyond.</
+ p>\n<p><img src='https://www.c2st.org/sites/default/files/Bala%20Chaudhary
+ .jpg' alt='' /></p>\n<p>Dr. Bala Chaudhary is faculty in the Institute of 
+ Environmental Sustainability at Loyola University Chicago. She teaches a m
+ ultitude of courses in Loyola’s undergraduate programs in Food Systems and
+  Sustainable Agriculture and Conservation and Restoration. Her research ex
+ pertise lies in soil ecology\, specifically the role of mycorrhizal fungi 
+ and other soil biota in the restoration of degraded ecosystems and mainten
+ ance of ecosystem services. She received her bachelors from the University
+  of Chicago and her masters and Ph.D. from Northern Arizona University. Sh
+ e has also worked as an ecological consultant designing restoration plans 
+ for drastically disturbed urban soils. Her research studies the spatial di
+ stributions of mycorrhizal species and the context in which mycorrhizal fu
+ ngi improve plant health and improve soil stability. Her recent work exami
+ nes the efficacy of soil microbial additions to green roof soils to improv
+ e heat insulation and storm water retention.</p>
+DTSTART;TZID=America/Chicago:20151006T190000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:“Dirty Secrets: Managing Soil Systems for a Sustainable Future” wit
+ h Dr. Bala Chaudhary
+URL:https://geekbarchicago.com/event/dirty-secrets-managing-soil-systems-fo
+ r-a-sustainable-future-with-dr-bala-chaudhary/
+X-TAGS;LANGUAGE=en-US:C2ST\,environment
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2565@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Odd-Obsession-Rockula-WS-v1.png'><img class='alignnone size-full wp-ima
+ ge-2566' src='https://geekbarchicago.com/wp-content/uploads/2015/09/Odd-Ob
+ session-Rockula-WS-v1.png' alt='Odd Obsession Rockula WS v1' width='300' h
+ eight='300' /></a></p>\n<p>Geek Bar Beta is excited to partner with Wicker
+  Park’s own <a href='https://www.facebook.com/pages/Odd-Obsession-Movies/6
+ 0131770861?ref=stream'>Odd Obsession Movies</a> to present weekly midnight
+  showings of the obscure\, strange\, and more!</p>\n<p>On October 10th\, w
+ e’ll be showing <i>Rockula</i>! IMDB describes it thusly:</p>\n<p>“A young
+  vampire cannot lose his virginity because of a curse imposed upon him cen
+ turies ago.”</p>\n<p>Watch the <a href='https://www.youtube.com/watch?v=TZ
+ ImDpzl630'>trailer</a>! See you at midnight!</p>\n<p><a href='https://www.
+ eventbrite.com/e/midnight-movie-with-odd-obsession-rockula-tickets-1849210
+ 4382'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20151010T235900
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Midnight Movie with Odd Obsession: Rockula
+URL:https://geekbarchicago.com/event/midnight-movie-with-odd-obsession-rock
+ ula/
+X-TAGS;LANGUAGE=en-US:midnight movie\,odd obsession\,rockula
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2599@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Walking-Dead-Season-6-WS-v1.png'><img class='alignnone size-full wp-ima
+ ge-2600' src='https://geekbarchicago.com/wp-content/uploads/2015/09/Walkin
+ g-Dead-Season-6-WS-v1.png' alt='Walking Dead Season 6 WS v1' width='300' h
+ eight='300' /></a></p>\n<p>Join us for the latest episode of Season 6!</p>
+ \n<p><a href='https://www.eventbrite.com/e/the-walking-dead-tickets-186164
+ 77385'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20151011T200000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+RRULE:FREQ=WEEKLY;COUNT=8;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:The Walking Dead
+URL:https://geekbarchicago.com/event/the-walking-dead-2/
+X-TAGS;LANGUAGE=en-US:the walking dead\,zombies
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2567@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Odd-Obsession-Nadja-WS-v1.png'><img class='alignnone size-full wp-image
+ -2568' src='https://geekbarchicago.com/wp-content/uploads/2015/09/Odd-Obse
+ ssion-Nadja-WS-v1.png' alt='Odd Obsession Nadja WS v1' width='300' height=
+ '300' /></a></p>\n<p>Geek Bar Beta is excited to partner with Wicker Park’
+ s own <a href='https://www.facebook.com/pages/Odd-Obsession-Movies/6013177
+ 0861?ref=stream'>Odd Obsession Movies</a> to present weekly midnight showi
+ ngs of the obscure\, strange\, and more!</p>\n<p>On October 17th\, we’ll b
+ e showing <i>Nadja</i>! IMDB describes it thusly:</p>\n<p>“This ultra-hip\
+ , post-modern vampire tale is set in contemporary New York City. Members o
+ f a dysfunctional family of vampires are trying to come to terms with each
+  other\, in the wake of their father’s death. Meanwhile\, they are being h
+ unted by Dr. Van Helsing and his hapless nephew. As in all good vampire mo
+ vies\, forces of love are pitted against forces of destruction.”</p>\n<p>W
+ atch the <a href='https://www.youtube.com/watch?v=J_9sjHyrDMo'>trailer</a>
+ ! See you at midnight!</p>\n<p><a href='https://www.eventbrite.com/e/midni
+ ght-movie-with-odd-obsession-nadja-tickets-18492206688'>RSVP on Eventbrite
+ !</a></p>
+DTSTART;TZID=America/Chicago:20151017T235900
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Midnight Movie with Odd Obsession: Nadja
+URL:https://geekbarchicago.com/event/midnight-movie-with-odd-obsession-nadj
+ a/
+X-TAGS;LANGUAGE=en-US:midnight movie\,nadja\,odd obsession
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2601@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Meetup/Group\,Panel\,Science/Techn
+ ology
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 07/C2ST-New-Basic-v1.png'><img class='alignnone size-full wp-image-2532' s
+ rc='https://geekbarchicago.com/wp-content/uploads/2015/07/C2ST-New-Basic-v
+ 1.png' alt='C2ST New Basic v1' width='300' height='300' /></a></p>\n<p>Sin
+ ce just after World War II\, US and global researchers have attempted to e
+ volve diamond’s use beyond simple gem. With extreme material properties su
+ ch as ultra harness\, complete transparency to visible light\, ultrahigh t
+ hermal conductivity\, ultrafast power & frequency handling/switching\, in 
+ addition to many others–diamond it would seem\, has been historically earm
+ arked for technological use. Over 60 years later from the first successes 
+ in the lab synthesis of diamond\, the capability to “grow” diamond has exp
+ anded dramatically ranging from growing the perfect diamond gem to ultrath
+ in nanodiamond. With modern electronics performance and design demands eve
+ r-increasing\, what role does diamond have to play alongside such advanced
+  materials as Sapphire and Graphene? How does diamond stand to impact end 
+ use applications such as wearable electronics\, broadband communication\, 
+ and electric vehicles? How far are we from a “Diamond Age of Microelectron
+ ics”?</p>\n<p>Adam Khan is Founder & currently Chief Executive of AKHAN Se
+ miconductor. Previous to AKHAN Semiconductor\, Mr. Khan studied both physi
+ cs and electrical engineering at the University of Illinois at Chicago bef
+ ore pursuing research at the graduate level at Stanford University’s Stanf
+ ord Nanofabrication Facility (SNF). Mr. Khan has worked in various positio
+ ns within the field of condensed matter research ranging from theoretical 
+ work in unconventional superconductor systems to applied work in diamond s
+ emiconductor systems. Mr. Khan’s professional research associations includ
+ e membership with the Materials Research Society (MRS)\, American Physical
+  Society (APS)\, as well as research affiliations with the Stanford Nanofa
+ brication Facility and the Center for Nanoscale Materials at Argonne Natio
+ nal Laboratory. Mr. Khan has authored several patents\, technical publicat
+ ions\, and invited technical talks\, in addition to co-chairing the 2014 N
+ ew Diamond and Nano Carbons conference (Materials Research Society). Among
+ st his award winning research\, Mr. Khan is co-inventor of the Miraj Diamo
+ nd™ Platform\, the world’s first CMOS Compatible N-type Diamond Materials 
+ & Devices—named by R&D magazine to the 2013 R&D 100. Amongst his achieveme
+ nts in business\, Mr. Khan recently led AKHAN to win the 2013 Midwest Inno
+ vation Summit (MW CleanTech Open). As a frequent speaker at academic\, bus
+ iness\, & industry events on diamond materials\, Semiconductor technology\
+ , Cleantech\, & Energy Efficient Technologies. He has been featured in num
+ erous media outlets (TV\, Radio and Print) including PBS ‘Chicago Tonight’
+ \, Fox Chicago’s ‘Good Day Chicago’\, CBS San Francisco’s ‘The Valley Girl
+  Show’\, Semiconductor Today\, ElectroIQ (PennWell Media)\, listed in the 
+ 2014 Forbes 30 under 30 (Energy & Industry) and most recently Bloomberg’s 
+ ‘The Year Ahead: 2015’.</p>
+DTSTART;TZID=America/Chicago:20151020T190000
+SEQUENCE:0
+SUMMARY:“A Diamond Age of Microelectronics” with Adam Khan
+URL:https://geekbarchicago.com/event/a-diamond-age-of-microelectronics-with
+ -adam-khan/
+X-TAGS;LANGUAGE=en-US:C2ST\,microelectronics\,technology
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2569@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Odd-Obsession-Alice-Sweet-Alice-WS-v1.png'><img class='alignnone size-f
+ ull wp-image-2570' src='https://geekbarchicago.com/wp-content/uploads/2015
+ /09/Odd-Obsession-Alice-Sweet-Alice-WS-v1.png' alt='Odd Obsession Alice Sw
+ eet Alice WS v1' width='300' height='300' /></a></p>\n<p>Geek Bar Beta is 
+ excited to partner with Wicker Park’s own <a href='https://www.facebook.co
+ m/pages/Odd-Obsession-Movies/60131770861?ref=stream'>Odd Obsession Movies<
+ /a> to present weekly midnight showings of the obscure\, strange\, and mor
+ e!</p>\n<p>On October 24th\, we’ll be showing <i>Alice\, Sweet Alice</i>! 
+ IMDB describes it thusly:</p>\n<p>“After a young girl is brutally murdered
+  during her first communion\, her strange and withdrawn older sister becom
+ es the main suspect.”</p>\n<p>Watch the <a href='https://www.youtube.com/w
+ atch?v=wH2yDVns2HY'>trailer</a>! See you at midnight!</p>\n<p><a href='htt
+ ps://www.eventbrite.com/e/midnight-movie-with-odd-obsession-alice-sweet-al
+ ice-tickets-18492416315'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20151024T235900
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Midnight Movies with Odd Obsession: Alice\, Sweet Alice
+URL:https://geekbarchicago.com/event/midnight-movies-with-odd-obsession-ali
+ ce-sweet-alice/
+X-TAGS;LANGUAGE=en-US:alice sweet alice\,midnight movies\,odd obsession
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2611@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Performance
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/WotW-WS-v1.png'><img class='alignnone size-full wp-image-2612' src='htt
+ ps://geekbarchicago.com/wp-content/uploads/2015/09/WotW-WS-v1.png' alt='Wo
+ tW WS v1' width='300' height='300' /></a></p>\n<p>We’re proud to present a
+  one night only staged reading of the classic story by H.G. Wells adapted 
+ by Howard E. Koch</p>\n<p>This infamous radio play had many terrified list
+ eners convinced an actual alien invasion of Earth was taking place when it
+  originally aired from Orson Welles’ Mercury Theatre in 1938. Adapted by t
+ he co-writer of Casablanca\, this original script details the frightening 
+ tale of an extraterrestrial takeover to thrill and chill audiences. Idle M
+ use ensemble member Tristan Brandon directs a team of actors and Foley art
+ ists to recreate this chilling story! Join the fun – and even participate 
+ – as the performance is recorded onsite!</p>\n<p>Donations will be accepte
+ d at the door.</p>\n<p>For questions and/or comments about the performance
+  or the play please contact Idle Muse Theatre Company’s marketing director
+  Nathan Pease at <a href='mailto:npease@idlemuse.org' target='_blank'>npea
+ se@idlemuse.org</a>.</p>\n<p><a href='https://www.facebook.com/events/4144
+ 41665417456/'>RSVP on Facebook!</a></p>\n<p><a href='https://geekbarchicag
+ o.com/wp-content/uploads/2015/09/WOTW-Graphic-6.png'><img class='alignnone
+  size-large wp-image-2613' src='https://geekbarchicago.com/wp-content/uplo
+ ads/2015/09/WOTW-Graphic-6-791x1024.png' alt='WOTW Graphic 6' width='730' 
+ height='945' /></a></p>
+DTSTART;TZID=America/Chicago:20151030T193000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:The War of the Worlds: A Live Reading
+URL:https://geekbarchicago.com/event/the-war-of-the-worlds-a-live-reading/
+X-TAGS;LANGUAGE=en-US:reading\,scifi\,war of the worlds
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2571@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,TV/Movie
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 09/Odd-Obsession-Night-of-the-Living-Dead-WS-v1.png'><img class='alignnone
+  size-full wp-image-2572' src='https://geekbarchicago.com/wp-content/uploa
+ ds/2015/09/Odd-Obsession-Night-of-the-Living-Dead-WS-v1.png' alt='Odd Obse
+ ssion Night of the Living Dead WS v1' width='300' height='300' /></a></p>
+ \n<p>Geek Bar Beta is excited to partner with Wicker Park’s own <a href='h
+ ttps://www.facebook.com/pages/Odd-Obsession-Movies/60131770861?ref=stream'
+ >Odd Obsession Movies</a> to present weekly midnight showings of the obscu
+ re\, strange\, and more!</p>\n<p>On Halloween\, we’ll be showing <i>Night 
+ of the Living Dead</i>! IMDB describes it thusly:</p>\n<p>“A group of peop
+ le hide from bloodthirsty zombies in a farmhouse.”</p>\n<p>But you knew th
+ at.</p>\n<p>Watch the <a href='https://www.youtube.com/watch?v=pElSu_ECJGM
+ '>trailer</a>! See you at midnight on Halloween!</p>\n<p><a href='https://
+ www.eventbrite.com/e/midnight-movie-with-odd-obsession-night-of-the-living
+ -dead-tickets-18492723233'>RSVP on Eventbrite!</a></p>
+DTSTART;TZID=America/Chicago:20151031T235900
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Midnight Movie with Odd Obsession: Night of the Living Dead
+URL:https://geekbarchicago.com/event/midnight-movie-with-odd-obsession-nigh
+ t-of-the-living-dead/
+X-TAGS;LANGUAGE=en-US:george a romero\,midnight movie\,night of the living 
+ dead\,odd obsession\,zombies
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2522@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Experience\,Geek Bar Beta\,Meetup/Group
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 08/PMG-Basic.png'><img class='alignnone size-full wp-image-2523' src='http
+ s://geekbarchicago.com/wp-content/uploads/2015/08/PMG-Basic.png' alt='PM&G
+  Basic' width='300' height='300' /></a></p>\n<p>Have you been interested i
+ n our <a href='http://bit.ly/gbamg826'>Awkward Meet & Geek</a> events\, bu
+ t are looking for friends in the poly community? Now there’s a Meet & Geek
+  specifically designed to be a safe\, fun\, and comfortable space for you!
+ </p>\n<p>Put on a clean shirt and come out to play games and meet some new
+  people at this low-key event for poly people sponsored by Geek Bar and Ch
+ icago Game Lovers!</p>\n<p>Let us know you’re coming out by <a href='http:
+ //www.meetup.com/chicagogames/events/224881983/'>joining the Meetup event!
+ </a></p>\n<p>Or <a href='https://www.eventbrite.com/e/poly-meet-geek-ticke
+ ts-18317325614'>RSVP on Eventbrite!</a></p>\n<p><b>Who can come to this ev
+ ent?</b></p>\n<p>Anyone in the poly community over the age of 21. This eve
+ nt is open to individuals\, couples\, groups\, single people\, partnered p
+ eople\, people currently in poly relationships\, poly curious single folks
+ \, poly curious couples who want to make friends in the community . . . an
+ ybody really.</p>\n<p><strong>Wait\, what is polyamory?</strong></p>\n<p>I
+ n short\, a polyamorous relationship is one that involves multiple romanti
+ c or sexual partners\, with the full knowledge and consent of everybody in
+ volved. For more in depth answers\, check out <a href='https://www.moretha
+ ntwo.com/polyamory.html'>More Than Two</a> and <a href='http://www.lovemor
+ e.com/poly/what-is-polyamory/'>Loving More</a>.</p>\n<p><b>Can I come to t
+ his event if I’m single and curious about polyamory?</b></p>\n<p>Absolutel
+ y! Everyone poly starts somewhere. We suggest you check out some of the re
+ sources previously linked before coming. This can be a great event to make
+  more friends in the poly community and learn more! If you’re not interest
+ ed in polyamory/ethical non-monogamy\, you’ll probably feel more comfortab
+ le at our <a href='https://geekbarchicago.com/event/awkward-meet-geek-3/?i
+ nstance_id=1176'>Awkward Meet & Geek</a> and/or <a href='https://geekbarch
+ icago.com/event/rainbow-meet-geek/?instance_id=1140'>Rainbow Meet & Geek</
+ a> events. That said\, Geek Bar Beta will be open for regular business.</p
+ >\n<p><b>Is this speed dating?</b></p>\n<p>Nope. We’ll have board games li
+ ke Settlers of Catan\, Battlestar Galactica\, and King of Tokyo\, some vid
+ eo games like Super Smash Bros. Melee and Pokemon Stadium\, some art suppl
+ ies and coloring books so you’ll have something to talk about and do with 
+ your hands.</p>\n<p>We’ll also have little cards you can fill out with you
+ r contact information\, like so: “<i>Hi\, my name is ___________. I really
+  liked _________________(playing a game/geeking out/coloring) with you and
+  I’d love to hang out again sometime. If we did get together\, I would lik
+ e it to be a (check one) _______ DATE-date/_______ FRIEND-date. If you’d l
+ ike to get in touch you can reach me at _____________@____________________
+ ____.</i>”</p>\n<p>If you like someone\, you can fill out a card and awkwa
+ rdly hand it to them before you (or they) leave. They may email you. They 
+ may not – there is absolutely no obligation! The idea is to make a low-key
+  and friendly event where everyone can meet some new people without any pr
+ essure or “hitting on” (please see <a href='https://geekbarchicago.com/abo
+ ut-2/anti-harrassment-policy/'>Geek Bar’s Anti-Harassment Policy</a>) need
+ ing to take place.</p>\n<p><b>What if no one of my preferred gender or ori
+ entation shows up?</b></p>\n<p>SOME nice people of some sort will show up\
+ , and you’ll play games with them\, and it will be a pretty fun night out 
+ of your house.</p>\n<p><b>What else should we know?</b></p>\n<p>There’s a 
+ full bar and a menu of awesome food you can order.</p>\n<p><b>I’m scared i
+ t will be awkward.</b></p>\n<p>We are people of action\, and lies do not b
+ ecome us: It will probably be awkward\, for the first 5-10 minutes. Puttin
+ g yourself out there as ‘I am single and actively looking’ is awkward and 
+ vulnerable. It’s also an incredibly brave and wonderful thing to do. If yo
+ u come to this thing\, you may not meet the R2 to your Threepio\, but you 
+ won’t be alone.</p>
+DTSTART;TZID=America/Chicago:20151102T180000
+DTEND;TZID=America/Chicago:20151102T220000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 West North Avenue\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:Poly Meet & Geek
+URL:https://geekbarchicago.com/event/poly-meet-geek/
+X-TAGS;LANGUAGE=en-US:meet &amp\; geek\,poly
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2602@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Meetup/Group\,Panel\,Science/Techn
+ ology
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 07/C2ST-New-Basic-v1.png'><img class='alignnone size-full wp-image-2532' s
+ rc='https://geekbarchicago.com/wp-content/uploads/2015/07/C2ST-New-Basic-v
+ 1.png' alt='C2ST New Basic v1' width='300' height='300' /></a></p>\n<p>Wea
+ rable devices such as smartwatches and fitness trackers have brought us cl
+ oser to quantifying our lives\, but will they truly change the way we inte
+ ract with the world? This talk explores how the right combination of advan
+ ces in energy harvesting\, big data\, and artificial intelligence could en
+ able wearable devices to truly become digital extensions of us as humans.<
+ /p>\n<p><strong>Tejas Shastry</strong> is the CEO and Co-Founder of AMPY\,
+  a Chicago based company building smarter batteries for smartphones and we
+ arables. Its first consumer product is the AMPY One Motion Charger\, a wea
+ rable device that turns a user’s movement into power for their USB devices
+ . Shastry is a Ph.D. Candidate at Northwestern University in Material Scie
+ nce\, and was recently named to Forbes “30 under 30.”</p>
+DTSTART;TZID=America/Chicago:20151103T190000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:“What’s the deal with wearable technology?” with Tejas Shastry
+URL:https://geekbarchicago.com/event/whats-the-deal-with-wearable-technolog
+ y-with-tejas-shastry/
+X-TAGS;LANGUAGE=en-US:C2ST\,technology
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2603@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Meetup/Group\,Panel\,Science/Techn
+ ology
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 07/C2ST-New-Basic-v1.png'><img class='alignnone size-full wp-image-2532' s
+ rc='https://geekbarchicago.com/wp-content/uploads/2015/07/C2ST-New-Basic-v
+ 1.png' alt='C2ST New Basic v1' width='300' height='300' /></a></p>\n<p>The
+  Museum of Science and Industry (MSI) recently opened a one-of-its-kind te
+ mporary exhibit\, Robot Revolution. This unprecedented exhibit features mo
+ re than 40 robots from all over the world. MSI’s robot wrangling team spen
+ t five years developing this program with the help of esteemed robotics ad
+ visors. The team scoured the world — including Japan\, China\, Germany\, a
+ nd France — to find the most advanced and exciting robots to showcase to t
+ he public. Kathleen McCarthy was part of this team.</p>\n<p>McCarthy and t
+ he team realized that having more than 40 robots in one exhibit\, many of 
+ which had never been showcased in a museum environment\, would require ext
+ ra handling. The team hired three robot specialists to work exclusively in
+  the Robot Revolution space. Anna Brill\, a 21-year-old college student fr
+ om Massachusetts\, is one of those specialists. Brill and the team can be 
+ seen working in the exhibit\, from making 250 battery changes a day to tin
+ kering with the robots in the public-facing “robot garage” — a windowed sp
+ ace where guests can see the specialists at work.</p>\n<p><strong>Anna Bri
+ ll</strong> is one of the three robot specialists working at the Robot Rev
+ olution exhibit. She handles all of the day-to-day tasks associated with t
+ he exhibit — from keeping more than 40 robots running properly\, to troubl
+ eshooting issues\, to chatting with curious young museum guests. She is cu
+ rrently taking a gap year from her studies at the University of Pennsylvan
+ ia where she is pursuing her bachelor and master’s degrees in mechanical e
+ ngineering. Her fascination with robots began when she joined a FIRST Robi
+ tcs Competition team in high school and continued with the robotics resear
+ ch she was involved in while at Penn. Through her research at the Kod*lab\
+ , a subsidiary of the Penn Engineering GRASP Lab\, she has studied the beh
+ avior of six-legged robots on low-friction surfaces. She recently publishe
+ d a paper on her work with a leaping\, tailed\, bipedal robot\, which land
+ ed her the honor of presenting at a robitcs conference in Hamburg\, German
+ y this fall.</p>\n<p><strong>Kathleen McCarthy</strong> is the director of
+  collections and head curator at the Museum of Science and Industry. McCar
+ thy is responsible for the care of MSI’s 35\,000 artifacts and those on lo
+ an for display\, as well as the research and development of content for ex
+ hibits. Since joining MSI in 2000\, McCarthy has overseen the development 
+ and installation of multiple exhibits and added high-profile artifacts to 
+ the collection. During the development of Robot Revolution\, McCarthy spen
+ t several weeks in Japan visiting the top robotics companies. A key to the
+  success of Robot Revolution are the relationships and knowledge she has b
+ uilt\, and throughout the four-year run of the traveling exhibition\, McCa
+ rthey will ensure the robots are updated to showcase the latest breakthrou
+ ghs in robotis technologies. Prior to joining MSI\, McCarthy was the regis
+ trar for the Haifa Faisal Collection of Saudi Arabian Artifacts. She has a
+ lso worked for the Museum of Contemporary Art in Chicago\, Krannert Art Mu
+ seum\, and taught glassblowing at the Toledo Museum of Art. McCarthy earne
+ d her MFA in Sculpture from the University of Illinois\, during which she 
+ studied art history in Cairo. The recipient of a fellowship award from the
+  Illinois Arts Council\, her sculptures have been exhibited across the U.S
+ . and Japan.</p>
+DTSTART;TZID=America/Chicago:20151117T190000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:“Robot Revolution” with Anna Brill and Kathleen McCarthy
+URL:https://geekbarchicago.com/event/robot-revolution-with-anna-brill-and-k
+ athleen-mccarthy/
+X-TAGS;LANGUAGE=en-US:C2ST\,robots\,technology
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2604@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Meetup/Group\,Panel\,Science/Techn
+ ology
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 07/C2ST-New-Basic-v1.png'><img class='alignnone size-full wp-image-2532' s
+ rc='https://geekbarchicago.com/wp-content/uploads/2015/07/C2ST-New-Basic-v
+ 1.png' alt='C2ST New Basic v1' width='300' height='300' /></a></p>\n<p>Sea
+ sonal changes in temperature and light impact our moods and can cause seri
+ ous impairment to our everyday functioning. Learn the difference between t
+ he winter blues and seasonal affective disorder and how to combat the impa
+ ct of each.</p>\n<p>Jocelyn Smith Carter is the Director of Clinical Train
+ ing and an Associate Professor of Clinical Psychology at DePaul University
+ . She teaches doctoral courses in clinical assessment and diagnosis and un
+ dergraduate courses in abnormal psychology. She earned her Ph.D. in clinic
+ al psychology from Vanderbilt University and her B.A. in psychology from Y
+ ale University. Dr. Carter completed her clinical internship at Lurie Chil
+ dren’s Hospital.</p>
+DTSTART;TZID=America/Chicago:20151201T190000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:“Feeling Down? Maybe it’s the Season” with Dr. Jocelyn Carter
+URL:https://geekbarchicago.com/event/feeling-down-maybe-its-the-season-with
+ -dr-jocelyn-carter/
+X-TAGS;LANGUAGE=en-US:C2ST\,psychology
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2605@geekbarchicago.com
+DTSTAMP:20150920T002155Z
+CATEGORIES;LANGUAGE=en-US:Geek Bar Beta\,Meetup/Group\,Panel\,Science/Techn
+ ology
+CONTACT:
+DESCRIPTION:<p><a href='https://geekbarchicago.com/wp-content/uploads/2015/
+ 07/C2ST-New-Basic-v1.png'><img class='alignnone size-full wp-image-2532' s
+ rc='https://geekbarchicago.com/wp-content/uploads/2015/07/C2ST-New-Basic-v
+ 1.png' alt='C2ST New Basic v1' width='300' height='300' /></a></p>\n<p>The
+  Rupununi region of Guyana is a mix of lowland savannas and tropical fores
+ ts. The vast savannas include an expansive network of wetlands that connec
+ t the Guyana’s main river drainage\, Essequibo River\, to the Amazon River
+  during the rainy season. This unique biogeographic feature influences fis
+ h communities of the area. One of the fish species found here is in dire n
+ eed of protection. Arapaima\, threatened throughout their range\, are the 
+ world’s largest scaled fish\, weighing as much as 400lbs\, and belonging t
+ o one of the most ancient lineages of freshwater fish\; their ancestors sh
+ ared the vast wetlands of prehistoric South America with the dinosaurs. Th
+ ey are also a historically important resource for Guyana’s indigenous comm
+ unities. In addition to revealing the basic life history of these famous b
+ ut poorly-understood animals through surveys and radio tracking\, Lesley’s
+  research is also aimed at helping the people of the North Rupununi region
+  establish a protected area on their traditional lands\, which face biolog
+ ical and cultural threats from large-scale agriculture\, mining\, and ille
+ gal logging.</p>\n<p><strong>Dr. Lesley de Souza</strong>‘s fascination wi
+ th the natural world began at an early age. Growing up in Alabama and Braz
+ il gave her a deep appreciation for the wildlife and cultures of North and
+  South America\, and ultimately led her to a career as a conservation biol
+ ogist. Her Undergraduate and doctoral studies at Auburn University focused
+  on the molecular ecology of Neotropical fish and allowed her to describe 
+ several new species to science\, but she was most profoundly affected by w
+ orking closely in the field with the indigenous people of South America\, 
+ including the Wapishana and Macushi communities of southern Guyana. These 
+ experiences led her to focus her research on projects with potential benef
+ its for both fragile ecosystems and threatened human cultures. It is her m
+ ission to contribute to the preservation of wildlife and human lifelihoods
+  and\, more broadly\, to inspire humans to rethink our place in the natura
+ l world.</p>
+DTSTART;TZID=America/Chicago:20151215T190000
+GEO:+41.910372;-87.676677
+LOCATION:Geek Bar Beta @ 1941 W North Ave\, Chicago\, IL 60622\, USA
+SEQUENCE:0
+SUMMARY:“Saving Giants of the Amazon” with Dr. Lesley de Souza
+URL:https://geekbarchicago.com/event/saving-giants-of-the-amazon-with-dr-le
+ sley-de-souza/
+X-TAGS;LANGUAGE=en-US:biology\,C2ST\,ecology\,environment
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

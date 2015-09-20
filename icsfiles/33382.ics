@@ -1,0 +1,328 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.249.202.170//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://canadianwomenlondon.org
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1011@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see Newsletter for details</p>
+DTSTART;TZID=Europe/London:20150922T101500
+DTEND;TZID=Europe/London:20150922T114500
+GEO:+51.508039;-0.128069
+LOCATION:Canada House @ Trafalgar Square\, London WC2N 5DN\, UK
+SEQUENCE:0
+SUMMARY:CWC Annual AGM
+URL:http://canadianwomenlondon.org/event/cwc-annual-agm
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1007@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see your Newsletter for details</p>
+DTSTART;TZID=Europe/London:20150923T100000
+DTEND;TZID=Europe/London:20150923T120000
+GEO:+51.494627;-0.174887
+LOCATION:Le Bistrot @ The French Institute\, 13 Cromwell Place\, Kensington
+ \, London SW7 2JR\, UK
+SEQUENCE:0
+SUMMARY:Groupe de Conversation en Francais
+URL:http://canadianwomenlondon.org/event/groupe-de-conversation-en-francais
+ -8
+X-COST:Cost of Coffee
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1012@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see Newsletter for details</p>
+DTSTART;TZID=Europe/London:20150924T190000
+DTEND;TZID=Europe/London:20150924T210000
+SEQUENCE:0
+SUMMARY:Evening Book Exchange
+URL:http://canadianwomenlondon.org/event/evening-book-exchange
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1008@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see Newsletter for details</p>
+DTSTART;TZID=Europe/London:20150928T110000
+DTEND;TZID=Europe/London:20150928T130000
+GEO:+51.494627;-0.174887
+LOCATION:Le Bistrot @ The French Institute\, 13 Cromwell Place\, Kensington
+ \, London SW7 2JR\, UK
+SEQUENCE:0
+SUMMARY:Afternoon Book Group
+URL:http://canadianwomenlondon.org/event/afternoon-book-group-6
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1002@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<form target='paypal' action='https://www.paypal.com/cgi-bin/we
+ bscr' method='post'>\n<input type='hidden' name='cmd' value='_s-xclick'><b
+ r />\n<input type='hidden' name='hosted_button_id' value='L6GEPPBNTS96G'><
+ /p>\n<table>\n<tr>\n<td><input type='hidden' name='on0' value='Cost:'>Cost
+ :</td>\n</tr>\n<tr>\n<td><select name='os0'><option value='Cost'>Cost £20.
+ 00 GBP</option></select> </td>\n</tr>\n</table>\n<p><input type='hidden' n
+ ame='currency_code' value='GBP'><br />\n<input type='image' src='https://w
+ ww.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif' border='0' name='submit'
+  alt='PayPal – The safer\, easier way to pay online.'><br />\n<img alt='' 
+ border='0' src='https://www.paypalobjects.com/en_GB/i/scr/pixel.gif' width
+ ='1' height='1'><br />\n</form>
+DTSTART;TZID=Europe/London:20150929T103000
+DTEND;TZID=Europe/London:20150929T164500
+SEQUENCE:0
+SUMMARY:Arts & Culture – The Stanley Spencer Gallery at Cookham
+URL:http://canadianwomenlondon.org/event/arts-culture-the-stanley-spencer-g
+ allery-at-cookham
+X-COST:CWC Members £25
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1020@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see Newsletter for details.</p>
+DTSTART;TZID=Europe/London:20151001T153000
+DTEND;TZID=Europe/London:20151001T173000
+GEO:+51.50915;-0.134959
+LOCATION:Jermyn Street Theatre @ St. James's\, London SW1Y 6ST\, UK
+SEQUENCE:0
+SUMMARY:Theatre group – See What I Wanna See
+URL:http://canadianwomenlondon.org/event/theatre-group-see-what-i-wanna-see
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1051@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see Newsletter for information</p>
+DTSTART;TZID=Europe/London:20151002T100000
+DTEND;TZID=Europe/London:20151002T120000
+GEO:+51.508039;-0.128069
+LOCATION:National Gallery Dining Rooms @ Trafalgar Square\, London WC2N 5DN
+ \, UK
+SEQUENCE:0
+SUMMARY:What’s in The News?
+URL:http://canadianwomenlondon.org/event/whats-in-the-news-7
+X-COST:Cost of Coffee
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1053@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>This popular International Coffee Morning charity event take
+ s place once at year at Australia House in the beautiful Downer Room. This
+  year’s speaker is Diane Lees\, Director-General of the Imperial War Museu
+ m. Everyone is asked to help and this year CWC has been asked to bring som
+ e of our wonderful baked goods.</p>\n<p>Proceeds will be used to support a
+  girls’ school in Sierra Leone. </p>
+DTSTART;TZID=Europe/London:20151006T103000
+DTEND;TZID=Europe/London:20151006T123000
+GEO:+51.512817;-0.115636
+LOCATION:Australia House @ Australian High Commission\, Strand\, London WC2
+ B 4LA\, UK
+SEQUENCE:0
+SUMMARY:October Hospitality
+URL:http://canadianwomenlondon.org/event/october-hospitality
+X-COST:£15 Donation
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1004@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see Newsletter for information</p>
+DTSTART;TZID=Europe/London:20151007T100000
+DTEND;TZID=Europe/London:20151007T120000
+GEO:+51.516861;-0.205697
+LOCATION:Second Cup @ 216 Portobello Road\, London W11 1LJ\, UK
+SEQUENCE:0
+SUMMARY:Coffee Klatch
+URL:http://canadianwomenlondon.org/event/coffee-klatch
+X-COST:Price of Coffee
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1013@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>This year’s Canadian Women’s Club dinner will be held at the
+  beautiful prizewinning Butcher’s Hook and Cleaver pub next door to Smithf
+ ield’s\, the oldest functioning meat market in London\, and an area once k
+ nown for jousts and tournaments. Dinner includes roast turkey and all the 
+ trimmings (stuffing\, mashed potatoes\, vegetables\, gravy\, cranberry sau
+ ce) pumpkin pie with whipped cream and a glass of wine or soft drink.</p>
+ \n<p>Come along to celebrate and acknowledge all that is good in our lives
+  and to share in a dinner with all the trimmings. Partners\, family and fr
+ iends are very welcome …</p>\n<p>Cost:  £30 \,  Students £20 (Price includ
+ es Service Charge)<br />\nRSVP:  Carey  at  info@canadianwomenlondon.org<b
+ r />\nPayment is requested by Friday 2 October 2015</p>\n<p>Payment option
+ s:<br />\nBank transfer:  Nat West Bank\, Sort code: 60-02-20   Account nu
+ mber 38887002   Please include your name and ‘Thanksgiving’ as a reference
+ .<br />\nCheque: Payable to ‘Canadian Women’s Club’ and sent to the Canadi
+ an Women’s Club\, Canada House\, Trafalgar Square SW1Y 5BJ<br />\nPaypal: 
+ Please use the link below</p>\n<form target='paypal' action='https://www.p
+ aypal.com/cgi-bin/webscr' method='post'>\n<input type='hidden' name='cmd' 
+ value='_s-xclick'><br />\n<input type='hidden' name='hosted_button_id' val
+ ue='GX4RHK8YV5VYN'></p>\n<table>\n<tr>\n<td><input type='hidden' name='on0
+ ' value='Cost :(Inc £1-50 Handling Fee)'>Cost :(Inc £1-50 Handling Fee)</t
+ d>\n</tr>\n<tr>\n<td><select name='os0'><option value='Cost'>Cost £31.50 G
+ BP</option><option value='Student'>Student £21.50 GBP</option></select> </
+ td>\n</tr>\n</table>\n<p><input type='hidden' name='currency_code' value='
+ GBP'><br />\n<input type='image' src='https://www.paypalobjects.com/en_GB/
+ i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal – The safer\, 
+ easier way to pay online.'><br />\n<img alt='' border='0' src='https://www
+ .paypalobjects.com/en_GB/i/scr/pixel.gif' width='1' height='1'><br />\n</f
+ orm>
+DTSTART;TZID=Europe/London:20151012T190000
+DTEND;TZID=Europe/London:20151012T210000
+GEO:+51.518867;-0.100545
+LOCATION:Butcher’s Hook and Cleaver Pub\,  @ 63 W Smithfield\, London EC1A 
+ 9DY\, UK
+SEQUENCE:0
+SUMMARY:Thanksgiving Dinner
+URL:http://canadianwomenlondon.org/event/thanksgiving-dinner
+X-COST:£30\,  Student £20 - includes Service Charge
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1014@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see Newsletter for details</p>\n<form target='paypal'
+  action='https://www.paypal.com/cgi-bin/webscr' method='post'>\n<input typ
+ e='hidden' name='cmd' value='_s-xclick'><br />\n<input type='hidden' name=
+ 'hosted_button_id' value='C23PHZYGG2U9N'></p>\n<table>\n<tr>\n<td><input t
+ ype='hidden' name='on0' value='Cost:'>Cost:</td>\n</tr>\n<tr>\n<td><select
+  name='os0'><option value='CWC Member'>CWC Member £7.00 GBP</option><optio
+ n value='Non-Member'>Non-Member £9.00 GBP</option></select> </td>\n</tr>\n
+ </table>\n<p><input type='hidden' name='currency_code' value='GBP'><br />
+ \n<input type='image' src='https://www.paypalobjects.com/en_GB/i/btn/btn_c
+ art_LG.gif' border='0' name='submit' alt='PayPal – The safer\, easier way 
+ to pay online.'><br />\n<img alt='' border='0' src='https://www.paypalobje
+ cts.com/en_GB/i/scr/pixel.gif' width='1' height='1'><br />\n</form>
+DTSTART;TZID=Europe/London:20151016T144500
+DTEND;TZID=Europe/London:20151016T161500
+GEO:+51.500639;-0.127527
+LOCATION:The Supreme Court @ Parliament Square\, Westminster\, London SW1P 
+ 3BD\, UK
+SEQUENCE:0
+SUMMARY:Guided Tour of The Supreme Court
+URL:http://canadianwomenlondon.org/event/guided-tour-of-the-supreme-court
+X-COST:CWC Member £7\, Non CWC Member £9
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1049@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see your Newsletter for details</p>
+DTSTART;TZID=Europe/London:20151028T100000
+DTEND;TZID=Europe/London:20151028T120000
+GEO:+51.494627;-0.174887
+LOCATION:Le Bistrot @ The French Institute\, 13 Cromwell Place\, Kensington
+ \, London SW7 2JR\, UK
+SEQUENCE:0
+SUMMARY:Groupe de Conversation en Francais
+URL:http://canadianwomenlondon.org/event/groupe-de-conversation-en-francais
+ -9
+X-COST:Cost of Coffee
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1048@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see Newsletter for details</p>
+DTSTART;TZID=Europe/London:20151029T190000
+DTEND;TZID=Europe/London:20151029T210000
+SEQUENCE:0
+SUMMARY:Evening Book Exchange
+URL:http://canadianwomenlondon.org/event/evening-book-exchange-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1017@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The CWC Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>“The demands of a nation at war had many far reaching effect
+ s on the average home. How did women cope with bringing up a family single
+ -handed after their husbands were conscripted for military service? How di
+ d they use that ration book? What was it like to make do and mend or to sl
+ eep in an Anderson shelter? </p>\n<p>Our November Remembrance Day hospital
+ ity morning will feature Mike Brown and Carol Harris\, experts on the ‘hom
+ e front in Britain’ and authors of The Wartime House: Home Life in Wartime
+  Britain 1939-1945. They will paint a vivid picture of daily life on the h
+ ome front to help us understand how these resourceful women and families c
+ oped.</p>\n<p>Please join us. Coffee and biscuits will be served before th
+ e talk.<br />\nRSVP:  By Wednesday 4 November to Carey at info@canadianwom
+ enlondon.org<br />\nPLEASE NOTE\, for security reasons we can only allow e
+ ntry to those on the guest list.  </p>\n<p>Methods of payment:<br />\nBy b
+ ank transfer: NatWest  Bank   Sort Code  60 02 20  Account Number  3888700
+ 2  Please provide your name and ‘Homefront’ as reference.<br />\nBy Paypal
+ :  See below<br />\nBy cheque: Please make payable to the Canadian Women’s
+  Club and post to The Canadian Women’s Club\, Canada House\, Trafalgar Squ
+ are SW1Y 5BJ</p>\n<form target='paypal' action='https://www.paypal.com/cgi
+ -bin/webscr' method='post'>\n<input type='hidden' name='cmd' value='_s-xcl
+ ick'><br />\n<input type='hidden' name='hosted_button_id' value='44AUBY9SN
+ ANBU'></p>\n<table>\n<tr>\n<td><input type='hidden' name='on0' value='Cost
+ :'>Cost:</td>\n</tr>\n<tr>\n<td><select name='os0'><option value='Cost'>Co
+ st £10.00 GBP</option></select> </td>\n</tr>\n</table>\n<p><input type='hi
+ dden' name='currency_code' value='GBP'><br />\n<input type='image' src='ht
+ tps://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif' border='0' name='
+ submit' alt='PayPal – The safer\, easier way to pay online.'><br />\n<img 
+ alt='' border='0' src='https://www.paypalobjects.com/en_GB/i/scr/pixel.gif
+ ' width='1' height='1'><br />\n</form>
+DTSTART;TZID=Europe/London:20151110T103000
+DTEND;TZID=Europe/London:20151110T120000
+GEO:+51.508039;-0.128069
+LOCATION:Canada House @ Trafalgar Square\, London WC2N 5DN\, UK
+SEQUENCE:0
+SUMMARY:November Special Speaker Event – The Suburban Home Front in World W
+ ar 2
+URL:http://canadianwomenlondon.org/event/november-special-speaker-event-the
+ -suburban-home-front-in-world-war-2
+X-COST:£10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-992@canadianwomenlondon.org
+DTSTAMP:20150920T003427Z
+CATEGORIES:
+CONTACT:The Office\; info@canadianwomenlondon.org
+DESCRIPTION:<p>Please see Newsletter for details.</p>
+DTSTART;TZID=Europe/London:20151125T143000
+DTEND;TZID=Europe/London:20151125T170000
+SEQUENCE:0
+SUMMARY:Theatre Group – Handbagged
+URL:http://canadianwomenlondon.org/event/theatre-group-handbagged
+END:VEVENT
+END:VCALENDAR

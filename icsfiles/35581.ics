@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.186.200.233//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.shapt.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-231@www.shapt.org/wordpress
+DTSTAMP:20150920T002329Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:SHAPT\; info@shapt.org\; http://www.shapt.org
+DESCRIPTION:<p>Sinem Akay\, PhD\, LPC\, RPT\, Certified Trauma-Focused Cogn
+ itive Behavioral Therapist\, has been working with children since her time
+  as a mentor to disadvantaged children in Turkey in 2006.  Her desire to h
+ elp children led her from Turkey to the United States and the Counseling P
+ rogram at the University of North Texas\, where studied play therapy durin
+ g her master’s and doctoral programs.  She advocated strongly for play the
+ rapy interventions in the North Texas area and provided play therapy servi
+ ces in the community and schools.  After she moved to the Houston area\, S
+ inem started to teach master’s level counseling classes at Sam Houston Sta
+ te University as an adjunct professor.  She also works at Children’s Safe 
+ Harbor as a therapist and supervisor\, advocating for children and teenage
+ rs who experienced sexual and physical abuse. Sinem recently started her p
+ rivate practice in the Woodlands area\, working with children and teenager
+ s who struggle with a wide range of emotional and behavioral issues.</p>\n
+ <p>1.0 CEU Offered</p>\n<form action='https://www.paypal.com/cgi-bin/websc
+ r' method='post' target='_top'><input name='cmd' type='hidden' value='_s-x
+ click' />If you prefer to pay by check bring to the event and RSVP by send
+ ing and email to <a onclick='javascript:pageTracker._trackPageview('/mailt
+ o/info@shapt.org')\;'  href='mailto:info@shapt.org'>info@shapt.org</a>\, s
+ ubject: RSVP Oct. 17.<br />\n<input name='hosted_button_id' type='hidden' 
+ value='YXB25EG5XLXEC' /></p>\n<table>\n<tbody>\n<tr>\n<td><input name='on0
+ ' type='hidden' value='REGISTRATION:' />REGISTRATION:</td>\n</tr>\n<tr>\n<
+ td><select name='os0'><option value='Member Registration'>Member Registrat
+ ion $15.00 USD</option><option value='Non-Member Registration'>Non-Member 
+ Registration $25.00 USD</option></select></td>\n</tr>\n<tr>\n<td><input na
+ me='on1' type='hidden' value='Phone:' />Phone:</td>\n</tr>\n<tr>\n<td><inp
+ ut maxlength='200' name='os1' type='text' /></td>\n</tr>\n<tr>\n<td><input
+  name='on2' type='hidden' value='Email:' />Email:</td>\n</tr>\n<tr>\n<td><
+ input maxlength='200' name='os2' type='text' /></td>\n</tr>\n</tbody>\n</t
+ able>\n<p><input name='currency_code' type='hidden' value='USD' /><br />\n
+ <input alt='PayPal - The safer\, easier way to pay online!' name='submit' 
+ src='https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif' type='
+ image' /><br />\n<img src='https://www.paypalobjects.com/en_US/i/scr/pixel
+ .gif' alt='' width='1' height='1' border='0' /></p>\n</form>
+DTSTART;TZID=America/Chicago:20151017T090000
+DTEND;TZID=America/Chicago:20151017T120000
+GEO:+30.209151;-95.470494
+LOCATION:The Woodlands Center @ 3380 College Park Drive\, Conroe\, TX 77384
+ \, USA
+SEQUENCE:0
+SUMMARY:Playful Ways to Work with Traumatized Children
+URL:http://www.shapt.org/event/playful-ways-to-work-with-traumatized-childr
+ en/
+X-COST:25.00 Non-Member/15.00 Member
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-232@www.shapt.org/wordpress
+DTSTAMP:20150920T002329Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:SHAPT\; info@shapt.org\; http://www.shapt.org/event/scholarship-rec
+ ipient-white-elephant-exchange/
+DESCRIPTION:<p>Dr. Boswell\, Ph.D\, LPC-S\, RPT</p>
+DTSTART;TZID=America/Chicago:20151212T090000
+DTEND;TZID=America/Chicago:20151212T120000
+LOCATION:University of Houston
+SEQUENCE:0
+SUMMARY:Scholarship Recipient – White Elephant Exchange
+URL:http://www.shapt.org/event/scholarship-recipient-white-elephant-exchang
+ e/
+X-COST:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-233@www.shapt.org/wordpress
+DTSTAMP:20150920T002329Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:SHAPT\; info@shapt.org\; http://www.shapt.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160220T090000
+DTEND;TZID=America/Chicago:20160220T110000
+GEO:+30.209151;-95.470494
+LOCATION:The Woodlands Center @ 3380 College Park Drive\, Conroe\, TX 77384
+ \, USA
+SEQUENCE:0
+SUMMARY:Trends in MH Pharmacology
+URL:http://www.shapt.org/event/trends-in-mh-pharmacology/
+X-COST:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-237@www.shapt.org/wordpress
+DTSTAMP:20150920T002329Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:SHAPT\; info@shapt.org\; http://www.shapt.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160408T090000
+DTEND;TZID=America/Chicago:20160408T110000
+LOCATION:Houston Baptist University
+SEQUENCE:0
+SUMMARY:Joint Meeting with HLPCA
+URL:http://www.shapt.org/event/joint-meeting-with-hlpca/
+X-COST:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-234@www.shapt.org/wordpress
+DTSTAMP:20150920T002329Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:SHAPT\; info@shapt.org\; http://www.shapt.org
+DESCRIPTION:<p>Cindy Hammonds MA LCP-S\, RPT-S</p>
+DTSTART;TZID=America/Chicago:20160611T090000
+DTEND;TZID=America/Chicago:20160611T110000
+GEO:+30.204211;-95.492779
+LOCATION:The Woodlands Center @ College Park Drive\, The Woodlands\, TX 773
+ 84\, USA
+SEQUENCE:0
+SUMMARY:Mood Disorders in the Playroom
+URL:http://www.shapt.org/event/mood-disorders-in-the-playroom/
+X-COST:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-236@www.shapt.org/wordpress
+DTSTAMP:20150920T002329Z
+CATEGORIES;LANGUAGE=en-US:Event
+CONTACT:SHAPT\; info@shapt.org\; http://www.shapt.org
+DESCRIPTION:<p>Dr. E. Leggett Ph.D\, LPC-S\, RPT</p>
+DTSTART;TZID=America/Chicago:20160813T090000
+DTEND;TZID=America/Chicago:20160813T110000
+GEO:+29.618529;-95.598621
+LOCATION:Sugar Creek Country Club @ 420 Sugar Creek Boulevard\, Sugar Land\
+ , TX 77478\, USA
+SEQUENCE:0
+SUMMARY:Concepts of Using Play Therapy in School Settings
+URL:http://www.shapt.org/event/concepts-of-using-play-therapy-in-school-set
+ tings/
+X-COST:TBD
+END:VEVENT
+END:VCALENDAR

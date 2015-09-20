@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//212.243.197.116//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.tvwohlen.ch/wpclone
+X-WR-TIMEZONE:Europe/Zurich
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-221@www.tvwohlen.ch/wp
+DTSTAMP:20150920T002202Z
+CATEGORIES;LANGUAGE=de-DE:Hauptverein
+CONTACT:
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Zurich:20151120T133000
+DTEND;TZID=Europe/Zurich:20151120T180000
+GEO:+46.98174;+7.31467
+LOCATION:Turnhalle @ Murzelen\, 3034\, Schweiz
+SEQUENCE:0
+SUMMARY:Aufstellen UA
+URL:http://www.tvwohlen.ch/wpclone/Veranstaltung/aufstellen-ua/
+X-TAGS;LANGUAGE=de-DE:Unterhaltungsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1745@www.tvwohlen.ch/wp
+DTSTAMP:20150920T002202Z
+CATEGORIES;LANGUAGE=de-DE:Hauptverein\,Jugend\,MR Wohlen-Murzelen
+CONTACT:
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Zurich:20151120T180000
+DTEND;TZID=Europe/Zurich:20151120T194500
+GEO:+46.98174;+7.31467
+LOCATION:Turnhalle @ Murzelen\, 3034\, Schweiz
+SEQUENCE:0
+SUMMARY:Hauptprobe UA Jugend
+URL:http://www.tvwohlen.ch/wpclone/Veranstaltung/hauptprobe-ua-jugend-aktiv
+ e-2/
+X-TAGS;LANGUAGE=de-DE:Unterhaltungsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-222@www.tvwohlen.ch/wp
+DTSTAMP:20150920T002202Z
+CATEGORIES;LANGUAGE=de-DE:Hauptverein\,MR Wohlen-Murzelen
+CONTACT:
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Zurich:20151120T200000
+DTEND;TZID=Europe/Zurich:20151120T223000
+GEO:+46.98174;+7.31467
+LOCATION:Turnhalle @ Murzelen\, 3034\, Schweiz
+SEQUENCE:0
+SUMMARY:Hauptprobe UA Aktive
+URL:http://www.tvwohlen.ch/wpclone/Veranstaltung/hauptprobe-ua-jugend-aktiv
+ e/
+X-TAGS;LANGUAGE=de-DE:Unterhaltungsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-223@www.tvwohlen.ch/wp
+DTSTAMP:20150920T002202Z
+CATEGORIES;LANGUAGE=de-DE:Hauptverein\,Jugend\,MR Wohlen-Murzelen
+CONTACT:
+DESCRIPTION:<p><a href='http://www.tvwohlen.ch/wpclone/wp-content/uploads/2
+ 015/04/Route_66-Logo_Web.jpg'><img class='alignnone size-medium wp-image-2
+ 499' src='http://www.tvwohlen.ch/wpclone/wp-content/uploads/2015/04/Route_
+ 66-Logo_Web-270x300.jpg' alt='Route_66-Logo_Web' width='270' height='300' 
+ /></a></p>\n<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Zurich:20151121T140000
+DTEND;TZID=Europe/Zurich:20151121T163000
+GEO:+46.98174;+7.31467
+LOCATION:Turnhalle Murzelen @ Murzelen\, 3034\, Schweiz
+SEQUENCE:0
+SUMMARY:UA Nachmittagsvorstellung
+URL:http://www.tvwohlen.ch/wpclone/Veranstaltung/ua-nachmittagsvorstellung/
+X-TAGS;LANGUAGE=de-DE:Unterhaltungsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-224@www.tvwohlen.ch/wp
+DTSTAMP:20150920T002202Z
+CATEGORIES;LANGUAGE=de-DE:Hauptverein\,Jugend\,MR Wohlen-Murzelen
+CONTACT:
+DESCRIPTION:<p><a href='http://www.tvwohlen.ch/wpclone/wp-content/uploads/2
+ 015/04/Route_66-Logo_Web.jpg'><img class='alignnone size-medium wp-image-2
+ 499' src='http://www.tvwohlen.ch/wpclone/wp-content/uploads/2015/04/Route_
+ 66-Logo_Web-270x300.jpg' alt='Route_66-Logo_Web' width='270' height='300' 
+ /></a></p>\n<p> </p>\n<p> </p>\n<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Zurich:20151121T200000
+DTEND;TZID=Europe/Zurich:20151121T223000
+GEO:+46.985224;+7.313511
+LOCATION:Turnhalle Murzelen @ Murzelen\, 3034\, Schweiz
+RDATE;TZID=Europe/Zurich:20151127T200000
+RDATE;TZID=Europe/Zurich:20151128T200000
+SEQUENCE:0
+SUMMARY:UA – Unterhaltungsabend Abendvorstellung TV Wohlen
+URL:http://www.tvwohlen.ch/wpclone/Veranstaltung/ua-nachmittagsvorstellung-
+ 2/
+X-TAGS;LANGUAGE=de-DE:Unterhaltungsabend
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-225@www.tvwohlen.ch/wp
+DTSTAMP:20150920T002202Z
+CATEGORIES;LANGUAGE=de-DE:Hauptverein
+CONTACT:
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Zurich:20151218T200000
+DTEND;TZID=Europe/Zurich:20151218T220000
+SEQUENCE:0
+SUMMARY:Letztes Training im 2015
+URL:http://www.tvwohlen.ch/wpclone/Veranstaltung/letztes-training-im-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1621@www.tvwohlen.ch/wp
+DTSTAMP:20150920T002202Z
+CATEGORIES;LANGUAGE=de-DE:MR Wohlen-Murzelen
+CONTACT:Beat
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Zurich:20151222T211500
+LOCATION:Ort noch offen
+SEQUENCE:0
+SUMMARY:Imbiss MR Wohlen-Murzelen
+URL:http://www.tvwohlen.ch/wpclone/Veranstaltung/imbiss-mr/
+X-TAGS;LANGUAGE=de-DE:Gemütliche Anlässe
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-226@www.tvwohlen.ch/wp
+DTSTAMP:20150920T002202Z
+CATEGORIES;LANGUAGE=de-DE:Hauptverein\,MR Wohlen-Murzelen
+CONTACT:
+DESCRIPTION:<p><img id='__wp-temp-img-id' title='' src='https://www.galaxus
+ .ch/img/t-1-64-79C09BABAE638292E8D45CCE7C871C1AC90C91356FA2E8C0DD77672CB19
+ 1182A/stadler-form-sepp-schwarz-silber-fondue-set.png' alt='' width='200' 
+ height='194' /></p>\n<div style='clear:both\;'></div>
+DTSTART;TZID=Europe/Zurich:20151227T190000
+GEO:+47.014817;+7.314274
+LOCATION:Waldhütte Baggwil @ Baggwil\, 3267 Seedorf\, Schweiz
+SEQUENCE:0
+SUMMARY:Fonduehöck
+URL:http://www.tvwohlen.ch/wpclone/Veranstaltung/fonduehoeck/
+X-TAGS;LANGUAGE=de-DE:Gemütliche Anlässe
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1521@www.tvwohlen.ch/wp
+DTSTAMP:20150920T002202Z
+CATEGORIES;LANGUAGE=de-DE:FR Hinterkappelen\,FR Wohlen-Murzelen\,Hauptverei
+ n\,Jugend\,MR Uettligen\,MR Wohlen-Murzelen
+CONTACT:
+DESCRIPTION:<p>Hauptversammlung TV Wohlen</p>\n<div style='clear:both\;'></
+ div>
+DTSTART;TZID=Europe/Zurich:20160205T200000
+GEO:+46.98174;+7.31467
+LOCATION:Restaurant Sternen @ Murzelen\, 3034\, Schweiz
+SEQUENCE:0
+SUMMARY:HV TV Wohlen
+URL:http://www.tvwohlen.ch/wpclone/Veranstaltung/hv-tv-wohlen/
+X-TAGS;LANGUAGE=de-DE:Sitzungen/Versammlungen
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//186.202.177.202//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://dev.sabpaulinas.com
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:STANDARD
+DTSTART:20150222T000000
+TZOFFSETFROM:-0200
+TZOFFSETTO:-0300
+RDATE:20160221T000000
+TZNAME:BRT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20151018T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0200
+TZNAME:BRST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-376@192.168.0.202
+DTSTAMP:20150920T002957Z
+CATEGORIES;LANGUAGE=pt-BR:Ciclo de Palestras
+CONTACT:(31) 3269-3737\; sab.contato@paulinas.com.br\; http://sab.paulinas.
+ org
+DESCRIPTION:<p><strong>CICLO DE PALESTRAS SOBRE A PALAVRA DE DEUS</strong><
+ br />\nExperiência de Jesus Cristo em Paulo</p>\n<p><strong>Assessoria:</s
+ trong> Ir. Zuleica Silvano<br />\n<strong>Data:</strong> 23 de setembro (q
+ uarta-feira)<br />\n<strong>Horário:</strong> 19h30 às 21h<br />\n<strong>
+ Local da Palestra:</strong> Avenida Afonso Pena\, 2142\, Funcionários – Be
+ lo Horizonte/MG<br />\n<em>Gratuito</em></p>
+DTSTART;TZID=America/Sao_Paulo:20150923T193000
+DTEND;TZID=America/Sao_Paulo:20150923T210000
+GEO:-19.930764;-43.931536
+LOCATION:Livraria Paulinas @ Avenida Afonso Pena\, 2142 - Centro\, Belo Hor
+ izonte - MG\, Brasil
+SEQUENCE:0
+SUMMARY:PALESTRA: Experiência de Jesus Cristo em Paulo
+URL:http://dev.sabpaulinas.com/event/palestra-experiencia-de-jesus-cristo-e
+ m-paulo/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-373@192.168.0.202
+DTSTAMP:20150920T002957Z
+CATEGORIES;LANGUAGE=pt-BR:Leitura Orante
+CONTACT:(31) 3269-3737\; sab.contato@paulinas.com.br\; http://sab.paulinas.
+ org
+DESCRIPTION:<p><strong>EXPERIÊNCIA DE LEITURA ORANTE DA BÍBLIA</strong></p>
+ \n<p><strong>Assessoria:</strong> Ir. Eugênia Pandolfo<br />\n<strong>Data
+ :</strong> 14 de Outubro (quarta-feira)<br />\n<strong>Horário:</strong> 1
+ 4h30 às 16h<br />\n<em>Gratuito</em><br />\n<em>Necessário trazer a Bíblia
+ </em></p>
+DTSTART;TZID=America/Sao_Paulo:20151014T143000
+DTEND;TZID=America/Sao_Paulo:20151014T160000
+GEO:-19.930764;-43.931536
+LOCATION:Livraria Paulinas @ Avenida Afonso Pena\, 2142 - Centro\, Belo Hor
+ izonte - MG\, Brasil
+SEQUENCE:0
+SUMMARY:Leitura Orante da Bíblia – Outubro 2015
+URL:http://dev.sabpaulinas.com/event/leitura-orante-da-biblia-outubro-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-377@192.168.0.202
+DTSTAMP:20150920T002957Z
+CATEGORIES;LANGUAGE=pt-BR:Minicursos
+CONTACT:(31) 3269-3737\; sab.contato@paulinas.com.br\; http://sab.paulinas.
+ org
+DESCRIPTION:<p>MINICURSOS<br />\n<strong>Compreender o Evangelho segundo Lu
+ cas</strong></p>\n<p><strong>Assessoria:</strong> Frei Gilvander Moreira<b
+ r />\n<strong>Data:</strong> 17 de Outubro (sábado)<br />\n<strong>Horário
+ :</strong> 8h30 às 12h30<br />\n<strong>Local das aulas:</strong> Avenida 
+ Afonso Pena\, 2142\, Funcionários – Belo Horizonte/MG<br />\n<strong>Inves
+ timento:</strong> R$ 45\,00.</p>
+DTSTART;TZID=America/Sao_Paulo:20151017T083000
+DTEND;TZID=America/Sao_Paulo:20151017T123000
+GEO:-19.930764;-43.931536
+LOCATION:Livraria Paulinas @ Avenida Afonso Pena\, 2142 - Centro\, Belo Hor
+ izonte - MG\, Brasil
+SEQUENCE:0
+SUMMARY:MINICURSO: Compreender o Evangelho segundo Lucas
+URL:http://dev.sabpaulinas.com/event/minicurso-compreender-o-evangelho-segu
+ ndo-lucas/
+X-COST:45\,00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-374@192.168.0.202
+DTSTAMP:20150920T002957Z
+CATEGORIES;LANGUAGE=pt-BR:Leitura Orante
+CONTACT:(31) 3269-3737\; sab.contato@paulinas.com.br\; http://sab.paulinas.
+ org
+DESCRIPTION:<p><strong>EXPERIÊNCIA DE LEITURA ORANTE DA BÍBLIA</strong></p>
+ \n<p><strong>Assessoria:</strong> Ir. Eugênia Pandolfo<br />\n<strong>Data
+ :</strong> 11 de Novembro (quarta-feira)<br />\n<strong>Horário:</strong> 
+ 14h30 às 16h<br />\n<em>Gratuito</em><br />\n<em>Necessário trazer a Bíbli
+ a</em></p>
+DTSTART;TZID=America/Sao_Paulo:20151111T143000
+DTEND;TZID=America/Sao_Paulo:20151111T160000
+GEO:-19.930764;-43.931536
+LOCATION:Livraria Paulinas @ Avenida Afonso Pena\, 2142 - Centro\, Belo Hor
+ izonte - MG\, Brasil
+SEQUENCE:0
+SUMMARY:Leitura Orante da Bíblia – Novembro 2015
+URL:http://dev.sabpaulinas.com/event/leitura-orante-da-biblia-novembro-2015
+ /
+END:VEVENT
+END:VCALENDAR

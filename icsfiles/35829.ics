@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//205.234.201.201//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.gravenhurstrotary.com
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+X-LIC-LOCATION:America/Toronto
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-687@www.gravenhurstrotary.com
+DTSTAMP:20150920T002151Z
+CATEGORIES;LANGUAGE=en-US:Club Meetings
+CONTACT:
+DESCRIPTION:<p>Gravenhurst Rotary holds it’s weekly meetings in the Trilliu
+ m Court area of the Gravenhurst Opera House.  Please note that the club do
+ es not hold meetings on holiday Monday’s and between Christmas and New Yea
+ rs Day.</p>
+DTSTART;TZID=America/Toronto:20150921T120000
+DTEND;TZID=America/Toronto:20150921T130000
+GEO:+44.918251;-79.373638
+LOCATION:Gravenhurst Opera House @ 295 Muskoka Road South\, Gravenhurst\, O
+ N P1P 1J1\, Canada
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=SU
+SEQUENCE:0
+SUMMARY:Regular Club Meeting
+URL:http://www.gravenhurstrotary.com/event/687-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-885@www.gravenhurstrotary.com
+DTSTAMP:20150920T002151Z
+CATEGORIES;LANGUAGE=en-US:Club Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Toronto:20150923T073000
+DTEND;TZID=America/Toronto:20150923T083000
+GEO:+44.918908;-79.37367
+LOCATION:Bethune Bistro @ 205 Muskoka Road South\, Gravenhurst\, ON P1P\, C
+ anada
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Wednesday Morning Meetings
+URL:http://www.gravenhurstrotary.com/event/wednesday-morning-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-566@www.gravenhurstrotary.com
+DTSTAMP:20150920T002151Z
+CATEGORIES;LANGUAGE=en-US:Club Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Toronto:20150923T190000
+DTEND;TZID=America/Toronto:20150923T200000
+LOCATION:On Cogeco TV 10
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Rotary TV Bingo
+URL:http://www.gravenhurstrotary.com/event/rotary-tv-bingo/
+END:VEVENT
+END:VCALENDAR

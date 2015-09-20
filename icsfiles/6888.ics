@@ -1,0 +1,575 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.168.47.225//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://ucim.org
+X-WR-TIMEZONE:America/Winnipeg
+BEGIN:VTIMEZONE
+TZID:America/Winnipeg
+X-LIC-LOCATION:America/Winnipeg
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-13738@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Open Invite\,Upcoming
+CONTACT:
+DESCRIPTION:<p>CGIT is celebrating 100 years! Come share your stories & mem
+ ories.<img class='wp-image-12885 alignleft' src='http://ucim.org/wp-conten
+ t/uploads/2015/05/cgit-300x71.jpg' alt='cgit' width='200' height='48' /></
+ p>
+DTSTART;TZID=America/Winnipeg:20150919T130000
+DTEND;TZID=America/Winnipeg:20150919T160000
+SEQUENCE:0
+SUMMARY:100th Anniversary of CGIT Tea
+URL:http://ucim.org/event/100th-anniversary-of-cgit-tea/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13737@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:children\,Upcoming
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13664' src='http:
+ //ucim.org/wp-content/uploads/2015/08/ChildrenChurchFeatured-300x145.jpg' 
+ alt='ChildrenChurchFeatured' width='300' height='145' /></p>
+DTSTART;TZID=America/Winnipeg:20150920T103000
+DTEND;TZID=America/Winnipeg:20150920T113000
+SEQUENCE:0
+SUMMARY:Children’s Church Begins
+URL:http://ucim.org/event/childrens-church-begins/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14042@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Upcoming
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13756' src='http:
+ //ucim.org/wp-content/uploads/2015/05/nature-featured-image-300x138.jpg' a
+ lt='nature featured image' width='300' height='138' />We will Go and Explo
+ re who God is Calling Us 2 B.</p>\n<p>You may ask\, “Where will we go?” If
+  interested\, get ready to participate and see!</p>\n<p>More details <stro
+ ng>here.</strong></p>
+DTSTART;TZID=America/Winnipeg:20150920T103000
+DTEND;TZID=America/Winnipeg:20150920T113000
+SEQUENCE:0
+SUMMARY:Talking Teens Starts
+URL:http://ucim.org/event/talking-teens-starts/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14215@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Worship
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13807' src='http:
+ //ucim.org/wp-content/uploads/2015/08/Meadowood-Cross-and-light-213x300.jp
+ g' alt='Meadowood Cross and light' width='213' height='300' />View the wee
+ kly <span style='text-decoration: underline\;'><strong><a href='http://www
+ .ucim.org/wp-content/text/15920.ucim.bulletin.pdf' target='_blank'>bulleti
+ n</a></strong></span> and <span style='text-decoration: underline\;'><stro
+ ng><a href='http://www.ucim.org/wp-content/text/150920.ucim.announce.pdf' 
+ target='_blank'>announcements</a></strong></span>.</p>\n<p><em>(available 
+ late Friday afternoon.)</em></p>
+DTSTART;TZID=America/Winnipeg:20150920T103000
+DTEND;TZID=America/Winnipeg:20150920T113000
+SEQUENCE:0
+SUMMARY:Worship
+URL:http://ucim.org/event/worship-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13975@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:program\,Upcoming
+CONTACT:
+DESCRIPTION:<p><img class='alignnone wp-image-13520 size-thumbnail' src='ht
+ tp://ucim.org/wp-content/uploads/2015/07/UCW-logo-75x75.png' alt='United C
+ hurch Women Logo' width='75' height='75' /></p>
+DTSTART;TZID=America/Winnipeg:20150921T180000
+DTEND;TZID=America/Winnipeg:20150921T200000
+SEQUENCE:0
+SUMMARY:UCW Potluck
+URL:http://ucim.org/event/ucw-potluck/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14095@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:community groups
+CONTACT:
+DESCRIPTION:<p>Children age 5-7</p>\n<p>Weekly meetings</p>
+DTSTART;TZID=America/Winnipeg:20150921T184500
+DTEND;TZID=America/Winnipeg:20150921T193000
+RRULE:FREQ=WEEKLY;UNTIL=20160425T235959Z;BYDAY=MO;WKST=SU
+SEQUENCE:0
+SUMMARY:Beavers
+URL:http://ucim.org/event/beavers/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13976@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:program\,Upcoming
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-12332' src='http:
+ //ucim.org/wp-content/uploads/2014/11/Soup-300x300.jpg' alt='Soup' width='
+ 300' height='300' /></p>
+DTSTART;TZID=America/Winnipeg:20150922T120000
+DTEND;TZID=America/Winnipeg:20150922T130000
+SEQUENCE:0
+SUMMARY:Seniors Lunch
+URL:http://ucim.org/event/seniors-lunch/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14096@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:community groups
+CONTACT:
+DESCRIPTION:<p>Weekly meetings for children 8-10 years</p>
+DTSTART;TZID=America/Winnipeg:20150922T183000
+DTEND;TZID=America/Winnipeg:20150922T200000
+RRULE:FREQ=WEEKLY;UNTIL=20160426T235959Z;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Cubs
+URL:http://ucim.org/event/cubs/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14106@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:music
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13686' src='http:
+ //ucim.org/wp-content/uploads/2015/05/5.-DSC02552-300x225.jpg' alt='Page-C
+ ontent-Choir' width='300' height='225' />We meet weekly to learn new hymns
+ \, sing old favourites\, and anthems.</p>\n<p>Join us if you love to sing!
+ </p>
+DTSTART;TZID=America/Winnipeg:20150922T200000
+DTEND;TZID=America/Winnipeg:20150922T213000
+RRULE:FREQ=WEEKLY;UNTIL=20160531T235959Z;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Choir
+URL:http://ucim.org/event/choir/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14103@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:community groups
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13886' src='http:
+ //ucim.org/wp-content/uploads/2011/07/FeaturedArtClub-300x139.jpg' alt='Fe
+ atured-Page-ArtClub' width='300' height='139' /><a href='http://ucim.org/p
+ rograms/community/friend-st-vital-art-group/'>Click here</a> for more info
+ .</p>
+DTSTART;TZID=America/Winnipeg:20150923T093000
+DTEND;TZID=America/Winnipeg:20150923T113000
+RRULE:FREQ=WEEKLY;UNTIL=20160427T235959Z;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:St. Vital Art Group
+URL:http://ucim.org/event/st-vital-art-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14102@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:community groups
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-79' src='http://uci
+ m.org/wp-content/uploads/2011/07/100927.01.gif' alt='Featured-Page-BabyMe'
+  width='138' height='132' />Non-traditional\, non-judgemental drop-in prog
+ ram\, offered by Youville Centre</p>\n<p><a href='http://ucim.org/programs
+ /community/friend-baby-me/'>Click here</a> for more info</p>
+DTSTART;TZID=America/Winnipeg:20150923T140000
+DTEND;TZID=America/Winnipeg:20150923T160000
+RRULE:FREQ=WEEKLY;UNTIL=20160629T235959Z;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Baby and Me
+URL:http://ucim.org/event/baby-and-me/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14098@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:community groups
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-104' src='http://
+ ucim.org/wp-content/uploads/2011/07/100720.gg_-300x152.jpg' alt='Featured-
+ Page-Guides' width='300' height='152' />Girls 8-10 years</p>\n<p><a href='
+ http://ucim.org/programs/community/friend-girl-guides/'>Click here</a> for
+  more info.</p>
+DTSTART;TZID=America/Winnipeg:20150923T183000
+DTEND;TZID=America/Winnipeg:20150923T200000
+RRULE:FREQ=WEEKLY;UNTIL=20160427T235959Z;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Brownies
+URL:http://ucim.org/event/brownies/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13952@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:program
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-13947' src='http://
+ ucim.org/wp-content/uploads/2015/08/Featured-Interpreting-Whispers.jpg' al
+ t='Featured-Interpreting-Whispers' width='240' height='142' />No registrat
+ ion needed. All are welcome to drop in. 10 AM.<br />\nIf you want to talk/
+ text to Ha Na (204-218-3946) or email HaNa.Park@ucim.org</p>
+DTSTART;TZID=America/Winnipeg:20150924T100000
+DTEND;TZID=America/Winnipeg:20150924T110000
+RRULE:FREQ=WEEKLY;UNTIL=20151210T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Interpreting Whispers
+URL:http://ucim.org/event/interpreting-whispers/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14107@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:program
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13917' src='http:
+ //ucim.org/wp-content/uploads/2015/05/Prayer-Shawl-hands-300x225.jpg' alt=
+ 'Prayer Shawl - hands' width='300' height='225' />An afternoon to knit\, e
+ mbroider\, crochet and craft\, every 2nd and 4th Thursday at 2:00</p>\n<p>
+ <a href='http://ucim.org/programs/friendship-and-support/handiworks-group/
+ '>Click here</a> for more info.</p>
+DTSTART;TZID=America/Winnipeg:20150924T140000
+DTEND;TZID=America/Winnipeg:20150924T160000
+RDATE;TZID=America/Winnipeg:20150910T140000
+RDATE;TZID=America/Winnipeg:20150924T140000
+RDATE;TZID=America/Winnipeg:20151008T140000
+RDATE;TZID=America/Winnipeg:20151022T140000
+RDATE;TZID=America/Winnipeg:20151112T140000
+RDATE;TZID=America/Winnipeg:20151126T140000
+RDATE;TZID=America/Winnipeg:20151210T140000
+RDATE;TZID=America/Winnipeg:20160114T140000
+RDATE;TZID=America/Winnipeg:20160128T140000
+RDATE;TZID=America/Winnipeg:20160211T140000
+RDATE;TZID=America/Winnipeg:20160225T140000
+RDATE;TZID=America/Winnipeg:20160310T140000
+RDATE;TZID=America/Winnipeg:20160324T140000
+RDATE;TZID=America/Winnipeg:20160414T140000
+RDATE;TZID=America/Winnipeg:20160428T140000
+RDATE;TZID=America/Winnipeg:20160512T140000
+SEQUENCE:0
+SUMMARY:Handiworks
+URL:http://ucim.org/event/handiworks/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14044@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:program\,Upcoming
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13918' src='http:
+ //ucim.org/wp-content/uploads/2015/05/Ready-to-serve-some-sandwiches-300x1
+ 99.jpg' alt='Ready to serve some sandwiches' width='300' height='199' /></
+ p>
+DTSTART;TZID=America/Winnipeg:20150924T173000
+DTEND;TZID=America/Winnipeg:20150924T193000
+SEQUENCE:0
+SUMMARY:Men’s Group Starts
+URL:http://ucim.org/event/mens-group-starts/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13953@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:program
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13759' src='http:
+ //ucim.org/wp-content/uploads/2015/05/disciple-featured-image-300x139.jpg'
+  alt='disciple featured image' width='300' height='139' />Disciple 1 – is 
+ a comprehensive\, small group experience that runs for 34 weeks led by Rev
+  Gordon Taylor.</p>\n<p>Begins August 27\, 2015 on Thursday evenings from 
+ 7:00-9:30 and it’s full. Put your name on the list for the next group by c
+ alling 204-256-7002.</p>\n<p> </p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=America/Winnipeg:20150924T190000
+DTEND;TZID=America/Winnipeg:20150924T210000
+RRULE:FREQ=WEEKLY;UNTIL=20151210T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Disciple
+URL:http://ucim.org/event/disciple/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14100@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:community groups
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Winnipeg:20150924T191500
+DTEND;TZID=America/Winnipeg:20150924T210000
+RRULE:FREQ=WEEKLY;UNTIL=20160526T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Scouts
+URL:http://ucim.org/event/scouts/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14048@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Upcoming
+CONTACT:
+DESCRIPTION:<p><strong><img class='alignleft size-medium wp-image-11688' sr
+ c='http://ucim.org/wp-content/uploads/2014/06/NewBeginnnings-300x150.jpg' 
+ alt='Rev Ha Na Park ~ Inviting Wonder' width='300' height='150' />Have you
+  lost a loved one?</strong><br />\nWould you share memories of them with o
+ thers?<br />\nAdd a page to our Book of Lives<br />\nHow-To Brochures are 
+ available in the church’s foyer and from this<strong> <a href='http://ucim
+ .org/life-events/book-of-lives/'>link.</a></strong><br />\nPages will be u
+ nveiled during worship on All Saints Sunday\, Nov. 1\, 2015!<br />\nPlan t
+ o attend and celebrate all souls.</p>
+DTSTART;TZID=America/Winnipeg:20150925T170000
+DTEND;TZID=America/Winnipeg:20150925T170000
+SEQUENCE:0
+SUMMARY:Submission Deadline for Book of Lives
+URL:http://ucim.org/event/submission-deadline-for-book-of-lives/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14000@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Worship
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13807' src='http:
+ //ucim.org/wp-content/uploads/2015/08/Meadowood-Cross-and-light-213x300.jp
+ g' alt='Meadowood Cross and light' width='213' height='300' />View the wee
+ kly <span style='text-decoration: underline\;'><strong><a href='http://www
+ .ucim.org/wp-content/text/150802.ucim.bulletin.pdf' target='_blank'>bullet
+ in</a></strong></span> and <span style='text-decoration: underline\;'><str
+ ong><a href='http://www.ucim.org/wp-content/text/150802.ucim.announce.pdf'
+  target='_blank'>announcements</a></strong></span>.</p>\n<p><em>(available
+  late Friday afternoon.)</em></p>
+DTSTART;TZID=America/Winnipeg:20150927T103000
+DTEND;TZID=America/Winnipeg:20150927T113000
+EXRULE:FREQ=MONTHLY;UNTIL=20151227T235959Z;BYDAY=1SU;WKST=SU
+RRULE:FREQ=WEEKLY;UNTIL=20151227T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Worship
+URL:http://ucim.org/event/worship-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14050@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Upcoming
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-14051' src='http:
+ //ucim.org/wp-content/uploads/2015/08/lego-296x300.jpg' alt='lego' width='
+ 296' height='300' />Remember Tinkertoys?<br />\nLego before there was Lego
+ ?<br />\nOur Christian faith can feel like that… a great pile of parts\,th
+ at may not seem to fit or function.</p>\n<p>The 2015 Fall Adult Membership
+  program is an interactive experience to help build the biggies:<br />\n– 
+ Making sense of the Bible (the owner’s manual)<br />\n– Making sense of Go
+ d (and what difference does Jesus make)<br />\n– Making sense of the [mess
+ y] Church (why we do what we do)<br />\n– Making sense of your own spiritu
+ al growth<br />\n– Making sense of the world we live and struggle in.</p>
+ \n<p>QUESTIONS AND CHALLENGES WELCOME!</p>\n<p>7 Tuesday evenings in a row
+  7-8:30 p.m.\, beginning Sept 30. More info: Gordon Taylor – 204-256-7002<
+ /p>
+DTSTART;TZID=America/Winnipeg:20150929T190000
+DTEND;TZID=America/Winnipeg:20150929T203000
+SEQUENCE:0
+SUMMARY:Adult Membership Program Begins
+URL:http://ucim.org/event/adult-membership-program-begins/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13718@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Open Invite\,Upcoming
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13719' src='http:
+ //ucim.org/wp-content/uploads/2015/08/PastoralCare-300x227.png' alt='Pasto
+ ralCare' width='300' height='227' /></p>
+DTSTART;TZID=America/Winnipeg:20151003T100000
+DTEND;TZID=America/Winnipeg:20151003T120000
+SEQUENCE:0
+SUMMARY:Pastoral Care Workshop
+URL:http://ucim.org/event/pastoral-care-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13742@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Worship
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13398' src='http:
+ //ucim.org/wp-content/uploads/2015/07/communion-goblet-and-bread-300x215.j
+ pg' alt='communion goblet and bread' width='300' height='215' />View the w
+ eekly <span style='text-decoration: underline\;'><strong><a href='http://w
+ ww.ucim.org/wp-content/text/151004.ucim.bulletin.pdf' target='_blank'>bull
+ etin</a></strong></span> and <span style='text-decoration: underline\;'><s
+ trong><a href='http://www.ucim.org/wp-content/text/151004.ucim.announce.pd
+ f' target='_blank'>announcements</a></strong></span>.</p>\n<p><em>(availab
+ le late Friday afternoon.)</em></p>
+DTSTART;TZID=America/Winnipeg:20151004T103000
+DTEND;TZID=America/Winnipeg:20151004T113000
+SEQUENCE:0
+SUMMARY:Worship ~ Communion
+URL:http://ucim.org/event/worship-communion-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14065@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Senior's Home Worship
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-12127' src='http:
+ //ucim.org/wp-content/uploads/2014/11/TalkingTeens-Avery-279x300.jpg' alt=
+ 'TalkingTeens-Avery' width='279' height='300' /></p>\n<p>Our ministers alt
+ ernate leading worship at three personal care homes in the community –  Ri
+ ver Park Gardens\, Vista Park Lodge and Golden Links Lodge\, to provide wo
+ rship for those no longer able to get to Sunday Services. A group of folks
+  from the congregation also participate in this ministry which ensures tha
+ t there is a welcoming presence and good singing.  Newcomers welcome.</p>
+ \n<p>View the schedule from this <strong><a href='http://ucim.org/worship-
+ at-seniors-care-homes/'>link</a>.</strong></p>
+DTSTART;TZID=America/Winnipeg:20151014T104500
+DTEND;TZID=America/Winnipeg:20151014T113000
+RDATE;TZID=America/Winnipeg:20151118T104500
+RDATE;TZID=America/Winnipeg:20160113T104500
+RDATE;TZID=America/Winnipeg:20160217T104500
+RDATE;TZID=America/Winnipeg:20160413T104500
+RDATE;TZID=America/Winnipeg:20160518T104500
+SEQUENCE:0
+SUMMARY:Worship at River Park Gardens
+URL:http://ucim.org/event/worship-at-river-park-gardens/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13978@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:program
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Winnipeg:20151014T190000
+DTEND;TZID=America/Winnipeg:20151014T200000
+RRULE:FREQ=MONTHLY;UNTIL=20151209T235959Z;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:Church Council
+URL:http://ucim.org/event/church-council/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14059@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Senior's Home Worship
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-13951' src='http://
+ ucim.org/wp-content/uploads/2015/08/Featured-BibleStudy.jpg' alt='Featured
+ -BibleStudy' width='296' height='137' />Our ministers alternate leading wo
+ rship at three personal care homes in the community –  River Park Gardens\
+ , Vista Park Lodge and Golden Links Lodge\, to provide worship for those n
+ o longer able to get to Sunday Services. A group of folks from the congreg
+ ation also participate in this ministry which ensures that there is a welc
+ oming presence and good singing.  Newcomers welcome.</p>\n<p>View the sche
+ dule from this <strong><a href='http://ucim.org/worship-at-seniors-care-ho
+ mes/'>link</a>.</strong></p>
+DTSTART;TZID=America/Winnipeg:20151021T104500
+DTEND;TZID=America/Winnipeg:20151021T113000
+RDATE;TZID=America/Winnipeg:20150916T104500
+RDATE;TZID=America/Winnipeg:20151021T104500
+RDATE;TZID=America/Winnipeg:20151216T104500
+RDATE;TZID=America/Winnipeg:20160120T104500
+RDATE;TZID=America/Winnipeg:20160316T104500
+RDATE;TZID=America/Winnipeg:20160420T104500
+RDATE;TZID=America/Winnipeg:20160615T104500
+SEQUENCE:0
+SUMMARY:Worship at Golden Links Lodge
+URL:http://ucim.org/event/golden-links-lodge-worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13974@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:program
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13918' src='http:
+ //ucim.org/wp-content/uploads/2015/05/Ready-to-serve-some-sandwiches-300x1
+ 99.jpg' alt='Ready to serve some sandwiches' width='300' height='199' /></
+ p>
+DTSTART;TZID=America/Winnipeg:20151022T173000
+DTEND;TZID=America/Winnipeg:20151022T193000
+RRULE:FREQ=MONTHLY;UNTIL=20151231T235959Z;BYDAY=4TH
+SEQUENCE:0
+SUMMARY:Men’s Group
+URL:http://ucim.org/event/mens-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13717@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Annual Event\,Upcoming
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-11864' src='http:
+ //ucim.org/wp-content/uploads/2014/09/fallsupper-300x258.jpg' alt='fallsup
+ per' width='300' height='258' /></p>
+DTSTART;TZID=America/Winnipeg:20151025T160000
+DTEND;TZID=America/Winnipeg:20151025T183000
+SEQUENCE:0
+SUMMARY:Annual Fall Supper
+URL:http://ucim.org/event/annual-fall-supper/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13743@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Worship
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13398' src='http:
+ //ucim.org/wp-content/uploads/2015/07/communion-goblet-and-bread-300x215.j
+ pg' alt='communion goblet and bread' width='300' height='215' />View the w
+ eekly <span style='text-decoration: underline\;'><strong><a href='http://w
+ ww.ucim.org/wp-content/text/151101.ucim.bulletin.pdf' target='_blank'>bull
+ etin</a></strong></span> and <span style='text-decoration: underline\;'><s
+ trong><a href='http://www.ucim.org/wp-content/text/151101.ucim.announce.pd
+ f' target='_blank'>announcements</a></strong></span>.</p>\n<p><em>(availab
+ le late Friday afternoon.)</em></p>
+DTSTART;TZID=America/Winnipeg:20151101T103000
+DTEND;TZID=America/Winnipeg:20151101T113000
+SEQUENCE:0
+SUMMARY:Worship ~ Communion
+URL:http://ucim.org/event/worship-communion-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14064@ucim.org
+DTSTAMP:20150920T002113Z
+CATEGORIES;LANGUAGE=en-US:Senior's Home Worship
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-14068' src='http://
+ ucim.org/wp-content/uploads/2015/08/Calendar-SeniorWorship.jpg' alt='Calen
+ dar-SeniorWorship' width='238' height='238' />Our ministers alternate lead
+ ing worship at three personal care homes in the community –  River Park Ga
+ rdens\, Vista Park Lodge and Golden Links Lodge\, to provide worship for t
+ hose no longer able to get to Sunday Services. A group of folks from the c
+ ongregation also participate in this ministry which ensures that there is 
+ a welcoming presence and good singing.  Newcomers welcome.</p>\n<p>View th
+ e schedule from this <strong><a href='http://ucim.org/worship-at-seniors-c
+ are-homes/'>link</a>.</strong></p>
+DTSTART;TZID=America/Winnipeg:20151118T141500
+DTEND;TZID=America/Winnipeg:20151118T150000
+RDATE;TZID=America/Winnipeg:20151118T141500
+RDATE;TZID=America/Winnipeg:20151216T141500
+RDATE;TZID=America/Winnipeg:20160217T141500
+RDATE;TZID=America/Winnipeg:20160316T141500
+RDATE;TZID=America/Winnipeg:20160518T141500
+RDATE;TZID=America/Winnipeg:20160615T141500
+SEQUENCE:0
+SUMMARY:Worship at Vista Park Lodge
+URL:http://ucim.org/event/vista-park-lodge-worship-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13740@ucim.org
+DTSTAMP:20150920T002114Z
+CATEGORIES;LANGUAGE=en-US:Worship
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-13398' src='http:
+ //ucim.org/wp-content/uploads/2015/07/communion-goblet-and-bread-300x215.j
+ pg' alt='communion goblet and bread' width='300' height='215' />View the w
+ eekly <span style='text-decoration: underline\;'><strong><a href='http://w
+ ww.ucim.org/wp-content/text/150802.ucim.bulletin.pdf' target='_blank'>bull
+ etin</a></strong></span> and <span style='text-decoration: underline\;'><s
+ trong><a href='http://www.ucim.org/wp-content/text/150802.ucim.announce.pd
+ f' target='_blank'>announcements</a></strong></span>.</p>\n<p><em>(availab
+ le late Friday afternoon.)</em></p>
+DTSTART;TZID=America/Winnipeg:20151206T103000
+DTEND;TZID=America/Winnipeg:20151206T113000
+RRULE:FREQ=MONTHLY;UNTIL=20160104T235959Z;BYDAY=1SU
+SEQUENCE:0
+SUMMARY:Worship ~ Communion
+URL:http://ucim.org/event/worship-communion/
+END:VEVENT
+END:VCALENDAR

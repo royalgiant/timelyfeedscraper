@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//208.117.45.29//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://brandonbritishclub.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-180@brandonbritishclub.com
+DTSTAMP:20150920T002326Z
+CATEGORIES;LANGUAGE=en-US:weekly
+CONTACT:Matthew Hall\; mhall@vaco.com
+DESCRIPTION:<p>Football Football Football!</p>\n<p> </p>\n<p><a href='http:
+ //brandonbritishclub.com/wp-content/uploads/2013/07/soccer.png'><img class
+ ='alignleft size-full wp-image-181' alt='soccer' src='http://brandonbritis
+ hclub.com/wp-content/uploads/2013/07/soccer.png' width='231' height='218' 
+ /></a></p>
+DTSTART;TZID=America/New_York:20150919T170000
+DTEND;TZID=America/New_York:20150919T184500
+LOCATION:Baysl  @ 3104 South Kings Avenue\, Brandon\, FL 33511\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Football – weekly
+URL:http://brandonbritishclub.com/event/football-weekly/
+X-TAGS;LANGUAGE=en-US:Football\,soccer\,weekly
+END:VEVENT
+END:VCALENDAR

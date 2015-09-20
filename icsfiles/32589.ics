@@ -1,0 +1,949 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//98.158.224.157//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.waldorfsarasota.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1389@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151017
+SEQUENCE:0
+SUMMARY:No School – Parent/Teacher Conferences
+URL:http://www.waldorfsarasota.com/event/no-school-parentteacher-conference
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1394@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151113
+DTEND;VALUE=DATE:20151114
+SEQUENCE:0
+SUMMARY:No School – Holiday Faire Preparation Day
+URL:http://www.waldorfsarasota.com/event/no-school-holiday-faire-preparatio
+ n-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1397@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151125
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:No School – Thanksgiving Recess
+URL:http://www.waldorfsarasota.com/event/no-school-thanksgiving-recess/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1403@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151129
+DTEND;VALUE=DATE:20151130
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Advent Spiral Garden
+URL:http://www.waldorfsarasota.com/event/winter-spiral/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1398@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151207
+DTEND;VALUE=DATE:20151208
+SEQUENCE:0
+SUMMARY:St. Nicholas Day (Celebrated in School)
+URL:http://www.waldorfsarasota.com/event/st-nicholas-day-celebrated-in-scho
+ ol/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1406@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151213
+SEQUENCE:0
+SUMMARY:Adult Enrichment – Needle Felting Workshop
+URL:http://www.waldorfsarasota.com/event/adult-enrichment-needle-felting-wo
+ rkshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1399@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151214
+DTEND;VALUE=DATE:20151215
+SEQUENCE:0
+SUMMARY:St. Lucia Day (Celebrated in School)
+URL:http://www.waldorfsarasota.com/event/st-lucia-day-celebrated-in-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1401@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151221
+DTEND;VALUE=DATE:20160101
+SEQUENCE:0
+SUMMARY:Winter Recess – No School
+URL:http://www.waldorfsarasota.com/event/winter-recess-no-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1402@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+SEQUENCE:0
+SUMMARY:New Year’s Day – No School
+URL:http://www.waldorfsarasota.com/event/new-years-day-no-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1404@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160104
+DTEND;VALUE=DATE:20160105
+SEQUENCE:0
+SUMMARY:Return to School
+URL:http://www.waldorfsarasota.com/event/return-to-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1409@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160119
+SEQUENCE:0
+SUMMARY:No School – Martin Luther King Day
+URL:http://www.waldorfsarasota.com/event/no-school-martin-luther-king-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1422@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160206
+DTEND;VALUE=DATE:20160207
+SEQUENCE:0
+SUMMARY:Adult Enrichment – Needle Felting Workshop
+URL:http://www.waldorfsarasota.com/event/adult-enrichment-needle-felting-wo
+ rkshop-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1449@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160212
+DTEND;VALUE=DATE:20160213
+SEQUENCE:0
+SUMMARY:No School – Parent/Teacher Conferences
+URL:http://www.waldorfsarasota.com/event/no-school-parentteacher-conference
+ s-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1423@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SEQUENCE:0
+SUMMARY:No School – Presidents’ Day
+URL:http://www.waldorfsarasota.com/event/no-school-presidents-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1421@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us at Spanish Point for their 3rd Annual Fairy House Fe
+ stival!</p>
+DTSTART;VALUE=DATE:20160305
+DTEND;VALUE=DATE:20160307
+GEO:+27.201232;-82.490593
+LOCATION:Historic Spanish Point @ 337 North Tamiami Trail\, Osprey\, FL 342
+ 29\, USA
+SEQUENCE:0
+SUMMARY:Fairy House Festival
+URL:http://www.waldorfsarasota.com/event/fairy-house-festival-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1429@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160311
+DTEND;VALUE=DATE:20160313
+LOCATION:Emerson Waldorf School @ Chapel Hill\, NC\, USA
+SEQUENCE:0
+SUMMARY:AWSNA SE Regional Conference
+URL:http://www.waldorfsarasota.com/event/awsna-se-regional-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1418@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160314
+DTEND;VALUE=DATE:20160319
+SEQUENCE:0
+SUMMARY:No School – Spring Break
+URL:http://www.waldorfsarasota.com/event/no-school-spring-break/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1415@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160326
+SEQUENCE:0
+SUMMARY:No School – Good Friday
+URL:http://www.waldorfsarasota.com/event/no-school-good-friday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1416@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160328
+DTEND;VALUE=DATE:20160329
+SEQUENCE:0
+SUMMARY:No School – Easter Monday
+URL:http://www.waldorfsarasota.com/event/no-school-easter-monday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1417@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160421
+DTEND;VALUE=DATE:20160423
+SEQUENCE:0
+SUMMARY:No School – Professional Development Days
+URL:http://www.waldorfsarasota.com/event/no-school-professional-development
+ -days/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1426@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160430
+DTEND;VALUE=DATE:20160501
+LOCATION:TBD
+SEQUENCE:0
+SUMMARY:Parent Social
+URL:http://www.waldorfsarasota.com/event/parent-social/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1459@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:Memorial Day – No School
+URL:http://www.waldorfsarasota.com/event/memorial-day-no-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1437@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160606
+DTEND;VALUE=DATE:20160611
+SEQUENCE:0
+SUMMARY:Faculty Work Week
+URL:http://www.waldorfsarasota.com/event/faculty-work-week-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1387@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150925T090000
+DTEND;TZID=America/New_York:20150925T103000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Michaelmas Festival
+URL:http://www.waldorfsarasota.com/event/michaelmas-festival-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1385@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us for bread baking\, puppetry\, and other Waldorf clas
+ sroom activities!  Open to all!</p>
+DTSTART;TZID=America/New_York:20150926T100000
+DTEND;TZID=America/New_York:20150926T120000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Open House
+URL:http://www.waldorfsarasota.com/event/open-house-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1388@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T130000
+DTEND;TZID=America/New_York:20151003T150000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Waldorf Weekend – Crafting Afternoon
+URL:http://www.waldorfsarasota.com/event/waldorf-weekend-crafting-afternoon
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1474@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151007T144500
+DTEND;TZID=America/New_York:20151007T154500
+SEQUENCE:0
+SUMMARY:Second Grade Parent Meeting
+URL:http://www.waldorfsarasota.com/event/second-grade-parent-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1375@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151020T180000
+DTEND;TZID=America/New_York:20151020T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://www.waldorfsarasota.com/event/board-meeting-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1390@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151021T091500
+DTEND;TZID=America/New_York:20151021T101500
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota Play Yard @ 6210 Crestwood Avenue\, Sarasota\, FL
+  34231\, USA
+SEQUENCE:0
+SUMMARY:Walk Through the Grades
+URL:http://www.waldorfsarasota.com/event/walk-through-the-grades/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1391@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151022T120000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Community Lunch Kickoff
+URL:http://www.waldorfsarasota.com/event/community-lunch-kickoff/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1392@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151023T190000
+DTEND;TZID=America/New_York:20151023T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:All School Meeting
+URL:http://www.waldorfsarasota.com/event/all-school-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1386@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us for bread baking\, puppetry\, and other Waldorf clas
+ sroom activities!  Open to all!</p>
+DTSTART;TZID=America/New_York:20151107T100000
+DTEND;TZID=America/New_York:20151107T120000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Open House
+URL:http://www.waldorfsarasota.com/event/open-house-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1528@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151110T144500
+DTEND;TZID=America/New_York:20151110T154500
+SEQUENCE:0
+SUMMARY:First Grade Parent Meeting
+URL:http://www.waldorfsarasota.com/event/first-grade-parent-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1393@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151111T170000
+DTEND;TZID=America/New_York:20151111T190000
+LOCATION:Beach - TBD
+SEQUENCE:0
+SUMMARY:Martinmas Festival
+URL:http://www.waldorfsarasota.com/event/martinmas-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1395@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151114T140000
+DTEND;TZID=America/New_York:20151114T200000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Holiday Faire
+URL:http://www.waldorfsarasota.com/event/holiday-faire/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1376@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151117T180000
+DTEND;TZID=America/New_York:20151117T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://www.waldorfsarasota.com/event/board-meeting-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1396@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151124T113000
+DTEND;TZID=America/New_York:20151124T130000
+SEQUENCE:0
+SUMMARY:Fall Assembly and Potluck / Early Dismissal
+URL:http://www.waldorfsarasota.com/event/fall-assembly-and-potluck-early-di
+ smissal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1405@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151125T080000
+DTEND;TZID=America/New_York:20151125T150000
+GEO:+27.270625;-82.531766
+LOCATION:Phillippi Estate Park @ 5500 South Tamiami Trail\, Sarasota\, FL 3
+ 4231\, USA
+SEQUENCE:0
+SUMMARY:Phillippi Market Fundraiser
+URL:http://www.waldorfsarasota.com/event/phillippi-market-fundraiser/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1475@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151202T144500
+DTEND;TZID=America/New_York:20151202T154500
+SEQUENCE:0
+SUMMARY:Second Grade Parent Meeting
+URL:http://www.waldorfsarasota.com/event/second-grade-parent-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1377@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151215T180000
+DTEND;TZID=America/New_York:20151215T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://www.waldorfsarasota.com/event/board-meeting-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1407@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151218T120000
+DTEND;TZID=America/New_York:20151218T130000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Shepherd’s Play / Early Dismissal
+URL:http://www.waldorfsarasota.com/event/shepherds-play-early-dismissal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1400@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151219T100000
+DTEND;TZID=America/New_York:20151219T120000
+GEO:+27.296652;-82.532536
+LOCATION:Barnes & Noble @ 4010 South Tamiami Trail\, Sarasota\, FL 34231\, 
+ USA
+SEQUENCE:0
+SUMMARY:Barnes and Noble Book Fair
+URL:http://www.waldorfsarasota.com/event/barnes-and-noble-book-fair-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1430@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160102T130000
+DTEND;TZID=America/New_York:20160102T150000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Waldorf Weekend – Crafting Afternoon
+URL:http://www.waldorfsarasota.com/event/waldorf-weekend-crafting-afternoon
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1408@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160108T190000
+DTEND;TZID=America/New_York:20160108T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:All School Meeting
+URL:http://www.waldorfsarasota.com/event/all-school-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1378@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160118T180000
+DTEND;TZID=America/New_York:20160118T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://www.waldorfsarasota.com/event/board-meeting-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1410@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160126T083000
+DTEND;TZID=America/New_York:20160126T093000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Re-Enrollment Parents’ Reception
+URL:http://www.waldorfsarasota.com/event/re-enrollment-parents-reception/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1411@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us for bread baking\, puppetry\, and other Waldorf clas
+ sroom activities!  Open to all!</p>
+DTSTART;TZID=America/New_York:20160130T100000
+DTEND;TZID=America/New_York:20160130T120000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Open House
+URL:http://www.waldorfsarasota.com/event/open-house-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1424@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160205T113000
+DTEND;TZID=America/New_York:20160205T130000
+SEQUENCE:0
+SUMMARY:Candlemas / Assembly and Potluck / Early Dismissal
+URL:http://www.waldorfsarasota.com/event/candlemas-assembly-and-potluck-ear
+ ly-dismissal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1379@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160216T180000
+DTEND;TZID=America/New_York:20160216T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://www.waldorfsarasota.com/event/board-meeting-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1529@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Location TBD</p>
+DTSTART;TZID=America/New_York:20160220T180000
+DTEND;TZID=America/New_York:20160220T203000
+SEQUENCE:0
+SUMMARY:First Grade Parent Meeting and Social
+URL:http://www.waldorfsarasota.com/event/first-grade-parent-meeting-and-soc
+ ial/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1412@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us for bread baking\, puppetry\, and other Waldorf clas
+ sroom activities!  Open to all!</p>
+DTSTART;TZID=America/New_York:20160227T100000
+DTEND;TZID=America/New_York:20160227T120000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Open House
+URL:http://www.waldorfsarasota.com/event/open-house-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1476@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160304T144500
+DTEND;TZID=America/New_York:20160304T154500
+SEQUENCE:0
+SUMMARY:Second Grade Parent Meeting
+URL:http://www.waldorfsarasota.com/event/second-grade-parent-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1425@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160311T130000
+SEQUENCE:0
+SUMMARY:Early Dismissal – 1pm
+URL:http://www.waldorfsarasota.com/event/early-dismissal-1pm/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1420@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160316T080000
+DTEND;TZID=America/New_York:20160316T150000
+GEO:+27.270625;-82.531766
+LOCATION:Phillippi Estate Park @ 5500 South Tamiami Trail\, Sarasota\, FL 3
+ 4231\, USA
+SEQUENCE:0
+SUMMARY:Phillippi Market Fundraiser
+URL:http://www.waldorfsarasota.com/event/phillippi-market-fundraiser-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1380@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160322T180000
+DTEND;TZID=America/New_York:20160322T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://www.waldorfsarasota.com/event/board-meeting-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1419@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160330T091500
+DTEND;TZID=America/New_York:20160330T101500
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota Play Yard @ 6210 Crestwood Avenue\, Sarasota\, FL
+  34231\, USA
+SEQUENCE:0
+SUMMARY:Walk Through the Grades
+URL:http://www.waldorfsarasota.com/event/walk-through-the-grades-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1435@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160402T100000
+DTEND;TZID=America/New_York:20160402T120000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Silk Dyeing Workshop
+URL:http://www.waldorfsarasota.com/event/silk-dyeing-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1413@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us for bread baking\, puppetry\, and other Waldorf clas
+ sroom activities!  Open to all!</p>
+DTSTART;TZID=America/New_York:20160416T100000
+DTEND;TZID=America/New_York:20160416T120000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Open House
+URL:http://www.waldorfsarasota.com/event/open-house-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1530@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160418T144500
+DTEND;TZID=America/New_York:20160418T154500
+SEQUENCE:0
+SUMMARY:First Grade Parent Meeting
+URL:http://www.waldorfsarasota.com/event/first-grade-parent-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1381@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160419T180000
+DTEND;TZID=America/New_York:20160419T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://www.waldorfsarasota.com/event/board-meeting-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1414@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us for bread baking\, puppetry\, and other Waldorf clas
+ sroom activities!  Open to all!</p>
+DTSTART;TZID=America/New_York:20160514T100000
+DTEND;TZID=America/New_York:20160514T120000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Open House
+URL:http://www.waldorfsarasota.com/event/open-house-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1382@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160517T180000
+DTEND;TZID=America/New_York:20160517T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://www.waldorfsarasota.com/event/board-meeting-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1427@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160520T183000
+DTEND;TZID=America/New_York:20160520T200000
+LOCATION:Beach - TBD
+SEQUENCE:0
+SUMMARY:Festival of May
+URL:http://www.waldorfsarasota.com/event/festival-of-may/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1428@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160527T110000
+DTEND;TZID=America/New_York:20160527T123000
+SEQUENCE:0
+SUMMARY:End of Year Assembly and Potluck / Early Dismissal
+URL:http://www.waldorfsarasota.com/event/end-of-year-assembly-and-potluck-e
+ arly-dismissal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1460@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160531T083000
+DTEND;TZID=America/New_York:20160531T130000
+SEQUENCE:0
+SUMMARY:Campus Beautification Day
+URL:http://www.waldorfsarasota.com/event/campus-beautification-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1461@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160601T083000
+DTEND;TZID=America/New_York:20160601T130000
+SEQUENCE:0
+SUMMARY:Field Trip Day
+URL:http://www.waldorfsarasota.com/event/field-trip-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1383@www.waldorfsarasota.com
+DTSTAMP:20150920T003803Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160621T180000
+DTEND;TZID=America/New_York:20160621T210000
+GEO:+27.262477;-82.527814
+LOCATION:Waldorf Sarasota @ 6210 Crestwood Avenue\, Sarasota\, FL 34231\, U
+ SA
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://www.waldorfsarasota.com/event/board-meeting-14/
+END:VEVENT
+END:VCALENDAR

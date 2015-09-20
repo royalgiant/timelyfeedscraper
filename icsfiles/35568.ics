@@ -1,0 +1,443 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//72.34.52.130//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://pinkpta.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-903@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:Jennifer Andrew\; andrewj@friscoisd.org
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:College Week
+URL:http://pinkpta.org/event/college-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-901@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>School Portrait Day is Coming!!</p>\n<p><strong>SchoolPix In
+ c. will be taking individual school pictures at Pink Elementary on Thursda
+ y\, September 24\, 2015.</strong></p>\n<p><strong>Two ways to order portra
+ its….</strong></p>\n<p><strong>1. Print and fill out the order form sent t
+ o you via an email sent from Pink Elementary and return with payment to th
+ e photographer on picture day.</strong></p>\n<p><strong>2. To order online
+  by credit card\, please go to www.schoolpixinc.com and select the “Online
+  Ordering” tab and select “School Portraits” from the pull-down menu. When
+  prompted enter Pink’s School Code 1516-0027. A confirmation email will be
+  sent confirming your order has been received. No further action is requir
+ ed.</strong></p>\n<p>If you have any questions or need assistance\, please
+  call SchoolPix Inc. customer service at 972-334-9140 or email us at info@
+ schoolpixinc.com.</p>\n<p>Please note: All orders are to be submitted to t
+ he photographer on picture day. All school portraits are 100% satisfaction
+  guaranteed.</p>\n<p>SchoolPix\, Inc./ Lamm’s Portraits</p>\n<p>www.school
+ pixinc.com</p>\n<p>Customer Service 972.334.9140</p>\n<p>info@schoolpixinc
+ .com</p>
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Fall Picture Day
+URL:http://pinkpta.org/event/fall-picture-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-906@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES;LANGUAGE=en-US:For Students\,PTA Programs
+CONTACT:Jennifer Fantl\; jenniferfantl@att.net
+DESCRIPTION:<h3><a href='http://pinkpta.org/files/2015/09/Header.jpg'><img 
+ class='alignnone size-full wp-image-907' src='http://pinkpta.org/files/201
+ 5/09/Header.jpg' alt='Header' width='228' height='221' /></a></h3>\n<h3>PT
+ A Sponsored Program</h3>
+DTSTART;VALUE=DATE:20151006
+DTEND;VALUE=DATE:20151007
+SEQUENCE:0
+SUMMARY:1st Grade High Touch High Tech
+URL:http://pinkpta.org/event/1st-grade-high-touch-high-tech/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-868@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES;LANGUAGE=en-US:Hospitality\,Volunteer
+CONTACT:Karina Short\; ks1227@aol.com
+DESCRIPTION:<p><strong>Chips/Dips/Queso Bar for Pink Elementary Staff </str
+ ong>(Volunteers-we will need help with items for this event so please look
+  for a sign up coming soon.)</p>\n<p><strong>To volunteer for the Hospital
+ ity Committee\, click on this <a href='http://www.signupgenius.com/go/20f0
+ 445adab2ba6fc1-hospitality'>link</a></strong>.</p>\n<p><strong>Thank you f
+ or all you do for Pink!</strong></p>
+DTSTART;VALUE=DATE:20151006
+DTEND;VALUE=DATE:20151007
+SEQUENCE:0
+SUMMARY:PTA Hospitality Event
+URL:http://pinkpta.org/event/pta-hosts-staff/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-909@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>More details to come…</p>
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151008
+SEQUENCE:0
+SUMMARY:Walking Wednesday
+URL:http://pinkpta.org/event/walking-wednesday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-644@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:Michelle Schmidt\; jms1836@yahoo.com
+DESCRIPTION:<div class='page' title='Page 1'>\n<div class='section'>\n<div 
+ class='layoutArea'>\n<div class='column'>\n<p>We are so excited about our 
+ Color Run on October 23rd. Look for information coming home about this eve
+ nt. It is entirely organized by members of the PTA\, sponsored by local bu
+ sinesses\, and will be implemented by volunteers and our teachers. This fu
+ ndraiser is the key to raising the funds necessary to support the many edu
+ cational programs and fun events sponsored by the PTA. Students and school
+ s cannot reach their full potential for success without the involvement of
+  great parents. Please be sure to get involved and encourage your kids to 
+ get ready for some crazy fun!</p>\n</div>\n<p><a href='http://pinkpta.org/
+ files/2015/07/DSC04539.jpeg'><img class='alignnone size-medium wp-image-64
+ 7' src='http://pinkpta.org/files/2015/07/DSC04539-300x200.jpeg' alt='DSC04
+ 539' width='300' height='200' /></a></p>\n</div>\n</div>\n</div>
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Color Run
+URL:http://pinkpta.org/event/color-run/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-890@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES;LANGUAGE=en-US:Cultural Arts\,For Students\,PTA Programs
+CONTACT:Mimi Park\; mimiroh@hotmail.com\; http://www.txpta.org/programs/ref
+ lections/participate/
+DESCRIPTION:<p> </p>\n<p><a href='http://pinkpta.org/files/2015/09/header-9
+ .jpg'><img class='alignnone size-full wp-image-891' src='http://pinkpta.or
+ g/files/2015/09/header-9.jpg' alt='header 9' width='216' height='169' /></
+ a></p>
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Reflections 2015-16 Entry Deadline
+URL:http://pinkpta.org/event/reflections-2015-16-entry-deadline/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-703@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:Melanie Young\; melmyoung@gmail.com
+DESCRIPTION:<p><a href='http://pinkpta.org/files/2015/08/pta-scotty-ps.gif'
+ ><img class='alignnone size-full wp-image-704' src='http://pinkpta.org/fil
+ es/2015/08/pta-scotty-ps.gif' alt='pta scotty p's' width='231' height='182
+ ' /></a></p>
+DTSTART;VALUE=DATE:20151028
+DTEND;VALUE=DATE:20151029
+LOCATION:Scotty P's Hamburgers @ 5110 Eldorado Pkwy\, Frisco\, TX
+SEQUENCE:0
+SUMMARY:Spirit Night
+URL:http://pinkpta.org/event/spirit-night-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-917@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES;LANGUAGE=en-US:Parent Programs
+CONTACT:Jennifer Fantl\, VP PTA Programs\; jenniferfantl@att.net
+DESCRIPTION:<p>Katie Greer: Kids and Social Media</p>
+DTSTART;VALUE=DATE:20151117
+DTEND;VALUE=DATE:20151118
+SEQUENCE:0
+SUMMARY:Parent Education Program
+URL:http://pinkpta.org/event/parent-education-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-705@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:Melanie Young\; melmyoung@gmail.com
+DESCRIPTION:<p><a href='http://pinkpta.org/files/2015/08/pta-palios.jpg'><i
+ mg class='alignnone size-full wp-image-706' src='http://pinkpta.org/files/
+ 2015/08/pta-palios.jpg' alt='pta palio's' width='203' height='136' /></a><
+ /p>
+DTSTART;VALUE=DATE:20160322
+DTEND;VALUE=DATE:20160323
+LOCATION:Palio's Pizza
+SEQUENCE:0
+SUMMARY:Spirit Night
+URL:http://pinkpta.org/event/spirit-night-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-653@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160329
+DTEND;VALUE=DATE:20160330
+RRULE:FREQ=DAILY;UNTIL=20160330T235959Z
+SEQUENCE:0
+SUMMARY:STAAR
+URL:http://pinkpta.org/event/staar/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-652@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160415
+DTEND;VALUE=DATE:20160416
+SEQUENCE:0
+SUMMARY:Spring Carnival
+URL:http://pinkpta.org/event/spring-carnival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-707@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:Melanie Young\; melmyoung@gmail.com
+DESCRIPTION:<p><a href='http://pinkpta.org/files/2015/08/pta-sweet-frog.jpg
+ '><img class='alignnone size-medium wp-image-708' src='http://pinkpta.org/
+ files/2015/08/pta-sweet-frog-300x218.jpg' alt='pta sweet frog' width='300'
+  height='218' /></a></p>
+DTSTART;VALUE=DATE:20160420
+DTEND;VALUE=DATE:20160421
+LOCATION:Sweet Frog @ 5105 Eldorado Pkwy #110\, Frisco\, TX
+SEQUENCE:0
+SUMMARY:Spirit Night
+URL:http://pinkpta.org/event/spirit-night-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-655@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160507
+SEQUENCE:0
+SUMMARY:Teacher Appreciation Week
+URL:http://pinkpta.org/event/teacher-appreciation-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-654@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160509
+DTEND;VALUE=DATE:20160510
+RRULE:FREQ=DAILY;UNTIL=20160511T235959Z
+SEQUENCE:0
+SUMMARY:STAAR
+URL:http://pinkpta.org/event/staar-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-693@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>End of Year Celebration\, time tbd</p>
+DTSTART;VALUE=DATE:20160602
+DTEND;VALUE=DATE:20160603
+SEQUENCE:0
+SUMMARY:5th Grade Class Party
+URL:http://pinkpta.org/event/5th-grade-class-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-692@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Kinder -4th grade classes\, times tbd</p>
+DTSTART;VALUE=DATE:20160603
+DTEND;VALUE=DATE:20160604
+SEQUENCE:0
+SUMMARY:End of Year Class Party
+URL:http://pinkpta.org/event/end-of-year-class-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-640@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150924T180000
+SEQUENCE:0
+SUMMARY:PTA Meeting/Family Movie Night
+URL:http://pinkpta.org/event/pta-meeting-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-911@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151008T183000
+DTEND;TZID=America/Chicago:20151008T190000
+SEQUENCE:0
+SUMMARY:W.A.T.C.H. Dog Kickoff
+URL:http://pinkpta.org/event/w-a-t-c-h-dog-kickoff/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-694@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES;LANGUAGE=en-US:Fundraiser
+CONTACT:Melanie Young\; melmyoung@gmail.com
+DESCRIPTION:<p>Be sure to collect your box tops in a baggie labeled with bo
+ th your child’s and your teacher’s name.  Deliver them to your teacher so 
+ they can be counted! Email <a href='mailto:melmyoung@gmail.com'>Melanie Yo
+ ung</a> with any questions.</p>\n<p><a href='http://pinkpta.org/files/2015
+ /07/images-6.jpeg'><img class='  wp-image-623 alignleft' src='http://pinkp
+ ta.org/files/2015/07/images-6.jpeg' alt='images-6' width='267' height='267
+ ' /></a></p>
+DTSTART;TZID=America/Chicago:20151012T074500
+DTEND;TZID=America/Chicago:20151012T143000
+RRULE:FREQ=DAILY;COUNT=5
+SEQUENCE:0
+SUMMARY:Box Top Collection Week
+URL:http://pinkpta.org/event/box-top-collection-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-639@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151203T180000
+DTEND;TZID=America/Chicago:20151203T190000
+SEQUENCE:0
+SUMMARY:PTA Meeting
+URL:http://pinkpta.org/event/pta-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-690@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151218T140000
+DTEND;TZID=America/Chicago:20151218T144500
+SEQUENCE:0
+SUMMARY:Winter Class Party
+URL:http://pinkpta.org/event/winter-class-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-697@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES;LANGUAGE=en-US:Fundraiser
+CONTACT:Melanie Young\; melmyoung@gmail.com
+DESCRIPTION:<p>Be sure to collect your box tops in a baggie labeled with bo
+ th your child’s and your teacher’s name.  Deliver them to your teacher so 
+ they can be counted! Email <a href='mailto:melmyoung@gmail.com'>Melanie Yo
+ ung</a> with any questions.</p>\n<p><a href='http://pinkpta.org/files/2015
+ /07/images-6.jpeg'><img class='  wp-image-623 alignleft' src='http://pinkp
+ ta.org/files/2015/07/images-6.jpeg' alt='images-6' width='267' height='267
+ ' /></a></p>
+DTSTART;TZID=America/Chicago:20160208T074500
+DTEND;TZID=America/Chicago:20160208T143000
+RRULE:FREQ=DAILY;COUNT=5
+SEQUENCE:0
+SUMMARY:Box Top Collection Week
+URL:http://pinkpta.org/event/box-top-collection-week-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-651@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160208T080000
+DTEND;TZID=America/Chicago:20160208T150000
+LOCATION:Pink Elementary Library
+RRULE:FREQ=DAILY;UNTIL=20160212T235959Z
+SEQUENCE:0
+SUMMARY:Book Fair
+URL:http://pinkpta.org/event/book-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-641@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160209T180000
+DTEND;TZID=America/Chicago:20160209T190000
+SEQUENCE:0
+SUMMARY:PTA Meeting
+URL:http://pinkpta.org/event/pta-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-709@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES;LANGUAGE=en-US:Book Fair
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160211T070000
+DTEND;TZID=America/Chicago:20160211T080000
+SEQUENCE:0
+SUMMARY:Donuts with Dads
+URL:http://pinkpta.org/event/donuts-with-dads/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-691@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160212T140000
+DTEND;TZID=America/Chicago:20160212T144500
+SEQUENCE:0
+SUMMARY:Valentine’s Day Class Party
+URL:http://pinkpta.org/event/valentines-day-class-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-642@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160426T180000
+DTEND;TZID=America/Chicago:20160426T190000
+SEQUENCE:0
+SUMMARY:PTA Meeting
+URL:http://pinkpta.org/event/pta-meeting-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-643@pinkpta.digitalpto.com
+DTSTAMP:20150920T002334Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20160426T183000
+DTEND;TZID=America/Chicago:20160426T193000
+SEQUENCE:0
+SUMMARY:Open House
+URL:http://pinkpta.org/event/open-house/
+END:VEVENT
+END:VCALENDAR

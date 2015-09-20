@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//197.221.19.227//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.vaalmarinarpa.co.za
+X-WR-TIMEZONE:Africa/Johannesburg
+BEGIN:VTIMEZONE
+TZID:Africa/Johannesburg
+X-LIC-LOCATION:Africa/Johannesburg
+BEGIN:STANDARD
+DTSTART:19440319T020000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:SAST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-687@www.vaalmarinarpa.co.za
+DTSTAMP:20150920T003947Z
+CATEGORIES:
+CONTACT:Louise Linde\; 082 8953427
+DESCRIPTION:<p>The art and craft market is always well attended with a vari
+ ety of stalls offering various items. Should you wish to have a stall here
+  please contact Louise directly. Scrumptious breakfasts and light lunches 
+ and a delightfull Curio shop is available on the day.</p>
+DTSTART;TZID=Africa/Johannesburg:20150919T080000
+DTEND;TZID=Africa/Johannesburg:20150919T140000
+GEO:-26.880695;+28.225873
+LOCATION:821 Anchovy Road @ Anchovy Road\, Vaal Marina\, 1945\, South Afric
+ a
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:The Station\, Art\, Craft & food market
+URL:http://www.vaalmarinarpa.co.za/event/the-station-art-craft-food-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-693@www.vaalmarinarpa.co.za
+DTSTAMP:20150920T003947Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>We have been asked to hold an open meeting for any one to at
+ tend to voice their opinion or ask for info that they may not have about w
+ hat has been hapening in the area. All are welcome</p>
+DTSTART;TZID=Africa/Johannesburg:20150919T100000
+DTEND;TZID=Africa/Johannesburg:20150919T113000
+GEO:-26.871213;+28.232613
+LOCATION:Community Hall @ Vaal Marina\, Vaal Marina\, South Africa
+SEQUENCE:0
+SUMMARY:Open Rate Payers meeting
+URL:http://www.vaalmarinarpa.co.za/event/open-rate-payers-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-648@www.vaalmarinarpa.co.za
+DTSTAMP:20150920T003947Z
+CATEGORIES;LANGUAGE=en-US:CPF
+CONTACT:Wally Sime\; 071 959 3022 \;  zs6wal@absamail.co.za
+DESCRIPTION:<p><b>The meetings will be held in the Council Chamber of the C
+ ommunity Center at 17h00  for 17h15 the meeting is always on the last Thur
+ sday of every month until further notice.<br />\n</b></p>\n<div></div>\n<d
+ iv>30 July</div>\n<div>27 August</div>\n<div>24 September</div>\n<div>29 O
+ ctober</div>\n<div>26 November</div>\n<div>31 December</div>
+DTSTART;TZID=Africa/Johannesburg:20150924T170000
+DTEND;TZID=Africa/Johannesburg:20150924T180000
+LOCATION:Community Center  @  Council Chamber Vaal Marina
+RDATE;TZID=Africa/Johannesburg:20150730T170000
+RDATE;TZID=Africa/Johannesburg:20150827T170000
+RDATE;TZID=Africa/Johannesburg:20150924T170000
+RDATE;TZID=Africa/Johannesburg:20151029T170000
+RDATE;TZID=Africa/Johannesburg:20151126T170000
+RDATE;TZID=Africa/Johannesburg:20151231T170000
+SEQUENCE:0
+SUMMARY:Vaal Marina CPF
+URL:http://www.vaalmarinarpa.co.za/event/vaal-marina-cpf-agm/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-706@www.vaalmarinarpa.co.za
+DTSTAMP:20150920T003947Z
+CATEGORIES:
+CONTACT:Bary Hewstone\; 083 777 3777\; baza@hewstone.com
+DESCRIPTION:<p>The Bluegum Spring Picnic at the Vaal dam brings the opening
+  of the summer fun days. Last year we had around 150 boats in the parade a
+ nd drive by. This year it is expected to have over 200 boats. Come join us
+  for a fun day on the beach.</p>\n<p>Follow the Viking boat with the Jäger
+ meister Flag to the secret beach venue.</p>\n<p><a href='http://www.vaalma
+ rinarpa.co.za/wp-content/uploads/2015/09/bluegum-spring-fest.jpg' data-rel
+ ='lightbox'><img class='aligncenter size-full wp-image-707' src='http://ww
+ w.vaalmarinarpa.co.za/wp-content/uploads/2015/09/bluegum-spring-fest.jpg' 
+ alt='Vaal Marina Bluegum spring day' width='682' height='960' /></a></p>
+DTSTART;TZID=Africa/Johannesburg:20150926T100000
+DTEND;TZID=Africa/Johannesburg:20150926T170000
+GEO:-26.885027;+28.193027
+LOCATION:Sunset Cove
+SEQUENCE:0
+SUMMARY:Bluegum Spring Picnic 2015
+URL:http://www.vaalmarinarpa.co.za/event/bluegum-spring-picnic-215/
+X-TAGS;LANGUAGE=en-US:Spring day
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-708@www.vaalmarinarpa.co.za
+DTSTAMP:20150920T003947Z
+CATEGORIES;LANGUAGE=en-US:Tourism
+CONTACT:Gareth Williams-Wynn\; +2711 7061500\; gareth@the-architect.co.za\;
+  http://www.vaaldam.org
+DESCRIPTION:<p>A meeting will be held for all business owners\, organisatio
+ ns\, church groups and hospitality based industries in the Greater Vaal Ma
+ rina area to present the way forward for tourism.</p>
+DTSTART;TZID=Africa/Johannesburg:20151009T173000
+DTEND;TZID=Africa/Johannesburg:20151009T191500
+GEO:-26.876262;+28.23766
+LOCATION:Vaalnest Hotel
+SEQUENCE:0
+SUMMARY:Vaal Marina Business & Tourism meeting
+URL:http://www.vaalmarinarpa.co.za/event/vaal-marina-business-tourism-meeti
+ ng/
+END:VEVENT
+END:VCALENDAR

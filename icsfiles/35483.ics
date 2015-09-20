@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.33.204.44//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.junglecatz.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-240@www.junglecatz.co.uk
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Private Parties
+CONTACT:
+DESCRIPTION:<div class='pf-content'><p>Please see Parties Page for more det
+ ails and availability.</p>\n<p><img class='alignnone size-full wp-image-38
+ 0' src='http://www.junglecatz.co.uk/wp-content/uploads/2014/05/party_ballo
+ ons1.png' alt='book jungle catz party' width='300' height='273' /></p>\n<d
+ iv class='printfriendly pf-alignleft'><a href='#' rel='nofollow' onclick='
+ window.print()\; return false\;' class='noslimstat'><img style='border:non
+ e\;-webkit-box-shadow:none\; box-shadow:none\;' src='http://cdn.printfrien
+ dly.com/pf-button.gif' alt='Print Friendly' /></a></div></div>
+DTSTART;TZID=Europe/London:20150919T173000
+DTEND;TZID=Europe/London:20150919T193000
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=undefined
+SEQUENCE:0
+SUMMARY:Book a Party
+URL:http://www.junglecatz.co.uk/event/private-parties/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-242@www.junglecatz.co.uk
+DTSTAMP:20150920T002404Z
+CATEGORIES;LANGUAGE=en-US:Private Parties
+CONTACT:
+DESCRIPTION:<div class='pf-content'><p>Please see Parties Page for more det
+ ails and availability.</p>\n<p><img class='alignnone size-full wp-image-38
+ 0' src='http://www.junglecatz.co.uk/wp-content/uploads/2014/05/party_ballo
+ ons1.png' alt='book jungle catz party' width='300' height='273' /></p>\n<p
+ > </p>\n<div class='printfriendly pf-alignleft'><a href='#' rel='nofollow'
+  onclick='window.print()\; return false\;' class='noslimstat'><img style='
+ border:none\;-webkit-box-shadow:none\; box-shadow:none\;' src='http://cdn.
+ printfriendly.com/pf-button.gif' alt='Print Friendly' /></a></div></div>
+DTSTART;TZID=Europe/London:20150920T163000
+DTEND;TZID=Europe/London:20150920T183000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=undefined
+SEQUENCE:0
+SUMMARY:Book a Party
+URL:http://www.junglecatz.co.uk/event/242/
+END:VEVENT
+END:VCALENDAR

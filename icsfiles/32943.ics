@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//165.91.170.57//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://musa.tamu.edu
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6p177nvt1jst4egh45qk2gqbso@google.com
+DTSTAMP:20150920T003619Z
+CATEGORIES;LANGUAGE=en-US:University Bands
+CONTACT:
+DESCRIPTION:<p>The Texas A&M University Wind Symphony and Symphonic Winds w
+ ill present their first concert of the 2015-2016 season. General admission
+  is $5.00 per person\, Texas A&M students are admitted free. Tickets can b
+ e purchased in advance or on the day of the concert at the MSC Box Office 
+ (http://boxoffice.tamu.edu). We hope you will come out and enjoy fine musi
+ c by these talented musicians.</p>
+DTSTART;TZID=America/Chicago:20151004T150000
+DTEND;TZID=America/Chicago:20151004T170000
+LOCATION:Rudder Complex\, 401 Joe Routt Blvd\, College Station\, TX 77843\,
+  USA
+SEQUENCE:0
+SUMMARY:University Wind Symphony and Symphonic Winds Concert
+URL:http://musa.tamu.edu/event/university-wind-symphony-and-symphonic-winds
+ -concert-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:n1jbe1irroknefoo6qr4u266s4@google.com
+DTSTAMP:20150920T003619Z
+CATEGORIES;LANGUAGE=en-US:University Bands
+CONTACT:
+DESCRIPTION:<p>The Texas A&M University Symphonic Band and Concert Band wil
+ l present their first concert of the 2015-2016 season. General admission i
+ s $5.00 per person\, Texas A&M students are admitted free. Tickets can be 
+ purchased in advance or on the day of the concert at the MSC Box Office (h
+ ttp://boxoffice.tamu.edu). We hope you will come out and enjoy fine music 
+ by these talented musicians.</p>
+DTSTART;TZID=America/Chicago:20151004T183000
+DTEND;TZID=America/Chicago:20151004T200000
+LOCATION:Rudder Complex\, 401 Joe Routt Blvd\, College Station\, TX 77843\,
+  USA
+SEQUENCE:0
+SUMMARY:University Symphonic Band and Concert Band Concert
+URL:http://musa.tamu.edu/event/university-symphonic-band-and-concert-band-c
+ oncert/
+END:VEVENT
+BEGIN:VEVENT
+UID:qlssl1t83t05melnp0latls618@google.com
+DTSTAMP:20150920T003619Z
+CATEGORIES;LANGUAGE=en-US:University Orchestras
+CONTACT:
+DESCRIPTION:<p>The Texas A&M University Chamber and Philharmonic Orchestras
+  will present their first concert of the 2015-2016 season. General admissi
+ on is $5.00 per person\, Texas A&M students are admitted free. Tickets can
+  be purchased in advance or on the day of the concert at the MSC Box Offic
+ e (http://boxoffice.tamu.edu). We hope you will come out and enjoy fine mu
+ sic by these talented musicians.</p>
+DTSTART;TZID=America/Chicago:20151018T150000
+DTEND;TZID=America/Chicago:20151018T163000
+LOCATION:Rudder Complex\, 401 Joe Routt Blvd\, College Station\, TX 77843\,
+  USA
+SEQUENCE:0
+SUMMARY:University Orchestras Fall Concert
+URL:http://musa.tamu.edu/event/university-orchestras-fall-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:9gldomsa0c91ahubdti9indto0@google.com
+DTSTAMP:20150920T003619Z
+CATEGORIES;LANGUAGE=en-US:University Bands
+CONTACT:
+DESCRIPTION:<p>The Texas A&M University Jazz Ensembles will present their f
+ irst concert of the 2015-2016 season. General admission is $5.00 per perso
+ n\, Texas A&M students are admitted free. Tickets can be purchased in adva
+ nce or on the day of the concert at the MSC Box Office (http://boxoffice.t
+ amu.edu). We hope you will come out and enjoy fine music by these talented
+  musicians.</p>
+DTSTART;TZID=America/Chicago:20151018T183000
+DTEND;TZID=America/Chicago:20151018T193000
+LOCATION:Rudder Complex\, 401 Joe Routt Blvd\, College Station\, TX 77843\,
+  USA
+SEQUENCE:0
+SUMMARY:Texas A&M University Jazz Ensembles Concert
+URL:http://musa.tamu.edu/event/texas-am-university-jazz-ensembles-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:3sj18gopkmn9r64j9bov37urhg@google.com
+DTSTAMP:20150920T003619Z
+CATEGORIES;LANGUAGE=en-US:University Bands
+CONTACT:
+DESCRIPTION:<p>The Texas A&M University Chamber and Philharmonic Orchestras
+  will present their second concert of the 2015-2016 season. General admiss
+ ion is $5.00 per person\, Texas A&M students are admitted free. Tickets ca
+ n be purchased in advance or on the day of the concert at the MSC Box Offi
+ ce (http://boxoffice.tamu.edu). We hope you will come out and enjoy fine m
+ usic by these talented musicians.</p>
+DTSTART;TZID=America/Chicago:20151122T150000
+DTEND;TZID=America/Chicago:20151122T170000
+LOCATION:Rudder Complex\, 401 Joe Routt Blvd\, College Station\, TX 77843\,
+  USA
+SEQUENCE:0
+SUMMARY:University Wind Symphony and Symphonic Winds Concert
+URL:http://musa.tamu.edu/event/university-wind-symphony-and-symphonic-winds
+ -concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:sbgvnn52l4tg4dbgisdp07n9oc@google.com
+DTSTAMP:20150920T003619Z
+CATEGORIES;LANGUAGE=en-US:University Bands
+CONTACT:
+DESCRIPTION:<p>The Texas A&M University Symphonic and Concert Bands will pr
+ esent their second concert of the 2015-2016 season. General admission is $
+ 5.00 per person\, Texas A&M students are admitted free. Tickets can be pur
+ chased in advance or on the day of the concert at the MSC Box Office (http
+ ://boxoffice.tamu.edu). We hope you will come out and enjoy fine music by 
+ these talented musicians.</p>
+DTSTART;TZID=America/Chicago:20151122T183000
+DTEND;TZID=America/Chicago:20151122T200000
+LOCATION:Rudder Complex\, 401 Joe Routt Blvd\, College Station\, TX 77843\,
+  USA
+SEQUENCE:0
+SUMMARY:University Symphonic Band and Concert Band
+URL:http://musa.tamu.edu/event/university-symphonic-band-and-concert-band/
+END:VEVENT
+BEGIN:VEVENT
+UID:5eg04o3fq35i54j2lhbmkgft4c@google.com
+DTSTAMP:20150920T003619Z
+CATEGORIES;LANGUAGE=en-US:University Bands
+CONTACT:
+DESCRIPTION:<p>The Texas A&M University Jazz Ensembles will present their s
+ econd concert of the 2015-2016 season. General admission is $5.00 per pers
+ on\, Texas A&M students are admitted free. Tickets can be purchased in adv
+ ance or on the day of the concert at the MSC Box Office (http://boxoffice.
+ tamu.edu). We hope you will come out and enjoy fine music by these talente
+ d musicians.</p>
+DTSTART;TZID=America/Chicago:20151206T140000
+DTEND;TZID=America/Chicago:20151206T150000
+LOCATION:Rudder Complex\, 401 Joe Routt Blvd\, College Station\, TX 77843\,
+  USA
+SEQUENCE:0
+SUMMARY:Texas A&M University Jazz Ensembles
+URL:http://musa.tamu.edu/event/texas-am-university-jazz-ensembles/
+END:VEVENT
+BEGIN:VEVENT
+UID:134a2ebb20sbeiu44mp8304g98@google.com
+DTSTAMP:20150920T003619Z
+CATEGORIES;LANGUAGE=en-US:University Orchestras
+CONTACT:
+DESCRIPTION:<p>The Texas A&M University  Orchestras will present their wint
+ er concert of 2015. General admission is $5.00 per person\, Texas A&M stud
+ ents are admitted free. Tickets can be purchased in advance or on the day 
+ of the concert at the MSC Box Office (http://boxoffice.tamu.edu). We hope 
+ you will come out and enjoy fine music by these talented musicians.</p>
+DTSTART;TZID=America/Chicago:20151206T160000
+DTEND;TZID=America/Chicago:20151206T173000
+LOCATION:Rudder Complex\, 401 Joe Routt Blvd\, College Station\, TX 77843\,
+  USA
+SEQUENCE:0
+SUMMARY:Texas A&M University Orchestras Concert
+URL:http://musa.tamu.edu/event/texas-am-university-orchestras-concert-2/
+END:VEVENT
+END:VCALENDAR

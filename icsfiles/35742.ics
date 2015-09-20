@@ -1,0 +1,484 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//112.78.112.14//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.kodomobst.org
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+DTSTART:19510908T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+0900
+TZNAME:JST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1631@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES:
+CONTACT:市川子ども文化ステーション　中央地区\; 047-332-3024\; i_chuou@icnet.ne.jp
+DESCRIPTION:<p>こどがつくるまち　ミニ☆いちかわ(現代産業科学館会場)のこどもスタッフ会議です。</p><p>※こどもスタッフの募集は終
+ 了しています。</p>
+DTSTART;VALUE=DATE:20150920
+DTEND;VALUE=DATE:20150921
+GEO:+35.714857;+139.932507
+LOCATION:千葉現代産業科学館 @ 日本\, 〒272-0015 千葉県市川市鬼高１丁目１−３
+RDATE;TZID=Asia/Tokyo:20150913T000000
+RDATE;TZID=Asia/Tokyo:20150920T000000
+RDATE;TZID=Asia/Tokyo:20151011T000000
+SEQUENCE:0
+SUMMARY:ミニ☆いちかわ　こどもスタッフ会議
+URL:http://www.kodomobst.org/event/1631.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1605@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:あそぶ
+CONTACT:http://www.kodomobst.org/info/2029.html
+DESCRIPTION:<p>企画から運営まで子どもの実行委員たちが、何度も会議を重ねて取り組みます。 まちには、子どもたちのアイデアがいっぱい詰まっ
+ たお店や、市役所、警察、銀行などの公共機関、またスイーツやマックといった食べ物屋、乗り物・アクセサリーショップなどもあります。遊ぶことを通して、まち
+ のしくみやコミュニティとの関わりも学べます。</p>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150928
+GEO:+35.714857;+139.932507
+LOCATION:現代産業科学館　屋外 @ 日本\, 〒272-0015 千葉県市川市鬼高１丁目１−３
+SEQUENCE:0
+SUMMARY:子どもがつくるまち「ミニ☆いちかわ2015」
+URL:http://www.kodomobst.org/event/1605.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-901@ver2.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES:
+CONTACT:市川子ども文化ステーション　北地区\; 047-3397744\; ichikawaoyakogekijo@yahoo.co.jp
+DESCRIPTION:<p>子育て中のママの交流スペース♡ 保育スタッフがいるのでお母さん同士おしゃべりなどできます♪初めての方でもスタッフが交流の
+ お手伝いをします。気軽に遊びに来てください♪</p>
+DTSTART;TZID=Asia/Tokyo:20150923T103000
+DTEND;TZID=Asia/Tokyo:20150923T130000
+EXDATE;TZID=Asia/Tokyo:20150722T103000
+GEO:+35.757999;+139.955456
+LOCATION:大野地域ふれあい館 @ 日本\, 〒272-0805 千葉県市川市大野町３丁目１６２５−１ 大野地域ふれあい館
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:ぶらっとhome
+URL:http://www.kodomobst.org/event/901.html
+X-COST:200円(お茶代)
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2195@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:幼児サークル
+CONTACT:
+DESCRIPTION:<p>バス遠足　</p><p>☆対象　1才から入園前のお子さんとお母さん<br /> ☆会費　入会金300円・月会費1000円
+ （4才～大人）材料費年間4000円<br /> <div role='form' class='wpcf7' id='wpcf7-f59-o1' l
+ ang='ja' dir='ltr'>\n<div class='screen-reader-response'></div>\n<form nam
+ e='' action='/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_
+ controller&action=export_events#wpcf7-f59-o1' method='post' class='wpcf7-f
+ orm' novalidate='novalidate'>\n<div style='display: none\;'>\n<input type=
+ 'hidden' name='_wpcf7' value='59' />\n<input type='hidden' name='_wpcf7_ve
+ rsion' value='4.1.2' />\n<input type='hidden' name='_wpcf7_locale' value='
+ ja' />\n<input type='hidden' name='_wpcf7_unit_tag' value='wpcf7-f59-o1' /
+ >\n<input type='hidden' name='_wpnonce' value='6f92d284c7' />\n</div>\n<di
+ v class='contactInfo'>\n<p class='Name'>ＮＰＯ法人 市川子ども文化ステーション（行徳地区）</p>\n<p 
+ class='tel'>047-395-7670</p>\n<p class='address'>〒272-0137　千葉県市川市福栄1-3-1 コ
+ ーポトータス101号室</p>\n<p class='mail'><a href='mailto:i_ccs@icnet.ne.jp'>i_ccs＠
+ icnet.ne.jp</a> </p>\n</div>\n<div class='wpcf7-response-output wpcf7-disp
+ lay-none'></div></form></div></p>
+DTSTART;TZID=Asia/Tokyo:20150924T093000
+DTEND;TZID=Asia/Tokyo:20150924T133000
+GEO:+35.685747;+139.916379
+LOCATION:行徳公民館 @ 日本\, 〒272-0121 千葉県市川市末広１丁目１−３１
+RDATE;TZID=Asia/Tokyo:20150924T093000
+RDATE;TZID=Asia/Tokyo:20150929T093000
+SEQUENCE:0
+SUMMARY:クレヨンクラブ（幼児サークル）
+URL:http://www.kodomobst.org/event/2195.html
+X-TAGS;LANGUAGE=ja:行徳地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-162@ver2.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:幼児サークル
+CONTACT:http://ver2.kodomobst.org/info/118.html
+DESCRIPTION:<p><span class='title'>わいわいキッズ(中央地区　おやこサークル）</span></p><p><span
+  class='event-where'>  <strong>市川市</strong>大洲4-18-3 駅南公民館 </span></p><p><s
+ pan class='event-description'>月2回金曜日<span class='event-when'>10:30 ～ 12:00
+ </span>の幼児親子サークルです。 </span></p><p>会費あり。</p><div role='form' class='wpcf7' 
+ id='wpcf7-f134-o2' lang='ja' dir='ltr'>\n<div class='screen-reader-respons
+ e'></div>\n<form name='' action='/?plugin=all-in-one-event-calendar&contro
+ ller=ai1ec_exporter_controller&action=export_events#wpcf7-f134-o2' method=
+ 'post' class='wpcf7-form' novalidate='novalidate'>\n<div style='display: n
+ one\;'>\n<input type='hidden' name='_wpcf7' value='134' />\n<input type='h
+ idden' name='_wpcf7_version' value='4.1.2' />\n<input type='hidden' name='
+ _wpcf7_locale' value='ja' />\n<input type='hidden' name='_wpcf7_unit_tag' 
+ value='wpcf7-f134-o2' />\n<input type='hidden' name='_wpnonce' value='7c0d
+ 962ee7' />\n</div>\n<div class='contactInfo'>\n<p class='Name'>ＮＰＯ法人 市川子ども
+ 文化ステーション（中央地区）</p>\n<p class='tel'>047-332-3024</p>\n<p class='openTime'>1
+ 0:00～16:00　　水曜・土日祝日休み</p>\n<p class='address'>〒272-0022　千葉県市川市鬼越2-5-1-101リ
+ アビル</p>\n<p class='mail'><a href='mailto:i_chuou@icnet.ne.jp'>i_chuou＠icne
+ t.ne.jp</a></p>\n</div>\n<div class='wpcf7-response-output wpcf7-display-n
+ one'></div></form></div>
+DTSTART;TZID=Asia/Tokyo:20150925T103000
+DTEND;TZID=Asia/Tokyo:20150925T120000
+RDATE;TZID=Asia/Tokyo:20150828T103000
+RDATE;TZID=Asia/Tokyo:20150911T103000
+RDATE;TZID=Asia/Tokyo:20150925T103000
+RDATE;TZID=Asia/Tokyo:20151009T103000
+RDATE;TZID=Asia/Tokyo:20151023T103000
+SEQUENCE:0
+SUMMARY:わいわいキッズ(おやこサークル）
+URL:http://www.kodomobst.org/event/162.html
+X-TAGS;LANGUAGE=ja:中央地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2222@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:幼児サークル
+CONTACT:http://www.kodomobst.org/info/686.html
+DESCRIPTION:<p>0歳～未就園児のおやこふれあいサークルです。</p><p>いつでも見学大歓迎です(^o^)</p>
+DTSTART;TZID=Asia/Tokyo:20150925T103000
+DTEND;TZID=Asia/Tokyo:20150925T121500
+LOCATION:曽谷公民館
+SEQUENCE:0
+SUMMARY:プレンジ（北地区　おやこサークル）
+URL:http://www.kodomobst.org/event/2222.html
+X-TAGS;LANGUAGE=ja:北地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-164@ver2.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:幼児サークル
+CONTACT:http://ver2.kodomobst.org/info/118.html
+DESCRIPTION:<p><span class='event-when'>わくわくキッズ(中央地区　おやこサークル）</span></p><di
+ v class='detail-item'><span class='event-where'>市川市南八幡２丁目２０−１ 市川市勤労福祉センター 
+ </span></div><div class='detail-item'><span class='event-description'>月2回火
+ 曜日<span class='event-when'>10:00 ～ 11:30</span>の幼児親子サークルです。 </span></div><
+ div class='detail-item'><span class='event-description'>連絡先047-332-3024　NP
+ O法人市川子ども文化ステーション</span></div>
+DTSTART;TZID=Asia/Tokyo:20150929T100000
+DTEND;TZID=Asia/Tokyo:20150929T113000
+LOCATION:市川市勤労福祉センター
+RDATE;TZID=Asia/Tokyo:20150825T100000
+RDATE;TZID=Asia/Tokyo:20150908T100000
+RDATE;TZID=Asia/Tokyo:20150929T100000
+RDATE;TZID=Asia/Tokyo:20151006T100000
+RDATE;TZID=Asia/Tokyo:20151027T100000
+SEQUENCE:0
+SUMMARY:わくわくキッズ(中央地区　おやこサークル）
+URL:http://www.kodomobst.org/event/164.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1606@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:企画から運営まで子どもの実行委員たちが、何度も会議を重ねて取り組みます。\nまちには、子どもたちのアイデアがいっぱい詰まったお
+ 店や、市役所、警察、銀行などの公共機関、またスイーツやマックといった食べ物屋、乗り物・アクセサリーショップなどもあります。遊ぶことを通して、まちのし
+ くみやコミュニティとの関わりも学べます。
+DTSTART;TZID=Asia/Tokyo:20151003T015600
+DTEND;TZID=Asia/Tokyo:20151004T025600
+GEO:+35.679342;+139.913438
+LOCATION:行徳駅前公園 @ 日本\, 〒272-0132 千葉県市川市湊新田２丁目４
+SEQUENCE:0
+SUMMARY:子どもがつくるまち「ミニいちかわ2015」
+URL:http://www.kodomobst.org/event/1606.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-165@ver2.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:幼児サークル
+CONTACT:http://ver2.kodomobst.org/info/118.html
+DESCRIPTION:<p><span class='title'>ぴょんぴょんキッズ(中央地区　おやこサークル）</span></p><p><sp
+ an class='event-where'>信篤公民館　　市川市高谷１－８－１ </span></p><p><span class='event-
+ description'>月2回木曜日<span class='event-when'>10:00 ～ 11:30</span>の幼児親子サークルで
+ す。 </span></p><p>会費あり。<div role='form' class='wpcf7' id='wpcf7-f134-o3' la
+ ng='ja' dir='ltr'>\n<div class='screen-reader-response'></div>\n<form name
+ ='' action='/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_c
+ ontroller&action=export_events#wpcf7-f134-o3' method='post' class='wpcf7-f
+ orm' novalidate='novalidate'>\n<div style='display: none\;'>\n<input type=
+ 'hidden' name='_wpcf7' value='134' />\n<input type='hidden' name='_wpcf7_v
+ ersion' value='4.1.2' />\n<input type='hidden' name='_wpcf7_locale' value=
+ 'ja' />\n<input type='hidden' name='_wpcf7_unit_tag' value='wpcf7-f134-o3'
+  />\n<input type='hidden' name='_wpnonce' value='7c0d962ee7' />\n</div>\n<
+ div class='contactInfo'>\n<p class='Name'>ＮＰＯ法人 市川子ども文化ステーション（中央地区）</p>\n<
+ p class='tel'>047-332-3024</p>\n<p class='openTime'>10:00～16:00　　水曜・土日祝日休み
+ </p>\n<p class='address'>〒272-0022　千葉県市川市鬼越2-5-1-101リアビル</p>\n<p class='ma
+ il'><a href='mailto:i_chuou@icnet.ne.jp'>i_chuou＠icnet.ne.jp</a></p>\n</di
+ v>\n<div class='wpcf7-response-output wpcf7-display-none'></div></form></d
+ iv></p>
+DTSTART;TZID=Asia/Tokyo:20151008T100000
+DTEND;TZID=Asia/Tokyo:20151008T113000
+RDATE;TZID=Asia/Tokyo:20150827T100000
+RDATE;TZID=Asia/Tokyo:20150903T100000
+RDATE;TZID=Asia/Tokyo:20150917T100000
+RDATE;TZID=Asia/Tokyo:20151008T100000
+RDATE;TZID=Asia/Tokyo:20151022T100000
+SEQUENCE:0
+SUMMARY:ぴょんぴょんキッズ(中央地区　おやこサークル）
+URL:http://www.kodomobst.org/event/165.html
+X-TAGS;LANGUAGE=ja:中央地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2190@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:幼児サークル
+CONTACT:
+DESCRIPTION:<p>☆対象　1才から入園前のお子さんとお母さん<br /> ☆日時　月1~2回　10:30~12:00<br /> ☆内容　
+ 手遊び　ふれあい遊び　体操　工作　季節のイベント　<br /> ☆会費　入会金300円・月会費1000円（4才～大人）材料費年間4000円<br /
+ ><div role='form' class='wpcf7' id='wpcf7-f59-o4' lang='ja' dir='ltr'>\n<d
+ iv class='screen-reader-response'></div>\n<form name='' action='/?plugin=a
+ ll-in-one-event-calendar&controller=ai1ec_exporter_controller&action=expor
+ t_events#wpcf7-f59-o4' method='post' class='wpcf7-form' novalidate='novali
+ date'>\n<div style='display: none\;'>\n<input type='hidden' name='_wpcf7' 
+ value='59' />\n<input type='hidden' name='_wpcf7_version' value='4.1.2' />
+ \n<input type='hidden' name='_wpcf7_locale' value='ja' />\n<input type='hi
+ dden' name='_wpcf7_unit_tag' value='wpcf7-f59-o4' />\n<input type='hidden'
+  name='_wpnonce' value='6f92d284c7' />\n</div>\n<div class='contactInfo'>
+ \n<p class='Name'>ＮＰＯ法人 市川子ども文化ステーション（行徳地区）</p>\n<p class='tel'>047-395-76
+ 70</p>\n<p class='address'>〒272-0137　千葉県市川市福栄1-3-1 コーポトータス101号室</p>\n<p cl
+ ass='mail'><a href='mailto:i_ccs@icnet.ne.jp'>i_ccs＠icnet.ne.jp</a> </p>\n
+ </div>\n<div class='wpcf7-response-output wpcf7-display-none'></div></form
+ ></div></p>
+DTSTART;TZID=Asia/Tokyo:20151013T103000
+DTEND;TZID=Asia/Tokyo:20151013T120000
+GEO:+35.679342;+139.913438
+LOCATION:行徳駅前公園研修室　大（プール横建物2階） @ 日本\, 〒272-0132 千葉県市川市湊新田２丁目４
+RDATE;TZID=Asia/Tokyo:20150908T103000
+RDATE;TZID=Asia/Tokyo:20151013T103000
+RDATE;TZID=Asia/Tokyo:20151027T103000
+RDATE;TZID=Asia/Tokyo:20151110T103000
+RDATE;TZID=Asia/Tokyo:20151124T103000
+SEQUENCE:0
+SUMMARY:クレヨンクラブ（幼児サークル）
+URL:http://www.kodomobst.org/event/2190.html
+X-TAGS;LANGUAGE=ja:行徳地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2192@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:幼児サークル
+CONTACT:
+DESCRIPTION:<p>☆対象　1才から入園前のお子さんとお母さん<br />☆日時　月1~2回　10:30~12:00<br />☆内容　手遊
+ び　ふれあい遊び　体操　工作　季節のイベント　<br />☆会費　入会金300円・月会費1000円（4才～大人）材料費年間4000円<br /><d
+ iv role='form' class='wpcf7' id='wpcf7-f59-o5' lang='ja' dir='ltr'>\n<div 
+ class='screen-reader-response'></div>\n<form name='' action='/?plugin=all-
+ in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_e
+ vents#wpcf7-f59-o5' method='post' class='wpcf7-form' novalidate='novalidat
+ e'>\n<div style='display: none\;'>\n<input type='hidden' name='_wpcf7' val
+ ue='59' />\n<input type='hidden' name='_wpcf7_version' value='4.1.2' />\n<
+ input type='hidden' name='_wpcf7_locale' value='ja' />\n<input type='hidde
+ n' name='_wpcf7_unit_tag' value='wpcf7-f59-o5' />\n<input type='hidden' na
+ me='_wpnonce' value='6f92d284c7' />\n</div>\n<div class='contactInfo'>\n<p
+  class='Name'>ＮＰＯ法人 市川子ども文化ステーション（行徳地区）</p>\n<p class='tel'>047-395-7670</
+ p>\n<p class='address'>〒272-0137　千葉県市川市福栄1-3-1 コーポトータス101号室</p>\n<p class=
+ 'mail'><a href='mailto:i_ccs@icnet.ne.jp'>i_ccs＠icnet.ne.jp</a> </p>\n</di
+ v>\n<div class='wpcf7-response-output wpcf7-display-none'></div></form></d
+ iv></p>
+DTSTART;TZID=Asia/Tokyo:20151015T103000
+DTEND;TZID=Asia/Tokyo:20151015T120000
+GEO:+35.685747;+139.916379
+LOCATION:行徳公民館　多目的ホール（図書館下） @ 日本\, 〒272-0121 千葉県市川市末広１丁目１−３１
+RDATE;TZID=Asia/Tokyo:20150910T103000
+RDATE;TZID=Asia/Tokyo:20151015T103000
+RDATE;TZID=Asia/Tokyo:20151029T103000
+RDATE;TZID=Asia/Tokyo:20151119T103000
+RDATE;TZID=Asia/Tokyo:20151126T103000
+SEQUENCE:0
+SUMMARY:クレヨンクラブ（幼児サークル）
+URL:http://www.kodomobst.org/event/2192.html
+X-TAGS;LANGUAGE=ja:行徳地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1751@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.kodomobst.org/wp-content/uploads/2015/03/9d43bf9f2bdd18e6f7c04f39d3
+ 858b57.jpg' width='187' height='270' /></div><p>☆幼児からおとな<br /> ～子どもたちの大好きな
+ お話を、スリル満点、抱腹絶倒、奇想天外の人形劇にしました。ひとりの人形つかいが、人形だけでなく、ハーモニカ、布、木魚、番傘、お客さんまでつかいます。
+ 大道芸の雰囲気をお楽しみください～<br /> ◆<a href='http://www.geocities.jp/ningyoushibaitsu
+ bameya/' target='_blank'>人形芝居　燕屋</a></p><p> </p><p> </p>
+DTSTART;TZID=Asia/Tokyo:20151103T100000
+DTEND;TZID=Asia/Tokyo:20151103T120000
+LOCATION:市川市文化会館（ローズルーム）
+SEQUENCE:0
+SUMMARY:芝居「さんまいのおふだ」
+URL:http://www.kodomobst.org/event/1751.html
+X-TAGS;LANGUAGE=ja:北地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2191@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:幼児サークル
+CONTACT:
+DESCRIPTION:<p>☆対象　1才から入園前のお子さんとお母さん<br />\n☆日時　月1~2回　10:30~12:00<br />\n☆内
+ 容　手遊び　ふれあい遊び　体操　工作　季節のイベント　<br />\n☆会費　入会金300円・月会費1000円（4才～大人）材料費年間4000円<b
+ r />\n<div role='form' class='wpcf7' id='wpcf7-f59-o6' lang='ja' dir='ltr'
+ >\n<div class='screen-reader-response'></div>\n<form name='' action='/?plu
+ gin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=
+ export_events#wpcf7-f59-o6' method='post' class='wpcf7-form' novalidate='n
+ ovalidate'>\n<div style='display: none\;'>\n<input type='hidden' name='_wp
+ cf7' value='59' />\n<input type='hidden' name='_wpcf7_version' value='4.1.
+ 2' />\n<input type='hidden' name='_wpcf7_locale' value='ja' />\n<input typ
+ e='hidden' name='_wpcf7_unit_tag' value='wpcf7-f59-o6' />\n<input type='hi
+ dden' name='_wpnonce' value='6f92d284c7' />\n</div>\n<div class='contactIn
+ fo'>\n<p class='Name'>ＮＰＯ法人 市川子ども文化ステーション（行徳地区）</p>\n<p class='tel'>047-39
+ 5-7670</p>\n<p class='address'>〒272-0137　千葉県市川市福栄1-3-1 コーポトータス101号室</p>\n<
+ p class='mail'><a href='mailto:i_ccs@icnet.ne.jp'>i_ccs＠icnet.ne.jp</a> </
+ p>\n</div>\n<div class='wpcf7-response-output wpcf7-display-none'></div></
+ form></div>
+DTSTART;TZID=Asia/Tokyo:20151208T103000
+DTEND;TZID=Asia/Tokyo:20151208T120000
+GEO:+35.679342;+139.913438
+LOCATION:行徳駅前公園研修室　大（プール横建物2階） @ 日本\, 〒272-0132 千葉県市川市湊新田２丁目４
+RDATE;TZID=Asia/Tokyo:20151208T103000
+RDATE;TZID=Asia/Tokyo:20160112T103000
+RDATE;TZID=Asia/Tokyo:20160126T103000
+RDATE;TZID=Asia/Tokyo:20160202T103000
+RDATE;TZID=Asia/Tokyo:20160216T103000
+RDATE;TZID=Asia/Tokyo:20160308T103000
+SEQUENCE:0
+SUMMARY:クレヨンクラブ（幼児サークル）
+URL:http://www.kodomobst.org/event/2191.html
+X-TAGS;LANGUAGE=ja:行徳地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2193@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:幼児サークル
+CONTACT:
+DESCRIPTION:<p>☆対象　1才から入園前のお子さんとお母さん<br /> ☆日時　月1~2回　10:30~12:00<br /> ☆内容　
+ 手遊び　ふれあい遊び　体操　工作　季節のイベント　<br /> ☆会費　入会金300円・月会費1000円（4才～大人）材料費年間4000円<br /
+ > <div role='form' class='wpcf7' id='wpcf7-f59-o7' lang='ja' dir='ltr'>\n<
+ div class='screen-reader-response'></div>\n<form name='' action='/?plugin=
+ all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=expo
+ rt_events#wpcf7-f59-o7' method='post' class='wpcf7-form' novalidate='noval
+ idate'>\n<div style='display: none\;'>\n<input type='hidden' name='_wpcf7'
+  value='59' />\n<input type='hidden' name='_wpcf7_version' value='4.1.2' /
+ >\n<input type='hidden' name='_wpcf7_locale' value='ja' />\n<input type='h
+ idden' name='_wpcf7_unit_tag' value='wpcf7-f59-o7' />\n<input type='hidden
+ ' name='_wpnonce' value='6f92d284c7' />\n</div>\n<div class='contactInfo'>
+ \n<p class='Name'>ＮＰＯ法人 市川子ども文化ステーション（行徳地区）</p>\n<p class='tel'>047-395-76
+ 70</p>\n<p class='address'>〒272-0137　千葉県市川市福栄1-3-1 コーポトータス101号室</p>\n<p cl
+ ass='mail'><a href='mailto:i_ccs@icnet.ne.jp'>i_ccs＠icnet.ne.jp</a> </p>\n
+ </div>\n<div class='wpcf7-response-output wpcf7-display-none'></div></form
+ ></div></p>
+DTSTART;TZID=Asia/Tokyo:20151210T103000
+DTEND;TZID=Asia/Tokyo:20151210T120000
+GEO:+35.685747;+139.916379
+LOCATION:行徳公民館　多目的ホール（図書館下） @ 日本\, 〒272-0121 千葉県市川市末広１丁目１−３１
+RDATE;TZID=Asia/Tokyo:20151210T103000
+RDATE;TZID=Asia/Tokyo:20160114T103000
+RDATE;TZID=Asia/Tokyo:20160128T103000
+RDATE;TZID=Asia/Tokyo:20160204T103000
+RDATE;TZID=Asia/Tokyo:20160218T103000
+RDATE;TZID=Asia/Tokyo:20160303T103000
+SEQUENCE:0
+SUMMARY:クレヨンクラブ（幼児サークル）
+URL:http://www.kodomobst.org/event/2193.html
+X-TAGS;LANGUAGE=ja:行徳地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1752@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.kodomobst.org/wp-content/uploads/2015/03/pfukuoka-212x300.jpg' widt
+ h='212' height='300' /></div><p>☆高学年・大人　※小３未満入場不可・託児有料<br /> ～学校の図書準備室で起こる
+ 痛快☆密室群像劇!!!この一冊の台本から、他者と自分の、現実と理想の、今日と未来の、自分自身との、妥協点を探す旅がはじまる～<br /> ◆<a h
+ ref='http://www.urinko.jp/' target='_blank'>劇団うりんこ</a></p><p> </p>
+DTSTART;TZID=Asia/Tokyo:20160123T000000
+DTEND;TZID=Asia/Tokyo:20160123T010000
+GEO:+35.716814;+139.920913
+LOCATION:市川市文化会館　小ホール @ 日本\, 〒272-0025 千葉県市川市大和田１丁目１−５ 市川市文化会館
+SEQUENCE:0
+SUMMARY:舞台劇「妥協点Ｐ」　
+URL:http://www.kodomobst.org/event/1752.html
+X-TAGS;LANGUAGE=ja:中央地区\,北地区\,行徳地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1753@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
+CONTACT:
+DESCRIPTION:<p>☆幼児から大人<br /> ～迫力のタップと捧腹絶倒のパフォーマンス・コント。タップにパーカッション・生演奏の音楽・ジャ
+ グリングなど超一流のエンターテイメント～<br /> ◆<a href='http://tapdo.com/' target='_blank'>ＴＡ
+ Ｐ　ＤＯ！</a></p><p> </p>
+DTSTART;TZID=Asia/Tokyo:20160124T000000
+DTEND;TZID=Asia/Tokyo:20160124T010000
+GEO:+35.716814;+139.920913
+LOCATION:市川市文化会館　小ホール @ 日本\, 〒272-0025 千葉県市川市大和田１丁目１−５ 市川市文化会館
+SEQUENCE:0
+SUMMARY:新タップダンス・コメディショー！スーパーハイテンション
+URL:http://www.kodomobst.org/event/1753.html
+X-TAGS;LANGUAGE=ja:中央地区\,北地区\,行徳地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1754@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
+CONTACT:
+DESCRIPTION:<p>☆幼児・小学生<br /> ～ざんさんが、からだままごと語りだす！おかしくてゆかいで、子どもたちは思わず表現したくなる。
+ 素敵な昔ばなしの世界をご覧あれ！さて今日はどんなお話がとびだすか～<br /> ◆<a href='http://www.afutafu-barba
+ n.org/program/program03.html' target='_blank'>アフタフ・バーバン</a></p>
+DTSTART;TZID=Asia/Tokyo:20160213T000000
+DTEND;TZID=Asia/Tokyo:20160213T010000
+SEQUENCE:0
+SUMMARY:「ざんさんのおはなし劇場」
+URL:http://www.kodomobst.org/event/1754.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1755@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
+CONTACT:
+DESCRIPTION:<p>☆幼児から大人<br /> ～ケンハモとは鍵盤ハーモニカのこと。ピアノ・バイオリン・チェロを従えて魅せる聴かせる音色。後
+ 半の物語は音楽と語りが入った朗読劇。生演奏の決定版～<br /> ◆日本サロンコンサート協会</p>
+DTSTART;TZID=Asia/Tokyo:20160402T000000
+DTEND;TZID=Asia/Tokyo:20160402T010000
+GEO:+35.716814;+139.920913
+LOCATION:市川市文化会館　小ホール @ 日本\, 〒272-0025 千葉県市川市大和田１丁目１−５ 市川市文化会館
+SEQUENCE:0
+SUMMARY:「魔法のケンハモ・セロ弾きのゴーシュ」
+URL:http://www.kodomobst.org/event/1755.html
+X-TAGS;LANGUAGE=ja:中央地区\,北地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1756@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.kodomobst.org/wp-content/uploads/2015/07/oipen_icon.jpg' width='250
+ ' height='161' /></div><p>～お風呂やさんにひとりで行った太郎くん。<br /> お風呂からあがってみると、「あっ、ぼくの服
+ がない！？」荒唐無稽のストーリーに凝縮された、夢のような冒険と親子のふれあい。大阪弁で軽妙に語るナンセンスお話しが人形劇に！<br /> ◆<a h
+ ref='http://www.clarte-net.co.jp/' target='_blank'>人形劇団クラルテ</a></p><p> </p
+ ><p> </p><p> </p><p> </p>
+DTSTART;TZID=Asia/Tokyo:20160508T000000
+DTEND;TZID=Asia/Tokyo:20160508T010000
+LOCATION:場所未定
+SEQUENCE:0
+SUMMARY:人形劇「おーいペンギンさーん」
+URL:http://www.kodomobst.org/event/1756.html
+X-TAGS;LANGUAGE=ja:行徳地区
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1874@www.kodomobst.org
+DTSTAMP:20150920T002204Z
+CATEGORIES;LANGUAGE=ja:鑑賞例会
+CONTACT:
+DESCRIPTION:<p>☆高学年・大人</p><p>◆斉藤組</p>
+DTSTART;TZID=Asia/Tokyo:20160529T000000
+DTEND;TZID=Asia/Tokyo:20160529T010000
+LOCATION:市川市文化会館　小ホール
+SEQUENCE:0
+SUMMARY:いまみて新しいサイレント  映画ライブ
+URL:http://www.kodomobst.org/event/1874.html
+X-TAGS;LANGUAGE=ja:中央地区\,北地区\,行徳地区
+END:VEVENT
+END:VCALENDAR

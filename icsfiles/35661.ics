@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//45.33.2.42//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://refineus.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-10790@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.skylinecc.com/'>Refine Our Marriage Conf
+ erence and Weekend Services\, Skyline Church\, O’Fallon\, IL </a></p>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151005
+SEQUENCE:0
+SUMMARY:RefineUs Marriage Conference and Weekend Services\, Skyline Church\
+ , O’Fallon\, IL
+URL:http://refineus.org/event/event-32/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10972@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.lifecentre.org/'>RefineUs Marriage Semin
+ ar and Weekend Services\, Lifecentre Church\, Ottawa\, CA</a></p>
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151012
+SEQUENCE:0
+SUMMARY:
+URL:http://refineus.org/event/10972/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10791@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://wol.org'>Marriage Seminar\, Word of Life Int
+ ernational\, New York </a></p>
+DTSTART;VALUE=DATE:20151016
+DTEND;VALUE=DATE:20151019
+SEQUENCE:0
+SUMMARY:Marriage Seminar\, Word of Life International\, New York
+URL:http://refineus.org/event/event-27-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10835@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://ithrivechurch.com/'>Marriage Seminar and Wee
+ kend Services\, Thrive Church\, Elk Grove\, CA</a></p>
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151026
+SEQUENCE:0
+SUMMARY:Marriage Seminar and Weekend Services\, Thrive Church\, Elk Grove\,
+  CA
+URL:http://refineus.org/event/event-33-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10989@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.mynorthside.com/'>Marriage Seminar\, Nor
+ thside Christian Church\, New Albany\, IN</a></p>
+DTSTART;VALUE=DATE:20151104
+DTEND;VALUE=DATE:20151105
+SEQUENCE:0
+SUMMARY:Event
+URL:http://refineus.org/event/event-38/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10792@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.wccstl.org/'>Marriage Conference and Wee
+ kend Services\, Wildwood Christian Church\, Wildwood\, MO</a></p>
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151109
+SEQUENCE:0
+SUMMARY:Wildwood Christian Church
+URL:http://refineus.org/event/event-33/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10837@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.hillsborofbc.org/'>Marriage Conference\,
+  First Baptist Church\, Hillsboro\, TX </a></p>
+DTSTART;VALUE=DATE:20151113
+DTEND;VALUE=DATE:20151115
+SEQUENCE:0
+SUMMARY:FBC Hillsboro\, TX
+URL:http://refineus.org/event/fbc-hillsboro-tx/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10985@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://heartland.cc/'>RefineUs Marriage Conference 
+ and Weekend Services\, Heartland Church\, Rockford\, IL</a></p>
+DTSTART;VALUE=DATE:20160122
+DTEND;VALUE=DATE:20160125
+SEQUENCE:0
+SUMMARY:Event
+URL:http://refineus.org/event/event-34/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10986@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://southlandchristian.org'>Weekend Services\, S
+ outhland Christian Church\, Lexington\, KY</a></p>
+DTSTART;VALUE=DATE:20160206
+DTEND;VALUE=DATE:20160208
+SEQUENCE:0
+SUMMARY:Event
+URL:http://refineus.org/event/event-35/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10987@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://crossmountain.org/'>RefineUs Marriage Confer
+ ence and Weekend Services\, Cross Mountain Church\, San Antonio\, T</a>X</
+ p>
+DTSTART;VALUE=DATE:20160212
+DTEND;VALUE=DATE:20160215
+SEQUENCE:0
+SUMMARY:Event
+URL:http://refineus.org/event/event-36/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10988@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.mynorthside.com/'>Marriage Conference\, 
+ Northside Christian Church\, New Albany\, IN</a></p>
+DTSTART;VALUE=DATE:20160226
+DTEND;VALUE=DATE:20160228
+SEQUENCE:0
+SUMMARY:Event
+URL:http://refineus.org/event/event-37/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10990@refineus.org
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.fishhawkfc.org/'>Weekend Services\, Fish
+ Hawk Fellowship Church\, Lithia\, FL</a></p>
+DTSTART;VALUE=DATE:20160326
+DTEND;VALUE=DATE:20160328
+SEQUENCE:0
+SUMMARY:Event
+URL:http://refineus.org/event/event-39/
+END:VEVENT
+END:VCALENDAR

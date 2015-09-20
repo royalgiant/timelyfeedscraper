@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+	<!--[if IE 8]>
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
+	<![endif]-->
+	<!--[if !(IE 8) ]><!-->
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<!--<![endif]-->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Intra Small World &rsaquo; Log In</title>
+	<link rel='stylesheet' id='buttons-css'  href='http://intraswfs.com/wp-includes/css/buttons.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://intraswfs.com/wp-includes/css/dashicons.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://intraswfs.com/wp-admin/css/login.min.css?ver=4.1.4' type='text/css' media='all' />
+            <link rel="stylesheet" media="all" href="http://intraswfs.com/wp-content/plugins/yith-custom-login/assets/css/style.css" />
+            <script type='text/javascript' src='http://intraswfs.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://intraswfs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://intraswfs.com/wp-content/plugins/testimonialslider/js/jquery.bxslider.min.js?ver=4.1.4'></script>
+<meta name='robots' content='noindex,follow' />
+            <link rel="stylesheet" media="all" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400" />
+            <style type="text/css">
+                                body.login, html {
+                    background: #92d400 ;
+                }
+                
+                                #login {
+                    width: 320px;
+                }
+                
+                                .login h1 a {
+                    background-image: url('http://intraswfs.com/wp-content/uploads/2015/04/Logo-intra1.png');
+                    background-color: #92d400;                    background-size: 300px 115px;
+                    width: 100%;
+                    height: 115px;
+                    max-width: 100%;
+                }
+                
+                .mobile #login h1 a { width: 100% }
+                .mobile #login form, .mobile #login .message, .mobile #login_error { margin-left: auto }
+
+                /* Typography */
+                .login form .input, .login input[type="text"] {
+                    color: #707070;
+font-size: 12px;
+font-family: 'Open Sans';
+font-weight: 400;
+font-style: normal;
+                    background-color: #f2f2f2;
+                    border-color: #b4b4b4;
+                }
+
+                .login form .input:focus, .login input[type="text"]:focus {
+                    background-color: #ffffff;
+                    border-color: #b4b4b4;
+                }
+
+                .login form .forgetmenot label {
+                    color: #707070;
+font-size: 12px;
+font-family: 'Open Sans';
+font-weight: 400;
+font-style: normal;
+                }
+
+                input#wp-submit {
+                    color: #ffffff;
+font-size: 14px;
+font-family: 'Open Sans';
+font-weight: 400;
+font-style: normal;
+                    background-color: #92d400;
+                    border-color: #ffffff;
+                }
+
+                input#wp-submit:hover {
+                    color: #ffffff;
+                    background-color: #004165;
+                    border-color: #ffffff;
+                }
+
+                            </style>
+
+            <!--[if lte IE 8]>
+            <style type="text/css">
+                #rememberme { display: inline-block; }
+                #rememberme + span { display: none }
+            </style>
+            <![endif]-->
+                    <script type="text/javascript">
+                jQuery(function($){
+                    $('input#rememberme').after('<span>&nbsp;</span>');
+                    $('input#user_login').attr('placeholder', 'Username *');
+                    $('input#user_pass').attr('placeholder', 'Password *');
+                });
+            </script>
+        	</head>
+	<body class="login login-action-login wp-core-ui  locale-en-us">
+	<div id="login">
+		<h1><a href="http://intraswfs.com" title="Intra Small World" tabindex="-1">Intra Small World</a></h1>
+	
+<form name="loginform" id="loginform" action="http://intraswfs.com/wp-login.php" method="post">
+	<p>
+		<label for="user_login">Username<br />
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br />
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
+	</p>
+		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+		<input type="hidden" name="redirect_to" value="http://intraswfs.com" />
+		<input type="hidden" name="testcookie" value="1" />
+	</p>
+</form>
+
+<p id="nav">
+<a href="http://intraswfs.com/register/">Register</a> | 	<a href="http://intraswfs.com/wp-login.php?action=lostpassword" title="Password Lost and Found">Lost your password?</a>
+</p>
+
+<script type="text/javascript">
+function wp_attempt_focus(){
+setTimeout( function(){ try{
+d = document.getElementById('user_login');
+d.focus();
+d.select();
+} catch(e){}
+}, 200);
+}
+
+wp_attempt_focus();
+if(typeof wpOnload=='function')wpOnload();
+</script>
+
+	<p id="backtoblog"><a href="http://intraswfs.com/" title="Are you lost?">&larr; Back to Intra Small World</a></p>
+	
+	</div>
+
+	
+	<link rel='stylesheet' id='ai1ec_style-css'  href='//intraswfs.com/wp-content/plugins/all-in-one-event-calendar/cache/6b1a6b1c_ai1ec_parsed_css.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-buttons-css'  href='http://intraswfs.com/wp-includes/css/editor.min.css?ver=4.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style-UtubeGallery-css'  href='http://intraswfs.com/wp-content/plugins/youtube-simple-gallery/assets/css/style-UtubeGallery-min.css?ver=4.1.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://intraswfs.com/wp-content/plugins/wp-latest-posts/js/wpcufpn_front.js?ver=0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/intraswfs.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://intraswfs.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+	<div class="clear"></div>
+	</body>
+	</html>
+	

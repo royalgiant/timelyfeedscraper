@@ -1,0 +1,797 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.168.4.55//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.oypcollective.com
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_224975679@meetup.com
+DTSTAMP:20150920T003002Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nSaturday\, September 19 at 6:00 PM</p>\n<p>It’s been 4 years since 
+ the co+Lab coworking space opened its doors and began the important work o
+ f connecting community\, hatching businesses\, and bui…</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/224975679/</p>
+DTSTART;TZID=America/Vancouver:20150919T180000
+DTEND;TZID=America/Vancouver:20150919T220000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:co+Lab 4th Anniversary Potluck
+URL:http://www.oypcollective.com/event/colab-4th-anniversary-potluck/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytmbdc@meetup.com
+DTSTAMP:20150920T003002Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, September 22 at 8:00 AM</p>\n<p>          Join local game
+  & animation industry artists\, producers\, executives\, entrepreneurs & e
+ verything in between for conversation and networking\, …</p>\n<p>Details: 
+ http://www.meetup.com/DigitalOkanagan/events/225026765/</p>
+DTSTART;TZID=America/Vancouver:20150922T080000
+DTEND;TZID=America/Vancouver:20150922T090000
+GEO:+49.88;-119.48
+LOCATION:Streaming Cafe (596 Leon Ave\, Kelowna\, BC\, Canada)
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees-16
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjytmbdc@meetup.com
+DTSTAMP:20150920T003002Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, September 22 at 5:00 PM</p>\n<p>a bi-weekly gathering of 
+ digital-currency enthusiasts\, activists\, evangelists and newbies getting
+  together to learn and discover the latest in Bitcoin…</p>\n<p>Details: ht
+ tp://www.meetup.com/DigitalOkanagan/events/224436259/</p>
+DTSTART;TZID=America/Vancouver:20150922T170000
+DTEND;TZID=America/Vancouver:20150922T193000
+GEO:+49.88;-119.48
+LOCATION:BNA Restaurant Company (1250 Ellis St\, Kelowna\, BC\, Canada)
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225122115@meetup.com
+DTSTAMP:20150920T003002Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nFriday\, September 25 at 4:30 PM</p>\n<p>YOU MUST REGISTER AT EVENT
+ BRITE: https://www.eventbrite.com/e/startup-drinks-september-edition-ticke
+ ts-18474919983  What is Startup Drinks? Startup Dr…</p>\n<p>Details: http:
+ //www.meetup.com/DigitalOkanagan/events/225122115/</p>
+DTSTART;TZID=America/Vancouver:20150925T163000
+DTEND;TZID=America/Vancouver:20150925T183000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Startup Drinks September Edition: Disney Interactive [REGISTER AT E
+ VENTBRITE]
+URL:http://www.oypcollective.com/event/startup-drinks-september-edition-dis
+ ney-interactive-register-at-eventbrite/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytmbmc@meetup.com
+DTSTAMP:20150920T003002Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, September 29 at 8:00 AM</p>\n<p>          Join local game
+  & animation industry artists\, producers\, executives\, entrepreneurs & e
+ verything in between for conversation and networking\, …</p>\n<p>Details: 
+ http://www.meetup.com/DigitalOkanagan/events/qvpjtdytmbmc/</p>
+DTSTART;TZID=America/Vancouver:20150929T080000
+DTEND;TZID=America/Vancouver:20150929T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees-15
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdytmbnc@meetup.com
+DTSTAMP:20150920T003002Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, September 30 at 8:00 AM</p>\n<p>#devKL is a biweekly me
+ etup to encourage local software developers to collaborate and learn from 
+ each other. We’re hoping to build the development com…</p>\n<p>Details: ht
+ tp://www.meetup.com/DigitalOkanagan/events/225045489/</p>
+DTSTART;TZID=America/Vancouver:20150930T080000
+DTEND;TZID=America/Vancouver:20150930T090000
+GEO:+49.88;-119.48
+LOCATION:Accelerate Okanagan (1405 St. Paul Street\, Kelowna\, BC\, Canada)
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225432810@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, September 30 at 8:00 AM</p>\n<p>Earlier this week I stu
+ mbled upon this rather excellent interview with Bill Gurley: https://vimeo
+ .com/139468077 – For context\, Bill’s been a VC for 10…</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/225432810/</p>
+DTSTART;TZID=America/Vancouver:20150930T080000
+DTEND;TZID=America/Vancouver:20150930T090000
+GEO:+49.88;-119.48
+LOCATION:co+Lab (#205 @ 1405 St Paul Street\, Kelowna\, BC\, Canada V1Y 9N2
+ )
+SEQUENCE:0
+SUMMARY:#StartupCoffeeKL 122 – ‘Fireside Chat with Benchmark’s Bill Gurley’
+URL:http://www.oypcollective.com/event/startupcoffeekl-122-fireside-chat-wi
+ th-benchmarks-bill-gurley/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150919T101131PDT-83795fMwaj@Jaycees
+DTSTAMP:20150920T003003Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>We meet the first Thursday of every month.  Location changes
+  every month\, so please check kelownajyacees.com\, facebook.com/kelownaja
+ ycees or email communications@kelownajaycees.com for details.</p>
+DTSTART;TZID=America/Vancouver:20151003T190000
+DTEND;TZID=America/Vancouver:20151003T213000
+RRULE:FREQ=MONTHLY;COUNT=12
+SEQUENCE:0
+SUMMARY:Kelowna Jaycees Monthly Meeting
+URL:http://www.oypcollective.com/event/kelowna-jaycees-monthly-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytnbjb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, October 6 at 8:00 AM</p>\n<p>          Join local game & 
+ animation industry artists\, producers\, executives\, entrepreneurs & ever
+ ything in between for conversation and networking\, …</p>\n<p>Details: htt
+ p://www.meetup.com/DigitalOkanagan/events/qvpjtdytnbjb/</p>
+DTSTART;TZID=America/Vancouver:20151006T080000
+DTEND;TZID=America/Vancouver:20151006T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees-14
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjytnbjb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, October 6 at 5:00 PM</p>\n<p>a bi-weekly gathering of dig
+ ital-currency enthusiasts\, activists\, evangelists and newbies getting to
+ gether to learn and discover the latest in Bitcoin…</p>\n<p>Details: http:
+ //www.meetup.com/DigitalOkanagan/events/225411932/</p>
+DTSTART;TZID=America/Vancouver:20151006T170000
+DTEND;TZID=America/Vancouver:20151006T193000
+GEO:+49.88;-119.48
+LOCATION:BNA Restaurant Company (1250 Ellis St\, Kelowna\, BC\, Canada)
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_wrhnclytnbkb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, October 7 at 8:00 AM</p>\n<p>Come chat\, learn\, drink 
+ coffee\, and scratch that artistic itch as you start your day. **NEW DATES
+  & LOCATION**   This event is now being run every oth…</p>\n<p>Details: ht
+ tp://www.meetup.com/DigitalOkanagan/events/wrhnclytnbkb/</p>
+DTSTART;TZID=America/Vancouver:20151007T080000
+DTEND;TZID=America/Vancouver:20151007T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Art Brew
+URL:http://www.oypcollective.com/event/art-brew-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytnbrb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, October 13 at 8:00 AM</p>\n<p>          Join local game &
+  animation industry artists\, producers\, executives\, entrepreneurs & eve
+ rything in between for conversation and networking\, …</p>\n<p>Details: ht
+ tp://www.meetup.com/DigitalOkanagan/events/qvpjtdytnbrb/</p>
+DTSTART;TZID=America/Vancouver:20151013T080000
+DTEND;TZID=America/Vancouver:20151013T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees-13
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdytnbsb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, October 14 at 8:00 AM</p>\n<p>#devKL is a biweekly meet
+ up to encourage local software developers to collaborate and learn from ea
+ ch other. We’re hoping to build the development com…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/225045406/</p>
+DTSTART;TZID=America/Vancouver:20151014T080000
+DTEND;TZID=America/Vancouver:20151014T090000
+GEO:+49.88;-119.48
+LOCATION:Accelerate Okanagan (1405 St. Paul Street\, Kelowna\, BC\, Canada)
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytnbbc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, October 20 at 8:00 AM</p>\n<p>          Join local game &
+  animation industry artists\, producers\, executives\, entrepreneurs & eve
+ rything in between for conversation and networking\, …</p>\n<p>Details: ht
+ tp://www.meetup.com/DigitalOkanagan/events/qvpjtdytnbbc/</p>
+DTSTART;TZID=America/Vancouver:20151020T080000
+DTEND;TZID=America/Vancouver:20151020T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees-12
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjytnbbc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, October 20 at 5:00 PM</p>\n<p>a bi-weekly gathering of di
+ gital-currency enthusiasts\, activists\, evangelists and newbies getting t
+ ogether to learn and discover the latest in Bitcoin…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/qsxjkjytnbbc/</p>
+DTSTART;TZID=America/Vancouver:20151020T170000
+DTEND;TZID=America/Vancouver:20151020T193000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_wrhnclytnbcc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, October 21 at 8:00 AM</p>\n<p>Come chat\, learn\, drink
+  coffee\, and scratch that artistic itch as you start your day. **NEW DATE
+ S & LOCATION**   This event is now being run every oth…</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/wrhnclytnbcc/</p>
+DTSTART;TZID=America/Vancouver:20151021T080000
+DTEND;TZID=America/Vancouver:20151021T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Art Brew
+URL:http://www.oypcollective.com/event/art-brew-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytnbkc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, October 27 at 8:00 AM</p>\n<p>          Join local game &
+  animation industry artists\, producers\, executives\, entrepreneurs & eve
+ rything in between for conversation and networking\, …</p>\n<p>Details: ht
+ tp://www.meetup.com/DigitalOkanagan/events/qvpjtdytnbkc/</p>
+DTSTART;TZID=America/Vancouver:20151027T080000
+DTEND;TZID=America/Vancouver:20151027T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdytnblc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, October 28 at 8:00 AM</p>\n<p>#devKL is a biweekly meet
+ up to encourage local software developers to collaborate and learn from ea
+ ch other. We’re hoping to build the development com…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/dzgksdytnblc/</p>
+DTSTART;TZID=America/Vancouver:20151028T080000
+DTEND;TZID=America/Vancouver:20151028T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150919T101131PDT-8388zVRHvo@Jaycees
+DTSTAMP:20150920T003003Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join the Kelowna Jaycees together with Mayor Basran on Thurs
+ day\, October 29 for a Mayors luncheon. Mayor Basran will give a brief spe
+ ech on how Young Professionals can make an impact in our Community. Catere
+ d will be provided by Ben Pallet of Kitchen Sync Catering. Come and enjoy 
+ an engaging hour with Young Professionals of Kelowna</p>
+DTSTART;TZID=America/Vancouver:20151029T110000
+DTEND;TZID=America/Vancouver:20151029T120000
+LOCATION:Laurel Packing House
+SEQUENCE:0
+SUMMARY:Mayor Luncheon
+URL:http://www.oypcollective.com/event/mayor-luncheon-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytpbfb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, November 3 at 8:00 AM</p>\n<p>          Join local game &
+  animation industry artists\, producers\, executives\, entrepreneurs & eve
+ rything in between for conversation and networking\, …</p>\n<p>Details: ht
+ tp://www.meetup.com/DigitalOkanagan/events/qvpjtdytpbfb/</p>
+DTSTART;TZID=America/Vancouver:20151103T080000
+DTEND;TZID=America/Vancouver:20151103T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjytpbfb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, November 3 at 5:00 PM</p>\n<p>a bi-weekly gathering of di
+ gital-currency enthusiasts\, activists\, evangelists and newbies getting t
+ ogether to learn and discover the latest in Bitcoin…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/224396910/</p>
+DTSTART;TZID=America/Vancouver:20151103T170000
+DTEND;TZID=America/Vancouver:20151103T193000
+GEO:+49.88;-119.48
+LOCATION:BNA Restaurant Company (1250 Ellis St\, Kelowna\, BC\, Canada)
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_wrhnclytpbgb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, November 4 at 8:00 AM</p>\n<p>Come chat\, learn\, drink
+  coffee\, and scratch that artistic itch as you start your day. **NEW DATE
+ S & LOCATION**   This event is now being run every oth…</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/wrhnclytpbgb/</p>
+DTSTART;TZID=America/Vancouver:20151104T080000
+DTEND;TZID=America/Vancouver:20151104T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Art Brew
+URL:http://www.oypcollective.com/event/art-brew-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytpbnb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, November 10 at 8:00 AM</p>\n<p>          Join local game 
+ & animation industry artists\, producers\, executives\, entrepreneurs & ev
+ erything in between for conversation and networking\, …</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/qvpjtdytpbnb/</p>
+DTSTART;TZID=America/Vancouver:20151110T080000
+DTEND;TZID=America/Vancouver:20151110T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdytpbpb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, November 11 at 8:00 AM</p>\n<p>#devKL is a biweekly mee
+ tup to encourage local software developers to collaborate and learn from e
+ ach other. We’re hoping to build the development com…</p>\n<p>Details: htt
+ p://www.meetup.com/DigitalOkanagan/events/dzgksdytpbpb/</p>
+DTSTART;TZID=America/Vancouver:20151111T080000
+DTEND;TZID=America/Vancouver:20151111T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytpbwb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, November 17 at 8:00 AM</p>\n<p>          Join local game 
+ & animation industry artists\, producers\, executives\, entrepreneurs & ev
+ erything in between for conversation and networking\, …</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/qvpjtdytpbwb/</p>
+DTSTART;TZID=America/Vancouver:20151117T080000
+DTEND;TZID=America/Vancouver:20151117T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjytpbwb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, November 17 at 5:00 PM</p>\n<p>a bi-weekly gathering of d
+ igital-currency enthusiasts\, activists\, evangelists and newbies getting 
+ together to learn and discover the latest in Bitcoin…</p>\n<p>Details: htt
+ p://www.meetup.com/DigitalOkanagan/events/qsxjkjytpbwb/</p>
+DTSTART;TZID=America/Vancouver:20151117T170000
+DTEND;TZID=America/Vancouver:20151117T193000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_wrhnclytpbxb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, November 18 at 8:00 AM</p>\n<p>Come chat\, learn\, drin
+ k coffee\, and scratch that artistic itch as you start your day. **NEW DAT
+ ES & LOCATION**   This event is now being run every oth…</p>\n<p>Details: 
+ http://www.meetup.com/DigitalOkanagan/events/wrhnclytpbxb/</p>
+DTSTART;TZID=America/Vancouver:20151118T080000
+DTEND;TZID=America/Vancouver:20151118T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Art Brew
+URL:http://www.oypcollective.com/event/art-brew-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qvpjtdytpbgc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, November 24 at 8:00 AM</p>\n<p>          Join local game 
+ & animation industry artists\, producers\, executives\, entrepreneurs & ev
+ erything in between for conversation and networking\, …</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/qvpjtdytpbgc/</p>
+DTSTART;TZID=America/Vancouver:20151124T080000
+DTEND;TZID=America/Vancouver:20151124T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Gaming & Animation Industry Coffees
+URL:http://www.oypcollective.com/event/gaming-animation-industry-coffees-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdytpbhc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, November 25 at 8:00 AM</p>\n<p>#devKL is a biweekly mee
+ tup to encourage local software developers to collaborate and learn from e
+ ach other. We’re hoping to build the development com…</p>\n<p>Details: htt
+ p://www.meetup.com/DigitalOkanagan/events/dzgksdytpbhc/</p>
+DTSTART;TZID=America/Vancouver:20151125T080000
+DTEND;TZID=America/Vancouver:20151125T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjytqbcb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, December 1 at 5:00 PM</p>\n<p>a bi-weekly gathering of di
+ gital-currency enthusiasts\, activists\, evangelists and newbies getting t
+ ogether to learn and discover the latest in Bitcoin…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/qsxjkjytqbcb/</p>
+DTSTART;TZID=America/Vancouver:20151201T170000
+DTEND;TZID=America/Vancouver:20151201T193000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_wrhnclytqbdb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, December 2 at 8:00 AM</p>\n<p>Come chat\, learn\, drink
+  coffee\, and scratch that artistic itch as you start your day. **NEW DATE
+ S & LOCATION**   This event is now being run every oth…</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/wrhnclytqbdb/</p>
+DTSTART;TZID=America/Vancouver:20151202T080000
+DTEND;TZID=America/Vancouver:20151202T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Art Brew
+URL:http://www.oypcollective.com/event/art-brew-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdytqbmb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, December 9 at 8:00 AM</p>\n<p>#devKL is a biweekly meet
+ up to encourage local software developers to collaborate and learn from ea
+ ch other. We’re hoping to build the development com…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/dzgksdytqbmb/</p>
+DTSTART;TZID=America/Vancouver:20151209T080000
+DTEND;TZID=America/Vancouver:20151209T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjytqbtb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, December 15 at 5:00 PM</p>\n<p>a bi-weekly gathering of d
+ igital-currency enthusiasts\, activists\, evangelists and newbies getting 
+ together to learn and discover the latest in Bitcoin…</p>\n<p>Details: htt
+ p://www.meetup.com/DigitalOkanagan/events/qsxjkjytqbtb/</p>
+DTSTART;TZID=America/Vancouver:20151215T170000
+DTEND;TZID=America/Vancouver:20151215T193000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_wrhnclytqbvb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, December 16 at 8:00 AM</p>\n<p>Come chat\, learn\, drin
+ k coffee\, and scratch that artistic itch as you start your day. **NEW DAT
+ ES & LOCATION**   This event is now being run every oth…</p>\n<p>Details: 
+ http://www.meetup.com/DigitalOkanagan/events/wrhnclytqbvb/</p>
+DTSTART;TZID=America/Vancouver:20151216T080000
+DTEND;TZID=America/Vancouver:20151216T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Art Brew
+URL:http://www.oypcollective.com/event/art-brew-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdytqbfc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, December 23 at 8:00 AM</p>\n<p>#devKL is a biweekly mee
+ tup to encourage local software developers to collaborate and learn from e
+ ach other. We’re hoping to build the development com…</p>\n<p>Details: htt
+ p://www.meetup.com/DigitalOkanagan/events/dzgksdytqbfc/</p>
+DTSTART;TZID=America/Vancouver:20151223T080000
+DTEND;TZID=America/Vancouver:20151223T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjytqbmc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, December 29 at 5:00 PM</p>\n<p>a bi-weekly gathering of d
+ igital-currency enthusiasts\, activists\, evangelists and newbies getting 
+ together to learn and discover the latest in Bitcoin…</p>\n<p>Details: htt
+ p://www.meetup.com/DigitalOkanagan/events/qsxjkjytqbmc/</p>
+DTSTART;TZID=America/Vancouver:20151229T170000
+DTEND;TZID=America/Vancouver:20151229T193000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_wrhnclytqbnc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, December 30 at 8:00 AM</p>\n<p>Come chat\, learn\, drin
+ k coffee\, and scratch that artistic itch as you start your day. **NEW DAT
+ ES & LOCATION**   This event is now being run every oth…</p>\n<p>Details: 
+ http://www.meetup.com/DigitalOkanagan/events/wrhnclytqbnc/</p>
+DTSTART;TZID=America/Vancouver:20151230T080000
+DTEND;TZID=America/Vancouver:20151230T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Art Brew
+URL:http://www.oypcollective.com/event/art-brew-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdyvcbjb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, January 6 at 8:00 AM</p>\n<p>#devKL is a biweekly meetu
+ p to encourage local software developers to collaborate and learn from eac
+ h other. We’re hoping to build the development com…</p>\n<p>Details: http:
+ //www.meetup.com/DigitalOkanagan/events/dzgksdyvcbjb/</p>
+DTSTART;TZID=America/Vancouver:20160106T080000
+DTEND;TZID=America/Vancouver:20160106T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjyvcbqb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, January 12 at 5:00 PM</p>\n<p>a bi-weekly gathering of di
+ gital-currency enthusiasts\, activists\, evangelists and newbies getting t
+ ogether to learn and discover the latest in Bitcoin…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/qsxjkjyvcbqb/</p>
+DTSTART;TZID=America/Vancouver:20160112T170000
+DTEND;TZID=America/Vancouver:20160112T193000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_wrhnclyvcbrb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, January 13 at 8:00 AM</p>\n<p>Come chat\, learn\, drink
+  coffee\, and scratch that artistic itch as you start your day. **NEW DATE
+ S & LOCATION**   This event is now being run every oth…</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/wrhnclyvcbrb/</p>
+DTSTART;TZID=America/Vancouver:20160113T080000
+DTEND;TZID=America/Vancouver:20160113T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Art Brew
+URL:http://www.oypcollective.com/event/art-brew/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdyvcbbc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, January 20 at 8:00 AM</p>\n<p>#devKL is a biweekly meet
+ up to encourage local software developers to collaborate and learn from ea
+ ch other. We’re hoping to build the development com…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/dzgksdyvcbbc/</p>
+DTSTART;TZID=America/Vancouver:20160120T080000
+DTEND;TZID=America/Vancouver:20160120T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qsxjkjyvcbjc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nTuesday\, January 26 at 5:00 PM</p>\n<p>a bi-weekly gathering of di
+ gital-currency enthusiasts\, activists\, evangelists and newbies getting t
+ ogether to learn and discover the latest in Bitcoin…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/qsxjkjyvcbjc/</p>
+DTSTART;TZID=America/Vancouver:20160126T170000
+DTEND;TZID=America/Vancouver:20160126T193000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Secret meeting of the Satoshi Okanagan Institute
+URL:http://www.oypcollective.com/event/secret-meeting-of-the-satoshi-okanag
+ an-institute-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_wrhnclyvcbkc@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, January 27 at 8:00 AM</p>\n<p>Come chat\, learn\, drink
+  coffee\, and scratch that artistic itch as you start your day. **NEW DATE
+ S & LOCATION**   This event is now being run every oth…</p>\n<p>Details: h
+ ttp://www.meetup.com/DigitalOkanagan/events/wrhnclyvcbkc/</p>
+DTSTART;TZID=America/Vancouver:20160127T080000
+DTEND;TZID=America/Vancouver:20160127T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:Art Brew
+URL:http://www.oypcollective.com/event/art-brew-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_dzgksdyvdbfb@meetup.com
+DTSTAMP:20150920T003003Z
+CATEGORIES;LANGUAGE=en-US:Tech
+CONTACT:
+DESCRIPTION:<p>Digital Okanagan – Technology and Creative Community Events<
+ br />\nWednesday\, February 3 at 8:00 AM</p>\n<p>#devKL is a biweekly meet
+ up to encourage local software developers to collaborate and learn from ea
+ ch other. We’re hoping to build the development com…</p>\n<p>Details: http
+ ://www.meetup.com/DigitalOkanagan/events/dzgksdyvdbfb/</p>
+DTSTART;TZID=America/Vancouver:20160203T080000
+DTEND;TZID=America/Vancouver:20160203T090000
+GEO:+49.88;-119.48
+SEQUENCE:0
+SUMMARY:#devKL
+URL:http://www.oypcollective.com/event/devkl-4/
+END:VEVENT
+END:VCALENDAR

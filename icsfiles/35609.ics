@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//98.129.229.225//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.fatcatpottery.net
+X-WR-TIMEZONE:Atlantic/Azores
+BEGIN:VTIMEZONE
+TZID:Atlantic/Azores
+X-LIC-LOCATION:Atlantic/Azores
+BEGIN:STANDARD
+DTSTART:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0100
+TZNAME:AZOT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T000000
+TZOFFSETFROM:-0100
+TZOFFSETTO:+0000
+RDATE:20160327T000000
+TZNAME:AZOST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-862@www.fatcatpottery.net
+DTSTAMP:20150920T002341Z
+CATEGORIES:
+CONTACT:Fat Cat Pottery\; 970-874-2529\; fatcatpottery@live.com
+DESCRIPTION:<p><a href='http://www.fatcatpottery.net/wp-content/uploads/201
+ 4/08/keep-calm-and-paint-pottery-51.png'><img class='alignright size-mediu
+ m wp-image-861' src='http://www.fatcatpottery.net/wp-content/uploads/2014/
+ 08/keep-calm-and-paint-pottery-51-257x300.png' alt='keep-calm-and-paint-po
+ ttery-5[1]' width='257' height='300' /></a><span class='fsl'>This is an ev
+ ent for ADULT women only. No kids\, no husbands\, just us ladies having a 
+ night out\, painting pottery and having a good time! Feel free to bring a 
+ snack for your table or to share. The price is $5 studio fee and the price
+  of pottery. Sign up in advance due to limited space. We will close the st
+ udio to walk in traffic for this event on the first Friday of every month.
+  Call 874-2529 to sign up.</span></p>
+DTSTART;TZID=Atlantic/Azores:20151002T170000
+DTEND;TZID=Atlantic/Azores:20151002T200000
+EXDATE;TZID=Atlantic/Azores:20151204T170000
+GEO:+38.740707;-108.071075
+LOCATION:Fat Cat Pottery @ 451 Main Street\, Delta\, CO 81416\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1FR
+SEQUENCE:0
+SUMMARY:First Friday Chatty Cats and Snacks Night
+URL:http://www.fatcatpottery.net/event/first-friday-chatty-cats-and-snacks-
+ night
+X-COST:$5 Studio Fee + the price of pottery
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10185@www.fatcatpottery.net
+DTSTAMP:20150920T002341Z
+CATEGORIES:
+CONTACT:Fat Cat Pottery\; 9708742529\; fatcatpottery@live.com
+DESCRIPTION:<p><img class='alignleft size-full wp-image-10216' src='http://
+ www.fatcatpottery.net/wp-content/uploads/2015/08/DSC02079.jpg' alt='DSC020
+ 79' width='640' height='480' /></p>\n<p>We’re making pumpkins! I love this
+  little guy. We will use a variety of textures to decorate our little hand
+ made pumpkin pots! Call the studio to reserve your spot! 874-2529</p>
+DTSTART;TZID=Atlantic/Azores:20151009T160000
+DTEND;TZID=Atlantic/Azores:20151009T173000
+GEO:+38.740707;-108.071075
+LOCATION:Fat Cat Pottery @ 451 Main Street\, Delta\, CO 81416\, USA
+SEQUENCE:0
+SUMMARY:All Ages Pinch Pot Pumpkin Wet Clay Class
+URL:http://www.fatcatpottery.net/event/wet-clay-textured-tumbler-kids-summe
+ r-art-camp
+X-COST:$20.25 includes tax
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10233@www.fatcatpottery.net
+DTSTAMP:20150920T002341Z
+CATEGORIES:
+CONTACT:Fat Cat Pottery\; 9708742529\; fatcatpottery@live.com
+DESCRIPTION:<p><img class='alignleft size-full wp-image-10214' src='http://
+ www.fatcatpottery.net/wp-content/uploads/2015/08/DSC02076.jpg' alt='DSC020
+ 76' width='640' height='480' />We will create this wall hanging using wet 
+ clay\, textures and leaf cut outs. Come create a one of a kind fall decora
+ tion! . Different textures and colors available. Sign up by calling the st
+ udio at 874-2529.</p>
+DTSTART;TZID=Atlantic/Azores:20151015T173000
+DTEND;TZID=Atlantic/Azores:20151015T190000
+GEO:+38.740707;-108.071075
+LOCATION:Fat Cat Pottery @ 451 Main Street\, Delta\, CO 81416\, USA
+SEQUENCE:0
+SUMMARY:Wet Clay Witch Hat Wall Hanging Adult Workshop
+URL:http://www.fatcatpottery.net/event/wet-clay-witch-hat-wall-hanging-adul
+ t-workshop
+X-COST:$22.95 includes tax
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10235@www.fatcatpottery.net
+DTSTAMP:20150920T002341Z
+CATEGORIES:
+CONTACT:Fat Cat Pottery \; 970-874-2529\; fatcatpottery@live.com
+DESCRIPTION:<p><a href='http://www.fatcatpottery.net/wp-content/uploads/201
+ 4/08/keep-calm-and-paint-pottery-51.png'><img class='alignright size-mediu
+ m wp-image-861' src='http://www.fatcatpottery.net/wp-content/uploads/2014/
+ 08/keep-calm-and-paint-pottery-51-257x300.png' alt='keep-calm-and-paint-po
+ ttery-5[1]' width='257' height='300' /></a><span class='fsl'>Due to parade
+  of lights and our “Paint with Santa” event\, this will be on the SECOND F
+ riday this month. This is an event for ADULT women only. No kids\, no husb
+ ands\, just us ladies having a night out\, painting pottery and having a g
+ ood time! Feel free to bring a snack for your table or to share. The price
+  is $5 studio fee and the price of pottery. Sign up in advance due to limi
+ ted space. We will close the studio early to walk in traffic for this even
+ t. Call 874-2529 to sign up.</span></p>
+DTSTART;TZID=Atlantic/Azores:20151211T170000
+DTEND;TZID=Atlantic/Azores:20151211T200000
+GEO:+38.740707;-108.071075
+LOCATION:Fat Cat Pottery @ 451 Main Street\, Delta\, CO 81416\, USA
+SEQUENCE:0
+SUMMARY:December Chatty Cats and Snacks Night
+URL:http://www.fatcatpottery.net/event/december-chatty-cats-and-snacks-nigh
+ t-2
+X-COST:$5 studio + price of pottery
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10236@www.fatcatpottery.net
+DTSTAMP:20150920T002341Z
+CATEGORIES:
+CONTACT:Fat Cat Pottery\; 970-874-2529\; fatcatpottery@live.com
+DESCRIPTION:<p><a href='http://www.fatcatpottery.net/wp-content/uploads/201
+ 4/08/keep-calm-and-paint-pottery-51.png'><img class='alignright size-mediu
+ m wp-image-861' src='http://www.fatcatpottery.net/wp-content/uploads/2014/
+ 08/keep-calm-and-paint-pottery-51-257x300.png' alt='keep-calm-and-paint-po
+ ttery-5[1]' width='257' height='300' /></a>Due to parade of lights and our
+  “Paint with Santa” event\, this will be on the SECOND Friday this month. 
+ This is an event for ADULT women only. No kids\, no husbands\, just us lad
+ ies having a night out\, painting pottery and having a good time! Feel fre
+ e to bring a snack for your table or to share. The price is $5 studio fee 
+ and the price of pottery. Sign up in advance due to limited space. We will
+  close the studio early to walk in traffic for this event. Call 874-2529 t
+ o sign up.</p>
+DTSTART;TZID=Atlantic/Azores:20151211T170000
+DTEND;TZID=Atlantic/Azores:20151211T200000
+GEO:+38.740707;-108.071075
+LOCATION:Fat Cat Pottery @ 451 Main Street\, Delta\, CO 81416\, USA
+SEQUENCE:0
+SUMMARY:December Chatty Cats and Snacks Night
+URL:http://www.fatcatpottery.net/event/december-chatty-cats-and-snacks-nigh
+ t-3
+X-COST:$5 Studio Fee + the price of pottery
+END:VEVENT
+END:VCALENDAR

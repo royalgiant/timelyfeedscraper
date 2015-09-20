@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//27.124.114.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://stjudescatholic.org
+X-WR-TIMEZONE:Australia/Perth
+BEGIN:VTIMEZONE
+TZID:Australia/Perth
+X-LIC-LOCATION:Australia/Perth
+BEGIN:STANDARD
+DTSTART:20090329T030000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0800
+TZNAME:AWST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-180@www.desousadesigns.com.au/StJudesparish
+DTSTAMP:20150920T002415Z
+CATEGORIES:
+CONTACT:Parish Office\; 08 9458 1946
+DESCRIPTION:<p>Exposition of the Blessed Sacrament and Holy Rosary.</p>
+DTSTART;TZID=Australia/Perth:20150919T180000
+DTEND;TZID=Australia/Perth:20150919T183000
+GEO:-32.04435;+115.93515
+LOCATION:St Jude's Catholic parish @ 20 Prendiville Way\, Langford WA 6147\
+ , Australia
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Exposition of the Blessed Sacrament and Holy Rosary
+URL:http://stjudescatholic.org/event/exposition-of-the-blessed-sacrament-an
+ d-holy-rosary/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-171@www.desousadesigns.com.au/StJudesparish
+DTSTAMP:20150920T002415Z
+CATEGORIES:
+CONTACT:Parish Office\; 08 9458 1946
+DESCRIPTION:<p>Holy Mass Vigil at 6.30pm.</p>
+DTSTART;TZID=Australia/Perth:20150919T183000
+DTEND;TZID=Australia/Perth:20150919T193000
+GEO:-32.04435;+115.93515
+LOCATION:St Jude's Catholic parish @ 20 Prendiville Way\, Langford WA 6147\
+ , Australia
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Holy Mass Vigil
+URL:http://stjudescatholic.org/event/holy-mass-with-adoration-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-175@stjudescatholic.org
+DTSTAMP:20150920T002415Z
+CATEGORIES:
+CONTACT:Parish Office\; 08 9458 1946
+DESCRIPTION:<p>Holy Mass at 9am\, followed by Adoration until 5pm only.</p>
+DTSTART;TZID=Australia/Perth:20150922T090000
+DTEND;TZID=Australia/Perth:20150922T170000
+GEO:-32.04435;+115.93515
+LOCATION:St Jude's Catholic parish @ 20 Prendiville Way\, Langford WA 6147\
+ , Australia
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Holy Mass with Adoration
+URL:http://stjudescatholic.org/event/holy-mass-with-adoration-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-178@stjudescatholic.org
+DTSTAMP:20150920T002415Z
+CATEGORIES:
+CONTACT:Parish Office\; 08 9458 1946
+DESCRIPTION:<p>Holy Mass at 9 am.</p>
+DTSTART;TZID=Australia/Perth:20150923T090000
+DTEND;TZID=Australia/Perth:20150923T100000
+GEO:-32.04435;+115.93515
+LOCATION:St Jude's Catholic parish @ 20 Prendiville Way\, Langford WA 6147\
+ , Australia
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Holy Mass
+URL:http://stjudescatholic.org/event/holy-mass-with-adoration-2-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-173@www.desousadesigns.com.au/StJudesparish
+DTSTAMP:20150920T002415Z
+CATEGORIES:
+CONTACT:Parish Office\; 08 9458 1946
+DESCRIPTION:
+DTSTART;TZID=Australia/Perth:20150923T160000
+DTEND;TZID=Australia/Perth:20150923T170000
+GEO:-32.04435;+115.93515
+LOCATION:St Jude's Catholic parish @ 20 Prendiville Way\, Langford WA 6147\
+ , Australia
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:After-school Catechism class
+URL:http://stjudescatholic.org/event/holy-mass-with-adoration-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-170@www.desousadesigns.com.au/StJudesparish
+DTSTAMP:20150920T002415Z
+CATEGORIES:
+CONTACT:Parish Office\; 08 9458 1946
+DESCRIPTION:<p>Holy Mass at 9am\, followed bycenacle meeting.</p>
+DTSTART;TZID=Australia/Perth:20150924T090000
+DTEND;TZID=Australia/Perth:20150924T103000
+GEO:-32.04435;+115.93515
+LOCATION:St Jude's Catholic parish @ 20 Prendiville Way\, Langford WA 6147\
+ , Australia
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Holy Mass followed by Cenacle meeting
+URL:http://stjudescatholic.org/event/holy-mass-with-adoration/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-181@stjudescatholic.org
+DTSTAMP:20150920T002415Z
+CATEGORIES:
+CONTACT:Parish Office\; 08 9458 1946
+DESCRIPTION:<p>Holy Mass at 9 am.</p>
+DTSTART;TZID=Australia/Perth:20150925T090000
+DTEND;TZID=Australia/Perth:20150925T100000
+GEO:-32.04435;+115.93515
+LOCATION:St Jude's Catholic parish @ 20 Prendiville Way\, Langford WA 6147\
+ , Australia
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Holy Mass
+URL:http://stjudescatholic.org/event/holy-mass-with-adoration-2-5/
+END:VEVENT
+END:VCALENDAR

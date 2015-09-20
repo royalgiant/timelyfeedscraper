@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//174.120.146.194//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.pittsburghnewworks.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2900@www.pittsburghnewworks.org
+DTSTAMP:20150920T002330Z
+CATEGORIES;LANGUAGE=en-US:For Actors\,For Directors\,For Playwrights\,For P
+ roducers\,For the Board\,For Volunteers\,Performance\,Program C
+CONTACT:
+DESCRIPTION:<p>3:30 pm: The Red Masquers</p>\n<p>4:00 pm:Phase 3 Production
+ s</p>\n<p>4:45 pm: The Summer Company</p>\n<p>The above call times are app
+ roximate half hour calls. All participants are encouraged to arrive earlie
+ r.</p>
+DTSTART;TZID=America/New_York:20150919T160000
+DTEND;TZID=America/New_York:20150919T180000
+GEO:+40.406128;-80.08867
+LOCATION:Off the Wall Theater @ 25 West Main Street\, Carnegie\, PA 15106\,
+  USA
+SEQUENCE:0
+SUMMARY:Program C Performance
+URL:http://www.pittsburghnewworks.org/event/program-c-performance-9/
+X-TAGS;LANGUAGE=en-US:phase 3 productions\,red masquers\,summer company
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2902@www.pittsburghnewworks.org
+DTSTAMP:20150920T002330Z
+CATEGORIES;LANGUAGE=en-US:For Actors\,For Directors\,For Playwrights\,For P
+ roducers\,For the Board\,For Volunteers\,Performance\,Program D
+CONTACT:
+DESCRIPTION:<p>7:30 pm: The Heritage Players</p>\n<p>8:00 pm: Mckeesport Li
+ ttle Theater</p>\n<p>8:45 pm: The South Hills Players</p>\n<p>The above ca
+ ll times are approximate half hour calls. All participants are encouraged 
+ to arrive earlier.</p>\n<p>All Actors\, Stage Managers and other Crew Memb
+ ers must be signed in at least one half hour before they are scheduled to 
+ go on stage. Final call times will be determined at final dress.</p>
+DTSTART;TZID=America/New_York:20150919T200000
+DTEND;TZID=America/New_York:20150919T220000
+GEO:+40.406128;-80.08867
+LOCATION:Off the Wall Theater @ 25 West Main Street\, Carnegie\, PA 15106\,
+  USA
+SEQUENCE:0
+SUMMARY:Program D Performance
+URL:http://www.pittsburghnewworks.org/event/program-d-performance-10/
+X-TAGS;LANGUAGE=en-US:heritage players\,mckeesport little theater\,south hi
+ ll players
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2904@www.pittsburghnewworks.org
+DTSTAMP:20150920T002330Z
+CATEGORIES;LANGUAGE=en-US:For Actors\,For Directors\,For Playwrights\,For P
+ roducers\,For the Board\,For Volunteers\,Performance\,Program C
+CONTACT:
+DESCRIPTION:<p>1:30 pm: The Red Masquers</p>\n<p>2:00 pm:Phase 3 Production
+ s</p>\n<p>2:45 pm: The Summer Company</p>\n<p>The above call times are app
+ roximate half hour calls. All participants are encouraged to arrive earlie
+ r.</p>
+DTSTART;TZID=America/New_York:20150920T140000
+DTEND;TZID=America/New_York:20150920T160000
+GEO:+40.406128;-80.08867
+LOCATION:Off the Wall Theater @ 25 West Main Street\, Carnegie\, PA 15106\,
+  USA
+SEQUENCE:0
+SUMMARY:Program C Performance
+URL:http://www.pittsburghnewworks.org/event/program-c-performance-10/
+X-TAGS;LANGUAGE=en-US:phase 3 productions\,red masquers\,summer company
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2905@www.pittsburghnewworks.org
+DTSTAMP:20150920T002330Z
+CATEGORIES;LANGUAGE=en-US:For Actors\,For Directors\,For Playwrights\,For P
+ roducers\,For the Board\,For Volunteers\,Performance\,Program D
+CONTACT:
+DESCRIPTION:<p>7:30 pm: The Heritage Players</p>\n<p>8:00 pm: Mckeesport Li
+ ttle Theater</p>\n<p>8:45 pm: The South Hills Players</p>\n<p>The above ca
+ ll times are approximate half hour calls. All participants are encouraged 
+ to arrive earlier.</p>\n<p>All Actors\, Stage Managers and other Crew Memb
+ ers must be signed in at least one half hour before they are scheduled to 
+ go on stage. Final call times will be determined at final dress.</p>
+DTSTART;TZID=America/New_York:20150924T200000
+DTEND;TZID=America/New_York:20150924T220000
+GEO:+40.406128;-80.08867
+LOCATION:Off the Wall Theater @ 25 West Main Street\, Carnegie\, PA 15106\,
+  USA
+SEQUENCE:0
+SUMMARY:Program D Performance
+URL:http://www.pittsburghnewworks.org/event/program-d-performance-11/
+X-TAGS;LANGUAGE=en-US:heritage players\,mckeesport little theater\,south hi
+ ll players
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2896@www.pittsburghnewworks.org
+DTSTAMP:20150920T002330Z
+CATEGORIES;LANGUAGE=en-US:For Actors\,For Directors\,For Playwrights\,For P
+ roducers\,For the Board\,For Volunteers\,Performance\,Program C
+CONTACT:
+DESCRIPTION:<p>7:30 pm: The Red Masquers</p>\n<p>8:00 pm:Phase 3 Production
+ s</p>\n<p>8:45 pm: The Summer Company</p>\n<p>The above call times are app
+ roximate half hour calls. All participants are encouraged to arrive earlie
+ r.</p>\n<p>All Actors\, Stage Managers and other Crew Members must be sign
+ ed in at least one half hour before they are scheduled to go on stage. Fin
+ al call times will be determined at final dress.</p>
+DTSTART;TZID=America/New_York:20150925T200000
+DTEND;TZID=America/New_York:20150925T220000
+GEO:+40.406128;-80.08867
+LOCATION:Off the Wall Theater @ 25 West Main Street\, Carnegie\, PA 15106\,
+  USA
+SEQUENCE:0
+SUMMARY:Program C Performance
+URL:http://www.pittsburghnewworks.org/event/program-c-performance-7/
+X-TAGS;LANGUAGE=en-US:phase 3 productions\,red masquers\,summer company
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2895@www.pittsburghnewworks.org
+DTSTAMP:20150920T002330Z
+CATEGORIES;LANGUAGE=en-US:For Actors\,For Directors\,For Playwrights\,For P
+ roducers\,For the Board\,For Volunteers\,Performance\,Program D
+CONTACT:
+DESCRIPTION:<p>3:30 pm: The Heritage Players</p>\n<p>4:00 pm: Mckeesport Li
+ ttle Theater</p>\n<p>4:45 pm: The South Hills Players</p>\n<p>The above ca
+ ll times are approximate half hour calls. All participants are encouraged 
+ to arrive earlier.</p>\n<p>All Actors\, Stage Managers and other Crew Memb
+ ers must be signed in at least one half hour before they are scheduled to 
+ go on stage. Final call times will be determined at final dress.</p>
+DTSTART;TZID=America/New_York:20150926T160000
+DTEND;TZID=America/New_York:20150926T180000
+GEO:+40.406128;-80.08867
+LOCATION:Off the Wall Theater @ 25 West Main Street\, Carnegie\, PA 15106\,
+  USA
+SEQUENCE:0
+SUMMARY:Program D Performance
+URL:http://www.pittsburghnewworks.org/event/program-d-performance-7/
+X-TAGS;LANGUAGE=en-US:heritage players\,mckeesport little theater\,south hi
+ ll players
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2894@www.pittsburghnewworks.org
+DTSTAMP:20150920T002330Z
+CATEGORIES;LANGUAGE=en-US:For Actors\,For Directors\,For Playwrights\,For P
+ roducers\,For the Board\,For Volunteers\,Performance\,Program C
+CONTACT:
+DESCRIPTION:<p>7:30 pm: The Red Masquers</p>\n<p>8:00 pm:Phase 3 Production
+ s</p>\n<p>8:45 pm: The Summer Company</p>\n<p>The above call times are app
+ roximate half hour calls. All participants are encouraged to arrive earlie
+ r.</p>\n<p>Load Out to follow after final performance of all companies. An
+ y company loading out while another company is performing risks disciplina
+ ry actions from the board.</p>
+DTSTART;TZID=America/New_York:20150926T200000
+DTEND;TZID=America/New_York:20150926T220000
+GEO:+40.406128;-80.08867
+LOCATION:Off the Wall Theater @ 25 West Main Street\, Carnegie\, PA 15106\,
+  USA
+SEQUENCE:0
+SUMMARY:Program C Performance
+URL:http://www.pittsburghnewworks.org/event/program-c-performance-6/
+X-TAGS;LANGUAGE=en-US:phase 3 productions\,red masquers\,summer company
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2893@www.pittsburghnewworks.org
+DTSTAMP:20150920T002330Z
+CATEGORIES;LANGUAGE=en-US:For Actors\,For Directors\,For Playwrights\,For P
+ roducers\,For the Board\,For Volunteers\,Performance\,Program D
+CONTACT:
+DESCRIPTION:<p>1:30 pm: The Heritage Players</p>\n<p>2:00 pm: Mckeesport Li
+ ttle Theater</p>\n<p>2:45 pm: The South Hills Players</p>\n<p>The above ca
+ ll times are approximate half hour calls. All participants are encouraged 
+ to arrive earlier.</p>\n<p>All Actors\, Stage Managers and other Crew Memb
+ ers must be signed in at least one half hour before they are scheduled to 
+ go on stage. Final call times will be determined at final dress.</p>\n<p>F
+ INAL PERFORMANCE</p>\n<p>Load Out to follow after final performance of all
+  companies. Any company loading out while another company is performing ri
+ sks disciplinary actions from the board.</p>
+DTSTART;TZID=America/New_York:20150927T140000
+DTEND;TZID=America/New_York:20150927T160000
+GEO:+40.406128;-80.08867
+LOCATION:Off the Wall Theater @ 25 West Main Street\, Carnegie\, PA 15106\,
+  USA
+SEQUENCE:0
+SUMMARY:Program D Performance
+URL:http://www.pittsburghnewworks.org/event/program-d-performance-6/
+X-TAGS;LANGUAGE=en-US:heritage players\,mckeesport little theater\,south hi
+ ll players
+END:VEVENT
+END:VCALENDAR

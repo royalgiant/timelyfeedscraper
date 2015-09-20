@@ -1,0 +1,375 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.87.49.107//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://feikc.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-407@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join fellow finance leaders of private companies for informa
+ l peer-to-peer discussion of budgeting and benefits over breakfast. Share 
+ your questions\, problems and ideas in a small-group roundtable setting.</
+ p>
+DTSTART;TZID=America/Chicago:20150924T073000
+DTEND;TZID=America/Chicago:20150924T090000
+GEO:+39.075455;-94.602015
+LOCATION:UltraSource @ 1414 West 29 Street\, Kansas City\, MO 64108\, USA
+SEQUENCE:0
+SUMMARY:Private Company Roundtable
+URL:http://feikc.org/event/private-company-roundtable-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-391@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://feikc.org/wp-content/uploads/2015/07/Mayor-Sly-
+ James.jpg'><img class='alignnone  wp-image-464' src='http://feikc.org/wp-c
+ ontent/uploads/2015/07/Mayor-Sly-James-199x300.jpg' alt='Mayor-Sly-James' 
+ width='138' height='208' /></a><a href='http://feikc.org/wp-content/upload
+ s/2015/07/Susana-Eshleman.jpg'><img class='alignnone size-full wp-image-46
+ 5' src='http://feikc.org/wp-content/uploads/2015/07/Susana-Eshleman.jpg' a
+ lt='Susana-Eshleman' width='139' height='208' /></a>\n<p>Kansas City Mayor
+  Sly James and Susana Eshleman\, a former Hallmark executive who is now CE
+ O of Children International\, offer perspectives on how businesses – and e
+ xecutives – can give back to the community. Mayor James addresses the broa
+ d range of issues our city faces\, and Ms. Eshleman focuses on investing i
+ n children and youth both at home and abroad.</p>
+DTSTART;TZID=America/Chicago:20151012T170000
+DTEND;TZID=America/Chicago:20151012T203000
+GEO:+39.039197;-94.592389
+LOCATION:Intercontinental Hotel @ 401 Ward Parkway\, Kansas City\, MO 64112
+ \, USA
+SEQUENCE:0
+SUMMARY:Giving Back to the Community
+URL:http://feikc.org/event/october-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-412@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join fellow finance leaders and board members of nonprofit o
+ rganizations for informal peer-to-peer discussion over lunch. Share your q
+ uestions\, problems and ideas in a small-group roundtable setting.</p>
+DTSTART;TZID=America/Chicago:20151106T113000
+DTEND;TZID=America/Chicago:20151106T130000
+GEO:+39.041997;-94.596601
+LOCATION:United Way @ 801 West 47th Street #500\, Kansas City\, MO 64112\, 
+ USA
+SEQUENCE:0
+SUMMARY:Nonprofit Roundtable
+URL:http://feikc.org/event/nonprofit-roundtable/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-408@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join fellow finance leaders of private companies for informa
+ l peer-to-peer discussion of tax and accounting standards update over brea
+ kfast. Share your questions\, problems and ideas in a small-group roundtab
+ le setting.</p>
+DTSTART;TZID=America/Chicago:20151111T073000
+DTEND;TZID=America/Chicago:20151111T090000
+GEO:+39.075455;-94.602015
+LOCATION:UltraSource @ 1414 West 29 Street\, Kansas City\, MO 64108\, USA
+SEQUENCE:0
+SUMMARY:Private Company Roundtable
+URL:http://feikc.org/event/private-company-roundtable-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-415@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join fellow finance leaders of publicly traded companies for
+  informal peer-to-peer discussion of the state of the economy\, profession
+ al development\, and healthcare and benefit costs over a light catered lun
+ ch. Share your questions\, problems\, and ideas in a small-group roundtabl
+ e setting.</p>
+DTSTART;TZID=America/Chicago:20151111T110000
+DTEND;TZID=America/Chicago:20151111T130000
+GEO:+41.684739;-87.723421
+LOCATION:Mariner Wealth Advisors Board Room (2nd Floor) @ 4200 West 115th S
+ treet\, Chicago\, IL 60655\, USA
+SEQUENCE:0
+SUMMARY:Public Company Roundtable
+URL:http://feikc.org/event/public-company-roundtable-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-390@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://feikc.org/wp-content/uploads/2015/07/Cornucopia
+ .jpg'><img class='alignnone size-medium wp-image-421' src='http://feikc.or
+ g/wp-content/uploads/2015/07/Cornucopia-300x200.jpg' alt='Cornucopia' widt
+ h='300' height='200' /></a>\n<p>Join us for FEI Kansas City’s annual profe
+ ssional development day. A cornucopia of current topics in finance\, with 
+ good networking and CPE credits too.</p>
+DTSTART;TZID=America/Chicago:20151116T073000
+DTEND;TZID=America/Chicago:20151116T193000
+GEO:+38.930464;-94.669353
+LOCATION:Overland Park Marriott @ 10800 Metcalf Avenue\, Overland Park\, KS
+  66210\, USA
+SEQUENCE:0
+SUMMARY:Fall Feast Professional Development Day
+URL:http://feikc.org/event/professional-development-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-392@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Daniel Solomon\, Chief Risk Officer of Koch Industries\, sha
+ res ideas and strategies on risk from experience with the multinational gi
+ ant based in Wichita. With interests as diverse as energy and chemicals\, 
+ paper towels and pipelines\, fiber optics and cattle\, the privately-held 
+ Koch has more than 100\,000 employees worldwide and revenues estimated as 
+ high as $115 billion. Networking\, dinner and presentation will top off FE
+ I’s Fall Feast Professional Development Day.</p>
+DTSTART;TZID=America/Chicago:20151116T170000
+DTEND;TZID=America/Chicago:20151116T193000
+GEO:+38.930464;-94.669353
+LOCATION:Overland Park Marriott @ 10800 Metcalf Avenue\, Overland Park\, KS
+  66210\, USA
+SEQUENCE:0
+SUMMARY:Koch Industries: Perspectives on Risk Management
+URL:http://feikc.org/event/inside-koch-industries/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-400@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://feikc.org/wp-content/uploads/2015/07/bigstock-C
+ hampagne-cocktail-for-New-Ye-71759689.jpg'><img class='alignnone size-medi
+ um wp-image-418' src='http://feikc.org/wp-content/uploads/2015/07/bigstock
+ -Champagne-cocktail-for-New-Ye-71759689-300x200.jpg' alt='' width='300' he
+ ight='200' /></a>\n<p>Details to come…join us in celebrating the holiday s
+ eason!</p>
+DTSTART;TZID=America/Chicago:20151207T170000
+DTEND;TZID=America/Chicago:20151207T193000
+SEQUENCE:0
+SUMMARY:Holiday Party
+URL:http://feikc.org/event/holiday-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-393@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://feikc.org/wp-content/uploads/2015/07/Finance-Gr
+ aphs-Pen-iStock_000016153431XSmall.jpg'><img class='alignnone size-medium 
+ wp-image-401' src='http://feikc.org/wp-content/uploads/2015/07/Finance-Gra
+ phs-Pen-iStock_000016153431XSmall-300x199.jpg' alt='Finance Graphs-Pen iSt
+ ock_000016153431XSmall' width='300' height='199' /></a>\n<p>Gaze into the 
+ crystal ball with economist Alan Beaulieu\, principal of ITR Economics\, i
+ n FEI and ACG Kansas City’s joint outlook session. Alan is a lively presen
+ ter with insights into all corners of the economy. He consults with compan
+ ies worldwide on how to forecast\, plan and increase profits based on anal
+ ysis of business cycle trends. Come for breakfast and good networking.</p>
+DTSTART;TZID=America/Chicago:20160108T073000
+DTEND;TZID=America/Chicago:20160108T090000
+GEO:+38.928382;-94.656538
+LOCATION:Sheraton Convention Center @ 6100 College Boulevard\, Overland Par
+ k\, KS 66211\, USA
+SEQUENCE:0
+SUMMARY:2016 Annual Economic Outlook
+URL:http://feikc.org/event/feiacg-economic-outlook/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-416@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join fellow finance leaders of publicly traded companies for
+  informal peer-to-peer discussion of professional development\, the state 
+ of the economy\, and healthcare and benefit costs over a light catered lun
+ ch. Share your questions\, problems\, and ideas in a small-group roundtabl
+ e setting.</p>
+DTSTART;TZID=America/Chicago:20160203T110000
+DTEND;TZID=America/Chicago:20160203T130000
+GEO:+38.920717;-94.633995
+LOCATION:Mariner Wealth Advisors Board Room (2nd Floor) @ 4200 West 115th S
+ treet\, Leawood\, KS 66211\, USA
+SEQUENCE:0
+SUMMARY:Public Company Roundtable
+URL:http://feikc.org/event/public-company-roundtable-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-413@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join fellow finance leaders and board members of nonprofit o
+ rganizations for informal peer-to-peer discussion over lunch. Share your q
+ uestions\, problems and ideas in a small-group roundtable setting.</p>
+DTSTART;TZID=America/Chicago:20160205T113000
+DTEND;TZID=America/Chicago:20160205T130000
+GEO:+39.041997;-94.596601
+LOCATION:United Way @ 801 West 47th Street #500\, Kansas City\, MO 64112\, 
+ USA
+SEQUENCE:0
+SUMMARY:Nonprofit Roundtable
+URL:http://feikc.org/event/nonprofit-roundtable-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-394@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://feikc.org/wp-content/uploads/2015/07/bigstock-C
+ yber-Security-6291618.jpg'><img class='alignnone size-medium wp-image-420'
+  src='http://feikc.org/wp-content/uploads/2015/07/bigstock-Cyber-Security-
+ 6291618-300x194.jpg' alt='' width='300' height='194' /></a>\n<p>Hear Roger
+  Hamlin\, Ericsson Head of Network Security for Sprint. Details to come.</
+ p>
+DTSTART;TZID=America/Chicago:20160208T170000
+DTEND;TZID=America/Chicago:20160208T193000
+GEO:+38.930464;-94.669353
+LOCATION:Overland Park Marriott @ 10800 Metcalf Avenue\, Overland Park\, KS
+  66210\, USA
+SEQUENCE:0
+SUMMARY:Cyber Security: What You Need to Know
+URL:http://feikc.org/event/cyber-security-what-you-need-to-know/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-409@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join fellow finance leaders of private companies for informa
+ l peer-to-peer discussion of the 2016 Outlook and software tools over brea
+ kfast. Share your questions\, problems and ideas in a small-group roundtab
+ le setting.</p>
+DTSTART;TZID=America/Chicago:20160217T073000
+DTEND;TZID=America/Chicago:20160217T090000
+GEO:+39.075455;-94.602015
+LOCATION:UltraSource @ 1414 West 29 Street\, Kansas City\, MO 64108\, USA
+SEQUENCE:0
+SUMMARY:Private Company Roundtable
+URL:http://feikc.org/event/private-company-roundtable-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-404@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Johnny Quinn\, a U.S. Olympian in the sport of bobsled and a
+  former NFL football player\, shares the right mindset\, goal-setting stra
+ tegies and techniques necessary to win. He tackles the daily battles we al
+ l face when trying to accomplish our objective\, whatever it may be. You w
+ ill learn how to navigate obstacles and develop a game plan to align with 
+ what you do at home\, at work and in the community.</p>
+DTSTART;TZID=America/Chicago:20160314T170000
+DTEND;TZID=America/Chicago:20160314T193000
+GEO:+38.930464;-94.669353
+LOCATION:Overland Park Marriott @ 10800 Metcalf Avenue\, Overland Park\, KS
+  66210\, USA
+SEQUENCE:0
+SUMMARY:Think Like an Olympian
+URL:http://feikc.org/event/march-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-398@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us in celebrating FEI Kansas City’s 2015-2016 Academic 
+ Award winners – top finance and accounting students from area universities
+ . Harry S. Campbell\, author and long-time executive\, will give a provoca
+ tive talk on the theme “Wake Up Business Leaders: It’s Time to Get Real.” 
+ Campbell takes the tenets of servant leadership from examples like Sam Wal
+ ton and infuses them with his own business philosophies developed while wo
+ rking at Fortune 500 companies including Procter & Gamble (P&G) and Sprint
+ \, as well as smaller private companies. What results is an empowering and
+  fresh approach to managing people and business that Campbell calls Get-Re
+ al Leadership.</p>
+DTSTART;TZID=America/Chicago:20160411T170000
+DTEND;TZID=America/Chicago:20160411T193000
+GEO:+38.930464;-94.669353
+LOCATION:Overland Park Marriott @ 10800 Metcalf Avenue\, Overland Park\, KS
+  66210\, USA
+SEQUENCE:0
+SUMMARY:Academic Awards Night + Harry Campbell on Leadership
+URL:http://feikc.org/event/academic-awards-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-410@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join fellow finance leaders of private companies for informa
+ l peer-to-peer discussion of technology over breakfast. Share your questio
+ ns\, problems and ideas in a small-group roundtable setting.</p>
+DTSTART;TZID=America/Chicago:20160421T073000
+DTEND;TZID=America/Chicago:20160421T090000
+GEO:+39.075455;-94.602015
+LOCATION:UltraSource @ 1414 West 29 Street\, Kansas City\, MO 64108\, USA
+SEQUENCE:0
+SUMMARY:Private Company Roundtable
+URL:http://feikc.org/event/private-company-roundtable-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-399@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<a href='http://feikc.org/wp-content/uploads/2015/07/FEI-spring
+ -social-May-2014-15.jpg'><img class='alignnone size-medium wp-image-422' s
+ rc='http://feikc.org/wp-content/uploads/2015/07/FEI-spring-social-May-2014
+ -15-300x200.jpg' alt='FEI spring social May 2014-15' width='300' height='2
+ 00' /></a>\n<p>Join us for an end of the year celebration and networking.<
+ /p>
+DTSTART;TZID=America/Chicago:20160509T170000
+DTEND;TZID=America/Chicago:20160509T193000
+GEO:+38.985483;-94.593753
+LOCATION:Kansas City Bier Company @ 310 West 79 Street\, Kansas City\, MO 6
+ 4114\, USA
+SEQUENCE:0
+SUMMARY:Spring Social
+URL:http://feikc.org/event/spring-social/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-417@feikc.org
+DTSTAMP:20150920T002152Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join fellow finance leaders of publicly traded companies for
+  informal peer-to-peer discussion of healthcare and benefit costs\, profes
+ sional development and the state of the economy over a light catered lunch
+ . Share your questions\, problems\, and ideas in a small-group roundtable 
+ setting.</p>
+DTSTART;TZID=America/Chicago:20160525T110000
+DTEND;TZID=America/Chicago:20160525T130000
+GEO:+41.684739;-87.723421
+LOCATION:Mariner Wealth Advisors Board Room (2nd Floor) @ 4200 West 115th S
+ treet\, Chicago\, IL 60655\, USA
+SEQUENCE:0
+SUMMARY:Public Company Roundtable
+URL:http://feikc.org/event/public-company-roundtable-4/
+END:VEVENT
+END:VCALENDAR

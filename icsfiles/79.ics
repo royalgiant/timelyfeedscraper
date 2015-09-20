@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.89.31.173//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.crjc.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1265@www.crjc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:CRJC Meetings
+CONTACT:Patricia Crocker \; 603-448-1680\; pcrocker@uvlsrpc.org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150921T120000
+DTEND;TZID=America/New_York:20150921T130000
+GEO:+43.641416;-72.25414
+LOCATION:CRJC Offices @ 10 Water Street #225\, Lebanon\, NH 03766\, USA
+SEQUENCE:0
+SUMMARY:CRJC Executive Committee
+URL:http://www.crjc.org/event/crjc-executive-committee-8-2/
+X-COST:FREE AND OPEN TO THE PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1264@www.crjc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:CRJC Meetings
+CONTACT:Patricia Crocker \; 603-448-1680\; pcrocker@uvlsrpc.org
+DESCRIPTION:<p>This will be a working meeting to finalize work plans for th
+ e fiscal year.</p>
+DTSTART;TZID=America/New_York:20150921T130000
+DTEND;TZID=America/New_York:20150921T160000
+GEO:+43.641416;-72.25414
+LOCATION:CRJC Offices @ 10 Water Street #225\, Lebanon\, NH 03766\, USA
+SEQUENCE:0
+SUMMARY:Joint Commissions Meeting
+URL:http://www.crjc.org/event/crjc-executive-committee-8/
+X-COST:FREE AND OPEN TO THE PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1195@www.crjc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Subcommittee Meetings
+CONTACT:Tara Bamford\; 603-444-6303 \; tbamford@nccouncil.org
+DESCRIPTION:<p>The next meeting will be on Thursday Sept 24 at 7 PM at the 
+ Colebrook Town Hall. The main agenda items will be to discuss the Northern
+  Pass Draft EIS and the draft management plan for the Conte Refuge and dec
+ ide if you want to send comments from the Headwaters Subcommittee on eithe
+ r document.</p>\n<p>The Northern Pass Draft EIS\, and comment form for tho
+ se wishing to comment as individuals\, can both be accessed here: <a href=
+ 'http://www.northernpasseis.us/' onclick='_gaq.push(['_trackEvent'\, 'outb
+ ound-article'\, 'http://www.northernpasseis.us/'\, 'http://www.northernpas
+ seis.us/'])\;' >http://www.northernpasseis.us/</a></p>\n<p>The Conte Plan 
+ and information on meetings and hearings can be found here:  <a href='http
+ ://www.fws.gov/refuge/Silvio_O_Conte/what_we_do/conservation.html' onclick
+ ='_gaq.push(['_trackEvent'\, 'outbound-article'\, 'http://www.fws.gov/refu
+ ge/Silvio_O_Conte/what_we_do/conservation.html'\, 'http://www.fws.gov/refu
+ ge/Silvio_O_Conte/what_we_do/conservation.html'])\;' >http://www.fws.gov/r
+ efuge/Silvio_O_Conte/what_we_do/conservation.html</a></p>
+DTSTART;TZID=America/New_York:20150924T190000
+DTEND;TZID=America/New_York:20150924T210000
+GEO:+44.851992;-71.551753
+LOCATION:Colebrook Town Hall @ Colebrook\, NH
+SEQUENCE:0
+SUMMARY:Headwaters Subcommittee Meeting
+URL:http://www.crjc.org/event/headwaters-subcommittee-meeting-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1236@www.crjc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Subcommittee Meetings
+CONTACT:Tara Bamford\; 603-444-6303 x 26\; tbamford@nccouncil.org
+DESCRIPTION:<p><a href='http://www.crjc.org/wp-content/uploads/2015/07/Sept
+ icWorkshopFlyer-2015.pdf' onclick='_gaq.push(['_trackEvent'\,'download'\,'
+ http://www.crjc.org/wp-content/uploads/2015/07/SepticWorkshopFlyer-2015.pd
+ f'])\;' >SepticWorkshopFlyer 2015</a></p>
+DTSTART;TZID=America/New_York:20150926T090000
+DTEND;TZID=America/New_York:20150926T123000
+GEO:+43.281026;-72.478083
+LOCATION:River Valley Tech Center @ 307 South Street\, Springfield\, VT 051
+ 56\, USA
+SEQUENCE:0
+SUMMARY:Septic System Maintenance Workshop
+URL:http://www.crjc.org/event/septic-system-maintenance-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1203@www.crjc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Subcommittee Meetings
+CONTACT:Tara Bamford\; 603-444-6303\; TBamford@NCCouncil.org
+DESCRIPTION:<p>Unless there is permit activity requiring something sooner\,
+  the next CRJC Upper Valley Subcommittee Meeting will be held on Monday Oc
+ tober 19 at 7:00 PM at Latham Library in Thetford. One important agenda it
+ em will be to discuss the just released draft management plan for the Cont
+ e Refuge and see if there are any comments the Subcommittee wants to submi
+ t as a group. The draft plan and information on meetings and hearings can 
+ be accessed here:</p>\n<p> </p>\n<p><a href='http://www.fws.gov/refuge/Sil
+ vio_O_Conte/what_we_do/conservation.html' onclick='_gaq.push(['_trackEvent
+ '\, 'outbound-article'\, 'http://www.fws.gov/refuge/Silvio_O_Conte/what_we
+ _do/conservation.html'\, 'http://www.fws.gov/refuge/Silvio_O_Conte/what_we
+ _do/conservation.html'])\;' >http://www.fws.gov/refuge/Silvio_O_Conte/what
+ _we_do/conservation.html</a></p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151019T190000
+DTEND;TZID=America/New_York:20151019T210000
+GEO:+43.825058;-72.243469
+LOCATION:Latham Memorial Library @ Thetford\, VT\, USA
+SEQUENCE:0
+SUMMARY:Upper Valley River Subcommittee
+URL:http://www.crjc.org/event/upper-valley-river-subcommittee-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1217@www.crjc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Subcommittee Meetings
+CONTACT:Tara Bamford\; 603-444-6303 ext. 26\; tbamford@nccouncil.org
+DESCRIPTION:<p>AGENDA</p>\n<p>Unless there is permit activity requiring som
+ ething sooner\, the next CRJC Riverbend Subcommittee Meeting will be held 
+ on Thursday October 22 at 7:00 PM at the Littleton Community Center. One i
+ mportant agenda item will be to discuss the just released draft management
+  plan for the Conte Refuge and see if there are any comments the Subcommit
+ tee wants to submit as a group. The draft plan and information on meetings
+  and hearings can be accessed here:</p>\n<p><a href='http://www.fws.gov/re
+ fuge/Silvio_O_Conte/what_we_do/conservation.html' onclick='_gaq.push(['_tr
+ ackEvent'\, 'outbound-article'\, 'http://www.fws.gov/refuge/Silvio_O_Conte
+ /what_we_do/conservation.html'\, 'http://www.fws.gov/refuge/Silvio_O_Conte
+ /what_we_do/conservation.html'])\;' >http://www.fws.gov/refuge/Silvio_O_Co
+ nte/what_we_do/conservation.html</a></p>
+DTSTART;TZID=America/New_York:20151022T190000
+DTEND;TZID=America/New_York:20151022T210000
+GEO:+44.306966;-71.774067
+LOCATION:Littleton Community Center @ 120 Main Street\, Littleton\, NH 0356
+ 1\, USA
+SEQUENCE:0
+SUMMARY:Riverbend Subcommittee Meeting
+URL:http://www.crjc.org/event/riverbend-subcommittee-meeting-6-2/
+X-COST:FREE and OPEN TO THE PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1233@www.crjc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Subcommittee Meetings
+CONTACT:Tara Bamford\; 603-444-6303 x 26\; tbamford@nccouncil.org
+DESCRIPTION:<p>Please note the meeting location is to be determined. Please
+  check back for updated information.</p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151110T190000
+DTEND;TZID=America/New_York:20151110T203000
+GEO:+43.398272;-72.406581
+LOCATION:TBD
+SEQUENCE:0
+SUMMARY:Mt. Ascutney River Subcommittee
+URL:http://www.crjc.org/event/mt-ascutney-river-subcommittee-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1239@www.crjc.org
+DTSTAMP:20150920T002107Z
+CATEGORIES;LANGUAGE=en-US:Subcommittee Meetings
+CONTACT:Tara Bamford\; 603-444-6303 \; tbamford@nccouncil.org
+DESCRIPTION:<p>The meeting will be in the courtroom for a presentation by V
+ T ANR on the new shoreland regs so people won’t be in a hurry to leave if 
+ it is chilly.  Vermont members – please feel free to invite others from yo
+ ur town to attend. It will be a great chance for them to ask any questions
+  they have on the new rules.</p>
+DTSTART;TZID=America/New_York:20151119T190000
+DTEND;TZID=America/New_York:20151119T210000
+GEO:+44.851992;-71.551753
+LOCATION:Colebrook Town Hall @ Colebrook\, NH
+SEQUENCE:0
+SUMMARY:Headwaters Subcommittee Meeting
+URL:http://www.crjc.org/event/headwaters-subcommittee-meeting-6-2/
+END:VEVENT
+END:VCALENDAR

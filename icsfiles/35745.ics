@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.254.28.129//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://wordpress.livhis.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-263@wordpress.livhis.org
+DTSTAMP:20150920T002205Z
+CATEGORIES;LANGUAGE=en-US:LHR Events
+CONTACT:http://www.oldstferdinandshrine.com/
+DESCRIPTION:<p><img class=' size-thumbnail wp-image-250 alignleft' src='htt
+ p://i0.wp.com/wordpress.livhis.org/wp-content/uploads/2015/03/8957724_orig
+ -150x150.jpg?resize=150%2C150' alt='8957724_orig' data-recalc-dims='1' />O
+ ur meetings are held in the School House</p>\n<div class='sharedaddy sd-sh
+ aring-enabled'><div class='robots-nocontent sd-block sd-social sd-social-o
+ fficial sd-sharing'><h3 class='sd-title'>Share this:</h3><div class='sd-co
+ ntent'><ul><li class='share-print'><a rel='nofollow' data-shared='' class=
+ 'share-print sd-button' href='http://wordpress.livhis.org/#print' target='
+ _blank' title='Click to print'><span>Print</span></a></li><li class='share
+ -email'><a rel='nofollow' data-shared='' class='share-email sd-button' hre
+ f='http://wordpress.livhis.org/?share=email' target='_blank' title='Click 
+ to email this to a friend'><span>Email</span></a></li><li class='share-fac
+ ebook'><div class='fb-share-button' data-href='http://wordpress.livhis.org
+ /' data-layout='button_count'></div></li><li class='share-twitter'><div cl
+ ass='twitter_button'><iframe allowtransparency='true' frameborder='0' scro
+ lling='no' src='http://platform.twitter.com/widgets/tweet_button.html?url=
+ http%3A%2F%2Fwordpress.livhis.org%2F&counturl=http%3A%2F%2Fwordpress.livhi
+ s.org%2F&count=horizontal&text=Home%3A' style='width:101px\; height:20px\;
+ '></iframe></div></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=America/Chicago:20151021T190000
+DTEND;TZID=America/Chicago:20151021T210000
+GEO:+38.796742;-90.334098
+LOCATION:Old Saint Ferdinand Shrine @ 1 Rue Saint Francois\, Florissant\, M
+ O 63031\, USA
+RRULE:FREQ=MONTHLY;UNTIL=20181231T235959Z;BYDAY=3WE
+SEQUENCE:0
+SUMMARY:LHR Meeting
+URL:http://wordpress.livhis.org/event/next-meeting-2/
+END:VEVENT
+END:VCALENDAR

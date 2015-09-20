@@ -1,0 +1,651 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.22.200.130//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://fourwaybooks.com/site
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-7942@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><strong>J. Mae Barizo</strong> will teach a masterclass at 2
+ :30 PM\, and read from her forthcoming book\, <em>The Cumulus Effect</em>\
+ , at 7 PM.</p>
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+GEO:+41.500193;-74.008079
+LOCATION:1 Washington Center\, Newburgh\, NY 12550\, USA
+SEQUENCE:0
+SUMMARY:J. Mae Barizo at SUNY Newburgh!
+URL:http://fourwaybooks.com/site/event/j-mae-barizo-suny-newburgh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7677@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+GEO:+37.804364;-122.271114
+LOCATION:Oakland University @ Oakland\, CA\, USA
+SEQUENCE:0
+SUMMARY:Reginald Dwayne Betts at Oakland University
+URL:http://fourwaybooks.com/site/event/reginald-dwayne-betts-oakland-univer
+ sity/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7795@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150930
+DTEND;VALUE=DATE:20151001
+SEQUENCE:0
+SUMMARY:Liam Callanan at Notre Dame\, IN
+URL:http://fourwaybooks.com/site/event/liam-callanan-notre-dame/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7686@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151009
+GEO:+40.712784;-74.005941
+LOCATION:New York\, NY\, USA
+SEQUENCE:0
+SUMMARY:Elizabeth T. Gray\, Jr. at We Heart NY Writers
+URL:http://fourwaybooks.com/site/event/elizabeth-t-gray-jr-heart-ny-writers
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7687@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+GEO:+33.789577;-81.929558
+LOCATION:Edgefield\, SC\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Pottery & Poetry Festival
+URL:http://fourwaybooks.com/site/event/laurel-blossom-pottery-poetry-festiv
+ al/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7342@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>featuring Laurel Blossom</p>
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151108
+GEO:+33.473498;-82.010515
+LOCATION:Georgia Regents University @ Augusta\, GA\, USA
+SEQUENCE:0
+SUMMARY:Georgia Literary Festival
+URL:http://fourwaybooks.com/site/event/georgia-literary-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7691@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>w/ Bruce Beasley & Brigitte Byrd</p>
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151120
+SEQUENCE:0
+SUMMARY:Andrea Cohen at Georgia Tech
+URL:http://fourwaybooks.com/site/event/andrea-cohen-georgia-tech/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7745@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151213
+GEO:+33.473498;-82.010515
+LOCATION:Augusta\, GA\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at The Book Tavern!
+URL:http://fourwaybooks.com/site/event/laurel-blossom-book-tavern/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7746@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160202
+DTEND;VALUE=DATE:20160203
+GEO:+41.49932;-81.694361
+LOCATION:Cleveland\, OH\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Mac’s Books!
+URL:http://fourwaybooks.com/site/event/laurel-blossom-macs-books/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7747@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160203
+DTEND;VALUE=DATE:20160204
+GEO:+41.49932;-81.694361
+LOCATION:Cleveland\, OH\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at the Hathaway Brown School
+URL:http://fourwaybooks.com/site/event/laurel-blossom-hathaway-brown-school
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7807@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad
+ =rja&uact=8&ved=0CB4QFjAA&url=http%3A%2F%2Fwww.folger.edu%2F&ei=8fqSVf-hLc
+ T7-AGO4IKABw&usg=AFQjCNHYKBu4I4Rqt19pIGL4apjJqyvELQ&sig2=rqRiIYLygLWwAfg6P
+ 412ew
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160208
+DTEND;VALUE=DATE:20160209
+GEO:+38.889388;-77.003059
+LOCATION:Folger Shakespeare Library @ 201 East Capitol Street Southeast\, W
+ ashington\, DC 20003\, USA
+SEQUENCE:0
+SUMMARY:Reginald Dwayne Betts at Folger Shakespeare Theater!
+URL:http://fourwaybooks.com/site/event/reginald-dwayne-betts-folger-shakesp
+ eare-theater/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7695@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160209
+DTEND;VALUE=DATE:20160210
+GEO:+39.103118;-84.51202
+LOCATION:Cincinnati\, OH\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Xavier University
+URL:http://fourwaybooks.com/site/event/laurel-blossom-xavier-university/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7696@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160324
+DTEND;VALUE=DATE:20160325
+GEO:+34.420831;-119.69819
+LOCATION:Santa Barbara\, CA\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Maureen Murdock Memoir Group
+URL:http://fourwaybooks.com/site/event/laurel-blossom-maureen-murdock-memoi
+ r-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7698@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160410
+DTEND;VALUE=DATE:20160411
+GEO:+27.638643;-80.397274
+LOCATION:Laura Riding Jackson Foundation @ Vero Beach\, FL\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Poetry & BBQ
+URL:http://fourwaybooks.com/site/event/laurel-blossom-poetry-bbq/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7808@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad
+ =rja&uact=8&ved=0CB4QFjAA&url=http%3A%2F%2Fwww.folger.edu%2F&ei=8fqSVf-hLc
+ T7-AGO4IKABw&usg=AFQjCNHYKBu4I4Rqt19pIGL4apjJqyvELQ&sig2=rqRiIYLygLWwAfg6P
+ 412ew
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160613
+DTEND;VALUE=DATE:20160614
+GEO:+38.889388;-77.003059
+LOCATION:Folger Shakespeare Library @ 201 East Capitol Street Southeast\, W
+ ashington\, DC 20003\, USA
+SEQUENCE:0
+SUMMARY:Gregory Pardlo & Rachel Eliza Griffiths at Folger Shakespeare Theat
+ er!
+URL:http://fourwaybooks.com/site/event/gregory-pardlo-rachel-eliza-griffith
+ s-folger-shakespeare-theater/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7943@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:http://www.pugetsoundpoetryconnection.org/
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161014
+DTEND;VALUE=DATE:20161015
+GEO:+46.442074;-122.84515
+LOCATION:Kings Bookstore @ 218 Helens Street\, Toledo\, WA 98591\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Puget Sound Poetry Connection!
+URL:http://fourwaybooks.com/site/event/laurel-blossom-puget-sound-poetry-co
+ nnection/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7944@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:http://www.writersontheedge.org/
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161015
+DTEND;VALUE=DATE:20161016
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Nye Beach Writers on the Edge!
+URL:http://fourwaybooks.com/site/event/laurel-blossom-nye-beach-writers-edg
+ e/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8084@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T140000
+DTEND;TZID=America/New_York:20150919T150000
+GEO:+40.862452;-73.880238
+LOCATION:New York Botanical Garden @ 2900 Southern Blvd\, Bronx\, NY 10458\
+ , USA
+SEQUENCE:0
+SUMMARY:Rachel Eliza Griffiths Reading for Mexican Poetry Reading at The Ne
+ w York Botanical Garden
+URL:http://fourwaybooks.com/site/event/rachel-eliza-griffiths-reading-mexic
+ an-poetry-reading-york-botanical-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7991@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150920T170000
+DTEND;TZID=America/New_York:20150920T180000
+GEO:+38.917992;-77.031863
+LOCATION:Busboys and Poets @ 2021 14th Street Northwest\, Washington\, DC 2
+ 0009\, USA
+SEQUENCE:0
+SUMMARY:Rachel Eliza Griffiths  Reading with David Ebenbach for Busboys and
+  Poets
+URL:http://fourwaybooks.com/site/event/rachel-eliza-griffiths-reading-david
+ -ebenbach-busboys-poets/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8043@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150922T190000
+DTEND;TZID=America/New_York:20150922T200000
+GEO:+40.741857;-74.176236
+LOCATION:Bryant Park Reading Room
+SEQUENCE:0
+SUMMARY:Rachel Eliza Griffiths Reading with Michael Morse\, Michael Klein\,
+  and Sean Singer at Bryant Park Reading Room
+URL:http://fourwaybooks.com/site/event/rachel-eliza-griffiths-reading-suki-
+ kim-rutgers-university-newark/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7552@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150929T173000
+DTEND;TZID=America/New_York:20150929T183000
+GEO:+40.714982;-74.304125
+LOCATION:Rutgers University Newark - MFA Program @ 43 Bleeker Street\, Mill
+ burn\, NJ 07041\, USA
+SEQUENCE:0
+SUMMARY:Rachel Eliza Griffiths w/ Suki Kim
+URL:http://fourwaybooks.com/site/event/rachel-eliza-griffiths-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7567@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150930T190000
+DTEND;TZID=America/New_York:20150930T200000
+GEO:+40.783776;-73.974532
+LOCATION:Book Culture on Columbus @ 450 Columbus Avenue\, New York\, NY 100
+ 24\, USA
+SEQUENCE:0
+SUMMARY:Four Way Books Fall 2015 Launch w/ J. Mae Barizo\, Stephanie Ford\,
+  Owen Lewis\, Rebecca Okrent\, Jonathan Wells\, and musician Rob Moose (Bo
+ n Iver\, ymusic)
+URL:http://fourwaybooks.com/site/event/books-fall-2015-launch-w-j-mae-bariz
+ o-stephanie-ford-rebecca-okrent-jonathan-wells/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7796@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151001T163000
+DTEND;TZID=America/New_York:20151001T173000
+SEQUENCE:0
+SUMMARY:Liam Callanan at University of Southern Indiana
+URL:http://fourwaybooks.com/site/event/liam-callanan-southern-indiana-unive
+ rsity/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7669@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151001T193000
+DTEND;TZID=America/New_York:20151001T203000
+GEO:+40.686177;-73.974567
+LOCATION:Greenlight Bookstore @ 686 Fulton Street\, Brooklyn\, NY 11217\, U
+ SA
+SEQUENCE:0
+SUMMARY:Four Way Books & Friends Fall 2015 Launch Reading: Reginald Dwayne 
+ Betts\, Laurel Blossom\, Patrick Ryan Frank\, & Jenny Johnson
+URL:http://fourwaybooks.com/site/event/books-friends-fall-2015-launch-readi
+ ng/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7574@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151002T200000
+DTEND;TZID=America/New_York:20151002T210000
+GEO:+42.364892;-71.102134
+LOCATION:541 Massachusetts Avenue\, Cambridge\, MA 02139\, USA
+SEQUENCE:0
+SUMMARY:Cammy Thomas Reading for Dire Reading Series
+URL:http://fourwaybooks.com/site/event/cammy-thomas-reading-dire-reading-se
+ ries/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7989@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T190000
+DTEND;TZID=America/New_York:20151003T200000
+GEO:+40.726589;-73.9898
+LOCATION:KGB  @ 85 East 4th Street\, New York\, NY 10003\, USA
+SEQUENCE:0
+SUMMARY:Four Way Books Fall 2015 Launch Reading at KGB hosted by Britt Mele
+ wski w/ J. Mae Barizo\, Laurel Blossom\, Patrick Ryan Frank\, Rebecca Okre
+ nt\, Jonathan Wells\, and music by Rob Moose (Bon Iver\, ymusic)
+URL:http://fourwaybooks.com/site/event/books-fall-2015-launch-reading-kgb-w
+ -j-mae-barizo-laurel-blossom-patrick-ryan-frank-rebecca-okrent-jonathan-we
+ lls/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7980@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151009T190000
+DTEND;TZID=America/New_York:20151009T200000
+GEO:+40.715879;-74.016295
+LOCATION:Poets House @ 10 River Terrace\, New York\, NY 10282\, USA
+SEQUENCE:0
+SUMMARY:Andrea Cohen Reading with Michael Klein
+URL:http://fourwaybooks.com/site/event/andrea-cohen-reading-michael-klein/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7782@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:http://www.redsofasalon.com/the-red-sofa-reading-series/
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151009T190000
+DTEND;TZID=America/New_York:20151009T200000
+GEO:+39.950919;-75.145861
+LOCATION:Indy Hall @ 22 North 3rd Street\, Philadelphia\, PA 19106\, USA
+SEQUENCE:0
+SUMMARY:J. Mae Barizo at Red Sofa Reading Series
+URL:http://fourwaybooks.com/site/event/j-mae-barizo-red-sofa-reading-series
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8089@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151010T170000
+DTEND;TZID=America/New_York:20151010T180000
+GEO:+34.104216;-118.291488
+LOCATION:Skylight Books @ 1818 N Vermont Ave\, Los Angeles\, CA 90027\, USA
+SEQUENCE:0
+SUMMARY:Reading and Conversation with Stephanie Ford and Melissa Broder at 
+ Skylight Books
+URL:http://fourwaybooks.com/site/event/reading-conversation-stephanie-ford-
+ melissa-broder-skylight-books/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7340@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151015T190000
+DTEND;TZID=America/New_York:20151015T200000
+GEO:+41.308274;-72.927884
+LOCATION:The Poetry Institute @ New Haven\, CT\, USA
+SEQUENCE:0
+SUMMARY:Elizabeth T. Gray\, Jr.
+URL:http://fourwaybooks.com/site/event/elizabeth-t-gray-jr-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7954@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151015T190000
+DTEND;TZID=America/New_York:20151015T200000
+SEQUENCE:0
+SUMMARY:Stephanie Ford at The Poetry Lab!
+URL:http://fourwaybooks.com/site/event/stephanie-ford-poetry-lab/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7797@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:https://lighthousewriters.org/
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151030T160000
+DTEND;TZID=America/New_York:20151030T170000
+GEO:+39.740609;-104.963824
+LOCATION:1515 Race Street\, Denver\, CO 80206\, USA
+SEQUENCE:0
+SUMMARY:Liam Callanan at Lighthouse Writers Workshop
+URL:http://fourwaybooks.com/site/event/liam-callanan-lighthouse-writers-wor
+ kshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7341@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:http://www.wordworksdc.com/cafe_muse.html
+DESCRIPTION:<p><span style='font-family: Arial\, Helvetica\, sans-serif\;'>
+ <strong>LAUREL BLOSSOM</strong>’s second book-length narrative prose poem\
+ , <em>Longevity</em>\, will be published in 2015 by Four Way Books\, which
+  also published <em>Degrees of Latitude</em> in 2007. Her most recent book
+  of lyric poetry is <em>Wednesday: New and Selected Poems</em>\, Ridgeway 
+ Press\, 2004. Earlier books include <em>The Papers Said\, What’s Wrong</em
+ >\, and a chapbook\, <em>Any Minute</em>. Her work has appeared in a numbe
+ r of anthologies\, including<em>180 More: Extraordinary Poems for Every Da
+ y</em>\, edited by Billy Collins\, and journals including <em>Poetry</em>\
+ , <em>The Paris Review</em>\, <em>Pleiades</em>\, and <em>Harper’s</em>. B
+ lossom has received fellowships from the National Endowment for the Arts\,
+  the New York Foundation for the Arts\, and Harris Manchester College (Oxf
+ ord University)\, where she was elected Regent Emeritus in 2008. She co-fo
+ unded The Writers Community\, the writing residency and workshop program o
+ f the YMCA National Writer’s Voice. Blossom currently lives in rural South
+  Carolina.</span></p>\n<p><span style='font-family: Arial\, Helvetica\, sa
+ ns-serif\;'>GRACE CAVALIERI is author of over 30 collections of poetry inc
+ luding 2014 publications: <em>The Man Who Got Away</em> and <em>The Mandat
+ e of Heaven</em>. Her forthcoming memoir is <em>Life Upon the Wicked Stage
+ </em> (Spring 2015). She is the founder/producer of “The Poet and the Poem
+ ” for Public Radio\, now recorded at the Library of Congress and in its 38
+ th year on-air. She is the recipient of the Lifetime Achievement Award fro
+ m The Washington Independent Review of Books\, where she is poetry columni
+ st and reviewer. Her career includes theater\, poetry\, publishing and bro
+ adcasting. Her latest play is<em> Anna Nicole: Blond Glory</em>.</span></p
+ >
+DTSTART;TZID=America/New_York:20151102T190000
+DTEND;TZID=America/New_York:20151102T200000
+GEO:+38.96379;-77.088898
+LOCATION:Cafe Muse @ 4433 South Park Avenue\, Chevy Chase\, MD 20815\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom w/ Grace Cavalieri
+URL:http://fourwaybooks.com/site/event/laurel-blossom/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7689@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151111T120000
+DTEND;TZID=America/New_York:20151111T130000
+GEO:+33.932479;-80.373
+LOCATION:USC Sumter @ 200 Miller Road\, Sumter\, SC 29150\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at USC Sumter
+URL:http://fourwaybooks.com/site/event/laurel-blossom-usc-sumter/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7343@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151111T190000
+DTEND;TZID=America/New_York:20151111T200000
+GEO:+29.725231;-95.415963
+LOCATION:Brazos Bookstore @ 2421 Bissonnet Street\, Houston\, TX 77005\, US
+ A
+SEQUENCE:0
+SUMMARY:Jonathan Wells & Kevin Prufer
+URL:http://fourwaybooks.com/site/event/jonathan-wells-kevin-prufer/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7344@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>featuring Laurel Blossom</p>
+DTSTART;TZID=America/New_York:20151121T110000
+DTEND;TZID=America/New_York:20151121T120000
+GEO:+33.908561;-117.454048
+LOCATION:Barnes & Noble Booksellers @ 3485 Galleria at Tyler\, Riverside\, 
+ CA 92503\, USA
+SEQUENCE:0
+SUMMARY:Inlandia Barnes & Noble Book Fair
+URL:http://fourwaybooks.com/site/event/inlandia-barnes-noble-book-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7493@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151126T200000
+DTEND;TZID=America/New_York:20151126T210000
+GEO:+44.635867;-72.677779
+LOCATION:Vermont Studio Center @ 80 Pearl Street\, Johnson\, VT 05656\, USA
+SEQUENCE:0
+SUMMARY:Patrick Donnelly
+URL:http://fourwaybooks.com/site/event/patrick-donnelly/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7692@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151206T150000
+DTEND;TZID=America/New_York:20151206T160000
+GEO:+35.596188;-82.554639
+LOCATION:Malaprop's Bookstore @ 55 Haywood Street\, Asheville\, NC 28801\, 
+ USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Poetrio
+URL:http://fourwaybooks.com/site/event/laurel-blossom-poetrio/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7693@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160107T150000
+DTEND;TZID=America/New_York:20160107T160000
+GEO:+33.488178;-79.094098
+LOCATION:Litchfield Higher Education Center @ 14427 Ocean Highway\, Pawleys
+  Island\, SC 29585\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Litchfield Tea & Poetry
+URL:http://fourwaybooks.com/site/event/laurel-blossom-litchfield-tea-poetry
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7697@fourwaybooks.com/site
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160326T160000
+DTEND;TZID=America/New_York:20160326T170000
+GEO:+33.991346;-118.458859
+LOCATION:681 Venice Boulevard\, Venice\, CA 90291\, USA
+SEQUENCE:0
+SUMMARY:Laurel Blossom at Beyond Baroque
+URL:http://fourwaybooks.com/site/event/laurel-blossom-baroque/
+END:VEVENT
+END:VCALENDAR

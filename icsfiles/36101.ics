@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//199.103.61.232//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.sanctuaryofpeacefulhealing.ca
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+X-LIC-LOCATION:America/Toronto
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-438@www.sanctuaryofpeacefulhealing.ca
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:Michel & Kim\; 905.419.0333\; info@sanctuaryof peacefulhealing.ca\;
+  http://www.sactuaryofpeacefulhealing.ca
+DESCRIPTION:<p><a href='http://www.sanctuaryofpeacefulhealing.ca/wp-content
+ /uploads/2015/02/GUIDED-MEDITATION-flyer.jpg'><img class='alignnone  wp-im
+ age-466' src='http://www.sanctuaryofpeacefulhealing.ca/wp-content/uploads/
+ 2015/02/GUIDED-MEDITATION-flyer-997x1024.jpg' alt='GUIDED MEDITATION  flye
+ r' width='826' height='849' /></a>This is 2 hours of divine intervention\;
+  Ideal for releasing emotions\, pain and fear.  Michel leads you through a
+  beautiful visualization of each of the chakras  for a complete experience
+ .</p>\n<p><em>“Each time I experience this guided meditation I change ~ I 
+ literally feel my body\, mind and spirit shift.  Thank you so much for cre
+ ating Sanctuary of Peaceful Healing! “</em> Traci Trimble\, Empowerment Co
+ ach & Reiki Master\, Brooklin\, ON</p>
+DTSTART;TZID=America/Toronto:20150922T190000
+DTEND;TZID=America/Toronto:20150922T210000
+GEO:+43.911589;-78.697567
+LOCATION:Sanctuary of Peaceful Healing @ 173 King Street West\, Bowmanville
+ \, ON L1C 1R9\, Canada
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Guided Meditation
+URL:http://www.sanctuaryofpeacefulhealing.ca/event/guided-meditation-tuesda
+ y-may-19-2015/
+X-COST:$10.00 cash only
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-440@www.sanctuaryofpeacefulhealing.ca
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:Michel & Kim\; 905.419.0333\; info@sanctuaryofpeacefulhealing.ca\; 
+ http://www.sanctuaryofpeacefulhealing.ca
+DESCRIPTION:<p>In this 3 hour workshop\, Michel works with the students to 
+ raise their vibration to allow communication with the higher realm\; it be
+ gins with a guided meditation and is followed by each student having the o
+ pportunity to both channel and ask questions.  Maximum of 5 students so we
+  highly recommend pre-registering.</p>\n<p><a href='http://www.sanctuaryof
+ peacefulhealing.ca/wp-content/uploads/2015/05/channeling-flyer2.jpg'><img 
+ class='  alignnone wp-image-504 size-large' src='http://www.sanctuaryofpea
+ cefulhealing.ca/wp-content/uploads/2015/05/channeling-flyer2-1004x1024.jpg
+ ' alt='' width='990' height='1010' /></a></p>
+DTSTART;TZID=America/Toronto:20150924T180000
+DTEND;TZID=America/Toronto:20150924T210000
+GEO:+43.911589;-78.697567
+LOCATION:Sanctuary of Peaceful Healing @ 173 King Street West\, Bowmanville
+ \, ON L1C 1R9\, Canada
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Channeling Workshop
+URL:http://www.sanctuaryofpeacefulhealing.ca/event/channeling-workshop/
+X-COST:$15.00 cash only
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-375@www.sanctuaryofpeacefulhealing.ca
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:Michel or Kim\; 905.419.0333\; info@sanctuaryofpeacefulhealing.ca\;
+  http://www.sanctuaryofpeacefulhealing.ca
+DESCRIPTION:<p>Experience soothing meditation and spiritual healing as you 
+ are immersed in the frequencies of the full Chakra tones of Seven Crystal 
+ Singing bowls. Enjoy this guided meditation through the seven major Chakra
+ s\, clear blockages and renew your energy and balance. An experience you w
+ on’t want to miss out on!</p>\n<p><a href='http://www.sanctuaryofpeacefulh
+ ealing.ca/wp-content/uploads/2015/02/crystal-bowls-flyer.jpg'><img class='
+ alignnone  wp-image-467' src='http://www.sanctuaryofpeacefulhealing.ca/wp-
+ content/uploads/2015/02/crystal-bowls-flyer-1014x1024.jpg' alt='crystal bo
+ wls flyer' width='818' height='826' /></a></p>\n<p> </p>
+DTSTART;TZID=America/Toronto:20150925T190000
+DTEND;TZID=America/Toronto:20150925T210000
+GEO:+43.911589;-78.697567
+LOCATION:Sanctuary of Peaceful Healing @ 173 King Street West\, Bowmanville
+ \, ON L1C 1R9\, Canada
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Crystal Bowls Meditation
+URL:http://www.sanctuaryofpeacefulhealing.ca/event/group-meditation/
+X-COST:$15 cash only
+END:VEVENT
+END:VCALENDAR

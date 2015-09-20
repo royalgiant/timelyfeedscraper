@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//107.180.44.131//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://cbcountryclub.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-14495@cbcountryclub.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Golf Event\,Outside Golf Event
+CONTACT:Jerry Willer\; 712-366-1639\; jerry@cbcountryclub.com
+DESCRIPTION:<h4>Monday Open Golf.</h4>\n<h4>9am Shotgun start in May.</h4>
+ \n<h4>8am Shotgun start in June.</h4>\n<h4><strong>NO PLAY ON HOLIDAYS or 
+ when we have Scheduled Events</strong></h4>\n<h4></h4>\n<h4>Call the Pro S
+ hop for details.  712-366-1639</h4>
+DTSTART;TZID=America/Chicago:20150921T150000
+DTEND;TZID=America/Chicago:20150921T183000
+EXRULE:FREQ=WEEKLY;UNTIL=20150525T235959Z;BYDAY=MO;WKST=SU
+RRULE:FREQ=WEEKLY;UNTIL=20151026T235959Z;BYDAY=MO;WKST=SU
+SEQUENCE:0
+SUMMARY:Monday – Open Golf
+URL:http://cbcountryclub.com/event/monday-open-golf-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14461@cbcountryclub.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Outside Golf Event
+CONTACT:Ted DiGiacomo\; 712-366-1639\; ted@cbcountryclub.com
+DESCRIPTION:Black Hills Golf Outing for United Way.  This is a 9 hole outin
+ g that will start at 2pm.
+DTSTART;TZID=America/Chicago:20150925T140000
+DTEND;TZID=America/Chicago:20150925T160000
+SEQUENCE:0
+SUMMARY:Black Hills United Way 9 Hole Outing
+URL:http://cbcountryclub.com/event/black-hills-united-way-9-hole-outing-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14462@cbcountryclub.com
+DTSTAMP:20150920T002122Z
+CATEGORIES;LANGUAGE=en-US:Club House\,Golf Event
+CONTACT:Ted DiGiacomo\; 712-366-1639\; ted@cbcountryclub.com
+DESCRIPTION:<h4>Signup to represent your team – Nebraska vs Iowa.  First 12
+  to sign up for each team.</h4>\n<h4>Details and sign up will be provided 
+ as the event nears.</h4>
+DTSTART;TZID=America/Chicago:20151004T080000
+DTEND;TZID=America/Chicago:20151004T140000
+GEO:+41.218188;-95.850278
+LOCATION:Golf Course @ 4500 Piute Street\, Council Bluffs\, IA 51501\, USA
+SEQUENCE:0
+SUMMARY:Big Ten Cup Matches
+URL:http://cbcountryclub.com/event/big-ten-cup-matches-4/
+END:VEVENT
+END:VCALENDAR

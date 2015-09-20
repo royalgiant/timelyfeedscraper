@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.28.16.64//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://nicholasmccarthy.co.uk
+X-WR-TIMEZONE:Atlantic/Azores
+BEGIN:VTIMEZONE
+TZID:Atlantic/Azores
+X-LIC-LOCATION:Atlantic/Azores
+BEGIN:STANDARD
+DTSTART:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0100
+TZNAME:AZOT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T000000
+TZOFFSETFROM:-0100
+TZOFFSETTO:+0000
+RDATE:20160327T000000
+TZNAME:AZOST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ic3bmsksmp8qf6rm3pf8k2cho8@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://i1.wp.com/nicholasmccarthy.co.uk/wp-content/
+ uploads/2015/08/header_logo.png'><img class='lazy lazy-hidden size-full wp
+ -image-310 alignleft' src='data:image/gif\;base64\,R0lGODdhAQABAPAAAP///wA
+ AACwAAAAAAQABAEACAkQBADs=' data-lazy-type='image' data-lazy-src='http://i1
+ .wp.com/nicholasmccarthy.co.uk/wp-content/uploads/2015/08/header_logo.png?
+ resize=200%2C83' alt='header_logo' data-recalc-dims='1' /><noscript><img c
+ lass='size-full wp-image-310 alignleft' src='http://i1.wp.com/nicholasmcca
+ rthy.co.uk/wp-content/uploads/2015/08/header_logo.png?resize=200%2C83' alt
+ ='header_logo' data-recalc-dims='1' /></noscript></a></p>\n<p style='text-
+ align: center\;'><a href='http://www.belfastmusicalfestival.com'>WEBSITE</
+ a></p>\n<p>41 Rosemary Street<br />\nBelfast<br />\nBT1</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+GEO:+54.60023;-5.929853
+LOCATION:41 Rosemary Street\, Belfast\, Belfast BT1\, UK
+SEQUENCE:0
+SUMMARY:Belfast Music Festival
+URL:http://nicholasmccarthy.co.uk/index.php/event/belfast-music-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:a3k3hn4mq3340psi734ino33s4@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<h2 style='text-align: center\;'> <a href='http://i0.wp.com/nic
+ holasmccarthy.co.uk/wp-content/uploads/2015/08/web.jpg'><img class='lazy l
+ azy-hidden aligncenter  wp-image-742' src='data:image/gif\;base64\,R0lGODd
+ hAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=' data-lazy-type='image' data-laz
+ y-src='http://i0.wp.com/nicholasmccarthy.co.uk/wp-content/uploads/2015/08/
+ web.jpg?resize=221%2C312' alt='web' data-recalc-dims='1' /><noscript><img 
+ class='aligncenter  wp-image-742' src='http://i0.wp.com/nicholasmccarthy.c
+ o.uk/wp-content/uploads/2015/08/web.jpg?resize=221%2C312' alt='web' data-r
+ ecalc-dims='1' /></noscript></a></h2>\n<h2 style='text-align: center\;'><a
+  href='http://www.canterburyfestival.co.uk/whats-on/music/kent-sinfonia.as
+ px' target='_blank'>BOOK TICKETS HERE</a></h2>\n<p>Kent Sinfonia present a
+  delightful programme beginning with Ravel’s delicately scored suite Ma Mè
+ re L’Oye (Mother Goose). The dark and exciting Piano Concerto for the Left
+  Hand was originally written for concert pianist Paul Wittgenstein\, who c
+ ommissioned it after he lost his right arm in WW1. The second half feature
+ s Mussorgsky’s suite Pictures at an Exhibition\, and the programme will al
+ so contain a number of dazzling piano solos by Nicholas.</p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+GEO:+51.280233;+1.078909
+LOCATION:Canterbury\, Canterbury\, Kent\, UK
+SEQUENCE:0
+SUMMARY:Ravel Piano Concerto with Kent Sinfonia at Canterbury Festival
+URL:http://nicholasmccarthy.co.uk/index.php/event/ravel-piano-concerto-with
+ -kent-sinfonia-at-the-colyer-fergusson-hall-canterbury/
+END:VEVENT
+BEGIN:VEVENT
+UID:1rsuuuaja412nmph14jliaea00@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151101
+SEQUENCE:0
+SUMMARY:Speaking Event
+URL:http://nicholasmccarthy.co.uk/index.php/event/speaking-event/
+END:VEVENT
+BEGIN:VEVENT
+UID:3nfj6o841iqo2ui7h7n3kbapek@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151103
+DTEND;VALUE=DATE:20151104
+SEQUENCE:0
+SUMMARY:China tour – Dates to be confirmed
+URL:http://nicholasmccarthy.co.uk/index.php/event/china-tour-dates-to-be-co
+ nfirmed/
+END:VEVENT
+BEGIN:VEVENT
+UID:4fntgc4o670q66fpvegufrvlc0@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151115
+LOCATION:Methodist Church\, Ketton\, Rutland\, United Kingdom
+SEQUENCE:0
+SUMMARY:RECITAL – Stamford Methodist Church\, Lincs
+URL:http://nicholasmccarthy.co.uk/index.php/event/recital-stamford-methodis
+ t-church-lincs/
+END:VEVENT
+BEGIN:VEVENT
+UID:jq2tq8s1igqvlg7e6eien2kv30@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151116
+DTEND;VALUE=DATE:20151117
+LOCATION:Bimhuis\, Piet Heinkade 3\, 1019 BR Amsterdam\, Netherlands
+SEQUENCE:0
+SUMMARY:16th Left Hand And the Piano Seminar at the Bimhuis\, Muziekgebouw-
+ building \,Amsterdam
+URL:http://nicholasmccarthy.co.uk/index.php/event/16th-left-hand-and-the-pi
+ ano-seminar-at-the-bimhuis-muziekgebouw-building-amsterdam/
+END:VEVENT
+BEGIN:VEVENT
+UID:cetg6armnkhb69e42tivitr5ig@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151120
+DTEND;VALUE=DATE:20151121
+LOCATION:Plaza\, Royal Mews\, Southend-on-Sea\, Southend-on-Sea SS1 1GL\, U
+ K
+SEQUENCE:0
+SUMMARY:Recital- Southend Plaza
+URL:http://nicholasmccarthy.co.uk/index.php/event/recital-southend-plaza/
+END:VEVENT
+BEGIN:VEVENT
+UID:qhrkj559dmmugl2p8sgvcfdc0o@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151122
+DTEND;VALUE=DATE:20151123
+LOCATION:St Botolph's Church Walk\, Colchester\, Essex CO2\, UK
+SEQUENCE:0
+SUMMARY:Recital-St Botolphs\, Colchester
+URL:http://nicholasmccarthy.co.uk/index.php/event/recital-st-botolphs-colch
+ ester/
+END:VEVENT
+BEGIN:VEVENT
+UID:egne984amkcmdumdik9af8lupc@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151127
+LOCATION:The Woodville\, Gravesend\, Kent\, United Kingdom
+SEQUENCE:0
+SUMMARY:Recital – Woodville Halls Kent
+URL:http://nicholasmccarthy.co.uk/index.php/event/recital-woodville-halls-k
+ ent/
+END:VEVENT
+BEGIN:VEVENT
+UID:09pg1o5nbfgp35epnmlpal45e4@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<h2 style='text-align: center\;'><a href='http://i1.wp.com/nich
+ olasmccarthy.co.uk/wp-content/uploads/2015/08/Royal-Albert-Hall-London1.jp
+ g'><img class='lazy lazy-hidden  wp-image-314 alignleft' src='data:image/g
+ if\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=' data-lazy-ty
+ pe='image' data-lazy-src='http://i1.wp.com/nicholasmccarthy.co.uk/wp-conte
+ nt/uploads/2015/08/Royal-Albert-Hall-London1.jpg?resize=250%2C125' alt='Ro
+ yal-Albert-Hall-London' data-recalc-dims='1' /><noscript><img class=' wp-i
+ mage-314 alignleft' src='http://i1.wp.com/nicholasmccarthy.co.uk/wp-conten
+ t/uploads/2015/08/Royal-Albert-Hall-London1.jpg?resize=250%2C125' alt='Roy
+ al-Albert-Hall-London' data-recalc-dims='1' /></noscript></a><a href='http
+ ://www.royalalberthall.com/tickets/events/2015/nicholas-mccarthy/' target=
+ '_blank'>BUY TICKETS HERE</a></h2>\n<p style='text-align: center\;'>Celebr
+ ating the launch of his new album ‘SOLO’ at the</p>\n<p style='text-align:
+  center\;'>iconic Elgar Room \, Royal Albert Hall</p>
+DTSTART;TZID=Atlantic/Azores:20151011T173000
+DTEND;TZID=Atlantic/Azores:20151011T190000
+GEO:+51.500143;-0.176603
+LOCATION:Imperial College\,South Kensington Campus\, Kensington\, London SW
+ 7\, UK
+SEQUENCE:0
+SUMMARY:ALBUM LAUNCH -ELGAR ROOM- The Royal Albert Hall \, London
+URL:http://nicholasmccarthy.co.uk/index.php/event/album-launch-elgar-room-t
+ he-royal-albert-hall-london/
+END:VEVENT
+BEGIN:VEVENT
+UID:tf5s3jbid1nn870528doke8kh4@google.com
+DTSTAMP:20150920T002135Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<h2 style='text-align: center\;'><a href='http://i0.wp.com/nich
+ olasmccarthy.co.uk/wp-content/uploads/2015/08/A4EPSOM.jpg'><img class='laz
+ y lazy-hidden wp-image-751 alignleft' src='data:image/gif\;base64\,R0lGODd
+ hAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=' data-lazy-type='image' data-laz
+ y-src='http://i0.wp.com/nicholasmccarthy.co.uk/wp-content/uploads/2015/08/
+ A4EPSOM.jpg?resize=233%2C329' alt='A4EPSOM' data-recalc-dims='1' /><noscri
+ pt><img class='wp-image-751 alignleft' src='http://i0.wp.com/nicholasmccar
+ thy.co.uk/wp-content/uploads/2015/08/A4EPSOM.jpg?resize=233%2C329' alt='A4
+ EPSOM' data-recalc-dims='1' /></noscript></a><br />\n<a href='http://www.e
+ psomplayhouse.co.uk/4260/shows/nicholas-mccarthy.html' target='_blank'>BOO
+ K TICKETS HERE</a></h2>\n<p style='text-align: center\;'>Recital of his ne
+ w album ‘SOLO’</p>\n<p style='text-align: center\;'>Epsom Playhouse \, Eps
+ om Surrey</p>
+DTSTART;TZID=Atlantic/Azores:20151029T200000
+DTEND;TZID=Atlantic/Azores:20151029T220000
+GEO:+51.331766;-0.269198
+LOCATION:Ashley Avenue\, Epsom\, Surrey KT18 5AL\, UK
+SEQUENCE:0
+SUMMARY:Recital – Epsom Playhouse \, Epsom\, surrey
+URL:http://nicholasmccarthy.co.uk/index.php/event/recital-epsom-playhouse-e
+ psom-surrey/
+END:VEVENT
+END:VCALENDAR

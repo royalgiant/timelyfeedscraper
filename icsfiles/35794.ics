@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//184.106.55.101//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://ccm.champlain.edu
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1626@ccm.champlain.edu
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><strong><a href='http://ccm.champlain.edu/2015/09/14/creativ
+ e-media-program-director-presents-hybrid-performance/larsen-simulacrum-pro
+ mo-still/' rel='attachment wp-att-1624'><img class='  wp-image-1624 alignl
+ eft' src='http://ccm.champlain.edu/wp-content/uploads/2015/09/larsen-simul
+ acrum-promo-still-300x209.png' alt='larsen-simulacrum-promo-still' width='
+ 288' height='201' /></a>Al Larsen\, Creative Media BFA program director\, 
+ collaborated with video DJ Leif Hunneman to present a new hybrid media per
+ formance as part of <em>The Simulacrum Project.</em></strong></p>\n<p>Lars
+ en’s piece\, “The Unfinished Moment\,” features a combination of original 
+ music\, spoken word pieces\, and visuals on themes of media technologies a
+ nd personal connection.</p>\n<p><em>Check out <a href='http://thesimulacru
+ mproject.com/' onclick='__gaTracker('send'\, 'event'\, 'outbound-article'\
+ , 'http://thesimulacrumproject.com/'\, 'The Simulacrum Project')\;' target
+ ='_blank'><span style='color: #0066cc\;'>The Simulacrum Project</span></a>
+  for more information.</em></p>
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+GEO:+44.470183;-73.216221
+LOCATION:Pine Street Studios @ 339 Pine St\, Burlington\, VT 05401\, USA
+SEQUENCE:0
+SUMMARY:Al Larsen Presents “The Unfinished Moment”
+URL:http://ccm.champlain.edu/event/al-larsen-presents-the-unfinished-moment
+ /
+X-TAGS;LANGUAGE=en-US:BFA\,Creative Media\,event\,Presentation
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1603@ccm.champlain.edu
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T100000
+DTEND;TZID=America/New_York:20150926T130000
+GEO:+44.473713;-73.202873
+LOCATION:Champlain College\, 163 South Willard Street\, Burlington\, VT 054
+ 02\, USA
+SEQUENCE:0
+SUMMARY:Center for Communication and Creative Media Grand Opening
+URL:http://ccm.champlain.edu/event/center-for-communication-and-creative-me
+ dia-grand-opening/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//82.165.111.199//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://s321107965.onlinehome.fr
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-5@s321107965.onlinehome.fr
+DTSTAMP:20150920T002158Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div id='pl-2'><div class='panel-grid' id='pg-2-0' ><div class=
+ 'panel-grid-cell' id='pgc-2-0-0' ><div class='so-panel widget widget_text 
+ panel-first-child panel-last-child' id='panel-2-0-0-0'><h3 class='widget-t
+ itle'>Notre film</h3>			<div class='textwidget'></div>\n		</div></div></div><di
+ v class='panel-grid' id='pg-2-1' ><div class='panel-grid-cell' id='pgc-2-1
+ -0' ><div class='so-panel widget widget_sow-slider panel-first-child panel
+ -last-child' id='panel-2-1-0-0'><div class='so-widget-sow-slider so-widget
+ -sow-slider-default-abf3e628296a'><div class='sow-slider-base ' style='dis
+ play: none'><ul class='sow-slider-images' data-settings='{'pagination':tru
+ e\,'speed':800\,'timeout':8000}'>		<li\n			class='sow-slider-image '\n			style='ba
+ ckground-color: #a0a0a0'>\n						<div class='sow-slider-image-container'>\n				<div 
+ class='sow-slider-image-wrapper' style='max-width: 133px'>\n					<img width='13
+ 3' height='74' src='http://s321107965.onlinehome.fr/wp-content/uploads/201
+ 5/08/il-venait-de-roumanie.jpg' class='attachment-full' alt='il-venait-de-
+ roumanie' />				</div>\n			</div>\n					</li>\n				<li\n			class='sow-slider-image '\n			style='
+ background-color: #a0a0a0'>\n					</li>\n		</ul>				<ol class='sow-slider-pagination'
+ >\n											<li><a href='#' data-goto='0'>1</a></li>\n											<li><a href='#' data-goto='1'
+ >2</a></li>\n									</ol>\n\n				<div class='sow-slide-nav sow-slide-nav-next'>\n					<a h
+ ref='#' data-goto='next' data-action='next'>\n						<em class='sow-sld-icon-thin
+ -right'></em>\n					</a>\n				</div>\n\n				<div class='sow-slide-nav sow-slide-nav-pre
+ v'>\n					<a href='#' data-goto='previous' data-action='prev'>\n						<em class='sow-
+ sld-icon-thin-left'></em>\n					</a>\n				</div>\n				</div></div></div></div><div clas
+ s='panel-grid-cell' id='pgc-2-1-1' ><div class='so-panel widget widget_tex
+ t panel-first-child panel-last-child' id='panel-2-1-1-0'>			<div class='textw
+ idget'></div>\n		</div></div></div></div>
+DTSTART;VALUE=DATE:20151207
+DTEND;VALUE=DATE:20151218
+SEQUENCE:0
+SUMMARY:Il venait de Roumanie
+URL:http://s321107965.onlinehome.fr/event/il-venait-de-roumanie
+END:VEVENT
+END:VCALENDAR

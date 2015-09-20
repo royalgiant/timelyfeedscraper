@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//185.2.67.17//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.lyitsu.ie/clubsandsocs
+X-WR-TIMEZONE:Atlantic/Azores
+BEGIN:VTIMEZONE
+TZID:Atlantic/Azores
+X-LIC-LOCATION:Atlantic/Azores
+BEGIN:STANDARD
+DTSTART:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0100
+TZNAME:AZOT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T000000
+TZOFFSETFROM:-0100
+TZOFFSETTO:+0000
+RDATE:20160327T000000
+TZNAME:AZOST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1274@www.lyitsu.ie/clubsandsocs
+DTSTAMP:20150920T001930Z
+CATEGORIES:
+CONTACT:Fiona Kelly\; fiona.kelly@lyit.ie\; http://www.lyitsu.ie/clubsandso
+ cs/
+DESCRIPTION:<p>Sign up on the main campus corridor to all your favourite ac
+ tivities. Why not try something new. Get inspired with LYIT SU Clubs and S
+ ocieties.</p>
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+LOCATION:LYIT Main Campus Corridor
+SEQUENCE:0
+SUMMARY:Clubs and Socs Day 2015
+URL:http://www.lyitsu.ie/clubsandsocs/event/clubs-and-socs-day-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1272@www.lyitsu.ie/clubsandsocs
+DTSTAMP:20150920T001930Z
+CATEGORIES:
+CONTACT:LYIT Student Union\; dylan.mcgowan@lyit.ie\; http://www.lyitsu.ie
+DESCRIPTION:
+DTSTART;TZID=Atlantic/Azores:20150921T104500
+DTEND;TZID=Atlantic/Azores:20150925T114500
+LOCATION:LYIT Main Campus
+SEQUENCE:0
+SUMMARY:Fresher’s Week 2015 – BESS Movement\, Clubs and Socs Days\, On-Camp
+ us Fun!
+URL:http://www.lyitsu.ie/clubsandsocs/event/freshers-week-2015-bess-movemen
+ t-clubs-and-socs-days-on-campus-fun/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1285@www.lyitsu.ie/clubsandsocs
+DTSTAMP:20150920T001930Z
+CATEGORIES:
+CONTACT:Denis Bourne\; l00099023@student.lyit.ie\; https://www.facebook.com
+ /Android-Society-LYIT-1550246491910769/timeline/
+DESCRIPTION:
+DTSTART;TZID=Atlantic/Azores:20150923T170000
+DTEND;TZID=Atlantic/Azores:20150923T200000
+GEO:+54.952413;-7.720889
+LOCATION:room 2213 @ Letterkenny Institute of Technology\, Port Rd\, Letter
+ kenny\, Co. Donegal\, Ireland
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Android App Society Meeting
+URL:http://www.lyitsu.ie/clubsandsocs/event/android-app-society-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1349@www.lyitsu.ie/clubsandsocs
+DTSTAMP:20150920T001930Z
+CATEGORIES:
+CONTACT:Thomas Blockley\; lyit-lgbt-society@live.ie
+DESCRIPTION:
+DTSTART;TZID=Atlantic/Azores:20150923T180000
+DTEND;TZID=Atlantic/Azores:20150923T190000
+LOCATION:LYIT Clubs and Societies Room\, An Danlann
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:LGBT Meeting – Clubs and Societies Room
+URL:http://www.lyitsu.ie/clubsandsocs/event/lgbt-meeting-clubs-and-societie
+ s-room/
+END:VEVENT
+END:VCALENDAR

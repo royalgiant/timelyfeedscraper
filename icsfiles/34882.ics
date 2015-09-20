@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//195.8.208.178//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.ritsart.com
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-804@www.ritsart.com
+DTSTAMP:20150920T002730Z
+CATEGORIES;LANGUAGE=nl-NL:Exposities
+CONTACT:opening 30 September 2015 om 20:00 uur
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.ritsart.com/wp-content/uploads/2015/01/10jaar_Galerie_RitsArt_s-620
+ x593.jpg' width='620' height='593' /></div><p>30 september 2005 opende Gal
+ lery RitsArt voor het eerst haar deuren.</p>\n<p>Een experiment\, een gein
+ tje\, een beetje bluf van een jongeman met een ondernemersgeest.</p>\n<p>V
+ ele kunstwerken\, exposities en nationale en internationale kunstenaars kw
+ amen voorbij.</p>\n<p>Spraakmakende exposities en openingen met loslopende
+  schapen\, ministers en kamerleden en BN’ers en BM’ers.</p>\n<p>Ter ere va
+ n alle kunstenaars die wij de afgelopen 10 jaar hebben mogen ontvangen en 
+ vertegenwoordigen hebben wij een selectie gevraagd speciaal voor deze gele
+ genheid een paar nieuwe jubileum werken te maken.</p>\n<p>Aan ons de uitda
+ ging van dit veelzijdige aanbod weer een mooie tentoonstelling samen te st
+ ellen.</p>\n<p>U kunt deze tentoonstelling bezichtigen vanaf 30 september 
+ 2015.</p>\n<p>Om 20:00 uur openen wij extra feestelijk deze tentoonstellin
+ g.</p>\n<p>U bent van harte welkom om samen met ons een glas te heffen op 
+ al wat kunst ons te bieden heeft!</p>
+DTSTART;VALUE=DATE:20150930
+DTEND;VALUE=DATE:20151001
+GEO:+51.922308;+4.252854
+LOCATION:Gallery RitsArt @ Veerstraat Noordzijde 3\, 3142 CP Maassluis\, Ne
+ derland
+SEQUENCE:0
+SUMMARY:10 Jaar Gallery RitsArt
+URL:http://www.ritsart.com/event/10-jaar-gallery-ritsart/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-806@www.ritsart.com
+DTSTAMP:20150920T002730Z
+CATEGORIES;LANGUAGE=nl-NL:Evenementen
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151004
+GEO:+51.922308;+4.252854
+LOCATION:Gallery RitsArt @ Veerstraat Noordzijde 3\, 3142 CP Maassluis\, Ne
+ derland
+SEQUENCE:0
+SUMMARY:Furiade 2015 Maassluis
+URL:http://www.ritsart.com/event/furiade-2015-maassluis/
+END:VEVENT
+END:VCALENDAR

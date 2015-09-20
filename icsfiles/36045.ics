@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.201.247.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://iwri.org/news
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8okdqd6879hmb6vneinhj83im4@google.com
+DTSTAMP:20150920T002128Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p></p><fb:like href='http://iwri.org/news/?p=340' send='false'
+  layout='standard' show_faces='true' width='450' height='65' action='like'
+  colorscheme='light' font='lucida grande'></fb:like>
+DTSTART;TZID=America/Vancouver:20150923T093000
+DTEND;TZID=America/Vancouver:20150923T103000
+EXDATE;TZID=America/Vancouver:19700821T093000
+EXDATE;TZID=America/Vancouver:19700822T093000
+EXDATE;TZID=America/Vancouver:19700822T093000
+LOCATION:RC 1
+RRULE:FREQ=MONTHLY;BYDAY=4WE
+SEQUENCE:0
+SUMMARY:RTEC Meeting
+URL:http://iwri.org/news/?ai1ec_event=rtec-meeting-10
+X-TAGS;LANGUAGE=en-US:IWRI Research Training and Education Core Calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:a2f8o2nie16jvk1jgu0dehgpd4@google.com
+DTSTAMP:20150920T002128Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p></p><fb:like href='http://iwri.org/news/?p=340' send='false'
+  layout='standard' show_faces='true' width='450' height='65' action='like'
+  colorscheme='light' font='lucida grande'></fb:like>
+DTSTART;TZID=America/Vancouver:20151014T093000
+DTEND;TZID=America/Vancouver:20151014T103000
+EXDATE;TZID=America/Vancouver:19700821T093000
+EXDATE;TZID=America/Vancouver:19700822T093000
+EXDATE;TZID=America/Vancouver:19700822T093000
+EXDATE;TZID=America/Vancouver:19700822T093000
+LOCATION:RC 1
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:RTEC Meeting
+URL:http://iwri.org/news/?ai1ec_event=rtec-meeting-9
+X-TAGS;LANGUAGE=en-US:IWRI Research Training and Education Core Calendar
+END:VEVENT
+END:VCALENDAR

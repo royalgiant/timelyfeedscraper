@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.28.30.64//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.orywomen.org
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4906@www.orywomen.org
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>For More Details Contact: Lisa Bell @ orywomen@cs.com or bms
+ 4you@cs.com</p>\n<p style='text-align: left\;'>Thank you!</p>\n<div class=
+ 'sharedaddy sd-sharing-enabled'><div class='robots-nocontent sd-block sd-s
+ ocial sd-social-icon sd-sharing'><h3 class='sd-title'>Share:</h3><div clas
+ s='sd-content'><ul><li class='share-facebook'><a rel='nofollow' data-share
+ d='sharing-facebook-5185' class='share-facebook sd-button share-icon no-te
+ xt' href='http://www.orywomen.org/2015/09/obedience-is-better-than-sacrifi
+ ce/?share=facebook' target='_blank' title='Share on Facebook'><span></span
+ ><span class='sharing-screen-reader-text'>Share on Facebook (Opens in new 
+ window)</span></a></li><li class='share-twitter'><a rel='nofollow' data-sh
+ ared='sharing-twitter-5185' class='share-twitter sd-button share-icon no-t
+ ext' href='http://www.orywomen.org/2015/09/obedience-is-better-than-sacrif
+ ice/?share=twitter' target='_blank' title='Click to share on Twitter'><spa
+ n></span><span class='sharing-screen-reader-text'>Click to share on Twitte
+ r (Opens in new window)</span></a></li><li class='share-google-plus-1'><a 
+ rel='nofollow' data-shared='sharing-google-5185' class='share-google-plus-
+ 1 sd-button share-icon no-text' href='http://www.orywomen.org/2015/09/obed
+ ience-is-better-than-sacrifice/?share=google-plus-1' target='_blank' title
+ ='Click to share on Google+'><span></span><span class='sharing-screen-read
+ er-text'>Click to share on Google+ (Opens in new window)</span></a></li><l
+ i class='share-linkedin'><a rel='nofollow' data-shared='sharing-linkedin-5
+ 185' class='share-linkedin sd-button share-icon no-text' href='http://www.
+ orywomen.org/2015/09/obedience-is-better-than-sacrifice/?share=linkedin' t
+ arget='_blank' title='Click to share on LinkedIn'><span></span><span class
+ ='sharing-screen-reader-text'>Click to share on LinkedIn (Opens in new win
+ dow)</span></a></li><li class='share-pinterest'><a rel='nofollow' data-sha
+ red='sharing-pinterest-5185' class='share-pinterest sd-button share-icon n
+ o-text' href='http://www.orywomen.org/2015/09/obedience-is-better-than-sac
+ rifice/?share=pinterest' target='_blank' title='Click to share on Pinteres
+ t'><span></span><span class='sharing-screen-reader-text'>Click to share on
+  Pinterest (Opens in new window)</span></a></li><li class='share-email'><a
+  rel='nofollow' data-shared='' class='share-email sd-button share-icon no-
+ text' href='http://www.orywomen.org/2015/09/obedience-is-better-than-sacri
+ fice/?share=email' target='_blank' title='Click to email this to a friend'
+ ><span></span><span class='sharing-screen-reader-text'>Click to email this
+  to a friend (Opens in new window)</span></a></li><li class='share-end'></
+ li></ul></div></div></div>
+DTSTART;TZID=America/Denver:20150919T100000
+DTEND;TZID=America/Denver:20150919T123000
+SEQUENCE:0
+SUMMARY:O.R.Y. WOMEN’S MONTHLY MEETING
+URL:http://www.orywomen.org/event/o-r-y-womens-monthly-meeting-8/
+END:VEVENT
+END:VCALENDAR

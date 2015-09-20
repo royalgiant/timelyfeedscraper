@@ -1,0 +1,476 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//176.9.42.77//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.imtl.gr
+X-WR-TIMEZONE:Europe/Athens
+BEGIN:VTIMEZONE
+TZID:Europe/Athens
+X-LIC-LOCATION:Europe/Athens
+BEGIN:STANDARD
+DTSTART:20151025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+RDATE:20160327T030000
+TZNAME:EEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-16739@www.imtl.gr
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=el:ΜΝΗΜΟΣΥΝΟ
+CONTACT:
+DESCRIPTION:<a class='synved-social-button synved-social-button-share synve
+ d-social-size-16 synved-social-resolution-single synved-social-provider-fa
+ cebook nolightbox' data-provider='facebook' target='_blank' rel='nofollow'
+  title='Share on Facebook' href='http://www.facebook.com/sharer.php?u=http
+ %3A%2F%2Fwww.imtl.gr&t=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF
+ %CE%B1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%2
+ 0%CE%BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%
+ AC%CF%83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1
+ %CE%B4%CE%B5%CE%B9%CE%AC%CF%82&s=100&p[url]=http%3A%2F%2Fwww.imtl.gr&p[ima
+ ges][0]=&p[title]=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF%CE%B
+ 1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%20%CE%
+ BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AC%CF
+ %83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1%CE%B
+ 4%CE%B5%CE%B9%CE%AC%CF%82' style='font-size: 0px\; width:16px\;height:16px
+ \;margin:0\;margin-bottom:5px\;margin-right:5px\;'><img alt='facebook' tit
+ le='Share on Facebook' class='synved-share-image synved-social-image synve
+ d-social-image-share' width='16' height='16' style='display: inline\; widt
+ h:16px\;height:16px\; margin: 0\; padding: 0\; border: none\; box-shadow: 
+ none\;' src='http://www.imtl.gr/wp-content/plugins/social-media-feather/sy
+ nved-social/image/social/regular/32x32/facebook.png' /></a><a class='synve
+ d-social-button synved-social-button-share synved-social-size-16 synved-so
+ cial-resolution-single synved-social-provider-twitter nolightbox' data-pro
+ vider='twitter' target='_blank' rel='nofollow' title='Share on Twitter' hr
+ ef='http://twitter.com/share?url=http%3A%2F%2Fwww.imtl.gr&text=Hey%20check
+ %20this%20out' style='font-size: 0px\; width:16px\;height:16px\;margin:0\;
+ margin-bottom:5px\;margin-right:5px\;'><img alt='twitter' title='Share on 
+ Twitter' class='synved-share-image synved-social-image synved-social-image
+ -share' width='16' height='16' style='display: inline\; width:16px\;height
+ :16px\; margin: 0\; padding: 0\; border: none\; box-shadow: none\;' src='h
+ ttp://www.imtl.gr/wp-content/plugins/social-media-feather/synved-social/im
+ age/social/regular/32x32/twitter.png' /></a><a class='synved-social-button
+  synved-social-button-share synved-social-size-16 synved-social-resolution
+ -single synved-social-provider-google_plus nolightbox' data-provider='goog
+ le_plus' target='_blank' rel='nofollow' title='Share on Google+' href='htt
+ ps://plus.google.com/share?url=http%3A%2F%2Fwww.imtl.gr' style='font-size:
+  0px\; width:16px\;height:16px\;margin:0\;margin-bottom:5px\;'><img alt='g
+ oogle_plus' title='Share on Google+' class='synved-share-image synved-soci
+ al-image synved-social-image-share' width='16' height='16' style='display:
+  inline\; width:16px\;height:16px\; margin: 0\; padding: 0\; border: none\
+ ; box-shadow: none\;' src='http://www.imtl.gr/wp-content/plugins/social-me
+ dia-feather/synved-social/image/social/regular/32x32/google_plus.png' /></
+ a>
+DTSTART;TZID=Europe/Athens:20150919T080000
+SEQUENCE:0
+SUMMARY:Ι. Ναός Αγ. Νικολάου Διστόμου – Τέλεση Ι. Μνημοσύνων
+URL:http://www.imtl.gr/?ai1ec_event=%ce%b9-%ce%bd%ce%b1%cf%8c%cf%82-%ce%b1%
+ ce%b3-%ce%bd%ce%b9%ce%ba%ce%bf%ce%bb%ce%ac%ce%bf%cf%85-%ce%b4%ce%b9%cf%83%
+ cf%84%cf%8c%ce%bc%ce%bf%cf%85-%cf%84%ce%ad%ce%bb%ce%b5%cf%83%ce%b7-%ce%b9-
+ %ce%bc
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16740@www.imtl.gr
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=el:ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ\,ΜΝΗΜΟΣΥΝΟ
+CONTACT:
+DESCRIPTION:<a class='synved-social-button synved-social-button-share synve
+ d-social-size-16 synved-social-resolution-single synved-social-provider-fa
+ cebook nolightbox' data-provider='facebook' target='_blank' rel='nofollow'
+  title='Share on Facebook' href='http://www.facebook.com/sharer.php?u=http
+ %3A%2F%2Fwww.imtl.gr&t=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF
+ %CE%B1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%2
+ 0%CE%BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%
+ AC%CF%83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1
+ %CE%B4%CE%B5%CE%B9%CE%AC%CF%82&s=100&p[url]=http%3A%2F%2Fwww.imtl.gr&p[ima
+ ges][0]=&p[title]=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF%CE%B
+ 1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%20%CE%
+ BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AC%CF
+ %83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1%CE%B
+ 4%CE%B5%CE%B9%CE%AC%CF%82' style='font-size: 0px\; width:16px\;height:16px
+ \;margin:0\;margin-bottom:5px\;margin-right:5px\;'><img alt='facebook' tit
+ le='Share on Facebook' class='synved-share-image synved-social-image synve
+ d-social-image-share' width='16' height='16' style='display: inline\; widt
+ h:16px\;height:16px\; margin: 0\; padding: 0\; border: none\; box-shadow: 
+ none\;' src='http://www.imtl.gr/wp-content/plugins/social-media-feather/sy
+ nved-social/image/social/regular/32x32/facebook.png' /></a><a class='synve
+ d-social-button synved-social-button-share synved-social-size-16 synved-so
+ cial-resolution-single synved-social-provider-twitter nolightbox' data-pro
+ vider='twitter' target='_blank' rel='nofollow' title='Share on Twitter' hr
+ ef='http://twitter.com/share?url=http%3A%2F%2Fwww.imtl.gr&text=Hey%20check
+ %20this%20out' style='font-size: 0px\; width:16px\;height:16px\;margin:0\;
+ margin-bottom:5px\;margin-right:5px\;'><img alt='twitter' title='Share on 
+ Twitter' class='synved-share-image synved-social-image synved-social-image
+ -share' width='16' height='16' style='display: inline\; width:16px\;height
+ :16px\; margin: 0\; padding: 0\; border: none\; box-shadow: none\;' src='h
+ ttp://www.imtl.gr/wp-content/plugins/social-media-feather/synved-social/im
+ age/social/regular/32x32/twitter.png' /></a><a class='synved-social-button
+  synved-social-button-share synved-social-size-16 synved-social-resolution
+ -single synved-social-provider-google_plus nolightbox' data-provider='goog
+ le_plus' target='_blank' rel='nofollow' title='Share on Google+' href='htt
+ ps://plus.google.com/share?url=http%3A%2F%2Fwww.imtl.gr' style='font-size:
+  0px\; width:16px\;height:16px\;margin:0\;margin-bottom:5px\;'><img alt='g
+ oogle_plus' title='Share on Google+' class='synved-share-image synved-soci
+ al-image synved-social-image-share' width='16' height='16' style='display:
+  inline\; width:16px\;height:16px\; margin: 0\; padding: 0\; border: none\
+ ; box-shadow: none\;' src='http://www.imtl.gr/wp-content/plugins/social-me
+ dia-feather/synved-social/image/social/regular/32x32/google_plus.png' /></
+ a>
+DTSTART;TZID=Europe/Athens:20150920T080000
+SEQUENCE:0
+SUMMARY:Θεία Λειτουργία – Τέλεση Ιερών Μνημοσύνων στον Ι. Ναό Αγ. Τριάδας σ
+ το χωρίο Αγ. Τριάδα
+URL:http://www.imtl.gr/?ai1ec_event=%ce%b8%ce%b5%ce%af%ce%b1-%ce%bb%ce%b5%c
+ e%b9%cf%84%ce%bf%cf%85%cf%81%ce%b3%ce%af%ce%b1-%cf%84%ce%ad%ce%bb%ce%b5%cf
+ %83%ce%b7-%ce%b9%ce%b5%cf%81%cf%8e%ce%bd-%ce%bc%ce%bd%ce%b7%ce%bc%ce%bf%cf
+ %83%cf%8d
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16741@www.imtl.gr
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=el:ΕΣΠΕΡΙΝΟΣ
+CONTACT:
+DESCRIPTION:<a class='synved-social-button synved-social-button-share synve
+ d-social-size-16 synved-social-resolution-single synved-social-provider-fa
+ cebook nolightbox' data-provider='facebook' target='_blank' rel='nofollow'
+  title='Share on Facebook' href='http://www.facebook.com/sharer.php?u=http
+ %3A%2F%2Fwww.imtl.gr&t=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF
+ %CE%B1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%2
+ 0%CE%BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%
+ AC%CF%83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1
+ %CE%B4%CE%B5%CE%B9%CE%AC%CF%82&s=100&p[url]=http%3A%2F%2Fwww.imtl.gr&p[ima
+ ges][0]=&p[title]=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF%CE%B
+ 1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%20%CE%
+ BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AC%CF
+ %83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1%CE%B
+ 4%CE%B5%CE%B9%CE%AC%CF%82' style='font-size: 0px\; width:16px\;height:16px
+ \;margin:0\;margin-bottom:5px\;margin-right:5px\;'><img alt='facebook' tit
+ le='Share on Facebook' class='synved-share-image synved-social-image synve
+ d-social-image-share' width='16' height='16' style='display: inline\; widt
+ h:16px\;height:16px\; margin: 0\; padding: 0\; border: none\; box-shadow: 
+ none\;' src='http://www.imtl.gr/wp-content/plugins/social-media-feather/sy
+ nved-social/image/social/regular/32x32/facebook.png' /></a><a class='synve
+ d-social-button synved-social-button-share synved-social-size-16 synved-so
+ cial-resolution-single synved-social-provider-twitter nolightbox' data-pro
+ vider='twitter' target='_blank' rel='nofollow' title='Share on Twitter' hr
+ ef='http://twitter.com/share?url=http%3A%2F%2Fwww.imtl.gr&text=Hey%20check
+ %20this%20out' style='font-size: 0px\; width:16px\;height:16px\;margin:0\;
+ margin-bottom:5px\;margin-right:5px\;'><img alt='twitter' title='Share on 
+ Twitter' class='synved-share-image synved-social-image synved-social-image
+ -share' width='16' height='16' style='display: inline\; width:16px\;height
+ :16px\; margin: 0\; padding: 0\; border: none\; box-shadow: none\;' src='h
+ ttp://www.imtl.gr/wp-content/plugins/social-media-feather/synved-social/im
+ age/social/regular/32x32/twitter.png' /></a><a class='synved-social-button
+  synved-social-button-share synved-social-size-16 synved-social-resolution
+ -single synved-social-provider-google_plus nolightbox' data-provider='goog
+ le_plus' target='_blank' rel='nofollow' title='Share on Google+' href='htt
+ ps://plus.google.com/share?url=http%3A%2F%2Fwww.imtl.gr' style='font-size:
+  0px\; width:16px\;height:16px\;margin:0\;margin-bottom:5px\;'><img alt='g
+ oogle_plus' title='Share on Google+' class='synved-share-image synved-soci
+ al-image synved-social-image-share' width='16' height='16' style='display:
+  inline\; width:16px\;height:16px\; margin: 0\; padding: 0\; border: none\
+ ; box-shadow: none\;' src='http://www.imtl.gr/wp-content/plugins/social-me
+ dia-feather/synved-social/image/social/regular/32x32/google_plus.png' /></
+ a>
+DTSTART;TZID=Europe/Athens:20150923T183000
+SEQUENCE:0
+SUMMARY:Εσπερινός στο Ι. Παρεκκλήσιο του ΘΧΠ. Διακονία Αγαπης Θηβών
+URL:http://www.imtl.gr/?ai1ec_event=%ce%b5%cf%83%cf%80%ce%b5%cf%81%ce%b9%ce
+ %bd%cf%8c%cf%82-%cf%83%cf%84%ce%bf-%ce%b9-%cf%80%ce%b1%cf%81%ce%b5%ce%ba%c
+ e%ba%ce%bb%ce%ae%cf%83%ce%b9%ce%bf-%cf%84%ce%bf%cf%85-%ce%b8%cf%87%cf%80-%
+ ce%b4%ce%b9
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16742@www.imtl.gr
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=el:ΕΣΠΕΡΙΝΟΣ
+CONTACT:
+DESCRIPTION:<a class='synved-social-button synved-social-button-share synve
+ d-social-size-16 synved-social-resolution-single synved-social-provider-fa
+ cebook nolightbox' data-provider='facebook' target='_blank' rel='nofollow'
+  title='Share on Facebook' href='http://www.facebook.com/sharer.php?u=http
+ %3A%2F%2Fwww.imtl.gr&t=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF
+ %CE%B1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%2
+ 0%CE%BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%
+ AC%CF%83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1
+ %CE%B4%CE%B5%CE%B9%CE%AC%CF%82&s=100&p[url]=http%3A%2F%2Fwww.imtl.gr&p[ima
+ ges][0]=&p[title]=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF%CE%B
+ 1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%20%CE%
+ BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AC%CF
+ %83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1%CE%B
+ 4%CE%B5%CE%B9%CE%AC%CF%82' style='font-size: 0px\; width:16px\;height:16px
+ \;margin:0\;margin-bottom:5px\;margin-right:5px\;'><img alt='facebook' tit
+ le='Share on Facebook' class='synved-share-image synved-social-image synve
+ d-social-image-share' width='16' height='16' style='display: inline\; widt
+ h:16px\;height:16px\; margin: 0\; padding: 0\; border: none\; box-shadow: 
+ none\;' src='http://www.imtl.gr/wp-content/plugins/social-media-feather/sy
+ nved-social/image/social/regular/32x32/facebook.png' /></a><a class='synve
+ d-social-button synved-social-button-share synved-social-size-16 synved-so
+ cial-resolution-single synved-social-provider-twitter nolightbox' data-pro
+ vider='twitter' target='_blank' rel='nofollow' title='Share on Twitter' hr
+ ef='http://twitter.com/share?url=http%3A%2F%2Fwww.imtl.gr&text=Hey%20check
+ %20this%20out' style='font-size: 0px\; width:16px\;height:16px\;margin:0\;
+ margin-bottom:5px\;margin-right:5px\;'><img alt='twitter' title='Share on 
+ Twitter' class='synved-share-image synved-social-image synved-social-image
+ -share' width='16' height='16' style='display: inline\; width:16px\;height
+ :16px\; margin: 0\; padding: 0\; border: none\; box-shadow: none\;' src='h
+ ttp://www.imtl.gr/wp-content/plugins/social-media-feather/synved-social/im
+ age/social/regular/32x32/twitter.png' /></a><a class='synved-social-button
+  synved-social-button-share synved-social-size-16 synved-social-resolution
+ -single synved-social-provider-google_plus nolightbox' data-provider='goog
+ le_plus' target='_blank' rel='nofollow' title='Share on Google+' href='htt
+ ps://plus.google.com/share?url=http%3A%2F%2Fwww.imtl.gr' style='font-size:
+  0px\; width:16px\;height:16px\;margin:0\;margin-bottom:5px\;'><img alt='g
+ oogle_plus' title='Share on Google+' class='synved-share-image synved-soci
+ al-image synved-social-image-share' width='16' height='16' style='display:
+  inline\; width:16px\;height:16px\; margin: 0\; padding: 0\; border: none\
+ ; box-shadow: none\;' src='http://www.imtl.gr/wp-content/plugins/social-me
+ dia-feather/synved-social/image/social/regular/32x32/google_plus.png' /></
+ a>
+DTSTART;TZID=Europe/Athens:20150925T183000
+SEQUENCE:0
+SUMMARY:Εσπερινός στο Ι. Ησυχαστήριο Μητρός του Ηγαπημένου
+URL:http://www.imtl.gr/?ai1ec_event=%ce%b5%cf%83%cf%80%ce%b5%cf%81%ce%b9%ce
+ %bd%cf%8c%cf%82-%cf%83%cf%84%ce%bf-%ce%b9-%ce%b7%cf%83%cf%85%cf%87%ce%b1%c
+ f%83%cf%84%ce%ae%cf%81%ce%b9%ce%bf-%ce%bc%ce%b7%cf%84%cf%81%cf%8c%cf%82-%c
+ f%84%ce%bf
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16743@www.imtl.gr
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=el:ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ
+CONTACT:
+DESCRIPTION:<a class='synved-social-button synved-social-button-share synve
+ d-social-size-16 synved-social-resolution-single synved-social-provider-fa
+ cebook nolightbox' data-provider='facebook' target='_blank' rel='nofollow'
+  title='Share on Facebook' href='http://www.facebook.com/sharer.php?u=http
+ %3A%2F%2Fwww.imtl.gr&t=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF
+ %CE%B1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%2
+ 0%CE%BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%
+ AC%CF%83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1
+ %CE%B4%CE%B5%CE%B9%CE%AC%CF%82&s=100&p[url]=http%3A%2F%2Fwww.imtl.gr&p[ima
+ ges][0]=&p[title]=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF%CE%B
+ 1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%20%CE%
+ BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AC%CF
+ %83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1%CE%B
+ 4%CE%B5%CE%B9%CE%AC%CF%82' style='font-size: 0px\; width:16px\;height:16px
+ \;margin:0\;margin-bottom:5px\;margin-right:5px\;'><img alt='facebook' tit
+ le='Share on Facebook' class='synved-share-image synved-social-image synve
+ d-social-image-share' width='16' height='16' style='display: inline\; widt
+ h:16px\;height:16px\; margin: 0\; padding: 0\; border: none\; box-shadow: 
+ none\;' src='http://www.imtl.gr/wp-content/plugins/social-media-feather/sy
+ nved-social/image/social/regular/32x32/facebook.png' /></a><a class='synve
+ d-social-button synved-social-button-share synved-social-size-16 synved-so
+ cial-resolution-single synved-social-provider-twitter nolightbox' data-pro
+ vider='twitter' target='_blank' rel='nofollow' title='Share on Twitter' hr
+ ef='http://twitter.com/share?url=http%3A%2F%2Fwww.imtl.gr&text=Hey%20check
+ %20this%20out' style='font-size: 0px\; width:16px\;height:16px\;margin:0\;
+ margin-bottom:5px\;margin-right:5px\;'><img alt='twitter' title='Share on 
+ Twitter' class='synved-share-image synved-social-image synved-social-image
+ -share' width='16' height='16' style='display: inline\; width:16px\;height
+ :16px\; margin: 0\; padding: 0\; border: none\; box-shadow: none\;' src='h
+ ttp://www.imtl.gr/wp-content/plugins/social-media-feather/synved-social/im
+ age/social/regular/32x32/twitter.png' /></a><a class='synved-social-button
+  synved-social-button-share synved-social-size-16 synved-social-resolution
+ -single synved-social-provider-google_plus nolightbox' data-provider='goog
+ le_plus' target='_blank' rel='nofollow' title='Share on Google+' href='htt
+ ps://plus.google.com/share?url=http%3A%2F%2Fwww.imtl.gr' style='font-size:
+  0px\; width:16px\;height:16px\;margin:0\;margin-bottom:5px\;'><img alt='g
+ oogle_plus' title='Share on Google+' class='synved-share-image synved-soci
+ al-image synved-social-image-share' width='16' height='16' style='display:
+  inline\; width:16px\;height:16px\; margin: 0\; padding: 0\; border: none\
+ ; box-shadow: none\;' src='http://www.imtl.gr/wp-content/plugins/social-me
+ dia-feather/synved-social/image/social/regular/32x32/google_plus.png' /></
+ a>
+DTSTART;TZID=Europe/Athens:20150926T080000
+SEQUENCE:0
+SUMMARY:Θεία Λειτουργία στα Λεύκτρα στο Ι. Παρεκκλήσιο του π. Παρασκευά Ζωγ
+ ράφου
+URL:http://www.imtl.gr/?ai1ec_event=%ce%b8%ce%b5%ce%af%ce%b1-%ce%bb%ce%b5%c
+ e%b9%cf%84%ce%bf%cf%85%cf%81%ce%b3%ce%af%ce%b1-%cf%83%cf%84%ce%b1-%ce%bb%c
+ e%b5%cf%8d%ce%ba%cf%84%cf%81%ce%b1-%cf%83%cf%84%ce%bf-%ce%b9-%cf%80%ce%b1%
+ cf%81%ce%b5
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16744@www.imtl.gr
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=el:ΔΟΞΟΛΟΓΙΑ\,ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ
+CONTACT:
+DESCRIPTION:<a class='synved-social-button synved-social-button-share synve
+ d-social-size-16 synved-social-resolution-single synved-social-provider-fa
+ cebook nolightbox' data-provider='facebook' target='_blank' rel='nofollow'
+  title='Share on Facebook' href='http://www.facebook.com/sharer.php?u=http
+ %3A%2F%2Fwww.imtl.gr&t=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF
+ %CE%B1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%2
+ 0%CE%BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%
+ AC%CF%83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1
+ %CE%B4%CE%B5%CE%B9%CE%AC%CF%82&s=100&p[url]=http%3A%2F%2Fwww.imtl.gr&p[ima
+ ges][0]=&p[title]=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF%CE%B
+ 1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%20%CE%
+ BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AC%CF
+ %83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1%CE%B
+ 4%CE%B5%CE%B9%CE%AC%CF%82' style='font-size: 0px\; width:16px\;height:16px
+ \;margin:0\;margin-bottom:5px\;margin-right:5px\;'><img alt='facebook' tit
+ le='Share on Facebook' class='synved-share-image synved-social-image synve
+ d-social-image-share' width='16' height='16' style='display: inline\; widt
+ h:16px\;height:16px\; margin: 0\; padding: 0\; border: none\; box-shadow: 
+ none\;' src='http://www.imtl.gr/wp-content/plugins/social-media-feather/sy
+ nved-social/image/social/regular/32x32/facebook.png' /></a><a class='synve
+ d-social-button synved-social-button-share synved-social-size-16 synved-so
+ cial-resolution-single synved-social-provider-twitter nolightbox' data-pro
+ vider='twitter' target='_blank' rel='nofollow' title='Share on Twitter' hr
+ ef='http://twitter.com/share?url=http%3A%2F%2Fwww.imtl.gr&text=Hey%20check
+ %20this%20out' style='font-size: 0px\; width:16px\;height:16px\;margin:0\;
+ margin-bottom:5px\;margin-right:5px\;'><img alt='twitter' title='Share on 
+ Twitter' class='synved-share-image synved-social-image synved-social-image
+ -share' width='16' height='16' style='display: inline\; width:16px\;height
+ :16px\; margin: 0\; padding: 0\; border: none\; box-shadow: none\;' src='h
+ ttp://www.imtl.gr/wp-content/plugins/social-media-feather/synved-social/im
+ age/social/regular/32x32/twitter.png' /></a><a class='synved-social-button
+  synved-social-button-share synved-social-size-16 synved-social-resolution
+ -single synved-social-provider-google_plus nolightbox' data-provider='goog
+ le_plus' target='_blank' rel='nofollow' title='Share on Google+' href='htt
+ ps://plus.google.com/share?url=http%3A%2F%2Fwww.imtl.gr' style='font-size:
+  0px\; width:16px\;height:16px\;margin:0\;margin-bottom:5px\;'><img alt='g
+ oogle_plus' title='Share on Google+' class='synved-share-image synved-soci
+ al-image synved-social-image-share' width='16' height='16' style='display:
+  inline\; width:16px\;height:16px\; margin: 0\; padding: 0\; border: none\
+ ; box-shadow: none\;' src='http://www.imtl.gr/wp-content/plugins/social-me
+ dia-feather/synved-social/image/social/regular/32x32/google_plus.png' /></
+ a>
+DTSTART;TZID=Europe/Athens:20150927T080000
+SEQUENCE:0
+SUMMARY:Θεία Λειτουργία στην Ι. Μονή Αγ. Νικολάου Υψηλάντη – Δοξολογία  για
+  την Επέτειο της Μάχης της Πέτρας
+URL:http://www.imtl.gr/?ai1ec_event=%ce%b8%ce%b5%ce%af%ce%b1-%ce%bb%ce%b5%c
+ e%b9%cf%84%ce%bf%cf%85%cf%81%ce%b3%ce%af%ce%b1-%cf%83%cf%84%ce%b7%ce%bd-%c
+ e%b9-%ce%bc%ce%bf%ce%bd%ce%ae-%ce%b1%ce%b3-%ce%bd%ce%b9%ce%ba%ce%bf%ce%bb%
+ ce%ac%ce%bf
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16745@www.imtl.gr
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=el:ΑΓΡΥΠΝΙΑ
+CONTACT:
+DESCRIPTION:<a class='synved-social-button synved-social-button-share synve
+ d-social-size-16 synved-social-resolution-single synved-social-provider-fa
+ cebook nolightbox' data-provider='facebook' target='_blank' rel='nofollow'
+  title='Share on Facebook' href='http://www.facebook.com/sharer.php?u=http
+ %3A%2F%2Fwww.imtl.gr&t=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF
+ %CE%B1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%2
+ 0%CE%BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%
+ AC%CF%83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1
+ %CE%B4%CE%B5%CE%B9%CE%AC%CF%82&s=100&p[url]=http%3A%2F%2Fwww.imtl.gr&p[ima
+ ges][0]=&p[title]=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF%CE%B
+ 1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%20%CE%
+ BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AC%CF
+ %83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1%CE%B
+ 4%CE%B5%CE%B9%CE%AC%CF%82' style='font-size: 0px\; width:16px\;height:16px
+ \;margin:0\;margin-bottom:5px\;margin-right:5px\;'><img alt='facebook' tit
+ le='Share on Facebook' class='synved-share-image synved-social-image synve
+ d-social-image-share' width='16' height='16' style='display: inline\; widt
+ h:16px\;height:16px\; margin: 0\; padding: 0\; border: none\; box-shadow: 
+ none\;' src='http://www.imtl.gr/wp-content/plugins/social-media-feather/sy
+ nved-social/image/social/regular/32x32/facebook.png' /></a><a class='synve
+ d-social-button synved-social-button-share synved-social-size-16 synved-so
+ cial-resolution-single synved-social-provider-twitter nolightbox' data-pro
+ vider='twitter' target='_blank' rel='nofollow' title='Share on Twitter' hr
+ ef='http://twitter.com/share?url=http%3A%2F%2Fwww.imtl.gr&text=Hey%20check
+ %20this%20out' style='font-size: 0px\; width:16px\;height:16px\;margin:0\;
+ margin-bottom:5px\;margin-right:5px\;'><img alt='twitter' title='Share on 
+ Twitter' class='synved-share-image synved-social-image synved-social-image
+ -share' width='16' height='16' style='display: inline\; width:16px\;height
+ :16px\; margin: 0\; padding: 0\; border: none\; box-shadow: none\;' src='h
+ ttp://www.imtl.gr/wp-content/plugins/social-media-feather/synved-social/im
+ age/social/regular/32x32/twitter.png' /></a><a class='synved-social-button
+  synved-social-button-share synved-social-size-16 synved-social-resolution
+ -single synved-social-provider-google_plus nolightbox' data-provider='goog
+ le_plus' target='_blank' rel='nofollow' title='Share on Google+' href='htt
+ ps://plus.google.com/share?url=http%3A%2F%2Fwww.imtl.gr' style='font-size:
+  0px\; width:16px\;height:16px\;margin:0\;margin-bottom:5px\;'><img alt='g
+ oogle_plus' title='Share on Google+' class='synved-share-image synved-soci
+ al-image synved-social-image-share' width='16' height='16' style='display:
+  inline\; width:16px\;height:16px\; margin: 0\; padding: 0\; border: none\
+ ; box-shadow: none\;' src='http://www.imtl.gr/wp-content/plugins/social-me
+ dia-feather/synved-social/image/social/regular/32x32/google_plus.png' /></
+ a>
+DTSTART;TZID=Europe/Athens:20150927T203000
+SEQUENCE:0
+SUMMARY:Αγρυπνία στην Ι. Μονή Οσίου Λουκά
+URL:http://www.imtl.gr/?ai1ec_event=%ce%b1%ce%b3%cf%81%cf%85%cf%80%ce%bd%ce
+ %af%ce%b1-%cf%83%cf%84%ce%b7%ce%bd-%ce%b9-%ce%bc%ce%bf%ce%bd%ce%ae-%ce%bf%
+ cf%83%ce%af%ce%bf%cf%85-%ce%bb%ce%bf%cf%85%ce%ba%ce%ac
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16746@www.imtl.gr
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=el:ΕΚΔΗΛΩΣΕΙΣ
+CONTACT:
+DESCRIPTION:<a class='synved-social-button synved-social-button-share synve
+ d-social-size-16 synved-social-resolution-single synved-social-provider-fa
+ cebook nolightbox' data-provider='facebook' target='_blank' rel='nofollow'
+  title='Share on Facebook' href='http://www.facebook.com/sharer.php?u=http
+ %3A%2F%2Fwww.imtl.gr&t=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF
+ %CE%B1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%2
+ 0%CE%BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%
+ AC%CF%83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1
+ %CE%B4%CE%B5%CE%B9%CE%AC%CF%82&s=100&p[url]=http%3A%2F%2Fwww.imtl.gr&p[ima
+ ges][0]=&p[title]=%CE%95%CE%BF%CF%81%CF%84%CE%AE%20%CE%91%CE%B3%CE%AF%CE%B
+ 1%CF%82%20%CE%A3%CE%BF%CF%86%CE%AF%CE%B1%CF%82%20%CF%83%CF%84%CE%BF%20%CE%
+ BC%CE%B5%CF%83%CE%B1%CE%B9%CF%89%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AC%CF
+ %83%CF%84%CF%81%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%9B%CE%B9%CE%B2%CE%B1%CE%B
+ 4%CE%B5%CE%B9%CE%AC%CF%82' style='font-size: 0px\; width:16px\;height:16px
+ \;margin:0\;margin-bottom:5px\;margin-right:5px\;'><img alt='facebook' tit
+ le='Share on Facebook' class='synved-share-image synved-social-image synve
+ d-social-image-share' width='16' height='16' style='display: inline\; widt
+ h:16px\;height:16px\; margin: 0\; padding: 0\; border: none\; box-shadow: 
+ none\;' src='http://www.imtl.gr/wp-content/plugins/social-media-feather/sy
+ nved-social/image/social/regular/32x32/facebook.png' /></a><a class='synve
+ d-social-button synved-social-button-share synved-social-size-16 synved-so
+ cial-resolution-single synved-social-provider-twitter nolightbox' data-pro
+ vider='twitter' target='_blank' rel='nofollow' title='Share on Twitter' hr
+ ef='http://twitter.com/share?url=http%3A%2F%2Fwww.imtl.gr&text=Hey%20check
+ %20this%20out' style='font-size: 0px\; width:16px\;height:16px\;margin:0\;
+ margin-bottom:5px\;margin-right:5px\;'><img alt='twitter' title='Share on 
+ Twitter' class='synved-share-image synved-social-image synved-social-image
+ -share' width='16' height='16' style='display: inline\; width:16px\;height
+ :16px\; margin: 0\; padding: 0\; border: none\; box-shadow: none\;' src='h
+ ttp://www.imtl.gr/wp-content/plugins/social-media-feather/synved-social/im
+ age/social/regular/32x32/twitter.png' /></a><a class='synved-social-button
+  synved-social-button-share synved-social-size-16 synved-social-resolution
+ -single synved-social-provider-google_plus nolightbox' data-provider='goog
+ le_plus' target='_blank' rel='nofollow' title='Share on Google+' href='htt
+ ps://plus.google.com/share?url=http%3A%2F%2Fwww.imtl.gr' style='font-size:
+  0px\; width:16px\;height:16px\;margin:0\;margin-bottom:5px\;'><img alt='g
+ oogle_plus' title='Share on Google+' class='synved-share-image synved-soci
+ al-image synved-social-image-share' width='16' height='16' style='display:
+  inline\; width:16px\;height:16px\; margin: 0\; padding: 0\; border: none\
+ ; box-shadow: none\;' src='http://www.imtl.gr/wp-content/plugins/social-me
+ dia-feather/synved-social/image/social/regular/32x32/google_plus.png' /></
+ a>
+DTSTART;TZID=Europe/Athens:20150928T170000
+DTEND;TZID=Europe/Athens:20150929T180000
+SEQUENCE:0
+SUMMARY:Συμμετοχή στις Εκδηλώσεις στον Ι. Ναό Αγ. Νικολάου Δράμας εις μνήμη
+ ν των θημάτων τους Βουλγαρικής σφαγής του 1941
+URL:http://www.imtl.gr/?ai1ec_event=%cf%83%cf%85%ce%bc%ce%bc%ce%b5%cf%84%ce
+ %bf%cf%87%ce%ae-%cf%83%cf%84%ce%b9%cf%82-%ce%b5%ce%ba%ce%b4%ce%b7%ce%bb%cf
+ %8e%cf%83%ce%b5%ce%b9%cf%82-%cf%83%cf%84%ce%bf%ce%bd-%ce%b9-%ce%bd%ce%b1%c
+ f%8c-%ce%b1
+END:VEVENT
+END:VCALENDAR

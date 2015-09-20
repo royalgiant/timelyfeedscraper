@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//217.146.69.25//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://eestihobune.ee
+X-WR-TIMEZONE:Europe/Tallinn
+BEGIN:VTIMEZONE
+TZID:Europe/Tallinn
+X-LIC-LOCATION:Europe/Tallinn
+BEGIN:STANDARD
+DTSTART:20151025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+RDATE:20160327T030000
+TZNAME:EEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3269@eestihobune.ee
+DTSTAMP:20150920T002202Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Koostöös Keskkonnaametiga on EHS esindatud Ökomässul Tallinn
+ as Patarei Merekindluse territooriumil</p>\n<p>Kohal eesti\, tori ja eesti
+  raskeveohobune.</p>\n<p>Rohkem infot-</p>\n<p><a href='http://www.keskkon
+ naamet.ee/uudised-ja-artiklid/elavate-kulamaastike-kampaania/?highlight=%C
+ 3%96kom%C3%A4ss' target='_blank'>http://www.keskkonnaamet.ee/uudised-ja-ar
+ tiklid/elavate-kulamaastike-kampaania/?highlight=%C3%96kom%C3%A4ss</a></p>
+DTSTART;TZID=Europe/Tallinn:20150919T110000
+SEQUENCE:0
+SUMMARY:Ökomäss 2015
+URL:http://eestihobune.ee/?ai1ec_event=okomass-2015
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

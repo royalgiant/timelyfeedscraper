@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//81.169.145.82//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.kyuvb.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:270@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Offene Trainings
+CONTACT:
+DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
+  Gäste aus anderen Vereinen willkommen\, 5 EUR / Person Beteiligung an Hal
+ lenmiete.</p>
+DTSTART;VALUE=DATE:20150920
+DTEND;VALUE=DATE:20150921
+LOCATION:Erlangen
+SEQUENCE:0
+SUMMARY:Offenes Sonntagstraining
+URL:http://www.kyuvb.de/event/offenes-sonntagstraining-74/
+END:VEVENT
+BEGIN:VEVENT
+UID:279@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Offene Trainings
+CONTACT:
+DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
+  Gäste aus anderen Vereinen willkommen\, 5 EUR / Person Beteiligung an Hal
+ lenmiete.</p>
+DTSTART;VALUE=DATE:20150927
+DTEND;VALUE=DATE:20150928
+LOCATION:Erlangen
+SEQUENCE:0
+SUMMARY:Offenes Sonntagstraining
+URL:http://www.kyuvb.de/event/offenes-sonntagstraining-75/
+END:VEVENT
+BEGIN:VEVENT
+UID:282@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Wettkämpfe
+CONTACT:
+DESCRIPTION:<p>Offener Wettkampf</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+LOCATION:Bad Dürkheim
+SEQUENCE:0
+SUMMARY:100-Pfeile-Schießen
+URL:http://www.kyuvb.de/event/100-pfeile-schiessen-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:283@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Landeslehrgänge anderer Bundesländer
+CONTACT:
+DESCRIPTION:<p>Landeslehrgang des LV Niedersachsen</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+LOCATION:Göttingen
+SEQUENCE:0
+SUMMARY:Prüfungslehrgang bis 1. Kyu
+URL:http://www.kyuvb.de/event/pruefungslehrgang-bis-1-kyu-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:280@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Landeslehrgänge Bayern
+CONTACT:
+DESCRIPTION:<p>Prüfungslehrgang mit Prüfungsmöglichkeit bis 1. Kyu.</p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+LOCATION:Germaringen
+SEQUENCE:0
+SUMMARY:Prüfungslehrgang bis 1. Kyu
+URL:http://www.kyuvb.de/event/pruefungslehrgang-bis-1-kyu-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:271@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Offene Trainings
+CONTACT:
+DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
+  Gäste aus anderen Vereinen willkommen\, 5 EUR / Person Beteiligung an Hal
+ lenmiete.</p>
+DTSTART;VALUE=DATE:20151025
+DTEND;VALUE=DATE:20151026
+LOCATION:Erlangen
+SEQUENCE:0
+SUMMARY:Offenes Sonntagstraining
+URL:http://www.kyuvb.de/event/offenes-sonntagstraining-73/
+END:VEVENT
+BEGIN:VEVENT
+UID:281@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Bundeslehrgänge
+CONTACT:
+DESCRIPTION:<p>Bundeslehrgang mit Manfred Speidel und Feliks Hoff</p>
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151102
+LOCATION:Hamburg
+SEQUENCE:0
+SUMMARY:Bundeslehrgang
+URL:http://www.kyuvb.de/event/bundeslehrgang-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:272@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Offene Trainings
+CONTACT:
+DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
+  Gäste aus anderen Vereinen willkommen\, 5 EUR / Person Beteiligung an Hal
+ lenmiete.</p>
+DTSTART;VALUE=DATE:20151108
+DTEND;VALUE=DATE:20151109
+LOCATION:Erlangen
+SEQUENCE:0
+SUMMARY:Offenes Sonntagstraining
+URL:http://www.kyuvb.de/event/offenes-sonntagstraining-72/
+END:VEVENT
+BEGIN:VEVENT
+UID:273@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Offene Trainings
+CONTACT:
+DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
+  Gäste aus anderen Vereinen willkommen\, 5 EUR / Person Beteiligung an Hal
+ lenmiete.</p>
+DTSTART;VALUE=DATE:20151115
+DTEND;VALUE=DATE:20151116
+LOCATION:Erlangen
+SEQUENCE:0
+SUMMARY:Offenes Sonntagstraining
+URL:http://www.kyuvb.de/event/offenes-sonntagstraining-71/
+END:VEVENT
+BEGIN:VEVENT
+UID:274@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Offene Trainings
+CONTACT:
+DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
+  Gäste aus anderen Vereinen willkommen\, 5 EUR / Person Beteiligung an Hal
+ lenmiete.</p>
+DTSTART;VALUE=DATE:20151129
+DTEND;VALUE=DATE:20151130
+LOCATION:Erlangen
+SEQUENCE:0
+SUMMARY:Offenes Sonntagstraining
+URL:http://www.kyuvb.de/event/offenes-sonntagstraining-70/
+END:VEVENT
+BEGIN:VEVENT
+UID:276@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Internationale Lehrgänge
+CONTACT:
+DESCRIPTION:<p>Nähere Informationen unter <a href='http://www.kyudo.de'>www
+ .kyudo.de</a></p>
+DTSTART;VALUE=DATE:20160726
+DTEND;VALUE=DATE:20160730
+LOCATION:Amsterdam\, Niederlande
+SEQUENCE:0
+SUMMARY:B-Seminar + Prüfung zum 3./4. Dan
+URL:http://www.kyuvb.de/event/b-seminar-pruefung-zum-3-4-dan/
+END:VEVENT
+BEGIN:VEVENT
+UID:277@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Internationale Lehrgänge
+CONTACT:
+DESCRIPTION:<p>Nähere Informationen unter <a href='http://www.kyudo.de'>www
+ .kyudo.de</a></p>
+DTSTART;VALUE=DATE:20160731
+DTEND;VALUE=DATE:20160804
+LOCATION:Amsterdam\, Niederlande
+SEQUENCE:0
+SUMMARY:A-Seminar + Prüfung zum 5. Dan + höher
+URL:http://www.kyuvb.de/event/a-seminar-pruefung-zum-5-dan-hoeher/
+END:VEVENT
+BEGIN:VEVENT
+UID:278@kyuvb.de
+DTSTAMP:20150920T002135Z
+CATEGORIES;LANGUAGE=de-DE:Internationale Lehrgänge
+CONTACT:
+DESCRIPTION:<p>Nähere Informationen unter <a href='http://www.kyudo.de'>www
+ .kyudo.de</a></p>
+DTSTART;VALUE=DATE:20160804
+DTEND;VALUE=DATE:20160808
+LOCATION:Amsterdam\, Niederlande
+SEQUENCE:0
+SUMMARY:C-Seminar + Prüfung zum 1./2. Dan
+URL:http://www.kyuvb.de/event/c-seminar-pruefung-zum-1-2-dan/
+END:VEVENT
+END:VCALENDAR

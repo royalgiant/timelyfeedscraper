@@ -1,0 +1,1066 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//199.83.128.124//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://oneidacity.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-7759@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Gym Closed
+URL:http://oneidacity.com/event/gym-closed-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7702@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151127
+SEQUENCE:0
+SUMMARY:Thanksgiving
+URL:http://oneidacity.com/event/thanksgiving/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7703@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151127
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:Office Closed\, Open For Rentals
+URL:http://oneidacity.com/event/office-closed-open-for-rentals/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7714@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+SEQUENCE:0
+SUMMARY:Closed – Christmas
+URL:http://oneidacity.com/event/closed-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6539@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T173000
+DTEND;TZID=America/New_York:20150919T190000
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Dining Room Rental – Schoefield
+URL:http://oneidacity.com/event/dining-room-rental-schoefield/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7792@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T180000
+DTEND;TZID=America/New_York:20150919T193000
+SEQUENCE:0
+SUMMARY:Gym – AAU
+URL:http://oneidacity.com/event/gym-aau/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6540@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150920T103000
+DTEND;TZID=America/New_York:20150920T120000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Dining Room Rental – Schoefield
+URL:http://oneidacity.com/event/dining-room-rental-schoefield-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6659@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:<p>Gym Rental</p>
+DTSTART;TZID=America/New_York:20150920T110000
+DTEND;TZID=America/New_York:20150920T130000
+EXDATE;TZID=America/New_York:20150712T110000
+EXDATE;TZID=America/New_York:20150719T110000
+EXDATE;TZID=America/New_York:20150809T110000
+EXDATE;TZID=America/New_York:20150823T110000
+EXDATE;TZID=America/New_York:20150830T110000
+RRULE:FREQ=WEEKLY;UNTIL=20151109T235959Z;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Gym Rental – Chapman
+URL:http://oneidacity.com/event/gym-rental-chapman-22/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7196@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150920T140000
+DTEND;TZID=America/New_York:20150920T160000
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Dining Room – Schofield
+URL:http://oneidacity.com/event/dining-room-schofield/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7796@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150920T140000
+DTEND;TZID=America/New_York:20150920T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot – King
+URL:http://oneidacity.com/event/gymtot-king-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4655@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150920T163000
+DTEND;TZID=America/New_York:20150920T180000
+RRULE:FREQ=WEEKLY;UNTIL=20151101T235959Z;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Gym Rental – AAU
+URL:http://oneidacity.com/event/gym-rental-aau/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6163@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150921T090000
+DTEND;TZID=America/New_York:20150921T120000
+EXDATE;TZID=America/New_York:20150701T090000
+EXDATE;TZID=America/New_York:20150905T090000
+EXDATE;TZID=America/New_York:20151022T090000
+EXDATE;TZID=America/New_York:20151126T090000
+EXDATE;TZID=America/New_York:20151127T090000
+EXDATE;TZID=America/New_York:20151225T090000
+EXDATE;TZID=America/New_York:20151228T090000
+EXDATE;TZID=America/New_York:20160101T090000
+RRULE:FREQ=WEEKLY;UNTIL=20151231T235959Z;BYDAY=MO,TU,WE,TH,FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Tot Fun & Run
+URL:http://oneidacity.com/event/tot-fun-run/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7809@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Common Council Meeting Calendar\,Meeting Agenda's
+CONTACT:
+DESCRIPTION:<p><a href='http://oneidacity.com/wp-content/uploads/agenda1.pd
+ f' target='_blank'>agenda</a><br />\n<embed src='http://oneidacity.com/wp-
+ content/uploads/agenda1.pdf' width='90%' height='800'></embed></p>
+DTSTART;TZID=America/New_York:20150923T180000
+DTEND;TZID=America/New_York:20150923T190000
+GEO:+43.096358;-75.653496
+LOCATION:MUNICIPAL BUILDING\, @ 109 North Main Street\, Oneida\, NY 13421\,
+  USA
+SEQUENCE:0
+SUMMARY:Special Meeting of the Common Council
+URL:http://oneidacity.com/event/special-meeting-of-the-common-council-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5776@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T180000
+DTEND;TZID=America/New_York:20150924T190000
+RRULE:FREQ=MONTHLY;COUNT=100;BYDAY=-1TH
+SEQUENCE:0
+SUMMARY:Oneida Rail Trail Committee Mtg
+URL:http://oneidacity.com/event/oneida-rail-trail-committee-mtg-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6452@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Oneida Rail Trail Meeting
+CONTACT:
+DESCRIPTION:<p>The Oneida Rail Trail Committee will be holding its monthly 
+ meeting at 6:00 pm at the Oneida Rec Center\, 217 Cedar Street\, Oneida. T
+ he ORTC meets the last Thursday of every month. The meetings are open and 
+ the public is invited and encouraged to attend. Volunteers are need for al
+ l aspects of trail development. For information on the Oneida Rail Trail c
+ all the Oneida Recreation Department at 363-3590.</p>
+DTSTART;TZID=America/New_York:20150924T180000
+DTEND;TZID=America/New_York:20150924T190000
+RRULE:FREQ=MONTHLY;BYDAY=-1TH
+SEQUENCE:0
+SUMMARY:Rail Trail Committee Meeting
+URL:http://oneidacity.com/event/rail-trail-committee-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5057@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Meeting Agenda's\,Oneidacity\,Zoning Board Meetin
+ g
+CONTACT:
+DESCRIPTION:<p>The board meets the last Thursday of each month at 7:00 p.m.
+  in the Common Council Chambers of City Hall.  The meeting is open to the 
+ public.<br />\n<a href='http://www.oneidacity.com/wp-content/uploads/ZBAag
+ enda.pdf'>ZBAagenda</a><br />\n<embed src='http://oneidacity.com/wp-conten
+ t/uploads/ZBAagenda.pdf' width='90%' height='800'></embed></p>
+DTSTART;TZID=America/New_York:20150924T190000
+EXDATE;TZID=America/New_York:20141127T190000
+GEO:+43.096358;-75.653496
+LOCATION:Common Council Chambers @ 109 North Main Street\, Oneida\, NY 1342
+ 1\, USA
+RRULE:FREQ=MONTHLY;BYDAY=-1TH
+SEQUENCE:0
+SUMMARY:Zoning Board Meeting
+URL:http://oneidacity.com/event/zoning-board-meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7724@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150925T173000
+DTEND;TZID=America/New_York:20150925T193000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Hudson
+URL:http://oneidacity.com/event/gymtot-rental-hudson-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6943@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Field and Park Rental\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T093000
+DTEND;TZID=America/New_York:20150926T113000
+SEQUENCE:0
+SUMMARY:Allen Park Rental – Rehema Home
+URL:http://oneidacity.com/event/allen-park-rental-maihafer/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7789@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T100000
+DTEND;TZID=America/New_York:20150926T120000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Finocchiaro
+URL:http://oneidacity.com/event/gymtot-finocchiaro/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7722@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T130000
+DTEND;TZID=America/New_York:20150926T150000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Moot
+URL:http://oneidacity.com/event/gymtot-rental-moot-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7636@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T160000
+DTEND;TZID=America/New_York:20150926T180000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Belanger
+URL:http://oneidacity.com/event/gymtot-belanger/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7793@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T183000
+DTEND;TZID=America/New_York:20150926T200000
+SEQUENCE:0
+SUMMARY:Gym – AAU
+URL:http://oneidacity.com/event/gym-aau-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7772@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T140000
+DTEND;TZID=America/New_York:20150927T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Barlow
+URL:http://oneidacity.com/event/gymtot-rental-barlow-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7646@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150929T183000
+DTEND;TZID=America/New_York:20150929T203000
+RDATE;TZID=America/New_York:20150929T183000
+RDATE;TZID=America/New_York:20151013T183000
+RDATE;TZID=America/New_York:20151027T183000
+RDATE;TZID=America/New_York:20151106T183000
+SEQUENCE:0
+SUMMARY:Gym Rental – Chapman
+URL:http://oneidacity.com/event/gym-rental-coleman/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7596@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151001T174500
+DTEND;TZID=America/New_York:20151001T191500
+SEQUENCE:0
+SUMMARY:Dining Room – Girl Scouts
+URL:http://oneidacity.com/event/dining-room-girl-scouts-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7715@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T100000
+DTEND;TZID=America/New_York:20151003T163000
+SEQUENCE:0
+SUMMARY:Gym Rental – Jones
+URL:http://oneidacity.com/event/gym-rental-jones-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7794@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T173000
+DTEND;TZID=America/New_York:20151003T193000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Fox
+URL:http://oneidacity.com/event/gymtot-fox/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7706@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151005T150000
+DTEND;TZID=America/New_York:20151005T173000
+EXDATE;TZID=America/New_York:20151022T150000
+EXDATE;TZID=America/New_York:20151126T150000
+EXDATE;TZID=America/New_York:20151127T150000
+EXDATE;TZID=America/New_York:20151225T150000
+EXDATE;TZID=America/New_York:20151228T150000
+EXDATE;TZID=America/New_York:20160101T150000
+RRULE:FREQ=WEEKLY;UNTIL=20160429T235959Z;BYDAY=MO,TU,WE,TH,FR;WKST=MO
+SEQUENCE:0
+SUMMARY:After School Program
+URL:http://oneidacity.com/event/after-school-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7228@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151005T170000
+DTEND;TZID=America/New_York:20151005T190000
+RDATE;TZID=America/New_York:20151102T170000
+RDATE;TZID=America/New_York:20151130T170000
+SEQUENCE:0
+SUMMARY:Food Sense Sign Up
+URL:http://oneidacity.com/event/food-sense-sign-up/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4233@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Common Council Meeting Calendar\,Meeting Agenda's
+ \,Oneidacity
+CONTACT:
+DESCRIPTION:<p><a href='http://oneidacity.com/wp-content/uploads/agenda1.pd
+ f'>CC Agenda</a></p>
+DTSTART;TZID=America/New_York:20151006T183000
+RRULE:FREQ=MONTHLY;BYDAY=1TU
+SEQUENCE:0
+SUMMARY:Common Council Meeting Agenda
+URL:http://oneidacity.com/event/common-council-meeting-agenda/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7806@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151009T180000
+DTEND;TZID=America/New_York:20151009T203000
+SEQUENCE:0
+SUMMARY:Gym/Tot – McDonough
+URL:http://oneidacity.com/event/gymtot-mcdonough/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7765@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151010T100000
+DTEND;TZID=America/New_York:20151010T120000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Coon
+URL:http://oneidacity.com/event/gymtot-coon/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7745@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151010T130000
+DTEND;TZID=America/New_York:20151010T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Musacchio
+URL:http://oneidacity.com/event/gymtot-rental-musacchio-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7540@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151010T170000
+DTEND;TZID=America/New_York:20151010T200000
+SEQUENCE:0
+SUMMARY:Gym/Tot – deMaintenan
+URL:http://oneidacity.com/event/gymtot-demaintenan/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7756@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151011T140000
+DTEND;TZID=America/New_York:20151011T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Gaylor
+URL:http://oneidacity.com/event/gymtot-gaylor/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5055@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Meeting Agenda's\,Oneidacity\,Planning Commission
+  Meeting
+CONTACT:
+DESCRIPTION:<p>This Commission meets once a month on the third Thursday at 
+ 7:00 p.m. in the Common Council chambers of City Hall.</p>\n<p><a href='ht
+ tp://oneidacity.com/wp-content/uploads/PCagenda.pdf'>Agenda</a><br />\n<em
+ bed src='http://oneidacity.com/wp-content/uploads/PCagenda.pdf' width='90%
+ ' height='800'></embed><br />\n </p>
+DTSTART;TZID=America/New_York:20151015T190000
+EXDATE;TZID=America/New_York:20150521T190000
+GEO:+43.096358;-75.653496
+LOCATION:Common Council Chambers @ 109 North Main Street\, Oneida\, NY 1342
+ 1\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+SEQUENCE:0
+SUMMARY:Planning Commission Meeting
+URL:http://oneidacity.com/event/5055/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7795@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151017T110000
+DTEND;TZID=America/New_York:20151017T130000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Bero
+URL:http://oneidacity.com/event/gymtot-bero/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7517@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151017T140000
+DTEND;TZID=America/New_York:20151017T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Pawlikowski
+URL:http://oneidacity.com/event/gymtot-rental-pawlikowski/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7630@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151017T170000
+DTEND;TZID=America/New_York:20151017T200000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Dion
+URL:http://oneidacity.com/event/gymtot-dion/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7752@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151018T140000
+DTEND;TZID=America/New_York:20151018T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Sterling
+URL:http://oneidacity.com/event/gymtot-sterling/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4234@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Common Council Meeting Calendar\,Meeting Agenda's
+ \,Oneidacity
+CONTACT:
+DESCRIPTION:<p><a href='http://oneidacity.com/wp-content/uploads/agenda1.pd
+ f' target='_blank'>agenda</a><br />\n<embed src='http://oneidacity.com/wp-
+ content/uploads/agenda1.pdf' width='90%' height='800'></embed></p>
+DTSTART;TZID=America/New_York:20151020T183000
+GEO:+43.096358;-75.653496
+LOCATION:109 North Main Street\, Oneida\, NY 13421\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3TU
+SEQUENCE:0
+SUMMARY:Common Council Meeting Agenda
+URL:http://oneidacity.com/event/common-council-meeting-agenda-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7758@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151021T173000
+DTEND;TZID=America/New_York:20151021T220000
+RRULE:FREQ=DAILY;UNTIL=20151022T235959Z
+SEQUENCE:0
+SUMMARY:Gym Closed
+URL:http://oneidacity.com/event/gym-closed-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7518@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151024T160000
+DTEND;TZID=America/New_York:20151024T180000
+SEQUENCE:0
+SUMMARY:Halloween Party
+URL:http://oneidacity.com/event/halloween-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7676@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151025T140000
+DTEND;TZID=America/New_York:20151025T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Mullin
+URL:http://oneidacity.com/event/gymtot-mullin/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7757@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151026T180000
+DTEND;TZID=America/New_York:20151026T200000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Kaplan
+URL:http://oneidacity.com/event/gymtot-kaplan/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7688@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151030T180000
+DTEND;TZID=America/New_York:20151030T200000
+SEQUENCE:0
+SUMMARY:Gym Rental – Jones
+URL:http://oneidacity.com/event/gym-rental-jones-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7485@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151101T140000
+DTEND;TZID=America/New_York:20151101T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Seaman
+URL:http://oneidacity.com/event/gymtot-rental-seaman-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7755@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151101T183000
+DTEND;TZID=America/New_York:20151101T203000
+RRULE:FREQ=WEEKLY;UNTIL=20160424T235959Z;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Gym Rental – McGraw
+URL:http://oneidacity.com/event/gym-rental-mcgraw-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7704@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151102T180000
+DTEND;TZID=America/New_York:20151102T220000
+RDATE;TZID=America/New_York:20151102T180000
+RDATE;TZID=America/New_York:20151109T180000
+RDATE;TZID=America/New_York:20151116T180000
+RDATE;TZID=America/New_York:20151123T180000
+RDATE;TZID=America/New_York:20151130T180000
+RDATE;TZID=America/New_York:20151207T180000
+RDATE;TZID=America/New_York:20151214T180000
+RDATE;TZID=America/New_York:20151221T180000
+RDATE;TZID=America/New_York:20151228T180000
+RDATE;TZID=America/New_York:20160104T180000
+RDATE;TZID=America/New_York:20160111T180000
+RDATE;TZID=America/New_York:20160118T180000
+RDATE;TZID=America/New_York:20160125T180000
+RDATE;TZID=America/New_York:20160201T180000
+RDATE;TZID=America/New_York:20160208T180000
+RDATE;TZID=America/New_York:20160215T180000
+RDATE;TZID=America/New_York:20160222T180000
+RDATE;TZID=America/New_York:20160229T180000
+RDATE;TZID=America/New_York:20160307T180000
+SEQUENCE:0
+SUMMARY:MUNY Basketball
+URL:http://oneidacity.com/event/muny-basketball-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7708@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151103T180000
+DTEND;TZID=America/New_York:20151103T200000
+RDATE;TZID=America/New_York:20151104T180000
+RDATE;TZID=America/New_York:20151110T180000
+RDATE;TZID=America/New_York:20151111T180000
+RDATE;TZID=America/New_York:20151117T180000
+RDATE;TZID=America/New_York:20151118T180000
+RDATE;TZID=America/New_York:20151201T180000
+RDATE;TZID=America/New_York:20151202T180000
+RDATE;TZID=America/New_York:20151208T180000
+RDATE;TZID=America/New_York:20151209T180000
+RDATE;TZID=America/New_York:20151215T180000
+RDATE;TZID=America/New_York:20151216T180000
+RDATE;TZID=America/New_York:20151229T180000
+RDATE;TZID=America/New_York:20151230T180000
+RDATE;TZID=America/New_York:20160105T180000
+RDATE;TZID=America/New_York:20160106T180000
+RDATE;TZID=America/New_York:20160112T180000
+RDATE;TZID=America/New_York:20160113T180000
+RDATE;TZID=America/New_York:20160119T180000
+RDATE;TZID=America/New_York:20160120T180000
+RDATE;TZID=America/New_York:20160126T180000
+RDATE;TZID=America/New_York:20160127T180000
+RDATE;TZID=America/New_York:20160202T180000
+RDATE;TZID=America/New_York:20160203T180000
+RDATE;TZID=America/New_York:20160209T180000
+RDATE;TZID=America/New_York:20160210T180000
+SEQUENCE:0
+SUMMARY:Youth Basketball
+URL:http://oneidacity.com/event/youth-basketball-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7707@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151103T203000
+DTEND;TZID=America/New_York:20151103T220000
+RRULE:FREQ=WEEKLY;UNTIL=20160329T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Adult Open Gym
+URL:http://oneidacity.com/event/adult-open-gym-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7705@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151105T180000
+DTEND;TZID=America/New_York:20151105T220000
+RDATE;TZID=America/New_York:20151112T180000
+RDATE;TZID=America/New_York:20151119T180000
+RDATE;TZID=America/New_York:20151203T180000
+RDATE;TZID=America/New_York:20151210T180000
+RDATE;TZID=America/New_York:20151217T180000
+RDATE;TZID=America/New_York:20160107T180000
+RDATE;TZID=America/New_York:20160114T180000
+RDATE;TZID=America/New_York:20160121T180000
+RDATE;TZID=America/New_York:20160128T180000
+RDATE;TZID=America/New_York:20160204T180000
+RDATE;TZID=America/New_York:20160211T180000
+RDATE;TZID=America/New_York:20160218T180000
+RDATE;TZID=America/New_York:20160225T180000
+RDATE;TZID=America/New_York:20160303T180000
+RDATE;TZID=America/New_York:20160310T180000
+RDATE;TZID=America/New_York:20160317T180000
+RDATE;TZID=America/New_York:20160324T180000
+RDATE;TZID=America/New_York:20160331T180000
+SEQUENCE:0
+SUMMARY:CO-ED Volleyball
+URL:http://oneidacity.com/event/co-ed-volleyball/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7701@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151107T080000
+DTEND;TZID=America/New_York:20151107T130000
+RDATE;TZID=America/New_York:20151114T080000
+RDATE;TZID=America/New_York:20151121T080000
+RDATE;TZID=America/New_York:20151205T080000
+RDATE;TZID=America/New_York:20151212T080000
+RDATE;TZID=America/New_York:20151219T080000
+RDATE;TZID=America/New_York:20160109T080000
+RDATE;TZID=America/New_York:20160116T080000
+RDATE;TZID=America/New_York:20160123T080000
+RDATE;TZID=America/New_York:20160130T080000
+RDATE;TZID=America/New_York:20160206T080000
+RDATE;TZID=America/New_York:20160213T080000
+RDATE;TZID=America/New_York:20160220T080000
+SEQUENCE:0
+SUMMARY:Youth Basketball
+URL:http://oneidacity.com/event/youth-basketball-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7616@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151107T140000
+DTEND;TZID=America/New_York:20151107T170000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Hudson
+URL:http://oneidacity.com/event/gymtot-rental-hudson/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7012@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151108T140000
+DTEND;TZID=America/New_York:20151108T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – McKay
+URL:http://oneidacity.com/event/gymtot-rental-mckay/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6929@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151113T180000
+DTEND;TZID=America/New_York:20151113T200000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Wagner
+URL:http://oneidacity.com/event/gymtot-rental-wagner-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6503@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151114T140000
+DTEND;TZID=America/New_York:20151114T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Relyea
+URL:http://oneidacity.com/event/gymtot-rental-relyea/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7464@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151114T170000
+DTEND;TZID=America/New_York:20151114T190000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – McKenna
+URL:http://oneidacity.com/event/gymtot-rental-mckenna/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7710@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151115T120000
+DTEND;TZID=America/New_York:20151115T150000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Burlingham
+URL:http://oneidacity.com/event/gymtot-burlingham/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7791@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151120T180000
+DTEND;TZID=America/New_York:20151120T200000
+EXDATE;TZID=America/New_York:20151225T180000
+EXDATE;TZID=America/New_York:20160101T180000
+RRULE:FREQ=WEEKLY;UNTIL=20160212T235959Z;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Gym – AYSO
+URL:http://oneidacity.com/event/gym-ayso-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7747@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151121T140000
+DTEND;TZID=America/New_York:20151121T160000
+SEQUENCE:0
+SUMMARY:Gym Rental – Chapman
+URL:http://oneidacity.com/event/gym-rental-chapman-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7798@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151122T140000
+DTEND;TZID=America/New_York:20151122T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Hopkins
+URL:http://oneidacity.com/event/gymtot-hopkins/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7802@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151129T130000
+DTEND;TZID=America/New_York:20151129T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Hatalla
+URL:http://oneidacity.com/event/gymtot-hatalla/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6405@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Field and Park Rental\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151205T090000
+DTEND;TZID=America/New_York:20151205T120000
+SEQUENCE:0
+SUMMARY:Rabies Clinic
+URL:http://oneidacity.com/event/rabies-clinic/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7320@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151212T140000
+DTEND;TZID=America/New_York:20151212T170000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Powers
+URL:http://oneidacity.com/event/gymtot-rental-powers/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7562@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151213T130000
+DTEND;TZID=America/New_York:20151213T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot – O’Brian
+URL:http://oneidacity.com/event/gymtot-obrian/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7335@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151219T140000
+DTEND;TZID=America/New_York:20151219T180000
+SEQUENCE:0
+SUMMARY:Gym Rental – Pulverenti
+URL:http://oneidacity.com/event/gym-rental-pulverenti-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7591@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151219T140000
+DTEND;TZID=America/New_York:20151219T180000
+SEQUENCE:0
+SUMMARY:Gym Rental – Pulverenti
+URL:http://oneidacity.com/event/gym-rental-pulverenti-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7546@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151220T123000
+DTEND;TZID=America/New_York:20151220T153000
+SEQUENCE:0
+SUMMARY:Gym/Tot – McCormick
+URL:http://oneidacity.com/event/gymtot-mccormick/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7811@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151220T160000
+DTEND;TZID=America/New_York:20151220T180000
+SEQUENCE:0
+SUMMARY:Gym/Tot – VanRiper
+URL:http://oneidacity.com/event/gymtot-vanriper/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7753@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160102T120000
+DTEND;TZID=America/New_York:20160102T150000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Svereika
+URL:http://oneidacity.com/event/gymtot-svereika-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7450@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160123T140000
+DTEND;TZID=America/New_York:20160123T170000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – McDonaugh
+URL:http://oneidacity.com/event/gymtot-rental-mcdonaugh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7754@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160124T120000
+DTEND;TZID=America/New_York:20160124T150000
+SEQUENCE:0
+SUMMARY:Gym/Tot – Hyland
+URL:http://oneidacity.com/event/gymtot-hyland/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7749@oneidacity.com
+DTSTAMP:20150920T002407Z
+CATEGORIES;LANGUAGE=en-US:Rec. Center\,Recreation
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160207T130000
+DTEND;TZID=America/New_York:20160207T160000
+SEQUENCE:0
+SUMMARY:Gym/Tot Rental – Wasko
+URL:http://oneidacity.com/event/gymtot-rental-wasko/
+END:VEVENT
+END:VCALENDAR

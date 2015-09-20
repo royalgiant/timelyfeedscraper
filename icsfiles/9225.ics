@@ -1,0 +1,1788 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//45.56.65.186//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.chapelhillmagazine.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:CSVConverte46c9bfd465bb8cf34aab233cbdb7c3f
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>Celebrate’Oktoberfest with’German products and recipes daily
+ \, including spaetzle and German sausage.</p>
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20151004
+SEQUENCE:0
+SUMMARY:Oktoberfest
+URL:http://www.chapelhillmagazine.com/event/oktoberfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert4217e831d9d8b8a27cd8a79cb75c2d3f
+DTSTAMP:20150920T002115Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us on Tuesdays for any regularly scheduled class and pa
+ y only $10. Come and experience the original hot yoga at our new Chapel Hi
+ ll location.</p>
+DTSTART;VALUE=DATE:20150922
+DTEND;VALUE=DATE:20150923
+GEO:+35.910863;-79.065009
+LOCATION:601 West Rosemary Street\, Chapel Hill\, NC 27516\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20160119T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:$10 Tuesdays at Bikram – Chapel Hill
+URL:http://www.chapelhillmagazine.com/event/10-tuesdays-at-bikram-chapel-hi
+ ll/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8613@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:PlayMakers Repertory Company \; 919-962-7529\; prcboxoffice@unc.edu
+DESCRIPTION:<p>blood\, sweat and tears in the writer’s</p>\n<p>Four aspirin
+ g young writers ante up big bucks to learn from a legendary novelist\, but
+  their fiction and their egos will be unsparingly dissected before he’s th
+ rough. Ray Dooley (A Midsummer Night’s Dream\, Who’s Afraid of Virginia Wo
+ olf?) leads the no-holds-barred master class on power\, sex and the nature
+  of art. Ferocious and fast-paced with sparkling wordplay\, Seminar takes 
+ no prisoners.</p>\n<p>“furiously funny” – San Francisco Chronicle<br />\n“
+ consistently clever and entertaining” – USA Today</p>\n<p>In conjunction w
+ ith “Seminar\,” PlayMakers hosts “The Vision Series-Directors in Conversat
+ ion.” “The Vision Series” is a behind-the-scenes preview on Oct. 7 at 6:30
+  p.m. Theater-goers and all others interested in the creative process are 
+ invited to the Paul Green Theatre to share refreshments\, learn about the 
+ production in process\, and get a look at the design and vision for the sh
+ ow. This event is free\, but space is limited. Please RSVP to the PlayMake
+ rs box office.</p>\n<p>For information and to purchase tickets\, call (919
+ ) 962-7529 or visit www.playmakersrep.org.</p>
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151102
+LOCATION:Paul Green Theatre  @ 150 Country Club Rd\, Chapel Hill\, NC 27514
+ \, USA
+SEQUENCE:0
+SUMMARY:PlayMakers Repertory Company presents “Seminar”
+URL:http://www.chapelhillmagazine.com/event/playmakers-repertory-company-pr
+ esents-seminar/
+X-COST:$15 - $44
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8616@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:PlayMakers Repertory Company \; 919-962-7529\; prcboxoffice@unc.edu
+DESCRIPTION:<p>a grownup’s prequel to Peter Pan</p>\n<p>An apprentice Starc
+ atcher and an orphan boy take to the high seas in this whimsical and hilar
+ ious origin story of The Boy Who Never Grew Up. Join PlayMakers for a wild
+ ly theatrical holiday treat with a dozen actors portraying more than 100 u
+ nforgettable characters to bring you a story that will delight adults and 
+ children alike.</p>\n<p>Multiple TONY AWARD-Winner</p>\n<p>“an absurdly fu
+ nny fantastical journey” – Entertainment Weekly</p>\n<p>“With grown-up the
+ atrical savvy and a child’s wonder… this show never stops flying.” – The N
+ ew York Times</p>\n<p>In conjunction with “Peter and the Starcatcher\,” Pl
+ ayMakers hosts “The Vision Series-Directors in Conversation.” “The Vision 
+ Series” is a behind-the-scenes preview on Nov. 11 at 6:30 p.m. Theater-goe
+ rs and all others interested in the creative process are invited to the Pa
+ ul Green Theatre to share refreshments\, learn about the production in pro
+ cess\, and get a look at the design and vision for the show. This event is
+  free\, but space is limited. Please RSVP to the PlayMakers box office.</p
+ >\n<p>For information and to purchase tickets\, call (919) 962-7529 or vis
+ it www.playmakersrep.org.</p>
+DTSTART;VALUE=DATE:20151118
+DTEND;VALUE=DATE:20151213
+GEO:+35.913183;-79.045473
+LOCATION:Paul Green Theatre  @ 150 Country Club Rd\, Chapel Hill\, NC 27514
+ \, USA
+SEQUENCE:0
+SUMMARY:PlayMakers Repertory Company presents “Peter and the Starcatcher”
+URL:http://www.chapelhillmagazine.com/event/playmakers-repertory-company-pr
+ esents-peter-and-the-starcatcher/
+X-COST:$15 - $44
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert28dfb63cd25378203f4408365940483c
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:
+DESCRIPTION:<p>Hillsborough Arts Council invites everyone to visit walkable
+  Historic Hip Hillsborough. Park once and enjoy five art galleries\, artis
+ t studios\, fine jewelers\, boutique shops and award winning restaurants. 
+ Free. See website for venues\, exhibits\, and map.</p>
+DTSTART;VALUE=DATE:20151205
+DTEND;VALUE=DATE:20151206
+SEQUENCE:0
+SUMMARY:Hillsborough Holiday Art Walk
+URL:http://www.chapelhillmagazine.com/event/hillsborough-holiday-art-walk-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConverte37cc8ba64ff78cfd0d49befc2b31995
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Health &amp\; Wellness
+CONTACT:
+DESCRIPTION:<p>The focus is on “fun” as children and caregivers alike learn
+  to use energy to heal our bodies and our minds. This day-long event combi
+ nes the playful but effective teachings of Spring Forest Qigong Master Chu
+ nyi Lin with the beautiful setting and camp-like atmosphere of Split Rock.
+   Master Lin is the founder of Spring Forest Qigong\, and coauthor of the 
+ #1 Amazon.com bestseller\, Born A Healer.  He has been named Qigong Master
+  of the year by the International Qigong Committee and has introduced more
+  than a quarter of a million people to the practice during the 20-year his
+ tory of Spring Forest Qigong.  Through the power of energy healing\, child
+ ren\, parents\, and caregivers will learn to feel the flow of energy in th
+ e body and how to direct that flow\, within yourself and for others. Simpl
+ e guided meditations will also introduce participants to the power of visu
+ alization and self-healing. And a special emphasis on Qi-ssage and specifi
+ c healing techniques will help all of us learn how to be our “own best doc
+ tors.”  In addition to the Qigong learning sessions\, participants will ha
+ ve free time to explore and enjoy camp activities at Split Rock. Splash in
+  the swimming pool\, paddle a canoe or the Huck Finn raft around the 4-acr
+ e pond\, fish for brim and largemouth bass\, or take the zip line over the
+  pond (and drop in if you dare!). An 18-hole disc golf course offers a rel
+ axing tour of the property’s landmarks\, and a trail system through the fo
+ rested areas traverses an expanding woodland playground for young children
+ . </p>
+DTSTART;TZID=America/New_York:20150919T090000
+DTEND;TZID=America/New_York:20150919T170000
+SEQUENCE:0
+SUMMARY:Healing Children Day Camp
+URL:http://www.chapelhillmagazine.com/event/healing-children-day-camp/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertd86c5f2ea5a24fc5765e67fcd9262f84
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Festivals &amp\; Fairs
+CONTACT:
+DESCRIPTION:<p>Join us for the 41st Annual CenterFest Arts Festival\, produ
+ ced and presented by the Durham Arts Council\, on September 19 from 10:00a
+ m-6:00pm and September 20 from 11:00am-5:00pm!\n \n  \n \n CenterFest is t
+ he longest-running street arts festival in North Carolina. Over 140 juried
+  visual artists from all over the country will showcase and sell their ori
+ ginal\, handcrafted work in Clay\, Drawing\, Fibers\, Glass\, Painting\, P
+ hotography\, Printmaking\, Wood\, Jewelry\, Mixed Media\, and Sculpture. I
+ t is truly one-stop shopping for art lovers!\n \n  \n \n Over 72 performin
+ g arts groups featuring 500+ performers fill four stages with continuous m
+ usic\, dance and entertainment\, and the CenterFest Creative Kids Zone pro
+ vides hands-on arts activities. Along with international cuisine and 30+ n
+ on-profit\, government and civic organizations\, CenterFest is Durham’s la
+ rgest cultural and community event.\n \n  \n \n To learn more about the fe
+ stival\, including individual artists and performers\, or how to be a volu
+ nteer or sponsor\, visit <a href='http://www.centerfest.durhamarts.org'>ww
+ w.centerfest.durhamarts.org</a>.\n \n  \n \n Admission is free and open to
+  the public. Suggested $5.00 donation at the gates will help the Durham Ar
+ ts Council to produce CenterFest and will also go to other DAC Programs su
+ ch as the Annual Arts Fund and the Durham Arts Council School and Camp.</p
+ >
+DTSTART;TZID=America/New_York:20150919T100000
+DTEND;TZID=America/New_York:20150920T170000
+SEQUENCE:0
+SUMMARY:CenterFest
+URL:http://www.chapelhillmagazine.com/event/centerfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert6001bf02432a82c6ffe89e2a19ea3347
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Kids &amp\; Family
+CONTACT:
+DESCRIPTION:<p>The Third Annual Carrboro Elementary Back to School Rock Bas
+ h\, featuring Southern Culture on the Skids\, Dave Hedeman\, Michael Rank\
+ , The Swang Brothers\, and special guests Shark Quest. All proceeds benefi
+ t Carrboro Elementary School. Adults $10\, kids under 12 are FREE.</p>
+DTSTART;TZID=America/New_York:20150919T113000
+DTEND;TZID=America/New_York:20150919T143000
+SEQUENCE:0
+SUMMARY:Carrboro Elementary Back to School Rock Bash
+URL:http://www.chapelhillmagazine.com/event/carrboro-elementary-back-to-sch
+ ool-rock-bash/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConverte221f7951b2efbb69d258f10c3bcd143
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Join us for this once in a lifetime musical occasion. An int
+ imate gathering featuring Andrea Edith Moore\, soprano\, accompanied by Ke
+ iko Sekino\, pianist.\n \n The concert will be held inside Ayr Mount and w
+ ill feature the Kirkland Family’s 1797 Broadwood pianoforte being played i
+ n Ayr Mount’s bicentennial year.\n \n Performances will be held at 3 p.m a
+ nd 5:30 p.m. with a reception on the lawn for guests to enjoy the beautifu
+ l setting of Ayr Mount’s spacious grounds.\n \n Tickets are $100 and will 
+ not be sold at the door.</p>
+DTSTART;TZID=America/New_York:20150919T150000
+DTEND;TZID=America/New_York:20150919T183000
+SEQUENCE:0
+SUMMARY:Broadwood Ayr
+URL:http://www.chapelhillmagazine.com/event/broadwood-ayr/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertb7765171829053618a55383469553bf8
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>In Mexico\, chiles rellenos are fresh chiles filled with veg
+ etables\, fruits\, animal proteins and/or dairy products. Each region has 
+ their own varieties\, and the types across Mexico are countless. Most of t
+ he time\, chiles rellenos recipes use seasonal ingredients. Quintessential
+  “Chiles en Nogada” is a great example of a seasonal and traditional dish 
+ eaten during the month of September to pay tribute to Mexican Independence
+ . Join popular food expert Marcelo Villasuso and take a culinary tour thru
+  the most creative dishes in Mexican cuisine.</p>
+DTSTART;TZID=America/New_York:20150919T180000
+DTEND;TZID=America/New_York:20150919T180000
+SEQUENCE:0
+SUMMARY:CLASS: Food of Mexico: Chiles Rellenos
+URL:http://www.chapelhillmagazine.com/event/class-food-of-mexico-chiles-rel
+ lenos/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertd68dd71da7fcf8707cc078f27d25d623
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Kids &amp\; Family
+CONTACT:
+DESCRIPTION:<p>Asheville author Robert Beatty will sign copies of his debut
+  novel\, Serafina and the Black Cloak\, during a special event at Quail Ri
+ dge Books & Music in Raleigh. The will include Q&A time with the author\, 
+ and free food and drink.\n \n  \n \n Serafina and the Black Cloak\, a spoo
+ ky mystery-thriller written for middle-grade audiences\, tells the story o
+ f a brave and unusual 12-year-old girl who lives secretly in the basement 
+ of the Biltmore Estate during the 1890s\, the time of George and Edith Van
+ derbilt. Although it was written for middle grade students\, Serafina’s mi
+ x of historical fiction\, fantasy and mystery makes it appealing to adult 
+ readers as well.\n \n  \n \n Serafina has been on the New York Times and B
+ arnes & Noble bestseller lists since its nationwide release on July 14\, a
+ nd it was selected by the Southern Independent Booksellers Association as 
+ a 2015 Summer Okra Pick\, one of 12 books chosen by SIBA to represent the 
+ season’s “best in Southern literature.”\n \n  \n \n Publisher Disney Hyper
+ ion recently gave the go-ahead for two more Serafina books. Look for Book 
+ 2 in the series in late 2016.</p>
+DTSTART;TZID=America/New_York:20150919T180000
+DTEND;TZID=America/New_York:20150919T200000
+SEQUENCE:0
+SUMMARY:Serafina and the Black Cloak author coming
+URL:http://www.chapelhillmagazine.com/event/serafina-and-the-black-cloak-au
+ thor-coming/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert2186c142514851fb42c4de6c0ed2c005
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Don’t miss a FREE concert by “Jim Quick & Coastline” on Satu
+ rday\, September 19\, 2015 from 6:30 pm – 8:30 pm at Meadowmont’s Gazebo/P
+ layground\, located at 301 Old Barn Lane!  We can’t wait for our next “Mea
+ dowmont Music in the Gazebo” Music Series concert which features beach mus
+ ic by the famous Jim Quick & Coastline! Be sure to bring your Shag Dancing
+  shoes! The gazebo lawn and playground is the perfect place to enjoy this 
+ family-friendly concert. Bring your friends and family\, a chair and blank
+ et\, and have a picnic. FREE parking on site!</p>
+DTSTART;TZID=America/New_York:20150919T183000
+DTEND;TZID=America/New_York:20150919T203000
+SEQUENCE:0
+SUMMARY:Jim Quick & Coastline
+URL:http://www.chapelhillmagazine.com/event/jim-quick-coastline/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert0a21eeab3f5422f65bf3a65774d51b84
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Bridal
+CONTACT:
+DESCRIPTION:<p>The Triangle area’s premium South Asian Bridal Expo is being
+  created to make it easier for modern South Asian brides across the Caroli
+ nas to have access to and learn about wedding industry vendors. The show i
+ s being sponsored by LadyBird Events\, who has been developing the concept
+  since September 2013. The purpose of the South Asian Bridal Expo is to br
+ ing vendors to South Asian brides\, rather than them having to search the 
+ area. We want to reduce time and stress of planning a wedding for brides a
+ nd their families\, and will feature vendors from fifteen different catego
+ ries to make it easier for the bride to find exactly what she is looking f
+ or. ​ ​ The South Asian Bridal Expo 2015 will feature amazing vendors incl
+ uding party favors\, photographers\, florists\, DJs\, jewelers\, limousine
+  companies\, musicians\, bakeries\, salons\, calligraphers\, caterers\, he
+ nna artists\, decorators\, planners\,fashion designers\, equipment rental 
+ companies\, filmmakers\, venues\, and so much ​more.</p>
+DTSTART;TZID=America/New_York:20150920T100000
+DTEND;TZID=America/New_York:20150920T160000
+SEQUENCE:0
+SUMMARY:South Asian Bridal Expo 2015
+URL:http://www.chapelhillmagazine.com/event/south-asian-bridal-expo-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConverta27accc80d19ff3d599bb9c3325cc33b
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>Join hundreds of local area residents on Sunday\, September 
+ 20th at Koka Booth Amphitheater in Cary for the 1st annual Triangle Area O
+ ut of the Darkness Community Walk. Sponsored by the NC Chapter of the Amer
+ ican Foundation for Suicide Prevention (AFSP)\, the walk will raise funds 
+ and awareness for suicide prevention and will help reduce the stigma assoc
+ iated with suicide and mental illness. Funds raised help bring important A
+ FSP research\, education\, advocacy and survivor programs to our local com
+ munity.\n \n AFSP is the leading non-profit organization dedicated to unde
+ rstanding and preventing suicide through research\, education and advocacy
+ \, and to reaching out to people with mental disorders and those impacted 
+ by suicide.\n \n With suicide claiming more than 38\,000 lives each year i
+ n the US\, the importance of AFSP’s mission has never been greater. With e
+ ach step taken at this event\, our walkers save lives\, honor loved ones l
+ ost to suicide and raise funds to support AFSP’s vital mission. Please joi
+ n us!\n \n Registration and check-in begin at 10am\; the walk begins at 11
+ am.</p>
+DTSTART;TZID=America/New_York:20150920T100000
+DTEND;TZID=America/New_York:20150920T130000
+SEQUENCE:0
+SUMMARY:Triangle Area Out Of The Darkness Community Walk
+URL:http://www.chapelhillmagazine.com/event/triangle-area-out-of-the-darkne
+ ss-community-walk/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert1cba51c79bb5807d34189da8a49e76eb
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Festivals &amp\; Fairs
+CONTACT:
+DESCRIPTION:<p>Join us for the 41st Annual CenterFest Arts Festival\, produ
+ ced and presented by the Durham Arts Council. CenterFest is the longest-ru
+ nning street arts festival in North Carolina. Over 140 juried visual artis
+ ts from all over the country will showcase and sell their original\, handc
+ rafted work in Clay\, Drawing\, Fibers\, Glass\, Painting\, Photography\, 
+ Printmaking\, Wood\, Jewelry\, Mixed Media\, and Sculpture. It is truly on
+ e-stop shopping for art lovers! Over 72 performing arts groups featuring 5
+ 00+ performers fill four stages with continuous music\, dance and entertai
+ nment\, and the CenterFest Creative Kids Zone provides hands-on arts activ
+ ities. Along with international cuisine and 30+ non-profit\, government an
+ d civic organizations\, CenterFest is Durham’s largest cultural and commun
+ ity event. To learn more about the festival\, including individual artists
+  and performers\, or how to be a volunteer or sponsor\, visit <a href='htt
+ p://www.centerfest.durhamarts.org'>www.centerfest.durhamarts.org</a>. Admi
+ ssion is free and open to the public. Suggested $5.00 donation at the gate
+ s will help the Durham Arts Council to produce CenterFest and will also go
+  to other DAC Programs such as the Annual Arts Fund and the Durham Arts Co
+ uncil School and Camp.</p>
+DTSTART;TZID=America/New_York:20150920T110000
+DTEND;TZID=America/New_York:20150920T170000
+SEQUENCE:0
+SUMMARY:Durham Centerfest
+URL:http://www.chapelhillmagazine.com/event/durham-centerfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertea68075b7e580f6610d24715da08df98
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>It isn’t too early to start looking ahead to fall dinner cel
+ ebrations so now is the time to start experimenting with some new and crea
+ tive dishes using the best of the season’s offerings. In this class\, Chef
+  Lucindy takes a new look at traditional favorites that are sure to impres
+ s guests and family alike when leaves begin to fall.</p>
+DTSTART;TZID=America/New_York:20150920T140000
+DTEND;TZID=America/New_York:20150920T140000
+SEQUENCE:0
+SUMMARY:CLASS: Thinking Ahead: New Recipes for Fall
+URL:http://www.chapelhillmagazine.com/event/class-thinking-ahead-new-recipe
+ s-for-fall/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertda270f8086173706b4f1eecbe89fb90f
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>Please join us on September 22nd\, 2015 from 3pm-5pm for a F
+ loral Design Class! Southern Season’s talented Floral Designers will intro
+ duce you to the art of floral design and floral arranging while you enjoy 
+ light hors d’ oeuvres and a glass of wine. You will then have the opportun
+ ity to create your own table arrangement to take home while enjoying music
+  from the Garth Robertson Duo. Cost is $49 per person\, tax and gratuity w
+ ill be added to all checks. To make a reservation please call us at 919.92
+ 9.9466. Reservations are required.</p>
+DTSTART;TZID=America/New_York:20150922T150000
+DTEND;TZID=America/New_York:20150922T150000
+SEQUENCE:0
+SUMMARY:Floral Design Class at Weathervane
+URL:http://www.chapelhillmagazine.com/event/floral-design-class-at-weatherv
+ ane/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert3836377359b7703cce1ed739ed2ab06a
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>Come join entertaining instructor Amanda Fisher for this fun
+  class on all things shrimp! You will learn the tips for purchasing\, stor
+ ing\, cleaning cooking perfect shrimp\, baked\, broiled\, poached or sauté
+ ed and build three recipes from the basic sauté technique.</p>
+DTSTART;TZID=America/New_York:20150922T180000
+DTEND;TZID=America/New_York:20150922T180000
+SEQUENCE:0
+SUMMARY:CLASS: Basics to Brilliant: Simple to Stunning Shrimp
+URL:http://www.chapelhillmagazine.com/event/class-basics-to-brilliant-simpl
+ e-to-stunning-shrimp/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8650@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:Wendell Falls\; ktalbot@newlandco.com
+DESCRIPTION:<p>You asked\, and we listened!</p>\n<p>With the weather coolin
+ g down\, we can’t resist one last concert for 2015. Join us at Wendell Fal
+ ls on Thursday\, September 24 from 5:30- 8:30 p.m. at the Lakeside Pavilio
+ n for BigTime: “The Party Band for the Party People.” As always\, bring yo
+ ur chairs or blankets and your dancing shoes!</p>\n<p>We’ll have a food tr
+ uck\, and beverages will be available at Grounds Café\, our onsite eatery.
+  Admission is free and open to the public.</p>
+DTSTART;TZID=America/New_York:20150924T173000
+DTEND;TZID=America/New_York:20150924T203000
+GEO:+30.443945;-84.264061
+LOCATION:Wendell Falls Lake Pavilion @ 420 Vantage Point Ln\, Tallahassee\,
+  FL 32301\, USA
+SEQUENCE:0
+SUMMARY:Farmhouse Jams Outdoor Concert – “Big Time”
+URL:http://www.chapelhillmagazine.com/event/farmhouse-jams-outdoor-concert-
+ big-time/
+X-TAGS;LANGUAGE=en-US:Big Time\,Concert\,Free\,Outdoor
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert97e6a6b8ccd7a8c1acb78f5ed424e2d1
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>Gary\, from the famed Chapel Hill watering hole that bears h
+ is name\, will show how to take your next tailgating party to the next lev
+ el.</p>
+DTSTART;TZID=America/New_York:20150924T180000
+DTEND;TZID=America/New_York:20150924T180000
+SEQUENCE:0
+SUMMARY:CLASS: Tailgating Cocktails
+URL:http://www.chapelhillmagazine.com/event/class-tailgating-cocktails/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertd0f9024ffe86b7e06f5b553dac49c84f
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Politics and Activism
+CONTACT:
+DESCRIPTION:<p>The Chatham Unit of the League of Women Voters of Orange\, D
+ urham and Chatham Counties and the Pittsboro Business Association are co-s
+ ponsoring a forum for the public to hear from the candidates for Pittsboro
+  Mayor and Town Council.The forum will be held on Thursday September 24\, 
+ 2015\,  in the Agriculture Building Auditorium\, located at 65 East Chatha
+ m Street\, Pittsboro\, from 6:00-8:00 PM.Each candidate has been invited t
+ o present opening remarks\, followed by a question and answer period\, and
+  then closing remarks.   Members of the League of Women Voters will be ava
+ ilable to register voters and provide information about voting rights. The
+  forum is free and open to the public.</p>
+DTSTART;TZID=America/New_York:20150924T180000
+DTEND;TZID=America/New_York:20150924T200000
+SEQUENCE:0
+SUMMARY:Pittsboro Candidates Forum
+URL:http://www.chapelhillmagazine.com/event/pittsboro-candidates-forum/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertdd89e838cf7b26166ca293fcb7d65f68
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Politics and Activism
+CONTACT:
+DESCRIPTION:<p>The Orange Unit of the League of Women Voters of Orange\, Du
+ rham and Chatham Counties is holding a public forum with the Chapel Hill/C
+ arrboro School Board candidates.\n \n  \n \n  \n \n Candidates have been i
+ nvited to present opening remarks\, followed by a question and answer peri
+ od\, and ending with closing comments. Members of the League of Women Vote
+ rs will be available to register voters and provide information about the 
+ new voter ID requirements.\n \n  \n \n The forum is free and open to the p
+ ublic.</p>
+DTSTART;TZID=America/New_York:20150924T183000
+DTEND;TZID=America/New_York:20150924T200000
+SEQUENCE:0
+SUMMARY:Chapel Hill/Carrboro School Board Candidates Forum
+URL:http://www.chapelhillmagazine.com/event/chapel-hillcarrboro-school-boar
+ d-candidates-forum/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert86ca79d1ab7bf54acdcc583453c55f71
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>While a masterfully produced tea can be a pleasure unto its 
+ own\, pairing the same tea with a well-chosen dish can add nuance and open
+  up a whole other realm of taste experiences??a rewarding dialogue? begins
+ . This learn at lunch will feature a three course lunch\, each course pair
+ ed with a tea\, and we?ll discuss what makes a successful pairing. Tea wil
+ l also be featured in the recipes. This is a one-hour class</p>
+DTSTART;TZID=America/New_York:20150925T120000
+DTEND;TZID=America/New_York:20150925T120000
+SEQUENCE:0
+SUMMARY:CLASS: Learn at Lunch: Tea Pairing: A Three Course Meal
+URL:http://www.chapelhillmagazine.com/event/class-learn-at-lunch-tea-pairin
+ g-a-three-course-meal/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert0f580a6d2f9209c93d4acc781ce1fc01
+DTSTAMP:20150920T002115Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us at FOFP each Friday starting on April 24th through O
+ ctober 23rd at 5 PM. New this season are a variety of food trucks availabl
+ e to entertain your palate. Relax on our shady front porch while enjoying 
+ live music and delicious fare. No cover charge or reservations required.</
+ p>
+DTSTART;TZID=America/New_York:20150925T170000
+DTEND;TZID=America/New_York:20150925T200000
+SEQUENCE:0
+SUMMARY:Fridays on the Front Porch
+URL:http://www.chapelhillmagazine.com/event/fridays-on-the-front-porch-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert5d55cc87e1a3144c08bc45f15d807f21
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>If you’re standing in Bordeaux facing west\, toward the ocea
+ n\, the “Left Bank” is south of the Garonne and Gironde rivers. On the Lef
+ t Bank (Médoc and Graves) Cabernet Sauvignon comprises approximately two-t
+ hirds of the blend and Merlot\, Cabernet Franc and the other varieties mak
+ e up the remainder. These proportions may vary greatly depending on the ex
+ act commune and château. The inky Petit Verdot\, the last grape in Bordeau
+ x to ripen\, is occasionally added on the Left Bank in minute quantities f
+ or color\, depth and exotic perfume\; it is essentially non-existent on th
+ e Right Bank. With some of the premier chateau from the top AOP we will ru
+ n the gambit from Medoc to Graves.</p>
+DTSTART;TZID=America/New_York:20150925T170000
+DTEND;TZID=America/New_York:20150925T200000
+SEQUENCE:0
+SUMMARY:Fridays Uncorked: Bordeaux Ð Left Bank
+URL:http://www.chapelhillmagazine.com/event/fridays-uncorked-bordeaux-d-lef
+ t-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert1b5624e6435fb7786869730624813781
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:
+DESCRIPTION:<p>The Hillsborough Arts Council invites everyone to visit walk
+ able Historic Hip Hillsborough. Park once and enjoy five art galleries\, a
+ rtist studios\, fine jewelers\, boutique shops and award winning restauran
+ ts. Free. See website for venues\, exhibits\, and map.</p>
+DTSTART;TZID=America/New_York:20150925T180000
+DTEND;TZID=America/New_York:20150925T210000
+SEQUENCE:0
+SUMMARY:Hillsborough Last Fridays Art Walk
+URL:http://www.chapelhillmagazine.com/event/hillsborough-last-fridays-art-w
+ alk-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8652@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:(919) 968-2878
+DESCRIPTION:<p>(CHAPEL HILL\, NC) – Live & Local\, Chapel Hill’s free Music
+  & Arts Series\, is returning for its third season on the Plaza at 140 Wes
+ t Franklin Street. The fall series features acts of all shapes and sizes e
+ very Friday from 6:00pm-9:00pm. Amusing for the whole family and full of e
+ xcitement for all ages\, Live & Local will continue to deliver a wide arra
+ y of performances throughout the season\, ranging from indie-folk harmonie
+ s to bluesy rhythms.<br />\nDowntown starts here\, don’t miss your opportu
+ nity to discover your new favorite musician\, painter\, or puppeteer! The 
+ fall series runs Friday evenings until November 6th. Live & Local is sure 
+ to delight\, whether you’re listening to the melodies from the Plaza or fr
+ om the porch of a nearby restaurant\, so be sure to mark your calendars no
+ w. The Plaza at 140 West Franklin creates an inviting experience for all\,
+  highlighted by 30\,000 square feet of outdoor space\, and a unique art sc
+ ulpture titled Exhale.<br />\nEach week is guaranteed to kick start your w
+ eekend with some of the most talented artists in the piedmont. This year’s
+  lineup is diverse and intricate\; featuring acts such Season & Snare\, Bl
+ ess Your Heart\, Onda\, Dan Nelson\, Aslan Freeman\, Jon Sebastian\, Jo Go
+ re & The Alternative\, and Bullfrog Willard McGhee. Be sure to experience 
+ the Live & Local Music and Arts Series and enjoy the natural charm and ble
+ nd of culture\, unique to Downtown Chapel Hill.</p>
+DTSTART;TZID=America/New_York:20150925T180000
+DTEND;TZID=America/New_York:20151106T210000
+GEO:+35.912793;-79.057594
+LOCATION:The Plaza at 140 West Franklin @ 140 W Franklin St\, Chapel Hill\,
+  NC 27516\, USA
+SEQUENCE:0
+SUMMARY:Live & Local
+URL:http://www.chapelhillmagazine.com/event/live-local-2/
+X-TAGS;LANGUAGE=en-US:bluegrass\,Concert\,indie\,Jazz\,live\,pop
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertc86a530eac68047ee3885f86e096f405
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:
+DESCRIPTION:<p>The Orange County Historical Museum and Mike’s Art Truck are
+  pleased to announce the exhibit <em>Picture Hillsborough: Folk Art by Sam
+  Ezell</em>. The exhibit\, recently on view at the Hillsborough Visitors C
+ enter\, features paintings of some of Hillsborough’s historic buildings by
+  local self-taught artist Sam Ezell. September 25th will be the show’s las
+ t night at the museum\, so make sure to stop by and take part in the closi
+ ng night festivities. In addition\, there will be a free watercolor worksh
+ op for children of all ages with Sam Ezell.</p>
+DTSTART;TZID=America/New_York:20150925T180000
+DTEND;TZID=America/New_York:20150925T200000
+SEQUENCE:0
+SUMMARY:ÒPicture Hillsborough: Folk Art by Sam EzellÓ closing night and kid
+ s workshop
+URL:http://www.chapelhillmagazine.com/event/opicture-hillsborough-folk-art-
+ by-sam-ezello-closing-night-and-kids-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert8aad40c9ac9831eddf28f8b5cc518fa0
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Tim Carless and Jeff Crawford first crossed paths almost a d
+ ecade ago… subsequently they have plowed their own fields\, establishing t
+ hemselves as producers\, songwriters and sidemen in around the local burge
+ oning musical community. From time to time they perform together\, sometim
+ es joined by other musical friends and allies\, with a palette of music th
+ at draws upon Appalachia\, Chanson\, English Folk\, Tin Pan Alley and the 
+ Mississippi Delta. Their set will also feature some of their own compositi
+ ons.</p>
+DTSTART;TZID=America/New_York:20150925T190000
+DTEND;TZID=America/New_York:20150925T210000
+SEQUENCE:0
+SUMMARY:Tim Carless & Jeff Crawford – English Folk\, Southern Soul
+URL:http://www.chapelhillmagazine.com/event/tim-carless-jeff-crawford-engli
+ sh-folk-southern-soul/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert932d2081589447f7d141fa4762697eea
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>There are some things we all cook without ever truly explori
+ ng all the possibilities\; eggs are a prime example. This is the cooking c
+ lass you never thought you needed but do! Timothy will share some chef tip
+ s that will elevate your egg awareness and may for the first time? Allow y
+ ou to cook and taste eggs as they are meant to be.</p>
+DTSTART;TZID=America/New_York:20150926T110000
+DTEND;TZID=America/New_York:20150926T110000
+SEQUENCE:0
+SUMMARY:CLASS: Breakfast at TimothyÕs: An Egg-U-Cation
+URL:http://www.chapelhillmagazine.com/event/class-breakfast-at-timothyos-an
+ -egg-u-cation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8658@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Barbara Holloway\; 919.480.1026 \; bholloway@emersonwaldorf.org\; h
+ ttp://emersonwaldorf.org
+DESCRIPTION:<div>\n<div>\n<div>\n<div>\n<div dir='ltr'>\n<div>Nothing spark
+ s a child’s imagination like a puppet show!  The Emerson Waldorf School in
+ vites you to join us for Snow White and Rose Red\, a traditional fairy tal
+ e with simple silk marionette puppets performed on a table-top silk scener
+ y.  The puppeteers can be seen as they guide the puppets. The natural beau
+ ty of the puppet show invites the children’s imagination into a dream-like
+  mood.  Suggested ages 3-9 years.</div>\n</div>\n</div>\n</div>\n</div>\n<
+ /div>
+DTSTART;TZID=America/New_York:20150926T111500
+GEO:+35.93213;-79.035797
+LOCATION:Chapel Hill Public Library @ 100 Library Dr\, Chapel Hill\, NC 275
+ 14\, USA
+SEQUENCE:0
+SUMMARY:Rose Red & Snow White Puppet Show
+URL:http://www.chapelhillmagazine.com/event/rose-red-snow-white-puppet-show
+ /
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert21e2e4e976bef4a6436cc6b815ae494a
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Sports
+CONTACT:
+DESCRIPTION:<p>The Carolina RailHawks are hosting the 4th Annual RailHawks 
+ Homebrew Soktoberfest.’The pre-game festivities will be followed by the Ra
+ ilHawks NASL match against Ottawa FC. Admittance for the 4th Annual Homebr
+ ew Soktoberfest is free and will feature samplings of a large number of br
+ ewers from across North Carolina. The first 200 guests will also enjoy com
+ plimentary food samples provided by Firewurst\, The Chef’s Academy and Pas
+ sanante. For tickets to the Carolina RailHawks’ match vs. Ottawa Fury FC a
+ nd for more information about Soktoberfest\, please visit www.CarolinaRail
+ Hawks.com.</p>
+DTSTART;TZID=America/New_York:20150926T173000
+DTEND;TZID=America/New_York:20150926T191500
+SEQUENCE:0
+SUMMARY:Carolina RailHawks Homebrew Soktoberfest
+URL:http://www.chapelhillmagazine.com/event/carolina-railhawks-homebrew-sok
+ toberfest/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert0ddea943d43cab0cc52e78ae8672b6ef
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>Join the Southern Season Wine Department and Cooking School 
+ as they team up for this fun and casual evening of food and wine. Four win
+ es (3-ounce pour of each) will each be paired with one plate of food. Ente
+ r any time between 5:30 and 8 p.m. You will be provided a written descript
+ ion of each wine and the paired food recipes. Work your way around the roo
+ m tasting and enjoying. No formal presentation will be given. Participatio
+ n is limited to 50. To reserve your spot\, please register in advance.</p>
+DTSTART;TZID=America/New_York:20150926T173000
+DTEND;TZID=America/New_York:20150926T173000
+SEQUENCE:0
+SUMMARY:CLASS: Last Saturday Food and Wine Pairing: A Food and Wine Tour of
+  Italy
+URL:http://www.chapelhillmagazine.com/event/class-last-saturday-food-and-wi
+ ne-pairing-a-food-and-wine-tour-of-italy/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert9625ac20b400561ab662c70fc3b2e14f
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Opening weekend concerts feature Gershwin’s Piano Concerto i
+ n F with pianist Jean-Yves Thibaudet\; the program also includes favorites
+  from Leonard Bernstein and Samuel Barber and a World Premiere commissione
+ d by the North Carolina Symphony from award-winning young composer and NC 
+ native Sarah Kirkland Snider. Grant Llewellyn conducts.\n \n Pre-concert T
+ alk Friday and Saturday at 7:00 pm.</p>
+DTSTART;TZID=America/New_York:20150926T200000
+DTEND;TZID=America/New_York:20150926T220000
+SEQUENCE:0
+SUMMARY:NC Symphony Opening Weekend: Jean-Yves Thibaudet Plays Gershwin
+URL:http://www.chapelhillmagazine.com/event/nc-symphony-opening-weekend-jea
+ n-yves-thibaudet-plays-gershwin/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert4e554f0f01e4f4f9626a02f7c406fe79
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>The 8th Annual Pepper Festival\, hosted by Briar Chapel in C
+ hapel Hill\, has added extra “spice” for 2015. Featuring approximately 45 
+ of the state’s top chefs and brewers\, the Pepper Festival is now one of t
+ he largest food and family events in North Carolina!\n \n  \n \n Please jo
+ in us to witness and taste first-hand the heat as chefs compete with one-o
+ f-a-kind recipes\, featuring the locally bred and grown North Carolina pep
+ per. From pepper chocolate to pepper vodka\, you’ll see a dizzying array o
+ f dishes from culinary heavy hitters like Heron’s at the Umstead\, The Fea
+ rrington\, TOPO\, Harvest 18 and Gravy with brews from Carolina Brewery\, 
+ Crude Bitters\, Yesteryears and the likes. Eat your fill while enjoying lo
+ cal bands—including The Stacks\, artisans and family friendly activities.
+ \n \n  \n \n The best part? It’s also a chance to support your local farme
+ rs and local sustainability and to learn about all the amazing restaurants
+  in our area that incorporate locally farmed ingredients into their menus.
+ \n \n  \n \n Please join us!\n \n Tickets are available at http://www.even
+ tbrite.com/e/8th-annual-pepper-festival-sep-27-tickets-17213711675</p>
+DTSTART;TZID=America/New_York:20150927T150000
+DTEND;TZID=America/New_York:20150927T190000
+SEQUENCE:0
+SUMMARY:8th Annual Pepper Festival
+URL:http://www.chapelhillmagazine.com/event/8th-annual-pepper-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConverta1ba14bfe302ee238282bf471418ce7f
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>Join us for an enchanted evening in Wonderland to benefit th
+ e NC Therapeutic Riding Center! Your ticket purchase includes wine and cra
+ ft beers\, heavy hors d’oeuvres\, live music\, silent and live auctions\, 
+ and a pony photo booth. Don’t forget your best Alice in Wonderland costume
+  or hat!</p>
+DTSTART;TZID=America/New_York:20150927T170000
+DTEND;TZID=America/New_York:20150927T210000
+SEQUENCE:0
+SUMMARY:The Mane Affaire\, an Evening in Wonderland
+URL:http://www.chapelhillmagazine.com/event/the-mane-affaire-an-evening-in-
+ wonderland/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8631@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers\,Food &amp\; Drink\,Fu
+ ndraiser\,Sports
+CONTACT:Chapel Hill-Carrboro Chamber of Commerce\; (919) 967-7075\; ksmith@
+ carolinahchamber.org
+DESCRIPTION:<p>Join us for the Performance Golf Classic\, 8:30 a.m.-4 p.m.\
+ , Monday\, Sept. 28 hosted by the Governors Club. The Golf Classic is an a
+ nnual fundraiser for the Chamber’s Partnership for a Sustainable Community
+ .</p>\n<p>Participants will enjoy a light breakfast\; lunch\, beverages an
+ d snacks on the course\; and\, an elaborate dinner spread at the after-pla
+ y reception following the Performance Classic. Breakfast and registration 
+ open at 9 a.m.\, with a 10 a.m. tee time.</p>\n<p>All proceeds from the Go
+ lf Classic benefit the Chamber’s charitable Partnership for a Sustainable 
+ Community.</p>\n<p>Register your foursome or single playing spot in the 20
+ 15 Performance Golf Classic at: http://bit.ly/1gqCb0c.</p>\n<p>Chamber Mem
+ ber Individual Player: $135<br />\nChamber Member Foursome: $525<br />\nNo
+ n-Member Individual: $160<br />\nNon-Member Foursome: $600<br />\nSuperFan
+  Ticket: $25</p>\n<p>Interested in promoting your business and getting a h
+ ole sponsorship? Contact Aubrey Fox Williams at afoxwilliams@carolinachamb
+ er.org or (919) 967-7076.</p>\n<p>The Performance Golf Classic is presente
+ d by Performance Automall and hosted by the Governors Club. This year’s go
+ lf tournament is made possible by UNC Health Care\; Bank of North Carolina
+ \; Carolina Athletics\; Hamilton Point Investment Advisors\; MHAworks\, PA
+ \; Secure Network Administration\, Inc.\; The Pointe at Chapel Hill\, LLC\
+ ; Appointment Friend\, LLC\; Habitat for Humanity ReStore\; The Carolina C
+ lub\; and\, Wells Fargo.</p>
+DTSTART;TZID=America/New_York:20150928T083000
+DTEND;TZID=America/New_York:20150928T160000
+GEO:+35.854524;-79.027522
+LOCATION:Governors Club @ 10100 Governors Dr\, Chapel Hill\, NC 27517\, USA
+SEQUENCE:0
+SUMMARY:Performance Golf Classic
+URL:http://www.chapelhillmagazine.com/event/performance-golf-classic/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert77b83e9d820795af4c00857ed25edfa2
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>Get ready to tee off at the 11th annual Cornucopia Cancer Su
+ pport Center Golf Tourney. Join honorary chair Eric Montross and presentin
+ g sponsor WebbWrites at the Brier Creek Country Club links Monday\, Sept. 
+ 28 for a day of fun-raising and fund-raising. Registration opens at 10:30 
+ a.m. and the shotgun start is 11:30 a.m.Cost is $155 per person\, which in
+ cludes range balls\, green fees\, cart\, a box lunch and dinner reception.
+  All proceeds support Cornucopia’s programs and services\, which help impr
+ ove the quality of life for anyone affected by any type of cancer – those 
+ in treatment\, survivors\, family members and caregivers. Information avai
+ lable at www.cancersupport4u.org.</p>
+DTSTART;TZID=America/New_York:20150928T113000
+DTEND;TZID=America/New_York:20150928T180000
+SEQUENCE:0
+SUMMARY:Cornucopia’s 11th annual Golf Tourney
+URL:http://www.chapelhillmagazine.com/event/cornucopias-11th-annual-golf-to
+ urney/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertaa86b857de07fe6b982e607e75ac8391
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Health &amp\; Wellness
+CONTACT:
+DESCRIPTION:<p>The Orange County Rape Crisis Center is offering a support g
+ roup for adult\, female-identified survivors of rape and sexual assault on
+  Monday evenings. The group is an opportunity to learn\, share\, and gain 
+ support from others with similar experiences. The group will meet for 8 se
+ ssions. Please note that advance meetings with staff and group facilitator
+ s are required for participation. Pre-meetings happening now\, contact us 
+ ASAP. Contact groups@ocrcc.org.</p>
+DTSTART;TZID=America/New_York:20150928T180000
+DTEND;TZID=America/New_York:20150928T200000
+SEQUENCE:0
+SUMMARY:Support Group for Female Survivors
+URL:http://www.chapelhillmagazine.com/event/support-group-for-female-surviv
+ ors/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8627@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:(919) 537-8167\; http://kitchenchapelhill.com
+DESCRIPTION:<p>Kitchen is hosting a Red Wine Dinner with Authentique Vin on
+  Monday\, September 28th at 7pm. The dinner features a five-course menu of
+  Autumn-themed dishes paired with a variety of red wines. Seats are $75 pe
+ r person\, tax and gratuity not included. Call (919) 537-8167 to reserve y
+ our spot.</p>
+DTSTART;TZID=America/New_York:20150928T190000
+GEO:+35.924457;-79.053254
+LOCATION:Kitchen @ 764 Martin Luther King Jr Blvd\, Chapel Hill\, NC 27514\
+ , USA
+SEQUENCE:0
+SUMMARY:Red Wine Dinner with Authentique Vin
+URL:http://www.chapelhillmagazine.com/event/red-wine-dinner-with-authentiqu
+ e-vin/
+X-TAGS;LANGUAGE=en-US:dinner\,wine
+X-COST:$75
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert65958dfccde7753ea00256871abd2f10
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Based out of Nashville The Walking Guys is a collaboration o
+ f singer/songwriters literally walking their tour from Portland\, Maine to
+  Nashville\, Tennessee. Four months\, 1600 miles\, four guys\, and the sto
+ ry of a lifetime.\n \n  \n \n WHY ARE YOU WALKING 1600 MILES? “Being on fo
+ ot will force us to rely on the generosity of the people we meet to surviv
+ e and take away the normal barriers that keep us from connecting with thos
+ e around us. We believe this will allow us to make lasting\, meaningful co
+ nnections with people that would otherwise not be possible.”</p>
+DTSTART;TZID=America/New_York:20150928T190000
+DTEND;TZID=America/New_York:20150928T210000
+SEQUENCE:0
+SUMMARY:The Walking Guys – Singer-Songwriters
+URL:http://www.chapelhillmagazine.com/event/the-walking-guys-singer-songwri
+ ters/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8576@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Eddie Owens\; 9194604693\; birdingbanjoman@gmail.com\; http://chbc.
+ carolinanature.com
+DESCRIPTION:<p>The Chapel Hill Bird Club will hold its regular monthly meet
+ ing on Monday\, September 28\, at 7:30pm at Binkley Baptist Church in Chap
+ el Hill. The featured speaker will be Susan Campbell who is a recognized a
+ uthority on hummingbirds in the state of North Carolina. She has traveled 
+ statewide to band over 2000 hummingbirds encompassing nine species. Susan 
+ will share recent highlights from her research into both summer and winter
+  hummingbirds in our state. She will describe the basics of attracting and
+  feeding wintering hummingbirds.</p>\n<p>The public is invited.</p>
+DTSTART;TZID=America/New_York:20150928T193000
+GEO:+35.929256;-79.025119
+LOCATION:Olin T. Binkley Baptist Church @ 1712 Willow Dr\, Chapel Hill\, NC
+  27514\, USA
+SEQUENCE:0
+SUMMARY:Chapel Hill Bird Club meeting – Hummingbirds in NC
+URL:http://www.chapelhillmagazine.com/event/chapel-hill-bird-club-meeting-h
+ ummingbirds-in-nc/
+X-TAGS;LANGUAGE=en-US:hummingbirds\,susan campbell
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8635@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:Doug Largent\; largent.doug@gmail.com
+DESCRIPTION:<p>The Doug Largent Trio featuring Brad Maiani on guitar and Do
+ novan Cheatham on drums plays organ trio jazz at Looking Glass Cafe in Car
+ rboro.</p>
+DTSTART;TZID=America/New_York:20150929T190000
+DTEND;TZID=America/New_York:20150929T210000
+GEO:+35.913266;-79.079755
+LOCATION:Looking Glass Cafe @ 601 W Main St\, Carrboro\, NC 27510\, USA
+SEQUENCE:0
+SUMMARY:The Doug Largent Trio at Looking Glass Cafe
+URL:http://www.chapelhillmagazine.com/event/the-doug-largent-trio-at-lookin
+ g-glass-cafe-22/
+X-TAGS;LANGUAGE=en-US:Doug Largent Trio\,Jazz\,Looking Glass Cafe
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert744b05337510bd18d5c41f808d1bde14
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>Durham Distillery\, a craft gin and liqueur distillery locat
+ ed in downtown Durham will open to the public for tours and product tastin
+ g starting on October 1\, 2015. Tours will run approximately 30 minutes an
+ d cost $10 per person. The tours include an overview of the distilling pro
+ cess\, a tasting of the five signature products and a Durham Distillery br
+ anded shot glass as a souvenir. While the distillery and tours are open to
+  all ages\, tastings are available only for those 21 years of age and olde
+ r. Durham Distillery launched this summer with innovative varieties of pre
+ mium gin and flavored liqueurs. Tour dates and times are listed at www.dur
+ hamdistillery.com\, or call 919-937-2121 for more information.</p>
+DTSTART;TZID=America/New_York:20151001T170000
+DTEND;TZID=America/New_York:20151001T220000
+SEQUENCE:0
+SUMMARY:Durham Distillery Tours and Tasting
+URL:http://www.chapelhillmagazine.com/event/durham-distillery-tours-and-tas
+ ting/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert1be0c258cba66fc55b72a0205fcb3c8e
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Join us at FOFP each Friday starting on April 24th through O
+ ctober 23rd at 5 PM. New this season are a variety of food trucks availabl
+ e to entertain your palate. Relax on our shady front porch while enjoying 
+ live music and delicious fare. No cover charge or reservations required.</
+ p>
+DTSTART;TZID=America/New_York:20151002T170000
+DTEND;TZID=America/New_York:20151002T200000
+SEQUENCE:0
+SUMMARY:Fridays on the Front Porch
+URL:http://www.chapelhillmagazine.com/event/fridays-on-the-front-porch-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8659@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Barbara Holloway\; 919.480.1026 \; bholloway@emersonwaldorf.org\; h
+ ttp://emersonwaldorf.org
+DESCRIPTION:<div>\n<div>\n<div>\n<div>\n<div dir='ltr'>\n<div>The Emerson W
+ aldorf School invites you to join us for a community screening of “I’m Not
+  Racist… Am I?” at the Varsity Theater in Chapel Hill from <span class='aB
+ n' tabindex='0' data-term='goog_716078026'><span class='aQJ'>7-9pm</span><
+ /span>.  This feature documentary follows a diverse group of teens through
+  a yearlong exploration to get at the heart of racism.  Through some tense
+  and painful moments\, we see how these difficult conversations affect the
+ ir relationships with friends and parents\, and ultimately challenge them 
+ to look deep within themselves. By the end of their time together\, we’ll 
+ see these remarkable young people develop deeper bonds\, a stronger resolv
+ e and a bigger\, more significant definition of racism than any of us ever
+  imagined.  Registration required.</div>\n</div>\n</div>\n</div>\n</div>\n
+ </div>
+DTSTART;TZID=America/New_York:20151002T190000
+DTEND;TZID=America/New_York:20151002T210000
+GEO:+35.913653;-79.054927
+LOCATION:Varsity Theater @ 123 E Franklin St\, Chapel Hill\, NC 27514\, USA
+SEQUENCE:0
+SUMMARY:Community Screening of Documentary “I’m Not Racist… Am I?”
+URL:http://www.chapelhillmagazine.com/event/community-screening-of-document
+ ary-im-not-racist-am-i/
+X-COST:$5
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8660@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Barbara Holloway\; 919.480.1026 \; bholloway@emersonwaldorf.org\; h
+ ttp://emersonwaldorf.org
+DESCRIPTION:<div>\n<div>\n<div>\n<div>\n<div dir='ltr'>\n<div>The Emerson W
+ aldorf Kindergarten invites 2-5 year olds and their parents to step into t
+ he shoes of a Waldorf student on <span class='aBn' tabindex='0' data-term=
+ 'goog_716078028'><span class='aQJ'>Saturday\, October 3rd</span></span> fr
+ om <span class='aBn' tabindex='0' data-term='goog_716078029'><span class='
+ aQJ'>10am-12pm</span></span> to see how and why Waldorf works.  Registrati
+ on required.</div>\n</div>\n</div>\n</div>\n</div>\n</div>
+DTSTART;TZID=America/New_York:20151003T100000
+DTEND;TZID=America/New_York:20151003T120000
+GEO:+35.987087;-79.077466
+LOCATION:The Emerson Waldorf School @ 6211 New Jericho Rd\, Chapel Hill\, N
+ C 27516\, USA
+SEQUENCE:0
+SUMMARY:Nursery/Kindergarten Open House & Sampler
+URL:http://www.chapelhillmagazine.com/event/nurserykindergarten-open-house-
+ sampler/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8656@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Chapel Hill Zen Center\; 919-967-0861\; info@chzc.org\; http://www.
+ chzc.org/
+DESCRIPTION:<p>Biologist Kriti Sharma will offer a presentation on her new 
+ book\, Interdependence: Biology and Beyond\, Sunday\, October 4\, 11:00am 
+ at the Chapel Hill Zen Center</p>\n<p>The teaching that all phenomena are 
+ interdependent is central to all Mahayana Buddhist traditions\, including 
+ Soto Zen. What does interdependence — or dependent arising — really mean? 
+ Do we experience ourselves as thoroughly interdependent with our world — a
+ nd if not\, why not? What habitual\, everyday assumptions function as barr
+ iers to realizing interdependence\, and what happens when we examine and p
+ otentially dissolve those assumptions? Kriti Sharma will read from and dis
+ cuss her new book\, Interdependence: Biology and Beyond (Fordham Universit
+ y Press\, New York\, 2015)\, with a focus on how a clear and coherent phil
+ osophical and scientific view of interdependence can be a support for joy 
+ and awakeness in everyday life.</p>
+DTSTART;TZID=America/New_York:20151004T110000
+GEO:+36.003317;-79.065672
+LOCATION:Chapel Hill Zen Center @ 5322 NC-86\, Chapel Hill\, NC 27599\, USA
+SEQUENCE:0
+SUMMARY:Biologist and author Kriti Sharma will read from and discuss her ne
+ w book Interdependency: Biology and Beyond
+URL:http://www.chapelhillmagazine.com/event/biologist-and-author-kriti-shar
+ ma-will-read-from-and-discuss-her-new-book-interdependency-biology-and-bey
+ ond/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert3ea375e20bcb3b782cb6cb5ad7f3f751
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions\,Festivals &amp\; Fairs
+CONTACT:
+DESCRIPTION:<p>Join thousands in downtown Chapel Hill for the 44th annual F
+ estifall Arts Festival\, an extraordinary opportunity for the community\, 
+ art enthusiasts and artists to interact. A variety of performing arts and 
+ a vibrant market of handmade artworks present a day of discovery for the f
+ estival’s attendees as they engage with the local art community. Historic 
+ West Franklin Street in Downtown Chapel Hill provides a beautiful backdrop
+  to our celebration of arts culture in our community.</p>
+DTSTART;TZID=America/New_York:20151004T120000
+DTEND;TZID=America/New_York:20151004T180000
+SEQUENCE:0
+SUMMARY:Festifall Community Arts Festival
+URL:http://www.chapelhillmagazine.com/event/festifall-community-arts-festiv
+ al-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert4e727b78f250b205e5e6dbf5b1a7f321
+DTSTAMP:20150920T002115Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Orange County Rape Crisis Center is offering a support g
+ roup for adult\, LGBTQ-identified survivors of sexual violence. The group 
+ will meet on Wednesday nights for eight sessions (no meeting November 25).
+  This group is an opportunity to learn\, share\, and gain support from oth
+ ers with similar experiences in a safe and affirming space. This is a grou
+ p for people of all gender identities and expressions. Please note that ad
+ vance meetings with staff and group facilitators are required for particip
+ ation – pre-meetings happening now. Please allow 2-3 weeks for this proces
+ s prior to the start of group.  Contact groups@ocrcc.org.</p>
+DTSTART;TZID=America/New_York:20151007T183000
+DTEND;TZID=America/New_York:20151007T203000
+SEQUENCE:0
+SUMMARY:Support Group for LGBTQ+ Survivors
+URL:http://www.chapelhillmagazine.com/event/support-group-for-lgbtq-survivo
+ rs/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert6793a1979ad50ab1b0c1b92b538f2b18
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:919-918-2735\; http://www.carolinainnevents.com
+DESCRIPTION:<p>Join us at FOFP each Friday starting on April 24th through O
+ ctober 23rd at 5 PM. New this season are a variety of food trucks availabl
+ e to entertain your palate. Relax on our shady front porch while enjoying 
+ live music and delicious fare.</p>
+DTSTART;TZID=America/New_York:20151009T170000
+DTEND;TZID=America/New_York:20151009T180000
+GEO:+35.9096;-79.054681
+LOCATION:The Carolina Inn @ University of North Carolina at Chapel Hill\, 2
+ 11 Pittsboro Street\, Chapel Hill\, NC 27516\, USA
+SEQUENCE:0
+SUMMARY:Fridays on the Front Porch
+URL:http://www.chapelhillmagazine.com/event/fridays-on-the-front-porch-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert8fcb80524596573d5f15ea1d703b374d
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Join us at FOFP each Friday starting on April 24th through O
+ ctober 23rd at 5 PM. New this season are a variety of food trucks availabl
+ e to entertain your palate. Relax on our shady front porch while enjoying 
+ live music and delicious fare. No cover charge or reservations required.</
+ p>
+DTSTART;TZID=America/New_York:20151009T170000
+DTEND;TZID=America/New_York:20151009T200000
+SEQUENCE:0
+SUMMARY:Fridays on the Front Porch
+URL:http://www.chapelhillmagazine.com/event/fridays-on-the-front-porch-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertf1b732cbcf807d9c13be1cd50f1b7540
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:
+DESCRIPTION:<p>October is quickly becoming synonymous with photography thro
+ ughout the Triangle and we are excited to celebrate our participation with
+  the Click! Triangle Photo Festival through our fourth annual FRANK:inFocu
+ s exhibition.</p>
+DTSTART;TZID=America/New_York:20151009T180000
+DTEND;TZID=America/New_York:20151009T210000
+SEQUENCE:0
+SUMMARY:Opening Reception: FRANK:inFocus 2015
+URL:http://www.chapelhillmagazine.com/event/opening-reception-frankinfocus-
+ 2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert661af99fb42134911b54b0741086fe9f
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:
+DESCRIPTION:<p>FRANK is pleased to be hosting one of the biggest ceramics e
+ vent of the fall! For the first time\, sixteen of the top women ceramicist
+ s in the region come together for an exciting group exhibition. <em>Women 
+ in Clay</em> will showcase their variety of talents in creating fine art s
+ culpture\, functional wares\, and everything in between. Free and open to 
+ the public.</p>
+DTSTART;TZID=America/New_York:20151009T180000
+DTEND;TZID=America/New_York:20151009T210000
+SEQUENCE:0
+SUMMARY:Opening Reception: Women in Clay
+URL:http://www.chapelhillmagazine.com/event/opening-reception-women-in-clay
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert59eca798bd7aaeabf5e6d46dc8bd1b5b
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>The Carolina Ball benefits SECU Family House at UNC Hospital
+ s\, which provides a safe\, affordable home for seriously ill patients and
+  their caregivers from throughout North Carolina and beyond. The evening f
+ eatures dinner and dancing\, casino games\, and silent and live auctions\,
+  helping us fund guest stays and programs for families at a difficult time
+  in their lives.</p>
+DTSTART;TZID=America/New_York:20151009T180000
+DTEND;TZID=America/New_York:20151009T230000
+SEQUENCE:0
+SUMMARY:The Carolina Ball for SECU Family House
+URL:http://www.chapelhillmagazine.com/event/the-carolina-ball-for-secu-fami
+ ly-house/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert6dac28f8274068368fdf7d915ead52e9
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>Please join IntraHealth International for a gala fundraiser 
+ on October 9 at the Fearrington Barn\, from 6:30 pm to 10:00 pm.  The even
+ t features four-time Emmy award nominee Sharon Lawrence as emcee and a con
+ cert by six-time Grammy award nominee singer-songwriter Nnenna Freelon. Ti
+ ckets start at $350.Proceeds from the event will benefit IntraHealth Inter
+ nationals End Shame: Restore Dignity campaign that aims to fight obstetric
+  fistula in Mali.  Learn more at www.EndShameRestoreDignity.org.</p>
+DTSTART;TZID=America/New_York:20151009T183000
+DTEND;TZID=America/New_York:20151009T220000
+SEQUENCE:0
+SUMMARY:IntraHealth’s End Shame: Restore Dignity Gala Fundraiser
+URL:http://www.chapelhillmagazine.com/event/intrahealths-end-shame-restore-
+ dignity-gala-fundraiser/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert42290eee282d90e7171fe410b56ebf02
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>Benefit concert and auction to support Eyes\, Ears\, Nose\, 
+ and Paws \, a local service dog training program\, featuring Jennifer Curt
+ is and Friends playing a program of Classical and Americana music.</p>
+DTSTART;TZID=America/New_York:20151009T190000
+DTEND;TZID=America/New_York:20151009T210000
+SEQUENCE:0
+SUMMARY:BAuction and Benefit Concert with Jennifer Curtis and Friends
+URL:http://www.chapelhillmagazine.com/event/bauction-and-benefit-concert-wi
+ th-jennifer-curtis-and-friends/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert71e2e1364246d1b9d111a936f1257f3d
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Don’t miss your chance to hear celebrated international star
+  Renée Fleming perform beloved songs and arias from the operatic repertoir
+ e onstage for the first time ever with the North Carolina Symphony. Grant 
+ Llewellyn conducts. Packages including pre- and post-concert events are al
+ so available.</p>
+DTSTART;TZID=America/New_York:20151011T193000
+DTEND;TZID=America/New_York:20151011T211500
+SEQUENCE:0
+SUMMARY:A North Carolina Symphony Gala with Rene Fleming
+URL:http://www.chapelhillmagazine.com/event/a-north-carolina-symphony-gala-
+ with-ren%c2%8ee-fleming/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert21285c1387d9be4c3bb586d771ee93ed
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Food &amp\; Drink
+CONTACT:
+DESCRIPTION:<p>Join us at The Fearrington Barn for a Cooks & Books luncheon
+  prepared by Chef Colin Bedford to celebrate Ruth Reichl’s latest book My 
+ Kitchen Year!\n \n  \n \n Ruth Reichl is the bestselling author of Tender 
+ at the Bone and Comfort Me with Apples. She was editor in chief of Gourmet
+  magazine for ten years.\n \n  \n \n Tickets are $105 and include a signed
+  cookbook ($35)\, lunch\, service fee and tax. Call McIntyre’s Books at 91
+ 9.542.3030 to reserve.\n \n  \n \n MENU\n \n  \n \n First Course\n \n Butt
+ ernut Squash Soup with “The Diva of Grilled Cheese”\n \n  \n \n Main Cours
+ e\n \n Chicken Fricassee with Spinach & Ricotta Gnocchi\n \n  \n \n Desser
+ t\n \n The Cake That Cures Everything\n \n  \n \n About Ruth Reichl\n \n I
+ n her bestselling memoirs\, Ruth Reichl has long illuminated the theme of 
+ how food defines us and she does it again with My Kitchen Year!\n \n  \n 
+ \n In the fall of 2009\, the food world was rocked when Gourmet magazine w
+ as abruptly shuttered by its parent company. No one was more stunned by th
+ is unexpected turn of events than its beloved editor in chief\, Ruth Reich
+ l\, who suddenly faced an uncertain professional future. As she struggled 
+ to process what had seemed unthinkable\, Reichl turned to the one place th
+ at had always provided sanctuary. “I did what I always do when I’m confuse
+ d\, lonely\, or frightened\,” she writes. “I disappeared into the kitchen.
+ ”\n \n  \n \n My Kitchen Year follows the change of seasons—and Reichl’s e
+ motions—as she slowly heals through the simple pleasures of cooking. While
+  working 24/7\, Reichl would “throw quick meals together” for her family a
+ nd friends. Now she has the time to rediscover what cooking meant to her.
+ \n \n  \n \n About Cooks & Books\n \n This series was founded with a premi
+ se that there’s no better way to explore a new cookbook than by talking wi
+ th the author\, and sampling and delving into those dishes with seriously 
+ fun and delicious discussion. It is a collaboration between Fearrington’s 
+ Executive Chef Colin Bedford and Keebe Fitch of McIntyre’s Books\, one of 
+ the South’s most celebrated independent bookstores\, with an amazing cookb
+ ook selection. Learn more about the series at http://www.fearrington.com/v
+ illage-shops/mcintyres-books/cooks-books/.</p>
+DTSTART;TZID=America/New_York:20151015T130000
+DTEND;TZID=America/New_York:20151015T150000
+SEQUENCE:0
+SUMMARY:Cooks & Books Lunch with Ruth Reichl
+URL:http://www.chapelhillmagazine.com/event/cooks-books-lunch-with-ruth-rei
+ chl/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertad839dd9f11a48d9c58151dafae81c4c
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Health &amp\; Wellness
+CONTACT:
+DESCRIPTION:<p>The Orange County Rape Crisis Center is offering a support g
+ roup for female-identified survivors of sexual trauma to learn\, share\, a
+ nd gain support from others who are also in recovery from substance abuse.
+  The group will meet on Thursdays\, for 8 sessions (no meetings Oct 29 or 
+ Nov 26). Recommended for individuals who are also in individual therapy. P
+ lease note that advance meetings with staff and group facilitators are req
+ uired for participation – pre-meetings happening now. Please allow 2-3 wee
+ ks for this process prior to the start of group. Contact groups@ocrcc.org.
+ </p>
+DTSTART;TZID=America/New_York:20151015T150000
+DTEND;TZID=America/New_York:20151015T170000
+SEQUENCE:0
+SUMMARY:Support Group: Sexual Trauma & Substance Abuse
+URL:http://www.chapelhillmagazine.com/event/support-group-sexual-trauma-sub
+ stance-abuse/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertb9af4af11d66654132f83ce35c92f1f3
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>The North Carolina Symphony Friday Favorites series begins w
+ ith the “Festive Overture” by Shostakovich and Tchaikovsky’s Symphony No. 
+ 6\, conducted by David Glover.\n \n These special daytime concerts are sea
+ ted by general admission and performed without intermission\; free Pre-con
+ cert Talk at 11:00 am..</p>
+DTSTART;TZID=America/New_York:20151016T120000
+DTEND;TZID=America/New_York:20151016T130000
+SEQUENCE:0
+SUMMARY:Friday Favorites with NC Symphony: TchaikovskyÕs Symphony No. 6
+URL:http://www.chapelhillmagazine.com/event/friday-favorites-with-nc-sympho
+ ny-tchaikovskyos-symphony-no-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert179cbf70831c095416c629a75af5bf30
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Join us at FOFP each Friday starting on April 24th through O
+ ctober 23rd at 5 PM. New this season are a variety of food trucks availabl
+ e to entertain your palate. Relax on our shady front porch while enjoying 
+ live music and delicious fare. No cover charge or reservations required.</
+ p>
+DTSTART;TZID=America/New_York:20151016T170000
+DTEND;TZID=America/New_York:20151016T200000
+SEQUENCE:0
+SUMMARY:Fridays on the Front Porch
+URL:http://www.chapelhillmagazine.com/event/fridays-on-the-front-porch-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertba38df2ddc3544310cef6666cccdd996
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Revel in an orchestral evening filled with music from films 
+ such as Batman’s The Dark Knight Rises\, Harry Potter\, Star Trek Into Dar
+ kness\, Titanic and Pirates of the Caribbean\, plus much more! David Glove
+ r conducts.</p>
+DTSTART;TZID=America/New_York:20151017T200000
+DTEND;TZID=America/New_York:20151017T220000
+SEQUENCE:0
+SUMMARY:NC Symphony Plays Music from the Movies
+URL:http://www.chapelhillmagazine.com/event/nc-symphony-plays-music-from-th
+ e-movies/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert4a8a9a6d640a4e8c3be26391a0d73a08
+DTSTAMP:20150920T002115Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151018T090000
+DTEND;TZID=America/New_York:20151018T090000
+SEQUENCE:0
+SUMMARY:Warpaint
+URL:http://www.chapelhillmagazine.com/event/warpaint-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert28740df91fdb85bb49fcdb4b601fc04b
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>The Episcopal Church of the Advocate will be hosting a one d
+ ay gathering of musicians\, artists and craftspeople\, which we’re calling
+  Autumn Unplugged @ the Advocate\, to raise funds and awareness for the fu
+ ture St. Paul’s AME Village. One goal of the Village will be to provide mo
+ re affordable housing in the Rogers Road area of CH and Carrboro. </p>
+DTSTART;TZID=America/New_York:20151018T123000
+DTEND;TZID=America/New_York:20151018T183000
+SEQUENCE:0
+SUMMARY:Autumn Unplugged @ the Advocate
+URL:http://www.chapelhillmagazine.com/event/autumn-unplugged-the-advocate/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8586@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Fundraiser
+CONTACT:Lupine Productions\; lupineproductionsNC@gmail.com
+DESCRIPTION:<p>Join us when Holy Ghost Tent Revival and Birds and Arrows hi
+ t the stage to support FVRC of Pittsboro (www.fvrc.org)!<br />\nWood-fired
+  pizzas made to order available on site\, cash bar featuring Fair Game Bev
+ erages\, and kids activity tent hosted by Willow Oak Montessori!</p>\n<p>$
+ 20 advance/$25 door/kids 12 and under FREE.</p>
+DTSTART;TZID=America/New_York:20151018T170000
+DTEND;TZID=America/New_York:20151018T203000
+GEO:+35.710046;-79.156684
+LOCATION:The Plant @ 220 Lorax Ln\, Pittsboro\, NC 27312\, USA
+SEQUENCE:0
+SUMMARY:Concerts for a Cause to benefit FVRC of Pittsboro
+URL:http://www.chapelhillmagazine.com/event/concerts-for-a-cause-to-benefit
+ -fvrc-of-pittsboro/
+X-TAGS;LANGUAGE=en-US:music concert
+X-COST:$20/$25/12 and under FREE
+X-TICKETS-URL:https://www.eventbrite.com/e/october-18-concerts-for-a-cause-
+ tickets-16699532752
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertfbad9ce88c995154475051c118a8bdbf
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Join us at FOFP each Friday starting on April 24th through O
+ ctober 23rd at 5 PM. New this season are a variety of food trucks availabl
+ e to entertain your palate. Relax on our shady front porch while enjoying 
+ live music and delicious fare. No cover charge or reservations required.</
+ p>
+DTSTART;TZID=America/New_York:20151023T170000
+DTEND;TZID=America/New_York:20151023T200000
+SEQUENCE:0
+SUMMARY:Fridays on the Front Porch
+URL:http://www.chapelhillmagazine.com/event/fridays-on-the-front-porch-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConverte2b3517b1c3ac56f04bb8bf9ec23c579
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>Honor and remember the legacy of former UNC Student Body Pre
+ sident Eve Carson. $20 for early registration\, $25 for race-day registrat
+ ion\, $20 with UNC One Card.</p>
+DTSTART;TZID=America/New_York:20151024T080000
+DTEND;TZID=America/New_York:20151024T080000
+SEQUENCE:0
+SUMMARY:Eve Carson Memorial 5K for Education
+URL:http://www.chapelhillmagazine.com/event/eve-carson-memorial-5k-for-educ
+ ation-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert8afdf988fde379d2633c4031c848a87d
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Music will definitely be in the Ayr! Enjoy a fun mix of Scot
+ tish entertainment: Scottish jigs\, reels and strathspeys\, lovely airs\, 
+ bagpipers\, drummers\, fiddlers\, and more plus lots of room for dancing. 
+ There will also be food\, children’s play area and scavenger hunt and more
+  – all on our beautiful grounds. Bring a lawn chair or a blanket and enjoy
+  the day. Performing:Wake & District Pipe BandBelles On StringsThe MacRowd
+ ie Ceilidh BandAdvanced Tickets: $15/adult\, $5/children ages 5-12\, Free/
+ children under 5Tickets at the gate: $20/adult</p>
+DTSTART;TZID=America/New_York:20151024T100000
+DTEND;TZID=America/New_York:20151024T160000
+SEQUENCE:0
+SUMMARY:Cilidh at Ayr
+URL:http://www.chapelhillmagazine.com/event/c%c2%8filidh-at-ayr/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert30900b1d7073dddafb2d82ee69bd2eaf
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Concerts &amp\; Live Music
+CONTACT:
+DESCRIPTION:<p>Father and son join forces to perform Ravel’s Piano Concerto
+  and musical selections from The Gershwin Songbook\, plus Gabriel Kahane’s
+  Guide to the 48 States\, created from the Federal Writers’ Program guideb
+ ooks. Jeffrey Kahane conducts and plays piano\; Gabrial Kahane sings and p
+ lays electric guitar and banjo.\n \n Please join us next door in Gerrard H
+ all at 6:30 for “Evening Overtures”\, with discussion and a brief chamber 
+ performance. FREE Park & Ride shuttle service from University Mall and Sou
+ thern Village\; please call the NC Symphony Box Office for details.</p>
+DTSTART;TZID=America/New_York:20151026T193000
+DTEND;TZID=America/New_York:20151026T193000
+SEQUENCE:0
+SUMMARY:An Evening with Jeffrey & Gabriel Kahane and The North Carolina Sym
+ phony
+URL:http://www.chapelhillmagazine.com/event/an-evening-with-jeffrey-gabriel
+ -kahane-and-the-north-carolina-symphony/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert6fd428288f0aec502a9f428a441687b1
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:
+DESCRIPTION:<p>The Hillsborough Arts Council invites everyone to visit walk
+ able Historic Hip Hillsborough. Park once and enjoy five art galleries\, a
+ rtist studios\, fine jewelers\, boutique shops and award winning restauran
+ ts. Free. See website for venues\, exhibits\, and map.</p>
+DTSTART;TZID=America/New_York:20151030T180000
+DTEND;TZID=America/New_York:20151030T210000
+SEQUENCE:0
+SUMMARY:Hillsborough Last Fridays Art Walk
+URL:http://www.chapelhillmagazine.com/event/hillsborough-last-fridays-art-w
+ alk-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert6d3e10465d530293050ef0c06a96d2ce
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Kids &amp\; Family
+CONTACT:
+DESCRIPTION:<p>Calling all Gryffindors\, Ravenclaws\, Hufflepuffs and even 
+ Slytherins! Grab your brooms and fly away with us as the orchestra perform
+ s selections from the Harry Potter films\, complete with presentations by 
+ a professional illusionist. Dress as your favorite wizard\, sorcerer or ot
+ her Hogwarts favorite. Special parking permits required for those arriving
+  by dragon. Be sure to join us for all the pre-concert activities\, includ
+ ing our popular Instrument Zoo!</p>
+DTSTART;TZID=America/New_York:20151031T160000
+DTEND;TZID=America/New_York:20151031T170000
+SEQUENCE:0
+SUMMARY:Halloween at Hogwarts: The Music of Harry Potter played by The Nort
+ h Carolina Symphony
+URL:http://www.chapelhillmagazine.com/event/halloween-at-hogwarts-the-music
+ -of-harry-potter-played-by-the-north-carolina-symphony/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert667b8e3755420b077c76a7049a9a4261
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>Help CORA Feed the Hungry! Over the next year\, CORA expects
+  to distribute more than 215 tons of food to Chatham County families – eno
+ ugh to feed 20\,000 people for a week! The donations you collect for Hunge
+ r Walk will help make that possible. Walk a three mile route on event day 
+ through picturesque Pittsboro and visit CORA. Form a team or walk alone. I
+ nformation packets mailed early September. For an information packet\, sen
+ d email to hungerwalk@corafoodpantry.org\, or visit the website at www.cor
+ afoodpantry.org after September 15.</p>
+DTSTART;TZID=America/New_York:20151101T133000
+DTEND;TZID=America/New_York:20151101T160000
+SEQUENCE:0
+SUMMARY:CHATHAM HUNGER WALK 2015
+URL:http://www.chapelhillmagazine.com/event/chatham-hunger-walk-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8662@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Barbara Holloway\; 919-967-1858.\; bholloway@emersonwaldorf.org\; h
+ ttp://emersonwaldorf.org
+DESCRIPTION:<div>\n<div>\n<div>\n<div>\n<div dir='ltr'>\n<div> Please join 
+ us on <span class='aBn' tabindex='0' data-term='goog_716078034'><span clas
+ s='aQJ'>Friday\, November 6</span></span>\, <span class='aBn' tabindex='0'
+  data-term='goog_716078035'><span class='aQJ'>7-9pm</span></span>\, as Car
+ l Ernst\, UNC Professor of Religious Studies\, explores Sufism in the Mode
+ rn World: Do Rumi and Hafiz Still Speak to Us Today? We will also enjoy li
+ ve Persian Music by Ali Kadivar.</div>\n</div>\n</div>\n</div>\n</div>\n</
+ div>
+DTSTART;TZID=America/New_York:20151106T190000
+DTEND;TZID=America/New_York:20151106T210000
+GEO:+35.987087;-79.077466
+LOCATION:Brown Wing of the Emerson Waldorf High School @ 6211 New Jericho R
+ d\, Chapel Hill\, NC 27516\, USA
+SEQUENCE:0
+SUMMARY:Sufism in the Modern World: Do Rumi and Hafiz Still Speak to Us Tod
+ ay?
+URL:http://www.chapelhillmagazine.com/event/sufism-in-the-modern-world-do-r
+ umi-and-hafiz-still-speak-to-us-today/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertff0cbd86bf3e855f97497023d2b60f5c
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers
+CONTACT:
+DESCRIPTION:<p>Your support allows us to care for abused\, neglected\, and 
+ abandoned animals in our community as well as find them loving forever hom
+ es. Come enjoy a fun-filled evening at the beautiful Washington Duke Inn. 
+ Delicious food\, live entertainment\, and opportunities to get a jump star
+ t on your holiday shopping and support a worthy cause are all on the agend
+ a. Individual tickets as well as sponsorship opportunities are available f
+ or purchase.</p>
+DTSTART;TZID=America/New_York:20151121T180000
+DTEND;TZID=America/New_York:20151121T220000
+SEQUENCE:0
+SUMMARY:Animal Protection Society of Durham – Tails at Twilight Gala
+URL:http://www.chapelhillmagazine.com/event/animal-protection-society-of-du
+ rham-tails-at-twilight-gala/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvertae9627f22c0b1202c07ed16e0bb4bae2
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:Terry Mitalas\; 919-843-3474\; http://moreheadplanetarium.org
+DESCRIPTION:<p>Sip champagne\, stargaze\, dine and dance at this annual bla
+ ck-tie gala at Morehead Planetarium that supports science education for No
+ rth Carolina schoolchildren.</p>
+DTSTART;TZID=America/New_York:20151121T190000
+DTEND;TZID=America/New_York:20151121T200000
+GEO:+35.91386;-79.050533
+LOCATION:Morehead Planetarium and Science Center  @ University of North Car
+ olina at Chapel Hill\, 250 East Franklin Street\, Chapel Hill\, NC 27514\,
+  USA
+SEQUENCE:0
+SUMMARY:Jupiter Ball
+URL:http://www.chapelhillmagazine.com/event/jupiter-ball/
+END:VEVENT
+BEGIN:VEVENT
+UID:CSVConvert6d8a4f05037e603e3db862e04c68fe19
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Arts &amp\; Exhibitions
+CONTACT:
+DESCRIPTION:<p>Christmas Holiday Shoppe is a festive shopping affair featur
+ ing artists and crafters from across the Triangle. The event is open to th
+ e public with no in admission fee. </p>
+DTSTART;TZID=America/New_York:20151205T090000
+DTEND;TZID=America/New_York:20151205T160000
+SEQUENCE:0
+SUMMARY:Christmas Holiday Shoppe
+URL:http://www.chapelhillmagazine.com/event/christmas-holiday-shoppe/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8587@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Charity &amp\; Fundraisers\,Concerts &amp\; Live 
+ Music
+CONTACT:Lupine Productions\; lupineproductionsnc@gmail.com
+DESCRIPTION:<p>Join us on December 5 for a special Concerts for a Cause to 
+ benefit CORA Food Pantry at Galloway Ridge!<br />\nSeasonal buffet and des
+ sert followed by live bluegrass from local favorites Big Fat Gap!<br />\nC
+ ash bar available (featuring beer brewed especially for this event).<br />
+ \nTickets available starting Oct 1 advance sales only\, price includes din
+ ner and concert.<br />\n$50 single/$85 couple (suggested donation of 5 can
+ s of food per person).</p>
+DTSTART;TZID=America/New_York:20151205T173000
+DTEND;TZID=America/New_York:20151205T213000
+GEO:+35.793784;-79.094477
+LOCATION:Galloway Ridge at Fearrington @ 3000 Galloway Ridge\, Pittsboro\, 
+ NC 27312\, USA
+SEQUENCE:0
+SUMMARY:Concerts for a Cause to benefit CORA Food Pantry with Big Fat Gap
+URL:http://www.chapelhillmagazine.com/event/concerts-for-a-cause-to-benefit
+ -cora-food-pantry-with-big-fat-gap/
+X-TAGS;LANGUAGE=en-US:bluegrass\,charity\,dancing\,dinner\,event\,fundraise
+ r\,music concert
+X-COST:$50 single/$85 couple
+X-TICKETS-URL:http://www.eventbrite.com/e/concerts-for-a-cause-to-benefit-t
+ he-cora-food-pantry-at-galloway-ridge-featuring-live-bluegrass-tickets-183
+ 69430461
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8663@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Barbara Holloway\; 919-967-1858\; bholloway@emersonwaldorf.org\; ht
+ tp://emersonwaldorf.org
+DESCRIPTION:<div>\n<div>\n<div>\n<div>\n<div dir='ltr'>\n<div>Step into the
+  shoes of a Waldorf student on <span class='aBn' tabindex='0' data-term='g
+ oog_716078037'><span class='aQJ'>Saturday\, January 16</span></span> from 
+ <span class='aBn' tabindex='0' data-term='goog_716078038'><span class='aQJ
+ '>9:30am-1pm </span></span>for Waldorf Education Day and see how and why W
+ aldorf works.  Attend the courses of your choice from Early Childhood pain
+ ting to High School Projective Geometry and experience first-hand the fusi
+ on of intellectual\, creative\, and practical excellence.  Waldorf Educati
+ on Day is free and open to the public.</div>\n</div>\n</div>\n</div>\n</di
+ v>\n</div>
+DTSTART;TZID=America/New_York:20160116T093000
+DTEND;TZID=America/New_York:20160116T130000
+GEO:+35.987087;-79.077466
+LOCATION:The Emerson Waldorf School @ 6211 New Jericho Rd\, Chapel Hill\, N
+ C 27516\, USA
+SEQUENCE:0
+SUMMARY:Waldorf Education Day and All School Nursery to High School Open Ho
+ use
+URL:http://www.chapelhillmagazine.com/event/waldorf-education-day-and-all-s
+ chool-nursery-to-high-school-open-house/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8664@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Barbara Holloway\;  919-967-1858\; bholloway@emersonwaldorf.org\; h
+ ttp://emersonwaldorf.org
+DESCRIPTION:<div>\n<div>\n<div>\n<div>\n<div dir='ltr'>\n<div>The Emerson W
+ aldorf School invites you to our private screening of Miss Representation 
+ by Jennifer Siebel Newsom of the Representation Project. This documentary 
+ exposes how mainstream media contribute to the under-representation of wom
+ en in positions of power and influence in America. The film challenges the
+  media’s limited and often disparaging portrayals of women and girls\, whi
+ ch make it difficult for women to achieve leadership positions and for the
+  average woman to feel powerful herself.</div>\n</div>\n</div>\n</div>\n</
+ div>\n</div>
+DTSTART;TZID=America/New_York:20160205T190000
+DTEND;TZID=America/New_York:20160205T210000
+GEO:+35.987087;-79.077466
+LOCATION:Emerson Waldorf School Brown Wing @ 6211 New Jericho Rd\, Chapel H
+ ill\, NC 27516\, USA
+SEQUENCE:0
+SUMMARY:Community Screening of “Miss Representation” Documentary
+URL:http://www.chapelhillmagazine.com/event/community-screening-of-miss-rep
+ resentation-documentary/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8665@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Barbara Holloway\;  919-967-1858\; bholloway@emersonwaldorf.org\; h
+ ttp://emersonwaldorf.org
+DESCRIPTION:<div>\n<div>\n<div>\n<div>\n<div dir='ltr'>\n<div>This document
+ ary by Jennifer Siebel Newsom of the Representation Project follows boys a
+ nd young men as they struggle to stay true to themselves while negotiating
+  America’s narrow definition of masculinity. Pressured by the media\, thei
+ r peer group\, and even the adults in their lives\, our protagonists confr
+ ont messages encouraging them to disconnect from their emotions\, devalue 
+ authentic friendships\, objectify and degrade women\, and resolve conflict
+ s through violence. These gender stereotypes interconnect with race\, clas
+ s\, and circumstance\, creating a maze of identity issues boys and young m
+ en must navigate to become “real” men. Experts in neuroscience\, psycholog
+ y\, sociology\, sports\, education\, and media also weigh in\, offering em
+ pirical evidence of the “boy crisis” and tactics to combat it.</div>\n</di
+ v>\n</div>\n</div>\n</div>\n</div>
+DTSTART;TZID=America/New_York:20160304T190000
+DTEND;TZID=America/New_York:20160304T210000
+GEO:+35.987087;-79.077466
+LOCATION:Emerson Waldorf School Brown Wing @ 6211 New Jericho Rd\, Chapel H
+ ill\, NC 27516\, USA
+SEQUENCE:0
+SUMMARY:Community Screening of “The Mask You Live In” Documentary
+URL:http://www.chapelhillmagazine.com/event/community-screening-of-the-mask
+ -you-live-in-documentary/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8666@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Barbara Holloway\; 919-967-1858\; bholloway@emersonwaldorf.org\; ht
+ tp://emersonwaldorf.org
+DESCRIPTION:<div>\n<div>\n<div>\n<div>\n<div dir='ltr'>\n<div>This award-wi
+ nning documentary takes a profound\, alternative look at the global bee cr
+ isis. This engaging and ultimately uplifting film weaves an unusual and dr
+ amatic story of the heartfelt struggles of beekeepers\, scientists\, and p
+ hilosophers from around the world including Michael Pollan\, Gunther Hauk\
+ , and Vandana Shiva. Together they reveal both the problems and the soluti
+ ons in renewing a culture in balance with nature.</div>\n</div>\n</div>\n<
+ /div>\n</div>\n</div>
+DTSTART;TZID=America/New_York:20160401T190000
+DTEND;TZID=America/New_York:20160401T210000
+GEO:+35.987087;-79.077466
+LOCATION:Emerson Waldorf School Brown Wing @ 6211 New Jericho Rd\, Chapel H
+ ill\, NC 27516\, USA
+SEQUENCE:0
+SUMMARY:Queen of the Sun: What Are The Bees Telling Us?
+URL:http://www.chapelhillmagazine.com/event/queen-of-the-sun-what-are-the-b
+ ees-telling-us/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8667@www.chapelhillmagazine.com
+DTSTAMP:20150920T002115Z
+CATEGORIES;LANGUAGE=en-US:Education &amp\; Learning
+CONTACT:Barbara Holloway\; 919-967-1858\; bholloway@emersonwaldorf.org\; ht
+ tp://emersonwaldorf.org
+DESCRIPTION:<div>\n<div>\n<div>\n<div>\n<div dir='ltr'>\n<div>Please join u
+ s on <span class='aBn'><span class='aQJ'>Friday\, May 27</span></span>\, <
+ span class='aBn'><span class='aQJ'>5-8pm</span></span> to witness the culm
+ ination of the Emerson Waldorf School’s High School art & music programs. 
+  From film screenings\, music performances\, paintings\, sculptures\, poet
+ ry readings\, to dramatic performances\, this is an evening guaranteed to 
+ delight all ages.</div>\n</div>\n</div>\n</div>\n</div>\n</div>
+DTSTART;TZID=America/New_York:20160527T170000
+DTEND;TZID=America/New_York:20160527T200000
+GEO:+35.987087;-79.077466
+LOCATION:Emerson Waldorf School @ 6211 New Jericho Rd\, Chapel Hill\, NC 27
+ 516\, USA
+SEQUENCE:0
+SUMMARY:Best in Show: Arts Extravaganza
+URL:http://www.chapelhillmagazine.com/event/best-in-show-arts-extravaganza/
+END:VEVENT
+END:VCALENDAR

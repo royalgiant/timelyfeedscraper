@@ -1,0 +1,342 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//178.62.118.52//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.gthc.org.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3703@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Imagine what it would be like to suffer a devastating illnes
+ s that deprives you of a voice\, what it is like for patients who find it 
+ difficult to communicate with family and friends who can no longer enjoy a
+  chat or tell a story.</p>\n<p>As part of Hospice Week\, can you hold a fu
+ ndraising event that involves using voices and having fun? There are many 
+ possibilities such as singing\, poetry\, storytelling\, nursery rhymes or 
+ even jokes\, please click <a href='http://www.gthc.org.uk/hospice-care-wee
+ k/'>here</a> to find out more.</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+SEQUENCE:0
+SUMMARY:Voices for Hospices Day
+URL:http://www.gthc.org.uk/event/voices-for-hospices-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3698@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02929 524150 \; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Grab a bargain and a supply of your favourite charity Christ
+ mas Cards.</p>
+DTSTART;VALUE=DATE:20151108
+DTEND;VALUE=DATE:20151109
+GEO:+51.515492;-3.252119
+LOCATION:Radyr Methodist Church @ Radyr Methodist Church\, Radyr\, Cardiff\
+ , Cardiff CF15\, UK
+SEQUENCE:0
+SUMMARY:Christmas Card Sale
+URL:http://www.gthc.org.uk/event/christmas-card-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2262@www.gthc.org.uk
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Staff of Barclays Bank will bravely face the rattling bones 
+ and clanking chains of spooky ghouls and ghosts\, to raise vital funds for
+  GTHC.</p>
+DTSTART;VALUE=DATE:20151120
+DTEND;VALUE=DATE:20151121
+GEO:+51.736728;-2.63825
+LOCATION:St Briavels Castle @ Castle Crescent\, Saint Briavels\, Lydney\, G
+ loucestershire GL15 6UA\, UK
+SEQUENCE:0
+SUMMARY:Ghost Hunting at St Briavels Castle
+URL:http://www.gthc.org.uk/event/ghost-hunting-at-st-briavels-castle/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2260@www.gthc.org.uk
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>After a very successful photography competition last year th
+ is is another chance to win time in a professional photographer’s studio. 
+ Please get in touch for a pack containing details and entry form\, £5 for 
+ every photograph entered.</p>\n<p>The closing date for entries will be <st
+ rong>Friday 20th November</strong>. Good Luck!</p>\n<p><a href='http://178
+ .62.118.52/wp-content/uploads/2015/03/Photography-Competition-min.jpg'><im
+ g class='alignnone size-medium wp-image-3726' src='http://178.62.118.52/wp
+ -content/uploads/2015/03/Photography-Competition-min-212x300.jpg' alt='Pho
+ tography Competition-min' width='212' height='300' /></a></p>
+DTSTART;VALUE=DATE:20151127
+DTEND;VALUE=DATE:20151128
+GEO:+51.481581;-3.17909
+LOCATION:Cardiff\, Cardiff\, UK
+SEQUENCE:0
+SUMMARY:Photography Competition sponsored by Barrett & Coe
+URL:http://www.gthc.org.uk/event/photography-competition-sponsored-by-barre
+ tt-coe/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3693@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150 \; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Join this lovely social group to improve your skill or share
+  your knowledge\, or just enjoy the company of like-minded people. Entry i
+ s only £2 – all proceeds will be for charity.<br />\n<a href='http://178.6
+ 2.118.52/wp-content/uploads/2015/08/file-page1.png'><img class='alignnone 
+ size-medium wp-image-3725' src='http://178.62.118.52/wp-content/uploads/20
+ 15/08/file-page1-212x300.png' alt='file-page1' width='212' height='300' />
+ </a></p>
+DTSTART;TZID=Europe/London:20150923T190000
+DTEND;TZID=Europe/London:20150923T210000
+GEO:+51.495476;-3.148227
+LOCATION:Sainsbury's Coffee Shop\, Colchester Avenue @ Cardiff\, Cardiff\, 
+ Cardiff CF23 9XN\, UK
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:“Knit-Whit’s” Knitting & Crochet Club
+URL:http://www.gthc.org.uk/event/knit-whits-knitting-crochet-club/
+X-COST:£2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3701@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02929 524150 \; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Refreshments\, stalls\, raffle\, and lovely gifts.</p>
+DTSTART;TZID=Europe/London:20150930T103000
+GEO:+51.516342;-3.257393
+LOCATION:Radyr Golf Club @ Within The Premesis of Radyr Golf Club\, Radyr\,
+  Cardiff\, Cardiff CF15 8BS\, UK
+SEQUENCE:0
+SUMMARY:Radyr Ladies – Coffee Morning
+URL:http://www.gthc.org.uk/event/radyr-ladies-coffee-morning/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2254@www.gthc.org.uk
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.gthc.org.uk/wp-content/uploads/2015/08/halfmarathonJPEG-300x141.jpg
+ ' width='300' height='141' /></div><p>For your free place\, running vest\,
+  information and goody bag  please email Christine at christine.chandler@g
+ thc.org.uk. For more information about this event\, click <a href='http://
+ www.gthc.org.uk/cardiff-half-marathon-2015/'>here</a>.</p>
+DTSTART;TZID=Europe/London:20151004T080000
+DTEND;TZID=Europe/London:20151004T143000
+GEO:+51.481763;-3.182207
+LOCATION:Cardiff Castle\, Castle Street\, Cardiff\, Cardiff CF10 3RB\, UK
+SEQUENCE:0
+SUMMARY:Cardiff Half Marathon 2015
+URL:http://www.gthc.org.uk/event/cardiff-half-marathon/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2258@www.gthc.org.uk
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>A wonderful variety of voices to celebrate the launch of Hos
+ pice Care Week 2015 covering a wide spectrum from the voice of the harp to
+  warm tones of a Male Voice Choir.</p>\n<p> </p>
+DTSTART;TZID=Europe/London:20151004T110000
+DTEND;TZID=Europe/London:20151004T150000
+GEO:+51.465042;-3.164171
+LOCATION:Wales Millennium Centre @ Millennium Centre\, Cardiff\, Cardiff\, 
+ Cardiff CF10\, UK
+SEQUENCE:0
+SUMMARY:Voices for Hospices – Opening Celebration
+URL:http://www.gthc.org.uk/event/voices-for-hospices/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2256@www.gthc.org.uk
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.gthc.org.uk/wp-content/uploads/2015/03/goods-300x215.jpg' width='30
+ 0' height='215' /></div><p>Please take time to organise your own fundraisi
+ ng event this week\, or support someone who is. It would be amazing to hea
+ r from you regarding Hospice Week and how you would like to support GTHC b
+ y raising funds for our charity\, click <a href='http://www.gthc.org.uk/ho
+ spice-care-week/'>here</a> to find out more.</p>
+DTSTART;TZID=Europe/London:20151005T060000
+DTEND;TZID=Europe/London:20151011T234500
+GEO:+51.481581;-3.17909
+LOCATION:Cardiff\, Cardiff\, UK
+SEQUENCE:0
+SUMMARY:Hospice Care Week
+URL:http://www.gthc.org.uk/event/hospice-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3723@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Please join us in the amazing setting of The Clink Restauran
+ t\, for a scrumptious autumnal High Tea\, with professional musical entert
+ ainment provided by Mary Chichester. Expect award winning food and some gr
+ eat company – this is definitely one for the diary!<br />\n<a href='http:/
+ /178.62.118.52/wp-content/uploads/2015/08/Page1.jpg'><img class='alignnone
+  size-medium wp-image-3730' src='http://178.62.118.52/wp-content/uploads/2
+ 015/08/Page1-212x300.jpg' alt='Page1' width='212' height='300' /></a></p>
+DTSTART;TZID=Europe/London:20151009T120000
+DTEND;TZID=Europe/London:20151009T153000
+GEO:+51.481069;-3.168333
+LOCATION:The Clink Cymru Restaurant  @ Cardiff Prison\, Knox Road\, Cardiff
+ \, South Glamorgan CF24 0UG\, UK
+SEQUENCE:0
+SUMMARY:High Tea & Harmony
+URL:http://www.gthc.org.uk/event/high-tea-harmony/
+X-COST:£17
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3700@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02929 524150 \; christine.chandler@gthc.org.uk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.gthc.org.uk/wp-content/uploads/2015/08/DSC02947-300x223.jpg' width=
+ '300' height='223' /></div><p>Bring your dog along to our annual “Walk for
+  Hope”\, your four legged friend can enjoy the walk and may win a prize. G
+ et your friends and family to sponsor you – there will be free t-shirts fo
+ r all!</p>
+DTSTART;TZID=Europe/London:20151011T100000
+GEO:+51.485098;-3.18522
+LOCATION:Bute Park @ Bute Park\, North Road\, Cardiff\, Cardiff CF10 3DX\, 
+ UK
+SEQUENCE:0
+SUMMARY:“Walkies for Hope” Sponsored Walk
+URL:http://www.gthc.org.uk/event/walkies-for-hope-sponsored-walk/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3692@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02929 524150 \; christine.chandler@gthc.org.uk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.gthc.org.uk/wp-content/uploads/2015/08/Songs-of-Praise-300x199.jpg'
+  width='300' height='199' /></div><p>Raise your voice for George Thomas Ho
+ spice Care this Hospice Care Week.</p>
+DTSTART;TZID=Europe/London:20151011T190000
+GEO:+51.513964;-3.220984
+LOCATION:Methodist Church\, Whitchurch @ Whitchurch Methodist Church\, Penl
+ line Road\, Cardiff\, Cardiff CF14 2AA\, UK
+SEQUENCE:0
+SUMMARY:Voices Raised in Songs of Praise
+URL:http://www.gthc.org.uk/event/songs-of-praise/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3765@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Sponsored Fundraising by Spinathon Class at Village Hotel.</
+ p>
+DTSTART;TZID=Europe/London:20151114T000000
+GEO:+51.524494;-3.239472
+LOCATION:Village Hotel @ 29 Pendwyallt Road\, Cardiff\, Cardiff CF14 7EF\, 
+ UK
+SEQUENCE:0
+SUMMARY:Spinathon Village Hotel\, Wendy Prosser
+URL:http://www.gthc.org.uk/event/spinathon-village-hotel/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3697@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Hand-crafted stalls\, gifts and refreshments in a seasonal a
+ tmosphere\, something for everyone.<br />\n<a href='http://178.62.118.52/w
+ p-content/uploads/2015/08/christmas-craft-fayre.jpg'><img class='alignnone
+  size-medium wp-image-3731' src='http://178.62.118.52/wp-content/uploads/2
+ 015/08/christmas-craft-fayre-212x300.jpg' alt='christmas craft fayre' widt
+ h='212' height='300' /></a></p>
+DTSTART;TZID=Europe/London:20151128T103000
+DTEND;TZID=Europe/London:20151128T153000
+GEO:+51.513507;-3.220397
+LOCATION:Bethel Baptist Church @ Bethel Baptist Church\, Penlline Rd\, Card
+ iff\, Whitchurch\, Cardiff CF14 2AA\, UK
+SEQUENCE:0
+SUMMARY:Christmas Craft & Gift Fayre
+URL:http://www.gthc.org.uk/event/christmas-craft-gift-fayre/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3722@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p><b>Join us for </b><b>a c</b><b>racker of an </b><b>event an
+ d sample </b><b>the delicious Christmas Menu at </b><b>The Clink Restauran
+ t. Why not bring friends and family for a lovely festive afternoon.</b></p
+ >
+DTSTART;TZID=Europe/London:20151217T000000
+DTEND;TZID=Europe/London:20151217T150000
+GEO:+51.481069;-3.168333
+LOCATION:The Clink Restaurant @ Cardiff Prison\, Knox Road\, Cardiff\, Sout
+ h Glamorgan CF24 0UG\, UK
+SEQUENCE:0
+SUMMARY:Christmas at The Clink
+URL:http://www.gthc.org.uk/event/christmas-at-the-clink/
+X-COST:£25
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3760@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Delightful hand-crafted stalls and unique gifts\, refreshmen
+ ts\, raffle and a warm welcome.</p>
+DTSTART;TZID=Europe/London:20160521T103000
+DTEND;TZID=Europe/London:20160521T153000
+GEO:+51.498336;-3.162795
+LOCATION:St Andrews Church @ Pen-Y-Lan Road\, United Kingdom
+SEQUENCE:0
+SUMMARY:Spring Craft and Gift Fayre
+URL:http://www.gthc.org.uk/event/spring-craft-and-gift-fayre/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3764@178.62.118.52
+DTSTAMP:20150920T002122Z
+CATEGORIES:
+CONTACT:Christine Chandler\; 02920 524150\; christine.chandler@gthc.org.uk
+DESCRIPTION:<p>Another great opportunity to have your questions answered by
+  a professional panel of gardners\, with refreshments included and the opp
+ ortunity to sample produce from the farm shop\, always a very popular even
+ t.</p>
+DTSTART;TZID=Europe/London:20160622T173000
+GEO:+51.529793;-3.25913
+LOCATION:Pugh's Garden Village @ Morganstown\, Cardiff\, Cardiff CF15 8LB\,
+  UK
+SEQUENCE:0
+SUMMARY:Gardners Question Time
+URL:http://www.gthc.org.uk/event/gardners-question-time/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

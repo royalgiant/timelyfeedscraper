@@ -1,0 +1,342 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.147.244.161//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://cityofescalon.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-7673@cityofescalon.org
+DTSTAMP:20150920T002409Z
+CATEGORIES;LANGUAGE=en-US:City Events
+CONTACT:City of Escalon
+DESCRIPTION:<p>Looking for a good deal? Love garage sales? The City of Esca
+ lon will be hosting its 23rd Annual City Wide Yard Sale Event on Saturday\
+ , October 3\, 2015 from 8:00AM to 2:30PM which features over 100 sales thr
+ oughout the city. Maps will be available online\, at many local stores\, r
+ estaurants\, and at City Hall beginning Thursday\, October 1\, 2015.</p>\n
+ <p>Click below for sign up sheet and map!</p>\n<p><a href='http://cityofes
+ calon.org/?p=8179'>http://cityofescalon.org/?p=8179</a></p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+SEQUENCE:0
+SUMMARY:City Wide Yard Sale
+URL:http://cityofescalon.org/event/city-wide-yard-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7674@cityofescalon.org
+DTSTAMP:20150920T002409Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:Order of the Eastern Star
+DESCRIPTION:<p><span style='font-size: medium\;'>This event is hosted by Or
+ der of the Eastern Star. The City of Escalon does not guarantee nor have a
+ ny further information regarding this event. Contact event host for more i
+ nformation.</span></p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+SEQUENCE:0
+SUMMARY:Harvest Luncheon & Yard Sale
+URL:http://cityofescalon.org/event/harvest-luncheon-yard-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7675@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:Escalon Ministerial Association
+DESCRIPTION:<p><span style='font-size: medium\;'>This event is hosted by th
+ e Escalon Ministerial Association. The City of Escalon does not guarantee 
+ nor have any further information regarding this event. Contact event host 
+ for more information.</span></p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+SEQUENCE:0
+SUMMARY:Christmas Bunco
+URL:http://cityofescalon.org/event/christmas-bunco-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7676@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:Escalon Covenant Church
+DESCRIPTION:<p><span style='font-size: medium\;'>This event is hosted by th
+ e Escalon Covenant Church. The City of Escalon does not guarantee nor have
+  any further information regarding this event. Contact event host for more
+  information.</span></p>
+DTSTART;VALUE=DATE:20151028
+DTEND;VALUE=DATE:20151029
+SEQUENCE:0
+SUMMARY:Trunk or Treat
+URL:http://cityofescalon.org/event/trunk-or-treat/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6283@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:City Office Holidays
+CONTACT:
+DESCRIPTION:<p style='text-align: center\;'><span style='font-size: medium\
+ ;'>Veterans Day</span></p>
+DTSTART;VALUE=DATE:20151111
+DTEND;VALUE=DATE:20151112
+SEQUENCE:0
+SUMMARY:Holiday: City Offices Closed
+URL:http://cityofescalon.org/event/holiday-city-offices-closed-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6284@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:City Office Holidays
+CONTACT:
+DESCRIPTION:<p style='text-align: center\;'><span style='font-size: medium\
+ ;'>Thanksgiving</span></p>
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:Holiday: City Offices Closed
+URL:http://cityofescalon.org/event/holiday-city-offices-closed-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7677@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:FFA & Escalon Chamber of Commerce
+DESCRIPTION:<p><span style='font-size: medium\;'>This event is hosted by th
+ e FFA & Escalon Chamber of Commerce. The City of Escalon does not guarante
+ e nor have any further information regarding this event. Contact event hos
+ t for more information.</span></p>
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151207
+SEQUENCE:0
+SUMMARY:Christmas in Grandpa’s Barn
+URL:http://cityofescalon.org/event/christmas-in-grandpas-barn/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7678@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:FFA & Escalon Chamber of Commerce
+DESCRIPTION:<p><span style='font-size: medium\;'>This event is hosted by th
+ e FFA & Escalon Chamber of Commerce. The City of Escalon does not guarante
+ e nor have any further information regarding this event. Contact event hos
+ t for more information.</span></p>
+DTSTART;VALUE=DATE:20151211
+DTEND;VALUE=DATE:20151214
+SEQUENCE:0
+SUMMARY:Christmas in Grandpa’s Barn
+URL:http://cityofescalon.org/event/christmas-in-grandpas-barn-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7679@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:Escalon Historical Society
+DESCRIPTION:<p><span style='font-size: medium\;'>This event is hosted by th
+ e Escalon Historical Society. The City of Escalon does not guarantee nor h
+ ave any further information regarding this event. Contact event host for m
+ ore information.</span></p>
+DTSTART;VALUE=DATE:20151214
+DTEND;VALUE=DATE:20151215
+SEQUENCE:0
+SUMMARY:Installation Dinner
+URL:http://cityofescalon.org/event/installation-dinner/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6285@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:City Office Holidays
+CONTACT:
+DESCRIPTION:<p style='text-align: center\;'><span style='font-size: medium\
+ ;'>Christmas</span></p>
+DTSTART;VALUE=DATE:20151224
+DTEND;VALUE=DATE:20151226
+SEQUENCE:0
+SUMMARY:Holiday: City Offices Closed
+URL:http://cityofescalon.org/event/closed-9-7-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7550@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:209-691-7400
+DESCRIPTION:<p><span style='font-size: small\;'>City Council meets the 1st 
+ and 3rd Monday of each month.  If the Monday falls on a holiday then the m
+ eetings will be held on the following day.  Meeting are held at City Hall 
+ located at 2060 McHenry Avenue.</span></p>\n<p><span style='font-size: sma
+ ll\;'><a href='http://cityofescalon.org/e_documents/' target='_blank'><spa
+ n style='color: #0000ff\;'>Council Agendas and Minutes</span></a></span></
+ p>
+DTSTART;TZID=America/Los_Angeles:20150922T020000
+DTEND;TZID=America/Los_Angeles:20150922T020000
+LOCATION:City Hall
+SEQUENCE:0
+SUMMARY:Council Meeting
+URL:http://cityofescalon.org/event/council-meeting-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7551@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:209-691-7400
+DESCRIPTION:<p><span style='font-size: small\;'>City Council meets the 1st 
+ and 3rd Monday of each month.  If the Monday falls on a holiday then the m
+ eetings will be held on the following day.  Meeting are held at City Hall 
+ located at 2060 McHenry Avenue.</span></p>\n<p><span style='font-size: sma
+ ll\;'><a href='http://cityofescalon.org/e_documents/' target='_blank'><spa
+ n style='color: #0000ff\;'>Council Agendas and Minutes</span></a></span></
+ p>
+DTSTART;TZID=America/Los_Angeles:20151006T020000
+DTEND;TZID=America/Los_Angeles:20151006T020000
+LOCATION:City Hall
+SEQUENCE:0
+SUMMARY:Council Meeting
+URL:http://cityofescalon.org/event/council-meeting-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6275@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:Diana Trejo\; 209-691-7422\; dtrejo@cityofescalon.org
+DESCRIPTION:<p><span style='font-family: georgia\,palatino\; font-size: med
+ ium\;'>E-Waste Event at the Escalon Community Center from 9am to 1pm! View
+  the flyer below for more details.</span></p>\n<p><span style='font-family
+ : georgia\,palatino\; font-size: medium\;'><a href='http://cityofescalon.o
+ rg/e-documents/PublicInfo/Electronic%20Drop%20Off%202015.pdf' onclick='__g
+ aTracker('send'\, 'event'\, 'download'\, 'http://cityofescalon.org/e-docum
+ ents/PublicInfo/Electronic%20Drop%20Off%202015.pdf')\;'>Electronic Waste R
+ ecycling 2015</a></span></p>
+DTSTART;TZID=America/Los_Angeles:20151011T160000
+DTEND;TZID=America/Los_Angeles:20151011T200000
+LOCATION:Escalon Community Center
+SEQUENCE:0
+SUMMARY:Electronic Waste Recycling
+URL:http://cityofescalon.org/event/electronic-waste-recycling-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7552@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:209-691-7400
+DESCRIPTION:<p><span style='font-size: small\;'>City Council meets the 1st 
+ and 3rd Monday of each month.  If the Monday falls on a holiday then the m
+ eetings will be held on the following day.  Meeting are held at City Hall 
+ located at 2060 McHenry Avenue.</span></p>\n<p><span style='font-size: sma
+ ll\;'><a href='http://cityofescalon.org/e_documents/' target='_blank'><spa
+ n style='color: #0000ff\;'>Council Agendas and Minutes</span></a></span></
+ p>
+DTSTART;TZID=America/Los_Angeles:20151020T020000
+DTEND;TZID=America/Los_Angeles:20151020T020000
+LOCATION:City Hall
+SEQUENCE:0
+SUMMARY:Council Meeting
+URL:http://cityofescalon.org/event/council-meeting-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7553@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:209-691-7400
+DESCRIPTION:<p><span style='font-size: small\;'>City Council meets the 1st 
+ and 3rd Monday of each month.  If the Monday falls on a holiday then the m
+ eetings will be held on the following day.  Meeting are held at City Hall 
+ located at 2060 McHenry Avenue.</span></p>\n<p><span style='font-size: sma
+ ll\;'><a href='http://cityofescalon.org/e_documents/' target='_blank'><spa
+ n style='color: #0000ff\;'>Council Agendas and Minutes</span></a></span></
+ p>
+DTSTART;TZID=America/Los_Angeles:20151103T030000
+DTEND;TZID=America/Los_Angeles:20151103T030000
+LOCATION:City Hall
+SEQUENCE:0
+SUMMARY:Council Meeting
+URL:http://cityofescalon.org/event/council-meeting-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7555@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:209-691-7400
+DESCRIPTION:<p><span style='font-size: small\;'>City Council meets the 1st 
+ and 3rd Monday of each month.  If the Monday falls on a holiday then the m
+ eetings will be held on the following day.  Meeting are held at City Hall 
+ located at 2060 McHenry Avenue.</span></p>\n<p><span style='font-size: sma
+ ll\;'><a href='http://cityofescalon.org/e_documents/' target='_blank'><spa
+ n style='color: #0000ff\;'>Council Agendas and Minutes</span></a></span></
+ p>
+DTSTART;TZID=America/Los_Angeles:20151117T030000
+DTEND;TZID=America/Los_Angeles:20151117T030000
+LOCATION:City Hall
+SEQUENCE:0
+SUMMARY:Council Meeting
+URL:http://cityofescalon.org/event/council-meeting-22/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7556@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:209-691-7400
+DESCRIPTION:<p><span style='font-size: small\;'>City Council meets the 1st 
+ and 3rd Monday of each month.  If the Monday falls on a holiday then the m
+ eetings will be held on the following day.  Meeting are held at City Hall 
+ located at 2060 McHenry Avenue.</span></p>\n<p><span style='font-size: sma
+ ll\;'><a href='http://cityofescalon.org/e_documents/' target='_blank'><spa
+ n style='color: #0000ff\;'>Council Agendas and Minutes</span></a></span></
+ p>
+DTSTART;TZID=America/Los_Angeles:20151208T030000
+DTEND;TZID=America/Los_Angeles:20151208T030000
+LOCATION:City Hall
+SEQUENCE:0
+SUMMARY:Council Meeting
+URL:http://cityofescalon.org/event/council-meeting-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8148@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Community Events
+CONTACT:
+DESCRIPTION:<p>Christmas on Main Street. More information will be posted in
+  the coming months. Check back with us.</p>\n<p> </p>\n<a href='http://cit
+ yofescalon.org/e-documents/specialevents/Xmas%20Parade%20Entry%20Form%2020
+ 15.pdf' onclick='__gaTracker('send'\, 'event'\, 'download'\, 'http://cityo
+ fescalon.org/e-documents/specialevents/Xmas%20Parade%20Entry%20Form%202015
+ .pdf')\;'>Parade Entry Form</a>
+DTSTART;TZID=America/Los_Angeles:20151212T232500
+DTEND;TZID=America/Los_Angeles:20151213T002500
+SEQUENCE:0
+SUMMARY:Christmas on Main Street
+URL:http://cityofescalon.org/event/christmas-on-main-street-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7557@cityofescalon.org
+DTSTAMP:20150920T002410Z
+CATEGORIES;LANGUAGE=en-US:Meetings
+CONTACT:209-691-7400
+DESCRIPTION:<p><span style='font-size: small\;'>City Council meets the 1st 
+ and 3rd Monday of each month.  If the Monday falls on a holiday then the m
+ eetings will be held on the following day.  Meeting are held at City Hall 
+ located at 2060 McHenry Avenue.</span></p>\n<p><span style='font-size: sma
+ ll\;'><a href='http://cityofescalon.org/e_documents/' target='_blank'><spa
+ n style='color: #0000ff\;'>Council Agendas and Minutes</span></a></span></
+ p>
+DTSTART;TZID=America/Los_Angeles:20151222T030000
+DTEND;TZID=America/Los_Angeles:20151222T030000
+LOCATION:City Hall
+SEQUENCE:0
+SUMMARY:Council Meeting
+URL:http://cityofescalon.org/event/council-meeting-24/
+END:VEVENT
+END:VCALENDAR

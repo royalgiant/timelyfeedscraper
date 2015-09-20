@@ -1,0 +1,681 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//81.169.145.68//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://arche-detern.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1038@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Gemeindemusikschule 'Zukunftsmusik'\, Bettina Bleeker
+DESCRIPTION:<p>im Seminarraum.</p>\n<p> </p>
+DTSTART;TZID=Europe/Berlin:20150921T144500
+DTEND;TZID=Europe/Berlin:20150921T153000
+GEO:+53.209563;+7.672071
+LOCATION:Arche-Detern @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Klavierunterricht
+URL:http://arche-detern.de/?ai1ec_event=klavierunterricht
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1091@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Helmut Fahle\; 04957-8341\; helmaress@aol.com
+DESCRIPTION:<p>ein <strong><strong>Offenes Treffen</strong></strong> für Al
+ le\,</p>\n<p>– die Flüchtlingen beim Spielen Deutsch für den Alltag vermit
+ teln\,</p>\n<p>– die mal ins Internet gehen und / oder Texte schreiben\,</
+ p>\n<p>– die Musik machen oder</p>\n<p>– die etwas Kreatives ausprobieren 
+ möchten.</p>\n<p>Ihr könnt ohne Anmeldung kommen.</p>\n<p>Bei besonderen W
+ ünschen (Kreativangebot oder Musikinstrument) bitte vorher anfragen!</p>
+DTSTART;TZID=Europe/Berlin:20150922T160000
+GEO:+53.209563;+7.672071
+LOCATION:Arche Detern @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Treffen zum Spielen und Deutschlernen für den Alltag
+URL:http://arche-detern.de/?ai1ec_event=treffen-zum-spielen-und-deutschlern
+ en
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-609@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Helmut Fahle\; 04957-8341  \; musikschule.juemme@gmail.com
+DESCRIPTION:<p style='text-align: center\;'><a href='http://arche-detern.de
+ /wp-content/uploads/2013/04/Instrumentensammlung-1-300x225.jpg'><img class
+ ='wp-image-610' title='Instrumentensammlung-1-300x225' src='http://arche-d
+ etern.de/wp-content/uploads/2013/04/Instrumentensammlung-1-300x225.jpg' al
+ t='' width='491' height='397' /></a></p>\n<p> </p>\n<p> </p>\n<p style='te
+ xt-align: left\;'>* für Alle\, die sich an Instrumenten ausprobieren wolle
+ n\,</p>\n<p style='text-align: left\;'>* für Anfänger / Fortgeschrittene\,
+  die Fragen zu Instrumenten oder Notenmaterial haben\,</p>\n<p style='text
+ -align: left\;'>* für Eltern\, die  ihre Kinder beim Experimentieren mit d
+ er Musik begleiten wollen\,</p>\n<p style='text-align: left\;'>* für älter
+ e Menschen\, die nie Zeit dafür hatten\, aber immer mal ein Instrument spi
+ elen wollten.</p>\n<p style='text-align: left\;'><strong> </strong></p>\n<
+ p style='text-align: center\;'><strong>Anfassen und Ausprobieren kostet ni
+ x!</strong></p>\n<p style='text-align: left\;'>Bitte vorher anrufen\, welc
+ he Instrumente gewünscht sind.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>
+ \n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=Europe/Berlin:20150922T170000
+GEO:+53.209563;+7.672071
+LOCATION:Arche  @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Musikwerkstatt für Jung und Alt
+URL:http://arche-detern.de/?ai1ec_event=musikwerkstatt-fur-jung-und-alt-mit
+ -helmut-fahle
+X-COST:kostenfrei
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-159@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Ruben Grüssing\; 0171/3609064\; ruben.gruessing@yahoo.de
+DESCRIPTION:<p>Der TREFF ist die Jugendarbeit der evangelisch-lutherischen 
+ Kirchengemeinde Detern und gehört dem christlichen Jugendverband „Entschie
+ den für Christus“ an. Jeden Dienstag treffen sich Jugendliche unter der Le
+ itung eines ehrenamtlichen Mitarbeiterteams in den TREFF-Räumen in der Arc
+ he in der Zeit von 19:00-21:30 Uhr\, um gemeinsam verschiedene Dinge zu un
+ ternehmen. Billard\, Kicker und weitere Geräte\, sowie Gesellschaftsspiele
+  und Lobpreis sind nur einige Möglichkeiten im TREFF. Herzliche Einladung 
+ für Jugendliche im Alter von 13-18 Jahren!</p>
+DTSTART;TZID=Europe/Berlin:20150922T170000
+DTEND;TZID=Europe/Berlin:20150922T193000
+LOCATION:Arche Detern\, hinteres Gebäudeteil @ Kirchstraße 21\, 26847 Deter
+ n\, Deutschland
+RRULE:FREQ=DAILY;INTERVAL=7
+SEQUENCE:0
+SUMMARY:TREFF Detern
+URL:http://arche-detern.de/?ai1ec_event=treff-detern
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-764@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Wiebke Baumfalk\; 04957/990230
+DESCRIPTION:<p>in der KulturWerkstatt</p>
+DTSTART;TZID=Europe/Berlin:20150922T180000
+DTEND;TZID=Europe/Berlin:20150922T200000
+LOCATION:Arche-Detern @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Nähtreff der Landfrauen
+URL:http://arche-detern.de/?ai1ec_event=naehtreff-der-landfrauen
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-998@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Beratungsstelle der Diakoniestation Filsum\; 04957-9282886
+DESCRIPTION:<p>Der Treffpunkt Arche hat an jedem Mittwoch von 15 bis 17 Uhr
+  im Arche-Café geöffnet.</p>\n<p>Für alle\, die<br />\n• einen zwanglosen 
+ Rahmen zum Treffen\, Austauschen und Unterhalten suchen.<br />\n• Beratung
+ en und Informationen zu Hilfsangeboten benötigen<br />\n• nicht so oft all
+ eine sein möchten.<br />\n• ein offenes Ohr suchen für schwierige Lebenssi
+ tuationen…</p>\n<p>Sie können das Café ohne vorherige Anmeldung und kosten
+ los besuchen.<br />\nWir freuen uns\, wenn Sie sich in unserem Café einbri
+ ngen und beteiligen. Mithilfe und Ideen bei den Veranstaltungen und Aktivi
+ täten sind herzlich willkommen.</p>\n<p>Die Mitarbeiter der Diakoniestatio
+ n Hesel-Jümme-Uplengen und viele ehrenamtliche Helfer freuen sich auf Ihre
+ n Besuch!</p>
+DTSTART;TZID=Europe/Berlin:20150923T150000
+DTEND;TZID=Europe/Berlin:20150923T170000
+GEO:+53.209563;+7.672071
+LOCATION:Arche-Detern @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Treffpunkt Arche
+URL:http://arche-detern.de/?ai1ec_event=treffpunkt-arche
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-767@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Wiebke Baumfalk\; 04957/990230
+DESCRIPTION:<p>in der KulturWerkstatt</p>
+DTSTART;TZID=Europe/Berlin:20150924T180000
+DTEND;TZID=Europe/Berlin:20150924T200000
+LOCATION:Arche-Detern @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Nähtreff II der Landfrauen
+URL:http://arche-detern.de/?ai1ec_event=naehtreff-ii-der-landfrauen
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-721@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>im Café</p>
+DTSTART;TZID=Europe/Berlin:20150925T180000
+DTEND;TZID=Europe/Berlin:20150925T210000
+LOCATION:Arche Detern\, Café @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=MONTHLY;BYDAY=4FR
+SEQUENCE:0
+SUMMARY:Arche-Musik
+URL:http://arche-detern.de/?ai1ec_event=arche-musik-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-331@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><span style='font-size: medium\;'><em><strong>Der Heimatlich
+ e Trachtenverein Detern e.V. stellt sich vor:</strong></em></span></p>\n<p
+ >Unser Verein besteht seit dem Jahr 1977 als „heimatlicher Verein“ mit ein
+ er<br />\nrepräsentativen Traditionskleidung des Fleckens Detern-Stickhaus
+ en.</p>\n<p>Wir haben seither zur aktiven Gestaltung des kulturellen Leben
+ s in der Samtgemeinde<br />\nbei vielen schönen Events unseren Beitrag gel
+ eistet oder diese selbst ins Leben gerufen.</p>\n<p>Diese ehrenamtliche „V
+ erpflichtung“  möchten wir auch weiterhin beibehalten und<br />\nbieten un
+ s in der „Arche“  zur gesellschaftlichen Unterstützung mit folgendem<br />
+ \nGestaltungsvorschlag an:</p>\n<p>Wir möchten gern einen unterhaltsamen S
+ pielabend für verschiedene Brett- u. Kartenspiele<br />\nins Leben rufen.<
+ /p>\n<p>Über eine rege Beteiligung von Jung und Alt würden wir uns sehr fr
+ euen!</p>\n<p>1. Termin: 4. Montag im September – 	24.09.2012<br />\nZukünf
+ tig auch der 4. Montag eines jeden Monats.<br />\nUhrzeit: 19.30 – 21.00 U
+ hr in der Arche.</p>\n<p> </p>
+DTSTART;TZID=Europe/Berlin:20150928T173000
+DTEND;TZID=Europe/Berlin:20150928T190000
+LOCATION:Arche\, Generationen Café @ Kirchstraße 21\, 26847 Detern\, Deutsc
+ hland
+RRULE:FREQ=MONTHLY;BYDAY=4MO
+SEQUENCE:0
+SUMMARY:Spielabend für Jung und Alt
+URL:http://arche-detern.de/?ai1ec_event=spielabend-fur-jung-und-alt
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1119@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>Jin Shin Jyutsu ist eine mehrere tausend Jahre alte Physio-P
+ hilosophie zur Harmonisierung der Lebensenergie und zur Aktivierung der Se
+ lbstheilungskräfte. In vielen Kulturen gibt es Vorstellungen von einer Leb
+ ensenergie.<br />\nDurch negative Denkweise\, Stress\, ungünstige Ess- und
+  Arbeitsgewohnheiten\, Verletzungen etc. wird dieser Lebensfluss blockiert
+ . Durch Jin Shin Jyutsu kommt diese Energie wieder ins Fließen. Bei der An
+ wendung berühren die Hände auf sanfte Weise verschiedene der insgesamt 26 
+ “ Sicherheitsenergieschlösser“ wodurch Blockaden gelöst und Energie harmon
+ isiert werden. Die Anwendung ist unkompliziert.</p>\n<p>Tina Haug</p>
+DTSTART;TZID=Europe/Berlin:20150929T193000
+DTEND;TZID=Europe/Berlin:20150929T210000
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+SEQUENCE:0
+SUMMARY:Jin Shin Jyutsu   Vortrag mit Übungen
+URL:http://arche-detern.de/?ai1ec_event=jin-shin-jyutsu-vortrag-mit-uebunge
+ n
+X-COST:6\,50 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-565@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Ralf Möhlmann\; 04957/9180-22\; ralf.moehlmann@juemme.de
+DESCRIPTION:<p>Töpfern für Jedermann</p>
+DTSTART;TZID=Europe/Berlin:20150930T200000
+DTEND;TZID=Europe/Berlin:20150930T220000
+GEO:+53.209563;+7.672071
+LOCATION:Arche Detern\, KulturWerkstatt @ Kirchstraße 21\, 26847 Detern\, D
+ eutschland
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Kulturwerkstatt – Töpfern
+URL:http://arche-detern.de/?ai1ec_event=kulturwerkstatt-topfern-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1052@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Gudrun Konjer-Hassing\; 04957/1866\; gukoha@web.de
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150930T200000
+DTEND;TZID=Europe/Berlin:20150930T213000
+LOCATION:Arche Detern\, Seminarraum @ Kirchstr. 21\, 26847 Detern
+RRULE:FREQ=MONTHLY;BYDAY=-1WE
+SEQUENCE:0
+SUMMARY:Laptopkurs der Landfrauen
+URL:http://arche-detern.de/?ai1ec_event=laptopkurs-der-landfrauen
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1122@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151001T191500
+DTEND;TZID=Europe/Berlin:20151001T220000
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;UNTIL=20160204T235959Z;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:VHS Kurs Reservierung
+URL:http://arche-detern.de/?ai1ec_event=vhs-kurs-reservierung
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-232@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Monika Taddigs\; 04957/421
+DESCRIPTION:<p>Selbsthilfegruppe für erwachsene Diabetiker\, Typ 2.</p>\n<p
+ >Angebote:</p>\n<ul>\n<li>Gespräche</li>\n<li>Beratung</li>\n<li>weiterfüh
+ rende Hilfen</li>\n<li>Kontaktadressen und Gruppentreffen</li>\n</ul>
+DTSTART;TZID=Europe/Berlin:20151005T173000
+DTEND;TZID=Europe/Berlin:20151005T193000
+LOCATION:Arche Detern\, Generationen-Café @ Kirchstraße 21\, 26847 Detern\,
+  Deutschland
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+SEQUENCE:0
+SUMMARY:Selbsthilfegruppe Diabetiker
+URL:http://arche-detern.de/?ai1ec_event=selbsthilfegruppe-diabetiker
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-820@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Ursel Behrends\; 04957/912009\; ursel.behrends@gmx.de
+DESCRIPTION:<p>im Arche-Café.</p>\n<p>Das Angebot richtet sich an alle inte
+ ressierte Frauen ab 30.</p>
+DTSTART;TZID=Europe/Berlin:20151007T180000
+EXDATE;TZID=Europe/Berlin:20140805T180000
+LOCATION:Arche Detern @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:Frauentreff
+URL:http://arche-detern.de/?ai1ec_event=frauenkreis-3
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-360@arche-detern.de
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>…mit Klaus-Dieter Bleeker.</p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=Europe/Berlin:20151009T180000
+DTEND;TZID=Europe/Berlin:20151009T200000
+LOCATION:Arche\, Generationen-Café @ Kirchstraße 21\, 26847 Detern\, Deutsc
+ hland
+RRULE:FREQ=MONTHLY;BYDAY=2FR
+SEQUENCE:0
+SUMMARY:Offenes Musizieren und Singen
+URL:http://arche-detern.de/?ai1ec_event=offenes-musizieren-und-singen
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-571@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Ruben Grüssing\; 04957/9279786\; info@ruben-gruessing.de\; http://w
+ ww.ruben-gruessing.de
+DESCRIPTION:<p>Die Fraktionssitzung der SPD-Fraktion im Gemeinderat Detern<
+ /p>
+DTSTART;TZID=Europe/Berlin:20151012T173000
+DTEND;TZID=Europe/Berlin:20151012T200000
+EXDATE;TZID=Europe/Berlin:20150309T173000
+GEO:+53.209563;+7.672071
+LOCATION:Arche Detern\, Arche Café @ Kirchstraße 21\, 26847 Detern\, Deutsc
+ hland
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:SPD-Fraktionssitzung
+URL:http://arche-detern.de/?ai1ec_event=spd-fraktionssitzung
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1121@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>Mit der Technik der Farbanalyse wird der individuelle Farbty
+ p exakt bestimmt. „Ihre Farben“ geben ihnen mehr Sicherheit in der Auswahl
+  der Kleidung\, eine überzeugende Ausstrahlung und mehr Selbstbewusstsein.
+  Sie gewinnen ein sicheres Gespür beim Einkaufen und für eine gute kombini
+ erbare Garderobe. Die individuelle Stilberatung hilft Ihnen\, Ihren persön
+ lichen Stil zu finden. Sie erfahren im Seminar ihre Wirkung auf Andere und
+  wie Sie sich selbst sehen.<br />\nEs werden Haare\, Brille\, ausschnitte 
+ der Oberteile\, Länge und Form von Oberteilen\, Jacken\, Hosen und Röcken 
+ bestimmt.</p>\n<p>A. Timmer</p>
+DTSTART;TZID=Europe/Berlin:20151012T180000
+DTEND;TZID=Europe/Berlin:20151012T214500
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=DAILY;UNTIL=20151013T235959Z;INTERVAL=2
+SEQUENCE:0
+SUMMARY:Farb- und Stilberatung für Frauen
+URL:http://arche-detern.de/?ai1ec_event=farb-und-stilberatung-fuer-frauen
+X-COST:25\,50 Euro + 10\,00 Euro Farbrichtungskarte
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-189@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Ralf Möhlmann\; 04957/9180-22\; ralf.moehlmann@juemme.de
+DESCRIPTION:<p>In der Kultur-Werkstatt der Arche findet regelmäßig am 2. Mi
+ ttwoch eines Monats der Gesprächskreis des Kulturkreises Jümme statt. Inte
+ ressierte sind herzlich eingeladen.</p>
+DTSTART;TZID=Europe/Berlin:20151014T180000
+DTEND;TZID=Europe/Berlin:20151014T200000
+LOCATION:Arche Detern\, Kulturwerkstatt @ Kirchstraße 21\, 26847 Detern\, D
+ eutschland
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:Kulturkreis Jümme
+URL:http://arche-detern.de/?ai1ec_event=kulturkreis-jumme
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-928@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Claudia Lutterkort\; 04957 / 927095\; fibromyalgie-selbsthilfe-dete
+ rn@ewe.net
+DESCRIPTION:<p>Arche Cafe‘</p>
+DTSTART;TZID=Europe/Berlin:20151015T193000
+SEQUENCE:0
+SUMMARY:Fibromyalgie Selbsthilfegruppe
+URL:http://arche-detern.de/?ai1ec_event=fibromyalgie-selbsthilfegruppe-29
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-835@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Klaus-Dieter Bleeker\; 04957/912273\; klaus.bleeker@ewetel.net\; ht
+ tp://www.pro-juemme.de
+DESCRIPTION:<p>Die Wählergemeinschaft „Bürger pro Jümme“ lädt alle Interess
+ ierte jeden 3. Mittwoch im Monat zum offenen Treff um 20.00 Uhr im Café he
+ rzlich ein.</p>
+DTSTART;TZID=Europe/Berlin:20151021T180000
+LOCATION:Arche Detern @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+SEQUENCE:0
+SUMMARY:Offener Treff
+URL:http://arche-detern.de/?ai1ec_event=offener-treff
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1136@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Wiebke Baumfalk\; 04957990230\; wiebke.g@web.de
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151031T100000
+DTEND;TZID=Europe/Berlin:20151031T170000
+GEO:+53.209563;+7.672071
+LOCATION:Kulturwerkstatt @ Kirchstraße 21\, 26847 Detern\, Deutschland
+SEQUENCE:0
+SUMMARY:Stoffdruck mit den Landfrauen Leda-Jümme
+URL:http://arche-detern.de/?ai1ec_event=stoffdruck-mit-den-landfrauen-leda-
+ juemme
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1114@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>Malen nach Lust und Laune<br />\nIn diesem Kurs biete ich ei
+ ne Einführung in das Malen mit Pastellkreide\, Acryl- und Ölfarbe an. Im A
+ usprobieren verschiedener Techniken kann man hier seine eigene Ausdrucksfo
+ rm entdecken. Vorkenntnisse sind nicht erforderlich.</p>\n<p>Gaby Mrongrow
+ ius\, freischaffende Künstlerin</p>\n<p>6 Vormittage</p>
+DTSTART;TZID=Europe/Berlin:20151104T100000
+DTEND;TZID=Europe/Berlin:20151104T123000
+GEO:+53.209563;+7.672071
+LOCATION:Kulturwerkstatt @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;UNTIL=20151209T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Malen nach Lust und Laune   Freie Malerei
+URL:http://arche-detern.de/?ai1ec_event=malen-nach-lust-und-laune-freie-mal
+ erei
+X-COST:51\,00 Euro + 3\,00 Euro pro Termin Materialkosten
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1116@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>Salben und Kosmetika selbstgemacht.<br />\nZunehmende Hautpr
+ obleme in der heutigen Zeit entstehen nicht nur durch Umwelteinflüsse oder
+  Nahrungsunverträglichkeiten\, sondern auch durch Inhaltsstoffe der konven
+ tionellen Kosmetik. In diesem Workshop wird Naturkosmetik( Honig-Shampoo\,
+  Badeöl\, Deo.Roll-on etc.) selbst hergestellt und u.a. auch über die Inha
+ ltsstoffe gesprochen.</p>\n<p>Ilse Gerken<br />\napitherapheutische Refere
+ ntin\, Imkerin</p>
+DTSTART;TZID=Europe/Berlin:20151105T193000
+DTEND;TZID=Europe/Berlin:20151105T220000
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+SEQUENCE:0
+SUMMARY:Salben und Kosmetika selbst gemacht      Workshop
+URL:http://arche-detern.de/?ai1ec_event=salben-und-kosmetika-selbst-gemacht
+ -workshop
+X-COST:9\,00 Euro + 10\,00 Materialkosten
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1115@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>Im Computerclub ist alles drin. Sie können in diesem Kurs be
+ reits erlerntes wiederholen. eBay\, was muss ich wissen? Surfen im Interne
+ t\, Risiken (Viren\, Geldverkehr\, Sicherheit) oder andere Themen\, die Si
+ e in diesem Kurs gerne vertiefen möchten.<br />\nDieser Kurs richtet sich 
+ soweit möglich\, ganz nach dem\, was die Teilnehmer/innen wissen oder wied
+ erholen möchten.<br />\nGrundkenntnisse am PC (Maus\, Tastatur\, Bildschir
+ m) z.B. durch den Besuch eines Computer-Kurses aus dem Vorsemester sollten
+  vorhanden sein.</p>\n<p>Rainer Marbeck</p>\n<p>4 Vormittage<br />\nBitte 
+ eigenes Laptop mitbringen.</p>
+DTSTART;TZID=Europe/Berlin:20151106T103000
+DTEND;TZID=Europe/Berlin:20151106T130000
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;UNTIL=20151127T235959Z;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Computerclub für Senior/en für Einsteiger/innen und Wiederholer/inn
+ en
+URL:http://arche-detern.de/?ai1ec_event=computerclub-fuer-senioren-fuer-ein
+ steigerinnen-und-wiederholerinnen
+X-COST:36\,00 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1134@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Standesamt Filsum \; 04957/918015\; hiltrud.roos@juemme.de
+DESCRIPTION:<p>Eheschließung im Arche Cafè</p>
+DTSTART;TZID=Europe/Berlin:20151107T094500
+DTEND;TZID=Europe/Berlin:20151107T120000
+GEO:+53.209563;+7.672071
+LOCATION:Arche Detern  @ Kirchstraße 21\, 26847 Detern\, Deutschland
+SEQUENCE:0
+SUMMARY:Eheschließung
+URL:http://arche-detern.de/?ai1ec_event=eheschliessung-19
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1117@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>In der Ruhe liegt die Kraft<br />\nDrei Abende\, um den Körp
+ er mit sanften Bewegungen zu mobilisieren\, die Muskeln zu spüren und zu s
+ tärken\, aber auch um zur Ruhe zu kommen. Freuen Sie sich auf ein etwas an
+ deres Fitnessprogramm.</p>\n<p>Ruth Grüssing</p>\n<p>3 Abende</p>
+DTSTART;TZID=Europe/Berlin:20151112T200000
+DTEND;TZID=Europe/Berlin:20151112T213000
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;UNTIL=20151126T235959Z;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Fitness & Wellness  – In der Ruhe liegt die Kraft
+URL:http://arche-detern.de/?ai1ec_event=fitness-wellness-in-der-ruhe-liegt-
+ die-kraft
+X-COST:15\,30 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1118@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:VHS Jümme\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>Ein Smartphone ist mehr als ein Handy – es ist ein internetf
+ ähiger Kleincomputer\, der Fotos macht\, Sprachnotizen aufnimmt oder was a
+ uch immer sie von einem mobilen Endgerät erwarten. Lernen Sie hier\, ihr G
+ erät zu konfigurieren\, über WLAN im Internet zu surfen\, Ihr Google-Konto
+  und nützliche Apps nach ihren Bedürfnissen zu nutzen.</p>\n<p>Ralf Freric
+ hs\, Fachinformatiker</p>\n<p>3 Abende</p>
+DTSTART;TZID=Europe/Berlin:20151117T193000
+DTEND;TZID=Europe/Berlin:20151117T214500
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+RRULE:FREQ=WEEKLY;UNTIL=20151201T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Android-Smartphone
+URL:http://arche-detern.de/?ai1ec_event=android-smartphone-2
+X-COST:27\,00 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-930@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Claudia Lutterkort\; 04957 / 927095\; fibromyalgie-selbsthilfe-dete
+ rn@ewe.net
+DESCRIPTION:<p>Arche Cafe‘</p>
+DTSTART;TZID=Europe/Berlin:20151119T193000
+SEQUENCE:0
+SUMMARY:Fibromyalgie Selbsthilfegruppe
+URL:http://arche-detern.de/?ai1ec_event=fibromyalgie-selbsthilfegruppe-30
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1113@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>Die Teilnehmer/innen gewinnen Einblicke in die Kunst\, Texte
+  aus offenbar banalen Situationen mit Leben zu füllen und spannend zu gest
+ alten. Sie werden zu diesem Thema selbst einen Text konzipieren und auch b
+ eginnen zu schreiben.<br />\nMit dem erworbenen Rüstzeug kann der Text zu 
+ Hause vollendet werden. Während des Kurses werden auch viele theoretische 
+ Kenntnisse vermittelt.</p>\n<p>Regine Kölpin<br />\nBitte einen Füller und
+  einen Block mitbringen.</p>
+DTSTART;TZID=Europe/Berlin:20151204T130000
+DTEND;TZID=Europe/Berlin:20151204T200000
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+SEQUENCE:0
+SUMMARY:Wie erfülle ich einfache Alltagssituationen mit literarischem Leben
+ ? Schreibseminar I.
+URL:http://arche-detern.de/?ai1ec_event=wie-erfuelle-ich-einfache-alltagssi
+ tuationen-mit-literarischem-leben-schreibseminar-i
+X-COST:33\,00 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-931@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Claudia Lutterkort\; 04957 / 927095\; fibromyalgie-selbsthilfe-dete
+ rn@ewe.net
+DESCRIPTION:<p>Arche Cafe‘</p>\n<p>Weihnachtsfeier</p>
+DTSTART;TZID=Europe/Berlin:20151217T193000
+SEQUENCE:0
+SUMMARY:Fibromyalgie Selbsthilfegruppe
+URL:http://arche-detern.de/?ai1ec_event=fibromyalgie-selbsthilfegruppe-31
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-975@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Henning Behrends und Wilhelm Rabenberg\; 04957/912009 und 04957/170
+ 8
+DESCRIPTION:<div class='ai1ec-event-description'>\n<p>im Arche-Café.</p>\n<
+ p>Die Kirchengemeinde Detern lädt zu einem gemeinsamen Heiligabend ein.</p
+ >\n</div>
+DTSTART;TZID=Europe/Berlin:20151224T190000
+DTEND;TZID=Europe/Berlin:20151224T230000
+SEQUENCE:0
+SUMMARY:Heiligabend in Gemeinschaft
+URL:http://arche-detern.de/?ai1ec_event=heiligabend-in-gemeinschaft-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1112@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>Wie können wir uns von Märchen\, Fabeln oder anderer Literat
+ ur zu eigenen Texten inspirieren lassen?<br />\nDie Teilnehmer/innen werde
+ n zu diesem Thema selbst einen Text konzipieren und auch beginnen zu schre
+ iben. Mit dem erworbenen Rüstzeug kann der Text zu Hause vollendet werden.
+  Während des Kurses werden auch viele theoretische Kenntnisse vermittelt.<
+ /p>\n<p>Regine Kölpin<br />\nBitte Füller und einen Block mitbringen.</p>
+DTSTART;TZID=Europe/Berlin:20160205T130000
+DTEND;TZID=Europe/Berlin:20160205T200000
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+SEQUENCE:0
+SUMMARY:Vom Märchen zum literarischen Text    Schreibseminar II.
+URL:http://arche-detern.de/?ai1ec_event=vom-maerchen-zum-literarischen-text
+ -schreibseminar-ii
+X-COST:33\,00 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1120@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:VHS Jümme\, Angelika Becker\; 04957/430\; juemme@vhs-leer.de
+DESCRIPTION:<p>Erfolgreich abnehmen……………..und wie geht es danach weiter?<br
+  />\nSie denken über eine Diät oder Ernährungsumstellung nach bzw. haben s
+ ich schon zu einer Gewichtsreduktion entschlossen\, mit dem Ziel\, sich le
+ ichter\, besser\, fitter und gesünder zu fühlen. Welche Diät ist die Richt
+ ige? Ist Bewegung/Sport nötig oder kann ich auch so abnehmen?“ Unzählige D
+ iäten und Programme existieren auf dem Schlankheitsmarkt und machen die Wa
+ hl nicht leicht. Was ist\, wenn Sie erfolgreich an Gewicht verloren haben 
+ und ihr Wunschgewicht erreicht haben? Das Schwerste an einer Gewichtsreduk
+ tion ist nicht das Abnehmen selbst\, sondern die Zeit danach.</p>\n<p>Aenn
+ e Rabe\, Ernährungsberaterin</p>
+DTSTART;TZID=Europe/Berlin:20160211T193000
+DTEND;TZID=Europe/Berlin:20160211T210000
+GEO:+53.209563;+7.672071
+LOCATION:Seminarraum oben @ Kirchstraße 21\, 26847 Detern\, Deutschland
+SEQUENCE:0
+SUMMARY:Erfolgreich abnehmen  ……………… und wie geht es dann weiter?
+URL:http://arche-detern.de/?ai1ec_event=erfolgreich-abnehmen-und-wie-geht-e
+ s-dann-weiter
+X-COST:15\,  Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1123@arche-detern.de
+DTSTAMP:20150920T002200Z
+CATEGORIES:
+CONTACT:Standesamt Filsum\; 04957/918015\; hiltrud.roos@juemme.de
+DESCRIPTION:<p>Eheschließung im Arche Cafè</p>
+DTSTART;TZID=Europe/Berlin:20160528T091500
+DTEND;TZID=Europe/Berlin:20160528T113000
+GEO:+53.209563;+7.672071
+LOCATION:Arche Detern  @ Kirchstraße 21\, 26847 Detern\, Deutschland
+SEQUENCE:0
+SUMMARY:Eheschließung
+URL:http://arche-detern.de/?ai1ec_event=eheschliessung-18
+END:VEVENT
+END:VCALENDAR

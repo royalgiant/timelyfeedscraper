@@ -1,0 +1,795 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.141.201//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://nfdchurch.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:eh5g4s50sh93eiqd9kcinckeg8@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Hosted by the NFDC Prayer Team<br />\nPrayer Team Leader Min
+ ister Annie Booth</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:NFDC Prayer Conference
+URL:https://nfdchurch.com/event/nfdc-prayer-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbaaup7pas5tc24f8kkf3tct0s@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+SEQUENCE:0
+SUMMARY:Guest Speaker Apostle Gloria Gaines
+URL:https://nfdchurch.com/event/guest-speaker-apostle-gloria-gaines/
+END:VEVENT
+BEGIN:VEVENT
+UID:836purpkb6jb7ivf6907oaq628@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Pastor Hodge will be speaking at Miracle Temple in Baltimore
+ \, Maryland (Apostle Gloria Gaines) at 12PM<br />\n“Apostle’s Anniversary 
+ Service” </p>
+DTSTART;TZID=America/New_York:20150919T120000
+DTEND;TZID=America/New_York:20150919T140000
+LOCATION:Baltimore\, MD\, USA
+SEQUENCE:0
+SUMMARY:Pastor Hodge Speaking Engagement
+URL:https://nfdchurch.com/event/pastor-hodge-speaking-engagement/
+END:VEVENT
+BEGIN:VEVENT
+UID:5dn83q43ic76g1dufsag2q1ot4@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sunday Morning Prayer<br />\nPrayer Team </p>
+DTSTART;TZID=America/New_York:20150920T083000
+DTEND;TZID=America/New_York:20150920T090000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Sunday Morning Prayer
+URL:https://nfdchurch.com/event/sunday-morning-prayer/
+END:VEVENT
+BEGIN:VEVENT
+UID:lu6spfj61k10ofs1nt8v07hq08@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sunday Morning Worship Service<br />\nPraise and Worship & C
+ hurch 360 Youth Ministry (Children’s Church) Preschool to High School </p>
+DTSTART;TZID=America/New_York:20150920T090000
+DTEND;TZID=America/New_York:20150920T113000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Sunday Morning Worship Service
+URL:https://nfdchurch.com/event/sunday-morning-worship-service-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:58rp800la9vi0ne42gbjm5dk10@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Music Department: Praise and Worship Band Rehearsal</p>
+DTSTART;TZID=America/New_York:20150921T183000
+DTEND;TZID=America/New_York:20150921T200000
+EXDATE;TZID=America/New_York:20150608T183000
+EXDATE;TZID=America/New_York:20150615T183000
+EXDATE;TZID=America/New_York:20150928T183000
+EXDATE;TZID=America/New_York:20151005T183000
+EXDATE;TZID=America/New_York:20151012T183000
+EXDATE;TZID=America/New_York:20151019T183000
+EXDATE;TZID=America/New_York:20151026T183000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SEQUENCE:0
+SUMMARY:Praise & Worship Band Rehearsal
+URL:https://nfdchurch.com/event/praise-worship-band-rehearsal/
+END:VEVENT
+BEGIN:VEVENT
+UID:rn3cmqttrvidu07vra4s3gg644@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>NFDC Step Team Practice<br />\nPractice will be held in the 
+ Back Room</p>
+DTSTART;TZID=America/New_York:20150921T183000
+DTEND;TZID=America/New_York:20150921T200000
+EXDATE;TZID=America/New_York:20150608T183000
+EXDATE;TZID=America/New_York:20150615T183000
+EXDATE;TZID=America/New_York:20150928T183000
+EXDATE;TZID=America/New_York:20151005T183000
+EXDATE;TZID=America/New_York:20151012T183000
+EXDATE;TZID=America/New_York:20151019T183000
+EXDATE;TZID=America/New_York:20151026T183000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SEQUENCE:0
+SUMMARY:Step Team Practice
+URL:https://nfdchurch.com/event/step-team-practice-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:i2a2i1760qj6g43ealm24v62j0@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Praise Dance and Mime Ministry: “I Am Worship” Mime Rehearsa
+ l. Mime Leaders: Min. Rodriquez Spann and Min. Victor Scoggins </p>
+DTSTART;TZID=America/New_York:20150922T180000
+DTEND;TZID=America/New_York:20150922T191500
+EXDATE;TZID=America/New_York:20150929T180000
+EXDATE;TZID=America/New_York:20151006T180000
+EXDATE;TZID=America/New_York:20151013T180000
+EXDATE;TZID=America/New_York:20151020T180000
+EXDATE;TZID=America/New_York:20151027T180000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SEQUENCE:0
+SUMMARY:Mime Dance Rehearsal
+URL:https://nfdchurch.com/event/mime-dance-rehearsal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ilratl4ksjldq9k9d5ma9uf4h0@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Praise Dance and Mime Ministry: Director Min. Evangeline “Va
+ n” Moten</p>
+DTSTART;TZID=America/New_York:20150922T183000
+DTEND;TZID=America/New_York:20150922T200000
+EXDATE;TZID=America/New_York:20150428T183000
+EXDATE;TZID=America/New_York:20150609T183000
+EXDATE;TZID=America/New_York:20150616T183000
+EXDATE;TZID=America/New_York:20150929T183000
+EXDATE;TZID=America/New_York:20151006T183000
+EXDATE;TZID=America/New_York:20151013T183000
+EXDATE;TZID=America/New_York:20151020T183000
+EXDATE;TZID=America/New_York:20151027T183000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SEQUENCE:0
+SUMMARY:Praise Dance Rehearsal
+URL:https://nfdchurch.com/event/praise-dance-rehearsal-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:71762fm39q9m421qd9emkr5l1o@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>NFDC Youth Ministry Department Meeting<br />\nheld at church
+ <br />\n6:30PM-730PM</p>
+DTSTART;TZID=America/New_York:20150922T183000
+DTEND;TZID=America/New_York:20150922T193000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Youth Ministry Department Meeting
+URL:https://nfdchurch.com/event/youth-ministry-department-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:1cjl8ushm6bmkn04ubo1uv9feo@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Biblical Teaching </p>
+DTSTART;TZID=America/New_York:20150923T193000
+DTEND;TZID=America/New_York:20150923T203000
+EXDATE;TZID=America/New_York:20150211T193000
+EXDATE;TZID=America/New_York:20150225T193000
+EXDATE;TZID=America/New_York:20150610T193000
+EXDATE;TZID=America/New_York:20150617T193000
+EXDATE;TZID=America/New_York:20150930T193000
+EXDATE;TZID=America/New_York:20151007T193000
+EXDATE;TZID=America/New_York:20151014T193000
+EXDATE;TZID=America/New_York:20151021T193000
+EXDATE;TZID=America/New_York:20151028T193000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SEQUENCE:0
+SUMMARY:Bible Study
+URL:https://nfdchurch.com/event/bible-study/
+END:VEVENT
+BEGIN:VEVENT
+UID:u7p9ei2mgdt0ltd6fvj44dkoao@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T193000
+DTEND;TZID=America/New_York:20150923T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 Young Adults Team
+URL:https://nfdchurch.com/event/church360-young-adults-team/
+END:VEVENT
+BEGIN:VEVENT
+UID:hbfb2utlmgf2hk16ojooltpra8@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T183000
+DTEND;TZID=America/New_York:20150924T193000
+EXDATE;TZID=America/New_York:20150618T183000
+EXDATE;TZID=America/New_York:20151001T183000
+EXDATE;TZID=America/New_York:20151008T183000
+EXDATE;TZID=America/New_York:20151015T183000
+EXDATE;TZID=America/New_York:20151022T183000
+EXDATE;TZID=America/New_York:20151029T183000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SEQUENCE:0
+SUMMARY:Service “Walkthrough” Meeting
+URL:https://nfdchurch.com/event/service-walkthrough-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:eld19tru2pphrs4g9gap6ihbkc@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Music Department: Youth Choir Rehearsal</p>
+DTSTART;TZID=America/New_York:20150924T183000
+DTEND;TZID=America/New_York:20150924T193000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Youth Choir Rehearsal
+URL:https://nfdchurch.com/event/youth-choir-rehearsal-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2015920090000-nm62ave72ba58e5s5hr0b7oh10@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sunday Morning Worship Service<br />\nChurch 360 Youth Minis
+ try\, Youth Centered Service with featured Youth Speakers and Presentation
+ s  </p>
+DTSTART;TZID=America/New_York:20150927T090000
+DTEND;TZID=America/New_York:20150927T113000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:YOUTH SUNDAY Morning Worship Service
+URL:https://nfdchurch.com/event/youth-sunday-morning-worship-service-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ku665jebsaad1dge8bd3n1ga44@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>First Lady Iris Hodge will be preaching at Holy Disciples Mi
+ nistry (Apostle James and Pastor Herlene Alston). She will be the featured
+  speaker at this Women’s Empowerment Service\, “Living for the King”. Addr
+ ess: 459 Effingham Street Portsmouth\, VA  23704. Service starts at 7:30PM
+ . </p>
+DTSTART;TZID=America/New_York:20151002T193000
+DTEND;TZID=America/New_York:20151002T210000
+LOCATION:459 Effingham St\, Portsmouth\, VA 23704\, USA
+SEQUENCE:0
+SUMMARY:First Lady Iris Hodge Speaking Engagement
+URL:https://nfdchurch.com/event/first-lady-iris-hodge-speaking-engagement/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpjg8nselglcdtbq6vi95k4b5c@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Holy Communion and Sunday Morning Worship Service </p>
+DTSTART;TZID=America/New_York:20151004T090000
+DTEND;TZID=America/New_York:20151004T113000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Holy Communion Sunday Worship Service
+URL:https://nfdchurch.com/event/holy-communion-sunday-worship-service-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:n7qibfa9k99k6dc5kjc880a8ao@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Youth Ministry Evening Service. Open to ALL Youth! Youth cen
+ tered evening service with special presentations and activities to promote
+  the Love of Christ in our Youth!</p>
+DTSTART;TZID=America/New_York:20151004T160000
+DTEND;TZID=America/New_York:20151004T180000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1SU
+SEQUENCE:0
+SUMMARY:Church 360 Youth Evening Service
+URL:https://nfdchurch.com/event/church-360-youth-evening-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ettnn54g9eb4mvd3n0akkh4fdc@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sunday Morning Worship Service<br />\nPraise and Worship & C
+ hurch 360 Youth Ministry (Children’s Church) Preschool to High School </p>
+DTSTART;TZID=America/New_York:20151011T090000
+DTEND;TZID=America/New_York:20151011T113000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:Sunday Morning Worship Service
+URL:https://nfdchurch.com/event/sunday-morning-worship-service-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:vttrppvbg1ar967o68ru5v2j78@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ministerial Staff Meeting (3rd Sat. of each month)</p>
+DTSTART;TZID=America/New_York:20151017T093000
+DTEND;TZID=America/New_York:20151017T110000
+EXDATE;TZID=America/New_York:20150221T093000
+EXDATE;TZID=America/New_York:20150321T093000
+EXDATE;TZID=America/New_York:20150815T093000
+EXDATE;TZID=America/New_York:20150919T093000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3SA
+SEQUENCE:0
+SUMMARY:Minister’s Meeting
+URL:https://nfdchurch.com/event/ministers-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151018090000-nm62ave72ba58e5s5hr0b7oh10@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sunday Morning Worship Service<br />\nChurch 360 Youth Minis
+ try\, Youth Centered Service with featured Youth Speakers and Presentation
+ s  </p>
+DTSTART;TZID=America/New_York:20151025T090000
+DTEND;TZID=America/New_York:20151025T113000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:YOUTH SUNDAY Morning Worship Service
+URL:https://nfdchurch.com/event/youth-sunday-morning-worship-service-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:uu98rrcvdsraf0hpbfmigvaca4@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Holy Communion and Sunday Morning Worship Service </p>
+DTSTART;TZID=America/New_York:20151101T090000
+DTEND;TZID=America/New_York:20151101T113000
+EXDATE;TZID=America/New_York:20151206T090000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1SU
+SEQUENCE:0
+SUMMARY:Holy Communion Sunday Worship Service
+URL:https://nfdchurch.com/event/holy-communion-sunday-worship-service-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:6nhkbh86hip9a6327pu6u7fp88@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151104T193000
+DTEND;TZID=America/New_York:20151104T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 Middle School (Girls) Team
+URL:https://nfdchurch.com/event/church360-middle-school-girls-team-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:nklm206tpgko16l8pc5ha90cak@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Men’s Ministry Group Bible Study/ Meeting. Open to ALL</p>
+DTSTART;TZID=America/New_York:20151105T193000
+DTEND;TZID=America/New_York:20151105T210000
+EXDATE;TZID=America/New_York:20151001T193000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+SEQUENCE:0
+SUMMARY:Men’s Bible Study
+URL:https://nfdchurch.com/event/mens-bible-study/
+END:VEVENT
+BEGIN:VEVENT
+UID:4g7adomle3voss8jviuiqh6r7g@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151111T193000
+DTEND;TZID=America/New_York:20151111T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 3rd-5th Grade Team
+URL:https://nfdchurch.com/event/church360-3rd-5th-grade-team-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:eju1t6rqd6kpc9c6vv2aupqn58@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Music Department: Men of Fellowship Chorus</p>
+DTSTART;TZID=America/New_York:20151112T183000
+DTEND;TZID=America/New_York:20151112T193000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Men’s Chorus Rehearsal
+URL:https://nfdchurch.com/event/mens-chorus-rehearsal-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2015116190000-geflqf312si661rpua86o9lk0k@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Women’s Ministry Meeting </p>
+DTSTART;TZID=America/New_York:20151113T190000
+DTEND;TZID=America/New_York:20151113T213000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Women’s Meeting
+URL:https://nfdchurch.com/event/womens-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cm6pe4b7cu0fh031k8p2or07s4@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151118T193000
+DTEND;TZID=America/New_York:20151118T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 K-2nd Grade Team
+URL:https://nfdchurch.com/event/church360-k-2nd-grade-team-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:0r3hbe1349gs8bgpvvfdp4ert4@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Music Department: Church 360 Youth Choir Rehearsal</p>
+DTSTART;TZID=America/New_York:20151119T183000
+DTEND;TZID=America/New_York:20151119T193000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Youth Choir Rehearsal
+URL:https://nfdchurch.com/event/youth-choir-rehearsal/
+END:VEVENT
+BEGIN:VEVENT
+UID:2tvt6qlfinbcp9jfmtob83ake4@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Music Department: Men of Fellowship Chorus Rehearsal</p>
+DTSTART;TZID=America/New_York:20151119T193000
+DTEND;TZID=America/New_York:20151119T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Men’s Chorus Rehearsal
+URL:https://nfdchurch.com/event/mens-chorus-rehearsal/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151115090000-nm62ave72ba58e5s5hr0b7oh10@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sunday Morning Worship Service<br />\nChurch 360 Youth Minis
+ try\, Youth Centered Service with featured Youth Speakers and Presentation
+ s  </p>
+DTSTART;TZID=America/New_York:20151122T090000
+DTEND;TZID=America/New_York:20151122T113000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:YOUTH SUNDAY Morning Worship Service
+URL:https://nfdchurch.com/event/youth-sunday-morning-worship-service-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:mvdq5ni0gm9i88ri0us7nqlvkg@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151125T193000
+DTEND;TZID=America/New_York:20151125T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 Preschool Team
+URL:https://nfdchurch.com/event/church360-preschool-team/
+END:VEVENT
+BEGIN:VEVENT
+UID:mu1go86qb1efppbais5v66kh28@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sunday Morning Worship Service<br />\nPraise and Worship & C
+ hurch 360 Youth Ministry (Children’s Church) Preschool to High School </p>
+DTSTART;TZID=America/New_York:20151129T090000
+DTEND;TZID=America/New_York:20151129T113000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Sunday Morning Worship Service
+URL:https://nfdchurch.com/event/sunday-morning-worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:gcmt8bvgg14t6gfrmjhnk9qkfo@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151202T193000
+DTEND;TZID=America/New_York:20151202T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 Middle School (Boys) Team
+URL:https://nfdchurch.com/event/church360-middle-school-boys-team-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:9quvsieca6u3cu34v0uppqne04@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Holy Communion and Sunday Morning Worship Service </p>
+DTSTART;TZID=America/New_York:20151206T090000
+DTEND;TZID=America/New_York:20151206T113000
+SEQUENCE:0
+SUMMARY:Holy Communion Sunday Worship Service
+URL:https://nfdchurch.com/event/holy-communion-sunday-worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:la7o6jofmafn2hjhbvn8p24fpg@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151209T193000
+DTEND;TZID=America/New_York:20151209T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 Middle School (Girls) Team
+URL:https://nfdchurch.com/event/church360-middle-school-girls-team-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:6illuoq7ih3sdkoh6j03jlkvb8@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Music Department: Women of Fellowship Chorus Rehearsal</p>
+DTSTART;TZID=America/New_York:20151210T183000
+DTEND;TZID=America/New_York:20151210T193000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Women’s Chorus Rehearsal
+URL:https://nfdchurch.com/event/womens-chorus-rehearsal-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2015124190000-geflqf312si661rpua86o9lk0k@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Women’s Ministry Meeting </p>
+DTSTART;TZID=America/New_York:20151211T190000
+DTEND;TZID=America/New_York:20151211T213000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Women’s Meeting
+URL:https://nfdchurch.com/event/womens-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:1cu2att6pvm0583lt9oubo0968@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151216T193000
+DTEND;TZID=America/New_York:20151216T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 3rd-5th Grade Team
+URL:https://nfdchurch.com/event/church360-3rd-5th-grade-team-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hdmboiktj277032c4ooqskqcro@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Music Department: Women of Fellowship</p>
+DTSTART;TZID=America/New_York:20151217T183000
+DTEND;TZID=America/New_York:20151217T193000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Women’s Chorus Rehearsal
+URL:https://nfdchurch.com/event/womens-chorus-rehearsal/
+END:VEVENT
+BEGIN:VEVENT
+UID:3g1psnfmqv3amoc55ua4q61d1k@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Annual Ministers Christmas Holiday Dinner<br />\nLocation TB
+ A</p>
+DTSTART;TZID=America/New_York:20151218T183000
+DTEND;TZID=America/New_York:20151218T183000
+SEQUENCE:0
+SUMMARY:Ministers Christmas Holiday Dinner
+URL:https://nfdchurch.com/event/ministers-christmas-holiday-dinner/
+END:VEVENT
+BEGIN:VEVENT
+UID:6vrrlv2hntjl1uokg8o7tgegdk@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>NFDC Annual Christmas Dinner<br />\nLocation TBA</p>
+DTSTART;TZID=America/New_York:20151220T150000
+DTEND;TZID=America/New_York:20151220T150000
+SEQUENCE:0
+SUMMARY:Christmas Holiday Dinner
+URL:https://nfdchurch.com/event/christmas-holiday-dinner/
+END:VEVENT
+BEGIN:VEVENT
+UID:7h474hshq3udh542eehpqbusbs@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151223T193000
+DTEND;TZID=America/New_York:20151223T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 K-2nd Grade Team
+URL:https://nfdchurch.com/event/church360-k-2nd-grade-team/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151213090000-nm62ave72ba58e5s5hr0b7oh10@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sunday Morning Worship Service<br />\nChurch 360 Youth Minis
+ try\, Youth Centered Service with featured Youth Speakers and Presentation
+ s  </p>
+DTSTART;TZID=America/New_York:20151227T090000
+DTEND;TZID=America/New_York:20151227T113000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:YOUTH SUNDAY Morning Worship Service
+URL:https://nfdchurch.com/event/youth-sunday-morning-worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ubvrimjp9c965s5fcp5a5tul24@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151230T193000
+DTEND;TZID=America/New_York:20151230T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 Middle School (Boys) Team
+URL:https://nfdchurch.com/event/church360-middle-school-boys-team-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4q6glonpl25ahlmsplp04fho8@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>New Year’s Eve “Watch Night” Service </p>
+DTSTART;TZID=America/New_York:20151231T210000
+DTEND;TZID=America/New_York:20160101T000000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:New Year’s Eve Service
+URL:https://nfdchurch.com/event/new-years-eve-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:geflqf312si661rpua86o9lk0k@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Women’s Ministry Meeting </p>
+DTSTART;TZID=America/New_York:20160101T190000
+DTEND;TZID=America/New_York:20160101T213000
+EXDATE;TZID=America/New_York:20150814T190000
+EXDATE;TZID=America/New_York:20151009T190000
+EXDATE;TZID=America/New_York:20151106T190000
+EXDATE;TZID=America/New_York:20151204T190000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=WEEKLY;INTERVAL=4;BYDAY=FR
+SEQUENCE:0
+SUMMARY:Women’s Meeting
+URL:https://nfdchurch.com/event/womens-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:fv6f4lo658jiacskft345cbqv0@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160106T193000
+DTEND;TZID=America/New_York:20160106T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 High School Team
+URL:https://nfdchurch.com/event/church360-high-school-team/
+END:VEVENT
+BEGIN:VEVENT
+UID:nm62ave72ba58e5s5hr0b7oh10@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Sunday Morning Worship Service<br />\nChurch 360 Youth Minis
+ try\, Youth Centered Service with featured Youth Speakers and Presentation
+ s  </p>
+DTSTART;TZID=America/New_York:20160110T090000
+DTEND;TZID=America/New_York:20160110T113000
+EXDATE;TZID=America/New_York:20150628T090000
+EXDATE;TZID=America/New_York:20150920T090000
+EXDATE;TZID=America/New_York:20151018T090000
+EXDATE;TZID=America/New_York:20151115T090000
+EXDATE;TZID=America/New_York:20151213T090000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+RRULE:FREQ=WEEKLY;INTERVAL=4;BYDAY=SU
+SEQUENCE:0
+SUMMARY:YOUTH SUNDAY Morning Worship Service
+URL:https://nfdchurch.com/event/youth-sunday-morning-worship-service-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:b7op5ui12l6ql179b7cr9bmpj8@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160113T193000
+DTEND;TZID=America/New_York:20160113T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 Middle School (Boys) Team
+URL:https://nfdchurch.com/event/church360-middle-school-boys-team/
+END:VEVENT
+BEGIN:VEVENT
+UID:0lai1e709olscaah86k0h8ikls@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160120T193000
+DTEND;TZID=America/New_York:20160120T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 Middle School (Girls) Team
+URL:https://nfdchurch.com/event/church360-middle-school-girls-team/
+END:VEVENT
+BEGIN:VEVENT
+UID:ddtv9gpbva2kc7sdefvqk7u6ks@google.com
+DTSTAMP:20150920T002150Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160127T193000
+DTEND;TZID=America/New_York:20160127T203000
+LOCATION:2009 Broadmoor Ave\, Chesapeake\, VA 23323\, USA
+SEQUENCE:0
+SUMMARY:Church360 3rd-5th Grade Team
+URL:https://nfdchurch.com/event/church360-3rd-5th-grade-team/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//207.223.121.125//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.rcecd911.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-196@www.rcecd911.org
+DTSTAMP:20150920T002345Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>http://tena911.org/TENA_Conference.htm</p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151022
+GEO:+35.862955;-86.448992
+LOCATION:Embassy Suites Hotel & Conference Center @ 1200 Conference Center 
+ Boulevard\, Murfreesboro\, TN 37129\, USA
+SEQUENCE:0
+SUMMARY:30th Annual Tennessee Emergency Number Association Conference
+URL:http://www.rcecd911.org/event/30th-annual-tennessee-emergency-number-as
+ sociation-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-155@beta.rcecd911.org
+DTSTAMP:20150920T002345Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><span lang='en-US'>Pursuant to T.C.A. 8-44-103\, notice is h
+ ereby given that the Rutherford County Emergency Communications District B
+ oard of Directors will conduct their regularly scheduled meetings at 10:00
+  A.M. in the District’s Administrative Office located at 591 Fortress Boul
+ evard\, Murfreesboro\, Tennessee on the following dates in 2015:</span></p
+ >
+DTSTART;TZID=America/Chicago:20151211T100000
+GEO:+35.855086;-86.468078
+LOCATION:Rutherford County E.C.D/9-1-1 @ 591 Fortress Boulevard\, Murfreesb
+ oro\, TN 37128\, USA
+SEQUENCE:0
+SUMMARY:RCECD Board Of Directors Meeting
+URL:http://www.rcecd911.org/event/rcecd-board-of-directors-meeting-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.87.138.242//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://iccpaz.com
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VTIMEZONE
+TZID:America/Phoenix
+X-LIC-LOCATION:America/Phoenix
+BEGIN:STANDARD
+DTSTART:19671029T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4508@iccpaz.com
+DTSTAMP:20150920T002130Z
+CATEGORIES;LANGUAGE=en-US:Prayer
+CONTACT:
+DESCRIPTION:<p style='text-align: justify'>Friday prayer at ICCP is led by 
+ Imam Mahmoud Sulaiman or a guest speaker\, the sermon in the Arabic langua
+ ge start at 1:00 pm followed by the English language translation and the p
+ rayer. ICCP have three different parking lots for your convenience\, but y
+ ou need to come early to park closest to the prayer area. Please visit the
+  <a title='Parking Info' href='http://iccpaz.com/about/'>Parking Code</a> 
+ under Code of Conduct for more information.</p>
+DTSTART;TZID=America/Phoenix:20150925T130000
+DTEND;TZID=America/Phoenix:20150925T140000
+GEO:+33.545483;-112.11318
+LOCATION:2515 West Orangewood Avenue\, Phoenix\, AZ 85051\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Friday Prayer
+URL:http://iccpaz.com/event/friday-prayer/
+X-TAGS;LANGUAGE=en-US:friday prayer\,jumu'ah
+END:VEVENT
+END:VCALENDAR

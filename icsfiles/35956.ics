@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.129.145.67//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.mont-notre-dame.qc.ca
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+X-LIC-LOCATION:America/Toronto
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-6173@www.mont-notre-dame.qc.ca
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=fr-FR:Portes ouvertes
+CONTACT:
+DESCRIPTION:<p>Cette année\, le Collège Mont Notre-Dame ouvrira ses portes 
+ aux futures élèves potentielles et à leurs parents lors des portes ouverte
+ s<span style='text-decoration: underline\;'> Le Tour du Mont le samedi 17 
+ octobre de 9 h à 12 h</span> et du <span style='text-decoration: underline
+ \;'>Tour du Mont en rappel le dimanche 25 octobre de 9 h à 12 h</span>.</p
+ >\n<p>Ces demi-journées d’activités et d’information permettent de visiter
+  le Collège et d’en découvrir les multiples facettes. Les portes ouvertes 
+ visent également à répondre aux nombreuses questions que se posent celles 
+ qui songent à se lancer dans l’aventure du secondaire en s’inscrivant au p
+ rogramme d’éducation internationale du Baccalauréat International.</p>\n<p
+ ><a title='Témoignages vidéo' href='http://www.mont-notre-dame.qc.ca/admis
+ sion/videos/'>Visionnez les capsules vidéos</a> pour entendre les témoigna
+ ges d’élèves et d’enseignants qui partagent leur expérience du Mont Notre-
+ Dame.</p>\n<h3>Venez nous rencontrer lors des Portes ouvertes!</h3>\n<p>* 
+ Les portes ouvertes du Collège Mont Notre-Dame durent 3 heures. Il est imp
+ ortant d’arriver au début de celles-ci afin de ne rien manquer des activit
+ és et informations.</p>
+DTSTART;TZID=America/Toronto:20151017T090000
+DTEND;TZID=America/Toronto:20151017T120000
+GEO:+45.401567;-71.891977
+LOCATION:Collège du Mont Notre-Dame @ 114 Rue de la Cathédrale\, Sherbrooke
+ \, QC J1H 4M1\, Canada
+SEQUENCE:0
+SUMMARY:Portes ouvertes – Le tour du Mont 2015
+URL:http://www.mont-notre-dame.qc.ca/event/portes-ouvertes-le-tour-du-mont-
+ 2015/
+END:VEVENT
+END:VCALENDAR

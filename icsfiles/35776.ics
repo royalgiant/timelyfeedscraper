@@ -1,0 +1,1684 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.63.211.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.ourladyofhopephilly.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-5671@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150920
+SEQUENCE:0
+SUMMARY:OLH Soccer Picture Day
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-picture-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5885@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Lunch
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150922
+SEQUENCE:0
+SUMMARY:Pizza Bagels
+URL:http://www.ourladyofhopephilly.com/event/pizza-bagels-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5886@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Lunch
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150922
+DTEND;VALUE=DATE:20150923
+SEQUENCE:0
+SUMMARY:Nachos/Cheese or Salsa
+URL:http://www.ourladyofhopephilly.com/event/nachoscheese-or-salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5611@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+RDATE;TZID=America/New_York:20150923T000000
+RDATE;TZID=America/New_York:20150924T000000
+RDATE;TZID=America/New_York:20150925T000000
+SEQUENCE:0
+SUMMARY:School Closed-WMOF/Pope Francis
+URL:http://www.ourladyofhopephilly.com/event/school-closed-wmofpope-francis
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5887@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Lunch
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150928
+DTEND;VALUE=DATE:20150929
+SEQUENCE:0
+SUMMARY:Mozzarella Cheese Sticks
+URL:http://www.ourladyofhopephilly.com/event/mozzarella-cheese-sticks-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5888@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Lunch
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150929
+DTEND;VALUE=DATE:20150930
+SEQUENCE:0
+SUMMARY:Hot Turkey Mashed Potatoes
+URL:http://www.ourladyofhopephilly.com/event/hot-turkey-mashed-potatoes-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5889@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Lunch
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150930
+DTEND;VALUE=DATE:20151001
+SEQUENCE:0
+SUMMARY:Hot Dogs
+URL:http://www.ourladyofhopephilly.com/event/hot-dogs-54/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5613@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151002
+SEQUENCE:0
+SUMMARY:Christmas Fundraiser Ends
+URL:http://www.ourladyofhopephilly.com/event/christmas-fundraiser-ends/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5617@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151015
+SEQUENCE:0
+SUMMARY:Faculty Meeting-1PM Dismissal
+URL:http://www.ourladyofhopephilly.com/event/faculty-meeting-1pm-dismissal-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5618@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151015
+DTEND;VALUE=DATE:20151016
+SEQUENCE:0
+SUMMARY:School Pictures-Uniforms
+URL:http://www.ourladyofhopephilly.com/event/school-pictures-uniforms/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5619@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151030
+DTEND;VALUE=DATE:20151031
+SEQUENCE:0
+SUMMARY:Teacher In-Service Day:  No School
+URL:http://www.ourladyofhopephilly.com/event/teacher-in-service-day-no-scho
+ ol/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5678@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151105
+DTEND;VALUE=DATE:20151106
+SEQUENCE:0
+SUMMARY:First Trimester Progress Reports
+URL:http://www.ourladyofhopephilly.com/event/first-trimester-progress-repor
+ ts-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5680@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151113
+DTEND;VALUE=DATE:20151114
+SEQUENCE:0
+SUMMARY:Faculty Meeting-1PM Dismissal
+URL:http://www.ourladyofhopephilly.com/event/faculty-meeting-1pm-dismissal-
+ 3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5683@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151121
+DTEND;VALUE=DATE:20151122
+SEQUENCE:0
+SUMMARY:Bus Trip to NYC-Outlet Shopping
+URL:http://www.ourladyofhopephilly.com/event/bus-trip-to-nyc-outlet-shoppin
+ g/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5684@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151125
+DTEND;VALUE=DATE:20151126
+SEQUENCE:0
+SUMMARY:Thanksgiving Holiday Begins-Noon Dismissal
+URL:http://www.ourladyofhopephilly.com/event/thanksgiving-holiday-begins-no
+ on-dismissal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5685@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151127
+RDATE;TZID=America/New_York:20151126T000000
+RDATE;TZID=America/New_York:20151127T000000
+SEQUENCE:0
+SUMMARY:Thanksgiving Holiday
+URL:http://www.ourladyofhopephilly.com/event/thanksgiving-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5686@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151130
+DTEND;VALUE=DATE:20151201
+SEQUENCE:0
+SUMMARY:Faculty Retreat-No Class
+URL:http://www.ourladyofhopephilly.com/event/faculty-retreat-no-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5733@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151210
+DTEND;VALUE=DATE:20151211
+SEQUENCE:0
+SUMMARY:Conferences 1:30 to 5P and 6-8P
+URL:http://www.ourladyofhopephilly.com/event/conferences-130-to-5p-and-6-8p
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5732@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151210
+DTEND;VALUE=DATE:20151211
+SEQUENCE:0
+SUMMARY:Report Card Conferences-1PM Dismissal
+URL:http://www.ourladyofhopephilly.com/event/report-card-conferences-1pm-di
+ smissal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5734@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151211
+DTEND;VALUE=DATE:20151212
+SEQUENCE:0
+SUMMARY:Faculty Meeting-No Class
+URL:http://www.ourladyofhopephilly.com/event/faculty-meeting-no-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5735@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151211
+DTEND;VALUE=DATE:20151212
+SEQUENCE:0
+SUMMARY:Family Fun Night-Skate Party!
+URL:http://www.ourladyofhopephilly.com/event/family-fun-night-skate-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5736@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151212
+DTEND;VALUE=DATE:20151213
+SEQUENCE:0
+SUMMARY:Breakfast with Santa
+URL:http://www.ourladyofhopephilly.com/event/breakfast-with-santa/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5737@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151216
+DTEND;VALUE=DATE:20151217
+SEQUENCE:0
+SUMMARY:Santa Shop-Christmas Shopping for Students
+URL:http://www.ourladyofhopephilly.com/event/santa-shop-christmas-shopping-
+ for-students/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5738@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151217
+DTEND;VALUE=DATE:20151218
+SEQUENCE:0
+SUMMARY:DJ Party-Christmas Sale Prize
+URL:http://www.ourladyofhopephilly.com/event/dj-party-christmas-sale-prize/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5740@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160104
+DTEND;VALUE=DATE:20160105
+SEQUENCE:0
+SUMMARY:Classes Resume
+URL:http://www.ourladyofhopephilly.com/event/classes-resume-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5742@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160114
+DTEND;VALUE=DATE:20160115
+SEQUENCE:0
+SUMMARY:Candy Bar Sale
+URL:http://www.ourladyofhopephilly.com/event/candy-bar-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5746@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160115
+DTEND;VALUE=DATE:20160116
+SEQUENCE:0
+SUMMARY:Faculty Meeting-1PM Dismissal
+URL:http://www.ourladyofhopephilly.com/event/faculty-meeting-1pm-dismissal-
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5745@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160119
+SEQUENCE:0
+SUMMARY:MLK Holiday-No Class
+URL:http://www.ourladyofhopephilly.com/event/mlk-holiday-no-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5748@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160131
+DTEND;VALUE=DATE:20160201
+RDATE;TZID=America/New_York:20160131T000000
+RDATE;TZID=America/New_York:20160206T000000
+SEQUENCE:0
+SUMMARY:Catholic Schools Week
+URL:http://www.ourladyofhopephilly.com/event/catholic-schools-week-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5749@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160205
+DTEND;VALUE=DATE:20160206
+SEQUENCE:0
+SUMMARY:Teacher Appreciation Day-Noon Dismissal
+URL:http://www.ourladyofhopephilly.com/event/teacher-appreciation-day-noon-
+ dismissal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5751@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160211
+DTEND;VALUE=DATE:20160212
+SEQUENCE:0
+SUMMARY:Second Trimester Progress Reports
+URL:http://www.ourladyofhopephilly.com/event/second-trimester-progress-repo
+ rts-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5752@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160212
+DTEND;VALUE=DATE:20160213
+SEQUENCE:0
+SUMMARY:Professional Development Day-No Class
+URL:http://www.ourladyofhopephilly.com/event/professional-development-day-n
+ o-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5753@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SEQUENCE:0
+SUMMARY:President’s Day-No Class
+URL:http://www.ourladyofhopephilly.com/event/presidents-day-no-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5839@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160217
+DTEND;VALUE=DATE:20160218
+SEQUENCE:0
+SUMMARY:Yankee Candle Sale
+URL:http://www.ourladyofhopephilly.com/event/yankee-candle-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5831@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160302
+DTEND;VALUE=DATE:20160303
+SEQUENCE:0
+SUMMARY:Read Across America Day
+URL:http://www.ourladyofhopephilly.com/event/read-across-america-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5835@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160314
+DTEND;VALUE=DATE:20160315
+SEQUENCE:0
+SUMMARY:Third Trimester Begins
+URL:http://www.ourladyofhopephilly.com/event/third-trimester-begins-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5837@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160316
+DTEND;VALUE=DATE:20160317
+SEQUENCE:0
+SUMMARY:Faculty Meeting-No Class
+URL:http://www.ourladyofhopephilly.com/event/faculty-meeting-no-class-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5838@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160317
+DTEND;VALUE=DATE:20160318
+SEQUENCE:0
+SUMMARY:Second Trimester Reports
+URL:http://www.ourladyofhopephilly.com/event/second-trimester-reports/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5840@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160319
+DTEND;VALUE=DATE:20160320
+SEQUENCE:0
+SUMMARY:Bunny Hop Breakfast
+URL:http://www.ourladyofhopephilly.com/event/bunny-hop-breakfast/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5842@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160323
+DTEND;VALUE=DATE:20160324
+SEQUENCE:0
+SUMMARY:Easter Break Begins-1PM Dismissal
+URL:http://www.ourladyofhopephilly.com/event/easter-break-begins-1pm-dismis
+ sal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5841@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160323
+DTEND;VALUE=DATE:20160324
+SEQUENCE:0
+SUMMARY:Spring Pictures
+URL:http://www.ourladyofhopephilly.com/event/spring-pictures-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5843@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160324
+DTEND;VALUE=DATE:20160325
+RDATE;TZID=America/New_York:20160324T000000
+RDATE;TZID=America/New_York:20160328T000000
+SEQUENCE:0
+SUMMARY:Easter Break
+URL:http://www.ourladyofhopephilly.com/event/easter-break/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5844@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160329
+DTEND;VALUE=DATE:20160330
+SEQUENCE:0
+SUMMARY:Classes Resume
+URL:http://www.ourladyofhopephilly.com/event/classes-resume-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5845@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160330
+DTEND;VALUE=DATE:20160331
+SEQUENCE:0
+SUMMARY:Terra Nova Testing
+URL:http://www.ourladyofhopephilly.com/event/terra-nova-testing/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5846@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160404
+DTEND;VALUE=DATE:20160405
+RDATE;TZID=America/New_York:20160404T000000
+RDATE;TZID=America/New_York:20160408T000000
+SEQUENCE:0
+SUMMARY:Terra Nova Testing
+URL:http://www.ourladyofhopephilly.com/event/terra-nova-testing-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5855@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160411
+DTEND;VALUE=DATE:20160412
+SEQUENCE:0
+SUMMARY:May Procession-1PM Dismissal
+URL:http://www.ourladyofhopephilly.com/event/may-procession-1pm-dismissal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5851@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160422
+DTEND;VALUE=DATE:20160423
+SEQUENCE:0
+SUMMARY:School Holiday-No Class
+URL:http://www.ourladyofhopephilly.com/event/school-holiday-no-class-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5853@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160505
+DTEND;VALUE=DATE:20160506
+SEQUENCE:0
+SUMMARY:Ascension Thursday-Class for Students
+URL:http://www.ourladyofhopephilly.com/event/ascension-thursday-class-for-s
+ tudents/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5856@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160512
+DTEND;VALUE=DATE:20160513
+SEQUENCE:0
+SUMMARY:Third Trimester Progress Reports
+URL:http://www.ourladyofhopephilly.com/event/third-trimester-progress-repor
+ ts-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5859@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160518
+DTEND;VALUE=DATE:20160519
+SEQUENCE:0
+SUMMARY:8th Grade Graduation Pictures
+URL:http://www.ourladyofhopephilly.com/event/8th-grade-graduation-pictures-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5860@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160527
+DTEND;VALUE=DATE:20160528
+SEQUENCE:0
+SUMMARY:Faculty In-Service-No Class
+URL:http://www.ourladyofhopephilly.com/event/faculty-in-service-no-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5861@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:Memorial Day-No Class
+URL:http://www.ourladyofhopephilly.com/event/memorial-day-no-class-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5862@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160601
+DTEND;VALUE=DATE:20160602
+RDATE;TZID=America/New_York:20160601T000000
+RDATE;TZID=America/New_York:20160610T000000
+SEQUENCE:0
+SUMMARY:End of Year Assessment Exams
+URL:http://www.ourladyofhopephilly.com/event/end-of-year-assessment-exams/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5867@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160612
+DTEND;VALUE=DATE:20160613
+SEQUENCE:0
+SUMMARY:8th Grade Graduation Mass
+URL:http://www.ourladyofhopephilly.com/event/8th-grade-graduation-mass/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5805@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T110000
+DTEND;TZID=America/New_York:20150919T022000
+SEQUENCE:0
+SUMMARY:OLH Soccer 7-8
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-7-8-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5623@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T110000
+DTEND;TZID=America/New_York:20150919T120000
+GEO:+41.028783;-78.42869
+LOCATION:SEYAA Field  @ Bigler Avenue & East 7th Street\, Clearfield\, PA 1
+ 6830\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 9-10
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-9-10-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5662@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T120000
+DTEND;TZID=America/New_York:20150919T130000
+GEO:+39.912767;-75.160388
+LOCATION:SEYAA Field  @ South 7th Street & Bigler Street\, Philadelphia\, P
+ A 19148\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 11-13
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-11-13-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5711@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150919T130000
+DTEND;TZID=America/New_York:20150919T140000
+GEO:+39.912767;-75.160388
+LOCATION:SEYAA @ South 7th Street & Bigler Street\, Philadelphia\, PA 19148
+ \, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 4-6
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-4-6-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5713@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150921T180000
+DTEND;TZID=America/New_York:20150921T194800
+GEO:+39.912767;-75.160388
+LOCATION:SEYAA @ South 7th Street & Bigler Street\, Philadelphia\, PA 19148
+ \, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 4-6
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-4-6-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5624@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150921T180000
+DTEND;TZID=America/New_York:20150921T190000
+GEO:+41.028783;-78.42869
+LOCATION:SEYAA Field  @ Bigler Avenue & East 7th Street\, Clearfield\, PA 1
+ 6830\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 9-10
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-9-10-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5806@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T180000
+DTEND;TZID=America/New_York:20150923T190000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5714@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T180000
+DTEND;TZID=America/New_York:20150924T194900
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH  Soccer 4-6
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-4-6-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5807@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150925T190000
+DTEND;TZID=America/New_York:20150925T200000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 7-8
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-7-8-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5720@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150928T180000
+DTEND;TZID=America/New_York:20150928T190000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 4-6
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-4-6-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5612@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150929T190000
+DTEND;TZID=America/New_York:20150929T200000
+GEO:+39.922592;-75.167539
+LOCATION:OLH @ 1248 Jackson Street\, Philadelphia\, PA 19148\, USA
+SEQUENCE:0
+SUMMARY:Home and School Meeting
+URL:http://www.ourladyofhopephilly.com/event/home-and-school-meeting-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5729@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151001T212200
+GEO:+39.917692;-75.17043
+LOCATION:Moonshine @ W Moyamensing Ave\, Philadelphia\, PA\, USA
+SEQUENCE:0
+SUMMARY:OLH at Moonshine
+URL:http://www.ourladyofhopephilly.com/event/olh-at-moonshine/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5808@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151002T180000
+DTEND;TZID=America/New_York:20151002T190000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5615@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151002T190000
+DTEND;TZID=America/New_York:20151002T030700
+SEQUENCE:0
+SUMMARY:Parents’ Night Out-Paint Night!
+URL:http://www.ourladyofhopephilly.com/event/parents-night-out-paint-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5663@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T120000
+DTEND;TZID=America/New_York:20151003T130000
+GEO:+40.828999;-78.35966
+LOCATION:SEYAA Field  @ 7th Street\, Houtzdale\, PA 16651\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 11-13
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-11-13-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5672@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T123000
+DTEND;TZID=America/New_York:20151003T045900
+LOCATION:SEYAA Field
+SEQUENCE:0
+SUMMARY:OLH Soccer 9-10
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-9-10-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5809@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T150000
+DTEND;TZID=America/New_York:20151003T160000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:
+URL:http://www.ourladyofhopephilly.com/event/5809/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5715@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T213000
+DTEND;TZID=America/New_York:20151003T223000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 4-6
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-4-6-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5810@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151006T180000
+DTEND;TZID=America/New_York:20151006T190000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 7-8
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-7-8-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5616@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151007T183000
+DTEND;TZID=America/New_York:20151007T193000
+GEO:+39.922592;-75.167539
+LOCATION:OLH @ 1248 Jackson Street\, Philadelphia\, PA 19148\, USA
+SEQUENCE:0
+SUMMARY:OLH Hosts High School Night
+URL:http://www.ourladyofhopephilly.com/event/olh-hosts-high-school-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5811@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151009T012800
+DTEND;TZID=America/New_York:20151009T022800
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 7-8
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-7-8-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5664@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151010T120000
+DTEND;TZID=America/New_York:20151010T130000
+GEO:+39.912767;-75.160388
+LOCATION:SEYAA Field  @ South 7th Street & Bigler Street\, Philadelphia\, P
+ A 19148\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 11-13
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-11-13-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5716@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151010T150000
+DTEND;TZID=America/New_York:20151010T195200
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 4-6
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-4-6-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5812@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151012T012900
+DTEND;TZID=America/New_York:20151012T022900
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 7-8
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-7-8-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5717@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151016T180000
+DTEND;TZID=America/New_York:20151016T190000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5813@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151016T180000
+DTEND;TZID=America/New_York:20151016T190000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 7-8
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-7-8-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5673@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151016T180000
+DTEND;TZID=America/New_York:20151016T190000
+LOCATION:SEYAA Field
+SEQUENCE:0
+SUMMARY:OLH Soccer 9-10
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-9-10-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5665@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151016T191500
+DTEND;TZID=America/New_York:20151016T044900
+GEO:+39.912767;-75.160388
+LOCATION:SEYAA Field  @ South 7th Street & Bigler Street\, Philadelphia\, P
+ A 19148\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 11-13
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-11-13-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5814@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151017T093000
+DTEND;TZID=America/New_York:20151017T103000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 7-8
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-7-8-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5674@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151017T093000
+DTEND;TZID=America/New_York:20151017T103000
+LOCATION:SEYAA Field
+SEQUENCE:0
+SUMMARY:OLH Soccer 9-10
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-9-10-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5666@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002200Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151017T140000
+DTEND;TZID=America/New_York:20151017T150000
+GEO:+39.912767;-75.160388
+LOCATION:SEYAA Field  @ South 7th Street & Bigler Street\, Philadelphia\, P
+ A 19148\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 11-13
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-11-13-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5675@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151019T180000
+DTEND;TZID=America/New_York:20151019T050200
+LOCATION:SEYAA Field
+SEQUENCE:0
+SUMMARY:OLH Soccer 9-10
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-9-10-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5815@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151020T180000
+DTEND;TZID=America/New_York:20151020T190000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5718@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151021T180000
+DTEND;TZID=America/New_York:20151021T190000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:
+URL:http://www.ourladyofhopephilly.com/event/5718/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5668@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151021T180000
+DTEND;TZID=America/New_York:20151021T190000
+GEO:+39.912767;-75.160388
+LOCATION:SEYAA Field  @ South 7th Street & Bigler Street\, Philadelphia\, P
+ A 19148\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 11-13
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-11-13-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5676@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151022T180000
+DTEND;TZID=America/New_York:20151022T050300
+LOCATION:SEYAA Field
+SEQUENCE:0
+SUMMARY:OLH Soccer 9-10
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-9-10-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5677@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151023T110000
+DTEND;TZID=America/New_York:20151023T120000
+LOCATION:SEYAA Field
+SEQUENCE:0
+SUMMARY:OLH Soccer 9-10
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-9-10-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5816@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151023T180000
+DTEND;TZID=America/New_York:20151023T190000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 7-8
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-7-8-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5719@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151023T184500
+DTEND;TZID=America/New_York:20151023T194500
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 4-6
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-4-6-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5817@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151024T110000
+DTEND;TZID=America/New_York:20151024T120000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 7-8
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-7-8-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5669@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151024T120000
+DTEND;TZID=America/New_York:20151024T045200
+GEO:+39.912767;-75.160388
+LOCATION:SEYAA Field  @ South 7th Street & Bigler Street\, Philadelphia\, P
+ A 19148\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5670@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151029T180000
+DTEND;TZID=America/New_York:20151029T190000
+GEO:+39.912767;-75.160388
+LOCATION:SEYAA Field  @ South 7th Street & Bigler Street\, Philadelphia\, P
+ A 19148\, USA
+SEQUENCE:0
+SUMMARY:OLH Soccer 11-13
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-11-13-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5620@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151031T180000
+DTEND;TZID=America/New_York:20151031T210000
+GEO:+39.922592;-75.167539
+LOCATION:OLH @ 1248 Jackson Street\, Philadelphia\, PA 19148\, USA
+SEQUENCE:0
+SUMMARY:Halloween Party
+URL:http://www.ourladyofhopephilly.com/event/halloween-party-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5721@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151107T150000
+DTEND;TZID=America/New_York:20151107T160000
+LOCATION:SEYAA
+SEQUENCE:0
+SUMMARY:OLH Soccer 4-6 Kids v. Parents
+URL:http://www.ourladyofhopephilly.com/event/olh-soccer-4-6-kids-v-parents/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5679@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151110T170000
+DTEND;TZID=America/New_York:20151110T180000
+GEO:+39.925486;-75.14424
+LOCATION:Chick Fil-A @ South Christopher Columbus Boulevard\, Philadelphia\
+ , PA\, USA
+SEQUENCE:0
+SUMMARY:OLH at Chick Fil-A
+URL:http://www.ourladyofhopephilly.com/event/olh-at-chick-fil-a/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5681@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151113T190000
+DTEND;TZID=America/New_York:20151113T210000
+LOCATION:OLH
+SEQUENCE:0
+SUMMARY:Family Fun Night
+URL:http://www.ourladyofhopephilly.com/event/family-fun-night-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5682@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151117T190000
+DTEND;TZID=America/New_York:20151117T051000
+GEO:+39.922592;-75.167539
+LOCATION:OLH @ 1248 Jackson Street\, Philadelphia\, PA 19148\, USA
+SEQUENCE:0
+SUMMARY:Home and School Meeting
+URL:http://www.ourladyofhopephilly.com/event/home-and-school-meeting-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5727@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151203T190000
+DTEND;TZID=America/New_York:20151203T200000
+LOCATION:Stella Maris
+SEQUENCE:0
+SUMMARY:First Penance-Stella Maris Parish
+URL:http://www.ourladyofhopephilly.com/event/first-penance-stella-maris-par
+ ish/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5728@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151204T211400
+SEQUENCE:0
+SUMMARY:End of First Trimester
+URL:http://www.ourladyofhopephilly.com/event/end-of-first-trimester/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5730@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151205T100000
+DTEND;TZID=America/New_York:20151205T110000
+GEO:+39.930568;-75.149924
+LOCATION:Sacred Heart of Jesus Church @ Reed St & E Moyamensing Ave\, Phila
+ delphia\, PA 19147\, USA
+SEQUENCE:0
+SUMMARY:First Penance-Sacred Heart of Jesus
+URL:http://www.ourladyofhopephilly.com/event/first-penance-sacred-heart-of-
+ jesus/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5731@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151207T212500
+SEQUENCE:0
+SUMMARY:Second Trimester Begins
+URL:http://www.ourladyofhopephilly.com/event/second-trimester-begins/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5739@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151223T213100
+DTEND;TZID=America/New_York:20151223T223100
+RDATE;TZID=America/New_York:20151223T213100
+RDATE;TZID=America/New_York:20160103T213100
+SEQUENCE:0
+SUMMARY:Christmas Holiday
+URL:http://www.ourladyofhopephilly.com/event/christmas-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5741@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160108T190000
+DTEND;TZID=America/New_York:20160108T210000
+SEQUENCE:0
+SUMMARY:Family Fun Night
+URL:http://www.ourladyofhopephilly.com/event/family-fun-night-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5750@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160205T180000
+DTEND;TZID=America/New_York:20160205T220000
+SEQUENCE:0
+SUMMARY:Special Person Dance
+URL:http://www.ourladyofhopephilly.com/event/special-person-dance-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5754@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160220T190000
+DTEND;TZID=America/New_York:20160220T220000
+SEQUENCE:0
+SUMMARY:Bowling Night
+URL:http://www.ourladyofhopephilly.com/event/bowling-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5755@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160225T160000
+DTEND;TZID=America/New_York:20160225T170000
+SEQUENCE:0
+SUMMARY:Confirmation-Epiphany of Our Lord
+URL:http://www.ourladyofhopephilly.com/event/confirmation-epiphany-of-our-l
+ ord/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5832@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160304T183000
+DTEND;TZID=America/New_York:20160304T203000
+LOCATION:Our Lady of Hope
+SEQUENCE:0
+SUMMARY:Family Fun Night-Book Bingo
+URL:http://www.ourladyofhopephilly.com/event/family-fun-night-book-bingo/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5833@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160312T100000
+DTEND;TZID=America/New_York:20160312T110000
+GEO:+39.92246;-75.164718
+LOCATION:Epiphany of Our Lord Parish @ S 11th St & Jackson St\, Philadelphi
+ a\, PA 19148\, USA
+SEQUENCE:0
+SUMMARY:First Penance-Epiphany of Our Lord
+URL:http://www.ourladyofhopephilly.com/event/first-penance-epiphany-of-our-
+ lord/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5834@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160312T190000
+DTEND;TZID=America/New_York:20160312T200000
+GEO:+39.922592;-75.167539
+LOCATION:Our Lady of Hope @ 1248 Jackson St\, Philadelphia\, PA 19148\, USA
+SEQUENCE:0
+SUMMARY:Athletic Association Beef N Beer
+URL:http://www.ourladyofhopephilly.com/event/athletic-association-beef-n-be
+ er/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5836@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160315T190000
+DTEND;TZID=America/New_York:20160315T200000
+LOCATION:Our Lady of Hope
+SEQUENCE:0
+SUMMARY:Home and School Association Meeting
+URL:http://www.ourladyofhopephilly.com/event/home-and-school-association-me
+ eting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5847@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160409T190000
+DTEND;TZID=America/New_York:20160409T230000
+SEQUENCE:0
+SUMMARY:Dancing with the Mummers Stars
+URL:http://www.ourladyofhopephilly.com/event/dancing-with-the-mummers-stars
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5849@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160416T100000
+DTEND;TZID=America/New_York:20160416T110000
+SEQUENCE:0
+SUMMARY:First Holy Communion-Epiphany of Our Lord
+URL:http://www.ourladyofhopephilly.com/event/first-holy-communion-epiphany-
+ of-our-lord/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5850@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160419T160000
+DTEND;TZID=America/New_York:20160419T200000
+SEQUENCE:0
+SUMMARY:Chick Fil A Night
+URL:http://www.ourladyofhopephilly.com/event/chick-fil-a-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5852@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160430T193900
+DTEND;TZID=America/New_York:20160430T203900
+SEQUENCE:0
+SUMMARY:First Communion-Our Lady of Mt. Carmel (10AM)\, Sacred Heart of Jes
+ us (10AM) and Stella Maris (10:30AM)
+URL:http://www.ourladyofhopephilly.com/event/first-communion-our-lady-of-mt
+ -carmel-10am-sacred-heart-of-jesus-10am-and-stella-maris-1030am/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5854@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160506T190000
+DTEND;TZID=America/New_York:20160506T200000
+LOCATION:Our Lady of Hope
+SEQUENCE:0
+SUMMARY:Designer Bag Bingo
+URL:http://www.ourladyofhopephilly.com/event/designer-bag-bingo/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5857@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Athletics &amp\; Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160514T190000
+DTEND;TZID=America/New_York:20160514T220000
+SEQUENCE:0
+SUMMARY:Sports Banquet
+URL:http://www.ourladyofhopephilly.com/event/sports-banquet-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5858@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160517T190000
+DTEND;TZID=America/New_York:20160517T200000
+LOCATION:Our Lady of Hope
+SEQUENCE:0
+SUMMARY:Home and School Meeting
+URL:http://www.ourladyofhopephilly.com/event/home-and-school-meeting-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5863@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160608T090000
+DTEND;TZID=America/New_York:20160608T100000
+LOCATION:Our Lady of Hope
+SEQUENCE:0
+SUMMARY:Pre-K 3 Moving Up Ceremony
+URL:http://www.ourladyofhopephilly.com/event/pre-k-3-moving-up-ceremony/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5864@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160608T110000
+DTEND;TZID=America/New_York:20160608T120000
+LOCATION:Our Lady of Hope
+SEQUENCE:0
+SUMMARY:Pre-K 4 Moving Up Ceremony
+URL:http://www.ourladyofhopephilly.com/event/pre-k-4-moving-up-ceremony/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5865@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160609T090000
+DTEND;TZID=America/New_York:20160609T100000
+SEQUENCE:0
+SUMMARY:Kindergarten Moving Up Ceremony
+URL:http://www.ourladyofhopephilly.com/event/kindergarten-moving-up-ceremon
+ y/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5866@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:Home &amp\; School
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160611T190000
+DTEND;TZID=America/New_York:20160611T080000
+SEQUENCE:0
+SUMMARY:End of Year Family Event
+URL:http://www.ourladyofhopephilly.com/event/end-of-year-family-event/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5868@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160615T190000
+DTEND;TZID=America/New_York:20160615T200000
+SEQUENCE:0
+SUMMARY:8th Grade Graduation
+URL:http://www.ourladyofhopephilly.com/event/8th-grade-graduation-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5869@www.ourladyofhopephilly.com
+DTSTAMP:20150920T002201Z
+CATEGORIES;LANGUAGE=en-US:School Events &amp\; Academics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160617T090000
+DTEND;TZID=America/New_York:20160617T100000
+SEQUENCE:0
+SUMMARY:Last Day of School-Closing Ceremony\; Dismissal Follows
+URL:http://www.ourladyofhopephilly.com/event/last-day-of-school-closing-cer
+ emony-dismissal-follows/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//162.144.110.188//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://co.amtamassage.org
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-404@co.amtamassage.org
+DTSTAMP:20150920T002126Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<h4><strong>Working Through the Systems with Ortho-Bionomy: Pre
+ sented by Sheri Covey</strong></h4>\n<h5>We are honored and excited to hav
+ e Sheri Covey share her knowledge of Ortho-Bionomy!</h5>\n<div>Advanced In
+ structor Sheri Covey has twenty vast years of experience in Ortho-Bionomy.
+  She was able to build two expansive practices in Crested Butte and Grand 
+ Junction Colorado. Her work has a broad understanding of the body and is a
+ ble to work creatively with nearly any aspect of disorder in the body.</di
+ v>\n<div></div>\n<div>In 2012\, she founded the Rocky Mountain Ortho-Biono
+ my Center\; the only 18-month occupational school training program of Orth
+ o-Bionomy in the world. The program hosts a complete Practitioner Training
+  Program in 10 weeks spread over 18 months. The Center is located in Denve
+ r and Grand Junction Colorado. Sheri is impressed with the knowledge and t
+ he success her graduates have been able to attain in their lives. She is w
+ arm\, inspiring\, and teaches with joy and unsurpassed humor.</div>\n<div>
+ </div>\n<div><strong>What will be covered:</strong> This six hour continui
+ ng education workshop will cover an expansive opportunity for students to 
+ explore the broad spectrum of Ortho-Bionomy. We will be working with the b
+ ody’s inner understanding and self-correction. The workshop will explore t
+ he structural relationships in Extremities\, Spine & Neck\, and move towar
+ ds the Ortho-Bionomy’s ability to work with Organs and Visceral. This work
+ shop will cover a great deal of ground and allow students to discovers the
+ ir own relationship and what they appreciate about this powerful work and 
+ its relationship to recognizing healing from within our own brilliance.</d
+ iv>\n<div>[su_divider top='no' divider_color='#EEEEEE' link_color='#BBBBBB
+ ' size='1' margin='10']</div>\n<h3>Schedule:</h3>\n<div>09:00 am – 09:30 a
+ m: Registration<br />\n09:30 am – 12:30 pm: “Working Through the Systems”<
+ br />\n12:45 pm – 01:45 pm: Lunch (included in registration) & Chapter Mee
+ ting<br />\n02:00 pm – 05:00 pm: “Working Through the Systems” Continued</
+ div>\n<div>[su_divider top='no' divider_color='#EEEEEE' link_color='#BBBBB
+ B' size='1' margin='10']</div>\n<h3>Location:</h3>\n<div>Medical Center of
+  the Rockies<br />\nLong’s Peak Classroom (Basement Level)<br />\n2500 Med
+ ical Center of the Rockies<br />\nLoveland\, CO 80538</div>\n<div></div>\n
+ <p><span style='color: #000080\;'>Extras!</span><br />\n<span style='color
+ : #000080\;'> Yoga with Christen prior to the class</span><br />\n<span st
+ yle='color: #000080\;'> Appetizers and mingling after the class</span></p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+GEO:+40.415284;-104.997195
+LOCATION:Medical Center of the Rockies @ UCHealth - Medical Center of the R
+ ockies\, 2500 Rocky Mountain Ave\, Loveland\, CO 80538\, USA
+SEQUENCE:0
+SUMMARY:2015 Fall Meeting & Education Event – Loveland
+URL:http://co.amtamassage.org/archives/event/2015-fall-meeting-education-ev
+ ent-loveland
+X-TICKETS-URL:http://www.eventbrite.com/e/amta-fall-chapter-meeting-educati
+ on-event-2015-tickets-17405580560?ref=ebtnebregn
+END:VEVENT
+END:VCALENDAR

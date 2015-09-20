@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//5.2.87.131//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://estanbulbutik.com/ubef
+X-WR-TIMEZONE:Europe/Istanbul
+BEGIN:VTIMEZONE
+TZID:Europe/Istanbul
+X-LIC-LOCATION:Europe/Istanbul
+BEGIN:STANDARD
+DTSTART:20151025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+RDATE:20160327T030000
+TZNAME:EEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-6554@estanbulbutik.com/ubef
+DTSTAMP:20150920T003106Z
+CATEGORIES:
+CONTACT:mehmet\; 123123\; ubef@ubef.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='/ube
+ f/wp-content/uploads/2015/08/federasyon-logo1.png' width='120' height='120
+ ' /></div><p>ubef</p>\n<p>ubef</p>\n<p>ubef</p>\n<p>ubef</p>\n<p>ubef</p>
+DTSTART;TZID=Europe/Istanbul:20151008T085500
+DTEND;TZID=Europe/Istanbul:20151010T095500
+GEO:+41.008238;+28.978359
+LOCATION:istanbul boğaziçi @ İstanbul\, İstanbul\, Türkiye
+SEQUENCE:0
+SUMMARY:Büyük Söyleşi
+URL:http://estanbulbutik.com/ubef/index.php/event/buyuk-soylesi/
+X-COST:12
+END:VEVENT
+END:VCALENDAR

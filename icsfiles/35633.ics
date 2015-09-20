@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//5.9.205.232//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://annamariashow.com
+X-WR-TIMEZONE:Europe/Kiev
+BEGIN:VTIMEZONE
+TZID:Europe/Kiev
+X-LIC-LOCATION:Europe/Kiev
+BEGIN:STANDARD
+DTSTART:20151025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+RDATE:20160327T030000
+TZNAME:EEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-250@annamariashow.com
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://annamariashow.com/wp-content/uploads/2015/07/DSC_1270-small2-300x231.jp
+ g' width='300' height='231' /></div>
+DTSTART;TZID=Europe/Kiev:20150919T190000
+GEO:+47.476111;+36.259167
+LOCATION:Центральная площадь @ Пологи\, Запорожская область\, Украина
+SEQUENCE:0
+SUMMARY:День города Пологи
+URL:http://annamariashow.com/event/den-goroda-pologi-anna-maria/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-290@annamariashow.com
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:067 5488988
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://annamariashow.com/wp-content/uploads/2015/08/image-3624fedf346317ea067e
+ 453a519f443d8e01077ab7f024fc83a850d026fec87a-V-300x200.jpg' width='300' he
+ ight='200' /></div><p>20 сентября ждем тебя на «Family weekend» – лучшем ф
+ естивале для всей семьи!</p>\n<p>Место проведения: загородный клуб «Конюшн
+ я Бутенко».</p>\n<p>«Cеменый уикенд» – отличная возможность провести время
+  с пользой для здоровья на лоне природы\, а так же совершить успешный шопи
+ нг – ведущие компании участники фестиваля представят соблазнительные предл
+ ожения на свой ассортимент – скидки на продукцию до 50% !</p>\n<p>20 сентя
+ бря с 10:00 до 20:00\, вход свободный!</p>\n<p>Предварительная запись по т
+ ел: 067 548 89 88</p>
+DTSTART;TZID=Europe/Kiev:20150920T200000
+DTEND;TZID=Europe/Kiev:20150920T220000
+GEO:+50.22287;+30.813453
+LOCATION:Конюшня Бутенко @ Конюшня Бутенко Заміський Клуб\, Проців\, Київсь
+ ка область\, Украина\, 08344
+SEQUENCE:0
+SUMMARY:Family weekend
+URL:http://annamariashow.com/event/family-weekend-butenko-stable/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-299@annamariashow.com
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://annamariashow.com/wp-content/uploads/2015/09/uWwMQjvYbps-212x300.jpg' w
+ idth='212' height='300' /></div><p>24 вересня о 17:00 у ресторані Beeze Re
+ staurant & Karaoke & Lounge відбудеться фешн-вечірка на честь презентації 
+ грандіозного фотопроекту ТВОРЧА СПАДЩИНА\, який буде представений к вигляд
+ і великого настінного календаря.<br />\nУчасниками грандіозного концерту б
+ удуть: Олександр Павлік\, Артем Мех \, Тіана Роз\, дует Анна-Марія\, Волод
+ имир Ткаченко\, Ейра\, Влад Курасов\, Наталія Морозова\, Святослав Лукинич
+ \, Sasha Ray\, Денис Мусаєв\, Alex Shelest\, Шмагі Тагіашвілі\, Євгеній Хм
+ ара\, Марія Чеба та інші зірки\, які вклали частинку своєї душі в реалізац
+ ію проекту і долучились до благодійності\, адже всі кошти\, зібрані на пре
+ зентації\, передадуть до дитячого будинку Любисток. На Вас чекають: виступ
+ и артистів\, показ модної колекції від дизайн-студії Євгенії Карай\, безлі
+ ч відомих гостей та святкова атмосфера від ресторану Beeze!<br />\nАдреса:
+  вул. Воровського\, 3<br />\nВхід: 150 грн<br />\nПридбавши квиток\, Ви от
+ римаєте зірковий календар у подарунок!</p>
+DTSTART;TZID=Europe/Kiev:20150924T190000
+DTEND;TZID=Europe/Kiev:20150924T200000
+GEO:+50.453967;+30.50535
+LOCATION:Beeze Restaurant & Karaoke & Lounge  @ вулиця Бульварно-Кудрявська
+ \, 3\, Київ\, Украина
+SEQUENCE:0
+SUMMARY:Благотворительный концерт ТВОРЧА СПАДЩИНА
+URL:http://annamariashow.com/event/blagotvoritelnyj-tvorca-spadscyna/
+X-COST:150
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-292@annamariashow.com
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:http://atmasfera.com.ua/
+DESCRIPTION:<p>Anna-Maria и Urban Gypsy представляют абсолютно новую совмес
+ тную программу кавер-версий в европейском направлении джаза\, известного т
+ акже как французский джаз\, цыганский свинг или джаз мануш. Хиты таких исп
+ олнителей как Sam Smith\, Stevie Wonder\, Madonna\, Michael Jackson\, Kies
+ za\, приобретут неожиданное и одновременно крутое звучание. Живое звучание
+  четырех инструментов и двух голосов в сочетании с музыкой джаз-мануш пода
+ рят желание услышать это снова и снова. Музыканты: Анна и Мария Опанасюк (
+ вокал)\, Дмитрий Кушниров (гитара)\, Матвей Миронов (скрипка)\, Дмитрий Ко
+ валенко (гитара)\, Николай Кистинев (контрабас)  </p>
+DTSTART;TZID=Europe/Kiev:20150925T193000
+GEO:+50.431697;+30.51639
+LOCATION:Atmasfera 360 @ вулиця Велика Васильківська\, 57\, Київ\, Украина
+SEQUENCE:0
+SUMMARY:Anna-Maria & Urban Gypsy  — КОНЦЕРТ ПОД ЗВЕЗДАМИ
+URL:http://annamariashow.com/event/anna-maria-urban-gypsy-atmasfera/
+X-COST:100
+X-TICKETS-URL:http://cabinet.atmasfera.com.ua/hall/?show_id=6183
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-297@annamariashow.com
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Kiev:20150926T200000
+GEO:+46.489488;+30.201623
+LOCATION:Беляевка\, Одесская область\, Украина
+SEQUENCE:0
+SUMMARY:Беляевка\, день города.
+URL:http://annamariashow.com/event/belaevka-den-goroda/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-298@annamariashow.com
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:096-468-17-65
+DESCRIPTION:<p>27 вересня 2015 року  у естраді «Ракушка» в парку культури т
+ а відпочинку ім.. С.П.Корольова\, відбудеться благодійний концерт оперної 
+ діви  України та українського дуету «Анна – Марія».<br />\nКонцерт організ
+ ований в підтримку Івахова Матвія\, який потребує термінової операції.<br 
+ />\nВсі зібрані кошти на концерті\, будуть передані батькам дитини.<br />
+ \nОрганізатори благодійного заходу: Житомирська міська дитяча громадська о
+ рганізація «Все робимо самі»\, відділ соціального служіння та благодійност
+ і Української Православної Церкви КП та клуб благодійників «Янголи добра».
+ <br />\nВ програмі: виступ організаторів благодійного заходу\; виступ дует
+ у «Анна – Марія»\, виступ оперної Діви України Олени Гребенюк\; передача к
+ оштів на операцію для Матвія Івахова.</p>
+DTSTART;TZID=Europe/Kiev:20150927T180000
+DTEND;TZID=Europe/Kiev:20150927T190000
+GEO:+50.25465;+28.658667
+LOCATION:Парк Королёва @ Житомир\, Житомирская область\, Украина
+SEQUENCE:0
+SUMMARY:Благотворительный концерт Житомир.
+URL:http://annamariashow.com/event/blagotvoritelnyj-koncert-zhitomir/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-289@annamariashow.com
+DTSTAMP:20150920T002313Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Kiev:20151022T180000
+LOCATION:TBA
+SEQUENCE:0
+SUMMARY:Благотворительный концерт
+URL:http://annamariashow.com/event/blagotvoritelnyj-koncert/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

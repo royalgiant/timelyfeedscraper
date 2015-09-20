@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.254.99.187//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.aviationindiana.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-621@www.aviationindiana.com
+DTSTAMP:20150920T002140Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join AOPA and your fellow pilots and aviation enthusiasts fo
+ r the AOPA Fly-In at Tullahoma Regional Airport on October 10\, 2015! A ce
+ lebration of general aviation\, our grassroots gathering features somethin
+ g for everyone with exhibitors\, aircraft displays\, seminars and activiti
+ es to interest  and delight your entire family!</p>\n<p>For more informati
+ on or to RSVP\, check out the website <a href='http://www.aopa.org/Communi
+ ty-and-Events/AOPA-Fly-In/2015/About/Tullahoma-Fly-In?utm_source=Montgomer
+ y+Minute+April+2015&utm_campaign=April+E-Newsletter&utm_medium=email'>here
+ </a>.</p>\n<div style='clear:both\;'></div>
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151011
+GEO:+35.362023;-86.209434
+LOCATION:Tullahoma Regional Airport @ Tullahoma\, TN\, USA
+SEQUENCE:0
+SUMMARY:AOPA Tullahoma Fly-In
+URL:http://www.aviationindiana.com/event/aopa-tullahoma-fly-in/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-511@www.aviationindiana.com
+DTSTAMP:20150920T002140Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;VALUE=DATE:20151013
+DTEND;VALUE=DATE:20151016
+LOCATION:Swan Lake Resort\, Plymouth\, IN
+SEQUENCE:0
+SUMMARY:AAI Annual Conference
+URL:http://www.aviationindiana.com/event/aai-annual-conference-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-681@www.aviationindiana.com
+DTSTAMP:20150920T002140Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Greenwood Airport is hosting an open house. Come check o
+ ut the food and fun on Saturday\, September 19!</p>\n<p> </p>\n<p><a href=
+ 'http://www.greenwood.in.gov/egov/documents/1441052516_27422.pdf'>http://w
+ ww.greenwood.in.gov/egov/documents/1441052516_27422.pdf</a></p>\n<div styl
+ e='clear:both\;'></div>
+DTSTART;TZID=America/New_York:20150919T090000
+DTEND;TZID=America/New_York:20150919T150000
+LOCATION:Greenwood Airport @ 897 Airport Pkwy Greenwood\, IN 46143
+SEQUENCE:0
+SUMMARY:Greenwood Airport Open House – Just PLANE Fun
+URL:http://www.aviationindiana.com/event/greenwood-airport-open-house-just-
+ plane-fun/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-682@www.aviationindiana.com
+DTSTAMP:20150920T002140Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;TZID=America/New_York:20151008T160000
+DTEND;TZID=America/New_York:20151008T180000
+GEO:+39.761653;-86.158654
+LOCATION:Slippery Noodle Atrium @ 372 South Meridian Street\, Indianapolis\
+ , IN 46225\, USA
+SEQUENCE:0
+SUMMARY:Don Manley’s Retirement Celebration
+URL:http://www.aviationindiana.com/event/don-manleys-retirement-celebration
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-508@www.aviationindiana.com
+DTSTAMP:20150920T002140Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;TZID=America/New_York:20151210T111500
+DTEND;TZID=America/New_York:20151210T140000
+LOCATION:Indy Executive Airport
+SEQUENCE:0
+SUMMARY:AAI Board Meeting
+URL:http://www.aviationindiana.com/event/aai-board-meeting-2/
+END:VEVENT
+END:VCALENDAR

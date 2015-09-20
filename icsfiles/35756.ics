@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.28.19.109//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.susandevanharness.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-433@www.susandevanharness.com
+DTSTAMP:20150920T002339Z
+CATEGORIES:
+CONTACT:Gale Pemberton\; 308-226-8286\; gale1938@live.com\; http://www.thep
+ awneeartscenter.org/speakers-september-20-and-november-15-2015/
+DESCRIPTION:<iframe src='http://www.facebook.com/plugins/like.php?href=http
+ %3A%2F%2Fwww.susandevanharness.com%2Fthanks4being%2F&layout=standard&show_
+ faces=true&width=300&height=25&action=like&font=arial&colorscheme=light'  
+ id='fbLikeIframe' name='fbLikeIframe'  scrolling='no' frameborder='0' allo
+ wTransparency='true'  class='fbLikeContainer'  style='border:none\; overfl
+ ow:hidden\; width:300px\; height:25px\; display:inline\;'  ></iframe>
+DTSTART;TZID=America/Chicago:20150920T133000
+DTEND;TZID=America/Chicago:20150920T143000
+GEO:+41.118237;-98.547193
+LOCATION:Pawnee Art Center @ Dannebrog Fire Hall\, 114 Oak Street East\, Da
+ nnebrog\, NE 68831\, USA
+SEQUENCE:0
+SUMMARY:Lecture – American Indian Transracial Adoption: Assault on Indigeno
+ us Cultures
+URL:http://www.susandevanharness.com/event/lecture-american-indian-transrac
+ ial-adoption-assault-on-indigenous-cultures/
+END:VEVENT
+END:VCALENDAR

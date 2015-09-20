@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//151.236.217.206//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://ukca.org.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-8851@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,North West\,Official Competition
+CONTACT:UKCA Admin\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<h1>UKCA Winter Championships 2015</h1>\n<p><strong>Competition
+  Dates: 5th & 6th December 2015</strong></p>\n<p>Prices\;<br />\n£20 per c
+ ompetitor per category<br />\n£5 per helper</p>\n<p>Saturday Categories:<b
+ r />\nAll Cheerleading Divisions/Levels including –<br />\nGroup Stunt and
+  Partner Stunt.</p>\n<p>Please book your team in to compete Saturday (Chee
+ rleading) or Sunday (Dance)<br />\nMore information on how to enter your t
+ eam is coming soon.</p>\n<p><a title='rules' href='http://ukca.org.uk/comp
+ etitions/rules/' target='_blank'>UKCA Competition Rules</a></p>\n<p>To hel
+ p answer any queries quickly please check the orange tab for all competiti
+ on related information before calling. You will find lots of information a
+ vailable on the UKCA web site. We have a technical committee for Cheerlead
+ ing performance related questions and an admin team for booking questions.
+ </p>\n<p>The Competition Running Order\, Start and Finish times together w
+ ith a coach letter will be emailed two weeks before the competition date t
+ o head coaches.</p>\n<p>Venue:<br />\nThe Manchester Velodrome<br />\n<a h
+ ref='http://www.nationalcyclingcentre.com/about/find-us/' onclick='__gaTra
+ cker('send'\, 'event'\, 'outbound-article'\, 'http://www.nationalcyclingce
+ ntre.com/about/find-us/'\, 'Click here')\;'>Click here</a> for more detail
+ s on directions and public transport to the venue.</p>\n<p>Online Spectato
+ r Ticket Sales: £10 for Adults and £1 for Children up to the age of 16 yea
+ rs old.</p>
+DTSTART;VALUE=DATE:20151205
+DTEND;VALUE=DATE:20151206
+GEO:+53.486239;-2.196906
+LOCATION:Manchester Velodrome @ Stuart Street\, Manchester\, Manchester M11
+ \, UK
+SEQUENCE:0
+SUMMARY:UKCA Winter Championships 2015
+URL:http://ukca.org.uk/event/ukca-winter-championships-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8854@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,North West\,Official Competition
+CONTACT:UKCA Admin\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<h1>UKCA Winter Championships 2015</h1>\n<p><strong>Competition
+  Dates: 5th & 6th December 2015</strong></p>\n<p>Prices\;<br />\n£20 per c
+ ompetitor per category<br />\n£5 per helper</p>\n<p>Sunday Categories:<br 
+ />\nPom Dance<br />\nCheer Dance<br />\nStreet Cheer<br />\nFreestyle</p>
+ \n<p>Please book your team in to compete Saturday (Cheerleading) or Sunday
+  (Dance)<br />\nMore information on how to enter your team is coming soon.
+ </p>\n<p><a title='rules' href='http://ukca.org.uk/competitions/rules/' ta
+ rget='_blank'>UKCA Competition Rules</a></p>\n<p>To help answer any querie
+ s quickly please check the orange tab for all competition related informat
+ ion before calling. You will find lots of information available on the UKC
+ A web site. We have a technical committee for Cheerleading performance rel
+ ated questions and an admin team for booking questions.</p>\n<p>The Compet
+ ition Running Order\, Start and Finish times together with a coach letter 
+ will be emailed two weeks before the competition date to head coaches.</p>
+ \n<p>Venue:<br />\nThe Manchester Velodrome<br />\n<a href='http://www.nat
+ ionalcyclingcentre.com/about/find-us/' onclick='__gaTracker('send'\, 'even
+ t'\, 'outbound-article'\, 'http://www.nationalcyclingcentre.com/about/find
+ -us/'\, 'Click here')\;'>Click here</a> for more details on directions and
+  public transport to the venue.</p>\n<p>Online Spectator Ticket Sales: £10
+  for Adults and £1 for Children up to the age of 16 years old.</p>
+DTSTART;VALUE=DATE:20151206
+DTEND;VALUE=DATE:20151207
+GEO:+53.486315;-2.19407
+LOCATION:Manchester Velodrome @ Stuart Street\, Manchester\, Manchester M11
+  4BZ\, UK
+SEQUENCE:0
+SUMMARY:UKCA Winter Championships 2015
+URL:http://ukca.org.uk/event/ukca-winter-championships-2015-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11223@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Competitions\,Northern Ireland
+CONTACT:UKCA Admin \; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<p>More information coming soon.</p>
+DTSTART;VALUE=DATE:20160226
+DTEND;VALUE=DATE:20160228
+LOCATION:Antrim Forum
+SEQUENCE:0
+SUMMARY:NI National Schools & Club Championships 2016
+URL:http://ukca.org.uk/event/ni-national-schools-club-championships-2016/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11184@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Competitions
+CONTACT:UKCA Admin\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<p>UKCA Nationals 2016 (with European qualifying categories).<b
+ r />\nMore information coming soon.</p>
+DTSTART;VALUE=DATE:20160319
+DTEND;VALUE=DATE:20160321
+LOCATION:Manchester Velodrome @ Manchester Velodrome
+SEQUENCE:0
+SUMMARY:UKCA Nationals 2016
+URL:http://ukca.org.uk/event/ukca-nationals-2016/
+X-COST:TBC
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11185@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Competitions
+CONTACT:UKCA Admin\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<p>More information coming soon.</p>
+DTSTART;VALUE=DATE:20160514
+DTEND;VALUE=DATE:20160516
+LOCATION:Manchester Velodrome @ Manchester Velodrome
+SEQUENCE:0
+SUMMARY:Spring Championship 2016
+URL:http://ukca.org.uk/event/spring-championships-2016/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11183@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Competitions
+CONTACT:UKCA Admin \; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<p>More information coming soon. </p>
+DTSTART;VALUE=DATE:20160618
+DTEND;VALUE=DATE:20160620
+LOCATION:Manchester Velodrome @ Manchester Velodrome
+SEQUENCE:0
+SUMMARY:National Schools Championship 2016
+URL:http://ukca.org.uk/event/schools-championships-2016/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11186@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Competitions
+CONTACT:UKCA Admin\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<p>More information coming soon. </p>
+DTSTART;VALUE=DATE:20161203
+DTEND;VALUE=DATE:20161205
+LOCATION:Belle Vue Manchester @ Belle Vue Manchester
+SEQUENCE:0
+SUMMARY:Winter Championship 2016
+URL:http://ukca.org.uk/event/winter-championship-2016/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10928@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Courses\,North West
+CONTACT:UKCA Admin Team\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<h1><strong><a href='http://ukca.org.uk/coaching_courses/level-
+ 1-judging-cheadle-house/'>Book Now</a></strong></h1>
+DTSTART;TZID=Europe/London:20151004T090000
+DTEND;TZID=Europe/London:20151004T170000
+LOCATION:Cheadle House\, @ Cheadle House\, Royal Crescent\, Cheadle SK8 3FS
+SEQUENCE:0
+SUMMARY:Judging Level 1
+URL:http://ukca.org.uk/event/judging-level-1/
+X-COST:£95.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10830@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Courses
+CONTACT:
+DESCRIPTION:<p>By Invitation Only</p>
+DTSTART;TZID=Europe/London:20151014T090000
+DTEND;TZID=Europe/London:20151014T120000
+LOCATION:Liverpool
+SEQUENCE:0
+SUMMARY:Matalan Sporting Promise  – Street Cheer – CLOSED
+URL:http://ukca.org.uk/event/matalan-sporting-promise-street-cheer-closed-5
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-10909@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Cheerleading Leadership Award\,Courses\,East Midl
+ ands
+CONTACT:
+DESCRIPTION:<p><strong>This is a closed course</strong></p>
+DTSTART;TZID=Europe/London:20151016T090000
+DTEND;TZID=Europe/London:20151016T150000
+LOCATION:St Lawrence Academy @ St Lawrence Academy\, Doncaster Road\, Scunt
+ horpe\, North Lincolnshire DN15 7DF
+SEQUENCE:0
+SUMMARY:Level 1 Cheerleading Leadership Award – Closed Course
+URL:http://ukca.org.uk/event/level-1-cheerleading-leadership-award-closed-c
+ ourse-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8574@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Festivals\,South West
+CONTACT:
+DESCRIPTION:<p><a href='http://www.exetercheerfestival.co.uk' onclick='__ga
+ Tracker('send'\, 'event'\, 'outbound-article'\, 'http://www.exetercheerfes
+ tival.co.uk'\, '')\;' target=blank\;><img src='http://ukca.org.uk/wp-conte
+ nt/uploads/2014/11/exeterCheerFestival-352x500.jpeg' alt='exeterCheerFesti
+ val' width='352' height='500' class='aligncenter size-medium wp-image-8734
+ ' /></a> </p>\n<p>This years Exeter Cheer Festival will be held on Saturda
+ y 17th October at the Riverside Leisure Centre!</p>\n<p>To enter your team
+  contact exetercheerfestival@live.co.uk </p>\n<p>For more information <a h
+ ref='http://www.exetercheerfestival.co.uk' onclick='__gaTracker('send'\, '
+ event'\, 'outbound-article'\, 'http://www.exetercheerfestival.co.uk'\, 'cl
+ ick here')\;' target=blank\;>click here</a> </p>
+DTSTART;TZID=Europe/London:20151017T090000
+GEO:+50.717677;-3.538495
+LOCATION:Riverside Leisure Centre @ Cowick Street\, Exeter\, Devon EX4\, UK
+SEQUENCE:0
+SUMMARY:Exeter Cheer Festival 2015
+URL:http://ukca.org.uk/event/exeter-cheer-festival-2015/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8612@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Cheerleading Leadership Award\,Courses\,South Eas
+ t
+CONTACT:UKCA Admin\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<h1><strong><a href='http://ukca.org.uk/coaching_courses/cheerl
+ eading-leadership-award-cedars-academy/'>Book Now</a></strong></h1>
+DTSTART;TZID=Europe/London:20151026T090000
+DTEND;TZID=Europe/London:20151026T150000
+GEO:+51.907763;-0.673577
+LOCATION:Cedars Academy @ Cedars Upper School\, Mentmore Road\, Leighton Bu
+ zzard\, Bedfordshire LU7 2AE\, UK
+SEQUENCE:0
+SUMMARY:Level 1 Cheerleading Leadership Award
+URL:http://ukca.org.uk/event/level-1-cheerleading-leadership-award-22/
+X-COST:£35.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8613@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Courses\,Level 2 Cheerleading Basic Skills\,South
+  East
+CONTACT:UKCA Admin\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<h1><strong><a href='http://ukca.org.uk/coaching_courses/cheerl
+ eading-basic-skills-cedars-academy/'>Book Now</a></strong></h1>
+DTSTART;TZID=Europe/London:20151027T090000
+DTEND;TZID=Europe/London:20151027T150000
+GEO:+51.907763;-0.673577
+LOCATION:Cedars Academy @ Cedars Upper School\, Mentmore Road\, Leighton Bu
+ zzard\, Bedfordshire LU7 2AE\, UK
+SEQUENCE:0
+SUMMARY:Level 2 Cheerleading Basic Skills
+URL:http://ukca.org.uk/event/level-2-cheerleading-basic-skills-35/
+X-COST:£95.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8614@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Courses\,Level 3 Cheerleading Basic Stunts\,South
+  East
+CONTACT:UKCA Admin\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<h1><strong><a href='http://ukca.org.uk/coaching_courses/cheerl
+ eading-basic-stunts-cedars-academy/'>Book Now</a></strong></h1>
+DTSTART;TZID=Europe/London:20151028T090000
+DTEND;TZID=Europe/London:20151028T170000
+GEO:+51.907763;-0.673577
+LOCATION:Cedars Academy @ Cedars Upper School\, Mentmore Road\, Leighton Bu
+ zzard\, Bedfordshire LU7 2AE\, UK
+SEQUENCE:0
+SUMMARY:Level 3 Cheerleading Basic Stunts
+URL:http://ukca.org.uk/event/level-3-cheerleading-basic-stunts-25/
+X-COST:£115.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8615@ukca.org.uk
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Courses\,Level 2 Street Cheer Basic Skills\,South
+  East
+CONTACT:UKCA Admin\; 01625 838 557\; admin@ukca.org.uk
+DESCRIPTION:<h1><strong><a href='http://ukca.org.uk/coaching_courses/street
+ -cheer-basic-skills-cedars-academy/'>Book Now</a></strong></h1>
+DTSTART;TZID=Europe/London:20151029T090000
+DTEND;TZID=Europe/London:20151029T150000
+GEO:+51.907763;-0.673577
+LOCATION:Cedars Academy @ Cedars Upper School\, Mentmore Road\, Leighton Bu
+ zzard\, Bedfordshire LU7 2AE\, UK
+SEQUENCE:0
+SUMMARY:Level 2 Street Cheer Basic Skills
+URL:http://ukca.org.uk/event/level-2-street-cheer-basic-skills-24/
+X-COST:£95.00
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//149.202.127.17//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://goalpoint.pt
+X-WR-TIMEZONE:Europe/Lisbon
+BEGIN:VTIMEZONE
+TZID:Europe/Lisbon
+X-LIC-LOCATION:Europe/Lisbon
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:WET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:WEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-23784@goalpoint.pt
+DTSTAMP:20150920T002438Z
+CATEGORIES;LANGUAGE=pt-PT:FC Porto\,SL Benfica
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://goalpoint.pt/wp-content/uploads/2015/07/Brahimi800X433-300x162.jpg' wid
+ th='300' height='162' /></div><p>Liga NOS 2015/16 | SPORTTV | O FC Porto r
+ ecebe o SL Benfica no primeiro clássico da Liga.</p>
+DTSTART;TZID=Europe/Lisbon:20150920T191500
+DTEND;TZID=Europe/Lisbon:20150920T210000
+GEO:+41.16177;-8.583591
+LOCATION:Estádio do Dragão @ Estádio do Dragão\, 4350-415 Porto\, Portugal
+SEQUENCE:0
+SUMMARY:FC Porto vs SL Benfica
+URL:http://goalpoint.pt/blog/event/fc-porto-vs-sl-benfica
+X-TAGS;LANGUAGE=pt-PT:FC Porto\,Liga NOS 2015/16\,SL Benfica
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-23785@goalpoint.pt
+DTSTAMP:20150920T002438Z
+CATEGORIES;LANGUAGE=pt-PT:Sporting CP
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://goalpoint.pt/wp-content/uploads/2015/08/SportingCPRuiz800x433-300x162.j
+ pg' width='300' height='162' /></div><p>Liga NOS 2015/16 | SPORTTV | O Spo
+ rting CP recebe o nacional na mesma jornada em que Porto e Benfica se defr
+ otnam no Dragão.</p>
+DTSTART;TZID=Europe/Lisbon:20150921T210000
+DTEND;TZID=Europe/Lisbon:20150921T224500
+GEO:+38.76123;-9.161796
+LOCATION:Estádio José Alvalade @ Estádio Alvalade XXI\, Rua Professor Ferna
+ ndo da Fonseca\, 1501-806 Lisboa\, Portugal
+SEQUENCE:0
+SUMMARY:Sporting CP vs CD Nacional
+URL:http://goalpoint.pt/blog/event/sporting-cp-vs-cd-nacional
+X-TAGS;LANGUAGE=pt-PT:CD Nacional\,Liga NOS 2015/16\,Sporting CP
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-23786@goalpoint.pt
+DTSTAMP:20150920T002438Z
+CATEGORIES;LANGUAGE=pt-PT:FC Porto
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://goalpoint.pt/wp-content/uploads/2015/08/AdeptosFCPAgenda-300x162.jpg' w
+ idth='300' height='162' /></div><p>Liga NOS 2015/16 | SPORTTV | O FC Porto
+  visita o Moreirense na 6ª jornada da Liga.</p>
+DTSTART;TZID=Europe/Lisbon:20150925T083000
+DTEND;TZID=Europe/Lisbon:20150925T101500
+LOCATION:Estádio Comendador Joaquim de Almeida Freitas
+SEQUENCE:0
+SUMMARY:Moreirense FC vs FC Porto
+URL:http://goalpoint.pt/blog/event/moreirense-fc-vs-fc-porto
+X-TAGS;LANGUAGE=pt-PT:FC Porto\,Liga NOS 2015/16\,Moreirense FC
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-23788@goalpoint.pt
+DTSTAMP:20150920T002438Z
+CATEGORIES;LANGUAGE=pt-PT:SL Benfica
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://goalpoint.pt/wp-content/uploads/2015/08/AgendaSLBMitroglou800x433-300x1
+ 62.jpg' width='300' height='162' /></div><p>Liga NOS 2015/16 | BTV | O SL 
+ Benfica recebe o Paços de Ferreira na Luz.</p>
+DTSTART;TZID=Europe/Lisbon:20150926T183000
+DTEND;TZID=Europe/Lisbon:20150926T201500
+GEO:+38.752711;-9.184774
+LOCATION:Estádio da Luz @ Estádio da Luz\, Avenida General Norton de Matos\
+ , 1500-313 Lisboa\, Portugal
+SEQUENCE:0
+SUMMARY:SL Benfica vs FC P. Ferreira
+URL:http://goalpoint.pt/blog/event/sl-benfica-vs-fc-p-ferreira
+X-TAGS;LANGUAGE=pt-PT:Liga NOS 2015/16\,Paços de Ferreira\,SL Benfica
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-23789@goalpoint.pt
+DTSTAMP:20150920T002438Z
+CATEGORIES;LANGUAGE=pt-PT:Sporting CP
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://goalpoint.pt/wp-content/uploads/2015/07/SCP2800X433-300x162.jpg' width=
+ '300' height='162' /></div><p>Liga NOS 2015/16 | SPORTTV | O Boavista FC r
+ ecebe o Sporting CP na 6ª jornada da Liga.</p>
+DTSTART;TZID=Europe/Lisbon:20150926T204500
+DTEND;TZID=Europe/Lisbon:20150926T214500
+GEO:+41.162194;-8.642572
+LOCATION:Estádio do Bessa @ Estádio do Bessa Século XXI\, Rua O 1º de Janei
+ ro\, 4100 Porto\, Portugal
+SEQUENCE:0
+SUMMARY:Boavista FC vs Sporting CP
+URL:http://goalpoint.pt/blog/event/boavista-fc-vs-sporting-cp
+X-TAGS;LANGUAGE=pt-PT:Boavista FC\,Sporting CP
+END:VEVENT
+END:VCALENDAR

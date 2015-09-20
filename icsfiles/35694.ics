@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//176.31.206.195//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.relience.be
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-863@www.relience.be
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=fr-FR:Formations
+CONTACT:Stévins Christian\; 085/21.12.00\; christian.stevins@relience.be
+DESCRIPTION:<p>Module d’initiation à la sophrologie niveau 2<br />\n« Explo
+ rer l’intelligence émotionnelle »</p>\n<p>Les émotions\, ça déménage ! Exe
+ rcer notre intelligence émotionnelle aide à mieux nous débrouiller avec no
+ s émotions\, à construire un meilleur sentiment de soi et donne des atouts
+  pour s’engager dans l’avenir.</p>\n<p>MIEUX VIVRE SES EMOTIONS<br />\n– C
+ ontenir les effets d’une sensibilité excessive.<br />\n– Ré-apprivoiser un
+ e sensibilité blessée par une histoire difficile ou un traumatisme.<br />
+ \n– Faire face aux difficultés de la vie quotidienne.<br />\n– Garder le m
+ oral\, entretenir une dynamique d’espoir.<br />\n– Mieux accepter l’image 
+ de soi.<br />\n– Reconquérir l’estime de soi\, se réconcilier avec soi.<br
+  />\n-…<br />\nSE MOTIVER POUR MIEUX ANTICIPER :<br />\n– Arrêter une spir
+ ale d’échec.<br />\n– Soutenir une dynamique de projet\, d’apprentissage\,
+  d’évolution.<br />\n– Eviter de paniquer.<br />\n– Préparer un évènement 
+ important.<br />\n– ou tout simplement avoir un projet de vie.<br />\n-…</
+ p>\n<p>Prérequis: avoir suivi 10 séances d’initiation à la sophrologie 1er
+  niveau.</p>\n<p>Dates: 28 septembre 2015<br />\n       5\, 12\, 19\, 26 o
+ ctobre 2015<br />\n       9\, 16\, 23\, 30 novembre 2015<br />\n       7 d
+ écembre 2015</p>\n<p>Les lundis de 20 h à 21h15</p>\n<p>Centre RElienCE 33
+ 0 rue du Val notre Dame 4520 MOHA</p>\n<p>www.relience.be</p>
+DTSTART;TZID=Europe/Brussels:20150928T180000
+DTEND;TZID=Europe/Brussels:20150928T191500
+EXDATE;TZID=Europe/Brussels:20151101T180000
+LOCATION:Centre RElienCE @ Rue du Val Notre Dame 330\, 4520 Wanze\, Belgiqu
+ e
+SEQUENCE:0
+SUMMARY:Module d’initiation à la sophrologie 2ème niveau
+URL:http://www.relience.be/event/module-dinitiation-a-la-sophrologie-2eme-n
+ iveau/
+X-COST:150€ le module de 10 séances
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-864@www.relience.be
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=fr-FR:Marches
+CONTACT:Christian STEVINS\; +32 476 41.16.84\; info@relience.be
+DESCRIPTION:<p>« LA MARCHE AFGHANE »</p>\n<p>Lors de l’observation de carav
+ aniers en Afghanistan\, E. Stiegler a constaté que ces nomades parcouraien
+ t 700 kms d’une seule traite\, à part les bivouacs nocturnes\, sans être e
+ xcessivement fatigués. Il se rendit compte qu’ils respiraient en suroxygén
+ ant naturellement leur organisme.</p>\n<p>Il proposa alors la « Marche Afg
+ hane ».</p>\n<p>Pendant cet atelier nous synchroniseront la marche et la r
+ espiration suivant des rythmes bien précis sur différents dénivelés.</p>\n
+ <p>La suroxygénation naturelle qui en résulte assure une bonne vitalisatio
+ n et ouvre la voie à la paix intérieure et à la confiance en soi.</p>\n<p>
+ Elle nous permettra une efficacité corporelle accrue dans diverses circons
+ tances de terrains et de pentes.</p>\n<p>Les bénéfices obtenus tant sur le
+  plan physique\, mental\, spirituel et nerveux nous permettront\, grâce à 
+ l’entrainement\, de retrouver une vitalité accrue\, un sommeil réparateur\
+ , un bien-être corporel\, une résistance nouvelle et une paix intérieure.<
+ /p>\n<p>Atelier de 3 hrs</p>\n<p>Centre RElienCE 330\, rue du Val notre Da
+ me 4520 Moha</p>\n<p>Renseignements et inscriptions obligatoires: www.reli
+ ence.be</p>
+DTSTART;TZID=Europe/Brussels:20151010T120000
+DTEND;TZID=Europe/Brussels:20151010T150000
+LOCATION:Centre RElienCE @ Rue du Val Notre Dame 330\, 4520 Wanze\, Belgiqu
+ e
+SEQUENCE:0
+SUMMARY:Atelier « Marche Afghane» (Moha)
+URL:http://www.relience.be/event/atelier-marche-afghane-moha-3/
+X-COST:25 EUR
+END:VEVENT
+END:VCALENDAR

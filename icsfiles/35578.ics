@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//72.21.22.112//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.playalindabrewingcompany.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-706@www.playalindabrewingcompany.com
+DTSTAMP:20150920T002330Z
+CATEGORIES:
+CONTACT:Playalinda Brewing - Marketing\; 321-225-8978\; marketing@playalind
+ abrewingcompany.com\; http://www.playalindabrewingcompany.com/run-club-2/
+DESCRIPTION:<p> </p>\n<p><img class='alignnone size-thumbnail wp-image-657 
+ aligncenter' src='http://www.playalindabrewingcompany.com/wp-content/uploa
+ ds/2015/04/run_club-150x150.jpg' alt='run_club' width='150' height='150' /
+ ></p>\n<p style='text-align: center\;'>Playalinda Run Club will meet the 1
+ st and 3rd Tuesday of the month at 6:30 PM.</p>\n<p style='text-align: cen
+ ter\;'>Two 5K routes to choose from that start and end at the brewery. Che
+ ers!</p>\n<p style='text-align: center\;'>
+DTSTART;TZID=America/New_York:20151006T183000
+DTEND;TZID=America/New_York:20151006T200000
+GEO:+28.612351;-80.807339
+LOCATION:Playalinda Brewing Company @ 305 South Washington Avenue\, Titusvi
+ lle\, FL 32796\, USA
+RDATE;TZID=America/New_York:20150505T183000
+RDATE;TZID=America/New_York:20150519T183000
+RDATE;TZID=America/New_York:20150602T183000
+RDATE;TZID=America/New_York:20150616T183000
+RDATE;TZID=America/New_York:20150707T183000
+RDATE;TZID=America/New_York:20150721T183000
+RDATE;TZID=America/New_York:20150804T183000
+RDATE;TZID=America/New_York:20150818T183000
+RDATE;TZID=America/New_York:20150901T183000
+RDATE;TZID=America/New_York:20150915T183000
+RDATE;TZID=America/New_York:20151006T183000
+RDATE;TZID=America/New_York:20151020T183000
+RDATE;TZID=America/New_York:20151103T183000
+RDATE;TZID=America/New_York:20151117T183000
+RDATE;TZID=America/New_York:20151201T183000
+RDATE;TZID=America/New_York:20151215T183000
+SEQUENCE:0
+SUMMARY:Run Club
+URL:http://www.playalindabrewingcompany.com/event/run-club/
+END:VEVENT
+END:VCALENDAR

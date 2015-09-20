@@ -1,0 +1,756 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.61.65.227//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://stonycreekswimcenter.com
+X-WR-TIMEZONE:America/Indiana/Indianapolis
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+X-LIC-LOCATION:America/Indiana/Indianapolis
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1ohqjjgbeo33cquq9c2e1bc3e0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SEQUENCE:0
+SUMMARY:Cancellation deadline for next month (Noblesville lessons only)
+URL:http://stonycreekswimcenter.com/event/cancellation-deadline-for-next-mo
+ nth-noblesville-lessons-only/
+END:VEVENT
+BEGIN:VEVENT
+UID:ukrmrf6fkqamg5qkm899upnr08@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Camp meets Monday through Friday from 9am-4pm with extended 
+ care available.</p>
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151017
+SEQUENCE:0
+SUMMARY:Fall Break Day Camps at SCSC
+URL:http://stonycreekswimcenter.com/event/fall-break-day-camps-at-scsc/
+END:VEVENT
+BEGIN:VEVENT
+UID:4t8e05ii318bjjmlnk9m3vsmgs@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151015
+DTEND;VALUE=DATE:20151016
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SEQUENCE:0
+SUMMARY:Direct Debit Withdrawal
+URL:http://stonycreekswimcenter.com/event/direct-debit-withdrawal-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:4cgibu2bcrvj71letucpdsuuds@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Camp meets Monday through Friday from 9am-4pm with extended 
+ care available.</p>
+DTSTART;VALUE=DATE:20151019
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Fall Break Day Camp at SCSC
+URL:http://stonycreekswimcenter.com/event/fall-break-day-camp-at-scsc/
+END:VEVENT
+BEGIN:VEVENT
+UID:cudmlam3tn1n2pnj1vc5ae8gj8@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151109
+DTEND;VALUE=DATE:20151115
+SEQUENCE:0
+SUMMARY:Noblesville Student Evaluations
+URL:http://stonycreekswimcenter.com/event/noblesville-student-evaluations-9
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:cn9f19kvekkhe0lgj5c6oe2158@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151110
+DTEND;VALUE=DATE:20151111
+SEQUENCE:0
+SUMMARY:Quarterly Payments Due (Dec/Jan/Feb)
+URL:http://stonycreekswimcenter.com/event/quarterly-payments-due-decjanfeb/
+END:VEVENT
+BEGIN:VEVENT
+UID:r7rslhfghhmejfdmhv1thqvfig@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151125
+DTEND;VALUE=DATE:20151129
+SEQUENCE:0
+SUMMARY:Closed for Thanksgiving
+URL:http://stonycreekswimcenter.com/event/closed-for-thanksgiving-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:8bu31egsumtiqof5q1lbpgjebk@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151207
+DTEND;VALUE=DATE:20151213
+SEQUENCE:0
+SUMMARY:Noblesville Student Evaluations
+URL:http://stonycreekswimcenter.com/event/noblesville-student-evaluations-8
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:iof51n63miiki20optm93tilpg@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151222
+DTEND;VALUE=DATE:20160103
+SEQUENCE:0
+SUMMARY:Closed for Christmas Break
+URL:http://stonycreekswimcenter.com/event/closed-for-christmas-break-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:1ib8jkbbpnljj0f3f8ghm30f7o@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160201
+DTEND;VALUE=DATE:20160207
+SEQUENCE:0
+SUMMARY:Noblesville Student Evaluations
+URL:http://stonycreekswimcenter.com/event/noblesville-student-evaluations-7
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2127@stonycreekswimcenter.com/_wp
+DTSTAMP:20150920T003709Z
+CATEGORIES;LANGUAGE=en-US:SCSC-Noblesville
+CONTACT:
+DESCRIPTION:<p>The quarterly payment for March/April/May is due on February
+  15th.</p>
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+RRULE:FREQ=YEARLY;BYMONTH=2
+SEQUENCE:0
+SUMMARY:Quarterly Payment Due
+URL:http://stonycreekswimcenter.com/event/quarterly-payment-due/
+END:VEVENT
+BEGIN:VEVENT
+UID:prkvmt9eha5hkf22161dq8b00g@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160318
+DTEND;VALUE=DATE:20160325
+SEQUENCE:0
+SUMMARY:Noblesville Student Evaluations
+URL:http://stonycreekswimcenter.com/event/noblesville-student-evaluations-6
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:clbsjpgkgncf6n2ir11k17fhv4@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160402
+DTEND;VALUE=DATE:20160409
+SEQUENCE:0
+SUMMARY:Closed for Spring Break April 2nd-8th
+URL:http://stonycreekswimcenter.com/event/closed-for-spring-break-april-2nd
+ -8th/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ptkfqgdkohj233hkmq98sd34@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160516
+DTEND;VALUE=DATE:20160522
+SEQUENCE:0
+SUMMARY:Noblesville Student Evaluations
+URL:http://stonycreekswimcenter.com/event/noblesville-student-evaluations-5
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:9ropo0jfvdgl6nsmbmhfv9e0kg@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160529
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:Noblesville closed for Memorial Day
+URL:http://stonycreekswimcenter.com/event/noblesville-closed-for-memorial-d
+ ay-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:9iqbuksttstlq4rt76ng3r40j0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160606
+DTEND;VALUE=DATE:20160610
+EXDATE;TZID=America/Indiana/Indianapolis:20160620T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20160627T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20160704T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20160711T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20160718T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20160725T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20160801T000000
+EXDATE;TZID=America/Indiana/Indianapolis:20160808T000000
+RRULE:FREQ=WEEKLY;UNTIL=20160808;BYDAY=MO
+SEQUENCE:0
+SUMMARY:SPLASH 1
+URL:http://stonycreekswimcenter.com/event/splash-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016620-9iqbuksttstlq4rt76ng3r40j0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160620
+DTEND;VALUE=DATE:20160624
+SEQUENCE:0
+SUMMARY:SPLASH 2
+URL:http://stonycreekswimcenter.com/event/splash-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016627-9iqbuksttstlq4rt76ng3r40j0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160627
+DTEND;VALUE=DATE:20160701
+SEQUENCE:0
+SUMMARY:SPLASH 2
+URL:http://stonycreekswimcenter.com/event/splash-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:aonbu4hen51h2oc3hv65h2hi5s@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160704
+DTEND;VALUE=DATE:20160705
+SEQUENCE:0
+SUMMARY:No SPLASH Classes
+URL:http://stonycreekswimcenter.com/event/no-splash-classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:oeghf3rf6mdjfb36go8ivslbak@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160704
+DTEND;VALUE=DATE:20160705
+SEQUENCE:0
+SUMMARY:Noblesville closed for July 4th
+URL:http://stonycreekswimcenter.com/event/noblesville-closed-for-july-4th/
+END:VEVENT
+BEGIN:VEVENT
+UID:201674-9iqbuksttstlq4rt76ng3r40j0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160705
+DTEND;VALUE=DATE:20160709
+SEQUENCE:0
+SUMMARY:SPLASH 3
+URL:http://stonycreekswimcenter.com/event/splash-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:r3d9jtl6r0bbd6g5avbfqjoqpg@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160711
+DTEND;VALUE=DATE:20160717
+SEQUENCE:0
+SUMMARY:Noblesville Student Evaluations
+URL:http://stonycreekswimcenter.com/event/noblesville-student-evaluations-4
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:2016711-9iqbuksttstlq4rt76ng3r40j0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160711
+DTEND;VALUE=DATE:20160715
+SEQUENCE:0
+SUMMARY:SPLASH 3
+URL:http://stonycreekswimcenter.com/event/splash-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016718-9iqbuksttstlq4rt76ng3r40j0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160718
+DTEND;VALUE=DATE:20160722
+SEQUENCE:0
+SUMMARY:SPLASH 4
+URL:http://stonycreekswimcenter.com/event/splash-4-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016725-9iqbuksttstlq4rt76ng3r40j0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160725
+DTEND;VALUE=DATE:20160729
+SEQUENCE:0
+SUMMARY:SPLASH 4
+URL:http://stonycreekswimcenter.com/event/splash-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:201681-9iqbuksttstlq4rt76ng3r40j0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160801
+DTEND;VALUE=DATE:20160805
+SEQUENCE:0
+SUMMARY:SPLASH 5
+URL:http://stonycreekswimcenter.com/event/splash-5-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:201688-9iqbuksttstlq4rt76ng3r40j0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160808
+DTEND;VALUE=DATE:20160812
+SEQUENCE:0
+SUMMARY:SPLASH 5
+URL:http://stonycreekswimcenter.com/event/splash-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:f801daqaji75estcfj4r48o6q0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160905
+DTEND;VALUE=DATE:20160906
+SEQUENCE:0
+SUMMARY:Legends closes for the season at 8pm
+URL:http://stonycreekswimcenter.com/event/legends-closes-for-the-season-at-
+ 8pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:f742lpsj22u4fg7qcv20mv5e0c@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160905
+DTEND;VALUE=DATE:20160906
+SEQUENCE:0
+SUMMARY:Noblesville closed for Labor Day
+URL:http://stonycreekswimcenter.com/event/noblesville-closed-for-labor-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:c3pd8d5ambiuu3cngp0jkdu7n8@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160906
+DTEND;VALUE=DATE:20160913
+SEQUENCE:0
+SUMMARY:Noblesville Student Evaluations
+URL:http://stonycreekswimcenter.com/event/noblesville-student-evaluations-3
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:p6uue072rmitedopkecm7iob60@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161031
+DTEND;VALUE=DATE:20161101
+SEQUENCE:0
+SUMMARY:Noblesville closes at 4pm for Halloween
+URL:http://stonycreekswimcenter.com/event/noblesville-closes-at-4pm-for-hal
+ loween/
+END:VEVENT
+BEGIN:VEVENT
+UID:fm8udpp0akvnf9kq96j9r9ak1c@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161101
+DTEND;VALUE=DATE:20161108
+SEQUENCE:0
+SUMMARY:Noblesville Student Evaluations
+URL:http://stonycreekswimcenter.com/event/noblesville-student-evaluations-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:jksqv9rogqiu6ge2qlhed9a4d0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161123
+DTEND;VALUE=DATE:20161127
+SEQUENCE:0
+SUMMARY:Noblesville closed for Thanksgiving
+URL:http://stonycreekswimcenter.com/event/noblesville-closed-for-thanksgivi
+ ng/
+END:VEVENT
+BEGIN:VEVENT
+UID:85ulm4det7jtdhi9gr6if9uibo@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161210
+DTEND;VALUE=DATE:20161217
+SEQUENCE:0
+SUMMARY:Noblesville Student Evaluations
+URL:http://stonycreekswimcenter.com/event/noblesville-student-evaluations/
+END:VEVENT
+BEGIN:VEVENT
+UID:mcr6thg0gtckrnfb3r4b6euh7s@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161224
+DTEND;VALUE=DATE:20170102
+SEQUENCE:0
+SUMMARY:Noblesville closed for Christmas Break
+URL:http://stonycreekswimcenter.com/event/noblesville-closed-for-christmas-
+ break/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a6tsijilqidu8g808el3n7hg@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20150920T160000
+DTEND;TZID=America/Indiana/Indianapolis:20150920T180000
+EXDATE;TZID=America/Indiana/Indianapolis:20151206T160000
+EXDATE;TZID=America/Indiana/Indianapolis:20151227T160000
+EXDATE;TZID=America/Indiana/Indianapolis:20160214T160000
+EXDATE;TZID=America/Indiana/Indianapolis:20160327T160000
+EXDATE;TZID=America/Indiana/Indianapolis:20160508T160000
+EXDATE;TZID=America/Indiana/Indianapolis:20160522T160000
+RRULE:FREQ=WEEKLY;UNTIL=20160522T200000Z;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Open Swim at Noblesville
+URL:http://stonycreekswimcenter.com/event/open-swim-at-noblesville-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:n2vm0fdctf8ucgs09laogt3620@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20150926T120000
+DTEND;TZID=America/Indiana/Indianapolis:20150926T150000
+SEQUENCE:0
+SUMMARY:Make-ups 12pm-3pm
+URL:http://stonycreekswimcenter.com/event/make-ups-12pm-3pm-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:anvmg6h8c8ff4v5c626omejk9s@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151009T183000
+DTEND;TZID=America/Indiana/Indianapolis:20151009T223000
+SEQUENCE:0
+SUMMARY:Parent’s Night Out
+URL:http://stonycreekswimcenter.com/event/parents-night-out-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:tur137ugij65c2fprtg0o3ahh0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151024T120000
+DTEND;TZID=America/Indiana/Indianapolis:20151024T150000
+SEQUENCE:0
+SUMMARY:Make-ups 12pm-3pm
+URL:http://stonycreekswimcenter.com/event/make-ups-12pm-3pm-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:9cdarjmjp1upq3nkffu7vqckqk@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151113T183000
+DTEND;TZID=America/Indiana/Indianapolis:20151113T223000
+SEQUENCE:0
+SUMMARY:Parent’s Night Out
+URL:http://stonycreekswimcenter.com/event/parents-night-out-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:jsg2uvptudg4mb7ee73v052or0@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151121T120000
+DTEND;TZID=America/Indiana/Indianapolis:20151121T150000
+SEQUENCE:0
+SUMMARY:Make-ups 12pm-3pm
+URL:http://stonycreekswimcenter.com/event/make-ups-12pm-3pm-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:30789EF4-4A42-4E50-9BF8-E7CAA0F5BCC3
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151206T140000
+DTEND;TZID=America/Indiana/Indianapolis:20151206T180000
+SEQUENCE:0
+SUMMARY:Swim with Santa
+URL:http://stonycreekswimcenter.com/event/swim-with-santa-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:9qovk1b8f2cugv7901j13v9t68@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151211T183000
+DTEND;TZID=America/Indiana/Indianapolis:20151211T223000
+SEQUENCE:0
+SUMMARY:Parent’s Night Out
+URL:http://stonycreekswimcenter.com/event/parents-night-out/
+END:VEVENT
+BEGIN:VEVENT
+UID:85p7913rtkv6mep1vcvcta6s7s@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151219T120000
+DTEND;TZID=America/Indiana/Indianapolis:20151219T150000
+SEQUENCE:0
+SUMMARY:Make-ups 12pm-3pm
+URL:http://stonycreekswimcenter.com/event/make-ups-12pm-3pm-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:20151227160000-c4a6tsijilqidu8g808el3n7hg@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151227T160000
+DTEND;TZID=America/Indiana/Indianapolis:20151227T180000
+SEQUENCE:0
+SUMMARY:Open Swim at Noblesville – CANCELLED
+URL:http://stonycreekswimcenter.com/event/open-swim-at-noblesville-cancelle
+ d/
+END:VEVENT
+BEGIN:VEVENT
+UID:f2o1ahkub16lfr6qt85b4u6hs8@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20151231T190000
+DTEND;TZID=America/Indiana/Indianapolis:20160101T010000
+SEQUENCE:0
+SUMMARY:New Year’s Eve Parents Night Out
+URL:http://stonycreekswimcenter.com/event/new-years-eve-parents-night-out/
+END:VEVENT
+BEGIN:VEVENT
+UID:e2cb65k9jekv3t64k4vnudjg4c@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20160123T120000
+DTEND;TZID=America/Indiana/Indianapolis:20160123T150000
+EXDATE;TZID=America/Indiana/Indianapolis:20160528T120000
+EXDATE;TZID=America/Indiana/Indianapolis:20161126T120000
+EXDATE;TZID=America/Indiana/Indianapolis:20161224T120000
+RRULE:FREQ=MONTHLY;BYDAY=4SA
+SEQUENCE:0
+SUMMARY:Make-ups 12pm-3pm
+URL:http://stonycreekswimcenter.com/event/make-ups-12pm-3pm-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016214160000-c4a6tsijilqidu8g808el3n7hg@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20160214T160000
+DTEND;TZID=America/Indiana/Indianapolis:20160214T210000
+SEQUENCE:0
+SUMMARY:Valentine’s Day Parents Night Out
+URL:http://stonycreekswimcenter.com/event/valentines-day-parents-night-out/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016327160000-c4a6tsijilqidu8g808el3n7hg@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20160327T160000
+DTEND;TZID=America/Indiana/Indianapolis:20160327T180000
+SEQUENCE:0
+SUMMARY:No open swim due to Easter
+URL:http://stonycreekswimcenter.com/event/no-open-swim-due-to-easter/
+END:VEVENT
+BEGIN:VEVENT
+UID:201658160000-c4a6tsijilqidu8g808el3n7hg@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20160508T160000
+DTEND;TZID=America/Indiana/Indianapolis:20160508T180000
+SEQUENCE:0
+SUMMARY:No open swim due to Mother’s Day
+URL:http://stonycreekswimcenter.com/event/no-open-swim-due-to-mothers-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016528120000-e2cb65k9jekv3t64k4vnudjg4c@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20160521T120000
+DTEND;TZID=America/Indiana/Indianapolis:20160521T150000
+SEQUENCE:0
+SUMMARY:Make-ups 12pm-3pm
+URL:http://stonycreekswimcenter.com/event/make-ups-12pm-3pm-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:2016522160000-c4a6tsijilqidu8g808el3n7hg@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20160522T160000
+DTEND;TZID=America/Indiana/Indianapolis:20160522T180000
+SEQUENCE:0
+SUMMARY:Open Swim at Noblesville – last one until Sept
+URL:http://stonycreekswimcenter.com/event/open-swim-at-noblesville-last-one
+ -until-sept/
+END:VEVENT
+BEGIN:VEVENT
+UID:33jr06qsj00hrtr0hqg33ja8bs@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20160911T160000
+DTEND;TZID=America/Indiana/Indianapolis:20160911T180000
+EXDATE;TZID=America/Indiana/Indianapolis:20161225T160000
+EXDATE;TZID=America/Indiana/Indianapolis:20170101T160000
+RRULE:FREQ=WEEKLY;UNTIL=20170521T200000Z;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Open Swim at Noblesville
+URL:http://stonycreekswimcenter.com/event/open-swim-at-noblesville-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161126120000-e2cb65k9jekv3t64k4vnudjg4c@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20161119T120000
+DTEND;TZID=America/Indiana/Indianapolis:20161119T150000
+SEQUENCE:0
+SUMMARY:Make-ups 12pm-3pm
+URL:http://stonycreekswimcenter.com/event/make-ups-12pm-3pm-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161224120000-e2cb65k9jekv3t64k4vnudjg4c@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20161217T120000
+DTEND;TZID=America/Indiana/Indianapolis:20161217T150000
+SEQUENCE:0
+SUMMARY:Make-ups 12pm-3pm
+URL:http://stonycreekswimcenter.com/event/make-ups-12pm-3pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:20161225160000-33jr06qsj00hrtr0hqg33ja8bs@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20161225T160000
+DTEND;TZID=America/Indiana/Indianapolis:20161225T180000
+SEQUENCE:0
+SUMMARY:No open swim due to Christmas
+URL:http://stonycreekswimcenter.com/event/no-open-swim-due-to-christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:201711160000-33jr06qsj00hrtr0hqg33ja8bs@google.com
+DTSTAMP:20150920T003709Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20170101T160000
+DTEND;TZID=America/Indiana/Indianapolis:20170101T180000
+SEQUENCE:0
+SUMMARY:No open swim due to New Year’s Day
+URL:http://stonycreekswimcenter.com/event/no-open-swim-due-to-new-years-day
+ /
+END:VEVENT
+END:VCALENDAR

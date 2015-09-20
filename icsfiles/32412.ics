@@ -1,0 +1,482 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.97.177.131//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.redskinsrally.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-307@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Rams (1:00 EST)</h4>\n<p>Join
+  Redskins fans for a great game watching experience at an official Bud Lig
+ ht Redskins Rally Party!</p>\n<p><span style='text-decoration: underline\;
+ '>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<ul>
+ \n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site giv
+ eaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to the 
+ next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img class
+ =' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/wp-
+ content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodSpo
+ rtLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20150920T123000
+DTEND;TZID=America/New_York:20150920T143000
+GEO:+38.982523;-77.095277
+LOCATION:The Barking Dog @ 4723 Elm Street\, Bethesda\, MD 20814\, USA
+SEQUENCE:0
+SUMMARY:Redskins Rally
+URL:http://www.redskinsrally.com/event/redskins-rally-barking-dog-bethesda/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2200@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Road Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/09/dorrians.jpg' a
+ lt='Redskins Rally' width='300' height='200' />Join us on the road in New 
+ York!<br />\n</strong></h3>\n<p>Join Redskins fans at an official Redskins
+  Road Rally the night before Redskins vs NY Giants game at Dorrian’s Red H
+ and in New York City!</p>\n<p><span style='text-decoration: underline\;'>R
+ edskins Road Rallies are FREE to attend and feature:</span></p>\n<ul>\n<li
+ >Appearances by Washington Redskins special guests</li>\n<li>A FREE Redski
+ ns NYC T-Shirt*</li>\n<li>On-site raffle for autographed items\, game tick
+ ets\, and more!</li>\n</ul>\n<p><a style='color: #660000\;' href='http://w
+ ww.redskins.com/assets/docs/redskins-road-rally-new-york-dorrians.pdf' tar
+ get='_blank'>View Promotional Flyer</a></p>\n<p><em>*While supplies last.<
+ /em></p>
+DTSTART;TZID=America/New_York:20150923T183000
+DTEND;TZID=America/New_York:20150923T203000
+GEO:+40.776325;-73.952449
+LOCATION:Dorrian's Red Hand @ 1616 2nd Avenue\, New York\, NY 10028\, USA
+SEQUENCE:0
+SUMMARY:Redskins Road Rally vs. New York Giants
+URL:http://www.redskinsrally.com/event/redskins-road-rally-dorrians/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4528@www.redskinsrally.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Tailgate
+CONTACT:
+DESCRIPTION:<p><a href='http://www.eventbrite.com/e/redskins-road-rally-tai
+ lgate-party-at-metlife-stadium-washington-redskins-vs-giants-92415-tickets
+ -18252995200?aff=es2'><img class='alignnone wp-image-4529 size-full' src='
+ http://www.redskinsrally.com/wp-content/uploads/2015/09/Giants-Internet-re
+ z.jpg' alt='Skins - Giants Tailgate ' width='700' height='906' /></a></p>
+DTSTART;TZID=America/New_York:20150924T163000
+DTEND;TZID=America/New_York:20150924T203000
+GEO:+40.814209;-74.07369
+LOCATION:MetLife Stadium @ 1 MetLife Stadium Dr\, East Rutherford\, NJ 0707
+ 3\, USA
+SEQUENCE:0
+SUMMARY:Redskins Road Rally Tailgate
+URL:http://www.redskinsrally.com/event/redskins-road-rally-tailgate-giants/
+X-COST:$60
+X-TICKETS-URL:http://www.eventbrite.com/e/redskins-road-rally-tailgate-part
+ y-at-metlife-stadium-washington-redskins-vs-giants-92415-tickets-182529952
+ 00?aff=es2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1788@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Giants (8:25 EST)</h4>\n<p>Jo
+ in Redskins fans for a great game watching experience at an official Bud L
+ ight Redskins Rally Party!</p>\n<p><span style='text-decoration: underline
+ \;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<ul
+ >\n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site gi
+ veaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to the
+  next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img clas
+ s=' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/wp
+ -content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodSp
+ ortLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20150924T203000
+DTEND;TZID=America/New_York:20150924T223000
+GEO:+38.991501;-76.93435
+LOCATION:Looney's Pub @ 8150 Baltimore Avenue\, College Park\, MD 20740\, U
+ SA
+SEQUENCE:0
+SUMMARY:Redskins Rally
+URL:http://www.redskinsrally.com/event/redskins-rally-looneys-pub-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1789@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Eagles (1:00 EST)</h4>\n<p>Jo
+ in Redskins fans for a great game watching experience at an official Bud L
+ ight Redskins Rally Party!</p>\n<p><span style='text-decoration: underline
+ \;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<ul
+ >\n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site gi
+ veaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to the
+  next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img clas
+ s=' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/wp
+ -content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodSp
+ ortLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20151004T123000
+DTEND;TZID=America/New_York:20151004T143000
+GEO:+38.896455;-77.023434
+LOCATION:Penn Social @ 801 E Street Northwest\, Washington\, DC 20004\, USA
+SEQUENCE:0
+SUMMARY:Redskins Rally
+URL:http://www.redskinsrally.com/event/redskins-rally-penn-social/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2203@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Join us on th
+ e road in Atlanta!<br />\n</strong></h3>\n<p>Join Redskins fans at an offi
+ cial Redskins Road Rally the night before Redskins vs Falcons!</p>\n<p><sp
+ an style='text-decoration: underline\;'>Redskins Road Rallies are FREE to 
+ attend and feature:</span></p>\n<ul>\n<li>Appearances by Washington Redski
+ ns special guests</li>\n<li>On-site giveaways</li>\n<li>Raffles of autogra
+ phed items\, game tickets\, and more!</li>\n</ul>\n<p> </p>
+DTSTART;TZID=America/New_York:20151010T180000
+DTEND;TZID=America/New_York:20151010T193000
+GEO:+33.780428;-84.384561
+LOCATION:Hudson Grille @ 942 Peachtree Street Northeast\, Atlanta\, GA 3030
+ 9\, USA
+SEQUENCE:0
+SUMMARY:Redskins Road Rally
+URL:http://www.redskinsrally.com/event/redskins-road-rally-hudson-grill/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1790@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Falcons (1:00 EST)</h4>\n<p>J
+ oin Redskins fans for a great game watching experience at an official Bud 
+ Light Redskins Rally Party!</p>\n<p><span style='text-decoration: underlin
+ e\;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<u
+ l>\n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site g
+ iveaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to th
+ e next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img cla
+ ss=' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/w
+ p-content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodS
+ portLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20151011T130000
+DTEND;TZID=America/New_York:20151011T150000
+GEO:+38.980664;-76.937573
+LOCATION:Cornerstone Grill & Loft @ 7325 Baltimore Avenue\, College Park\, 
+ MD 20740\, USA
+SEQUENCE:0
+SUMMARY:Redskins Rally
+URL:http://www.redskinsrally.com/event/redskins-rally-cornerstone-grill-and
+ -loft-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4530@www.redskinsrally.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Tailgate
+CONTACT:
+DESCRIPTION:<p><a href='http://www.eventbrite.com/e/redskins-road-rally-tai
+ lgate-party-at-metlife-stadium-washington-redskins-vs-jets-101815-tickets-
+ 18232720558?aff=es2' target='_blank'><img class='alignnone size-full wp-im
+ age-4531' src='http://www.redskinsrally.com/wp-content/uploads/2015/09/Jet
+ s-Internet-rez.jpg' alt='Redskins - Jets Tailgate' width='600' height='882
+ ' /></a></p>
+DTSTART;TZID=America/New_York:20151018T090000
+DTEND;TZID=America/New_York:20151018T130000
+GEO:+40.814209;-74.07369
+LOCATION:MetLife Stadium @ 1 MetLife Stadium Dr\, East Rutherford\, NJ 0707
+ 3\, USA
+SEQUENCE:0
+SUMMARY:Redskins Road Rally Tailgate
+URL:http://www.redskinsrally.com/event/redskins-road-rally-tailgate-jets/
+X-COST:$65
+X-TICKETS-URL:http://www.eventbrite.com/e/redskins-road-rally-tailgate-part
+ y-at-metlife-stadium-washington-redskins-vs-jets-101815-tickets-1823272055
+ 8?aff=es2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1792@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Buccaneers (1:00 EST)</h4>\n<
+ p>Join Redskins fans for a great game watching experience at an official B
+ ud Light Redskins Rally Party!</p>\n<p><span style='text-decoration: under
+ line\;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>
+ \n<ul>\n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-si
+ te giveaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets t
+ o the next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img
+  class=' size-full wp-image-297 alignnone' src='http://www.redskinsrally.c
+ om/wp-content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_G
+ oodSportLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20151018T130000
+DTEND;TZID=America/New_York:20151018T150000
+GEO:+38.49718;-77.028125
+LOCATION:Port Tobacco Marina @ 7610 Shirley Boulevard\, Port Tobacco\, MD 2
+ 0677\, USA
+SEQUENCE:0
+SUMMARY:Redskins Rally
+URL:http://www.redskinsrally.com/event/redskins-rally-port-tobacco-marina/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1791@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Buccaneers (1:00 EST)</h4>\n<
+ p>Join Redskins fans for a great game watching experience at an official B
+ ud Light Redskins Rally Party!</p>\n<p><span style='text-decoration: under
+ line\;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>
+ \n<ul>\n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-si
+ te giveaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets t
+ o the next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img
+  class=' size-full wp-image-297 alignnone' src='http://www.redskinsrally.c
+ om/wp-content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_G
+ oodSportLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20151025T123000
+DTEND;TZID=America/New_York:20151025T143000
+GEO:+38.876829;-77.007855
+LOCATION:Old Glory @ 3139 M St NW\, Washington\, DC 20007
+SEQUENCE:0
+SUMMARY:Redskins Rally
+URL:http://www.redskinsrally.com/event/redskins-rally-old-glory-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1793@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Saints (1:00 EST)</h4>\n<p>Jo
+ in Redskins fans for a great game watching experience at an official Bud L
+ ight Redskins Rally Party!</p>\n<p><span style='text-decoration: underline
+ \;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<ul
+ >\n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site gi
+ veaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to the
+  next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img clas
+ s=' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/wp
+ -content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodSp
+ ortLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20151115T123000
+DTEND;TZID=America/New_York:20151115T143000
+GEO:+38.876779;-77.007926
+LOCATION:The Big Stick Restaurant & Sports Bar @ 20 M Street Southeast\, Wa
+ shington\, DC 20003\, USA
+SEQUENCE:0
+SUMMARY:Redskins Rally
+URL:http://www.redskinsrally.com/event/redskins-rally-big-stick/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2205@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Join us on th
+ e road in Charlotte!<br />\n</strong></h3>\n<p>Join Redskins fans at an of
+ ficial Redskins Road Rally the night before Redskins vs Panthers!</p>\n<p>
+ <span style='text-decoration: underline\;'>Redskins Road Rallies are FREE 
+ to attend and feature:</span></p>\n<ul>\n<li>Appearances by Washington Red
+ skins special guests</li>\n<li>On-site giveaways</li>\n<li>Raffles of auto
+ graphed items\, game tickets\, and more!</li>\n</ul>\n<p> </p>
+DTSTART;TZID=America/New_York:20151121T180000
+DTEND;TZID=America/New_York:20151121T193000
+GEO:+35.225179;-80.842265
+LOCATION:Whiskey River @ 210 East Trade Street\, Charlotte\, NC 28202\, USA
+SEQUENCE:0
+SUMMARY:Redskins Road Rally
+URL:http://www.redskinsrally.com/event/redskins-road-rally-whiskey-river/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1794@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Giants (1:00 EST)</h4>\n<p>Jo
+ in Redskins fans for a great game watching experience at an official Bud L
+ ight Redskins Rally Party!</p>\n<p><span style='text-decoration: underline
+ \;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<ul
+ >\n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site gi
+ veaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to the
+  next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img clas
+ s=' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/wp
+ -content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodSp
+ ortLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20151129T123000
+DTEND;TZID=America/New_York:20151129T143000
+GEO:+38.917293;-77.041383
+LOCATION:The Blaguard @ 2003 18th Street Northwest\, Washington\, DC 20009\
+ , USA
+SEQUENCE:0
+SUMMARY:Redskins Rally
+URL:http://www.redskinsrally.com/event/redskins-rally-the-blaguard/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1795@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Cowboys (8:30 EST)</h4>\n<p>J
+ oin Redskins fans for a great game watching experience at an official Bud 
+ Light Redskins Rally Party!</p>\n<p><span style='text-decoration: underlin
+ e\;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<u
+ l>\n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site g
+ iveaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to th
+ e next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img cla
+ ss=' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/w
+ p-content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodS
+ portLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20151207T200000
+DTEND;TZID=America/New_York:20151207T220000
+GEO:+38.898797;-77.022376
+LOCATION:Redline @ 707 G Street Northwest\, Washington\, DC 20001\, USA
+SEQUENCE:0
+SUMMARY:Redskins Rally
+URL:http://www.redskinsrally.com/event/redskins-rally-redline/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2206@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Join us on th
+ e road in Chicago!<br />\n</strong></h3>\n<p>Join Redskins fans at an offi
+ cial Redskins Road Rally the night before Redskins vs Bears!</p>\n<p><span
+  style='text-decoration: underline\;'>Redskins Road Rallies are FREE to at
+ tend and feature:</span></p>\n<ul>\n<li>Appearances by Washington Redskins
+  special guests</li>\n<li>On-site giveaways</li>\n<li>Raffles of autograph
+ ed items\, game tickets\, and more!</li>\n</ul>\n<p> </p>
+DTSTART;TZID=America/New_York:20151212T180000
+DTEND;TZID=America/New_York:20151212T193000
+GEO:+41.928626;-87.662004
+LOCATION:Maeve @ 1325 West Wrightwood Avenue #4\, Chicago\, IL 60614\, USA
+SEQUENCE:0
+SUMMARY:Redskins Road Rally
+URL:http://www.redskinsrally.com/event/redskins-road-rally-maeve/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1798@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Bills (1:00 EST)</h4>\n<p>Joi
+ n Redskins fans for a great game watching experience at an official Bud Li
+ ght Redskins Rally Party!</p>\n<p><span style='text-decoration: underline\
+ ;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<ul>
+ \n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site giv
+ eaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to the 
+ next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img class
+ =' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/wp-
+ content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodSpo
+ rtLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20151220T123000
+DTEND;TZID=America/New_York:20151220T143000
+GEO:+38.898511;-77.04036
+LOCATION:The Exchange Saloon @ 1719 G Street Northwest\, Washington\, DC 20
+ 006\, USA
+SEQUENCE:0
+SUMMARY:Redskins Rally vs. Bills
+URL:http://www.redskinsrally.com/event/redskins-rally-exchange-saloon/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2208@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Road Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Join us on th
+ e road in Dallas!<br />\n</strong></h3>\n<p>Join Redskins fans at an offic
+ ial Redskins Road Rally the night before Redskins vs Cowboys!</p>\n<p><spa
+ n style='text-decoration: underline\;'>Redskins Road Rallies are FREE to a
+ ttend and feature:</span></p>\n<ul>\n<li>Appearances by Washington Redskin
+ s special guests</li>\n<li>On-site giveaways</li>\n<li>Raffles of autograp
+ hed items\, game tickets\, and more!</li>\n</ul>\n<p> </p>
+DTSTART;TZID=America/New_York:20160102T180000
+DTEND;TZID=America/New_York:20160102T193000
+GEO:+32.88895;-96.957969
+LOCATION:Champps Kitchen & Bar @ 855 West John W Carpenter Freeway\, Irving
+ \, TX 75039\, USA
+SEQUENCE:0
+SUMMARY:Redskins Road Rally vs Cowboys
+URL:http://www.redskinsrally.com/event/redskins-road-rally-champps/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1801@redskinsrally.dev1-ironistic.com
+DTSTAMP:20150920T003837Z
+CATEGORIES;LANGUAGE=en-US:Rally Party
+CONTACT:
+DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
+ c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
+ 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
+  to the Game?</strong></h3>\n<h4>Redskins vs Cowboys (1:00 EST)</h4>\n<p>J
+ oin Redskins fans for a great game watching experience at an official Bud 
+ Light Redskins Rally Party!</p>\n<p><span style='text-decoration: underlin
+ e\;'>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<u
+ l>\n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site g
+ iveaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to th
+ e next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img cla
+ ss=' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/w
+ p-content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodS
+ portLogoLacesNew_4C' width='304' height='224' /></p>
+DTSTART;TZID=America/New_York:20160103T123000
+DTEND;TZID=America/New_York:20160103T143000
+GEO:+38.617547;-76.931777
+LOCATION:Boston's Restaurant & Sports Bar @ 10440 Odonnell Place\, Waldorf\
+ , MD 20603\, USA
+SEQUENCE:0
+SUMMARY:Redskins Rally vs Cowboys
+URL:http://www.redskinsrally.com/event/redskins-rally-bostons/
+END:VEVENT
+END:VCALENDAR

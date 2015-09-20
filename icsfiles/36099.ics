@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//23.229.204.133//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.thesweatshopfitnesscenter.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-104@www.thesweatshopfitnesscenter.com
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>This class is led by Lisa Moore and Heather Dempsey.</p>
+DTSTART;TZID=America/Chicago:20150919T083000
+DTEND;TZID=America/Chicago:20150919T091500
+EXDATE;TZID=America/Chicago:20151225T083000
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:SPIN cycling class
+URL:http://www.thesweatshopfitnesscenter.com/event/spin-cycling-class-2/
+X-COST:See flyer for rates
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-95@www.thesweatshopfitnesscenter.com
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en:Low Impact Aerobics
+CONTACT:
+DESCRIPTION:<p>This class is 30 min of cardio and 30 min of strength traini
+ ng. People from any fitness level welcome. This class is led by Lavina Tho
+ mas.</p>
+DTSTART;TZID=America/Chicago:20150921T090000
+DTEND;TZID=America/Chicago:20150921T100000
+EXDATE;TZID=America/Chicago:20151225T090000
+RRULE:FREQ=WEEKLY;BYDAY=MO,WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Low Impact Aerobics
+URL:http://www.thesweatshopfitnesscenter.com/event/low-impact-aerobics/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-80@www.thesweatshopfitnesscenter.com
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en:HIIT
+CONTACT:
+DESCRIPTION:<p>This class is a 30 minute High Intensity Interval Training c
+ lass. All levels of ability are welcome. It is led by Carey Dusch.</p>
+DTSTART;TZID=America/Chicago:20150921T180000
+DTEND;TZID=America/Chicago:20150921T183000
+EXDATE;TZID=America/Chicago:20151225T180000
+GEO:+37.762357;-89.077224
+LOCATION:The Sweat Shop Fitness Center @ 115 N Division St\, Carterville\, 
+ IL 62918\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO,WE;WKST=SU
+SEQUENCE:0
+SUMMARY:HIIT
+URL:http://www.thesweatshopfitnesscenter.com/event/hiit/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-79@www.thesweatshopfitnesscenter.com
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en:Zumba
+CONTACT:
+DESCRIPTION:<p>This class is one hour of fitness dance. It is led by Julie 
+ Herren.</p>
+DTSTART;TZID=America/Chicago:20150922T083000
+DTEND;TZID=America/Chicago:20150922T093000
+EXDATE;TZID=America/Chicago:20141225T083000
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Zumba
+URL:http://www.thesweatshopfitnesscenter.com/event/zumba/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-103@www.thesweatshopfitnesscenter.com
+DTSTAMP:20150920T002123Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>This is led by Lisa Moore and Heather Dempsey.</p>
+DTSTART;TZID=America/Chicago:20150922T173000
+DTEND;TZID=America/Chicago:20150922T181500
+EXDATE;TZID=America/Chicago:20151225T173000
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;WKST=SU
+SEQUENCE:0
+SUMMARY:SPIN cycling class
+URL:http://www.thesweatshopfitnesscenter.com/event/spin-cycling-class/
+X-COST:See flyer for prices
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-94@www.thesweatshopfitnesscenter.com
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en:Zumba
+CONTACT:
+DESCRIPTION:<p>This class is one hour of fitness dance. This class is led b
+ y Julie Herren.</p>
+DTSTART;TZID=America/Chicago:20150922T183000
+DTEND;TZID=America/Chicago:20150922T193000
+EXDATE;TZID=America/Chicago:20151225T183000
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Zumba
+URL:http://www.thesweatshopfitnesscenter.com/event/zumba-2/
+END:VEVENT
+END:VCALENDAR

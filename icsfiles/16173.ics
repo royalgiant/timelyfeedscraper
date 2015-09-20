@@ -1,0 +1,1941 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//198.58.109.197//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.vmahs.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-8830@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2014/10/IMG_1916-649x520.jpg' width='6
+ 49' height='520' /></div>
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Peer Ministry Installation
+URL:http://www.vmahs.org/event/peer-ministry-installation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8199@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:No School: World Meeting of Families
+URL:http://www.vmahs.org/event/vma-family-celebration/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8409@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Service
+CONTACT:Kara Bielli\; kbielli@vmahs.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/08/sparrowlogo1.png' width='257' 
+ height='122' /></div>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150927
+SEQUENCE:0
+SUMMARY:Home of the Sparrow Housing Rehab Project
+URL:http://www.vmahs.org/event/home-of-the-sparrow-housing-rehab-project/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8829@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151003
+SEQUENCE:0
+SUMMARY:Children of Mary Installation
+URL:http://www.vmahs.org/event/children-of-mary-installation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8667@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151006
+DTEND;VALUE=DATE:20151007
+SEQUENCE:0
+SUMMARY:Visit Villa Day
+URL:http://www.vmahs.org/event/visit-villa-day-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8668@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151008
+SEQUENCE:0
+SUMMARY:Lower Villa Visit Day
+URL:http://www.vmahs.org/event/visit-villa-day-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8381@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Service
+CONTACT:Kara Bielli\; kbielli@vmahs.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/08/ccfoodbanklogo.png' width='300
+ ' height='167' /></div><p>Service opportunity at Chester County Food Bank 
+ Farm. Please contact Mrs. Bielli at <a href='mailto:kbielli@vmahs.org'>kbi
+ elli@vmahs.org</a> for more information.</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+SEQUENCE:0
+SUMMARY:Chester County Food Bank Farm – Service
+URL:http://www.vmahs.org/event/chester-county-food-bank-farm/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8253@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:All-Catholic Band Auditions
+URL:http://www.vmahs.org/event/all-catholic-band-auditions/
+X-TAGS;LANGUAGE=en-US:All-Catholic\,Band\,music
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8191@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:Columbus Day – Holiday (no classes)
+URL:http://www.vmahs.org/event/columbus-day-holiday-no-classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8202@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:Katie Weidner\; katieweidner@yahoo.com
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/Fall-D
+ ecoration-2012-8w.jpg'><img class='alignnone size-full wp-image-8295' src=
+ 'http://www.vmahs.org/wp-content/uploads/2015/07/Fall-Decoration-2012-8w.j
+ pg' alt='Fall-Decoration-2012-8w' width='320' height='240' data-attachment
+ ='8295' /></a>\n<p>Help decorate Villa Maria for the fall season!</p>
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:VMAPA Fall Decorating
+URL:http://www.vmahs.org/event/vmapa-fall-decorating/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8203@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Guidance
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151015
+SEQUENCE:0
+SUMMARY:Freshman Guidance Program
+URL:http://www.vmahs.org/event/freshman-guidance-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8204@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151015
+SEQUENCE:0
+SUMMARY:Freshman Student Council Installation
+URL:http://www.vmahs.org/event/freshman-student-council-installation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8205@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151015
+SEQUENCE:0
+SUMMARY:Mission Drive Bake Sale
+URL:http://www.vmahs.org/event/mission-drive-bake-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8213@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151016
+DTEND;VALUE=DATE:20151017
+SEQUENCE:0
+SUMMARY:Freshman Twilight Retreat
+URL:http://www.vmahs.org/event/freshman-twilight-retreat/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8210@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151016
+DTEND;VALUE=DATE:20151017
+SEQUENCE:0
+SUMMARY:Mock All-Catholic Auditions (advisory)
+URL:http://www.vmahs.org/event/mock-all-catholic-auditions-advisory/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8383@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Service
+CONTACT:Kara Bielli\; kbielli@vmahs.org\; http://www.romero-center.org/mini
+ stries/urban-challenge/what-to-expect/
+DESCRIPTION:<p>Urban Challenge Program for juniors and seniors at the Romer
+ o Center in Camden\, NJ.</p>\n<p>The Urban Challenge Program is an urban\,
+  service-learning\, immersion experience rooted in the Catholic faith trad
+ ition. Offering a point of access to the lives and stories of the people o
+ f Camden\, NJ\, and its surrounding communities\, the Urban Challenge Prog
+ ram is a unique educational and retreat opportunity that serves mainly sub
+ urban high school and college-aged students. See <a href='http://www.romer
+ o-center.org/ministries/urban-challenge/what-to-expect/' onclick='__gaTrac
+ ker('send'\, 'event'\, 'outbound-article'\, 'http://www.romero-center.org/
+ ministries/urban-challenge/what-to-expect/'\, 'the center’s website')\;' t
+ arget='_blank'>the center’s website</a> for more information.</p>
+DTSTART;VALUE=DATE:20151016
+DTEND;VALUE=DATE:20151019
+GEO:+39.947189;-75.083451
+LOCATION:Romero Center @ 2907 Federal Street\, Camden\, NJ 08105\, USA
+SEQUENCE:0
+SUMMARY:Urban Challenge Program
+URL:http://www.vmahs.org/event/urban-challenge-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8384@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Service
+CONTACT:Kara Bielli\; kbielli@vmahs.org
+DESCRIPTION:<p>Service opportunity at the Farm at Elwyn</p>
+DTSTART;VALUE=DATE:20151019
+DTEND;VALUE=DATE:20151020
+SEQUENCE:0
+SUMMARY:Farm at Elwyn – Service
+URL:http://www.vmahs.org/event/farm-at-elwyn-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8212@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151019
+DTEND;VALUE=DATE:20151020
+SEQUENCE:0
+SUMMARY:In-Service Day
+URL:http://www.vmahs.org/event/in-service-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8208@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/07/e3AWajWOAA_dUN6TyAjUbF4vo91paI
+ 3t3TfmavtTD8gHJFBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMsGl_RH8-780x520.jpg' widt
+ h='780' height='520' /></div><p>Applicants should attend one of our Visit 
+ Villa Days\, which are held in October\, November and December. Applicants
+  shadow a freshman or sophomore through a typical school day (7:55 a.m. – 
+ 2:55 p.m.)\, attending classes\, having lunch with current students\, and 
+ learning about the many opportunities in Fine Arts\, Athletics and extracu
+ rricular activities.</p>
+DTSTART;VALUE=DATE:20151022
+DTEND;VALUE=DATE:20151023
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Visit Villa Day
+URL:http://www.vmahs.org/event/visit-villa-day-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8209@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Mission Drive Closes
+URL:http://www.vmahs.org/event/mission-drive-closes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8214@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/07/e3AWajWOAA_dUN6TyAjUbF4vo91paI
+ 3t3TfmavtTD8gHJFBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMsGl_RH8-780x520.jpg' widt
+ h='780' height='520' /></div>
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Visit Villa Day
+URL:http://www.vmahs.org/event/visit-villa-day-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8216@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151027
+DTEND;VALUE=DATE:20151028
+SEQUENCE:0
+SUMMARY:All-Catholic Chorus Auditions
+URL:http://www.vmahs.org/event/all-catholic-chorus-auditions/
+X-TAGS;LANGUAGE=en-US:All-Catholic\,Arts\,Chorus\,music
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8217@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151028
+DTEND;VALUE=DATE:20151029
+SEQUENCE:0
+SUMMARY:All-Catholic Strings Auditions
+URL:http://www.vmahs.org/event/all-catholic-strings-auditions/
+X-TAGS;LANGUAGE=en-US:All-Catholic\,art\,music
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8218@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151030
+DTEND;VALUE=DATE:20151031
+SEQUENCE:0
+SUMMARY:Decade Day
+URL:http://www.vmahs.org/event/decade-day/
+X-TAGS;LANGUAGE=en-US:Decade Day\,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8220@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/07/e3AWajWOAA_dUN6TyAjUbF4vo91paI
+ 3t3TfmavtTD8gHJFBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMsGl_RH8-780x520.jpg' widt
+ h='780' height='520' /></div><p>Applicants should attend one of our Visit 
+ Villa Days\, which are held in October\, November and December. Applicants
+  shadow a freshman or sophomore through a typical school day (7:55 a.m. – 
+ 2:55 p.m.)\, attending classes\, having lunch with current students\, and 
+ learning about the many opportunities in Fine Arts\, Athletics and extracu
+ rricular activities.</p>
+DTSTART;VALUE=DATE:20151103
+DTEND;VALUE=DATE:20151104
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Visit Villa Day
+URL:http://www.vmahs.org/event/visit-villa-day-9/
+X-TAGS;LANGUAGE=en-US:Visit Villa Day
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8221@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/07/e3AWajWOAA_dUN6TyAjUbF4vo91paI
+ 3t3TfmavtTD8gHJFBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMsGl_RH8-780x520.jpg' widt
+ h='780' height='520' /></div><p>Applicants should attend one of our Visit 
+ Villa Days\, which are held in October\, November and December. Applicants
+  shadow a freshman or sophomore through a typical school day (7:55 a.m. – 
+ 2:55 p.m.)\, attending classes\, having lunch with current students\, and 
+ learning about the many opportunities in Fine Arts\, Athletics and extracu
+ rricular activities.</p>
+DTSTART;VALUE=DATE:20151104
+DTEND;VALUE=DATE:20151105
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Visit Villa Day
+URL:http://www.vmahs.org/event/visit-villa-day-10/
+X-TAGS;LANGUAGE=en-US:Visit Villa Day
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8225@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,Sports
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/07/IMG_2370-780x520.jpg' width='7
+ 80' height='520' /></div><p><a href='http://www.vmahs.org/wp-content/uploa
+ ds/2015/07/PowderPuff-permission-slip.pdf' onclick='__gaTracker('send'\, '
+ event'\, 'download'\, 'http://www.vmahs.org/wp-content/uploads/2015/07/Pow
+ derPuff-permission-slip.pdf')\;' target='_blank'>Download the Powder Puff 
+ Football sign up and permission form.</a></p>\n<p>Sign up for the Dad-Daug
+ hter Tailgate Barbecue here: <a href='https://www.vmahs.org/event/dad-daug
+ hter-powder-puff-tailgate/?instance_id=1060'>www.vmahs.org/event/dad-daugh
+ ter-powder-puff-tailgate/?instance_id=1060</a></p>
+DTSTART;VALUE=DATE:20151108
+DTEND;VALUE=DATE:20151109
+SEQUENCE:0
+SUMMARY:Powder Puff Football
+URL:http://www.vmahs.org/event/powder-puff-football-2/
+X-TAGS;LANGUAGE=en-US:football\,powder puff\,powder puff football\,sports
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8226@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151110
+DTEND;VALUE=DATE:20151111
+SEQUENCE:0
+SUMMARY:IHM Founder’s Day
+URL:http://www.vmahs.org/event/ihm-founders-day/
+X-TAGS;LANGUAGE=en-US:Founder's Day\,IHM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8230@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151120
+DTEND;VALUE=DATE:20151121
+SEQUENCE:0
+SUMMARY:Thanksgiving Liturgy/Presentation of Senior Class Song
+URL:http://www.vmahs.org/event/thanksgiving-liturgypresentation-of-senior-c
+ lass-song/
+X-TAGS;LANGUAGE=en-US:Class of 2016\,Liturgy\,Senior Song\,Thanksgiving\,Th
+ anksgiving Liturgy
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8232@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151123
+DTEND;VALUE=DATE:20151124
+SEQUENCE:0
+SUMMARY:Parent/Teacher Conferences (no classes)
+URL:http://www.vmahs.org/event/parentteacher-conferences-no-classes/
+X-TAGS;LANGUAGE=en-US:no classes\,parent/teacher conferences
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8233@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151124
+DTEND;VALUE=DATE:20151125
+SEQUENCE:0
+SUMMARY:Faculty In-Service Day (no classes)
+URL:http://www.vmahs.org/event/faculty-in-service-day-no-classes/
+X-TAGS;LANGUAGE=en-US:in-service\,no classes
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8235@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Alumnae Activity
+CONTACT:
+DESCRIPTION:<p>The Class of 2005 is holding their 10 year reunion off campu
+ s in the Malvern area.  More information and details to follow.<a href='ht
+ tp://www.vmahs.org/wp-content/uploads/2015/07/2005.jpg'><img class='alignc
+ enter size-medium wp-image-8406' src='http://www.vmahs.org/wp-content/uplo
+ ads/2015/07/2005-740x520.jpg' alt='2005' width='740' height='520' data-att
+ achment='8406' /></a></p>
+DTSTART;VALUE=DATE:20151127
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:Class of 2005 Reunion
+URL:http://www.vmahs.org/event/class-of-2005-reunion/
+X-TAGS;LANGUAGE=en-US:Class of 2005\,reunion
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8312@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:Katie Weidner\; katieweidner@vmahs.org
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/IMG_98
+ 26.jpg'><img class='alignnone size-medium wp-image-8313' src='http://www.v
+ mahs.org/wp-content/uploads/2015/07/IMG_9826-780x520.jpg' alt='IMG_9826' w
+ idth='780' height='520' data-attachment='8313' /></a>\n<p>Help decorate Vi
+ lla Maria’s campus for Christmas! All helping hands are welcome!</p>
+DTSTART;VALUE=DATE:20151129
+DTEND;VALUE=DATE:20151130
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Christmas Decorating
+URL:http://www.vmahs.org/event/christmas-decorating/
+X-TAGS;LANGUAGE=en-US:Christmas\,decorating\,VMAPA
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8238@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151201
+DTEND;VALUE=DATE:20151202
+SEQUENCE:0
+SUMMARY:Giving Tree Project
+URL:http://www.vmahs.org/event/giving-tree-project/
+X-TAGS;LANGUAGE=en-US:Christmas\,Giving Tree\,service
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8242@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151203
+DTEND;VALUE=DATE:20151204
+SEQUENCE:0
+SUMMARY:Christmas Concert Preview Day
+URL:http://www.vmahs.org/event/christmas-concert-preview-day/
+X-TAGS;LANGUAGE=en-US:Arts\,Chorus\,Christmas\,Christmas Concert\,concert\,
+ music\,Orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8243@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/e3AWaj
+ WOAA_dUN6TyAjUbF4vo91paI3t3TfmavtTD8gHJFBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMs
+ Gl_RH8.jpg'><img class='alignnone  wp-image-8298' src='http://www.vmahs.or
+ g/wp-content/uploads/2015/07/e3AWajWOAA_dUN6TyAjUbF4vo91paI3t3TfmavtTD8gHJ
+ FBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMsGl_RH8-780x520.jpg' alt='e3AWajWOAA_dUN
+ 6TyAjUbF4vo91paI3t3TfmavtTD8g\,HJFBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMsGl_RH8
+ ' width='564' height='376' data-attachment='8298' /></a>\n<p>Applicants sh
+ ould attend one of our Visit Villa Days\, which are held in October\, Nove
+ mber and December. Applicants shadow a freshman or sophomore through a typ
+ ical school day (7:55 a.m. – 2:55 p.m.)\, attending classes\, having lunch
+  with current students\, and learning about the many opportunities in Fine
+  Arts\, Athletics and extracurricular activities.</p>\n<p> </p>
+DTSTART;VALUE=DATE:20151203
+DTEND;VALUE=DATE:20151204
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Visit Villa Day
+URL:http://www.vmahs.org/event/visit-villa-day-11/
+X-TAGS;LANGUAGE=en-US:Visit Villa Day
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8245@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/e3AWaj
+ WOAA_dUN6TyAjUbF4vo91paI3t3TfmavtTD8gHJFBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMs
+ Gl_RH8.jpg'><img class='alignnone  wp-image-8298' src='http://www.vmahs.or
+ g/wp-content/uploads/2015/07/e3AWajWOAA_dUN6TyAjUbF4vo91paI3t3TfmavtTD8gHJ
+ FBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMsGl_RH8-780x520.jpg' alt='e3AWajWOAA_dUN
+ 6TyAjUbF4vo91paI3t3TfmavtTD8g\,HJFBevfy3ufwR9DC4Gx-F4Tj4UrWgZT59ymMsGl_RH8
+ ' width='506' height='337' data-attachment='8298' /></a>\n<p>Applicants sh
+ ould attend one of our Visit Villa Days\, which are held in October\, Nove
+ mber and December. Applicants shadow a freshman or sophomore through a typ
+ ical school day (7:55 a.m. – 2:55 p.m.)\, attending classes\, having lunch
+  with current students\, and learning about the many opportunities in Fine
+  Arts\, Athletics and extracurricular activities.</p>
+DTSTART;VALUE=DATE:20151204
+DTEND;VALUE=DATE:20151205
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Visit Villa Day
+URL:http://www.vmahs.org/event/visit-villa-day-12/
+X-TAGS;LANGUAGE=en-US:Visit Villa\,Visit Villa Day
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8249@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151208
+DTEND;VALUE=DATE:20151209
+SEQUENCE:0
+SUMMARY:VMAPA Christmas and Service Project
+URL:http://www.vmahs.org/event/vmapa-christmas-and-service-project/
+X-TAGS;LANGUAGE=en-US:Christmas\,service\,Service Project\,VMAPA
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8255@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151216
+DTEND;VALUE=DATE:20151217
+SEQUENCE:0
+SUMMARY:Giving Tree Project Ends
+URL:http://www.vmahs.org/event/giving-tree-project-ends/
+X-TAGS;LANGUAGE=en-US:Christmas\,Giving Tree\,service
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8256@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:Gretchen McHale\; jgmchale@comcast.net
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/IMG_13
+ 70.jpg'><img class='alignnone size-medium wp-image-8321' src='http://www.v
+ mahs.org/wp-content/uploads/2015/07/IMG_1370-780x520.jpg' alt='IMG_1370' w
+ idth='780' height='520' data-attachment='8321' /></a>
+DTSTART;VALUE=DATE:20151216
+DTEND;VALUE=DATE:20151217
+SEQUENCE:0
+SUMMARY:VMAPA Faculty Christmas Party
+URL:http://www.vmahs.org/event/vmapa-faculty-christmas-party/
+X-TAGS;LANGUAGE=en-US:Christmas\,Christmas party\,faculty\,VMAPA
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8260@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151222
+DTEND;VALUE=DATE:20151223
+SEQUENCE:0
+SUMMARY:Exam Snow day/Exam Returns/Christmas Liturgy
+URL:http://www.vmahs.org/event/christmas-liturgy/
+X-TAGS;LANGUAGE=en-US:Christmas\,Christmas Liturgy\,Liturgy
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8262@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160104
+DTEND;VALUE=DATE:20160105
+SEQUENCE:0
+SUMMARY:Classes Resume
+URL:http://www.vmahs.org/event/classes-resume-2/
+X-TAGS;LANGUAGE=en-US:classes resume\,second semester
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8263@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160119
+SEQUENCE:0
+SUMMARY:Martin Luther King Day (no classes)
+URL:http://www.vmahs.org/event/martin-luther-king-day-no-classes/
+X-TAGS;LANGUAGE=en-US:holiday\,no classes
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8264@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160122
+DTEND;VALUE=DATE:20160123
+SEQUENCE:0
+SUMMARY:March for Life
+URL:http://www.vmahs.org/event/march-for-life/
+X-TAGS;LANGUAGE=en-US:March for Life\,service
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8670@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160127
+DTEND;VALUE=DATE:20160128
+SEQUENCE:0
+SUMMARY:Faculty In-Service
+URL:http://www.vmahs.org/event/faculty-in-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8265@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes\,School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160127
+DTEND;VALUE=DATE:20160128
+SEQUENCE:0
+SUMMARY:Sophomore Retreat Day (no classes)/Faculty In-Service Day
+URL:http://www.vmahs.org/event/sophomore-retreat-day-no-classesfaculty-in-s
+ ervice-day/
+X-TAGS;LANGUAGE=en-US:Class of 2019\,in-service\,no classes\,retreat day
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8671@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160210
+DTEND;VALUE=DATE:20160211
+SEQUENCE:0
+SUMMARY:Ash Wednesday Liturgy
+URL:http://www.vmahs.org/event/ash-wednesday-liturgy/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8267@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160211
+DTEND;VALUE=DATE:20160212
+SEQUENCE:0
+SUMMARY:Faculty In-Service Day (no classes)
+URL:http://www.vmahs.org/event/faculty-in-service-day-no-classes-2/
+X-TAGS;LANGUAGE=en-US:in-service\,no classes
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8268@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160212
+DTEND;VALUE=DATE:20160213
+SEQUENCE:0
+SUMMARY:Winter Holiday
+URL:http://www.vmahs.org/event/winter-holiday-2/
+X-TAGS;LANGUAGE=en-US:holiday\,no classes
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8270@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SEQUENCE:0
+SUMMARY:President’s Day (no classes)
+URL:http://www.vmahs.org/event/presidents-day-no-classes/
+X-TAGS;LANGUAGE=en-US:holiday\,no classes
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8271@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160304
+DTEND;VALUE=DATE:20160305
+SEQUENCE:0
+SUMMARY:Faculty Retreat Day (no classes)
+URL:http://www.vmahs.org/event/faculty-retreat-day-no-classes/
+X-TAGS;LANGUAGE=en-US:faculty\,faculty retreat\,no classes\,retreat
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8673@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160316
+DTEND;VALUE=DATE:20160317
+SEQUENCE:0
+SUMMARY:Faculty In-Service
+URL:http://www.vmahs.org/event/faculty-in-service-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8272@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes\,School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160316
+DTEND;VALUE=DATE:20160317
+SEQUENCE:0
+SUMMARY:Junior Retreat Day/Faculty In-Service Day (no classes)
+URL:http://www.vmahs.org/event/junior-retreat-dayfaculty-in-service-day-no-
+ classes/
+X-TAGS;LANGUAGE=en-US:Class of 2018\,in-service\,Junior Retreat\,no classes
+ \,Peer Ministry\,retreat
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8658@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160318
+DTEND;VALUE=DATE:20160319
+SEQUENCE:0
+SUMMARY:Dance-A-Thon/Talent Show
+URL:http://www.vmahs.org/event/dance-a-thontalent-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8148@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:Mrs. Kara Bielli\; kbielli@vmahs.org
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160403
+SEQUENCE:0
+SUMMARY:Class of 2016 Service Trip to Costa Rica
+URL:http://www.vmahs.org/event/class-of-2016-service-trip-to-costa-rica/
+X-TAGS;LANGUAGE=en-US:Costa Rica\,service
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8676@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160423
+DTEND;VALUE=DATE:20160424
+SEQUENCE:0
+SUMMARY:7th Grade Practice Exam
+URL:http://www.vmahs.org/event/7th-grade-practice-exam-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8679@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160429
+DTEND;VALUE=DATE:20160430
+SEQUENCE:0
+SUMMARY:7th Grade Visit Day
+URL:http://www.vmahs.org/event/7th-grade-visit-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8677@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160430
+DTEND;VALUE=DATE:20160501
+SEQUENCE:0
+SUMMARY:7th Grade Practice Exam
+URL:http://www.vmahs.org/event/7th-grade-practice-exam-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8680@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160505
+DTEND;VALUE=DATE:20160506
+SEQUENCE:0
+SUMMARY:Ascension Thursday/May Celebration
+URL:http://www.vmahs.org/event/ascension-thursdaymay-celebration/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8681@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,Admissions
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160509
+DTEND;VALUE=DATE:20160510
+SEQUENCE:0
+SUMMARY:Villa Preview Breakfast
+URL:http://www.vmahs.org/event/villa-preview-breakfast/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8682@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,Admissions
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160513
+DTEND;VALUE=DATE:20160514
+SEQUENCE:0
+SUMMARY:Villa Preview Breakfast
+URL:http://www.vmahs.org/event/villa-preview-breakfast-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8683@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes\,School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160527
+DTEND;VALUE=DATE:20160528
+SEQUENCE:0
+SUMMARY:No Classes: Memorial Day Holiday
+URL:http://www.vmahs.org/event/no-classes-memorial-day-holiday/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8684@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes\,School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:No Classes: Memorial Day Holiday
+URL:http://www.vmahs.org/event/no-classes-memorial-day-holiday-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8279@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160603
+DTEND;VALUE=DATE:20160604
+RDATE;TZID=America/New_York:20160606T000000
+RDATE;TZID=America/New_York:20160607T000000
+RDATE;TZID=America/New_York:20160608T000000
+SEQUENCE:0
+SUMMARY:Underclassmen Final Examinations
+URL:http://www.vmahs.org/event/underclassmen-final-examinations/
+X-TAGS;LANGUAGE=en-US:Class of 2017\,Class of 2018\,Class of 2019\,exam\,fi
+ nal exams
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8685@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes\,School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160609
+DTEND;VALUE=DATE:20160610
+SEQUENCE:0
+SUMMARY:Teacher Work Day
+URL:http://www.vmahs.org/event/teacher-work-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8334@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Alumnae Activity
+CONTACT:Mary Jane Raymond
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150920T130000
+DTEND;TZID=America/New_York:20150920T150000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy - Advancement Office @ 370 Central Avenue\, Ma
+ lvern\, PA 19355\, USA
+SEQUENCE:0
+SUMMARY:Alumnae Association Board Meeting
+URL:http://www.vmahs.org/event/alumnae-association-board-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8215@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T193000
+DTEND;TZID=America/New_York:20151003T223000
+SEQUENCE:0
+SUMMARY:Fall Ball
+URL:http://www.vmahs.org/event/fall-ball-2/
+X-TAGS;LANGUAGE=en-US:Fall Ball
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8763@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Sister Regina
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2014/06/wphoneboothlondon-390x520.jpg'
+  width='390' height='520' /></div>
+DTSTART;TZID=America/New_York:20151007T190000
+LOCATION:Room 316
+SEQUENCE:0
+SUMMARY:Europe Trip Information Meeting
+URL:http://www.vmahs.org/event/europe-trip-information-meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8200@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Alumnae Activity
+CONTACT:Alexis Loughran Heilala\; lexiheilala@gmail.com
+DESCRIPTION:<p>The 20th reunion will be held on campus at Villa Maria Acade
+ my.  More information and details to follow.</p>\n<p> </p>\n<a href='http:
+ //www.vmahs.org/wp-content/uploads/2015/07/1995.jpg'><img class='aligncent
+ er size-medium wp-image-8405' src='http://www.vmahs.org/wp-content/uploads
+ /2015/07/1995-744x520.jpg' alt='1995' width='744' height='520' data-attach
+ ment='8405' /></a>
+DTSTART;TZID=America/New_York:20151010T180000
+DTEND;TZID=America/New_York:20151010T210000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy High School\, Marian Center @ 370 Central Ave\
+ , Malvern\, PA 19355\, USA
+SEQUENCE:0
+SUMMARY:Class of 1995 Reunion
+URL:http://www.vmahs.org/event/class-of-1995-reunion/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8193@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Early Dismissal
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151014T120000
+DTEND;TZID=America/New_York:20151014T120000
+SEQUENCE:0
+SUMMARY:PSAT Testing Day/Senior College Visit Day (noon dismissal)
+URL:http://www.vmahs.org/event/psat-testing-daysenior-college-visit-day-noo
+ n-dismissal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8422@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:Maggie Mallon\; 610-644-2551 ext 1106\; mmallon@vmahs.org
+DESCRIPTION:<p style='text-align: center\;'>Join us for our first Freshmen 
+ Grandparent Luncheon at Villa Maria Academy.  Students are invited to meet
+  their grandparents on campus for a short prayer service\, lunch and music
+ al presentation.  The girls will also be encouraged to show their grandpar
+ ents around campus and to their classrooms if they wish to do so that day 
+ as well.</p>\n<p style='text-align: center\;'><a href='http://www.vmahs.or
+ g/wp-content/uploads/2015/08/GrandparentInvitationFinal.jpg'><img class='a
+ ligncenter wp-image-8698 size-medium' src='http://www.vmahs.org/wp-content
+ /uploads/2015/08/GrandparentInvitationFinal-686x520.jpg' alt='' width='686
+ ' height='520' data-attachment='8423' /></a></p>
+DTSTART;TZID=America/New_York:20151014T121500
+DTEND;TZID=America/New_York:20151014T140000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy High School\, Cafeteria/Chapel @ 370 Central A
+ ve\, Malvern\, PA 19355\, USA
+SEQUENCE:0
+SUMMARY:Freshmen Grandparent Luncheon
+URL:http://www.vmahs.org/event/grandparent-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8206@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151015T153000
+DTEND;TZID=America/New_York:20151015T190000
+SEQUENCE:0
+SUMMARY:Senior Portrait Retakes
+URL:http://www.vmahs.org/event/senior-portrait-retakes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8211@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/fL1H6H
+ 1Y0izg71RLF57AWSqzV1j0iD6SayUH0fOXzJYcZilPEu-SdnfnQqwbpUpHej_FRol_9qEHDApx
+ lGZwEk9yAGGgFhWjwhUniohOnR7Kmzmb1JAHxvBrVMu9MtZyk.jpg'><img class='alignno
+ ne  wp-image-8296' src='http://www.vmahs.org/wp-content/uploads/2015/07/fL
+ 1H6H1Y0izg71RLF57AWSqzV1j0iD6SayUH0fOXzJYcZilPEu-SdnfnQqwbpUpHej_FRol_9qEH
+ DApxlGZwEk9yAGGgFhWjwhUniohOnR7Kmzmb1JAHxvBrVMu9MtZyk-780x520.jpg' alt='fL
+ 1H6H1Y0izg71RLF57AWSqzV1j0iD6SayUH0fOXzJY\,cZilPEu-SdnfnQqwbpUpHej_FRol_9q
+ EHDApxlGZwEk\,9yAGGgFhWjwhUniohOnR7Kmzmb1JAHxvBrVMu9MtZyk' width='674' hei
+ ght='449' data-attachment='8296' /></a>\n<p>Come tour our beautiful campus
+ \, speak with faculty and students\, and see the many programs and activit
+ ies we have to offer. Pre-registration deadline is Monday\, October 13\, 2
+ 014. Walk-ins are welcome.<br />\nPlease contact Mrs. Mary Kay Napoli\, Di
+ rector of Admissions\, <a href='mailto:mknapoli@vmahs.org'>mknapoli@vmahs.
+ org</a>\, Ext. 1020\, or Mrs. Katie Vida\, Assistant Director of Admission
+ s\, <a href='mailto:kvida@vmahs.org'>kvida@vmahs.org</a>\, Ext. 1051\, wit
+ h any questions.</p>
+DTSTART;TZID=America/New_York:20151018T110000
+DTEND;TZID=America/New_York:20151018T140000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Open House
+URL:http://www.vmahs.org/event/open-house/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8207@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:School Schedule
+CONTACT:
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/JoAnn_
+ Deak_best_resized.jpg'><img class='alignnone  wp-image-8300' src='http://w
+ ww.vmahs.org/wp-content/uploads/2015/07/JoAnn_Deak_best_resized-445x520.jp
+ g' alt='JoAnn_Deak_best_resized' width='291' height='340' data-attachment=
+ '8300' /></a>\n<p>Please plan on attending our exciting\, entertaining and
+  informative night for parents with <a href='http://www.deakgroup.com/our-
+ educators/joann-deak-phd/' onclick='__gaTracker('send'\, 'event'\, 'outbou
+ nd-article'\, 'http://www.deakgroup.com/our-educators/joann-deak-phd/'\, '
+ Dr. JoAnn Deak')\;' title='Dr. JoAnn Deak'  target='_blank'>Dr. JoAnn Deak
+ </a>\, noted researcher on raising confident adolescent girls. Dr. Deak sp
+ oke to our faculty in June\, and Villa Maria is bringing her back so that 
+ our parents can benefit from her insight and experience on raising daughte
+ rs.</p>\n<h4>Please RSVP</h4>
+DTSTART;TZID=America/New_York:20151020T193000
+DTEND;TZID=America/New_York:20151020T210000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy - Marian Center @ 370 Central Avenue\, Malvern
+ \, PA 19355\, USA
+SEQUENCE:0
+SUMMARY:An Evening with Dr. JoAnn Deak
+URL:http://www.vmahs.org/event/joann-deak-presentation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8831@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,School Schedule
+CONTACT:Sister Rose Anthony
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2014/10/IMG_9732-780x520.jpg' width='7
+ 80' height='520' /></div>
+DTSTART;TZID=America/New_York:20151021T150000
+SEQUENCE:0
+SUMMARY:NHS Induction
+URL:http://www.vmahs.org/event/nhs-induction/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8335@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Alumnae Activity
+CONTACT:Mary Jane Raymond
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151025T130000
+DTEND;TZID=America/New_York:20151025T150000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy - Advancement Office @ 370 Central Avenue\, Ma
+ lvern\, PA 19355\, USA
+SEQUENCE:0
+SUMMARY:Alumnae Association Board Meeting
+URL:http://www.vmahs.org/event/alumnae-association-board-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8669@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Guidance
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151028T183000
+SEQUENCE:0
+SUMMARY:Parent Financial Planning Meeting
+URL:http://www.vmahs.org/event/parent-financial-planning-meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8219@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:Joanne Bamber\, Judy O'Leary\; bbamer@comcast.net\; judyeoleary@com
+ cast.net
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/IMG_98
+ 47.jpg'><img class='alignnone  wp-image-8307' src='http://www.vmahs.org/wp
+ -content/uploads/2015/07/IMG_9847-780x520.jpg' alt='IMG_9847' width='507' 
+ height='338' data-attachment='8307' /></a>\n<p>Join the VMAPA for the annu
+ al Villa Maria Fashion Show\, held on Sunday\, November 1st\, at White Man
+ or Country Club in Malvern\, PA (www.whitemanorcc.com). Doors open at 11:3
+ 0 a.m.</p>\n<ul>\n<li>Complimentary non-alcoholic beverages\, cash bar.</l
+ i>\n<li>Vendors will be available for shopping opportunities.</li>\n<li>Ra
+ ffle tickets will be sold on the day of the event.</li>\n</ul>
+DTSTART;TZID=America/New_York:20151101T113000
+DTEND;TZID=America/New_York:20151101T150000
+GEO:+39.998052;-75.482094
+LOCATION:White Manor Country Club @ 831 Providence Road\, Malvern\, PA 1935
+ 5\, USA
+SEQUENCE:0
+SUMMARY:Mother-Daughter Fashion Show
+URL:http://www.vmahs.org/event/mother-daughter-fashion-show/
+X-TAGS;LANGUAGE=en-US:fashion\,fashion show\,mother-daughter
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8222@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151105T190000
+SEQUENCE:0
+SUMMARY:Tri-M Induction
+URL:http://www.vmahs.org/event/tri-m-induction/
+X-TAGS;LANGUAGE=en-US:Arts\,Chorus\,music\,Orchestra\,Tri-M\,Tri-M Inductio
+ n
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8223@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151107T090000
+DTEND;TZID=America/New_York:20151107T123000
+SEQUENCE:0
+SUMMARY:Entrance Exam
+URL:http://www.vmahs.org/event/entrance-exam-3/
+X-TAGS;LANGUAGE=en-US:admissions\,Class of 2020\,entrance\,entrance exam\,e
+ xam
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8336@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Alumnae Activity
+CONTACT:Patti Murphy
+DESCRIPTION:<p>Please join us as we celebrate the lives of those we have lo
+ st this past year among our alumnae\, faculty\, staff and friends at Villa
+  Maria.  Afterwards please enjoy some light refreshments in the cafeteria.
+ <a href='http://www.vmahs.org/wp-content/uploads/2015/07/P49enksG-QEN5TOTt
+ 0Qg_5QCzdPqqeNnipKyUQMuxTAAtumpvR9fXoA5446ShSWnVgE9Yf3n2KpJIAE8hvfiAw.jpg'
+ ><img class='aligncenter size-medium wp-image-8401' src='http://www.vmahs.
+ org/wp-content/uploads/2015/07/P49enksG-QEN5TOTt0Qg_5QCzdPqqeNnipKyUQMuxTA
+ AtumpvR9fXoA5446ShSWnVgE9Yf3n2KpJIAE8hvfiAw-544x520.jpg' alt='P49enksG-QEN
+ 5TOTt0Qg_5QCzdPqqeNnipKyUQMuxTA\,AtumpvR9fXoA5446ShSWnVgE9Yf3n2KpJIAE8hvfi
+ Aw' width='544' height='520' data-attachment='8401' /></a></p>
+DTSTART;TZID=America/New_York:20151107T160000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy - Chapel @ 370 Central Avenue\, Malvern\, PA 1
+ 9355\, USA
+SEQUENCE:0
+SUMMARY:Memorial Mass
+URL:http://www.vmahs.org/event/memorial-mass-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3206007164573340148@edline.net
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:Perry Cozzone\; 610-692-7349\; pcozzone@verizon.net
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2014/04/Tailga
+ te-2015.jpg'><img class='alignnone size-medium wp-image-8753' src='http://
+ www.vmahs.org/wp-content/uploads/2014/04/Tailgate-2015-780x520.jpg' alt='T
+ ailgate 2015' width='780' height='520' data-attachment='8753' /></a>\n<p>T
+ he Dad and Daughter Tailgate will follow the PowderPuff Games. Tailgate Ad
+ mission is separate from the PowderPuff Registration.</p>\n<p>Tailgate Reg
+ istration is below and PowderPuff Registration will be taken by Sister Dan
+ ielle. Enjoy the Game!</p>\n<p>Join us for some Tailgate fun after the Gam
+ es!</p>\n<p> \n<div id='bbox-root'></div>\n<p><script type='text/javascrip
+ t'>\n       window.bboxInit = function () {\n           bbox.showForm('aa8
+ 51e10-6279-482f-9ebe-99a7f1e6ce84')\;\n       }\;\n       (function () {\n
+            var e = document.createElement('script')\; e.async = true\;\n  
+          e.src = 'https://bbox.blackbaudhosting.com/webforms/bbox-min.js'\
+ ;\n           document.getElementsByTagName('head')[0].appendChild(e)\;\n 
+       } ())\;\n</script></p>
+DTSTART;TZID=America/New_York:20151108T130000
+DTEND;TZID=America/New_York:20151108T150000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Ave\, Malvern\, PA 19355\, USA
+SEQUENCE:0
+SUMMARY:Dad & Daughter Tailgate
+URL:http://www.vmahs.org/event/dad-daughter-powder-puff-tailgate/
+X-COST:$20.00 per person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8227@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151110T083000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy - Cafeteria  @ 370 Central Avenue\, Malvern\, 
+ PA 19355\, USA
+SEQUENCE:0
+SUMMARY:VMAPA Meeting
+URL:http://www.vmahs.org/event/vmapa-meeting-6/
+X-TAGS;LANGUAGE=en-US:VMAPA\,VMAPA meeting
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8228@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:Kathy Ayres\, Judy O'Leary\; kathyayres1@comcast.net\; judyoleary@c
+ omcast.net
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/07/A5apBQrBXacyFVG_S20o9vJuoQ0x8T
+ JfaPEmYbJ2klYw0NoS78rYEtErVL7DDVs3n9-WbM9lj00gGSTjKTeJsE-780x520.jpg' widt
+ h='780' height='520' /></div><p>Donate your sneakers for a good cause! Thi
+ s year sneakers that are in good condition will go to <a href='http://amig
+ osdejesus.org/' onclick='__gaTracker('send'\, 'event'\, 'outbound-article'
+ \, 'http://amigosdejesus.org/'\, 'Amigos de Jesus')\;' target='_blank'>Ami
+ gos de Jesus</a>. Sneakers that have been really “loved” will be used to c
+ reate playgrounds for needy schools under the direction of the <a href='ht
+ tp://nikegrind.com/' onclick='__gaTracker('send'\, 'event'\, 'outbound-art
+ icle'\, 'http://nikegrind.com/'\, 'Nike Grind')\;' target='_blank'>Nike Gr
+ ind</a> initiative.</p>
+DTSTART;TZID=America/New_York:20151112T073000
+DTEND;TZID=America/New_York:20151112T080000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Sneaker Collection
+URL:http://www.vmahs.org/event/sneaker-collection-2/
+X-TAGS;LANGUAGE=en-US:collection\,sneaker\,sneaker collection
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8229@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Admissions
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151114T090000
+DTEND;TZID=America/New_York:20151114T123000
+SEQUENCE:0
+SUMMARY:Entrance Exam
+URL:http://www.vmahs.org/event/entrance-exam-4/
+X-TAGS;LANGUAGE=en-US:admissions\,Class of 2020\,entrance exam\,exams
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8231@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,Alumnae Activity
+CONTACT:Elizabeth Zwaan\; vmashoppes@gmail.com
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/06/shoppe
+ s2015.png'><img class='alignnone wp-image-8091 size-full' src='http://www.
+ vmahs.org/wp-content/uploads/2015/06/shoppes2015.png' alt='' width='682' h
+ eight='256' data-attachment='8303' /></a>\n<p> </p>\n<p>Return to Green Tr
+ ee for a shopping extravaganza. In its 5th year\, the Shoppes offer beauti
+ ful Christmas gifts for your family and friends. Maybe you will find a lit
+ tle something for you. This year there will be many new vendors as well as
+  vendors you’ve loved at past events. The Shoppes is open to the public wi
+ th FREE admission.</p>\n<p>Interested in participating as a vendor? Please
+  contact Elizabeth Zwaan at Shoppes at Villa @ <a href='http://vmashoppes@
+ gmail.com' onclick='__gaTracker('send'\, 'event'\, 'outbound-article'\, 'h
+ ttp://vmashoppes@gmail.com'\, 'vmashoppes@gmail.com.')\;'>vmashoppes@gmail
+ .com.</a></p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151121T093000
+DTEND;TZID=America/New_York:20151121T153000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy - Marian Center @ 370 Central Avenue\, Malvern
+ \, PA 19355\, USA
+SEQUENCE:0
+SUMMARY:The Shoppes at Villa
+URL:http://www.vmahs.org/event/shoppes-villa-2/
+X-TAGS;LANGUAGE=en-US:Christmas\,shoppes\,shoppes @ villa
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8234@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151125T000000
+DTEND;TZID=America/New_York:20151129T235900
+SEQUENCE:0
+SUMMARY:Thanksgiving Holiday
+URL:http://www.vmahs.org/event/thanksgiving-holiday/
+X-TAGS;LANGUAGE=en-US:holiday\,no classes\,Thanksgiving\,Thanksgiving Holid
+ ay
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8337@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Alumnae Activity
+CONTACT:Mary Jane Raymond
+DESCRIPTION:<p>Please join your sisters in music for an All Class Villa Mar
+ ia Musicians Reunion.  This first ever event includes all musicians\, all 
+ classes–orchestra\, vocal\, and handbells.  It is complimentary to our gue
+ sts and hopefully the first of many gatherings for this wonderful and tale
+ nted group who has been so important to the fabric and culture of Villa Ma
+ ria over the years.<a href='http://www.vmahs.org/wp-content/uploads/2015/0
+ 7/musicians.jpg'><img class='aligncenter size-medium wp-image-8403' src='h
+ ttp://www.vmahs.org/wp-content/uploads/2015/07/musicians-780x520.jpg' alt=
+ 'musicians' width='780' height='520' data-attachment='8403' /></a></p>
+DTSTART;TZID=America/New_York:20151128T140000
+DTEND;TZID=America/New_York:20151128T160000
+GEO:+40.044498;-75.532364
+LOCATION:People's Light and Theatre @ 39 Conestoga Road\, Malvern\, PA 1935
+ 5\, USA
+SEQUENCE:0
+SUMMARY:All Musicians Reunion
+URL:http://www.vmahs.org/event/all-musicians-reunion/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8236@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,VMAPA
+CONTACT:Sister Marie Claire\; smclaire@vmahs.org
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/IMG_98
+ 54.jpg'><img class='alignnone size-medium wp-image-8311' src='http://www.v
+ mahs.org/wp-content/uploads/2015/07/IMG_9854-780x520.jpg' alt='IMG_9854' w
+ idth='780' height='520' data-attachment='8311' /></a>\n<p>As we prepare fo
+ r the coming of Christ this holiday season we would like to invite the ent
+ ire community to come together to ring in the Christmas Season the VMA way
+ ! The evening will include a prayer service\, singing\, hot chocolate and 
+ other refreshments.</p>\n<p>All are welcome! We hope that you and your lov
+ ed ones can make it!</p>\n<p>Please RSVP by emailing Sister Marie Claire (
+ smclaire@vmahs.org) with your family name and the number of guests that wi
+ ll be in attendance no later than Monday December 1<sup>st</sup>!</p>
+DTSTART;TZID=America/New_York:20151129T190000
+DTEND;TZID=America/New_York:20151129T203000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Christmas Tree Lighting
+URL:http://www.vmahs.org/event/christmas-tree-lighting/
+X-TAGS;LANGUAGE=en-US:Christmas\,Peer Ministry\,Tree Lighting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8239@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151201T141500
+DTEND;TZID=America/New_York:20151201T170000
+SEQUENCE:0
+SUMMARY:Mandatory Music Rehearsal (advisory-5pm)
+URL:http://www.vmahs.org/event/mandatory-music-rehearsal-advisory-5pm/
+X-TAGS;LANGUAGE=en-US:Chorus\,Christmas\,concert\,music\,Orchestra
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8241@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151203T190000
+SEQUENCE:0
+SUMMARY:Christmas Concert
+URL:http://www.vmahs.org/event/christmas-concert-4/
+X-TAGS;LANGUAGE=en-US:Arts\,Chorus\,Christmas\,Christmas Concert\,music\,Or
+ chestra
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8244@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151204T190000
+SEQUENCE:0
+SUMMARY:Christmas Concert (Snow Date)
+URL:http://www.vmahs.org/event/christmas-concert-snow-date/
+X-TAGS;LANGUAGE=en-US:Christmas\,Christmas Concert\,concert\,snow date
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8246@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:<p> </p>\n<p>Please join us for an invigorating and festive str
+ oll through Villa Maria’s beautiful campus to benefit Special Olympics of 
+ Delaware County. Afterwards\, enjoy Christmas carols\, hot chocolate\, tre
+ ats and a visit from Santa. All are welcome: Special Olympians\, Villa Mar
+ ia and Malvern students\, family and friends.</p>\n<p>See more information
+  <a href='http://sodelco.org/fundraising-and-social-events/' onclick='__ga
+ Tracker('send'\, 'event'\, 'outbound-article'\, 'http://sodelco.org/fundra
+ ising-and-social-events/'\, 'here at Delaware County Special Olympics')\;'
+  title='Delaware County Special Olympics'  target='_blank'>here at Delawar
+ e County Special Olympics</a>.</p>
+DTSTART;TZID=America/New_York:20151205T080000
+DTEND;TZID=America/New_York:20151205T120000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Reindeer Romp
+URL:http://www.vmahs.org/event/reindeer-romp-2/
+X-TAGS;LANGUAGE=en-US:Christmas\,music\,Reindeer Romp\,service\,Tri-M
+X-COST:$25 per person\, $75 per family (Benefits Special Olympics of Delawa
+ re County)
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8247@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151206T160000
+SEQUENCE:0
+SUMMARY:Christmas Concert
+URL:http://www.vmahs.org/event/christmas-concert-5/
+X-TAGS;LANGUAGE=en-US:Arts\,Chorus\,Christmas\,Christmas Concert\,concert\,
+ music\,Orchestra
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8248@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151207T190000
+SEQUENCE:0
+SUMMARY:Christmas Concert (Snow Date)
+URL:http://www.vmahs.org/event/christmas-concert-snow-date-2/
+X-TAGS;LANGUAGE=en-US:Christmas\,Christmas Concert\,snow date
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2824@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2014/11/christmassocial.jpg' width='32
+ 0' height='213' /></div><p>Please join us for a festive gathering with you
+ r special young lady and enjoy a bit of Christmas cheer!  During this seas
+ on of hustle and bustle\, slow down for a heartfelt memory in the making i
+ ncluding Villa’s own Christmas musicians\, holiday refreshments\, true spi
+ rit and fun to share with your daughter and her friends!</p>\n<p>For this 
+ year’s Christmas Giving\, we will be collecting much needed donations for 
+ two different recipients:</p>\n<ul>\n<li>The IHM Family Literacy Center in
+  Coatesville\, PA and</li>\n<li>Trinity Academy in Shenandoah\, PA</li>\n<
+ /ul>\n<p>On Monday\, November 24<sup>th</sup>\, a list of specific wishes 
+ from either the IHM Family Literacy Center or Trinity Academy will be sent
+  home with each of our girls. Please know this is purely optional . . . sh
+ ould you choose to participate\, your daughter will have the opportunity i
+ n homeroom to sign up for an item from the wish list which is specific to 
+ her homeroom.  After purchasing the item\, the gift should be wrapped\, la
+ beled\, and returned to school at the Christmas Social. If you cannot make
+  it to the Social\, but care to participate\, your daughter can leave the 
+ wrapped and labeled gift in the cafeteria that same day.  Again\, a wish l
+ ist and directions will be sent home with each girl to make things as easy
+  as possible.</p>\n<p>We hope you will plan to join us for one of Villa’s 
+ most cherished traditions!</p>\n<p> </p>\n<p><script type='text/javascript
+ '>// <![CDATA[\nwindow.bboxInit = function () {            bbox.showForm('
+ 8767dd0e-ca4f-43fb-bb40-e6cea0f984f3')\;        }\;        (function () { 
+            var e = document.createElement('script')\; e.async = true\;    
+         e.src = 'https://bbox.blackbaudhosting.com/webforms/bbox-min.js'\;
+             document.getElementsByTagName('head')[0].appendChild(e)\;     
+    } ())\;\n// ]]></script></p>
+DTSTART;TZID=America/New_York:20151208T144500
+DTEND;TZID=America/New_York:20151208T163000
+LOCATION:Regina Mundi Cafeteria
+SEQUENCE:0
+SUMMARY:Christmas Giving and Social
+URL:http://www.vmahs.org/event/christmas-social-service/
+X-TAGS;LANGUAGE=en-US:Christmas
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8250@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151209T190000
+SEQUENCE:0
+SUMMARY:Carol and Ring Ceremony
+URL:http://www.vmahs.org/event/carol-and-ring-ceremony/
+X-TAGS;LANGUAGE=en-US:Carol and Ring\,Christmas\,Class of 2017\,Ring Ceremo
+ ny
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8251@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151210T190000
+SEQUENCE:0
+SUMMARY:Carol and Ring Ceremony (Snow Date)
+URL:http://www.vmahs.org/event/carol-and-ring-ceremony-snow-date/
+X-TAGS;LANGUAGE=en-US:Carol and Ring\,Christmas\,Class of 2017\,Ring Ceremo
+ ny\,snow date
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8254@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151213T170000
+DTEND;TZID=America/New_York:20151213T210000
+SEQUENCE:0
+SUMMARY:ViVace Concert
+URL:http://www.vmahs.org/event/vivace-concert/
+X-TAGS;LANGUAGE=en-US:concert\,ViVace
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8237@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Early Dismissal\,School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151216T120000
+DTEND;TZID=America/New_York:20151221T120000
+SEQUENCE:0
+SUMMARY:Semester Examinations for All Grades (noon dismissal)
+URL:http://www.vmahs.org/event/semester-examinations-for-all-grades-noon-di
+ smissal/
+X-TAGS;LANGUAGE=en-US:early dismissal\,exam\,Midterm
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8257@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151220T170000
+DTEND;TZID=America/New_York:20151220T210000
+SEQUENCE:0
+SUMMARY:Ms. Kim’s Studio Concert
+URL:http://www.vmahs.org/event/ms-kims-studio-concert/
+X-TAGS;LANGUAGE=en-US:concert
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8261@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151223T000000
+DTEND;TZID=America/New_York:20160103T235900
+SEQUENCE:0
+SUMMARY:Christmas Holiday
+URL:http://www.vmahs.org/event/christmas-holiday/
+X-TAGS;LANGUAGE=en-US:Christmas\,Christmas Holiday\,holiday\,Merry Christma
+ s\,New Year
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8338@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Alumnae Activity
+CONTACT:Courtney Scordellette\, Monica Burke
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151226T180000
+SEQUENCE:0
+SUMMARY:Happy Hour
+URL:http://www.vmahs.org/event/happy-hour/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8340@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160112T083000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy - Cafeteria @ 370 Central Avenue\, Malvern\, P
+ A 19355\, USA
+SEQUENCE:0
+SUMMARY:VMAPA Meeting
+URL:http://www.vmahs.org/event/vmapa-meeting-7/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8672@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/02/jadedgracefi-780x520.jpg' widt
+ h='780' height='520' /></div>
+DTSTART;TZID=America/New_York:20160226T193000
+DTEND;TZID=America/New_York:20160226T223000
+SEQUENCE:0
+SUMMARY:Freshman/Sophomore Mixer
+URL:http://www.vmahs.org/event/freshmansophomore-mixer-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8325@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:Anna Cozzone\, Jen Pizzi\; amcozzone@verizon.net\; jharlacher@harme
+ lin.com
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/zRGfzc
+ vuJWL97cnG1qkQjJDdXNp766a7LrSWrVlqvDI3yPMK5yCtbmsWDvH2TQMbhuufgw1GqtdT3YRP
+ M95UpY.jpg'><img class='alignnone  wp-image-8326' src='http://www.vmahs.or
+ g/wp-content/uploads/2015/07/zRGfzcvuJWL97cnG1qkQjJDdXNp766a7LrSWrVlqvDI3y
+ PMK5yCtbmsWDvH2TQMbhuufgw1GqtdT3YRPM95UpY-780x520.jpg' alt='zRGfzcvuJWL97c
+ nG1qkQjJDdXNp766a7LrSWrVlqvDI\,3yPMK5yCtbmsWDvH2TQMbhuufgw1GqtdT3YRPM95UpY
+ ' width='468' height='312' data-attachment='8326' /></a>
+DTSTART;TZID=America/New_York:20160227T180000
+DTEND;TZID=America/New_York:20160227T230000
+GEO:+40.011648;-75.408987
+LOCATION:Aronimink Golf Club @ 3600 Saint Davids Road\, Newtown Square\, PA
+  19073\, USA
+SEQUENCE:0
+SUMMARY:FEST 2016
+URL:http://www.vmahs.org/event/fest-2016/
+X-TAGS;LANGUAGE=en-US:FEST
+X-COST:$125 per person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8674@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Early Dismissal\,School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160323T120000
+SEQUENCE:0
+SUMMARY:Noon Dismissal
+URL:http://www.vmahs.org/event/noon-dismissal-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8275@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:No classes
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160324T000000
+DTEND;TZID=America/New_York:20160403T235900
+SEQUENCE:0
+SUMMARY:Easter Holiday
+URL:http://www.vmahs.org/event/easter-holiday/
+X-TAGS;LANGUAGE=en-US:Easter\,Easter Holiday\,holiday\,no classes
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8339@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Alumnae Activity
+CONTACT:Nancy Veronesi\, Courtney Scordellette\, Elizabeth Zwaan
+DESCRIPTION:<a href='http://www.vmahs.org/wp-content/uploads/2015/07/lunche
+ on.jpg'><img class='aligncenter size-medium wp-image-8377' src='http://www
+ .vmahs.org/wp-content/uploads/2015/07/luncheon-780x520.jpg' alt='luncheon'
+  width='780' height='520' data-attachment='8377' /></a>
+DTSTART;TZID=America/New_York:20160410T110000
+DTEND;TZID=America/New_York:20160410T150000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy @ 370 Central Avenue\, Malvern\, PA 19355\, US
+ A
+SEQUENCE:0
+SUMMARY:Alumnae Luncheon
+URL:http://www.vmahs.org/event/alumnae-luncheon/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8675@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/04/MG_2375-780x520.jpg' width='78
+ 0' height='520' /></div>
+DTSTART;TZID=America/New_York:20160415T190000
+GEO:+40.142034;-75.311532
+LOCATION:Presidential Caterera @ 2910 Dekalb Pike\, Norristown\, PA 19401\,
+  USA
+SEQUENCE:0
+SUMMARY:Junior/Senior Prom
+URL:http://www.vmahs.org/event/juniorsenior-prom-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8678@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/04/MG_4129-780x520.jpg' width='78
+ 0' height='520' /></div>
+DTSTART;TZID=America/New_York:20160428T140000
+SEQUENCE:0
+SUMMARY:Fine Arts Festival
+URL:http://www.vmahs.org/event/fine-arts-festival-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8276@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160502T000000
+DTEND;TZID=America/New_York:20160512T235900
+SEQUENCE:0
+SUMMARY:AP Exams
+URL:http://www.vmahs.org/event/ap-exams-2/
+X-TAGS;LANGUAGE=en-US:AP Exams\,exam
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8277@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,School Schedule
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160509T000000
+DTEND;TZID=America/New_York:20160520T235900
+SEQUENCE:0
+SUMMARY:Senior Capstone Shadowing Dates
+URL:http://www.vmahs.org/event/senior-capstone-shadowing-dates/
+X-TAGS;LANGUAGE=en-US:Capstone\,Class of 2016\,Shadowing
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8342@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160512T083000
+GEO:+40.041344;-75.506608
+LOCATION:Villa Maria Academy - Cafeteria @ 370 Central Avenue\, Malvern\, P
+ A 19355\, USA
+SEQUENCE:0
+SUMMARY:VMAPA Meeting
+URL:http://www.vmahs.org/event/vmapa-meeting-9/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8280@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/07/MG_0133-780x520.jpg' width='78
+ 0' height='520' /></div>
+DTSTART;TZID=America/New_York:20160601T190000
+SEQUENCE:0
+SUMMARY:Honors Convocation
+URL:http://www.vmahs.org/event/honors-convocation-3/
+X-TAGS;LANGUAGE=en-US:Class of 2016\,honors convocation\,seniors
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2835@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2014/07/MG_0137-780x520.jpg' width='78
+ 0' height='520' /></div>
+DTSTART;TZID=America/New_York:20160601T200000
+DTEND;TZID=America/New_York:20160601T210000
+SEQUENCE:0
+SUMMARY:Honors Social
+URL:http://www.vmahs.org/event/honors-social/
+X-TAGS;LANGUAGE=en-US:graduation\,honors convocation
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8281@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,Early Dismissal\,School Schedule
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/07/IMG_3046-780x520.jpg' width='7
+ 80' height='520' /></div>
+DTSTART;TZID=America/New_York:20160602T080000
+DTEND;TZID=America/New_York:20160602T110000
+SEQUENCE:0
+SUMMARY:Daisy Chain/Senior Sing (11:00 am Dismissal)
+URL:http://www.vmahs.org/event/daisy-chainsenior-sing-1100-am-dismissal/
+X-TAGS;LANGUAGE=en-US:Class of 2016\,Class of 2017\,Daisy Chain\,Juniors\,S
+ enior Sing\,seniors
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8282@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,School Schedule
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/06/h-grads2015IMG_1104-780x379.jp
+ g' width='780' height='379' /></div>
+DTSTART;TZID=America/New_York:20160604T110000
+SEQUENCE:0
+SUMMARY:Baccalaureate/Graduation (St. Elizabeth’s Church)
+URL:http://www.vmahs.org/event/baccalaureategraduation-st-elizabeths-church
+ /
+X-TAGS;LANGUAGE=en-US:Alumnae\,Baccalaureate\,Class of 2016\,graduation\,yo
+ ung alumnae
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8818@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Alumnae Activity
+CONTACT:Lee Zaions Caracci\; lzc1002@verizon.net
+DESCRIPTION:<p>The Villa Maria Class of 1966 is celebrating a huge mileston
+ e with their 50th Class Reunion!  Join your former classmates as they proc
+ ess with the Class of 2016 to receive their Golden Girl Diplomas.  This is
+  a very special event for our graduates as well as our current students an
+ d parents to witness.  The sisterhood of Villa Maria shines bright on such
+  a special occasion!<a href='http://www.vmahs.org/wp-content/uploads/2015/
+ 09/GG1965.jpg'><img class='aligncenter size-medium wp-image-8819' src='htt
+ p://www.vmahs.org/wp-content/uploads/2015/09/GG1965-780x520.jpg' alt='GG19
+ 65' width='780' height='520' data-attachment='8819' /></a></p>
+DTSTART;TZID=America/New_York:20160604T110000
+DTEND;TZID=America/New_York:20160604T130000
+GEO:+40.089148;-75.690693
+LOCATION:St. Elizabeth Church @ 120 St elizabeth Dr\, Chester Springs\, PA 
+ 19425\, USA
+SEQUENCE:0
+SUMMARY:Class of 1966 Golden Girl Graduation
+URL:http://www.vmahs.org/event/class-of-1966-golden-girl-graduation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8343@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:VMAPA
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160609T083000
+LOCATION:2015-2016 VMAPA Calendar
+SEQUENCE:0
+SUMMARY:VMAPA Executive Meeting (Board Wrap-Up\, Closed Meeting)
+URL:http://www.vmahs.org/event/vmapa-executive-meeting-board-wrap-up-closed
+ -meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8283@www.vmahs.org
+DTSTAMP:20150920T002116Z
+CATEGORIES;LANGUAGE=en-US:Activities\,Early Dismissal\,School Schedule
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.vmahs.org/wp-content/uploads/2015/06/MG_5996-780x520.jpg' width='78
+ 0' height='520' /></div>
+DTSTART;TZID=America/New_York:20160610T110000
+SEQUENCE:0
+SUMMARY:Underclassmen Awards Assembly (11am dismissal)
+URL:http://www.vmahs.org/event/underclassmen-awards-assembly-11am-dismissal
+ /
+X-TAGS;LANGUAGE=en-US:awards\,awards ceremony\,Class of 2017\,Class of 2018
+ \,Class of 2019\,early dismissal
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

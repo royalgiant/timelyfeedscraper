@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.147.242.157//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.yndivorsinsundu.com
+X-WR-TIMEZONE:Atlantic/Azores
+BEGIN:VTIMEZONE
+TZID:Atlantic/Azores
+X-LIC-LOCATION:Atlantic/Azores
+BEGIN:STANDARD
+DTSTART:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0100
+TZNAME:AZOT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T000000
+TZOFFSETFROM:-0100
+TZOFFSETTO:+0000
+RDATE:20160327T000000
+TZNAME:AZOST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-61142@www.yndivorsinsundu.com
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=en-US:Útgáfa á lykiltölum vinnumarkaðarins
+CONTACT:
+DESCRIPTION:<p>Verkó í samvinnu við Kaffisjoppuna býður öllum í kjarakaffi 
+ eldsnemma þennan laugardagsmorgun. Ókeypis kaffi og ódýrt bakkelsi frá kl.
+  6-9. Leiðtogar stéttarfélaga á svæðinu mæta og rabba um kjaramálin. Milli
+  kl. 7 og 8 verður sýndar glefsur úr fræðslumynd um íslenskt launafólk í 1
+ 00 ár.\n<div id='after-content' class='after-content'>\n<div class='contai
+ ner '>\n</div><!-- .after-content --></div><!-- .container -->
+DTSTART;TZID=Atlantic/Azores:20151003T060000
+DTEND;TZID=Atlantic/Azores:20151003T090000
+GEO:+64.153082;-21.950877
+LOCATION:Kaffisjoppan @ Grandagarði
+SEQUENCE:0
+SUMMARY:Kjara-kaffi
+URL:http://www.yndivorsinsundu.com/event/kjara-kaffi/
+X-TAGS;LANGUAGE=en-US:Allir
+X-COST:Kaffi í boði verkó
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-61054@www.yndivorsinsundu.com
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Breytingar á skatta- og velferðakerfi
+CONTACT:
+DESCRIPTION:<hr />\n<p>Til að greiða fyrir gerð kjarasamninga í maí 2015 ák
+ vað ríkisstjórnin að lækka tekjuskattsprósentuna í nokkrum áföngum.</p>\n<
+ p>Fyrsti áfangi skattalækknan kemur til framkvæmda í ársbyrjun 2016:</p>\n
+ <ul>\n<li>Lægsta tekjuþrep: Skattprósenta lækkar úr 22\,86% í 22\,68%</li>
+ \n<li>Milli tekjuþrep: Skattprósenta lækkar úr 24\,94 í 23\,72%</li>\n<li>
+ Persónuafsláttur: Hækkar í samræmi við verðlagsbreytingar.</li>\n</ul>\n<d
+ iv id='after-content' class='after-content'>\n<div class='container '>\n</
+ div><!-- .after-content --></div><!-- .container -->
+DTSTART;TZID=Atlantic/Azores:20160101T000000
+SEQUENCE:0
+SUMMARY:Skattalækkanir
+URL:http://www.yndivorsinsundu.com/event/skattalaekkanir/
+X-TAGS;LANGUAGE=en-US:Allir
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-61143@www.yndivorsinsundu.com
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=en-US:Saga daganna &amp\; alþjóðlegir baráttudagar
+CONTACT:
+DESCRIPTION:<p>Alþýðusamband Íslands (ASÍ) var stofnað 12. mars 1916. Í dag
+  eru meðlimir þess u.þ.b. 108.000 u.þ.b. helmingur starfandi vinnuafls. Fé
+ lagsmenn eru hvort tveggja starfandi á almennum vinnumarkaði og hjá hinu o
+ pinbera. Á heimasíðu ASÍ segir að „verkalýðshreyfingin hafi að verulegu le
+ yti byggt upp það velferðarkerfi sem við njótum góðs af í dag\, samstaðan 
+ og fjöldinn gerir henni kleift að hafa pólitísk áhrif og móta þjóðfélagið 
+ að þörfum fólksins. ASÍ gerir kröfu um úrbætur\, völd og áhrif fyrir hönd 
+ félaga sinna\, en úrslitavaldið þegar mest á reynir\, til dæmis við gerð k
+ jarasamninga eða verkfallsboðun\, er ætíð í höndum fólksins í stéttarfélög
+ unum.\n<div id='after-content' class='after-content'>\n<div class='contain
+ er '>\n</div><!-- .after-content --></div><!-- .container -->
+DTSTART;TZID=Atlantic/Azores:20160312T000000
+SEQUENCE:0
+SUMMARY:ASÍ 100 ára
+URL:http://www.yndivorsinsundu.com/event/asi-100-ara/
+X-TAGS;LANGUAGE=en-US:Allir
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

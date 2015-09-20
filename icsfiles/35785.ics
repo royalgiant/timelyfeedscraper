@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//82.165.30.7//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://s579105199.websitehome.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1628@s579105199.websitehome.co.uk
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:sdfgsdf\; dsfgsdfg\; sdfg\; http://clairedownes.co.uk
+DESCRIPTION:<p><a href='http://s579105199.websitehome.co.uk/wp-content/uplo
+ ads/2015/06/6577025859_708f5a02e9_z.jpg'><img class='alignnone size-medium
+  wp-image-1460' src='http://s579105199.websitehome.co.uk/wp-content/upload
+ s/2015/06/6577025859_708f5a02e9_z-300x200.jpg' alt='6577025859_708f5a02e9_
+ z' width='300' height='200' /></a></p>
+DTSTART;VALUE=DATE:20151122
+DTEND;VALUE=DATE:20151123
+GEO:+51.08391;-2.543304
+LOCATION:North Cadbury Church of England Primary School @ Somerset BA7\, UK
+SEQUENCE:0
+SUMMARY:Holy Commotion drama workshop
+URL:http://s579105199.websitehome.co.uk/event/holy-commotion-drama-workshop
+ -2
+X-COST:asasf
+X-TICKETS-URL:http://clairedownes.co.uk
+END:VEVENT
+END:VCALENDAR

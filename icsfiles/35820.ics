@@ -1,0 +1,404 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//67.227.178.245//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://stmswh.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2595@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150929
+DTEND;VALUE=DATE:20151003
+SEQUENCE:0
+SUMMARY:Book Fair –  Sept. 29 – Oct. 2
+URL:http://stmswh.org/event/book-fair-sept-29-oct-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2597@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:HSA Fall Fundraiser – Oct.1-12
+URL:http://stmswh.org/event/hsa-fall-fundraiser-oct-1-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2596@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151002
+SEQUENCE:0
+SUMMARY:Interims
+URL:http://stmswh.org/event/interims/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2598@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151006
+DTEND;VALUE=DATE:20151007
+SEQUENCE:0
+SUMMARY:NO SCHOOL/Faculty Inservice
+URL:http://stmswh.org/event/no-schoolfaculty-inservice/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2599@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151010
+SEQUENCE:0
+SUMMARY:NO AFTERCARE
+URL:http://stmswh.org/event/no-aftercare/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2600@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:Columbus Day – No School
+URL:http://stmswh.org/event/columbus-day-no-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2594@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150922T083000
+DTEND;TZID=America/New_York:20150922T140000
+SEQUENCE:0
+SUMMARY:8th grade Retreat
+URL:http://stmswh.org/event/8th-grade-retreat-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2680@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:<p>Distance 1.5 miles.  End time is an approximate time.</p>
+DTSTART;TZID=America/New_York:20150925T160000
+DTEND;TZID=America/New_York:20150925T200000
+GEO:+41.596487;-72.877601
+LOCATION:Southington @ Southington\, CT\, USA
+SEQUENCE:0
+SUMMARY:Cross Country – Camp Sloper Relays
+URL:http://stmswh.org/event/cross-country-camp-sloper-relays/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2730@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>-Home</p>
+DTSTART;TZID=America/New_York:20150925T153000
+GEO:+41.831827;-72.736715
+LOCATION:Sacred Heart @ 26 Wintonbury Ave\, Bloomfield\, CT 06002\, USA
+SEQUENCE:0
+SUMMARY:Girls’ Soccer vs Two Rivers Magnet- Home
+URL:http://stmswh.org/event/girls-soccer-vs-two-rivers-magnet-home/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2727@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150925T160000
+GEO:+41.854009;-72.827915
+LOCATION:Fields at Iron Horse Blvd @ Simsbury\, CT\, USA
+SEQUENCE:0
+SUMMARY:Boys’ Soccer vs St. Mary’s – Away
+URL:http://stmswh.org/event/boys-soccer-vs-st-marys-away/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2667@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151001T160000
+GEO:+41.854009;-72.827915
+LOCATION:Windsor Locks Middle School @ Windsor\, CT
+SEQUENCE:0
+SUMMARY:Boys Soccer vs Windsor Locks- Away
+URL:http://stmswh.org/event/boys-soccer-vs-windsor-locks-5/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2676@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151001T160000
+GEO:+41.826488;-72.730095
+LOCATION:Home- Sacred Heart @ Bloomfield\, CT\, USA
+SEQUENCE:0
+SUMMARY:Girls Soccer vs Windsor Locks
+URL:http://stmswh.org/event/girls-soccer-vs-windsor-locks-5/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2681@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:<p>Distance 1.7 miles.  End time is an approximate time.</p>
+DTSTART;TZID=America/New_York:20151003T090000
+DTEND;TZID=America/New_York:20151003T123000
+GEO:+41.866765;-72.449529
+LOCATION:Rockville HS @ Rockville\, Vernon\, CT\, USA
+SEQUENCE:0
+SUMMARY:Cross Country – Harry Geraghty Invitational
+URL:http://stmswh.org/event/cross-country-harry-geraghty-invitational/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2668@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151007T160000
+GEO:+41.826488;-72.730095
+LOCATION:Home- Sacred Heart @ Bloomfield\, CT\, USA
+SEQUENCE:0
+SUMMARY:Boys Soccer vs Windsor Locks
+URL:http://stmswh.org/event/boys-soccer-vs-windsor-locks-6/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2675@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151007T160000
+GEO:+41.928031;-72.631801
+LOCATION:Away- Windsor Locks Middle School @ 7 Center St\, Windsor Locks\, 
+ CT 06096\, USA
+SEQUENCE:0
+SUMMARY:Girls Soccer vs Windsor Locks
+URL:http://stmswh.org/event/girls-soccer-vs-windsor-locks-4/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2682@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:<p>Distance 1.5 miles.  End time is an approximate time.</p>
+DTSTART;TZID=America/New_York:20151008T153000
+DTEND;TZID=America/New_York:20151008T173000
+GEO:+41.866765;-72.449529
+LOCATION:Windsor Locks
+SEQUENCE:0
+SUMMARY:Cross Country – Windsor Locks
+URL:http://stmswh.org/event/cross-country-windsor-locks/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2601@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151013T083000
+DTEND;TZID=America/New_York:20151013T140000
+SEQUENCE:0
+SUMMARY:7th grade Retreat
+URL:http://stmswh.org/event/7th-grade-retreat-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2669@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151014T160000
+GEO:+41.762084;-72.742015
+LOCATION:Solomon Schecter Day School @ West Hartford\, CT\, USA
+SEQUENCE:0
+SUMMARY:Boys Soccer vs SSDS- Away
+URL:http://stmswh.org/event/boys-soccer-vs-st-marys-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2674@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151014T160000
+GEO:+41.854009;-72.827915
+LOCATION:Away- Ethel Walker School @  230 Bushy Hill Rd.\, Simsbury\, CT\, 
+ USA
+SEQUENCE:0
+SUMMARY:Girls Soccer vs Ethel Walker
+URL:http://stmswh.org/event/girls-soccer-vs-ethel-walker-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2683@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:<p>Distance 1.6 miles.  End time is an approximate time.</p>
+DTSTART;TZID=America/New_York:20151015T153000
+DTEND;TZID=America/New_York:20151015T173000
+GEO:+41.866765;-72.449529
+LOCATION:Middlefield
+SEQUENCE:0
+SUMMARY:Cross Country – Middlefield
+URL:http://stmswh.org/event/cross-country-middlefield/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2602@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151020T083000
+DTEND;TZID=America/New_York:20151020T093000
+SEQUENCE:0
+SUMMARY:8th grade yearbook portraits
+URL:http://stmswh.org/event/8th-grade-yearbook-portraits-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2670@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151023T160000
+GEO:+41.826488;-72.730095
+LOCATION:Home- Sacred Heart @ Bloomfield\, CT\, USA
+SEQUENCE:0
+SUMMARY:Boys Soccer vs SMSA
+URL:http://stmswh.org/event/boys-soccer-vs-smsa-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2673@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151023T160000
+GEO:+41.826488;-72.730095
+LOCATION:Away
+SEQUENCE:0
+SUMMARY:Girls Soccer vs SMSA
+URL:http://stmswh.org/event/girls-soccer-vs-smsa/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2732@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151023T160000
+GEO:+41.754012;-72.662444
+LOCATION:Sport & Medicine Science Academy @ 208 Huyshope Ave\, Hartford\, C
+ T 06106\, USA
+SEQUENCE:0
+SUMMARY:Girls’ Soccer vs SMSA – Away
+URL:http://stmswh.org/event/girls-soccer-vs-smsa-away/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2671@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151028T153000
+GEO:+41.762084;-72.742015
+LOCATION:Away- Renbrook School @ West Hartford\, CT\, USA
+SEQUENCE:0
+SUMMARY:Boys Soccer vs Renbrook
+URL:http://stmswh.org/event/boys-soccer-vs-renbrook-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2672@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151028T153000
+GEO:+41.788032;-72.777996
+LOCATION:Away- Renbrook School @ 2865 Albany Ave\, West Hartford\, CT 06117
+ \, USA
+SEQUENCE:0
+SUMMARY:Girls’ Soccer vs Renbrook – Away
+URL:http://stmswh.org/event/girls-soccer-vs-renbrook-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2728@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151030T153000
+LOCATION:Home- Sacred Heart Church @ Bloomfield\, CT
+SEQUENCE:0
+SUMMARY:Boys’ Soccer vs Two Rivers Magnet – Home
+URL:http://stmswh.org/event/boys-soccer-vs-two-rivers-magnet-home/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2678@stmswh.org
+DTSTAMP:20150920T002153Z
+CATEGORIES;LANGUAGE=en-US:Athletics
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151107T110000
+GEO:+41.784827;-72.57527
+LOCATION:Wickham Park @ Wickham Park\, 1329 Middle Turnpike West\, Manchest
+ er\, CT 06040\, USA
+SEQUENCE:0
+SUMMARY:Cross Country – Middle School State Championships
+URL:http://stmswh.org/event/cross-country-middle-school-state-championships
+ /
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

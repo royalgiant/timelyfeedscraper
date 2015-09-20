@@ -1,0 +1,1429 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.186.192.161//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.visitlouisa.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1511@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Small Country Campground
+CONTACT:540-967-2431\; camp@smallcountry.com\; http://www.smallcountry.com
+DESCRIPTION:<p>FALL FISH FRY & Block Party. Best fish and hush puppies on t
+ he East Coast. Reservations required\, $10/adult\; $5 under 10. Compete in
+  ladder golf\, corn hole\, horseshoes\, shuffleboard\, washer toss\, mini-
+ golf\, and fire truck rides.</p>
+DTSTART;VALUE=DATE:20150919
+DTEND;VALUE=DATE:20150920
+GEO:+38.021989;-78.087897
+LOCATION:Small Country Campground @ 4400 Byrd Mill Road\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Fall Fish Fry & Block Party
+URL:http://www.visitlouisa.com/event/fall-fish-fry-block-party/
+X-COST:$10/adult  $5 under 10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1512@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Small Country Campground
+CONTACT:540-967-2431\; camp@smallcountry.com\; http://www.smallcountry.com
+DESCRIPTION:<p><strong>Backyard Games Tournament</strong> – Cheer on the ch
+ ildren as they do sack races\, tug-a-war\, hula hoop contests. Adult tourn
+ aments: corn hole\, horseshoes\, ladder ball\, washer toss.</p>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150928
+GEO:+38.021989;-78.087897
+LOCATION:Small Country Campground @ 4400 Byrd Mill Road\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Backyard Games Tournament
+URL:http://www.visitlouisa.com/event/backyard-games-tournament/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1513@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Small Country Campground
+CONTACT:540-967-2431\; camp@smallcountry.com\; http://www.smallcountry.com
+DESCRIPTION:<p>M-A-S-H Weekend – with great movies in the Pavilion FREE. Ki
+ ds movies in the afternoon. Also other older war movies Saturday night. An
+ d popcorn!!!</p>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151005
+GEO:+38.021989;-78.087897
+LOCATION:Small Country Campground @ 4400 Byrd Mill Road\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:M-A-S-H Weekend
+URL:http://www.visitlouisa.com/event/m-a-s-h-weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1514@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Small Country Campground
+CONTACT:540-967-2431\; camp@smallcountry.com\; http://www.smallcountry.com
+DESCRIPTION:<p><strong>OKTOBER FES</strong>T @ Small Country (Columbus Day)
+  Great German food and fun with proceeds to the Small Country Children’s F
+ oundation. Dinner reservations required\;  $10 adults/ $5 kids. Monday is 
+ Columbus Day\, so take the day off…the government does…your banker too.</p
+ >\n<p> </p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+GEO:+38.021989;-78.087897
+LOCATION:Small Country Campground @ 4400 Byrd Mill Road\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Oktober Fest
+URL:http://www.visitlouisa.com/event/oktober-fest/
+X-COST:$10 adults  $5 kids
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1515@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Small Country Campground
+CONTACT:540-967-2431\; camp@smallcountry.com\; http://www.smallcountry.com
+DESCRIPTION:<p>LEAF WALKS/LEAF TALKS. Experience Virginia’s colorful Fall a
+ t Small Country where you can also learn about the trees and the leaves an
+ d migration and more. A true outdoor/camping experience.</p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151018
+GEO:+38.021989;-78.087897
+LOCATION:Small Country Campground @ 4400 Byrd Mill Road\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Leaf Walks/Leaf Talks
+URL:http://www.visitlouisa.com/event/leaf-walksleaf-talks/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1516@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Small Country Campground
+CONTACT:540-967-2431\; camp@smallcountry.com\; http://www.smallcountry.com
+DESCRIPTION:<p><strong>Halloween</strong> – Beginning at 1 pm Saturday ther
+ e will be Halloween games and crafts and at 4 pm\, trick-or-treating aroun
+ d the campground\, plus costume judging and selection of the best decorate
+ d Halloween campsites. The Spook House opens at 1 pm\; hayrides through th
+ e Haunted Woods from 6 to 9 pm\, weather permitting. 33% discount for camp
+ ing stays longer than 3 days. Day guests welcome at $10 for folks 10 and u
+ p and $5 for kids ages 4-10. Tots free.</p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+GEO:+38.021989;-78.087897
+LOCATION:Small Country Campground @ 4400 Byrd Mill Road\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Halloween
+URL:http://www.visitlouisa.com/event/halloween/
+X-COST:$10/adults  $5/kids 4-10
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2003@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards\,Farms &amp\; Vineyards\,Grayhaven 
+ Winery\,Lake Anna Winery\,Weston Farm Vineyard
+CONTACT:Heart of Virginia Wine Trail\; 804-550-7516\; http://www.hovawinetr
+ ail.com/annual-events.html
+DESCRIPTION:<p>Join Cooper\, Grayhaven\, James River Cellars\, Lake Anna\, 
+ Weston Farms\, and Mattaponi for a one day wine festival on the grounds of
+  Weston Farm. Taste wines from 6 Wineries\, listen to live music\, visit w
+ ith craft vendors and check out our food truck vendors. Time: Noon – 5pm. 
+ Tickets: $20.00/person in advance\; $25 at the gate day of event. [Advance
+  ticket sales close Friday\, noon]</p>
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151101
+LOCATION:Area Wineries
+SEQUENCE:0
+SUMMARY:Ghosts & Goblets
+URL:http://www.visitlouisa.com/event/ghosts-goblets/
+X-COST:$20
+X-TICKETS-URL:http://www.hovawinetrail.com/annual-events.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1691@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Earlyhouse\,Outdoor Festival
+CONTACT:Earlyhouse\; 540-967-1832\; http://www.earlyhouse.com
+DESCRIPTION:<p><em>11th Annual Central Virginia Charity Chili Cook-Off</em>
+ </p>\n<p><strong>Saturday\, November 7\, 2015</strong></p>\n<p>Entertainme
+ nt</p>\n<p>Chili Contest</p>\n<p>Silent Auction</p>\n<p>Food and Fun for t
+ he Whole Family!</p>
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+GEO:+37.974025;-77.989934
+LOCATION:Earlyhouse @ 3998 Yanceyville Road\, Louisa\, VA 23093\, USA
+SEQUENCE:0
+SUMMARY:Earlyhouse Annual Charity Chili Cook-Off
+URL:http://www.visitlouisa.com/event/earlyhouse-annual-charity-chili-cook-o
+ ff/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1437@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards\,Farms &amp\; Vineyards\,Grayhaven 
+ Winery\,Lake Anna Winery\,Weston Farm Vineyard
+CONTACT:Heart of Virginia Wine Trail\; 1 (804) 550-7516\; Info@HOVAwineTrai
+ l.com\; http://www.hovawinetrail.com/
+DESCRIPTION:<p>Tour Central Virginia’s Premier Wineries: Cooper\, Grayhaven
+ \, James River\, Mattaponi\, Weston Farms and Lake Anna! This requires a P
+ ASSPORT WINERY TOUR TICKET. Sample chili from each winery and vote on the 
+ BEST CHILI!! You will get a souvenir wineglass\, tasting at the six Heart 
+ of Virginia Wineries and a chance to win amazing prizes upon completing th
+ e trail. Please note that Heart of Virginia Wine Trails can be completed a
+ nytime during normal hours of operation.</p>
+DTSTART;VALUE=DATE:20160130
+DTEND;VALUE=DATE:20160131
+LOCATION:Area Wineries
+RRULE:FREQ=DAILY;UNTIL=20160131T235959Z
+SEQUENCE:0
+SUMMARY:Heart of Virginia Wine Trail: Chili Cook-off!
+URL:http://www.visitlouisa.com/event/heart-of-virginia-wine-trail-chili-coo
+ k-off/
+X-COST:$20
+X-TICKETS-URL:http://HOVAwinetrail.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2065@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Farms &amp\; Vineyards
+CONTACT:Becky Vigon\; (540) 854-7626\; becky@mineralmarket.org\; http://min
+ eralmarket.org
+DESCRIPTION:<p>4th Annual Pig Roast at the Mineral Farmers Market</p>\n<p>S
+ aturday\, September 19 from 10:30am to 1:00pm.</p>\n<p>$10 per person\, bu
+ y your tickets <a href='http://www.mineralmarket.org'>online</a> or pick t
+ hem up during the market on Saturdays\, 8am to 1pm.</p>\n<p>Pig Roast is c
+ atered by In Good Taste.</p>\n<p> </p>
+DTSTART;TZID=America/New_York:20150919T103000
+DTEND;TZID=America/New_York:20150919T130000
+GEO:+38.012927;-77.907345
+LOCATION:Mineral Farmers Market @ 81 Louisa Avenue\, Mineral\, VA 23117\, U
+ SA
+SEQUENCE:0
+SUMMARY:4th Annual Pig Roast
+URL:http://www.visitlouisa.com/event/4th-annual-pig-roast/
+X-COST:$10
+X-TICKETS-URL:http://www.mineralmarket.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2057@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/events.html
+DESCRIPTION:<p>Live music on the deck featuring Bob Blagg.</p>\n<p>FREE eve
+ nt\, normal tasting fees apply. Bring a picnic or purchase cheese and crac
+ kers in the tasting room. Please Note – No outside alcohol allowed on prem
+ ises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20150919T123000
+DTEND;TZID=America/New_York:20150919T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Seismic Saturdays Music Series
+URL:http://www.visitlouisa.com/event/seismic-saturdays-music-series-11/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2038@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Performance\,Weston Farm Vineyard
+CONTACT:Weston Farm Vineyard\; (540) 967-4647\; http://westonfarmvineyardan
+ dwinery.webs.com/
+DESCRIPTION:<p>Come out to hear Sue Harlow in concert! Bring your snacks or
+  picnic to enjoy with our wines and listen to Sue’s wonderful music! Fun w
+ ay to spend a Saturday afternoon!</p>
+DTSTART;TZID=America/New_York:20150919T140000
+DTEND;TZID=America/New_York:20150919T170000
+GEO:+38.021449;-78.021073
+LOCATION:Weston Farm Vineyard and Winery @ 206 Harris Creek Road\, Louisa\,
+  VA 23093\, USA
+SEQUENCE:0
+SUMMARY:Sue Harlow Concert
+URL:http://www.visitlouisa.com/event/sue-harlow-concert/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1478@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Art\,Weston Farm Vineyard
+CONTACT:Weston Farm Vineyard and Winery\; 540-967-4647\; http://westonfarmv
+ ineyardandwinery.webs.com
+DESCRIPTION:<p> </p>\n<p> </p>\n<p>Making jewelry is fun\, easy and afforda
+ ble. Learn how to make a beaded bracelet\, meet new friends and have a gre
+ at time. You will learn beginner techniques that will get you well on your
+  way to making beautiful jewelry. $38 per person. The fee covers cost of a
+ ll materials\, refreshments and one glass of wine. Please call Penny to re
+ gister at 540-748-1309. Prepaid reservations by September 14. Questions\, 
+ contact Charity @ 540-205-4219. Space is limited so call to make your rese
+ rvations quickly!</p>
+DTSTART;TZID=America/New_York:20150920T130000
+DTEND;TZID=America/New_York:20150920T150000
+GEO:+38.021449;-78.021073
+LOCATION:Weston Farm Vineyard and Winery @ 206 Harris Creek Road\, Louisa\,
+  VA 23093\, USA
+SEQUENCE:0
+SUMMARY:Jewlery Design and Wine
+URL:http://www.visitlouisa.com/event/paint-sip-remember-the-reason-for-the-
+ season/
+X-COST:$38 per person\, includes materials\, refreshments and one glass of 
+ wine.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2068@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Live music on the deck featuring Haze & Dacey.</p>\n<p>FREE 
+ event\, normal tasting fees apply. Bring a picnic or purchase cheese and c
+ rackers in the tasting room. Please Note – No outside alcohol allowed on p
+ remises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20150920T133000
+DTEND;TZID=America/New_York:20150920T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Aftershock Sundays Music Series
+URL:http://www.visitlouisa.com/event/aftershock-sundays-music-series-11/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1602@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:History\,Louisa Arts Center\,Louisa Historical Socie
+ ty\,Sergeant Museum
+CONTACT:Louisa County Historical Society\; 540-967-5975\; info@louisacounty
+ historicalsociety.org\; http://www.louisacountyhistoricalsociety.org/event
+ s.htm
+DESCRIPTION:<p>Virginia and Virginians played a surprisingly large role in 
+ The Great War. Over 100\,000 Virginians were drafted and 1000s lost their 
+ lives from combat\, disease\, and training accidents. In this illustrated 
+ lecture\, I discuss the efforts of women and men on the home front prior t
+ o America’s entry into the war\, follow in the footsteps of dozens of Virg
+ inians fighting in France (including Louisa County soldiers)\, and study t
+ he memorials that were created in the Commonwealth to honor the sacrifices
+  of these soldiers.</p>
+DTSTART;TZID=America/New_York:20150920T140000
+DTEND;TZID=America/New_York:20150920T150000
+GEO:+38.025137;-77.997728
+LOCATION:Louisa Arts Center @ 212 Fredericksburg Avenue\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Dr. Lynn Rainville Mobilizing and Memorializing: Virginia’s Role in
+  World War I
+URL:http://www.visitlouisa.com/event/hidden-history-african-american-cemete
+ ries-in-central-virginia/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2132@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa Arts Center\,Performance
+CONTACT:Louisa Arts Center\; (540) 967-2200\; http://www.louisaarts.org/
+DESCRIPTION:<p>FREE Music. Produced jointly with the Louisa County Chamber 
+ of Commerce. Rain site: Inside the Purcell Gallery.<br />\nJoin us on the 
+ Terrace for a relaxing time after work. This week’s concert features music
+  by Willie DE. Highlighting the MerrillAnne Winery. Food from Smokin’ Eddi
+ es BBQ.</p>
+DTSTART;TZID=America/New_York:20150924T173000
+DTEND;TZID=America/New_York:20150924T193000
+GEO:+38.025137;-77.997728
+LOCATION:Louisa Arts Center @ 212 Fredericksburg Ave\, Louisa\, VA 23093\, 
+ USA
+SEQUENCE:0
+SUMMARY:Music and Wine at Sundown with Willie DE
+URL:http://www.visitlouisa.com/event/music-and-wine-at-sundown-with-willie-
+ de/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2048@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Come on out for dinner and live music at Cooper Vineyards th
+ is fall – every Friday from 5-8 pm we will have live music and a food truc
+ k here for your TGIF evening.  We will be offering <strong>all wines for s
+ ale by the glass or bottle\, no</strong> <strong>tastings</strong>.  Pleas
+ e support the food trucks that are going to be here.</p>\n<p>The music wil
+ l be by <strong>Zack Artis</strong> and the food truck will be <strong>But
+ ch’s Best Butts</strong>.</p>
+DTSTART;TZID=America/New_York:20150925T170000
+DTEND;TZID=America/New_York:20150925T200000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:T.G.I.F.
+URL:http://www.visitlouisa.com/event/t-g-i-f-at-cooper-vineyards-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2133@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Art\,Louisa Arts Center
+CONTACT:Louisa Arts Center\; (540) 967-2200\; http://www.louisaarts.org/
+DESCRIPTION:<div id='event_description' data-referrer='event_description'>
+ \n<div class='_4-u2 _36i5 _4-u8'>\n<div class='_1w2q'><span class='fsl'>Th
+ is show will run through November 21\, 2015</p>\n<p>BozART is made up of o
+ ver 20 artists with varied interests from abstract to realism\, oil to pho
+ tography. They enjoy sharing ideas\, meeting for Plein Air\, or working ha
+ rd on a project. BozART is currently celebrating its 20th anniversary. Twe
+ lve artists from this group will be featured in the Purcell Gallery.</p>\n
+ <p>The Curator for this show is Catherine Hillis. Ms. Hillis has earned mo
+ re than eight signature memberships in watercolor organizations across the
+  country and is an elected member of the prestigious Washington Society of
+  Landscape Painters. She has won awards across the country for her portray
+ als of light in watercolor paint\, competing in national watercolor shows 
+ and plein air competitions.</span></div>\n</div>\n</div>\n<div id='event_o
+ wners_info' data-referrer='event_owners_info'></div>\n<div id='event_wall'
+  data-referrer='event_wall'></div>
+DTSTART;TZID=America/New_York:20150925T180000
+DTEND;TZID=America/New_York:20150925T200000
+GEO:+38.025137;-77.997728
+LOCATION:Louisa Arts Center @ 212 Fredericksburg Ave\, Louisa\, VA 23093\, 
+ USA
+SEQUENCE:0
+SUMMARY:Gallery Opening — featuring BozART
+URL:http://www.visitlouisa.com/event/gallery-opening-featuring-bozart/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2022@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa County Library
+CONTACT:Louisa County Library\; 540.894.5853\; http://www.jmrl.org/br-louis
+ a.htm
+DESCRIPTION:<p>At the Louisa County Library<script src='https://ajax.google
+ apis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'></sc
+ ript><script src='js/init.js' type='text/javascript'></script></p>\n<div i
+ d='wrapper'>\n<div id='left'>\n<div class='gutter'>\n<p>Join the library a
+ nd the Louisa County Historical Society for an in-depth discussion about g
+ enealogy with an African American focus. Special Guest: Dr. Shelley Murphy
+ . <em>Call the library or email tduck@jmrl.org to register</em>.</p>\n</di
+ v>\n</div>\n</div>
+DTSTART;TZID=America/New_York:20150926T100000
+DTEND;TZID=America/New_York:20150926T110000
+GEO:+38.020194;-77.922321
+LOCATION:Louisa County Library @ 881 Davis Highway\, Mineral\, VA 23117\, U
+ SA
+SEQUENCE:0
+SUMMARY:African American Genealogy Seminar
+URL:http://www.visitlouisa.com/event/african-american-genealogy-seminar/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2058@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/events.html
+DESCRIPTION:<p>Live music on the deck featuring Thomas Wakefield.</p>\n<p>F
+ REE event\, normal tasting fees apply. Bring a picnic or purchase cheese a
+ nd crackers in the tasting room. Please Note – No outside alcohol allowed 
+ on premises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20150926T123000
+DTEND;TZID=America/New_York:20150926T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Seismic Saturdays Music Series
+URL:http://www.visitlouisa.com/event/seismic-saturdays-music-series-12/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1663@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Art\,Farms &amp\; Vineyards\,Weston Farm Vineyard
+CONTACT:Weston Farm Vineyard and Winery\; 540-967-4647\; https://www.facebo
+ ok.com/WestonFarmVineyardWinery
+DESCRIPTION:<p>Come out for a fun-filled Sunday afternoon of painting\, win
+ e and friends! Vicki Roles will be our instructor. Bring your snacks and a
+  friend and enjoy the afternoon. $35 per person includes all materials to 
+ complete the project and one glass of wine! Pre-paid reservations by Septe
+ mber 23. Call Penny at 540-967-4647 or 540-748-1309.</p>
+DTSTART;TZID=America/New_York:20150927T130000
+DTEND;TZID=America/New_York:20150927T150000
+GEO:+38.021449;-78.021073
+LOCATION:Weston Farm Vineyard & Winery @ 206 Harris Creek Road\, Louisa\, V
+ A 23093\, USA
+SEQUENCE:0
+SUMMARY:Paint & Sip
+URL:http://www.visitlouisa.com/event/paint-sip-3/
+X-COST:$35 per person which includes one glass of wine.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2069@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Live music on the deck featuring Sauna Mountain Valley Boys.
+ </p>\n<p>FREE event\, normal tasting fees apply. Bring a picnic or purchas
+ e cheese and crackers in the tasting room. Please Note – No outside alcoho
+ l allowed on premises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20150927T133000
+DTEND;TZID=America/New_York:20150927T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Aftershock Sundays Music Series
+URL:http://www.visitlouisa.com/event/aftershock-sundays-music-series-12/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2023@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa County Library
+CONTACT:Louisa County Library\; 540.894.5853\; http://www.jmrl.org/br-louis
+ a.htm
+DESCRIPTION:<p>A the Louisa County Library<script src='https://ajax.googlea
+ pis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'></scr
+ ipt><script src='js/init.js' type='text/javascript'></script></p>\n<div id
+ ='wrapper'>\n<div id='left'>\n<div class='gutter'>\n<p>Discover effective 
+ strategies for saving money\, managing spending\, and improving your credi
+ t. Set personal finance goals to gain peace of mind and greater control ov
+ er your money. <em>Call the library or email tduck@jmrl.org to register</e
+ m>.</p>\n</div>\n</div>\n</div>
+DTSTART;TZID=America/New_York:20150929T180000
+DTEND;TZID=America/New_York:20150929T190000
+GEO:+38.019715;-77.920227
+LOCATION:Louisa County Library @ 818 Davis Highway\, Mineral\, VA 23117\, U
+ SA
+SEQUENCE:0
+SUMMARY:Taking Control of Your Money Workshop
+URL:http://www.visitlouisa.com/event/taking-control-of-your-money-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2024@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa County Library
+CONTACT:Louisa County Library\; 540.894.5853\; http://www.jmrl.org/br-louis
+ a.htm
+DESCRIPTION:<p>At the Louisa County Library<script src='https://ajax.google
+ apis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'></sc
+ ript><script src='js/init.js' type='text/javascript'></script></p>\n<div i
+ d='wrapper'>\n<div id='left'>\n<div class='gutter'>\n<p>Did you know that 
+ Harry Potter is one of the most challenged books of all time? Come out for
+  this community discussion in celebration of Banned Books Week. Join the l
+ ibrary and the High School Debate Team as we put Harry Potter and a few fr
+ iends on trial. All points of view are welcomed in this courtroom!<br />\n
+ <em>All ages. No registration required</em>.</p>\n</div>\n</div>\n</div>
+DTSTART;TZID=America/New_York:20151001T160000
+DTEND;TZID=America/New_York:20151001T170000
+GEO:+38.019715;-77.920227
+LOCATION:Louisa County Library @ 818 Davis Highway\, Mineral\, VA 23117\, U
+ SA
+SEQUENCE:0
+SUMMARY:Mock Trial – Harry Potter
+URL:http://www.visitlouisa.com/event/mock-trial-harry-potter/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2050@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Come on out for dinner and live music at Cooper Vineyards th
+ is fall – every Friday from 5-8 pm we will have live music and a food truc
+ k here for your TGIF evening.  We will be offering <strong>all wines for s
+ ale by the glass or bottle\, no</strong> <strong>tastings</strong>.  Pleas
+ e support the food trucks that are going to be here.</p>\n<p>The music thi
+ s week will be the <strong>Jim Mohr Trio</strong> and the food truck will 
+ be <strong>Boom Boom Boca</strong>.</p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151002T170000
+DTEND;TZID=America/New_York:20151002T200000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:T.G.I.F.
+URL:http://www.visitlouisa.com/event/t-g-i-f-at-cooper-vineyards-4-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2059@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/events.html
+DESCRIPTION:<p>Live music on the deck featuring the Tommy Daughtrey Trio.</
+ p>\n<p>FREE event\, normal tasting fees apply. Bring a picnic or purchase 
+ cheese and crackers in the tasting room. Please Note – No outside alcohol 
+ allowed on premises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20151003T123000
+DTEND;TZID=America/New_York:20151003T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Seismic Saturdays Music Series
+URL:http://www.visitlouisa.com/event/seismic-saturdays-music-series-13/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2025@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa County Library
+CONTACT:Louisa County Library\; 540.894.5853\; http://www.jmrl.org/br-louis
+ a.htm
+DESCRIPTION:<p>At the Louisa County Library<script src='https://ajax.google
+ apis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'></sc
+ ript><script src='js/init.js' type='text/javascript'></script></p>\n<div i
+ d='wrapper'>\n<div id='left'>\n<div class='gutter'>\n<p>Come decorate your
+  own wine glasses to take home. All materials will be provided.<br />\n<em
+ >Registration is required. Call the library or email tduck@jmrl.org to reg
+ ister</em>.</p>\n</div>\n</div>\n</div>
+DTSTART;TZID=America/New_York:20151003T130000
+DTEND;TZID=America/New_York:20151003T140000
+GEO:+38.019715;-77.920227
+LOCATION:Louisa County Library @ 818 Davis Highway\, Mineral\, VA 23117\, U
+ SA
+SEQUENCE:0
+SUMMARY:Wine Glass Decorating
+URL:http://www.visitlouisa.com/event/wine-glass-decorating/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2128@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa Arts Center\,Performance
+CONTACT:
+DESCRIPTION:<p>The first <a href='http://louisaarts.org/events.htm'>SILVER 
+ TIE GALA</a> is here! This elegant event features libation\,<i> hors d’oeu
+ vres\,</i> a silent auction\, and pre-show music by Bootsie Daniels. The h
+ ighlight of the evening is <b>The New Stylistics.</b> Russell Thompkins\, 
+ Jr.\, the original voice\, sings YOU MAKE ME FEEL BRAND NEW\; BETCHA BY GO
+ LLY\, WOW\; YOU’RE A BIG GIRL NOW\; BREAK UP TO MAKE UP and more.</p>
+DTSTART;TZID=America/New_York:20151003T170000
+DTEND;TZID=America/New_York:20151003T220000
+GEO:+38.025151;-77.997098
+LOCATION:Louisa Arts Center @ 214 Fredericksburg Ave\, Louisa\, VA 23093\, 
+ USA
+SEQUENCE:0
+SUMMARY:The Stylistics
+URL:http://www.visitlouisa.com/event/the-stylistics/
+X-COST:$100 – Show & Gala
+X-TICKETS-URL:https://louisaarts.secure.force.com/ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2070@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Live music on the deck featuring Emme St. James.</p>\n<p>FRE
+ E event\, normal tasting fees apply. Bring a picnic or purchase cheese and
+  crackers in the tasting room. Please Note – No outside alcohol allowed on
+  premises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20151004T133000
+DTEND;TZID=America/New_York:20151004T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Aftershock Sundays Music Series
+URL:http://www.visitlouisa.com/event/aftershock-sundays-music-series-13/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2049@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Come on out for dinner and live music at Cooper Vineyards th
+ is fall – every Friday from 5-8 pm we will have live music and a food truc
+ k here for your TGIF evening.  We will be offering <strong>all wines for s
+ ale by the glass or bottle\, no</strong> <strong>tastings</strong>.  Pleas
+ e support the food trucks that are going to be here.</p>\n<p>The music thi
+ s week will be the <strong>Sauna Mountain Valley Boys</strong> and the foo
+ d truck will be <strong>2 Brothers Southwestern Grill.<br />\n</strong></p
+ >\n<p> </p>
+DTSTART;TZID=America/New_York:20151009T170000
+DTEND;TZID=America/New_York:20151009T200000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:T.G.I.F.
+URL:http://www.visitlouisa.com/event/t-g-i-f-at-cooper-vineyards-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1417@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Outdoor Festival
+CONTACT:lkalife@earthlink.net\; http://www.lakeannagrapesandgrainsfestival.
+ com
+DESCRIPTION:<div>The event will feature Virginia craft breweries and wineri
+ es showcasing some of the best beer and wine in the region. Since the even
+ t will be held in the fall\, those special seasonal brews and initial vint
+ age bottlings will also be available. Patrons can also enjoy great local f
+ ood from Lake Anna and surrounding area restaurants. Selected vendors will
+  also be present offering unique gifts and festival-related items. Two ban
+ ds will play during the event at no extra charge to attendees.</div>
+DTSTART;TZID=America/New_York:20151010T120000
+DTEND;TZID=America/New_York:20151010T170000
+LOCATION:Christopher Run Campground Event Park
+SEQUENCE:0
+SUMMARY:Lake Anna Grapes & Grains Festival 2015
+URL:http://www.visitlouisa.com/event/lake-anna-grapes-grains-festival-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2060@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/events.html
+DESCRIPTION:<p>Live music on the deck featuring Darryl Ellyson.</p>\n<p>FRE
+ E event\, normal tasting fees apply. Bring a picnic or purchase cheese and
+  crackers in the tasting room. Please Note – No outside alcohol allowed on
+  premises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20151010T123000
+DTEND;TZID=America/New_York:20151010T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Seismic Saturdays Music Series
+URL:http://www.visitlouisa.com/event/seismic-saturdays-music-series-14/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2071@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Live music on the deck featuring Tony Bruno.</p>\n<p>FREE ev
+ ent\, normal tasting fees apply. Bring a picnic or purchase cheese and cra
+ ckers in the tasting room. Please Note – No outside alcohol allowed on pre
+ mises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20151011T133000
+DTEND;TZID=America/New_York:20151011T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Aftershock Sundays Music Series
+URL:http://www.visitlouisa.com/event/aftershock-sundays-music-series-14/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2052@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Come on out for dinner and live music at Cooper Vineyards th
+ is fall – every Friday from 5-8 pm we will have live music and a food truc
+ k here for your TGIF evening.  We will be offering <strong>all wines for s
+ ale by the glass or bottle\, no</strong> <strong>tastings</strong>.  Pleas
+ e support the food trucks that are going to be here.</p>\n<p>The music thi
+ s week will be<strong> by Dennis Foster</strong> and the food truck will b
+ e <strong>Butch’s Best Butts.<br />\n</strong></p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151016T170000
+DTEND;TZID=America/New_York:20151016T200000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:T.G.I.F.
+URL:http://www.visitlouisa.com/event/t-g-i-f-at-cooper-vineyards-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1653@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES:
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org
+DESCRIPTION:<p>A Haunted Trail through the woods. Co-sponsored by Louisa CA
+ RT and LCPRT. Recommended for 12 years and older. Volunteers are needed. C
+ heck back soon for all of the spooky details!</p>
+DTSTART;TZID=America/New_York:20151016T190000
+DTEND;TZID=America/New_York:20151016T220000
+GEO:+38.00799;-77.968888
+LOCATION:Betty Queen Center @ 522 Industrial Drive\, Louisa\, VA 23093\, US
+ A
+SEQUENCE:0
+SUMMARY:Haunted Trail
+URL:http://www.visitlouisa.com/event/haunted-trail/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2127@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa Arts Center\,Performance
+CONTACT:Louisa Arts Center\; (540) 967-2200\; http://louisaarts.org
+DESCRIPTION:<p>This hilarious Southern fried comedy is set in small-town Te
+ xas.<br />\n<i>Daddy’s Dyin’ </i>depicts a family gathered to await the im
+ minent death of their patriarch. It’s filled with plenty of laughs\, touch
+ ing moments and characters you’ll care about.</p>
+DTSTART;TZID=America/New_York:20151016T193000
+DTEND;TZID=America/New_York:20151016T203000
+GEO:+38.025137;-77.997728
+LOCATION:Louisa Arts Center @ 212 Fredericksburg Avenue\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Daddy’s Dyin’… Who’s got the will? – Little Theatre
+URL:http://www.visitlouisa.com/event/daddys-dyin-whos-got-the-will-little-t
+ heatre/
+X-COST:$25 Preferred Seats / $20 All Other Tickets
+X-TICKETS-URL:https://louisaarts.secure.force.com/ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1768@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES:
+CONTACT:Louisa Arts Center\; (540) 967-2200\; http://louisaarts.org/haley-c
+ ooketheatre.htm
+DESCRIPTION:<p>Set in small-town Texas\, <i>Daddyʼs Dyin </i>depicts the re
+ union of a family gathered to await the imminent death of their patriarch.
+  This is not the story of Daddyʼs demise or will\, but of a rebirth of the
+  spirit of family. <i>Daddyʼs Dyin </i>is deliciously funny with both side
+ -splitting\, touching moments\, and with characters youʼll care about.</p>
+DTSTART;TZID=America/New_York:20151016T193000
+DTEND;TZID=America/New_York:20151016T210000
+GEO:+38.025137;-77.997728
+LOCATION:Louisa Arts Center @ 212 Fredericksburg Avenue\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Daddy’s Dyinʼ…Who’s Got The Will? – Little Theatre
+URL:http://www.visitlouisa.com/event/daddys-dyin%ca%bc-whos-got-the-will-li
+ ttle-theatre/
+X-COST:$25 Adults\; $15 High School Student
+X-TICKETS-URL:http://louisaarts.org/haley-cooketheatre.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1652@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES:
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org
+DESCRIPTION:<p>Come celebrate autumn at our 12th Annual Fall Harvest Festiv
+ al. Farmers Market\, Craft Show\, Children’s Activities\, music\, food and
+  more! Mark your calendars now and check back for details!</p>
+DTSTART;TZID=America/New_York:20151017T080000
+DTEND;TZID=America/New_York:20151017T140000
+GEO:+38.004477;-77.906032
+LOCATION:Walton Park @ Elizabeth Trice Walton Park\, Mineral\, VA 23117\, U
+ SA
+SEQUENCE:0
+SUMMARY:Fall Festival
+URL:http://www.visitlouisa.com/event/fall-festival/
+X-COST:Free\, with a small charge for some children's activities
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2061@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/events.html
+DESCRIPTION:<p>Live music on the deck featuring Bruce Blair</p>\n<p>FREE ev
+ ent\, normal tasting fees apply. Bring a picnic or purchase cheese and cra
+ ckers in the tasting room. Please Note – No outside alcohol allowed on pre
+ mises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20151017T123000
+DTEND;TZID=America/New_York:20151017T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Seismic Saturdays Music Series
+URL:http://www.visitlouisa.com/event/seismic-saturdays-music-series-15/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1654@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES:
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org
+DESCRIPTION:<p>A Haunted Trail through the woods. Co-sponsored by Louisa CA
+ RT and LCPRT. Recommended for 12 years and older. Volunteers are needed. C
+ heck back soon for all of the spooky details!</p>
+DTSTART;TZID=America/New_York:20151017T190000
+DTEND;TZID=America/New_York:20151017T220000
+GEO:+38.00799;-77.968888
+LOCATION:Betty Queen Center @ 522 Industrial Drive\, Louisa\, VA 23093\, US
+ A
+SEQUENCE:0
+SUMMARY:Haunted Trail
+URL:http://www.visitlouisa.com/event/haunted-trail-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1702@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa Arts Center\,Performance
+CONTACT:Louisa Arts Center\; (540) 967-2200\; http://louisaarts.org
+DESCRIPTION:<p>This hilarious Southern fried comedy is set in small-town Te
+ xas.<br />\n<i>Daddy’s Dyin’ </i>depicts a family gathered to await the im
+ minent death of their patriarch. It’s filled with plenty of laughs\, touch
+ ing moments and characters you’ll care about.</p>
+DTSTART;TZID=America/New_York:20151017T193000
+DTEND;TZID=America/New_York:20151017T203000
+GEO:+38.025137;-77.997728
+LOCATION:Louisa Arts Center @ 212 Fredericksburg Avenue\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Daddy’s Dyin’… Who’s got the will? – Little Theatre
+URL:http://www.visitlouisa.com/event/daddys-dyin-whos-got-the-will-little-t
+ heatre-2/
+X-COST:$25 Preferred Seats / $20 All Other Tickets
+X-TICKETS-URL:https://louisaarts.secure.force.com/ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2072@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Live music on the deck featuring Billy Brockman.</p>\n<p>FRE
+ E event\, normal tasting fees apply. Bring a picnic or purchase cheese and
+  crackers in the tasting room. Please Note – No outside alcohol allowed on
+  premises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20151018T133000
+DTEND;TZID=America/New_York:20151018T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Aftershock Sundays Music Series
+URL:http://www.visitlouisa.com/event/aftershock-sundays-music-series-15/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1703@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa Arts Center\,Performance
+CONTACT:Louisa Arts Center\; (540) 967-2200\; http://louisaarts.org
+DESCRIPTION:<p>This hilarious Southern fried comedy is set in small-town Te
+ xas.<br />\n<i>Daddy’s Dyin’ </i>depicts a family gathered to await the im
+ minent death of their patriarch. It’s filled with plenty of laughs\, touch
+ ing moments and characters you’ll care about.</p>
+DTSTART;TZID=America/New_York:20151018T140000
+DTEND;TZID=America/New_York:20151018T150000
+GEO:+38.025137;-77.997728
+LOCATION:Louisa Arts Center @ 212 Fredericksburg Avenue\, Louisa\, VA 23093
+ \, USA
+SEQUENCE:0
+SUMMARY:Daddy’s Dyin’… Who’s got the will? – Little Theatre
+URL:http://www.visitlouisa.com/event/daddys-dyin-whos-got-the-will-little-t
+ heatre-3/
+X-COST:$25 Preferred Seats / $20 All Other Tickets
+X-TICKETS-URL:https://louisaarts.secure.force.com/ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2053@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Come on out for dinner and live music at Cooper Vineyards th
+ is fall – every Friday from 5-8 pm we will have live music and a food truc
+ k here for your TGIF evening.  We will be offering <strong>all wines for s
+ ale by the glass or bottle\, no</strong> <strong>tastings</strong>.  Pleas
+ e support the food trucks that are going to be here.</p>\n<p>The music thi
+ s week will be the<strong> Jim Mohr Trio</strong> and the food truck will 
+ be <strong>Monique’s Crepes</strong>.<strong><br />\n</strong></p>\n<p> </
+ p>
+DTSTART;TZID=America/New_York:20151023T170000
+DTEND;TZID=America/New_York:20151023T200000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:T.G.I.F.
+URL:http://www.visitlouisa.com/event/t-g-i-f-at-cooper-vineyards-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1655@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES:
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org
+DESCRIPTION:<p>A Haunted Trail through the woods. Co-sponsored by Louisa CA
+ RT and LCPRT. Recommended for 12 years and older. Volunteers are needed. C
+ heck back soon for all of the spooky details!</p>
+DTSTART;TZID=America/New_York:20151023T190000
+DTEND;TZID=America/New_York:20151023T220000
+GEO:+38.00799;-77.968888
+LOCATION:Betty Queen Center @ 522 Industrial Drive\, Louisa\, VA 23093\, US
+ A
+SEQUENCE:0
+SUMMARY:Haunted Trail
+URL:http://www.visitlouisa.com/event/haunted-trail-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2062@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/events.html
+DESCRIPTION:<p>Live music on the deck featuring Bear Stevens.</p>\n<p>FREE 
+ event\, normal tasting fees apply. Bring a picnic or purchase cheese and c
+ rackers in the tasting room. Please Note – No outside alcohol allowed on p
+ remises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20151024T123000
+DTEND;TZID=America/New_York:20151024T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Seismic Saturdays Music Series
+URL:http://www.visitlouisa.com/event/seismic-saturdays-music-series-16/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2001@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Betty Queen Center
+CONTACT:
+DESCRIPTION:<p>Looking for some kid-friendly Halloween fun? Then stop by JA
+ BA’s Halloween Extravaganza on Saturday\, October 24th from 6-8pm. at the 
+ Betty J. Queen Center. Lots of games and activities that your school-age a
+ nd younger children will enjoy. The fee is just $1 for those 2 and under\,
+  and $3 for age 3 and older. Contact Teresa Nelson at 540-967-4433 for mor
+ e information.</p>
+DTSTART;TZID=America/New_York:20151024T180000
+DTEND;TZID=America/New_York:20151024T194100
+GEO:+38.0124;-77.974453
+LOCATION:Betty Queen Center @ 522 Industrial Drive\, Louisa\, VA 23093\, US
+ A
+SEQUENCE:0
+SUMMARY:JABA’s Halloween Extravaganza
+URL:http://www.visitlouisa.com/event/jabas-halloween-extravaganza/
+X-COST:$1 kids 2 and under / $3 kids 3 and older
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1656@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES:
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org
+DESCRIPTION:<p>A Haunted Trail through the woods. Co-sponsored by Louisa CA
+ RT and LCPRT. Recommended for 12 years and older. Volunteers are needed. C
+ heck back soon for all of the spooky details!</p>
+DTSTART;TZID=America/New_York:20151024T190000
+DTEND;TZID=America/New_York:20151024T220000
+GEO:+38.00799;-77.968888
+LOCATION:Betty Queen Center @ 522 Industrial Drive\, Louisa\, VA 23093\, US
+ A
+SEQUENCE:0
+SUMMARY:Haunted Trail
+URL:http://www.visitlouisa.com/event/haunted-trail-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2073@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Live music on the deck featuring MeSue2U2.</p>\n<p>FREE even
+ t\, normal tasting fees apply. Bring a picnic or purchase cheese and crack
+ ers in the tasting room. Please Note – No outside alcohol allowed on premi
+ ses</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20151025T133000
+DTEND;TZID=America/New_York:20151025T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Aftershock Sundays Music Series
+URL:http://www.visitlouisa.com/event/aftershock-sundays-music-series-16/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2035@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Golf
+CONTACT:Emily Seay\; 540-748-9358\; emilyseaymusic@gmail.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.visitlouisa.com/wp-content/uploads/2015/08/Emily-Logo-Transparent-B
+ ackground-2-300x201.png' width='300' height='201' /></div><p>Emily Seay Mu
+ sic is hosting a golf tournament to raise funds to record an album at the 
+ Los Angeles Dream Center Studio. Her desire is to see others worship God a
+ nd it is an honor and privilege to lead them. There will be great door pri
+ zes and lunch is provided! For registration and more information\, contact
+  Emily Seay.</p>
+DTSTART;TZID=America/New_York:20151026T090000
+GEO:+38.019625;-77.997251
+LOCATION:Tanyard Golf Club @ 404 East Main Street\, Louisa\, VA 23093\, USA
+SEQUENCE:0
+SUMMARY:Emily Seay Music Golf Tournament
+URL:http://www.visitlouisa.com/event/emily-seay-music-golf-tournament/
+X-COST:$75
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2054@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/
+DESCRIPTION:<p>Come on out for dinner and live music at Cooper Vineyards th
+ is fall – every Friday from 5-8 pm we will have live music and a food truc
+ k here for your TGIF evening.  We will be offering <strong>all wines for s
+ ale by the glass or bottle\, no</strong> <strong>tastings</strong>.  Pleas
+ e support the food trucks that are going to be here.</p>\n<p>The music thi
+ s week will be by<strong> Zack Artis </strong>and the food truck will be<s
+ trong> Butch’s Best Butts.</strong><strong><br />\n</strong></p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151030T170000
+DTEND;TZID=America/New_York:20151030T200000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:T.G.I.F.
+URL:http://www.visitlouisa.com/event/t-g-i-f-at-cooper-vineyards-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1657@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES:
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org
+DESCRIPTION:<p>A Haunted Trail through the woods. Co-sponsored by Louisa CA
+ RT and LCPRT. Recommended for 12 years and older. Volunteers are needed. C
+ heck back soon for all of the spooky details!</p>
+DTSTART;TZID=America/New_York:20151030T190000
+DTEND;TZID=America/New_York:20151030T220000
+GEO:+38.00799;-77.968888
+LOCATION:Betty Queen Center @ 522 Industrial Drive\, Louisa\, VA 23093\, US
+ A
+SEQUENCE:0
+SUMMARY:Haunted Trail
+URL:http://www.visitlouisa.com/event/haunted-trail-2-2-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2063@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards
+CONTACT:Cooper Vineyards\; 540-894-5474\; Info@CooperVineyards.com\; http:/
+ /www.coopervineyards.com/events.html
+DESCRIPTION:<p>Live music on the deck featuring Becky Y Slam.</p>\n<p>FREE 
+ event\, normal tasting fees apply. Bring a picnic or purchase cheese and c
+ rackers in the tasting room. Please Note – No outside alcohol allowed on p
+ remises</p>\n<p><strong> </strong></p>
+DTSTART;TZID=America/New_York:20151031T123000
+DTEND;TZID=America/New_York:20151031T163000
+GEO:+37.961585;-77.923218
+LOCATION:Cooper Vineyards @ 13372 Shannon Hill Road\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Seismic Saturdays Music Series
+URL:http://www.visitlouisa.com/event/seismic-saturdays-music-series-17/
+X-COST:Free/normal tasting fees apply
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1985@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Farms &amp\; Vineyards\,Lake Anna Winery
+CONTACT:Lake Anna Winery\; 540.895.5085\; http://www.lawinery.com/dest_even
+ ts.asp
+DESCRIPTION:<p><strong>Haunting Halloween Madness Oct 31</strong> (6:00 – 1
+ 0:00) Costumes\, music\, and food outline this scary Saturday night in the
+  vineyard. For $15.00\, dance into the night to the tunes of “<em><strong>
+ REUNION</strong></em>”. Roast marshmallows by the Bonfire\, and wine tasti
+ ng.</p>\n<p>More Information: No online reservations after 5pm on the prev
+ ious day. Please call 540.895.5085.</p>
+DTSTART;TZID=America/New_York:20151031T180000
+DTEND;TZID=America/New_York:20151031T220000
+GEO:+38.112263;-77.766369
+LOCATION:Lake Anna Winery @ 5621 Courthouse Road\, Spotsylvania\, VA 22551\
+ , USA
+SEQUENCE:0
+SUMMARY:Haunting Halloween Madness
+URL:http://www.visitlouisa.com/event/haunting-halloween-madness/
+X-TICKETS-URL:http://www.lawinery.com/dest_events.asp
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1658@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES:
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org
+DESCRIPTION:<p>A Haunted Trail through the woods. Co-sponsored by Louisa CA
+ RT and LCPRT. Recommended for 12 years and older. Volunteers are needed. C
+ heck back soon for all of the spooky details!</p>
+DTSTART;TZID=America/New_York:20151031T190000
+DTEND;TZID=America/New_York:20151031T220000
+GEO:+38.00799;-77.968888
+LOCATION:Betty Queen Center @ 522 Industrial Drive\, Louisa\, VA 23093\, US
+ A
+SEQUENCE:0
+SUMMARY:Haunted Trail
+URL:http://www.visitlouisa.com/event/haunted-trail-2-2-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2026@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa County Library
+CONTACT:Louisa County Library\; 540.894.5853\; http://www.jmrl.org/br-louis
+ a.htm
+DESCRIPTION:<p>At the Louisa County Library<script src='https://ajax.google
+ apis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'></sc
+ ript><script src='js/init.js' type='text/javascript'></script></p>\n<div i
+ d='wrapper'>\n<div id='left'>\n<div class='gutter'>\n<p>Enjoy a night of B
+ ingo with the whole family. We will reminisce using the most popular class
+ ic books. <em>All Ages. No registration required</em>.\n</div>\n</div>\n</
+ div>
+DTSTART;TZID=America/New_York:20151103T180000
+DTEND;TZID=America/New_York:20151103T190000
+GEO:+38.019715;-77.920227
+LOCATION:Louisa County Library @ 818 Davis Highway\, Mineral\, VA 23117\, U
+ SA
+SEQUENCE:0
+SUMMARY:Classic Book Bingo
+URL:http://www.visitlouisa.com/event/classic-book-bingo/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1659@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Betty Queen Center
+CONTACT:Louisa Parks and Recreation\; 540-967-4420\; http://www.lcpr.info/i
+ ndex.asp
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.visitlouisa.com/wp-content/uploads/2014/08/quartersauction-300x190.
+ jpg' width='300' height='190' /></div><p>What happens when more than 100 p
+ eople gather for an evening of shopping\, snacks\, laughter and networking
+ ? A new fun way to win great stuff for mere quarters! Helping to raise mon
+ ey for our community is just a side benefit of this fun night out. The exc
+ itement happens on Friday\, March 20th from 6 p.m. until 8:30 p.m. at the 
+ Betty Queen Center. Come early\, space is limited.</p>\n<p><span style='co
+ lor: red\;'><span style='color: #000000\;'> The Quarters Auction is a new 
+ type of game that’s like Bingo meets Chinese Auction. Pay $1 to enter the 
+ event and get your number paddle. Preview the vendors and auction items (a
+ nd buy\, if you want). See things you like? Enter your bid (one\, two or m
+ aybe up to five quarters). Once you’ve entered your “quarter bid” the anno
+ uncer draws a single random number. Whoever holds the numbered paddle with
+  the winner number drawn takes that auction item home.</span> </span></p>
+DTSTART;TZID=America/New_York:20151106T180000
+DTEND;TZID=America/New_York:20151106T203000
+GEO:+38.00799;-77.968888
+LOCATION:Betty Queen Center @ 522 Industrial Drive\, Louisa\, VA 23093\, US
+ A
+SEQUENCE:0
+SUMMARY:Quarters Auction
+URL:http://www.visitlouisa.com/event/quarters-auction-2/
+X-COST:$1 admission
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1986@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards\,Farms &amp\; Vineyards\,Grayhaven 
+ Winery\,Lake Anna Winery\,Weston Farm Vineyard
+CONTACT:Heart of Virginia Wine Trail\; http://www.hovawinetrail.com/annual-
+ events.html
+DESCRIPTION:<p>HOV Wine Trail November 7\, 8 (11:00 to 5:00) Buy a passport
+  ticket for only $20.00 and you get a souvenir wineglass\, wine tasting at
+  the SIX Heart of Virginia Wineries: Lake Anna\, James River\, Cooper\, Gr
+ ayhaven\, Weston Farms\, and Mattaponi Wineries. During our special wine t
+ rail weekends you will get to graze on munchies at each winery.</p>\n<p>Mo
+ re Information: (540) 895-5085</p>
+DTSTART;TZID=America/New_York:20151107T110000
+DTEND;TZID=America/New_York:20151107T170000
+GEO:+38.112263;-77.766369
+LOCATION:Area Vineyeards
+RRULE:FREQ=DAILY;UNTIL=20151108T235959Z
+SEQUENCE:0
+SUMMARY:Harvest Wine Trail
+URL:http://www.visitlouisa.com/event/harvest-wine-trail/
+X-COST:$20
+X-TICKETS-URL:http://www.hovawinetrail.com/annual-events.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2129@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa Arts Center\,Performance
+CONTACT:Louisa Arts Center\; (540) 967-2200\; http://louisaarts.org/haley-c
+ ooketheatre.htm
+DESCRIPTION:<p>This award-winning country legend takes center stage. Savor 
+ his over twenty #1 country hits like: ROSE COLORED GLASSES\; WORKING MAN\;
+  IN MY EYES\; SHE CAN’T SAY THAT ANYMORE\; BUSTED and so many more.</p>
+DTSTART;TZID=America/New_York:20151107T160000
+DTEND;TZID=America/New_York:20151107T180000
+GEO:+38.025151;-77.997098
+LOCATION:Louisa Arts Center @ 214 Fredericksburg Ave\, Louisa\, VA 23093\, 
+ USA
+SEQUENCE:0
+SUMMARY:John Conlee
+URL:http://www.visitlouisa.com/event/john-conlee/
+X-COST:$50 Preferred Seats / $35 All Other Tickets
+X-TICKETS-URL:https://louisaarts.secure.force.com/ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2130@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa Arts Center\,Performance
+CONTACT:Louisa Arts Center\; (540) 967-2200\; http://louisaarts.org/haley-c
+ ooketheatre.htm
+DESCRIPTION:<p>This award-winning country legend takes center stage. Savor 
+ his over twenty #1 country hits like: ROSE COLORED GLASSES\; WORKING MAN\;
+  IN MY EYES\; SHE CAN’T SAY THAT ANYMORE\; BUSTED and so many more.</p>
+DTSTART;TZID=America/New_York:20151107T200000
+DTEND;TZID=America/New_York:20151107T220000
+GEO:+38.025151;-77.997098
+LOCATION:Louisa Arts Center @ 214 Fredericksburg Ave\, Louisa\, VA 23093\, 
+ USA
+SEQUENCE:0
+SUMMARY:John Conlee
+URL:http://www.visitlouisa.com/event/john-conlee-2/
+X-COST:$50 Preferred Seats / $35 All Other Tickets
+X-TICKETS-URL:https://louisaarts.secure.force.com/ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2027@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa County Library
+CONTACT:Louisa County Library\; 540.894.5853\; http://www.jmrl.org/br-louis
+ a.htm
+DESCRIPTION:<p>At the Louisa County Library<script src='https://ajax.google
+ apis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'></sc
+ ript><script src='js/init.js' type='text/javascript'></script></p>\n<div i
+ d='wrapper'>\n<div id='left'>\n<div class='gutter'>\n<p>Join the library a
+ nd well-known poet Nathan Richardson for a night of freedom\, poetry\, mus
+ ic\, fun\, spoken word and more. Bring original artwork to be hung around 
+ the room.<br />\n<em>No registration required</em>.</p>\n</div>\n</div>\n<
+ /div>
+DTSTART;TZID=America/New_York:20151113T180000
+DTEND;TZID=America/New_York:20151113T190000
+GEO:+38.019715;-77.920227
+LOCATION:Louisa County Library @ 818 Davis Highway\, Mineral\, VA 23117\, U
+ SA
+SEQUENCE:0
+SUMMARY:Poetry\, Prose and Pizza Open Mic Night
+URL:http://www.visitlouisa.com/event/poetry-prose-and-pizza-open-mic-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1425@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Outdoor Festival
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org\; http://lcpr.info
+DESCRIPTION:<div>\n<div>Enjoy musical performances\, decorate your own orna
+ ment\, sing some carols\, and watch as we flip the switch for the lighting
+  of the big Christmas tree on the lawn of the Louisa Courthouse.</div>\n</
+ div>\n<div></div>\n<div>FREE ADMISSION. For a $10 donation\, you may endow
+  a light on this year’s tree in someone’s memory or honor. These names wil
+ l be read at the tree lighting ceremony. Or you may become an ornament spo
+ nsor for a donation of $100 to $1\,000.</div>\n<div></div>\n<div>Event and
+  endowment information\, call (540) 967-4420 or <a href='mailto:parksdesk@
+ louisa.org' target='_blank' shape='rect'>email us.</a></div>
+DTSTART;TZID=America/New_York:20151204T180000
+DTEND;TZID=America/New_York:20151204T190000
+GEO:+38.02413;-78.003371
+LOCATION:Louisa Courthouse Lawn @ Courthouse Square\, Louisa\, VA 23093\, U
+ SA
+SEQUENCE:0
+SUMMARY:Christmas Tree Lighting  in the Town of Louisa
+URL:http://www.visitlouisa.com/event/christmas-tree-lighting-in-the-town-of
+ -louisa/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1427@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Betty Queen Center
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org\; http://lcpr.info
+DESCRIPTION:<div>Treat the little ones to an exciting holiday morning at th
+ e Betty Queen Center. First enjoy a delicious breakfast of pancakes\, baco
+ n\, eggs\, and cereal with Santa and his helpers from Parks\, Recreation &
+  Tourism. Then parents may take photos of their child with the jolly man a
+ s he shares a story with them or listens to their Christmas wish list. All
+  participants attending must purchase a breakfast ticket.</div>\n<p>Event 
+ information\, call (540) 967-4420 or <a href='mailto:parksdesk@louisa.org'
+  target='_blank' shape='rect'>email us.</a></p>
+DTSTART;TZID=America/New_York:20151205T090000
+DTEND;TZID=America/New_York:20151205T110000
+GEO:+38.00799;-77.968888
+LOCATION:Betty Queen Center @ 522 Industrial Drive\, Louisa\, VA 23093\, US
+ A
+SEQUENCE:0
+SUMMARY:Breakfast with Santa
+URL:http://www.visitlouisa.com/event/breakfast-with-santa/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1428@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Outdoor Festival
+CONTACT:Louisa County Parks\, Recreation & Tourism\; 540-967-4420\; parksde
+ sk@louisa.org\; http://lcpr.info
+DESCRIPTION:<div><strong>Enjoy the festival</strong>\, which is held from 1
+ 0 a.m. until 3 p.m. in the Courthouse Square is a great place to do some C
+ hristmas shopping. Featuring more than 50 vendors selling Christmas wares\
+ , woodcrafts\, jewelry\, Scentsy\, Pampered Chef\, wreaths\, and quilts an
+ d more.</div>\n<div></div>\n<div><strong>The parade begins at 2pm</strong>
+ </p>\n<div>. Join us as we celebrate Christmas in America. Parade starts a
+ t Meadow Avenue and travels down Main Street to Rosewood Street\, then to 
+ the County Administrative Building on Woolfolk Avenue. There are always lo
+ ts of spectators at this event\, but plenty of room for even the little on
+ es to get a good view. Bring your lawn chairs if you like!</div>\n</div>\n
+ <div></div>\n<div>Event information\, call (540) 967-4420 or <a href='mail
+ to:parksdesk@louisa.org' target='_blank' shape='rect'>email us.</a></div>
+DTSTART;TZID=America/New_York:20151205T100000
+DTEND;TZID=America/New_York:20151205T150000
+LOCATION:Town of Louisa
+SEQUENCE:0
+SUMMARY:Louisa Christmas Festival  & Parade: Christmas In America
+URL:http://www.visitlouisa.com/event/louisa-christmas-festival-parade-chris
+ tmas-in-america/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1987@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Cooper Vineyards\,Farms &amp\; Vineyards\,Grayhaven 
+ Winery\,Lake Anna Winery\,Weston Farm Vineyard
+CONTACT:Heart of Virginia Wine Trail\; http://www.hovawinetrail.com/annual-
+ events.html
+DESCRIPTION:<p>HOV Jingle Bell Wine Trail December 5\, 6 (11:00 to 5:00) Bu
+ y a passport ticket for only $20.00 and you get a souvenir wineglass\, win
+ e tasting at the SIX Heart of Virginia Wineries: Lake Anna\, James River\,
+  Cooper\, Grayhaven\, Weston Farms\, and Mattaponi Wineries. During our sp
+ ecial wine trail weekends you will get to graze on munchies at each winery
+  and check out special Christmas promotions.</p>\n<p>More Information: 540
+ /895-5085</p>
+DTSTART;TZID=America/New_York:20151205T110000
+DTEND;TZID=America/New_York:20151205T170000
+RRULE:FREQ=DAILY;UNTIL=20151206T235959Z
+SEQUENCE:0
+SUMMARY:Heart Of Virginia Jingle Bell Trail
+URL:http://www.visitlouisa.com/event/heart-of-virginia-jingle-bell-trail/
+X-COST:$20
+X-TICKETS-URL:http://www.hovawinetrail.com/annual-events.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2028@www.visitlouisa.com
+DTSTAMP:20150920T002402Z
+CATEGORIES;LANGUAGE=en:Louisa County Library
+CONTACT:Louisa County Library\; 540.894.5853\; http://www.jmrl.org/br-louis
+ a.htm
+DESCRIPTION:<p>At the Louisa County Library<script src='https://ajax.google
+ apis.com/ajax/libs/jquery/1.7.2/jquery.min.js' type='text/javascript'></sc
+ ript><script src='js/init.js' type='text/javascript'></script></p>\n<div i
+ d='wrapper'>\n<div id='left'>\n<div class='gutter'>\n<p>Bring your books y
+ ou are tired of reading and swap for lightly used or new books. <em>All ag
+ es. No registration required</em>.</p>\n</div>\n</div>\n</div>
+DTSTART;TZID=America/New_York:20151219T110000
+DTEND;TZID=America/New_York:20151219T120000
+GEO:+38.019715;-77.920227
+LOCATION:Louisa County Library @ 818 Davis Highway\, Mineral\, VA 23117\, U
+ SA
+SEQUENCE:0
+SUMMARY:Book Swap
+URL:http://www.visitlouisa.com/event/book-swap/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//5.196.20.19//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.hc-editions.com
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2005@www.hc-editions.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=fr-FR:Sortie en librairie
+CONTACT:
+DESCRIPTION:<p><a href='http://www.hc-editions.com/wp-content/uploads/2015/
+ 09/FRANCE_RVB.jpg'><img class='alignnone size-medium wp-image-1957' src='h
+ ttp://www.hc-editions.com/wp-content/uploads/2015/09/FRANCE_RVB-242x300.jp
+ g' alt='Télécharger la couverture' width='242' height='300' /></a></p>
+DTSTART;VALUE=DATE:20151022
+DTEND;VALUE=DATE:20151023
+SEQUENCE:0
+SUMMARY:Parution LA FRANCE D’ANTAN
+URL:http://www.hc-editions.com/event/parution-la-france-dantan/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2008@www.hc-editions.com
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=fr-FR:Prix
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.hc-editions.com/wp-content/uploads/2014/10/CVHD9782357201996-198x30
+ 0.jpg' width='198' height='300' /></div><p>« <em>Indulgences</em> » est sé
+ lectionné pour le prix du roman historique 2015 des Rendez-vous de l’Histo
+ ire de Blois !<br />\nIl ne reste donc plus que 10 finalistes et le prix s
+ era décerné le 9 octobre…</p>
+DTSTART;TZID=Europe/London:20151009T135500
+DTEND;TZID=Europe/London:20151009T145500
+LOCATION:Blois\, France
+SEQUENCE:0
+SUMMARY:INDULGENCES\, sélectionné pour le prix du roman historique 2015
+URL:http://www.hc-editions.com/event/indulgences-selectionne-pour-le-prix-d
+ u-roman-historique-2015/
+X-TAGS;LANGUAGE=fr-FR:prix\,roman\,indulgences\,Jean-pierre bours\,histoire
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2007@www.hc-editions.com
+DTSTAMP:20150920T002125Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.hc-editions.com/wp-content/uploads/2014/10/CVHD9782357201972-197x30
+ 0.jpg' width='197' height='300' /></div><p>Michel Moatti sera à Cognac les
+  16 et 18 octobre 2015 – Blackout Baby a été présélectionné pour le “POLAR
+  “ 2015 du meilleur roman francophone.</p>
+DTSTART;TZID=Europe/London:20151016T134400
+DTEND;TZID=Europe/London:20151018T144400
+LOCATION:Cognac\, France
+SEQUENCE:0
+SUMMARY:Michel Moatti à Cognac
+URL:http://www.hc-editions.com/event/michel-moatti-a-cognac/
+X-TAGS;LANGUAGE=fr-FR:michel moatti\,cognac\,polar
+END:VEVENT
+END:VCALENDAR

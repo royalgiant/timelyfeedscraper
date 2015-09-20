@@ -1,0 +1,578 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.236.227.235//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.irabazigasteiz.eu
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+X-LIC-LOCATION:Europe/Madrid
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5t98gfg623d39a5429qu60f1fg@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151003
+SEQUENCE:0
+SUMMARY:[VG] Pleno Política General
+URL:http://www.irabazigasteiz.eu/event/vg-pleno-politica-general/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:jb0v53vku409886sio42ulneeg@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151109
+SEQUENCE:0
+SUMMARY:BioAraba
+URL:http://www.irabazigasteiz.eu/event/bioaraba/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:ngm278unm8qsiv57f6bmtrrt38@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+SEQUENCE:0
+SUMMARY:Marcha Estatal contra las Violencias Machistas
+URL:http://www.irabazigasteiz.eu/event/marcha-estatal-contra-las-violencias
+ -machistas/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:ndmq6rhncvs1b4n0ks4gnc6gto@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151129
+DTEND;VALUE=DATE:20151130
+SEQUENCE:0
+SUMMARY:Día de Acción Global por el Clima
+URL:http://www.irabazigasteiz.eu/event/dia-de-accion-global-por-el-clima/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:uthho5kdaecnij23caj1l4epac@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150919T180000
+DTEND;TZID=Europe/Madrid:20150919T203000
+LOCATION:Avenida Juan Carlos I\, Av. Juan Carlos I\, 01002 Vitoria-Gasteiz\
+ , Álava\, España
+SEQUENCE:0
+SUMMARY:Salburuko Lore “Txoko gastronómico intercultural”
+URL:http://www.irabazigasteiz.eu/event/salburuko-lore-txoko-gastronomico-in
+ tercultural/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:r927tdlclbprahbpgu57bnh6m0@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150921T100000
+DTEND;TZID=Europe/Madrid:20150921T110000
+SEQUENCE:0
+SUMMARY:[VG] Entrevista en RNE
+URL:http://www.irabazigasteiz.eu/event/vg-entrevista-en-rne/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:6st624hbbt76hill5r0jauk2o4@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150921T110000
+DTEND;TZID=Europe/Madrid:20150921T130000
+SEQUENCE:0
+SUMMARY:[JJGG] Cita con el Diputado General
+URL:http://www.irabazigasteiz.eu/event/jjgg-cita-con-el-diputado-general/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:mgi39h7uc7489m3ootjopp0nng@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150921T130000
+DTEND;TZID=Europe/Madrid:20150921T150000
+SEQUENCE:0
+SUMMARY:[VG] Junta de Portavoces
+URL:http://www.irabazigasteiz.eu/event/vg-junta-de-portavoces-7/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:rvc2t2e51ql8pnf6efcvu0lrrc@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150921T153000
+DTEND;TZID=Europe/Madrid:20150921T170000
+SEQUENCE:0
+SUMMARY:Reunión con Etxegorri Auzo Elkartea
+URL:http://www.irabazigasteiz.eu/event/reunion-con-etxegorri-auzo-elkartea/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:fp8elk0bddf7472ifklh3bjius@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150921T193000
+DTEND;TZID=Europe/Madrid:20150921T200000
+LOCATION:Palacio Europa (Sala Francisco de Vitoria)
+SEQUENCE:0
+SUMMARY:Voluntarixs Triatlon
+URL:http://www.irabazigasteiz.eu/event/voluntarixs-triatlon/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:ot9atjqkls1ec6b812mfpcneq8@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150921T200000
+DTEND;TZID=Europe/Madrid:20150921T213000
+LOCATION:Plaza de España de Vitoria\, Espainia Plaza\, s/n\, 01001 Vitoria-
+ Gasteiz\, Álava\, Araba\, España
+SEQUENCE:0
+SUMMARY:Acto AFAARABA – Día Internacional del Alzheimer
+URL:http://www.irabazigasteiz.eu/event/acto-afaaraba-dia-internacional-del-
+ alzheimer/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:8j200gmemh9fs76v7jvu3e00g4@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150922T100000
+DTEND;TZID=Europe/Madrid:20150922T113000
+SEQUENCE:0
+SUMMARY:Marcha Ciclista Escolar
+URL:http://www.irabazigasteiz.eu/event/marcha-ciclista-escolar/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:815v0emq2tv89qft87c638eifs@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150922T103000
+DTEND;TZID=Europe/Madrid:20150922T113000
+SEQUENCE:0
+SUMMARY:Rueda de Prensa
+URL:http://www.irabazigasteiz.eu/event/rueda-de-prensa-2/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:8qn53g8mdof000eg6v4e8vjsho@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150922T110000
+DTEND;TZID=Europe/Madrid:20150922T140000
+SEQUENCE:0
+SUMMARY:[VG] Comisión de Hacienda
+URL:http://www.irabazigasteiz.eu/event/vg-comision-de-hacienda-3/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:ruhhph8l9rv3qncrpea8i4ha9s@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150923T090000
+DTEND;TZID=Europe/Madrid:20150923T100000
+SEQUENCE:0
+SUMMARY:Medios
+URL:http://www.irabazigasteiz.eu/event/medios/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:lno1k5hg8utefpk42f5a1ds6jg@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150923T090000
+DTEND;TZID=Europe/Madrid:20150923T100000
+SEQUENCE:0
+SUMMARY:[VG] Consejo Música
+URL:http://www.irabazigasteiz.eu/event/vg-consejo-musica/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:0cm4ic9e9l0po7j12bb4a9421g@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150923T093000
+DTEND;TZID=Europe/Madrid:20150923T113000
+SEQUENCE:0
+SUMMARY:Reunión Portavoces_Situación Económica
+URL:http://www.irabazigasteiz.eu/event/reunion-portavoces_situacion-economi
+ ca/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:g0chm4d8uo93bardlfvl2a7jpg@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150923T100000
+DTEND;TZID=Europe/Madrid:20150923T110000
+SEQUENCE:0
+SUMMARY:[VG] Consejo Danza
+URL:http://www.irabazigasteiz.eu/event/vg-consejo-danza/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:8fl10kv8ga33u4hi5obt513j38@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150923T113000
+DTEND;TZID=Europe/Madrid:20150923T133000
+LOCATION:Oyón\, 01320 Oyón\, Álava\, España
+SEQUENCE:0
+SUMMARY:Marcha del Sol – Anpier
+URL:http://www.irabazigasteiz.eu/event/marcha-del-sol-anpier/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:kurfd57b57bbect23setoibsos@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150923T113000
+DTEND;TZID=Europe/Madrid:20150923T133000
+SEQUENCE:0
+SUMMARY:[VG] Comisión de Promoción Económica_URBAN
+URL:http://www.irabazigasteiz.eu/event/vg-comision-de-promocion-economica_u
+ rban/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:rqae0cv5lbehsurhtpsq4ue0ao@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150924T093000
+DTEND;TZID=Europe/Madrid:20150924T103000
+SEQUENCE:0
+SUMMARY:[VG] Consejo AMVISA
+URL:http://www.irabazigasteiz.eu/event/vg-consejo-amvisa-2/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:02mji7o4eoiadqclq0s9qtjal0@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150924T200000
+DTEND;TZID=Europe/Madrid:20150924T210000
+LOCATION:Sala Amarika
+SEQUENCE:0
+SUMMARY:Inauguración Exposición Interfaz
+URL:http://www.irabazigasteiz.eu/event/inauguracion-exposicion-interfaz/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:98j45j74p64ldm7l9qqhdfuiqo@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150925T090000
+DTEND;TZID=Europe/Madrid:20150925T140000
+SEQUENCE:0
+SUMMARY:[VG] Pleno
+URL:http://www.irabazigasteiz.eu/event/vg-pleno-4/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:0qii8gsh4hhmrc9pojddeo60p4@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150928T203000
+DTEND;TZID=Europe/Madrid:20150928T220000
+SEQUENCE:0
+SUMMARY:Presentación Pasarela Gasteiz On
+URL:http://www.irabazigasteiz.eu/event/presentacion-pasarela-gasteiz-on/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:84f1d1flqvod003uem6hdgfjog@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150929T120000
+DTEND;TZID=Europe/Madrid:20150929T140000
+SEQUENCE:0
+SUMMARY:[VG] Consejo CEA
+URL:http://www.irabazigasteiz.eu/event/vg-consejo-cea/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:8j5lpape8pe3f0ujdjpcq7qnl8@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150930T090000
+DTEND;TZID=Europe/Madrid:20150930T100000
+SEQUENCE:0
+SUMMARY:Medios
+URL:http://www.irabazigasteiz.eu/event/medios-2/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:cj2gen34sfvlfnr84i6d51tqf0@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150930T090000
+DTEND;TZID=Europe/Madrid:20150930T140000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:cfplv9shrn23vr5qeek9k0cq30@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150930T120000
+DTEND;TZID=Europe/Madrid:20150930T140000
+SEQUENCE:0
+SUMMARY:[VG] Consejo TUVISA
+URL:http://www.irabazigasteiz.eu/event/vg-consejo-tuvisa-3/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:7bta0k9ff9g2q3jmc2kqqu6jr0@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Conferencia inaugural: “Nada está escrito. Sobre la evolució
+ n de las conquistas de las mujeres”. Marina Subirats i Martori. Catedrátic
+ a emérita de sociología. Especialista en género y educación.</p>\n<p>Prese
+ ntación de la programación de la Escuela. Miryam Artola Dendaluce. </p>
+DTSTART;TZID=Europe/Madrid:20150930T183000
+DTEND;TZID=Europe/Madrid:20150930T200000
+LOCATION:Centro Cultural Montehermoso\, Calle de Fray Zacarías Martínez\, 2
+ \, 01001 Vitoria-Gasteiz\, Araba\, España
+SEQUENCE:0
+SUMMARY:[VG] Inauguración Escuela para la Igualdad
+URL:http://www.irabazigasteiz.eu/event/vg-inauguracion-escuela-para-la-igua
+ ldad/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:u2n0r3bg37eaufnfidmlk6pqs0@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151002T193000
+DTEND;TZID=Europe/Madrid:20151002T203000
+LOCATION:Parque de Molinuevo
+SEQUENCE:0
+SUMMARY:Marcha de las Mujeres
+URL:http://www.irabazigasteiz.eu/event/marcha-de-las-mujeres/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:8ktqssvhbvhe209vkiea9rk7cg@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151002T193000
+DTEND;TZID=Europe/Madrid:20151002T203000
+LOCATION:Parque de Molinuevo
+SEQUENCE:0
+SUMMARY:Marcha de las Mujeres
+URL:http://www.irabazigasteiz.eu/event/marcha-de-las-mujeres-2/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:838dg9efo0rlqt65eqhaovmj50@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151007T090000
+DTEND;TZID=Europe/Madrid:20151007T120000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno de Control
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno-de-control-9/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:rqhru0eoogfcoooplkvph57cno@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151104T090000
+DTEND;TZID=Europe/Madrid:20151104T100000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno de Control
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno-de-control-8/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:iaq9vaod9muj22jh7acens0q5g@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151202T090000
+DTEND;TZID=Europe/Madrid:20151202T100000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno de Control
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno-de-control-7/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:g23hqc08lsekcogm8rqt8iavmg@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20151204T190000
+DTEND;TZID=Europe/Madrid:20151204T200000
+SEQUENCE:0
+SUMMARY:Presentación Ardoaraba
+URL:http://www.irabazigasteiz.eu/event/presentacion-ardoaraba/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:4rvbj8b47ghjd2cm9kg1km639o@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20160203T090000
+DTEND;TZID=Europe/Madrid:20160203T100000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno de Control
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno-de-control-6/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:6d445n37svkvvhrm6bceklh1fg@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20160302T090000
+DTEND;TZID=Europe/Madrid:20160302T100000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno de Control
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno-de-control-5/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:q8eiu3jk8sefthj5vlg4i652b4@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20160406T090000
+DTEND;TZID=Europe/Madrid:20160406T100000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno de Control
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno-de-control-4/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:9lcqcf1osil5d1f5mptntok4uc@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20160504T090000
+DTEND;TZID=Europe/Madrid:20160504T100000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno de Control
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno-de-control-3/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:9f6sbbloars10vd258j3cre78k@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20160601T090000
+DTEND;TZID=Europe/Madrid:20160601T100000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno de Control
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno-de-control-2/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+BEGIN:VEVENT
+UID:hi9j8o7o8e7175nn2g8bn0d0sg@google.com
+DTSTAMP:20150920T002136Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20160706T090000
+DTEND;TZID=Europe/Madrid:20160706T100000
+SEQUENCE:0
+SUMMARY:[JJGG] Pleno de Control
+URL:http://www.irabazigasteiz.eu/event/jjgg-pleno-de-control/
+X-TAGS;LANGUAGE=es-ES:IRABAZI
+END:VEVENT
+END:VCALENDAR

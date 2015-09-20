@@ -1,0 +1,588 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//136.142.34.199//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://cdar.pharmacy.pitt.edu
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1271@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Details to be posted soon!</p>\n<p><a href='https://www.care
+ ereco.com/Fair/EventDetails?fairId=1865df61-b18e-4089-84ae-a46900131d18'>L
+ ink</a> for prospective students.</p>
+DTSTART;VALUE=DATE:20151020
+DTEND;VALUE=DATE:20151023
+SEQUENCE:0
+SUMMARY:AACP Virtual Pharmacy School Fair
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=aacp-virtual-pharmacy-school
+ -fair
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1282@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:https://oafa.pitt.edu/visit/open-houses/picture-yourself-at-pitt/
+DESCRIPTION:<p>Experience the University of Pittsburgh\, the School of Phar
+ macy\, and the city of Pittsburgh for yourself!</p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+SEQUENCE:0
+SUMMARY:Picture Yourself at Pitt- Open House
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=picture-yourself-at-pitt-ope
+ n-house-3
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1283@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:https://oafa.pitt.edu/visit/open-houses/picture-yourself-at-pitt/
+DESCRIPTION:<p>Experience the University of Pittsburgh\, the School of Phar
+ macy\, and the city of Pittsburgh for yourself!</p>
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151115
+SEQUENCE:0
+SUMMARY:Picture Yourself at Pitt- Open House
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=picture-yourself-at-pitt-ope
+ n-house-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1284@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:https://oafa.pitt.edu/visit/open-houses/picture-yourself-at-pitt/
+DESCRIPTION:<p>Experience the University of Pittsburgh\, the School of Phar
+ macy\, and the city of Pittsburgh for yourself!</p>
+DTSTART;VALUE=DATE:20151205
+DTEND;VALUE=DATE:20151206
+SEQUENCE:0
+SUMMARY:Picture Yourself at Pitt- Open House
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=picture-yourself-at-pitt-ope
+ n-house
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1317@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160430
+DTEND;VALUE=DATE:20160501
+LOCATION:Wyndham Grand Hotel\, Pittsburgh
+SEQUENCE:0
+SUMMARY:School of Pharmacy Graduation Dinner and Hooding Ceremony
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=school-of-pharmacy-graduatio
+ n-dinner-and-hooding-ceremony
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1298@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:Dr. Song Li\; 412-383-7976
+DESCRIPTION:<p><strong><a href='http://www.intranet.pharmacy.pitt.edu/wp-co
+ ntent/uploads/2015/08/maria_croyle.jpg'><img class='alignnone size-full wp
+ -image-1303' src='http://www.intranet.pharmacy.pitt.edu/wp-content/uploads
+ /2015/08/maria_croyle.jpg' alt='maria_croyle' width='300' height='300' /><
+ /a></strong></p>\n<p><strong>Maria Croyle\, PhD\;</strong></p>\n<p><strong
+ >Glaxo Wellcome Professor\;</strong></p>\n<p><strong>Professor of Pharmace
+ utics\;</strong></p>\n<p><strong>University of Texas at Austin</strong></p
+ >\n<p><strong>College of Pharmacy</strong></p>\n<p><strong>–Development of
+  a single dose long lasting ebola vaccine: the role of pharmaceutical scie
+ nce in addressing globally challenging problems </strong></p>
+DTSTART;TZID=America/New_York:20150922T120000
+DTEND;TZID=America/New_York:20150922T130000
+LOCATION:'03 Hall @ 456 Salk Hall
+SEQUENCE:0
+SUMMARY:Seminar Series #1
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=seminar-series-1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1196@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:Suzanne Mannino\; 412-648-1039\; smm198@piutt.edu
+DESCRIPTION:<p>Optional Interviews- 4-7PM</p>
+DTSTART;TZID=America/New_York:20150924T110000
+DTEND;TZID=America/New_York:20150924T160000
+LOCATION:Peterson Events Center
+SEQUENCE:0
+SUMMARY:PittPharmacy Career Expo
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=pittpharmacy-career-expo
+END:VEVENT
+BEGIN:VEVENT
+UID:5nufgg0rqhleg265dmh3qf1358@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Directions to GHC 4405:</p>\n<p>If you enter the building fr
+ om the Forbes Avenue entrance\, the room is straight ahead on your right.<
+ /p>\n<p>If you enter from the Gates parking garage\, take the elevator to 
+ the 4th floor. Go straight and follow the hallway\, which curves to the le
+ ft\, and the room is straight ahead.</p>
+DTSTART;TZID=America/New_York:20150924T120000
+DTEND;TZID=America/New_York:20150924T131500
+LOCATION:CMU GHC 4405
+SEQUENCE:0
+SUMMARY:MMBioS Scientific Meeting
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=mmbios-scientific-meeting-11
+END:VEVENT
+BEGIN:VEVENT
+UID:t7qd97kqmsm1fhiq0n0o2th20s@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Directions to GHC 4405:</p>\n<p>If you enter the building fr
+ om the Forbes Avenue entrance\, the room is straight ahead on your right.<
+ /p>\n<p>If you enter from the Gates parking garage\, take the elevator to 
+ the 4th floor. Go straight and follow the hallway\, which curves to the le
+ ft\, and the room is straight ahead.</p>
+DTSTART;TZID=America/New_York:20150924T133000
+DTEND;TZID=America/New_York:20150924T140000
+LOCATION:CMU GHC 4405
+SEQUENCE:0
+SUMMARY:MMBioS Executive Committee Meeting
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=mmbios-executive-committee-m
+ eeting-4
+END:VEVENT
+BEGIN:VEVENT
+UID:46lribf44ecbpfaho0pipbpcrk@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>David Klinke\, Ph.D.<br />\nAssociate Professor of Chemical 
+ Engineering<br />\nAdjunct Assistant Professor of Microbiology\, Immunolog
+ y\, and Cell Biology<br />\nWest Virginia University</p>\n<p>Host: Dr. Tim
+  Lezon</p>\n<p>Title: In silico model-based inference: a contemporary appr
+ oach for hypothesis testing in systems pharmacology</p>\n<p>Quantitative a
+ nd systems pharmacology is an approach to translational medicine that inte
+ grates a systems perspective\, mechanistic modeling and simulation with qu
+ antitative wet lab studies to advance the discovery\, development\, and cl
+ inical use of drugs. Conventionally\, mechanistic modeling provides a quan
+ titative framework for integrating fragmented knowledge of a system and fo
+ r simulating the dynamic response of the system to environmental changes. 
+ However\, one of the major challenges in drug discovery and development is
+  determining whether our understanding of how a drug acts across multiple 
+ time and length scales is consistent with observed biological response. Th
+ is is an inductive inference problem. Despite advances in computational po
+ wer\, conventional methods for inference remain largely unchanged since Fi
+ sher\, Neyman and Pearson developed the ideas in the early-1900’s. In this
+  talk\, I will summarize new methods for model-based inference that levera
+ ge advances in computational power using our recent study of the beta-cate
+ nin signaling as an example. This simulation-based alternative accounts fo
+ r the specific data at hand\, prior knowledge of the network\, and the unc
+ ertainty associated with the model parameters.</p>
+DTSTART;TZID=America/New_York:20150925T110000
+DTEND;TZID=America/New_York:20150925T120000
+LOCATION:6014 BST3
+SEQUENCE:0
+SUMMARY:CPCB Seminar – Dr. David Klinke
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=cpcb-seminar-dr-david-klinke
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1299@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:Dr. Song Li\; 412-383-7976
+DESCRIPTION:<p><strong><a href='http://www.intranet.pharmacy.pitt.edu/wp-co
+ ntent/uploads/2015/08/SUN_DANDAN_MD_PhD.jpg'><img class='alignnone size-fu
+ ll wp-image-1304' src='http://www.intranet.pharmacy.pitt.edu/wp-content/up
+ loads/2015/08/SUN_DANDAN_MD_PhD.jpg' alt='SUN_DANDAN_MD_PhD' width='300' h
+ eight='400' /></a></strong></p>\n<p><strong>Dandan Sun\, MD\, PhD</strong>
+ </p>\n<p><strong>Professor</strong></p>\n<p><strong>Endowed Chair\, Brain 
+ Disorder Research</strong></p>\n<p><strong>Department of Neurology</strong
+ ></p>\n<p><strong>University of Pittsburgh School of Medicine</strong></p>
+ \n<table width='556'>\n<tbody>\n<tr>\n<td width='251'><strong>–Fish oil DH
+ A reduces ER stress in traumatic brain injury</strong></td>\n</tr>\n</tbod
+ y>\n</table>
+DTSTART;TZID=America/New_York:20150929T120000
+DTEND;TZID=America/New_York:20150929T130000
+LOCATION:'03 Hall @ 456 Salk Hall
+SEQUENCE:0
+SUMMARY:Seminar Series #2
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=seminar-series-2
+END:VEVENT
+BEGIN:VEVENT
+UID:k2g785ndq0bem0hpajvr04luro@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Dr. Jason Shoemaker\, Ph.D.<br />\nAssistant Professor<br />
+ \nDepartment of Chemical and Petroleum Engineering<br />\nUniversity of Pi
+ ttsburgh</p>
+DTSTART;TZID=America/New_York:20151002T110000
+DTEND;TZID=America/New_York:20151002T120000
+LOCATION:S120 BST
+SEQUENCE:0
+SUMMARY:CPCB Seminar – Dr. Jason Shoemaker
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=cpcb-seminar-dr-jason-shoema
+ ker
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1334@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:Carolyn Dorn\; dornca@upmc.edu\; https://ccehs.upmc.com
+DESCRIPTION:<p>See attached flyer.</p>\n<p><a href='http://www.intranet.pha
+ rmacy.pitt.edu/wp-content/uploads/2015/09/T133-Pharmacy_Fall_2015_02.pdf'>
+ T133-Pharmacy_Fall_2015_02</a></p>
+DTSTART;TZID=America/New_York:20151004T160000
+DTEND;TZID=America/New_York:20151004T200000
+LOCATION:University of Pittsburgh @ BST S100A\, Biomedical Science Tower
+SEQUENCE:0
+SUMMARY:Fall CE: Opioid Abuse: The Role of the Pharmacist in Management
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=fall-ce-opioid-abuse-the-rol
+ e-of-the-pharmacist-in-management
+END:VEVENT
+BEGIN:VEVENT
+UID:6heabtq1hubdb0bt2gd9diuvpk@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Carlos Lopez\, Ph.D.<br />\nAssistant Professor of Cancer Bi
+ ology<br />\nAssitant Professor of Bioengineering<br />\nVanderbilt Univer
+ sity</p>\n<p>Host: Dr. Jim Faeder</p>
+DTSTART;TZID=America/New_York:20151009T110000
+DTEND;TZID=America/New_York:20151009T120000
+LOCATION:6014 BST3
+SEQUENCE:0
+SUMMARY:CPCB Seminar – Dr. Carlos Lopez
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=cpcb-seminar-dr-carlos-lopez
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1300@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:Dr. Song Li\; 412-383-7976
+DESCRIPTION:<p><a href='http://www.intranet.pharmacy.pitt.edu/wp-content/up
+ loads/2015/08/XinghuaPortraitInformal160.png'><img class='alignnone size-f
+ ull wp-image-1305' src='http://www.intranet.pharmacy.pitt.edu/wp-content/u
+ ploads/2015/08/XinghuaPortraitInformal160.png' alt='XinghuaPortraitInforma
+ l160' width='220' height='220' /></a></p>\n<p><strong>–Filling the gaps fr
+ om cancer genome to personalized therapy: computational precision medicine
+ </strong></p>
+DTSTART;TZID=America/New_York:20151013T120000
+DTEND;TZID=America/New_York:20151013T130000
+LOCATION:'03 Hall @ 456 Salk Hall
+SEQUENCE:0
+SUMMARY:Seminar Series #3
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=seminar-series-3
+END:VEVENT
+BEGIN:VEVENT
+UID:tv1httule170efdngc771s71u8@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151016T110000
+DTEND;TZID=America/New_York:20151016T120000
+LOCATION:6014 BST3
+SEQUENCE:0
+SUMMARY:CPCB Seminar – Dr. Vaughn Cooper
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=cpcb-seminar-dr-vaughn-coope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:a2a6s9s0sqkkouin3jm97qpii4@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151027T120000
+DTEND;TZID=America/New_York:20151027T131500
+LOCATION:BST3\, Conference Room 6014
+SEQUENCE:0
+SUMMARY:MMBioS Scientific Meeting
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=mmbios-scientific-meeting-10
+END:VEVENT
+BEGIN:VEVENT
+UID:pqg0jqpk9vv7dhb5dhp4sootr8@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151027T133000
+DTEND;TZID=America/New_York:20151027T140000
+LOCATION:BST3\, Conference Room 6014
+SEQUENCE:0
+SUMMARY:MMBioS Executive Committee Meeting
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=mmbios-executive-committee-m
+ eeting-3
+END:VEVENT
+BEGIN:VEVENT
+UID:vmjb53p6f9dbrm385qlcq0b59c@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151030T110000
+DTEND;TZID=America/New_York:20151030T120000
+LOCATION:6115 GHC
+SEQUENCE:0
+SUMMARY:CPCB Seminar – Ben Raphael\, Brown University
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=cpcb-seminar-ben-raphael-bro
+ wn-university
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1281@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:studentindustryorg@gmail.com
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151102T180000
+DTEND;TZID=America/New_York:20151102T200000
+SEQUENCE:0
+SUMMARY:SIO Mixer
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=sio-mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1301@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:Dr. Song Li\; 412-383-7976
+DESCRIPTION:<p><strong><a href='http://www.intranet.pharmacy.pitt.edu/wp-co
+ ntent/uploads/2015/08/Liu2.jpg'><img class='alignnone size-full wp-image-1
+ 306' src='http://www.intranet.pharmacy.pitt.edu/wp-content/uploads/2015/08
+ /Liu2.jpg' alt='Liu2' width='250' height='250' /></a></strong></p>\n<p><st
+ rong>Dexi Liu\, PhD</strong></p>\n<p><strong>Panoz Professor of Pharmacy</
+ strong></p>\n<p><strong>Head\, Department of Pharmaceutical and Biomedical
+  Sciences</strong></p>\n<p><strong>University of Georgia College of Pharma
+ cy</strong></p>\n<p><strong>–Tuning–up gene expression to prevent and trea
+ t obesity and obesity-associated insulin resistance</strong></p>
+DTSTART;TZID=America/New_York:20151103T120000
+DTEND;TZID=America/New_York:20151103T130000
+LOCATION:'03 Hall @ 456 Salk Hall
+SEQUENCE:0
+SUMMARY:Seminar Series #4
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=seminar-series-4
+END:VEVENT
+BEGIN:VEVENT
+UID:2r9qdjvavqbjrcth403e3hvpjk@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>KC Huang\, Ph.D.<br />\nAssistant Professor of Bioengineerin
+ g<br />\nStanford University</p>\n<p>Host: Dr. Hanna Salman</p>\n<p>Title:
+  It came as a shock: regulation of bacterial growth by osmotic pressure </
+ p>\n<p>Abstract:<br />\nIt has long been proposed that turgor pressure pla
+ ys an essential role during bacterial growth by driving mechanical expansi
+ on of the cell wall. This hypothesis is based on analogy to plant cells\, 
+ for which this mechanism has been established\, and on experiments in whic
+ h the growth rate of bacterial cultures was observed to decrease as the os
+ molarity of the growth medium was increased. To distinguish the effect of 
+ turgor pressure from pressure-independent effects that osmolarity might ha
+ ve on cell growth\, we monitored the elongation of single Escherichia coli
+  cells while rapidly changing the osmolarity of their media. By plasmolyzi
+ ng cells\, we found that cell-wall elastic strain did not scale with growt
+ h rate\, suggesting that pressure does not drive cell-wall expansion. Furt
+ hermore\, in response to hyper- and hypoosmotic shock\, E. coli cells resu
+ med their pre-shock growth rate and relaxed to their steady-state rate aft
+ er several minutes\, demonstrating that osmolarity modulates growth rate s
+ lowly\, independently of pressure. Oscillatory hyperosmotic shock revealed
+  that while plasmolysis slowed cell elongation\, the cells nevertheless “s
+ tored” growth such that once turgor was re-established the cells elongated
+  to the length that they would have attained had they never been plasmolyz
+ ed. In contrast\, Bacillus subtilis cells exhibit highly regular growth os
+ cillations in response to hypoosmotic shock that are dependent on peptidog
+ lycan synthesis. The period of these oscillations scales linearly with the
+  magnitude of the shock. By applying a simple mathematical theory to these
+  data\, we show that growth oscillations are initiated by mechanical-strai
+ n-induced growth arrest. This demonstrates that B. subtilis has developed 
+ an elegant system by which turgor pressure both up- and down-regulates the
+  final steps of cell growth.</p>
+DTSTART;TZID=America/New_York:20151106T110000
+DTEND;TZID=America/New_York:20151106T120000
+LOCATION:S120 BST
+SEQUENCE:0
+SUMMARY:CPCB Seminar – Dr. KC Huang
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=cpcb-seminar-dr-kc-huang
+END:VEVENT
+BEGIN:VEVENT
+UID:fdt1774qpc7eicgulhuecrlvdg@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Directions to GHC 4405:</p>\n<p>If you enter the building fr
+ om the Forbes Avenue entrance\, the room is straight ahead on your right.<
+ /p>\n<p>If you enter from the Gates parking garage\, take the elevator to 
+ the 4th floor. Go straight and follow the hallway\, which curves to the le
+ ft\, and the room is straight ahead.</p>
+DTSTART;TZID=America/New_York:20151117T120000
+DTEND;TZID=America/New_York:20151117T131500
+LOCATION:CMU GHC 4405
+SEQUENCE:0
+SUMMARY:MMBioS Scientific Meeting
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=mmbios-scientific-meeting-9
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1302@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:Dr. Song Li\; 412-383-7976
+DESCRIPTION:<p><a href='http://www.intranet.pharmacy.pitt.edu/wp-content/up
+ loads/2015/08/BUMPUS-namandje_cropped.jpg'><img class='alignnone size-full
+  wp-image-1309' src='http://www.intranet.pharmacy.pitt.edu/wp-content/uplo
+ ads/2015/08/BUMPUS-namandje_cropped.jpg' alt='BUMPUS-namandje_cropped' wid
+ th='250' height='353' /></a></p>\n<p><strong>Namandje Bumpus\, PhD</strong
+ ></p>\n<p><strong>Associate Professor\, Associate Dean for Institutional a
+ nd Student Equity</strong></p>\n<p><strong>Division of Clinical </strong><
+ strong>Pharmacology</strong></p>\n<p><strong>Johns Hopkins University Scho
+ ol of Medicine</strong></p>\n<p><strong style='line-height: 1.5'>–Impact o
+ f drug metabolism on antiretroviral drug response</strong></p>
+DTSTART;TZID=America/New_York:20151117T120000
+DTEND;TZID=America/New_York:20151117T130000
+LOCATION:'03 Hall @ 456 Salk Hall
+SEQUENCE:0
+SUMMARY:Seminar Series #5
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=seminar-series-5
+END:VEVENT
+BEGIN:VEVENT
+UID:ahn29cjrf5h770f8pbinq47vo0@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Directions to GHC 4405:</p>\n<p>If you enter the building fr
+ om the Forbes Avenue entrance\, the room is straight ahead on your right.<
+ /p>\n<p>If you enter from the Gates parking garage\, take the elevator to 
+ the 4th floor. Go straight and follow the hallway\, which curves to the le
+ ft\, and the room is straight ahead.</p>
+DTSTART;TZID=America/New_York:20151117T133000
+DTEND;TZID=America/New_York:20151117T140000
+SEQUENCE:0
+SUMMARY:MMBioS Executive Committee Meeting
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=mmbios-executive-committee-m
+ eeting-2
+END:VEVENT
+BEGIN:VEVENT
+UID:4nvco0qk07crbpr7iu2h8i6l1k@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Roy Wollman\, Ph.D.<br />\nAssistant Professor<br />\nUniver
+ sity of California – San Diego</p>\n<p>Host: Dr. Robin Lee</p>\n<p>“Reliab
+ le Signal Transduction”</p>\n<p>Abstract:<br />\nStochasticity inherent to
+  biochemical reactions (intrinsic noise) and variability in cellular state
+ s (extrinsic noise) degrade information transmitted through signaling netw
+ orks. I will discuss two recent projects from the lab that analyzed mechan
+ ism utilized by cells to mitigate noise-induced information loss. In the f
+ irst project\, we analyzed the ability of temporal signal modulation–that 
+ is\, dynamics–to reduce noise-induced information loss. In the extracellul
+ ar signal-regulated kinase (ERK)\, calcium (Ca(2+))\, and nuclear factor k
+ appa-B (NF-κB) pathways\, response dynamics resulted in significantly grea
+ ter information transmission capacities compared to nondynamic responses. 
+ Theoretical analysis demonstrated that signaling dynamics has a key role i
+ n overcoming extrinsic noise. Experimental measurements of information tra
+ nsmission in the ERK network under varying signal-to-noise levels confirme
+ d our predictions and showed that signaling dynamics mitigate\, and can po
+ tentially eliminate\, extrinsic noise-induced information loss. By curbing
+  the information-degrading effects of cell-to-cell variability\, dynamic r
+ esponses substantially increase the accuracy of biochemical signaling netw
+ orks. In the second project\, we investigated how cells utilize cell to ce
+ ll communication to reduce the effects of noise using epidermal growth fac
+ tor receptor (EGFR) transactivation that results from extracellular ATP\, 
+ a key damage signal critical for wound response signaling. We show that ec
+ todomain shedding results in paracrine communication that reduces the vari
+ ability of pathways downstream of EGFR. Analysis of cellular response fide
+ lity as a function of the paracrine communication distance showed that the
+  experimentally measured communication distance maximizes the reliability 
+ of wound response signals. Our results demonstrate that local paracrine co
+ mmunication can be used to filter out response noise through local averagi
+ ng and that this noise filtering can be optimized by regulating paracrine 
+ communication distance. </p>
+DTSTART;TZID=America/New_York:20151120T110000
+DTEND;TZID=America/New_York:20151120T120000
+LOCATION:6014 BST3
+SEQUENCE:0
+SUMMARY:CPCB Seminar – Dr. Roy Wollman
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=cpcb-seminar-dr-roy-wollman
+END:VEVENT
+BEGIN:VEVENT
+UID:ghri319itki7610me7ei8ec0t4@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151215T120000
+DTEND;TZID=America/New_York:20151215T131500
+LOCATION:BST3\, Conference Room 6014
+SEQUENCE:0
+SUMMARY:MMBioS Scientific Meeting
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=mmbios-scientific-meeting-8
+END:VEVENT
+BEGIN:VEVENT
+UID:h9ube65kkagvj909r1d28905q8@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151215T133000
+DTEND;TZID=America/New_York:20151215T140000
+LOCATION:BST3\, Conference Room 6014
+SEQUENCE:0
+SUMMARY:MMBioS Executive Committee Meeting
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=mmbios-executive-committee-m
+ eeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1297@www.intranet.pharmacy.pitt.edu
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:Kathleen J. Stell\; stellkj@pitt.edu
+DESCRIPTION:<p>The Dr. Gordon J. Vanscoy 14th Annual White Coat Ceremony wi
+ ll be held on Friday\, January 29\, 2016 at Soldiers & Sailors Memorial Ha
+ ll & Museum at 2:30 p.m.  A reception will follow the ceremony at the Will
+ iam Pitt Union Assembly Room.</p>
+DTSTART;TZID=America/New_York:20160129T143000
+LOCATION:Soldiers & Sailors Memorial Hall & Museum
+SEQUENCE:0
+SUMMARY:White Coat Ceremony
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=white-coat-ceremony
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:3a76r1jfo0oblaigj494e77bl8@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Jan Liphardt\, Ph.D.<br />\nAssociate Professor\, Bioenginee
+ ring<br />\nStanford University</p>\n<p>Host: Dr. Jianhua Xing</p>
+DTSTART;TZID=America/New_York:20160205T110000
+DTEND;TZID=America/New_York:20160205T120000
+LOCATION:6014 BST3
+SEQUENCE:0
+SUMMARY:CPCB Seminar – Dr. Jan Liphardt
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=cpcb-seminar-dr-jan-liphardt
+END:VEVENT
+BEGIN:VEVENT
+UID:0o1ifjbhgb7g3imlaib7k43goc@google.com
+DTSTAMP:20150920T002618Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160401T110000
+DTEND;TZID=America/New_York:20160401T120000
+LOCATION:4405 GHC
+SEQUENCE:0
+SUMMARY:CompBio Seminar – Tim Hughes\, U. of Toronto
+URL:http://cdar.pharmacy.pitt.edu/?ai1ec_event=compbio-seminar-tim-hughes-u
+ -of-toronto
+END:VEVENT
+END:VCALENDAR

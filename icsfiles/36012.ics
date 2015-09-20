@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//79.170.40.234//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.landscove.devon.sch.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-809@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Break up for half term
+URL:http://www.landscove.devon.sch.uk/event/break-up-for-half-term/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-863@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Multi-Academy Trust consultation process ends
+URL:http://www.landscove.devon.sch.uk/event/multi-academy-trust-consultatio
+ n-process-ends/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-864@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150924T180000
+DTEND;TZID=Europe/London:20150924T190000
+LOCATION:Dartmoor Lodge
+SEQUENCE:0
+SUMMARY:‘Open surgery’ for academy conversion @ Dartmoor Lodge
+URL:http://www.landscove.devon.sch.uk/event/open-surgery-for-academy-conver
+ sion-dartmoor-lodge/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-840@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150924T190000
+DTEND;TZID=Europe/London:20150924T203000
+SEQUENCE:0
+SUMMARY:FOLS AGM in the school hall
+URL:http://www.landscove.devon.sch.uk/event/fols-agm-in-the-school-hall/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-805@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150928T153000
+DTEND;TZID=Europe/London:20151002T153000
+SEQUENCE:0
+SUMMARY:Parents consultations..more details to follow
+URL:http://www.landscove.devon.sch.uk/event/parents-consultations-more-deta
+ ils-to-follow/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-869@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151006T150000
+DTEND;TZID=Europe/London:20151006T160000
+SEQUENCE:0
+SUMMARY:Drop in session on Academy conversion @ Harberton Ford
+URL:http://www.landscove.devon.sch.uk/event/drop-in-session-on-academy-conv
+ ersion-harberton-ford/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-866@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151007T150000
+DTEND;TZID=Europe/London:20151007T160000
+LOCATION:Landscove
+SEQUENCE:0
+SUMMARY:Drop in session on Academy conversion @ Landscove
+URL:http://www.landscove.devon.sch.uk/event/drop-in-session-on-academy-conv
+ ersion-landscove/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-806@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151008T150000
+DTEND;TZID=Europe/London:20151008T153000
+SEQUENCE:0
+SUMMARY:Class Assembly – Class 3
+URL:http://www.landscove.devon.sch.uk/event/class-assembly-class-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-868@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151008T150000
+DTEND;TZID=Europe/London:20151008T160000
+SEQUENCE:0
+SUMMARY:Drop in session on Academy conversion @ Stoke Gabriel
+URL:http://www.landscove.devon.sch.uk/event/drop-in-session-on-academy-conv
+ ersion-stoke-gabriel/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-807@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151009T150000
+DTEND;TZID=Europe/London:20151009T153000
+SEQUENCE:0
+SUMMARY:Class Assembly – Class 2
+URL:http://www.landscove.devon.sch.uk/event/class-assembly-class-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-867@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151009T150000
+DTEND;TZID=Europe/London:20151009T160000
+LOCATION:Diptford
+SEQUENCE:0
+SUMMARY:Drop in session on Academy conversion @ Diptford
+URL:http://www.landscove.devon.sch.uk/event/drop-in-session-on-academy-conv
+ ersion-diptford/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-808@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151023T150000
+DTEND;TZID=Europe/London:20151023T153000
+SEQUENCE:0
+SUMMARY:Class Assembly – Class 4
+URL:http://www.landscove.devon.sch.uk/event/class-assembly-class-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-810@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151113T150000
+DTEND;TZID=Europe/London:20151113T153000
+SEQUENCE:0
+SUMMARY:Class Assembly – Class 1
+URL:http://www.landscove.devon.sch.uk/event/class-assembly-class-1-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-870@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151117T083000
+DTEND;TZID=Europe/London:20151117T120000
+SEQUENCE:0
+SUMMARY:School photographer
+URL:http://www.landscove.devon.sch.uk/event/school-photographer/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-811@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151208T180000
+DTEND;TZID=Europe/London:20151208T193000
+SEQUENCE:0
+SUMMARY:KS2 Nativity Performance 1 @ St Matthews Church
+URL:http://www.landscove.devon.sch.uk/event/ks2-nativity-performance-1-st-m
+ atthews-church/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-812@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151209T140000
+DTEND;TZID=Europe/London:20151209T153000
+SEQUENCE:0
+SUMMARY:KS1 Nativity Performance @ St Matthews Church
+URL:http://www.landscove.devon.sch.uk/event/ks1-nativity-performance-st-mat
+ thews-church/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-813@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151209T180000
+DTEND;TZID=Europe/London:20151209T193000
+SEQUENCE:0
+SUMMARY:KS2 Nativity Performance 2 @ St Matthews Church
+URL:http://www.landscove.devon.sch.uk/event/ks2-nativity-performance-2-st-m
+ atthews-church/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-814@www.landscove.devon.sch.uk
+DTSTAMP:20150920T002132Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151218T143000
+DTEND;TZID=Europe/London:20151218T143000
+SEQUENCE:0
+SUMMARY:Break up for Christmas!
+URL:http://www.landscove.devon.sch.uk/event/break-up-for-christmas/
+END:VEVENT
+END:VCALENDAR

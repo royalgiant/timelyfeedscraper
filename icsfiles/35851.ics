@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.30.162.93//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://fergusoncitywalk.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1361@fergusoncitywalk.com
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Kids Cookie Decorating with Cose Dolci</p>\n<p><b>Retro Band
+ \, 9-11AM</b></p>\n<p>Kid’s Activities with the Ferguson Public Library.</
+ p>
+DTSTART;TZID=America/Chicago:20150919T080000
+DTEND;TZID=America/Chicago:20150919T120000
+GEO:+38.743521;-90.304256
+LOCATION:Victorian Plaza @ 20 South Florissant Road\, Ferguson\, MO 63135\,
+  USA
+SEQUENCE:0
+SUMMARY:Ferguson Farmers Market
+URL:http://fergusoncitywalk.com/event/ferguson-farmers-market-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1362@fergusoncitywalk.com
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ferguson StreetFest! Farmers only at the market today.</p>
+DTSTART;TZID=America/Chicago:20150926T080000
+DTEND;TZID=America/Chicago:20150926T110000
+GEO:+38.743521;-90.304256
+LOCATION:Victorian Plaza @ 20 South Florissant Road\, Ferguson\, MO 63135\,
+  USA
+SEQUENCE:0
+SUMMARY:Ferguson Farmers Market
+URL:http://fergusoncitywalk.com/event/ferguson-farmers-market-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1363@fergusoncitywalk.com
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Farmer’s Market Fall Festival & Pumpkin Decorating</p>\n<p><
+ b>Rewind Band\, 9-11AM</b></p>\n<p>Kid’s Activities with the Ferguson Publ
+ ic Library.</p>
+DTSTART;TZID=America/Chicago:20151003T080000
+DTEND;TZID=America/Chicago:20151003T120000
+GEO:+38.743521;-90.304256
+LOCATION:Victorian Plaza @ 20 South Florissant Road\, Ferguson\, MO 63135\,
+  USA
+SEQUENCE:0
+SUMMARY:Ferguson Farmers Market
+URL:http://fergusoncitywalk.com/event/ferguson-farmers-market-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1307@fergusoncitywalk.com
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:Toni Roper \; 314-524-5197\; citywalk@fergusoncity.com
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151009T190000
+DTEND;TZID=America/Chicago:20151009T210000
+GEO:+38.737044;-90.303135
+LOCATION:Plaza at 501  @ 501 South Florissant Road\, Ferguson\, MO 63135\, 
+ USA
+SEQUENCE:0
+SUMMARY:Ferguson CityWalk Concert Series- Blend Doo Wop/A Capella
+URL:http://fergusoncitywalk.com/event/ferguson-citywalk-concert-series-ralp
+ h-butler-band-variety-5-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1364@fergusoncitywalk.com
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Fall Food Preservation Information</p>\n<p><b>Not Wired Righ
+ t\, 9-11AM</b></p>\n<p>AAUW Voter Registration.</p>\n<p>Kid’s Activities w
+ ith the Ferguson Public Library.</p>
+DTSTART;TZID=America/Chicago:20151010T080000
+DTEND;TZID=America/Chicago:20151010T120000
+GEO:+38.743521;-90.304256
+LOCATION:Victorian Plaza @ 20 South Florissant Road\, Ferguson\, MO 63135\,
+  USA
+SEQUENCE:0
+SUMMARY:Ferguson Farmers Market
+URL:http://fergusoncitywalk.com/event/ferguson-farmers-market-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1365@fergusoncitywalk.com
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Farmers Market Chili Cook-Off</p>\n<div class='ai1ec-event-d
+ escription'>\n<p><b>Maybell the Cat\, 9-11AM</b></p>\n<p>Kid’s Activities 
+ with the Ferguson Public Library.</p>\n</div>
+DTSTART;TZID=America/Chicago:20151017T080000
+DTEND;TZID=America/Chicago:20151017T120000
+GEO:+38.743521;-90.304256
+LOCATION:Victorian Plaza @ 20 South Florissant Road\, Ferguson\, MO 63135\,
+  USA
+SEQUENCE:0
+SUMMARY:Ferguson Farmers Market
+URL:http://fergusoncitywalk.com/event/ferguson-farmers-market-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1366@fergusoncitywalk.com
+DTSTAMP:20150920T002149Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Halloween Trick or Treat & Kids Costume Contest</p>\n<p><b>J
+ im Mayhew Native American Flute & Mayhew Music Studio 9-11AM</b></p>\n<p>K
+ id’s Activities with the Ferguson Public Library.</p>
+DTSTART;TZID=America/Chicago:20151024T080000
+DTEND;TZID=America/Chicago:20151024T120000
+GEO:+38.743521;-90.304256
+LOCATION:Victorian Plaza @ 20 South Florissant Road\, Ferguson\, MO 63135\,
+  USA
+SEQUENCE:0
+SUMMARY:Ferguson Farmers Market
+URL:http://fergusoncitywalk.com/event/ferguson-farmers-market-28/
+END:VEVENT
+END:VCALENDAR

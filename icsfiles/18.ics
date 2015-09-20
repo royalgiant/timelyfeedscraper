@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.35.55//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://redcedarfriends.org
+X-WR-TIMEZONE:America/Detroit
+BEGIN:VTIMEZONE
+TZID:America/Detroit
+X-LIC-LOCATION:America/Detroit
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-684@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Wider Quaker Events
+CONTACT:
+DESCRIPTION:<p><strong>Weaving Together Our Lives</strong></p>\n<p>FGC’s Mi
+ nistry on Racism Program is sponsoring a Fall Gathering for Friends of Col
+ or and their immediate family members Friday\, November 6 to Sunday\, Nove
+ mber 8 at Colombiere Conference and Retreat Center\, Clarkston\, MI</p>\n<
+ p>This is an opportunity for Friends of Color and their families in the Mi
+ d-West to come together to build multigenerational community through:</p>
+ \n<ul>\n<li>Mutual support and sharing</li>\n<li>Worship & Exploring our F
+ aith</li>\n<li>Sharing what brought us to Friends</li>\n<li>Identifying wa
+ ys to support each other.</li>\n</ul>\n<p>Friends of European descent are 
+ welcome provided they are attending with a family member (eg. spouse\, chi
+ ld) who is a Person of Color.</p>\n<p>See <a href='https://leymquaker.file
+ s.wordpress.com/2015/07/friends-of-color-gathering-2015-flyer.pdf' target=
+ '_blank'>downloadable flyer</a> for details.</p>
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151109
+GEO:+42.73512;-83.419294
+LOCATION:Colombiere Conference and Retreat Center @ Clarkston\, MI 48346\, 
+ USA
+SEQUENCE:0
+SUMMARY:Fall Gathering for Midwest Friends of Color
+URL:http://redcedarfriends.org/event/fall-gathering-for-friends-of-color/
+X-COST:See flyer.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-686@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Wider Quaker Events
+CONTACT:
+DESCRIPTION:<p>Join Catherine Cox and April Allison (of Red Cedar Friends M
+ eeting) for “Sink Down to the Seed: A Contemplative Retreat in the Manner 
+ of Friends\,” at the St. Raphaela Retreat Center\, Haverford\, Pennsylvani
+ a\, from November 19-22\, 2015. The retreat is offered through Philadelphi
+ a Yearly Meeting’s School of the Spirit.</p>\n<p>“…Participants will exper
+ ience the distinctly Quaker manner of knowing solitude in community. Along
+  with individual silent times for prayer\, reflection\, time in nature\, c
+ ontemplative interaction with scripture\, and meeting one-on-one with retr
+ eat leaders\, there will also be group silence at meals\; ‘active silence’
+  with participants gathered doing individual handwork\, reading\, journali
+ ng\, artwork\; and time for contemplative work.”</p>\n<p><a href='http://s
+ choolofthespirit.org/programs/silent-retreats-2/raphaela-pa-15/' target='_
+ blank'>For details</a></p>
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151123
+GEO:+40.002241;-75.320811
+LOCATION:St. Raphaela Retreat Center @ Haverford\, PA\, USA
+SEQUENCE:0
+SUMMARY:A Contemplative Retreat in the Manner of Friends
+URL:http://redcedarfriends.org/event/a-contemplative-retreat-in-the-manner-
+ of-friends/
+X-COST:See link below.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-685@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Wider Quaker Events
+CONTACT:Geoff Brieger 248 – 547 – 3073
+DESCRIPTION:<p>Lunch provided<br />\nYouth activities<br />\nMore informati
+ on to follow</p>
+DTSTART;TZID=America/Detroit:20150919T090000
+DTEND;TZID=America/Detroit:20150919T160000
+LOCATION:Location TBA
+SEQUENCE:0
+SUMMARY:Green Pastures Quarterly Meeting Fall Meeting
+URL:http://redcedarfriends.org/event/green-pastures-quarterly-meeting-fall-
+ meeting-2/
+X-COST:No cost\; free will contribution for lunch expenses
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-179@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:First Day School (children)
+CONTACT:(517) 371-1047
+DESCRIPTION:<p>religious ed and activities for children</p>
+DTSTART;TZID=America/Detroit:20150920T141500
+DTEND;TZID=America/Detroit:20150920T153000
+LOCATION:Meeting House @ 1400 Turner St\, Lansing\, MI 48906\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:First Day School
+URL:http://redcedarfriends.org/event/first-day-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-177@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Worship
+CONTACT:(517) 371-1047
+DESCRIPTION:<p>Worship in the manner of Friends.</p>
+DTSTART;TZID=America/Detroit:20150920T143000
+DTEND;TZID=America/Detroit:20150920T153000
+LOCATION:Meeting House @ 1400 Turner St\, Lansing\, MI 48906\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Worship
+URL:http://redcedarfriends.org/event/worship-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-189@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Meeting-sponsored Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20150920T154500
+DTEND;TZID=America/Detroit:20150920T170000
+EXDATE;TZID=America/Detroit:20130120T154500
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Potluck
+URL:http://redcedarfriends.org/event/potluck/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-195@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Meeting-sponsored Activities
+CONTACT:(517) 371-1047
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20150921T230000
+DTEND;TZID=America/Detroit:20150922T010000
+LOCATION:Private Home
+RRULE:FREQ=MONTHLY;BYDAY=3MO
+SEQUENCE:0
+SUMMARY:Meeting for Healing
+URL:http://redcedarfriends.org/event/meeting-for-healing/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-694@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Adult Religious Education
+CONTACT:
+DESCRIPTION:<p>Friends are invited to walk together in Hawk Meadows Park fo
+ r approximately 30 minutes and gather afterwards for worship sharing on ou
+ r experiences during the walk.</p>
+DTSTART;TZID=America/Detroit:20150927T120000
+DTEND;TZID=America/Detroit:20150927T133000
+GEO:+42.690795;-84.627819
+LOCATION:Hawk Meadows Park @ 6160 River Cove Dr\, Lansing\, MI 48917\, USA
+SEQUENCE:0
+SUMMARY:Adult Religious Ed
+URL:http://redcedarfriends.org/event/adult-religious-ed/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-695@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Adult Religious Education
+CONTACT:
+DESCRIPTION:<p>QuakerSpeak.com is a Quaker YouTube channel\, where videos c
+ onsist of interviews with Friends about core questions of our faith\, and 
+ is a project of <em>Friends Journal</em>.  In Fall 2014\, they offered a t
+ hree-part series: “The Challenge of Sitting in Silence\,” “Giving Vocal Mi
+ nistry” and “The Gathered Meeting.” We will listen to these three videos a
+ nd include another video which was not part of the series\, “Quakers and t
+ he Still Small Voice.”  A discussion will follow for newcomers and long-ti
+ me Friends alike.</p>
+DTSTART;TZID=America/Detroit:20151004T090000
+DTEND;TZID=America/Detroit:20151004T101500
+SEQUENCE:0
+SUMMARY:Adult Religious Ed
+URL:http://redcedarfriends.org/event/adult-religious-ed-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-696@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Adult Religious Education
+CONTACT:
+DESCRIPTION:<p><strong>Gamelan</strong></p>\n<p>10/10/2015 – 3:00 – 5:00</p
+ >\n<p>Will Peebles/ Gretchen Morse</p>\n<p>A gamelan is a musical ensemble
+  of Indonesian origin consisting of tuned gongs and chimes\, and was creat
+ ed initially as a way to summon gods.  We’ll explore the historical\, comm
+ unity and spiritual aspects of the gamelan and join together in learning s
+ imple gamelan tunes.  Professor Will Peebles\, a gamelan expert from Weste
+ rn Carolina University\, and Gretchen Morse will lead this activity. No pr
+ ior musical experience is necessary!  Middle school through adults are wel
+ come!</p>
+DTSTART;TZID=America/Detroit:20151010T150000
+DTEND;TZID=America/Detroit:20151010T170000
+SEQUENCE:0
+SUMMARY:Adult Religious Ed
+URL:http://redcedarfriends.org/event/adult-religious-ed-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-188@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Committees &amp\; Business Meeting
+CONTACT:(517) 371-1047
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20151011T161500
+DTEND;TZID=America/Detroit:20151011T190000
+LOCATION:Meeting House @ 1400 Turner St\, Lansing\, MI 48906\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:Meeting for Business
+URL:http://redcedarfriends.org/event/meeting-for-business/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-697@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Adult Religious Education
+CONTACT:
+DESCRIPTION:<p><strong>But Who Do You Say I Am?</strong></p>\n<p>10/25/2015
+  Noon – 1:30</p>\n<p>April Allison</p>\n<p>Together we will explore contem
+ porary interpretations of Jesus offered by three American authors. In “The
+  Wisdom Jesus\,” Cynthia Bourgeault envisions Jesus as a teacher in the Wi
+ sdom tradition\, informed by Eastern traditions. To Reza Aslan\, Jesus is 
+ a “Zealot” who proclaims the coming kingdom of God as he agitates to end  
+ the Roman occupation and a corrupt\, aristocratic priesthood. Marcus Borg 
+ synthesizes four modern perspectives in “Meeting Jesus Again for the First
+  Time.”<br />\nAfter introducing these images of Jesus\, we will consider 
+ the question that Jesus asked of his disciples: “But who do you say that I
+  am?” We can expect at least as much diversity among our personal response
+ s as we found in the works of Bourgeault\, Aslan\, and Borg.</p>
+DTSTART;TZID=America/Detroit:20151025T120000
+DTEND;TZID=America/Detroit:20151025T133000
+SEQUENCE:0
+SUMMARY:Adult Religious Ed
+URL:http://redcedarfriends.org/event/adult-religious-ed-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-698@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Adult Religious Education
+CONTACT:
+DESCRIPTION:<p><strong>Red Cedar Friends Panel</strong></p>\n<p>11/1/2015 –
+  9:00 – 10:15</p>\n<p>Susan Waltz\, Brian Buehler\, and Margaret Nielson w
+ ill compose a panel for the purpose of getting to know the greater work an
+ d experiences of Friends in our meeting.  Each panel member will share the
+ ir experiences in the realm of inter/national work followed by a Q&A sessi
+ on.</p>
+DTSTART;TZID=America/Detroit:20151101T090000
+DTEND;TZID=America/Detroit:20151101T101500
+SEQUENCE:0
+SUMMARY:Adult Religious Ed
+URL:http://redcedarfriends.org/event/adult-religious-ed-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-699@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Adult Religious Education\,Meeting-sponsored Acti
+ vities
+CONTACT:
+DESCRIPTION:<p><strong>Great Lakes Region – Fellowship of Quakers in the Ar
+ ts Salon</strong></p>\n<p>11/7/2015 – 10:00 – 2:00</p>\n<p>Sandra Cade</p>
+ \n<p>Conversations about the connections of spirituality and the arts. Art
+ ists are invited to bring an example to share. Discussions of how GLR-FQA 
+ might serve to offer spiritual\, practical\, and financial support in the 
+ year to come.</p>
+DTSTART;TZID=America/Detroit:20151107T100000
+DTEND;TZID=America/Detroit:20151107T140000
+SEQUENCE:0
+SUMMARY:Adult Religious Ed
+URL:http://redcedarfriends.org/event/adult-religious-ed-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-700@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Adult Religious Education
+CONTACT:
+DESCRIPTION:<p><strong>Twilight Session</strong></p>\n<p>11/22/2015 – Noon 
+ – 1:30</p>\n<p>Gretchen Morse</p>\n<p>What do other Quakers experience dur
+ ing Worship?  How do I know when to give a message?  Do others find it dif
+ ficult to center?  Join us for “Twilight Worship” at the rise of Meeting\,
+  where we’ll enjoy queries and worship-sharing around our individual exper
+ iences around today’s (and other) Meeting/s for Worship.</p>
+DTSTART;TZID=America/Detroit:20151122T120000
+DTEND;TZID=America/Detroit:20151122T133000
+SEQUENCE:0
+SUMMARY:Adult Religious Ed
+URL:http://redcedarfriends.org/event/adult-religious-ed-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-701@redcedarfriends.org
+DTSTAMP:20150920T002110Z
+CATEGORIES;LANGUAGE=en-US:Adult Religious Education
+CONTACT:
+DESCRIPTION:<p><strong>Mass Incarceration and Prison Reform</strong></p>\n<
+ p>12/6/2015 – 9:00 – 10:15</p>\n<p>Princewell Onwere/ QuakerSpeak video</p
+ >\n<p>We will gather to watch a QuakerSpeak video on mass incarceration an
+ d hear from an RCF Friend who works in the prison system and is interested
+  in prison reform.</p>
+DTSTART;TZID=America/Detroit:20151206T090000
+DTEND;TZID=America/Detroit:20151206T101500
+SEQUENCE:0
+SUMMARY:Adult Religious Ed
+URL:http://redcedarfriends.org/event/adult-religious-ed-8/
+END:VEVENT
+END:VCALENDAR

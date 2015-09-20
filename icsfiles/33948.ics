@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//199.189.197.150//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.somersetsoho.com/wp
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-6475@www.somersetsoho.com/wp
+DTSTAMP:20150920T003213Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+SEQUENCE:0
+SUMMARY:Teacher Planning Day – No School
+URL:http://www.somersetsoho.com/wp/?ai1ec_event=teacher-planning-day-no-sch
+ ool-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6476@www.somersetsoho.com/wp
+DTSTAMP:20150920T003213Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Progress Reports Available Online
+URL:http://www.somersetsoho.com/wp/?ai1ec_event=progress-reports-available-
+ online
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6447@www.somersetsoho.com/wp
+DTSTAMP:20150920T003213Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><img class='aligncenter size-full wp-image-6449 colorbox-496
+ 3' src='http://www.somersetsoho.com/wp/wp-content/uploads/2015/08/Voluntee
+ rs_color.jpg' alt='Volunteers_color' width='800' height='330' /></p>
+DTSTART;TZID=America/New_York:20151002T083000
+DTEND;TZID=America/New_York:20151002T090000
+EXDATE;TZID=America/New_York:20150904T083000
+GEO:+25.467338;-80.475057
+LOCATION:Somerset Academy South Homestead Cafeteria @ 300 Southeast 1st Dri
+ ve\, Homestead\, FL 33030\, USA
+RDATE;TZID=America/New_York:20150904T083000
+RDATE;TZID=America/New_York:20151002T083000
+RDATE;TZID=America/New_York:20151106T083000
+RDATE;TZID=America/New_York:20151204T083000
+RDATE;TZID=America/New_York:20160108T083000
+RDATE;TZID=America/New_York:20160205T083000
+RDATE;TZID=America/New_York:20160304T083000
+RDATE;TZID=America/New_York:20160401T083000
+RDATE;TZID=America/New_York:20160506T083000
+SEQUENCE:0
+SUMMARY:PALs Meeting
+URL:http://www.somersetsoho.com/wp/?ai1ec_event=pals-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6445@www.somersetsoho.com/wp
+DTSTAMP:20150920T003213Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><img class='aligncenter wp-image-6446 size-large colorbox-49
+ 63' src='http://www.somersetsoho.com/wp/wp-content/uploads/2015/08/College
+ -Colors-Day-Flyer-2-1024x663.png' alt='College Colors Day Flyer - 2' width
+ ='1024' height='663' /></p>
+DTSTART;TZID=America/New_York:20151007T012600
+DTEND;TZID=America/New_York:20151007T022600
+RDATE;TZID=America/New_York:20150902T012600
+RDATE;TZID=America/New_York:20151007T012600
+RDATE;TZID=America/New_York:20151104T012600
+RDATE;TZID=America/New_York:20151202T012600
+RDATE;TZID=America/New_York:20160106T012600
+RDATE;TZID=America/New_York:20160203T012600
+RDATE;TZID=America/New_York:20160302T012600
+RDATE;TZID=America/New_York:20160406T012600
+RDATE;TZID=America/New_York:20160504T012600
+SEQUENCE:0
+SUMMARY:College Colors Day
+URL:http://www.somersetsoho.com/wp/?ai1ec_event=college-colors-day
+END:VEVENT
+END:VCALENDAR

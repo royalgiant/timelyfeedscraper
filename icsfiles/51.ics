@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//109.199.125.236//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://peopleoflancaster.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-61987@pol1.digitaladcom.com
+DTSTAMP:20150920T002108Z
+CATEGORIES;LANGUAGE=en-US:Santa Stumble
+CONTACT:
+DESCRIPTION:<p>We just had a successful 2014 Santa Stumble and plans are un
+ derway to make 2015 even better. </p>\n<p>Want to volunteer email us at li
+ ghthousekeeper@gaplighthouse.com</p>\n<p>Volunteers Wanted:</p>\n<p>Graphi
+ c Artist to help design 2015 scarf & buttons<br />\nCostume Contest Chairm
+ an – The costumes are getting better and better every year and in 2015 we’
+ d like a big on-stage event. We need someone to take charge of acquiring p
+ rizes and major awards from businesses for the winners.<br />\nOn stage MC
+  for costume contest<br />\nPhotographers<br />\nDonations from businesses
+  and individuals to fill 50 VIP Baskets. (Barnstormers tix\, pint glasses\
+ , etc.\, other marketing crap from your business but we need 50 of them)</
+ p>\n<p><div id='rcjsload_360e55'></div>\n<script type='text/javascript'>\n
+ (function() {\nvar rcel = document.createElement('script')\;\nrcel.id = 'r
+ c_' + Math.floor(Math.random() * 1000)\;\nrcel.type = 'text/javascript'\;
+ \nrcel.src = 'http://trends.revcontent.com/serve.js.php?w=2686&t='+rcel.id
+ +'&c='+(new Date()).getTime()+'&width='+(window.outerWidth || document.doc
+ umentElement.clientWidth)\;\nrcel.async = true\;\nvar rcds = document.getE
+ lementById('rcjsload_360e55')\; rcds.appendChild(rcel)\;\n})()\;\n</script
+ ></p>
+DTSTART;TZID=America/New_York:20151212T160000
+DTEND;TZID=America/New_York:20151212T230000
+GEO:+40.037657;-76.304422
+LOCATION:Tellus 360 @ 24 East King Street\, Lancaster\, PA 17602\, USA
+SEQUENCE:0
+SUMMARY:Lancaster Santa Stumble 2015
+URL:http://peopleoflancaster.com/event/lancaster-santa-stumble-2015/
+X-TICKETS-URL:http://www.eventbrite.com/e/lancaster-santa-stumble-2015-tick
+ ets-14937664958?aff=efbevent
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.13.128.221//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://amsyri.net
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1671@amsyri.net
+DTSTAMP:20150920T002142Z
+CATEGORIES;LANGUAGE=de-DE:Messetermine
+CONTACT:
+DESCRIPTION:<p>Neue Messe für PBS</p>\n<p>Öffnungszeiten</p>\n<p>Do-Sa 9.00
+ -18.00 Uhr<br>\nSo 9.00-17.00 Uhr</p>\n<p>Infos unter <a href='http://www.
+ insights-x.com/'>http://www.insights-x.com/</a></p>
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151012
+GEO:+49.41703;+11.11518
+LOCATION:Messezentrum Nürnberg @ Messezentrum 1\, 90471 Nürnberg\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:Insights-X
+URL:http://amsyri.net/blog/Termin/insights-x/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1678@amsyri.net
+DTSTAMP:20150920T002142Z
+CATEGORIES;LANGUAGE=de-DE:Messetermine
+CONTACT:
+DESCRIPTION:<p>Öffnungszeiten: täglich von 9.00-18.30 Uhr\, am Messesonntag
+  von 9.00-17.30 Uhr\, jeweils für Fachbesucher.</p>\n<p>Privatbesucher kön
+ nen nur am Messewochenende teilnehmen\, also Samstag von 9.00-18.30 Uhr un
+ d am Sonntag von 9.00-17.30 Uhr.</p>\n<p>Infos unter <a href='http://www.b
+ uchmesse.de/de/' target='_blank'>Frankfurter Buchmesse</a></p>\n<p> </p>
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151019
+GEO:+50.111992;+8.652248
+LOCATION:Frankfurt @ Ludwig-Erhard-Anlage 1\, 60327 Frankfurt\, Deutschland
+SEQUENCE:0
+SUMMARY:Frankfurter Buchmesse
+URL:http://amsyri.net/blog/Termin/frankfurter-buchmesse/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1679@amsyri.net
+DTSTAMP:20150920T002142Z
+CATEGORIES;LANGUAGE=de-DE:Messetermine
+CONTACT:
+DESCRIPTION:<p>Messe Trendset München</p>\n<p>Öffnungszeiten</p>\n<p>Sa. 9.
+ 00-18.00</p>\n<p>So. 9.00 – 18.00</p>\n<p>Mo. 9.00 – 17.00</p>\n<p>Info´s 
+ unter <a href='http://trendset.de' target='_blank'>http://trendset.de</a><
+ /p>
+DTSTART;VALUE=DATE:20160109
+DTEND;VALUE=DATE:20160112
+GEO:+48.134946;+11.691317
+LOCATION:Messe München @ Messesee\, 81829 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Trendset München
+URL:http://amsyri.net/blog/Termin/trendset-muenchen-2/
+X-TAGS;LANGUAGE=de-DE:Trendset
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-312@amsyri.net
+DTSTAMP:20150920T002142Z
+CATEGORIES;LANGUAGE=de-DE:Messetermine
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160212
+DTEND;VALUE=DATE:20160217
+GEO:+50.11218;+8.64515
+LOCATION:Messe Frankfurt @ Ludwig-Erhard-Anlage 1\, 60327 Frankfurt am Main
+ \, Deutschland
+SEQUENCE:0
+SUMMARY:Ambiente Frankfurt
+URL:http://amsyri.net/blog/Termin/ambiente-frankfurt/
+X-TAGS;LANGUAGE=de-DE:Ambiente
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1680@amsyri.net
+DTSTAMP:20150920T002142Z
+CATEGORIES;LANGUAGE=de-DE:Messetermine
+CONTACT:
+DESCRIPTION:<p>Messe Trendset München</p>\n<p>Öffnungszeiten</p>\n<p>Sa. 9.
+ 00-18.00</p>\n<p>So. 9.00 – 18.00</p>\n<p>Mo. 9.00 – 17.00</p>\n<p>Info´s 
+ unter <a href='http://trendset.de' target='_blank'>http://trendset.de</a><
+ /p>
+DTSTART;VALUE=DATE:20160709
+DTEND;VALUE=DATE:20160712
+GEO:+48.134946;+11.691317
+LOCATION:Messe München @ Messesee\, 81829 München\, Deutschland
+SEQUENCE:0
+SUMMARY:Trendset München
+URL:http://amsyri.net/blog/Termin/trendset-muenchen-2-2/
+X-TAGS;LANGUAGE=de-DE:Trendset
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//193.189.139.34//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://hfccracing.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1231@hfccracing.nl/wp
+DTSTAMP:20150920T002406Z
+CATEGORIES;LANGUAGE=nl-NL:HFCC Club wedstrijden
+CONTACT:info@hfccracing.nl\; http://hfccracing.nl
+DESCRIPTION:<p><strong>Deze datum is de tweede reserve datum indien 1 van d
+ e 6 ingeplande Clubwedstrijden niet door gaat</strong></p>\n<p>Start van d
+ e eerste Kwalificatie is om 10.00u</p>\n<p>De HFCC Club wedstrijden zijn o
+ pen voor iedere rijder.</p>\n<p>Er kan worden ingescheven voor de volgende
+  race klasses.</p>\n<ul>\n<li>Toerwagen Stock</li>\n<li>Mini*</li>\n<li>Fo
+ rmule 1</li>\n<li>Toerwagen Superstock</li>\n</ul>\n<p>€7\,50 voor Clubled
+ en ingeschreven via MyRCM<br />\n€12.50 voor gastrijders ingeschreven via 
+ MyRCM en Clubleden die niet vooraf hebben ingeschreven.<br />\n€15 voor ga
+ strijders die niet vooraf hebben ingeschreven.</p>\n<p>Inschrijven op Race
+  dag voor 9.00u!</p>\n<p>Ons wedstrijdreglement kan je <a title='Wedstrijd
+ reglement' href='http://hfccracing.nl/wedstrijden/wedstrijdreglement/' tar
+ get='_blank'>hier</a> vinden:</p>\n<p><span style='color: #141823\;'>Ieder
+ een die wil meerijden kan zich inschrijven via MyRCM:</span><br style='col
+ or: #141823\;' /><a style='color: #3b5998\;' href='http://www.myrcm.ch/myr
+ cm/main?pLa=nl&hId%5B1%5D=org&dId%5BO%5D=14156&dFi=HFCC' target='_blank' r
+ el='nofollow nofollow'>http://www.myrcm.ch/myrcm/main?pLa=nl&hId%5B1%5D=or
+ g&dId%5BO%5D=14156&dFi=HFCC</a></p>\n<p>* Indien er minimaal 4 inschrijvin
+ gen zijn voor deze klasse zal deze worden gereden.</p>\n<p> </p>\n<div cla
+ ss='sharedaddy sd-sharing-enabled'><div class='robots-nocontent sd-block s
+ d-social sd-social-icon-text sd-sharing'><h3 class='sd-title'>Delen:</h3><
+ div class='sd-content'><ul><li class='share-email'><a rel='nofollow' data-
+ shared='' class='share-email sd-button share-icon' href='http://hfccracing
+ .nl/inschrijven-voor-de-laatste-clubwedstrijd-buiten-20-september/?share=e
+ mail' target='_blank' title='Klik om dit te e-mailen naar een vriend'><spa
+ n>E-mail</span></a></li><li class='share-facebook'><a rel='nofollow' data-
+ shared='sharing-facebook-2473' class='share-facebook sd-button share-icon'
+  href='http://hfccracing.nl/inschrijven-voor-de-laatste-clubwedstrijd-buit
+ en-20-september/?share=facebook' target='_blank' title='Share op Facebook'
+ ><span>Facebook</span></a></li><li class='share-google-plus-1'><a rel='nof
+ ollow' data-shared='sharing-google-2473' class='share-google-plus-1 sd-but
+ ton share-icon' href='http://hfccracing.nl/inschrijven-voor-de-laatste-clu
+ bwedstrijd-buiten-20-september/?share=google-plus-1' target='_blank' title
+ ='Klik om op Google+ te delen'><span>Google</span></a></li><li class='shar
+ e-pinterest'><a rel='nofollow' data-shared='sharing-pinterest-2473' class=
+ 'share-pinterest sd-button share-icon' href='http://hfccracing.nl/inschrij
+ ven-voor-de-laatste-clubwedstrijd-buiten-20-september/?share=pinterest' ta
+ rget='_blank' title='Klik om op Pinterest te delen'><span>Pinterest</span>
+ </a></li><li class='share-pocket'><a rel='nofollow' data-shared='' class='
+ share-pocket sd-button share-icon' href='http://hfccracing.nl/inschrijven-
+ voor-de-laatste-clubwedstrijd-buiten-20-september/?share=pocket' target='_
+ blank' title='Klik om te delen op Pocket'><span>Pocket</span></a></li><li 
+ class='share-twitter'><a rel='nofollow' data-shared='sharing-twitter-2473'
+  class='share-twitter sd-button share-icon' href='http://hfccracing.nl/ins
+ chrijven-voor-de-laatste-clubwedstrijd-buiten-20-september/?share=twitter'
+  target='_blank' title='Klik om te delen via Twitter'><span>Twitter</span>
+ </a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=Europe/Amsterdam:20150920T080000
+DTEND;TZID=Europe/Amsterdam:20150920T170000
+GEO:+52.042701;+4.242863
+LOCATION:HFCC Racing Den Haag @ De Werf 64\, Zichtenburg\, 2544 EK Den Haag
+ \, Nederland
+SEQUENCE:0
+SUMMARY:Reserve datum 2 – Clubwedstrijd HFCC
+URL:http://hfccracing.nl/event/clubwedstrijd-reserve-2-2015/
+X-COST:€6 voor Clubleden ingeschreven via MyCRM
+END:VEVENT
+END:VCALENDAR

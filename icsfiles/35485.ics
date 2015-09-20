@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.62.48.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://cheney.scklf.info
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-316226@cheney.scklf.info
+DTSTAMP:20150920T002401Z
+CATEGORIES;LANGUAGE=en-US:Summer Reading Program
+CONTACT:Cheney Public Library\; (316) 542-3331\; cheneylibrary@gmail.com\; 
+ http://www.cheneypubliclibrary.org
+DESCRIPTION:<p>Join our Children’s Librarian\, Sara\, at the library for St
+ ory Time. This event is geared for preschool aged children\, but kids of a
+ ll ages are welcome. We have a fun time planned full of stories\, crafts\,
+  and snacks! Parents\, please stay at the library during Story Time.</p>\n
+ <p><strong><span style='color: #ff0000\;'>This activity has been cancelled
+ .  We apologize for the inconvenience.</span></strong></p>
+DTSTART;TZID=America/Chicago:20151006T100000
+DTEND;TZID=America/Chicago:20151006T110000
+GEO:+37.628079;-97.781556
+LOCATION:Cheney Public Library @ 203 North Main Street\, Cheney\, KS 67025\
+ , USA
+SEQUENCE:0
+SUMMARY:CANCELLED: Story Time
+URL:http://cheney.scklf.info/event/cancelled-story-time/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-213962@cheney.scklf.info
+DTSTAMP:20150920T002401Z
+CATEGORIES:
+CONTACT:Cheney Public Library\; (316) 542-3331\; cheneylibrary@gmail.com\; 
+ http://www.cheneypubliclibrary.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://cheney.scklf.info/wp-content/uploads/board-meeting-2-300x199.jpg' width
+ ='300' height='199' /></div><p>Library Board Meetings are open to the publ
+ ic. We welcome all visitors.</p>
+DTSTART;TZID=America/Chicago:20151013T180000
+DTEND;TZID=America/Chicago:20151013T200000
+EXDATE;TZID=America/Chicago:20140812T180000
+EXDATE;TZID=America/Chicago:20150811T180000
+GEO:+37.628079;-97.781556
+LOCATION:Cheney Public Library @ 203 North Main Street\, Cheney\, KS 67025\
+ , USA
+RRULE:FREQ=MONTHLY;INTERVAL=2;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:Board Meeting
+URL:http://cheney.scklf.info/event/board-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-218595@cheney.scklf.info
+DTSTAMP:20150920T002401Z
+CATEGORIES;LANGUAGE=en-US:Summer Reading Program
+CONTACT:Cheney Public Library\; (316) 542-3331\; cheneylibrary@gmail.com\; 
+ http://www.cheneypubliclibrary.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://cheney.scklf.info/wp-content/uploads/Storytime-300x88.jpg' width='300' 
+ height='88' /></div><p>Join our Children’s Librarian\, Sara\, at the libra
+ ry for Story Time. This event is geared for preschool aged children\, but 
+ kids of all ages are welcome. We have a fun time planned full of stories\,
+  crafts\, and snacks! Parents\, please stay at the library during Story Ti
+ me.</p>
+DTSTART;TZID=America/Chicago:20151020T100000
+DTEND;TZID=America/Chicago:20151020T110000
+EXDATE;TZID=America/Chicago:20150421T100000
+GEO:+37.628079;-97.781556
+LOCATION:Cheney Public Library @ 203 North Main Street\, Cheney\, KS 67025\
+ , USA
+RRULE:FREQ=MONTHLY;UNTIL=20151215T235959Z;BYDAY=3TU
+SEQUENCE:0
+SUMMARY:Story Time
+URL:http://cheney.scklf.info/event/story-time-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-213964@cheney.scklf.info
+DTSTAMP:20150920T002401Z
+CATEGORIES;LANGUAGE=en-US:Summer Reading Program
+CONTACT:Cheney Public Library\; (316) 542-3331\; cheneylibrary@gmail.com\; 
+ http://www.cheneypubliclibrary.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://cheney.scklf.info/wp-content/uploads/Storytime-300x88.jpg' width='300' 
+ height='88' /></div><p>Join our Children’s Librarian\, Sara\, at the libra
+ ry for Story Time. This event is geared for preschool aged children\, but 
+ kids of all ages are welcome. We have a fun time planned full of stories\,
+  crafts\, and snacks! Parents\, please stay at the library during Story Ti
+ me.</p>
+DTSTART;TZID=America/Chicago:20151103T100000
+DTEND;TZID=America/Chicago:20151103T110000
+EXDATE;TZID=America/Chicago:20151006T100000
+GEO:+37.628079;-97.781556
+LOCATION:Cheney Public Library @ 203 North Main Street\, Cheney\, KS 67025\
+ , USA
+RRULE:FREQ=MONTHLY;UNTIL=20151201T235959Z;BYDAY=1TU
+SEQUENCE:0
+SUMMARY:Story Time
+URL:http://cheney.scklf.info/event/story-time/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,440 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//145.131.10.50//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.britsoc.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-6389@www.britsoc.nl
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en-US:Britsoc sports
+CONTACT:Simon Lake\; golf@britsoc.nl
+DESCRIPTION:<h1>Amsterdam Expat Golf 2015 – British Society of Amsterdam</h
+ 1>\n<p><b><a href='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013
+ /08/Britsoc-Golf-logo-with-ball.jpg'><img class='alignleft size-medium wp-
+ image-9165' src='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013/0
+ 8/Britsoc-Golf-logo-with-ball.jpg?resize=300%2C188' alt='Britsoc-Golf-logo
+ -with-ball' data-recalc-dims='1' /></a></b></p>\n<p><b>About:</b><b> </b>T
+ hree morning tee times are being set for the 2015 season so join this very
+  social and international group of English speaking golf lovers for 18 hol
+ es and a drink or two after. <b>When: </b>Every Saturday or Sunday morning
+ \, played all through winter and summer. The core season used to be May th
+ rough September (as per the current event text)\, however we agreed additi
+ onal winter times with the club for Oct to Feb. <b>Where: </b>Golf Club de
+  Hoge Dijk (Olympus)\, Abcouderstraatweg 46\, Amsterdam Zuid (near the AMC
+  in Amsterdam Zuidoost) <b>Cost: – </b>approx. €60 – to be advised at star
+ t of season <b>Contact:  </b><span style='color: #000000\;'>Simon Lake and
+  </span>Liz Wen  <a href='mailto:britsocgolf@gmail.com'>britsocgolf@gmail.
+ com</a> <b>Registration required?  </b>Yes\, by Wednesday  for following w
+ eekend.  Include phone number and email. Places are on a first come\, firs
+ t served basis. Confirmation of your place\, day and tee time plus fees wi
+ ll be sent out Thursday morning. Confirmation is also sent to the Club and
+  cancellations must be registered with them and the above contact. Once re
+ gistered\, players are advised each Monday of following weekend schedule.<
+ /p>\n<p><a href='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013/0
+ 8/DSC_0068-raw.jpg'><img class='alignleft size-large wp-image-9166' src='h
+ ttp://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013/08/DSC_0068-raw.jpg
+ ?resize=940%2C529' alt='DSC_0068-raw' data-recalc-dims='1' /></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150919T080000
+DTEND;TZID=Europe/Amsterdam:20150919T130000
+GEO:+52.282831;+4.964588
+LOCATION:Golf Club de Hoge Dijk (Olympus) @ Abcouderstraatweg\, Zuidoost\, 
+ The Netherlands
+RRULE:FREQ=WEEKLY;BYDAY=SU,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Amsterdam Expat Golf 2015 – British Society of Amsterdam
+URL:http://www.britsoc.nl/event/britsoc-golf/
+X-COST:€60
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6395@www.britsoc.nl
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en-US:Britsoc sports
+CONTACT:Sharron Reed \; soft.tennis@britsoc.nl
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/www.britsoc.nl/wp-content/uploads/2013/01/Softtennis-4247_jpg
+ .jpg?fit=300%2C300' width='' height='' /></div><p>About:  Ever picked up a
+  racket?  Then you’ll be able to pick-up this Japanese version of lawn ten
+ nis (played outside if dry).  The game uses a lighter ball and more spin t
+ han regular tennis.</p>\n<p>Cost:</p>\n<p class='p1'>€ 6 (members)\; € 7 (
+ non-members)</p>\n<p>Contact Sharron for more information\, including free
+  swimming or sauna at the <span id='bc7ef003-6a04-46f1-b453-1c4543e250b9' 
+ class='GINGER_SOFTWARE_mark'><span id='8d35b42a-0afb-4f3e-9fa5-69c2b535c61
+ d' class='GINGER_SOFTWARE_mark'>centre</span></span>.</p>\n<h2>The Britsoc
+  Summer Tennis Tournament 2014</h2>\n<p>Dear everyone\,</p>\n<p>It has bee
+ n a while since we’ve had one\, so we have decided to <span id='f171716b-2
+ 67d-476b-a74d-8ba4594bdb0f' class='GINGER_SOFTWARE_mark'>organise</span> a
+  summer tennis tournament on Sunday August 3rd at Amstelpark/Spa Zuiver. T
+ imes to be confirmed but probably starting around midday and ending around
+  4/5pm.</p>\n<p>Can you please let me know if you are interested in playin
+ g. It will most likely take the form of the soft tennis tournament earlier
+  in the year\; mixed doubles playing with a different partner every time. 
+ As always\, there is the pool/sauna to use afterwards and of course the ba
+ r!</p>\n<p>Please forward the email onto anyone else you think might be in
+ terested.</p>\n<p>Thanks\,</p>\n<p>Interested? Reply <span id='1eda5a40-6e
+ b8-4051-b49e-ad5637c1cbff' class='GINGER_SOFTWARE_mark'>with</span> this e
+ mail link to <a href='mailto:browesn@gmail.com'>Natalie</a></p>
+DTSTART;TZID=Europe/Amsterdam:20150920T160000
+DTEND;TZID=Europe/Amsterdam:20150920T180000
+GEO:+52.331585;+4.853308
+LOCATION:Amstelpark Tennis Centre @ Koenenkade 8\, 1081 KH Amsterdam\, The 
+ Netherlands
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Soft Tennis
+URL:http://www.britsoc.nl/event/soft-tennis/
+X-COST:€ 6 (members)\; € 7 (non-members)
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6394@www.britsoc.nl
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en-US:Britsoc sports
+CONTACT:Paul Huxley \; squash@britsoc.nl
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/www.britsoc.nl/wp-content/uploads/2012/12/squash.jpg?fit=300%
+ 2C300' width='' height='' /></div><p><b>About:</b> For beginners to regula
+ rs\, our international group will be sure to provide you with a worthy opp
+ onent.  And after? Join fellow players when they meet up with the Tennis g
+ roup for drinks and food\, or enjoy the free after-game sauna or swimming.
+ </p>\n<p>Contact:  Paul Huxley <a href='mailto:squash@britsoc.nl'>squash@b
+ ritsoc.nl</a></p>\n<p>Schedule: Every Tuesday\, 19.30 – 21.00</p>\n<p>Loca
+ tion:  Amstelpark Squash\, Koenenkade 8\, 1081 KH Amsterdam</p>\n<p>020 30
+ 10702</p>\n<p>Cost:  Maximum 10 Euros for members\, 12 Euros for none memb
+ ers</p>\n<p><b>Registration required?  </b>If you are new\, yes please</p>
+DTSTART;TZID=Europe/Amsterdam:20150922T193000
+DTEND;TZID=Europe/Amsterdam:20150922T210000
+GEO:+52.331585;+4.853308
+LOCATION:Amstelpark Squash @ Koenenkade 8\, 1081 KH Amsterdam\, Netherlands
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:SQUASH
+URL:http://www.britsoc.nl/event/squash/
+X-COST:Maximum 10 Euros for members\, 12 Euros for none members
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6388@www.britsoc.nl
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en-US:Britsoc sports
+CONTACT:Geoff Dudley   \; tennis@britsoc.nl
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i1.wp.com/www.britsoc.nl/wp-content/uploads/2012/12/Andy-Murrayv2.jpg?f
+ it=300%2C300' width='' height='' /></div><p><b>About:  </b>A great opportu
+ nity for all levels to try out their moves against different opponents.  A
+ fter our games\, many of us meet up with the squash group to <span id='841
+ d6855-6509-4fbe-af4d-6e94fc6cd21b' class='GINGER_SOFTWARE_mark'><span id='
+ a1ef1023-30c4-406e-9d2f-e0f8cdd2c8cd' class='GINGER_SOFTWARE_mark'>sociali
+ se</span></span> over drinks and a bite to eat. <b>When:</b> Every Tuesday
+ \, 20.00-21.00 from April <b>Where:  </b>Amstelpark Squash (courts 17 & 18
+ )\,  Koenenkade 8\, 1081 KH Amsterdam (020 3010702) <b>Cost:  € 7 (members
+ )\; € 8 (non-members).</b></p>\n<p><b>Contact:  </b>Geoff Dudley:  <a href
+ ='mailto:tennis@britsoc.nl'>tennis@britsoc.</a><a href='mailto:tennis@brit
+ soc.nl'>nl</a><b>     </b></p>\n<p><b>Registration</b><b></b><b></b> <b>re
+ quired?  </b>If you are new\, yes please</p>
+DTSTART;TZID=Europe/Amsterdam:20150922T200000
+DTEND;TZID=Europe/Amsterdam:20150922T210000
+LOCATION:Amstelpark @ Koenenkade 8\, 1081 KH Amsterdam\, The Netherlands
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:TENNIS
+URL:http://www.britsoc.nl/event/tennis/
+X-COST:€ 7 (members)\; € 8 (non-members)
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6390@www.britsoc.nl
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en-US:Britsoc sports
+CONTACT:David Pollack \; badmin2@britsoc.nl
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i0.wp.com/www.britsoc.nl/wp-content/uploads/2012/12/IMG_0662.jpg?fit=30
+ 0%2C300' width='' height='' /></div><p><b>About:  </b>Beginners and regula
+ rs are welcome to join us for some fast action Badminton. We have a regula
+ r booking on the first two courts each week and usually end the evening wi
+ th drinks and snacks upstairs.  We can supply shuttles and rackets if need
+ ed.</p>\n<p><b>When:</b> Every Wednesday  (Aug – mid–May)\,  20.00-23.00</
+ p>\n<p><b>Where: </b>Sporthal de Pijp\, Lizzy Ansinghstraat 88\, 1072 RD A
+ msterdam</p>\n<p><b>Cost:  </b> One-off for whole season – €90 for BritSoc
+  members\, €100 non-members.</p>\n<p><b>Contact: David Pollack</b>  <a hre
+ f='mailto:badmin2@britsoc.nl'>badmin2@britsoc.nl</a></p>\n<p><a href='http
+ ://www.facebook.com/groups/britsoc/'>http://www.facebook.com/groups/britso
+ c/</a></p>\n<p><b>Registration required?  </b>If you are new\, yes please<
+ /p>
+DTSTART;TZID=Europe/Amsterdam:20150923T200000
+DTEND;TZID=Europe/Amsterdam:20160608T230000
+GEO:+52.349518;+4.893204
+LOCATION:Sporthal de Pijp @ Lizzy Ansinghstraat 88\, 1072 RD Amsterdam\, Th
+ e Netherlands
+RRULE:FREQ=WEEKLY;UNTIL=20160518T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Evening Badminton
+URL:http://www.britsoc.nl/event/evening-badminton/
+X-COST:One-off for whole season – €90 for BritSoc members\, €100 non-member
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6396@www.britsoc.nl
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en-US:Britsoc Events
+CONTACT:Mark Ligtenstein\; 035-8878034\; bridge@britsoc.nl
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i0.wp.com/www.britsoc.nl/wp-content/uploads/2012/12/Bridge.jpg?fit=300%
+ 2C300' width='' height='' /></div><p><b>About: </b> It may not be for Brid
+ ge masters\, but it’s definitely for those who are enthusiastic and enjoy 
+ the game in a relaxed and social atmosphere.</p>\n<p><b>When: </b>Every Th
+ ursday (occasionally Wednesdays)\, 19.30 – 22.30  (register by Tuesday pri
+ or to joining)</p>\n<p><b>Cost:  </b>Participants are asked to bring a bot
+ tle and some nibbles to help the evening flow.</p>\n<p><b>Contact</b>: Mar
+ k <span id='08601015-89a5-4fa6-912b-5d86119825fa' class='GINGER_SOFTWARE_m
+ ark'>Ligtenstein</span>.  035-8878034 <a href='mailto:ruthmax84@yahoo.com'
+ ><br />\n</a></p>\n<p><b>Registration required?  </b>If you are new\, yes 
+ please – by Tuesday prior.</p>
+DTSTART;TZID=Europe/Amsterdam:20150924T193000
+DTEND;TZID=Europe/Amsterdam:20150924T223000
+LOCATION:Mark Ligtenstein
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Bridge
+URL:http://www.britsoc.nl/event/bridge/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8635@www.britsoc.nl
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en-US:Britsoc Events
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i1.wp.com/www.britsoc.nl/wp-content/uploads/2014/08/agm-flyer2015.jpg?f
+ it=300%2C300' width='' height='' /></div><h1>AGM Minutes 2015</h1>\n<p> </
+ p>\n<h3>Annual General Meeting<br />\nBritish Society of Amsterdam<br />\n
+ Held at the Bilderberg Garden Hotel\, Amsterdam<br />\n4th September 2014\
+ , commencing at 20.00</h3>\n<p><strong>Present:</strong> Nick Nugent\, Ben
+ jamin + Leigh-Ann Arthur\, Gillian Brooks\, Stephen Huyton\, Alison Smith\
+ , William Tweddle\, John Richardson\, Craig + Naomi Douglas\, Mike Wardrop
+ per\, John Cameron-Webb\, Ian Cherington\, Duncan Peacock. .</p>\n<p><stro
+ ng>Apologies:</strong> received from Kirsten Pyle\, Katherine\, D. Brody\,
+  Christine Hodgson\, Ann Fiorentini\, Mark Colinson\, Trevor Cox\, Andy Sy
+ mmonds\, Charles Stolworthy</p>\n<p><strong>Proxies</strong><br />\nThere 
+ were no written proxies received. Notice of attendance circulated.</p>\n<p
+ ><strong>Agenda</strong><br />\nThere were no exceptions to the agenda\, s
+ o it was adopted for the meeting.</p>\n<p><strong>Minutes of the Annual Ge
+ neral Meeting</strong><strong> held on 27th November 2013</strong><br />\n
+ There were no objections to the minutes\, which were therefore taken as re
+ ad.</p>\n<p><strong>Annual Report from the Chairman – Ian Cherington.</str
+ ong></p>\n<p>Ian’s first AGM as New Chairman\, time of change!</p>\n<p>It’
+ s been a good year!</p>\n<p>The Chairman gave a vote of thanks to:</p>\n<u
+ l>\n<li>John Cameron-Webb</li>\n<li>“Zine” team – Alison\, John\, Andy and
+  Benjamin</li>\n<li>Website – John</li>\n<li>Duncan and Kirsten</li>\n<li>
+ Geoff Dudley (Sailing)</li>\n<li>Sharon (tennis + soft tennis)</li>\n<li>J
+ an</li>\n<li>Craig and Naomi</li>\n<li>William and Mike</li>\n<li>Paul Hux
+ ley (Shakespeare’s birthday\, squash and stand-up)</li>\n<li>Rupert</li>\n
+ <li>Craig and Naomi for the bonfire</li>\n<li>Simon and Liz for the golf.<
+ /li>\n<li>Tracey (social Fridays and the Blind Date)</li>\n<li>Stephen for
+  his help generally</li>\n<li>Elizabeth and Margaret for the Burns night</
+ li>\n<li>David Raleigh for the expatica fair</li>\n<li>William & Mike (Tre
+ asurers)</li>\n<li>Nick (Last years’ xmas ball)</li>\n</ul>\n<p><b>How goo
+ d a year was it? </b></p>\n<p>One measurement is in the numbers from the B
+ ritsoc website:</p>\n<ul>\n<li>100\,563 page visits between 10/08/2013 and
+  17/08/2014</li>\n<li>Unique visits 30463</li>\n<li>First time visits 2722
+ 5</li>\n<li>Average daily page views 131</li>\n</ul>\n<p>Another is the fi
+ gures for ‘Zine</p>\n<ul>\n<li>Lifetime statistics from October 2012</li>
+ \n<li>10051 reads overall</li>\n<li>The best month was Feb 2014 with 591 r
+ eads and 15386 impressions.</li>\n</ul>\n<p>Stephen asked whether these nu
+ mbers were being used. John replied that a booklet was being produced to u
+ se with advertisers. He also added that Britsoc figures were “high quality
+ ” hits from the perspective.</p>\n<p><strong>Financial figures – more deta
+ ils later:</strong></p>\n<ul>\n<li>Made a EUR 3000 surplus</li>\n<li>Membe
+ rship down 12 to 111 people overall\, but it\\s up and down during the yea
+ r.</li>\n<li>Notably at the expatica fair there were 15 members added – we
+  will have a stand again this year.</li>\n</ul>\n<p>Bonfire Night</p>\n<ul
+ >\n<li>Great success – 350 people. Great weather\, compliments from many.<
+ /li>\n<li>Some trouble with nesting bats that are causing trouble again th
+ is year.</li>\n</ul>\n<p>Xmas ball & Dinner</p>\n<ul>\n<li>140 people at b
+ all incl. 35 members. Relationship with Chris Nailor and NH hotels going w
+ ell.</li>\n<li>Also managed to track down the missing charity (EUR 3000) p
+ ayment from Black Tower from a previous year.</li>\n</ul>\n<p>Burns night<
+ /p>\n<ul>\n<li>Big success selling out again. Altered venue caused no prob
+ lem with the dancing</li>\n<li>EUR 1700 profit on the bar.</li>\n</ul>\n<p
+ >Shakespeare’s Birthday</p>\n<ul>\n<li>Event in new venue in Amsterdam was
+  a success. Paul Greenwood wants us back.</li>\n<li>Broke even</li>\n</ul>
+ \n<p>Pub Night</p>\n<ul>\n<li>Sadly ended due to lack of interest.</li>\n<
+ /ul>\n<p>Blind date</p>\n<ul>\n<li>Was a great success again.</li>\n</ul>
+ \n<p>Standup night</p>\n<ul>\n<li>Around 15 – 20 people attended.</li>\n<l
+ i>Will try it again</li>\n</ul>\n<p>Sporting Clubs</p>\n<ul>\n<li>Tennis b
+ roke even – there was a blip but it’s now popular again.</li>\n<li>Squash 
+ is always popular although there may be a problem with the venue. The cour
+ ts may close down and contract issues. May stay but not certain.</li>\n<li
+ >Golf – Ian spoke to Liz about her not being a member. Result is that Simo
+ n has taken over.</li>\n<li>Badminton – Craig said that Laura wants to be 
+ replaced and pays up front herself at the moment. Agreement to talk to her
+  about it.</li>\n<li>Bridge still going</li>\n<li>Sailing as popular as ev
+ er.</li>\n</ul>\n<p>Storage space</p>\n<ul>\n<li>New warm/dry storage spac
+ e with BoRent.</li>\n<li>Managed to even get a better deal.</li>\n</ul>\n<
+ p> </p>\n<p><b>Future events:</b></p>\n<p>Relationships</p>\n<ul>\n<li>Wil
+ l build relationships to get value for members</li>\n<li>Hard Rock Cafe wi
+ ll likely sponsor a magazine or event</li>\n<li>International School remai
+ ns a strong sponsor</li>\n<li>NH Hotels/Chris Nailor</li>\n<li>Marks and S
+ pencers.</li>\n</ul>\n<p>Bonfire Night</p>\n<ul>\n<li>M&S confirmed sponso
+ rship of Bonfire night – 2500EUR and will supply food.</li>\n<li>Chris Nai
+ lor and his sous chef will help flipping burgers</li>\n<li>9<sup>th</sup> 
+ November</li>\n</ul>\n<p>Xmas ball replaced by dinner</p>\n<ul>\n<li>Chris
+  Nailor offered a 5 course Milchelin starred meal for EUR120</li>\n<li>Wil
+ l be open initially to members only</li>\n<li>13<sup>th</sup> December</li
+ >\n</ul>\n<p>In summary – it was a good year. Better if not bigger!</p>\n<
+ p> </p>\n<p> </p>\n<p><b>Treasurers Report and approval of the accounts fo
+ r the Year ending 30 June 2014</b></p>\n<ul>\n<li>Membership fee income ha
+ s declined by EUR 1.4K to EUR 3.4K (fully paid up members fell by 10 to 11
+ 1).</li>\n<li>Advertising income increased by EUR 0.8K to EUR 6K.</li>\n<l
+ i>Bulletin expenses now decreased by EUR2K to zero as Zine is produced on 
+ a voluntary basis.</li>\n<li>Admin costs increased from EUR 2K to EUR 3.3K
+  partly as a result of the sponsorship of a British School even and some c
+ osts listed here used to be combined in with the bulletin costs.</li>\n<li
+ >Website costs decreased by EUR 1.8K to EUR 5.5K. The upgrade in 2013 now 
+ leaving the figures.</li>\n<li>Income from activities had a surplus of EUR
+  2.1K from the loss of -0.2K  last year – all events either showed an incr
+ eased surplus or deceased loss.</li>\n<li>In total\, there was a surplus f
+ or the year of EUR 3.1K\, in comparison to a loss in 2013 of EUR 0.9K.</li
+ >\n<li>Cash balances increased from EUR 39K (31.0K in 2013) including abou
+ t 4K donations from the Xmas ball that need to be distributed (some since 
+ done).</li>\n</ul>\n<p>A discussion followed on the Bonfire night.</p>\n<u
+ l>\n<li>Stephen mentioned the big increase in permit costs.</li>\n<li>Gill
+ ian mentioned that is was mostly non-members\, even 50% of volunteers.</li
+ >\n<li>Craig and John to talk about selling membership next to the bonfire
+  night tickets on the website.</li>\n<li>Nick also had the idea of produci
+ ng a questionaire on Britsoc to see what people might want from membership
+ .</li>\n</ul>\n<p>Report Approved</p>\n<p><b>Election of Officers</b></p>
+ \n<p style='padding-left: 30px\;'>JCW dissolved the committee and proposed
+  Ian to continue as Chairman. The new committee was elected:</p>\n<ul>\n<l
+ i>Ian Cherington – Chairman</li>\n<li>William Tweddle – Treasurer with Mik
+ e Wardropper as auditor</li>\n<li>Gillian Brooks – Membership Secretary</l
+ i>\n<li>Kirsten Pyle – Secretary (Duncan)</li>\n<li>John Richardson – Webm
+ aster</li>\n<li>Andy Symmonds – Marketing and advertising</li>\n<li>Tracey
+  Taylor – Committee member</li>\n<li>Nick Nugent- Committee member</li>\n<
+ li>Stephen Huyton- Committee member</li>\n<li>Zine team – Alison Smith wil
+ l stand down as Bulletin Editor after December/Jan but will continue to be
+  involved.</li>\n</ul>\n<p style='padding-left: 60px\;'>– John Richardson 
+ will take over in conjunction with Dave Thomas.</p>\n<p style='padding-lef
+ t: 60px\;'>– Benjamin Arthur</p>\n<p><b>Any Other Business</b></p>\n<p>Joh
+ n Cameron Web mentioned that he intended to re-start the history tour of A
+ msterdam in wartime. Note that it is the 70<sup>th</sup> anniversary of Ar
+ nhem and this will be commenorated on the 19<sup>th</sup> or 20<sup>th</su
+ p> of September.</p>\n<p>He also mentioned that he was intending to start 
+ a folk club in a upstairs room at the Anglican church</p>\n<p>Gillian aske
+ d about the response for the Ties-nt link on the website. John said he had
+  no figures\, but the link didn’t work anyway so he’s remove it.</p>\n<p>J
+ ohn asked about the official address of the Britsoc. It turns out to be th
+ e current secretaries address.</p>\n<p>Benjamin asked about how we choose 
+ charities for the Britsoc Ball. Ian replied that there was always one loca
+ l and one internation charity chosen.</p>\n<p><strong>Ian closed the meeti
+ ng.</strong></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>———————-</p>\n<h1>NOTIC
+ E of the</h1>\n<h1>Annual General Meeting</h1>\n<h1>Thursday\, 24th Septem
+ ber 2015</h1>\n<p> </p>\n<p>Bilderberg Garden Hotel\, Dijsselhofplantsoen 
+ 7\, 1077BJ Amsterdam</p>\n<p>AGENDA</p>\n<p>NOTICE is hereby given that th
+ e Annual General Meeting of The British Society of Amsterdam will be held 
+ on Thursday\, 24<sup>th</sup> September at 19.30\, at which the following 
+ business will be conducted and resolved upon:</p>\n<h3></h3>\n<ol>\n<li>Op
+ ening address by the Chairman\, Ian Cherington</li>\n<li>Notice of attenda
+ nce and submission of written proxies</li>\n<li>Adoption of agenda</li>\n<
+ li>Approval of the minutes of the Annual General Meeting held on 4th  Sept
+ ember 2014</li>\n<li>Chairman’s Annual Report</li>\n<li>Treasurer’s report
+  and approval of the accounts for the year ending 30 June 2015</li>\n<li>A
+ ppointment of the Auditors for next year’s accounts</li>\n<li>Election of 
+ Committee Members</li>\n<li>Any Other Business</li>\n</ol>\n<p> </p>\n<p>—
+ —————————————</p>\n<p>ANNUAL GENERAL MEETING FORM OF PROXY</p>\n<p>I\, ___
+ _______________________________________ (name in full)\, being a Full Memb
+ er of the British Society of Amsterdam\, appoint the following person to v
+ ote on my behalf at the Annual General Meeting on 24th<sup>th</sup> Septem
+ ber 2015.</p>\n<p>Nominated person (Committee Members standing for electio
+ n or re-election are not eligible).</p>\n<p>( ) Ian Cherington\, Chairman<
+ /p>\n<p>( )<b> </b>William Tweddle\, Treasurer</p>\n<p>( ) Gillian Brooks\
+ , Membership Secretary</p>\n<p>( ) Kirsten Pyle\, Secretary</p>\n<p>( ) Jo
+ hn Richardson\, Webmaster</p>\n<p>( )  Andy Symmonds\, Marketing & Adverti
+ sing</p>\n<p>( )  Members: Nick Nugent\, Stephen Huyton</p>\n<p>( ) Others
+ </p>\n<p>NOTE: Only Full Members of the Society have the right to vote at 
+ this meeting\, however Associate Members and prospective members may atten
+ d the meeting.   A Full Member is allowed to appoint a proxy to attend or 
+ vote on his/her behalf.  A copy of the Statutes of the Society\, Rules and
+  Bye-laws are available on request from the Secretary.  This proxy form sh
+ ould be returned by 20th<sup>h</sup> September 2015<i> </i>to:</p>\n<p>AGM
+  Votes</p>\n<p>British Society of Amsterdam</p>\n<p>P O Box 7429</p>\n<p>1
+ 007 JK Amsterdam</p>\n<p> </p>\n<h2>Downloads</h2>\n<p><a href='http://www
+ .britsoc.nl/wp-content/uploads/2014/08/2015-AGM-Agenda-and-Notice.doc'>201
+ 5 AGM Agenda and Notice</a></p>\n<p><a href='http://www.britsoc.nl/wp-cont
+ ent/uploads/2014/08/AGM-Minutes-2014.doc'>AGM Minutes 2014</a></p>\n<p> </
+ p>
+DTSTART;TZID=Europe/Amsterdam:20150924T193000
+DTEND;TZID=Europe/Amsterdam:20150924T213000
+GEO:+52.351117;+4.874076
+LOCATION:Bilderberg Garden Hotel @ Dijsselhofplantsoen 7\, 1077 BJ Amsterda
+ m\, The Netherlands
+SEQUENCE:0
+SUMMARY:Britsoc Annual General Meeting 2015
+URL:http://www.britsoc.nl/event/britsoc-annual-general-meeting-2015/
+X-COST:Free. Members Only Event
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6593@www.britsoc.nl
+DTSTAMP:20150920T002123Z
+CATEGORIES;LANGUAGE=en-US:Bonfire Night\,Britsoc Events
+CONTACT:Craig Douglas\; bonfirenight@douglas-ventures.com\; http://www.brit
+ soc.nl
+DESCRIPTION:<h1><strong>Bonfire Night 2015</strong></h1>\n<p><strong>Firewo
+ rks | Bonfire BBQ | Refreshments</strong></p>\n<h4><strong>Guy Fawkes Comp
+ etition bring your own Guy for the fire</strong></h4>\n<div class='biginfo
+ pane eat-left eat-right' style='color:#ffffff !important'><div class='inne
+ r'><div class='text-block text-bright'><div class='text-block-title'>Bonfi
+ re Night Tickets</div>Tickets on sale NOW at www.britsocshop.nl</div><div 
+ class='button-block'><a href='http://www.britsocshop.nl/event/bonfire-nigh
+ t-2015/'>Buy Here</a></div></div></div>\n<h4></h4>\n<p><strong>Last year i
+ n pictures</strong></p>\n<div class='portfolio-shortcode eat-left eat-righ
+ t'><div class='eat-outer-margins'><div class='portfolio-wrapper'><div clas
+ s='portfolio-thumb block-3 show-hover-link'>\n				<div class='pic block-h-2'><
+ img src='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2014/11/BON_88
+ 57.jpg?resize=480%2C328' class='attachment-portfolio-thumb wp-post-image' 
+ alt='BON_8857' />\n				</div>\n				<div class='desc block-h-1'>\n					<div class='title
+ '>Bonfire Night 2014</div>\n					<div class='tags'><a href='http://www.britsoc.
+ nl/portfolio-type/bonfire_night/' rel='tag'>Bonfire Night</a>\, <a href='h
+ ttp://www.britsoc.nl/portfolio-type/bonfire-night-2014/' rel='tag'>Bonfire
+  Night 2014</a></div>\n				</div>\n				<a href='http://www.britsoc.nl/portfolio/bo
+ nfire-night-2014/' class='link'><span class='after'></span></a>\n			</div><di
+ v class='clear'></div></div></div></div>\n<p><strong>SAFETY</strong></p>\n
+ <div class=''>For everybody’s safety and enjoyment\, the bonfire and firew
+ orks are kept very much apart.</div>\n<div class=''>Children can really en
+ joy the bonfire experience and be quite some distance from the fireworks.<
+ /div>\n<div class=''>Which are professionally controlled by experts at a g
+ iven time in the evening.</div>\n<div class=''></div>\n<div class=''>The f
+ ireworks are set off at a specific time at a safe distance from the childr
+ en in the middle of the lake.</div>\n<div class=''>We are expecting over 5
+ 00/600 adults and their children so we have considered their safety in gre
+ at detail.</div>\n<div class=''>Each child is given a box of small sparkle
+ rs upon entrance to the event\, but apart from these no fireworks come any
+ where near the children.</div>\n<div class=''>\n<p> </p>\n<p><strong>Limit
+ ed Parking Available</strong></p>\n<p><strong>Tram 1 or 17 to Piet Wiendij
+ kstraat</strong></p>\n</div>\n<div class=''></div>
+DTSTART;TZID=Europe/Amsterdam:20151108T160000
+DTEND;TZID=Europe/Amsterdam:20151108T200000
+GEO:+52.360324;+4.815909
+LOCATION:Watersportscentrum Sloterplas  @ Christoffel Plantijngracht 4\, 10
+ 65 DA Amsterdam\, The Netherlands
+SEQUENCE:0
+SUMMARY:Bonfire Night Sun Nov 8\, 2015
+URL:http://www.britsoc.nl/event/bonfire-night-sun-nov-8/
+X-COST:Under 14s free\,  members €5\, non-members €10
+X-TICKETS-URL:http://www.britsocshop.nl/event/bonfire-night-2015/
+END:VEVENT
+END:VCALENDAR

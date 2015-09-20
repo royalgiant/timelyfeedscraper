@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//89.238.151.235//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.wrightvigar.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4617@www.wrightvigar.co.uk
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Events\,Shows
+CONTACT:01636 894056\; http://www.collinghamshow.com/index.html
+DESCRIPTION:<p>Wright Vigar are delighted to be supporting the annual Colli
+ ngham Show and Ploughing Match. Just on the edge of the county of Nottingh
+ amshire\, the award-winning village of Collingham is the perfect setting f
+ or a traditional\, country show.</p>\n<p>Held on the third Saturday in Sep
+ tember\, Collingham Show is now in its 164th year and proving as popular a
+ s ever. From vintage vehicles to livestock\, bouncy castles to tug of war\
+ , as well as trade stands\, refreshments and horse and pony classes\, ther
+ e really is something for everyone!</p>\n<p>Attracting crowds of 3\,500- 4
+ \,000 each year\, Collingham Show is definitely worth a visit – and we inv
+ ite you to pop by our ring-side stand to say hello!</p>\n<p> </p>
+DTSTART;TZID=Europe/London:20150919T080000
+DTEND;TZID=Europe/London:20150919T160000
+GEO:+53.12319;-0.728093
+LOCATION:Larksfield @ Newark Road\, United Kingdom
+SEQUENCE:0
+SUMMARY:SHOW – Collingham Show and Ploughing Match
+URL:http://www.wrightvigar.co.uk/event/show-collingham-show-and-ploughing-m
+ atch-3/
+X-COST:£6 for adults\, £5 for OAP's\, £4 for children 13 yrs and under
+X-TICKETS-URL:http://www.collinghamshow.com/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2185@www.wrightvigar.co.uk
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Events\,Networking
+CONTACT:info@lincolnbusinessclub.co.uk\; http://www.lincolnbusinessclub.co.
+ uk/
+DESCRIPTION:<p>Team members from Wright Vigar are delighted to support this
+  fabulous monthly networking event – why not pop along and join us\, and m
+ eet lots of great businesses – and its only £3 on the door!</p>
+DTSTART;TZID=Europe/London:20150925T070000
+DTEND;TZID=Europe/London:20150925T090000
+EXDATE;TZID=Europe/London:20131122T070000
+EXDATE;TZID=Europe/London:20140124T070000
+EXDATE;TZID=Europe/London:20140522T070000
+EXDATE;TZID=Europe/London:20140821T070000
+EXDATE;TZID=Europe/London:20150123T070000
+EXDATE;TZID=Europe/London:20150522T070000
+EXDATE;TZID=Europe/London:20150724T070000
+EXDATE;TZID=Europe/London:20151023T070000
+EXDATE;TZID=Europe/London:20151225T070000
+EXDATE;TZID=Europe/London:20160122T070000
+GEO:+53.227552;-0.538873
+LOCATION:The Trust Suite\, Lincoln City Football Club @ Sincil Bank\, Linco
+ ln\, Lincoln LN5 7ET\, UK
+RRULE:FREQ=MONTHLY;BYDAY=4FR
+SEQUENCE:0
+SUMMARY:NETWORKING – Lincoln Business Club
+URL:http://www.wrightvigar.co.uk/event/networking-lincoln-business-club-2/
+X-COST:£3.00 on the door
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4618@www.wrightvigar.co.uk
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Events\,Shows
+CONTACT:01159 633654\; info@southwellploughingmatch.co.uk\; http://www.sout
+ hwellploughingmatch.co.uk/
+DESCRIPTION:<p>Members of the Wright Vigar Agricultural Team will be attend
+ ing Southwell Show and Ploughing Match this year.  Why not pop along on th
+ e day – there’s lots to do and see – entrance is only £6 (in advance) or £
+ 7.50 (on the gate) for adults and children under 14 go free!</p>\n<p> </p>
+DTSTART;TZID=Europe/London:20150926T073000
+DTEND;TZID=Europe/London:20150926T170000
+GEO:+53.055051;-1.057894
+LOCATION:Oxton Estate @ Oxton\, Southwell\, Nottinghamshire NG25 0RJ\, UK
+SEQUENCE:0
+SUMMARY:SHOW – Southwell Show and Ploughing Match
+URL:http://www.wrightvigar.co.uk/event/show-southwell-show-and-ploughing-ma
+ tch-2/
+X-COST:Advanced Tickets £6 each
+X-TICKETS-URL:http://www.southwellploughingmatch.co.uk/tickets/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2157@www.wrightvigar.co.uk
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Events\,Networking
+CONTACT:Newark Business Club\; http://www.newarkbusinessclub.co.uk/
+DESCRIPTION:<p>Team members from Wright Vigar are delighted to support this
+  fabulous monthly networking event – why not pop along and join us\, and m
+ eet lots of great businesses – and its only £5 on the door!</p>\n<p><a hre
+ f='http://www.wrightvigar.co.uk/wp-content/uploads/2014/02/Newark-Business
+ -Club-Logo.png'><img class='alignnone size-medium wp-image-3136' src='http
+ ://www.wrightvigar.co.uk/wp-content/uploads/2014/02/Newark-Business-Club-L
+ ogo-300x72.png' alt='Newark Business Club Logo' width='300' height='72' />
+ </a></p>
+DTSTART;TZID=Europe/London:20151002T070000
+DTEND;TZID=Europe/London:20151002T090000
+EXDATE;TZID=Europe/London:20150102T070000
+EXDATE;TZID=Europe/London:20160101T070000
+GEO:+53.079106;-0.792882
+LOCATION:Everyday Champions Centre @ Brunel Business Park\, Jessop Close\, 
+ Northern Road Industrial Estate\, Newark\, Nottinghamshire NG24 2AG\, UK
+RRULE:FREQ=MONTHLY;BYDAY=1FR
+SEQUENCE:0
+SUMMARY:NETWORKING – Newark Business Club
+URL:http://www.wrightvigar.co.uk/event/networking-newark-business-club/
+X-COST:£5 on the door
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4715@www.wrightvigar.co.uk
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:Aleksandra Tusien\; 01522 508750\; aleksandra.tusien@langleys.com
+DESCRIPTION:<p>Team members from Wright Vigar are delighted to support this
+  fabulous monthly networking event – why not pop along and join us\, and m
+ eet lots of great businesses.</p>\n<p>The event is only £12.50 on the door
+  and you are treated to a delicious full english breakfast whilst you lear
+ n a little more about the guests you are sat with.</p>
+DTSTART;TZID=Europe/London:20151007T073000
+DTEND;TZID=Europe/London:20151007T093000
+GEO:+53.393625;-0.573039
+LOCATION:Hemswell Court @ Lancaster Green\, Hemswell Cliff\, Gainsborough\,
+  Lincolnshire DN21 5TQ\, UK
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:NETWORKING – Gainsborough Business Breakfast Club
+URL:http://www.wrightvigar.co.uk/event/networking-gainsborough-business-bre
+ akfast-club/
+X-COST:12.50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2155@www.wrightvigar.co.uk
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Events\,Networking
+CONTACT:Lincoln Business Club\; info@lincolnbusinessclub.co.uk\; http://www
+ .lincolnbusinessclub.co.uk/
+DESCRIPTION:<p>Team members from Wright Vigar are delighted to support this
+  fabulous monthly networking event – why not pop along and join us\, and m
+ eet lots of great businesses – and its only £3 on the door!</p>\n<p> </p>
+DTSTART;TZID=Europe/London:20151030T070000
+DTEND;TZID=Europe/London:20151030T090000
+LOCATION:The Trust Suite\, Lincoln City Football Club @ Sincil Bank\, Linco
+ ln LN5 7ET\, UK
+RRULE:FREQ=MONTHLY;BYDAY=5FR
+SEQUENCE:0
+SUMMARY:NETWORKING – Lincoln Business Club
+URL:http://www.wrightvigar.co.uk/event/networking-lincoln-business-club/
+X-COST:£3 on the door
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5134@www.wrightvigar.co.uk
+DTSTAMP:20150920T002125Z
+CATEGORIES;LANGUAGE=en-US:Events\,Shows
+CONTACT:Jenny Stone\; 01529 301971\; events@communitylincs.com\; http://com
+ munitylincs.com/lincolnshire-womens-enterprise-day/
+DESCRIPTION:<p>Wright Vigar are delighted to have a stand at the first Linc
+ olnshire Women’s Enterprise Day at Belton Woods Hotel on Tuesday 17 Novemb
+ er 2015.</p>\n<p>If you’re looking for inspiration and practical help to g
+ row\, or perhaps start\, your business in the company of over 200 local en
+ terprising women\, then join us for a day of inspiration\, expert guidance
+  and the opportunity to connect with other like-minded women in a warm sup
+ portive atmosphere.</p>\n<p>The Enterprise Day will adopt a ‘pick and mix’
+  format to enable delegates to create a day of activities that meets their
+  business and personal objectives.</p>\n<p>Click <a href='http://www.wrigh
+ tvigar.co.uk/wp-content/uploads/2015/09/Women-and-Enterprise-Conference-In
+ vitation.pdf' target='_blank'>here</a> for more information – it promises 
+ to be a fantastic day celebrating women in business.</p>\n<p> </p>
+DTSTART;TZID=Europe/London:20151117T081500
+DTEND;TZID=Europe/London:20151117T170000
+GEO:+52.94318;-0.627104
+LOCATION:Belton Woods Hotel @ Belton\, Grantham\, Lincolnshire NG32 2LN\, U
+ K
+SEQUENCE:0
+SUMMARY:SHOW – Lincolnshire Women’s Enterprise Day
+URL:http://www.wrightvigar.co.uk/event/show-lincolnshire-womens-enterprise-
+ day/
+X-COST:£45.00 Including lunch
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//45.33.115.180//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.austinags.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-8321@www.austinags.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Upcoming Events
+CONTACT:
+DESCRIPTION:<p>Can’t make it to Kyle Field to see the Aggies BTHO Nevada? J
+ oin fellow Aggies at Third Base South Park Meadows! Be sure and get there 
+ early for good seating at the Capital City A&M Club (CCAMC) Watch Party!</
+ p>\n<p>Representatives from the CCAMC & Talk 1370 AM – 3 Guys Sports Show 
+ will be hosting the Aggie Watch Party at Third Base Sports Bar South Park 
+ Meadows! There will prizes & drawings throughout the watch party. Third Ba
+ se South Park Meadows will offer discount to CCAMC Members with wrist band
+ s!</p>\n<p>Want to watch the game but can’t make the trip to South Austin?
+  Third Base Northwest (13301 US 183\, Bldg E\, Austin\, TX 78750) has you 
+ covered. Accept Facebook event for the Third Base Northwest location by Fr
+ iday before the game. Reserved seating for Aggies will be based on number 
+ of folks who accepted the Northwest Watch Party invite!</p>\n<p>Gig’em!</p
+ >
+DTSTART;TZID=America/Chicago:20150919T110000
+GEO:+30.159754;-97.794143
+LOCATION:Third Base Sports Bar - Southpark Meadows @ 9600 S I-35\, Austin\,
+  TX 78748\, USA
+SEQUENCE:0
+SUMMARY:Aggie Watch Party – Texas A&M vs Nevada
+URL:http://www.austinags.org/event/aggie-watch-party-texas-am-vs-nevada/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8298@www.austinags.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Upcoming Events
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.austinags.org/wp-content/uploads/2015/09/haymaker-300x300.jpg' widt
+ h='300' height='300' /></div><p>Come join us for our monthly happy hour at
+  <strong>Haymaker</strong> on <span style='text-decoration: underline\;'><
+ strong>Thursday\, September 24th</strong></span> from 5:30 – 7:30 pm!</p>
+ \n<p>Also\, thanks to Brown Distributing we will be giving a free Anheuser
+ -Busch beer of your choice to the first 20 people who attend – so be sure 
+ to come early!</p>\n<p>Haymaker is located at 2310 Manor Rd\, Austin\, TX 
+ 78722.</p>
+DTSTART;TZID=America/Chicago:20150924T173000
+DTEND;TZID=America/Chicago:20150924T193000
+GEO:+30.2848;-97.717602
+LOCATION:Haymaker @ 2310 Manor Road\, Austin\, TX 78722\, USA
+SEQUENCE:0
+SUMMARY:September Happy Hour
+URL:http://www.austinags.org/event/september-happy-hour/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8250@www.austinags.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Past Events\,Professional Programs\,Upcoming Even
+ ts
+CONTACT:Brian Reynolds\; 512-569-2059\; brian@briansellsaustinhomes.com
+DESCRIPTION:<p> </p>\n<p><a href='http://www.austinags.org/wp-content/uploa
+ ds/2015/09/coffee-cup-300x211-e1441811670102.jpg'><img class='wp-image-829
+ 2 size-medium aligncenter' src='http://www.austinags.org/wp-content/upload
+ s/2015/09/coffee-cup-300x211-300x211.jpg' alt='coffee-cup-300x211' width='
+ 300' height='211' /></a></p>\n<p>Are you new to the greater Austin area an
+ d want to get connected to local Austin area Aggies? Are you an Austin are
+ a Aggie doing business in and around Austin? There is now a great way to b
+ uild and expand your personal and professional network by attending the Ca
+ pital City A&M Club’s (CCA&MC) Reveille Group breakfast meetings.</p>\n<p>
+ Reveille Group is part of the CCA&MC and its purpose is to provide an even
+ t for establishing and expanding connections between and among Aggies in t
+ he greater Austin business community. The principal purpose of each meetin
+ g is for Aggies to meet other Aggies and to begin the process of establish
+ ing connections for mutual benefit.</p>\n<p>Whether you are looking to exp
+ and your business\, looking for your next career opportunity\, or looking 
+ for talented people\, you will always benefit by developing and extending 
+ your personal and professional network. Having a broad network of people f
+ rom a variety of business perspectives is one of the surest ways to build 
+ almost any business. Why not have the core of your business network made u
+ p of Austin area Aggies so that each of us can help each other build our b
+ usinesses in a mutually beneficial way.</p>\n<p>Please join us for a great
+  start to your day…Aggies doing business with other Aggies!</p>
+DTSTART;TZID=America/Chicago:20151014T070000
+DTEND;TZID=America/Chicago:20151014T081500
+GEO:+30.265236;-97.781155
+LOCATION:IHOP @ 1101 South MoPac Expressway\, Austin\, TX 78746\, USA
+RRULE:FREQ=MONTHLY;COUNT=6;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:Reveille Group Breakfast
+URL:http://www.austinags.org/event/reveille-group-breakfast/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8343@www.austinags.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Professional Programs\,Upcoming Events
+CONTACT:Eric Foster\; 903-227-6480\; eric.foster@onesourcenetworks.com
+DESCRIPTION:<p>Branigan has been involved in the acquisition\, disposition 
+ and debt financing of more than 30 corporate and property-level commercial
+  real estate transactions. Currently\, he is an investment<a href='https:/
+ /www.austinags.org/wp-content/uploads/2015/09/0801377.jpg'><img class='siz
+ e-medium wp-image-8344 alignright' src='https://www.austinags.org/wp-conte
+ nt/uploads/2015/09/0801377-300x300.jpg' alt='0801377' width='300' height='
+ 300' /></a> professional at Cielo Property Group\, where he handles deal s
+ ourcing\, valuation\, and financing for acquisitions and development. Prio
+ r to joining Cielo\, Branigan led acquisitions at WCCG\, where closed over
+  $300 million in acquisitions comprising 3.9 million square feet.</p>\n<p>
+ Previously\, Branigan worked in the Real Estate Investment Banking group a
+ t Bank of America Merrill Lynch where he helped raise $8.4 Billion for cli
+ ents in the public markets and also provided M&A advice to clients.</p>\n<
+ p>Additionally\, Branigan served four years as an infantry officer in the 
+ United States Marine Corps where he achieved the rank of Captain after com
+ pleting two deployments in support of Operation Iraqi Freedom. Branigan ho
+ lds an MBA from the University of Virginia’s Darden School of Business and
+  a B.A. from Texas A&M University. He is an active member of ULI\, ICSC an
+ d CNU.</p>\n<hr />\n<p><strong>Date:<br />\n</strong>Thursday\, July 16\, 
+ 2015</p>\n<p><strong>Time:</strong><br />\n11:30 Registration / Networking
+ <br />\n12:00 Program begins / Lunch is served<br />\n1:00   Program Ends<
+ /p>\n<p><strong>Location:<br />\n</strong>The Headliner’s Club<br />\n221 
+ West 6th Street<br />\n21st Floor<br />\nAustin\, TX 78701</p>\n<p><strong
+ >Dress:</strong><br />\nBusiness / Business Casual</p>
+DTSTART;TZID=America/Chicago:20151022T113000
+DTEND;TZID=America/Chicago:20151022T130000
+GEO:+30.268408;-97.745072
+LOCATION:Headliner's Club @ 221 W 6th St\, Austin\, TX 78701\, USA
+SEQUENCE:0
+SUMMARY:Reveille Distinguished Speaker Series – Branigan Mulcahy\, VP of Ac
+ quisitions at Cielo Property Group
+URL:http://www.austinags.org/event/october-reveille-distinguished-speaker-s
+ eries-branigan-mulcahy-vp-of-acquisitions-at-cielo-property-group/
+X-COST:$35
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8336@www.austinags.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Upcoming Events
+CONTACT:
+DESCRIPTION:<p>Join us for our October Happy Hour on Thursday\, October 22n
+ d from 5:30 – 7:30 pm!</p>\n<p>Location coming soon!</p>
+DTSTART;TZID=America/Chicago:20151022T173000
+DTEND;TZID=America/Chicago:20151022T193000
+SEQUENCE:0
+SUMMARY:October Happy Hour
+URL:http://www.austinags.org/event/october-happy-hour/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8261@www.austinags.org
+DTSTAMP:20150920T002131Z
+CATEGORIES;LANGUAGE=en-US:Upcoming Events
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.austinags.org/wp-content/uploads/2015/09/cam-jobs-street-sign-clip-
+ art-300x225.jpg' width='300' height='225' /></div><p>Whether you are happy
+  in your current employment\, actively looking to make a switch\, or a bus
+ iness owner looking to hire….learn from the pros!</p>\n<p>A panel of Aggie
+  headhunters and HR professionals from different industries will help you 
+ get ready for your next big opportunity!</p>
+DTSTART;TZID=America/Chicago:20151022T173000
+DTEND;TZID=America/Chicago:20151022T193000
+LOCATION:TBD
+SEQUENCE:0
+SUMMARY:Save the Date: Aggie Professional Development Panel
+URL:http://www.austinags.org/event/save-the-date-aggie-professional-develop
+ ment-seminar-and-networking/
+END:VEVENT
+END:VCALENDAR

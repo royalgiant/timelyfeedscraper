@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Open Dental Community | Real cases, Real experience, Real mistakes</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<link rel="pingback" href="http://open-dental-community.org/xmlrpc.php">
+
+<!--[if lt IE 9]>
+<script src="http://open-dental-community.org/wp-content/themes/zerif-lite/js/html5.js"></script>
+<link rel="stylesheet" href="http://open-dental-community.org/wp-content/themes/zerif-lite/css/ie.css" type="text/css">
+<![endif]-->
+
+			<style type="text/css">
+									</style>
+	<link rel="alternate" type="application/rss+xml" title="Open Dental Community &raquo; Feed" href="http://open-dental-community.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Open Dental Community &raquo; Comments Feed" href="http://open-dental-community.org/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Open Dental Community &raquo; iCal Feed" href="http://open-dental-community.org/education/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/open-dental-community.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://open-dental-community.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fts-feeds-css'  href='http://open-dental-community.org/wp-content/plugins/feed-them-social/feeds/css/styles.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fts-popup-css'  href='http://open-dental-community.org/wp-content/plugins/feed-them-social/feeds/css/magnific-popup.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='http://open-dental-community.org/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.2.57' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_font-awesome-css'  href='http://open-dental-community.org/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_mCustomScrollbar-css'  href='http://open-dental-community.org/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css?ver=1.2.57' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gallery-style-css'  href='http://open-dental-community.org/wp-content/plugins/wc-gallery/includes/css/style.css?ver=1.47' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gallery-popup-style-css'  href='http://open-dental-community.org/wp-content/plugins/wc-gallery/includes/css/magnific-popup.css?ver=0.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gallery-flexslider-style-css'  href='http://open-dental-community.org/wp-content/plugins/wc-gallery/includes/vendors/flexslider/flexslider.css?ver=2.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gallery-owlcarousel-style-css'  href='http://open-dental-community.org/wp-content/plugins/wc-gallery/includes/vendors/owlcarousel/assets/owl.carousel.css?ver=2.0.0-beta.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gallery-owlcarousel-theme-style-css'  href='http://open-dental-community.org/wp-content/plugins/wc-gallery/includes/vendors/owlcarousel/assets/owl.theme.default.css?ver=2.0.0-beta.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='inbound-shortcodes-css'  href='http://open-dental-community.org/wp-content/plugins/landing-pages//shared/shortcodes/css/frontend-render.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='zerif_font-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C400italic%7CMontserrat%3A700%7CHomemade+Apple&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='zerif_font_all-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%2C600italic%2C600%2C700%2C700italic%2C800%2C800italic&#038;ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='zerif_bootstrap_style-css'  href='http://open-dental-community.org/wp-content/themes/zerif-lite/css/bootstrap.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='zerif_fontawesome-css'  href='http://open-dental-community.org/wp-content/themes/zerif-lite/css/font-awesome.min.css?ver=v1' type='text/css' media='all' />
+<link rel='stylesheet' id='zerif_pixeden_style-css'  href='http://open-dental-community.org/wp-content/themes/zerif-lite/css/pixeden-icons.css?ver=v1' type='text/css' media='all' />
+<link rel='stylesheet' id='zerif_style-css'  href='http://open-dental-community.org/wp-content/themes/zerif-lite/style.css?ver=v1' type='text/css' media='all' />
+<link rel='stylesheet' id='zerif_responsive_style-css'  href='http://open-dental-community.org/wp-content/themes/zerif-lite/css/responsive.css?ver=v1' type='text/css' media='all' />
+<script type='text/javascript' src='http://open-dental-community.org/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var inbound_settings = {"post_id":"379","variation_id":"0","ip_address":"96.49.32.169","wp_lead_data":{"lead_id":null,"lead_email":null,"lead_uid":null},"admin_url":"http:\/\/open-dental-community.org\/wp-admin\/admin-ajax.php","track_time":"2015\/09\/20 0:21:20","post_type":"post","page_tracking":"on","search_tracking":"on","comment_tracking":"on","custom_mapping":[],"inbound_track_exclude":"","inbound_track_include":"","is_admin":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/landing-pages//shared/assets/js/frontend/analytics/inboundAnalytics.min.js?ver=4.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ftsAjax = {"ajaxurl":"http:\/\/open-dental-community.org\/wp-admin\/admin-ajax.php"};
+var ftsAjax = {"ajaxurl":"http:\/\/open-dental-community.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/feed-them-social/admin/js/admin.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/feed-them-social/feeds/js/magnific-popup.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/photo-gallery/js/bwg_frontend.js?ver=1.2.57'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/photo-gallery/js/jquery.mobile.js?ver=1.2.57'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.2.57'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js?ver=1.2.57'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://open-dental-community.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://open-dental-community.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<script type="text/javascript">
+var myAjaxFTS = 'http://open-dental-community.org/wp-admin/admin-ajax.php';
+</script>
+<script type="text/javascript">
+var myAjaxFTS = 'http://open-dental-community.org/wp-admin/admin-ajax.php';
+</script>
+
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/wp-spamshield/js/jscripts.php'></script> 
+
+</head>
+
+
+
+
+	<body class="home blog tribe-bar-is-disabled group-blog" >
+
+
+
+
+
+<!-- =========================
+
+   PRE LOADER
+
+============================== -->
+
+
+<header id="home" class="header">
+
+	<div id="main-nav" class="navbar navbar-inverse bs-docs-nav" role="banner">
+
+		<div class="container">
+
+			<div class="navbar-header responsive-logo">
+
+				<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+
+				<span class="sr-only">Toggle navigation</span>
+
+				<span class="icon-bar"></span>
+
+				<span class="icon-bar"></span>
+
+				<span class="icon-bar"></span>
+
+				</button>
+
+
+
+				<a href="http://open-dental-community.org/" class="navbar-brand"><img src="http://open-dental-community.org/wp-content/uploads/2013/10/open_dental_community_logo-e1381912892400.png" alt="Open Dental Community"></a>
+
+
+			</div>
+
+			<nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation"   id="site-navigation">
+
+				<ul id="menu-menu-1" class="nav navbar-nav navbar-right responsive-nav main-nav-list"><li id="menu-item-84" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-84"><a href="http://open-dental-community.org/">Home</a></li>
+<li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="http://open-dental-community.org/members/">Members</a></li>
+<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="http://open-dental-community.org/education/">Education</a></li>
+<li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="http://open-dental-community.org/projects/">Projects</a></li>
+<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="http://open-dental-community.org/networking/">Networking</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://open-dental-community.org/gallery/">Gallery</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://open-dental-community.org/contacts/">Contacts</a></li>
+</ul>
+			</nav>
+
+		</div>
+
+	</div>
+
+	<!-- / END TOP BAR -->
+
+
+<div class="header-content-wrap"><div class="container"></div></div><!-- .header-content-wrap --><div class="clear"></div>
+
+</header> <!-- / END HOME SECTION  -->
+
+
+<div id="content" class="site-content">
+
+
+
+<section class="focus" id="focus"><div class="container">	<!-- SECTION HEADER -->	<div class="section-header">		<!-- SECTION TITLE -->					</div>	<div class="row">						<div class="textwidget">
+<p style="font-family: serif; font-size: 16px; line-height: 24px;">
+	<span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:16px;">The Open Dental Community (ODC) unites the independent dentists who are interested&nbsp;in the self-development and aims to share their ideas with the world community.</span></span>
+</p>
+
+<p style="font-family: serif; font-size: 16px; line-height: 24px;">
+	<br />
+	<span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:24px;"><span data-mce-style="color: #00aeef;" style="color: rgb(0, 174, 239);">The ODC is the space free of stereotypes.</span></span></span>
+</p>
+
+<p style="font-family: serif; font-size: 16px; line-height: 24px;">
+	<span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:16px;">It gives a chance to each of the members to present&nbsp;his ideas and to be heard by a wide audience.</span></span>
+</p>
+
+<p style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 16px; line-height: 24px;">
+	<span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:24px;"><span style="color:#00aeef;">Who determines the development of the dentistry today &ndash;&nbsp;doctor or manufacturer?</span></span><br />
+	<br />
+	This question has become rather popular last years. Obviously not only the science&nbsp;and experience but also the marketing play an important role in the modern dental evolution.<br />
+	But is it correct?<br />
+	The dental implantology has became the first direction of the ODC activities.&nbsp;The ODC scientific team has elaborated the criterions of the evaluation of the initial clinical&nbsp;situations. Based on these criterions the clinical cases have been grouped and organized in the<br />
+	classification. 40 typical cases have been determined and for each of the cases the optimal&nbsp;protocol of the implant treatment has been established. In the treatment protocols 3 types of&nbsp;dental implants are used &ndash; rootform, compressive and basal. These types of&nbsp;implants have&nbsp;been chosen because they are recognized as the most efficient on the basis of the long-term&nbsp;global studies, observations and experience. As the result the following problem has appeared.&nbsp;</span>
+</p>
+
+<p style="font-family: serif; font-size: 16px; line-height: 24px;">
+	<span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:16px;">In fact the majority of the dental specialists are planning the treatment based on the implant&nbsp;system they use, that means on the protocol, proposed by the manufacturer. So there is the&nbsp;reason to say that the dentists who use the implant system of the unique manufacturer are&nbsp;originally limited in their choice.<br />
+	The Open Dental Community aspire to draw attention to the current situation. The possible&nbsp;solution can be the consolidation of the most efficient concepts of the dental implantology in&nbsp;the one implant system.<br />
+	By this way The Open Dental Community aims to present the independent doctors opinions&nbsp;and ideas, and promote an original way of thinking which should help to find an objective and&nbsp;efficient treatment protocol.</span></span>
+</p>
+
+<img class="alignnone wp-image-29 size-full alignright" src="http://open-dental-community.org/wp-content/uploads/2015/09/OPDECO.png" alt="OPDECO stamp" width="100" height="100" /><br/>
+</div>
+			</div></div> <!-- / END CONTAINER --></section>  <!-- / END FOCUS SECTION -->
+	</div><!-- .site-content -->
+
+<footer id="footer">
+
+<div class="container">
+
+
+
+	<div class=" company-details"><div class="icon-top red-text"></div> Open Dental Community © 2015</div><div class=" copyright"><ul class="social"><li><a target="_blank" href="https://www.facebook.com/opendentalcommunity/"><i class="fa fa-facebook"></i></a></li></ul><div class="zerif-copyright-box"> </div></div>
+</div> <!-- / END CONTAINER -->
+
+</footer> <!-- / END FOOOTER  -->
+
+
+
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/open-dental-community.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/themes/zerif-lite/js/bootstrap.min.js?ver=20120206'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/themes/zerif-lite/js/jquery.knob.js?ver=20120206'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/themes/zerif-lite/js/smoothscroll.js?ver=20120206'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/themes/zerif-lite/js/scrollReveal.js?ver=20120206'></script>
+<script type='text/javascript' src='http://open-dental-community.org/wp-content/themes/zerif-lite/js/zerif.js?ver=20120206'></script>
+
+
+
+</body>
+
+</html>

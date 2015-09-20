@@ -1,0 +1,460 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//80.247.235.225//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.technikart.com
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-18532@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:http://dleditions.com/2015/05/26/dude-manifesto-de-thierry-theolier
+ /
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/dude-manifesto-couverture
+ -image-15-mai-2015-300x210.jpg' width='300' height='210' /></div><p><a hre
+ f='http://bit.ly/1LAry3A' target='_blank'>http://bit.ly/1LAry3A</a></p>\n<
+ li id='pixlikes' class='share-item pixlikes-box likes-box liked '  data-id
+ ='10609' >\n	<div class='share-item__icon like-link'><i class='pixcode pixc
+ ode--icon icon-e-heart  circle  small'></i></div>\n	<div class='share-item_
+ _value likes-count  likes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20150919T100000
+DTEND;TZID=Europe/Paris:20150919T123000
+GEO:+49.090045;+0.595218
+LOCATION:Librairie Associative Le Rouge et le Noir @ 22 Rue Gaston Folloppe
+ \, 27300 Bernay\, France
+SEQUENCE:0
+SUMMARY:Dédicace du Dude Manifesto en Haute-Normandie (véridique)
+URL:http://www.technikart.com/event/dedicace-du-dude-manifesto-en-haute-nor
+ mandie-veridique/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18508@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:+33 6 32 38 17 42\; http://www.lagaleriechoregraphique.eu/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/capture-decran-2015-09-17
+ -a-14.46.21-300x199.png' width='300' height='199' /></div><p><strong>Réser
+ ve ta place :</strong> <a href='http://bit.ly/1NzETh0' target='_blank'>htt
+ p://bit.ly/1NzETh0</a></p>\n<li id='pixlikes' class='share-item pixlikes-b
+ ox likes-box liked '  data-id='10609' >\n	<div class='share-item__icon like
+ -link'><i class='pixcode pixcode--icon icon-e-heart  circle  small'></i></
+ div>\n	<div class='share-item__value likes-count  likes-text'>0</div>\n</li
+ >
+DTSTART;TZID=Europe/Paris:20150919T120000
+DTEND;TZID=Europe/Paris:20150919T234500
+GEO:+43.207364;+2.364747
+LOCATION:la Cour du Château de Carcassonne @ 6 Rue du Tresau\, 11000 Carcas
+ sonne\, France
+SEQUENCE:0
+SUMMARY:“Tempest” performance audiovisuelle de Franck Vigroux et Antoine Sc
+ hmitt Festival HORIZON PARALLÈLE
+URL:http://www.technikart.com/event/festival-horizon-parallele-franck-vigro
+ ux-en-guest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18269@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:01 80 48 49 81\; contact@petitbain.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/capture-decran-2015-09-14
+ -a-13.08.04-300x110.png' width='300' height='110' /></div><p><a href='http
+ ://www.technikart.com/delicieuse-musique-w-studio-barnhus-art-of-tones-3x2
+ /' target='_blank'>http://www.technikart.com/delicieuse-musique-w-studio-b
+ arnhus-art-of-tones-3×2/</a></p>\n<p><strong>Pour gagner ta place particip
+ e avec un <em>like</em> sur cet article\, partage-le sur ton mur Facebook 
+ et envoie ton nom et prénom à <a href='mailto:romana.lemay@gmail.com'>roma
+ na.lemay@gmail.com</a></strong></p>\n<li id='pixlikes' class='share-item p
+ ixlikes-box likes-box liked '  data-id='10609' >\n	<div class='share-item__
+ icon like-link'><i class='pixcode pixcode--icon icon-e-heart  circle  smal
+ l'></i></div>\n	<div class='share-item__value likes-count  likes-text'>0</d
+ iv>\n</li>
+DTSTART;TZID=Europe/Paris:20150919T230000
+DTEND;TZID=Europe/Paris:20150920T060000
+GEO:+48.834823;+2.377186
+LOCATION:Petit Bain @ Port de la Gare\, 75013 Paris\, France
+SEQUENCE:0
+SUMMARY:Delicieuse Musique w/ Studio Barnhus & Art Of Tones  3×2
+URL:http://www.technikart.com/event/delicieuse-musique-w-studio-barnhus-art
+ -of-tones-3x2/
+X-COST:13\,80€
+X-TICKETS-URL:http://bit.ly/1J2Crt4
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18526@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:01 48 06 50 70\; contact@badaboum.paris\; http://badaboum.paris/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/11952770_544657915685971_
+ 5713410570610238706_o-300x200.jpg' width='300' height='200' /></div><p><st
+ rong>Jeux-concours :</strong> <a href='http://bit.ly/1QkosEx' target='_bla
+ nk'>http://bit.ly/1QkosEx</a></p>\n<li id='pixlikes' class='share-item pix
+ likes-box likes-box liked '  data-id='10609' >\n	<div class='share-item__ic
+ on like-link'><i class='pixcode pixcode--icon icon-e-heart  circle  small'
+ ></i></div>\n	<div class='share-item__value likes-count  likes-text'>0</div
+ >\n</li>
+DTSTART;TZID=Europe/Paris:20150919T233000
+DTEND;TZID=Europe/Paris:20150920T060000
+GEO:+48.853601;+2.375779
+LOCATION:BADABOUM @ 2B Rue des Taillandiers\, 75011 Paris\, France
+SEQUENCE:0
+SUMMARY:[CLUB] Chic Miniature (live) + SuCré SaLé / [APPART] Lundi Bleu  2×
+ 2
+URL:http://www.technikart.com/event/club-chic-miniature-live-sucre-sale-app
+ art-lundi-bleu-2x2/
+X-COST:15€
+X-TICKETS-URL:http://www.residentadvisor.net/event.aspx?741221
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18396@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:01 40 36 55 65\; hello@glazart.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/11951456_941479402574411_
+ 910623431938778229_o-300x211.jpg' width='300' height='211' /></div><p><a h
+ ref='http://bit.ly/1idtEiu' target='_blank'>http://bit.ly/1idtEiu</a></p>
+ \n<p><strong>Event facebook</strong> <a href='https://www.facebook.com/eve
+ nts/1635840723340215' target='_blank'>https://www.facebook.com/events/1635
+ 840723340215</a></p>\n<p> </p>\n<li id='pixlikes' class='share-item pixlik
+ es-box likes-box liked '  data-id='10609' >\n	<div class='share-item__icon 
+ like-link'><i class='pixcode pixcode--icon icon-e-heart  circle  small'></
+ i></div>\n	<div class='share-item__value likes-count  likes-text'>0</div>\n
+ </li>
+DTSTART;TZID=Europe/Paris:20150923T190000
+DTEND;TZID=Europe/Paris:20150924T060000
+GEO:+48.8993;+2.38693
+LOCATION:LaPlage de Glazart @ 15 Avenue de la Porte de la Villette\, 75019 
+ Paris\, France
+SEQUENCE:0
+SUMMARY:2×2 4 ans de Midnight Special Records : Michelle Blades + Malvina M
+ einier + Jalousie (Gazza)
+URL:http://www.technikart.com/event/2x2-4-ans-de-midnight-special-records-m
+ ichelle-blades-malvina-meinier-jalousie-gazza/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15600@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:01 40 34 02 48\; http://www.pointephemere.org/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/06/885647_932993563389026_28
+ 7601303275444452_o-259x300.png' width='259' height='300' /></div><p><span 
+ class='fsl'><strong>RAPPEL SEN†INEL</strong> : <span style='color: #ff0000
+ \;'>Tous les jeudis Dj set de Thierry Théolier avec une fois par mois des 
+ invités : DJs\, artistes\, selectors\, journalistes\, gonzos\, dudes de la
+  playlist dansante ou personnages de la Nuit. La porte de la grande salle 
+ s’ouvre et c’est… l’Enfer</span><br />\n</span></p>\n<li id='pixlikes' cla
+ ss='share-item pixlikes-box likes-box liked '  data-id='10609' >\n	<div cla
+ ss='share-item__icon like-link'><i class='pixcode pixcode--icon icon-e-hea
+ rt  circle  small'></i></div>\n	<div class='share-item__value likes-count  
+ likes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20150924T210000
+DTEND;TZID=Europe/Paris:20150924T234500
+GEO:+48.881228;+2.368141
+LOCATION:Point Éphémère @ 200 Quai de Valmy\, 75010 Paris\, France
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:SEN†INEL @Point Éphémère
+URL:http://www.technikart.com/event/warm-up-th-th/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15965@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:http://www.mackimusicfestival.fr/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/06/1622887_846441788750765_8
+ 82880068177997763_n-300x113.png' width='300' height='113' /></div><p><a hr
+ ef='http://www.technikart.com/macki-music-festival-2015/' target='_blank'>
+ http://www.technikart.com/macki-music-festival-2015/</a></p>\n<li id='pixl
+ ikes' class='share-item pixlikes-box likes-box liked '  data-id='10609' >
+ \n	<div class='share-item__icon like-link'><i class='pixcode pixcode--icon 
+ icon-e-heart  circle  small'></i></div>\n	<div class='share-item__value lik
+ es-count  likes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20150925T120000
+DTEND;TZID=Europe/Paris:20150927T234500
+GEO:+48.911292;+2.178685
+LOCATION:Parc De La Mairie De Carrières-sur-Seine @ Carrières-sur-Seine\, F
+ rance
+SEQUENCE:0
+SUMMARY:Macki Music Festival 2015
+URL:http://www.technikart.com/event/macki-music-festival-2015/
+X-COST:PASS 1 JOUR / 37\,80 € -  PASS 2 JOURS '1st price' / 54 €
+X-TICKETS-URL:http://www.mackimusicfestival.fr/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18232@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:http://www.digitick.com/les-1-an-du-plan-concert-le-plan-gs-c-ris-o
+ rangis-25-septembre-2015-css5-leplan-pg101-ri3282172.html\; http://leplan.
+ com/home/event/les-1-an-du-plan/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/capture-decran-2015-09-09
+ -a-13.09.01-200x300.png' width='200' height='300' /></div><p><a href='http
+ ://www.technikart.com/les-1-an-du-plan-3x2/' target='_blank'>http://www.te
+ chnikart.com/les-1-an-du-plan-3×2/</a></p>\n<li id='pixlikes' class='share
+ -item pixlikes-box likes-box liked '  data-id='10609' >\n	<div class='share
+ -item__icon like-link'><i class='pixcode pixcode--icon icon-e-heart  circl
+ e  small'></i></div>\n	<div class='share-item__value likes-count  likes-tex
+ t'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20150925T200000
+DTEND;TZID=Europe/Paris:20150926T060000
+GEO:+48.637888;+2.403002
+LOCATION:Le Plan @ 1 Avenue Louis Aragon\, 91130 Ris-Orangis\, France
+SEQUENCE:0
+SUMMARY:Les 1 an du Plan 3×2
+URL:http://www.technikart.com/event/les-1-an-du-plan-3x2/
+X-COST:tarif réduit : 10€ - tarif plein : 20€
+X-TICKETS-URL:http://www.digitick.com/les-1-an-du-plan-concert-le-plan-gs-c
+ -ris-orangis-25-septembre-2015-css5-leplan-pg101-ri3282172.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-17748@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:01 46 36 07 07\; resa@labellevilloise.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/08/11731723_844080412339663_
+ 7982069315423300802_o-300x111.jpg' width='300' height='111' /></div><p><st
+ rong>Pour gagner ta place participe avec un <em>like</em> sur cet article\
+ , partage-le sur ton mur Facebook et envoie ton nom et prénom à</strong> <
+ a href='mailto:romana.lemay@gmail.com'>romana.lemay@gmail.com</a></p>\n<p>
+ <a href='http://www.technikart.com/2x1-release-the-groove-the-4th-birthday
+ -part-ii-w-esg-live-pierre-wax/' target='_blank'>http://www.technikart.com
+ /2×1-release-the-groove-the-4th-birthday-part-ii-w-esg-live-pierre-wax/</a
+ ></p>\n<li id='pixlikes' class='share-item pixlikes-box likes-box liked ' 
+  data-id='10609' >\n	<div class='share-item__icon like-link'><i class='pixc
+ ode pixcode--icon icon-e-heart  circle  small'></i></div>\n	<div class='sha
+ re-item__value likes-count  likes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20150930T190000
+DTEND;TZID=Europe/Paris:20151001T230000
+GEO:+48.868325;+2.39198
+LOCATION:La Bellevilloise Ménilmontant @ 21 Rue Boyer\, 75020 Paris\, Franc
+ e
+SEQUENCE:0
+SUMMARY:2×1 RELEASE THE GROOVE // THE 4TH BIRTHDAY PART II w/ ESG (LIVE)\, 
+ PIERRE WAX
+URL:http://www.technikart.com/event/2x1-release-the-groove-the-4th-birthday
+ -part-ii-w-esg-live-pierre-wax/
+X-COST:17\,50 €
+X-TICKETS-URL:http://www.digitick.com/rtg-the-4th-birthday-part-ii-w-e-s-g-
+ live-concert-la-bellevilloise-paris-30-septembre-2015-css4-digitick-pg101-
+ ri3351730.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18475@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:dinguedepop@gmail.com\; http://lefrenchpop.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/11754530_1015122468532133
+ _8883126675326973888_o-300x111.jpg' width='300' height='111' /></div><p>Je
+ ux-concours : <a href='http://bit.ly/1LxFKdH' target='_blank'>http://bit.l
+ y/1LxFKdH</a></p>\n<p>VENIR AU FESTIVAL</p>\n<p>‣ HERETIC CLUB<br />\n58 r
+ ue du Mirail – Bordeaux – Ligne tram B : Arrêt « Victoire »<br />\n‣ I.BOA
+ T<br />\nQuai Armand Lalande Bassin à flots n°1 – Bordeaux – Ligne tram B 
+ : Arrêt «Bassin à flôts»<br />\n‣ ROCHER DE PALMER<br />\n1\, rue Aristide
+  Briand – Cenon – Ligne tram A : arrêt «Buttinière» ou «Palmer»</p>\n<li i
+ d='pixlikes' class='share-item pixlikes-box likes-box liked '  data-id='10
+ 609' >\n	<div class='share-item__icon like-link'><i class='pixcode pixcode-
+ -icon icon-e-heart  circle  small'></i></div>\n	<div class='share-item__val
+ ue likes-count  likes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20151001T210000
+DTEND;TZID=Europe/Paris:20151003T060000
+GEO:+44.837789;-0.57918
+LOCATION:French Pop Festival @ Bordeaux\, France
+SEQUENCE:0
+SUMMARY:French Pop Bordeaux 2015
+URL:http://www.technikart.com/event/french-pop-bordeaux-2015/
+X-COST:De 5€ à 13 €
+X-TICKETS-URL:http://bit.ly/1KiFT6Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18281@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:+33 (0)1 45 15 07 17\; http://www.jimifestivaldemarne.org/index.php
+ ?mt=contact&m=9
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/capture-decran-2015-09-14
+ -a-14.33.42.png' width='275' height='163' /></div><p><a href='http://www.t
+ echnikart.com/jimi-festivaldemarne-2015-3x2-pour-les-9-et-10-octobre/' tar
+ get='_blank'>http://www.technikart.com/jimi-festivaldemarne-2015-3×2-pour-
+ les-9-et-10-octobre/</a></p>\n<p><strong>Pour gagner ta place participe av
+ ec un <em>like</em> sur cet article\, partage-le sur ton mur Facebook et e
+ nvoie ton nom et prénom à <a href='mailto:romana.lemay@gmail.com'>romana.l
+ emay@gmail.com</a> </strong></p>\n<li id='pixlikes' class='share-item pixl
+ ikes-box likes-box liked '  data-id='10609' >\n	<div class='share-item__ico
+ n like-link'><i class='pixcode pixcode--icon icon-e-heart  circle  small'>
+ </i></div>\n	<div class='share-item__value likes-count  likes-text'>0</div>
+ \n</li>
+DTSTART;TZID=Europe/Paris:20151009T190000
+DTEND;TZID=Europe/Paris:20151009T234500
+GEO:+48.811345;+2.387663
+LOCATION:Le Hangar @ 5 Rue Raspail\, 94200 Ivry-sur-Seine\, France
+SEQUENCE:0
+SUMMARY:Jimi Festival de Marne 2015  3×2
+URL:http://www.technikart.com/event/jimi-festival-de-marne-2015-3x2/
+X-COST:10\,00€
+X-TICKETS-URL:http://bit.ly/1UPfS7x
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18286@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:+33 (0)1 45 15 07 17\; http://www.jimifestivaldemarne.org/index.php
+ ?mt=contact&m=9
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/capture-decran-2015-09-14
+ -a-14.33.42.png' width='275' height='163' /></div><p><strong>Pour gagner t
+ a place participe avec un <em>like</em> sur cet article\, partage-le sur t
+ on mur Facebook et envoie ton nom et prénom à <a href='mailto:romana.lemay
+ @gmail.com'>romana.lemay@gmail.com</a></strong></p>\n<p><a href='http://bi
+ t.ly/1VXwze4' target='_blank'>http://bit.ly/1VXwze4</a></p>\n<li id='pixli
+ kes' class='share-item pixlikes-box likes-box liked '  data-id='10609' >\n
+ 	<div class='share-item__icon like-link'><i class='pixcode pixcode--icon ic
+ on-e-heart  circle  small'></i></div>\n	<div class='share-item__value likes
+ -count  likes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20151010T190000
+DTEND;TZID=Europe/Paris:20151010T234500
+GEO:+48.811345;+2.387663
+LOCATION:Le Hangar @ 5 Rue Raspail\, 94200 Ivry-sur-Seine\, France
+SEQUENCE:0
+SUMMARY:Jimi Festival de Marne 2015 – 3×2
+URL:http://www.technikart.com/event/jimi-festival-de-marne-2015-3x2-2/
+X-COST:10\,00 €
+X-TICKETS-URL:http://www.jimifestivaldemarne.org/index.php?mt=&m=13&p=23
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-17756@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:01 84 79 11 70\; contact@yoyo-paris.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/08/11754760_844081425672895_
+ 1862519010602251069_o-300x111.jpg' width='300' height='111' /></div><p><st
+ rong>Pour gagner ta place participe avec un <em>like</em> sur cet article\
+ , partage-le sur ton mur Facebook et envoie ton nom et prénom à</strong> <
+ a href='mailto:romana.lemay@gmail.com'>romana.lemay@gmail.com</a></p>\n<p>
+ http://www.technikart.com/release-the-groove-the-4th-birthday-part-iii-w-r
+ obert-hood-moritz-von-oswald-marcelusyoyo-palais-de-tokyo/</p>\n<li id='pi
+ xlikes' class='share-item pixlikes-box likes-box liked '  data-id='10609' 
+ >\n	<div class='share-item__icon like-link'><i class='pixcode pixcode--icon
+  icon-e-heart  circle  small'></i></div>\n	<div class='share-item__value li
+ kes-count  likes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20151016T230000
+DTEND;TZID=Europe/Paris:20151017T060000
+GEO:+48.863443;+2.296653
+LOCATION:YOYO - Palais de Tokyo  @ 20 Avenue de New York\, 75116 Paris\, Fr
+ ance
+SEQUENCE:0
+SUMMARY:2×2 RELEASE THE GROOVE // THE 4TH BIRTHDAY PART III w/ ROBERT HOOD\
+ , MORITZ VON OSWALD & MARCELUS
+URL:http://www.technikart.com/event/17756/
+X-COST:19\,50€ - 21\,50€
+X-TICKETS-URL:http://www.digitick.com/rtg-the-4th-birthday-part-iii-w-rober
+ t-hood-moritz-von-oswald-soiree-yoyo-palais-de-tokyo-paris-16-octobre-2015
+ -css4-digitick-pg101-ri3351736.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18276@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:01 40 33 64 85\; infos@lamaroquinerie.fr
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/capture-decran-2015-09-14
+ -a-13.32.35-300x113.png' width='300' height='113' /></div><p><a href='http
+ ://www.technikart.com/mawimbi-dj-khalab-live-werkha-live-3x2/' target='_bl
+ ank'>http://www.technikart.com/mawimbi-dj-khalab-live-werkha-live-3×2/</a>
+ </p>\n<p><strong>Pour gagner ta place participe avec un <em>like</em> sur 
+ cet article\, partage-le sur ton mur Facebook et envoie ton nom et prénom 
+ à <a href='mailto:romana.lemay@gmail.com'>romana.lemay@gmail.com</a></stro
+ ng></p>\n<li id='pixlikes' class='share-item pixlikes-box likes-box liked 
+ '  data-id='10609' >\n	<div class='share-item__icon like-link'><i class='pi
+ xcode pixcode--icon icon-e-heart  circle  small'></i></div>\n	<div class='s
+ hare-item__value likes-count  likes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20151016T233000
+DTEND;TZID=Europe/Paris:20151017T060000
+GEO:+48.868512;+2.391911
+LOCATION:La Maroquinerie @ 23 Rue Boyer\, 75020 Paris\, France
+SEQUENCE:0
+SUMMARY:MAWIMBI + DJ KHALAB (LIVE) + WERKHA (LIVE)  3×2
+URL:http://www.technikart.com/event/mawimbi-dj-khalab-live-werkha-live-3x2/
+X-COST:Early Bird : 16€ - Tarif unique : 18€
+X-TICKETS-URL:http://bit.ly/1UP7Mf1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15490@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:http://nordik.org/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/06/10502179_1015304717117856
+ 5_1201669549335678714_n-300x111.jpg' width='300' height='111' /></div><p><
+ a href='http://www.technikart.com/nordik-impakt/' target='_blank'>http://w
+ ww.technikart.com/nordik-impakt/</a></p>\n<p> </p>\n<li id='pixlikes' clas
+ s='share-item pixlikes-box likes-box liked '  data-id='10609' >\n	<div clas
+ s='share-item__icon like-link'><i class='pixcode pixcode--icon icon-e-hear
+ t  circle  small'></i></div>\n	<div class='share-item__value likes-count  l
+ ikes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20151021T100000
+DTEND;TZID=Europe/Paris:20151024T234500
+GEO:+49.182863;-0.370679
+LOCATION:Caen\, France
+SEQUENCE:0
+SUMMARY:Nordik Impakt
+URL:http://www.technikart.com/event/nordik-impakt/
+X-TICKETS-URL:http://nordik.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-18301@www.technikart.com
+DTSTAMP:20150920T002118Z
+CATEGORIES:
+CONTACT:01 53 35 50 00\; http://www.104.fr/informations_pratiques/contact.h
+ tml
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.technikart.com/wp-content/uploads/2015/09/capture-decran-2015-09-14
+ -a-16.41.15-300x231.png' width='300' height='231' /></div><p><a href='http
+ ://www.technikart.com/kyrie-kristmanson-le-quatuor-voce-104-2x2/' target='
+ _blank'>http://www.technikart.com/kyrie-kristmanson-le-quatuor-voce-104-2×
+ 2/</a></p>\n<p><strong>Pour gagner ta place participe avec un <em>like</em
+ > sur cet article\, partage-le sur ton mur Facebook et envoie ton nom et p
+ rénom à <a href='mailto:romana.lemay@gmail.com'>romana.lemay@gmail.com</a>
+ </strong></p>\n<li id='pixlikes' class='share-item pixlikes-box likes-box 
+ liked '  data-id='10609' >\n	<div class='share-item__icon like-link'><i cla
+ ss='pixcode pixcode--icon icon-e-heart  circle  small'></i></div>\n	<div cl
+ ass='share-item__value likes-count  likes-text'>0</div>\n</li>
+DTSTART;TZID=Europe/Paris:20151027T203000
+DTEND;TZID=Europe/Paris:20151027T234500
+GEO:+48.890248;+2.37008
+LOCATION:Le CENTQUATRE-PARIS @ 5 Rue Curial\, 75019 Paris\, France
+SEQUENCE:0
+SUMMARY:Kyrie Kristmanson & le Quatuor Voce  2×2
+URL:http://www.technikart.com/event/kyrie-kristmanson-le-quatuor-voce-2x2/
+X-COST:Tarifs : 16 € / 12 € (réduit) / 12 € (abonnés\, adhérents)
+X-TICKETS-URL:http://bit.ly/1J7GDb8
+END:VEVENT
+END:VCALENDAR

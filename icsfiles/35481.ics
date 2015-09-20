@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//103.18.108.15//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.eastbeechboroprimary.wa.edu.au
+X-WR-TIMEZONE:Australia/Perth
+BEGIN:VTIMEZONE
+TZID:Australia/Perth
+X-LIC-LOCATION:Australia/Perth
+BEGIN:STANDARD
+DTSTART:20090329T030000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0800
+TZNAME:AWST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1432@www.eastbeechboroprimary.wa.edu.au
+DTSTAMP:20150920T002404Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150920
+DTEND;VALUE=DATE:20150921
+SEQUENCE:0
+SUMMARY:P&C Bunnings Sausage Sizzle
+URL:http://www.eastbeechboroprimary.wa.edu.au/event/pc-bunnings-sausage-siz
+ zle/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1433@www.eastbeechboroprimary.wa.edu.au
+DTSTAMP:20150920T002404Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150922
+DTEND;VALUE=DATE:20150923
+SEQUENCE:0
+SUMMARY:Interschool Jumps and Throws
+URL:http://www.eastbeechboroprimary.wa.edu.au/event/interschool-jumps-and-t
+ hrows/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1434@www.eastbeechboroprimary.wa.edu.au
+DTSTAMP:20150920T002404Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+SEQUENCE:0
+SUMMARY:LA3 Year 1 Assembly
+URL:http://www.eastbeechboroprimary.wa.edu.au/event/la3-year-1-assembly/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1435@www.eastbeechboroprimary.wa.edu.au
+DTSTAMP:20150920T002404Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Interschool Athletics Carnival
+URL:http://www.eastbeechboroprimary.wa.edu.au/event/interschool-athletics-c
+ arnival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1436@www.eastbeechboroprimary.wa.edu.au
+DTSTAMP:20150920T002404Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Newsletter
+URL:http://www.eastbeechboroprimary.wa.edu.au/event/newsletter-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1437@www.eastbeechboroprimary.wa.edu.au
+DTSTAMP:20150920T002405Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:End of Term Rewards
+URL:http://www.eastbeechboroprimary.wa.edu.au/event/end-of-term-rewards/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//64.65.32.84//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://battleriverteachers.site-preview.ca
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+X-LIC-LOCATION:America/Edmonton
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-138@battleriverteachers.site-preview.ca
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-US:Local Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Edmonton:20150922T170000
+LOCATION:Norsemen Inn - Salon A
+RDATE;TZID=America/Edmonton:20160216T170000
+RDATE;TZID=America/Edmonton:20160419T170000
+SEQUENCE:0
+SUMMARY:Local Council Meeting
+URL:http://battleriverteachers.site-preview.ca/event/local-council-meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-139@battleriverteachers.site-preview.ca
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-US:Local Executive Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Edmonton:20151005T170000
+LOCATION:Best Western Plus Camrose Resort Casino - Conference Room
+RDATE;TZID=America/Edmonton:20151102T170000
+RDATE;TZID=America/Edmonton:20160202T170000
+RDATE;TZID=America/Edmonton:20160404T170000
+RDATE;TZID=America/Edmonton:20160502T170000
+RDATE;TZID=America/Edmonton:20160620T170000
+SEQUENCE:0
+SUMMARY:Executive Meeting
+URL:http://battleriverteachers.site-preview.ca/event/executive-meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-140@battleriverteachers.site-preview.ca
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-US:Local Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Edmonton:20151201T170000
+LOCATION:Norsemen Inn - Salon A
+SEQUENCE:0
+SUMMARY:Local Council Meeting / Induction
+URL:http://battleriverteachers.site-preview.ca/event/local-council-meeting-
+ induction/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-141@battleriverteachers.site-preview.ca
+DTSTAMP:20150920T002324Z
+CATEGORIES;LANGUAGE=en-US:Local Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Edmonton:20160526T170000
+LOCATION:Norsemen Inn - Salon A
+SEQUENCE:0
+SUMMARY:Local Council Meeting / Annual General Meeting
+URL:http://battleriverteachers.site-preview.ca/event/local-council-meeting-
+ annual-general-meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

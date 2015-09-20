@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+	<!--[if IE 8]>
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
+	<![endif]-->
+	<!--[if !(IE 8) ]><!-->
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<!--<![endif]-->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Visit Alpena &rsaquo; Log In</title>
+	<link rel='stylesheet' id='buttons-css'  href='http://visitalpena.gaslightmedia.com/wp-includes/css/buttons.min.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://visitalpena.gaslightmedia.com/wp-includes/css/dashicons.min.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://visitalpena.gaslightmedia.com/wp-admin/css/login.min.css?ver=4.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://visitalpena.gaslightmedia.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://visitalpena.gaslightmedia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<meta name='robots' content='noindex,follow' />
+	</head>
+	<body class="login login-action-login wp-core-ui  locale-en-us">
+	<div id="login">
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Visit Alpena</a></h1>
+	
+<form name="loginform" id="loginform" action="http://visitalpena.gaslightmedia.com/wp-login.php" method="post">
+	<p>
+		<label for="user_login">Username<br />
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br />
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
+	</p>
+	    <style type="text/css">
+        // Old dev53 curtain background.
+        /*body.login {
+            background: url(http://visitalpena.gaslightmedia.com/wp-content/plugins/Gaslightify/img/bg.jpg) repeat scroll 0 0 #f1f1f1
+        }*/
+        .login h1,
+        .login form {
+/*            background: url(http://visitalpena.gaslightmedia.com/wp-content/plugins/Gaslightify/img/body_bg.png) repeat-x scroll 0 0 rgba(0, 0, 0, 0);*/
+            border-radius: 5px;
+            padding-top:10px;
+        }
+        .login #nav {
+            display: none;
+        }
+        #login > h1 > a {
+            background-image: url(http://visitalpena.gaslightmedia.com/wp-content/plugins/Gaslightify/img/GLM_title_box_272x71.gif);
+            width: auto;
+            background-size: auto;
+        }
+    </style>
+	<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+		<input type="hidden" name="redirect_to" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" />
+		<input type="hidden" name="testcookie" value="1" />
+	</p>
+</form>
+
+<p id="nav">
+	<a href="http://visitalpena.gaslightmedia.com/wp-login.php?action=lostpassword" title="Password Lost and Found">Lost your password?</a>
+</p>
+
+<script type="text/javascript">
+function wp_attempt_focus(){
+setTimeout( function(){ try{
+d = document.getElementById('user_login');
+d.focus();
+d.select();
+} catch(e){}
+}, 200);
+}
+
+wp_attempt_focus();
+if(typeof wpOnload=='function')wpOnload();
+</script>
+
+	<p id="backtoblog"><a href="http://visitalpena.gaslightmedia.com/" title="Are you lost?">&larr; Back to Visit Alpena</a></p>
+	
+	</div>
+
+	
+	<link rel='stylesheet' id='ai1ec_style-css'  href='//visitalpena.gaslightmedia.com/wp-content/plugins/all-in-one-event-calendar/cache/9aa805db_ai1ec_parsed_css.css?ver=2.3.3' type='text/css' media='all' />
+	<div class="clear"></div>
+	</body>
+	</html>
+	

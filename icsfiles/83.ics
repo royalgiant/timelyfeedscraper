@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//190.107.177.236//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.narrativagrafica.cl
+X-WR-TIMEZONE:America/Santiago
+BEGIN:VTIMEZONE
+TZID:America/Santiago
+X-LIC-LOCATION:America/Santiago
+BEGIN:STANDARD
+DTSTART:20150426T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:CLT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-287@www.narrativagrafica.cl
+DTSTAMP:20150920T002109Z
+CATEGORIES;LANGUAGE=es-ES:Taller
+CONTACT:Felipe Benavides R.\; correo@narrativagrafica.cl\; https://goo.gl/7
+ fQurJ
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.narrativagrafica.cl/wp-content/uploads/2015/09/tallerNeV-VinadelMar
+ -197x300.png' width='197' height='300' /></div><p>Taller de narrativa gráf
+ ica para principiantes.<br />\nDirigido para todos quienes quieran aprende
+ r a contar su historia en lenguaje de comic desde la idea original hasta l
+ a publicación. El taller es teórico práctico.<br />\n<strong>NO REQUIERE C
+ ONOCIMIENTOS PREVIOS.</strong><br />\nUnidades:</p>\n<ul>\n<li>Premisa: De
+  la idea a la historia.</li>\n<li>Guion: Escaleta y guion técnico.</li>\n<
+ li>Puesta en página: Diagramación y viñetas.</li>\n<li>Rótulos: Diálogos y
+  onomatopeyas.</li>\n<li>Publicación: Formatos de publicación y distribuci
+ ón.</li>\n</ul>\n<p><strong>Cupos:</strong> Mínimo 5\, máximo 12 alumnos.<
+ br />\n<strong>Valor:</strong> <strong>$100.000</strong><br />\n<strong>Di
+ as:</strong> Todos los lunes desde el 2 de noviembre al 7 de diciembre.<br
+  />\n<strong>Profesor:</strong> Felipe Benavides Ramos – Guionista.<br />
+ \n<strong>Inscripciones:</strong> en correo@narrativagrafica.cl</p>
+DTSTART;TZID=America/Santiago:20151102T190000
+DTEND;TZID=America/Santiago:20151102T210000
+GEO:-33.019239;-71.552543
+LOCATION:4 Norte 557\, Viña del Mar\, Viña del Mar\, Región de Valparaíso\,
+  Chile
+SEQUENCE:0
+SUMMARY:Taller NeV Todo en Uno
+URL:http://www.narrativagrafica.cl/event/taller-nev-todo-en-uno/
+X-TAGS;LANGUAGE=es-ES:comic\,narrando en viñetas\,narrativa gráfica\,taller
+ \,taller comic
+X-COST:100.000
+END:VEVENT
+END:VCALENDAR

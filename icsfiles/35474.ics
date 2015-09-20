@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//69.160.43.212//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://corkscrewbar.com/csb
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VTIMEZONE
+TZID:US/Pacific
+X-LIC-LOCATION:US/Pacific
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-380@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=US/Pacific:20150918T190000
+DTEND;TZID=US/Pacific:20150918T220000
+SEQUENCE:0
+SUMMARY:Saffel
+URL:http://corkscrewbar.com/csb/event/saffel/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-387@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:
+DESCRIPTION:<h1>Rico McDaniel</h1>\n<h2><em>Guitar and Vocals</em></h2>\n<p
+ >Originally from Berkeley California\, by way of Woodstock\, New York\, Ri
+ co writes most of the original material The Contingents perform. When not 
+ on stage Rico spends his days throwing stale breadcrumbs at pigeons in the
+  park</p>\n<h1>Jeremy Gorman</h1>\n<h2><em>Guitar \, Ukelele and Vocals</e
+ m></h2>\n<p>Also originally from Berkeley California\, Jeremy has been a p
+ art of the Sonoma County music scene for many years. When not working\, go
+ ing to school or playing music\, Jeremy studies the works of Prof. Anne El
+ k who has a very interesting theory about the Brontosaurus…</p>
+DTSTART;TZID=US/Pacific:20150919T190000
+DTEND;TZID=US/Pacific:20150919T220000
+SEQUENCE:0
+SUMMARY:The Contingents
+URL:http://corkscrewbar.com/csb/event/the-contingents-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-356@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:TumbleWeed Pacific\; 707.789.0505\; booking@corkscrewbar.com\; http
+ s://www.facebook.com/events/696747070441671/
+DESCRIPTION:<p><span class='fsl'>Singer Songwriter Lauralee Brown has been 
+ playing in and around the San Fransisco Bay Area for many years. She perfo
+ rms acoustic folk-style music playing guitar and singing classic standards
+  along with many original songs. She also performs Jazz & Beyond with her 
+ group Lauralee Brown and Company.</span></p>\n<p>She founded and hosted Ra
+ ncho Nicasio’s Singer Songwriter Series from 2010 till 2013\, and now is c
+ o-manager for West Coast Songwriters Organization’s San Rafael Chapter at 
+ the Fenix Theater.</p>\n<p>Lauralee Brown is delighted to be bringing some
+  wonderful guest singer songwriters to Cork Screw Wine Bar.</p>
+DTSTART;TZID=US/Pacific:20150922T183000
+DTEND;TZID=US/Pacific:20150922T210000
+GEO:+38.234274;-122.639997
+LOCATION:Corkscrew Wine Bar @ 100 Petaluma Boulevard North\, Petaluma\, CA 
+ 94952\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4TU
+SEQUENCE:0
+SUMMARY:Songwriter’s Lounge with Lauralee Brown
+URL:http://corkscrewbar.com/csb/event/songwriters-lounge-with-lauralee-brow
+ n-2/
+X-TAGS;LANGUAGE=en-US:beer\,charcuterie\,cheese\,music\,songwriter\,wine
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-158@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Literary
+CONTACT:TumbleWeed Pacific\; 707.789.0505\; booking@corkscrewbar.com\; http
+ s://www.facebook.com/events/1588167641397053/
+DESCRIPTION:<p><span class='fsl'>Join hosts Dani Burlison and Kara Vernor o
+ n the 4th Wednesday of every month for the Get Lit reading series at Corks
+ crew Wine Bar in Petaluma!</p>\n<p>Each month will feature three guest rea
+ ders with a short open mic immediately following. Authors will have books 
+ and other materials available to purchase. Corkscrew will have fantastic w
+ ine\, beer\, non-alcoholic beverages\, appetizers and deserts for sale at 
+ the bar\, as well.</p>\n<p>Get Lit is a free\, 21+ event but tips for our 
+ guest readers’ travel expenses are greatly appreciated!<br />\n</span></p>
+DTSTART;TZID=US/Pacific:20150923T190000
+DTEND;TZID=US/Pacific:20150923T210000
+GEO:+38.234274;-122.639997
+LOCATION:Corkscrew Wine Bar @ 100 Petaluma Boulevard North\, Petaluma\, CA 
+ 94952\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4WE
+SEQUENCE:0
+SUMMARY:Get Lit!
+URL:http://corkscrewbar.com/csb/event/get-lit/
+X-TAGS;LANGUAGE=en-US:Author Reading\,beer\,charcuterie\,cheese\,literary\,
+ literary open mic\,liturature\,wine
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-381@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=US/Pacific:20150925T190000
+DTEND;TZID=US/Pacific:20150925T220000
+SEQUENCE:0
+SUMMARY:The Sticky Notes
+URL:http://corkscrewbar.com/csb/event/the-sticky-notes-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-382@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=US/Pacific:20150926T190000
+DTEND;TZID=US/Pacific:20150926T220000
+SEQUENCE:0
+SUMMARY:Lady Grace
+URL:http://corkscrewbar.com/csb/event/lady-grace/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-388@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:https://www.facebook.com/events/1586286221641871/
+DESCRIPTION:<p><span class='fsl'>Todos Santos is Wendy Fitz\, Gary Bauman\,
+  and Jack Pribble\; an acoustic trio created in the small village in Baja 
+ California that inspired the name. The band’s sound has been described as 
+ “Cantina Americana”\, a harmony driven mixture of soaring vocals\, fiery g
+ uitars\, and accordion. The music is roots to the core and includes not on
+ ly originals but also many unique covers.</span></p>
+DTSTART;TZID=US/Pacific:20150929T190000
+DTEND;TZID=US/Pacific:20150929T220000
+SEQUENCE:0
+SUMMARY:Todos Santos: The Band
+URL:http://corkscrewbar.com/csb/event/todos-santos-the-band-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-389@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:https://www.facebook.com/events/1647363618877924
+DESCRIPTION:<p>This Country Music Singer/Songwriter and Nashville Recording
+  Artist has earned the reputation of “Hardest Working Woman in Country Mus
+ ic” due to her uncompromising work ethic\, established during her up-bring
+ ing in rural Georgia. With her captivating songs and a truly engaging pers
+ onality\, Erica is traveling the world\, gaining new fans in every city\, 
+ state and country she plays in. She draws crowds in with her unfiltered tu
+ nes such as ‘I’m Just Your Woman\, ‘Ho in Rio\,’ ‘The Walk Of Shame’ and ‘
+ Put Some South In Your Mouth’. “What It Takes To Be A Country Man” release
+ d worldwide and hit #6 on the country charts throughout Europe and Oz.  “T
+ his is the kind of authentic music country DJ’s have been asking for\,” sa
+ ys Nashville’s Al Brock.</p>\n<p>Following the successful reception of Eri
+ ca Sunshine Lee’s previous 4th album\, she spent the last six years playin
+ g shows and writing songs across the US\, Australia\, and New Zealand. Eri
+ ca recently toured with Australian  Band\, “Turk Tresize” & “The Graysmith
+ s”\, recording the background vocals on his latest album “SOUL CASINO” whi
+ ch also featured the singer Brittany Howard from The Alabama Shakes. DJ’s 
+ all across Europe are raving about Sunshine’s music and bragging about the
+  “infectious and catchy hooks of this prolific songwriter\, who holds noth
+ ing back\, and brings a gallop of energy with her true country roots shini
+ ng. She also puts her heart and soul in each ballad.”</p>\n<p>http://www.e
+ ricasunshinelee.com/about/</p>
+DTSTART;TZID=US/Pacific:20150930T183000
+DTEND;TZID=US/Pacific:20150930T210000
+SEQUENCE:0
+SUMMARY:Erica Sunshine Lee
+URL:http://corkscrewbar.com/csb/event/erica-sunshine-lee/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-403@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=US/Pacific:20151002T190000
+DTEND;TZID=US/Pacific:20151002T220000
+SEQUENCE:0
+SUMMARY:Karen Acting Bradley
+URL:http://corkscrewbar.com/csb/event/karen-behaving-bradley/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-402@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:https://www.facebook.com/events/1665326577013392/
+DESCRIPTION:<p>Featuring Gary Vogensen\, Julie Bernard & Russ Gauthier\, Th
+ e River Town Trio draws from Honky Tonks of Texas\, Blues Clubs of Chicago
+ \, Jazz Lounges of New York and the music of the Psychedelic 60’s to creat
+ e a Gumbo with something for everyone. A wealth of experience and musician
+ ship fused with passion and fire make for a glorious evening of wine and s
+ ong.</p>
+DTSTART;TZID=US/Pacific:20151006T183000
+DTEND;TZID=US/Pacific:20151006T210000
+SEQUENCE:0
+SUMMARY:The Rivertown Trio
+URL:http://corkscrewbar.com/csb/event/402/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-162@corkscrewbar.com/csb
+DTSTAMP:20150920T002403Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:TumbleWeed Pacific\; 707.789.0505\; booking@corkscrewbar.com
+DESCRIPTION:<p><span class='fsl'>Staggerwing began nearly five years ago in
+  a Petaluma living room. Their Americana\, roots rock sound is steeped in 
+ the traditions of Dylan and Cash while influenced by Old Crow Medicine Sho
+ w\, Devil Makes Three and Todd Snider. Playing major venues and festivals 
+ throughout the bay area Staggerwing delivers a high energy danceable sound
+  that brings their fans back for more! Typically a five piece\, Staggerwin
+ g is scaling down for an intimate acoustic show at the Corkscrew Wine Bar.
+  Stop by after work for great wine\, a great vibe and good friends!</span>
+ </p>
+DTSTART;TZID=US/Pacific:20151013T183000
+DTEND;TZID=US/Pacific:20151013T210000
+GEO:+38.234274;-122.639997
+LOCATION:Corkscrew Wine Bar @ 100 Petaluma Boulevard North\, Petaluma\, CA 
+ 94952\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:Staggerwing
+URL:http://corkscrewbar.com/csb/event/staggerwing/
+X-TAGS;LANGUAGE=en-US:beer\,charcuterie\,cheese\,guitar\,music\,songwriter\
+ ,wine
+END:VEVENT
+END:VCALENDAR

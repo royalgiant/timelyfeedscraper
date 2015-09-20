@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.87.146.217//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.greatermbc.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-961@www.greatermbc.org
+DTSTAMP:20150920T002331Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150920
+DTEND;VALUE=DATE:20150921
+SEQUENCE:0
+SUMMARY:22nd Church Anniversary
+URL:http://www.greatermbc.org/event/22nd-church-anniversary-time-tba/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-637@www.greatermbc.org
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Fitness &amp\; Nutrition\,Ministries\,Outreach Mi
+ nistries
+CONTACT:Betty Jones\; 931-220-7693
+DESCRIPTION:<p>This is a weekly meeting of the Fitness and Nutrition minist
+ ry. </p>
+DTSTART;TZID=America/Chicago:20150921T173000
+DTEND;TZID=America/Chicago:20150921T183000
+GEO:+36.594343;-87.403264
+LOCATION:Greater Missionairy Baptist Church @ 450 Ringgold Road\, Clarksvil
+ le\, TN 37042\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Fitness & Nutrition Ministry Meeting
+URL:http://www.greatermbc.org/event/ministry-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-902@www.greatermbc.org
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Church
+CONTACT:
+DESCRIPTION:<p>Transportation is available prior to 5:45pm. If you need Tra
+ nsportation Assistance please call: (931) 647-4643.</p>
+DTSTART;TZID=America/Chicago:20150923T183000
+EXDATE;TZID=America/Chicago:20150701T183000
+EXDATE;TZID=America/Chicago:20150708T183000
+GEO:+36.594343;-87.403264
+LOCATION:Greater Missionary Baptist Church @ 450 Ringgold Road\, Clarksvill
+ e\, TN 37042\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Bible Study
+URL:http://www.greatermbc.org/event/bible-study/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-962@www.greatermbc.org
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Church\,Evangelism\,Fitness &amp\; Nutrition\,Min
+ istries\,Nursing Home\,Outreach Ministries
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150929T190000
+DTEND;TZID=America/Chicago:20150929T203000
+SEQUENCE:0
+SUMMARY:Annual Church Stewardship Meeting
+URL:http://www.greatermbc.org/event/annual-church-stewardship-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-641@www.greatermbc.org
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Ministries\,Nursing Home\,Outreach Ministries
+CONTACT:
+DESCRIPTION:<p>1st Sunday Meetup </p>
+DTSTART;TZID=America/Chicago:20151007T090000
+DTEND;TZID=America/Chicago:20151007T091500
+GEO:+36.594343;-87.403264
+LOCATION:Greater Missionary Baptist Church @ 450 Ringgold Road\, Clarksvill
+ e\, TN 37042\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:Nursing Home Ministry Riders: Meet At Church
+URL:http://www.greatermbc.org/event/nursing-home-ministry-riders-meet-at-ch
+ urch/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-653@www.greatermbc.org
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Ministries\,Nursing Home\,Outreach Ministries
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151007T100000
+DTEND;TZID=America/Chicago:20151007T110000
+GEO:+36.511727;-87.310952
+LOCATION:Clarksville Manor @ 2134 Old Ashland City Road\, Clarksville\, TN 
+ 37043\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:Nursing Home Ministry: Clarksville Manor Services
+URL:http://www.greatermbc.org/event/nursing-home-ministry-clarksville-manor
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-651@www.greatermbc.org
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Ministries\,Nursing Home\,Outreach Ministries
+CONTACT:
+DESCRIPTION:<p>2nd Sunday Meetup </p>
+DTSTART;TZID=America/Chicago:20151014T090000
+DTEND;TZID=America/Chicago:20151014T091500
+GEO:+36.594343;-87.403264
+LOCATION:Greater Missionary Baptist Church @ 450 Ringgold Road\, Clarksvill
+ e\, TN 37042\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:Nursing Home Ministry Riders: Meet At Church
+URL:http://www.greatermbc.org/event/nursing-home-ministry-riders-meet-at-ch
+ urch-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-652@www.greatermbc.org
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Ministries\,Nursing Home\,Outreach Ministries
+CONTACT:
+DESCRIPTION:<p>3rd Sunday Meetup</p>
+DTSTART;TZID=America/Chicago:20151014T090000
+DTEND;TZID=America/Chicago:20151014T091500
+GEO:+36.594343;-87.403264
+LOCATION:Greater Missionary Baptist Church @ 450 Ringgold Road\, Clarksvill
+ e\, TN 37042\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:Nursing Home Ministry Riders: Meet At Church
+URL:http://www.greatermbc.org/event/nursing-home-ministry-riders-meet-at-ch
+ urch-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-654@www.greatermbc.org
+DTSTAMP:20150920T002331Z
+CATEGORIES;LANGUAGE=en-US:Ministries\,Nursing Home\,Outreach Ministries
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151014T100000
+DTEND;TZID=America/Chicago:20151014T110000
+GEO:+36.509758;-87.252019
+LOCATION:Signature HealthCARE @ 198 Old Farmers Road\, Clarksville\, TN 370
+ 43\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:Nursing Home Ministry: Signature HealthCARE Service
+URL:http://www.greatermbc.org/event/nursing-home-ministry-signature-healthc
+ are-service/
+END:VEVENT
+END:VCALENDAR

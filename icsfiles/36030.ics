@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//81.169.145.82//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://shotrr.com
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2711@shotrr.com
+DTSTAMP:20150920T002129Z
+CATEGORIES;LANGUAGE=de-DE:Fotofestival
+CONTACT:http://fotodoks.de/
+DESCRIPTION:<p><strong>Festival für aktuelle Dokumentarfotografie</strong><
+ br />\nThema: »Past is Now«<br />\nPartnerregion sind die sieben Länder de
+ s ehemaligen Jugoslawiens: Bosnien und Herzegowina\, Kroatien\, Kosovo\, M
+ azedonien\, Montenegro\, Serbien und Slowenien.</p>\n<p>Die Fotoausstellun
+ g wird am 13.10.2015 im Münchner Stadtmuseum eröffnet und leitet die Festi
+ val-Woche mit Vorträgen\, Diskussionen\, Workshops und weiteren Ausstellun
+ gen und Events ein.</p>\n<p>Zu sehen sind Fotoarbeiten von Jaka BABNIK (SL
+ O)\, Roman BEZJAK (SLO/DE)\, COLLABORATION_7 (DE\, HR\, BiH)\, Jörg GLÄSCH
+ ER (DE)\, Ziyah GAFIC (BiH)\, Ibro HASANOVIC (BiH/KO)\, Tanja KERNWEISS (D
+ E)\, Borut KRAJNC (SLO)\, Saša KRAJL (HR)\, Tom LICHT (DE/CH)\, Anne MORGE
+ NSTERN (DE)\, Vladimir MILADINOVIC (RS)\, Merlin NADJ-TOMA (DE/RS)\, Draga
+ n PETROVIC (RS)\, Hrvoje SLOVENC (HR/USA)\, Katja STUKE (DE) & Oliver SIEB
+ ER (DE)\, Michael WESELY (DE)</p>\n<p>Gemeinsam mit der Partnerregion Ex-J
+ ugoslawien (Bosnien und Herzegowina\, Kroatien\, Kosovo\, Mazedonien\, Mon
+ tenegro\, Serbien and Slowenien) beleuchtet FotoDoks 2015 den Status Quo u
+ nd das Potential des Gestern im Heute. Die dokumentarischen Positionen in 
+ der diesjährigen Ausstellung setzen sich in vielfältiger Weise mit dem The
+ ma PAST IS NOW auseinander: Sie arbeiten mit bestehenden Archiven oder las
+ sen neue entstehen\; sie gehen auf historische Spurensuche und reflektiere
+ n kulturelle Stereotype und musikalische Mythen\; sie blicken zurück auf 2
+ 5 Jahre deutsche Wiedervereinigung sowie auf 20 Jahre Dayton-Friedensabkom
+ men\, welches den Krieg in Bosnien und Herzegowina beendete. Sie hinterfra
+ gen das Versprechen von Europa und\, wie immer bei FotoDoks\, setzten sich
+  die Arbeiten auch mit der Rolle der Dokumentarfotografie und den Medien a
+ useinander – und scheuen sich dabei nicht\, die dokumentarischen Fühler au
+ ch in die Bereiche Video und Malerei auszustrecken und aktuelle Tendenzen\
+ , wie den Begriff ‘post-documentary’\, zur Diskussion zu stellen.</p>
+DTSTART;VALUE=DATE:20151013
+DTEND;VALUE=DATE:20151019
+GEO:+48.134983;+11.572405
+LOCATION:Münchner Stadtmuseum @ Sankt-Jakobs-Platz 1\, 80331 München\, Deut
+ schland
+SEQUENCE:0
+SUMMARY:FotoDoks Festival<br> München
+URL:http://shotrr.com/event/fotodoks-festival-muenchen/
+X-TAGS;LANGUAGE=de-DE:Deutschland
+X-TICKETS-URL:http://fotodoks.de/die-fotodoks-ausstellung/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2660@shotrr.com
+DTSTAMP:20150920T002129Z
+CATEGORIES;LANGUAGE=de-DE:Fotoworkshops\,Messen für Fotografie
+CONTACT:http://www.wunderwelten-festival.com/
+DESCRIPTION:<p>Der leitende Gedanke von WunderWelten ist die Verknüpfung vo
+ n Fotografie und Naturschutz. Dies zeigt sich zum einen an Projekten der g
+ eladenen Fotografen\, aber auch an den Vorträgen\, die dem Zuschauer die N
+ atur mit ihren Anliegen näher bringen. Ein weiteres Anliegen sind die indi
+ genen Kulturen dieser Erde. Dabei soll nicht mit erhobenem Zeigefinger der
+  Untergang der Natur gepredigt werden\, sondern anhand der Schönheit der N
+ atur ihre Schutzwürdigkeit gezeigt werden. Bei allen Fotografen wird auf i
+ hre Qualität\, sowohl hinsichtlich ihrer Fotografie als auch ihres Vortrag
+ stiles geachtet.</p>\n<p>WunderWelten ist in der Verbindung von Fotografie
+  und Naturschutz richtungsweisend in Europa. Hierbei ist die Zusammenarbei
+ t mit ILCP ein wichtiger Bestandteil.<br />\nBei jedem Festival werden bes
+ timmte Projekte verschiedener Organisationen herausgesucht und gezielt unt
+ erstützt. Das beinhaltet Unterstützung durch einen Anteil der Eintrittsgel
+ der\, einen kommunikativen Teil und einen projektnahen Vortrag. Natürlich 
+ werden die Projekte während des Festivals an einem Stand vorgestellt.</p>
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151109
+GEO:+47.661765;+9.480011
+LOCATION:Graf-Zeppelin-Haus @ Friedrichshafen\, Deutschland
+SEQUENCE:0
+SUMMARY:WunderWelten – Festival für Fotografie & Naturschutz<br>Friedrichsh
+ afen
+URL:http://shotrr.com/event/wunderwelten-festival-fuer-fotografie-naturschu
+ tzfriedrichshafen/
+X-TAGS;LANGUAGE=de-DE:Deutschland
+X-TICKETS-URL:http://www.wunderwelten-festival.com/?page_id=13
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2850@shotrr.com
+DTSTAMP:20150920T002129Z
+CATEGORIES;LANGUAGE=de-DE:Messen für Fotografie
+CONTACT:http://www.multimediale.de/
+DESCRIPTION:<p><strong>Fotografie zum Anfassen\, die größte Fotomesse im Rh
+ ein-Main-Neckar-Raum am 14. und 15. November 2015</strong></p>\n<p>Darmsta
+ dt im Herbst: Die Zeichen stehen auf Foto\, Video und Multimedia. Am 14. u
+ nd 15. November findet die MultiMediale 2015\, die größte Fotomesse im Rhe
+ in-Main-Neckar-Raum\, und das Weitsicht-Festival im Kongresszentrum darmst
+ adtium statt! Von 10 bis 20 Uhr präsentieren an beiden Tagen über 50 Ausst
+ eller die komplette Bandbreite an Kameras\, Zubehör und einfach allem\, wa
+ s es rund um das Thema Fotografie\, Video und Multimedia gibt. Foto-Worksh
+ ops und Foto-Seminare laden zum Mitmachen und Dabeisein ein\, Bühnenshows\
+ , Präsentationen\, Check-and-Clean-Service sowie der große Fotowettbewerb 
+ „Inszenierte Landschaften“ runden das Programm der MultiMediale 2015 ab. D
+ ie kostenlose Messe findet wieder im Zusammenhang mit dem bekannten Weitsi
+ cht Multimedia-Festival statt.</p>\n<p><strong>Die Messe</strong></p>\n<p>
+ Die Bandbreite der gezeigten Produkte reicht von der Adventure-Kamera\, di
+ e auch unter extremsten Bedingungen hervorragende Bilder und Filme liefert
+ \, über trendige und leistungsstarke Kompaktkameras\, die ideale „Immer-da
+ bei“-Lösungen sind\, bis zu vielseitig einsetzbaren Systemkameras mit Wech
+ selobjektiven und High-End-Geräten für den Profi. Natürlich können sich di
+ e Besucher auch über Aufnahmezubehör und die neuesten Software-Entwicklung
+ en im Bereich Bildbearbeitung und Präsentation informieren. Eine tolle Gel
+ egenheit für alle Foto- und Videofreunde\, sich einen Überblick über das a
+ ktuelle Angebot zu verschaffen. Und bei den günstigen Messe-Angeboten kann
+  sicher der eine oder andere Wunsch gleich erfüllt werden. Besonders inter
+ essant dürfte in diesem Jahr der Vergleich der Mega-Pixel-Boliden wie die 
+ Canon <span class='caps'>EOS</span> 5DS R\, die Sony alpha 7R II oder Niko
+ n D810 werden. Daneben stehen die Themen Konnektivität und Vernetzung weit
+ er im Mittelpunkt des Interesses.</p>\n<p><strong>Foto-Seminare</strong></
+ p>\n<p>Ein umfangreiches Seminar-Programm erwartet die Besucher der MultiM
+ ediale 2015. Bei den Seminaren liegt der Schwerpunkt auf der Vermittlung t
+ heoretischen Wissens\, der Voraussetzung für gelungene Bilder. Dabei sprec
+ hen u.a. Referenten wie Stefan Rosenboom\, Masterclass-Referent der Leica 
+ Akademie\, Carsten Peter\, National Geographic-Fotograf und World Press Aw
+ ard Gewinner\, sowie Naturfotograf Bernd Römmelt über Themen wie Schwarzwe
+ ißfotografie in einer bunten Welt\, die Fotografie unter extremsten Beding
+ ungen oder die Fotografie in den Bergen.</p>\n<p><strong>Workshops</strong
+ ></p>\n<p>In den Workshops heißt es dann selbst kreativ werden und fotogra
+ fieren. Bekannte und erfolgreiche Fotografen wie Paul Leclaire\, <span cla
+ ss='caps'>BFF</span>\, Michael Frede\, Jochen Kohl und Uwe Statz bieten di
+ e gesamte Bandbreite der professionellen Fotografie in den Workshops an. V
+ on der emotionalen Fotografie bis zum klassischen People/Porträt-Shooting 
+ ist alles dabei.</p>\n<p>Zwei besondere Highlights im diesjährigen Worksho
+ p-Programm sind sicher die Workshops von Peter Hawk und Laura Helena. Pete
+ r Hawk bezeichnet sich selbst gern als frohstrierter Pixelpoet\, seine unk
+ onventionelle Art der Fotografie bietet jede Menge Überraschungen. Laura H
+ elena hat sich in kurzer Zeit mit ihren fantasievollen Porträts und Beauty
+ -Shots einen Namen gemacht. In ihrem Workshop erwartet die Teilnehmer ein 
+ Shooting im märchenhaften und farbenfrohen Laura-Helena-Stil.</p>\n<p><str
+ ong>Fotowettbewerb „Inszenierte Landschaften“</strong></p>\n<p>Anlässlich 
+ der MultiMediale 2015 findet ein Fotowettbewerb statt\, dessen Thema nicht
+  alltäglich ist. „Inszenierte Landschaften“ heißt es und gesucht werden Bi
+ lder von Landschaften die inszeniert werden\, durch die Menschen\, die in 
+ ihnen leben oder lebten. Eines sollten diese Landschaften nicht sein: Mens
+ chenleer\, also ohne jede Spur von Menschen. Die unberührte Natur ist nich
+ t das Thema des Wettbewerbs – auch\, wenn auf den Bildern keine Menschen z
+ u sehen sein müssen. Aber ihre Spuren sollten zu sehen sein. Eine kreative
+  Herausforderung an alle Fotografen\, die mit Preisen im Gesamtwert von üb
+ er 6.500\,— Euro belohnt wird.</p>\n<p><strong>Bühne</strong></p>\n<p>Im M
+ essebereich finden regelmäßig auf der 24m² großen Bühne Präsentationen und
+  Vorführungen statt. Hier erleben die Besucher professionelle Fotoshooting
+ s\, spannende Präsentationen über Themen wie Bildbearbeitungs-Software und
+  Farbmanagement und neueste Trends in Sachen Kameratechnologie.</p>\n<p><s
+ trong>Check and Clean</strong></p>\n<p>Beim Check-and-Clean-Service\, habe
+ n Besitzer von Canon-\, Nikon- und Sony-Kameras wieder die Möglichkeit\, i
+ hre Geräte prüfen und reinigen zu lassen. Servicetechniker der Hersteller 
+ nehmen dabei die Kameras in Augenschein und führen eine Sensorreinigung du
+ rch.</p>\n<p><strong>Weitsicht-Festival</strong></p>\n<p>Außergewöhnliche 
+ Reportagen führen den Besucher nach Alaska\, Nepal\, Indien und in das „Li
+ cht der Berge“. In beeindruckenden Multivisionsshows berichten Fotojournal
+ isten über Länder\, Kultur und Erlebnisse. Das Gastland der diesjährigen W
+ eitsicht ist Nepal\, begleitet wird das Weitsicht-Festival von der Faro-Me
+ sse im Foyer des darmstadtiums\, mit Ausstellern zu den Themen Adventure\,
+  Reise und Outdoor.</p>
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151116
+GEO:+49.87371;+8.65772
+LOCATION:Kongreßzentrum darmstadtium @ Schloßgraben 1\, 64283 Darmstadt\, D
+ eutschland
+SEQUENCE:0
+SUMMARY:MultiMediale 2015 <br>Darmstadt
+URL:http://shotrr.com/event/multimediale-2015-darmstadt-3/
+X-TAGS;LANGUAGE=de-DE:Deutschland
+X-TICKETS-URL:http://www.multimediale.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2658@shotrr.com
+DTSTAMP:20150920T002129Z
+CATEGORIES;LANGUAGE=de-DE:Messen für Fotografie
+CONTACT:http://www.fernlicht-messe.de
+DESCRIPTION:<p>Auf der Erlebnismesse in Leipzig erwarten Sie am 28. Novembe
+ r 2015 Reiseanbieter und Vorträge aus aller Welt\, namhafte Fachaussteller
+  in den Bereichen Outdoor und Fotografie\, Fotoworkshops- und Seminare\, L
+ ive-Multivisionsshows angesehener Referenten\, internationale Köstlichkeit
+ en und Buchpräsentationen bekannter Autoren. FERN.licht lädt Sie von 9.00 
+ Uhr bis 21.00 Uhr in die Kongresshalle am Zoo Leipzig ein.</p>\n<p>Unter a
+ nderem finden Live-Multivisionsshows mit den Star-Referenten Dieter Glogow
+ ski\, Andreas Pröve\, Daniel Snaider\, David Hettich\, Dieter Schonlau sta
+ tt. Für den Bereich Fotografie sind Aussteller wie <span id='itxthook0p' c
+ lass='itxtrst itxtrstspan itxtnowrap'><span id='itxthook0w' class='itxtrst
+  itxtrstspan itxtnowrap itxtnewhookspan'>Nikon</span></span>\, Canon\, Lei
+ ca\, Sony\, Fuji vertreten\, namhafte Outdoor-Ausrüster vor Ort sind beisp
+ ielsweise Salewa\, Tatonka\, Scarpa\, Yeti und Nordisk. Außerdem können Si
+ e sich auf Lesungen der Autoren Stephan Orth\, Jochen Schmidt und Constanz
+ e John freuen. Darüber hinaus stehen Workshops\, Seminare\, Vorträge und R
+ eportagen auf dem Programm. Praktisch: Es gibt eine Kinderbetreuung vor Or
+ t.</p>\n<p>Der Vorverkauf hat bereits begonnen. Ihre Eintrittskarte erhalt
+ en Sie online auf <a href='http://www.fernlicht-messe.de' target='_blank'>
+ www.fernlicht-messe.de</a>. Hier können Sie außerdem den aktuellen Stand d
+ es Zeitplans\, Informationen zu den Ausstellern\, Lesungen und zum Worksho
+ p-Angebot abrufen. Der Eintrittspreis beträgt für <strong>Erwachsene 10\,0
+ 0 Euro</strong> (UVP) inklusive Vorträge. Die Live-Multivisionsshow kosten
+  extra.</p>
+DTSTART;TZID=Europe/Berlin:20151128T090000
+DTEND;TZID=Europe/Berlin:20151128T210000
+GEO:+51.34893;+12.371071
+LOCATION:Kongresshalle am Zoo Leipzig @ Kongresshalle Leipzig\, 04105 Leipz
+ ig\, Deutschland
+SEQUENCE:0
+SUMMARY:FERN.licht Erlebnismesse für Reisen\, Outdoor und Fotografie<br>Lei
+ pzig
+URL:http://shotrr.com/event/leipzig-fern-licht-erlebnismesse-reisen-outdoor
+ -und-fotografie/
+X-TAGS;LANGUAGE=de-DE:Deutschland
+X-COST:10 EUR
+X-TICKETS-URL:http:// www.fernlicht-messe.de
+END:VEVENT
+END:VCALENDAR

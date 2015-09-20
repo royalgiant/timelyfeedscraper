@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//24.35.142.231//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://dev.vestrainteractive.com/terrastudios
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2461@terrastudios.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Classes
+CONTACT:
+DESCRIPTION:<p><a href='http://dev.vestrainteractive.com/terrastudios/media
+ /claybunny_new_900ppi.jpg'><img class='alignnone size-medium wp-image-2106
+ ' src='http://dev.vestrainteractive.com/terrastudios/media/claybunny_new_9
+ 00ppi-300x300.jpg' alt='claybunny_new_900ppi' width='300' height='300' /><
+ /a></p>\n<h3>Small Clay Bunny Class (7 Yrs – Adult)</h3>\n<p>Hopity\, hop\
+ , hop.  These little bunnies are so cute.  Join us for another wonderful $
+ 5 class at Terra studios.  Each student will make 1 small bunny that would
+  love to sit in your window or in one of your potted plants.  This class i
+ s for ages 7 years old and up (Adults too!).  7 year old’s must be accompa
+ nied and helped by an adult.<strong><br />\n</strong></p>\n<p><span style=
+ 'color: #ff0000\;'>Please sign up for this class by calling 479-643-3314.<
+ /span></p>\n<p>All materials are included in the cost of the workshop. Ple
+ ase wear comfortable clothing that may get stained with clay\, dyes\, glaz
+ es\, paints\, or whatever art materials you happen to be working with at t
+ he time.  Also\, remember that layers are helpful with heating/air conditi
+ oning and time outdoors.</p>\n<p>Please arrive at the Terra Studios Galler
+ y at least 15 minutes before your scheduled class time and check in at the
+  register. Your teacher will meet you in the Gallery.</p>
+DTSTART;TZID=America/Chicago:20150919T110000
+DTEND;TZID=America/Chicago:20150919T113000
+GEO:+35.93804;-93.978486
+LOCATION:Terra Studios @ 12103 Hazel Valley Road\, Fayetteville\, AR 72701\
+ , USA
+SEQUENCE:0
+SUMMARY:Small Clay Bunny Class
+URL:http://dev.vestrainteractive.com/terrastudios/event/small-clay-bunny-cl
+ ass-4/
+X-TAGS;LANGUAGE=en-US:art classes at terra studios\,l clay bunny class\,sma
+ ll clay bunny class at terra studios\,terra studios
+X-COST:$5.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2526@terrastudios.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Art Lab
+CONTACT:
+DESCRIPTION:<p><a href='http://dev.vestrainteractive.com/terrastudios/media
+ /0.MASTHEAD.CLASSES_opt.jpg'><img class='alignnone size-medium wp-image-10
+ 25' src='http://dev.vestrainteractive.com/terrastudios/media/0.MASTHEAD.CL
+ ASSES_opt-300x130.jpg' alt='0.MASTHEAD.CLASSES_opt' width='300' height='13
+ 0' /></a></p>\n<h3>ART LAB</h3>\n<p>Free to moderately priced arts and cra
+ fts projects for all ages from 1-4 PM.</p>
+DTSTART;TZID=America/Chicago:20150919T130000
+DTEND;TZID=America/Chicago:20150919T160000
+GEO:+35.93804;-93.978486
+LOCATION:Terra Studios @ 12103 Hazel Valley Road\, Fayetteville\, AR 72701\
+ , USA
+SEQUENCE:0
+SUMMARY:Art Lab
+URL:http://dev.vestrainteractive.com/terrastudios/event/art-lab-6/
+X-TAGS;LANGUAGE=en-US:art lab\,art lab at terra studios\,free to moderately
+  priced arts and crafts projects at terra studios
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2462@terrastudios.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Classes
+CONTACT:
+DESCRIPTION:<p><a href='http://dev.vestrainteractive.com/terrastudios/media
+ /bigmouths3_200ppi.jpg'><img class='alignnone size-full wp-image-2016' src
+ ='http://dev.vestrainteractive.com/terrastudios/media/bigmouths3_200ppi.jp
+ g' alt='bigmouths3_200ppi' width='200' height='200' /></a></p>\n<h2>Big Mo
+ uth Clay Creatures Class (7 Yrs – Adult)</h2>\n<p>Each student will make a
+  mini pinch pot and their own silly big mouth creature out of a modified c
+ lay pinch pot.  These funny creatures would look great lurking in an aquar
+ ium or potted plant\, or maybe in your window sill.  This class is for age
+ s 7 years old and up (Adults too!).  7 year old’s must be accompanied and 
+ helped by an adult.</p>\n<p><span style='color: #ff0000\;'>Please sign up 
+ for this class by calling 479-643-3314.</span></p>\n<p>All materials are i
+ ncluded in the cost of the workshop. Please wear comfortable clothing that
+  may get stained with clay\, dyes\, glazes\, paints\, or whatever art mate
+ rials you happen to be working with at the time.  Also\, remember that lay
+ ers are helpful with heating/air conditioning and time outdoors.</p>\n<p>P
+ lease arrive at the Terra Studios Gallery at least 15 minutes before your 
+ scheduled class time and check in at the register. Your teacher will meet 
+ you in the Gallery.</p>\n<p> </p>
+DTSTART;TZID=America/Chicago:20150919T140000
+DTEND;TZID=America/Chicago:20150919T150000
+LOCATION:Terra Studios @ 12103 hazel valley rd. Fayetteville\, AR 72701
+SEQUENCE:0
+SUMMARY:Big Mouth Clay Creature Class
+URL:http://dev.vestrainteractive.com/terrastudios/event/big-mouth-clay-crea
+ ture-class/
+X-TAGS;LANGUAGE=en-US:art classes at terra studios\,big mouth clay creature
+  class\,big mouth clay creature class at terra studios\,terra studios
+X-COST:$10.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2527@terrastudios.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Art Lab
+CONTACT:
+DESCRIPTION:<p><a href='http://dev.vestrainteractive.com/terrastudios/media
+ /0.MASTHEAD.CLASSES_opt.jpg'><img class='alignnone size-medium wp-image-10
+ 25' src='http://dev.vestrainteractive.com/terrastudios/media/0.MASTHEAD.CL
+ ASSES_opt-300x130.jpg' alt='0.MASTHEAD.CLASSES_opt' width='300' height='13
+ 0' /></a></p>\n<h3>ART LAB</h3>\n<p>Free to moderately priced arts and cra
+ fts projects for all ages from 1-4 PM.</p>
+DTSTART;TZID=America/Chicago:20150920T130000
+DTEND;TZID=America/Chicago:20150920T160000
+GEO:+35.93804;-93.978486
+LOCATION:Terra Studios @ 12103 Hazel Valley Road\, Fayetteville\, AR 72701\
+ , USA
+SEQUENCE:0
+SUMMARY:Art Lab
+URL:http://dev.vestrainteractive.com/terrastudios/event/art-lab-7/
+X-TAGS;LANGUAGE=en-US:art lab\,art lab at terra studios\,free to moderately
+  priced arts and crafts projects at terra studios
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2463@terrastudios.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Classes
+CONTACT:
+DESCRIPTION:<p><a href='http://dev.vestrainteractive.com/terrastudios/media
+ /claybug_new_900ppi.jpg'><img class='alignnone size-medium wp-image-2105' 
+ src='http://dev.vestrainteractive.com/terrastudios/media/claybug_new_900pp
+ i-300x300.jpg' alt='claybug_new_900ppi' width='300' height='300' /></a></p
+ >\n<h3><strong>Small Clay Bug Class (7 Yrs – Adult)</strong></h3>\n<p>Bugs
+ \, bugs\, everywhere.  Well\, at least the ones in our classroom are made 
+ out of clay.  Each student will make a mini pinch pot and a clay bug in th
+ is great $10 class.  Your project can look like a real bug\, or you can in
+ vent your own fantasy bug.  This class is for ages 7 years old and up (Adu
+ lts too!).  7 year old’s must be accompanied and helped by an adult.</p>\n
+ <p><span style='color: #ff0000\;'>Please sign up for this class by calling
+  479-643-3314.</span></p>\n<p>All materials are included in the cost of th
+ e workshop. Please wear comfortable clothing that may get stained with cla
+ y\, dyes\, glazes\, paints\, or whatever art materials you happen to be wo
+ rking with at the time.  Also\, remember that layers are helpful with heat
+ ing/air conditioning and time outdoors.</p>\n<p>Please arrive at the Terra
+  Studios Gallery at least 15 minutes before your scheduled class time and 
+ check in at the register. Your teacher will meet you in the Gallery.</p>
+DTSTART;TZID=America/Chicago:20150926T110000
+DTEND;TZID=America/Chicago:20150926T120000
+GEO:+35.93804;-93.978486
+LOCATION:Terra Studios @ 12103 Hazel Valley Road\, Fayetteville\, AR 72701\
+ , USA
+SEQUENCE:0
+SUMMARY:Small Clay Bug Class
+URL:http://dev.vestrainteractive.com/terrastudios/event/small-clay-bug-clas
+ s-4/
+X-TAGS;LANGUAGE=en-US:art classes at terra studios\,small clay bug class\,s
+ mall clay bug class at terra studios\,terra studios
+X-COST:$10.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2528@terrastudios.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Art Lab
+CONTACT:
+DESCRIPTION:<p><a href='http://dev.vestrainteractive.com/terrastudios/media
+ /0.MASTHEAD.CLASSES_opt.jpg'><img class='alignnone size-medium wp-image-10
+ 25' src='http://dev.vestrainteractive.com/terrastudios/media/0.MASTHEAD.CL
+ ASSES_opt-300x130.jpg' alt='0.MASTHEAD.CLASSES_opt' width='300' height='13
+ 0' /></a></p>\n<h3>ART LAB</h3>\n<p>Free to moderately priced arts and cra
+ fts projects for all ages from 1-4 PM.</p>
+DTSTART;TZID=America/Chicago:20150926T130000
+DTEND;TZID=America/Chicago:20150926T160000
+GEO:+35.93804;-93.978486
+LOCATION:Terra Studios @ 12103 Hazel Valley Road\, Fayetteville\, AR 72701\
+ , USA
+SEQUENCE:0
+SUMMARY:Art Lab
+URL:http://dev.vestrainteractive.com/terrastudios/event/art-lab-8/
+X-TAGS;LANGUAGE=en-US:art lab\,art lab at terra studios\,free to moderately
+  priced arts and crafts projects at terra studios
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2465@terrastudios.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Classes
+CONTACT:
+DESCRIPTION:<p><a href='http://dev.vestrainteractive.com/terrastudios/media
+ /silkscarf_200ppi.jpg'><img class='alignnone size-full wp-image-2182' src=
+ 'http://dev.vestrainteractive.com/terrastudios/media/silkscarf_200ppi.jpg'
+  alt='silkscarf_200ppi' width='200' height='152' /></a></p>\n<h3>Dyed Silk
+  Scarves – Mini Class (Dye 1 Scarf) (12 Yrs – Adult)</h3>\n<p>In the mood 
+ to illuminate the day with brilliant rivulets of color? Our Mini Silk Dyei
+ ng <a title='Classes' href='http://dev.vestrainteractive.com/terrastudios/
+ education/'>Classes</a> is an easy way to get started in unloosing your cr
+ eative energy. You will learn a variety of easy and rewarding dye techniqu
+ es while creating a fabulous silk scarf as a treat for yourself or a meani
+ ngful gift.  Our roomy work room and dynamic instructors make the process 
+ easy and rewarding. Glowing color-fast tints combine with gleaming silk to
+  ensure a beautiful experience and a finished product that is stunning as 
+ well as useful.  It is a no-fail opportunity to revel in color and texture
+ . Each student will dye 1 silk scarf during this class. You have the optio
+ n of dyeing 1-2 more scarves at $7.50 per scarf.</p>\n<p><span style='colo
+ r: #ff0000\;'>Please call 479-643-3185 to sign up.</span></p>\n<p>All mate
+ rials are included in the cost of the workshop. Please wear comfortable cl
+ othing that may get stained with clay\, dyes\, glazes\, paints\, or whatev
+ er art materials you happen to be working with at the time.  Also\, rememb
+ er that layers are helpful with heating/air conditioning and time outdoors
+ .</p>\n<p>Please arrive at the Terra Studios Gallery at least 15 minutes b
+ efore your scheduled class time and check in at the register. Your teacher
+  will meet you in the Gallery.</p>
+DTSTART;TZID=America/Chicago:20150926T140000
+DTEND;TZID=America/Chicago:20150926T144500
+GEO:+35.93804;-93.978486
+LOCATION:Terra Studios @ 12103 Hazel Valley Road\, Fayetteville\, AR 72701\
+ , USA
+SEQUENCE:0
+SUMMARY:Dyed Silk Scarf – Mini Class (Dye 1 Scarf)
+URL:http://dev.vestrainteractive.com/terrastudios/event/dyed-silk-scarf-min
+ i-class-dye-1-scarf-2/
+X-TAGS;LANGUAGE=en-US:dyed silk scarf - mini class (dye 1 scarf)\,dyed silk
+  scarf - mini class (dye 1 scarf) at terra studios\,terra studios\,terra s
+ tudios art classes
+X-COST:$20.00
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2529@terrastudios.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Art Lab
+CONTACT:
+DESCRIPTION:<p><a href='http://dev.vestrainteractive.com/terrastudios/media
+ /0.MASTHEAD.CLASSES_opt.jpg'><img class='alignnone size-medium wp-image-10
+ 25' src='http://dev.vestrainteractive.com/terrastudios/media/0.MASTHEAD.CL
+ ASSES_opt-300x130.jpg' alt='0.MASTHEAD.CLASSES_opt' width='300' height='13
+ 0' /></a></p>\n<h3>ART LAB</h3>\n<p>Free to moderately priced arts and cra
+ fts projects for all ages from 1-4 PM.</p>
+DTSTART;TZID=America/Chicago:20150927T130000
+DTEND;TZID=America/Chicago:20150927T160000
+GEO:+35.93804;-93.978486
+LOCATION:Terra Studios @ 12103 Hazel Valley Road\, Fayetteville\, AR 72701\
+ , USA
+SEQUENCE:0
+SUMMARY:Art Lab
+URL:http://dev.vestrainteractive.com/terrastudios/event/art-lab-9/
+X-TAGS;LANGUAGE=en-US:art lab\,at lab at terra studios\,free to moderately 
+ priced arts and crafts projects at terra studios
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2531@terrastudios.com
+DTSTAMP:20150920T002134Z
+CATEGORIES;LANGUAGE=en-US:Sunday Music
+CONTACT:
+DESCRIPTION:<h3>Derrick Mears</h3>\n<p>Derrick is a local musician who play
+ s Americana music.  <a title='Sunday Music' href='http://dev.vestrainterac
+ tive.com/terrastudios/gallery-cafe/sunday-music/'>Sunday Music</a> at Terr
+ a is played at the Gallery from 1:00-4:00.  It is free to the public\, but
+  tips for the musicians are greatly appreciated.</p>
+DTSTART;TZID=America/Chicago:20150927T130000
+DTEND;TZID=America/Chicago:20150927T160000
+GEO:+35.93804;-93.978486
+LOCATION:Terra Studios @ 12103 Hazel Valley Road\, Fayetteville\, AR 72701\
+ , USA
+SEQUENCE:0
+SUMMARY:Derrick Mears – Sunday Music At Terra
+URL:http://dev.vestrainteractive.com/terrastudios/event/derrick-mears-sunda
+ y-music-at-terra-2/
+X-TAGS;LANGUAGE=en-US:Derrick Mears\,derrick mears at sunday music at terra
+ \,sunday music at terra
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1448 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//198.74.60.116//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://centralcoastfoodie.com
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-408@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16465' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/GreenGoldArtichoke.jpg' 
+ alt='GreenGoldArtichoke' width='100' height='100' data-id='16465' /><a tit
+ le='Aptos Farmers Market' href='http://www.montereybayfarmers.org/markets/
+ aptos' target='_blank'>market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150919T080000
+DTEND;TZID=America/Los_Angeles:20150919T120000
+GEO:+36.987276;-121.927039
+LOCATION:Cabrillo College @ 6500 Soquel Drive\, Aptos\, CA 95003\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Aptos
+URL:http://centralcoastfoodie.com/event/aptos/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-492@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings
+CONTACT:
+DESCRIPTION:<p><a title='San Luis Obispo Farmers Market\, Saturday' href='h
+ ttp://www.slocountyfarmers.org/ai1ec_event/saturday-morning-san-luis-obisp
+ o/?instance_id=13273' target='_blank'><img class='alignleft size-full wp-i
+ mage-16467' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/
+ RedWhiteCheeseDAIR.jpg' alt='RedWhiteCheeseDAIR' width='100' height='100' 
+ data-id='16467' />market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150919T080000
+DTEND;TZID=America/Los_Angeles:20150919T104500
+GEO:+35.26241;-120.678383
+LOCATION:Embassy Suites parking lot @ 323 Madonna Road\, San Luis Obispo\, 
+ CA 93405\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:San Luis Obispo—Westside
+URL:http://centralcoastfoodie.com/event/san-luis-obispo-westside/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-504@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Santa Barbara Farmers Market' href='http://www.sbf
+ armersmarket.org/events.php' target='_blank'><img class='alignleft size-fu
+ ll wp-image-16419' src='http://centralcoastfoodie.com/wp-content/uploads/2
+ 014/08/BlackRedRaspberries.jpg' alt='BlackRedRaspberries' width='100' heig
+ ht='100' data-id='16419' />market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150919T083000
+DTEND;TZID=America/Los_Angeles:20150919T130000
+GEO:+34.419891;-119.694461
+LOCATION:downtown promenade @ Santa Barbara Street & East Cota Street\, San
+ ta Barbara\, CA 93101\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Santa Barbara
+URL:http://centralcoastfoodie.com/event/santa-barbara-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-502@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings
+CONTACT:
+DESCRIPTION:<p><a title='Ventura Downtown Farmers Market' href='http://vccf
+ armersmarkets.com/ventura/' target='_blank'><img class='alignleft size-ful
+ l wp-image-16420' src='http://centralcoastfoodie.com/wp-content/uploads/20
+ 14/08/YellowPummelo.jpg' alt='YellowPummelo' width='100' height='100' data
+ -id='16420' />market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150919T083000
+DTEND;TZID=America/Los_Angeles:20150919T120000
+GEO:+34.279518;-119.296173
+LOCATION:downtown @ East Santa Clara Street & South Palm Street\, Ventura\,
+  CA 93001\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Ventura
+URL:http://centralcoastfoodie.com/event/ventura-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-526@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16412' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/GreenGrayYellowSquash.jp
+ g' alt='GreenGrayYellowSquash' width='100' height='100' data-id='16412' />
+ </p>
+DTSTART;TZID=America/Los_Angeles:20150919T090000
+DTEND;TZID=America/Los_Angeles:20150919T150000
+GEO:+36.322324;-121.244729
+LOCATION:Greenfield Public Library @ El Camino Real & Palm Avenue\, Greenfi
+ eld\, CA 93927\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Greenfield
+URL:http://centralcoastfoodie.com/event/greenfield/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-495@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Paso Robles Farmers Market' href='http://www.winec
+ oastcountry.com/play/paso-robles-farmers-market' target='_blank'><img clas
+ s='alignleft size-full wp-image-16418' src='http://centralcoastfoodie.com/
+ wp-content/uploads/2014/08/BlueberriesRedRaspberries.jpg' alt='Blueberries
+ RedRaspberries' width='100' height='100' data-id='16418' />market website<
+ /a></p>
+DTSTART;TZID=America/Los_Angeles:20150919T090000
+DTEND;TZID=America/Los_Angeles:20150919T130000
+GEO:+35.626156;-120.689365
+LOCATION:Paso Robles City Park @ City Park\, Paso Robles\, CA 93446\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Paso Robles
+URL:http://centralcoastfoodie.com/event/paso-robles-3/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-490@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16427' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/GreenMustardGreensCurly.
+ jpg' alt='GreenMustardGreensCurly' width='100' height='100' data-id='16427
+ ' /><a title='Oldtown Marketplace' href='https://www.facebook.com/theoldto
+ wnmarketplace' target='_blank'>market website</a></p>\n<p>SNAP</p>
+DTSTART;TZID=America/Los_Angeles:20150919T090000
+DTEND;TZID=America/Los_Angeles:20150919T140000
+GEO:+36.675645;-121.655265
+LOCATION:Old Town Marketplace @ Main Street & East Gabilan Street\, Salinas
+ \, CA 93901\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Salinas
+URL:http://centralcoastfoodie.com/event/salinas-4/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-486@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16426' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/GreenAsianGreens.jpg' al
+ t='GreenAsianGreens' width='100' height='100' data-id='16426' /><a title='
+ Santa Cruz Farmers Market\, Westside' href='http://www.santacruzfarmersmar
+ ket.org/markets/westside/' target='_blank'>market website</a> — Certified<
+ /p>\n<p>SNAP</p>
+DTSTART;TZID=America/Los_Angeles:20150919T090000
+DTEND;TZID=America/Los_Angeles:20150919T130000
+GEO:+36.959778;-122.056653
+LOCATION:Western & Mission @ Mission Street & Western Drive\, Santa Cruz\, 
+ CA 95060\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Santa Cruz—Westside
+URL:http://centralcoastfoodie.com/event/santa-cruz-westside/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-488@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Scott's Valley Farmers Market' href='http://www.sa
+ ntacruzfarmersmarket.org/markets/scotts-valley/' target='_blank'><img clas
+ s='alignleft size-full wp-image-16428' src='http://centralcoastfoodie.com/
+ wp-content/uploads/2014/08/RedGreenPurpleSwissChard.jpg' alt='RedGreenPurp
+ leSwissChard' width='100' height='100' data-id='16428' />market website</a
+ > — Certified</p>\n<p>April to November</p>\n<p>SNAP</p>
+DTSTART;TZID=America/Los_Angeles:20150919T090000
+DTEND;TZID=America/Los_Angeles:20150919T130000
+GEO:+37.05051;-122.028031
+LOCATION:Scotts Valley Community Center @ 360 Kings Village Road\, Scotts V
+ alley\, CA 95066\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Scotts Valley
+URL:http://centralcoastfoodie.com/event/santa-cruz/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-549@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16422' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/GreenLettuces.jpg' alt='
+ GreenLettuces' width='100' height='100' data-id='16422' /><a title='Shell 
+ Beach Farmers Market' href='http://www.beachcalifornia.com/events/shell-be
+ ach-saturday-farmers-market.html' target='_blank'>market website</a></p>\n
+ <p>April to November</p>
+DTSTART;TZID=America/Los_Angeles:20150919T090000
+DTEND;TZID=America/Los_Angeles:20150919T130000
+GEO:+35.155201;-120.665831
+LOCATION:Dinosaur Caves Park @ Shell Beach Road & Cliff Avenue\, Pismo Beac
+ h\, CA 93449\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Shell Beach
+URL:http://centralcoastfoodie.com/event/shell-beach/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-493@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16424' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/PurpleMustardGreens.jpg'
+  alt='PurpleMustardGreens' width='100' height='100' data-id='16424' /><a t
+ itle='Templeton Farmers Market' href='http://www.northcountyfarmersmarkets
+ .com/markets.htm#templeton' target='_blank'>market website</a></p>\n<p>SNA
+ P — CalFresh</p>
+DTSTART;TZID=America/Los_Angeles:20150919T090000
+DTEND;TZID=America/Los_Angeles:20150919T123000
+GEO:+35.548759;-120.707466
+LOCATION:Templeton Park @ Crocker Street & 6th Street\, Templeton\, CA 9346
+ 5\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Templeton
+URL:http://centralcoastfoodie.com/event/templeton/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-498@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Arroyo Grande Farmers Market' href='http://www.slo
+ countyfarmers.org/ai1ec_event/saturday-afternoons-arroyo-grande/?instance_
+ id=13082' target='_blank'><img class='alignleft size-full wp-image-16411' 
+ src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/Blueberry.jp
+ g' alt='Blueberry' width='100' height='100' data-id='16411' />market websi
+ te</a></p>
+DTSTART;TZID=America/Los_Angeles:20150919T120000
+DTEND;TZID=America/Los_Angeles:20150919T143000
+GEO:+35.124389;-120.576653
+LOCATION:Branch Street in the Village @ 300 East Branch Street\, Arroyo Gra
+ nde\, CA 93420\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Arroyo Grande
+URL:http://centralcoastfoodie.com/event/arroyo-grande-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-500@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Morro Bay Farmers Market' href='https://www.facebo
+ ok.com/morrobayfarmersmarket?rf=205945469445605' target='_blank'><img clas
+ s='alignleft size-full wp-image-16421' src='http://centralcoastfoodie.com/
+ wp-content/uploads/2014/08/PurpleLettuces.jpg' alt='PurpleLettuces' width=
+ '100' height='100' data-id='16421' />market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150919T140000
+DTEND;TZID=America/Los_Angeles:20150919T180000
+GEO:+35.366885;-120.85
+LOCATION:Morro Bay City Park @ Main Street & Harbor Street\, Morro Bay\, CA
+  93442\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Morro Bay
+URL:http://centralcoastfoodie.com/event/morro-bay-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-511@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings
+CONTACT:
+DESCRIPTION:<p><a title='Del Monte Farmers Market' href='http://www.montere
+ ybayfarmers.org/markets/del-monte-market' target='_blank'><img class='alig
+ nleft size-full wp-image-16417' src='http://centralcoastfoodie.com/wp-cont
+ ent/uploads/2014/08/GreenCherimoya.jpg' alt='GreenCherimoya' width='100' h
+ eight='100' data-id='16417' />market website</a> — Certified</p>\n<p>May t
+ o October</p>\n<p>WIC</p>
+DTSTART;TZID=America/Los_Angeles:20150920T080000
+DTEND;TZID=America/Los_Angeles:20150920T120000
+GEO:+36.585098;-121.894145
+LOCATION:Del Monte Shopping Center @ 1410 Del Monte Center\, Monterey\, CA 
+ 93940\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Monterey
+URL:http://centralcoastfoodie.com/event/monterey-4/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-514@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16414' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/GreenSeedlingsBlackFlat.
+ jpg' alt='GreenSeedlingsBlackFlat' width='100' height='100' data-id='16414
+ ' />April to November</p>\n<p>SNAP & WIC</p>
+DTSTART;TZID=America/Los_Angeles:20150920T080000
+DTEND;TZID=America/Los_Angeles:20150920T140000
+GEO:+36.714934;-121.616605
+LOCATION:Alvarez High School @ East Boronda Road & Independence Boulevard\,
+  Salinas\, CA 93906\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Salinas
+URL:http://centralcoastfoodie.com/event/salinas-5/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-539@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Ojai Market Website' href='http://www.ojaicertifie
+ dfarmersmarket.com' target='_blank'><img class='alignleft size-full wp-ima
+ ge-16404' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/Gr
+ eenBlackCaviarLimes.jpg' alt='GreenBlackCaviarLimes' width='100' height='1
+ 00' data-id='16404' />market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150920T090000
+DTEND;TZID=America/Los_Angeles:20150920T130000
+GEO:+34.448866;-119.244265
+LOCATION:behind the Arcade @ 300 East Matilija Street\, Ojai\, CA 93023\, U
+ SA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Ojai
+URL:http://centralcoastfoodie.com/event/ojai/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-520@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Live Oak Farmers Market' href='http://www.santacru
+ zfarmersmarket.org/markets/live-oakeastside/' target='_blank'><img class='
+ alignleft size-full wp-image-16413' src='http://centralcoastfoodie.com/wp-
+ content/uploads/2014/08/OrangeGreenYellowSquash.jpg' alt='OrangeGreenYello
+ wSquash' width='100' height='100' data-id='16413' />market website</a> — C
+ ertified</p>\n<p>SNAP</p>
+DTSTART;TZID=America/Los_Angeles:20150920T090000
+DTEND;TZID=America/Los_Angeles:20150920T130000
+GEO:+36.963514;-121.990893
+LOCATION:Eastside @ East Cliff Drive & 15th Avenue\, Santa Cruz\, CA 95062\
+ , USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Santa Cruz—Live Oak
+URL:http://centralcoastfoodie.com/event/santa-cruz-live-oak/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-541@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Goleta Farmers Market' href='http://www.sbfarmersm
+ arket.org/events.php' target='_blank'><img class='alignleft size-full wp-i
+ mage-16407' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/
+ RedApples.jpg' alt='RedApples' width='100' height='100' data-id='16407' />
+ market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150920T100000
+DTEND;TZID=America/Los_Angeles:20150920T140000
+GEO:+34.429353;-119.869571
+LOCATION:Camino Real Marketplace @ Storke & Hollister\, Storke Plaza\, Gole
+ ta\, CA 93117\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Goleta
+URL:http://centralcoastfoodie.com/event/goleta-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-527@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a href='http://mccf.wpengine.com/wp-content/uploads/2014/08
+ /RedYellowPeppers.jpg'><img class='alignleft size-full wp-image-16410' src
+ ='http://centralcoastfoodie.com/wp-content/uploads/2014/08/RedYellowPepper
+ s.jpg' alt='RedYellowPeppers' width='100' height='100' data-id='16410' /><
+ /a><a title='Marina Farmers Market' href='http://everyonesharvest.org/farm
+ ers-markets/marina/' target='_blank'>market website</a> — Certified</p>\n<
+ p>SNAP & WIC</p>
+DTSTART;TZID=America/Los_Angeles:20150920T100000
+DTEND;TZID=America/Los_Angeles:20150920T140000
+GEO:+36.687637;-121.79801
+LOCATION:Marina Village Shopping Center @ 215 Reservation Road\, Marina Vil
+ lage Shopping Center\, Marina\, CA 93933\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Marina
+URL:http://centralcoastfoodie.com/event/marina/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-542@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Oxnard Farmers Market' href='http://www.ci.oxnard.
+ ca.us/page/22/533' target='_blank'><img class='alignleft size-full wp-imag
+ e-16406' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/Blu
+ eGoldSardine.jpg' alt='BlueGoldSardine' width='100' height='100' data-id='
+ 16406' />market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150920T100000
+DTEND;TZID=America/Los_Angeles:20150920T140000
+GEO:+34.167067;-119.229138
+LOCATION:Channel Islands Harbor @ 3600 South Harbor Boulevard\, Oxnard\, CA
+  93035\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Oxnard
+URL:http://centralcoastfoodie.com/event/oxnard-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-536@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='San Luis Obispo Certified Farmers Market' href='ht
+ tp://www.sloccfm.com' target='_blank'><img class='alignleft size-full wp-i
+ mage-16462' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/
+ PurplePeaFlowers.jpg' alt='PurplePeaFlowers' width='100' height='100' data
+ -id='16462' />market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150920T100000
+DTEND;TZID=America/Los_Angeles:20150920T140000
+GEO:+35.247746;-120.670246
+LOCATION:Kennedy Fitness parking lot @ 3889 Long Street\, San Luis Obispo\,
+  CA 93401\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:San Luis Obispo—Southside
+URL:http://centralcoastfoodie.com/event/san-luis-obispo-southside/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-518@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Watsonville Farmers Market' href='http://www.beach
+ california.com/events/watsonville-fairgrounds-cfm-sunday-farmers-market.ht
+ ml' target='_blank'><img class='alignleft size-full wp-image-16416' src='h
+ ttp://centralcoastfoodie.com/wp-content/uploads/2014/08/RedWatermelon.jpg'
+  alt='RedWatermelon' width='100' height='100' data-id='16416' />market web
+ site</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150920T100000
+DTEND;TZID=America/Los_Angeles:20150920T150000
+GEO:+36.950812;-121.735057
+LOCATION:Santa Cruz County Fairgrounds @ 2601 East Lake Avenue\, Santa Cruz
+  County Fairgrounds\, Watsonville\, CA 95076\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Watsonville
+URL:http://centralcoastfoodie.com/event/watsonville-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-535@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Aptos Farmers Market' href='https://www.facebook.c
+ om/pages/Seascape-Village-Certified-Farmers-Market/141332925898969' target
+ ='_blank'><img class='alignleft size-full wp-image-16405' src='http://cent
+ ralcoastfoodie.com/wp-content/uploads/2014/08/RedSalmonLemons.jpg' alt='Re
+ dSalmonLemons' width='100' height='100' data-id='16405' />market website</
+ a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150920T110000
+DTEND;TZID=America/Los_Angeles:20150920T140000
+GEO:+36.9524;-121.876662
+LOCATION:Seascape Village Courtyard @ 16 Seascape Village\, Seascape Villag
+ e Shopping Center\, Aptos\, CA 95003\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Aptos
+URL:http://centralcoastfoodie.com/event/aptos-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-537@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Nipomo Farmers Market' href='http://www.nipomofarm
+ ersmarket.com' target='_blank'><img class='alignleft size-full wp-image-16
+ 409' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/RedOran
+ geGreenTomatoes.jpg' alt='RedOrangeGreenTomatoes' width='100' height='100'
+  data-id='16409' />market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150920T113000
+DTEND;TZID=America/Los_Angeles:20150920T143000
+GEO:+35.031326;-120.553726
+LOCATION:near Monarch Club tennis courts @ 1645 Trilogy Parkway\, Nipomo\, 
+ CA 93444\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Nipomo
+URL:http://centralcoastfoodie.com/event/nipomo/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-538@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Grover Beach Farmers Market' href='http://www.farm
+ ersmarketonline.com/fm/GroverBeachFarmersMarket.html' target='_blank'>mark
+ et website</a><a href='http://www.farmersmarketonline.com/fm/GroverBeachFa
+ rmersMarket.html' target='_blank'><img class='alignleft wp-image-16408 siz
+ e-full' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/Brow
+ nBread.jpg' alt='BrownBread' width='100' height='100' data-id='16408' /></
+ a></p>\n<p>June to September</p>
+DTSTART;TZID=America/Los_Angeles:20150920T150000
+DTEND;TZID=America/Los_Angeles:20150920T180000
+GEO:+35.12279;-120.619743
+LOCATION:Ramona Garden Park Center @ 993 Ramona Avenue\, Grover Beach\, CA 
+ 93433\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Grover Beach
+URL:http://centralcoastfoodie.com/event/grover-beach/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-374@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16466' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/YellowCauliflower.jpg' a
+ lt='YellowCauliflower' width='100' height='100' data-id='16466' />Gate 8 —
+  Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150921T090000
+DTEND;TZID=America/Los_Angeles:20150921T160000
+GEO:+36.594153;-121.865542
+LOCATION:Monterey Fairgrounds @ 2004 Fairground Road\, Monterey\, CA 93940\
+ , USA
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Monterey
+URL:http://centralcoastfoodie.com/event/monterey/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-347@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a href='http://www.northcountyfarmersmarkets.com/markets.ht
+ m#paso' target='blank''> <img class='alignleft size-full wp-image-16464' s
+ rc='http://centralcoastfoodie.com/wp-content/uploads/2014/08/OrangeRoasted
+ Squash.jpg' alt='OrangeRoastedSquash' width='100' height='100' data-id='16
+ 464' />market website</a></p>\n<p>SNAP — CalFresh</p>
+DTSTART;TZID=America/Los_Angeles:20150921T140000
+DTEND;TZID=America/Los_Angeles:20150921T163000
+GEO:+35.328309;-120.839066
+LOCATION:downtown Baywood @ 740 Santa Maria Avenue\, Los Osos\, CA 93402\, 
+ USA
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Baywood—Los Osos
+URL:http://centralcoastfoodie.com/event/baywood-los-osos/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-349@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Pacific Grove' href='http://everyonesharvest.org/f
+ armers-markets/pacific-grove/' target='_blank'><img class='alignleft size-
+ full wp-image-16456' src='http://centralcoastfoodie.com/wp-content/uploads
+ /2014/08/RedTomatoesGreenShoulders.jpg' alt='RedTomatoesGreenShoulders' wi
+ dth='100' height='100' data-id='16456' />market website</a> — Certified</p
+ >\n<p>3 – 6pm (winter)</p>\n<p>SNAP & WIC</p>\n<p><span style='color: #000
+ 000\;'><br />\n</span><span style='color: #000000\;'><br />\n</span></p>
+DTSTART;TZID=America/Los_Angeles:20150921T150000
+DTEND;TZID=America/Los_Angeles:20150921T190000
+GEO:+36.622076;-121.916696
+LOCATION:Jewell Park @ Central Avenue & Grand Avenue\, Pacific Grove\, CA 9
+ 3950\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Pacific Grove
+URL:http://centralcoastfoodie.com/event/pacific-grove/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16387@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Seaside Farmers Market' href='http://www.farmersma
+ rketonline.com/fm/SeasideFarmersMarket.html' target='_blank'><img class='a
+ lignleft size-full wp-image-16459' src='http://centralcoastfoodie.com/wp-c
+ ontent/uploads/2014/08/GreenBabyGreens.jpg' alt='GreenBabyGreens' width='1
+ 00' height='100' data-id='16459' />market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150921T160000
+DTEND;TZID=America/Los_Angeles:20150921T200000
+GEO:+36.614022;-121.843024
+LOCATION:University Plaza Shopping Center @ Fremont Boulevard & Echo Avenue
+ \, Seaside\, CA 93955\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Seaside
+URL:http://centralcoastfoodie.com/event/seaside/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-355@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Carmel Farmers Market' href='http://www.montereyba
+ yfarmers.org/markets/carmel-markets' target='_blank'><img class='alignleft
+  size-full wp-image-16436' src='http://centralcoastfoodie.com/wp-content/u
+ ploads/2014/08/GoldenHoney.jpg' alt='GoldenHoney' width='100' height='100'
+  data-id='16436' />market website</a> — Certified</p>\n<p>May to October</
+ p>\n<p>WIC</p>
+DTSTART;TZID=America/Los_Angeles:20150922T090000
+DTEND;TZID=America/Los_Angeles:20150922T130000
+GEO:+36.540496;-121.906946
+LOCATION:The Barnyard Shopping Center @ The Barnyard\, Carmel\, CA 93923\, 
+ USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Carmel
+URL:http://centralcoastfoodie.com/event/carmel/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-351@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Orcutt Farmers Market' href='http://www.local-farm
+ ers-markets.com/market/529/orcutt/orcutt-farmers-market' target='_blank'><
+ img class='alignleft size-full wp-image-16458' src='http://centralcoastfoo
+ die.com/wp-content/uploads/2014/08/OrangeMelon.jpg' alt='OrangeMelon' widt
+ h='100' height='100' data-id='16458' />market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150922T100000
+DTEND;TZID=America/Los_Angeles:20150922T130000
+GEO:+34.864934;-120.41875
+LOCATION:Bradley & Clark Roads @ East Clark Avenue & South Bradley Road\, O
+ ak Knoll Shopping Center\, Orcutt\, CA 93455\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Orcutt
+URL:http://centralcoastfoodie.com/event/orcutt/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-356@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Alisal Market' href='http://www.beachcalifornia.co
+ m/events/alisal-community-farmers-market-tuesday-farmers-market.html' targ
+ et='_blank'><img class='alignleft size-full wp-image-16457' src='http://ce
+ ntralcoastfoodie.com/wp-content/uploads/2014/08/Blackberries_CHGA.jpg' alt
+ ='Blackberries_CHGA' width='100' height='100' data-id='16457' />market web
+ site</a> — Certified</p>\n<p>June to October</p>\n<p>SNAP & WIC</p>
+DTSTART;TZID=America/Los_Angeles:20150922T110000
+DTEND;TZID=America/Los_Angeles:20150922T161500
+GEO:+36.673601;-121.633671
+LOCATION:Gabby Plaza @ East Alisal Street & North Pearl Street\, Salinas\, 
+ CA 93905\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Salinas—Alisal
+URL:http://centralcoastfoodie.com/event/salinas/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-357@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Farm and Garden Market Cart' href='http://casfs.uc
+ sc.edu/community/produce-sales/farm-and-garden-market-cart.html' target='_
+ blank'><img class='alignleft size-full wp-image-16461' src='http://central
+ coastfoodie.com/wp-content/uploads/2014/08/BlueGreenBroccoli.jpg' alt='Blu
+ eGreenBroccoli' width='100' height='100' data-id='16461' />market cart web
+ site</a></p>\n<p>June through October</p>
+DTSTART;TZID=America/Los_Angeles:20150922T120000
+DTEND;TZID=America/Los_Angeles:20150922T180000
+GEO:+36.977207;-122.053772
+LOCATION:UC Santa Cruz campus @ High Street & Bay Drive\, University of Cal
+ ifornia\, Santa Cruz\, Santa Cruz\, CA 95064\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Farm and Garden Market Cart
+URL:http://centralcoastfoodie.com/event/santa-cruz-ucsc/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-361@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Felton Farmers Market' href='http://www.santacruzf
+ armersmarket.org/markets/felton/' target='_blank'><img class='alignleft si
+ ze-full wp-image-16455' src='http://centralcoastfoodie.com/wp-content/uplo
+ ads/2014/08/YellowTomatoes.jpg' alt='YellowTomatoes' width='100' height='1
+ 00' data-id='16455' />market website</a> — Certified</p>\n<p>May to Octobe
+ r</p>\n<p>Market Match with CalFresh\, SNAP & WIC</p>
+DTSTART;TZID=America/Los_Angeles:20150922T143000
+DTEND;TZID=America/Los_Angeles:20150922T183000
+GEO:+37.047845;-122.07339
+LOCATION:St. John’s Catholic Church @ Highway 9 & Russell Avenue\, Felton\,
+  CA 95018\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Santa Cruz—Felton
+URL:http://centralcoastfoodie.com/event/santa-cruz-felton/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-353@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a href='http://mccf.wpengine.com/wp-content/uploads/2014/07
+ /OrangePumpkinsGreenLeaves.jpg'><img class='alignleft size-full wp-image-1
+ 6423' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/Purple
+ GreenHerbsGreens.jpg' alt='PurpleGreenHerbsGreens' width='100' height='100
+ ' data-id='16423' /></a><a href='http://www.northcountyfarmersmarkets.com/
+ markets.htm#paso' target='blank''>market website<br />\n</a></p>\n<p>SNAP 
+ — CalFresh</p>
+DTSTART;TZID=America/Los_Angeles:20150922T150000
+DTEND;TZID=America/Los_Angeles:20150922T180000
+GEO:+35.626156;-120.689365
+LOCATION:Paso Robles City Park @ City Park\, Paso Robles\, CA 93446\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Paso Robles
+URL:http://centralcoastfoodie.com/event/paso-robles/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-354@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16453' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/GreenWispyFronds.jpg' al
+ t='GreenWispyFronds' width='100' height='100' data-id='16453' /><a title='
+ SLO Grange Farmers Market' href='https://www.facebook.com/SloGrangeTuesday
+ FarmersMarket' target='_blank'>market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150922T150000
+DTEND;TZID=America/Los_Angeles:20150922T180000
+GEO:+35.263914;-120.651021
+LOCATION:San Luis Obispo Grange Hall @ 2880 Broad Street\, San Luis Obispo\
+ , CA 93401\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:San Luis Obispo
+URL:http://centralcoastfoodie.com/event/san-luis-obispo/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16388@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Old Town Monterey Farmers Market' href='http://www
+ .oldmonterey.org/oldmonterey/farmers-market-old-monterey-marketplace' targ
+ et='_blank'><img class='alignleft size-full wp-image-16452' src='http://ce
+ ntralcoastfoodie.com/wp-content/uploads/2014/08/OrangeEatYourVeggies.jpg' 
+ alt='OrangeEatYourVeggies' width='100' height='100' data-id='16452' />mark
+ et website</a></p>\n<p>4-7 pm (winter)</p>\n<p>SNAP</p>\n<p> </p>
+DTSTART;TZID=America/Los_Angeles:20150922T160000
+DTEND;TZID=America/Los_Angeles:20150922T200000
+GEO:+36.597724;-121.89491
+LOCATION:Old Town Monterey @ Pearl Street & Alvarado Street\, Monterey\, CA
+  93940\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Monterey
+URL:http://centralcoastfoodie.com/event/old-town-monterey/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-352@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16462' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/PurplePeaFlowers.jpg' al
+ t='PurplePeaFlowers' width='100' height='100' data-id='16462' /><a title='
+ Santa Barbara County Farmers Markets' href='http://www.sbfarmersmarket.org
+ /events.php' target='_blank'>market website</a> — Certified</p>\n<p>3 – 6:
+ 30pm (winter)</p>
+DTSTART;TZID=America/Los_Angeles:20150922T160000
+DTEND;TZID=America/Los_Angeles:20150922T193000
+GEO:+34.415863;-119.694233
+LOCATION:Old Town State Street @ State Street & Gutierrez Street\, Santa Ba
+ rbara\, CA 93101\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Santa Barbara
+URL:http://centralcoastfoodie.com/event/santa-barbara/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-370@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings
+CONTACT:
+DESCRIPTION:<p><a title='Arroyo Grande Farmers Market' href='http://www.slo
+ countyfarmers.org/ai1ec_event/wednesday-mornings-arroyo-grande/?instance_i
+ d=12167' target='_blank'><img class='alignleft size-full wp-image-16451' s
+ rc='http://centralcoastfoodie.com/wp-content/uploads/2014/08/YellowGreenBr
+ ownMixedVeggies.jpg' alt='YellowGreenBrownMixedVeggies' width='100' height
+ ='100' data-id='16451' />market website</a></p>\n<p> </p>
+DTSTART;TZID=America/Los_Angeles:20150923T083000
+DTEND;TZID=America/Los_Angeles:20150923T110000
+GEO:+35.122126;-120.605838
+LOCATION:Smart & Final parking lot @ 1464 East Grand Avenue\, Arroyo Town a
+ nd Country Square Shopping Center\, Arroyo Grande\, CA 93420\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Arroyo Grande
+URL:http://centralcoastfoodie.com/event/arroyo-grande/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-367@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Midtown Ventura Farmers Market' href='http://vccfa
+ rmersmarkets.com/ventura/' target='_blank'><img class='alignleft size-full
+  wp-image-16450' src='http://centralcoastfoodie.com/wp-content/uploads/201
+ 4/08/GreenCilantroBroccoli.jpg' alt='GreenCilantroBroccoli' width='100' he
+ ight='100' data-id='16450' />market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150923T090000
+DTEND;TZID=America/Los_Angeles:20150923T130000
+GEO:+34.268484;-119.248655
+LOCATION:Midtown\, Pacific View Mall @ 3301 East Main Street\, Ventura\, CA
+  93003\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Ventura
+URL:http://centralcoastfoodie.com/event/ventura/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-363@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Salinas Natividad Farmers Market' href='http://eve
+ ryonesharvest.org/farmers-markets/natividad-medical-center-certified-farme
+ rs-market/' target='_blank'><img class='alignleft size-full wp-image-16449
+ ' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/GreenCauli
+ flowerCilantro.jpg' alt='GreenCauliflowerCilantro' width='100' height='100
+ ' data-id='16449' />market website</a></p>\n<p>SNAP & WIC</p>
+DTSTART;TZID=America/Los_Angeles:20150923T110000
+DTEND;TZID=America/Los_Angeles:20150923T153000
+GEO:+36.697376;-121.633161
+LOCATION:Natividad Medical Center @ 1441 Constitution Boulevard\, Salinas\,
+  CA 93906\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Salinas
+URL:http://centralcoastfoodie.com/event/salinas-natividad/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-368@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><span style='color: #222222\;'><a title='Central City Farmer
+ s Market' href='http://www.farmersmarketonline.com/fm/CentralCityCertified
+ FarmersMarketSantaMaria.html' target='_blank'><img class='alignleft size-f
+ ull wp-image-16448' src='http://centralcoastfoodie.com/wp-content/uploads/
+ 2014/08/YellowRedWhiteEdibleFlowers.jpg' alt='YellowRedWhiteEdibleFlowers'
+  width='100' height='100' data-id='16448' /></a></span><a title='Central C
+ ity Farmers Market' href='http://www.farmersmarketonline.com/fm/CentralCit
+ yCertifiedFarmersMarketSantaMaria.html' target='_blank'>market website</a>
+  — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150923T120000
+DTEND;TZID=America/Los_Angeles:20150923T160000
+GEO:+34.953054;-120.435955
+LOCATION:Town Center West parking lot @ West Main Street & South Broadway\,
+  Santa Maria\, CA 93454\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Santa Maria
+URL:http://centralcoastfoodie.com/event/santa-maria/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-364@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Santa Cruz Downtown' href='http://www.santacruzfar
+ mersmarket.org/markets/downtown-santa-cruz/' target='_blank'><img class='a
+ lignleft size-full wp-image-16447' src='http://centralcoastfoodie.com/wp-c
+ ontent/uploads/2014/08/OrangeEdibleFlowers.jpg' alt='OrangeEdibleFlowers' 
+ width='100' height='100' data-id='16447' />market website</a> — Certified<
+ /p>\n<p>1:30-5:30pm (winter)</p>\n<p>SNAP & Veggie Valet</p>
+DTSTART;TZID=America/Los_Angeles:20150923T133000
+DTEND;TZID=America/Los_Angeles:20150923T183000
+GEO:+36.972476;-122.027037
+LOCATION:downtown @ Cedar Street & Lincoln Street\, Santa Cruz\, CA 95060\,
+  USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Santa Cruz
+URL:http://centralcoastfoodie.com/event/santa-cruz-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-369@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Santa Barbara County Farmers Markets' href='http:/
+ /www.sbfarmersmarket.org/events.php' target='_blank'><img class='alignleft
+  size-full wp-image-16446' src='http://centralcoastfoodie.com/wp-content/u
+ ploads/2014/08/GreenSwissChard.jpg' alt='GreenSwissChard' width='100' heig
+ ht='100' data-id='16446' />market website</a> — Certified</p>\n<p>2:30 – 6
+ pm Winter</p>
+DTSTART;TZID=America/Los_Angeles:20150923T143000
+DTEND;TZID=America/Los_Angeles:20150923T183000
+GEO:+34.594972;-120.139817
+LOCATION:Solvang Village @ 1st Street & Copenhagen Drive\, Solvang\, CA 934
+ 63\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Solvang
+URL:http://centralcoastfoodie.com/event/solvang/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-371@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Atascadero Farmers Market' href='http://www.northc
+ ountyfarmersmarkets.com/markets.htm#atascadero' target='_blank'><img class
+ ='alignleft size-full wp-image-16444' src='http://centralcoastfoodie.com/w
+ p-content/uploads/2014/08/GreenPadronPeppers.jpg' alt='GreenPadronPeppers'
+  width='100' height='100' data-id='16444' />market website</a></p>\n<p>SNA
+ P — CalFresh</p>
+DTSTART;TZID=America/Los_Angeles:20150923T150000
+DTEND;TZID=America/Los_Angeles:20150923T180000
+GEO:+35.475299;-120.656758
+LOCATION:Albertson's parking lot @ 8200 El Camino Real\, Atascadero\, CA 93
+ 422\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Atascadero
+URL:http://centralcoastfoodie.com/event/atascadero/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-365@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p> </p>\n<p><a title='Hollister Farmers Market' href='http://d
+ owntownhollister.org/farmersmarket.php' target='_blank'><img class='alignl
+ eft size-full wp-image-16468' src='http://centralcoastfoodie.com/wp-conten
+ t/uploads/2014/08/YellowWhiteGarlic.jpg' alt='YellowWhiteGarlic' width='10
+ 0' height='100' data-id='16468' />market website</a> — Certified</p>\n<p>M
+ ay to September</p>
+DTSTART;TZID=America/Los_Angeles:20150923T150000
+DTEND;TZID=America/Los_Angeles:20150923T193000
+GEO:+36.851461;-121.402084
+LOCATION:downtown @ San Benito Street & 5th Street\, Hollister\, CA 95023\,
+  USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Hollister
+URL:http://centralcoastfoodie.com/event/hollister/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-372@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Pismo Beach Farmer Market' href='http://www.pismoc
+ hamber.com/FarmersMarket.asp' target='_blank'><img class='alignleft size-f
+ ull wp-image-16445' src='http://centralcoastfoodie.com/wp-content/uploads/
+ 2014/08/YellowPurpleEdibleFlowers.jpg' alt='YellowPurpleEdibleFlowers' wid
+ th='100' height='100' data-id='16445' />market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150923T150000
+DTEND;TZID=America/Los_Angeles:20150923T190000
+GEO:+35.138287;-120.644732
+LOCATION:the pier @ Pismo Beach Pier\, Pismo Beach\, CA 93449\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Pismo Beach
+URL:http://centralcoastfoodie.com/event/pismo-beach/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-391@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Oxnard Farmers Market' href='http://www.coastalpac
+ ific.info/oxnard.php' target='_blank'><img class='alignleft size-full wp-i
+ mage-16443' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/
+ OrangeApricot.jpg' alt='OrangeApricot' width='100' height='100' data-id='1
+ 6443' />market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150924T090000
+DTEND;TZID=America/Los_Angeles:20150924T130000
+GEO:+34.197531;-119.179834
+LOCATION:Plaza Park @ West 5th Street & South B Street\, Oxnard\, CA 93030\
+ , USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Oxnard
+URL:http://centralcoastfoodie.com/event/oxnard/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-389@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Morro Bay Farmers Market' href='http://www.slocoun
+ tyfarmers.org/ai1ec_event/thursday-afternoons-morro-bay/?instance_id=6878'
+  target='_blank'><img class='alignleft size-full wp-image-16441' src='http
+ ://centralcoastfoodie.com/wp-content/uploads/2014/08/AmberOranges.jpg' alt
+ ='AmberOranges' width='100' height='100' data-id='16441' />market website<
+ /a></p>\n<p>near Taco Temple</p>
+DTSTART;TZID=America/Los_Angeles:20150924T143000
+DTEND;TZID=America/Los_Angeles:20150924T170000
+GEO:+35.389954;-120.857126
+LOCATION:Spencer's parking lot @ 2650 Main Street\, Morro Bay\, CA 93442\, 
+ USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Morro Bay
+URL:http://centralcoastfoodie.com/event/morro-bay/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-392@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Santa Barbara County Farmers Markets' href='http:/
+ /www.sbfarmersmarket.org/events.php' target='_blank'><img class='alignleft
+  size-full wp-image-16439' src='http://centralcoastfoodie.com/wp-content/u
+ ploads/2014/08/GreenOnionsGreens.jpg' alt='GreenOnionsGreens' width='100' 
+ height='100' data-id='16439' />market website</a> — Certified</p>
+DTSTART;TZID=America/Los_Angeles:20150924T150000
+DTEND;TZID=America/Los_Angeles:20150924T180000
+GEO:+34.427903;-119.874468
+LOCATION:Camino Real Marketplace  @ Marketplace Dr\, Goleta\, CA 93117\, US
+ A
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Goleta
+URL:http://centralcoastfoodie.com/event/goleta/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16389@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p> </p>\n<p><a title='Carpinteria Farmers Market' href='http:/
+ /www.carpinteria.com/activities/farmers_market/' target='_blank'><img clas
+ s='alignleft size-full wp-image-16438' src='http://centralcoastfoodie.com/
+ wp-content/uploads/2014/08/RedRadishes.jpg' alt='RedRadishes' width='100' 
+ height='100' data-id='16438' />market website</a></p>\n<p><span style='col
+ or: #000000\;'>3 – 6pm (winter)</span></p>
+DTSTART;TZID=America/Los_Angeles:20150924T160000
+DTEND;TZID=America/Los_Angeles:20150924T190000
+GEO:+34.397573;-119.519966
+LOCATION:Linden Avenue @ 800 Linden Avenue\, Carpinteria\, CA 93013\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Carpinteria
+URL:http://centralcoastfoodie.com/event/carpinteria/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-387@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><span style='color: #000000\;'><img class='alignleft size-fu
+ ll wp-image-16442' src='http://centralcoastfoodie.com/wp-content/uploads/2
+ 014/08/RedGreenSwissChard.jpg' alt='RedGreenSwissChard' width='100' height
+ ='100' data-id='16442' />705 California Street</span></p>
+DTSTART;TZID=America/Los_Angeles:20150924T160000
+DTEND;TZID=America/Los_Angeles:20150924T200000
+GEO:+36.666462;-121.650828
+LOCATION:Lincoln Elementary @ 705 California Street\, Salinas\, CA 93901\, 
+ USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Salinas
+URL:http://centralcoastfoodie.com/event/salinas-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-385@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Soledad Farmers Market' href='https://www.facebook
+ .com/SoledadFamersMarket?sk=wall' target='_blank'><img class='alignleft si
+ ze-full wp-image-16419' src='http://centralcoastfoodie.com/wp-content/uplo
+ ads/2014/08/BlackRedRaspberries.jpg' alt='BlackRedRaspberries' width='100'
+  height='100' data-id='16419' /></a><a title='Soledad Farmers Market' href
+ ='https://www.facebook.com/SoledadFamersMarket?sk=wall' target='_blank'>ma
+ rket website</a></p>\n<p>May to September</p>\n<p>SNAP & WIC</p>
+DTSTART;TZID=America/Los_Angeles:20150924T160000
+DTEND;TZID=America/Los_Angeles:20150924T200000
+GEO:+36.42903;-121.325445
+LOCATION:downtown Soledad @ Soledad Street\, Soledad\, CA 93960\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Soledad
+URL:http://centralcoastfoodie.com/event/soledad/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-390@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='San Luis Obispo Farmers Market' href='http://www.s
+ locountyfarmers.org/ai1ec_event/thursday-evenings-san-luis-obispo/?instanc
+ e_id=10584' target='_blank'><img class='alignleft size-full wp-image-16437
+ ' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/DarkYellow
+ Lemons.jpg' alt='DarkYellowLemons' width='100' height='100' data-id='16437
+ ' />market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150924T181000
+DTEND;TZID=America/Los_Angeles:20150924T210000
+GEO:+35.278882;-120.664489
+LOCATION:downtown    @ Broad Street & Higuera Street\, San Luis Obispo\, CA
+  93401\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:San Luis Obispo
+URL:http://centralcoastfoodie.com/event/san-luis-obispo-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-399@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings
+CONTACT:
+DESCRIPTION:<p><a title='Santa Barbara County Farmers Markets' href='http:/
+ /www.sbfarmersmarket.org/events.php' target='_blank'><img class='alignleft
+  size-full wp-image-16425' src='http://centralcoastfoodie.com/wp-content/u
+ ploads/2014/08/PinkCosmosBee.jpg' alt='PinkCosmosBee' width='100' height='
+ 100' data-id='16425' />market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150925T080000
+DTEND;TZID=America/Los_Angeles:20150925T111500
+GEO:+34.421476;-119.647718
+LOCATION:Coast Village Road @ 1100 Coast Village Road\, Santa Barbara\, CA 
+ 93108\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Montecito
+URL:http://centralcoastfoodie.com/event/montecito/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-406@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings
+CONTACT:
+DESCRIPTION:<p><a title='Paso Robles Farmers Market' href='http://www.winec
+ oastcountry.com/play/paso-robles-farmers-market' target='_blank'><img clas
+ s='alignleft size-full wp-image-16463' src='http://centralcoastfoodie.com/
+ wp-content/uploads/2014/08/PurplePeas.jpg' alt='PurplePeas' width='100' he
+ ight='100' data-id='16463' />market website</a></p>
+DTSTART;TZID=America/Los_Angeles:20150925T090000
+DTEND;TZID=America/Los_Angeles:20150925T120000
+GEO:+35.615067;-120.68028
+LOCATION:Walmart parking lot @ Niblick Road & South River Road\, Paso Roble
+ s\, CA 93446\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Paso Robles
+URL:http://centralcoastfoodie.com/event/paso-robles-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-407@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings
+CONTACT:
+DESCRIPTION:<p><span style='color: #000000\;'><a title='Cayucos Farmers Mar
+ ket' href='http://www.local-farmers-markets.com/market/308/cayucos/cayucos
+ -farmers-market' target='_blank'><img class='alignleft size-full wp-image-
+ 16434' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/Silve
+ rGreenFavaBeans.jpg' alt='SilverGreenFavaBeans' width='100' height='100' d
+ ata-id='16434' />market website </a></span></p>\n<p><span style='color: #0
+ 00000\;'>March to November</span></p>
+DTSTART;TZID=America/Los_Angeles:20150925T093000
+DTEND;TZID=America/Los_Angeles:20150925T120000
+GEO:+35.449578;-120.906015
+LOCATION:Veterans Hall parking lot @ 10 Cayucos Drive\, Cayucos\, CA 93430\
+ , USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Cayucos
+URL:http://centralcoastfoodie.com/event/cayucos/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-401@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:AM mornings\,PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Monterey Farmers Market' href='http://www.monterey
+ bayfarmers.org/markets/monterey-market' target='_blank'><img class='alignl
+ eft size-full wp-image-16433' src='http://centralcoastfoodie.com/wp-conten
+ t/uploads/2014/08/RedGoldOlives.jpg' alt='RedGoldOlives' width='100' heigh
+ t='100' data-id='16433' />market website</a> — Certified</p>\n<p>WIC</p>
+DTSTART;TZID=America/Los_Angeles:20150925T100000
+DTEND;TZID=America/Los_Angeles:20150925T140000
+GEO:+36.594007;-121.884121
+LOCATION:Monterey Peninsula College @ 930 Fremont Street\, Monterey\, CA 93
+ 940\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Monterey
+URL:http://centralcoastfoodie.com/event/monterey-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-386@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Farm and Garden Market Cart' href='http://casfs.uc
+ sc.edu/community/produce-sales/farm-and-garden-market-cart.html' target='_
+ blank'><img class='alignleft size-full wp-image-16461' src='http://central
+ coastfoodie.com/wp-content/uploads/2014/08/BlueGreenBroccoli.jpg' alt='Blu
+ eGreenBroccoli' width='100' height='100' data-id='16461' />market cart web
+ site</a></p>\n<p>June through October</p>
+DTSTART;TZID=America/Los_Angeles:20150925T120000
+DTEND;TZID=America/Los_Angeles:20150925T180000
+GEO:+36.977207;-122.053772
+LOCATION:UC Santa Cruz campus @ High Street & Bay Drive\, University of Cal
+ ifornia\, Santa Cruz\, Santa Cruz\, CA 95064\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Farm and Garden Market Cart
+URL:http://centralcoastfoodie.com/event/santa-cruz-ucsc-2/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-400@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16432' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/PurpleGreenGreens.jpg' a
+ lt='PurpleGreenGreens' width='100' height='100' data-id='16432' />Ocean & 
+ I Streets</p>
+DTSTART;TZID=America/Los_Angeles:20150925T140000
+DTEND;TZID=America/Los_Angeles:20150925T180000
+GEO:+34.638942;-120.459177
+LOCATION:Ocean & I Streets @ West Ocean Avenue & South I Street\, Lompoc\, 
+ CA 93436\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Lompoc
+URL:http://centralcoastfoodie.com/event/lompoc/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Southern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-551@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Cambria Farmers Market' href='http://www.cambriafa
+ rmersmarket.com' target='_blank'><img class='alignleft size-full wp-image-
+ 16493' src='http://centralcoastfoodie.com/wp-content/uploads/2014/08/Golde
+ nOliveOil.jpg' alt='GoldenOliveOil' width='100' height='100' data-id='1649
+ 3' />market website</a></p>\n<p>2:30-5pm (winter)</p>
+DTSTART;TZID=America/Los_Angeles:20150925T143000
+DTEND;TZID=America/Los_Angeles:20150925T170000
+GEO:+35.564691;-121.096902
+LOCATION:Veterans Memorial Building parking lot @ 1000 Main Street\, Cambri
+ a\, CA 93428\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Cambria
+URL:http://centralcoastfoodie.com/event/cambria/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-404@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<div class='eventSection' style='color: #000000\;'>\n<p><img cl
+ ass='alignleft size-full wp-image-16430' src='http://centralcoastfoodie.co
+ m/wp-content/uploads/2014/08/GreenWhiteSwissChard.jpg' alt='GreenWhiteSwis
+ sChard' width='100' height='100' data-id='16430' /><a title='Monterey Fair
+ grounds Farmers Market' href='http://www.beachcalifornia.com/events/monter
+ ey-fairgrounds-cfm-friday-farmers-market.html' target='_blank'>market webs
+ ite</a> — Certified</p>\n<p>April to December</p>\n</div>\n<div id='ctl00_
+ ContentPlaceHolder2_divOpenHours' class='eventSection' style='color: #0000
+ 00\;'></div>
+DTSTART;TZID=America/Los_Angeles:20150925T150000
+DTEND;TZID=America/Los_Angeles:20150925T200000
+GEO:+36.594153;-121.865542
+LOCATION:Monterey Fairgrounds @ 2004 Fairground Road\, Monterey\, CA 93940\
+ , USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Monterey
+URL:http://centralcoastfoodie.com/event/monterey-3/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-402@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Watsonville Farmers Market' href='http://www.santa
+ cruzca.org/things/farms-and-markets.php?attid=4464' target='_blank'><img c
+ lass='alignleft size-full wp-image-16440' src='http://centralcoastfoodie.c
+ om/wp-content/uploads/2014/08/RedStrawberries.jpg' alt='RedStrawberries' w
+ idth='100' height='100' data-id='16440' />market website</a> — Certified</
+ p>\n<p>SNAP & WIC</p>\n<p> </p>
+DTSTART;TZID=America/Los_Angeles:20150925T150000
+DTEND;TZID=America/Los_Angeles:20150925T190000
+GEO:+36.909652;-121.756236
+LOCATION:Main & Peck Streets @ Main Street & Peck Street\, Watsonville\, CA
+  95076\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Watsonville
+URL:http://centralcoastfoodie.com/event/watsonville/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-554@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Avila Beach Farmers Market' href='https://www.face
+ book.com/AvilaBeachFarmersMarket' target='_blank'><img class='alignleft si
+ ze-full wp-image-16491' src='http://centralcoastfoodie.com/wp-content/uplo
+ ads/2014/08/YellowOrangeCitrusPeppers_CHGA.jpg' alt='YellowOrangeCitrusPep
+ pers_CHGA' width='100' height='100' data-id='16491' />market website</a></
+ p>\n<p>April to September</p>
+DTSTART;TZID=America/Los_Angeles:20150925T160000
+DTEND;TZID=America/Los_Angeles:20150925T200000
+GEO:+35.17888;-120.73397
+LOCATION:downtown promenade @ 404 Front Street\, San Luis Obispo\, CA 93401
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Avila Beach
+URL:http://centralcoastfoodie.com/event/avila-beach/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,San Luis Obispo County
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-405@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><a title='Salinas Farmers Market' href='http://www.beachcali
+ fornia.com/events/monterey-fairgrounds-cfm-friday-farmers-market.html' tar
+ get='_blank'><img class='alignleft size-full wp-image-16429' src='http://c
+ entralcoastfoodie.com/wp-content/uploads/2014/08/GreenPinkWhiteSwissChard.
+ jpg' alt='GreenPinkWhiteSwissChard' width='100' height='100' data-id='1642
+ 9' /></a>North Sanborn & Boronda Roads</p>
+DTSTART;TZID=America/Los_Angeles:20150925T160000
+DTEND;TZID=America/Los_Angeles:20150925T200000
+GEO:+36.695056;-121.595814
+LOCATION:Boronda Square @ East Boronda Road & North Sanborn Road\, Salinas\
+ , CA 93905\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Salinas
+URL:http://centralcoastfoodie.com/event/salinas-3/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-388@centralcoastfoodie.com
+DTSTAMP:20150920T002127Z
+CATEGORIES;LANGUAGE=en-US:PM afternoons
+CONTACT:
+DESCRIPTION:<p><img class='alignleft size-full wp-image-16469' src='http://
+ centralcoastfoodie.com/wp-content/uploads/2014/08/GreenFrogLettuce1.jpg' a
+ lt='GreenFrogLettuce' width='100' height='100' data-id='16469' />first Thu
+ rsday of every month</p>\n<p> </p>
+DTSTART;TZID=America/Los_Angeles:20151001T160000
+DTEND;TZID=America/Los_Angeles:20151001T210000
+GEO:+36.611865;-121.850454
+LOCATION:The Independent @ 600 Ortiz Avenue\, Seaside\, CA 93955\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+SEQUENCE:0
+SUMMARY:Sand City: The Independent
+URL:http://centralcoastfoodie.com/event/sand-city-the-independent/
+X-TAGS;LANGUAGE=en-US:All Farmers Markets\,Northern Central Coast
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//107.180.41.86//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://paigeconnersmusic.com
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-11640@paigeconnersmusic.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en:Events
+CONTACT:John Conners\; 949-230-2830\; jconners@farmersagent.com
+DESCRIPTION:<p>Paige Conners performs at the Dana Harbor Anchor Basin</p>\n
+ <p><a href='http://paigeconnersmusic.com/wp-content/uploads/2015/09/logo.p
+ ng'><img class='alignnone size-full wp-image-11636' src='http://paigeconne
+ rsmusic.com/wp-content/uploads/2015/09/logo.png' alt='logo' width='200' he
+ ight='33' /></a></p>
+DTSTART;TZID=America/Los_Angeles:20150918T190000
+DTEND;TZID=America/Los_Angeles:20150918T210000
+LOCATION:Dana West Yacht Club @ Dana Harbor Anchor Basin
+SEQUENCE:0
+SUMMARY:DWYC Raft Up in Dana Point
+URL:http://paigeconnersmusic.com/event/paige-conners-at-dwyc-raft-up-in-dan
+ a-point/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11625@paigeconnersmusic.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en:Events
+CONTACT:John Conners\; 949-230-2830\; jconners@farmersagent.com
+DESCRIPTION:<p>Stop in after Art Walk</p>\n<p><a href='http://paigeconnersm
+ usic.com/wp-content/uploads/2015/09/gl_logo.gif'><img class='alignnone siz
+ e-full wp-image-11628' src='http://paigeconnersmusic.com/wp-content/upload
+ s/2015/09/gl_logo.gif' alt='gl_logo' width='199' height='197' /></a></p>
+DTSTART;TZID=America/Los_Angeles:20150924T210000
+DTEND;TZID=America/Los_Angeles:20150925T000000
+GEO:+33.542408;-117.783892
+LOCATION:Hennessey's Labuna Beach @ 213 Ocean Avenue\, Laguna Beach\, CA 92
+ 651\, USA
+SEQUENCE:0
+SUMMARY:Hennessey’s Laguna Beach
+URL:http://paigeconnersmusic.com/event/paige-conners-at-hennesseys-laguna-b
+ each-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11641@paigeconnersmusic.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en:Events
+CONTACT:John Conners\; 949-230-2830\; jconners@farmersagent.com
+DESCRIPTION:<p>Fine wine\, tapas\, and the music of Paige Conners. . JOIN U
+ S!</p>\n<p><a href='http://paigeconnersmusic.com/wp-content/uploads/2015/0
+ 9/BarnoaLogo-316x160.png'><img class='alignnone size-full wp-image-11634' 
+ src='http://paigeconnersmusic.com/wp-content/uploads/2015/09/BarnoaLogo-31
+ 6x160.png' alt='BarnoaLogo-316x160' width='175' height='89' /></a></p>
+DTSTART;TZID=America/Los_Angeles:20150926T203000
+DTEND;TZID=America/Los_Angeles:20150926T233000
+GEO:+33.463633;-117.598306
+LOCATION:Barnoa Wine Bar @ 831 Via Suerte #106\, San Clemente\, CA 92673\, 
+ USA
+SEQUENCE:0
+SUMMARY:Barnoa Wine Bar in San Clemente
+URL:http://paigeconnersmusic.com/event/paige-conners-at-barnoa-wine-bar-in-
+ san-clemente-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11642@paigeconnersmusic.com
+DTSTAMP:20150920T002117Z
+CATEGORIES;LANGUAGE=en:Events
+CONTACT:John Conners\; 949-230-2830\; jconners@farmersagent.com
+DESCRIPTION:<p>Paige Conners performs at The Cellar in San Clemente</p>\n<p
+ ><a href='http://paigeconnersmusic.com/wp-content/uploads/2015/09/HomeImag
+ e0_title.png'><img class='alignnone size-full wp-image-11635' src='http://
+ paigeconnersmusic.com/wp-content/uploads/2015/09/HomeImage0_title.png' alt
+ ='HomeImage0_title' width='175' height='150' /></a></p>
+DTSTART;TZID=America/Los_Angeles:20150927T190000
+DTEND;TZID=America/Los_Angeles:20150927T220000
+GEO:+33.426442;-117.614665
+LOCATION:The Cellar @ 156 Avenida Del Mar\, San Clemente\, CA 92672\, USA
+SEQUENCE:0
+SUMMARY:The Cellar in San Clemente
+URL:http://paigeconnersmusic.com/event/paige-conners-at-the-cellar-in-san-c
+ lemente/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,585 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.30.212.48//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.wijert.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-828@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Hinke Kruize\; biomoestuin@hotmail.com
+DESCRIPTION:<p>Elke maandag ochtend vrije inloop voor wie mee wil helpen!</
+ p>\n<p>Ook voor mensen die moeilijk ter been zijn.</p>\n<p><a href='http:/
+ /www.wijert.nl/wp-content/uploads/2015/03/logo-moestuin.jpg'><img class='l
+ azy lazy-hidden alignnone wp-image-676 size-medium' src='data:image/gif\;b
+ ase64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=' data-lazy-type='i
+ mage' data-lazy-src='http://www.wijert.nl/wp-content/uploads/2015/03/logo-
+ moestuin-300x300.jpg' alt='wijert moestuin_flyer\,+3mm' width='300' height
+ ='300' /><noscript><img class='alignnone wp-image-676 size-medium' src='ht
+ tp://www.wijert.nl/wp-content/uploads/2015/03/logo-moestuin-300x300.jpg' a
+ lt='wijert moestuin_flyer\,+3mm' width='300' height='300' /></noscript></a
+ ></p>
+DTSTART;TZID=Europe/Amsterdam:20150921T090000
+DTEND;TZID=Europe/Amsterdam:20150921T120000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Moestuin
+URL:http://www.wijert.nl/activiteit/moestuin/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-608@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Corine Rockers\; 050-5272288\; educatie@alfa-college.nl
+DESCRIPTION:<p>Bij Polka-Dot krijgt kinderkleding een tweede leven!<br />\n
+ Begin februari heeft Marianne Besselink (gedeputeerde van de Provincie Gro
+ ningen) de kinderkledingwinkel Polka-Dot geopend\, tijdens een gezellige e
+ n druk bezochte bijeenkomst.<br />\nPolka Dot is een leerwerkproject van d
+ e afdeling Educatie van het Alfa-college. Anderstalige cursisten leren er 
+ een eigen bedrijf te runnen. Ze oefenen hun taalvaardigheid en doen werker
+ varing op.<br />\nZomer- en winter-kinderkleding (0-12 jaar)\, waar uw kin
+ deren zijn uitgegroeid\, kunt u in de speciale Polka-dot container werpen.
+  Bij Polka-Dot wordt tweedehands kinderkleding gewassen\, gestreken en ger
+ epareerd. Daarna wordt de kleding verkocht in de winkel. De opbrengst van 
+ de verkoop komt ten goede aan het leerwerkproject.<br />\nIedereen is welk
+ om in de Polka-Dot kledingwinkel die gevestigd is in MFC de Wijert\, P.C. 
+ Hooftlaan1\, te Groningen. De winkel is geopend op: dinsdag 09:00 – 11:00 
+ uur en op woensdag van 13:00 – 15:00 uur. (Tijdens schoolvakanties geslote
+ n).<br />\nMeer informatie over dit leerproject\, of aanmelden voor een ta
+ alcursus via: educatie@alfa-college.nl</p>\n<p><a href='http://www.wijert.
+ nl/wp-content/uploads/2015/03/drukte-tijdens-de-opening-e1426517057663.jpg
+ '><img class='lazy lazy-hidden alignnone size-full wp-image-594' src='data
+ :image/gif\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=' data
+ -lazy-type='image' data-lazy-src='http://www.wijert.nl/wp-content/uploads/
+ 2015/03/drukte-tijdens-de-opening-e1426517057663.jpg' alt='drukte tijdens 
+ de opening' width='300' height='224' /><noscript><img class='alignnone siz
+ e-full wp-image-594' src='http://www.wijert.nl/wp-content/uploads/2015/03/
+ drukte-tijdens-de-opening-e1426517057663.jpg' alt='drukte tijdens de openi
+ ng' width='300' height='224' /></noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150922T090000
+DTEND;TZID=Europe/Amsterdam:20150922T110000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Polka Dot Kledingwinkel
+URL:http://www.wijert.nl/activiteit/polka-dot-kledingwinkel/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-593@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Corine Rockers\; 0800 – 8100\; educatie@alfa-college.nl
+DESCRIPTION:<p>Wekelijks op dinsdag (m.u.v. schoolvakanties)</p>\n<p class=
+ 'oneComWebmail-MsoNormal'>Nederlandse les voor anderstaligen (NT2)</p>\n<p
+  class='oneComWebmail-MsoNormal'>9:30 – 11:15 uur</p>\n<p class='oneComWeb
+ mail-MsoNormal'>Info: <a href='mailto:educatie@alfa-college.nl' target='_b
+ lank'>educatie@alfa-college.nl</a></p>\n<p class='oneComWebmail-MsoNormal'
+ >Tel: 0800 – 8100</p>\n<p class='oneComWebmail-MsoNormal'><a href='http://
+ www.wijert.nl/wp-content/uploads/2015/03/drukte-tijdens-de-opening.jpg'><i
+ mg class='lazy lazy-hidden aligncenter wp-image-594 size-medium' src='data
+ :image/gif\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=' data
+ -lazy-type='image' data-lazy-src='http://www.wijert.nl/wp-content/uploads/
+ 2015/03/drukte-tijdens-de-opening-300x224.jpg' alt='drukte tijdens de open
+ ing' width='300' height='224' /><noscript><img class='aligncenter wp-image
+ -594 size-medium' src='http://www.wijert.nl/wp-content/uploads/2015/03/dru
+ kte-tijdens-de-opening-300x224.jpg' alt='drukte tijdens de opening' width=
+ '300' height='224' /></noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150922T093000
+DTEND;TZID=Europe/Amsterdam:20150922T111500
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Polka Dot Nederlandse les voor anderstaligen
+URL:http://www.wijert.nl/activiteit/polka-dot-nederlandse-les-voor-andersta
+ ligen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-583@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:info via: Stip\; (050) 529 17 13\; dewijert@stip-groningen.nl\; htt
+ p://www.stip-groningen.nl/home-stip-de-wijert
+DESCRIPTION:<p>Inloopspreekuur door het MJD voor bewoners.<br />\nIedereen 
+ kan bij Stip terecht met vragen over financiën\, dus loop gerust eens binn
+ en. De inloopspreekuren van het MJD vinden in de meeste wijken ook plaats 
+ in Stip.</p>\n<p><a href='http://www.wijert.nl/wp-content/uploads/2015/01/
+ mjd-e1420933090427.jpg'><img class='lazy lazy-hidden aligncenter wp-image-
+ 273 ' src='data:image/gif\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEA
+ CAkQBADs=' data-lazy-type='image' data-lazy-src='http://www.wijert.nl/wp-c
+ ontent/uploads/2015/01/mjd-300x298.jpg' alt='mjd' width='196' height='195'
+  /><noscript><img class='aligncenter wp-image-273 ' src='http://www.wijert
+ .nl/wp-content/uploads/2015/01/mjd-300x298.jpg' alt='mjd' width='196' heig
+ ht='195' /></noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150922T130000
+DTEND;TZID=Europe/Amsterdam:20150922T150000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:1e hulp bij financiën
+URL:http://www.wijert.nl/activiteit/1e-hulp-bij-financien/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-597@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Het Juridisch Spreekuur\; 0800 – 8100\; educatie@alfa-college.nl
+DESCRIPTION:<p>Wekelijks op woensdag (schoolvakanties gesloten)</p>\n<p cla
+ ss='oneComWebmail-MsoNormal'>Werkleersproject voor anderstaligen “Polka Do
+ t”</p>\n<p class='oneComWebmail-MsoNormal'>13:00 – 15:00 uur</p>\n<p class
+ ='oneComWebmail-MsoNormal'>Info: <a href='mailto:educatie@alfa-college.nl'
+  target='_blank'>educatie@alfa-college.nl</a></p>\n<p class='oneComWebmail
+ -MsoNormal'>Tel: 0800 – 8100</p>\n<p class='oneComWebmail-MsoNormal'><a hr
+ ef='http://www.wijert.nl/wp-content/uploads/2015/03/drukte-tijdens-de-open
+ ing-e1426517057663.jpg'><img class='lazy lazy-hidden alignnone size-full w
+ p-image-594' src='data:image/gif\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAA
+ AQABAEACAkQBADs=' data-lazy-type='image' data-lazy-src='http://www.wijert.
+ nl/wp-content/uploads/2015/03/drukte-tijdens-de-opening-e1426517057663.jpg
+ ' alt='drukte tijdens de opening' width='300' height='224' /><noscript><im
+ g class='alignnone size-full wp-image-594' src='http://www.wijert.nl/wp-co
+ ntent/uploads/2015/03/drukte-tijdens-de-opening-e1426517057663.jpg' alt='d
+ rukte tijdens de opening' width='300' height='224' /></noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150922T130000
+DTEND;TZID=Europe/Amsterdam:20150922T150000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Polka Dot werkleersproject voor anderstaligen
+URL:http://www.wijert.nl/activiteit/polka-dot-werkleersproject-voor-anderst
+ aligen-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1012@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Hinke Kruize\; biomoestuin@hotmail.com
+DESCRIPTION:<p>Elke donderdag middag vrije inloop voor wie mee wil helpen!<
+ /p>\n<p>Ook voor mensen die moeilijk ter been zijn.</p>\n<p><a href='http:
+ //www.wijert.nl/wp-content/uploads/2015/03/logo-moestuin.jpg'><img class='
+ lazy lazy-hidden alignnone wp-image-676 size-medium' src='data:image/gif\;
+ base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=' data-lazy-type='
+ image' data-lazy-src='http://www.wijert.nl/wp-content/uploads/2015/03/logo
+ -moestuin-300x300.jpg' alt='wijert moestuin_flyer\,+3mm' width='300' heigh
+ t='300' /><noscript><img class='alignnone wp-image-676 size-medium' src='h
+ ttp://www.wijert.nl/wp-content/uploads/2015/03/logo-moestuin-300x300.jpg' 
+ alt='wijert moestuin_flyer\,+3mm' width='300' height='300' /></noscript></
+ a></p>
+DTSTART;TZID=Europe/Amsterdam:20150922T190000
+DTEND;TZID=Europe/Amsterdam:20150922T210000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Moestuin
+URL:http://www.wijert.nl/activiteit/moestuin-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-595@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Corine Rockers\; 0800 – 8100\; educatie@alfa-college.nl
+DESCRIPTION:<p>Wekelijks op dinsdag (schoolvakanties gesloten)</p>\n<p clas
+ s='oneComWebmail-MsoNormal'>Werkleerproject voor anderstaligen “Polka Dot”
+ </p>\n<p class='oneComWebmail-MsoNormal'>09:00 – 11:00 uur</p>\n<p class='
+ oneComWebmail-MsoNormal'>Info: <a href='mailto:educatie@alfa-college.nl' t
+ arget='_blank'>educatie@alfa-college.nl</a></p>\n<p class='oneComWebmail-M
+ soNormal'>Tel: 0800 – 8100</p>\n<p class='oneComWebmail-MsoNormal'><a href
+ ='http://www.wijert.nl/wp-content/uploads/2015/03/drukte-tijdens-de-openin
+ g.jpg'><img class='lazy lazy-hidden  wp-image-594 size-medium alignleft' s
+ rc='data:image/gif\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBAD
+ s=' data-lazy-type='image' data-lazy-src='http://www.wijert.nl/wp-content/
+ uploads/2015/03/drukte-tijdens-de-opening-300x224.jpg' alt='drukte tijdens
+  de opening' width='300' height='224' /><noscript><img class=' wp-image-59
+ 4 size-medium alignleft' src='http://www.wijert.nl/wp-content/uploads/2015
+ /03/drukte-tijdens-de-opening-300x224.jpg' alt='drukte tijdens de opening'
+  width='300' height='224' /></noscript></a></p>\n<p class='oneComWebmail-M
+ soNormal'>
+DTSTART;TZID=Europe/Amsterdam:20150923T090000
+DTEND;TZID=Europe/Amsterdam:20150923T110000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Polka Dot Werkleersproject voor anderstaligen
+URL:http://www.wijert.nl/activiteit/polka-dot-werkleersproject-voor-anderst
+ aligen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-371@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Wil Brouwer\; 06-54303791
+DESCRIPTION:<p>Ontspanning\, activiteiten & ontmoeten.</p>
+DTSTART;TZID=Europe/Amsterdam:20150923T090000
+DTEND;TZID=Europe/Amsterdam:20150923T110000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Vrouwengroep waterlelie
+URL:http://www.wijert.nl/activiteit/vroewengroep-waterlelie/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1544@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Bram de Vries\; 0630048501\; voor.de.kerk@ziggo.nl
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.wijert.nl/wp-content/uploads/2015/08/maranathakerk1-300x202.jpg' wi
+ dth='300' height='202' /></div><p>Elke woensdagochtend\, van 9.30-11.30 is
+  iedereen van harte welkom op de koffie-ochtend in de Maranathakerk. Kom j
+ e nu voor een babbeltje\, kopje koffie/thee of een vraagje\, ons maakt het
+  niet uit.</p>
+DTSTART;TZID=Europe/Amsterdam:20150923T093000
+DTEND;TZID=Europe/Amsterdam:20150923T113000
+GEO:+53.196927;+6.567747
+LOCATION:Maranathakerk @ Van Lenneplaan 97\, 9721 PE Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Koffie Ochtend
+URL:http://www.wijert.nl/activiteit/koffie-ochtend/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-609@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Corine Rockers\; 0800 – 8100\; educatie@alfa-college.nl
+DESCRIPTION:<p>Bij Polka-Dot krijgt kinderkleding een tweede leven!</p>\n<p
+ >Begin februari heeft Marianne Besselink (gedeputeerde van de Provincie Gr
+ oningen) de kinderkledingwinkel Polka-Dot geopend\, tijdens een gezellige 
+ en druk bezochte bijeenkomst.</p>\n<p>Polka Dot is een leerwerkproject van
+  de afdeling Educatie van het Alfa-college. Anderstalige cursisten leren e
+ r een eigen bedrijf te runnen. Ze oefenen hun taalvaardigheid en doen werk
+ ervaring op.</p>\n<p>Zomer- en winter-kinderkleding (0-12 jaar)\, waar uw 
+ kinderen zijn uitgegroeid\, kunt u in de speciale Polka-dot container werp
+ en. Bij Polka-Dot wordt tweedehands kinderkleding gewassen\, gestreken en 
+ gerepareerd. Daarna wordt de kleding verkocht in de winkel. De opbrengst v
+ an de verkoop komt ten goede aan het leerwerkproject.</p>\n<p>Iedereen is 
+ welkom in de Polka-Dot kledingwinkel die gevestigd is in MFC de Wijert\, P
+ .C. Hooftlaan1\, te Groningen. De winkel is geopend op: dinsdag 09:00 – 11
+ :00 uur en op woensdag van 13:00 – 15:00 uur. (Tijdens schoolvakanties ges
+ loten).</p>\n<p>Meer informatie over dit leerproject\, of aanmelden voor e
+ en taalcursus via: educatie@alfa-college.nl</p>\n<p><a href='http://www.wi
+ jert.nl/wp-content/uploads/2015/03/drukte-tijdens-de-opening-e142651705766
+ 3.jpg'><img class='lazy lazy-hidden alignnone size-full wp-image-594' src=
+ 'data:image/gif\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs='
+  data-lazy-type='image' data-lazy-src='http://www.wijert.nl/wp-content/upl
+ oads/2015/03/drukte-tijdens-de-opening-e1426517057663.jpg' alt='drukte tij
+ dens de opening' width='300' height='224' /><noscript><img class='alignnon
+ e size-full wp-image-594' src='http://www.wijert.nl/wp-content/uploads/201
+ 5/03/drukte-tijdens-de-opening-e1426517057663.jpg' alt='drukte tijdens de 
+ opening' width='300' height='224' /></noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150923T130000
+DTEND;TZID=Europe/Amsterdam:20150923T150000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Polka Dot Kledingwinkel
+URL:http://www.wijert.nl/activiteit/polka-dot-kledingwinkel-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-598@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Corine Rockers\; 0800 – 8100\; educatie@alfa-college.nl
+DESCRIPTION:<p>Wekelijks op donderdag (m.u.v. schoolvakanties)</p>\n<p clas
+ s='oneComWebmail-MsoNormal'>Actief met taal\, voor anderstaligen</p>\n<p c
+ lass='oneComWebmail-MsoNormal'>9:30 – 11:15 uur</p>\n<p class='oneComWebma
+ il-MsoNormal'>Info: <a href='mailto:educatie@alfa-college.nl' target='_bla
+ nk'>educatie@alfa-college.nl</a></p>\n<p class='oneComWebmail-MsoNormal'>T
+ el: 0800 – 8100</p>\n<p class='oneComWebmail-MsoNormal'><a href='http://ww
+ w.wijert.nl/wp-content/uploads/2015/03/drukte-tijdens-de-opening-e14265170
+ 57663.jpg'><img class='lazy lazy-hidden alignnone size-full wp-image-594' 
+ src='data:image/gif\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBA
+ Ds=' data-lazy-type='image' data-lazy-src='http://www.wijert.nl/wp-content
+ /uploads/2015/03/drukte-tijdens-de-opening-e1426517057663.jpg' alt='drukte
+  tijdens de opening' width='300' height='224' /><noscript><img class='alig
+ nnone size-full wp-image-594' src='http://www.wijert.nl/wp-content/uploads
+ /2015/03/drukte-tijdens-de-opening-e1426517057663.jpg' alt='drukte tijdens
+  de opening' width='300' height='224' /></noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150924T093000
+DTEND;TZID=Europe/Amsterdam:20150924T111500
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Polka Dot actief met taal\, voor anderstaligen
+URL:http://www.wijert.nl/activiteit/polka-dot-actief-met-taal-voor-andersta
+ ligen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-832@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Amsterdam:20150924T100000
+DTEND;TZID=Europe/Amsterdam:20150924T120000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Crea Bea
+URL:http://www.wijert.nl/activiteit/crea-bea/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-831@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>1e kopje koffie gratis</p>\n<p><a href='http://www.wijert.nl
+ /wp-content/uploads/2015/04/koffie-thee-benodigdheden.jpeg'><img class='la
+ zy lazy-hidden alignnone size-full wp-image-1036' src='data:image/gif\;bas
+ e64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=' data-lazy-type='ima
+ ge' data-lazy-src='http://www.wijert.nl/wp-content/uploads/2015/04/koffie-
+ thee-benodigdheden.jpeg' alt='koffie-thee-benodigdheden' width='412' heigh
+ t='341' /><noscript><img class='alignnone size-full wp-image-1036' src='ht
+ tp://www.wijert.nl/wp-content/uploads/2015/04/koffie-thee-benodigdheden.jp
+ eg' alt='koffie-thee-benodigdheden' width='412' height='341' /></noscript>
+ </a></p>
+DTSTART;TZID=Europe/Amsterdam:20150924T100000
+DTEND;TZID=Europe/Amsterdam:20150924T110000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Koffie(B)uurtje
+URL:http://www.wijert.nl/activiteit/koffiebuurtje/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-830@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Ronald Bakker\; ronbak1@hotmail.com
+DESCRIPTION:<p>Opgave bij Ronald Bakker\, contact gegevens hierboven</p>
+DTSTART;TZID=Europe/Amsterdam:20150924T104500
+DTEND;TZID=Europe/Amsterdam:20150924T120000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Koersbal
+URL:http://www.wijert.nl/activiteit/koersbal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-581@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Het Juridisch Spreekuur\; info@hetjuridischspreekuur.nl\; http://ww
+ w.hetjuridischspreekuur.nl/
+DESCRIPTION:<p>Hebt u een juridische vraag waar u niet uit komt? Wilt u uit
+ leg van een beschikking van de Belastingdienst of de gemeente? Op zes loca
+ ties in Groningen staat het team van Het Juridisch Spreekuur voor u klaar 
+ om u van een gepast advies te voorzien. De medewerkers van Het Juridisch S
+ preekuur zijn jonge professionals die studeren aan de Rijksuniversiteit Gr
+ oningen. De spreekuren zijn gratis en u kunt op elke locatie binnenstappen
+  met uw vraag. Zonder afspraak! Wij hopen dat wij u van dienst kunnen zijn
+ .</p>\n<p><a href='http://www.wijert.nl/wp-content/uploads/2015/03/logo-hj
+ s-fb.jpg'><img class='lazy lazy-hidden  size-full wp-image-582 aligncenter
+ ' src='data:image/gif\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQ
+ BADs=' data-lazy-type='image' data-lazy-src='http://www.wijert.nl/wp-conte
+ nt/uploads/2015/03/logo-hjs-fb.jpg' alt='logo-hjs-fb' width='180' height='
+ 180' /><noscript><img class=' size-full wp-image-582 aligncenter' src='htt
+ p://www.wijert.nl/wp-content/uploads/2015/03/logo-hjs-fb.jpg' alt='logo-hj
+ s-fb' width='180' height='180' /></noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150924T170000
+DTEND;TZID=Europe/Amsterdam:20150924T180000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Het Juridisch Spreekuur
+URL:http://www.wijert.nl/activiteit/het-juridisch-spreekuur/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1691@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Dennis Broekema\; 06-4902 5280\; info@wijert.nl\; http://www.wijert
+ .nl/burendag
+DESCRIPTION:<p>Burendag vind plaats op 2 locaties in de wijk\, kijk voor al
+ le info op de flyer hieronder of op: <span style='color: #0000ff\;'><a sty
+ le='color: #0000ff\;' href='http://www.wijert.nl/burendag/' target='_blank
+ '>www.wijert.nl/burendag/</a></span></p>\n<p><a href='http://www.wijert.nl
+ /wp-content/uploads/2015/09/uitnodiging-Burendag-2015-De-Wijert.jpg' targe
+ t='_blank'><img class='lazy lazy-hidden alignnone wp-image-1703 size-large
+ ' src='data:image/gif\;base64\,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQ
+ BADs=' data-lazy-type='image' data-lazy-src='http://www.wijert.nl/wp-conte
+ nt/uploads/2015/09/uitnodiging-Burendag-2015-De-Wijert-722x1024.jpg' alt='
+ uitnodiging Burendag 2015 De Wijert' width='722' height='1024' /><noscript
+ ><img class='alignnone wp-image-1703 size-large' src='http://www.wijert.nl
+ /wp-content/uploads/2015/09/uitnodiging-Burendag-2015-De-Wijert-722x1024.j
+ pg' alt='uitnodiging Burendag 2015 De Wijert' width='722' height='1024' />
+ </noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150926T140000
+DTEND;TZID=Europe/Amsterdam:20150926T170000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+SEQUENCE:0
+SUMMARY:Burendag
+URL:http://www.wijert.nl/activiteit/burendag/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1692@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Dennis Broekema\; 06-4902 5280\; info@wijert.nl\; http://www.wijert
+ .nl/mfcdansfeest/
+DESCRIPTION:<p>Het gezellige MFC Dansfeest en de opening van het nieuwe sei
+ zoen is deze avond! Kijk voor alle info hieronder op de flyer of op: <span
+  style='color: #0000ff\;'><a style='color: #0000ff\;' href='http://www.wij
+ ert.nl/mfcdansfeest/' target='_blank'>www.wijert.nl/mfcdansfeest/</a></spa
+ n></p>\n<p><a href='http://www.wijert.nl/wp-content/uploads/2015/09/uitnod
+ iging-MFC-Dansfeest-2015.jpg' target='_blank'><img class='lazy lazy-hidden
+  alignnone wp-image-1678 size-large' src='data:image/gif\;base64\,R0lGODdh
+ AQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=' data-lazy-type='image' data-lazy
+ -src='http://www.wijert.nl/wp-content/uploads/2015/09/uitnodiging-MFC-Dans
+ feest-2015-722x1024.jpg' alt='A5 formaat voorkant flyer leeg' width='722' 
+ height='1024' /><noscript><img class='alignnone wp-image-1678 size-large' 
+ src='http://www.wijert.nl/wp-content/uploads/2015/09/uitnodiging-MFC-Dansf
+ eest-2015-722x1024.jpg' alt='A5 formaat voorkant flyer leeg' width='722' h
+ eight='1024' /></noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150926T203000
+DTEND;TZID=Europe/Amsterdam:20150927T010000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+SEQUENCE:0
+SUMMARY:MFC Dansfeest
+URL:http://www.wijert.nl/activiteit/mfc-dansfeest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1306@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Dennis Broekema\; info@wijert.nl\; http://www.wijert.nl/wandelenmet
+ deburen/
+DESCRIPTION:<p><strong>Wandelen met de buren gaat voor onbepaalde tijd door
+ !<br />\n</strong></p>\n<p>De komende maanden gaat  wandelen met de buren 
+ gewoon lekker door op de woensdag avond.</p>\n<p>Alle buren uit De Wijert 
+ kunnen gratis en gezellig meelopen\, het doel van de wandeling is dat geze
+ lligheid voorop staat\, elke keer een andere route die spontaan word bedac
+ ht door een mede wandelaar. Dit om zo de leukste plekje uit de wijk te ont
+ dekken. We lopen niet hard maar gewoon recreatief. We kletsen en leren nie
+ uwe wijkbewoners kennen. Het is laagdrempelig\, ontspannen\, sociaal en ge
+ zond.</p>\n<p>Loop gerust mee laat jou favoriete plekjes uit de wijk zien 
+ aan de rest van de buren zien en geniet van de wijk.</p>\n<p><strong>We ga
+ an hier voor onbepaalde tijd mee door.<br />\n</strong></p>\n<p>Kom gerust
+  langs en neem je buurman of buurvrouw gerust mee\, iedereen uit De Wijert
+  is meer dan welkom!</p>\n<p><em>We verzamelen om de woensdag om 19:30 bij
+  de Mozaïekbank (de social sofa) in het Hendrik De Vriesplantsoen\, en we 
+ lopen meestal ongeveer anderhalf uur per wandeling.</em></p>\n<p>Kom en wa
+ ndel gezellig mee!</p>\n<p><a href='http://www.wijert.nl/wp-content/upload
+ s/2015/01/DSCF3934-e1431965440348.jpg'><img class='lazy lazy-hidden alignn
+ one size-full wp-image-171' src='data:image/gif\;base64\,R0lGODdhAQABAPAAA
+ P///wAAACwAAAAAAQABAEACAkQBADs=' data-lazy-type='image' data-lazy-src='htt
+ p://www.wijert.nl/wp-content/uploads/2015/01/DSCF3934-e1431965440348.jpg' 
+ alt='DSCF3934' width='700' height='525' /><noscript><img class='alignnone 
+ size-full wp-image-171' src='http://www.wijert.nl/wp-content/uploads/2015/
+ 01/DSCF3934-e1431965440348.jpg' alt='DSCF3934' width='700' height='525' />
+ </noscript></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150930T193000
+DTEND;TZID=Europe/Amsterdam:20150930T210000
+GEO:+53.19591;+6.569457
+LOCATION:Moziekbank (social sofa) @ 9721 PE Groningen\, Nederland
+RDATE;TZID=Europe/Amsterdam:20150819T193000
+RDATE;TZID=Europe/Amsterdam:20150902T193000
+RDATE;TZID=Europe/Amsterdam:20150916T193000
+RDATE;TZID=Europe/Amsterdam:20150930T193000
+RDATE;TZID=Europe/Amsterdam:20151014T193000
+RDATE;TZID=Europe/Amsterdam:20151028T193000
+RDATE;TZID=Europe/Amsterdam:20151111T193000
+RDATE;TZID=Europe/Amsterdam:20151125T193000
+RDATE;TZID=Europe/Amsterdam:20151209T193000
+RDATE;TZID=Europe/Amsterdam:20151223T193000
+SEQUENCE:0
+SUMMARY:Wandelen met de buren
+URL:http://www.wijert.nl/activiteit/wandelen-met-de-buren/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1482@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:J.Ruzius\; 06-2508 6312\; ruzius@home.nl
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.wijert.nl/wp-content/uploads/2015/07/DSC07088-gesneden-300x202.jpg'
+  width='300' height='202' /></div><p><strong>Drainage Vereniging “De Wijer
+ t-Zuid”</strong></p>\n<p>Oproep voor een vergadering.</p>\n<p>Zoals in Wij
+ ertWelzijn van juli/augustus reeds aangekondigd zal op 7 Oktober a.s. een 
+ ledenvergadering worden gehouden  in het Multi Functioneel Centrum aan de 
+ P.C.Hoofdlaan 1.</p>\n<p>Deze uitnodiging is bestemd voor bewoners van de 
+ Wijert Zuid in het</p>\n<p>gebied omgeven door de Vestdijklaan en de Borde
+ wijklaan.</p>\n<p> </p>\n<p>Aanvang 20.00 uur .</p>\n<p>De agenda voor de 
+ vergadering luidt als volgt:</p>\n<ol>\n<li>Opening.</li>\n<li>Benoeming v
+ oorzitter van de vergadering.</li>\n<li>Notulen vorige vergadering.</li>\n
+ <li>Financiele stand van zaken.</li>\n<li>Verslag kascommissie.</li>\n<li>
+ Benoeming nieuwe secretaris/penningmeester.</li>\n<li>Rondvraag.</li>\n<li
+ >Sluiting.</li>\n</ol>\n<p>De secretaris/penningmeester</p>\n<p>G.de Jong<
+ /p>
+DTSTART;TZID=Europe/Amsterdam:20151007T200000
+DTEND;TZID=Europe/Amsterdam:20151007T220000
+GEO:+53.195899;+6.574453
+LOCATION:MFC De Wijert @ P.C. Hooftlaan 1\, 9721 JM Groningen\, Nederland
+SEQUENCE:0
+SUMMARY:Ledenvergadering Drainage vereniging
+URL:http://www.wijert.nl/activiteit/ledenvergadering-drainage-vereniging/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1303@www.wijert.nl
+DTSTAMP:20150920T002252Z
+CATEGORIES:
+CONTACT:Anita Ackerman\; 06 17067504\; acakkerman1@gmail.com
+DESCRIPTION:<p><span class='fsl'>Mijmerwandeling Een initiatief in Groninge
+ n Zuid voor wandelliefhebbers. We wandelen een mooie route in en rond de w
+ ijk (bijvoorbeeld een deel van het pad 2 wijken in de Wijert). Oog hebben 
+ voor de natuur\, ruimte om stil te zijn\, om elkaar te ontmoeten\, rust te
+  vinden en inspiratie te delen. Tijdens de wandeling klinken een aantal ge
+ dichten of uitspraken die willen inspireren.Na de wandeling is er voor wie
+  wil iets te drinken en iets lekkers erbij (biologisch).De wandeling duurt
+  ruim een uur.</span></p>\n<p>De wandeling is iedere derde woensdagavond v
+ an de maand\, in weer en wind…behalve in de maand juli. De komende datums 
+ zijn: woensdag 17 juni\, 19 augustus\, 16 september\, 14 oktober en 18 nov
+ ember.<br />\nTijdstip:19.30 uur bij de ingang van de Immanuelkerk. Verzam
+ elen:voor de ingang van de Immanuelkerk \, Overwinningsplein 1\, Groningen
+  Zuid.</p>\n<p>Opgave hoeft niet\, mag wel. Voor meer info: acakkerman1@gm
+ ail.com\, tel.: 06 17067504 Organisatie: Ina de Vries (woont in Groningen 
+ Zuid en is wandelliefhebber). Anita Akkerman (werkt in Groningen Zuid als 
+ dominee van de Immanuelkerk).</p>
+DTSTART;TZID=Europe/Amsterdam:20151021T193000
+DTEND;TZID=Europe/Amsterdam:20151021T210000
+GEO:+53.197945;+6.561086
+LOCATION:imanuelkerk @ Overwinningsplein 1\, 9728 GP Groningen\, Nederland
+RDATE;TZID=Europe/Amsterdam:20150819T193000
+RDATE;TZID=Europe/Amsterdam:20150916T193000
+RDATE;TZID=Europe/Amsterdam:20151021T193000
+RDATE;TZID=Europe/Amsterdam:20151118T193000
+RDATE;TZID=Europe/Amsterdam:20151216T193000
+SEQUENCE:0
+SUMMARY:Mijmerwandeling
+URL:http://www.wijert.nl/activiteit/mijmerwandeling/
+END:VEVENT
+END:VCALENDAR

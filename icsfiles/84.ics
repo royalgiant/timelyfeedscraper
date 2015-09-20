@@ -1,0 +1,1378 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//188.94.254.51//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.igs-morbach.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6ue4o0j7bscd29jpdpdu1mjap4@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150923
+SEQUENCE:0
+SUMMARY:Bin: abwesend
+URL:http://www.igs-morbach.de/event/bin-abwesend/
+END:VEVENT
+BEGIN:VEVENT
+UID:t12du4n0v814b21p3bvp0s1n1g@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:Fin: Jahrestagung kRel in Trier
+URL:http://www.igs-morbach.de/event/fin-jahrestagung-krel-in-trier/
+END:VEVENT
+BEGIN:VEVENT
+UID:2la265r4k7vj2qhajv6vt1vhsc@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150928
+DTEND;VALUE=DATE:20151001
+SEQUENCE:0
+SUMMARY:Bre: FB ADHS
+URL:http://www.igs-morbach.de/event/bre-fb-adhs/
+END:VEVENT
+BEGIN:VEVENT
+UID:vbi7500cs7au7b7eu4jhbrsfm4@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150928
+DTEND;VALUE=DATE:20150929
+SEQUENCE:0
+SUMMARY:Wolf-Schmidt BBD EHS
+URL:http://www.igs-morbach.de/event/wolf-schmidt-bbd-ehs/
+END:VEVENT
+BEGIN:VEVENT
+UID:51hqq536vlvevvd3bje8s9b9fc@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150930
+DTEND;VALUE=DATE:20151001
+SEQUENCE:0
+SUMMARY:Fin FB Sport in Konz
+URL:http://www.igs-morbach.de/event/fin-fb-sport-in-konz/
+END:VEVENT
+BEGIN:VEVENT
+UID:4sdiqpcit81op46rlbje4p5rfs@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150930
+DTEND;VALUE=DATE:20151001
+SEQUENCE:0
+SUMMARY:Scu: Schulbibliothekstag in Koblenz
+URL:http://www.igs-morbach.de/event/scu-schulbibliothekstag-in-koblenz/
+END:VEVENT
+BEGIN:VEVENT
+UID:qn01e9pokeuooc92tpakftl47c@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Hochzeit</p>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151003
+SEQUENCE:0
+SUMMARY:Mei: beurlaubt
+URL:http://www.igs-morbach.de/event/mei-beurlaubt/
+END:VEVENT
+BEGIN:VEVENT
+UID:ktjaovknov6uopeqolaad7e2e8@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151005
+DTEND;VALUE=DATE:20151006
+SEQUENCE:0
+SUMMARY:Scä: FB Bilogie in Speyer
+URL:http://www.igs-morbach.de/event/scae-fb-bilogie-in-speyer/
+END:VEVENT
+BEGIN:VEVENT
+UID:iplkk5ignt773e66lja2jsdlm0@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151006
+DTEND;VALUE=DATE:20151008
+SEQUENCE:0
+SUMMARY:DiO: FB Informatik in Speyer
+URL:http://www.igs-morbach.de/event/dio-fb-informatik-in-speyer-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:knf8eo6spa0eahfb9lmbf0vbqg@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151007
+DTEND;VALUE=DATE:20151008
+SEQUENCE:0
+SUMMARY:Nyk+HarP: Praxisanleitertreffen für FSJ in Mainz
+URL:http://www.igs-morbach.de/event/nykharp-praxisanleitertreffen-fuer-fsj-
+ in-mainz/
+END:VEVENT
+BEGIN:VEVENT
+UID:fr0odlg2sdd4ujssvok5c75p3s@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151009
+SEQUENCE:0
+SUMMARY:Donell Seminar DRK
+URL:http://www.igs-morbach.de/event/donell-seminar-drk/
+END:VEVENT
+BEGIN:VEVENT
+UID:jlq2flkq74p5aq52mst5pa58m8@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151009
+SEQUENCE:0
+SUMMARY:Dus MSS-Leitertagung Mainz
+URL:http://www.igs-morbach.de/event/dus-mss-leitertagung-mainz/
+END:VEVENT
+BEGIN:VEVENT
+UID:mrcmuevurjks8ck2ce9bjp7i9c@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:Gesamtkonferenz
+URL:http://www.igs-morbach.de/event/gesamtkonferenz-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:a4fs39j6l232l1np9qdmualc0s@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Fördern und GTS</p>
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151121
+SEQUENCE:0
+SUMMARY:Praktikum Jeldrik Stablo
+URL:http://www.igs-morbach.de/event/praktikum-jeldrik-stablo/
+END:VEVENT
+BEGIN:VEVENT
+UID:bi17ofq6gmrvs8k3pk94b4st8o@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151013
+DTEND;VALUE=DATE:20151014
+SEQUENCE:0
+SUMMARY:Busschule neue 5er
+URL:http://www.igs-morbach.de/event/busschule-neue-5er/
+END:VEVENT
+BEGIN:VEVENT
+UID:p82ttb8meraj57a7m17shs0o3g@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151015
+SEQUENCE:0
+SUMMARY:Blutspendetermin
+URL:http://www.igs-morbach.de/event/blutspendetermin/
+END:VEVENT
+BEGIN:VEVENT
+UID:2jumf1r7jf7ksjc0sigofi81f0@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151015
+SEQUENCE:0
+SUMMARY:Dus & Gei FB edoo.sys MZ
+URL:http://www.igs-morbach.de/event/dus-nyk-fb-edoo-sys-mz/
+END:VEVENT
+BEGIN:VEVENT
+UID:v2ot1r1vlvaetcu6b3vas14lu0@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151016
+DTEND;VALUE=DATE:20151018
+SEQUENCE:0
+SUMMARY:HarJ: FB Sport in Bad Dürkheim (ab 13 Uhr)
+URL:http://www.igs-morbach.de/event/harj-fb-sport-in-bad-duerkheim-ab-13-uh
+ r/
+END:VEVENT
+BEGIN:VEVENT
+UID:70orkl4vm0n5qdm9g7nnoauuis@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151026
+DTEND;VALUE=DATE:20151031
+SEQUENCE:0
+SUMMARY:FSJ Niklas Donell SG 3. Seminar
+URL:http://www.igs-morbach.de/event/fsj-niklas-donell-sg-3-seminar/
+END:VEVENT
+BEGIN:VEVENT
+UID:lvm1uki1qql7qnhibka95cctlk@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151103
+SEQUENCE:0
+SUMMARY:Erste Teamsitzung MSS (LF-Lehrer+ GF Deutsch)
+URL:http://www.igs-morbach.de/event/erste-teamsitzung-mss-lf-lehrer-gf-deut
+ sch/
+END:VEVENT
+BEGIN:VEVENT
+UID:eo7uohs6hfhl7pj8gq37l7shpo@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151105
+SEQUENCE:0
+SUMMARY:Hal: FB “Jugend debattiert” in Speyer
+URL:http://www.igs-morbach.de/event/hal-fb-jugend-debattiert-in-speyer/
+END:VEVENT
+BEGIN:VEVENT
+UID:2vqc13dp9ebf0ancudbon7o2rk@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151103
+DTEND;VALUE=DATE:20151105
+SEQUENCE:0
+SUMMARY:Erste Hilfe Kollegium
+URL:http://www.igs-morbach.de/event/erste-hilfe-kollegium/
+END:VEVENT
+BEGIN:VEVENT
+UID:jkl5n6n0drh64gp4tmdm8jpt78@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151109
+DTEND;VALUE=DATE:20151110
+SEQUENCE:0
+SUMMARY:Pädagogische Dienstgespräche Stufe 7- 10 und MSS
+URL:http://www.igs-morbach.de/event/paedagogische-dienstgespraeche-stufe-7-
+ 10-und-mss/
+END:VEVENT
+BEGIN:VEVENT
+UID:oe7o0rtjnh8f978lescj5f3r7c@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151109
+DTEND;VALUE=DATE:20151110
+SEQUENCE:0
+SUMMARY:Umstufungskonferenzen
+URL:http://www.igs-morbach.de/event/umstufungskonferenzen/
+END:VEVENT
+BEGIN:VEVENT
+UID:39au7ma50ot6nog6bnl208nqoo@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151116
+DTEND;VALUE=DATE:20151117
+SEQUENCE:0
+SUMMARY:Pädagogische Dienstgespräche Stufe 5/6
+URL:http://www.igs-morbach.de/event/paedagogische-dienstgespraeche-stufe-56
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:u8i03tlc84q66pkt8a6ue70ieo@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151119
+DTEND;VALUE=DATE:20151120
+SEQUENCE:0
+SUMMARY:Fin: FB Sport in Wittlich
+URL:http://www.igs-morbach.de/event/fin-fb-sport-in-wittlich/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f43aj7p9rfghak0p0lq4iaebs@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151130
+DTEND;VALUE=DATE:20151201
+SEQUENCE:0
+SUMMARY:Offenes I-Team
+URL:http://www.igs-morbach.de/event/offenes-i-team/
+END:VEVENT
+BEGIN:VEVENT
+UID:8spcqt5el98gr4h468o569m880@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151207
+DTEND;VALUE=DATE:20151208
+SEQUENCE:0
+SUMMARY:Zweite Teamsitzung 10
+URL:http://www.igs-morbach.de/event/zweite-teamsitzung-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:t46la6cgiluqh1hp92mje1b858@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151207
+DTEND;VALUE=DATE:20151208
+SEQUENCE:0
+SUMMARY:Zweite Teamsitzung 9
+URL:http://www.igs-morbach.de/event/zweite-teamsitzung-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:3ksf4lo947chc345ovki6u97q0@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160111
+DTEND;VALUE=DATE:20160115
+SEQUENCE:0
+SUMMARY:FSJ Niklas Donell SG 4. Seminar
+URL:http://www.igs-morbach.de/event/fsj-niklas-donell-sg-4-seminar/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef24dll2n8o5hdjk07qees9mgc@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160113
+DTEND;VALUE=DATE:20160114
+SEQUENCE:0
+SUMMARY:Blutspendetermin
+URL:http://www.igs-morbach.de/event/blutspendetermin-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:mfo6h62ik7smhl6vh9ffpljedg@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160119
+SEQUENCE:0
+SUMMARY:Dienstbesprechung
+URL:http://www.igs-morbach.de/event/dienstbesprechung-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:u50olrkbapi8qhnmj628mrn464@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160120
+DTEND;VALUE=DATE:20160121
+SEQUENCE:0
+SUMMARY:Zeugniskonferenzen 5\,6\,7
+URL:http://www.igs-morbach.de/event/zeugniskonferenzen-567-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:kf65rt1k2b7bv9t6r9rbh0jpd0@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160121
+DTEND;VALUE=DATE:20160122
+SEQUENCE:0
+SUMMARY:Zeugniskonferenzen 8\,9\,10\,11
+URL:http://www.igs-morbach.de/event/zeugniskonferenzen-891011-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:3am2cbp31kgsfgg33u2s15c14o@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160129
+DTEND;VALUE=DATE:20160130
+SEQUENCE:0
+SUMMARY:Abwahl Freibereich MSS
+URL:http://www.igs-morbach.de/event/abwahl-freibereich-mss-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2prlpfu7sh7oqkgo8dbvi0n3mk@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160210
+DTEND;VALUE=DATE:20160211
+SEQUENCE:0
+SUMMARY:Studientag
+URL:http://www.igs-morbach.de/event/studientag/
+END:VEVENT
+BEGIN:VEVENT
+UID:nu0qgpmn1vif2j9lp3ku083jt4@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160218
+DTEND;VALUE=DATE:20160220
+SEQUENCE:0
+SUMMARY:Präsentation Praktikum MSS 11
+URL:http://www.igs-morbach.de/event/praesentation-praktikum-mss-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:i0vhh8umqvolf7m0drcc0q0r3g@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160222
+DTEND;VALUE=DATE:20160224
+SEQUENCE:0
+SUMMARY:1. und 2. Projekttag (1. bis 6. Stunde)
+URL:http://www.igs-morbach.de/event/1-und-2-projekttag-1-bis-6-stunde/
+END:VEVENT
+BEGIN:VEVENT
+UID:v4ev2dakbce4nrri43n06g581g@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160301
+DTEND;VALUE=DATE:20160302
+SEQUENCE:0
+SUMMARY:Letzter Praxistag
+URL:http://www.igs-morbach.de/event/letzter-praxistag/
+END:VEVENT
+BEGIN:VEVENT
+UID:iqnaudujh3j7kege3e7jagehmg@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160307
+DTEND;VALUE=DATE:20160312
+SEQUENCE:0
+SUMMARY:FSJ Niklas Donell SG 5. Seminar
+URL:http://www.igs-morbach.de/event/fsj-niklas-donell-sg-5-seminar/
+END:VEVENT
+BEGIN:VEVENT
+UID:i7ggustfgpelrbpfoe9jqmsumk@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160307
+DTEND;VALUE=DATE:20160308
+SEQUENCE:0
+SUMMARY:Gesamtkonferenz
+URL:http://www.igs-morbach.de/event/gesamtkonferenz-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:3dmkob1inhnuicfhaf6t7q8img@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160314
+DTEND;VALUE=DATE:20160315
+SEQUENCE:0
+SUMMARY:Umstufungskonferenzen
+URL:http://www.igs-morbach.de/event/gesamtkonferenz-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:snkv88c0rlh5nkm8ug5iejt540@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160316
+DTEND;VALUE=DATE:20160317
+SEQUENCE:0
+SUMMARY:Blutspendetermin
+URL:http://www.igs-morbach.de/event/blutspendetermin-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:fevl2h7ms7cpc1lr8h286bjev8@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160316
+DTEND;VALUE=DATE:20160317
+SEQUENCE:0
+SUMMARY:Nachbereitung Praktikum 9er
+URL:http://www.igs-morbach.de/event/nachbereitung-praktikum-9er/
+END:VEVENT
+BEGIN:VEVENT
+UID:4bkg9u7tlsvak9kuqcm6ktitco@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160317
+DTEND;VALUE=DATE:20160318
+SEQUENCE:0
+SUMMARY:Letzter Tag für Antrag freiwilliges Zurücktreten
+URL:http://www.igs-morbach.de/event/letzter-tag-fuer-antrag-freiwilliges-zu
+ ruecktreten/
+END:VEVENT
+BEGIN:VEVENT
+UID:d33jbad09pg64fukvcb2n0p18k@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160404
+DTEND;VALUE=DATE:20160405
+SEQUENCE:0
+SUMMARY:Einladung Lehrkräfte bzw. Referenten für WPF-Elterninformationsaben
+ d der 5. Klassen ( Arbeit und Technik\, Französisch)
+URL:http://www.igs-morbach.de/event/einladung-lehrkraefte-bzw-referenten-fu
+ er-wpf-elterninformationsabend-der-5-klassen-arbeit-und-technik-franzoesis
+ ch/
+END:VEVENT
+BEGIN:VEVENT
+UID:fn7b5e9cetbkaqvqnsd3gc43ac@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160425
+DTEND;VALUE=DATE:20160426
+SEQUENCE:0
+SUMMARY:Zweite Teamsitzung MSS (LF-Lehrer + GF Deutsch)
+URL:http://www.igs-morbach.de/event/zweite-teamsitzung-mss-lf-lehrer-gf-deu
+ tsch/
+END:VEVENT
+BEGIN:VEVENT
+UID:edfa4ck5hrltelkp3d771bcrck@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+SEQUENCE:0
+SUMMARY:Ausgabe der Einladung WPF-Elterninformationsabend 5. Klassen
+URL:http://www.igs-morbach.de/event/ausgabe-der-einladung-wpf-elterninforma
+ tionsabend-5-klassen/
+END:VEVENT
+BEGIN:VEVENT
+UID:sf2upvfk6rgrago5ttn28hqq3c@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+SEQUENCE:0
+SUMMARY:Dritte Teamsitzung 10 (Monita)
+URL:http://www.igs-morbach.de/event/dritte-teamsitzung-10-monita/
+END:VEVENT
+BEGIN:VEVENT
+UID:8aii5ska56i8a552fhfbulfh9s@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+SEQUENCE:0
+SUMMARY:Dritte Teamsitzung 9 (Monita)
+URL:http://www.igs-morbach.de/event/dritte-teamsitzung-9-monita/
+END:VEVENT
+BEGIN:VEVENT
+UID:6h8gs9qbipckels92hnep3ekh8@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160512
+DTEND;VALUE=DATE:20160513
+SEQUENCE:0
+SUMMARY:Spätester Mahntermin Zulassung in MSS 12 (Versand der Briefe)
+URL:http://www.igs-morbach.de/event/spaetester-mahntermin-zulassung-in-mss-
+ 12-versand-der-briefe/
+END:VEVENT
+BEGIN:VEVENT
+UID:5qc7k7k5lonft50tgek5r2tn7s@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160513
+DTEND;VALUE=DATE:20160514
+SEQUENCE:0
+SUMMARY:Letzter Tag Versand Monita
+URL:http://www.igs-morbach.de/event/letzter-tag-versand-monita/
+END:VEVENT
+BEGIN:VEVENT
+UID:m3htcce94ecgh1t2q82ph9a7a0@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160523
+DTEND;VALUE=DATE:20160524
+SEQUENCE:0
+SUMMARY:Ausgabe der Schülerbriefe und Bewerbungsformulare für WPF\, 6. Klas
+ sen
+URL:http://www.igs-morbach.de/event/ausgabe-der-schuelerbriefe-und-bewerbun
+ gsformulare-fuer-wpf-6-klassen/
+END:VEVENT
+BEGIN:VEVENT
+UID:24auf6altj69dhbqtnqu9g6978@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160523
+DTEND;VALUE=DATE:20160524
+SEQUENCE:0
+SUMMARY:Ausgabe der Schülerbriefe wg. WPF Französisch\, 5. Klassen
+URL:http://www.igs-morbach.de/event/ausgabe-der-schuelerbriefe-wg-wpf-franz
+ oesisch-5-klassen/
+END:VEVENT
+BEGIN:VEVENT
+UID:3s8jt77icca78ftedigqmn8m90@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160523
+DTEND;VALUE=DATE:20160526
+SEQUENCE:0
+SUMMARY:Klassenstufe 7 (Moog/ Rad/Nyk/DiA/DiO…) Klassenfahrt in Homburg
+URL:http://www.igs-morbach.de/event/klassenstufe-7-moog-radnykdia-klassenfa
+ hrt-in-homburg/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e2vtsau4ncjc4mb5h3trmkpo0@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:Offenes I-Team
+URL:http://www.igs-morbach.de/event/offenes-i-team-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:29fjrhu3d3fmp15qrn7dvo3cio@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160601
+DTEND;VALUE=DATE:20160604
+SEQUENCE:0
+SUMMARY:3.-5. Projekttag (1.-6. Stunde) und Präsentation am Nachmittag
+URL:http://www.igs-morbach.de/event/3-5-projekttag-1-6-stunde-und-praesenta
+ tion-am-nachmittag/
+END:VEVENT
+BEGIN:VEVENT
+UID:5c32vl3tp2s4f3p8dhvo7h5438@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160606
+DTEND;VALUE=DATE:20160607
+SEQUENCE:0
+SUMMARY:Gesamtkonferenz oder Dienstbesprechung
+URL:http://www.igs-morbach.de/event/gesamtkonferenz-oder-dienstbesprechung/
+END:VEVENT
+BEGIN:VEVENT
+UID:18d0fs9ikhpuulc36nv9e2ph7c@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160611
+DTEND;VALUE=DATE:20160628
+SEQUENCE:0
+SUMMARY:Zeitkorridor Kursfahrt Stufe 11
+URL:http://www.igs-morbach.de/event/zeitkorridor-kursfahrt-stufe-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:1fb9btbcclctt6ij9q35ou2kvk@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160613
+DTEND;VALUE=DATE:20160614
+SEQUENCE:0
+SUMMARY:Dritte Teamsitzung MSS (LF-Lehrer)
+URL:http://www.igs-morbach.de/event/dritte-teamsitzung-mss-lf-lehrer/
+END:VEVENT
+BEGIN:VEVENT
+UID:scdl6c74el0c79uso1igg38md4@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160615
+DTEND;VALUE=DATE:20160616
+SEQUENCE:0
+SUMMARY:Blutspendetermin
+URL:http://www.igs-morbach.de/event/blutspendetermin-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:a8cjmce33b7c4g2v4kdjj7gjo8@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160617
+DTEND;VALUE=DATE:20160618
+SEQUENCE:0
+SUMMARY:Abgabeschluss WPF-Bewerbungen Klassenstufe 6
+URL:http://www.igs-morbach.de/event/abgabeschluss-wpf-bewerbungen-klassenst
+ ufe-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:oe1g5l6ht63kbolghbbibjq0f4@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160622
+DTEND;VALUE=DATE:20160623
+SEQUENCE:0
+SUMMARY:Teamgespräch Klassenstufe 6 wg. WPF
+URL:http://www.igs-morbach.de/event/teamgespraech-klassenstufe-6-wg-wpf-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:s66mg0uglhidglnklllv1o44n4@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160629
+DTEND;VALUE=DATE:20160630
+SEQUENCE:0
+SUMMARY:Zeugniskonferenzen 5\,6\,7
+URL:http://www.igs-morbach.de/event/zeugniskonferenzen-567/
+END:VEVENT
+BEGIN:VEVENT
+UID:ncj61sq6e65rlv8trobo5ltbi4@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160630
+DTEND;VALUE=DATE:20160701
+SEQUENCE:0
+SUMMARY:Zeugniskonferenzen 8\,9\,10\,11
+URL:http://www.igs-morbach.de/event/zeugniskonferenzen-891011/
+END:VEVENT
+BEGIN:VEVENT
+UID:fvprfehgjtaptfvs89akq7dg24@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160707
+DTEND;VALUE=DATE:20160709
+SEQUENCE:0
+SUMMARY:Tag der Artenvielfalt (Donnerstag oder Freitag)
+URL:http://www.igs-morbach.de/event/tag-der-artenvielfalt-donnerstag-oder-f
+ reitag/
+END:VEVENT
+BEGIN:VEVENT
+UID:ama23s1v7vnh940r04dg7aspss@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160711
+DTEND;VALUE=DATE:20160713
+SEQUENCE:0
+SUMMARY:Mitteilung wegen Nachprüfung
+URL:http://www.igs-morbach.de/event/mitteilung-wegen-nachpruefung/
+END:VEVENT
+BEGIN:VEVENT
+UID:9r31tov3odg2pjnc5bj3ltpi6s@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160711
+DTEND;VALUE=DATE:20160712
+SEQUENCE:0
+SUMMARY:Wahl Sportkurse MSS 12/1
+URL:http://www.igs-morbach.de/event/wahl-sportkurse-mss-121/
+END:VEVENT
+BEGIN:VEVENT
+UID:rog11onv92r7k8g11a7e03huu8@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160713
+DTEND;VALUE=DATE:20160714
+SEQUENCE:0
+SUMMARY:Aufnahmeprüfung MSS Mathematik\, Englisch
+URL:http://www.igs-morbach.de/event/aufnahmepruefung-mss-mathematik-englisc
+ h/
+END:VEVENT
+BEGIN:VEVENT
+UID:h8vitqounqpgls241l44090gk0@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160714
+DTEND;VALUE=DATE:20160715
+SEQUENCE:0
+SUMMARY:Aufnahmeprüfung MSS Deutsch\, mdl. Prfg.
+URL:http://www.igs-morbach.de/event/aufnahmepruefung-mss-deutsch-mdl-prfg/
+END:VEVENT
+BEGIN:VEVENT
+UID:pkfjlofpmdboup5m530h1t0o5c@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160715
+DTEND;VALUE=DATE:20160716
+SEQUENCE:0
+SUMMARY:Abwahl Freibereich MSS
+URL:http://www.igs-morbach.de/event/abwahl-freibereich-mss/
+END:VEVENT
+BEGIN:VEVENT
+UID:f19mbn90apl8sggbq0jvh0da1s@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160907
+DTEND;VALUE=DATE:20160908
+SEQUENCE:0
+SUMMARY:Blutspendetermin
+URL:http://www.igs-morbach.de/event/blutspendetermin-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:r9i8g5s9bpmhj8ga4c55p9duj4@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161116
+DTEND;VALUE=DATE:20161117
+SEQUENCE:0
+SUMMARY:Blutspendetermin
+URL:http://www.igs-morbach.de/event/blutspendetermin-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ogleipnhi0fst8lhdqib84a5bs@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150921T133000
+DTEND;TZID=Europe/Berlin:20150921T143000
+LOCATION:E 203 (8c)
+SEQUENCE:0
+SUMMARY:FK kath. Religion
+URL:http://www.igs-morbach.de/event/fk-kath-religion-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:gq20lcsseaiqc5471idqrhu6bs@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:MAILTO:verwaltung@igs-morbach.de
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150921T153000
+DTEND;TZID=Europe/Berlin:20150921T160000
+SEQUENCE:0
+SUMMARY:Fachkonferenz ev Religion
+URL:http://www.igs-morbach.de/event/fachkonferenz-ev-religion-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ckmqg273h2gukcfvr1jggo7j7o@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150921T190000
+DTEND;TZID=Europe/Berlin:20150921T200000
+SEQUENCE:0
+SUMMARY:GS Morbach Elternwahlen  19.00 Uhr und 19.30
+URL:http://www.igs-morbach.de/event/gs-morbach-elternwahlen-19-00-uhr-und-1
+ 9-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:ccq62p9pclim8b9j75ijib9k61hmabb26phjabb66lj3copp6oo36ohn74@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150922T190000
+DTEND;TZID=Europe/Berlin:20150922T200000
+SEQUENCE:0
+SUMMARY:Elternabend 11
+URL:http://www.igs-morbach.de/event/elternabend-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:i0h6uf5rdoqhcmfnfn1sv047hg@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:MAILTO:verwaltung@igs-morbach.de
+DESCRIPTION:<p>Planung 1. Projekttag am 05.10.2015 (offenes Team)</p>
+DTSTART;TZID=Europe/Berlin:20150923T144500
+DTEND;TZID=Europe/Berlin:20150923T161500
+LOCATION:Teamraum 7
+SEQUENCE:0
+SUMMARY:Planung Projektwoche
+URL:http://www.igs-morbach.de/event/planung-projektwoche/
+END:VEVENT
+BEGIN:VEVENT
+UID:bgri0nigo5kuc8jael0kq4h6do@google.com
+DTSTAMP:20150920T002108Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150923T173000
+DTEND;TZID=Europe/Berlin:20150923T213000
+EXDATE;TZID=Europe/Berlin:20150923T173000
+RRULE:FREQ=WEEKLY;UNTIL=20150923T153000Z;BYDAY=WE
+SEQUENCE:0
+SUMMARY:AOK “Schmecken soll’s” C108 17.45 – 21.30 Uhr
+URL:http://www.igs-morbach.de/event/aok-schmecken-solls-c108-17-45-21-30-uh
+ r/
+END:VEVENT
+BEGIN:VEVENT
+UID:q75l0hjbl8tj319c2jocee5ocs@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150923T193000
+DTEND;TZID=Europe/Berlin:20150923T213000
+SEQUENCE:0
+SUMMARY:Elternbildung MOBBING
+URL:http://www.igs-morbach.de/event/elternbildung-mobbing/
+END:VEVENT
+BEGIN:VEVENT
+UID:eest2irh5q0cgbbmi28pdpdirk@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:MAILTO:verwaltung@igs-morbach.de
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150924T180000
+DTEND;TZID=Europe/Berlin:20150924T200000
+SEQUENCE:0
+SUMMARY:SEB Sitzung (mit Grillen)
+URL:http://www.igs-morbach.de/event/seb-sitzung-mit-grillen/
+END:VEVENT
+BEGIN:VEVENT
+UID:o3gs3sto77mudtpdbd1i86tpc4@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150928T153000
+DTEND;TZID=Europe/Berlin:20150928T163000
+LOCATION:D 106
+SEQUENCE:0
+SUMMARY:FK Englisch
+URL:http://www.igs-morbach.de/event/fk-englisch/
+END:VEVENT
+BEGIN:VEVENT
+UID:604l36eb21cbb2jdbd67h5h8jk@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:MAILTO:verwaltung@igs-morbach.de
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150928T153000
+DTEND;TZID=Europe/Berlin:20150928T163000
+LOCATION:IGS Morbach E 203
+SEQUENCE:0
+SUMMARY:Sportfachkonferenz
+URL:http://www.igs-morbach.de/event/sportfachkonferenz-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ofn38uqo8nhmmv51358ed9r03s@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150928T160000
+DTEND;TZID=Europe/Berlin:20150928T170000
+SEQUENCE:0
+SUMMARY:GTS Team
+URL:http://www.igs-morbach.de/event/gts-team-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:5o8jfcokhtfoeo8v1qt972md24@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150929T080000
+DTEND;TZID=Europe/Berlin:20150929T130000
+SEQUENCE:0
+SUMMARY:Teil 2 Vorbereitungsworkshop Praxistag. Palais Trier\, Wroblewski\,
+  Krämer
+URL:http://www.igs-morbach.de/event/teil-2-vorbereitungsworkshop-praxistag-
+ palais-trier-wroblewski-kraemer/
+END:VEVENT
+BEGIN:VEVENT
+UID:l5p86sbdcla8hlc7lldpvv4fq8@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150929T200000
+DTEND;TZID=Europe/Berlin:20150929T210000
+SEQUENCE:0
+SUMMARY:GS Morbach SEB Wahl 20.00 Uhr
+URL:http://www.igs-morbach.de/event/gs-morbach-seb-wahl-20-00-uhr/
+END:VEVENT
+BEGIN:VEVENT
+UID:03vh42s93f7nbhemcthhufi1rs@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151005T130000
+DTEND;TZID=Europe/Berlin:20151007T233000
+SEQUENCE:0
+SUMMARY:For: FB Systemische Familientherapie in Luxembourg-Belair
+URL:http://www.igs-morbach.de/event/for-fb-systemische-familientherapie-in-
+ luxembourg-belair-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:9k7tjrf3btnugr34fbofs6f2f8@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151005T153000
+DTEND;TZID=Europe/Berlin:20151005T160000
+SEQUENCE:0
+SUMMARY:Fachkonferenz GL
+URL:http://www.igs-morbach.de/event/fachkonferenz-gl/
+END:VEVENT
+BEGIN:VEVENT
+UID:pcfoci1icb3a341cvaiqd23kvg@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:MAILTO:verwaltung@igs-morbach.de
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151005T161500
+DTEND;TZID=Europe/Berlin:20151005T171500
+LOCATION:F 209
+SEQUENCE:0
+SUMMARY:FK Nawi/Biologie
+URL:http://www.igs-morbach.de/event/fk-nawibiologie/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d7a70i4jkhjrvg0jvc87t1qn4@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151006T173000
+DTEND;TZID=Europe/Berlin:20151006T213000
+RRULE:FREQ=WEEKLY;UNTIL=20151013T153000Z;BYDAY=TU
+SEQUENCE:0
+SUMMARY:AOK “Mediterrane Küche” C 108 17.45 – 21.30 Uhr
+URL:http://www.igs-morbach.de/event/aok-mediterrane-kueche-c-108-17-45-21-3
+ 0-uhr/
+END:VEVENT
+BEGIN:VEVENT
+UID:vad5ur38fosjkeuv6jmp1v70co@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151012T160000
+DTEND;TZID=Europe/Berlin:20151012T170000
+SEQUENCE:0
+SUMMARY:Gesamtkonferenz
+URL:http://www.igs-morbach.de/event/gesamtkonferenz-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:hium5pgjodtfcctpapm25qqdbk@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151013T130000
+DTEND;TZID=Europe/Berlin:20151013T140000
+SEQUENCE:0
+SUMMARY:Wolf-Schmidt BP 13.00 – 16.00 Uhr
+URL:http://www.igs-morbach.de/event/wolf-schmidt-bp-13-00-16-00-uhr-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:g22jd8ljo0v83he15jvujpns50@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151120T130000
+DTEND;TZID=Europe/Berlin:20151120T140000
+SEQUENCE:0
+SUMMARY:Wolf-Schmidt BP 13.00 – 16.00 Uhr
+URL:http://www.igs-morbach.de/event/wolf-schmidt-bp-13-00-16-00-uhr/
+END:VEVENT
+BEGIN:VEVENT
+UID:b6m5i48ok11s6e7q2q0fak0jjo@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151123T140000
+DTEND;TZID=Europe/Berlin:20151123T163000
+SEQUENCE:0
+SUMMARY:Kaffee mit GS-Lehrern
+URL:http://www.igs-morbach.de/event/kaffee-mit-gs-lehrern-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7o09qp33guue4bvj2b6m2vv6g@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151130T133000
+DTEND;TZID=Europe/Berlin:20151130T150000
+SEQUENCE:0
+SUMMARY:Vierteljahresgespräch ÖPR
+URL:http://www.igs-morbach.de/event/vierteljahresgespraech-oepr-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:47c4mic3i2gna0muqtsgn1t2gg@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151207T153000
+DTEND;TZID=Europe/Berlin:20151207T161500
+SEQUENCE:0
+SUMMARY:Zweite Teamsitzung 8 und zweite Teamsitzung 6
+URL:http://www.igs-morbach.de/event/zweite-teamsitzung-8-und-zweite-teamsit
+ zung-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:dpbdfu62vo1edk5lrl5a1e7m1g@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151207T161500
+DTEND;TZID=Europe/Berlin:20151207T170000
+SEQUENCE:0
+SUMMARY:Zweite Teamsitzung 7 und zweite Teamsitzung 5
+URL:http://www.igs-morbach.de/event/zweite-teamsitzung-7-und-zweite-teamsit
+ zung-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:q7etvc7pmths8go7baktkaad70@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151214T130000
+DTEND;TZID=Europe/Berlin:20151216T233000
+SEQUENCE:0
+SUMMARY:For: FB Systemische Familientherapie in Luxembourg-Belair
+URL:http://www.igs-morbach.de/event/for-fb-systemische-familientherapie-in-
+ luxembourg-belair-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:sfl6n38o3fuc37qvk2l37bpq2c@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151222T094500
+DTEND;TZID=Europe/Berlin:20151222T111500
+SEQUENCE:0
+SUMMARY:Info AbiPro: Zulassung 12 Quali Block 1\, FA\, BLL\, Wahl Sportkurs
+ e 11/2
+URL:http://www.igs-morbach.de/event/info-abipro-zulassung-12-quali-block-1-
+ fa-bll-wahl-sportkurse-112/
+END:VEVENT
+BEGIN:VEVENT
+UID:umsje9jq0isqtdas55p8k51ejk@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160129T150000
+DTEND;TZID=Europe/Berlin:20160129T200000
+SEQUENCE:0
+SUMMARY:Anmeldung neue 5er
+URL:http://www.igs-morbach.de/event/anmeldung-neue-5er-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:04t7v36vtq1t57s48gh98pfbjk@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160130T090000
+DTEND;TZID=Europe/Berlin:20160130T130000
+SEQUENCE:0
+SUMMARY:Anmeldung neue 5er
+URL:http://www.igs-morbach.de/event/anmeldung-neue-5er-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:61i032b64og0amamg0bplqu98g@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160201T090000
+DTEND;TZID=Europe/Berlin:20160201T160000
+SEQUENCE:0
+SUMMARY:Anmeldung neue 5er
+URL:http://www.igs-morbach.de/event/anmeldung-neue-5er/
+END:VEVENT
+BEGIN:VEVENT
+UID:lu2haqmi3jh1glkkj14quttde4@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160215T133000
+DTEND;TZID=Europe/Berlin:20160218T160000
+SEQUENCE:0
+SUMMARY:Anmeldung MSS Schüler anderer Schulen
+URL:http://www.igs-morbach.de/event/anmeldung-mss-schueler-anderer-schulen-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:csvse57s77b3e1tal8m29mmrcs@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160222T133000
+DTEND;TZID=Europe/Berlin:20160225T160000
+SEQUENCE:0
+SUMMARY:Anmeldung MSS Schüler anderer Schulen
+URL:http://www.igs-morbach.de/event/anmeldung-mss-schueler-anderer-schulen-
+ 3/
+END:VEVENT
+BEGIN:VEVENT
+UID:19hd1rhet6qbpc5q70kn7au3qc@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160411T130000
+DTEND;TZID=Europe/Berlin:20160413T233000
+SEQUENCE:0
+SUMMARY:For: FB Systemische Familientherapie in Luxembourg-Belair
+URL:http://www.igs-morbach.de/event/for-fb-systemische-familientherapie-in-
+ luxembourg-belair-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:9729m0fr04stm91s0fpjn1f7dc@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160502T133000
+DTEND;TZID=Europe/Berlin:20160502T141500
+SEQUENCE:0
+SUMMARY:Dritte Teamsitzung 7 und dritte Teamsitzung 5
+URL:http://www.igs-morbach.de/event/dritte-teamsitzung-7-und-dritte-teamsit
+ zung-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:l5e3c6n15qh4ecg66m0qn44lp4@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160502T141500
+DTEND;TZID=Europe/Berlin:20160502T150000
+SEQUENCE:0
+SUMMARY:Dritte Teamsitzung 8 und dritte Teamsitzung 6
+URL:http://www.igs-morbach.de/event/dritte-teamsitzung-8-und-dritte-teamsit
+ zung-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:60i8d9c7846alntg4chqs7956c@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160610T160000
+DTEND;TZID=Europe/Berlin:20160610T183000
+SEQUENCE:0
+SUMMARY:Kennenlerntag neue 5er
+URL:http://www.igs-morbach.de/event/kennenlerntag-neue-5er-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:q30cegjup66mbc5dm3b7nrq2e0@google.com
+DTSTAMP:20150920T002109Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160711T130000
+DTEND;TZID=Europe/Berlin:20160713T233000
+SEQUENCE:0
+SUMMARY:For: FB Systemische Familientherapie in Luxembourg-Belair
+URL:http://www.igs-morbach.de/event/for-fb-systemische-familientherapie-in-
+ luxembourg-belair/
+END:VEVENT
+END:VCALENDAR

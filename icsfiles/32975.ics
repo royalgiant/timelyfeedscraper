@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//162.223.14.141//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.sabahinc.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1112@www.sabahinc.org
+DTSTAMP:20150920T003642Z
+CATEGORIES;LANGUAGE=en-US:Evening &amp\; Weekend Ice Skating
+CONTACT:
+DESCRIPTION:<p>View our <a href='http://www.sabahinc.org/special-needs-prog
+ rams/special-needs-recreational-fitness-programs/evening-and-weekend-ice-s
+ kating/'>EVENING AND WEEKEND ICE SKATING</a> page for more information and
+  registration information.</p>
+DTSTART;TZID=America/New_York:20150929T160000
+DTEND;TZID=America/New_York:20150929T165000
+EXDATE;TZID=America/New_York:20151124T160000
+EXDATE;TZID=America/New_York:20151222T160000
+EXDATE;TZID=America/New_York:20151229T160000
+EXDATE;TZID=America/New_York:20160216T160000
+RRULE:FREQ=WEEKLY;UNTIL=20160322T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Evening & Weekend Ice Skating (Riverside Rink)
+URL:http://www.sabahinc.org/event/evening-weekend-ice-skating-riverside-rin
+ k/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1113@www.sabahinc.org
+DTSTAMP:20150920T003642Z
+CATEGORIES;LANGUAGE=en-US:Evening &amp\; Weekend Ice Skating
+CONTACT:
+DESCRIPTION:<p>View our <a href='http://www.sabahinc.org/special-needs-prog
+ rams/special-needs-recreational-fitness-programs/evening-and-weekend-ice-s
+ kating/'>EVENING AND WEEKEND ICE SKATING</a> page for more information and
+  registration information.</p>
+DTSTART;TZID=America/New_York:20151003T100000
+DTEND;TZID=America/New_York:20151003T110000
+EXDATE;TZID=America/New_York:20151128T100000
+EXDATE;TZID=America/New_York:20151226T100000
+EXDATE;TZID=America/New_York:20160102T100000
+RRULE:FREQ=WEEKLY;UNTIL=20160319T235959Z;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Evening & Weekend Ice Skating (Hamburg Town Rink)
+URL:http://www.sabahinc.org/event/evening-weekend-ice-skating-hamburg-town-
+ rink/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1108@www.sabahinc.org
+DTSTAMP:20150920T003642Z
+CATEGORIES;LANGUAGE=en-US:Evening &amp\; Weekend Ice Skating
+CONTACT:
+DESCRIPTION:<p>View our <a href='http://www.sabahinc.org/special-needs-prog
+ rams/special-needs-recreational-fitness-programs/evening-and-weekend-ice-s
+ kating/'>EVENING AND WEEKEND ICE SKATING</a> page for more information and
+  registration information.</p>
+DTSTART;TZID=America/New_York:20151004T112000
+DTEND;TZID=America/New_York:20151004T125000
+EXDATE;TZID=America/New_York:20151129T112000
+EXDATE;TZID=America/New_York:20151227T112000
+EXDATE;TZID=America/New_York:20160103T112000
+RRULE:FREQ=WEEKLY;UNTIL=20160320T235959Z;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Evening & Weekend Ice Skating (Northtown Center at Amherst)
+URL:http://www.sabahinc.org/event/evening-weekend-ice-skating-northtown-cen
+ ter-at-amherst/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1111@www.sabahinc.org
+DTSTAMP:20150920T003642Z
+CATEGORIES;LANGUAGE=en-US:Evening &amp\; Weekend Ice Skating
+CONTACT:
+DESCRIPTION:<p>View our <a href='http://www.sabahinc.org/special-needs-prog
+ rams/special-needs-recreational-fitness-programs/evening-and-weekend-ice-s
+ kating/'>EVENING AND WEEKEND ICE SKATING</a> page for more information and
+  registration information.</p>
+DTSTART;TZID=America/New_York:20151007T183000
+DTEND;TZID=America/New_York:20151007T192000
+EXDATE;TZID=America/New_York:20151125T183000
+EXDATE;TZID=America/New_York:20151223T183000
+EXDATE;TZID=America/New_York:20151230T183000
+RRULE:FREQ=WEEKLY;UNTIL=20160323T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Evening & Weekend Ice Skating (Niagara University Arena)
+URL:http://www.sabahinc.org/event/evening-weekend-ice-skating-niagara-unive
+ rsity-arena/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-600@www.sabahinc.org
+DTSTAMP:20150920T003642Z
+CATEGORIES;LANGUAGE=en-US:Starlight Night Gala and Auction
+CONTACT:
+DESCRIPTION:<div align='center'>\n<p class='medium'><strong>Stay tuned for 
+ more details!</strong></p>\n<p><a title='2014 Starlight Night Auction Item
+ s' href='http://www.sabahinc.org/2014-auction-items/'>View the 2015 Starli
+ ght Night Auction & Gala »</a></p>\n</div>
+DTSTART;TZID=America/New_York:20151120T180000
+GEO:+42.88685;-78.875691
+LOCATION:Buffalo Niagara Convention Center @ 153 Franklin Street\, Buffalo\
+ , NY 14202\, USA
+SEQUENCE:0
+SUMMARY:The 2015 Starlight Night Auction & Gala
+URL:http://www.sabahinc.org/event/the-2015-starlight-night-auction-gala/
+X-TAGS;LANGUAGE=en-US:Annual Events
+X-COST:$100 per person
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

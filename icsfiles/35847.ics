@@ -1,0 +1,1011 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//81.169.220.48//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.ferienwohnung-frings.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-644@www.ferienwohnung-frings.de
+DTSTAMP:20150920T002214Z
+CATEGORIES:
+CONTACT:Reederei Cassen Eils\; 04721 - 3 50 82\; info@helgolandreisen.de
+DESCRIPTION:<div id='pl-13'><div class='panel-grid' id='pg-13-0' ><div clas
+ s='panel-grid-cell' id='pgc-13-0-0' ><div class='so-panel widget widget_te
+ xt widget_text panel-first-child panel-last-child' id='panel-13-0-0-0'><h3
+  class='widget-title'>Herzlich Willkommen</h3>			<div class='textwidget'><p>W
+ illkommen in unseren Ferienwohnungen - ankommen\, entspannen\, wohlfühen..
+ ..</p>\n<p>In unseren Ferienobjekten in Tossens bieten wir Ihnen Ferien mi
+ t großem Komfort und vielen Extras.</p>\n<p>Mit unserem Service ermögliche
+ n wir es Ihnen\, Ihren Urlaub individuell und abwechslungsreich zu gestalt
+ en.</p>\n<p>Wir freuen uns auf Sie</p>\n<p>Familie Frings</p>\n</div>\n		</d
+ iv></div><div class='panel-grid-cell' id='pgc-13-0-1' ><div class='so-pane
+ l widget widget_ai1ec_agenda_widget widget_ai1ec_agenda_widget panel-first
+ -child panel-last-child' id='panel-13-0-1-0'>\n\n	<h3 class='widget-title'>
+ Aktuelle Termine</h3>\n\n<style>\n<!--\n\n-->\n</style>\n<div class='timel
+ y ai1ec-agenda-widget-view ai1ec-clearfix'>\n\n			<div>\n													<div class='ai1ec-da
+ te\n					ai1ec-today'>\n					<a class='ai1ec-date-title ai1ec-load-view'\n						href='http
+ ://www.ferienwohnung-frings.de/versanstaltungen/action~oneday/exact_date~2
+ 0-9-2015/'>\n						<div class='ai1ec-month'>Sep</div>\n						<div class='ai1ec-day'>20
+ </div>\n						<div class='ai1ec-weekday'>So</div>\n											</a>\n					<div class='ai1ec-date-
+ events'>\n													 																					<div class='ai1ec-event\n									ai1ec-event-id-644\n									ai1ec-event-instan
+ ce-id-10473\n									'>\n\n									<a href='http://www.ferienwohnung-frings.de/event/fahrt
+ -bremerhaven-helgoland/?instance_id=10473'\n										class='ai1ec-popup-trigger ai1
+ ec-load-event'>\n																					<span class='ai1ec-event-time'>\n												8:30\n											</span>\n										\n										<span c
+ lass='ai1ec-event-title'>\n											Fahrt Bremerhaven-Helgoland\n																							<span class='ai1ec
+ -event-location'\n													>@ MS 'Fair Lady'</span>\n																					</span>\n									</a>\n\n									<div class='a
+ i1ec-popover ai1ec-popup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href
+ ='http://www.ferienwohnung-frings.de/event/fahrt-bremerhaven-helgoland/?in
+ stance_id=10473'\n		   class='ai1ec-load-event'\n			>Fahrt Bremerhaven-Helgolan
+ d</a>\n					<span class='ai1ec-event-location'\n				>@ MS 'Fair Lady'</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 8:30 – 19:00\n			</div>\n\n	
+ \n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class
+ ='ai1ec-event\n									ai1ec-event-id-711\n									ai1ec-event-instance-id-11104\n									'>\n\n									<a
+  href='http://www.ferienwohnung-frings.de/event/tierfuetterung-friesengolf
+ /?instance_id=11104'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span
+  class='ai1ec-event-time'>\n												11:00\n											</span>\n										\n										<span class='ai1ec-event-tit
+ le'>\n											Tierfütterung & Friesengolf\n																							<span class='ai1ec-event-location'\n													>@ 
+ Hof Iggewarden</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/tierfuetterung-friesengolf/?instance_id=11104'\n		   c
+ lass='ai1ec-load-event'\n			>Tierfütterung & Friesengolf</a>\n					<span class='ai
+ 1ec-event-location'\n				>@ Hof Iggewarden</span>\n					</span>\n\n	\n	<div class='ai
+ 1ec-event-time'>\n					Sep 20 @ 11:00 – 13:00\n			</div>\n\n	\n			<div class='ai1ec-po
+ pup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class='ai1ec-event\n									ai1ec-e
+ vent-id-663\n									ai1ec-event-instance-id-10556\n									'>\n\n									<a href='http://www.feri
+ enwohnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instan
+ ce_id=10556'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span class='
+ ai1ec-event-time'>\n												13:30\n											</span>\n										\n										<span class='ai1ec-event-title'>\n											Er
+ lebnis-Rundtour mit der Butjen...\n																							<span class='ai1ec-event-location'\n													>@ 
+ Butjenter Bahn</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instance_i
+ d=10556'\n		   class='ai1ec-load-event'\n			>Erlebnis-Rundtour mit der Butjen..
+ .</a>\n					<span class='ai1ec-event-location'\n				>@ Butjenter Bahn</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 13:30 – 15:00\n			</div>\n\n
+ 	\n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n							 						 					</div>\n
+ 				</div>\n			 		</div>\n	 \n			<div class='ai1ec-subscribe-buttons-widget'>\n							<a class
+ ='ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right\n					ai1ec-calenda
+ r-link'\n					href='http://www.ferienwohnung-frings.de/versanstaltungen/'>\n					Vie
+ w Calendar\n					<i class='ai1ec-fa ai1ec-fa-arrow-right'></i>\n				</a>\n			\n					</div>
+ \n	 \n</div>\n\n\n\n</div></div></div><div class='panel-grid' id='pg-13-1' 
+ ><div class='panel-grid-cell' id='pgc-13-1-0' ><div class='so-panel widget
+  widget_headline-widget widget_headline-widget panel-first-child panel-las
+ t-child' id='panel-13-1-0-0'>		<h1>Unsere Wohnungen</h1>\n		<div class='decora
+ tion'><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div>
+ <div class='panel-grid-cell' id='pgc-13-1-1' ><div class='so-panel widget 
+ widget_headline-widget widget_headline-widget panel-first-child panel-last
+ -child' id='panel-13-1-1-0'>		<h1>Unsere Häuser</h1>\n		<div class='decoration
+ '><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div></di
+ v><div class='panel-grid' id='pg-13-2' ><div class='panel-grid-cell' id='p
+ gc-13-2-0' ><div class='so-panel widget widget_sow-image widget_sow-image 
+ panel-first-child panel-last-child' id='panel-13-2-0-0'><div class='so-wid
+ get-sow-image so-widget-sow-image-base'>\n<a href='http://www.ferienwohnun
+ g-frings.de/seeadler/ausstattung/' >	<img src='http://www.ferienwohnung-fri
+ ngs.de/wp-content/uploads/2015/01/27-neue-kueche-4-e1422797922166-300x207.
+ jpg' width='300' height='207' title='gemütliche Wohnlandschaft' alt='Haus 
+ Seeadler in Tossens\, Butjadingen\, Helgolandstraße\; nähe Center-Parc\, n
+ ah zum Deich und Friesenstrand\, Fahrrad fahren\, Kinder'  class='so-widge
+ t-image' style='max-width:100%\; height:auto\; display:block' />\n</a></di
+ v></div></div><div class='panel-grid-cell' id='pgc-13-2-1' ><div class='so
+ -panel widget widget_sow-image widget_sow-image panel-first-child panel-la
+ st-child' id='panel-13-2-1-0'><div class='so-widget-sow-image so-widget-so
+ w-image-base'>\n<a href='http://www.ferienwohnung-frings.de/wohnung-tossen
+ s/ausstattung/' >	<img src='http://www.ferienwohnung-frings.de/wp-content/u
+ ploads/2015/01/Couch-Reflexion-300x200.jpg' width='300' height='200' title
+ ='modern wohnen und sich erholen' alt='Haus Seeadler\, Tossens\, Butjading
+ en\, Helgolandstraße\, Nähe Center Parcs\, Friesenstrand\, Fahrrad fahren\
+ , Kinder\, Aqua Mundo'  class='so-widget-image' style='max-width:100%\; he
+ ight:auto\; display:block' />\n</a></div></div></div><div class='panel-gri
+ d-cell' id='pgc-13-2-2' ><div class='so-panel widget widget_sow-image widg
+ et_sow-image panel-first-child panel-last-child' id='panel-13-2-2-0'><div 
+ class='so-widget-sow-image so-widget-sow-image-base'>\n<a href='http://www
+ .ferienwohnung-frings.de/haus-nordsee/ausstattung/' >	<img src='http://www.
+ ferienwohnung-frings.de/wp-content/uploads/2015/05/1afruehling-8-300x199.j
+ pg' width='300' height='199' title='Haus Nordsee' alt='Ferienhaus Frings N
+ ordsee\, Tossens\, Butjadingen\, Center Parcs\, Friesenstrand\, Aqua Mundo
+ \, Fahrrad fahren\, Urlaub\, Ferien\, Traum'  class='so-widget-image' styl
+ e='max-width:100%\; height:auto\; display:block' />\n</a></div></div></div
+ ><div class='panel-grid-cell' id='pgc-13-2-3' ><div class='so-panel widget
+  widget_sow-image widget_sow-image panel-first-child panel-last-child' id=
+ 'panel-13-2-3-0'><div class='so-widget-sow-image so-widget-sow-image-base'
+ >\n<a href='http://www.ferienwohnung-frings.de/haus-wattenmeer/ausstattung
+ /' >	<img src='http://www.ferienwohnung-frings.de/wp-content/uploads/2015/0
+ 1/Robbe-Sommer1-300x200.jpg' width='300' height='200' title='Haus Wattenme
+ er' alt='Wattenmeer\, Tossens\, Butjadingen\, Nordsee\, Strand\, Center Pa
+ rc\, Aqua Mundo\, Fahrrad fahren\, Kinder\, Weltnaturerbe\, Urlaub\, Ferie
+ n'  class='so-widget-image' style='max-width:100%\; height:auto\; display:
+ block' />\n</a></div></div></div></div><div class='panel-grid' id='pg-13-3
+ ' ><div class='panel-grid-cell' id='pgc-13-3-0' ><div class='so-panel widg
+ et widget_text widget_text panel-first-child panel-last-child' id='panel-1
+ 3-3-0-0'><h3 class='widget-title'>Wohnung Seeadler</h3>			<div class='textwid
+ get'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schlafzimmer<br />\nab 39 EU
+ R</p>\n</div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-1' ><
+ div class='so-panel widget widget_text widget_text panel-first-child panel
+ -last-child' id='panel-13-3-1-0'><h3 class='widget-title'>Wohnung Tossens<
+ /h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schla
+ fzimmer<br />\nab 39 EUR</p>\n</div>\n		</div></div><div class='panel-grid-c
+ ell' id='pgc-13-3-2' ><div class='so-panel widget widget_text widget_text 
+ panel-first-child panel-last-child' id='panel-13-3-2-0'><h3 class='widget-
+ title'>Haus Nordsee</h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n
+ 88 qm<br />\n1 Schlafzimmer<br />\n1 Kinderzimmer<br />\nab 49 EUR</p>\n</
+ div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-3' ><div class
+ ='so-panel widget widget_text widget_text panel-first-child panel-last-chi
+ ld' id='panel-13-3-3-0'><h3 class='widget-title'>Haus Wattenmeer</h3>			<div 
+ class='textwidget'><p>Max. 6 Personen<br />\n120 qm<br />\n3 Schlafzimmer<
+ br />\nab 54 EUR für 4 Personen</p>\n</div>\n		</div></div></div></div>
+DTSTART;TZID=Europe/Berlin:20150919T083000
+DTEND;TZID=Europe/Berlin:20150919T190000
+GEO:+53.543952;+8.570098
+LOCATION:MS 'Fair Lady' @ Willy-Brandt-Platz\, 27568 Bremerhaven\, Deutschl
+ and
+RRULE:FREQ=DAILY;COUNT=150
+SEQUENCE:0
+SUMMARY:Fahrt Bremerhaven-Helgoland
+URL:http://www.ferienwohnung-frings.de/event/fahrt-bremerhaven-helgoland/
+X-COST:Erw. 39\,- €\, Kinder 23\,- €\, Fam. 99\,90 €
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-711@www.ferienwohnung-frings.de
+DTSTAMP:20150920T002214Z
+CATEGORIES:
+CONTACT:Hof Iggewarden\; 04733 - 317\; iggewarden@t-online.de\; http://www.
+ hof-iggewarden.de
+DESCRIPTION:<div id='pl-13'><div class='panel-grid' id='pg-13-0' ><div clas
+ s='panel-grid-cell' id='pgc-13-0-0' ><div class='so-panel widget widget_te
+ xt widget_text panel-first-child panel-last-child' id='panel-13-0-0-0'><h3
+  class='widget-title'>Herzlich Willkommen</h3>			<div class='textwidget'><p>W
+ illkommen in unseren Ferienwohnungen - ankommen\, entspannen\, wohlfühen..
+ ..</p>\n<p>In unseren Ferienobjekten in Tossens bieten wir Ihnen Ferien mi
+ t großem Komfort und vielen Extras.</p>\n<p>Mit unserem Service ermögliche
+ n wir es Ihnen\, Ihren Urlaub individuell und abwechslungsreich zu gestalt
+ en.</p>\n<p>Wir freuen uns auf Sie</p>\n<p>Familie Frings</p>\n</div>\n		</d
+ iv></div><div class='panel-grid-cell' id='pgc-13-0-1' ><div class='so-pane
+ l widget widget_ai1ec_agenda_widget widget_ai1ec_agenda_widget panel-first
+ -child panel-last-child' id='panel-13-0-1-0'>\n\n	<h3 class='widget-title'>
+ Aktuelle Termine</h3>\n\n<style>\n<!--\n\n-->\n</style>\n<div class='timel
+ y ai1ec-agenda-widget-view ai1ec-clearfix'>\n\n			<div>\n													<div class='ai1ec-da
+ te\n					ai1ec-today'>\n					<a class='ai1ec-date-title ai1ec-load-view'\n						href='http
+ ://www.ferienwohnung-frings.de/versanstaltungen/action~oneday/exact_date~2
+ 0-9-2015/'>\n						<div class='ai1ec-month'>Sep</div>\n						<div class='ai1ec-day'>20
+ </div>\n						<div class='ai1ec-weekday'>So</div>\n											</a>\n					<div class='ai1ec-date-
+ events'>\n													 																					<div class='ai1ec-event\n									ai1ec-event-id-644\n									ai1ec-event-instan
+ ce-id-10473\n									'>\n\n									<a href='http://www.ferienwohnung-frings.de/event/fahrt
+ -bremerhaven-helgoland/?instance_id=10473'\n										class='ai1ec-popup-trigger ai1
+ ec-load-event'>\n																					<span class='ai1ec-event-time'>\n												8:30\n											</span>\n										\n										<span c
+ lass='ai1ec-event-title'>\n											Fahrt Bremerhaven-Helgoland\n																							<span class='ai1ec
+ -event-location'\n													>@ MS 'Fair Lady'</span>\n																					</span>\n									</a>\n\n									<div class='a
+ i1ec-popover ai1ec-popup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href
+ ='http://www.ferienwohnung-frings.de/event/fahrt-bremerhaven-helgoland/?in
+ stance_id=10473'\n		   class='ai1ec-load-event'\n			>Fahrt Bremerhaven-Helgolan
+ d</a>\n					<span class='ai1ec-event-location'\n				>@ MS 'Fair Lady'</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 8:30 – 19:00\n			</div>\n\n	
+ \n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class
+ ='ai1ec-event\n									ai1ec-event-id-711\n									ai1ec-event-instance-id-11104\n									'>\n\n									<a
+  href='http://www.ferienwohnung-frings.de/event/tierfuetterung-friesengolf
+ /?instance_id=11104'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span
+  class='ai1ec-event-time'>\n												11:00\n											</span>\n										\n										<span class='ai1ec-event-tit
+ le'>\n											Tierfütterung & Friesengolf\n																							<span class='ai1ec-event-location'\n													>@ 
+ Hof Iggewarden</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/tierfuetterung-friesengolf/?instance_id=11104'\n		   c
+ lass='ai1ec-load-event'\n			>Tierfütterung & Friesengolf</a>\n					<span class='ai
+ 1ec-event-location'\n				>@ Hof Iggewarden</span>\n					</span>\n\n	\n	<div class='ai
+ 1ec-event-time'>\n					Sep 20 @ 11:00 – 13:00\n			</div>\n\n	\n			<div class='ai1ec-po
+ pup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class='ai1ec-event\n									ai1ec-e
+ vent-id-663\n									ai1ec-event-instance-id-10556\n									'>\n\n									<a href='http://www.feri
+ enwohnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instan
+ ce_id=10556'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span class='
+ ai1ec-event-time'>\n												13:30\n											</span>\n										\n										<span class='ai1ec-event-title'>\n											Er
+ lebnis-Rundtour mit der Butjen...\n																							<span class='ai1ec-event-location'\n													>@ 
+ Butjenter Bahn</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instance_i
+ d=10556'\n		   class='ai1ec-load-event'\n			>Erlebnis-Rundtour mit der Butjen..
+ .</a>\n					<span class='ai1ec-event-location'\n				>@ Butjenter Bahn</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 13:30 – 15:00\n			</div>\n\n
+ 	\n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n							 						 					</div>\n
+ 				</div>\n			 		</div>\n	 \n			<div class='ai1ec-subscribe-buttons-widget'>\n							<a class
+ ='ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right\n					ai1ec-calenda
+ r-link'\n					href='http://www.ferienwohnung-frings.de/versanstaltungen/'>\n					Vie
+ w Calendar\n					<i class='ai1ec-fa ai1ec-fa-arrow-right'></i>\n				</a>\n			\n					</div>
+ \n	 \n</div>\n\n\n\n</div></div></div><div class='panel-grid' id='pg-13-1' 
+ ><div class='panel-grid-cell' id='pgc-13-1-0' ><div class='so-panel widget
+  widget_headline-widget widget_headline-widget panel-first-child panel-las
+ t-child' id='panel-13-1-0-0'>		<h1>Unsere Wohnungen</h1>\n		<div class='decora
+ tion'><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div>
+ <div class='panel-grid-cell' id='pgc-13-1-1' ><div class='so-panel widget 
+ widget_headline-widget widget_headline-widget panel-first-child panel-last
+ -child' id='panel-13-1-1-0'>		<h1>Unsere Häuser</h1>\n		<div class='decoration
+ '><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div></di
+ v><div class='panel-grid' id='pg-13-2' ><div class='panel-grid-cell' id='p
+ gc-13-2-0' ><div class='so-panel widget widget_sow-image widget_sow-image 
+ panel-first-child panel-last-child' id='panel-13-2-0-0'><div class='so-wid
+ get-sow-image so-widget-sow-image-base'>\n<a href='http://www.ferienwohnun
+ g-frings.de/seeadler/ausstattung/' >	<img src='http://www.ferienwohnung-fri
+ ngs.de/wp-content/uploads/2015/01/27-neue-kueche-4-e1422797922166-300x207.
+ jpg' width='300' height='207' title='gemütliche Wohnlandschaft' alt='Haus 
+ Seeadler in Tossens\, Butjadingen\, Helgolandstraße\; nähe Center-Parc\, n
+ ah zum Deich und Friesenstrand\, Fahrrad fahren\, Kinder'  class='so-widge
+ t-image' style='max-width:100%\; height:auto\; display:block' />\n</a></di
+ v></div></div><div class='panel-grid-cell' id='pgc-13-2-1' ><div class='so
+ -panel widget widget_sow-image widget_sow-image panel-first-child panel-la
+ st-child' id='panel-13-2-1-0'><div class='so-widget-sow-image so-widget-so
+ w-image-base'>\n<a href='http://www.ferienwohnung-frings.de/wohnung-tossen
+ s/ausstattung/' >	<img src='http://www.ferienwohnung-frings.de/wp-content/u
+ ploads/2015/01/Couch-Reflexion-300x200.jpg' width='300' height='200' title
+ ='modern wohnen und sich erholen' alt='Haus Seeadler\, Tossens\, Butjading
+ en\, Helgolandstraße\, Nähe Center Parcs\, Friesenstrand\, Fahrrad fahren\
+ , Kinder\, Aqua Mundo'  class='so-widget-image' style='max-width:100%\; he
+ ight:auto\; display:block' />\n</a></div></div></div><div class='panel-gri
+ d-cell' id='pgc-13-2-2' ><div class='so-panel widget widget_sow-image widg
+ et_sow-image panel-first-child panel-last-child' id='panel-13-2-2-0'><div 
+ class='so-widget-sow-image so-widget-sow-image-base'>\n<a href='http://www
+ .ferienwohnung-frings.de/haus-nordsee/ausstattung/' >	<img src='http://www.
+ ferienwohnung-frings.de/wp-content/uploads/2015/05/1afruehling-8-300x199.j
+ pg' width='300' height='199' title='Haus Nordsee' alt='Ferienhaus Frings N
+ ordsee\, Tossens\, Butjadingen\, Center Parcs\, Friesenstrand\, Aqua Mundo
+ \, Fahrrad fahren\, Urlaub\, Ferien\, Traum'  class='so-widget-image' styl
+ e='max-width:100%\; height:auto\; display:block' />\n</a></div></div></div
+ ><div class='panel-grid-cell' id='pgc-13-2-3' ><div class='so-panel widget
+  widget_sow-image widget_sow-image panel-first-child panel-last-child' id=
+ 'panel-13-2-3-0'><div class='so-widget-sow-image so-widget-sow-image-base'
+ >\n<a href='http://www.ferienwohnung-frings.de/haus-wattenmeer/ausstattung
+ /' >	<img src='http://www.ferienwohnung-frings.de/wp-content/uploads/2015/0
+ 1/Robbe-Sommer1-300x200.jpg' width='300' height='200' title='Haus Wattenme
+ er' alt='Wattenmeer\, Tossens\, Butjadingen\, Nordsee\, Strand\, Center Pa
+ rc\, Aqua Mundo\, Fahrrad fahren\, Kinder\, Weltnaturerbe\, Urlaub\, Ferie
+ n'  class='so-widget-image' style='max-width:100%\; height:auto\; display:
+ block' />\n</a></div></div></div></div><div class='panel-grid' id='pg-13-3
+ ' ><div class='panel-grid-cell' id='pgc-13-3-0' ><div class='so-panel widg
+ et widget_text widget_text panel-first-child panel-last-child' id='panel-1
+ 3-3-0-0'><h3 class='widget-title'>Wohnung Seeadler</h3>			<div class='textwid
+ get'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schlafzimmer<br />\nab 39 EU
+ R</p>\n</div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-1' ><
+ div class='so-panel widget widget_text widget_text panel-first-child panel
+ -last-child' id='panel-13-3-1-0'><h3 class='widget-title'>Wohnung Tossens<
+ /h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schla
+ fzimmer<br />\nab 39 EUR</p>\n</div>\n		</div></div><div class='panel-grid-c
+ ell' id='pgc-13-3-2' ><div class='so-panel widget widget_text widget_text 
+ panel-first-child panel-last-child' id='panel-13-3-2-0'><h3 class='widget-
+ title'>Haus Nordsee</h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n
+ 88 qm<br />\n1 Schlafzimmer<br />\n1 Kinderzimmer<br />\nab 49 EUR</p>\n</
+ div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-3' ><div class
+ ='so-panel widget widget_text widget_text panel-first-child panel-last-chi
+ ld' id='panel-13-3-3-0'><h3 class='widget-title'>Haus Wattenmeer</h3>			<div 
+ class='textwidget'><p>Max. 6 Personen<br />\n120 qm<br />\n3 Schlafzimmer<
+ br />\nab 54 EUR für 4 Personen</p>\n</div>\n		</div></div></div></div>
+DTSTART;TZID=Europe/Berlin:20150919T110000
+DTEND;TZID=Europe/Berlin:20150919T130000
+GEO:+53.587213;+8.326405
+LOCATION:Hof Iggewarden @ Iggewarden\, 26969 Butjadingen\, Deutschland
+RRULE:FREQ=WEEKLY;COUNT=100;BYDAY=SU,MO,WE,TH,FR,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Tierfütterung & Friesengolf
+URL:http://www.ferienwohnung-frings.de/event/tierfuetterung-friesengolf/
+X-TICKETS-URL:http://www.hof-iggewarden.de
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-663@www.ferienwohnung-frings.de
+DTSTAMP:20150920T002214Z
+CATEGORIES:
+CONTACT:Butjenter Bahn\; 04731 - 9 38 80
+DESCRIPTION:<div id='pl-13'><div class='panel-grid' id='pg-13-0' ><div clas
+ s='panel-grid-cell' id='pgc-13-0-0' ><div class='so-panel widget widget_te
+ xt widget_text panel-first-child panel-last-child' id='panel-13-0-0-0'><h3
+  class='widget-title'>Herzlich Willkommen</h3>			<div class='textwidget'><p>W
+ illkommen in unseren Ferienwohnungen - ankommen\, entspannen\, wohlfühen..
+ ..</p>\n<p>In unseren Ferienobjekten in Tossens bieten wir Ihnen Ferien mi
+ t großem Komfort und vielen Extras.</p>\n<p>Mit unserem Service ermögliche
+ n wir es Ihnen\, Ihren Urlaub individuell und abwechslungsreich zu gestalt
+ en.</p>\n<p>Wir freuen uns auf Sie</p>\n<p>Familie Frings</p>\n</div>\n		</d
+ iv></div><div class='panel-grid-cell' id='pgc-13-0-1' ><div class='so-pane
+ l widget widget_ai1ec_agenda_widget widget_ai1ec_agenda_widget panel-first
+ -child panel-last-child' id='panel-13-0-1-0'>\n\n	<h3 class='widget-title'>
+ Aktuelle Termine</h3>\n\n<style>\n<!--\n\n-->\n</style>\n<div class='timel
+ y ai1ec-agenda-widget-view ai1ec-clearfix'>\n\n			<div>\n													<div class='ai1ec-da
+ te\n					ai1ec-today'>\n					<a class='ai1ec-date-title ai1ec-load-view'\n						href='http
+ ://www.ferienwohnung-frings.de/versanstaltungen/action~oneday/exact_date~2
+ 0-9-2015/'>\n						<div class='ai1ec-month'>Sep</div>\n						<div class='ai1ec-day'>20
+ </div>\n						<div class='ai1ec-weekday'>So</div>\n											</a>\n					<div class='ai1ec-date-
+ events'>\n													 																					<div class='ai1ec-event\n									ai1ec-event-id-644\n									ai1ec-event-instan
+ ce-id-10473\n									'>\n\n									<a href='http://www.ferienwohnung-frings.de/event/fahrt
+ -bremerhaven-helgoland/?instance_id=10473'\n										class='ai1ec-popup-trigger ai1
+ ec-load-event'>\n																					<span class='ai1ec-event-time'>\n												8:30\n											</span>\n										\n										<span c
+ lass='ai1ec-event-title'>\n											Fahrt Bremerhaven-Helgoland\n																							<span class='ai1ec
+ -event-location'\n													>@ MS 'Fair Lady'</span>\n																					</span>\n									</a>\n\n									<div class='a
+ i1ec-popover ai1ec-popup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href
+ ='http://www.ferienwohnung-frings.de/event/fahrt-bremerhaven-helgoland/?in
+ stance_id=10473'\n		   class='ai1ec-load-event'\n			>Fahrt Bremerhaven-Helgolan
+ d</a>\n					<span class='ai1ec-event-location'\n				>@ MS 'Fair Lady'</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 8:30 – 19:00\n			</div>\n\n	
+ \n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class
+ ='ai1ec-event\n									ai1ec-event-id-711\n									ai1ec-event-instance-id-11104\n									'>\n\n									<a
+  href='http://www.ferienwohnung-frings.de/event/tierfuetterung-friesengolf
+ /?instance_id=11104'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span
+  class='ai1ec-event-time'>\n												11:00\n											</span>\n										\n										<span class='ai1ec-event-tit
+ le'>\n											Tierfütterung & Friesengolf\n																							<span class='ai1ec-event-location'\n													>@ 
+ Hof Iggewarden</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/tierfuetterung-friesengolf/?instance_id=11104'\n		   c
+ lass='ai1ec-load-event'\n			>Tierfütterung & Friesengolf</a>\n					<span class='ai
+ 1ec-event-location'\n				>@ Hof Iggewarden</span>\n					</span>\n\n	\n	<div class='ai
+ 1ec-event-time'>\n					Sep 20 @ 11:00 – 13:00\n			</div>\n\n	\n			<div class='ai1ec-po
+ pup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class='ai1ec-event\n									ai1ec-e
+ vent-id-663\n									ai1ec-event-instance-id-10556\n									'>\n\n									<a href='http://www.feri
+ enwohnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instan
+ ce_id=10556'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span class='
+ ai1ec-event-time'>\n												13:30\n											</span>\n										\n										<span class='ai1ec-event-title'>\n											Er
+ lebnis-Rundtour mit der Butjen...\n																							<span class='ai1ec-event-location'\n													>@ 
+ Butjenter Bahn</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instance_i
+ d=10556'\n		   class='ai1ec-load-event'\n			>Erlebnis-Rundtour mit der Butjen..
+ .</a>\n					<span class='ai1ec-event-location'\n				>@ Butjenter Bahn</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 13:30 – 15:00\n			</div>\n\n
+ 	\n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n							 						 					</div>\n
+ 				</div>\n			 		</div>\n	 \n			<div class='ai1ec-subscribe-buttons-widget'>\n							<a class
+ ='ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right\n					ai1ec-calenda
+ r-link'\n					href='http://www.ferienwohnung-frings.de/versanstaltungen/'>\n					Vie
+ w Calendar\n					<i class='ai1ec-fa ai1ec-fa-arrow-right'></i>\n				</a>\n			\n					</div>
+ \n	 \n</div>\n\n\n\n</div></div></div><div class='panel-grid' id='pg-13-1' 
+ ><div class='panel-grid-cell' id='pgc-13-1-0' ><div class='so-panel widget
+  widget_headline-widget widget_headline-widget panel-first-child panel-las
+ t-child' id='panel-13-1-0-0'>		<h1>Unsere Wohnungen</h1>\n		<div class='decora
+ tion'><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div>
+ <div class='panel-grid-cell' id='pgc-13-1-1' ><div class='so-panel widget 
+ widget_headline-widget widget_headline-widget panel-first-child panel-last
+ -child' id='panel-13-1-1-0'>		<h1>Unsere Häuser</h1>\n		<div class='decoration
+ '><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div></di
+ v><div class='panel-grid' id='pg-13-2' ><div class='panel-grid-cell' id='p
+ gc-13-2-0' ><div class='so-panel widget widget_sow-image widget_sow-image 
+ panel-first-child panel-last-child' id='panel-13-2-0-0'><div class='so-wid
+ get-sow-image so-widget-sow-image-base'>\n<a href='http://www.ferienwohnun
+ g-frings.de/seeadler/ausstattung/' >	<img src='http://www.ferienwohnung-fri
+ ngs.de/wp-content/uploads/2015/01/27-neue-kueche-4-e1422797922166-300x207.
+ jpg' width='300' height='207' title='gemütliche Wohnlandschaft' alt='Haus 
+ Seeadler in Tossens\, Butjadingen\, Helgolandstraße\; nähe Center-Parc\, n
+ ah zum Deich und Friesenstrand\, Fahrrad fahren\, Kinder'  class='so-widge
+ t-image' style='max-width:100%\; height:auto\; display:block' />\n</a></di
+ v></div></div><div class='panel-grid-cell' id='pgc-13-2-1' ><div class='so
+ -panel widget widget_sow-image widget_sow-image panel-first-child panel-la
+ st-child' id='panel-13-2-1-0'><div class='so-widget-sow-image so-widget-so
+ w-image-base'>\n<a href='http://www.ferienwohnung-frings.de/wohnung-tossen
+ s/ausstattung/' >	<img src='http://www.ferienwohnung-frings.de/wp-content/u
+ ploads/2015/01/Couch-Reflexion-300x200.jpg' width='300' height='200' title
+ ='modern wohnen und sich erholen' alt='Haus Seeadler\, Tossens\, Butjading
+ en\, Helgolandstraße\, Nähe Center Parcs\, Friesenstrand\, Fahrrad fahren\
+ , Kinder\, Aqua Mundo'  class='so-widget-image' style='max-width:100%\; he
+ ight:auto\; display:block' />\n</a></div></div></div><div class='panel-gri
+ d-cell' id='pgc-13-2-2' ><div class='so-panel widget widget_sow-image widg
+ et_sow-image panel-first-child panel-last-child' id='panel-13-2-2-0'><div 
+ class='so-widget-sow-image so-widget-sow-image-base'>\n<a href='http://www
+ .ferienwohnung-frings.de/haus-nordsee/ausstattung/' >	<img src='http://www.
+ ferienwohnung-frings.de/wp-content/uploads/2015/05/1afruehling-8-300x199.j
+ pg' width='300' height='199' title='Haus Nordsee' alt='Ferienhaus Frings N
+ ordsee\, Tossens\, Butjadingen\, Center Parcs\, Friesenstrand\, Aqua Mundo
+ \, Fahrrad fahren\, Urlaub\, Ferien\, Traum'  class='so-widget-image' styl
+ e='max-width:100%\; height:auto\; display:block' />\n</a></div></div></div
+ ><div class='panel-grid-cell' id='pgc-13-2-3' ><div class='so-panel widget
+  widget_sow-image widget_sow-image panel-first-child panel-last-child' id=
+ 'panel-13-2-3-0'><div class='so-widget-sow-image so-widget-sow-image-base'
+ >\n<a href='http://www.ferienwohnung-frings.de/haus-wattenmeer/ausstattung
+ /' >	<img src='http://www.ferienwohnung-frings.de/wp-content/uploads/2015/0
+ 1/Robbe-Sommer1-300x200.jpg' width='300' height='200' title='Haus Wattenme
+ er' alt='Wattenmeer\, Tossens\, Butjadingen\, Nordsee\, Strand\, Center Pa
+ rc\, Aqua Mundo\, Fahrrad fahren\, Kinder\, Weltnaturerbe\, Urlaub\, Ferie
+ n'  class='so-widget-image' style='max-width:100%\; height:auto\; display:
+ block' />\n</a></div></div></div></div><div class='panel-grid' id='pg-13-3
+ ' ><div class='panel-grid-cell' id='pgc-13-3-0' ><div class='so-panel widg
+ et widget_text widget_text panel-first-child panel-last-child' id='panel-1
+ 3-3-0-0'><h3 class='widget-title'>Wohnung Seeadler</h3>			<div class='textwid
+ get'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schlafzimmer<br />\nab 39 EU
+ R</p>\n</div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-1' ><
+ div class='so-panel widget widget_text widget_text panel-first-child panel
+ -last-child' id='panel-13-3-1-0'><h3 class='widget-title'>Wohnung Tossens<
+ /h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schla
+ fzimmer<br />\nab 39 EUR</p>\n</div>\n		</div></div><div class='panel-grid-c
+ ell' id='pgc-13-3-2' ><div class='so-panel widget widget_text widget_text 
+ panel-first-child panel-last-child' id='panel-13-3-2-0'><h3 class='widget-
+ title'>Haus Nordsee</h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n
+ 88 qm<br />\n1 Schlafzimmer<br />\n1 Kinderzimmer<br />\nab 49 EUR</p>\n</
+ div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-3' ><div class
+ ='so-panel widget widget_text widget_text panel-first-child panel-last-chi
+ ld' id='panel-13-3-3-0'><h3 class='widget-title'>Haus Wattenmeer</h3>			<div 
+ class='textwidget'><p>Max. 6 Personen<br />\n120 qm<br />\n3 Schlafzimmer<
+ br />\nab 54 EUR für 4 Personen</p>\n</div>\n		</div></div></div></div>
+DTSTART;TZID=Europe/Berlin:20150920T133000
+DTEND;TZID=Europe/Berlin:20150920T150000
+GEO:+53.574037;+8.254348
+LOCATION:Butjenter Bahn @ Nordseeallee\, 26969 Butjadingen\, Deutschland
+RRULE:FREQ=WEEKLY;BYDAY=SU,TU,TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Erlebnis-Rundtour mit der Butjenter Bahn
+URL:http://www.ferienwohnung-frings.de/event/erlebnis-rundtour-mit-der-butj
+ enter-bahn/
+X-COST:Erw. 6\,- €\, Kinder 4-12 J. 3\,- €\, unter 4 J. frei
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-551@www.ferienwohnung-frings.de
+DTSTAMP:20150920T002214Z
+CATEGORIES:
+CONTACT:Museum Moorseer Mühle\; 04731 - 8 89 83\; info@museum-moorseer-mueh
+ le.de
+DESCRIPTION:<div id='pl-13'><div class='panel-grid' id='pg-13-0' ><div clas
+ s='panel-grid-cell' id='pgc-13-0-0' ><div class='so-panel widget widget_te
+ xt widget_text panel-first-child panel-last-child' id='panel-13-0-0-0'><h3
+  class='widget-title'>Herzlich Willkommen</h3>			<div class='textwidget'><p>W
+ illkommen in unseren Ferienwohnungen - ankommen\, entspannen\, wohlfühen..
+ ..</p>\n<p>In unseren Ferienobjekten in Tossens bieten wir Ihnen Ferien mi
+ t großem Komfort und vielen Extras.</p>\n<p>Mit unserem Service ermögliche
+ n wir es Ihnen\, Ihren Urlaub individuell und abwechslungsreich zu gestalt
+ en.</p>\n<p>Wir freuen uns auf Sie</p>\n<p>Familie Frings</p>\n</div>\n		</d
+ iv></div><div class='panel-grid-cell' id='pgc-13-0-1' ><div class='so-pane
+ l widget widget_ai1ec_agenda_widget widget_ai1ec_agenda_widget panel-first
+ -child panel-last-child' id='panel-13-0-1-0'>\n\n	<h3 class='widget-title'>
+ Aktuelle Termine</h3>\n\n<style>\n<!--\n\n-->\n</style>\n<div class='timel
+ y ai1ec-agenda-widget-view ai1ec-clearfix'>\n\n			<div>\n													<div class='ai1ec-da
+ te\n					ai1ec-today'>\n					<a class='ai1ec-date-title ai1ec-load-view'\n						href='http
+ ://www.ferienwohnung-frings.de/versanstaltungen/action~oneday/exact_date~2
+ 0-9-2015/'>\n						<div class='ai1ec-month'>Sep</div>\n						<div class='ai1ec-day'>20
+ </div>\n						<div class='ai1ec-weekday'>So</div>\n											</a>\n					<div class='ai1ec-date-
+ events'>\n													 																					<div class='ai1ec-event\n									ai1ec-event-id-644\n									ai1ec-event-instan
+ ce-id-10473\n									'>\n\n									<a href='http://www.ferienwohnung-frings.de/event/fahrt
+ -bremerhaven-helgoland/?instance_id=10473'\n										class='ai1ec-popup-trigger ai1
+ ec-load-event'>\n																					<span class='ai1ec-event-time'>\n												8:30\n											</span>\n										\n										<span c
+ lass='ai1ec-event-title'>\n											Fahrt Bremerhaven-Helgoland\n																							<span class='ai1ec
+ -event-location'\n													>@ MS 'Fair Lady'</span>\n																					</span>\n									</a>\n\n									<div class='a
+ i1ec-popover ai1ec-popup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href
+ ='http://www.ferienwohnung-frings.de/event/fahrt-bremerhaven-helgoland/?in
+ stance_id=10473'\n		   class='ai1ec-load-event'\n			>Fahrt Bremerhaven-Helgolan
+ d</a>\n					<span class='ai1ec-event-location'\n				>@ MS 'Fair Lady'</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 8:30 – 19:00\n			</div>\n\n	
+ \n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class
+ ='ai1ec-event\n									ai1ec-event-id-711\n									ai1ec-event-instance-id-11104\n									'>\n\n									<a
+  href='http://www.ferienwohnung-frings.de/event/tierfuetterung-friesengolf
+ /?instance_id=11104'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span
+  class='ai1ec-event-time'>\n												11:00\n											</span>\n										\n										<span class='ai1ec-event-tit
+ le'>\n											Tierfütterung & Friesengolf\n																							<span class='ai1ec-event-location'\n													>@ 
+ Hof Iggewarden</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/tierfuetterung-friesengolf/?instance_id=11104'\n		   c
+ lass='ai1ec-load-event'\n			>Tierfütterung & Friesengolf</a>\n					<span class='ai
+ 1ec-event-location'\n				>@ Hof Iggewarden</span>\n					</span>\n\n	\n	<div class='ai
+ 1ec-event-time'>\n					Sep 20 @ 11:00 – 13:00\n			</div>\n\n	\n			<div class='ai1ec-po
+ pup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class='ai1ec-event\n									ai1ec-e
+ vent-id-663\n									ai1ec-event-instance-id-10556\n									'>\n\n									<a href='http://www.feri
+ enwohnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instan
+ ce_id=10556'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span class='
+ ai1ec-event-time'>\n												13:30\n											</span>\n										\n										<span class='ai1ec-event-title'>\n											Er
+ lebnis-Rundtour mit der Butjen...\n																							<span class='ai1ec-event-location'\n													>@ 
+ Butjenter Bahn</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instance_i
+ d=10556'\n		   class='ai1ec-load-event'\n			>Erlebnis-Rundtour mit der Butjen..
+ .</a>\n					<span class='ai1ec-event-location'\n				>@ Butjenter Bahn</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 13:30 – 15:00\n			</div>\n\n
+ 	\n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n							 						 					</div>\n
+ 				</div>\n			 		</div>\n	 \n			<div class='ai1ec-subscribe-buttons-widget'>\n							<a class
+ ='ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right\n					ai1ec-calenda
+ r-link'\n					href='http://www.ferienwohnung-frings.de/versanstaltungen/'>\n					Vie
+ w Calendar\n					<i class='ai1ec-fa ai1ec-fa-arrow-right'></i>\n				</a>\n			\n					</div>
+ \n	 \n</div>\n\n\n\n</div></div></div><div class='panel-grid' id='pg-13-1' 
+ ><div class='panel-grid-cell' id='pgc-13-1-0' ><div class='so-panel widget
+  widget_headline-widget widget_headline-widget panel-first-child panel-las
+ t-child' id='panel-13-1-0-0'>		<h1>Unsere Wohnungen</h1>\n		<div class='decora
+ tion'><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div>
+ <div class='panel-grid-cell' id='pgc-13-1-1' ><div class='so-panel widget 
+ widget_headline-widget widget_headline-widget panel-first-child panel-last
+ -child' id='panel-13-1-1-0'>		<h1>Unsere Häuser</h1>\n		<div class='decoration
+ '><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div></di
+ v><div class='panel-grid' id='pg-13-2' ><div class='panel-grid-cell' id='p
+ gc-13-2-0' ><div class='so-panel widget widget_sow-image widget_sow-image 
+ panel-first-child panel-last-child' id='panel-13-2-0-0'><div class='so-wid
+ get-sow-image so-widget-sow-image-base'>\n<a href='http://www.ferienwohnun
+ g-frings.de/seeadler/ausstattung/' >	<img src='http://www.ferienwohnung-fri
+ ngs.de/wp-content/uploads/2015/01/27-neue-kueche-4-e1422797922166-300x207.
+ jpg' width='300' height='207' title='gemütliche Wohnlandschaft' alt='Haus 
+ Seeadler in Tossens\, Butjadingen\, Helgolandstraße\; nähe Center-Parc\, n
+ ah zum Deich und Friesenstrand\, Fahrrad fahren\, Kinder'  class='so-widge
+ t-image' style='max-width:100%\; height:auto\; display:block' />\n</a></di
+ v></div></div><div class='panel-grid-cell' id='pgc-13-2-1' ><div class='so
+ -panel widget widget_sow-image widget_sow-image panel-first-child panel-la
+ st-child' id='panel-13-2-1-0'><div class='so-widget-sow-image so-widget-so
+ w-image-base'>\n<a href='http://www.ferienwohnung-frings.de/wohnung-tossen
+ s/ausstattung/' >	<img src='http://www.ferienwohnung-frings.de/wp-content/u
+ ploads/2015/01/Couch-Reflexion-300x200.jpg' width='300' height='200' title
+ ='modern wohnen und sich erholen' alt='Haus Seeadler\, Tossens\, Butjading
+ en\, Helgolandstraße\, Nähe Center Parcs\, Friesenstrand\, Fahrrad fahren\
+ , Kinder\, Aqua Mundo'  class='so-widget-image' style='max-width:100%\; he
+ ight:auto\; display:block' />\n</a></div></div></div><div class='panel-gri
+ d-cell' id='pgc-13-2-2' ><div class='so-panel widget widget_sow-image widg
+ et_sow-image panel-first-child panel-last-child' id='panel-13-2-2-0'><div 
+ class='so-widget-sow-image so-widget-sow-image-base'>\n<a href='http://www
+ .ferienwohnung-frings.de/haus-nordsee/ausstattung/' >	<img src='http://www.
+ ferienwohnung-frings.de/wp-content/uploads/2015/05/1afruehling-8-300x199.j
+ pg' width='300' height='199' title='Haus Nordsee' alt='Ferienhaus Frings N
+ ordsee\, Tossens\, Butjadingen\, Center Parcs\, Friesenstrand\, Aqua Mundo
+ \, Fahrrad fahren\, Urlaub\, Ferien\, Traum'  class='so-widget-image' styl
+ e='max-width:100%\; height:auto\; display:block' />\n</a></div></div></div
+ ><div class='panel-grid-cell' id='pgc-13-2-3' ><div class='so-panel widget
+  widget_sow-image widget_sow-image panel-first-child panel-last-child' id=
+ 'panel-13-2-3-0'><div class='so-widget-sow-image so-widget-sow-image-base'
+ >\n<a href='http://www.ferienwohnung-frings.de/haus-wattenmeer/ausstattung
+ /' >	<img src='http://www.ferienwohnung-frings.de/wp-content/uploads/2015/0
+ 1/Robbe-Sommer1-300x200.jpg' width='300' height='200' title='Haus Wattenme
+ er' alt='Wattenmeer\, Tossens\, Butjadingen\, Nordsee\, Strand\, Center Pa
+ rc\, Aqua Mundo\, Fahrrad fahren\, Kinder\, Weltnaturerbe\, Urlaub\, Ferie
+ n'  class='so-widget-image' style='max-width:100%\; height:auto\; display:
+ block' />\n</a></div></div></div></div><div class='panel-grid' id='pg-13-3
+ ' ><div class='panel-grid-cell' id='pgc-13-3-0' ><div class='so-panel widg
+ et widget_text widget_text panel-first-child panel-last-child' id='panel-1
+ 3-3-0-0'><h3 class='widget-title'>Wohnung Seeadler</h3>			<div class='textwid
+ get'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schlafzimmer<br />\nab 39 EU
+ R</p>\n</div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-1' ><
+ div class='so-panel widget widget_text widget_text panel-first-child panel
+ -last-child' id='panel-13-3-1-0'><h3 class='widget-title'>Wohnung Tossens<
+ /h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schla
+ fzimmer<br />\nab 39 EUR</p>\n</div>\n		</div></div><div class='panel-grid-c
+ ell' id='pgc-13-3-2' ><div class='so-panel widget widget_text widget_text 
+ panel-first-child panel-last-child' id='panel-13-3-2-0'><h3 class='widget-
+ title'>Haus Nordsee</h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n
+ 88 qm<br />\n1 Schlafzimmer<br />\n1 Kinderzimmer<br />\nab 49 EUR</p>\n</
+ div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-3' ><div class
+ ='so-panel widget widget_text widget_text panel-first-child panel-last-chi
+ ld' id='panel-13-3-3-0'><h3 class='widget-title'>Haus Wattenmeer</h3>			<div 
+ class='textwidget'><p>Max. 6 Personen<br />\n120 qm<br />\n3 Schlafzimmer<
+ br />\nab 54 EUR für 4 Personen</p>\n</div>\n		</div></div></div></div>
+DTSTART;TZID=Europe/Berlin:20150922T110000
+DTEND;TZID=Europe/Berlin:20150922T130000
+GEO:+53.490456;+8.427907
+LOCATION:Museum Moorseer Mühle @ Butjadinger Straße 132\, 26954 Nordenham\,
+  Deutschland
+RRULE:FREQ=WEEKLY;BYDAY=TU,WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Mitmachbacktag in der Schaubäckerei
+URL:http://www.ferienwohnung-frings.de/event/mitmachbacktag-in-der-schaubae
+ ckerei/
+X-COST:2\,50 € plus Museumseintritt
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-717@www.ferienwohnung-frings.de
+DTSTAMP:20150920T002214Z
+CATEGORIES:
+CONTACT:Museum Moorseer Mühle\; 04731 - 8 89 83\; info@museum-moorseer-mueh
+ le.de\; http://www.museum-moorseer-muehle.de
+DESCRIPTION:<div id='pl-13'><div class='panel-grid' id='pg-13-0' ><div clas
+ s='panel-grid-cell' id='pgc-13-0-0' ><div class='so-panel widget widget_te
+ xt widget_text panel-first-child panel-last-child' id='panel-13-0-0-0'><h3
+  class='widget-title'>Herzlich Willkommen</h3>			<div class='textwidget'><p>W
+ illkommen in unseren Ferienwohnungen - ankommen\, entspannen\, wohlfühen..
+ ..</p>\n<p>In unseren Ferienobjekten in Tossens bieten wir Ihnen Ferien mi
+ t großem Komfort und vielen Extras.</p>\n<p>Mit unserem Service ermögliche
+ n wir es Ihnen\, Ihren Urlaub individuell und abwechslungsreich zu gestalt
+ en.</p>\n<p>Wir freuen uns auf Sie</p>\n<p>Familie Frings</p>\n</div>\n		</d
+ iv></div><div class='panel-grid-cell' id='pgc-13-0-1' ><div class='so-pane
+ l widget widget_ai1ec_agenda_widget widget_ai1ec_agenda_widget panel-first
+ -child panel-last-child' id='panel-13-0-1-0'>\n\n	<h3 class='widget-title'>
+ Aktuelle Termine</h3>\n\n<style>\n<!--\n\n-->\n</style>\n<div class='timel
+ y ai1ec-agenda-widget-view ai1ec-clearfix'>\n\n			<div>\n													<div class='ai1ec-da
+ te\n					ai1ec-today'>\n					<a class='ai1ec-date-title ai1ec-load-view'\n						href='http
+ ://www.ferienwohnung-frings.de/versanstaltungen/action~oneday/exact_date~2
+ 0-9-2015/'>\n						<div class='ai1ec-month'>Sep</div>\n						<div class='ai1ec-day'>20
+ </div>\n						<div class='ai1ec-weekday'>So</div>\n											</a>\n					<div class='ai1ec-date-
+ events'>\n													 																					<div class='ai1ec-event\n									ai1ec-event-id-644\n									ai1ec-event-instan
+ ce-id-10473\n									'>\n\n									<a href='http://www.ferienwohnung-frings.de/event/fahrt
+ -bremerhaven-helgoland/?instance_id=10473'\n										class='ai1ec-popup-trigger ai1
+ ec-load-event'>\n																					<span class='ai1ec-event-time'>\n												8:30\n											</span>\n										\n										<span c
+ lass='ai1ec-event-title'>\n											Fahrt Bremerhaven-Helgoland\n																							<span class='ai1ec
+ -event-location'\n													>@ MS 'Fair Lady'</span>\n																					</span>\n									</a>\n\n									<div class='a
+ i1ec-popover ai1ec-popup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href
+ ='http://www.ferienwohnung-frings.de/event/fahrt-bremerhaven-helgoland/?in
+ stance_id=10473'\n		   class='ai1ec-load-event'\n			>Fahrt Bremerhaven-Helgolan
+ d</a>\n					<span class='ai1ec-event-location'\n				>@ MS 'Fair Lady'</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 8:30 – 19:00\n			</div>\n\n	
+ \n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class
+ ='ai1ec-event\n									ai1ec-event-id-711\n									ai1ec-event-instance-id-11104\n									'>\n\n									<a
+  href='http://www.ferienwohnung-frings.de/event/tierfuetterung-friesengolf
+ /?instance_id=11104'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span
+  class='ai1ec-event-time'>\n												11:00\n											</span>\n										\n										<span class='ai1ec-event-tit
+ le'>\n											Tierfütterung & Friesengolf\n																							<span class='ai1ec-event-location'\n													>@ 
+ Hof Iggewarden</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/tierfuetterung-friesengolf/?instance_id=11104'\n		   c
+ lass='ai1ec-load-event'\n			>Tierfütterung & Friesengolf</a>\n					<span class='ai
+ 1ec-event-location'\n				>@ Hof Iggewarden</span>\n					</span>\n\n	\n	<div class='ai
+ 1ec-event-time'>\n					Sep 20 @ 11:00 – 13:00\n			</div>\n\n	\n			<div class='ai1ec-po
+ pup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class='ai1ec-event\n									ai1ec-e
+ vent-id-663\n									ai1ec-event-instance-id-10556\n									'>\n\n									<a href='http://www.feri
+ enwohnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instan
+ ce_id=10556'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span class='
+ ai1ec-event-time'>\n												13:30\n											</span>\n										\n										<span class='ai1ec-event-title'>\n											Er
+ lebnis-Rundtour mit der Butjen...\n																							<span class='ai1ec-event-location'\n													>@ 
+ Butjenter Bahn</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instance_i
+ d=10556'\n		   class='ai1ec-load-event'\n			>Erlebnis-Rundtour mit der Butjen..
+ .</a>\n					<span class='ai1ec-event-location'\n				>@ Butjenter Bahn</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 13:30 – 15:00\n			</div>\n\n
+ 	\n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n							 						 					</div>\n
+ 				</div>\n			 		</div>\n	 \n			<div class='ai1ec-subscribe-buttons-widget'>\n							<a class
+ ='ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right\n					ai1ec-calenda
+ r-link'\n					href='http://www.ferienwohnung-frings.de/versanstaltungen/'>\n					Vie
+ w Calendar\n					<i class='ai1ec-fa ai1ec-fa-arrow-right'></i>\n				</a>\n			\n					</div>
+ \n	 \n</div>\n\n\n\n</div></div></div><div class='panel-grid' id='pg-13-1' 
+ ><div class='panel-grid-cell' id='pgc-13-1-0' ><div class='so-panel widget
+  widget_headline-widget widget_headline-widget panel-first-child panel-las
+ t-child' id='panel-13-1-0-0'>		<h1>Unsere Wohnungen</h1>\n		<div class='decora
+ tion'><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div>
+ <div class='panel-grid-cell' id='pgc-13-1-1' ><div class='so-panel widget 
+ widget_headline-widget widget_headline-widget panel-first-child panel-last
+ -child' id='panel-13-1-1-0'>		<h1>Unsere Häuser</h1>\n		<div class='decoration
+ '><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div></di
+ v><div class='panel-grid' id='pg-13-2' ><div class='panel-grid-cell' id='p
+ gc-13-2-0' ><div class='so-panel widget widget_sow-image widget_sow-image 
+ panel-first-child panel-last-child' id='panel-13-2-0-0'><div class='so-wid
+ get-sow-image so-widget-sow-image-base'>\n<a href='http://www.ferienwohnun
+ g-frings.de/seeadler/ausstattung/' >	<img src='http://www.ferienwohnung-fri
+ ngs.de/wp-content/uploads/2015/01/27-neue-kueche-4-e1422797922166-300x207.
+ jpg' width='300' height='207' title='gemütliche Wohnlandschaft' alt='Haus 
+ Seeadler in Tossens\, Butjadingen\, Helgolandstraße\; nähe Center-Parc\, n
+ ah zum Deich und Friesenstrand\, Fahrrad fahren\, Kinder'  class='so-widge
+ t-image' style='max-width:100%\; height:auto\; display:block' />\n</a></di
+ v></div></div><div class='panel-grid-cell' id='pgc-13-2-1' ><div class='so
+ -panel widget widget_sow-image widget_sow-image panel-first-child panel-la
+ st-child' id='panel-13-2-1-0'><div class='so-widget-sow-image so-widget-so
+ w-image-base'>\n<a href='http://www.ferienwohnung-frings.de/wohnung-tossen
+ s/ausstattung/' >	<img src='http://www.ferienwohnung-frings.de/wp-content/u
+ ploads/2015/01/Couch-Reflexion-300x200.jpg' width='300' height='200' title
+ ='modern wohnen und sich erholen' alt='Haus Seeadler\, Tossens\, Butjading
+ en\, Helgolandstraße\, Nähe Center Parcs\, Friesenstrand\, Fahrrad fahren\
+ , Kinder\, Aqua Mundo'  class='so-widget-image' style='max-width:100%\; he
+ ight:auto\; display:block' />\n</a></div></div></div><div class='panel-gri
+ d-cell' id='pgc-13-2-2' ><div class='so-panel widget widget_sow-image widg
+ et_sow-image panel-first-child panel-last-child' id='panel-13-2-2-0'><div 
+ class='so-widget-sow-image so-widget-sow-image-base'>\n<a href='http://www
+ .ferienwohnung-frings.de/haus-nordsee/ausstattung/' >	<img src='http://www.
+ ferienwohnung-frings.de/wp-content/uploads/2015/05/1afruehling-8-300x199.j
+ pg' width='300' height='199' title='Haus Nordsee' alt='Ferienhaus Frings N
+ ordsee\, Tossens\, Butjadingen\, Center Parcs\, Friesenstrand\, Aqua Mundo
+ \, Fahrrad fahren\, Urlaub\, Ferien\, Traum'  class='so-widget-image' styl
+ e='max-width:100%\; height:auto\; display:block' />\n</a></div></div></div
+ ><div class='panel-grid-cell' id='pgc-13-2-3' ><div class='so-panel widget
+  widget_sow-image widget_sow-image panel-first-child panel-last-child' id=
+ 'panel-13-2-3-0'><div class='so-widget-sow-image so-widget-sow-image-base'
+ >\n<a href='http://www.ferienwohnung-frings.de/haus-wattenmeer/ausstattung
+ /' >	<img src='http://www.ferienwohnung-frings.de/wp-content/uploads/2015/0
+ 1/Robbe-Sommer1-300x200.jpg' width='300' height='200' title='Haus Wattenme
+ er' alt='Wattenmeer\, Tossens\, Butjadingen\, Nordsee\, Strand\, Center Pa
+ rc\, Aqua Mundo\, Fahrrad fahren\, Kinder\, Weltnaturerbe\, Urlaub\, Ferie
+ n'  class='so-widget-image' style='max-width:100%\; height:auto\; display:
+ block' />\n</a></div></div></div></div><div class='panel-grid' id='pg-13-3
+ ' ><div class='panel-grid-cell' id='pgc-13-3-0' ><div class='so-panel widg
+ et widget_text widget_text panel-first-child panel-last-child' id='panel-1
+ 3-3-0-0'><h3 class='widget-title'>Wohnung Seeadler</h3>			<div class='textwid
+ get'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schlafzimmer<br />\nab 39 EU
+ R</p>\n</div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-1' ><
+ div class='so-panel widget widget_text widget_text panel-first-child panel
+ -last-child' id='panel-13-3-1-0'><h3 class='widget-title'>Wohnung Tossens<
+ /h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schla
+ fzimmer<br />\nab 39 EUR</p>\n</div>\n		</div></div><div class='panel-grid-c
+ ell' id='pgc-13-3-2' ><div class='so-panel widget widget_text widget_text 
+ panel-first-child panel-last-child' id='panel-13-3-2-0'><h3 class='widget-
+ title'>Haus Nordsee</h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n
+ 88 qm<br />\n1 Schlafzimmer<br />\n1 Kinderzimmer<br />\nab 49 EUR</p>\n</
+ div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-3' ><div class
+ ='so-panel widget widget_text widget_text panel-first-child panel-last-chi
+ ld' id='panel-13-3-3-0'><h3 class='widget-title'>Haus Wattenmeer</h3>			<div 
+ class='textwidget'><p>Max. 6 Personen<br />\n120 qm<br />\n3 Schlafzimmer<
+ br />\nab 54 EUR für 4 Personen</p>\n</div>\n		</div></div></div></div>
+DTSTART;TZID=Europe/Berlin:20150924T110000
+DTEND;TZID=Europe/Berlin:20150924T120000
+GEO:+53.590213;+8.325096
+LOCATION:Museum Moorseer Mühle @ Butjadinger Straße\, 26969 Butjadingen\, D
+ eutschland
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
+SEQUENCE:0
+SUMMARY:Besuch bei den Mühlenschafen
+URL:http://www.ferienwohnung-frings.de/event/besuch-bei-den-muehlenschafen-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-716@www.ferienwohnung-frings.de
+DTSTAMP:20150920T002214Z
+CATEGORIES:
+CONTACT:Museum Moorseer Mühle\; 04731 - 8 89 83\; info@museum-moorseer-mueh
+ le.de\; http://www.museum-moorseer-muehle.de
+DESCRIPTION:<div id='pl-13'><div class='panel-grid' id='pg-13-0' ><div clas
+ s='panel-grid-cell' id='pgc-13-0-0' ><div class='so-panel widget widget_te
+ xt widget_text panel-first-child panel-last-child' id='panel-13-0-0-0'><h3
+  class='widget-title'>Herzlich Willkommen</h3>			<div class='textwidget'><p>W
+ illkommen in unseren Ferienwohnungen - ankommen\, entspannen\, wohlfühen..
+ ..</p>\n<p>In unseren Ferienobjekten in Tossens bieten wir Ihnen Ferien mi
+ t großem Komfort und vielen Extras.</p>\n<p>Mit unserem Service ermögliche
+ n wir es Ihnen\, Ihren Urlaub individuell und abwechslungsreich zu gestalt
+ en.</p>\n<p>Wir freuen uns auf Sie</p>\n<p>Familie Frings</p>\n</div>\n		</d
+ iv></div><div class='panel-grid-cell' id='pgc-13-0-1' ><div class='so-pane
+ l widget widget_ai1ec_agenda_widget widget_ai1ec_agenda_widget panel-first
+ -child panel-last-child' id='panel-13-0-1-0'>\n\n	<h3 class='widget-title'>
+ Aktuelle Termine</h3>\n\n<style>\n<!--\n\n-->\n</style>\n<div class='timel
+ y ai1ec-agenda-widget-view ai1ec-clearfix'>\n\n			<div>\n													<div class='ai1ec-da
+ te\n					ai1ec-today'>\n					<a class='ai1ec-date-title ai1ec-load-view'\n						href='http
+ ://www.ferienwohnung-frings.de/versanstaltungen/action~oneday/exact_date~2
+ 0-9-2015/'>\n						<div class='ai1ec-month'>Sep</div>\n						<div class='ai1ec-day'>20
+ </div>\n						<div class='ai1ec-weekday'>So</div>\n											</a>\n					<div class='ai1ec-date-
+ events'>\n													 																					<div class='ai1ec-event\n									ai1ec-event-id-644\n									ai1ec-event-instan
+ ce-id-10473\n									'>\n\n									<a href='http://www.ferienwohnung-frings.de/event/fahrt
+ -bremerhaven-helgoland/?instance_id=10473'\n										class='ai1ec-popup-trigger ai1
+ ec-load-event'>\n																					<span class='ai1ec-event-time'>\n												8:30\n											</span>\n										\n										<span c
+ lass='ai1ec-event-title'>\n											Fahrt Bremerhaven-Helgoland\n																							<span class='ai1ec
+ -event-location'\n													>@ MS 'Fair Lady'</span>\n																					</span>\n									</a>\n\n									<div class='a
+ i1ec-popover ai1ec-popup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href
+ ='http://www.ferienwohnung-frings.de/event/fahrt-bremerhaven-helgoland/?in
+ stance_id=10473'\n		   class='ai1ec-load-event'\n			>Fahrt Bremerhaven-Helgolan
+ d</a>\n					<span class='ai1ec-event-location'\n				>@ MS 'Fair Lady'</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 8:30 – 19:00\n			</div>\n\n	
+ \n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class
+ ='ai1ec-event\n									ai1ec-event-id-711\n									ai1ec-event-instance-id-11104\n									'>\n\n									<a
+  href='http://www.ferienwohnung-frings.de/event/tierfuetterung-friesengolf
+ /?instance_id=11104'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span
+  class='ai1ec-event-time'>\n												11:00\n											</span>\n										\n										<span class='ai1ec-event-tit
+ le'>\n											Tierfütterung & Friesengolf\n																							<span class='ai1ec-event-location'\n													>@ 
+ Hof Iggewarden</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/tierfuetterung-friesengolf/?instance_id=11104'\n		   c
+ lass='ai1ec-load-event'\n			>Tierfütterung & Friesengolf</a>\n					<span class='ai
+ 1ec-event-location'\n				>@ Hof Iggewarden</span>\n					</span>\n\n	\n	<div class='ai
+ 1ec-event-time'>\n					Sep 20 @ 11:00 – 13:00\n			</div>\n\n	\n			<div class='ai1ec-po
+ pup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class='ai1ec-event\n									ai1ec-e
+ vent-id-663\n									ai1ec-event-instance-id-10556\n									'>\n\n									<a href='http://www.feri
+ enwohnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instan
+ ce_id=10556'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span class='
+ ai1ec-event-time'>\n												13:30\n											</span>\n										\n										<span class='ai1ec-event-title'>\n											Er
+ lebnis-Rundtour mit der Butjen...\n																							<span class='ai1ec-event-location'\n													>@ 
+ Butjenter Bahn</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instance_i
+ d=10556'\n		   class='ai1ec-load-event'\n			>Erlebnis-Rundtour mit der Butjen..
+ .</a>\n					<span class='ai1ec-event-location'\n				>@ Butjenter Bahn</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 13:30 – 15:00\n			</div>\n\n
+ 	\n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n							 						 					</div>\n
+ 				</div>\n			 		</div>\n	 \n			<div class='ai1ec-subscribe-buttons-widget'>\n							<a class
+ ='ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right\n					ai1ec-calenda
+ r-link'\n					href='http://www.ferienwohnung-frings.de/versanstaltungen/'>\n					Vie
+ w Calendar\n					<i class='ai1ec-fa ai1ec-fa-arrow-right'></i>\n				</a>\n			\n					</div>
+ \n	 \n</div>\n\n\n\n</div></div></div><div class='panel-grid' id='pg-13-1' 
+ ><div class='panel-grid-cell' id='pgc-13-1-0' ><div class='so-panel widget
+  widget_headline-widget widget_headline-widget panel-first-child panel-las
+ t-child' id='panel-13-1-0-0'>		<h1>Unsere Wohnungen</h1>\n		<div class='decora
+ tion'><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div>
+ <div class='panel-grid-cell' id='pgc-13-1-1' ><div class='so-panel widget 
+ widget_headline-widget widget_headline-widget panel-first-child panel-last
+ -child' id='panel-13-1-1-0'>		<h1>Unsere Häuser</h1>\n		<div class='decoration
+ '><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div></di
+ v><div class='panel-grid' id='pg-13-2' ><div class='panel-grid-cell' id='p
+ gc-13-2-0' ><div class='so-panel widget widget_sow-image widget_sow-image 
+ panel-first-child panel-last-child' id='panel-13-2-0-0'><div class='so-wid
+ get-sow-image so-widget-sow-image-base'>\n<a href='http://www.ferienwohnun
+ g-frings.de/seeadler/ausstattung/' >	<img src='http://www.ferienwohnung-fri
+ ngs.de/wp-content/uploads/2015/01/27-neue-kueche-4-e1422797922166-300x207.
+ jpg' width='300' height='207' title='gemütliche Wohnlandschaft' alt='Haus 
+ Seeadler in Tossens\, Butjadingen\, Helgolandstraße\; nähe Center-Parc\, n
+ ah zum Deich und Friesenstrand\, Fahrrad fahren\, Kinder'  class='so-widge
+ t-image' style='max-width:100%\; height:auto\; display:block' />\n</a></di
+ v></div></div><div class='panel-grid-cell' id='pgc-13-2-1' ><div class='so
+ -panel widget widget_sow-image widget_sow-image panel-first-child panel-la
+ st-child' id='panel-13-2-1-0'><div class='so-widget-sow-image so-widget-so
+ w-image-base'>\n<a href='http://www.ferienwohnung-frings.de/wohnung-tossen
+ s/ausstattung/' >	<img src='http://www.ferienwohnung-frings.de/wp-content/u
+ ploads/2015/01/Couch-Reflexion-300x200.jpg' width='300' height='200' title
+ ='modern wohnen und sich erholen' alt='Haus Seeadler\, Tossens\, Butjading
+ en\, Helgolandstraße\, Nähe Center Parcs\, Friesenstrand\, Fahrrad fahren\
+ , Kinder\, Aqua Mundo'  class='so-widget-image' style='max-width:100%\; he
+ ight:auto\; display:block' />\n</a></div></div></div><div class='panel-gri
+ d-cell' id='pgc-13-2-2' ><div class='so-panel widget widget_sow-image widg
+ et_sow-image panel-first-child panel-last-child' id='panel-13-2-2-0'><div 
+ class='so-widget-sow-image so-widget-sow-image-base'>\n<a href='http://www
+ .ferienwohnung-frings.de/haus-nordsee/ausstattung/' >	<img src='http://www.
+ ferienwohnung-frings.de/wp-content/uploads/2015/05/1afruehling-8-300x199.j
+ pg' width='300' height='199' title='Haus Nordsee' alt='Ferienhaus Frings N
+ ordsee\, Tossens\, Butjadingen\, Center Parcs\, Friesenstrand\, Aqua Mundo
+ \, Fahrrad fahren\, Urlaub\, Ferien\, Traum'  class='so-widget-image' styl
+ e='max-width:100%\; height:auto\; display:block' />\n</a></div></div></div
+ ><div class='panel-grid-cell' id='pgc-13-2-3' ><div class='so-panel widget
+  widget_sow-image widget_sow-image panel-first-child panel-last-child' id=
+ 'panel-13-2-3-0'><div class='so-widget-sow-image so-widget-sow-image-base'
+ >\n<a href='http://www.ferienwohnung-frings.de/haus-wattenmeer/ausstattung
+ /' >	<img src='http://www.ferienwohnung-frings.de/wp-content/uploads/2015/0
+ 1/Robbe-Sommer1-300x200.jpg' width='300' height='200' title='Haus Wattenme
+ er' alt='Wattenmeer\, Tossens\, Butjadingen\, Nordsee\, Strand\, Center Pa
+ rc\, Aqua Mundo\, Fahrrad fahren\, Kinder\, Weltnaturerbe\, Urlaub\, Ferie
+ n'  class='so-widget-image' style='max-width:100%\; height:auto\; display:
+ block' />\n</a></div></div></div></div><div class='panel-grid' id='pg-13-3
+ ' ><div class='panel-grid-cell' id='pgc-13-3-0' ><div class='so-panel widg
+ et widget_text widget_text panel-first-child panel-last-child' id='panel-1
+ 3-3-0-0'><h3 class='widget-title'>Wohnung Seeadler</h3>			<div class='textwid
+ get'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schlafzimmer<br />\nab 39 EU
+ R</p>\n</div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-1' ><
+ div class='so-panel widget widget_text widget_text panel-first-child panel
+ -last-child' id='panel-13-3-1-0'><h3 class='widget-title'>Wohnung Tossens<
+ /h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schla
+ fzimmer<br />\nab 39 EUR</p>\n</div>\n		</div></div><div class='panel-grid-c
+ ell' id='pgc-13-3-2' ><div class='so-panel widget widget_text widget_text 
+ panel-first-child panel-last-child' id='panel-13-3-2-0'><h3 class='widget-
+ title'>Haus Nordsee</h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n
+ 88 qm<br />\n1 Schlafzimmer<br />\n1 Kinderzimmer<br />\nab 49 EUR</p>\n</
+ div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-3' ><div class
+ ='so-panel widget widget_text widget_text panel-first-child panel-last-chi
+ ld' id='panel-13-3-3-0'><h3 class='widget-title'>Haus Wattenmeer</h3>			<div 
+ class='textwidget'><p>Max. 6 Personen<br />\n120 qm<br />\n3 Schlafzimmer<
+ br />\nab 54 EUR für 4 Personen</p>\n</div>\n		</div></div></div></div>
+DTSTART;TZID=Europe/Berlin:20151002T150000
+DTEND;TZID=Europe/Berlin:20151002T163000
+GEO:+53.590213;+8.325096
+LOCATION:Museum Moorseer Mühle @ Butjadinger Straße\, 26969 Butjadingen\, D
+ eutschland
+RRULE:FREQ=MONTHLY;COUNT=100;BYDAY=1FR
+SEQUENCE:0
+SUMMARY:Mühlenbetrieb in der Moorseer Mühle
+URL:http://www.ferienwohnung-frings.de/event/muehlenbetrieb-in-der-moorseer
+ -muehle-2/
+X-COST:Familien: 7\,50 €\, Erw.: 3\,00 €\, Kinder: 1\,50 €
+X-TICKETS-URL:http://museum-moorseer-muehle.de
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-637@www.ferienwohnung-frings.de
+DTSTAMP:20150920T002214Z
+CATEGORIES:
+CONTACT:Museum Moorseer Mühle\; 04731 - 8 89 83\; info@museum-moorseer-mueh
+ le.de
+DESCRIPTION:<div id='pl-13'><div class='panel-grid' id='pg-13-0' ><div clas
+ s='panel-grid-cell' id='pgc-13-0-0' ><div class='so-panel widget widget_te
+ xt widget_text panel-first-child panel-last-child' id='panel-13-0-0-0'><h3
+  class='widget-title'>Herzlich Willkommen</h3>			<div class='textwidget'><p>W
+ illkommen in unseren Ferienwohnungen - ankommen\, entspannen\, wohlfühen..
+ ..</p>\n<p>In unseren Ferienobjekten in Tossens bieten wir Ihnen Ferien mi
+ t großem Komfort und vielen Extras.</p>\n<p>Mit unserem Service ermögliche
+ n wir es Ihnen\, Ihren Urlaub individuell und abwechslungsreich zu gestalt
+ en.</p>\n<p>Wir freuen uns auf Sie</p>\n<p>Familie Frings</p>\n</div>\n		</d
+ iv></div><div class='panel-grid-cell' id='pgc-13-0-1' ><div class='so-pane
+ l widget widget_ai1ec_agenda_widget widget_ai1ec_agenda_widget panel-first
+ -child panel-last-child' id='panel-13-0-1-0'>\n\n	<h3 class='widget-title'>
+ Aktuelle Termine</h3>\n\n<style>\n<!--\n\n-->\n</style>\n<div class='timel
+ y ai1ec-agenda-widget-view ai1ec-clearfix'>\n\n			<div>\n													<div class='ai1ec-da
+ te\n					ai1ec-today'>\n					<a class='ai1ec-date-title ai1ec-load-view'\n						href='http
+ ://www.ferienwohnung-frings.de/versanstaltungen/action~oneday/exact_date~2
+ 0-9-2015/'>\n						<div class='ai1ec-month'>Sep</div>\n						<div class='ai1ec-day'>20
+ </div>\n						<div class='ai1ec-weekday'>So</div>\n											</a>\n					<div class='ai1ec-date-
+ events'>\n													 																					<div class='ai1ec-event\n									ai1ec-event-id-644\n									ai1ec-event-instan
+ ce-id-10473\n									'>\n\n									<a href='http://www.ferienwohnung-frings.de/event/fahrt
+ -bremerhaven-helgoland/?instance_id=10473'\n										class='ai1ec-popup-trigger ai1
+ ec-load-event'>\n																					<span class='ai1ec-event-time'>\n												8:30\n											</span>\n										\n										<span c
+ lass='ai1ec-event-title'>\n											Fahrt Bremerhaven-Helgoland\n																							<span class='ai1ec
+ -event-location'\n													>@ MS 'Fair Lady'</span>\n																					</span>\n									</a>\n\n									<div class='a
+ i1ec-popover ai1ec-popup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href
+ ='http://www.ferienwohnung-frings.de/event/fahrt-bremerhaven-helgoland/?in
+ stance_id=10473'\n		   class='ai1ec-load-event'\n			>Fahrt Bremerhaven-Helgolan
+ d</a>\n					<span class='ai1ec-event-location'\n				>@ MS 'Fair Lady'</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 8:30 – 19:00\n			</div>\n\n	
+ \n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class
+ ='ai1ec-event\n									ai1ec-event-id-711\n									ai1ec-event-instance-id-11104\n									'>\n\n									<a
+  href='http://www.ferienwohnung-frings.de/event/tierfuetterung-friesengolf
+ /?instance_id=11104'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span
+  class='ai1ec-event-time'>\n												11:00\n											</span>\n										\n										<span class='ai1ec-event-tit
+ le'>\n											Tierfütterung & Friesengolf\n																							<span class='ai1ec-event-location'\n													>@ 
+ Hof Iggewarden</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/tierfuetterung-friesengolf/?instance_id=11104'\n		   c
+ lass='ai1ec-load-event'\n			>Tierfütterung & Friesengolf</a>\n					<span class='ai
+ 1ec-event-location'\n				>@ Hof Iggewarden</span>\n					</span>\n\n	\n	<div class='ai
+ 1ec-event-time'>\n					Sep 20 @ 11:00 – 13:00\n			</div>\n\n	\n			<div class='ai1ec-po
+ pup-excerpt'> </div>\n	\n</div>\n\n								</div>\n															<div class='ai1ec-event\n									ai1ec-e
+ vent-id-663\n									ai1ec-event-instance-id-10556\n									'>\n\n									<a href='http://www.feri
+ enwohnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instan
+ ce_id=10556'\n										class='ai1ec-popup-trigger ai1ec-load-event'>\n																					<span class='
+ ai1ec-event-time'>\n												13:30\n											</span>\n										\n										<span class='ai1ec-event-title'>\n											Er
+ lebnis-Rundtour mit der Butjen...\n																							<span class='ai1ec-event-location'\n													>@ 
+ Butjenter Bahn</span>\n																					</span>\n									</a>\n\n									<div class='ai1ec-popover ai1ec-po
+ pup '>\n\n		\n	<span class='ai1ec-popup-title'>\n		<a href='http://www.ferienwo
+ hnung-frings.de/event/erlebnis-rundtour-mit-der-butjenter-bahn/?instance_i
+ d=10556'\n		   class='ai1ec-load-event'\n			>Erlebnis-Rundtour mit der Butjen..
+ .</a>\n					<span class='ai1ec-event-location'\n				>@ Butjenter Bahn</span>\n					</spa
+ n>\n\n	\n	<div class='ai1ec-event-time'>\n					Sep 20 @ 13:30 – 15:00\n			</div>\n\n
+ 	\n			<div class='ai1ec-popup-excerpt'> </div>\n	\n</div>\n\n								</div>\n							 						 					</div>\n
+ 				</div>\n			 		</div>\n	 \n			<div class='ai1ec-subscribe-buttons-widget'>\n							<a class
+ ='ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right\n					ai1ec-calenda
+ r-link'\n					href='http://www.ferienwohnung-frings.de/versanstaltungen/'>\n					Vie
+ w Calendar\n					<i class='ai1ec-fa ai1ec-fa-arrow-right'></i>\n				</a>\n			\n					</div>
+ \n	 \n</div>\n\n\n\n</div></div></div><div class='panel-grid' id='pg-13-1' 
+ ><div class='panel-grid-cell' id='pgc-13-1-0' ><div class='so-panel widget
+  widget_headline-widget widget_headline-widget panel-first-child panel-las
+ t-child' id='panel-13-1-0-0'>		<h1>Unsere Wohnungen</h1>\n		<div class='decora
+ tion'><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div>
+ <div class='panel-grid-cell' id='pgc-13-1-1' ><div class='so-panel widget 
+ widget_headline-widget widget_headline-widget panel-first-child panel-last
+ -child' id='panel-13-1-1-0'>		<h1>Unsere Häuser</h1>\n		<div class='decoration
+ '><div class='decoration-inside'></div></div>\n		<h3></h3>\n		</div></div></di
+ v><div class='panel-grid' id='pg-13-2' ><div class='panel-grid-cell' id='p
+ gc-13-2-0' ><div class='so-panel widget widget_sow-image widget_sow-image 
+ panel-first-child panel-last-child' id='panel-13-2-0-0'><div class='so-wid
+ get-sow-image so-widget-sow-image-base'>\n<a href='http://www.ferienwohnun
+ g-frings.de/seeadler/ausstattung/' >	<img src='http://www.ferienwohnung-fri
+ ngs.de/wp-content/uploads/2015/01/27-neue-kueche-4-e1422797922166-300x207.
+ jpg' width='300' height='207' title='gemütliche Wohnlandschaft' alt='Haus 
+ Seeadler in Tossens\, Butjadingen\, Helgolandstraße\; nähe Center-Parc\, n
+ ah zum Deich und Friesenstrand\, Fahrrad fahren\, Kinder'  class='so-widge
+ t-image' style='max-width:100%\; height:auto\; display:block' />\n</a></di
+ v></div></div><div class='panel-grid-cell' id='pgc-13-2-1' ><div class='so
+ -panel widget widget_sow-image widget_sow-image panel-first-child panel-la
+ st-child' id='panel-13-2-1-0'><div class='so-widget-sow-image so-widget-so
+ w-image-base'>\n<a href='http://www.ferienwohnung-frings.de/wohnung-tossen
+ s/ausstattung/' >	<img src='http://www.ferienwohnung-frings.de/wp-content/u
+ ploads/2015/01/Couch-Reflexion-300x200.jpg' width='300' height='200' title
+ ='modern wohnen und sich erholen' alt='Haus Seeadler\, Tossens\, Butjading
+ en\, Helgolandstraße\, Nähe Center Parcs\, Friesenstrand\, Fahrrad fahren\
+ , Kinder\, Aqua Mundo'  class='so-widget-image' style='max-width:100%\; he
+ ight:auto\; display:block' />\n</a></div></div></div><div class='panel-gri
+ d-cell' id='pgc-13-2-2' ><div class='so-panel widget widget_sow-image widg
+ et_sow-image panel-first-child panel-last-child' id='panel-13-2-2-0'><div 
+ class='so-widget-sow-image so-widget-sow-image-base'>\n<a href='http://www
+ .ferienwohnung-frings.de/haus-nordsee/ausstattung/' >	<img src='http://www.
+ ferienwohnung-frings.de/wp-content/uploads/2015/05/1afruehling-8-300x199.j
+ pg' width='300' height='199' title='Haus Nordsee' alt='Ferienhaus Frings N
+ ordsee\, Tossens\, Butjadingen\, Center Parcs\, Friesenstrand\, Aqua Mundo
+ \, Fahrrad fahren\, Urlaub\, Ferien\, Traum'  class='so-widget-image' styl
+ e='max-width:100%\; height:auto\; display:block' />\n</a></div></div></div
+ ><div class='panel-grid-cell' id='pgc-13-2-3' ><div class='so-panel widget
+  widget_sow-image widget_sow-image panel-first-child panel-last-child' id=
+ 'panel-13-2-3-0'><div class='so-widget-sow-image so-widget-sow-image-base'
+ >\n<a href='http://www.ferienwohnung-frings.de/haus-wattenmeer/ausstattung
+ /' >	<img src='http://www.ferienwohnung-frings.de/wp-content/uploads/2015/0
+ 1/Robbe-Sommer1-300x200.jpg' width='300' height='200' title='Haus Wattenme
+ er' alt='Wattenmeer\, Tossens\, Butjadingen\, Nordsee\, Strand\, Center Pa
+ rc\, Aqua Mundo\, Fahrrad fahren\, Kinder\, Weltnaturerbe\, Urlaub\, Ferie
+ n'  class='so-widget-image' style='max-width:100%\; height:auto\; display:
+ block' />\n</a></div></div></div></div><div class='panel-grid' id='pg-13-3
+ ' ><div class='panel-grid-cell' id='pgc-13-3-0' ><div class='so-panel widg
+ et widget_text widget_text panel-first-child panel-last-child' id='panel-1
+ 3-3-0-0'><h3 class='widget-title'>Wohnung Seeadler</h3>			<div class='textwid
+ get'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schlafzimmer<br />\nab 39 EU
+ R</p>\n</div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-1' ><
+ div class='so-panel widget widget_text widget_text panel-first-child panel
+ -last-child' id='panel-13-3-1-0'><h3 class='widget-title'>Wohnung Tossens<
+ /h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n54 qm<br />\n1 Schla
+ fzimmer<br />\nab 39 EUR</p>\n</div>\n		</div></div><div class='panel-grid-c
+ ell' id='pgc-13-3-2' ><div class='so-panel widget widget_text widget_text 
+ panel-first-child panel-last-child' id='panel-13-3-2-0'><h3 class='widget-
+ title'>Haus Nordsee</h3>			<div class='textwidget'><p>Max. 4 Personen<br />\n
+ 88 qm<br />\n1 Schlafzimmer<br />\n1 Kinderzimmer<br />\nab 49 EUR</p>\n</
+ div>\n		</div></div><div class='panel-grid-cell' id='pgc-13-3-3' ><div class
+ ='so-panel widget widget_text widget_text panel-first-child panel-last-chi
+ ld' id='panel-13-3-3-0'><h3 class='widget-title'>Haus Wattenmeer</h3>			<div 
+ class='textwidget'><p>Max. 6 Personen<br />\n120 qm<br />\n3 Schlafzimmer<
+ br />\nab 54 EUR für 4 Personen</p>\n</div>\n		</div></div></div></div>
+DTSTART;TZID=Europe/Berlin:20151025T100000
+DTEND;TZID=Europe/Berlin:20151025T170000
+GEO:+53.494314;+8.418846
+LOCATION:Museum Moorseer Mühle @ Butjadinger Straße\, 26954 Nordenham\, Deu
+ tschland
+SEQUENCE:0
+SUMMARY:Plattdeutscher Nachmittag
+URL:http://www.ferienwohnung-frings.de/event/plattdeutscher-nachmittag/
+X-COST:Familien: 7\,50 EUR\, Erwachsene: 3\,00 EUR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//217.145.99.36//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://unitanzen.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-642@unitanzen.de
+DTSTAMP:20150920T002129Z
+CATEGORIES:
+CONTACT:Unitanzen.de
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://unitanzen.de/wp-content/uploads/2013/02/Tanzen-GSP-800x533-300x199.jpg'
+  width='300' height='199' /></div><p>Freies Tanzen für ehemalige und zukün
+ ftige Kursteilnehmer.</p>\n<p>Ein Tanzlehrer(paar) aus unserem Team legt M
+ usik auf und steht als Ansprechpartner zur Verfügung.</p>
+DTSTART;TZID=Europe/Berlin:20150923T190000
+DTEND;TZID=Europe/Berlin:20150923T203000
+GEO:+49.948381;+11.551554
+LOCATION:GSP Aula vor dem H1 @ Geschwister-Scholl-Platz\, 95445 Bayreuth\, 
+ Deutschland
+RRULE:FREQ=WEEKLY;UNTIL=20151021T235959Z;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Übungsabend am GSP
+URL:http://unitanzen.de/event/uebungsabend-am-gsp/
+X-TAGS;LANGUAGE=de-DE:Übunsgabend
+X-COST:kostenlos
+END:VEVENT
+END:VCALENDAR

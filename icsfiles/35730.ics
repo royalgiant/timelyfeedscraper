@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//82.71.214.162//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://foston-thorntonleclay.ryedaleconnect.org.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-643@foston-thorntonleclay.ryedaleconnect.org.uk
+DTSTAMP:20150920T002309Z
+CATEGORIES;LANGUAGE=en-US:Village Hall
+CONTACT:
+DESCRIPTION:<p id='yui_3_7_2_1_1380709123718_2793'>With Chris Honor – Posit
+ ive Community Sports Development</p>\n<p id='yui_3_7_2_1_1380709123718_279
+ 5'>Starts on Friday 13 September 2013 and weekly thereafter in Thornton-le
+ -Clay Village Hall\, 6.30-7.30 p.m. Register your interest by calling Chri
+ s on 01904 492448</p>
+DTSTART;TZID=Europe/London:20150925T173000
+DTEND;TZID=Europe/London:20150925T183000
+LOCATION:Village Hall\, Thornton-le-Clay
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Adults Fitness Fun Class
+URL:http://foston-thorntonleclay.ryedaleconnect.org.uk/event/adults-fitness
+ -fun-class/
+END:VEVENT
+END:VCALENDAR

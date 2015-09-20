@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.147.244.210//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.espanaengeorgia.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2166@www.espanaengeorgia.com/wp
+DTSTAMP:20150920T002129Z
+CATEGORIES;LANGUAGE=en-US:CEG Event\,Members
+CONTACT:Raúl Llorente\; ralloren@yahoo.com
+DESCRIPTION:<p>Ven a cenar y pasar un buen rato en <strong>Sage Woodfire Ta
+ vern Perimeter</strong> (Park Place\, 4505 Ashford Dunwoody Rd\, Atlanta\,
+  GA 30346) con tus amigos de Casa de España <span style='color: #ff0000\;'
+ ><span style='color: #000000\;'>el</span><strong> </strong><span style='co
+ lor: #000000\;'>próximo</span><strong> sábado 19 de septiembre a las 8:00 
+ pm</strong></span>.</p>\n<div dir='ltr'>Después de la cena\, hay música co
+ n Dj Carlos hasta las 2:00.</div>\n<div dir='ltr'>Por favor\, reserven su 
+ plaza enviando un e-mail a Raúl (<a href='mailto:ralloren@yahoo.com' targe
+ t='_blank'>ralloren@yahoo.com</a>) antes del jueves\, 17 de septiembre.</d
+ iv>\n<p>Puedes consultar más información sobre el restaurante en su página
+  web http://www.sagewoodfiretavern.com/perimeter_index.html</p>
+DTSTART;TZID=America/New_York:20150919T200000
+DTEND;TZID=America/New_York:20150920T020000
+GEO:+33.925021;-84.33612
+LOCATION:Sage Woodfire Tavern Perimeter @ 4505 Ashford Dunwoody Road Northe
+ ast\, Atlanta\, GA 30346\, USA
+SEQUENCE:0
+SUMMARY:Cena Internacional
+URL:http://www.espanaengeorgia.com/event/2166/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2165@www.espanaengeorgia.com/wp
+DTSTAMP:20150920T002129Z
+CATEGORIES;LANGUAGE=en-US:CEG Event\,Everyone
+CONTACT:
+DESCRIPTION:<p><strong>Actividad familiar: “Domingueando en español”</stron
+ g></p>\n<p>La Casa de <a href='http://www.espanaengeorgia.com/wp/wp-conten
+ t/uploads/2015/09/actfamiliar.png'><img class='alignleft size-medium wp-im
+ age-2170' src='http://www.espanaengeorgia.com/wp/wp-content/uploads/2015/0
+ 9/actfamiliar-233x300.png' alt='actfamiliar' width='233' height='300' /></
+ a>España\, en colaboración con la Casa Émory (antes conocida como la Casa 
+ hispana de Emory)\, os invita a pasar una tarde  de domingo entretenida pa
+ ra niños y grandes.</p>\n<p>Habrá comida y actividades para los niños en e
+ spañol\, organizadas por los estudiantes de Émory.  Esta actividad es grat
+ uita y está abierta a todos\, pero se ruega confirmar asistencia antes del
+  viernes\, 25 de septiembre\,  enviando un correo a <a href='mailto:spaini
+ natlanta@gmail.com?subject=RSVP Actividad Familiar'>spaininatlanta@gmail.c
+ om</a>.</p>\n<p>¡Os esperamos!</p>\n<p>___________________________________
+ ______________________</p>\n<p>In collaboration with the <em>Casa Emory</e
+ m> (formerly the Emory Spanish House)\, the <em>Casa de España en Georgia 
+ </em>invites you to spend a fun afternoon together enjoying activities for
+  children\, and food\, and drinks for all.  This activity is free and open
+  to all\, but please let us know you are coming by the 25th of September b
+ y sending an e-mail to  <a href='mailto:spaininatlanta@gmail.com?subject=R
+ SVP Actividad Familiar'>spaininatlanta@gmail.com</a>.</p>\n<p>We look forw
+ ard to seeing you there!</p>\n<p><strong>La Casa de España en Georgia</str
+ ong></p>\n<p> </p>
+DTSTART;TZID=America/New_York:20150927T130000
+DTEND;TZID=America/New_York:20150927T160000
+GEO:+33.794914;-84.327646
+LOCATION:Casa Emory @ 746 Peavine Creek Road Northeast\, Atlanta\, GA 30322
+ \, USA
+SEQUENCE:0
+SUMMARY:Actividad Familiar
+URL:http://www.espanaengeorgia.com/event/actividad-infantil/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2161@www.espanaengeorgia.com/wp
+DTSTAMP:20150920T002129Z
+CATEGORIES;LANGUAGE=en-US:CEG Event\,Members
+CONTACT:
+DESCRIPTION:<p>La <strong>Asamblea Anual de Socios</strong> de la Casa de E
+ spaña se celebrará finalmente el <strong>11 de octubre</strong> antes del 
+ comienzo de la fiesta del <strong>Día de la Hispanidad en el</strong> <str
+ ong>Garden Hills Recreation Center </strong>(339 Pine Tree Drive Northeast
+ \, Atlanta\, GA 30305\, USA).</p>\n<p>La asociación depende de la energía\
+ , las ideas y la participación de sus socios para llevar a cabo su misión\
+ , y nos gustaría muchísimo contar con la presencia de todos los socios y f
+ uturos socios.</p>\n<p>Os esperamos y contamos una vez más con vuestro ent
+ usiasmo y apoyo.</p>\n<p><strong>>> Ver <a href='http://www.espanaengeorgi
+ a.com/event/picnic-dia-de-la-hispanidad-2015/'>información sobre el Pícnic
+ </a>\, incluyendo un enlace para apuntarte.</strong></p>\n<p><strong>La Ca
+ sa de España en Georgia</strong></p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151011T130000
+DTEND;TZID=America/New_York:20151011T140000
+GEO:+33.829725;-84.376899
+LOCATION:Garden Hills Recreation Center @ 339 Pine Tree Drive Northeast\, A
+ tlanta\, GA 30305\, USA
+SEQUENCE:0
+SUMMARY:Asamblea Anual de Socios 2015
+URL:http://www.espanaengeorgia.com/event/asamblea-anual-de-socios-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2159@www.espanaengeorgia.com/wp
+DTSTAMP:20150920T002129Z
+CATEGORIES;LANGUAGE=en-US:CEG Event\,Members
+CONTACT:
+DESCRIPTION:<p>La Casa de España en Georgia se complace en invitar a todos 
+ los socios a celebrar juntos la fiesta del <strong>Día de la Hispanidad en
+  el</strong> <strong>Garden Hills Recreation Center </strong>(339 Pine Tre
+ e Drive Northeast\, Atlanta\, GA 30305\, USA).  En este pícnic tradicional
+  de la Casa de España\, serviremos un completo almuerzo en el que no falta
+ rán vino\, cervezas y refrescos.</p>\n<p style='text-align: center\;'><spa
+ n style='color: #ff0000\;'><strong>¡Rogamos tu confirmación!  El último dí
+ a para confirmar será el 8 de octubre\, si no se llega primero a la capaci
+ dad máxima de 100 personas.</strong></span></p>\n<h2 style='text-align: ce
+ nter\;'><a href='https://www.eventjoy.com/e/pic-nic-del-dia-de-la-hispanid
+ ad-3907138' target='_blank'>>> Registration Link <<</a></h2>\n<p>Las reser
+ vas estarán abiertas hasta tres días antes del evento con el fin de realiz
+ ar los preparativos correspondientes. No tardes en hacer tu reserva ya que
+  <strong>la capacidad máxima del recinto es de 100 personas</strong>.</p>
+ \n<p><strong>La entrada es gratuita para todos los socios.</strong> Si tod
+ avía no lo eres\, puedes <a href='http://www.espanaengeorgia.com/quienes-s
+ omos/ser-socio/' target='_blank'>hacerte socio</a> a través de nuestra pág
+ ina web o el mismo día del evento en la puerta de acceso.</p>\n<p>¡Marca t
+ u calendario y ven a pasar una tarde divertida con los demás socios de la 
+ Casa de España!</p>
+DTSTART;TZID=America/New_York:20151011T130000
+DTEND;TZID=America/New_York:20151011T170000
+GEO:+33.829725;-84.376899
+LOCATION:Garden Hills Recreation Center @ 339 Pine Tree Drive Northeast\, A
+ tlanta\, GA 30305\, USA
+SEQUENCE:0
+SUMMARY:Picnic Día de la Hispanidad 2015
+URL:http://www.espanaengeorgia.com/event/picnic-dia-de-la-hispanidad-2015/
+X-TICKETS-URL:https://www.eventjoy.com/e/pic-nic-del-dia-de-la-hispanidad-3
+ 907138
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,385 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//89.185.44.110//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://blog.yvesduteil.com/blog
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3315@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:centre culturel d'ottignies \; +32 10 41 44 35\; http://www.polecul
+ turel.be/
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150926T203000
+DTEND;TZID=Europe/Paris:20150926T223000
+GEO:+50.665285;+4.566629
+LOCATION:centre culturel d'ottignies LLN @ Avenue des Combattants 41\, 1340
+  Ottignies-Louvain-la-Neuve\, Belgique
+SEQUENCE:0
+SUMMARY:OTTIGNIES (Belgique)
+URL:http://blog.yvesduteil.com/blog/index.php/event/ottignies-belgique/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3317@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20150929T150000
+DTEND;TZID=Europe/Paris:20150929T170000
+GEO:+47.787893;+3.593858
+LOCATION:AUXERREXPO @ Avenue des Plaines de l'Yonne\, 89000 Auxerre\, Franc
+ e
+SEQUENCE:0
+SUMMARY:AUXERRE\,
+URL:http://blog.yvesduteil.com/blog/index.php/event/auxerre/
+X-COST:35€
+X-TICKETS-URL:http://www.fnacspectacles.com/place-spectacle/manifestation/V
+ ariete-et-chanson-francaises-YVES-DUTEIL-AUDUT.htm#/disponibilite/c4062833
+ c0a8280d55e8cf273ffb5df2/normale
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3291@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151023T203000
+DTEND;TZID=Europe/Paris:20151023T223000
+GEO:+48.221165;-1.792361
+LOCATION:AU TROUSSE CHEMISE @ 1 Rue de Romillé\, 35850 Gévezé\, France
+SEQUENCE:0
+SUMMARY:LANGAN\, 35
+URL:http://blog.yvesduteil.com/blog/index.php/event/langan-35/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3292@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151024T203000
+DTEND;TZID=Europe/Paris:20151024T223000
+GEO:+48.244935;-1.853579
+LOCATION:AU TROUSSE CHEMISE @ 1 Rue de Romillé\, 35850 Langan\, France
+SEQUENCE:0
+SUMMARY:LANGAN\, 35
+URL:http://blog.yvesduteil.com/blog/index.php/event/langan-35-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3293@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151107T210000
+DTEND;TZID=Europe/Paris:20151107T230000
+GEO:+48.768896;-3.566121
+LOCATION:CENTRE CULTUREL LE SEMAPHORE @ 9 Rue des Plages\, 22343 Trébeurden
+ \, France
+SEQUENCE:0
+SUMMARY:TREBEURDUN\, 22
+URL:http://blog.yvesduteil.com/blog/index.php/event/trebeurdun-22/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3294@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151110T203000
+DTEND;TZID=Europe/Paris:20151110T223000
+GEO:+48.770105;+2.030012
+LOCATION:SALLE JACQUES BREL @ 4 Rue de la Mare aux Carats\, 78180 Montigny-
+ le-Bretonneux\, France
+SEQUENCE:0
+SUMMARY:MONTIGNY LE BRETONNEUX\, 78
+URL:http://blog.yvesduteil.com/blog/index.php/event/montigny-le-bretonneux-
+ 78/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3263@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:HORIZON LUMIERE\; 03.11.28.13.52.
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151117T200000
+DTEND;TZID=Europe/Paris:20151117T220000
+GEO:+50.628622;+3.057874
+LOCATION:Théatre Sébastopol @ Place Sébastopol\, 59000 Lille\, France
+SEQUENCE:0
+SUMMARY:LILLE\, 59
+URL:http://blog.yvesduteil.com/blog/index.php/event/lille-59/
+X-COST:40€
+X-TICKETS-URL:http://www.fnacspectacles.com/place-spectacle/manifestation/V
+ ariete-et-chanson-francaises-YVES-DUTEIL-LIDUT.htm#/disponibilite/7ce307de
+ c0a8280fc18a7a7d545c1ebf/normale
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3331@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:Adresse : 600 Rue Richelieu\, Beloeil\, QC\, Canada \; +1 450-464-4
+ 772
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151125T200000
+DTEND;TZID=Europe/Paris:20151125T220000
+GEO:+45.560153;-73.205099
+LOCATION:Centre Culturel de BELOEIL  @ 600 Rue Richelieu\, Beloeil\, QC J3G
+  5E8\, Canada
+SEQUENCE:0
+SUMMARY:BELOEIL (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/beloeil-que-canada/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3332@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:+1 418-692-2631
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151126T200000
+DTEND;TZID=Europe/Paris:20151126T220000
+GEO:+46.811497;-71.203611
+LOCATION:Théâtre du Petit Champlain  @ 68 Rue du Petit Champlain\, Québec\,
+  QC G1K 4H4\, Canada
+SEQUENCE:0
+SUMMARY:QUEBEC (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/quebec-que-canada/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3334@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:+1 418-838-6000
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151127T200000
+DTEND;TZID=Europe/Paris:20151127T220000
+GEO:+46.808494;-71.184253
+LOCATION:L'ANGLICANE\, Lévis\, (Qué) Canada @ 31 Rue Wolfe\, Lévis\, QC G6V
+  3X5\, Canada
+SEQUENCE:0
+SUMMARY:LEVIS (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/levis-que-canada/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3335@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:1 514 695-3612
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151128T140000
+DTEND;TZID=Europe/Paris:20151128T160000
+GEO:+45.364342;-73.725036
+LOCATION:Eglise St Joachim \, Châteauguay (Canada) @ 34 Rue Saint Charles\,
+  Châteauguay\, QC J6J 5E6\, Canada
+SEQUENCE:0
+SUMMARY:CHATEAUGUAY (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/chateauguay-que-canada/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3336@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:1 819 623-1222 poste 1
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151129T153000
+DTEND;TZID=Europe/Paris:20151129T173000
+GEO:+46.553151;-75.500043
+LOCATION:MONT-LAURIER (Qué) Canada @ 543 Rue du Pont\, Mont-Laurier\, QC J9
+ L 1X5\, Canada
+SEQUENCE:0
+SUMMARY:MONT-LAURIER (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/mont-laurier-que-canada
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3337@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:+1 450-904-2580
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151201T200000
+DTEND;TZID=Europe/Paris:20151201T220000
+GEO:+45.445799;-73.4376
+LOCATION:Club Dix-30 @ 9200 Boulevard Leduc #210\, Brossard\, QC J4Y\, Cana
+ da
+SEQUENCE:0
+SUMMARY:BROSSARD (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/brossard-que-canada/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3338@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:1 800 265-5412
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151202T200000
+DTEND;TZID=Europe/Paris:20151202T220000
+GEO:+45.877437;-72.499708
+LOCATION:Maison des Arts @ 175 Rue Ringuet\, Drummondville\, QC J2C 2P7\, C
+ anada
+SEQUENCE:0
+SUMMARY:DRUMMONDVILLE (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/drummondville-que-canad
+ a/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3339@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:+1 450-589-9198
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151203T200000
+DTEND;TZID=Europe/Paris:20151203T220000
+GEO:+45.829054;-73.421942
+LOCATION:Salle Hector Charland @ 225 Boulevard de l'Ange-Gardien\, L'Assomp
+ tion\, QC J5W 4M6\, Canada
+SEQUENCE:0
+SUMMARY:L’ASSOMPTION (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/lassomption-que-canada/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3340@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:+1 514-733-8211
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151204T200000
+DTEND;TZID=Europe/Paris:20151204T220000
+GEO:+45.492172;-73.616944
+LOCATION:Oratoire St-Joseph\, Spectacle multi-artistes de Noël @ 3800 Chemi
+ n Queen Mary\, Montréal\, QC H3V 1H6\, Canada
+SEQUENCE:0
+SUMMARY:MONTREAL (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/montreal-que-canada-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3341@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:+1 514-733-8211
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151205T200000
+DTEND;TZID=Europe/Paris:20151205T220000
+GEO:+45.492172;-73.616944
+LOCATION:Oratoire St-Joseph\, Spectacle multi-artistes de Noël @ 3800 Chemi
+ n Queen Mary\, Montréal\, QC H3V 1H6\, Canada
+SEQUENCE:0
+SUMMARY:MONTREAL (Qué) Canada
+URL:http://blog.yvesduteil.com/blog/index.php/event/montreal-que-canada/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3296@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20151213T160000
+DTEND;TZID=Europe/Paris:20151213T180000
+GEO:+45.390248;+4.280444
+LOCATION:LE FIRMAMENT @ 2 Rue Dorian\, 42700 Firminy\, France
+SEQUENCE:0
+SUMMARY:FIRMINY\, 42
+URL:http://blog.yvesduteil.com/blog/index.php/event/firminy-42/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3265@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:Pole'n Production\; 03.26.40.20.20.
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20160116T203000
+DTEND;TZID=Europe/Paris:20160116T223000
+GEO:+47.641402;+6.854137
+LOCATION:Maison du Peuple @ Place de la Résistance\, 90000 Belfort\, France
+SEQUENCE:0
+SUMMARY:BELFORT\, 90
+URL:http://blog.yvesduteil.com/blog/index.php/event/belfort-90/
+X-COST:33 à 45€
+X-TICKETS-URL:http://www.fnacspectacles.com/place-spectacle/manifestation/V
+ ariete-et-chanson-francaises-YVES-DUTEIL-BEDUT.htm#/disponibilite/534d9fad
+ c0a8280bb09d4049aa770545/normale
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3264@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:Pole'n Production\; 03.26.40.20.20.
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20160117T203000
+DTEND;TZID=Europe/Paris:20160117T223000
+GEO:+49.106622;+6.701075
+LOCATION:Centre Culturel Pierre Messmer @ 1 Rue de la Chapelle\, 57500 Sain
+ t-Avold\, France
+SEQUENCE:0
+SUMMARY:SAINT AVOLD\, 57
+URL:http://blog.yvesduteil.com/blog/index.php/event/saint-avold-57/
+X-COST:33 à 45€
+X-TICKETS-URL:http://www.fnacspectacles.com/place-spectacle/manifestation/V
+ ariete-et-chanson-francaises-YVES-DUTEIL-SADUT.htm#/disponibilite/5345f91e
+ c0a8280bdf250a502a8e0196/normale
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3295@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20160126T203000
+DTEND;TZID=Europe/Paris:20160126T223000
+GEO:+48.531177;+7.709328
+LOCATION:L'ILLIADE @ 1 Allée François Mitterrand\, 67400 Illkirch-Graffenst
+ aden\, France
+SEQUENCE:0
+SUMMARY:ILLKIRCH\, 67
+URL:http://blog.yvesduteil.com/blog/index.php/event/illkirch-67/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3297@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20160206T203000
+DTEND;TZID=Europe/Paris:20160206T223000
+GEO:+49.04266;+2.509537
+LOCATION:CENTRE CULTUREL BERNARD DAGUE @ Rue du 8 Mai 1945\, 95380 Louvres\
+ , France
+SEQUENCE:0
+SUMMARY:LOUVRES\, 95
+URL:http://blog.yvesduteil.com/blog/index.php/event/louvres-95/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3318@blog.yvesduteil.com/blog
+DTSTAMP:20150920T002146Z
+CATEGORIES:
+CONTACT:DIANETUM - MAIRIE D'ANET\; 02 37 43 00 70
+DESCRIPTION:
+DTSTART;TZID=Europe/Paris:20160604T203000
+DTEND;TZID=Europe/Paris:20160604T223000
+GEO:+48.855978;+1.439517
+LOCATION:DIANETUM @ Anet\, France
+SEQUENCE:0
+SUMMARY:ANET\, 28
+URL:http://blog.yvesduteil.com/blog/index.php/event/anet-28/
+END:VEVENT
+END:VCALENDAR

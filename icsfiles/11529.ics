@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.28.27.53//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.fcrodgun.com
+X-WR-TIMEZONE:Africa/Abidjan
+BEGIN:VTIMEZONE
+TZID:Africa/Abidjan
+X-LIC-LOCATION:Africa/Abidjan
+BEGIN:STANDARD
+DTSTART:19120101T000000
+TZOFFSETFROM:-001608
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-717@www.fcrodgun.com
+DTSTAMP:20150920T002115Z
+CATEGORIES:
+CONTACT:Jim Hentges\; (608) 687-3732\; jhentges@watlow.com
+DESCRIPTION:<p>Join us for our annual Fountain City Rod & Gun chapter White
+ tails Unlimited Banquet.</p>
+DTSTART;TZID=Africa/Abidjan:20150924T173000
+DTEND;TZID=Africa/Abidjan:20150924T210000
+GEO:+44.107818;-91.643286
+LOCATION:Hilltop Ball & Bar Room @ County Road M\, Fountain City\, WI 54629
+ \, USA
+SEQUENCE:0
+SUMMARY:Whitetails Unlimited Banquet
+URL:http://www.fcrodgun.com/event/717/
+X-COST:$45 Adult Banquet Ticket
+X-TICKETS-URL:http://www.whitetailsunlimited.com/events/banquets/session_dc
+ e64d8731ca/?st=WI
+END:VEVENT
+END:VCALENDAR

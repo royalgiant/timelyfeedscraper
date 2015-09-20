@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.159.132//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://nbtaa.com
+X-WR-TIMEZONE:UTC
+BEGIN:VTIMEZONE
+TZID:UTC
+X-LIC-LOCATION:UTC
+BEGIN:STANDARD
+DTSTART:00001130T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-212@basketballcanada.net/demo
+DTSTAMP:20150920T002116Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>There are many funding and support programs in Canada that c
+ an help startup entrepreneurs and small and medium businesses.</p>\n<p>Joi
+ n Brea Retzlaff for this one hour informative session where he will discus
+ s the programs most relevant to technology companies.</p>
+DTSTART;VALUE=DATE:20150920
+DTEND;VALUE=DATE:20150921
+GEO:+49.888663;-119.491413
+LOCATION:Kelowna Innovation Centre  @ 1405 Saint Paul Street\, Kelowna\, BC
+  V1Y 9N2\, Canada
+RRULE:FREQ=DAILY
+SEQUENCE:0
+SUMMARY:Test Events
+URL:http://nbtaa.com/event/test-events/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,834 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//194.126.198.140//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://tcrev.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20150920T014350CEST-0431z8XKGV@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Herbstferien Bayern</p>
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151108
+SEQUENCE:0
+SUMMARY:Herbstferien Bayern
+URL:https://tcrev.de/event/herbstferien-bayern-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-BUB-2015
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>kein gesetzl. Feiertag\, nur schulfrei</p>
+DTSTART;VALUE=DATE:20151118
+DTEND;VALUE=DATE:20151119
+SEQUENCE:0
+SUMMARY:(Buß- und Bettag)
+URL:https://tcrev.de/event/buss-und-bettag-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0439RseTnE@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Weihnachtsferien Bayern</p>
+DTSTART;VALUE=DATE:20151224
+DTEND;VALUE=DATE:20160106
+SEQUENCE:0
+SUMMARY:Weihnachtsferien Bayern
+URL:https://tcrev.de/event/weihnachtsferien-bayern-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:580e6253-873b-4ddf-a78d-47ed7dd48368
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Events
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160130
+DTEND;VALUE=DATE:20160131
+LOCATION:Neuburg an der Donau
+SEQUENCE:0
+SUMMARY:Donauschwimmen
+URL:https://tcrev.de/event/donauschwimmen-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0447TdapVT@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Winterferien Bayern</p>
+DTSTART;VALUE=DATE:20160208
+DTEND;VALUE=DATE:20160213
+SEQUENCE:0
+SUMMARY:Winterferien Bayern
+URL:https://tcrev.de/event/winterferien-bayern-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0455bXwU6D@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Osterferien Bayern</p>
+DTSTART;VALUE=DATE:20160321
+DTEND;VALUE=DATE:20160402
+SEQUENCE:0
+SUMMARY:Osterferien Bayern
+URL:https://tcrev.de/event/osterferien-bayern-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-KARFR-2016
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160326
+SEQUENCE:0
+SUMMARY:Karfreitag
+URL:https://tcrev.de/event/karfreitag/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-OSTERSO-2016
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160327
+DTEND;VALUE=DATE:20160328
+SEQUENCE:0
+SUMMARY:Ostersonntag
+URL:https://tcrev.de/event/ostersonntag/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-OSTERMO-2016
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160328
+DTEND;VALUE=DATE:20160329
+SEQUENCE:0
+SUMMARY:Ostermontag
+URL:https://tcrev.de/event/ostermontag/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-CHRHIM-2016
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160505
+DTEND;VALUE=DATE:20160506
+SEQUENCE:0
+SUMMARY:Christi Himmelfahrt
+URL:https://tcrev.de/event/christi-himmelfahrt/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-PFISO-2016
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160515
+DTEND;VALUE=DATE:20160516
+SEQUENCE:0
+SUMMARY:Pfingstsonntag
+URL:https://tcrev.de/event/pfingstsonntag/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-PFIMO-2016
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160516
+DTEND;VALUE=DATE:20160517
+SEQUENCE:0
+SUMMARY:Pfingstmontag
+URL:https://tcrev.de/event/pfingstmontag/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-04635RrXBU@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Pfingstferien Bayern</p>
+DTSTART;VALUE=DATE:20160517
+DTEND;VALUE=DATE:20160529
+SEQUENCE:0
+SUMMARY:Pfingstferien Bayern
+URL:https://tcrev.de/event/pfingstferien-bayern-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-FRONL-2016
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160526
+DTEND;VALUE=DATE:20160527
+SEQUENCE:0
+SUMMARY:Fronleichnam
+URL:https://tcrev.de/event/fronleichnam/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0471wLVUc9@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Sommerferien Bayern</p>
+DTSTART;VALUE=DATE:20160730
+DTEND;VALUE=DATE:20160913
+SEQUENCE:0
+SUMMARY:Sommerferien Bayern
+URL:https://tcrev.de/event/sommerferien-bayern-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0479m2C5cc@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Herbstferien Bayern</p>
+DTSTART;VALUE=DATE:20161031
+DTEND;VALUE=DATE:20161105
+SEQUENCE:0
+SUMMARY:Herbstferien Bayern
+URL:https://tcrev.de/event/herbstferien-bayern-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-BUB-2016
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>kein gesetzl. Feiertag\, nur schulfrei</p>
+DTSTART;VALUE=DATE:20161116
+DTEND;VALUE=DATE:20161117
+SEQUENCE:0
+SUMMARY:(Buß- und Bettag)
+URL:https://tcrev.de/event/buss-und-bettag/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0486GbTP1T@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Weihnachtsferien Bayern</p>
+DTSTART;VALUE=DATE:20161224
+DTEND;VALUE=DATE:20170106
+SEQUENCE:0
+SUMMARY:Weihnachtsferien Bayern
+URL:https://tcrev.de/event/weihnachtsferien-bayern-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0494oninTX@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Winterferien Bayern</p>
+DTSTART;VALUE=DATE:20170227
+DTEND;VALUE=DATE:20170304
+SEQUENCE:0
+SUMMARY:Winterferien Bayern
+URL:https://tcrev.de/event/winterferien-bayern-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0502koJmLI@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Osterferien Bayern</p>
+DTSTART;VALUE=DATE:20170410
+DTEND;VALUE=DATE:20170423
+SEQUENCE:0
+SUMMARY:Osterferien Bayern
+URL:https://tcrev.de/event/osterferien-bayern-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-KARFR-2017
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20170414
+DTEND;VALUE=DATE:20170415
+SEQUENCE:0
+SUMMARY:Karfreitag
+URL:https://tcrev.de/event/karfreitag-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-OSTERSO-2017
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20170416
+DTEND;VALUE=DATE:20170417
+SEQUENCE:0
+SUMMARY:Ostersonntag
+URL:https://tcrev.de/event/ostersonntag-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-OSTERMO-2017
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20170417
+DTEND;VALUE=DATE:20170418
+SEQUENCE:0
+SUMMARY:Ostermontag
+URL:https://tcrev.de/event/ostermontag-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-CHRHIM-2017
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20170525
+DTEND;VALUE=DATE:20170526
+SEQUENCE:0
+SUMMARY:Christi Himmelfahrt
+URL:https://tcrev.de/event/christi-himmelfahrt-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-PFISO-2017
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20170604
+DTEND;VALUE=DATE:20170605
+SEQUENCE:0
+SUMMARY:Pfingstsonntag
+URL:https://tcrev.de/event/pfingstsonntag-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-PFIMO-2017
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20170605
+DTEND;VALUE=DATE:20170606
+SEQUENCE:0
+SUMMARY:Pfingstmontag
+URL:https://tcrev.de/event/pfingstmontag-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0510mRH3G8@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Pfingstferien Bayern</p>
+DTSTART;VALUE=DATE:20170606
+DTEND;VALUE=DATE:20170617
+SEQUENCE:0
+SUMMARY:Pfingstferien Bayern
+URL:https://tcrev.de/event/pfingstferien-bayern-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-FRONL-2017
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20170615
+DTEND;VALUE=DATE:20170616
+SEQUENCE:0
+SUMMARY:Fronleichnam
+URL:https://tcrev.de/event/fronleichnam-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150920T014350CEST-0518lEJj4A@feiertage-online.de alle Schulferien
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Schulferien
+CONTACT:
+DESCRIPTION:<p>Sommerferien Bayern</p>
+DTSTART;VALUE=DATE:20170729
+DTEND;VALUE=DATE:20170912
+SEQUENCE:0
+SUMMARY:Sommerferien Bayern
+URL:https://tcrev.de/event/sommerferien-bayern-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-BUB-2017
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>kein gesetzl. Feiertag\, nur schulfrei</p>
+DTSTART;VALUE=DATE:20171122
+DTEND;VALUE=DATE:20171123
+SEQUENCE:0
+SUMMARY:(Buß- und Bettag)
+URL:https://tcrev.de/event/buss-und-bettag-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-KARFR-2018
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180330
+DTEND;VALUE=DATE:20180331
+SEQUENCE:0
+SUMMARY:Karfreitag
+URL:https://tcrev.de/event/karfreitag-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-OSTERSO-2018
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180401
+DTEND;VALUE=DATE:20180402
+SEQUENCE:0
+SUMMARY:Ostersonntag
+URL:https://tcrev.de/event/ostersonntag-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-OSTERMO-2018
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180402
+DTEND;VALUE=DATE:20180403
+SEQUENCE:0
+SUMMARY:Ostermontag
+URL:https://tcrev.de/event/ostermontag-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-CHRHIM-2018
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180510
+DTEND;VALUE=DATE:20180511
+SEQUENCE:0
+SUMMARY:Christi Himmelfahrt
+URL:https://tcrev.de/event/christi-himmelfahrt-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-PFISO-2018
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180520
+DTEND;VALUE=DATE:20180521
+SEQUENCE:0
+SUMMARY:Pfingstsonntag
+URL:https://tcrev.de/event/pfingstsonntag-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-PFIMO-2018
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180521
+DTEND;VALUE=DATE:20180522
+SEQUENCE:0
+SUMMARY:Pfingstmontag
+URL:https://tcrev.de/event/pfingstmontag-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:DE-IF-FRONL-2018
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20180531
+DTEND;VALUE=DATE:20180601
+SEQUENCE:0
+SUMMARY:Fronleichnam
+URL:https://tcrev.de/event/fronleichnam-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:41e7c56f-d440-46f4-9913-873fe174664a
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Events
+CONTACT:
+DESCRIPTION:<p>„Taucher auf hohem Niveau“\, Hochseilgarten Sinzing<br />\nB
+ eginn: 14.00 Uhr</p>
+DTSTART;TZID=Europe/Berlin:20150920T140000
+DTEND;TZID=Europe/Berlin:20150920T180000
+LOCATION:Hochseilgarten Sinzing
+SEQUENCE:0
+SUMMARY:Taucher auf hohem Niveau
+URL:https://tcrev.de/event/taucher-auf-hohem-niveau/
+END:VEVENT
+BEGIN:VEVENT
+UID:f27b1d84-83b2-41e4-b539-b957ad5c9dec
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Training
+CONTACT:
+DESCRIPTION:<p>Trainingsleiter Heike <span id='6e4cea34e37109897c6a7fcab7e0
+ 5198'></span><script type='text/javascript'>\n                    var t=[2
+ 7\,33\,64\,-32\,136\,-22\,123\,-21\,82\,-48\,157\,-60\,165\,-57\,173\,-62\
+ ,120\,-82\,117\,-60\,115\,-56\,94\,-59\,108\,-59\,109\,-50\,88\,-53\,102\,
+ -53\,101\,-42\,80\,-45\,94\,-45\,94\,-35\,73\,-38\,87\,-39\,88\,-29\,67\,-
+ 32\,81\,-33\,89\,-30\,68\,-33\,82\,-34\,83\,-24\,62\,-27\,76\,-28\,81\,-22
+ \,60\,-25\,74\,-25\,79\,-20\,58\,-23\,72\,-24\,73\,-14\,52\,-17\,66\,-17\,
+ 69\,-10\,48\,-13\,67\,-15\,74\,-36\,71\,-22\,71\,-17\,76\,-38\,73\,-16\,73
+ \,-14\,52\,-17\,66\,-17\,69\,-10\,48\,-13\,62\,-14\,63\,-4\,42\,-7\,56\,-7
+ \,63\,-4\,42\,-7\,59\,-5\,64\,-26\,61\,-12\,60\,-12\,71\,-33\,68\,-19\,67\
+ ,-18\,77\,-43\,105\,-8\,120\,-10\,121\,-20\,128\,-27\,132\,-16\,117\,-3\,6
+ 7\,49\,50\,64\,37\,81\,-35\,135\,-34\,94\,-47\,144\,-82]\;\n              
+       var toAppend = ''\;\n                    for (var i=1\; i<t.length\;
+  i++)\n                    {\n                    	toAppend+=String.fromCha
+ rCode(t[i]+t[i-1])\;\n                    }\n                    document.
+ getElementById('6e4cea34e37109897c6a7fcab7e05198').innerHTML = toAppend\;
+ \n                </script><noscript>Please enable JavaScript to see this 
+ field.</noscript></p>\n<p>Treffpunkt von 18:30 – 18:45 am Haupteingang.</p
+ >\n<p>Um am Training teilnehmen zu dürfen muss eine gültige Tauchtauglichk
+ eitsbescheinigung vorgelegt werden.</p>
+DTSTART;TZID=Europe/Berlin:20150925T190000
+DTEND;TZID=Europe/Berlin:20150925T200000
+EXDATE;TZID=Europe/Berlin:20150501T190000
+EXDATE;TZID=Europe/Berlin:20150515T190000
+EXDATE;TZID=Europe/Berlin:20150605T190000
+EXDATE;TZID=Europe/Berlin:20150703T190000
+LOCATION:Westbad
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Apnoe-Training
+URL:https://tcrev.de/event/apnoe-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:e24rit2db7b14jcsd2g54i543k@google.com
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Training
+CONTACT:
+DESCRIPTION:<p>Ungeführtes Training\, ohne Trainer-Anleitung.<br />\nTreffp
+ unkt von 19:50 – 20:00 am Haupteingang.</p>
+DTSTART;TZID=Europe/Berlin:20150925T200000
+DTEND;TZID=Europe/Berlin:20150925T220000
+EXDATE;TZID=Europe/Berlin:20140815T200000
+EXDATE;TZID=Europe/Berlin:20141003T200000
+EXDATE;TZID=Europe/Berlin:20141212T200000
+EXDATE;TZID=Europe/Berlin:20141226T200000
+EXDATE;TZID=Europe/Berlin:20150403T200000
+EXDATE;TZID=Europe/Berlin:20150501T200000
+EXDATE;TZID=Europe/Berlin:20150515T200000
+EXDATE;TZID=Europe/Berlin:20150605T200000
+LOCATION:Westbad
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Freies Training
+URL:https://tcrev.de/event/freies-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:f8675fc8-c7f7-4265-a0af-00f7023e4511
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Training
+CONTACT:
+DESCRIPTION:<p>Unterwasserrugby – Training<br />\nJedes TCR-Mitglied darf a
+ m UW Rugby-Training teilnehmen.<br />\nAnsprechpartner der UW Rugby-Mannsc
+ haft ist Thomas Scheffczyk <span id='7a04eed7d5fcbb186141fa62349a682c'></s
+ pan><script type='text/javascript'>\n                    var t=[69\,-9\,10
+ 6\,-74\,178\,-64\,165\,-63\,124\,-90\,199\,-102\,207\,-99\,215\,-104\,162\
+ ,-124\,159\,-110\,159\,-104\,163\,-125\,160\,-111\,160\,-103\,162\,-124\,1
+ 59\,-110\,159\,-107\,166\,-128\,163\,-114\,162\,-106\,165\,-127\,162\,-113
+ \,161\,-112\,171\,-133\,168\,-119\,167\,-114\,173\,-135\,170\,-121\,170\,-
+ 116\,175\,-137\,172\,-123\,171\,-122\,181\,-143\,178\,-129\,178\,-126\,185
+ \,-147\,182\,-128\,180\,-121\,159\,-124\,173\,-124\,178\,-119\,157\,-122\,
+ 179\,-122\,181\,-143\,178\,-129\,178\,-126\,185\,-147\,182\,-133\,181\,-13
+ 2\,191\,-153\,188\,-139\,188\,-132\,191\,-153\,188\,-136\,190\,-131\,169\,
+ -134\,183\,-135\,183\,-124\,162\,-127\,176\,-128\,177\,-118\,152\,-90\,207
+ \,-88\,202\,-94\,195\,-90\,206\,-105\,219\,-155\,271\,-172\,286\,-185\,303
+ \,-257\,357\,-256\,316\,-269\,366\,-304]\;\n                    var toAppe
+ nd = ''\;\n                    for (var i=1\; i<t.length\; i++)\n         
+            {\n                    	toAppend+=String.fromCharCode(t[i]+t[i-1
+ ])\;\n                    }\n                    document.getElementById('
+ 7a04eed7d5fcbb186141fa62349a682c').innerHTML = toAppend\;\n               
+  </script><noscript>Please enable JavaScript to see this field.</noscript>
+ </p>
+DTSTART;TZID=Europe/Berlin:20150925T210000
+DTEND;TZID=Europe/Berlin:20150925T220000
+EXDATE;TZID=Europe/Berlin:20141212T210000
+EXDATE;TZID=Europe/Berlin:20150501T210000
+EXDATE;TZID=Europe/Berlin:20150515T210000
+EXDATE;TZID=Europe/Berlin:20150605T210000
+EXDATE;TZID=Europe/Berlin:20150626T210000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:UWR-Training
+URL:https://tcrev.de/event/uwr-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:81b7b325-bf0c-48f6-8c8c-a46621734f76
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Events
+CONTACT:
+DESCRIPTION:<p>Anmeldung bei: tauchen@theine.org</p>
+DTSTART;TZID=Europe/Berlin:20151002T190000
+DTEND;TZID=Europe/Berlin:20151002T210000
+LOCATION:Westbad
+SEQUENCE:0
+SUMMARY:Schnuppertauchen
+URL:https://tcrev.de/event/schnuppertauchen-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:55726568-de35-4bfd-b461-1cb5f755b49c
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Training
+CONTACT:
+DESCRIPTION:<p>Geführtes Flossen-Schwimm-Training (ABC)</p>\n<p>Treffpunkt 
+ ist jeweils 19:30 – 19:45 am Westbadeingang zur Kartenausgabe.</p>\n<p>Ans
+ prechpartner ist Robert <span id='bd8a9d6e74346938173031eb3a71e04f'></span
+ ><script type='text/javascript'>\n                    var t=[243\,-183\,28
+ 0\,-248\,352\,-238\,339\,-237\,298\,-264\,373\,-276\,381\,-273\,389\,-278\
+ ,336\,-298\,333\,-284\,333\,-280\,339\,-301\,336\,-279\,336\,-277\,315\,-2
+ 80\,329\,-281\,333\,-274\,312\,-277\,326\,-277\,329\,-270\,308\,-273\,322\
+ ,-274\,327\,-268\,306\,-271\,320\,-272\,322\,-263\,301\,-266\,315\,-266\,3
+ 20\,-261\,299\,-264\,313\,-265\,315\,-256\,294\,-259\,308\,-259\,314\,-255
+ \,293\,-258\,307\,-259\,308\,-249\,287\,-252\,301\,-253\,305\,-246\,284\,-
+ 249\,298\,-249\,301\,-242\,280\,-245\,294\,-246\,295\,-236\,274\,-239\,288
+ \,-239\,291\,-232\,270\,-235\,289\,-237\,296\,-258\,293\,-244\,293\,-239\,
+ 298\,-260\,295\,-238\,295\,-236\,274\,-239\,288\,-239\,291\,-232\,270\,-23
+ 5\,284\,-236\,285\,-226\,264\,-229\,278\,-229\,285\,-226\,264\,-229\,281\,
+ -227\,286\,-248\,283\,-234\,282\,-234\,293\,-255\,290\,-241\,289\,-240\,29
+ 9\,-265\,327\,-212\,311\,-207\,321\,-216\,318\,-202\,304\,-187\,288\,-184\
+ ,298\,-197\,311\,-247\,363\,-264\,378\,-277\,395\,-349\,449\,-348\,408\,-3
+ 61\,458\,-396]\;\n                    var toAppend = ''\;\n               
+      for (var i=1\; i<t.length\; i++)\n                    {\n            
+         	toAppend+=String.fromCharCode(t[i]+t[i-1])\;\n                    
+ }\n                    document.getElementById('bd8a9d6e74346938173031eb3a
+ 71e04f').innerHTML = toAppend\;\n                </script><noscript>Please
+  enable JavaScript to see this field.</noscript></p>
+DTSTART;TZID=Europe/Berlin:20151002T200000
+DTEND;TZID=Europe/Berlin:20151002T210000
+EXDATE;TZID=Europe/Berlin:20150206T200000
+EXDATE;TZID=Europe/Berlin:20150220T200000
+EXDATE;TZID=Europe/Berlin:20150306T200000
+EXDATE;TZID=Europe/Berlin:20150320T200000
+EXDATE;TZID=Europe/Berlin:20150403T200000
+EXDATE;TZID=Europe/Berlin:20150417T200000
+EXDATE;TZID=Europe/Berlin:20150501T200000
+EXDATE;TZID=Europe/Berlin:20150515T200000
+EXDATE;TZID=Europe/Berlin:20150529T200000
+EXDATE;TZID=Europe/Berlin:20150612T200000
+LOCATION:Westbad
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=MO
+SEQUENCE:0
+SUMMARY:ABC-Training
+URL:https://tcrev.de/event/abc-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2313@tcrev.de
+DTSTAMP:20150920T002137Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151005T190000
+DTEND;TZID=Europe/Berlin:20151005T203000
+LOCATION:SG Walhalla
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+SEQUENCE:0
+SUMMARY:Vorstandssitzung
+URL:https://tcrev.de/event/vorstandssitzung/
+END:VEVENT
+BEGIN:VEVENT
+UID:858800fb-f8d7-423b-b62e-401480679c5b
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Vorstand
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151005T190000
+DTEND;TZID=Europe/Berlin:20151005T203000
+EXDATE;TZID=Europe/Berlin:20130902T190000
+EXDATE;TZID=Europe/Berlin:20131202T190000
+EXDATE;TZID=Europe/Berlin:20140505T190000
+EXDATE;TZID=Europe/Berlin:20140901T190000
+EXDATE;TZID=Europe/Berlin:20140901T190000
+EXDATE;TZID=Europe/Berlin:20141006T190000
+EXDATE;TZID=Europe/Berlin:20141103T190000
+EXDATE;TZID=Europe/Berlin:20141103T190000
+EXDATE;TZID=Europe/Berlin:20141201T190000
+EXDATE;TZID=Europe/Berlin:20150105T190000
+EXDATE;TZID=Europe/Berlin:20150202T190000
+EXDATE;TZID=Europe/Berlin:20150406T190000
+EXDATE;TZID=Europe/Berlin:20150601T190000
+EXDATE;TZID=Europe/Berlin:20150907T190000
+LOCATION:SG Walhalla
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+SEQUENCE:0
+SUMMARY:Vorstandssitzung
+URL:https://tcrev.de/event/vorstandssitzung-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:59f6317c-3d6c-47c9-b617-ff36cbef6903
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Events
+CONTACT:
+DESCRIPTION:<p>„TCR-Kart-Challenge“\, Prokart-Raceland Wackersdorf<br />\nB
+ eginn: 14.00 Uhr</p>\n<p>Anmeldung bei: <span id='11c506180afc5a0d2ee95c65
+ c46d088b'></span><script type='text/javascript'>\n                    var 
+ t=[77\,-17\,114\,-82\,186\,-72\,173\,-71\,132\,-98\,207\,-110\,215\,-107\,
+ 223\,-112\,170\,-132\,167\,-118\,166\,-112\,171\,-133\,168\,-119\,168\,-11
+ 9\,178\,-140\,175\,-126\,174\,-125\,184\,-146\,181\,-132\,181\,-129\,188\,
+ -150\,185\,-136\,184\,-133\,192\,-154\,189\,-137\,191\,-132\,170\,-135\,18
+ 4\,-136\,188\,-129\,167\,-132\,189\,-134\,193\,-155\,190\,-141\,189\,-133\
+ ,192\,-154\,189\,-140\,188\,-132\,191\,-153\,188\,-131\,187\,-128\,166\,-1
+ 31\,180\,-132\,181\,-122\,160\,-125\,174\,-125\,177\,-118\,156\,-121\,170\
+ ,-122\,173\,-114\,152\,-117\,171\,-119\,178\,-140\,175\,-126\,174\,-123\,1
+ 82\,-144\,179\,-130\,179\,-130\,189\,-151\,186\,-137\,186\,-137\,196\,-158
+ \,193\,-144\,192\,-141\,200\,-162\,197\,-148\,196\,-147\,206\,-168\,203\,-
+ 154\,202\,-146\,205\,-167\,202\,-153\,201\,-144\,203\,-165\,200\,-143\,198
+ \,-139\,177\,-142\,191\,-143\,196\,-137\,175\,-140\,189\,-141\,197\,-138\,
+ 176\,-141\,193\,-139\,198\,-160\,195\,-138\,195\,-136\,174\,-139\,188\,-13
+ 9\,188\,-129\,167\,-132\,181\,-133\,190\,-131\,165\,-103\,209\,-98\,199\,-
+ 85\,188\,-142\,246\,-149\,257\,-149\,247\,-146\,260\,-157\,221\,-118\,229\
+ ,-118\,221\,-120\,228\,-119\,216\,-111\,219\,-173\,272\,-161\,270\,-210\,2
+ 57\,-160\,222]\;\n                    var toAppend = ''\;\n               
+      for (var i=1\; i<t.length\; i++)\n                    {\n            
+         	toAppend+=String.fromCharCode(t[i]+t[i-1])\;\n                    
+ }\n                    document.getElementById('11c506180afc5a0d2ee95c65c4
+ 6d088b').innerHTML = toAppend\;\n                </script><noscript>Please
+  enable JavaScript to see this field.</noscript></p>
+DTSTART;TZID=Europe/Berlin:20151011T140000
+DTEND;TZID=Europe/Berlin:20151011T180000
+LOCATION:Prokart-Raceland Wackersdorf
+SEQUENCE:0
+SUMMARY:TCR-Kart-Challenge
+URL:https://tcrev.de/event/tcr-kart-challenge/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f4d1af-b4ea-43bb-b48f-b39341c7abd0
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Events
+CONTACT:
+DESCRIPTION:<p>TCR – Ausschreibung</p>\n<p>VDST Spezialkurs Apnoe I</p>\n<p
+ >Heike Schwerdtner\, AP TL*\, Apnoeleitung TCR\, Apnoe****\, TL*</p>\n<p>S
+ eminarort</p>\n<p>Westbad / Regensburg\, SG-Walhalla / Regensburg</p>\n<p>
+ Datum</p>\n<p>13.11.2015 – 15.11.2015</p>\n<p>Beginn Fr. 18.00 Uhr</p>\n<p
+ >Ende So. ca. 15.00 Uhr</p>\n<p>Kosten</p>\n<p>40\,- Euro (25\,- Euro laut
+  Gebührenordnung TCR zzgl. 15\,- Euro Kostenbeitrag für Gymnastikraum\, We
+ stbadeintritte\, etc.) ohne Übernachtung und Verpflegung</p>\n<p>zzgl. Ein
+ kleber und Nachzahlungen im Westbad</p>\n<p>Meldeschluss</p>\n<p>27.09.201
+ 5 ab sofort\, gültig erst nach Erhalt der Teilnahmegebühr (Bankverbindung 
+ wird nach schriftlicher Anmeldung mitgeteilt). Es gilt die Reihenfolge der
+  Anmeldungen.</p>\n<p>Voraussetzung</p>\n<p>CMAS * oder CMAS Apnoe * oder 
+ äquivalent\, gültige</p>\n<p>Tauchtauglichkeitsuntersuchung\, Mindestalter
+  18 Jahre\, ab 14 Jahren nur in Begleitung eines mit teilnehmenden Erwachs
+ enen\, TCR-Zugehörigkeit Zielgruppe</p>\n<p>Apnoe-Interessierte\, Apnoeist
+ en egal welche Ausbildungsstufe und Ausbilder im Verein</p>\n<p>Teilnehmer
+ zahl</p>\n<p>mindestens 8\, maximal 15</p>\n<p>Mitzubringen</p>\n<p>ABC-Au
+ srüstung\, möglichst Schwimmbad- oder Apnoeflossen mit dünnen Füßlingen bz
+ w. Neoprensocken (wenn möglich keine Geräteflossen!) Neoprenanzug\, Bleigu
+ rt mit kleinen Gewichten (5 – 7 kg)\, Iso/Yoga-Matte\, warme Sportbekleidu
+ ng\, gültige Tauchtauglichkeit nach den Richtlinien des VDST\, leichter Sn
+ ack und Getränke für zwischendurch Inhalte Die Besonderheiten des Apnoetau
+ chens im Schwimmbad\, Dynamik und Statik\, Theorie\, die Freude am Erleben
+  der Unterwasserwelt mit angehaltenem Atem\, Trainingskonzepte im Wasser\,
+  Freude und Spaß an der Bewegung im Wasser in Kombination mit Atemübungen 
+ und Entspannung Anmeldung</p>\n<p>per E-Mail an apnoeleitung@tcrev.de</p>
+ \n<p>Bank-Info erfolgt nach Eingang der Anmeldung. Die Anmeldung wird erst
+  gültig nach Überweisung.</p>\n<p>Detaillierte Informationen erfolgen ca. 
+ 14 Tage vor dem Seminar.</p>\n<p>Heike Schwerdtner\, TCR\, Apnoeleitung@tr
+ cev.de</p>
+DTSTART;TZID=Europe/Berlin:20151113T180000
+DTEND;TZID=Europe/Berlin:20151115T150000
+LOCATION:Westbad / Regensburg\, SG-Walhalla / Regensburg
+SEQUENCE:0
+SUMMARY:VDST Spezialkurs Apnoe 1
+URL:https://tcrev.de/event/vdst-spezialkurs-apnoe-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:f0fcd993-d4f7-43eb-95ce-376ce90b05c5
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Events
+CONTACT:
+DESCRIPTION:<p>Betriebsbesichtigung BMW bzw. Krones<br />\nBeginn: 15.00 Uh
+ r</p>\n<p>Anmeldung bei: <span id='2011ca76b3980080280feb5956d64e65'></spa
+ n><script type='text/javascript'>\n                    var t=[223\,-163\,2
+ 60\,-228\,332\,-218\,319\,-217\,278\,-244\,353\,-256\,361\,-253\,369\,-258
+ \,316\,-278\,313\,-264\,312\,-258\,317\,-279\,314\,-265\,314\,-265\,324\,-
+ 286\,321\,-272\,320\,-271\,330\,-292\,327\,-278\,327\,-275\,334\,-296\,331
+ \,-282\,330\,-279\,338\,-300\,335\,-283\,337\,-278\,316\,-281\,330\,-282\,
+ 334\,-275\,313\,-278\,335\,-280\,339\,-301\,336\,-287\,335\,-279\,338\,-30
+ 0\,335\,-286\,334\,-278\,337\,-299\,334\,-277\,333\,-274\,312\,-277\,326\,
+ -278\,327\,-268\,306\,-271\,320\,-271\,323\,-264\,302\,-267\,316\,-268\,31
+ 9\,-260\,298\,-263\,317\,-265\,324\,-286\,321\,-272\,320\,-269\,328\,-290\
+ ,325\,-276\,325\,-276\,335\,-297\,332\,-283\,332\,-283\,342\,-304\,339\,-2
+ 90\,338\,-287\,346\,-308\,343\,-294\,342\,-293\,352\,-314\,349\,-300\,348\
+ ,-292\,351\,-313\,348\,-299\,347\,-290\,349\,-311\,346\,-289\,344\,-285\,3
+ 23\,-288\,337\,-289\,342\,-283\,321\,-286\,335\,-287\,343\,-284\,322\,-287
+ \,339\,-285\,344\,-306\,341\,-284\,341\,-282\,320\,-285\,334\,-285\,334\,-
+ 275\,313\,-278\,327\,-279\,336\,-277\,311\,-249\,355\,-244\,345\,-231\,334
+ \,-288\,392\,-295\,403\,-295\,393\,-292\,406\,-303\,367\,-264\,375\,-264\,
+ 367\,-266\,374\,-265\,362\,-257\,365\,-319\,418\,-307\,416\,-356\,403\,-30
+ 6\,368]\;\n                    var toAppend = ''\;\n                    fo
+ r (var i=1\; i<t.length\; i++)\n                    {\n                   
+  	toAppend+=String.fromCharCode(t[i]+t[i-1])\;\n                    }\n    
+                 document.getElementById('2011ca76b3980080280feb5956d64e65'
+ ).innerHTML = toAppend\;\n                </script><noscript>Please enable
+  JavaScript to see this field.</noscript></p>
+DTSTART;TZID=Europe/Berlin:20151115T150000
+DTEND;TZID=Europe/Berlin:20151115T170000
+SEQUENCE:0
+SUMMARY:Betriebsbesichtigung
+URL:https://tcrev.de/event/betriebsbesichtigung/
+END:VEVENT
+BEGIN:VEVENT
+UID:0a8a6415-6363-4cf8-bbc1-cd6fad7a5313
+DTSTAMP:20150920T002137Z
+CATEGORIES;LANGUAGE=de-DE:Events
+CONTACT:
+DESCRIPTION:<p>Traditionelle TCR-Weihnachtsfeier\, Mariaort (Gasthaus Krieg
+ er)<br />\nBeginn: 18.00 Uhr</p>\n<p>Anmeldung bei: <span id='f50f11bb73f8
+ ca2bdb5e3a1ed775311a'></span><script type='text/javascript'>\n            
+         var t=[92\,-32\,129\,-97\,201\,-87\,188\,-86\,147\,-113\,222\,-125
+ \,230\,-122\,238\,-127\,185\,-147\,182\,-133\,181\,-127\,186\,-148\,183\,-
+ 134\,183\,-134\,193\,-155\,190\,-141\,189\,-140\,199\,-161\,196\,-147\,196
+ \,-144\,203\,-165\,200\,-151\,199\,-148\,207\,-169\,204\,-152\,206\,-147\,
+ 185\,-150\,199\,-151\,203\,-144\,182\,-147\,204\,-149\,208\,-170\,205\,-15
+ 6\,204\,-148\,207\,-169\,204\,-155\,203\,-147\,206\,-168\,203\,-146\,202\,
+ -143\,181\,-146\,195\,-147\,196\,-137\,175\,-140\,189\,-140\,192\,-133\,17
+ 1\,-136\,185\,-137\,188\,-129\,167\,-132\,186\,-134\,193\,-155\,190\,-141\
+ ,189\,-138\,197\,-159\,194\,-145\,194\,-145\,204\,-166\,201\,-152\,201\,-1
+ 52\,211\,-173\,208\,-159\,207\,-156\,215\,-177\,212\,-163\,211\,-162\,221\
+ ,-183\,218\,-169\,217\,-161\,220\,-182\,217\,-168\,216\,-159\,218\,-180\,2
+ 15\,-158\,213\,-154\,192\,-157\,206\,-158\,211\,-152\,190\,-155\,204\,-156
+ \,212\,-153\,191\,-156\,208\,-154\,213\,-175\,210\,-153\,210\,-151\,189\,-
+ 154\,203\,-154\,203\,-144\,182\,-147\,196\,-148\,205\,-146\,180\,-118\,224
+ \,-113\,214\,-100\,203\,-157\,261\,-164\,272\,-164\,262\,-161\,275\,-172\,
+ 236\,-133\,244\,-133\,236\,-135\,243\,-134\,231\,-126\,234\,-188\,287\,-17
+ 6\,285\,-225\,272\,-175\,237]\;\n                    var toAppend = ''\;\n
+                     for (var i=1\; i<t.length\; i++)\n                    
+ {\n                    	toAppend+=String.fromCharCode(t[i]+t[i-1])\;\n     
+                }\n                    document.getElementById('f50f11bb73f
+ 8ca2bdb5e3a1ed775311a').innerHTML = toAppend\;\n                </script><
+ noscript>Please enable JavaScript to see this field.</noscript></p>
+DTSTART;TZID=Europe/Berlin:20151212T180000
+DTEND;TZID=Europe/Berlin:20151212T220000
+LOCATION:Mariaort (Gasthaus Krieger)
+SEQUENCE:0
+SUMMARY:TCR-Weihnachtsfeier
+URL:https://tcrev.de/event/tcr-weihnachtsfeier-4/
+END:VEVENT
+END:VCALENDAR

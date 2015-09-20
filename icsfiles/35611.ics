@@ -1,0 +1,455 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//79.133.53.21//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.feuerwehr-passering.at
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1857@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>Der 10. Oktober ist in Kärnten ein – nicht generell arbeitsf
+ reier – Feiertag. Schulen\, Ämter und Behörden haben an diesem Tag geschlo
+ ssen.</p>\n<hr />\n<p><a href='http://www.feiertage-oesterreich.at/tag-der
+ -volksabstimmung-10-oktober/' target='_blank'>Tag der Volksabstimmung auf 
+ feiertage-oesterreich.at</a></p>\n<p><a href='http://de.wikipedia.org/wiki
+ /Volksabstimmung_1920_in_K%C3%A4rnten' target='_blank'>Volksabstimmung 192
+ 0 in Kärnten auf wikipedia.de</a></p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Tag der Volksabstimmung
+URL:http://www.feuerwehr-passering.at/Veranstaltung/10-oktober/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2009@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Gemeinde
+CONTACT:
+DESCRIPTION:<p>Kriegerdenkmal Kappel am Krappfeld – nach der heiligen Messe
+ .</p>
+DTSTART;VALUE=DATE:20151025
+DTEND;VALUE=DATE:20151026
+LOCATION:Kriegerdenkmal Kappel am Krappfeld
+SEQUENCE:0
+SUMMARY:Feierliche Kranzniederlegung
+URL:http://www.feuerwehr-passering.at/Veranstaltung/feierliche-kranzniederl
+ egung/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1858@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>Gesetzlicher Feiertag</p>\n<hr />\n<p><a href='http://www.fe
+ iertage-oesterreich.at/nationalfeiertag-26-oktober/' target='_blank'>Natio
+ nalfeiertag auf feiertage-oesterreich.at</a></p>\n<p><a href='http://de.wi
+ kipedia.org/wiki/Nationalfeiertag_(%C3%96sterreich)' target='_blank'>Natio
+ nalfeiertag Österreich auf wikipedia.de</a></p>
+DTSTART;VALUE=DATE:20151026
+DTEND;VALUE=DATE:20151027
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Nationalfeiertag
+URL:http://www.feuerwehr-passering.at/Veranstaltung/nationalfeiertag/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2100@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Gemeinde
+CONTACT:
+DESCRIPTION:<p>Gasthof Presser</p>
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151109
+LOCATION:Gasthof Presser @ Krappfelder Str. 8\, Passering\, Kärnten\, Austr
+ ia
+SEQUENCE:0
+SUMMARY:Lammschmaus
+URL:http://www.feuerwehr-passering.at/Veranstaltung/lammschmaus-presser/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-885@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Gemeinde
+CONTACT:
+DESCRIPTION:<p>Geminschaftshaus Passering – Veranstalter: Pensionistenverba
+ nd Krappfeld</p>
+DTSTART;VALUE=DATE:20151121
+DTEND;VALUE=DATE:20151123
+GEO:+46.809193;+14.467004
+LOCATION:Gemeinschaftshaus Passering @ Ingenieur-Fritz-Reichmann-Platz 1\, 
+ 9321 Passering\, Österreich
+SEQUENCE:0
+SUMMARY:Adventausstellung
+URL:http://www.feuerwehr-passering.at/Veranstaltung/adventausstellung/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1861@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>Gesetzlicher Feiertag</p>\n<hr />\n<p><a href='http://www.fe
+ iertage-oesterreich.at/mariae-empfaengnis-8-dezember/' target='_blank'>Mar
+ iä Empfängnis auf feiertage-oesterreich.at</a></p>\n<p><a href='http://de.
+ wikipedia.org/w/index.php?title=Mari%C3%A4_Empf%C3%A4ngnis' target='_blank
+ '>Mariä Empfängnis auf wikipedia.de</a></p>
+DTSTART;VALUE=DATE:20151208
+DTEND;VALUE=DATE:20151209
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Mariä Empfängnis
+URL:http://www.feuerwehr-passering.at/Veranstaltung/mariae-empfaengnis/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1862@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>Gesetzlicher Feiertag</p>\n<hr />\n<p><a href='http://www.fe
+ iertage-oesterreich.at/weihnachten-25-dezember/' target='_blank'>Weihnacht
+ en auf feiertage-oesterreich.at</a></p>\n<p><a href='http://de.wikipedia.o
+ rg/wiki/Weihnachten' target='_blank'>Weihnachten auf wikipedia.de</a></p>
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Christtag
+URL:http://www.feuerwehr-passering.at/Veranstaltung/christtag/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1863@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>Gesetzlicher Feiertag</p>\n<hr />\n<p><a href='http://www.fe
+ iertage-oesterreich.at/stefanitag-26-dezember/' target='_blank'>Stefanitag
+  auf feiertage-oesterreich.at</a></p>\n<p><a href='http://de.wikipedia.org
+ /wiki/Stephanitag' target='_blank'>Stefanitag auf wikipedia.de</a></p>
+DTSTART;VALUE=DATE:20151226
+DTEND;VALUE=DATE:20151227
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Stephanietag
+URL:http://www.feuerwehr-passering.at/Veranstaltung/stephanietag/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1864@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>Gesetzlicher Feiertag</p>\n<hr />\n<p><a href='http://www.fe
+ iertage-oesterreich.at/neujahr-1-jaenner/' target='_blank'>Neujahr auf fei
+ ertage-oesterreich.at</a></p>\n<p><a href='http://de.wikipedia.org/wiki/Ne
+ ujahr' target='_blank'>Neujahr auf wikipedia.de</a></p>
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Neujahr
+URL:http://www.feuerwehr-passering.at/Veranstaltung/neujahr/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1867@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>Gesetzlicher Feiertag</p>\n<hr />\n<p> </p>\n<p><a href='htt
+ p://www.feiertage-oesterreich.at/heilige-drei-koenige-6-jaenner/' target='
+ _blank'>Heilige Drei Könige auf feiertage-oesterreich.at</a></p>\n<p><a hr
+ ef='http://de.wikipedia.org/wiki/Heilige_Drei_K%C3%B6nige' target='_blank'
+ >Heilige Drei Könige auf wikipedia.de</a></p>
+DTSTART;VALUE=DATE:20160106
+DTEND;VALUE=DATE:20160107
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Heilige Drei Könige
+URL:http://www.feuerwehr-passering.at/Veranstaltung/heilige-drei-koenige/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1869@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>Gesetzlicher Feiertag</p>\n<hr />\n<p> </p>\n<p><a href='htt
+ p://www.feiertage-oesterreich.at/staatsfeiertag-1-mai/' target='_blank'>St
+ aatsfeiertag auf feiertage-oesterreich.at</a></p>\n<p><a href='http://de.w
+ ikipedia.org/wiki/Erster_Mai' target='_blank'>Erster Mai auf wikipedia.de<
+ /a></p>
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Staatsfeiertag
+URL:http://www.feuerwehr-passering.at/Veranstaltung/staatsfeiertag/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1856@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Feiertage
+CONTACT:
+DESCRIPTION:<p>Gesetzlicher Feiertag</p>\n<hr />\n<p><a href='http://www.fe
+ iertage-oesterreich.at/mariae-himmelfahrt-15-august/' target='_blank'>Mari
+ ä Himmelfahrt auf feiertage-oesterreich.at</a></p>\n<p><a href='http://de.
+ wikipedia.org/wiki/Mari%C3%A4_Aufnahme_in_den_Himmel' target='_blank'>Mari
+ ä Aufnahme in den Himmel auf wikipedia.de</a></p>
+DTSTART;VALUE=DATE:20160815
+DTEND;VALUE=DATE:20160816
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:Mariä Himmelfahrt
+URL:http://www.feuerwehr-passering.at/Veranstaltung/mariae-himmelfahrt/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1902@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Funküberprüfungen
+CONTACT:
+DESCRIPTION:<p>Funkbereitschaft ab 11:45 Uhr<br />\nKanal 2 (BAWZ / LAWZ).<
+ /p>\n<p style='text-align: left\;'>Jeden 1. Samstag im Monat wird die Funk
+ überprüfung von Florian Althofen auf Kanal 1 durchgeführt.</p>\n<p style='
+ text-align: left\;'><strong>Bei Verhinderung ist für Ersatz zu sorgen!</st
+ rong></p>\n<p><strong><div class='su-spoiler su-spoiler-style-default su-s
+ poiler-icon-plus su-spoiler-closed'><div class='su-spoiler-title'><span cl
+ ass='su-spoiler-icon'></span>Funker anzeigen</div><div class='su-spoiler-c
+ ontent su-clearfix' style='display:none'></strong></p>\n<p>15.08.2015 – Bö
+ hmer Helmut / Keuschnig Lukas<br />\n22.08.2015 – Kürbisch Bernhard / Terk
+ l Edelwald<br />\n29.08.2015 – Kogler Matthias / Krall Rene</p>\n<p>05.09.
+ 2015 – Böhmer Richard / Kogler Florian<br />\n12.09.2015 – Höffernig Marku
+ s / Ruppnig Gerhard<br />\n19.09.2015 – Pötschger Bernhard / Petautschnig 
+ Viktor<br />\n26.09.2015 – Wieland Markus / Hartwig Phillip</p>\n<p>03.10.
+ 2015 – Böhmer Jürgen / Stern Sebastian<br />\n10.10.2015 – Gurmann Bernd/ 
+ Leitgeb Jürgen<br />\n17.10.2015 – Kogler Florian / Kogler Wolfgang<br />
+ \n24.10.2015 – Becker Sophie / Jerney Erich<br />\n31.10.2015 – Leitgeb Si
+ egmund / Kürbisch Bernhard</p>\n<p>07.11.2015 – Becker Alfred / Stern Flor
+ ian<br />\n14.11.2015 – Böhmer Helmut / Keuschnig Lukas<br />\n21.11.2015 
+ – Kürbisch Bernhard / Terkl Edelwald<br />\n28.11.2015 – Kogler Matthias /
+  Krall Rene</p>\n<p>05.12.2015 – Böhmer Richard / Kogler Florian<br />\n12
+ .12.2015 – Höffernig Markus / Ruppnig Gerhard<br />\n19.12.2015 – Pötschge
+ r Bernhard / Petautschnig Viktor<br />\n26.12.2015 – Wieland Markus / Hart
+ wig Phillip</p>\n<p>02.01.2016 – Böhmer Jürgen / Stern Sebastian<br />\n09
+ .01.2016 – Gurmann Bernd/ Leitgeb Jürgen<br />\n16.01.2016 – Kogler Floria
+ n / Kogler Wolfgang<br />\n23.01.2016 – Becker Sophie / Jerney Erich<br />
+ \n30.01.2016 – Leitgeb Siegmund / Kürbisch Bernhard</div></div>
+DTSTART;TZID=Europe/Berlin:20150919T114500
+LOCATION:Rüsthaus Passering
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Funküberprüfung
+URL:http://www.feuerwehr-passering.at/Veranstaltung/funkueberpruefung/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2350@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Feuerwehr
+CONTACT:Freiwillige Feuerwehr Pasering
+DESCRIPTION:<p>Rüsthaus Passering</p>
+DTSTART;TZID=Europe/Berlin:20151011T100000
+GEO:+46.80914;+14.467305
+LOCATION:Rüsthaus Passering @ Bahnweg 1\, 9321 Passering\, Österreich
+SEQUENCE:0
+SUMMARY:Tag der offenen Tür
+URL:http://www.feuerwehr-passering.at/Veranstaltung/tag-der-offenen-tuer/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-857@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Monatsübungen
+CONTACT:
+DESCRIPTION:<p>Rüsthaus Passering</p>
+DTSTART;TZID=Europe/Berlin:20151012T190000
+LOCATION:Rüsthaus Passering
+SEQUENCE:0
+SUMMARY:Monatsübung Oktober
+URL:http://www.feuerwehr-passering.at/Veranstaltung/monatsubung-oktober/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-858@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Monatsübungen
+CONTACT:
+DESCRIPTION:<p>Rüsthaus Passering</p>
+DTSTART;TZID=Europe/Berlin:20151102T190000
+LOCATION:Rüsthaus Passering
+SEQUENCE:0
+SUMMARY:Monatsübung November
+URL:http://www.feuerwehr-passering.at/Veranstaltung/monatsubung-november/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2101@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Kirche
+CONTACT:Pfarre St. Martin am Krappfeld
+DESCRIPTION:<p>St. Martin am Krappfeld</p>
+DTSTART;TZID=Europe/Berlin:20151108T093000
+LOCATION:St. Martin am Krappfeld
+SEQUENCE:0
+SUMMARY:Festgottesdienst (Patrozinium)
+URL:http://www.feuerwehr-passering.at/Veranstaltung/festgottesdienst-patroz
+ inium-versteigerung/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2010@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Kirche
+CONTACT:
+DESCRIPTION:<p>Volksschule Kappel am Krappfeld\, in der Kirche in Kappel</p
+ >
+DTSTART;TZID=Europe/Berlin:20151111T180000
+LOCATION:Kirche Kappel am Krappfeld
+SEQUENCE:0
+SUMMARY:Martinsfest
+URL:http://www.feuerwehr-passering.at/Veranstaltung/martinsfest/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2103@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Kirche
+CONTACT:Pfarre St. Martin am Krappfeld
+DESCRIPTION:<p>St. Klementen</p>
+DTSTART;TZID=Europe/Berlin:20151122T093000
+LOCATION:St. Martin am Krappfeld
+SEQUENCE:0
+SUMMARY:Festgottesdienst (Patrozinium)
+URL:http://www.feuerwehr-passering.at/Veranstaltung/festgottesdienst-patroz
+ inium-st-klementen/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-859@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Monatsübungen
+CONTACT:
+DESCRIPTION:<p>Rüsthaus Passering</p>
+DTSTART;TZID=Europe/Berlin:20151201T190000
+LOCATION:Rüsthaus Passering
+SEQUENCE:0
+SUMMARY:Monatsübung Dezember
+URL:http://www.feuerwehr-passering.at/Veranstaltung/monatsubung-dezember/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2105@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Kirche
+CONTACT:Pfarre St. Martin am Krappfeld
+DESCRIPTION:<p>Passering</p>
+DTSTART;TZID=Europe/Berlin:20151224T170000
+LOCATION:Passering
+SEQUENCE:0
+SUMMARY:Christmette
+URL:http://www.feuerwehr-passering.at/Veranstaltung/christmette/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-886@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Feuerwehr
+CONTACT:
+DESCRIPTION:<p>Vor Rüsthaus Kappel – Veranstalter: Feuerwehr Kappel am Krap
+ pfeld</p>
+DTSTART;TZID=Europe/Berlin:20151230T160000
+GEO:+46.838136;+14.486701
+LOCATION:Rüsthaus Kappel am Krappfeld @ 9321 Kappel am Krappfeld\, Österrei
+ ch
+SEQUENCE:0
+SUMMARY:Kema zom
+URL:http://www.feuerwehr-passering.at/Veranstaltung/kema-zom/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2106@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Gemeinde
+CONTACT:
+DESCRIPTION:<p>Kirchplatz Silberegg – Veranstalter: Dorfgemeinschaft Silber
+ egg</p>
+DTSTART;TZID=Europe/Berlin:20151231T150000
+LOCATION:Kirchplatz Silberegg
+SEQUENCE:0
+SUMMARY:Silvesterumtrunk
+URL:http://www.feuerwehr-passering.at/Veranstaltung/silvesterumtrunk/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-848@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Monatsübungen
+CONTACT:
+DESCRIPTION:<p>Rüsthaus Passering</p>
+DTSTART;TZID=Europe/Berlin:20160104T190000
+LOCATION:Rüsthaus Passering
+SEQUENCE:0
+SUMMARY:Monatsübung Jänner
+URL:http://www.feuerwehr-passering.at/Veranstaltung/monatsubung-janner/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-849@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Monatsübungen
+CONTACT:
+DESCRIPTION:<p>Rüsthaus Passering</p>
+DTSTART;TZID=Europe/Berlin:20160201T190000
+LOCATION:Rüsthaus Passering
+SEQUENCE:0
+SUMMARY:Monatsübung Februar
+URL:http://www.feuerwehr-passering.at/Veranstaltung/monatsubung-februar/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-865@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Veranstaltungen Feuerwehr\,Veranstaltungen Gemein
+ de
+CONTACT:Kommandant Richard Böhmer\; +436642130087\; richard.boehmer@feuerwe
+ hr-passering.at
+DESCRIPTION:<p>Gemeinschaftshaus Passering – Veranstalter Feuerwehr Passeri
+ ng</p>
+DTSTART;TZID=Europe/Berlin:20160206T200000
+LOCATION:Gemeinschaftshaus Passering @ Ingenieur-Fritz-Reichmann-Platz 1\, 
+ 9321 Passering\, Österreich
+SEQUENCE:0
+SUMMARY:Feuerwehr Maskenball
+URL:http://www.feuerwehr-passering.at/Veranstaltung/feuerwehr-maskenball/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-850@www.feuerwehr-passering.at
+DTSTAMP:20150920T002336Z
+CATEGORIES;LANGUAGE=de-DE:Monatsübungen
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160307T190000
+LOCATION:Rüsthaus Passering
+SEQUENCE:0
+SUMMARY:Monatsübung März
+URL:http://www.feuerwehr-passering.at/Veranstaltung/monatsubung-marz/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

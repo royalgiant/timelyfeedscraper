@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.236.154.25//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://tricityelks.com
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c792a782712b466ee064e8015@calendarlabs.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Visit http://calendarlabs.com/holidays/us/columbus-day.php t
+ o know more about Columbus Day. Like us on Facebook: http://fb.com/calenda
+ rlabs to get updates.</p>
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:Columbus Day
+URL:http://tricityelks.com/event/columbus-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:5efa4c9307f35762c6cc05544@calendarlabs.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Visit http://calendarlabs.com/holidays/us/halloween.php to k
+ now more about Halloween. Like us on Facebook: http://fb.com/calendarlabs 
+ to get updates.</p>
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151101
+SEQUENCE:0
+SUMMARY:Halloween
+URL:http://tricityelks.com/event/halloween/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a0900d53c9f9621feda85a27@calendarlabs.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Visit http://calendarlabs.com/holidays/us/veterans-day.php t
+ o know more about Veterans Day. Like us on Facebook: http://fb.com/calenda
+ rlabs to get updates.</p>
+DTSTART;VALUE=DATE:20151111
+DTEND;VALUE=DATE:20151112
+SEQUENCE:0
+SUMMARY:Veterans Day
+URL:http://tricityelks.com/event/veterans-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:86811d96b077d35beb11fc10d@calendarlabs.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Visit http://calendarlabs.com/holidays/us/thanksgiving-day.p
+ hp to know more about Thanksgiving Day. Like us on Facebook: http://fb.com
+ /calendarlabs to get updates.</p>
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151127
+SEQUENCE:0
+SUMMARY:Thanksgiving Day
+URL:http://tricityelks.com/event/thanksgiving-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:74d4e577d4d7bb6844ed761d0@calendarlabs.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Visit http://calendarlabs.com/holidays/us/christmas.php to k
+ now more about Christmas. Like us on Facebook: http://fb.com/calendarlabs 
+ to get updates.</p>
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+SEQUENCE:0
+SUMMARY:Christmas
+URL:http://tricityelks.com/event/christmas/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-682@tricityelks.dreamhosters.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Burgers: $6</p>\n<p>Wings: 6 for $6\, 8 for $8\, 12 for $10<
+ /p>\n<p>prices are subject to change</p>
+DTSTART;TZID=America/Denver:20150921T180000
+GEO:+39.974958;-105.13234
+LOCATION:Tri-City Elks Lodge @ 525 Main Street\, Louisville\, CO 80027\, US
+ A
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Burgers & Wings
+URL:http://tricityelks.com/event/burgers-wings/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-688@tricityelks.dreamhosters.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150922T110000
+GEO:+39.974958;-105.13234
+LOCATION:Tri-City Elks Lodge @ 525 Main Street\, Louisville\, CO 80027\, US
+ A
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Lunch & 50/50
+URL:http://tricityelks.com/event/lunch/
+X-COST:$4\, subject to change
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-689@tricityelks.dreamhosters.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Open to the public</p>
+DTSTART;TZID=America/Denver:20150922T120000
+GEO:+39.974958;-105.13234
+LOCATION:Tri-City Elks Lodge @ 525 Main Street\, Louisville\, CO 80027\, US
+ A
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Bingo
+URL:http://tricityelks.com/event/bingo/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-687@tricityelks.dreamhosters.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Single: $5</p>\n<p>Double: $7</p>
+DTSTART;TZID=America/Denver:20150924T180000
+GEO:+42.457226;-75.041333
+LOCATION:Tri-City Elks Lodge @ 525 Main Street\, Oneonta\, NY 13820\, USA
+RRULE:FREQ=MONTHLY;BYDAY=-1TH
+SEQUENCE:0
+SUMMARY:PER Burgers
+URL:http://tricityelks.com/event/per-burgers/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-690@tricityelks.dreamhosters.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150925T180000
+EXDATE;TZID=America/Denver:20150911T180000
+GEO:+39.974958;-105.13234
+LOCATION:Tri-City Elks Lodge @ 525 Main Street\, Louisville\, CO 80027\, US
+ A
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Dinner
+URL:http://tricityelks.com/event/dinner/
+X-COST:TBD
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-823@tricityelks.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151002T180000
+RRULE:FREQ=MONTHLY;BYDAY=1FR
+SEQUENCE:0
+SUMMARY:Bingo
+URL:http://tricityelks.com/event/bingo-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-686@tricityelks.dreamhosters.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151007T190000
+GEO:+39.974958;-105.13234
+LOCATION:Tri-City Elks Lodge @ 525 Main Street\, Louisville\, CO 80027\, US
+ A
+RDATE;TZID=America/Denver:20150902T190000
+RDATE;TZID=America/Denver:20150916T190000
+RDATE;TZID=America/Denver:20151007T190000
+RDATE;TZID=America/Denver:20151021T190000
+RDATE;TZID=America/Denver:20151104T190000
+RDATE;TZID=America/Denver:20151118T190000
+RDATE;TZID=America/Denver:20151209T190000
+RDATE;TZID=America/Denver:20151223T190000
+RDATE;TZID=America/Denver:20160106T190000
+RDATE;TZID=America/Denver:20160120T190000
+RDATE;TZID=America/Denver:20160203T190000
+RDATE;TZID=America/Denver:20160217T190000
+RDATE;TZID=America/Denver:20160302T190000
+RDATE;TZID=America/Denver:20160316T190000
+RDATE;TZID=America/Denver:20160406T190000
+RDATE;TZID=America/Denver:20160420T190000
+RDATE;TZID=America/Denver:20160504T190000
+RDATE;TZID=America/Denver:20160518T190000
+RDATE;TZID=America/Denver:20160601T190000
+RDATE;TZID=America/Denver:20160615T190000
+RDATE;TZID=America/Denver:20160706T190000
+RDATE;TZID=America/Denver:20160720T190000
+SEQUENCE:0
+SUMMARY:Lodge Meeting
+URL:http://tricityelks.com/event/lodge-meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-824@tricityelks.com
+DTSTAMP:20150920T002145Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20151016T180000
+RRULE:FREQ=MONTHLY;BYDAY=3FR
+SEQUENCE:0
+SUMMARY:Bingo
+URL:http://tricityelks.com/event/bingo-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

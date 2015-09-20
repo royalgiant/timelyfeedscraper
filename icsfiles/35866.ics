@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//67.20.90.211//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://thunderstruckathletics.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:770059-38779919
+DTSTAMP:20150920T002147Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please RSVP!  We’re going to have so much fun!  </p>
+DTSTART;TZID=America/New_York:20150927T150000
+DTEND;TZID=America/New_York:20150927T180000
+LOCATION:1301 NW 76th Blvd\, Gainesville\, FL 32606
+SEQUENCE:0
+SUMMARY:Thunder Struck (6th Grade-12U) – End of Year Banquet
+URL:http://thunderstruckathletics.org/event/thunder-struck-6th-grade-12u-en
+ d-of-year-banquet/
+END:VEVENT
+BEGIN:VEVENT
+UID:769132-38780128
+DTSTAMP:20150920T002147Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please RSVP!  </p>
+DTSTART;TZID=America/New_York:20150927T150000
+DTEND;TZID=America/New_York:20150927T180000
+LOCATION:1301 NW 76th Blvd\, Gainesville\, FL 32606
+SEQUENCE:0
+SUMMARY:Thunder Struck (7th Grade-13U) – End of Year Banquet
+URL:http://thunderstruckathletics.org/event/thunder-struck-7th-grade-13u-en
+ d-of-year-banquet/
+END:VEVENT
+BEGIN:VEVENT
+UID:383226-38780565
+DTSTAMP:20150920T002147Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please RSVP  </p>
+DTSTART;TZID=America/New_York:20150927T150000
+DTEND;TZID=America/New_York:20150927T180000
+LOCATION:1301 NW 76th Blvd\, Gainesville\, FL 32606
+SEQUENCE:0
+SUMMARY:Thunder Struck (8th Grade-14U) – End of Year Banquet
+URL:http://thunderstruckathletics.org/event/thunder-struck-8th-grade-14u-en
+ d-of-year-banquet/
+END:VEVENT
+BEGIN:VEVENT
+UID:157342-38781140
+DTSTAMP:20150920T002147Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please RSVP  </p>
+DTSTART;TZID=America/New_York:20150927T150000
+DTEND;TZID=America/New_York:20150927T180000
+LOCATION:1301 NW 76th Blvd\, Gainesville\, FL 32606
+SEQUENCE:0
+SUMMARY:Thunder Struck 2018 (10th/16U) – End of Year Banquet
+URL:http://thunderstruckathletics.org/event/thunder-struck-2018-10th-grade-
+ 16u-end-of-year-banquet/
+END:VEVENT
+END:VCALENDAR

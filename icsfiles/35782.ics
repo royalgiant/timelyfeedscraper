@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.147.244.87//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.lgbtqconsortium.com
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VTIMEZONE
+TZID:America/Phoenix
+X-LIC-LOCATION:America/Phoenix
+BEGIN:STANDARD
+DTSTART:19671029T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-404@www.lgbtconsortium.com
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:LGBTQConsortium@gmail.com
+DESCRIPTION:<p>Join us for our monthly LGBTQ Consortium meeting! This is an
+  opportunity to hear from the subcommittees\,  get involved\, network with
+  other organizations and community members\, exchange resources\, and shar
+ e information about upcoming events. All are welcome!</p>\n<p>We meet at t
+ he Terros Central Office at 3003 N. Central Ave. Phoenix\, AZ. Parking is 
+ available in the Phoenix Corporate Center parking lot\, and validation wil
+ l be provided for attendees. We are also located at the light rail stop on
+  Central Ave. and Thomas.</p>\n<p>We can’t wait to see you there!</p>\n<p>
+ Stay updated between meetings by liking us on Facebook: www.facebook.com/L
+ GBTQConsortium or following us on Twitter: @LGBTQConsortium.</p>\n<p> </p>
+DTSTART;TZID=America/Phoenix:20150925T103000
+DTEND;TZID=America/Phoenix:20150925T120000
+GEO:+33.482751;-112.073457
+LOCATION:Phoenix Corporate Center - Terros Central Office - 3rd Floor: Olym
+ pic Conference Room @ 3003 North Central Avenue\, Phoenix\, AZ 85012\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4FR
+SEQUENCE:0
+SUMMARY:LGBTQ Consortium Meeting
+URL:http://www.lgbtqconsortium.com/event/monthly-lgbtq-consortium-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-526@www.lgbtqconsortium.com
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please join QNetwork for our monthly meetings. All are welco
+ me to attend QNetwork meetings. The only requirement is that you have an i
+ nterest in supporting our youth and creating a positive\, healthy Arizona 
+ for our LGBTQ youth.</p>\n<p>QNetwork is a network of organizations prepar
+ ed to support the health and empowerment of LGBTQ youth and families. QNet
+ work aims to develop relationships among youth serving organizations and g
+ enerate youth driven feedback on helpful resources and resource gaps. QNet
+ work seeks to increase member organization awareness of LGBTQ youth suppor
+ t and advocacy services.</p>\n<p>The QNetwork also supports a 24-hour cent
+ ralized LGBTQ youth crisis and resource hotline. <strong>QLine: 1-800-527-
+ 4747 or locally at 480-736-492</strong>5</p>\n<p>We will now meet at La Fr
+ ontera Arizona-EMPACT located at 618 S Madison Dr. Tempe\, AZ 85281. When 
+ you arrive\, let the front desk know you are there for a meeting with Sara
+ h and Jaime.</p>
+DTSTART;TZID=America/Phoenix:20151007T180000
+DTEND;TZID=America/Phoenix:20151007T190000
+EXDATE;TZID=America/Phoenix:20150902T180000
+GEO:+33.423441;-111.974001
+LOCATION:La Frontera Empact @ 618 South Madison Drive\, Tempe\, AZ 85281\, 
+ USA
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:Q Network Meeting
+URL:http://www.lgbtqconsortium.com/event/q-network-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-455@www.lgbtqconsortium.com
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please join us for the next meeting of the LGBTQ/GSM State A
+ dvisory Board.</p>\n<p>Our mission: <em>to facilitate the coordination of 
+ health services across systems and drive health policy reforms that promot
+ e health equity among the GSM/LGBTQ Arizonans.</em></p>\n<p>Our vision: <e
+ m>that all GSM/LGBTQ Arizonans thrive in their quality of life across all 
+ dimensions of wellness.</em></p>\n<p>9801 S. 51st St. Phoenix\, AZ 85044<b
+ r />\nMercy Maricopa “Liberty Building” – Collaboration Room A</p>\n<p>We 
+ have three subcommittees\; data\, youth\, and training but are looking at 
+ incorporating new workgroups to focus on specialty populations such as Nat
+ ive American GSM and Hispanic/Latin@ GSM populations. The structure of the
+  meeting is that the subcommittees meet for the first hour and then we all
+  meet together for the second hour. This means only one meeting a month ra
+ ther than several.</p>\n<p>If you are unable to attend in person\, we welc
+ ome you to join us via the conference lines:<br />\n<span class='text_expo
+ sed_show'>(877) 658-8148<br />\nPasscode: 9827145241</span></p>\n<p>The LG
+ BTQ/GSM Advisory board was founded in 2008 and is an opportunity for syste
+ m-wide stakeholder areas to discuss\, collaborate\, and provide feedback o
+ n strengths\, needs\, and gaps within the areas of gender and sexual minor
+ ities\, in an effort to reduce health disparities within the public health
+  systems. We hope that you will join us and invite others that may be inte
+ rested.</p>
+DTSTART;TZID=America/Phoenix:20151013T100000
+DTEND;TZID=America/Phoenix:20151013T120000
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:GSM / LGBTQ State Advisory Board Meeting
+URL:http://www.lgbtqconsortium.com/event/gsm-lgbtq-state-advisory-board-mee
+ ting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-528@www.lgbtqconsortium.com
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Phoenix:20151020T180000
+DTEND;TZID=America/Phoenix:20151020T190000
+GEO:+33.486448;-112.134777
+LOCATION:3302 North 35th Avenue #8\, Phoenix\, AZ 85017\, USA
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=3TU
+SEQUENCE:0
+SUMMARY:LGBTQ Consortium Leadership Meeting
+URL:http://www.lgbtqconsortium.com/event/lgbtq-consortium-leadership-meetin
+ g/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-247@www.lgbtconsortium.com
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:Jason Vail Cruz\; 602-685-6016\; jason.vailcruz@terros.org
+DESCRIPTION:<p>Join Safe Out as they work to promote safer alcohol consumpt
+ ion among the Valley’s LGBTQ* population.</p>\n<p>The TERROS Central Offic
+ es are located in the Phoenix Corporate Center. Parking is available in th
+ e adjacent parking garage\, and will be validated. Safe Out meets on the 2
+ nd or 2nd floor – sign up for the newsletter or follow us on Facebook to s
+ tay updated!</p>\n<p>www.Facebook.com/SafeOut</p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=America/Phoenix:20151021T180000
+DTEND;TZID=America/Phoenix:20151021T190000
+GEO:+33.488548;-112.065504
+LOCATION:Urban Beans @ 3508 North 7th Street #100\, Phoenix\, AZ 85014\, US
+ A
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+SEQUENCE:0
+SUMMARY:Safe Out Meeting
+URL:http://www.lgbtqconsortium.com/event/safe-out-meeting/
+X-COST:Free
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-559@www.lgbtqconsortium.com
+DTSTAMP:20150920T002159Z
+CATEGORIES:
+CONTACT:City of Phoenix Human Services Department Community Services Divisi
+ on \; 602-262-7807
+DESCRIPTION:<p><strong>Out to Meet You Group: LGBTQ Costume Ball  </strong>
+ </p>\n<p>An evening of friends and frivolity brought to you by the City of
+  Phoenix Human Services Department Community Services Division: A social g
+ athering for LGBTQ people over 50 that are interested in meeting new peopl
+ e and having fun.</p>\n<p>Devonshire Senior Center<br />\n2802 E. Devonshi
+ re Ave.<br />\nPhoenix\, AZ 85016<br />\n602-262-7807<br />\nR.S.V.P. Enco
+ uraged</p>\n<p>All are welcome</p>\n<p>Costume Contest at 7 p.m. with priz
+ es<br />\nFeaturing: Short & Sweet Entertainment<br />\nMusic\, Dance and 
+ Refreshments provided for your enjoyment.</p>\n<p><em>This is a drug and a
+ lcohol free event. </em></p>\n<p> </p>\n<p><a href='http://www.lgbtqconsor
+ tium.com/wp-content/uploads/2015/09/costumeball.png'><img class='aligncent
+ er size-medium wp-image-560' src='http://www.lgbtqconsortium.com/wp-conten
+ t/uploads/2015/09/costumeball-227x300.png' alt='costumeball' width='227' h
+ eight='300' /></a></p>\n<p> </p>
+DTSTART;TZID=America/Phoenix:20151028T173000
+DTEND;TZID=America/Phoenix:20151028T193000
+GEO:+33.497084;-112.02104
+LOCATION:Devonshire Senior Center @ 2802 E Devonshire Ave\, Phoenix\, AZ 85
+ 016\, USA
+SEQUENCE:0
+SUMMARY:Out to Meet You Group: LGBTQ Costume Ball
+URL:http://www.lgbtqconsortium.com/event/out-to-meet-you-group-lgbtq-costum
+ e-ball/
+END:VEVENT
+END:VCALENDAR

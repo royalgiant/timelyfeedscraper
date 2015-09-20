@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.91.158//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://asp.fransglobal.com
+X-WR-TIMEZONE:America/Puerto_Rico
+BEGIN:VTIMEZONE
+TZID:America/Puerto_Rico
+X-LIC-LOCATION:America/Puerto_Rico
+BEGIN:STANDARD
+DTSTART:19450930T020000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0400
+TZNAME:AST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-132@asp.fransglobal.com
+DTSTAMP:20150920T002154Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://asp.fransglobal.com/wp-content/uploads/2015/
+ 07/fgasplogo.png'><img class='alignnone size-medium wp-image-73' src='http
+ ://asp.fransglobal.com/wp-content/uploads/2015/07/fgasplogo-300x75.png' al
+ t='fgasplogo' width='300' height='75' /></a></p>\n<p>Nuevo producto se lan
+ za en Taco Maker. Incluye …</p>
+DTSTART;TZID=America/Puerto_Rico:20150923T000200
+LOCATION:Puerto Rico
+RDATE;TZID=America/Puerto_Rico:20150923T000200
+SEQUENCE:0
+SUMMARY:Nuevos Bowl Tacos
+URL:http://asp.fransglobal.com/event/nuevos-bowl-tacos/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

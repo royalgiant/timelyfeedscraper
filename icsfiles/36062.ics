@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//109.235.56.18//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://weisheit-der-erde.at
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1213@weisheit-der-erde.at
+DTSTAMP:20150920T002126Z
+CATEGORIES;LANGUAGE=de-DE:Geomatischer Spaziergang
+CONTACT:
+DESCRIPTION:<div class='pf-content'><p>Treffpunkt 15.30 Uhr bei der Kollegi
+ enkirche (Universitätskirche) in Salzburg. Wir besuchen einige Kraftplätze
+  in der Altstadt.</p>\n<p>Parken in der Mönchsberggarage bzw. in erlaubten
+  Altstadt-Bereichen.</p>\n<p>Bus-Verbindungen bis Herbert-von-Karajan-Plat
+ z (Pferdeschwemme) beim Neutor bzw. vom Rudolfskai aus\, Haltestelle Hanus
+ ch-Platz oder Rathaus.</p>\n</div>
+DTSTART;TZID=Europe/Berlin:20150925T153000
+DTEND;TZID=Europe/Berlin:20150925T180000
+LOCATION:Treffpunkt Kollegienkirche @ Universitätsplatz\, Salzburg
+SEQUENCE:0
+SUMMARY:Kraftplatz-Wanderung Salzburgs Altstadt
+URL:http://weisheit-der-erde.at/event/kraftplatz-wanderung-salzburgs-altsta
+ dt-3/
+X-COST:10€ (für Mitglieder kostenfrei)
+END:VEVENT
+END:VCALENDAR

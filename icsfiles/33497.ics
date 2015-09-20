@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//195.8.208.152//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.nttvnuland.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-563382@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>12407</p>
+DTSTART;TZID=Europe/Amsterdam:20150924T200000
+DTEND;TZID=Europe/Amsterdam:20150924T230000
+SEQUENCE:0
+SUMMARY:NTTV 1 – Return Oss 3
+URL:http://www.nttvnuland.nl/index.php/event/nttv-1-return-oss-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563392@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>15007</p>\n<p> </p>
+DTSTART;TZID=Europe/Amsterdam:20150924T200000
+DTEND;TZID=Europe/Amsterdam:20150924T230000
+SEQUENCE:0
+SUMMARY:NTTV 2 – OTTC 6
+URL:http://www.nttvnuland.nl/index.php/event/nttv-2-ottc-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563401@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:Jeugd Competitie
+CONTACT:
+DESCRIPTION:<p>Zaal  de Voetboog 18 Boxtel</p>\n<p>Telefoon  0411-678889</p
+ >
+DTSTART;TZID=Europe/Amsterdam:20150927T100000
+DTEND;TZID=Europe/Amsterdam:20150927T133000
+SEQUENCE:0
+SUMMARY:RBW competitie najaar 2015 Ronde1
+URL:http://www.nttvnuland.nl/index.php/event/rbw-competitie-najaar-2015-ron
+ de1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563393@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>15010</p>\n<p>Maasdijk 2 6624 KN HEEREWAARDEN 0487-571242</p
+ >
+DTSTART;TZID=Europe/Amsterdam:20150928T200000
+DTEND;TZID=Europe/Amsterdam:20150928T230000
+SEQUENCE:0
+SUMMARY:HTTC H’waarden 2 – NTTV 2
+URL:http://www.nttvnuland.nl/index.php/event/httc-hwaarden-2-nttv-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563383@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>12410</p>\n<p>Esscheweg 1-B 5271 NB SINT-MICHIELSGESTEL 06-1
+ 2131257</p>
+DTSTART;TZID=Europe/Amsterdam:20151001T200000
+DTEND;TZID=Europe/Amsterdam:20151001T230000
+SEQUENCE:0
+SUMMARY:De Zwaantjes 1 – NTTV 1
+URL:http://www.nttvnuland.nl/index.php/event/de-zwaantjes-1-nttv-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563384@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>12413</p>
+DTSTART;TZID=Europe/Amsterdam:20151008T200000
+DTEND;TZID=Europe/Amsterdam:20151008T230000
+SEQUENCE:0
+SUMMARY:NTTV 1 – JCV 5
+URL:http://www.nttvnuland.nl/index.php/event/nttv-1-jcv-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563394@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>15013</p>
+DTSTART;TZID=Europe/Amsterdam:20151008T200000
+DTEND;TZID=Europe/Amsterdam:20151008T230000
+SEQUENCE:0
+SUMMARY:NTTV 2 – Always Fair 3
+URL:http://www.nttvnuland.nl/index.php/event/nttv-2-always-fair-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563402@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:Jeugd Competitie
+CONTACT:
+DESCRIPTION:<p>Zaal  de Voetboog 18 Boxtel</p>\n<p>Telefoon  0411-678889</p
+ >
+DTSTART;TZID=Europe/Amsterdam:20151018T100000
+DTEND;TZID=Europe/Amsterdam:20151018T133000
+SEQUENCE:0
+SUMMARY:RBW competitie najaar 2015 Ronde 2
+URL:http://www.nttvnuland.nl/index.php/event/rbw-competitie-najaar-2015-ron
+ de-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563395@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>15016</p>\n<p>De Hoge Heide 3 5251 LB VLIJMEN 073-5119247</p
+ >
+DTSTART;TZID=Europe/Amsterdam:20151023T200000
+DTEND;TZID=Europe/Amsterdam:20151023T230000
+SEQUENCE:0
+SUMMARY:Hooghei 2 – NTTV 2
+URL:http://www.nttvnuland.nl/index.php/event/hooghei-2-nttv-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563385@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>12416</p>\n<p>Churchilllaan 81 5224 BT ‘S-HERTOGENBOSCH 073-
+ 6230953</p>
+DTSTART;TZID=Europe/Amsterdam:20151023T200000
+DTEND;TZID=Europe/Amsterdam:20151023T230000
+SEQUENCE:0
+SUMMARY:Kruiskamp 81 1 – NTTV 1
+URL:http://www.nttvnuland.nl/index.php/event/kruiskamp-81-1-nttv-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563386@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>12419</p>
+DTSTART;TZID=Europe/Amsterdam:20151029T200000
+DTEND;TZID=Europe/Amsterdam:20151029T230000
+SEQUENCE:0
+SUMMARY:NTTV 1 – Attaque 2
+URL:http://www.nttvnuland.nl/index.php/event/nttv-1-attaque-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563396@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>15019</p>
+DTSTART;TZID=Europe/Amsterdam:20151029T200000
+DTEND;TZID=Europe/Amsterdam:20151029T230000
+SEQUENCE:0
+SUMMARY:NTTV 2 – Attaque 3
+URL:http://www.nttvnuland.nl/index.php/event/nttv-2-attaque-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563397@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>15022</p>\n<p>Macharenseweg 24 5346 JM OSS 0412-640413</p>
+DTSTART;TZID=Europe/Amsterdam:20151106T200000
+DTEND;TZID=Europe/Amsterdam:20151106T230000
+SEQUENCE:0
+SUMMARY:OTTC 6 – NTTV 2
+URL:http://www.nttvnuland.nl/index.php/event/ottc-6-nttv-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563387@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>12422</p>\n<p>Amsteleindstraat 108-A 5345 HB OSS 0412-643256
+ </p>
+DTSTART;TZID=Europe/Amsterdam:20151106T200000
+DTEND;TZID=Europe/Amsterdam:20151106T230000
+SEQUENCE:0
+SUMMARY:Return Oss 3	– NTTV 1
+URL:http://www.nttvnuland.nl/index.php/event/return-oss-3-nttv-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563403@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:Jeugd Competitie
+CONTACT:
+DESCRIPTION:<p>Zaal  de Voetboog 18 Boxtel</p>\n<p>Telefoon  0411-678889</p
+ >
+DTSTART;TZID=Europe/Amsterdam:20151108T100000
+DTEND;TZID=Europe/Amsterdam:20151108T133000
+SEQUENCE:0
+SUMMARY:RBW competitie najaar 2015 Ronde 3
+URL:http://www.nttvnuland.nl/index.php/event/rbw-competitie-najaar-2015-ron
+ de-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563388@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>12425</p>
+DTSTART;TZID=Europe/Amsterdam:20151119T200000
+DTEND;TZID=Europe/Amsterdam:20151119T230000
+SEQUENCE:0
+SUMMARY:NTTV 1 – De Zwaantjes 1
+URL:http://www.nttvnuland.nl/index.php/event/nttv-1-de-zwaantjes-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563398@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>15025</p>\n<p> </p>
+DTSTART;TZID=Europe/Amsterdam:20151119T200000
+DTEND;TZID=Europe/Amsterdam:20151119T230000
+SEQUENCE:0
+SUMMARY:NTTV 2 – HTTC H’waarden 2
+URL:http://www.nttvnuland.nl/index.php/event/nttv-2-httc-hwaarden-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563404@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:Jeugd Competitie
+CONTACT:
+DESCRIPTION:<p>Zaal  de Voetboog 18 Boxtel</p>\n<p>Telefoon  0411-678889</p
+ >
+DTSTART;TZID=Europe/Amsterdam:20151122T100000
+DTEND;TZID=Europe/Amsterdam:20151122T133000
+SEQUENCE:0
+SUMMARY:RBW competitie najaar 2015 Ronde 4
+URL:http://www.nttvnuland.nl/index.php/event/rbw-competitie-najaar-2015-ron
+ de-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563399@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>15028</p>\n<p>‘t Bussche Kempke 4 5324 AC AMMERZODEN 073-599
+ 3093</p>
+DTSTART;TZID=Europe/Amsterdam:20151127T200000
+DTEND;TZID=Europe/Amsterdam:20151127T230000
+SEQUENCE:0
+SUMMARY:Always Fair 3	– NTTV 2
+URL:http://www.nttvnuland.nl/index.php/event/always-fair-3-nttv-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-563389@www.nttvnuland.nl
+DTSTAMP:20150920T003420Z
+CATEGORIES;LANGUAGE=nl-NL:NTTB Competitie
+CONTACT:
+DESCRIPTION:<p>12428</p>\n<p>Van de Pollstraat 3-A 5262 XD VUGHT 073-656397
+ 3</p>
+DTSTART;TZID=Europe/Amsterdam:20151127T200000
+DTEND;TZID=Europe/Amsterdam:20151127T230000
+SEQUENCE:0
+SUMMARY:JCV 5 – NTTV 1
+URL:http://www.nttvnuland.nl/index.php/event/jcv-5-nttv-1/
+END:VEVENT
+END:VCALENDAR

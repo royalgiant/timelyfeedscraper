@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.102.196//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.simplemsolutions.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_225270544@meetup.com
+DTSTAMP:20150920T002317Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>#StartupJax<br />\nMonday\, September 21 at 6:00 PM<
+ /p>\n<p>It’s on like DonkeyKong for the first annual  #StartupJax+JaxCOE p
+ itch competition!   Pitching is a critical skill for any entrepreneur\, bu
+ t one that …</p><div class='mailmunch-forms-in-post-middle' style='display
+ : none !important\;'></div>\n<p>Details: http://www.meetup.com/startupjax/
+ events/225270544/</p>\n<div class='mailmunch-forms-after-post' style='disp
+ lay: none !important\;'></div>
+DTSTART;TZID=America/New_York:20150921T180000
+DTEND;TZID=America/New_York:20150921T210000
+GEO:+30.32;-81.65
+LOCATION:Ignite (6 East Bay Street\, 4th Floor\, Jacksonville\, FL 32202)
+SEQUENCE:0
+SUMMARY:The Wind-Up and the Pitch!
+URL:http://www.simplemsolutions.com/event/the-wind-up-and-the-pitch/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225020927@meetup.com
+DTSTAMP:20150920T002317Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Jacksonville Chapter – American Marketing Associatio
+ n<br />\nThursday\, September 24 at 7:30 AM</p>\n<p>OFFICIAL EVENT RSVP on
+  EVENTBRITE »   You don’t build a business\, you build PEOPLE\, and they i
+ n turn build and grow the business. Chris Patterson\, fou…</p><div class='
+ mailmunch-forms-in-post-middle' style='display: none !important\;'></div>
+ \n<p>Details: http://www.meetup.com/Jacksonville-Chapter-American-Marketin
+ g-Association/events/225020927/</p>\n<div class='mailmunch-forms-after-pos
+ t' style='display: none !important\;'></div>
+DTSTART;TZID=America/New_York:20150924T073000
+DTEND;TZID=America/New_York:20150924T090000
+GEO:+30.32;-81.65
+LOCATION:The DuPont Center (40 East Adams Street\, Jacksonville\, FL)
+SEQUENCE:0
+SUMMARY:Harnessing Your Workforce for Success
+URL:http://www.simplemsolutions.com/event/harnessing-your-workforce-for-suc
+ cess/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhytmbgc@meetup.com
+DTSTAMP:20150920T002317Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, September 24 at 5:
+ 30 PM</p>\n<p>Meet us at Engine 15 Brewing for great networking\, prizes\,
+  and good company!</p><div class='mailmunch-forms-in-post-middle' style='d
+ isplay: none !important\;'></div>\n<p>Details: http://www.meetup.com/techo
+ ntapjax/events/222853051/</p>\n<div class='mailmunch-forms-after-post' sty
+ le='display: none !important\;'></div>
+DTSTART;TZID=America/New_York:20150924T173000
+DTEND;TZID=America/New_York:20150924T203000
+GEO:+30.19;-81.48
+LOCATION:Engine 15 Brewing Company (1500 Beach Blvd \, Jacksonville Beach\,
+  FL 32250)
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225076656@meetup.com
+DTSTAMP:20150920T002317Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Jacksonville Online Marketing for Businesses & Entre
+ preneurs<br />\nTuesday\, October 13 at 6:30 PM</p>\n<p>Technology is revo
+ lutionizing the world. Businesses leveraging technology and adapting their
+  marketing strategies are experiencing explosive growth. I…</p>\n<p>Fee: P
+ rice: USD 10.00 per person</p><div class='mailmunch-forms-in-post-middle' 
+ style='display: none !important\;'></div>\n<p>Details: http://www.meetup.c
+ om/Jacksonville-Online-Marketing/events/225076656/</p>\n<div class='mailmu
+ nch-forms-after-post' style='display: none !important\;'></div>
+DTSTART;TZID=America/New_York:20151013T183000
+DTEND;TZID=America/New_York:20151013T203000
+GEO:+30.32;-81.65
+LOCATION:CoLabJax Makerspace (Jacksonville Landing\, 2 Independent Dr\, Jac
+ ksonville\, FL 32202)
+SEQUENCE:0
+SUMMARY:6 Principles of Growth: How to Hack Leads and Drive Sales
+URL:http://www.simplemsolutions.com/event/6-principles-of-growth-how-to-hac
+ k-leads-and-drive-sales/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_tgdljlytnbtb@meetup.com
+DTSTAMP:20150920T002317Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Social Media Talk<br />\nThursday\, October 15 at 10
+ :30 AM</p>\n<p>Details: http://www.meetup.com/Social-Media-Talk/events/224
+ 230972/</p><div class='mailmunch-forms-in-post-middle' style='display: non
+ e !important\;'></div>\n<div class='mailmunch-forms-after-post' style='dis
+ play: none !important\;'></div>
+DTSTART;TZID=America/New_York:20151015T103000
+DTEND;TZID=America/New_York:20151015T120000
+GEO:+30.19;-81.48
+LOCATION:Salem Centre (7235 Bonneval Rd\, Jacksonville\, FL)
+SEQUENCE:0
+SUMMARY:LinkedIn 101 – Tips to Make your LinkedIn profile stand out from th
+ e crowd
+URL:http://www.simplemsolutions.com/event/social-media-management-tips-and-
+ tools-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225271540@meetup.com
+DTSTAMP:20150920T002317Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>#StartupJax<br />\nFriday\, October 23 at 8:00 AM</p
+ >\n<p>Our October #StartupJax meetup will be held at the first-and-one-of-
+ a-kind Jacksonville Innovation Connection Conference that will kick of the
+  all yea…</p><div class='mailmunch-forms-in-post-middle' style='display: n
+ one !important\;'></div>\n<p>Details: http://www.meetup.com/startupjax/eve
+ nts/225271540/</p>\n<div class='mailmunch-forms-after-post' style='display
+ : none !important\;'></div>
+DTSTART;TZID=America/New_York:20151023T080000
+DTEND;TZID=America/New_York:20151023T183000
+GEO:+30.32;-81.65
+LOCATION:Schultz Center (4019 Boulevard Center Dr\, Jacksonville\, FL\, USA
+ )
+SEQUENCE:0
+SUMMARY:Innovation Connection Conference
+URL:http://www.simplemsolutions.com/event/innovation-connection-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhytnbmc@meetup.com
+DTSTAMP:20150920T002317Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, October 29 at 5:30
+  PM</p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705141/<
+ /p><div class='mailmunch-forms-in-post-middle' style='display: none !impor
+ tant\;'></div>\n<div class='mailmunch-forms-after-post' style='display: no
+ ne !important\;'></div>
+DTSTART;TZID=America/New_York:20151029T173000
+DTEND;TZID=America/New_York:20151029T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225076725@meetup.com
+DTSTAMP:20150920T002317Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Jacksonville Online Marketing for Businesses & Entre
+ preneurs<br />\nThursday\, November 5 at 5:30 PM</p>\n<p>More information 
+ to come!</p><div class='mailmunch-forms-in-post-middle' style='display: no
+ ne !important\;'></div>\n<p>Details: http://www.meetup.com/Jacksonville-On
+ line-Marketing/events/225076725/</p>\n<div class='mailmunch-forms-after-po
+ st' style='display: none !important\;'></div>
+DTSTART;TZID=America/New_York:20151105T173000
+DTEND;TZID=America/New_York:20151105T200000
+GEO:+30.32;-81.65
+LOCATION:Jacksonville Landing (2 West Independent Dr\, Jacksonville\, FL 32
+ 202)
+SEQUENCE:0
+SUMMARY:Alphabet Soup Social
+URL:http://www.simplemsolutions.com/event/alphabet-soup-social/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_225076595@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Jacksonville Online Marketing for Businesses & Entre
+ preneurs<br />\nTuesday\, November 10 at 6:30 PM</p>\n<p>Presenter: Stu Gr
+ een</p><div class='mailmunch-forms-in-post-middle' style='display: none !i
+ mportant\;'></div>\n<p>Details: http://www.meetup.com/Jacksonville-Online-
+ Marketing/events/225076595/</p>\n<div class='mailmunch-forms-after-post' s
+ tyle='display: none !important\;'></div>
+DTSTART;TZID=America/New_York:20151110T183000
+DTEND;TZID=America/New_York:20151110T213000
+GEO:+30.32;-81.65
+LOCATION:CoLabJax Makerspace (Jacksonville Landing\, 2 Independent Dr\, Jac
+ ksonville\, FL 32202)
+SEQUENCE:0
+SUMMARY:How a Virtual Assistant Saved My Business
+URL:http://www.simplemsolutions.com/event/how-a-virtual-assistant-saved-my-
+ business/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_tgdljlytpbzb@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Social Media Talk<br />\nThursday\, November 19 at 1
+ 0:30 AM</p>\n<p>Details: http://www.meetup.com/Social-Media-Talk/events/22
+ 4662544/</p><div class='mailmunch-forms-in-post-middle' style='display: no
+ ne !important\;'></div>\n<div class='mailmunch-forms-after-post' style='di
+ splay: none !important\;'></div>
+DTSTART;TZID=America/New_York:20151119T103000
+DTEND;TZID=America/New_York:20151119T120000
+GEO:+30.19;-81.48
+LOCATION:Salem Centre (7235 Bonneval Rd\, Jacksonville\, FL)
+SEQUENCE:0
+SUMMARY:Social Media Management Tips and Tools!
+URL:http://www.simplemsolutions.com/event/social-media-management-tips-and-
+ tools/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhytpbjc@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, November 26 at 5:3
+ 0 PM</p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705144/
+ </p><div class='mailmunch-forms-in-post-middle' style='display: none !impo
+ rtant\;'></div>\n<div class='mailmunch-forms-after-post' style='display: n
+ one !important\;'></div>
+DTSTART;TZID=America/New_York:20151126T173000
+DTEND;TZID=America/New_York:20151126T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhytqbpc@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, December 31 at 5:3
+ 0 PM</p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705148/
+ </p><div class='mailmunch-forms-in-post-middle' style='display: none !impo
+ rtant\;'></div>\n<div class='mailmunch-forms-after-post' style='display: n
+ one !important\;'></div>
+DTSTART;TZID=America/New_York:20151231T173000
+DTEND;TZID=America/New_York:20151231T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhyvcblc@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, January 28 at 5:30
+  PM</p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705150/<
+ /p><div class='mailmunch-forms-in-post-middle' style='display: none !impor
+ tant\;'></div>\n<div class='mailmunch-forms-after-post' style='display: no
+ ne !important\;'></div>
+DTSTART;TZID=America/New_York:20160128T173000
+DTEND;TZID=America/New_York:20160128T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhyvdbhc@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, February 25 at 5:3
+ 0 PM</p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705157/
+ </p><div class='mailmunch-forms-in-post-middle' style='display: none !impo
+ rtant\;'></div>\n<div class='mailmunch-forms-after-post' style='display: n
+ one !important\;'></div>
+DTSTART;TZID=America/New_York:20160225T173000
+DTEND;TZID=America/New_York:20160225T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhyvfbpc@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, March 31 at 5:30 P
+ M</p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705161/</p
+ ><div class='mailmunch-forms-in-post-middle' style='display: none !importa
+ nt\;'></div>\n<div class='mailmunch-forms-after-post' style='display: none
+  !important\;'></div>
+DTSTART;TZID=America/New_York:20160331T173000
+DTEND;TZID=America/New_York:20160331T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhyvgblc@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, April 28 at 5:30 P
+ M</p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705164/</p
+ ><div class='mailmunch-forms-in-post-middle' style='display: none !importa
+ nt\;'></div>\n<div class='mailmunch-forms-after-post' style='display: none
+  !important\;'></div>
+DTSTART;TZID=America/New_York:20160428T173000
+DTEND;TZID=America/New_York:20160428T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhyvhbjc@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, May 26 at 5:30 PM<
+ /p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705172/</p><
+ div class='mailmunch-forms-in-post-middle' style='display: none !important
+ \;'></div>\n<div class='mailmunch-forms-after-post' style='display: none !
+ important\;'></div>
+DTSTART;TZID=America/New_York:20160526T173000
+DTEND;TZID=America/New_York:20160526T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhyvjbnc@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, June 30 at 5:30 PM
+ </p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705176/</p>
+ <div class='mailmunch-forms-in-post-middle' style='display: none !importan
+ t\;'></div>\n<div class='mailmunch-forms-after-post' style='display: none 
+ !important\;'></div>
+DTSTART;TZID=America/New_York:20160630T173000
+DTEND;TZID=America/New_York:20160630T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:event_qtdflhyvkblc@meetup.com
+DTSTAMP:20150920T002318Z
+CATEGORIES;LANGUAGE=en-US:Networking
+CONTACT:
+DESCRIPTION:<div class='mailmunch-forms-before-post' style='display: none !
+ important\;'></div><p>Tech On Tap Jax<br />\nThursday\, July 28 at 5:30 PM
+ </p>\n<p>Details: http://www.meetup.com/techontapjax/events/224705181/</p>
+ <div class='mailmunch-forms-in-post-middle' style='display: none !importan
+ t\;'></div>\n<div class='mailmunch-forms-after-post' style='display: none 
+ !important\;'></div>
+DTSTART;TZID=America/New_York:20160728T173000
+DTEND;TZID=America/New_York:20160728T203000
+GEO:+30.19;-81.48
+SEQUENCE:0
+SUMMARY:Tech On Tap
+URL:http://www.simplemsolutions.com/event/tech-on-tap-7/
+END:VEVENT
+END:VCALENDAR

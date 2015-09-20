@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.232.218.145//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://leaninlatinas.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-97@leaninlatinas.org
+DTSTAMP:20150920T002124Z
+CATEGORIES:
+CONTACT:Anna Dapelo-Garcia\; contact@leaninlatinas.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://leaninlatinas.org/wp-content/uploads/2015/08/LeaninLatinas01-200x300.jp
+ g' width='200' height='300' /></div>
+DTSTART;TZID=America/Los_Angeles:20150919T140000
+DTEND;TZID=America/Los_Angeles:20150919T153000
+GEO:+37.316344;-121.945959
+LOCATION:Santa Clara County Democratic Headquarters @ 2901 Moorpark Avenue 
+ #110\, San Jose\, CA 95128\, USA
+SEQUENCE:0
+SUMMARY:Lean in Latinas Monthly Meeting
+URL:http://leaninlatinas.org/event/lean-in-latina-monthly-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-98@leaninlatinas.org
+DTSTAMP:20150920T002125Z
+CATEGORIES:
+CONTACT:Anna Dapelo-Garcia\; contact@leaninlatinas.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://leaninlatinas.org/wp-content/uploads/2015/08/LeaninLatinas01-200x300.jp
+ g' width='200' height='300' /></div>
+DTSTART;TZID=America/Los_Angeles:20151017T140000
+DTEND;TZID=America/Los_Angeles:20151017T153000
+GEO:+37.316344;-121.945959
+LOCATION:Santa Clara County Democratic Headquarters @ 2901 Moorpark Avenue 
+ #110\, San Jose\, CA 95128\, USA
+SEQUENCE:0
+SUMMARY:Lean in Latinas Monthly Meeting
+URL:http://leaninlatinas.org/event/lean-in-latinas-monthly-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-99@leaninlatinas.org
+DTSTAMP:20150920T002125Z
+CATEGORIES:
+CONTACT:Anna Dapelo-Garcia\; contact@leaninlatinas.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://leaninlatinas.org/wp-content/uploads/2015/08/LeaninLatinas01-200x300.jp
+ g' width='200' height='300' /></div>
+DTSTART;TZID=America/Los_Angeles:20151121T140000
+DTEND;TZID=America/Los_Angeles:20151121T153000
+GEO:+37.316344;-121.945959
+LOCATION:Santa Clara County Democratic Headquarters @ 2901 Moorpark Avenue 
+ #110\, San Jose\, CA 95128\, USA
+SEQUENCE:0
+SUMMARY:Lean in Latinas Monthly Meeting
+URL:http://leaninlatinas.org/event/lean-in-latinas-monthly-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-100@leaninlatinas.org
+DTSTAMP:20150920T002125Z
+CATEGORIES:
+CONTACT:Anna Dapelo-Garcia\; contact@leaninlatinas.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://leaninlatinas.org/wp-content/uploads/2015/08/LeaninLatinas01-200x300.jp
+ g' width='200' height='300' /></div>
+DTSTART;TZID=America/Los_Angeles:20151219T140000
+DTEND;TZID=America/Los_Angeles:20151219T153000
+GEO:+37.316344;-121.945959
+LOCATION:Santa Clara County Democratic Headquarters @ 2901 Moorpark Avenue 
+ #110\, San Jose\, CA 95128\, USA
+SEQUENCE:0
+SUMMARY:Lean in Latinas Monthly Meeting
+URL:http://leaninlatinas.org/event/lean-in-latinas-monthly-meeting-3/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//75.103.119.81//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://geosynthetica.net.br
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-623@geosynthetica.net.br
+DTSTAMP:20150920T004131Z
+CATEGORIES;LANGUAGE=pt-BR:Ambiental\,Brasil\,Engenharia Sanitária
+CONTACT:http://www.abes.locaweb.com.br/XP/XP-EasyPortal/Site/XP-PortalPagin
+ aShow.php?id=805
+DESCRIPTION:<p><img class='alignright size-full wp-image-625' src='http://g
+ eosynthetica.net.br/wp-content/uploads/Abes2015_Rio.png' alt='28º Congress
+ o Brasileiro de Engenharia Sanitária e Ambiental' width='299' height='193'
+  />O Congresso Brasileiro de Engenharia Sanitária e Ambiental: “Alterações
+  Climáticas e a Gestão do Saneamento Ambiental” é uma iniciativa da Associ
+ ação Brasileira de Engenharia Sanitária e Ambiental – ABES.</p>\n<p>Em 201
+ 5 ocorrerá a 28º edição do evento\, um ano antes da realização dos Jogos O
+ límpicos\, o Rio de Janeiro concentrará as atenções do mundo também no que
+  se refere às questões ambientais\, atraindo especialistas no tema e grand
+ es grupos de negócios.</p>\n<p>Aproveite essa excelente oportunidade de in
+ tercâmbio de experiências e conhecimento em âmbito nacional e internaciona
+ l.</p>\n<p><strong><a href='http://www.abes.locaweb.com.br/XP/XP-EasyPorta
+ l/Site/XP-PortalPaginaShow.php?id=805' onclick='_gaq.push(['_trackEvent'\,
+  'outbound-article'\, 'http://www.abes.locaweb.com.br/XP/XP-EasyPortal/Sit
+ e/XP-PortalPaginaShow.php?id=805'\, 'Venha participar do maior evento do s
+ aneamento ambiental da América Latina'])\;' target='_blank'>Venha particip
+ ar do maior evento do saneamento ambiental da América Latina</a>.</strong>
+ </p>
+DTSTART;VALUE=DATE:20151004
+DTEND;VALUE=DATE:20151009
+GEO:-22.978266;-43.417855
+LOCATION:RioCentro Exhibition and Conference Center @ Estrada dos Bandeiran
+ tes\, 8626 - Jacarepaguá\, Rio de Janeiro - RJ\, Brasil
+SEQUENCE:0
+SUMMARY:28º Congresso Brasileiro de Engenharia Sanitária e Ambiental
+URL:http://geosynthetica.net.br/event/congresso-brasileiro-de-engenharia-sa
+ nitaria-e-ambiental-2015/
+X-TAGS;LANGUAGE=pt-BR:Abes\,Ambiental\,América Latina\,Associação Brasileir
+ a de Engenharia Sanitária e Ambiental\,brasil\,Engenharia Sanitária\,event
+ os\,geossintéticos
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1382@geosynthetica.net.br
+DTSTAMP:20150920T004131Z
+CATEGORIES;LANGUAGE=pt-BR:Aterros Sanitários\,Energia\,Geossintéticos\,Geot
+ ecnia\,Mineração\,Transporte
+CONTACT:http://conferencesba2015.com.ar/
+DESCRIPTION:<p><img class=' size-full wp-image-1252 alignright' src='http:/
+ /geosynthetica.net.br/wp-content/uploads/PCSMGE2015_450w.jpg' alt='PCSMGE 
+ Argentina' width='450' height='253' />Da 15ª edição da Conferência Pan-ame
+ ricana de Mecânica de Solos e Engenharia Geotécnica (XV PCSMGE) acontece e
+ ntre os dias 15 e 18 de novembro a em Buenos Aires\, na Argentina. Para ma
+ is informações acesse o site do evento (<strong><a href='http://conference
+ sba2015.com.ar' onclick='_gaq.push(['_trackEvent'\, 'outbound-article'\, '
+ http://conferencesba2015.com.ar'\, 'http://conferencesba2015.com.ar'])\;' 
+ target='_blank'>http://conferencesba2015.com.ar</a></strong>).</p>\n<p>O e
+ vento realizado pela Sociedade Argentina de Engenharia Geotécnica (SAIG) a
+ contecerá em paralelo a mais dois eventos relacionados: o 8º Congresso Sul
+ -americano de Mecânica de Rochas\, o 6º Simpósio Internacional sobre Carac
+ terísticas de Deformação de Solos e o 22º Congresso Argentino de Engenhari
+ a Geotécnica. O evento acontece no Hotel Hilton Buenos Aires.</p>
+DTSTART;VALUE=DATE:20151115
+DTEND;VALUE=DATE:20151119
+GEO:-34.605225;-58.363727
+LOCATION:Hilton Buenos Aires @ Macacha Güemes 351\, Buenos Aires\, Argentin
+ a
+SEQUENCE:0
+SUMMARY:XV PCSMGE
+URL:http://geosynthetica.net.br/event/xv-pcsmge/
+X-TAGS;LANGUAGE=pt-BR:15ª Conferência Pan-americana de Mecânica de Solos e 
+ Engenharia Geotécnica\,engenharia\,engenharia geotécnica\,eventos\,geossin
+ téticos\,XV PCSMGE
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1381@geosynthetica.net.br
+DTSTAMP:20150920T004131Z
+CATEGORIES;LANGUAGE=pt-BR:Ambiental\,Aterros Sanitários\,Engenharia Sanitár
+ ia\,Geossintéticos\,Geotecnia\,International Geosynthetics Society\,Minera
+ ção\,Transporte
+CONTACT:http://www.geoamericas2016.org
+DESCRIPTION:<p><img class=' size-full wp-image-381 alignright' src='http://
+ geosynthetica.net.br/wp-content/uploads/GeoAmericas2016_LowesHotel_450w.pn
+ g' alt='GeoAmericas 2016' width='450' height='399' />Depois de anos de pla
+ nejamento\, os organizadores do GeoAmericas 2016 (www.geoamericas2016.org)
+  estão desfrutando da transição do evento para as fases ativas de interaçã
+ o com os autores\, patrocinadores\, expositores e participantes. Mais de 4
+ 00 inscrições para o programa técnico foram recebidas\, a conferência abri
+ u registros para o hotel oficial do evento\, e mais de 80% do espaço princ
+ ipal da exposição já está vendido desde a abertura de vendas para estandes
+  e patrocínio.</p>\n<p><strong><a href='http://www.GeoAmericas2016.org' on
+ click='_gaq.push(['_trackEvent'\, 'outbound-article'\, 'http://www.GeoAmer
+ icas2016.org'\, 'www.GeoAmericas2016.org'])\;' target='_blank'>www.GeoAmer
+ icas2016.org</a></strong></p>\n<p>A terceira Conferência Pan-Americana de 
+ Geossintéticos\, a ser realizada de 10 a 13 abril de 2016 em Miami\, já te
+ m um grande começo.</p>\n<p>**</p>\n<p>O GeoAmericas 2016 é organizado pel
+ a Sociedade Norte-Americana de Geossintéticos\; gerenciado pela Minerva Te
+ chnology\, Resources and Information\; e realizado sob a supervisão da Soc
+ iedade Internacional de Geossintéticos (IGS).</p>
+DTSTART;VALUE=DATE:20160410
+DTEND;VALUE=DATE:20160414
+GEO:+25.789474;-80.129216
+LOCATION:Loews Miami Beach Hotel @ 1601 Collins Avenue\, Miami Beach\, FL 3
+ 3139\, USA
+SEQUENCE:0
+SUMMARY:GeoAmericas 2016
+URL:http://geosynthetica.net.br/event/geoamericas-2016/
+X-TAGS;LANGUAGE=pt-BR:água\,Controle de Qualidade\,durabilidade de geossint
+ éticos\,estruturas reforçadas\,ferrovias\,Garantia de Qualidade\,GeoAmeric
+ as\,GeoAmericas 2016\,geossintéticos\,Infraestrutura\,Mineração\,portos\,r
+ odovias\,sustentabilidade\,tuneis
+END:VEVENT
+END:VCALENDAR

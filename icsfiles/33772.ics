@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//205.196.180.51//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.springspiritbaseball.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1782@www.springspiritbaseball.org
+DTSTAMP:20150920T003323Z
+CATEGORIES:
+CONTACT:Alison Young\; 832-454-5468\; Alison.Young@SpringSpiritBaseball.org
+DESCRIPTION:<p style='text-align: center\;'><a href='http://www.springspiri
+ tbaseball.org/wp-content/uploads/2015/08/catchourspirit_email1.jpg'><img c
+ lass='aligncenter wp-image-1783 size-full' src='http://www.springspiritbas
+ eball.org/wp-content/uploads/2015/08/catchourspirit_email1.jpg' alt='catch
+ ourspirit_email[1]' width='600' height='739' /></a></p>
+DTSTART;TZID=America/Chicago:20160202T073000
+DTEND;TZID=America/Chicago:20160202T083000
+GEO:+29.752988;-95.426502
+LOCATION:River Oaks Country Club @ 1600 River Oaks Boulevard\, Houston\, TX
+  77019\, USA
+SEQUENCE:0
+SUMMARY:“Breakfast for Champions” Fundraiser Breakfast
+URL:http://www.springspiritbaseball.org/event/breakfast-for-champions-fundr
+ aiser-breakfast/
+X-COST:Contact Alison Young to purchase your table
+END:VEVENT
+END:VCALENDAR

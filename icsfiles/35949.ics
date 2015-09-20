@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//80.237.133.136//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://gewerbeverein-gotha.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2230@gewerbeverein-gotha.de
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=de-DE:Journalistenstammtisch
+CONTACT:Rainer Aschenbrenner\; aschenbrenner@curcuma-medien.de
+DESCRIPTION:<p></p>
+DTSTART;TZID=Europe/Berlin:20151013T200000
+DTEND;TZID=Europe/Berlin:20151013T220000
+GEO:+50.9395;+10.70059
+LOCATION:The Londoner - English Pub @ Parkstraße 15\, 99867 Gotha\, Deutsch
+ land
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:Medienmädchen /-burschen – Stammtisch (öffentlich)
+URL:http://gewerbeverein-gotha.de/?ai1ec_event=medienmaedchen-burschen-stam
+ mtisch-oeffentlich
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2231@gewerbeverein-gotha.de
+DTSTAMP:20150920T002138Z
+CATEGORIES;LANGUAGE=de-DE:Stammtisch Gewerbeverin
+CONTACT:Andreas Dötsch\; 01795955995\; innenstadt@gewerbeverein-gotha.de\; 
+ http://www.gewerbeverein-gotha.de
+DESCRIPTION:<p>Der Stammtisch findet seit Mai 2013\, alle 8 Wochen am zweit
+ en Montag im Monat statt.<br />\nInteressenten aller Gewerbe\, Kommunalpol
+ itik und Gäste\, treffen sich um 19.30 Uhr in Franx´s Modecafé zum Gedanke
+ naustausch\,<br />\nzur Diskussion oder Information aktueller Themen. Die 
+ Tagesordnung teilen wir über unseren Newsletter mit.</p>\n<p></p>
+DTSTART;TZID=Europe/Berlin:20151109T193000
+DTEND;TZID=Europe/Berlin:20151109T220000
+GEO:+50.948356;+10.701538
+LOCATION:FranXs Modecafé @ Hauptmarkt 25\, 99867 Gotha\, Deutschland
+RRULE:FREQ=MONTHLY;INTERVAL=2;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:Gewerbestammtisch
+URL:http://gewerbeverein-gotha.de/?ai1ec_event=gewerbestammtisch
+END:VEVENT
+END:VCALENDAR

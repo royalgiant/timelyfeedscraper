@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//72.167.232.200//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.seafairpirates.org
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VTIMEZONE
+TZID:US/Pacific
+X-LIC-LOCATION:US/Pacific
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1023@www.seafairpirates.org
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:http://www.yakimavalleytourism.com/events/7738-2015-Sunfair-Parade
+DESCRIPTION:<p>Come see your Seattle Seafair Pirates at the 54th Annual Yak
+ ima Sunfair Parade!</p>
+DTSTART;TZID=US/Pacific:20150926T100000
+DTEND;TZID=US/Pacific:20150926T130000
+GEO:+46.59722;-120.53033
+LOCATION:Downtown Yakima @ South 16th Avenue & West Yakima Avenue\, Yakima\
+ , WA 98902\, USA
+SEQUENCE:0
+SUMMARY:Yakima Sunfair Parade
+URL:http://www.seafairpirates.org/event/yakima-sunfair-parade/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1024@www.seafairpirates.org
+DTSTAMP:20150920T002120Z
+CATEGORIES:
+CONTACT:http://granitefallswa.com/rrday/
+DESCRIPTION:<p><b>Railroad and Reunion Days is Saturday\, October 3rd\, 201
+ 5 and features a Grand Parade as well as a Children’s Parade.</b> Come be 
+ in the parade that goes through town on the main street or be a spectator 
+ cheering them on! The traditional Main Street Parade starts Saturday at 12
+  ‘noon\, featuring local groups\, politicians and bands\, plus the colorfu
+ l Seafair Pirates.</p>\n<p>There are always fun things to do and lots of g
+ ood things to eat\, so bring the whole family and have a great day togethe
+ r. Local businesses and street vendors will be ready for the crowds\, a ca
+ rnival will be in town the whole weekend (between Alfy’s and IGA) and the 
+ <a title='Jump to the Museum Page' href='http://www.gfhistory.org/' target
+ ='_blank'>Granite Falls Historical Museum</a> is a must see for visitors a
+ nd locals alike.</p>
+DTSTART;TZID=US/Pacific:20151003T120000
+DTEND;TZID=US/Pacific:20151003T150000
+GEO:+48.08399;-121.968742
+LOCATION:Downtown Granite Falls @ Granite Falls\, WA 98252\, USA
+SEQUENCE:0
+SUMMARY:Granite Falls Railroad Days
+URL:http://www.seafairpirates.org/event/granite-falls-railroad-days/
+END:VEVENT
+END:VCALENDAR

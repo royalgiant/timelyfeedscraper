@@ -1,0 +1,2022 @@
+
+<!DOCTYPE html>
+<html lang="el">
+<head>
+
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://laereth.gr/xmlrpc.php" />
+<title></title>
+<link rel="alternate" type="application/rss+xml" title="Κανάλι RSS &raquo; " href="http://laereth.gr/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Κανάλι σχολίων &raquo; " href="http://laereth.gr/index.php/comments/feed/" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/laereth.gr\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cntctfrm_form_style-css'  href='http://laereth.gr/wp-content/plugins/contact-form-plugin/css/form_style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://laereth.gr/wp-includes/css/dashicons.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='my-calendar-reset-css'  href='http://laereth.gr/wp-content/plugins/my-calendar/css/reset.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='my-calendar-style-css'  href='http://laereth.gr/wp-content/plugins/my-calendar/styles/twentyfifteen.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='travelify_style-css'  href='http://laereth.gr/wp-content/themes/travelify/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_ubuntu-css'  href='//fonts.googleapis.com/css?family=Ubuntu&#038;ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://laereth.gr/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://laereth.gr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://laereth.gr/wp-content/themes/travelify/library/js/functions.min.js?ver=4.3.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://laereth.gr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://laereth.gr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='shortlink' href='http://laereth.gr/' />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-67255701-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<style type="text/css">
+<!--
+/* Styles by My Calendar - Joseph C Dolson http://www.joedolson.com/ */
+
+.mc-main .mc_general .event-title, .mc-main .mc_general .event-title a { background: #ffffcc; color: #000000; }
+.mc-main .mc_general .event-title a:hover, .mc-main .mc_general .event-title a:focus { background: #ffffff;}
+.mc-event-visible {
+display: block!important;
+}
+-->
+</style>
+<script type='text/javascript'>
+	jQuery('html').addClass('mcjs');
+	jQuery(document).ready( function($) { $('html').removeClass('mcjs') } );
+</script>
+  <style type="text/css">
+    a { color: #dd3333; }
+    #site-title a { color: #1b60ba; }
+    #site-title a:hover { color: ; }
+    .wrapper { background: #dd3333; }
+    .social-icons ul li a { color: #020202; }
+    #main-nav a, #main-nav a:hover,#main-nav ul li.current-menu-item a,#main-nav ul li.current_page_ancestor a,#main-nav ul li.current-menu-ancestor a,#main-nav ul li.current_page_item a,#main-nav ul li:hover > a { color: #fff; }
+    .widget, article { background: #fff; }
+    .entry-title, .entry-title a, h1, h2, h3, h4, h5, h6, .widget-title  { color: #1b1e1f; }
+    a:focus, a:active, a:hover, .tags a:hover, .custom-gallery-title a, .widget-title a, #content ul a:hover,#content ol a:hover, .widget ul li a:hover, .entry-title a:hover, .entry-meta a:hover, #site-generator .copyright a:hover { color: #dd3333; }
+    #main-nav { background: #dd3333; border-color: #dd3333; }
+    #main-nav ul li ul, body { border-color: #dd3333; }
+    #main-nav a:hover,#main-nav ul li.current-menu-item a,#main-nav ul li.current_page_ancestor a,#main-nav ul li.current-menu-ancestor a,#main-nav ul li.current_page_item a,#main-nav ul li:hover > a, #main-nav li:hover > a,#main-nav ul ul :hover > a,#main-nav a:focus { background: #439f55; }
+    #main-nav ul li ul li a:hover,#main-nav ul li ul li:hover > a,#main-nav ul li.current-menu-item ul li a:hover { color: #439f55; }
+    .entry-content { color: #1D1D1D; }
+    input[type="reset"], input[type="button"], input[type="submit"], .entry-meta-bar .readmore, #controllers a:hover, #controllers a.active, .pagination span, .pagination a:hover span, .wp-pagenavi .current, .wp-pagenavi a:hover { background: #dd3333; border-color: #dd3333 !important; }
+    ::selection { background: #dd3333; }
+    blockquote { border-color: #dd3333; }
+    #controllers a:hover, #controllers a.active { color: #dd3333; }
+    input[type="reset"]:hover,input[type="button"]:hover,input[type="submit"]:hover,input[type="reset"]:active,input[type="button"]:active,input[type="submit"]:active, .entry-meta-bar .readmore:hover, .entry-meta-bar .readmore:active, ul.default-wp-page li a:hover, ul.default-wp-page li a:active { background: #439f55; border-color: #439f55; }
+  </style>
+  <link rel='canonical' href='http://laereth.gr/' />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d3d3d3; background-image: url('http://laereth.gr/wp-content/themes/travelify/images/background.png'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+
+</head>
+
+<body class="home page page-id-74 page-template-default custom-background ">
+	
+	<div class="wrapper">
+				<header id="branding" >
+				
+	<div class="container clearfix">
+		<div class="hgroup-wrap clearfix">
+					<section class="hgroup-right">
+						
+			<div class="social-icons clearfix">
+				<ul><li class="facebook"><a href="https://www.facebook.com/laereth" title=" on Facebook" target="_blank"></a></li><li class="twitter"><a href="https://twitter.com/LAE_epikoinonia" title=" on Twitter" target="_blank"></a></li><li class="youtube"><a href="https://www.youtube.com/channel/UCoyzKqG9pIkSx6NsnaGp-sg" title=" on YouTube" target="_blank"></a></li>
+			</ul>
+			</div><!-- .social-icons -->					</section><!-- .hgroup-right -->
+				<hgroup id="site-logo" class="clearfix">
+												<h1 id="site-title">
+								<a href="http://laereth.gr/" title="" rel="home">
+																	</a>
+							</h1>
+							<h2 id="site-description"></h2>
+						
+				</hgroup><!-- #site-logo -->
+
+		</div><!-- .hgroup-wrap -->
+	</div><!-- .container -->
+					<img src="http://laereth.gr/wp-content/uploads/2015/09/cropped-laereth.jpg" class="header-image" width="1019" height="274" alt="">
+				<nav id="main-nav" class="clearfix">
+					<div class="container clearfix"><ul class="root"><li class="page_item page-item-74 current-menu-item"><a href="http://laereth.gr/">Αρχική</a></li><li class="page_item page-item-90"><a href="http://laereth.gr/index.php/idritiki-diakiriksi/">Ιδρυτική Διακήρυξη</a></li><li class="page_item page-item-106"><a href="http://laereth.gr/index.php/news/">Ειδήσεις</a></li><li class="page_item page-item-102"><a href="http://laereth.gr/index.php/contact/">Επικοινωνία</a></li></ul>
+</div><!-- .container -->
+					</nav><!-- #main-nav -->				</header>
+		
+				<div id="main" class="container clearfix">
+
+<div id="container">
+	
+
+<div id="content">	<section id="post-74" class="post-74 page type-page status-publish hentry">
+		<article>
+
+			
+			<header class="entry-header">
+    			<h2 class="entry-title">
+    				Αρχική    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+  			<div class="entry-content clearfix">
+    				
+	<style>		
+/***<add>***/
+	
+	  #huge_it_loading_image_2 {
+		height:375px;
+		width:800px;
+		display: table-cell;
+		text-align: center;
+		vertical-align: middle;
+	 }
+	  #huge_it_loading_image_2.display {
+		display: table-cell;
+	 }
+	  #huge_it_loading_image_2.nodisplay {
+		display: none;
+	 }
+	 #huge_it_loading_image_2 img {
+		margin: auto 0;
+		width: 20% !important;
+		
+	 }
+	 
+	 .huge_it_slideshow_image_wrap_2 {
+		height:375px;
+		width:800px;
+
+		position:relative;
+		display: block;
+		text-align: center;
+		/*HEIGHT FROM HEADER.PHP*/
+		clear:both;
+		
+				float:none; margin:0px auto;		
+		border-style:solid;
+		border-left:0px !important;
+		border-right:0px !important;
+	}
+	 .huge_it_slideshow_image_wrap1_2.display {
+		 width: 100%;
+		 height:100%;
+	 }
+	 .huge_it_slideshow_image_wrap1_2.display {
+		 display:block;
+	 }
+	 .huge_it_slideshow_image_wrap1_2.nodisplay {
+		 display:none;
+	 }
+	.huge_it_slideshow_image_wrap_2 * {
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+	}
+		 
+
+	  .huge_it_slideshow_image_2 {
+			/*width:100%;*/
+	  }
+
+	  #huge_it_slideshow_left_2,
+	  #huge_it_slideshow_right_2 {
+		cursor: pointer;
+		display:none;
+		display: block;
+		
+		height: 100%;
+		outline: medium none;
+		position: absolute;
+
+		/*z-index: 10130;*/
+		z-index: 13;
+		bottom:25px;
+		top:50%;		
+	  }
+	 
+
+	  #huge_it_slideshow_left-ico_2,
+	  #huge_it_slideshow_right-ico_2 {
+		z-index: 13;
+		-moz-box-sizing: content-box;
+		box-sizing: content-box;
+		cursor: pointer;
+		display: table;
+		left: -9999px;
+		line-height: 0;
+		margin-top: -15px;
+		position: absolute;
+		top: 50%;
+		/*z-index: 10135;*/
+	  }
+	  #huge_it_slideshow_left-ico_2:hover,
+	  #huge_it_slideshow_right-ico_2:hover {
+		cursor: pointer;
+	  }
+	  
+	  .huge_it_slideshow_image_container_2 {
+		display: table;
+		position: relative;
+		top:0px;
+		left:0px;
+		text-align: center;
+		vertical-align: middle;
+		width:100%;
+	  }	  
+		
+	  .huge_it_slideshow_title_text_2 {
+		text-decoration: none;
+		position: absolute;
+		z-index: 11;
+		display: inline-block;
+				
+		width:24%;
+		/*height:44%;*/
+		
+		right:3%;top:3%;		padding:2%;
+		text-align:right;  
+		font-weight:bold;
+		color:#000000;
+			
+		background:rgba(255,255,255,0.7)  !important;
+		border-style:solid;
+		font-size:13px;
+		border-width:0px;
+		border-color:#ffffff;
+		border-radius:4px;
+	  }
+	  	  
+	  .huge_it_slideshow_description_text_2 {
+		text-decoration: none;
+		position: absolute;
+		z-index: 11;
+		border-style:solid;
+		display: inline-block;
+				
+		width:64%;
+		/*height:44%;*/
+		right:3%;bottom:3%;		padding:3%;
+		text-align:justify;  
+		color:#ffffff;
+		
+		background:rgba(0,0,0,0.7) !important;
+		border-style:solid;
+		font-size:13px;
+		border-width:0px;
+		border-color:#ffffff;
+		border-radius:0px;
+	  }
+	  
+	   .huge_it_slideshow_title_text_2.none, .huge_it_slideshow_description_text_2.none,
+	   .huge_it_slideshow_title_text_2.hidden, .huge_it_slideshow_description_text_2.hidden	   {display:none;}
+	      
+	   .huge_it_slideshow_title_text_2 h1, .huge_it_slideshow_description_text_2 h1,
+	   .huge_it_slideshow_title_text_2 h2, .huge_it_slideshow_title_text_2 h2,
+	   .huge_it_slideshow_title_text_2 h3, .huge_it_slideshow_title_text_2 h3,
+	   .huge_it_slideshow_title_text_2 h4, .huge_it_slideshow_title_text_2 h4,
+	   .huge_it_slideshow_title_text_2 p, .huge_it_slideshow_title_text_2 p,
+	   .huge_it_slideshow_title_text_2 strong,  .huge_it_slideshow_title_text_2 strong,
+	   .huge_it_slideshow_title_text_2 span, .huge_it_slideshow_title_text_2 span,
+	   .huge_it_slideshow_title_text_2 ul, .huge_it_slideshow_title_text_2 ul,
+	   .huge_it_slideshow_title_text_2 li, .huge_it_slideshow_title_text_2 li {
+			padding:2px;
+			margin:0px;
+	   }
+
+	  .huge_it_slide_container_2 {
+		display: table-cell;
+		margin: 0 auto;
+		position: relative;
+		vertical-align: middle;
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+	  }
+	  .huge_it_slide_bg_2 {
+		margin: 0 auto;
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+	  }
+	  .huge_it_slider_2 {
+		width:100%;
+		height:100%;
+		display:table !important;
+		padding:0px !important;
+		margin:0px !important;
+		
+	  }
+	  .huge_it_slideshow_image_item_2 {
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+		display: table-cell;
+		filter: Alpha(opacity=100);
+		opacity: 1;
+		position: absolute;
+		top:0px !important;
+		left:0px !important;
+		vertical-align: middle;
+		z-index: 1;
+		margin:0px !important;
+		padding:0px  !important;
+		border-radius: 0px !important;
+	  }
+	  .huge_it_slideshow_image_second_item_2 {
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+		display: table-cell;
+		filter: Alpha(opacity=0);
+		opacity: 0;
+		position: absolute;
+		top:0px !important;
+		left:0px !important;
+		vertical-align: middle;
+		overflow:hidden;
+		margin:0px !important;
+		visibility:visible !important;
+		padding:0px  !important;
+		border-radius: 0px !important;
+	  }
+	  
+	   .huge_it_slideshow_image_second_item_2 a, .huge_it_slideshow_image_item_2 a {
+			display:block;
+			width:100%;
+			height:100%;	
+	   }
+	   
+	  .huge_it_grid_2 {
+		display: none;
+		height: 100%;
+		overflow: hidden;
+		position: absolute;
+		width: 100%;
+	  }
+	  .huge_it_gridlet_2 {
+		opacity: 1;
+		filter: Alpha(opacity=100);
+		position: absolute;
+	  }
+	  
+					
+	  .huge_it_slideshow_dots_container_2 {
+		display: table;
+		position: absolute;
+		width:100% !important;
+		height:100% !important;
+	  }
+	  .huge_it_slideshow_dots_thumbnails_2 {
+		margin: 0 auto;
+		overflow: hidden;
+		position: absolute;
+		width:100%;
+		height:30px;
+	  }
+	  
+	  .huge_it_slideshow_dots_2 {
+		display: inline-block;
+		position: relative;
+		cursor: pointer;
+		box-shadow: 1px 1px 1px rgba(0,0,0,0.1) inset, 1px 1px 1px rgba(255,255,255,0.1);
+		width:10px;
+		height: 10px;
+		border-radius: 10px;
+		background: #00f;
+		margin: 10px;
+		overflow: hidden;
+		z-index: 17;
+	  }
+	  
+	  .huge_it_slideshow_dots_active_2 {
+		opacity: 1;
+		filter: Alpha(opacity=100);
+	  }
+	  .huge_it_slideshow_dots_deactive_2 {
+	  
+	  }
+	  
+	
+		
+		.huge_it_slideshow_image_wrap_2 {
+			background:#ffffff;
+			border-width:0px;
+			border-color:#ffffff;
+			border-radius:0px;
+		}
+		.huge_it_slideshow_image_wrap_2.nocolor {
+			background: transparent;
+		}
+		
+		.huge_it_slideshow_dots_thumbnails_2 {
+						top:0px; 		}
+		
+		.huge_it_slideshow_dots_2 {
+			background:#000000;
+		}
+		
+		.huge_it_slideshow_dots_active_2 {
+			background:#ffffff;
+		}
+					
+		/*//////////////////////slider thunbnail styles start///////////////////////////*/
+		
+		.bx-wrapper .bx-controls-direction a.disabled {
+		  display: ;
+		}
+		.bx-viewport {
+		  height: 100px !important;
+		  -webkit-transform: translatez(0);
+		}
+		.entry-content a{
+			border-bottom: none !important;
+		}
+		.entry-content li{
+			margin:0px !important;
+			padding: 0px !important;
+		}
+		.entry-content ul{
+			list-style-type:none !important;
+			margin: 0px !important;
+			padding: 0px !important;
+		}
+		.bx-wrapper {
+		  position: relative;
+		  margin: 0 auto 0 auto;
+		  padding: 0;
+		  max-width: px !important;
+		  *zoom: 1;
+		  -ms-touch-action: pan-y;
+		  touch-action: pan-y;
+		}
+		.huge_it_slideshow_thumbs_container_2{
+							display: none;
+					}
+		.huge_it_slideshow_thumbs_2{
+
+			
+		}
+		.huge_it_slideshow_thumbs_2 li{
+			display: inline-block;
+			 
+		    height: 100px ;
+		    
+
+			
+		}
+		.huge_it_slideshow_thumbnails_2 {
+		    display: inline-block;
+		    position: relative;
+		    cursor: pointer;
+		    background: #FFFFFF;
+		    z-index: 17;
+		}
+		.sl_thumb_img{
+		    width: 100% !important;
+		    height: 100% !important;
+		    display: block;
+		    margin: 0 auto;
+		}
+		.sl_thumb_img2{
+		    height: 100% !important;
+		    display: block;
+		    margin: 0 auto;
+		}
+		.trans_back{
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+			background:rgba(255,255,255,0.5);
+			transition: 0.3s ease;
+		}
+		.trans_back:hover{
+			background:none !important;
+		}
+		.play-icon.youtube {background:url(http://laereth.gr/wp-content/plugins/slider-image/images/play.youtube.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;}
+
+		.play-icon.vimeo {background:url(http://laereth.gr/wp-content/plugins/slider-image/images/play.vimeo.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+		}
+		.bx-wrapper {
+		  
+		  border: 0px solid #fff;
+		  background: #fff;
+		}
+		
+		/*////////////slider thunbnail styles end//////////////*/
+		
+							#huge_it_slideshow_left_2 {	
+						left:0px;
+						margin-top:-21px;
+						height:43px;
+						width:29px;
+						background:url(http://laereth.gr/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat; 
+					}
+					
+					#huge_it_slideshow_right_2 {
+						right:0px;
+						margin-top:-21px;
+						height:43px;
+						width:29px;
+						background:url(http://laereth.gr/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat; 
+					}
+				/***</add>***/
+
+	</style>
+
+
+
+		
+<script>
+	var huge_video_playing={};
+	var autoplayMatch={};
+	
+	
+
+</script>
+
+
+
+	
+	
+<script>
+	jQuery(document).ready(function($) {
+  $('.thumb_wrapper').on('click', function(ev) {
+  	var hugeid=$(this).data('rowid');
+  	var myid=hugeid;
+  	myid=parseInt(myid);
+  	eval('player_'+myid+'.playVideo()')
+   ev.preventDefault();
+ 
+  });
+});
+	var data_2 = [];      
+	var event_stack_2 = [];
+	huge_video_playing['video_is_playing_'+2]=false;
+	data_2["0"]=[];data_2["0"]["id"]="0";data_2["0"]["image_url"]="http://laereth.gr/wp-content/uploads/2015/09/dfsfsdfsdfsdfdsfsd.png";data_2["0"]["description"]="";data_2["0"]["alt"]="";data_2["1"]=[];data_2["1"]["id"]="1";data_2["1"]["image_url"]="http://laereth.gr/wp-content/uploads/2015/09/sdsadasdsas.jpg";data_2["1"]["description"]="";data_2["1"]["alt"]="";data_2["2"]=[];data_2["2"]["id"]="2";data_2["2"]["image_url"]="http://laereth.gr/wp-content/uploads/2015/09/noihsnoi.jpg";data_2["2"]["description"]="";data_2["2"]["alt"]="";data_2["3"]=[];data_2["3"]["id"]="3";data_2["3"]["image_url"]="http://laereth.gr/wp-content/uploads/2015/09/uhsfdi.jpg";data_2["3"]["description"]="";data_2["3"]["alt"]="";data_2["4"]=[];data_2["4"]["id"]="4";data_2["4"]["image_url"]="http://laereth.gr/wp-content/uploads/2015/09/lae1.jpg";data_2["4"]["description"]="";data_2["4"]["alt"]="";	
+	
+
+      var huge_it_trans_in_progress_2 = false;
+      var huge_it_transition_duration_2 = 1000;
+      var huge_interval ={};
+      
+      var sliderID = 2;
+   
+      // Stop autoplay.
+      window.clearInterval(huge_interval['huge_it_playInterval_'+2]);
+	  
+     var huge_it_current_key_2 = '';
+	 function huge_it_move_dots_2() {
+        var image_left = jQuery(".huge_it_slideshow_dots_active_2").position().left;
+        var image_right = jQuery(".huge_it_slideshow_dots_active_2").position().left + jQuery(".huge_it_slideshow_dots_active_2").outerWidth(true);
+       
+      }
+      function huge_it_testBrowser_cssTransitions_2() {
+        return huge_it_testDom_2('Transition');
+      }
+      function huge_it_testBrowser_cssTransforms3d_2() {
+        return huge_it_testDom_2('Perspective');
+      }
+      function huge_it_testDom_2(prop) {
+        // Browser vendor CSS prefixes.
+        var browserVendors = ['', '-webkit-', '-moz-', '-ms-', '-o-', '-khtml-'];
+        // Browser vendor DOM prefixes.
+        var domPrefixes = ['', 'Webkit', 'Moz', 'ms', 'O', 'Khtml'];
+        var i = domPrefixes.length;
+        while (i--) {
+          if (typeof document.body.style[domPrefixes[i] + prop] !== 'undefined') {
+            return true;
+          }
+        }
+        return false;
+      }
+		function huge_it_cube_2(tz, ntx, nty, nrx, nry, wrx, wry, current_image_class, next_image_class, direction) {
+		
+        /* If browser does not support 3d transforms/CSS transitions.*/
+        if (!huge_it_testBrowser_cssTransitions_2()) {
+			jQuery(".huge_it_slideshow_dots_2").removeClass("huge_it_slideshow_dots_active_2").addClass("huge_it_slideshow_dots_deactive_2");
+        jQuery("#huge_it_dots_" + huge_it_current_key_2 + "_2").removeClass("huge_it_slideshow_dots_deactive_2").addClass("huge_it_slideshow_dots_active_2");
+          return huge_it_fallback_2(current_image_class, next_image_class, direction);
+        }
+        if (!huge_it_testBrowser_cssTransforms3d_2()) {
+          return huge_it_fallback3d_2(current_image_class, next_image_class, direction);
+        }
+			//alert(current_image_class+' '+next_image_class);
+		  jQuery(current_image_class).css({'z-index': 'none'});
+          jQuery(next_image_class).css({'z-index' : 2});
+        huge_it_trans_in_progress_2 = true;
+        /* Set active thumbnail.*/
+		jQuery(".huge_it_slideshow_dots_2").removeClass("huge_it_slideshow_dots_active_2").addClass("huge_it_slideshow_dots_deactive_2");  
+		jQuery("#huge_it_dots_" + huge_it_current_key_2 + "_2").removeClass("huge_it_slideshow_dots_deactive_2").addClass("huge_it_slideshow_dots_active_2");
+        jQuery(".huge_it_slide_bg_2").css('perspective', 1000);
+        jQuery(current_image_class).css({
+          transform : 'translateZ(' + tz + 'px)',
+          backfaceVisibility : 'hidden'
+        });
+		
+		 jQuery(".huge_it_slideshow_image_wrap_2,.huge_it_slide_bg_2,.huge_it_slideshow_image_item_2,.huge_it_slideshow_image_second_item_2 ").css('overflow', 'visible');
+		
+        jQuery(next_image_class).css({
+          opacity : 1,
+          filter: 'Alpha(opacity=100)',
+          backfaceVisibility : 'hidden',
+          transform : 'translateY(' + nty + 'px) translateX(' + ntx + 'px) rotateY('+ nry +'deg) rotateX('+ nrx +'deg)'
+        });
+        jQuery(".huge_it_slider_2").css({
+          transform: 'translateZ(-' + tz + 'px)',
+          transformStyle: 'preserve-3d'
+        });
+        /* Execution steps.*/
+        setTimeout(function () {
+          jQuery(".huge_it_slider_2").css({
+            transition: 'all ' + huge_it_transition_duration_2 + 'ms ease-in-out',
+            transform: 'translateZ(-' + tz + 'px) rotateX('+ wrx +'deg) rotateY('+ wry +'deg)'
+          });
+        }, 20);
+        /* After transition.*/
+        jQuery(".huge_it_slider_2").one('webkitTransitionEnd transitionend otransitionend oTransitionEnd mstransitionend', jQuery.proxy(huge_it_after_trans));
+        function huge_it_after_trans() {
+          /*if (huge_it_from_focus_2) {
+            huge_it_from_focus_2 = false;
+            return;
+          }*/
+		  jQuery(".huge_it_slide_bg_2,.huge_it_slideshow_image_item_2,.huge_it_slideshow_image_second_item_2 ").css('overflow', 'hidden');
+		  jQuery(".huge_it_slide_bg_2").removeAttr('style');
+          jQuery(current_image_class).removeAttr('style');
+          jQuery(next_image_class).removeAttr('style');
+          jQuery(".huge_it_slider_2").removeAttr('style');
+		 // alert(current_image_class+' '+next_image_class);
+          jQuery(current_image_class).css({'opacity' : 0, filter: 'Alpha(opacity=0)', 'z-index': 1});
+          jQuery(next_image_class).css({'opacity' : 1, filter: 'Alpha(opacity=100)', 'z-index' : 2});
+         // huge_it_change_watermark_container_2();
+          huge_it_trans_in_progress_2 = false;
+          if (typeof event_stack_2 !== 'undefined' && event_stack_2.length > 0) {
+            key = event_stack_2[0].split("-");
+            event_stack_2.shift();
+            huge_it_change_image_2(key[0], key[1], data_2, true,false);
+          }
+        }
+      }
+      function huge_it_cubeH_2(current_image_class, next_image_class, direction) {
+        /* Set to half of image width.*/
+        var dimension = jQuery(current_image_class).width() / 2;
+        if (direction == 'right') {
+          huge_it_cube_2(dimension, dimension, 0, 0, 90, 0, -90, current_image_class, next_image_class, direction);
+        }
+        else if (direction == 'left') {
+          huge_it_cube_2(dimension, -dimension, 0, 0, -90, 0, 90, current_image_class, next_image_class, direction);
+        }
+      }
+      function huge_it_cubeV_2(current_image_class, next_image_class, direction) {
+        /* Set to half of image height.*/
+        var dimension = jQuery(current_image_class).height() / 2;
+        /* If next slide.*/
+        if (direction == 'right') {
+          huge_it_cube_2(dimension, 0, -dimension, 90, 0, -90, 0, current_image_class, next_image_class, direction);
+        }
+        else if (direction == 'left') {
+          huge_it_cube_2(dimension, 0, dimension, -90, 0, 90, 0, current_image_class, next_image_class, direction);
+        }
+      }
+      /* For browsers that does not support transitions.*/
+      function huge_it_fallback_2(current_image_class, next_image_class, direction) {
+        huge_it_fade_2(current_image_class, next_image_class, direction);
+      }
+      /* For browsers that support transitions, but not 3d transforms (only used if primary transition makes use of 3d-transforms).*/
+      function huge_it_fallback3d_2(current_image_class, next_image_class, direction) {
+        huge_it_sliceV_2(current_image_class, next_image_class, direction);
+      }
+      function huge_it_none_2(current_image_class, next_image_class, direction) {
+        jQuery(current_image_class).css({'opacity' : 0, 'z-index': 1});
+        jQuery(next_image_class).css({'opacity' : 1, 'z-index' : 2});
+
+        /* Set active thumbnail.*/
+        jQuery(".huge_it_slideshow_dots_2").removeClass("huge_it_slideshow_dots_active_2").addClass("huge_it_slideshow_dots_deactive_2");
+        jQuery("#huge_it_dots_" + huge_it_current_key_2 + "_2").removeClass("huge_it_slideshow_dots_deactive_2").addClass("huge_it_slideshow_dots_active_2");
+      }
+      function huge_it_fade_2(current_image_class, next_image_class, direction) {
+		if (huge_it_testBrowser_cssTransitions_2()) {
+			
+          jQuery(next_image_class).css('transition', 'opacity ' + huge_it_transition_duration_2 + 'ms linear');
+		  jQuery(current_image_class).css('transition', 'opacity ' + huge_it_transition_duration_2 + 'ms linear');
+          jQuery(current_image_class).css({'opacity' : 0, 'z-index': 1});
+          jQuery(next_image_class).css({'opacity' : 1, 'z-index' : 2});
+        }
+        else {
+		
+          jQuery(current_image_class).animate({'opacity' : 0, 'z-index' : 1}, huge_it_transition_duration_2);
+          jQuery(next_image_class).animate({
+              'opacity' : 1,
+              'z-index': 2
+            }, {
+              duration: huge_it_transition_duration_2,
+              complete: function () {return false;}
+            });
+          // For IE.
+          jQuery(current_image_class).fadeTo(huge_it_transition_duration_2, 0);
+          jQuery(next_image_class).fadeTo(huge_it_transition_duration_2, 1);
+        }
+
+		jQuery(".huge_it_slideshow_dots_2").removeClass("huge_it_slideshow_dots_active_2").addClass("huge_it_slideshow_dots_deactive_2");
+		jQuery("#huge_it_dots_" + huge_it_current_key_2 + "_2").removeClass("huge_it_slideshow_dots_deactive_2").addClass("huge_it_slideshow_dots_active_2");
+      }
+      function huge_it_grid_2(cols, rows, ro, tx, ty, sc, op, current_image_class, next_image_class, direction) {
+        /* If browser does not support CSS transitions.*/
+        if (!huge_it_testBrowser_cssTransitions_2()) {
+			jQuery(".huge_it_slideshow_dots_2").removeClass("huge_it_slideshow_dots_active_2").addClass("huge_it_slideshow_dots_deactive_2");
+        jQuery("#huge_it_dots_" + huge_it_current_key_2 + "_2").removeClass("huge_it_slideshow_dots_deactive_2").addClass("huge_it_slideshow_dots_active_2");
+          return huge_it_fallback_2(current_image_class, next_image_class, direction);
+		  
+        }
+        huge_it_trans_in_progress_2 = true;
+        /* Set active thumbnail.*/
+		jQuery(".huge_it_slideshow_dots_2").removeClass("huge_it_slideshow_dots_active_2").addClass("huge_it_slideshow_dots_deactive_2");
+        jQuery("#huge_it_dots_" + huge_it_current_key_2 + "_2").removeClass("huge_it_slideshow_dots_deactive_2").addClass("huge_it_slideshow_dots_active_2");
+        /* The time (in ms) added to/subtracted from the delay total for each new gridlet.*/
+        var count = (huge_it_transition_duration_2) / (cols + rows);
+        /* Gridlet creator (divisions of the image grid, positioned with background-images to replicate the look of an entire slide image when assembled)*/
+        function huge_it_gridlet(width, height, top, img_top, left, img_left, src, imgWidth, imgHeight, c, r) {
+          var delay = (c + r) * count;
+          /* Return a gridlet elem with styles for specific transition.*/
+          return jQuery('<div class="huge_it_gridlet_2" />').css({
+            width : width,
+            height : height,
+            top : top,
+            left : left,
+            backgroundImage : 'url("' + src + '")',
+            backgroundColor: jQuery(".huge_it_slideshow_image_wrap_2").css("background-color"),
+            /*backgroundColor: rgba(0, 0, 0, 0),*/
+            backgroundRepeat: 'no-repeat',
+            backgroundPosition : img_left + 'px ' + img_top + 'px',
+            backgroundSize : imgWidth + 'px ' + imgHeight + 'px',
+            transition : 'all ' + huge_it_transition_duration_2 + 'ms ease-in-out ' + delay + 'ms',
+            transform : 'none'
+          });
+        }
+        /* Get the current slide's image.*/
+        var cur_img = jQuery(current_image_class).find('img');
+        /* Create a grid to hold the gridlets.*/
+        var grid = jQuery('<div />').addClass('huge_it_grid_2');
+        /* Prepend the grid to the next slide (i.e. so it's above the slide image).*/
+        jQuery(current_image_class).prepend(grid);
+        /* vars to calculate positioning/size of gridlets*/
+        var cont = jQuery(".huge_it_slide_bg_2");
+        var imgWidth = cur_img.width();
+        var imgHeight = cur_img.height();
+        var contWidth = cont.width(),
+            contHeight = cont.height(),
+            imgSrc = cur_img.attr('src'),/*.replace('/thumb', ''),*/
+            colWidth = Math.floor(contWidth / cols),
+            rowHeight = Math.floor(contHeight / rows),
+            colRemainder = contWidth - (cols * colWidth),
+            colAdd = Math.ceil(colRemainder / cols),
+            rowRemainder = contHeight - (rows * rowHeight),
+            rowAdd = Math.ceil(rowRemainder / rows),
+            leftDist = 0,
+            img_leftDist = (jQuery(".huge_it_slide_bg_2").width() - cur_img.width()) / 2;
+        /* tx/ty args can be passed as 'auto'/'min-auto' (meaning use slide width/height or negative slide width/height).*/
+        tx = tx === 'auto' ? contWidth : tx;
+        tx = tx === 'min-auto' ? - contWidth : tx;
+        ty = ty === 'auto' ? contHeight : ty;
+        ty = ty === 'min-auto' ? - contHeight : ty;
+        /* Loop through cols*/
+        for (var i = 0; i < cols; i++) {
+          var topDist = 0,
+              img_topDst = (jQuery(".huge_it_slide_bg_2").height() - cur_img.height()) / 2,
+              newColWidth = colWidth;
+          /* If imgWidth (px) does not divide cleanly into the specified number of cols, adjust individual col widths to create correct total.*/
+          if (colRemainder > 0) {
+            var add = colRemainder >= colAdd ? colAdd : colRemainder;
+            newColWidth += add;
+            colRemainder -= add;
+          }
+          /* Nested loop to create row gridlets for each col.*/
+          for (var j = 0; j < rows; j++)  {
+            var newRowHeight = rowHeight,
+                newRowRemainder = rowRemainder;
+            /* If contHeight (px) does not divide cleanly into the specified number of rows, adjust individual row heights to create correct total.*/
+            if (newRowRemainder > 0) {
+              add = newRowRemainder >= rowAdd ? rowAdd : rowRemainder;
+              newRowHeight += add;
+              newRowRemainder -= add;
+            }
+            /* Create & append gridlet to grid.*/
+            grid.append(huge_it_gridlet(newColWidth, newRowHeight, topDist, img_topDst, leftDist, img_leftDist, imgSrc, imgWidth, imgHeight, i, j));
+            topDist += newRowHeight;
+            img_topDst -= newRowHeight;
+          }
+          img_leftDist -= newColWidth;
+          leftDist += newColWidth;
+        }
+        /* Set event listener on last gridlet to finish transitioning.*/
+        var last_gridlet = grid.children().last();
+        /* Show grid & hide the image it replaces.*/
+        grid.show();
+        cur_img.css('opacity', 0);
+        /* Add identifying classes to corner gridlets (useful if applying border radius).*/
+        grid.children().first().addClass('rs-top-left');
+        grid.children().last().addClass('rs-bottom-right');
+        grid.children().eq(rows - 1).addClass('rs-bottom-left');
+        grid.children().eq(- rows).addClass('rs-top-right');
+        /* Execution steps.*/
+        setTimeout(function () {
+          grid.children().css({
+            opacity: op,
+            transform: 'rotate('+ ro +'deg) translateX('+ tx +'px) translateY('+ ty +'px) scale('+ sc +')'
+          });
+        }, 1);
+        jQuery(next_image_class).css('opacity', 1);
+        /* After transition.*/
+        jQuery(last_gridlet).one('webkitTransitionEnd transitionend otransitionend oTransitionEnd mstransitionend', jQuery.proxy(huge_it_after_trans));
+        function huge_it_after_trans() {
+          jQuery(current_image_class).css({'opacity' : 0, 'z-index': 1});
+          jQuery(next_image_class).css({'opacity' : 1, 'z-index' : 2});
+          cur_img.css('opacity', 1);
+          grid.remove();
+          huge_it_trans_in_progress_2 = false;
+          if (typeof event_stack_2 !== 'undefined' && event_stack_2.length > 0) {
+            key = event_stack_2[0].split("-");
+            event_stack_2.shift();
+            huge_it_change_image_2(key[0], key[1], data_2, true,false);
+          }
+        }
+      }
+      function huge_it_sliceH_2(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateX = 'min-auto';
+        }
+        else if (direction == 'left') {
+          var translateX = 'auto';
+        }
+        huge_it_grid_2(1, 8, 0, translateX, 0, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_sliceV_2(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateY = 'min-auto';
+        }
+        else if (direction == 'left') {
+          var translateY = 'auto';
+        }
+        huge_it_grid_2(10, 1, 0, 0, translateY, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_slideV_2(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateY = 'auto';
+        }
+        else if (direction == 'left') {
+          var translateY = 'min-auto';
+        }
+        huge_it_grid_2(1, 1, 0, 0, translateY, 1, 1, current_image_class, next_image_class, direction);
+      }
+      function huge_it_slideH_2(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var translateX = 'min-auto';
+        }
+        else if (direction == 'left') {
+          var translateX = 'auto';
+        }
+        huge_it_grid_2(1, 1, 0, translateX, 0, 1, 1, current_image_class, next_image_class, direction);
+      }
+      function huge_it_scaleOut_2(current_image_class, next_image_class, direction) {
+        huge_it_grid_2(1, 1, 0, 0, 0, 1.5, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_scaleIn_2(current_image_class, next_image_class, direction) {
+        huge_it_grid_2(1, 1, 0, 0, 0, 0.5, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_blockScale_2(current_image_class, next_image_class, direction) {
+        huge_it_grid_2(8, 6, 0, 0, 0, .6, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_kaleidoscope_2(current_image_class, next_image_class, direction) {
+        huge_it_grid_2(10, 8, 0, 0, 0, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_fan_2(current_image_class, next_image_class, direction) {
+        if (direction == 'right') {
+          var rotate = 45;
+          var translateX = 100;
+        }
+        else if (direction == 'left') {
+          var rotate = -45;
+          var translateX = -100;
+        }
+        huge_it_grid_2(1, 10, rotate, translateX, 0, 1, 0, current_image_class, next_image_class, direction);
+      }
+      function huge_it_blindV_2(current_image_class, next_image_class, direction) {
+        huge_it_grid_2(1, 8, 0, 0, 0, .7, 0, current_image_class, next_image_class);
+      }
+      function huge_it_blindH_2(current_image_class, next_image_class, direction) {
+        huge_it_grid_2(10, 1, 0, 0, 0, .7, 0, current_image_class, next_image_class);
+      }
+      function huge_it_random_2(current_image_class, next_image_class, direction) {
+        var anims = ['sliceH', 'sliceV', 'slideH', 'slideV', 'scaleOut', 'scaleIn', 'blockScale', 'kaleidoscope', 'fan', 'blindH', 'blindV'];
+        /* Pick a random transition from the anims array.*/
+        this["huge_it_" + anims[Math.floor(Math.random() * anims.length)] + "_2"](current_image_class, next_image_class, direction);
+      }
+      
+      function iterator_2() {
+        var iterator = 1;
+
+        return iterator;
+     }
+	 
+     function huge_it_change_image_2(current_key, key, data_2, from_effect,clicked) {
+		
+        if (data_2[key]) {
+		
+			if(huge_video_playing['video_is_playing_'+2] && !clicked){
+				return false;
+			}
+         
+		 
+		 
+          if (!from_effect) {
+            // Change image key.
+            jQuery("#huge_it_current_image_key_2").val(key);
+             // if (current_key == '-2') { /* Dots.*/
+				current_key = jQuery(".huge_it_slideshow_dots_active_2").attr("data-image_key");
+			//  }
+          }
+
+          if (huge_it_trans_in_progress_2) {
+			//errorlogjQuery(".huge_it_slideshow_image_wrap_2").after(" --IN TRANSACTION-- <br />");
+            event_stack_2.push(current_key + '-' + key);
+            return;
+          }
+		  
+          var direction = 'right';
+          if (huge_it_current_key_2 > key) {
+            var direction = 'left';
+          }
+          else if (huge_it_current_key_2 == key) {
+            return false;
+          }
+         
+          // Set active thumbnail position.
+      
+          huge_it_current_key_2 = key;
+          //Change image id, title, description.
+          jQuery("#huge_it_slideshow_image_2").attr('data-image_id', data_2[key]["id"]);
+		  
+		  
+		  jQuery(".huge_it_slideshow_title_text_2").html(data_2[key]["alt"]);
+          jQuery(".huge_it_slideshow_description_text_2").html(data_2[key]["description"]);
+        
+		  var current_image_class = "#image_id_2_" + data_2[current_key]["id"];
+          var next_image_class = "#image_id_2_" + data_2[key]["id"];
+          
+		  
+		
+		 if(jQuery(current_image_class).find('.huge_it_video_frame_2').length>0) {
+			var streffect='fade';
+			if(streffect=="cubeV" || streffect=="cubeH" || streffect=="none" || streffect=="fade"){
+				huge_it_fade_2(current_image_class, next_image_class, direction);
+			}else{	
+				huge_it_fade_2(current_image_class, next_image_class, direction);
+			}	
+		  }else{	
+				huge_it_fade_2(current_image_class, next_image_class, direction);
+		  }	
+		  
+		  
+		jQuery('.huge_it_slideshow_title_text_2').removeClass('none');
+		if(jQuery('.huge_it_slideshow_title_text_2').html()==""){jQuery('.huge_it_slideshow_title_text_2').addClass('none');}
+
+		jQuery('.huge_it_slideshow_description_text_2').removeClass('none');
+		if(jQuery('.huge_it_slideshow_description_text_2').html()==""){jQuery('.huge_it_slideshow_description_text_2').addClass('none');}
+	  
+		  
+		  
+		  jQuery(current_image_class).find('.huge_it_slideshow_title_text_2').addClass('none');
+		  jQuery(current_image_class).find('.huge_it_slideshow_description_text_2').addClass('none');
+		
+		
+
+		  
+		  //errorlogjQuery(".huge_it_slideshow_image_wrap_2").after("--cur-key="+current_key+" --cur-img-class="+current_image_class+" nxt-img-class="+next_image_class+"--");
+			 huge_it_move_dots_2();
+						window.clearInterval(huge_interval['huge_it_playInterval_'+2]);
+			huge_play['function play_'+2]();
+        }
+
+      }
+	   var staticthumbWidth;
+      jQuery(window).load(function(){
+      	 staticthumbWidth=jQuery('#huge_it_thumb_slider>li').width()
+	  	
+      })
+     function huge_it_popup_resize_2() {
+
+		var staticsliderwidth=800;
+		var sliderwidth=800;
+		
+		var thumbWidth=jQuery(".huge_it_slideshow_thumbnails_2").width();
+		
+		//alert(thumbHeight)
+		//alert(thumbWidth/2)
+		var bodyWidth=jQuery(window).width();
+        var parentWidth = jQuery(".huge_it_slideshow_image_wrap_2").parent().width();
+		//if responsive js late responsive.js @  take body size and not parent div
+		jQuery(".huge_it_slideshow_thumbnails_2").css({height: 100});
+		if(sliderwidth>parentWidth){sliderwidth=parentWidth;}
+		if(sliderwidth>bodyWidth){sliderwidth=bodyWidth;}
+		var str=(375/staticsliderwidth); 
+		
+			
+			jQuery(".huge_it_slideshow_thumbnails_2").css({width: thumbWidth});
+			
+				var str2=(100/staticthumbWidth);
+			
+			jQuery(".huge_it_slideshow_thumbnails_2").css({height: thumbWidth*str2});
+			jQuery(".bx-viewport").css({height: thumbWidth*str2});
+			
+			
+			
+		
+		
+		
+		jQuery(".huge_it_slideshow_image_wrap_2").css({width: (sliderwidth)});
+		jQuery(".huge_it_slideshow_image_wrap_2").css({height: ((sliderwidth) * str)});
+		
+		jQuery(".huge_it_slideshow_image_container_2").css({width: (sliderwidth)});
+		jQuery(".huge_it_slideshow_image_container_2").css({height: ((sliderwidth) * str)});
+			
+		if("top"=="middle"){var titlemargintopminus=jQuery(".huge_it_slideshow_title_text_2").outerHeight()/2;}		
+		if("right"=="center"){var titlemarginleftminus=jQuery(".huge_it_slideshow_title_text_2").outerWidth()/2;}		
+		jQuery(".huge_it_slideshow_title_text_2").css({cssText: "margin-top:-" + titlemargintopminus + "px; margin-left:-"+titlemarginleftminus+"px;"});
+		
+		if("bottom"=="middle"){var descriptionmargintopminus=jQuery(".huge_it_slideshow_description_text_2").outerHeight()/2;}	
+		if("right"=="center"){var descriptionmarginleftminus=jQuery(".huge_it_slideshow_description_text_2").outerWidth()/2;}
+		jQuery(".huge_it_slideshow_description_text_2").css({cssText: "margin-top:-" + descriptionmargintopminus + "px; margin-left:-"+descriptionmarginleftminus+"px;"});
+		        jQuery("#huge_it_loading_image_2").css({display: "none"});
+                jQuery(".huge_it_slideshow_image_wrap1_2").css({display: "block"});
+				jQuery(".huge_it_slideshow_image_wrap_2").removeClass("nocolor");
+
+		
+		
+		if("resize"=="resize"){
+			jQuery(".huge_it_slideshow_image_2,  .huge_it_slideshow_image_container_2 img").css({
+				cssText: "width:" + sliderwidth + "px; height:" + ((sliderwidth) * str)	+"px;"
+			});
+		}else {
+			jQuery(".huge_it_slideshow_image_2,.huge_it_slideshow_image_item2_2").css({
+			cssText: "max-width: " + sliderwidth + "px !important; max-height: " + (sliderwidth * str) + "px !important;"
+		  });
+		}
+		
+		jQuery('.huge_it_video_frame_2').each(function (e) {
+          jQuery(this).width(sliderwidth);
+          jQuery(this).height(sliderwidth * str);
+        });
+      }
+      
+      jQuery(window).load(function () {
+		jQuery(window).resize(function() {
+			huge_it_popup_resize_2();
+		});
+		
+		jQuery('#huge_it_slideshow_left_2').on('click',function(){
+			huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), (parseInt(jQuery('#huge_it_current_image_key_2').val()) - iterator_2()) >= 0 ? (parseInt(jQuery('#huge_it_current_image_key_2').val()) - iterator_2()) % data_2.length : data_2.length - 1, data_2,false,true);
+			return false;
+		});
+		
+		jQuery('#huge_it_slideshow_right_2').on('click',function(){
+			huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), (parseInt(jQuery('#huge_it_current_image_key_2').val()) + iterator_2()) % data_2.length, data_2,false,true);
+			return false;
+		});
+		jQuery(".huge_it_slideshow_thumbs_container_"+sliderID).find("a[class='bx-next']").on('click',function(){
+  	  		huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), (parseInt(jQuery('#huge_it_current_image_key_2').val()) + iterator_2()) % data_2.length, data_2,false,true);
+			//return false;
+            window.clearInterval(huge_interval['huge_it_playInterval_'+sliderID]);
+				
+	  	  })
+		jQuery(".huge_it_slideshow_thumbs_container_"+sliderID).find("a[class='bx-prev']").on('click',function(){
+  	  		huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), (parseInt(jQuery('#huge_it_current_image_key_2').val()) - iterator_2()) >= 0 ? (parseInt(jQuery('#huge_it_current_image_key_2').val()) - iterator_2()) % data_2.length : data_2.length - 1, data_2,false,true);
+			//return false;
+			window.clearInterval(huge_interval['huge_it_playInterval_'+sliderID]);
+	  	  })
+
+		
+	
+		
+		huge_it_popup_resize_2();
+        /* Disable right click.*/
+        jQuery('div[id^="huge_it_container"]').bind("contextmenu", function () {
+          return false;
+        });
+        			
+		/*HOVER SLIDESHOW*/
+		jQuery("#huge_it_slideshow_image_container_2, .huge_it_slideshow_image_container_2, .huge_it_slideshow_dots_container_2,#huge_it_slideshow_right_2,#huge_it_slideshow_left_2").hover(function(){
+			//errorlogjQuery(".huge_it_slideshow_image_wrap_2").after(" -- hover -- <br /> ");
+			jQuery("#huge_it_slideshow_right_2").css({'display':'inline'});
+			jQuery("#huge_it_slideshow_left_2").css({'display':'inline'});
+		},function(){
+			jQuery("#huge_it_slideshow_right_2").css({'display':'none'});
+			jQuery("#huge_it_slideshow_left_2").css({'display':'none'});
+		});
+		var pausehover="off";
+		if(pausehover=="on"){
+			jQuery("#huge_it_slideshow_image_container_2, .huge_it_slideshow_image_container_2").hover(function(){
+				window.clearInterval(huge_interval['huge_it_playInterval_'+2]);
+			},function(){
+				window.clearInterval(huge_interval['huge_it_playInterval_'+2]);
+				huge_play['function play_'+2]();
+			});		
+		}	
+          huge_play['function play_'+2]();        
+      });
+		var huge_play={};
+
+      huge_play['function play_'+2]= function(){	   
+        /* Play.*/
+		//errorlogjQuery(".huge_it_slideshow_image_wrap_2").after(" -- paly  ---- ");
+        huge_interval['huge_it_playInterval_'+2] = setInterval(function () {
+			//errorlogjQuery(".huge_it_slideshow_image_wrap_2").after(" -- time left ---- ");
+          var iterator = 1;
+          huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), (parseInt(jQuery('#huge_it_current_image_key_2').val()) + iterator) % data_2.length, data_2,false,false);
+        }, '5000');
+      }
+	  
+      jQuery(window).focus(function() {
+       /*event_stack_2 = [];*/
+        var i_2 = 0;
+        jQuery(".huge_it_slider_2").children("div").each(function () {
+          if (jQuery(this).css('opacity') == 1) {
+            jQuery("#huge_it_current_image_key_2").val(i_2);
+          }
+          i_2++;
+        });
+      });
+      jQuery(window).blur(function() {
+        event_stack_2 = [];
+        window.clearInterval(huge_interval['huge_it_playInterval_'+2]);
+      });      
+    </script>
+<style>
+	.thumb_image{
+		  position: absolute;
+		  width: 100%;
+		  height: 100%;
+		  top: 0;
+		  left:0;
+	}
+	.entry-content a{
+		border-bottom: none !important;
+	}
+	.play-button-slider{
+		top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+	}
+	.youtube-icon { position: absolute;
+    
+    background:url(http://laereth.gr/wp-content/plugins/slider-image/images/play.youtube.png) center center no-repeat;background-size:14%;}
+</style>
+	
+<div class="huge_it_slideshow_image_wrap_2 nocolor">
+			<div id="huge_it_loading_image_2" class="display" ><img  src="http://laereth.gr/wp-content/plugins/slider-image/Front_images/loading/loading1.gif" alt="" /> </div>
+		<div class="huge_it_slideshow_image_wrap1_2 nodisplay">
+	            
+		<!-- ##########################DOTS######################### -->
+        <div class="huge_it_slideshow_dots_container_2">
+			  <div class="huge_it_slideshow_dots_thumbnails_2">
+												<div id="huge_it_dots_0_2" class="huge_it_slideshow_dots_2 huge_it_slideshow_dots_active_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '0', data_2,false,true);return false;" data-image_id="10" data-image_key="0"></div>
+															<div id="huge_it_dots_1_2" class="huge_it_slideshow_dots_2 huge_it_slideshow_dots_deactive_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '1', data_2,false,true);return false;" data-image_id="8" data-image_key="1"></div>
+															<div id="huge_it_dots_2_2" class="huge_it_slideshow_dots_2 huge_it_slideshow_dots_deactive_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '2', data_2,false,true);return false;" data-image_id="9" data-image_key="2"></div>
+															<div id="huge_it_dots_3_2" class="huge_it_slideshow_dots_2 huge_it_slideshow_dots_deactive_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '3', data_2,false,true);return false;" data-image_id="7" data-image_key="3"></div>
+															<div id="huge_it_dots_4_2" class="huge_it_slideshow_dots_2 huge_it_slideshow_dots_deactive_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_dots_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '4', data_2,false,true);return false;" data-image_id="6" data-image_key="4"></div>
+										  </div>
+			
+							<a id="huge_it_slideshow_left_2" href="#">
+					<div id="huge_it_slideshow_left-ico_2">
+					<div><i class="huge_it_slideshow_prev_btn_2 fa"></i></div></div>
+				</a>
+				
+				<a id="huge_it_slideshow_right_2" href="#">
+					<div id="huge_it_slideshow_right-ico_2">
+					<div><i class="huge_it_slideshow_next_btn_2 fa"></i></div></div>
+				</a>
+					</div>
+	  <!-- ##########################IMAGES######################### -->
+
+      <div id="huge_it_slideshow_image_container_2" class="huge_it_slideshow_image_container_2">        
+        <div class="huge_it_slide_container_2">
+          <div class="huge_it_slide_bg_2">
+            <ul class="huge_it_slider_2">
+			  					  <li class="huge_it_slideshow_image_item_2" id="image_id_2_0">      
+						<a href="http://laereth.gr/index.php/2015/09/14/to-oxi-tha-nikisei/" >						<img id="huge_it_slideshow_image_2_0" class="huge_it_slideshow_image_2" src="http://laereth.gr/wp-content/uploads/2015/09/dfsfsdfsdfsdfdsfsd.png"  alt="" data-image_id="10" />
+						</a>		
+						<div class="huge_it_slideshow_title_text_2 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_2 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_2" id="image_id_2_1">      
+						<a href="http://laereth.gr/index.php/2015/09/10/to-psifodeltio-tis-laikis-enotitas-sto-rethymno/" >						<img id="huge_it_slideshow_image_2_1" class="huge_it_slideshow_image_2" src="http://laereth.gr/wp-content/uploads/2015/09/sdsadasdsas.jpg"  alt="" data-image_id="8" />
+						</a>		
+						<div class="huge_it_slideshow_title_text_2 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_2 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_2" id="image_id_2_2">      
+						<a href="http://laereth.gr/index.php/2015/09/08/apo-to-oxi-tis-antistasis-sto-nai-tis-dimiourgias/" >						<img id="huge_it_slideshow_image_2_2" class="huge_it_slideshow_image_2" src="http://laereth.gr/wp-content/uploads/2015/09/noihsnoi.jpg"  alt="" data-image_id="9" />
+						</a>		
+						<div class="huge_it_slideshow_title_text_2 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_2 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_2" id="image_id_2_3">      
+						<a href="http://laereth.gr/index.php/2015/09/07/me-laiki-enotita-sunexizoume-ton-agwna/" >						<img id="huge_it_slideshow_image_2_3" class="huge_it_slideshow_image_2" src="http://laereth.gr/wp-content/uploads/2015/09/uhsfdi.jpg"  alt="" data-image_id="7" />
+						</a>		
+						<div class="huge_it_slideshow_title_text_2 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_2 none">
+													</div>
+					  </li>
+					  					  <li class="huge_it_slideshow_image_second_item_2" id="image_id_2_4">      
+						<a href="http://laereth.gr/index.php/2015/09/05/programatiki-diakiriksi/" >						<img id="huge_it_slideshow_image_2_4" class="huge_it_slideshow_image_2" src="http://laereth.gr/wp-content/uploads/2015/09/lae1.jpg"  alt="" data-image_id="6" />
+						</a>		
+						<div class="huge_it_slideshow_title_text_2 none">
+													</div>
+						<div class="huge_it_slideshow_description_text_2 none">
+													</div>
+					  </li>
+					              </ul>
+          </div>
+		  <input  type="hidden" id="huge_it_current_image_key_2" value="0" />
+        </div>
+      </div>
+	</div>
+<!-- slider thumbs  -->
+
+<script>
+jQuery(document).ready(function($) {
+
+		
+	setInterval(function() {
+	jQuery('.huge_it_slider_2').find("li").each(function (){
+		
+  		if($(this).css("opacity") == "1"){
+
+  			var img_id=$(this).attr('id');
+  			jQuery('.huge_it_slideshow_thumbs_2').each(function (){
+  				//if ($(this).hasClass('bx-clone')){$(this).removeAttr('id')}
+  				var allListElements = $( 'li[id='+img_id+']' );
+  				
+  				$(this).find(allListElements).not(".bx-clone").each(function() {
+  					
+
+  					jQuery('.huge_it_slideshow_thumbs_2 li').find(".trans_back").css('background','rgba(255,255,255,0.3)');
+  					$(this).find('.trans_back').css('background','none');
+
+  						
+  					
+  				})
+  				
+
+  			
+  			})
+			
+  		}
+		
+	})
+},100)
+
+
+	
+
+})
+</script>
+
+	
+</div>
+<div class="huge_it_slideshow_thumbs_container_2">
+			  <ul id="huge_it_thumb_slider"class="huge_it_slideshow_thumbs_2">
+											
+								<li id="image_id_2_0" class="huge_it_slideshow_thumbnails_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_thumbnails_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '0', data_2,false,true);return false;" data-image_id="10" data-image_key="0">
+										<img class="sl_thumb_img" src="http://laereth.gr/wp-content/uploads/2015/09/dfsfsdfsdfsdfdsfsd.png" />
+										<div class="trans_back" ></div>
+										<input type="hidden" id="time" name="time" value="5000">
+										
+								</li>
+														
+								<li id="image_id_2_1" class="huge_it_slideshow_thumbnails_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_thumbnails_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '1', data_2,false,true);return false;" data-image_id="8" data-image_key="1">
+										<img class="sl_thumb_img" src="http://laereth.gr/wp-content/uploads/2015/09/sdsadasdsas.jpg" />
+										<div class="trans_back" ></div>
+										<input type="hidden" id="time" name="time" value="5000">
+										
+								</li>
+														
+								<li id="image_id_2_2" class="huge_it_slideshow_thumbnails_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_thumbnails_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '2', data_2,false,true);return false;" data-image_id="9" data-image_key="2">
+										<img class="sl_thumb_img" src="http://laereth.gr/wp-content/uploads/2015/09/noihsnoi.jpg" />
+										<div class="trans_back" ></div>
+										<input type="hidden" id="time" name="time" value="5000">
+										
+								</li>
+														
+								<li id="image_id_2_3" class="huge_it_slideshow_thumbnails_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_thumbnails_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '3', data_2,false,true);return false;" data-image_id="7" data-image_key="3">
+										<img class="sl_thumb_img" src="http://laereth.gr/wp-content/uploads/2015/09/uhsfdi.jpg" />
+										<div class="trans_back" ></div>
+										<input type="hidden" id="time" name="time" value="5000">
+										
+								</li>
+														
+								<li id="image_id_2_4" class="huge_it_slideshow_thumbnails_2" onclick="if(jQuery(this).hasClass('huge_it_slideshow_thumbnails_active_2')) { return false; } huge_it_change_image_2(parseInt(jQuery('#huge_it_current_image_key_2').val()), '4', data_2,false,true);return false;" data-image_id="6" data-image_key="4">
+										<img class="sl_thumb_img" src="http://laereth.gr/wp-content/uploads/2015/09/lae1.jpg" />
+										<div class="trans_back" ></div>
+										<input type="hidden" id="time" name="time" value="5000">
+										
+								</li>
+												
+			  </ul>
+
+	</div>	
+
+
+
+	  
+    			  			</div>
+
+  			
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->
+		</article>
+	</section>
+</div><!-- #content --></div><!-- #container -->
+
+
+	   </div><!-- #main -->
+
+	   
+	   
+	   <footer id="footerarea" class="clearfix">
+			
+
+		<div class="widget-wrap">
+			<div class="container">
+				<div class="widget-area clearfix">
+				<style>
+.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
+</style>
+	<div class="col-3"><aside id="rpwe_widget-2" class="widget rpwe_widget recent-posts-extended"><h3 class="widget-title">Πρόσφατα άρθρα</h3><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://laereth.gr/index.php/2015/09/14/to-oxi-tha-nikisei/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://laereth.gr/wp-content/uploads/2015/09/proeklogiki-afissa-90x90.jpg" alt="Το ΟΧΙ θα νικήσει."></a><h3 class="rpwe-title"><a href="http://laereth.gr/index.php/2015/09/14/to-oxi-tha-nikisei/" title="Permalink to Το ΟΧΙ θα νικήσει." rel="bookmark">Το ΟΧΙ θα νικήσει.</a></h3><time class="rpwe-time published" datetime="2015-09-14T20:06:19+00:00">14/09/2015</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://laereth.gr/index.php/2015/09/14/ethiko-nomisma-ethiki-kuriarxia/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://laereth.gr/wp-content/uploads/2015/09/euro-draxmi-90x90.jpg" alt="ΕΘΝΙΚΟ ΝΟΜΙΣΜΑ. ΕΘΝΙΚΗ ΚΥΡΙΑΡΧΙΑ"></a><h3 class="rpwe-title"><a href="http://laereth.gr/index.php/2015/09/14/ethiko-nomisma-ethiki-kuriarxia/" title="Permalink to ΕΘΝΙΚΟ ΝΟΜΙΣΜΑ. ΕΘΝΙΚΗ ΚΥΡΙΑΡΧΙΑ" rel="bookmark">ΕΘΝΙΚΟ ΝΟΜΙΣΜΑ. ΕΘΝΙΚΗ ΚΥΡΙΑΡΧΙΑ</a></h3><time class="rpwe-time published" datetime="2015-09-14T19:11:28+00:00">14/09/2015</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://laereth.gr/index.php/2015/09/14/i-neolaia-stin-meggeni-twn-mnimoniwn/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://laereth.gr/wp-content/uploads/2015/09/neolaia-90x90.jpg" alt="Η ΝΕΟΛΑΙΑ ΣΤΗ ΜΕΓΓΕΝΗ ΤΩΝ ΜΝΗΜΟΝΙΩΝ"></a><h3 class="rpwe-title"><a href="http://laereth.gr/index.php/2015/09/14/i-neolaia-stin-meggeni-twn-mnimoniwn/" title="Permalink to Η ΝΕΟΛΑΙΑ ΣΤΗ ΜΕΓΓΕΝΗ ΤΩΝ ΜΝΗΜΟΝΙΩΝ" rel="bookmark">Η ΝΕΟΛΑΙΑ ΣΤΗ ΜΕΓΓΕΝΗ ΤΩΝ ΜΝΗΜΟΝΙΩΝ</a></h3><time class="rpwe-time published" datetime="2015-09-14T19:08:06+00:00">14/09/2015</time></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside></div><div class="col-3"><aside id="my_calendar_mini_widget-2" class="widget widget_my_calendar_mini_widget"><h3 class="widget-title">Calendar</h3><div id="mc_mini_widget-2" class="mc-main mini month mc_mini_widget-2" aria-live='assertive' aria-atomic='true'>
+<table class="my-calendar-table">
+<caption class="heading my-calendar-month">Σεπτεμβρίου 2015 </caption>
+<thead>
+<tr class='mc-row'>
+<th scope="col" class='day-heading mon'><span aria-hidden='true'><abbr title="Monday">M</abbr></span><span class='screen-reader-text'>Δευτέρα</span></th scope="col">
+<th scope="col" class='day-heading tues'><span aria-hidden='true'><abbr title="Tuesday">T</abbr></span><span class='screen-reader-text'>Τρίτη</span></th scope="col">
+<th scope="col" class='day-heading wed'><span aria-hidden='true'><abbr title="Wednesday">W</abbr></span><span class='screen-reader-text'>Τετάρτη</span></th scope="col">
+<th scope="col" class='day-heading thur'><span aria-hidden='true'><abbr title="Thursday">T</abbr></span><span class='screen-reader-text'>Πέμπτη</span></th scope="col">
+<th scope="col" class='day-heading fri'><span aria-hidden='true'><abbr title="Friday">F</abbr></span><span class='screen-reader-text'>Παρασκευή</span></th scope="col">
+<th scope="col" class='weekend-heading sat'><span aria-hidden='true'><abbr title="Saturday">S</abbr></span><span class='screen-reader-text'>Σάββατο</span></th scope="col">
+<th scope="col" class='weekend-heading sun'><span aria-hidden='true'><abbr title="Sunday">S</abbr></span><span class='screen-reader-text'>Κυριακή</span></th scope="col">
+
+</tr>
+</thead>
+<tbody><tr class='mc-row'>
+												<td class='no-events Δε past-day past-date  nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>31</span><span class='screen-reader-text'>31/08/2015</span></span>
+												</td>
+
+												<td class='no-events Τρ past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>1</span><span class='screen-reader-text'>01/09/2015</span></span>
+												</td>
+
+												<td class='no-events Τε past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>2</span><span class='screen-reader-text'>02/09/2015</span></span>
+												</td>
+
+												<td class='no-events Πε past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>3</span><span class='screen-reader-text'>03/09/2015</span></span>
+												</td>
+
+												<td class='no-events Πα past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>4</span><span class='screen-reader-text'>04/09/2015</span></span>
+												</td>
+
+												<td class='no-events Σα past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>5</span><span class='screen-reader-text'>05/09/2015</span></span>
+												</td>
+
+												<td class='no-events Κυ past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>6</span><span class='screen-reader-text'>06/09/2015</span></span>
+												</td>
+</tr>
+<tr class='mc-row'>
+												<td class='no-events Δε past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>7</span><span class='screen-reader-text'>07/09/2015</span></span>
+												</td>
+
+												<td class='no-events Τρ past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>8</span><span class='screen-reader-text'>08/09/2015</span></span>
+												</td>
+
+												<td class='no-events Τε past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>9</span><span class='screen-reader-text'>09/09/2015</span></span>
+												</td>
+
+												<td class='no-events Πε past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>10</span><span class='screen-reader-text'>10/09/2015</span></span>
+												</td>
+
+												<td class='no-events Πα past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>11</span><span class='screen-reader-text'>11/09/2015</span></span>
+												</td>
+
+												<td class='no-events Σα past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>12</span><span class='screen-reader-text'>12/09/2015</span></span>
+												</td>
+
+												<td class='no-events Κυ past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>13</span><span class='screen-reader-text'>13/09/2015</span></span>
+												</td>
+</tr>
+<tr class='mc-row'>
+												<td class='no-events Δε past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>14</span><span class='screen-reader-text'>14/09/2015</span></span>
+												</td>
+
+												<td class='no-events Τρ past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>15</span><span class='screen-reader-text'>15/09/2015</span></span>
+												</td>
+
+												<td id='mini-2015-09-16' class='Τε past-day past-date   has-events author1 mcat_general day-with-date'>
+													<a href='#' class='mc-date trigger'><span aria-hidden='true'>16</span><span class='screen-reader-text'><span class='screen-reader-text'>16/09/2015</span></span></a><div id='date-2015-09-16' class='calendar-events'><div id='mc_7-16-mini' class='mc-mc_7 mini-event mc_general vevent'>
+<h3 class='event-title summary' id='mc_7-16-mini-title'><img src="http://laereth.gr/wp-content/plugins/my-calendar/images/icons/event.png" alt="Category: General" class="category-icon" style="background:#ffffcc" />N/A: Κεντρική Προεκλογική Εκδήλωση</h3>
+<div id='mc_7-16-mini-details' class='details has-image' role='alert' aria-labelledby='mc_7-16-mini-title'>
+
+<button aria-controls='mc_7-16-mini-details' class='mc-toggle close'><img src="http://laereth.gr/wp-content/plugins/my-calendar/images/event-close.png" alt='Close' /></button><div class='time-block'><p><span class='mc-event-date'>16/09/2015</span> <span class='event-time'><abbr title='Not Applicable'>N/A</abbr>
+</span></p>
+	</div><img width="212" height="300" src="http://laereth.gr/wp-content/uploads/2015/09/proeklogiki-afissa-212x300.jpg" class="mc-image photo wp-post-image" alt="proeklogiki afissa" /><div class='location'></div><div class='longdesc'><p>Η Κεντρική Προεκλογική Εκδήλωση της Λαϊκής Ενότητας Ρεθύμνου θα διεξαχθεί την Τετάρτη 16 Σεπτεμβρίου στις 8 μ.μ. στο Σπίτι του Πολιτισμού με Ομιλήτή τον βουλευτή Ηρακλείου Μιχάλη Κριτσωτάκη.</p>
+</div><div class='sharing'></div><button aria-controls='mc_7-16-mini-details' class='mc-toggle close'><img src="http://laereth.gr/wp-content/plugins/my-calendar/images/event-close.png" alt='Close' /></button></div><!--ends .details--></div></div>
+												</td>
+
+												<td class='no-events Πε past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>17</span><span class='screen-reader-text'>17/09/2015</span></span>
+												</td>
+
+												<td class='no-events Πα past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>18</span><span class='screen-reader-text'>18/09/2015</span></span>
+												</td>
+
+												<td class='no-events Σα past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>19</span><span class='screen-reader-text'>19/09/2015</span></span>
+												</td>
+
+												<td class='no-events Κυ current-day weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>20</span><span class='screen-reader-text'>20/09/2015</span></span>
+												</td>
+</tr>
+<tr class='mc-row'>
+												<td class='no-events Δε future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>21</span><span class='screen-reader-text'>21/09/2015</span></span>
+												</td>
+
+												<td class='no-events Τρ future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>22</span><span class='screen-reader-text'>22/09/2015</span></span>
+												</td>
+
+												<td class='no-events Τε future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>23</span><span class='screen-reader-text'>23/09/2015</span></span>
+												</td>
+
+												<td class='no-events Πε future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>24</span><span class='screen-reader-text'>24/09/2015</span></span>
+												</td>
+
+												<td class='no-events Πα future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>25</span><span class='screen-reader-text'>25/09/2015</span></span>
+												</td>
+
+												<td class='no-events Σα future-day weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>26</span><span class='screen-reader-text'>26/09/2015</span></span>
+												</td>
+
+												<td class='no-events Κυ future-day weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>27</span><span class='screen-reader-text'>27/09/2015</span></span>
+												</td>
+</tr>
+<tr class='mc-row'>
+												<td class='no-events Δε future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>28</span><span class='screen-reader-text'>28/09/2015</span></span>
+												</td>
+
+												<td class='no-events Τρ future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>29</span><span class='screen-reader-text'>29/09/2015</span></span>
+												</td>
+
+												<td class='no-events Τε future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>30</span><span class='screen-reader-text'>30/09/2015</span></span>
+												</td>
+
+												<td class='no-events Πε future-day  nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>1</span><span class='screen-reader-text'>01/10/2015</span></span>
+												</td>
+
+												<td class='no-events Πα future-day  nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>2</span><span class='screen-reader-text'>02/10/2015</span></span>
+												</td>
+
+												<td class='no-events Σα future-day weekend nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>3</span><span class='screen-reader-text'>03/10/2015</span></span>
+												</td>
+
+												<td class='no-events Κυ future-day weekend nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>4</span><span class='screen-reader-text'>04/10/2015</span></span>
+												</td>
+</tr>
+
+</tbody>
+</table></div></aside></div>				</div><!-- .widget-area -->
+			</div><!-- .container -->
+		</div><!-- .widget-wrap -->
+		
+<div id="site-generator">
+				<div class="container"><div class="copyright">Πνευματικά δικαιώματα & αντιγραφή; 2015 <a href="http://laereth.gr/" title="" ><span></span></a>. Θέμα από <a href="http://colorlib.com/wp/travelify/" target="_blank" title="Colorlib" ><span>Colorlib</span></a> Τροφοδοτείται από <a href="http://wordpress.org" target="_blank" title="WordPress"><span>WordPress</span></a></div><!-- .copyright --><div class="footer-right"></div><div style="clear:both;"></div>
+			</div><!-- .container -->
+			</div><!-- #site-generator --><div class="back-to-top"><a href="#branding"></a></div>		</footer>
+
+		
+	</div><!-- .wrapper -->
+
+	
+	
+	<style>		
+/***<add>***/
+	
+	  #huge_it_loading_image_ {
+		height:px;
+		width:px;
+		display: table-cell;
+		text-align: center;
+		vertical-align: middle;
+	 }
+	  #huge_it_loading_image_.display {
+		display: table-cell;
+	 }
+	  #huge_it_loading_image_.nodisplay {
+		display: none;
+	 }
+	 #huge_it_loading_image_ img {
+		margin: auto 0;
+		width: 20% !important;
+		
+	 }
+	 
+	 .huge_it_slideshow_image_wrap_ {
+		height:px;
+		width:px;
+
+		position:relative;
+		display: block;
+		text-align: center;
+		/*HEIGHT FROM HEADER.PHP*/
+		clear:both;
+		
+				float:none; margin:0px auto;		
+		border-style:solid;
+		border-left:0px !important;
+		border-right:0px !important;
+	}
+	 .huge_it_slideshow_image_wrap1_.display {
+		 width: 100%;
+		 height:100%;
+	 }
+	 .huge_it_slideshow_image_wrap1_.display {
+		 display:block;
+	 }
+	 .huge_it_slideshow_image_wrap1_.nodisplay {
+		 display:none;
+	 }
+	.huge_it_slideshow_image_wrap_ * {
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+	}
+		 
+
+	  .huge_it_slideshow_image_ {
+			/*width:100%;*/
+	  }
+
+	  #huge_it_slideshow_left_,
+	  #huge_it_slideshow_right_ {
+		cursor: pointer;
+		display:none;
+		display: block;
+		
+		height: 100%;
+		outline: medium none;
+		position: absolute;
+
+		/*z-index: 10130;*/
+		z-index: 13;
+		bottom:25px;
+		top:50%;		
+	  }
+	 
+
+	  #huge_it_slideshow_left-ico_,
+	  #huge_it_slideshow_right-ico_ {
+		z-index: 13;
+		-moz-box-sizing: content-box;
+		box-sizing: content-box;
+		cursor: pointer;
+		display: table;
+		left: -9999px;
+		line-height: 0;
+		margin-top: -15px;
+		position: absolute;
+		top: 50%;
+		/*z-index: 10135;*/
+	  }
+	  #huge_it_slideshow_left-ico_:hover,
+	  #huge_it_slideshow_right-ico_:hover {
+		cursor: pointer;
+	  }
+	  
+	  .huge_it_slideshow_image_container_ {
+		display: table;
+		position: relative;
+		top:0px;
+		left:0px;
+		text-align: center;
+		vertical-align: middle;
+		width:100%;
+	  }	  
+		
+	  .huge_it_slideshow_title_text_ {
+		text-decoration: none;
+		position: absolute;
+		z-index: 11;
+		display: inline-block;
+				
+		width:24%;
+		/*height:44%;*/
+		
+		right:3%;top:3%;		padding:2%;
+		text-align:right;  
+		font-weight:bold;
+		color:#000000;
+			
+		background:rgba(255,255,255,0.7)  !important;
+		border-style:solid;
+		font-size:13px;
+		border-width:0px;
+		border-color:#ffffff;
+		border-radius:4px;
+	  }
+	  	  
+	  .huge_it_slideshow_description_text_ {
+		text-decoration: none;
+		position: absolute;
+		z-index: 11;
+		border-style:solid;
+		display: inline-block;
+				
+		width:64%;
+		/*height:44%;*/
+		right:3%;bottom:3%;		padding:3%;
+		text-align:justify;  
+		color:#ffffff;
+		
+		background:rgba(0,0,0,0.7) !important;
+		border-style:solid;
+		font-size:13px;
+		border-width:0px;
+		border-color:#ffffff;
+		border-radius:0px;
+	  }
+	  
+	   .huge_it_slideshow_title_text_.none, .huge_it_slideshow_description_text_.none,
+	   .huge_it_slideshow_title_text_.hidden, .huge_it_slideshow_description_text_.hidden	   {display:none;}
+	      
+	   .huge_it_slideshow_title_text_ h1, .huge_it_slideshow_description_text_ h1,
+	   .huge_it_slideshow_title_text_ h2, .huge_it_slideshow_title_text_ h2,
+	   .huge_it_slideshow_title_text_ h3, .huge_it_slideshow_title_text_ h3,
+	   .huge_it_slideshow_title_text_ h4, .huge_it_slideshow_title_text_ h4,
+	   .huge_it_slideshow_title_text_ p, .huge_it_slideshow_title_text_ p,
+	   .huge_it_slideshow_title_text_ strong,  .huge_it_slideshow_title_text_ strong,
+	   .huge_it_slideshow_title_text_ span, .huge_it_slideshow_title_text_ span,
+	   .huge_it_slideshow_title_text_ ul, .huge_it_slideshow_title_text_ ul,
+	   .huge_it_slideshow_title_text_ li, .huge_it_slideshow_title_text_ li {
+			padding:2px;
+			margin:0px;
+	   }
+
+	  .huge_it_slide_container_ {
+		display: table-cell;
+		margin: 0 auto;
+		position: relative;
+		vertical-align: middle;
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+	  }
+	  .huge_it_slide_bg_ {
+		margin: 0 auto;
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+	  }
+	  .huge_it_slider_ {
+		width:100%;
+		height:100%;
+		display:table !important;
+		padding:0px !important;
+		margin:0px !important;
+		
+	  }
+	  .huge_it_slideshow_image_item_ {
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+		display: table-cell;
+		filter: Alpha(opacity=100);
+		opacity: 1;
+		position: absolute;
+		top:0px !important;
+		left:0px !important;
+		vertical-align: middle;
+		z-index: 1;
+		margin:0px !important;
+		padding:0px  !important;
+		border-radius: 0px !important;
+	  }
+	  .huge_it_slideshow_image_second_item_ {
+		width:100%;
+		height:100%;
+		_width: inherit;
+		_height: inherit;
+		display: table-cell;
+		filter: Alpha(opacity=0);
+		opacity: 0;
+		position: absolute;
+		top:0px !important;
+		left:0px !important;
+		vertical-align: middle;
+		overflow:hidden;
+		margin:0px !important;
+		visibility:visible !important;
+		padding:0px  !important;
+		border-radius: 0px !important;
+	  }
+	  
+	   .huge_it_slideshow_image_second_item_ a, .huge_it_slideshow_image_item_ a {
+			display:block;
+			width:100%;
+			height:100%;	
+	   }
+	   
+	  .huge_it_grid_ {
+		display: none;
+		height: 100%;
+		overflow: hidden;
+		position: absolute;
+		width: 100%;
+	  }
+	  .huge_it_gridlet_ {
+		opacity: 1;
+		filter: Alpha(opacity=100);
+		position: absolute;
+	  }
+	  
+					
+	  .huge_it_slideshow_dots_container_ {
+		display: table;
+		position: absolute;
+		width:100% !important;
+		height:100% !important;
+	  }
+	  .huge_it_slideshow_dots_thumbnails_ {
+		margin: 0 auto;
+		overflow: hidden;
+		position: absolute;
+		width:100%;
+		height:30px;
+	  }
+	  
+	  .huge_it_slideshow_dots_ {
+		display: inline-block;
+		position: relative;
+		cursor: pointer;
+		box-shadow: 1px 1px 1px rgba(0,0,0,0.1) inset, 1px 1px 1px rgba(255,255,255,0.1);
+		width:10px;
+		height: 10px;
+		border-radius: 10px;
+		background: #00f;
+		margin: 10px;
+		overflow: hidden;
+		z-index: 17;
+	  }
+	  
+	  .huge_it_slideshow_dots_active_ {
+		opacity: 1;
+		filter: Alpha(opacity=100);
+	  }
+	  .huge_it_slideshow_dots_deactive_ {
+	  
+	  }
+	  
+	
+		
+		.huge_it_slideshow_image_wrap_ {
+			background:#ffffff;
+			border-width:0px;
+			border-color:#ffffff;
+			border-radius:0px;
+		}
+		.huge_it_slideshow_image_wrap_.nocolor {
+			background: transparent;
+		}
+		
+		.huge_it_slideshow_dots_thumbnails_ {
+					}
+		
+		.huge_it_slideshow_dots_ {
+			background:#000000;
+		}
+		
+		.huge_it_slideshow_dots_active_ {
+			background:#ffffff;
+		}
+							/*//////////////////////slider thunbnail styles start///////////////////////////*/
+		
+		.bx-wrapper .bx-controls-direction a.disabled {
+		  display: ;
+		}
+		.bx-viewport {
+		  height: 100px !important;
+		  -webkit-transform: translatez(0);
+		}
+		.entry-content a{
+			border-bottom: none !important;
+		}
+		.entry-content li{
+			margin:0px !important;
+			padding: 0px !important;
+		}
+		.entry-content ul{
+			list-style-type:none !important;
+			margin: 0px !important;
+			padding: 0px !important;
+		}
+		.bx-wrapper {
+		  position: relative;
+		  margin: 0 auto 0 auto;
+		  padding: 0;
+		  max-width: 800px !important;
+		  *zoom: 1;
+		  -ms-touch-action: pan-y;
+		  touch-action: pan-y;
+		}
+		.huge_it_slideshow_thumbs_container_{
+						}
+		.huge_it_slideshow_thumbs_{
+
+			
+		}
+		.huge_it_slideshow_thumbs_ li{
+			display: inline-block;
+			 
+		    height: 100px ;
+		    
+
+			
+		}
+		.huge_it_slideshow_thumbnails_ {
+		    display: inline-block;
+		    position: relative;
+		    cursor: pointer;
+		    background: #FFFFFF;
+		    z-index: 17;
+		}
+		.sl_thumb_img{
+		    width: 100% !important;
+		    height: 100% !important;
+		    display: block;
+		    margin: 0 auto;
+		}
+		.sl_thumb_img2{
+		    height: 100% !important;
+		    display: block;
+		    margin: 0 auto;
+		}
+		.trans_back{
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+			background:rgba(255,255,255,0.5);
+			transition: 0.3s ease;
+		}
+		.trans_back:hover{
+			background:none !important;
+		}
+		.play-icon.youtube {background:url(http://laereth.gr/wp-content/plugins/slider-image/images/play.youtube.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;}
+
+		.play-icon.vimeo {background:url(http://laereth.gr/wp-content/plugins/slider-image/images/play.vimeo.png) center center no-repeat;
+			width: 100%;
+			height: 100%;
+			top:0;
+			position: absolute;
+		}
+		.bx-wrapper {
+		  
+		  border: 0px solid #fff;
+		  background: #fff;
+		}
+		
+		/*////////////slider thunbnail styles end//////////////*/
+		
+							#huge_it_slideshow_left_ {	
+						left:0px;
+						margin-top:-21px;
+						height:43px;
+						width:29px;
+						background:url(http://laereth.gr/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) left  top no-repeat; 
+					}
+					
+					#huge_it_slideshow_right_ {
+						right:0px;
+						margin-top:-21px;
+						height:43px;
+						width:29px;
+						background:url(http://laereth.gr/wp-content/plugins/slider-image/Front_images/arrows/arrows.simple.png) right top no-repeat; 
+					}
+				/***</add>***/
+
+	</style>
+
+
+
+		
+<link rel='stylesheet' id='bxSlidercss-css'  href='http://laereth.gr/wp-content/plugins/slider-image/style/jquery.bxslider.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://laereth.gr/wp-content/themes/travelify/library/js/jquery.cycle.all.min.js?ver=2.9999.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var travelify_slider_value = {"transition_effect":"fade","transition_delay":"4000","transition_duration":"1000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://laereth.gr/wp-content/themes/travelify/library/js/slider-settings.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://laereth.gr/wp-content/plugins/my-calendar/js/mc-grid.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://laereth.gr/wp-content/plugins/my-calendar/js/mc-list.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://laereth.gr/wp-content/plugins/my-calendar/js/mc-mini.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://laereth.gr/wp-content/plugins/my-calendar/js/mc-ajax.js?ver=4.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var huge_it_obj = {"slideCount":"3","pauseTime":"5000","width_thumbs":"266","speed":"1000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://laereth.gr/wp-content/plugins/slider-image/js/jquery.bxslider.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://laereth.gr/wp-content/plugins/slider-image/js/bxslider.setup.js?ver=1.0.0'></script>
+
+</body>
+</html>

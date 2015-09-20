@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//217.160.187.141//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://downtarragona.org
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+X-LIC-LOCATION:Europe/Madrid
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2995@downtarragona.org
+DTSTAMP:20150920T002347Z
+CATEGORIES:
+CONTACT:695 177 109\; comunicacio@downtarragona.org
+DESCRIPTION:
+DTSTART;TZID=Europe/Madrid:20150919T123000
+DTEND;TZID=Europe/Madrid:20150919T133000
+GEO:+41.151497;+1.097491
+LOCATION:Escuela Wapachá @ Carrer Mare de Déu del Pilar\, 3\, 43205 Reus\, 
+ Tarragona\, España
+SEQUENCE:0
+SUMMARY:Activitat de Teatre
+URL:http://downtarragona.org/event/activitat-de-teatre/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2902@downtarragona.org
+DTSTAMP:20150920T002347Z
+CATEGORIES:
+CONTACT:Down Tarragona\; 695177109\; comunicacio@downtarragona.org
+DESCRIPTION:<p>Et convidem a venir el dia 25 de setembre  al Passeig Miseri
+ còrdia de Reus (alçada del número 28)\, on podràs menjar els millors muscl
+ os de la costa\, i a més ho faràs per una bona causa: poder dur a terme el
+  finançament de les activitats i així millorar la qualitat de vida dels xi
+ quets i xiquetes de l’entitat.</p>\n<p> </p>\n<p><a href='http://downtarra
+ gona.org/wp-content/uploads/2015/08/musclada_03_misericordia.png'><img cla
+ ss='alignnone wp-image-2905 size-medium' src='http://downtarragona.org/wp-
+ content/uploads/2015/08/musclada_03_misericordia-300x111.png' alt='' width
+ ='300' height='111' /></a></p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=Europe/Madrid:20150925T110000
+DTEND;TZID=Europe/Madrid:20150925T140000
+GEO:+41.147189;+1.103906
+LOCATION:Passeig de Misericòrdia\, 28\, 43205 Reus\, Tarragona\, Espanya
+SEQUENCE:0
+SUMMARY:Musclada Solidària Edició Misericòrdia
+URL:http://downtarragona.org/event/musclada-solidaria-edicio-misericordia/
+END:VEVENT
+END:VCALENDAR

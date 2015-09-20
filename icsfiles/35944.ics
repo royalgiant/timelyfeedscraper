@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.30.212.37//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.heyangie.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-232@www.heyangie.nl
+DTSTAMP:20150920T002138Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='sharedaddy sd-sharing-enabled'><div class='robots-n
+ ocontent sd-block sd-social sd-social-icon-text sd-sharing'><h3 class='sd-
+ title'>Share this:</h3><div class='sd-content'><ul><li class='share-facebo
+ ok'><a rel='nofollow' data-shared='sharing-facebook-19' class='share-faceb
+ ook sd-button share-icon' href='http://www.heyangie.nl/?share=facebook' ta
+ rget='_blank' title='Share on Facebook'><span>Facebook</span></a></li><li 
+ class='share-twitter'><a rel='nofollow' data-shared='sharing-twitter-19' c
+ lass='share-twitter sd-button share-icon' href='http://www.heyangie.nl/?sh
+ are=twitter' target='_blank' title='Click to share on Twitter'><span>Twitt
+ er</span></a></li><li class='share-end'></li></ul></div></div></div>
+DTSTART;TZID=Europe/Amsterdam:20151011T200000
+GEO:+50.879148;+5.979703
+LOCATION:Gasterie De Fabel @ Benzenraderweg 104\, 6417 SV Heerlen\, Netherl
+ ands
+SEQUENCE:0
+SUMMARY:Heerlen
+URL:http://www.heyangie.nl/?ai1ec_event=heerlen-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-94@www.heyangie.nl
+DTSTAMP:20150920T002138Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Voorronde Nu Of Nooit</p>\n<div class='sharedaddy sd-sharing
+ -enabled'><div class='robots-nocontent sd-block sd-social sd-social-icon-t
+ ext sd-sharing'><h3 class='sd-title'>Share this:</h3><div class='sd-conten
+ t'><ul><li class='share-facebook'><a rel='nofollow' data-shared='sharing-f
+ acebook-19' class='share-facebook sd-button share-icon' href='http://www.h
+ eyangie.nl/?share=facebook' target='_blank' title='Share on Facebook'><spa
+ n>Facebook</span></a></li><li class='share-twitter'><a rel='nofollow' data
+ -shared='sharing-twitter-19' class='share-twitter sd-button share-icon' hr
+ ef='http://www.heyangie.nl/?share=twitter' target='_blank' title='Click to
+  share on Twitter'><span>Twitter</span></a></li><li class='share-end'></li
+ ></ul></div></div></div>
+DTSTART;TZID=Europe/Amsterdam:20151016T200000
+GEO:+50.887304;+5.979772
+LOCATION:Nieuwe Nor @ Pancratiusstraat 30\, 6411 KC Heerlen\, Netherlands
+SEQUENCE:0
+SUMMARY:Heerlen
+URL:http://www.heyangie.nl/?ai1ec_event=heerlen
+X-COST:€ 7\,00
+X-TICKETS-URL:http://www.nieuwenor.nl/event/nuofnooit2015-nieuwenor
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

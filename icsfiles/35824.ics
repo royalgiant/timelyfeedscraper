@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//216.97.233.44//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://spiralenergies.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1153@spiralenergies.com
+DTSTAMP:20150920T002155Z
+CATEGORIES:
+CONTACT:Winifred Tanetta\; (413) 527-3331 \; www.awentree.com
+DESCRIPTION:<p><a href='http://spiralenergies.com/wp-content/uploads/+-Jane
+ t-at-Awentree.jpg'><img class='alignright size-medium wp-image-768' src='h
+ ttp://spiralenergies.com/wp-content/uploads/+-Janet-at-Awentree-300x179.jp
+ g' alt='+ Janet at Awentree' width='300' height='179' /></a>Healing treatm
+ ents address your needs and healing issues on all levels – body\, mind\, a
+ nd spirit. A private session maximizes the opportunity to transform and sh
+ ift patterns and energies that are getting in the way of being in your Ess
+ ence and fully manifesting your Highest Self’s design for you.</p>
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+GEO:+42.264203;-72.664899
+LOCATION:Awentree Store  @ 102 Cottage Street\, Easthampton\, MA 01027\, US
+ A
+SEQUENCE:0
+SUMMARY:Healing Treatments at Awentree in Easthampton MA
+URL:http://spiralenergies.com/event/healing-treatments-at-awentree-in-easth
+ ampton-ma-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1208@spiralenergies.com
+DTSTAMP:20150920T002155Z
+CATEGORIES:
+CONTACT:Janet Kessenich\; 617-926-4155\; Janet@spiralenergies.com
+DESCRIPTION:<p><a href='http://spiralenergies.com/wp-content/uploads/three-
+ candles-in-front-of-rocks-25035826_s.jpg'><img class='alignright size-medi
+ um wp-image-1209' src='http://spiralenergies.com/wp-content/uploads/three-
+ candles-in-front-of-rocks-25035826_s-300x200.jpg' alt='+ three candles in 
+ front of rocks 25035826_s' width='300' height='200' /></a>Fall Equinox cel
+ ebrates the time of year when night and day are of equal length. This bala
+ nce of light reminds us to bring balance into our own lives. Reconnect wit
+ h the natural seasons and their symbolic meanings. Join us as we honor Fal
+ l’s arrival.</p>
+DTSTART;TZID=America/New_York:20150924T193000
+DTEND;TZID=America/New_York:20150924T203000
+GEO:+42.414763;-71.156356
+LOCATION:Center for Spiritual Studies at the Theosophical Society @ 21 Mapl
+ e Street\, Arlington\, MA 02476\, USA
+SEQUENCE:0
+SUMMARY:Autumn Equinox Ritual
+URL:http://spiralenergies.com/event/autumn-equinox-ritual/
+X-COST:Freewill Donation
+END:VEVENT
+END:VCALENDAR
