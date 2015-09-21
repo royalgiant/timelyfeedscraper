@@ -29,7 +29,15 @@ router.get('/', function(req, res, next) {
 				  	// console.log(events.length);
 				  	
 					// var sequelize = new Sequelize('mysql://root:admin@localhost:3306/timely-dev');  // DB connection credentials	
-					var sequelize = new Sequelize('postgres://donaldlee@localhost:5432/timely-dev');  
+					var sequelize = new Sequelize('timely-dev', 'donaldlee', '', {
+						host: 'localhost',
+						dialect: 'postgres',
+						pool: {
+							maxConnections: 5, 
+							minConnections: 0, 
+							maxIdleTime: 10000
+						}
+					});  
 
 					// Define the Event
 				  	var Event = sequelize.define( 'event', {
@@ -72,166 +80,166 @@ router.get('/', function(req, res, next) {
 					Event.belongsToMany(Category, {through: 'EventCategory'}); // Association between Event and Category
 					Category.belongsToMany(Event, {through: 'EventCategory'}); // Association between Category and Event
 
-					events.forEach (function (e){
-				  		var newRecord = {};
+					sequelize.transaction(function (t1){
+						return sequelize.transaction(function (t2) {
 
-				  		if (e.properties["UID"]) {
-				  			newRecord.uid = e.properties["UID"][0]["value"];
-				  		}
-				  	
-				  		if (e.properties["DESCRIPTION"]) {
-				  			newRecord.description = String(e.properties["DESCRIPTION"][0]["value"]);
-				  		}
-				  		if (e.properties["DTSTAMP"]) {
-				  			newRecord.dtstamp = e.properties["DTSTAMP"][0]["value"];
-				  		}
-				  		if (e.properties["DTSTART"]) {
-				  			newRecord.dtstart = e.properties["DTSTART"][0]["value"];
-				  		}
-				  		if (e.properties["DTEND"]) {
-				  			newRecord.dtend = e.properties["DTEND"][0]["value"];
-				  		}
-				  		if (e.properties["CONTACT"]) {
-				  			newRecord.contact = e.properties["CONTACT"][0]["value"];
-				  		}
-				  		if (e.properties["COMMENT"]) {
-				  			newRecord.comment = e.properties["COMMENT"][0]["value"];
-				  		}
-				  	
-				  		if (e.properties["DURATION"]) {
-				  			newRecord.duration = e.properties["DURATION"][0]["value"];
-				  		}
-				  		if (e.properties["EXDATE"]) {
-				  			newRecord.exdate = e.properties["EXDATE"][0]["value"];
-				  		}
-				  		if (e.properties["RRULE"]) {
-				  			newRecord.rrule = e.properties["RRULE"][0]["value"];
-				  		}
-				  		if (e.properties["RDATE"]) {
-				  			newRecord.rdate = e.properties["RDATE"][0]["value"];
-				  		}
-				  		if (e.properties["LOCATION"]) {
-				  			newRecord.location = e.properties["LOCATION"][0]["value"];
-				  		}	  		
-				  		if (e.properties["SEQUENCE"]) {
-				  			newRecord.sequence = e.properties["SEQUENCE"][0]["value"];
-				  		}
-				  		if (e.properties["SUMMARY"]) {
-				  			newRecord.summary = e.properties["SUMMARY"][0]["value"];
-				  		}
-				  		if (e.properties["URL"]) {
-				  			newRecord.url = e.properties["URL"][0]["value"];
-				  		}
-				  		if (e.properties["X-TICKETS-URL"]) {
-				  			newRecord.x_tickets_url = e.properties["X-TICKETS-URL"][0]["value"];
-				  		}
-				  		if (e.properties["X-INSTANT-EVENT"]) {
-				  			newRecord.x_instant_event = e.properties["X-INSTANT-EVENT"][0]["value"];
-				  		}
-				  		if (e.properties["X-COST"]) {
-				  			newRecord.x_cost = e.properties["X-COST"][0]["value"];
-				  		}
-				  		if (e.properties["CATEGORIES"]) {
-				  			var categories = String(e.properties["CATEGORIES"][0]["value"]).split("\,");
-				  			for (var i in categories){
-				  				categories[i] = categories[i].replace("\\", "");
-				  				categories[i] = decodeURI(categories[i]);
-				  			};
-				  		}
-				  		if (e.properties["GEO"]) {
-				  			var geo = String(e.properties["GEO"][0]["value"]).split(";");
-				  			locale = String(newRecord.location).split(","); // Split by ,
-				  			
-				  			formatted_address = String(locale[0]).split("@"); // Formatting issue
-				  			var location = {
-				  				name: formatted_address[0],
-				  				address: formatted_address[1],
-				  				city: locale[1],
-				  				country: locale[3],
-				  				longitude: geo[1],
-				  				latitude: geo[0]
-			 	  			}
-			 	  			
-			 	  			if (locale[2]){
-				  				prov = locale[2].split(" ");
-				  				location["province"] = prov[1];
-				  				location["postal_code"] = String(prov[2]+" "+prov[3]);
-				  			} else {
-				  				location["province"] = "";
-				  				location["postal_code"] = "";
-				  			}
-				  		}
+							return Promise.all([
+								events.forEach (function (e){
+							  		var newRecord = {};
 
-				  		Event.findOrCreate({where: {uid: newRecord.uid}, defaults: newRecord}).spread( function(tevent, event_created){
-						    if(event_created) {
-						   		for (x in categories) { // Loop through categories
-						    		if (categories[x].length > 0 ) { // If category is not empty
-						    			// Find the category in DB / create it
-						    			Category.findOrCreate({where: {category_name: categories[x].trim()}, defaults: {category_name: categories[x].trim()}}).spread( function(cat, created){
-								  			console.log(cat.get({
-										      plain: true
-										    }))
-										    if(created) { // If it was created, assoiate it with event
-										    	console.log("Created: "+created);
-										    	tevent.addCategory(created);
-										    } else { // It existed, associated it with event.
-										    	tevent.addCategory(cat);
-										    	console.log("Added: "+cat);
-										    }
-										})
-						    		}
-						    	}
+							  		if (e.properties["UID"]) {
+							  			newRecord.uid = e.properties["UID"][0]["value"];
+							  		}
+							  	
+							  		if (e.properties["DESCRIPTION"]) {
+							  			newRecord.description = String(e.properties["DESCRIPTION"][0]["value"]);
+							  		}
+							  		if (e.properties["DTSTAMP"]) {
+							  			newRecord.dtstamp = e.properties["DTSTAMP"][0]["value"];
+							  		}
+							  		if (e.properties["DTSTART"]) {
+							  			newRecord.dtstart = e.properties["DTSTART"][0]["value"];
+							  		}
+							  		if (e.properties["DTEND"]) {
+							  			newRecord.dtend = e.properties["DTEND"][0]["value"];
+							  		}
+							  		if (e.properties["CONTACT"]) {
+							  			newRecord.contact = e.properties["CONTACT"][0]["value"];
+							  		}
+							  		if (e.properties["COMMENT"]) {
+							  			newRecord.comment = e.properties["COMMENT"][0]["value"];
+							  		}
+							  	
+							  		if (e.properties["DURATION"]) {
+							  			newRecord.duration = e.properties["DURATION"][0]["value"];
+							  		}
+							  		if (e.properties["EXDATE"]) {
+							  			newRecord.exdate = e.properties["EXDATE"][0]["value"];
+							  		}
+							  		if (e.properties["RRULE"]) {
+							  			newRecord.rrule = e.properties["RRULE"][0]["value"];
+							  		}
+							  		if (e.properties["RDATE"]) {
+							  			newRecord.rdate = e.properties["RDATE"][0]["value"];
+							  		}
+							  		if (e.properties["LOCATION"]) {
+							  			newRecord.location = e.properties["LOCATION"][0]["value"];
+							  		}	  		
+							  		if (e.properties["SEQUENCE"]) {
+							  			newRecord.sequence = e.properties["SEQUENCE"][0]["value"];
+							  		}
+							  		if (e.properties["SUMMARY"]) {
+							  			newRecord.summary = e.properties["SUMMARY"][0]["value"];
+							  		}
+							  		if (e.properties["URL"]) {
+							  			newRecord.url = e.properties["URL"][0]["value"];
+							  		}
+							  		if (e.properties["X-TICKETS-URL"]) {
+							  			newRecord.x_tickets_url = e.properties["X-TICKETS-URL"][0]["value"];
+							  		}
+							  		if (e.properties["X-INSTANT-EVENT"]) {
+							  			newRecord.x_instant_event = e.properties["X-INSTANT-EVENT"][0]["value"];
+							  		}
+							  		if (e.properties["X-COST"]) {
+							  			newRecord.x_cost = e.properties["X-COST"][0]["value"];
+							  		}
+							  		if (e.properties["CATEGORIES"]) {
+							  			var categories = String(e.properties["CATEGORIES"][0]["value"]).split("\,");
+							  			for (var i in categories){
+							  				categories[i] = categories[i].replace("\\", "");
+							  				categories[i] = decodeURI(categories[i]);
+							  			};
+							  		}
+							  		if (e.properties["GEO"]) {
+							  			var geo = String(e.properties["GEO"][0]["value"]).split(";");
+							  			locale = String(newRecord.location).split(","); // Split by ,
+							  			
+							  			formatted_address = String(locale[0]).split("@"); // Formatting issue
+							  			var location = {
+							  				name: formatted_address[0],
+							  				address: formatted_address[1],
+							  				city: locale[1],
+							  				country: locale[3],
+							  				longitude: geo[1],
+							  				latitude: geo[0]
+						 	  			}
+						 	  			
+						 	  			if (locale[2]){
+							  				prov = locale[2].split(" ");
+							  				location["province"] = prov[1];
+							  				location["postal_code"] = String(prov[2]+" "+prov[3]);
+							  			} else {
+							  				location["province"] = "";
+							  				location["postal_code"] = "";
+							  			}
+							  		}
 
-						   		// If location actually had a value.
-						   		if (location) {
-						   			// Find the Venue or Create it and Associate it with the Event.
-						   			Venue.findOrCreate({where: location, defaults: location}).spread( function(venue, venue_created){
-							   			if (venue_created){ // Venue did not exist, create it, and then associate to event.
-							   				event_created.venueId = venue_created.id;
-						   					event_created.save();
-							   			} else{ // Venue existed, associate to even
-							   				event_created.venueId = venue.id;
-						   					event_created.save();
-							   			}
-							   		})
-						   		}	
-						    } else {
+							  		Event.findOrCreate({where: {uid: newRecord.uid}, defaults: newRecord}).spread( function(tevent, event_created){
+									    if(event_created) {
+									   		for (x in categories) { // Loop through categories
+									    		if (categories[x].length > 0 ) { // If category is not empty
+									    			// Find the category in DB / create it
+									    			Category.findOrCreate({where: {category_name: categories[x].trim()}, defaults: {category_name: categories[x].trim()}}).spread( function(cat, created){
+											  			console.log(cat.get({
+													      plain: true
+													    }))
+													    if(created) { // If it was created, assoiate it with event
+													    	tevent.addCategory(created);
+													    } else { // It existed, associated it with event.
+													    	tevent.addCategory(cat);
+													    }
+													})
+									    		}
+									    	}
 
-						    	for (x in categories) { // Loop through categories
-						    		if (categories[x].length > 0 ) { // If category is not empty
-						    			// Find the category in DB / create it
-						    			Category.findOrCreate({where: {category_name: categories[x].trim()}, defaults: {category_name: categories[x].trim()}}).spread( function(cat, created){
-								  			console.log(cat.get({
-										      plain: true
-										    }))
-										    if(created) { // If it was created, assoiate it with event
-										    	console.log("Created: "+created);
-										    	tevent.addCategory(created);
-										    } else { // It existed, associated it with event.
-										    	tevent.addCategory(cat);
-										    	console.log("Added: "+cat);
-										    }
-										})
-						    		}
-						    	}
-
-						    	if (location) {
-						    		// Find the Venue or Create it and Associate it with the Event.
-							    	Venue.findOrCreate({where: location, defaults: location}).spread( function(venue, venue_created){
-							   			if (venue) { // Venue existed, associate to event
-							   				tevent.venueId = venue.id;
-							   				tevent.save();
-							   			} else {	// Venue did not exist, create it, and then associate to event.
-							   				tevent.venueId = venue_created.id;
-							   				tevent.save();
-							   			}	
-								   	})
-						    	}	
-						    }
-				  		})
-				  	});
+									   		// If location actually had a value.
+									   		if (location) {
+									   			// Find the Venue or Create it and Associate it with the Event.
+									   			Venue.findOrCreate({where: location, defaults: location}).spread( function(venue, venue_created){
+										   			if (venue_created){ // Venue did not exist, create it, and then associate to event.
+										   				event_created.venueId = venue_created.id;
+									   					event_created.save();
+										   			} else{ // Venue existed, associate to even
+										   				event_created.venueId = venue.id;
+									   					event_created.save();
+										   			}
+										   		})
+									   		}	
+									    } else {
+									    	for (x in categories) { // Loop through categories
+									    		if (categories[x].length > 0 ) { // If category is not empty
+									    			// Find the category in DB / create it
+									    			Category.findOrCreate({where: {category_name: categories[x].trim()}, defaults: {category_name: categories[x].trim()}}).spread( function(cat, created){
+											  			console.log(cat.get({
+													      plain: true
+													    }))
+													    if(created) { // If it was created, assoiate it with event
+													    	tevent.addCategory(created);
+													    } else { // It existed, associated it with event.
+													    	tevent.addCategory(cat);
+													    }
+													})
+									    		}
+									    	}
+									    	if (location) {
+									    		// Find the Venue or Create it and Associate it with the Event.
+										    	Venue.findOrCreate({where: location, defaults: location}).spread( function(venue, venue_created){
+										   			if (venue) { // Venue existed, associate to event
+										   				tevent.venueId = venue.id;
+										   				tevent.save();
+										   			} else {	// Venue did not exist, create it, and then associate to event.
+										   				tevent.venueId = venue_created.id;
+										   				tevent.save();
+										   			}	
+											   	})
+									    	}	
+									    }
+							  		})
+							  	})
+							]);													
+						});
+					});
 				}
-				console.log('Done');
 			  } 
 			});
 		});
