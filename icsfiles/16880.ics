@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//108.60.19.6//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://aceeonline.org
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-147529@aceeonline.org
+DTSTAMP:20150921T224703Z
+CATEGORIES;LANGUAGE=en-US:Monthly ACEE Meetings
+CONTACT:Mya Martin-Glenn\; mlmartin-glenn@aps.k12.co.us
+DESCRIPTION:<p><strong>AGENDA: </strong></p>
+DTSTART;TZID=America/Denver:20151016T083000
+DTEND;TZID=America/Denver:20151016T120000
+LOCATION:Aurora Public Schools
+SEQUENCE:0
+SUMMARY:October ACEE Meeting
+URL:http://aceeonline.org/event/october-acee-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-147530@aceeonline.org
+DTSTAMP:20150921T224703Z
+CATEGORIES;LANGUAGE=en-US:Monthly ACEE Meetings
+CONTACT:Patti Turner\; pturner@lps.k12.co.us
+DESCRIPTION:<p><strong>AGENDA: </strong></p>
+DTSTART;TZID=America/Denver:20151120T083000
+DTEND;TZID=America/Denver:20151120T120000
+GEO:+39.61178;-105.008017
+LOCATION:Littleton Public Schools @ 5776 South Crocker Street\, Littleton\,
+  CO 80120\, USA
+SEQUENCE:0
+SUMMARY:November ACEE Meeting
+URL:http://aceeonline.org/event/november-acee-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-147531@aceeonline.org
+DTSTAMP:20150921T224703Z
+CATEGORIES;LANGUAGE=en-US:Monthly ACEE Meetings
+CONTACT:Julie O'Brian\; julie.obrian@ucdenver.edu
+DESCRIPTION:<p><strong>AGENDA:</strong></p>
+DTSTART;TZID=America/Denver:20160115T083000
+DTEND;TZID=America/Denver:20160115T120000
+LOCATION:UCD
+SEQUENCE:0
+SUMMARY:January ACEE Meeting
+URL:http://aceeonline.org/event/january-acee-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-147532@aceeonline.org
+DTSTAMP:20150921T224703Z
+CATEGORIES;LANGUAGE=en-US:Monthly ACEE Meetings
+CONTACT:Dick Reed\; Dick.Reed@adams12.org
+DESCRIPTION:<p><strong>AGENDA:</strong></p>
+DTSTART;TZID=America/Denver:20160219T083000
+DTEND;TZID=America/Denver:20160219T120000
+LOCATION:Adams 12 School District
+SEQUENCE:0
+SUMMARY:February ACEE Meeting
+URL:http://aceeonline.org/event/february-acee-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-147533@aceeonline.org
+DTSTAMP:20150921T224703Z
+CATEGORIES;LANGUAGE=en-US:Monthly ACEE Meetings
+CONTACT:Rochanda Jackson\; rochanda_jackson@dpsk12.org
+DESCRIPTION:<p><strong>AGENDA:</strong></p>
+DTSTART;TZID=America/Denver:20160415T083000
+DTEND;TZID=America/Denver:20160415T120000
+LOCATION:Denver Public Schools
+SEQUENCE:0
+SUMMARY:April ACEE Meeting
+URL:http://aceeonline.org/event/april-acee-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-147534@aceeonline.org
+DTSTAMP:20150921T224703Z
+CATEGORIES;LANGUAGE=en-US:Monthly ACEE Meetings
+CONTACT:Brigitte Mutter\; brigitte.mutter@bvsd.org
+DESCRIPTION:<p><strong>AGENDA:</strong></p>
+DTSTART;TZID=America/Denver:20160520T083000
+DTEND;TZID=America/Denver:20160520T120000
+LOCATION:Boulder Valley School District
+SEQUENCE:0
+SUMMARY:May ACEE Meeting
+URL:http://aceeonline.org/event/may-acee-meeting/
+END:VEVENT
+END:VCALENDAR

@@ -1,17 +1,11 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>413 Request Entity Too Large</title>
-  </head>
-  <body>
-    <h1>Error 413 Request Entity Too Large</h1>
-    <p>Request Entity Too Large</p>
-    <h3>Guru Meditation:</h3>
-    <p>XID: 535159417</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+Size of a request header field exceeds server limit.<br />
+<pre>
+cookie
+</pre>/n</p>
+</body></html>

@@ -160,17 +160,17 @@ var the_ajax_script = {"ajaxurl":"http:\/\/mistywatershoa.com\/wp-admin\/admin-a
         <div class='slider-wrapper theme-default'>
             <div class='ribbon'></div>
             <div id='metaslider_34' class='nivoSlider'>
-                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/Misty-Waters-Marina2-700x300.jpg" height="300" width="700" alt="" class="slider-34 slide-17" />
-                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/misty_waters1-684x293.jpg" height="300" width="700" alt="" class="slider-34 slide-12" />
-                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/Misty-Waters-Clubhouse-GIS-Photo-8.27.13-700x300.jpg" height="300" width="700" alt="" class="slider-34 slide-33" />
-                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/37_2173673_0_1376485964_636x435-580x248.jpg" height="300" width="700" alt="" class="slider-34 slide-23" />
-                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/original-700x300.jpg" height="300" width="700" alt="" class="slider-34 slide-19" />
-                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/mistywatersa-455x195.jpg" height="300" width="700" alt="" class="slider-34 slide-13" />
-                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/37_2097521_0_1347175650_636x435-580x248.jpg" height="300" width="700" alt="" class="slider-34 slide-21" />
-                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/mistywatersb-457x195.jpg" height="300" width="700" alt="" class="slider-34 slide-14" />
-                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/mistywatersc-456x195.jpg" height="300" width="700" alt="" class="slider-34 slide-15" />
                 <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/37_2106191_0_1349847887_636x435-580x248.jpg" height="300" width="700" alt="" class="slider-34 slide-22" />
+                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/Misty-Waters-Clubhouse-GIS-Photo-8.27.13-700x300.jpg" height="300" width="700" alt="" class="slider-34 slide-33" />
+                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/37_2097521_0_1347175650_636x435-580x248.jpg" height="300" width="700" alt="" class="slider-34 slide-21" />
+                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/original-700x300.jpg" height="300" width="700" alt="" class="slider-34 slide-19" />
+                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/mistywatersc-456x195.jpg" height="300" width="700" alt="" class="slider-34 slide-15" />
+                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/Misty-Waters-Marina2-700x300.jpg" height="300" width="700" alt="" class="slider-34 slide-17" />
                 <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/Misty-Waters-Marina1-700x300.jpg" height="300" width="700" alt="" class="slider-34 slide-16" />
+                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/37_2173673_0_1376485964_636x435-580x248.jpg" height="300" width="700" alt="" class="slider-34 slide-23" />
+                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/misty_waters1-684x293.jpg" height="300" width="700" alt="" class="slider-34 slide-12" />
+                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/mistywatersb-457x195.jpg" height="300" width="700" alt="" class="slider-34 slide-14" />
+                <img src="http://mistywatershoa.com/wp-content/uploads/2015/05/mistywatersa-455x195.jpg" height="300" width="700" alt="" class="slider-34 slide-13" />
             </div>
         </div>
         
@@ -216,7 +216,7 @@ var the_ajax_script = {"ajaxurl":"http:\/\/mistywatershoa.com\/wp-admin\/admin-a
 												<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8"  aria-required="true" required="required"></textarea></p>						
 						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='41' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="63bb63c70a" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="151"/></p>					</form>
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="dcc8a88a0c" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="184"/></p>					</form>
 							</div><!-- #respond -->
 			</div><!-- #comments -->
 			</div><!-- #content -->
@@ -243,7 +243,7 @@ var the_ajax_script = {"ajaxurl":"http:\/\/mistywatershoa.com\/wp-admin\/admin-a
 					<input type="hidden" name="redirect_to" value="/visitors-home/?redirect_to=/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events" />
 					<input type="hidden" name="testcookie" value="1" />
 					<input type="hidden" class="force_ssl_login" value="false"/>
-					<input type="hidden" name="security" value="14da037619"/>
+					<input type="hidden" name="security" value="7670ab4be2"/>
 					</p>
 					</form>
 					<ul>
@@ -264,7 +264,7 @@ var the_ajax_script = {"ajaxurl":"http:\/\/mistywatershoa.com\/wp-admin\/admin-a
 					<input type="hidden" name="wp-submit" value="yes">
 					<input type="hidden" name="redirect_to" value="/visitors-home/?redirect_to=/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&reset=true" />
 					<input type="hidden" name="testcookie" value="1" />
-					<input type="hidden" name="security" value="14da037619"/>
+					<input type="hidden" name="security" value="7670ab4be2"/>
 					<p>
 					</form>
 					<ul><li><a class="sp-flipping-link" href='#sp-login'>Back to login</a></li></ul>

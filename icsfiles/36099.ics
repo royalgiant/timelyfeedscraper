@@ -23,23 +23,8 @@ TZNAME:CDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-104@www.thesweatshopfitnesscenter.com
-DTSTAMP:20150920T002123Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>This class is led by Lisa Moore and Heather Dempsey.</p>
-DTSTART;TZID=America/Chicago:20150919T083000
-DTEND;TZID=America/Chicago:20150919T091500
-EXDATE;TZID=America/Chicago:20151225T083000
-RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
-SEQUENCE:0
-SUMMARY:SPIN cycling class
-URL:http://www.thesweatshopfitnesscenter.com/event/spin-cycling-class-2/
-X-COST:See flyer for rates
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-95@www.thesweatshopfitnesscenter.com
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224703Z
 CATEGORIES;LANGUAGE=en:Low Impact Aerobics
 CONTACT:
 DESCRIPTION:<p>This class is 30 min of cardio and 30 min of strength traini
@@ -55,7 +40,7 @@ URL:http://www.thesweatshopfitnesscenter.com/event/low-impact-aerobics/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-80@www.thesweatshopfitnesscenter.com
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224703Z
 CATEGORIES;LANGUAGE=en:HIIT
 CONTACT:
 DESCRIPTION:<p>This class is a 30 minute High Intensity Interval Training c
@@ -73,7 +58,7 @@ URL:http://www.thesweatshopfitnesscenter.com/event/hiit/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-79@www.thesweatshopfitnesscenter.com
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224703Z
 CATEGORIES;LANGUAGE=en:Zumba
 CONTACT:
 DESCRIPTION:<p>This class is one hour of fitness dance. It is led by Julie 
@@ -88,7 +73,7 @@ URL:http://www.thesweatshopfitnesscenter.com/event/zumba/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-103@www.thesweatshopfitnesscenter.com
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224703Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>This is led by Lisa Moore and Heather Dempsey.</p>
@@ -103,7 +88,7 @@ X-COST:See flyer for prices
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-94@www.thesweatshopfitnesscenter.com
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224703Z
 CATEGORIES;LANGUAGE=en:Zumba
 CONTACT:
 DESCRIPTION:<p>This class is one hour of fitness dance. This class is led b
@@ -115,5 +100,20 @@ RRULE:FREQ=WEEKLY;BYDAY=TU,TH;WKST=SU
 SEQUENCE:0
 SUMMARY:Zumba
 URL:http://www.thesweatshopfitnesscenter.com/event/zumba-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-104@www.thesweatshopfitnesscenter.com
+DTSTAMP:20150921T224703Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>This class is led by Lisa Moore and Heather Dempsey.</p>
+DTSTART;TZID=America/Chicago:20150926T083000
+DTEND;TZID=America/Chicago:20150926T091500
+EXDATE;TZID=America/Chicago:20151225T083000
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:SPIN cycling class
+URL:http://www.thesweatshopfitnesscenter.com/event/spin-cycling-class-2/
+X-COST:See flyer for rates
 END:VEVENT
 END:VCALENDAR

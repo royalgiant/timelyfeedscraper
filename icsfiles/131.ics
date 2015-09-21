@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wartungsmodus</title>
+        <meta name="author" content="Designmodo" />
+        <meta name="description" content="cuxland-maedels.de - Just another WordPress site" />
+        <meta name="keywords" content="Wartungsmodus" />
+        <meta name="robots" content="index, follow" />
+                        <link rel="stylesheet" href="http://cuxland-maedels.de/wp-content/plugins/wp-maintenance-mode/assets/css/style.css">
+                <style>.wrap h1 { color: FFFFFF; }.wrap h2 { color: FFFFFF; }.background { background: url(http://cuxland-maedels.de/wp-content/uploads/2015/07/Maintenence_back1.jpg) no-repeat center top fixed; background-size: cover; }.wrap .countdown span { color: FFFFFF; }.wrap h3, .wrap .subscribe_wrapper { color: FFFFFF; }</style>    </head>
+    <body class="background">
+        <div class="wrap">
+            <h1>Wartungsmodus</h1>            <h2><p>Hier entsteht die Internetpräsenz</p>
+<h1> cuxland-maedels.de</h1>
+<p> Besuchen Sie uns recht bald wieder</p></h2>
+            
+            
+                                        <div class="contact">
+                                        <div class="form move_top">
+                        <form class="contact_form">
+                            <p class="col"><input type="text" placeholder="Name" data-rule-required="true" name="name" class="name_input" /></p>
+                            <p class="col last"><input type="text" placeholder="E-Mail" data-rule-required="true" data-rule-email="true" name="email" class="email_input" /></p>
+                            <br clear="all" />
+                            <p><textarea placeholder="Deine Mitteilung" data-rule-required="true" name="content" class="content_textarea"></textarea></p>
+                            <p class="submit"><input type="submit" value="Senden"></p>
+                        </form>
+                    </div>
+                </div>                
+
+                <a class="contact_us" href="javascript:void(0);" data-open="move_top" data-close="move_bottom">Kontaktiere uns</a>
+            
+                            <div class="author_link">
+                    <a href="http://cuxland-maedels.de/wp-admin/">Dashboard</a>
+                </div>
+                
+        </div>
+
+        <script type='text/javascript'>
+            var wpmm_vars = {"ajax_url": "http://cuxland-maedels.de/wp-admin/admin-ajax.php"};
+        </script>
+                        <script src="http://cuxland-maedels.de/wp-includes/js/jquery/jquery.js"></script>
+                                <script src="http://cuxland-maedels.de/wp-content/plugins/wp-maintenance-mode/assets/js/scripts.js"></script>
+                                <script src="http://cuxland-maedels.de/wp-content/plugins/wp-maintenance-mode/assets/js/jquery.validate.min.js"></script>
+                    </body>
+</html>

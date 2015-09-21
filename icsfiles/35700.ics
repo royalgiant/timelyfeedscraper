@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//202.166.207.19//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://202.166.207.19/marketing-buddy
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-36946@202.166.207.19/marketing-buddy
+DTSTAMP:20150921T224747Z
+CATEGORIES;LANGUAGE=en-US:Conference
+CONTACT:ABA\; http://www.aba.com/Training/Conferences/Pages/MKTG.aspx
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://202.166.207.19/marketing-buddy/wp-content/uploads/2014/10/Untitled13-30
+ 0x200.png' width='300' height='200' /></div><p>Explore the latest thinking
+   from experts you can trust. Topics covered include:  Strategic Agility\;
+  Sales and Customer Service\; Multi-Channel Communications\; Digital\; Bra
+ nd Management\;. Mobile Banking\; Big Data\; and much more.<br />\nTransfo
+ rm your bank into a customer-centric organization to drive growth and rele
+ vancy well into the future. Set your expectations. See you at HiX!</p>
+DTSTART;VALUE=DATE:20151004
+DTEND;VALUE=DATE:20151007
+LOCATION:Hyatt Regency Denver @ Denver\, CO\, USA
+SEQUENCE:0
+SUMMARY:ABA Marketing and Retail Conference 2014
+URL:http://202.166.207.19/marketing-buddy/event/aba-marketing-and-retail-co
+ nference-2014/
+X-TICKETS-URL:http://www.aba.com/Training/Conferences/Pages/MKTG_register.a
+ spx
+END:VEVENT
+END:VCALENDAR

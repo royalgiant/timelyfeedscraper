@@ -1,0 +1,1545 @@
+<script type="text/javascript" src="http://www.decryptageo.fr/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title> DécryptaGéo, l&#039;information géographique</title>
+
+<link rel="stylesheet" href="http://www.decryptageo.fr/wp-content/themes/wp-clear321/style.css" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="http://www.decryptageo.fr/wp-content/themes/wp-clear321/style-font.css" type="text/css" media="screen" />
+
+<link rel="shortcut icon" href="http://decryptageo.fr/wp-content/themes/wp-clear321/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://decryptageo.fr/wp-content/themes/wp-clear321/favicon.ico" type="image/x-icon">
+
+	<!-- Responsive Design Resources -->
+	<link rel="stylesheet" href="http://www.decryptageo.fr/wp-content/themes/wp-clear321/style-responsive.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+
+<link rel="pingback" href="http://www.decryptageo.fr/xmlrpc.php" />
+
+<link rel="alternate" type="application/rss+xml" title="DécryptaGéo, l&#039;information géographique &raquo; Flux" href="http://decryptageo.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="DécryptaGéo, l&#039;information géographique &raquo; Flux des commentaires" href="http://decryptageo.fr/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.decryptageo.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='http://www.decryptageo.fr/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.6.17' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/plugins/cookie-banner/js/jquery-cookie-master/jquery.cookie.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/themes/wp-clear321/js/flexslider.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/themes/wp-clear321/js/external.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/themes/wp-clear321/js/suckerfish.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/themes/wp-clear321/js/suckerfish-cat.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/themes/wp-clear321/js/jquery.mobilemenu.js?ver=4.3.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.decryptageo.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.decryptageo.fr/wp-includes/wlwmanifest.xml" /> 
+
+<script>
+            
+            jQuery( document ).ready( function( $ ) {
+
+                function fadeOutCookieBanner( callback ) {
+
+                    $( '.cookieBannerContainer' ).fadeOut( 1000, function() { callback } );
+
+                }
+
+                function setCookieBannerCookie() {
+                
+                    $.cookie( 'cookie_banner', false, { expires: 31, path: '/' } ); 
+                    
+                }
+
+                $( '.cookieBannerRemove, .cookieBannerRemoveResponsive' ).on( 'click', function() {
+
+                    fadeOutCookieBanner( setCookieBannerCookie() );
+                    
+                });
+
+                
+
+            });
+            
+        </script><style>
+            
+            .cookieBannerContainer
+            {
+                padding: 0px 5%;
+                position: fixed;
+                top: 0px;
+                height: 24px;
+                line-height: 24px;
+                background: #636363;
+                color: #ffffff;
+                z-index: 9999;
+                font-size: 11px;
+                opacity: 0.8;
+                text-align: right;
+                left: 0px;
+                right: 0px;
+            }
+
+            .cookieBannerText
+            {
+                text-align: left;
+                display: inline-block;
+                float: left;
+            }
+
+            .cookieBannerText a,
+            .cookieBannerText a:link,
+            .cookieBannerText a:visited,
+            .cookieBannerText a:hover,
+            .cookieBannerText a:active,
+            .cookieBannerText a:focus
+            {
+                color: #ffffff;
+            }  
+
+            .cookieBannerRemove
+            {
+                display: inline-block;
+                float: right;
+                border: 1px solid #3f3f3f;
+                height: 15px;
+                line-height: 15px;
+                background: #727272;
+                padding: 1px 5px;
+                cursor: pointer;
+                color: #ffffff;
+                margin-top: 2px;
+            }
+
+            .cookieBannerRemove:hover
+            {
+                background: #939393;
+                color: #ffffff;
+                border-color: #ffffff;
+            }
+
+            .cookieBannerRemoveContainer
+            {
+                line-height: 24px;
+                height: 24px;
+            }
+
+            .cookieBannerRemoveResponsive
+            {
+                display: none;
+                float: right;     
+                cursor: pointer;
+                color: #ffffff;
+                position: absolute;
+                top: 0px;
+                right: 5%;
+            }
+
+            @media only screen and (min-width : 0px) and ( max-width : 700px ) { 
+
+                .cookieBannerRemove
+                {
+                    display: none;
+                }
+
+                .cookieBannerRemoveResponsive
+                {
+                    display: inline-block;
+                    right: 2%;
+                }
+
+                .cookieBannerContainer
+                {
+                    padding: 0px 2%;
+                }
+
+                .cookieBannerText
+                {
+                    font-size: 9px;
+                    width: 95%;
+                }
+
+            }</style>
+<!-- Alternate Stylesheet -->
+<link href="http://www.decryptageo.fr/wp-content/themes/wp-clear321/styles/default.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Styles from Theme Setting Page -->
+<style type="text/css">
+body {background-image:url(http://decryptageo.fr/img/pattern-background-geodecryptage.jpg);background-repeat:repeat;background-attachment:fixed;background-position:top left;color:#000000;}
+a,a:link,a:visited {color:#57433a;}
+a:hover,a:active {color:#cad137;}
+.post-title a,.post-title a:link,.post-title a:visited {color:#57433a !important;}
+.post-title a:hover,.post-title a:active {color:#cad137 !important;}
+#sitetitle .title,#sitetitle .description {float:none;text-indent:-999em;position:absolute;display:none;left:-999em;}
+#topnav,#topnav ul ul a {font-size:12pt;background:#57433a;}
+#topnav ul a,#topnav ul ul a {color:#ffffff;}
+#topnav ul a:hover,#topnav ul ul a:hover {color:#ffffff;}
+#topnav ul a:hover,#topnav ul ul a:hover {background-color:#000000;}
+#catnav,#catnav ul ul a {font-size:10pt;background-color:#57433a;}
+#catnav ul a,#catnav ul ul a {color:#ffffff;}
+#catnav ul a:hover,#catnav ul ul a:hover {color:#000000;}
+#catnav ul a:hover,#catnav ul ul a:hover {background-color:#cad137;}
+.maincontent a, .maincontent a:link, .maincontent a:visited, #content a, #content a:link, #content a:visited {color:#000000;}
+.maincontent a:hover, .maincontent a:active, #content a:hover, #content a:active {color:#cad137;}
+#contentright a, #contentright a:link, #contentright a:visited {color:#57433a;}
+#contentright a:hover, #contentright a:active {color:#cad137;}
+a.comment-reply-link,a.comment-reply-link:link,a.comment-reply-link:visited,#commentform input#submit,.archive-tabs a,.archive-tabs a:link,.archive-tabs a:visited,a.more-link,a.more-link:link,a.more-link:visited,p.email-form .subbutton,#searchform #submitbutton {border-color:#cac2bf;background-color:#cac2bf;}
+a.comment-reply-link,a.comment-reply-link:link,a.comment-reply-link:visited,#commentform input#submit,.archive-tabs a,.archive-tabs a:link,.archive-tabs a:visited,a.more-link,a.more-link:link,a.more-link:visited,p.email-form .subbutton,#searchform #submitbutton {color:#ffffff !important;}
+a.comment-reply-link:hover,a.comment-reply-link:active,#commentform input#submit:hover,.archive-tabs a:hover,.archive-tabs a:active,.archive-tabs .ui-tabs-selected a,a.more-link:hover,a.more-link:active,p.email-form .subbutton:hover,#searchform #submitbutton:hover {border-color:#cad137;background-color:#cad137;}
+a.comment-reply-link:hover,a.comment-reply-link:active,#commentform input#submit:hover,.archive-tabs a:hover,.archive-tabs a:active,.archive-tabs .ui-tabs-selected a,a.more-link:hover,a.more-link:active,p.email-form .subbutton:hover,#searchform #submitbutton:hover {color:#ffffff !important;}
+#footer {background:#57433a;}
+</style>
+
+<!-- Styles from custom.css -->
+<link href="http://www.decryptageo.fr/wp-content/themes/wp-clear321/custom.css" rel="stylesheet" type="text/css" />
+
+	<!-- MobileMenu JS -->
+	<script type="text/javascript">
+		jQuery(function () {
+			jQuery('.nav').mobileMenu({ defaultText: 'Navigate to ...' });
+			jQuery('.catnav').mobileMenu({ defaultText: 'Navigate to ... ', className: 'select-menu-catnav' });
+		});
+	</script>
+
+	<!-- Media Queries Script for IE8 and Older -->
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//decryptageo.fr/?wordfence_logHuman=1&hid=10C11197B3B1BC34A39FF82C1202DB24');
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6201276-22']);
+  _gaq.push(['_setDomainName', 'decryptageo.fr']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body class="home blog sn-c-sw">
+
+<div class="outer-wrap">
+
+			<div id="topnav">
+			<div class="limit">
+				<ul class="nav clearfix">
+					<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://decryptageo.fr/a-propos/">Qui sommes-nous ?</a></li>
+<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180"><a href="http://decryptageo.fr/publicite/">Publicité</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://decryptageo.fr/contact/">Contact</a></li>
+					
+					
+					<!--<li class="rss-comments"><a title="Comments RSS Feed" href="http://decryptageo.fr/comments/feed/">Commentaires</a></li>-->
+					<li class="rss-content"><a title="Posts RSS Feed" href="http://decryptageo.fr/feed/" target=_blank>RSS</a></li>
+					<li style="float: right;"><a title="Inscription" href="http://decryptageo.fr/identification" style="display: inline">Inscription</a> / <a title="Connexion" href="http://decryptageo.fr/connexion" style="display: inline">Connexion</a></li>
+				</ul>
+			</div>
+			<div style="border-top: 1px dashed #fff; width:100%; height: 1px;padding-bottom:3px"></div>
+		</div>
+	
+	<div id="wrap">
+        <div id="header">
+			<div id="head-content" class="clearfix">
+									<div id="logo">
+						<a href="http://decryptageo.fr" title="DécryptaGéo, l&#039;information géographique"><img src="http://decryptageo.fr/img/logo-decryptageo.jpg" alt="DécryptaGéo, l&#039;information géographique" /></a>
+					</div>
+									<div id="four">
+						<a href="http://decryptageo.fr/le-mag" id="four_one" ><img src="http://www.decryptageo.fr/img/header-le-mag.jpg" alt="LE MAG" /></a>
+						<a href="http://decryptageo.fr/la-news" id="four_two" ><img src="http://www.decryptageo.fr/img/header-la-news.jpg" alt="LA NEWS" /></a>
+						<a href="http://lesrencontres.decryptageo.fr/" id="four_three" ><img src="http://www.decryptageo.fr/img/header-les-rencontres.jpg" alt="LES RENCONTRES" /></a>
+						<a href="http://decryptageo.fr/les-workshops" id="four_four" ><img src="http://www.decryptageo.fr/img/header-les-workshops.jpg" alt="LES WORKSHOPS" /></a>
+					</div>
+							</div>
+		</div>
+
+
+					<div id="catnav">
+				<ul class="catnav clearfix">
+					<li id="menu-item-136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136"><a href="http://decryptageo.fr/category/theme-magazine/a-lactu/">A L&rsquo;actu</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-135"><a href="http://decryptageo.fr/category/theme-magazine/decalageo/">Décalagéo</a></li>
+<li id="menu-item-137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-137"><a href="http://decryptageo.fr/category/theme-magazine/les-cartes-du-mois/">Cartes du mois</a></li>
+<li id="menu-item-134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-134"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/">Dossiers</a>
+<ul class="sub-menu">
+	<li id="menu-item-6785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6785"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/entre-les-murs/">Dossier : Entre les murs</a></li>
+	<li id="menu-item-6629" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6629"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/inondations/">Dossier : Inondations, quoi de neuf ?</a></li>
+	<li id="menu-item-6407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6407"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/dossier-en-scene/">Dossier : En scène !</a></li>
+	<li id="menu-item-6195" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6195"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/dossier-pac/">La PAC en cartes</a></li>
+	<li id="menu-item-5929" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5929"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/reveil-africain/">Dossier Le réveil africain ?</a></li>
+	<li id="menu-item-5727" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5727"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/special-conso/">Dossier Spécial conso</a></li>
+	<li id="menu-item-5580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5580"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/tpechelles/">Dossier très petites échelles</a></li>
+	<li id="menu-item-5264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5264"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/sur-la-route/">Dossier sur le route</a></li>
+	<li id="menu-item-5070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5070"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/geocrowdsourcing/">Dossier Géo-Crowdsourcing</a></li>
+	<li id="menu-item-4766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4766"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/dossier-materiel/">Dossier Matériel</a></li>
+	<li id="menu-item-4364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4364"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/biodiversite/">Dossier Biodiversité</a></li>
+	<li id="menu-item-4191" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4191"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/dg2014/">Dossier Rencontres DécryptaGéo 2014</a></li>
+	<li id="menu-item-3940" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3940"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/tres-grandes-echelles/">Dossier Très grandes échelles</a></li>
+	<li id="menu-item-3682" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3682"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/dossier-hyperspectral/">Dossier Hyperspectral</a></li>
+	<li id="menu-item-3377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3377"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/espaces-vie/">Dossier Espaces de vie</a></li>
+	<li id="menu-item-3072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3072"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/dataviz/">Dossier Dataviz</a></li>
+	<li id="menu-item-2945" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2945"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/formation-continue/">Dossier Formation continue</a></li>
+	<li id="menu-item-2657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2657"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/ville-intelligente/">Dossier Ville intelligente</a></li>
+	<li id="menu-item-2344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2344"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/dossier-internet-des-objets/">Dossier Internet des objets</a></li>
+	<li id="menu-item-1979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1979"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/homospatialus/">Dossier Homo spatialus</a></li>
+	<li id="menu-item-1649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1649"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/rencontres-2013/">Dossier Rencontres SIG La Lettre 2013</a></li>
+	<li id="menu-item-480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="http://decryptageo.fr/category/theme-magazine/les-dossiers/dossier-inspire/">Dossier INSPIRE</a></li>
+</ul>
+</li>
+<li id="menu-item-139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139"><a href="http://decryptageo.fr/category/theme-magazine/reportages/">Reportages</a></li>
+<li id="menu-item-138" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138"><a href="http://decryptageo.fr/category/theme-magazine/portraits/">Portraits</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-169"><a href="http://decryptageo.fr/category/communiques/">Communiqués</a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-170"><a href="http://decryptageo.fr/category/ressources/">Ressources</a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-141"><a href="http://decryptageo.fr/category/menu-barre-verte-2/">Catégories</a>
+<ul class="sub-menu">
+	<li id="menu-item-146" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146"><a href="http://decryptageo.fr/category/menu-barre-verte-2/logiciels/">Logiciels</a></li>
+	<li id="menu-item-143" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143"><a href="http://decryptageo.fr/category/menu-barre-verte-2/donnees/">Données</a></li>
+	<li id="menu-item-148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148"><a href="http://decryptageo.fr/category/menu-barre-verte-2/materielgps/">Matériel/GPS</a></li>
+	<li id="menu-item-150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150"><a href="http://decryptageo.fr/category/menu-barre-verte-2/services/">Services</a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142"><a href="http://decryptageo.fr/category/menu-barre-verte-2/contrats/">Contrats</a></li>
+	<li id="menu-item-152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152"><a href="http://decryptageo.fr/category/menu-barre-verte-2/utilisateurs/">Utilisateurs</a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144"><a href="http://decryptageo.fr/category/menu-barre-verte-2/entreprises/">Entreprises</a></li>
+	<li id="menu-item-145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145"><a href="http://decryptageo.fr/category/menu-barre-verte-2/institutions/">Institutions</a></li>
+	<li id="menu-item-147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-147"><a href="http://decryptageo.fr/category/menu-barre-verte-2/marche/">Marché</a></li>
+	<li id="menu-item-151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151"><a href="http://decryptageo.fr/category/menu-barre-verte-2/standards/">Standards</a></li>
+	<li id="menu-item-149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149"><a href="http://decryptageo.fr/category/menu-barre-verte-2/recherche/">Recherche</a></li>
+	<li id="menu-item-2290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2290"><a href="http://decryptageo.fr/category/menu-barre-verte-2/livres-arts/">Livres, Arts</a></li>
+</ul>
+</li>
+					<li class="search"><form id="searchform" method="get" action="http://decryptageo.fr/" ><input type="text" value="Recherche" onfocus="if (this.value == 'Recherche') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Recherche';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="submit" value="Go" id="submitbutton" /></form>
+</li>
+				</ul>
+			</div>
+		
+		<div id="bannieres">	<div id="banniere1">		<div class="wp_bannerize group">
+<div><a  onclick="WPBannerizeJavascript.incrementClickCount(28)"  href="http://www.aev-iledefrance.fr/application-pan-parcours-appli-nature" rel="nofollow" target="_blank">
+<img src="http://www.decryptageo.fr/wp-content/uploads/2015/09/jeuconcours-pan-aev-banniere-site-partenaire-728x90-v3.png" alt="Grand jeu concours du 5 septembre au 4 octobre" width="728" height="90"/>
+</a>
+</div></div>	</div>	<div id="banniere2">		<div class="wp_bannerize group2">
+<div><a  onclick="WPBannerizeJavascript.incrementClickCount(3)"  href="http://decryptageo.fr/identification/" rel="nofollow" >
+<img src="http://decryptageo.fr/wp-content/uploads/2013/06/banner_abonnement.gif" alt="Bannière abonnement DécryptaGéo" width="200" height="90"/>
+</a>
+</div></div>	</div></div>	<script type="text/javascript">
+//<![CDATA[
+	jQuery(window).load(function() {
+		jQuery('#featured-pages').flexslider({
+			slideshow: true,
+			slideshowSpeed: 6000,
+			directionNav:true,
+			pauseOnHover:true,
+			//manualControls: '.page-custom-controls li a',
+			//controlsContainer: ".page-slider"			
+		});
+	});
+//]]>
+</script>
+
+<div class="featured wide pages">
+
+	<div class="container page-slider clearfix">
+
+		<div id="featured-pages" class="flexslider">
+
+			<ul class="slides">
+
+
+
+	    			<li id="feature-page-1">
+
+					<div class="slide-container clearfix">
+
+													<div class="feature-image"> 
+								<a href="http://decryptageo.fr/remise-du-rapport-ambitionnumerique-au-premier-ministre/" rel="nofollow" title="Lien permanent à Remise du rapport  #AmbitionNumérique au premier ministre">		<img src="http://www.decryptageo.fr/wp-content/uploads/2015/06/Capture-d’écran-2015-06-19-à-18.26.33-600x300.png" alt="Remise du rapport  #AmbitionNumérique au premier ministre" title="Remise du rapport  #AmbitionNumérique au premier ministre" />
+	</a>
+							</div>
+						
+	    					<div class="flex-caption">
+							<div class="excerpt">
+								<h2 class="post-title"><a href="http://decryptageo.fr/remise-du-rapport-ambitionnumerique-au-premier-ministre/" rel="bookmark" title="Lien permanent à Remise du rapport  #AmbitionNumérique au premier ministre">Remise du rapport  #AmbitionNumérique au premier ministre</a></h2>
+								<p>Ce 18 juin, Benoît Thieulin a remis le rapport du CNN au Premier ministre Manuel Valls. 70 propositions y sont faites afin de préparer la future &laquo;&nbsp;Loi Lemaire&nbsp;&raquo;. Parmi celles-ci, l&rsquo;open data comme statut par défaut pour les données publiques. &nbsp; A suivre très prochainement&#8230;. Quelques décryptages http://www.cnnumerique.fr/presentation-enjeux-rapport/ http://www.usine-digitale.fr/editorial/manuel-valls-presente-une-strategie-numerique-francaise-deja-largement-deployee.N336853 La réaction de l&rsquo;AFDEL http://www.afdel.fr/actualites/categorie/actualite-afdel/article/strategie-numerique-du-gouvernement-rapport-ambition-numerique-l-afdel-rejette-une-vision-anti-industrielle-du-numerique La [&hellip;]</p>
+							</div>
+							<p class="readmore"><a class="more-link" href="http://decryptageo.fr/remise-du-rapport-ambitionnumerique-au-premier-ministre/" rel="nofollow" title="Lien permanent à Remise du rapport  #AmbitionNumérique au premier ministre" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+						</div>
+
+					</div>
+
+				</li>
+
+
+
+	    			<li id="feature-page-2">
+
+					<div class="slide-container clearfix">
+
+													<div class="feature-image"> 
+								<a href="http://decryptageo.fr/data-opera-au-sommet-de-letat/" rel="nofollow" title="Lien permanent à Data opéra au sommet de l’État">		<img src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-actus-transport-600x300.jpg" alt="Data opéra au sommet de l’État" title="Data opéra au sommet de l’État" />
+	</a>
+							</div>
+						
+	    					<div class="flex-caption">
+							<div class="excerpt">
+								<h2 class="post-title"><a href="http://decryptageo.fr/data-opera-au-sommet-de-letat/" rel="bookmark" title="Lien permanent à Data opéra au sommet de l’État">Data opéra au sommet de l’État</a></h2>
+								<p>Côté obscur de la force, la loi sur le renseignement permettrait une récupération quasi automatique de données émanant des opérateurs Internet. Côté lumineux, l’État mise sur l’open data pour développer l’économie numérique, la transparence démocratique et l’innovation territoriale. Chronique d’un data opéra. Pas d’État sans data et pas de data sans État ! Et tout le [&hellip;]</p>
+							</div>
+							<p class="readmore"><a class="more-link" href="http://decryptageo.fr/data-opera-au-sommet-de-letat/" rel="nofollow" title="Lien permanent à Data opéra au sommet de l’État" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+						</div>
+
+					</div>
+
+				</li>
+
+
+
+	    			<li id="feature-page-3">
+
+					<div class="slide-container clearfix">
+
+													<div class="feature-image"> 
+								<a href="http://decryptageo.fr/entre-les-murs/" rel="nofollow" title="Lien permanent à Entre les murs">		<img src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-visu_dossier-600x300.jpg" alt="Entre les murs" title="Entre les murs" />
+	</a>
+							</div>
+						
+	    					<div class="flex-caption">
+							<div class="excerpt">
+								<h2 class="post-title"><a href="http://decryptageo.fr/entre-les-murs/" rel="bookmark" title="Lien permanent à Entre les murs">Entre les murs</a></h2>
+								<p>Comment fournir des services de géolocalisation là où les GPS ne passent plus ? Plusieurs techniques coexistent pour des usages qui commencent à trouver leur public. Qui n’a jamais erré dans une tour ultramoderne à la recherche du bureau de son interlocuteur ? Raté un avion car la porte 24D du terminal FZ était à l’autre bout [&hellip;]</p>
+							</div>
+							<p class="readmore"><a class="more-link" href="http://decryptageo.fr/entre-les-murs/" rel="nofollow" title="Lien permanent à Entre les murs" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+						</div>
+
+					</div>
+
+				</li>
+
+
+
+	    			<li id="feature-page-4">
+
+					<div class="slide-container clearfix">
+
+													<div class="feature-image"> 
+								<a href="http://decryptageo.fr/lethiopie-vue-par-les-jeunes/" rel="nofollow" title="Lien permanent à L’Éthiopie vue par les jeunes">		<img src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-actus-carte-ethiopie-carte-600x300.jpg" alt="L’Éthiopie vue par les jeunes" title="L’Éthiopie vue par les jeunes" />
+	</a>
+							</div>
+						
+	    					<div class="flex-caption">
+							<div class="excerpt">
+								<h2 class="post-title"><a href="http://decryptageo.fr/lethiopie-vue-par-les-jeunes/" rel="bookmark" title="Lien permanent à L’Éthiopie vue par les jeunes">L’Éthiopie vue par les jeunes</a></h2>
+								Il a bien fallu définir un gagnant mais le cœur n’y était pas tant le match était serré. Les deux binômes d’élèves de quatrième, l’un parisien, l’autre habitant Gennes dans le Maine-et-Loire qui se sont affrontés lors de la finale du Concours Carto ont planché avec brio sur l’Éthiopie dans							</div>
+							<p class="readmore"><a class="more-link" href="http://decryptageo.fr/lethiopie-vue-par-les-jeunes/" rel="nofollow" title="Lien permanent à L’Éthiopie vue par les jeunes" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+						</div>
+
+					</div>
+
+				</li>
+
+
+
+	    			<li id="feature-page-5">
+
+					<div class="slide-container clearfix">
+
+													<div class="feature-image"> 
+								<a href="http://decryptageo.fr/quand-cest-gratuit-qui-paye/" rel="nofollow" title="Lien permanent à Quand c’est gratuit, qui paye ?">		<img src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-reportage-gratuit-uber-600x300.jpg" alt="Quand c’est gratuit, qui paye ?" title="Quand c’est gratuit, qui paye ?" />
+	</a>
+							</div>
+						
+	    					<div class="flex-caption">
+							<div class="excerpt">
+								<h2 class="post-title"><a href="http://decryptageo.fr/quand-cest-gratuit-qui-paye/" rel="bookmark" title="Lien permanent à Quand c’est gratuit, qui paye ?">Quand c’est gratuit, qui paye ?</a></h2>
+								La gratuité de l’usage est à la base de nombreux services à l’heure d’Internet. Mais toute production a un coût. Si le consommateur ne paye rien, qui paye ? Comment les entreprises gagnent-elles leur vie ? Éléments de réponses lors du dernier colloque organisé par l’ISERAM début avril au titre éloquent « Les<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/quand-cest-gratuit-qui-paye/">Login & Purchase</a></div>
+
+</div></div></div>							</div>
+							<p class="readmore"><a class="more-link" href="http://decryptageo.fr/quand-cest-gratuit-qui-paye/" rel="nofollow" title="Lien permanent à Quand c’est gratuit, qui paye ?" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+						</div>
+
+					</div>
+
+				</li>
+
+
+
+	    			<li id="feature-page-6">
+
+					<div class="slide-container clearfix">
+
+													<div class="feature-image"> 
+								<a href="http://decryptageo.fr/une-geographe-chez-les-statisticiens/" rel="nofollow" title="Lien permanent à Une géographe chez les statisticiens">		<img src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-portrait-baccaini-585x300.jpg" alt="Une géographe chez les statisticiens" title="Une géographe chez les statisticiens" />
+	</a>
+							</div>
+						
+	    					<div class="flex-caption">
+							<div class="excerpt">
+								<h2 class="post-title"><a href="http://decryptageo.fr/une-geographe-chez-les-statisticiens/" rel="bookmark" title="Lien permanent à Une géographe chez les statisticiens">Une géographe chez les statisticiens</a></h2>
+								<p>Femme de passions, Brigitte Baccaïni a su très jeune qu’elle serait géographe. Avant de devenir sous-directrice de l’observation et des analyses statistiques au CGET, elle a fait souffler le vent de la géographie à l’INED, à l’INSEE et en direction régionale de l’agriculture. Avec des outils en poche : la carte et les SIG. Pianiste ou [&hellip;]</p>
+							</div>
+							<p class="readmore"><a class="more-link" href="http://decryptageo.fr/une-geographe-chez-les-statisticiens/" rel="nofollow" title="Lien permanent à Une géographe chez les statisticiens" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+						</div>
+
+					</div>
+
+				</li>
+
+
+			</ul>
+
+
+		</div>
+
+	<!--	<div class="controls-container clearfix">
+
+			<ul class="flexslide-custom-controls page-custom-controls clearfix">
+
+
+
+				<li><a href="#" title="Remise du rapport  #AmbitionNumérique au premier ministre">Remise du rapport  #AmbitionNumérique au premier ministre</a></li>
+
+
+
+				<li><a href="#" title="Data opéra au sommet de l’État">Data opéra au sommet de l’État</a></li>
+
+
+
+				<li><a href="#" title="Entre les murs">Entre les murs</a></li>
+
+
+
+				<li><a href="#" title="L’Éthiopie vue par les jeunes">L’Éthiopie vue par les jeunes</a></li>
+
+
+
+				<li><a href="#" title="Quand c’est gratuit, qui paye ?">Quand c’est gratuit, qui paye ?</a></li>
+
+
+
+				<li><a href="#" title="Une géographe chez les statisticiens">Une géographe chez les statisticiens</a></li>
+
+
+			</ul>
+
+		</div>-->
+
+	</div>
+
+</div>
+		<div id="page" class="clearfix">
+
+			<div class="page-border clearfix">
+
+
+				<div id="contentleft" class="clearfix">
+
+
+					<div id="content" class="clearfix">
+
+						
+																	
+					<h2 class="feature-title"><span><img src="http://www.decryptageo.fr/wp-content/themes/wp-clear321/images/entete-titre.png" alt="!" class="entete-titre" />  Derniers articles</span></h2>
+				
+
+
+
+				<div class="post-7097 post type-post status-publish format-standard hentry category-donnees category-ensemble category-entreprises category-imagerie category-marche category-satellitespatial" id="post-main-7097">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/haute-revolution-spatiale/" rel="bookmark" title="Lien permanent à Haute révolution spatiale">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/WEB-169-dossier-ensemble-skybox-150x76.jpg" alt="Haute révolution spatiale" title="Haute révolution spatiale" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/haute-revolution-spatiale/" rel="bookmark" title="Lien permanent à Haute révolution spatiale">Haute révolution spatiale</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		15 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/haute-revolution-spatiale/#comments" rel="bookmark" title="Commentaires pour Haute révolution spatiale">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								S’il est un domaine en perpétuelle révolution, c’est bien celui de l’observation spatiale. Né à la fin des années soixante-dix, il n’a jamais trouvé son équilibre économique en dehors du soutien institutionnel et militaire. Pourtant, aujourd’hui, il attire toute une série de nouveaux acteurs, qui misent sur l’innovation. Comment survivre<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/haute-revolution-spatiale/">Login & Purchase</a></div>
+
+</div></div></div>		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/haute-revolution-spatiale/" rel="nofollow" title="Lien permanent à Haute révolution spatiale" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="post-7095 post type-post status-publish format-standard hentry category-3d category-donnees category-entreprises category-logiciels category-marche category-reportages" id="post-main-7095">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/un-nouveau-venu-sur-la-3d/" rel="bookmark" title="Lien permanent à Un nouveau venu sur la 3D">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/WEB-169-reportage-Gaiddon-digibati-150x88.jpg" alt="Un nouveau venu sur la 3D" title="Un nouveau venu sur la 3D" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/un-nouveau-venu-sur-la-3d/" rel="bookmark" title="Lien permanent à Un nouveau venu sur la 3D">Un nouveau venu sur la 3D</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		15 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/un-nouveau-venu-sur-la-3d/#comments" rel="bookmark" title="Commentaires pour Un nouveau venu sur la 3D">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								Fabien Gaiddon a lancé mi-juin Digibati, une solution de modélisation 3D largement automatisée. Pour financer sa jeune entreprise, qui compte aujourd’hui moins de dix personnes, il a fait appel au crowdfounding. Il nous détaille son aventure. Comment vous est venue l’idée de Digibati ? En 2008, je travaillais depuis plusieurs années<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/un-nouveau-venu-sur-la-3d/">Login & Purchase</a></div>
+
+</div></div></div>		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/un-nouveau-venu-sur-la-3d/" rel="nofollow" title="Lien permanent à Un nouveau venu sur la 3D" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="post-7093 post type-post status-publish format-standard hentry category-3d category-donnees category-entreprises category-environnement category-marche category-reportages category-reseauxtransports category-secteur-public category-utilisateurs" id="post-main-7093">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/bienvenu-au-souk-de-la-ville-intelligente/" rel="bookmark" title="Lien permanent à Bienvenu au souk de la ville intelligente">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/WEB-169-reportage-innovative-150x84.jpg" alt="Bienvenu au souk de la ville intelligente" title="Bienvenu au souk de la ville intelligente" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/bienvenu-au-souk-de-la-ville-intelligente/" rel="bookmark" title="Lien permanent à Bienvenu au souk de la ville intelligente">Bienvenu au souk de la ville intelligente</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		15 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/bienvenu-au-souk-de-la-ville-intelligente/#comments" rel="bookmark" title="Commentaires pour Bienvenu au souk de la ville intelligente">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								Innovative city serait-il à la ville intelligente ce que le souk est au commerce ? On y trouve de tout, dans un agencement difficile à saisir. On s’y perd un peu mais on découvre des produits inattendus. Cela forme un ensemble plutôt sympathique, où l’on parle toutes les langues, et où<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/bienvenu-au-souk-de-la-ville-intelligente/">Login & Purchase</a></div>
+
+</div></div></div>		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/bienvenu-au-souk-de-la-ville-intelligente/" rel="nofollow" title="Lien permanent à Bienvenu au souk de la ville intelligente" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="post-7091 post type-post status-publish format-standard hentry category-donnees category-formation category-imagerie category-marche category-opendata category-reportages category-utilisateurs" id="post-main-7091">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/le-satellitaire-cherche-ses-usages/" rel="bookmark" title="Lien permanent à Le satellitaire cherche ses usages">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/WEB-169-reportage-geosud-pleiades-150x112.jpg" alt="Le satellitaire cherche ses usages" title="Le satellitaire cherche ses usages" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/le-satellitaire-cherche-ses-usages/" rel="bookmark" title="Lien permanent à Le satellitaire cherche ses usages">Le satellitaire cherche ses usages</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		15 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/le-satellitaire-cherche-ses-usages/#comments" rel="bookmark" title="Commentaires pour Le satellitaire cherche ses usages">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								Malgré des réussites exemplaires et une course en avant aux capteurs, l’observation de la Terre par satellite semble avoir du mal à se développer, surtout en France. Qu’est-ce qui bloque ? Institutionnels, chercheurs et entreprises réunis lors du séminaire Thieia Geosud début juin ont essayé d’analyser la situation. Rien n’y fait.<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/le-satellitaire-cherche-ses-usages/">Login & Purchase</a></div>
+
+</div></div></div>		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/le-satellitaire-cherche-ses-usages/" rel="nofollow" title="Lien permanent à Le satellitaire cherche ses usages" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="post-7089 post type-post status-publish format-standard hentry category-3d category-cadastre category-donnees category-entreprises category-logiciels category-materielgps category-mobilite category-reportages category-secteur-public" id="post-main-7089">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/leica-geosystems-veut-captiver/" rel="bookmark" title="Lien permanent à Leica Geosystems veut « captiver »">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/WEB-169-reportage-Leica-captivate1-150x90.jpg" alt="Leica Geosystems veut « captiver »" title="Leica Geosystems veut « captiver »" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/leica-geosystems-veut-captiver/" rel="bookmark" title="Lien permanent à Leica Geosystems veut « captiver »">Leica Geosystems veut « captiver »</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		15 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/leica-geosystems-veut-captiver/#comments" rel="bookmark" title="Commentaires pour Leica Geosystems veut « captiver »">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								Stations totales de topographie, laser, plateformes d’acquisition massive de données, carnets de terrain, drones&#8230; Leica Geosystems est sur tous les fronts de l’acquisition de données de haute précision. Lors de son tour de France organisé en juin dernier, l’entreprise, entourée de ses revendeurs, a présenté une offre qui mise sur<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/leica-geosystems-veut-captiver/">Login & Purchase</a></div>
+
+</div></div></div>		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/leica-geosystems-veut-captiver/" rel="nofollow" title="Lien permanent à Leica Geosystems veut « captiver »" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="post-7087 post type-post status-publish format-standard hentry category-donnees category-portraits category-secteur-public category-utilisateurs" id="post-main-7087">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/les-pieds-sur-terre-et-la-tete-dans-le-virtuel/" rel="bookmark" title="Lien permanent à Les pieds sur Terre et la tête dans le virtuel">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/WEB-169-portrait-Vernus1-150x100.jpg" alt="Les pieds sur Terre et la tête dans le virtuel" title="Les pieds sur Terre et la tête dans le virtuel" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/les-pieds-sur-terre-et-la-tete-dans-le-virtuel/" rel="bookmark" title="Lien permanent à Les pieds sur Terre et la tête dans le virtuel">Les pieds sur Terre et la tête dans le virtuel</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		15 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/les-pieds-sur-terre-et-la-tete-dans-le-virtuel/#comments" rel="bookmark" title="Commentaires pour Les pieds sur Terre et la tête dans le virtuel">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								<p>Nommée en avril dernier « administrateur général des données » au Grand Lyon, Nathalie Vernus-Prost est directement rattachée au service géomatique et données métropolitaine. La nouvelle métropole devient ainsi la première collectivité à se doter d’un tel poste, montrant son engagement dans une politique active de valorisation de ses données. Portrait d’une femme dynamique qui entend bien [&hellip;]</p>
+		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/les-pieds-sur-terre-et-la-tete-dans-le-virtuel/" rel="nofollow" title="Lien permanent à Les pieds sur Terre et la tête dans le virtuel" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="post-7083 post type-post status-publish format-standard hentry category-a-lactu category-donnees category-institutions category-marche category-opendata category-secteur-public" id="post-main-7083">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/le-appel-du-18-juin/" rel="bookmark" title="Lien permanent à L’e-appel du 18 juin">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/WEB-169-actus-Valls-150x81.jpg" alt="L’e-appel du 18 juin" title="L’e-appel du 18 juin" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/le-appel-du-18-juin/" rel="bookmark" title="Lien permanent à L’e-appel du 18 juin">L’e-appel du 18 juin</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		14 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/le-appel-du-18-juin/#comments" rel="bookmark" title="Commentaires pour L’e-appel du 18 juin">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								<p>18 juin 2015, Benoît Thieulin, président du Conseil national du numérique (CNNum), a remis au Premier ministre Manuel Valls son rapport sur le numérique, fruit de quatre mois de concertation avec quelque cinq mille contributeurs. Il donne les lignes de force de la future loi Lemaire, qui devrait être mise en discussion à la rentrée. [&hellip;]</p>
+		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/le-appel-du-18-juin/" rel="nofollow" title="Lien permanent à L’e-appel du 18 juin" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="post-7081 post type-post status-publish format-standard hentry category-a-lactu category-donnees category-entreprises category-environnement category-grand-public category-materielgps category-utilisateurs" id="post-main-7081">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/vers-une-nouvelle-montre-verte/" rel="bookmark" title="Lien permanent à Vers une nouvelle montre verte ?">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/WEB-169-actus-plume-labs-150x106.jpg" alt="Vers une nouvelle montre verte ?" title="Vers une nouvelle montre verte ?" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/vers-une-nouvelle-montre-verte/" rel="bookmark" title="Lien permanent à Vers une nouvelle montre verte ?">Vers une nouvelle montre verte ?</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		14 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/vers-une-nouvelle-montre-verte/#comments" rel="bookmark" title="Commentaires pour Vers une nouvelle montre verte ?">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								<p>La start-up Plume Labs a fait parler d’elle au printemps en lançant son site puis son application présentant l’état de la pollution dans les grandes villes du monde, exploitant des sources ouvertes. Lors du festival Futur en Seine, elle a fait tester un petit capteur de pollution dans le cadre de l’opération Urban Dirt Lab. [&hellip;]</p>
+		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/vers-une-nouvelle-montre-verte/" rel="nofollow" title="Lien permanent à Vers une nouvelle montre verte ?" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="post-7079 post type-post status-publish format-standard hentry category-cartographie category-decalageo" id="post-main-7079">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/infideles/" rel="bookmark" title="Lien permanent à Infidèles !">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2014/11/françoise_caricature-web-111x150.jpg" alt="Infidèles !" title="Infidèles !" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/infideles/" rel="bookmark" title="Lien permanent à Infidèles !">Infidèles !</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		14 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/infideles/#comments" rel="bookmark" title="Commentaires pour Infidèles !">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								<p>Je me suis toujours demandé ce qu’il advenait des données personnelles piratées. Où partent les identifiants, numéros de sécurité sociale, de carte bleue ? Ils alimentent la face obscure de la toile, aux mains de mafias bien organisées, sont vendus à toutes sortes de délinquants… mais nous en entendons peu parler. Alors que la perte massive [&hellip;]</p>
+		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/infideles/" rel="nofollow" title="Lien permanent à Infidèles !" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="post-7077 post type-post status-publish format-standard hentry category-a-lactu category-cartographie category-donnees category-grand-public category-logiciels" id="post-main-7077">
+
+					<div class="entry clearfix">
+
+						<a href="http://decryptageo.fr/en-trois-mots/" rel="bookmark" title="Lien permanent à En trois mots">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/WEB-169-actus-what3words-150x83.jpg" alt="En trois mots" title="En trois mots" />
+	</a>
+
+						<h2 class="post-title"><a href="http://decryptageo.fr/en-trois-mots/" rel="bookmark" title="Lien permanent à En trois mots">En trois mots</a></h2>
+
+						<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		14 septembre 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/en-trois-mots/#comments" rel="bookmark" title="Commentaires pour En trois mots">0 commentaire</a>
+	</span>
+	 
+
+</div>
+
+								<p>Se repérer partout à la surface du globe ? Que ce soit au milieu du désert ou dans la banlieue de Tokyo ? Vous me direz, nous avons un très bon système pour cela : les coordonnées géographiques. Mais Chris Sheldrick a une idée plus simple, ayant vainement essayé d’indiquer à ses clients l’adresse de leur hôtel ou [&hellip;]</p>
+		<p class="readmore"><a class="more-link" href="http://decryptageo.fr/en-trois-mots/" rel="nofollow" title="Lien permanent à En trois mots" style="color:#000 !important; background-color:transparent !important; border: none !important; text-transform: none !important; font-style: italic !important; font-size: 14px !important;">lire la suite...</a></p>
+	
+
+						<div style="clear:both;"></div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="navigation clearfix">
+			<a href="http://decryptageo.fr/page/2/?plugin=all-in-one-event-calendar&#038;controller=ai1ec_exporter_controller&#038;action=export_events" >Page suivante &raquo;</a>	</div>						
+					</div> <!-- End #content div -->
+
+					
+<div id="sidebar-narrow" class="clearfix">
+	<div id="catposts-widget-2" class="widget catposts"><div class="widget-wrap"><h3 class="widgettitle"><span><img src="http://www.decryptageo.fr/wp-content/themes/wp-clear321/images/entete-titre.png" alt="!" class="entete-titre" /> Dossier  <br> Entre les murs</span></h3><div class='cat-posts-widget textwidget'>
+				<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/entre-les-murs/" rel="bookmark" title="Lien permanent à Entre les murs">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-visu_dossier-150x100.jpg" alt="Entre les murs" title="Entre les murs" />
+	</a>
+						<p class="post-title"><a href="http://decryptageo.fr/entre-les-murs/" rel="bookmark" title="Lien permanent à Entre les murs">Entre les murs</a></p>
+						<p>Comment fournir des services de géolocalisation là où les GPS ne passent plus ? Plusieurs techniques coexistent pour des usages qui commencent à trouver leur public. Qui n’a jamais erré dans une tour ultramoderne à la recherche du bureau de son interlocuteur ? Raté un avion car la porte 24D du terminal FZ était à l’autre bout [&hellip;]</p>
+					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		16 juin 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/entre-les-murs/#comments" rel="bookmark" title="Commentaires pour Entre les murs">1 commentaire</a>
+	</span>
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+						<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/bienvenue-en-terra-indoora/" rel="bookmark" title="Lien permanent à Bienvenue en Terra Indoora">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-dossier-indoor-dubai-84x150.jpg" alt="Bienvenue en Terra Indoora" title="Bienvenue en Terra Indoora" />
+	</a>
+						<p class="post-title"><a href="http://decryptageo.fr/bienvenue-en-terra-indoora/" rel="bookmark" title="Lien permanent à Bienvenue en Terra Indoora">Bienvenue en Terra Indoora</a></p>
+						La nouvelle Terra Incognita n’est pas au fond de la jungle tropicale, elle est au cœur des villes et se nomme indoor. Alors que l’information géographique est une composante essentielle de la gestion des territoires et que les cartes numériques ont envahi nos appareils mobiles, ces derniers commencent à peine<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/bienvenue-en-terra-indoora/">Login & Purchase</a></div>
+
+</div></div></div>					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		16 juin 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/bienvenue-en-terra-indoora/#comments" rel="bookmark" title="Commentaires pour Bienvenue en Terra Indoora">0 commentaire</a>
+	</span>
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+						<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/plans-sur-etageres/" rel="bookmark" title="Lien permanent à Plans sur étagères">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-dossier-indoor-Tevolys2-84x150.jpg" alt="Plans sur étagères" title="Plans sur étagères" />
+	</a>
+						<p class="post-title"><a href="http://decryptageo.fr/plans-sur-etageres/" rel="bookmark" title="Lien permanent à Plans sur étagères">Plans sur étagères</a></p>
+						Comment sont constitués les plans des centres commerciaux, aéroports, stades et autres infrastructures complexes ? Comment sont-ils mis à jour et par qui ? Plusieurs solutions existent. A priori, tout devrait aller vite en matière de cartographie intérieure. Comme elle concerne les bâtiments et infrastructures importants, tous sont déjà décrits par des<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/plans-sur-etageres/">Login & Purchase</a></div>
+
+</div></div></div>					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		16 juin 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/plans-sur-etageres/#comments" rel="bookmark" title="Commentaires pour Plans sur étagères">0 commentaire</a>
+	</span>
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+						<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/a-la-recherche-du-point-bleu/" rel="bookmark" title="Lien permanent à À la recherche du point bleu">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-visu_pointbleu-150x109.jpg" alt="À la recherche du point bleu" title="À la recherche du point bleu" />
+	</a>
+						<p class="post-title"><a href="http://decryptageo.fr/a-la-recherche-du-point-bleu/" rel="bookmark" title="Lien permanent à À la recherche du point bleu">À la recherche du point bleu</a></p>
+						Quelles techniques pour se substituer au GPS ? Chaque année apporte son lot d’idées et de prototypes. Pseudo GPS, WiFi, LiFi, BLE, MEMS&#8230; les acronymes pleuvent mais localiser précisément un appareil mobile tel qu’un smartphone reste affaire de compromis et de mixage. Pas de géolocalisation indoor sans point bleu. Le « blue<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/a-la-recherche-du-point-bleu/">Login & Purchase</a></div>
+
+</div></div></div>					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		16 juin 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/a-la-recherche-du-point-bleu/#comments" rel="bookmark" title="Commentaires pour À la recherche du point bleu">0 commentaire</a>
+	</span>
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+						<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/suivez-le-guide/" rel="bookmark" title="Lien permanent à Suivez le guide">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-dossier-indoor-mobilespot-printemps-81x150.jpg" alt="Suivez le guide" title="Suivez le guide" />
+	</a>
+						<p class="post-title"><a href="http://decryptageo.fr/suivez-le-guide/" rel="bookmark" title="Lien permanent à Suivez le guide">Suivez le guide</a></p>
+						Qui guide qui et vers quoi ? Si les applications de guidage dans les espaces clos se développent, elles n’ont pas la même finalité pour tous. Une enseigne de mode en profite pour faire de la publicité tandis qu’un gestionnaire d’aéroport va optimiser le travail de ses techniciens de maintenance. Présentation<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/suivez-le-guide/">Login & Purchase</a></div>
+
+</div></div></div>					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		16 juin 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/suivez-le-guide/#comments" rel="bookmark" title="Commentaires pour Suivez le guide">0 commentaire</a>
+	</span>
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+						<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/geolocalisation-en-rayon-chez-carrefour/" rel="bookmark" title="Lien permanent à Géolocalisation en rayon chez Carrefour">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/06/WEB-168-dossier-indoor-Celine-Martin-100x150.jpg" alt="Géolocalisation en rayon chez Carrefour" title="Géolocalisation en rayon chez Carrefour" />
+	</a>
+						<p class="post-title"><a href="http://decryptageo.fr/geolocalisation-en-rayon-chez-carrefour/" rel="bookmark" title="Lien permanent à Géolocalisation en rayon chez Carrefour">Géolocalisation en rayon chez Carrefour</a></p>
+						Céline Martin est directrice des modèles commerciaux et de l’innovation pour les hypermarchés Carrefour. Elle revient sur l’application C-où, disponible sur Android et iOS. Comment est né C-où ? C-où est né d’une opportunité liée à l’ouverture de l’hypermarché de Villeneuve-la-Garenne, lui-même situé dans un centre commercial qui se veut très connecté.<div class="mgm_private_no_access"><div class="mgm_private_no_access"><div style="border-style:dashed; border-width:1px; margin-bottom:1em; background-color:#cbd320; border-color:#56433a; margin:5px; font-family:'Lucida Grande','Lucida Sans Unicode',Tahoma,Verdana,sans-serif; font-size:13px; color:#333333;">
+
+	<div style="margin: 5px 10px;"><b>Ce contenu est réservé aux visiteurs identifiés.</b><br>(abonnés à la version papier ou disposant d'un compte d'achat en ligne)<br>Veuillez vous identifier ou vous inscrire.<br><br><strong><div class="mgm-sidebar-loginform-wrap">
+				<form class="mgm_form" name="mgm_sidebar_loginform" id="mgm_sidebar_loginform" action="http://decryptageo.fr/connexion" method="post">
+					<label>Email:</label>
+					<div>
+						<input type="text" name="log" id="user_login" class="input" value="" tabindex="10" size="20" />
+					</div>				
+					<label>Mot de passe:</label>
+					<div>
+						<input type="password" name="pwd" id="user_pass" class="input" value="" tabindex="20" size="20"/>
+					</div>	<div>
+					<div id="remember_me_container">
+						<input id="rememberme" type="checkbox" tabindex="90" value="forever" name="rememberme"/> Se souvenir de moi
+					</div><div class="login-sidebar-buttons"><input class="button mgm-login-button" type="submit" name="wp-submit" id="wp-submit" value="S'identifier" tabindex="100" /></div><input type="hidden" id="_mgmnonce_user_login" name="_mgmnonce_user_login" value="bd790cf4d9" /><input type="hidden" name="_wp_http_referer" value="/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" /></div></form><div class="login-sidebar-links"><a class="mgm-register-link" href="http://decryptageo.fr/identification">S'enregistrer</a></div></div><script type="text/javascript"></script><style type="text/css">.login-sidebar-links, .login-sidebar-buttons{margin-top:10px; clear:both}</style></strong><a href="http://decryptageo.fr/connexion?redirect_to=http://decryptageo.fr/geolocalisation-en-rayon-chez-carrefour/">Login & Purchase</a></div>
+
+</div></div></div>					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/francoise/" title="Articles par Françoise De Blomac" rel="author">Françoise De Blomac</a> | 
+	</span> 
+
+	<span class="meta-date">
+		16 juin 2015	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://decryptageo.fr/geolocalisation-en-rayon-chez-carrefour/#comments" rel="bookmark" title="Commentaires pour Géolocalisation en rayon chez Carrefour">0 commentaire</a>
+	</span>
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+		</div>
+</div></div><div id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle"><span><img src="http://www.decryptageo.fr/wp-content/themes/wp-clear321/images/entete-titre.png" alt="!" class="entete-titre" /> Thèmes</span></h3><div class="menu-themes-container"><ul id="menu-themes" class="menu"><li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="http://decryptageo.fr/category/widget-narrow/3d/">3D</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="http://decryptageo.fr/category/widget-narrow/cadastre/">Cadastre</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19"><a href="http://decryptageo.fr/category/widget-narrow/cartographie/">Cartographie</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://decryptageo.fr/category/widget-narrow/geomarketing/">Géomarketing</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="http://decryptageo.fr/category/widget-narrow/grand-public/">Grand public</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20"><a href="http://decryptageo.fr/category/widget-narrow/environnement/">Environnement</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="http://decryptageo.fr/category/widget-narrow/formation/">Formation</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://decryptageo.fr/category/widget-narrow/idgids/">IDG/IDS</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="http://decryptageo.fr/category/widget-narrow/inspire/">INSPIRE</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://decryptageo.fr/category/widget-narrow/mobilite/">Mobilité</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="http://decryptageo.fr/category/widget-narrow/reseauxtransports/">Réseaux/Transports</a></li>
+<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-166"><a href="http://decryptageo.fr/category/widget-narrow/secteur-public/">Secteur public</a></li>
+<li id="menu-item-167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-167"><a href="http://decryptageo.fr/category/widget-narrow/securitedefense/">Sécurité/défense</a></li>
+<li id="menu-item-165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165"><a href="http://decryptageo.fr/category/widget-narrow/satellitespatial/">Satellite/Spatial</a></li>
+<li id="menu-item-168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-168"><a href="http://decryptageo.fr/category/widget-narrow/webmapping/">WebMapping</a></li>
+</ul></div></div></div><div id="archives-3" class="widget widget_archive"><div class="widget-wrap"><h3 class="widgettitle"><span><img src="http://www.decryptageo.fr/wp-content/themes/wp-clear321/images/entete-titre.png" alt="!" class="entete-titre" /> Numéros précédents</span></h3>		<ul>
+	<li><a href='http://decryptageo.fr/2015/09/'>septembre 2015</a>&nbsp;(40)</li>
+	<li><a href='http://decryptageo.fr/2015/08/'>août 2015</a>&nbsp;(4)</li>
+	<li><a href='http://decryptageo.fr/2015/07/'>juillet 2015</a>&nbsp;(13)</li>
+	<li><a href='http://decryptageo.fr/2015/06/'>juin 2015</a>&nbsp;(56)</li>
+	<li><a href='http://decryptageo.fr/2015/05/'>mai 2015</a>&nbsp;(61)</li>
+	<li><a href='http://decryptageo.fr/2015/04/'>avril 2015</a>&nbsp;(61)</li>
+	<li><a href='http://decryptageo.fr/2015/03/'>mars 2015</a>&nbsp;(59)</li>
+	<li><a href='http://decryptageo.fr/2015/02/'>février 2015</a>&nbsp;(54)</li>
+	<li><a href='http://decryptageo.fr/2015/01/'>janvier 2015</a>&nbsp;(41)</li>
+	<li><a href='http://decryptageo.fr/2014/12/'>décembre 2014</a>&nbsp;(51)</li>
+	<li><a href='http://decryptageo.fr/2014/11/'>novembre 2014</a>&nbsp;(58)</li>
+	<li><a href='http://decryptageo.fr/2014/10/'>octobre 2014</a>&nbsp;(59)</li>
+	<li><a href='http://decryptageo.fr/2014/09/'>septembre 2014</a>&nbsp;(52)</li>
+	<li><a href='http://decryptageo.fr/2014/08/'>août 2014</a>&nbsp;(4)</li>
+	<li><a href='http://decryptageo.fr/2014/07/'>juillet 2014</a>&nbsp;(18)</li>
+	<li><a href='http://decryptageo.fr/2014/06/'>juin 2014</a>&nbsp;(53)</li>
+	<li><a href='http://decryptageo.fr/2014/05/'>mai 2014</a>&nbsp;(48)</li>
+	<li><a href='http://decryptageo.fr/2014/04/'>avril 2014</a>&nbsp;(56)</li>
+	<li><a href='http://decryptageo.fr/2014/03/'>mars 2014</a>&nbsp;(55)</li>
+	<li><a href='http://decryptageo.fr/2014/02/'>février 2014</a>&nbsp;(48)</li>
+	<li><a href='http://decryptageo.fr/2014/01/'>janvier 2014</a>&nbsp;(43)</li>
+	<li><a href='http://decryptageo.fr/2013/12/'>décembre 2013</a>&nbsp;(48)</li>
+	<li><a href='http://decryptageo.fr/2013/11/'>novembre 2013</a>&nbsp;(56)</li>
+	<li><a href='http://decryptageo.fr/2013/10/'>octobre 2013</a>&nbsp;(57)</li>
+	<li><a href='http://decryptageo.fr/2013/09/'>septembre 2013</a>&nbsp;(59)</li>
+	<li><a href='http://decryptageo.fr/2013/08/'>août 2013</a>&nbsp;(6)</li>
+	<li><a href='http://decryptageo.fr/2013/07/'>juillet 2013</a>&nbsp;(33)</li>
+	<li><a href='http://decryptageo.fr/2013/06/'>juin 2013</a>&nbsp;(53)</li>
+	<li><a href='http://decryptageo.fr/2013/05/'>mai 2013</a>&nbsp;(48)</li>
+	<li><a href='http://decryptageo.fr/2013/04/'>avril 2013</a>&nbsp;(5)</li>
+	<li><a href='http://decryptageo.fr/2013/02/'>février 2013</a>&nbsp;(1)</li>
+		</ul>
+</div></div></div>
+
+
+				</div> <!-- End #contentleft div -->
+
+
+		<div id="contentright">
+
+						<div id="sidebar" class="clearfix">
+				<div id="wysija-3" class="widget widget_wysija"><div class="widget-wrap"><h3 class="widgettitle"><span><img src="http://www.decryptageo.fr/wp-content/themes/wp-clear321/images/entete-titre.png" alt="!" class="entete-titre" /> Abonnez-vous à notre newsletter</span></h3><div class="widget_wysija_cont"><div id="msg-form-wysija-3" class="wysija-msg ajax"></div><form id="form-wysija-3" method="post" action="#wysija" class="widget_wysija">
+
+<br />
+<p class="wysija-paragraph">
+    
+    
+    	<input type="text" name="wysija[user][email]" class="wysija-input validate[required,custom[email]]" title="E-mail " placeholder="E-mail " value="" />
+    
+    
+    
+    <span class="abs-req">
+        <input type="text" name="wysija[user][abs][email]" class="wysija-input validated[abs][email]" value="" />
+    </span>
+    
+</p>
+
+<p style="float: right; margin: -59px 15px 0 0;">
+<input class="wysija-submit wysija-submit-field" type="submit" value="Je m'abonne !" />
+
+</p>
+
+    <input type="hidden" name="form_id" value="1" />
+    <input type="hidden" name="action" value="save" />
+    <input type="hidden" name="controller" value="subscribers" />
+    <input type="hidden" value="1" name="wysija-page" />
+
+    
+        <input type="hidden" name="wysija[user_list][list_ids]" value="3" />
+    
+ </form></div></div></div><div id="text-6" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><a href="http://pages.info.bentley.com/event-details-ae/?SKIP=CT_ADSBAN_FR_ACUTE3D_WEB/?webinar=CO_WBR_FR_Acute3d_2215&amp;eventGUID=afcb42b8-c7c7-45c0-b268-9c0400b741b4"  target="_blank"><img src="http://www.decryptageo.fr/wp-content/uploads/2015/09/2118_Webinar_ContextCapture_300x200_0815.jpg" width="300" height="200" alt="ContextCapture de Bentley" /></a></div>
+		</div></div><div id="catposts-widget-3" class="widget catposts"><div class="widget-wrap"><h3 class="widgettitle"><span><img src="http://www.decryptageo.fr/wp-content/themes/wp-clear321/images/entete-titre.png" alt="!" class="entete-titre" /> <a href="http://decryptageo.fr/category/communiques/">Communiqués de presse</a></span></h3><div class='cat-posts-widget textwidget'>
+				<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/predict-lance-my-predict/" rel="bookmark" title="Lien permanent à PREDICT lance “My PREDICT”">		<img class="thumbnail" src="http://www.decryptageo.fr/wp-content/uploads/2015/09/2015-MyPredict-150x73.jpg" alt="PREDICT lance “My PREDICT”" title="PREDICT lance “My PREDICT”" />
+	</a>
+						<p class="post-title"><a href="http://decryptageo.fr/predict-lance-my-predict/" rel="bookmark" title="Lien permanent à PREDICT lance “My PREDICT”">PREDICT lance “My PREDICT”</a></p>
+						<p>l’application smartphone dédiée à la sauvegarde des citoyens face aux risques hydrométéorologiques Aujourd’hui face aux risques, chaque citoyen doit être en mesure d’adopter les bonnes attitudes pour sa sauvegarde, celle de sa famille ainsi que celle de ses biens. L’application pour smartphone « My Predict » destinée aux particuliers, leur permet d’être informés en temps réel sur [&hellip;]</p>
+					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/entreprise/" title="Articles par Communiqué de presse" rel="author">Communiqué de presse</a> | 
+	</span> 
+
+	<span class="meta-date">
+		9 septembre 2015	</span> 
+
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+						<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/marseille-une-source-centralisee-et-fiable-de-donnees-geospatiales/" rel="bookmark" title="Lien permanent à Marseille : une source centralisée et fiable de données géospatiales"></a>
+						<p class="post-title"><a href="http://decryptageo.fr/marseille-une-source-centralisee-et-fiable-de-donnees-geospatiales/" rel="bookmark" title="Lien permanent à Marseille : une source centralisée et fiable de données géospatiales">Marseille : une source centralisée et fiable de données géospatiales</a></p>
+						<p>Comme beaucoup de grandes villes modernes, Marseille fait face à des défis importants : il sagit de créer un lieu attractif, tant pour les citoyens et visiteurs que pour les hommes daffaires. Les données géospatiales sont cruciales pour la plupart des questions que doit traiter la ville et il est essentiel de pouvoir partager efficacement [&hellip;]</p>
+					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/entreprise/" title="Articles par Communiqué de presse" rel="author">Communiqué de presse</a> | 
+	</span> 
+
+	<span class="meta-date">
+		9 septembre 2015	</span> 
+
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+						<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/la-gendarmerie-nationale-retient-geo-rm-pour-son-projet-gencad-de-tablette-numerique-du-gendarme/" rel="bookmark" title="Lien permanent à La Gendarmerie Nationale retient Géo.RM pour son projet &laquo;&nbsp;GENCAD&nbsp;&raquo; de tablette numérique du gendarme"></a>
+						<p class="post-title"><a href="http://decryptageo.fr/la-gendarmerie-nationale-retient-geo-rm-pour-son-projet-gencad-de-tablette-numerique-du-gendarme/" rel="bookmark" title="Lien permanent à La Gendarmerie Nationale retient Géo.RM pour son projet &laquo;&nbsp;GENCAD&nbsp;&raquo; de tablette numérique du gendarme">La Gendarmerie Nationale retient Géo.RM pour son projet &laquo;&nbsp;GENCAD&nbsp;&raquo; de tablette numérique du gendarme</a></p>
+						<p>L&rsquo;IRCGN (Insitut de Recherche Criminelle de la Gendarmerie Nationale) dans le cadre de la Mission Innovation Participative a retenu Géo.RM pour la conception et le développement d&rsquo;applications pour la collecte des informations pour les accidents et les scènes de crime sur le terrain. La modernisation des moyens avec l&rsquo;utilisation du numérique et la dématérialisation des [&hellip;]</p>
+					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/entreprise/" title="Articles par Communiqué de presse" rel="author">Communiqué de presse</a> | 
+	</span> 
+
+	<span class="meta-date">
+		9 septembre 2015	</span> 
+
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+						<div class="post">
+					<div class="entry clearfix">
+						<a href="http://decryptageo.fr/1spatial-expose-au-salon-intergeo-en-allemagne/" rel="bookmark" title="Lien permanent à 1Spatial expose au salon INTERGEO en Allemagne"></a>
+						<p class="post-title"><a href="http://decryptageo.fr/1spatial-expose-au-salon-intergeo-en-allemagne/" rel="bookmark" title="Lien permanent à 1Spatial expose au salon INTERGEO en Allemagne">1Spatial expose au salon INTERGEO en Allemagne</a></p>
+						<p>1Spatial, société spécialisée dans les Big Data géospatiales, fera une présentation et sera exposant lors du salon INTERGEO qui se tiendra du 15 au 17 septembre prochain à Stuttgart (stand D4.061  &#8211; Hall 4). En tant qu&rsquo;exposant au sein du pavillon anglais, l&rsquo;équipe 1Spatial se joindra à d&rsquo;autres entreprises du Royaume-Uni et expliquera comment les [&hellip;]</p>
+					</div>
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://decryptageo.fr/author/entreprise/" title="Articles par Communiqué de presse" rel="author">Communiqué de presse</a> | 
+	</span> 
+
+	<span class="meta-date">
+		7 septembre 2015	</span> 
+
+	 
+
+</div>					<div style="clear:both;"></div>
+				</div>
+		</div>
+</div></div><div id="text-3" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/SIGlaLettre" data-widget-id="336488560813301760" target="_blank">Tweets de @SIGlaLettre</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div></div><div id="text-2" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FDecryptageo&amp;width=292&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;show_border=true&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:258px;" allowTransparency="true" target="_blank"></iframe></div>
+		</div></div><div id="rss-2" class="widget widget_rss"><div class="widget-wrap"><h3 class="widgettitle"><span><img src="http://www.decryptageo.fr/wp-content/themes/wp-clear321/images/entete-titre.png" alt="!" class="entete-titre" /> <a class='rsswidget' href='http://georezo.net/extern.php?fid=10'><img style='border:0' width='14' height='14' src='http://www.decryptageo.fr/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://georezo.net/forum/viewforum.php?id=10'>Offres d&#8217;emploi</a></span></h3><ul><li><a class='rsswidget' href='http://georezo.net/forum/viewtopic.php?pid=273132#p273132'>[CDI] 4 x Opérateur en surveillance maritime - Toulouse (31)</a> <span class="rss-date">18 septembre 2015</span></li><li><a class='rsswidget' href='http://georezo.net/forum/viewtopic.php?pid=273117#p273117'>[CDI] Technicien sig h/f (Nogent-sur-oise, Oise, France)</a> <span class="rss-date">18 septembre 2015</span></li><li><a class='rsswidget' href='http://georezo.net/forum/viewtopic.php?pid=273087#p273087'>[Interim] 2 x GEOMETRE SIG - PARIS 13eme (75)</a> <span class="rss-date">17 septembre 2015</span></li><li><a class='rsswidget' href='http://georezo.net/forum/viewtopic.php?pid=273085#p273085'>[Interim 3 Mois] Technicien Conversion SIG - LE CRES (34)</a> <span class="rss-date">17 septembre 2015</span></li></ul></div></div><div id="text-5" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span><img src="http://www.decryptageo.fr/wp-content/themes/wp-clear321/images/entete-titre.png" alt="!" class="entete-titre" /> L&rsquo;annuaire des Géo-Entreprises</span></h3>			<div class="textwidget"><a href="http://decryptageo.fr/webservices-afigeo/"><img src="http://decryptageo.fr/img/afigeo-bloc.jpg" alt="Afigeo" width="279" height="131" border="0" /></a></div>
+		</div></div><div id="text-4" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span><img src="http://www.decryptageo.fr/wp-content/themes/wp-clear321/images/entete-titre.png" alt="!" class="entete-titre" /> Les archives de SIG la lettre</span></h3>			<div class="textwidget"><a href="http://www.sig-la-lettre.com/?-Articles-et-archives-de-SIG-la-Lettre-" target="_blank"><img src="http://decryptageo.fr/img/logo_sig.jpg" alt="SIG la lettre" width="200" height="122" border="0" /></a></div>
+		</div></div>			</div>
+			
+
+			
+		</div>
+
+
+			<div id="bannieres">	<div id="banniere1">		<div class="wp_bannerize group4">
+<div><a  onclick="WPBannerizeJavascript.incrementClickCount(15)"  href="http://decryptageo.fr/publicite/" rel="nofollow" >
+<img src="http://www.decryptageo.fr/wp-content/uploads/2014/06/banner_header.jpg" alt="Profitez de Décryptagéo.fr pour vous faire connaître" width="728" height="90"/>
+</a>
+</div></div>	</div>	<div id="banniere2">		<div class="wp_bannerize group2">
+<div><a  onclick="WPBannerizeJavascript.incrementClickCount(3)"  href="http://decryptageo.fr/identification/" rel="nofollow" >
+<img src="http://decryptageo.fr/wp-content/uploads/2013/06/banner_abonnement.gif" alt="Bannière abonnement DécryptaGéo" width="200" height="90"/>
+</a>
+</div></div>	</div></div>			</div> <!-- End .page-border div -->
+
+		
+
+		</div> <!-- End #page div -->
+
+	</div> <!-- End #wrap div -->
+
+
+	
+
+
+	<div id="footer">
+
+		<div class="limit clearfix">
+
+			<p class="footurl"><a href="http://decryptageo.fr">DécryptaGéo, l&#039;information géographique</a></p>
+
+			
+				<div id="footnav">
+
+					<ul class="clearfix">
+
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://decryptageo.fr/a-propos/">Qui sommes-nous ?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180"><a href="http://decryptageo.fr/publicite/">Publicité</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://decryptageo.fr/contact/">Contact</a></li>
+
+					</ul>
+
+				</div>
+
+			
+			&copy;  2015 DécryptaGéo, l&#039;information géographique. Tous droits réservés - <a href="http://decryptageo.fr/cgv/" title="Conditions g&eacute;n&eacute;rales de ventes">CGV</a>
+
+		- <a href="http://decryptageo.fr/mentions-legales">mentions légales</a></div>
+
+	</div> <!-- End #footer div -->
+
+
+
+</div> <!-- End #outerwrap div -->
+
+
+
+
+            <div class='cookieBannerContainer'>
+
+                <div class='cookieBannerText'>Les cookies assurent le bon fonctionnement de nos services. En utilisant ces derniers, vous acceptez l'utilisation des cookies.</div>
+
+                <div class='cookieBannerRemoveContainer'>
+
+                    <div class='cookieBannerRemove'>Accept Cookies</div>
+
+                    <div class='cookieBannerRemoveResponsive'>x</div>
+
+                </div>
+
+            </div>
+
+        <link rel='stylesheet' id='wpBannerizeStyleDefault.css-css'  href='http://www.decryptageo.fr/wp-content/plugins/wp-bannerize/css/wpBannerizeStyleDefault.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpBannerizeJavascriptLocalization = {"ajaxURL":"http:\/\/www.decryptageo.fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/plugins/wp-bannerize/js/wpBannerizeFrontend.min.js?ver=3.1.6'></script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/plugins/wysija-newsletters/js/validate/languages/jquery.validationEngine-fr.js?ver=2.6.17'></script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/plugins/wysija-newsletters/js/validate/jquery.validationEngine.js?ver=2.6.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wysijaAJAX = {"action":"wysija_ajax","controller":"ai1ec_exporter_controller","ajaxurl":"http:\/\/www.decryptageo.fr\/wp-admin\/admin-ajax.php","loadingTrans":"Chargement...","is_rtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.decryptageo.fr/wp-content/plugins/wysija-newsletters/js/front-subscribers.js?ver=2.6.17'></script>
+
+
+
+</body>
+
+
+
+</html>

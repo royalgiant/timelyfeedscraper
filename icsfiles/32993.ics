@@ -23,43 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-1467@www.piratenpartei-stuttgart.de
-DTSTAMP:20150920T003806Z
-CATEGORIES;LANGUAGE=de-DE:Kryptoparty
-CONTACT:Thomas Christinck\; thomas.christinck@piraten-stuttgart.de
-DESCRIPTION:<p>Auf sogenannten <a href='http://www.spiegel.de/netzwelt/netz
- politik/cryptoparty-in-mannheim-verschluesseln-gegen-staat-und-schurken-a-
- 909744.html'>Kryptopartys</a> können Interessierte\, vom absoluten Laien b
- is hin zu IT-Fachleuten\, lernen und diskutieren\, wie man Emails\, Dateie
- n und Laufwerke verschlüsselt und wie man im Internet surft ohne allzu vie
- le Daten-Spuren zu hinterlassen.</p>\n<p><strong>Teilnahme kostenlos. Bitt
- e hier anmelden (Name oder Pseudonym eintragen genügt): </strong> <a href=
- 'https://stuttgart.piratenpad.de/949'>stuttgart.piratenpad.de/949</a></p>
- \n<p><strong>Wir alle haben etwas zu verbergen:</strong> Zum Beispiel unse
- re Privatsphäre und unsere Geschäftsgeheimnisse. Eigentlich ist es ein Ska
- ndal\, dass Bürger sich vor Überwachung bzw. vor dem Staat schützen müssen
- . Es ist Aufgabe des Staates\, seine Bürger zu schützen! Aber dieser Aufga
- be kommt der deutsche Staat nicht nach. Er hat dabei versagt\, seine Bürge
- r vor Prism\, Tempora und Co. zu schützen. Jetzt kommt aktuell noch die Vo
- rratsdatenspeicherung hinzu. Wir geben ihnen Verschlüsselungswerkzeuge und
-  das nötige Wissen an die  Hand\, um ihre Mails und Dateien vor der anlass
- losen Überwachung zu schützen.</p>\n\n<div class='twitter-share'><a href='
- https://twitter.com/intent/tweet?via=Piraten_S' class='twitter-share-butto
- n' data-count='none'>Twittern</a></div>
-DTSTART;TZID=Europe/Berlin:20150920T150000
-DTEND;TZID=Europe/Berlin:20150920T180000
-GEO:+48.792263;+9.202351
-LOCATION:Landesgeschäftsstelle Piratenpartei Baden-Württemberg @ Stöckachst
- raße 53\, 70190 Stuttgart\, Deutschland
-RRULE:FREQ=MONTHLY;BYDAY=3SU
-SEQUENCE:0
-SUMMARY:Kryptoparty – digitale Selbstverteidigung
-URL:http://www.piratenpartei-stuttgart.de/event/kryptoparty-digitale-selbst
- verteidigung-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-771@www.piratenpartei-stuttgart.de
-DTSTAMP:20150920T003806Z
+DTSTAMP:20150921T225427Z
 CATEGORIES;LANGUAGE=de-DE:Orgatreffen
 CONTACT:http://wiki.piratenpartei.de/BW:Stuttgart/Orgatreffen
 DESCRIPTION:<p>jeden zweiten Montag findet in der LGS ein Orgatreffen statt
@@ -81,7 +46,7 @@ URL:http://www.piratenpartei-stuttgart.de/event/orgatreffen/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-791@www.piratenpartei-stuttgart.de
-DTSTAMP:20150920T003806Z
+DTSTAMP:20150921T225427Z
 CATEGORIES;LANGUAGE=de-DE:Piratentreff
 CONTACT:http://wiki.piratenpartei.de/BW:Stammtisch_Filder
 DESCRIPTION:<div class='twitter-share'><a href='https://twitter.com/intent/
@@ -99,7 +64,7 @@ URL:http://www.piratenpartei-stuttgart.de/event/stammtisch-filder/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-837@www.piratenpartei-stuttgart.de
-DTSTAMP:20150920T003806Z
+DTSTAMP:20150921T225427Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Beim OpenSpace steht die Landesgeschäftsstelle allen offen. 
@@ -120,7 +85,7 @@ URL:http://www.piratenpartei-stuttgart.de/event/openspace/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1538@www.piratenpartei-stuttgart.de
-DTSTAMP:20150920T003806Z
+DTSTAMP:20150921T225427Z
 CATEGORIES;LANGUAGE=de-DE:Arbeitstreffen
 CONTACT:
 DESCRIPTION:<p>Jeden ersten Mittwoch im Monat trifft sich die SG Öffentlich
@@ -140,7 +105,7 @@ URL:http://www.piratenpartei-stuttgart.de/event/sg-oeffentlichkeitsarbeit/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-789@www.piratenpartei-stuttgart.de
-DTSTAMP:20150920T003806Z
+DTSTAMP:20150921T225427Z
 CATEGORIES;LANGUAGE=de-DE:Piratentreff
 CONTACT:http://wiki.piratenpartei.de/BW:Stuttgart/Piratentreff-West
 DESCRIPTION:<div class='twitter-share'><a href='https://twitter.com/intent/
@@ -156,5 +121,40 @@ RRULE:FREQ=WEEKLY;INTERVAL=4
 SEQUENCE:0
 SUMMARY:Piratentreff-West
 URL:http://www.piratenpartei-stuttgart.de/event/piratentreff-west/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1467@www.piratenpartei-stuttgart.de
+DTSTAMP:20150921T225427Z
+CATEGORIES;LANGUAGE=de-DE:Kryptoparty
+CONTACT:Thomas Christinck\; thomas.christinck@piraten-stuttgart.de
+DESCRIPTION:<p>Auf sogenannten <a href='http://www.spiegel.de/netzwelt/netz
+ politik/cryptoparty-in-mannheim-verschluesseln-gegen-staat-und-schurken-a-
+ 909744.html'>Kryptopartys</a> können Interessierte\, vom absoluten Laien b
+ is hin zu IT-Fachleuten\, lernen und diskutieren\, wie man Emails\, Dateie
+ n und Laufwerke verschlüsselt und wie man im Internet surft ohne allzu vie
+ le Daten-Spuren zu hinterlassen.</p>\n<p><strong>Teilnahme kostenlos. Bitt
+ e hier anmelden (Name oder Pseudonym eintragen genügt): </strong> <a href=
+ 'https://stuttgart.piratenpad.de/949'>stuttgart.piratenpad.de/949</a></p>
+ \n<p><strong>Wir alle haben etwas zu verbergen:</strong> Zum Beispiel unse
+ re Privatsphäre und unsere Geschäftsgeheimnisse. Eigentlich ist es ein Ska
+ ndal\, dass Bürger sich vor Überwachung bzw. vor dem Staat schützen müssen
+ . Es ist Aufgabe des Staates\, seine Bürger zu schützen! Aber dieser Aufga
+ be kommt der deutsche Staat nicht nach. Er hat dabei versagt\, seine Bürge
+ r vor Prism\, Tempora und Co. zu schützen. Jetzt kommt aktuell noch die Vo
+ rratsdatenspeicherung hinzu. Wir geben ihnen Verschlüsselungswerkzeuge und
+  das nötige Wissen an die  Hand\, um ihre Mails und Dateien vor der anlass
+ losen Überwachung zu schützen.</p>\n\n<div class='twitter-share'><a href='
+ https://twitter.com/intent/tweet?via=Piraten_S' class='twitter-share-butto
+ n' data-count='none'>Twittern</a></div>
+DTSTART;TZID=Europe/Berlin:20151018T150000
+DTEND;TZID=Europe/Berlin:20151018T180000
+GEO:+48.792263;+9.202351
+LOCATION:Landesgeschäftsstelle Piratenpartei Baden-Württemberg @ Stöckachst
+ raße 53\, 70190 Stuttgart\, Deutschland
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Kryptoparty – digitale Selbstverteidigung
+URL:http://www.piratenpartei-stuttgart.de/event/kryptoparty-digitale-selbst
+ verteidigung-3/
 END:VEVENT
 END:VCALENDAR

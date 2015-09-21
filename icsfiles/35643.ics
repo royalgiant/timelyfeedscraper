@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-8276@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events\,Harvest of Talents
 CONTACT:
 DESCRIPTION:<p>Bring your spare change for the “Change the World” event for
@@ -48,7 +48,7 @@ URL:http://www.uccofmarion.org/event/change-the-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8277@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events\,Harvest of Talents
 CONTACT:
 DESCRIPTION:<p>Bring your spare change for the “Change the World” event for
@@ -66,63 +66,8 @@ SUMMARY:Change the World
 URL:http://www.uccofmarion.org/event/change-the-world-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-8216@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
-CATEGORIES;LANGUAGE=en-US:General Church Events
-CONTACT:
-DESCRIPTION:<p>Classes for adults and children:</p>\n<p>Women’s class lead 
- by Tana Rae Leak (held in room off main front hall).</p>\n<p>Adult class l
- ead by Kevin Trimble\, lessons from the Restoration Herald (held in room a
- cross from Men’s restroom in back hall).</p>\n<p>Adult class lead by Kevin
-  Greenlee\, lessons from the deep dark recesses of his mind (room next to 
- kitchen).</p>\n<p>Children’s class lead by Elisha Vitali. (youth room).</p
- >
-DTSTART;TZID=America/Indiana/Indianapolis:20150920T091500
-DTEND;TZID=America/Indiana/Indianapolis:20150920T101500
-EXDATE;TZID=America/Indiana/Indianapolis:20140420T091500
-EXDATE;TZID=America/Indiana/Indianapolis:20150405T091500
-GEO:+40.562652;-85.643166
-LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
- IN 46952\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday School
-URL:http://www.uccofmarion.org/event/sunday-school/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-8218@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
-CATEGORIES;LANGUAGE=en-US:General Church Events
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/Indiana/Indianapolis:20150920T103000
-DTEND;TZID=America/Indiana/Indianapolis:20150920T120000
-EXDATE;TZID=America/Indiana/Indianapolis:20140309T103000
-GEO:+40.562652;-85.643166
-LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
- IN 46952\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Worship
-URL:http://www.uccofmarion.org/event/worship/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-8706@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
-CATEGORIES;LANGUAGE=en-US:Youth Events
-CONTACT:
-DESCRIPTION:<p>5th through 9th grade. food\, fun\, and Bible Study</p>
-DTSTART;TZID=America/Indiana/Indianapolis:20150920T183000
-DTEND;TZID=America/Indiana/Indianapolis:20150920T194500
-EXDATE;TZID=America/Indiana/Indianapolis:20150405T183000
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday Night Youth Group (SNYG)
-URL:http://www.uccofmarion.org/event/sunday-night-youth-group-snyg/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-8931@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Harvest of Talents
 CONTACT:
 DESCRIPTION:
@@ -135,7 +80,7 @@ URL:http://www.uccofmarion.org/event/harvest-committee-meeting-special-date
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8222@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events
 CONTACT:
 DESCRIPTION:<p>Bring a dish to share with the group as we fellowship togeth
@@ -153,7 +98,7 @@ URL:http://www.uccofmarion.org/event/food-fellowship/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8224@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events
 CONTACT:
 DESCRIPTION:<p>After the meal\, adults and children separate for their own 
@@ -171,7 +116,7 @@ URL:http://www.uccofmarion.org/event/family-night-bible-study/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8767@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Music
 CONTACT:
 DESCRIPTION:
@@ -183,8 +128,63 @@ SUMMARY:Upward Praise Concert
 URL:http://www.uccofmarion.org/event/upward-praise-concert/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-8216@www.uccofmarion.org
+DTSTAMP:20150921T224748Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:<p>Classes for adults and children:</p>\n<p>Women’s class lead 
+ by Tana Rae Leak (held in room off main front hall).</p>\n<p>Adult class l
+ ead by Kevin Trimble\, lessons from the Restoration Herald (held in room a
+ cross from Men’s restroom in back hall).</p>\n<p>Adult class lead by Kevin
+  Greenlee\, lessons from the deep dark recesses of his mind (room next to 
+ kitchen).</p>\n<p>Children’s class lead by Elisha Vitali. (youth room).</p
+ >
+DTSTART;TZID=America/Indiana/Indianapolis:20150927T091500
+DTEND;TZID=America/Indiana/Indianapolis:20150927T101500
+EXDATE;TZID=America/Indiana/Indianapolis:20140420T091500
+EXDATE;TZID=America/Indiana/Indianapolis:20150405T091500
+GEO:+40.562652;-85.643166
+LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
+ IN 46952\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday School
+URL:http://www.uccofmarion.org/event/sunday-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8218@www.uccofmarion.org
+DTSTAMP:20150921T224748Z
+CATEGORIES;LANGUAGE=en-US:General Church Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Indiana/Indianapolis:20150927T103000
+DTEND;TZID=America/Indiana/Indianapolis:20150927T120000
+EXDATE;TZID=America/Indiana/Indianapolis:20140309T103000
+GEO:+40.562652;-85.643166
+LOCATION:Unity Christian Church @ 140 North Pennsylvania Street\, Marion\, 
+ IN 46952\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Worship
+URL:http://www.uccofmarion.org/event/worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8706@www.uccofmarion.org
+DTSTAMP:20150921T224748Z
+CATEGORIES;LANGUAGE=en-US:Youth Events
+CONTACT:
+DESCRIPTION:<p>5th through 9th grade. food\, fun\, and Bible Study</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150927T183000
+DTEND;TZID=America/Indiana/Indianapolis:20150927T194500
+EXDATE;TZID=America/Indiana/Indianapolis:20150405T183000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday Night Youth Group (SNYG)
+URL:http://www.uccofmarion.org/event/sunday-night-youth-group-snyg/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-8220@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Harvest of Talents
 CONTACT:
 DESCRIPTION:
@@ -201,7 +201,7 @@ URL:http://www.uccofmarion.org/event/harvest-of-talents-committee-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8417@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events
 CONTACT:
 DESCRIPTION:
@@ -215,7 +215,7 @@ URL:http://www.uccofmarion.org/event/n-a-m-i-support-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8227@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Primetimers
 CONTACT:
 DESCRIPTION:
@@ -231,7 +231,7 @@ URL:http://www.uccofmarion.org/event/primetimers-breakfast/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8231@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Men
 CONTACT:
 DESCRIPTION:
@@ -248,7 +248,7 @@ URL:http://www.uccofmarion.org/event/mens-breakfast/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8232@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Board and Elders
 CONTACT:
 DESCRIPTION:
@@ -262,7 +262,7 @@ URL:http://www.uccofmarion.org/event/elders-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8712@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Women
 CONTACT:
 DESCRIPTION:
@@ -276,7 +276,7 @@ URL:http://www.uccofmarion.org/event/womens-meeting-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8958@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events\,Harvest of Talents
 CONTACT:
 DESCRIPTION:
@@ -288,7 +288,7 @@ URL:http://www.uccofmarion.org/event/meeting-for-all-harvest-workers/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8636@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events
 CONTACT:
 DESCRIPTION:<p>For information about this big event\, <a href='http://www.u
@@ -302,7 +302,7 @@ URL:http://www.uccofmarion.org/event/10th-annual-harvest-of-talents-for-wor
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8632@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Board and Elders
 CONTACT:
 DESCRIPTION:
@@ -315,7 +315,7 @@ URL:http://www.uccofmarion.org/event/board-meeting-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8796@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events\,Youth Events
 CONTACT:
 DESCRIPTION:<p>Come to the church and have a safe and warm Halloween inside
@@ -331,7 +331,7 @@ URL:http://www.uccofmarion.org/event/trunk-or-treat/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8740@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Board and Elders
 CONTACT:
 DESCRIPTION:<p>Elders Deacons and Ministers meet to discuss the needs and b
@@ -347,7 +347,7 @@ URL:http://www.uccofmarion.org/event/board-meeting-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8797@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events
 CONTACT:
 DESCRIPTION:<p>We always have fun decorating the church for Christmas.  Com
@@ -363,7 +363,7 @@ URL:http://www.uccofmarion.org/event/hanging-of-the-greens-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8795@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events
 CONTACT:
 DESCRIPTION:<p>Join us as we go sing Christmas songs to some of our older m
@@ -376,7 +376,7 @@ URL:http://www.uccofmarion.org/event/christmas-caroling-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8752@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events
 CONTACT:
 DESCRIPTION:<p>We will be having special music\, a devotional from the Chri
@@ -389,7 +389,7 @@ URL:http://www.uccofmarion.org/event/christmas-eve-service-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8756@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events
 CONTACT:
 DESCRIPTION:<p>Bring your favorite snack and game to play.</p>
@@ -401,7 +401,7 @@ URL:http://www.uccofmarion.org/event/new-years-eve-party-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8853@www.uccofmarion.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:General Church Events\,Harvest of Talents
 CONTACT:
 DESCRIPTION:<p>Quilting Blitz days in conjunction with craft days! Come wor

@@ -23,25 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-11709@losvanganelos.si/wp
-DTSTAMP:20150920T002207Z
-CATEGORIES;LANGUAGE=sl-SI:Prince Tour 2015
-CONTACT:Gorazd Habjan\; +386 70 856 116\; ghaubi@gmail.com\; http://www.los
- vanganelos.si
-DESCRIPTION:
-DTSTART;TZID=Europe/Ljubljana:20150919T090000
-GEO:+45.513805;+13.780616
-LOCATION:TA Los Vanganelos @ Vanganel 9a\, 6000 Koper - Capodistria\, Slove
- nija
-SEQUENCE:0
-SUMMARY:5. Prince Open Doubles 2015
-URL:http://losvanganelos.si/event/4-prince-open-doubles-2015/
-X-COST:25€/osebo
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-11708@losvanganelos.si/wp
-DTSTAMP:20150920T002207Z
+DTSTAMP:20150921T224714Z
 CATEGORIES;LANGUAGE=sl-SI:Prince Tour 2015
 CONTACT:Gorazd Habjan\; +386 70 856 116\; ghaubi@gmail.com\; http://www.los
  vanganelos.si
@@ -60,7 +43,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11717@losvanganelos.si/wp
-DTSTAMP:20150920T002207Z
+DTSTAMP:20150921T224714Z
 CATEGORIES;LANGUAGE=sl-SI:Ostali dogodki in turnirji
 CONTACT:Gorazd Habjan\; +386 70 856 116\; ghaubi@gmail.com\; http://www.los
  vanganelos.si
@@ -77,7 +60,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11718@losvanganelos.si/wp
-DTSTAMP:20150920T002207Z
+DTSTAMP:20150921T224714Z
 CATEGORIES;LANGUAGE=sl-SI:Ostali dogodki in turnirji
 CONTACT:Gorazd Habjan\; +386 70 856 116\; ghaubi@gmail.com\; http://www.los
  vanganelos.si

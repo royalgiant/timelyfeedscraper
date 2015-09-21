@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//129.121.189.68//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.mackinaccounty.net
+X-WR-TIMEZONE:America/Detroit
+BEGIN:VTIMEZONE
+TZID:America/Detroit
+X-LIC-LOCATION:America/Detroit
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-798@www.mackinaccounty.net
+DTSTAMP:20150921T224640Z
+CATEGORIES;LANGUAGE=en-US:Holiday
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160704
+DTEND;VALUE=DATE:20160705
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:CLOSED in Observance of Independence Day
+URL:http://www.mackinaccounty.net/event/closed-in-observance-of-independenc
+ e-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1097@www.mackinaccounty.net
+DTSTAMP:20150921T224640Z
+CATEGORIES;LANGUAGE=en-US:Planning Commission
+CONTACT:Dean Reid\, Chairperson\; 906-643-7515
+DESCRIPTION:<p><a href='http://www.mackinaccounty.net/wp-content/media/June
+ -2015-agenda.pdf'>June 3\, 2015</a></p>
+DTSTART;TZID=America/Detroit:20151007T140000
+EXDATE;TZID=America/Detroit:20150902T140000
+GEO:+45.891444;-84.72765
+LOCATION:Mackinac County Airport Terminal @ 1220 North State Street\, St. I
+ gnace\, MI 49781\, USA
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:Planning Commission Meeting
+URL:http://www.mackinaccounty.net/event/planning-commission-meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1171@www.mackinaccounty.net
+DTSTAMP:20150921T224640Z
+CATEGORIES;LANGUAGE=en-US:Planning Commission
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20151104T140000
+GEO:+45.891444;-84.72765
+LOCATION:Mackinac County Airport Terminal @ 1220 North State Street\, Saint
+  Ignace\, MI 49781\, USA
+SEQUENCE:0
+SUMMARY:Planning Commission Meeting
+URL:http://www.mackinaccounty.net/event/planning-commission-meeting-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1172@www.mackinaccounty.net
+DTSTAMP:20150921T224640Z
+CATEGORIES;LANGUAGE=en-US:Planning Commission
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20151202T140000
+GEO:+45.891444;-84.72765
+LOCATION:Mackinac County Airport Terminal @ 1220 North State Street\, Saint
+  Ignace\, MI 49781\, USA
+SEQUENCE:0
+SUMMARY:Planning Commission Meeting
+URL:http://www.mackinaccounty.net/event/planning-commission-meeting-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

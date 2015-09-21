@@ -23,26 +23,8 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-164@teamactive.co
-DTSTAMP:20150920T003834Z
-CATEGORIES;LANGUAGE=en-US:'Miss Fit'- Ladies Bootcamp
-CONTACT:Kojo Hazel\; 07739322228\; kojo@teamactive.co\; http://teamactive.c
- o/events-activities/miss-fit-ladies-bootcamp/
-DESCRIPTION:
-DTSTART;TZID=Europe/London:20150920T100000
-DTEND;TZID=Europe/London:20150920T110000
-GEO:+51.504339;-3.176676
-LOCATION:Roath Park Recreational Field @ Cardiff\, Cardiff\, Cardiff CF23 5
- PG\, UK
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:‘Miss Fit’ – Ladies Bootcamp
-URL:http://teamactive.co/event/miss-fit-ladies-bootcamp/
-X-COST:£5
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-165@teamactive.co
-DTSTAMP:20150920T003834Z
+DTSTAMP:20150921T225337Z
 CATEGORIES;LANGUAGE=en-US:'Miss Fit'- Ladies Bootcamp
 CONTACT:Kojo Hazel\; 07739322228\; kojo@teamactive.co\; http://teamactive.c
  o/events-activities/miss-fit-ladies-bootcamp/
@@ -55,5 +37,23 @@ RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=MO
 SEQUENCE:0
 SUMMARY:‘Miss Fit’ – Ladies Bootcamp
 URL:http://teamactive.co/event/miss-fit-ladies-bootcamp-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-164@teamactive.co
+DTSTAMP:20150921T225337Z
+CATEGORIES;LANGUAGE=en-US:'Miss Fit'- Ladies Bootcamp
+CONTACT:Kojo Hazel\; 07739322228\; kojo@teamactive.co\; http://teamactive.c
+ o/events-activities/miss-fit-ladies-bootcamp/
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150927T100000
+DTEND;TZID=Europe/London:20150927T110000
+GEO:+51.504339;-3.176676
+LOCATION:Roath Park Recreational Field @ Cardiff\, Cardiff\, Cardiff CF23 5
+ PG\, UK
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:‘Miss Fit’ – Ladies Bootcamp
+URL:http://teamactive.co/event/miss-fit-ladies-bootcamp/
+X-COST:£5
 END:VEVENT
 END:VCALENDAR

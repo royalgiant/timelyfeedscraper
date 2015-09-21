@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-1626@ccm.champlain.edu
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224728Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><strong><a href='http://ccm.champlain.edu/2015/09/14/creativ
@@ -53,8 +53,37 @@ URL:http://ccm.champlain.edu/event/al-larsen-presents-the-unfinished-moment
 X-TAGS;LANGUAGE=en-US:BFA\,Creative Media\,event\,Presentation
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1680@ccm.champlain.edu
+DTSTAMP:20150921T224728Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><strong><span style='font-family: Tahoma\;'>Stephen Cramer\,
+  a local poet\, is going to be at Champlain speaking to Rachel Carter’s cl
+ ass.</span></strong></p>\n<p><span style='font-family: tahoma\, sans-serif
+ \;'>Stephen Cramer’s first book of poems\, <em>Shiva’s Drum</em>\, was sel
+ ected by Grace Schulman for the National Poetry Series and published by Un
+ iversity of Illinois Press. His second\, <em>Tongue & Groove</em>\, was al
+ so released by University of Illinois. His newest book\, <em>From the Hip\
+ , Brief History of Hip Hop (in sonnets)</em> was published by Wind Ridge P
+ ress in 2014. His work has appeared in journals such as <em>American Poetr
+ y Review\, African American Review\, Harvard Review\, Yale Review\, Atlant
+ a Review\, Green Mountains Review\, </em>and <em>Hayden’s Ferry Review</em
+ >. He’s currently polishing up a fourth collection of poetry with help fro
+ m a grant from The Vermont Arts Council. He teaches writing and literature
+  at the University of Vermont and lives with his wife and daughter in Burl
+ ington.</span></p>\n<p><strong><em>All are welcome to attend.</em></strong
+ ></p>
+DTSTART;TZID=America/New_York:20150921T190000
+DTEND;TZID=America/New_York:20150921T201500
+LOCATION:Ireland Room 217
+SEQUENCE:0
+SUMMARY:Local Poet Speaks on Campus
+URL:http://ccm.champlain.edu/event/local-poet-speaks-on-campus/
+X-TAGS;LANGUAGE=en-US:event\,poetry\,Presentation\,reading
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1603@ccm.champlain.edu
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224728Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:

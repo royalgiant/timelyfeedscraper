@@ -23,54 +23,8 @@ TZNAME:MDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-1847@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
-CATEGORIES;LANGUAGE=en-US:Outreach Production
-CONTACT:
-DESCRIPTION:<p style='text-align: left\;'><a href='http://www.theshanecente
- r.org/wp-content/uploads/2015/09/wildest_west_cover.jpg'><img class='wp-im
- age-1849 aligncenter' src='http://www.theshanecenter.org/wp-content/upload
- s/2015/09/wildest_west_cover-652x1024.jpg' alt='wildest_west_cover' width=
- '484' height='760' /></a>The Shane Center’s educational outreach with the 
- Park County Homeschool Network culminates in two public performances of <e
- m>The Wildest West Show Ever! </em>on Friday\, September 18th at 7pm and S
- aturday\, September 19th at 12:30 pm.</p>\n<p style='text-align: left\;'>T
- ickets are available at the door.</p>
-DTSTART;TZID=America/Denver:20150918T190000
-DTEND;TZID=America/Denver:20150918T200000
-GEO:+45.662346;-110.555377
-LOCATION:The Dulcie Theatre at the Shane Center @ 415 E Lewis St\, Livingst
- on\, MT 59047\, USA
-SEQUENCE:0
-SUMMARY:The Wildest West Show Ever!
-URL:http://www.theshanecenter.org/event/the-wildest-west-show-ever/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1848@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
-CATEGORIES;LANGUAGE=en-US:Outreach Production
-CONTACT:
-DESCRIPTION:<p style='text-align: left\;'><a href='http://www.theshanecente
- r.org/wp-content/uploads/2015/09/wildest_west_cover.jpg'><img class='wp-im
- age-1849 aligncenter' src='http://www.theshanecenter.org/wp-content/upload
- s/2015/09/wildest_west_cover-652x1024.jpg' alt='wildest_west_cover' width=
- '484' height='760' /></a>The Shane Center’s educational outreach with the 
- Park County Homeschool Network culminates in two public performances of <e
- m>The Wildest West Show Ever! </em>on Friday\, September 18th at 7pm and S
- aturday\, September 19th at 12:30 pm.</p>\n<p style='text-align: left\;'>T
- ickets are available at the door.</p>
-DTSTART;TZID=America/Denver:20150919T123000
-DTEND;TZID=America/Denver:20150919T133000
-GEO:+45.662346;-110.555377
-LOCATION:The Dulcie Theatre at the Shane Center @ 415 E Lewis St\, Livingst
- on\, MT 59047\, USA
-SEQUENCE:0
-SUMMARY:The Wildest West Show Ever!
-URL:http://www.theshanecenter.org/event/the-wildest-west-show-ever-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1818@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Classes
 CONTACT:Chaeli Mulholland\; 406-600-4616\; cmulholland08@gmail.com
 DESCRIPTION:<h1 style='text-align: center\;'></h1>\n<p style='text-align: l
@@ -102,7 +56,7 @@ X-COST:$40/month
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1820@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Classes
 CONTACT:Chaeli Mulholland\; 406-600-4616\; cmulholland08@gmail.com
 DESCRIPTION:<h1 style='text-align: center\;'></h1>\n<p style='text-align: l
@@ -134,7 +88,7 @@ X-COST:$40/month
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1816@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Classes
 CONTACT:Chaeli Mulholland\; 406-600-4616\; cmulholland08@gmail.com
 DESCRIPTION:<h1 style='text-align: center\;'></h1>\n<p style='text-align: l
@@ -166,7 +120,7 @@ X-COST:$40/month
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-831@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Film Screening\,Independent Event
 CONTACT:Livingston Film Festival\; livingstonfilmfestival@gmail.com
 DESCRIPTION:<p> </p>\n<p style='text-align: left\;'><a href='http://www.the
@@ -191,7 +145,7 @@ X-COST:Free!
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1756@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
@@ -220,7 +174,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1758@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
@@ -249,7 +203,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1822@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><a href='http://www.th
@@ -282,7 +236,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1823@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><a href='http://www.th
@@ -316,7 +270,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1824@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Auditions
 CONTACT:Russell Lewis\; 406-222-1420\; russ@theshanecenter.org
 DESCRIPTION:<p><a href='http://www.theshanecenter.org/wp-content/uploads/20
@@ -342,7 +296,7 @@ URL:http://www.theshanecenter.org/event/auditions-jesus-christ-superstar/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1826@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><em><a href='http://ww
@@ -369,7 +323,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1827@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><em><a href='http://ww
@@ -397,7 +351,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1828@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<h5></h5>\n<p style='text-align: left\;'><em><a href='http://ww
@@ -423,7 +377,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1829@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Auditions
 CONTACT:Russell Lewis\; 406-222-1420\; russ@theshanecenter.org
 DESCRIPTION:<p><a href='http://www.theshanecenter.org/wp-content/uploads/20
@@ -448,7 +402,7 @@ URL:http://www.theshanecenter.org/event/auditions-chicago/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1837@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Auditions
 CONTACT:406-222-1420\; info@theshanecenter.org
 DESCRIPTION:<p><a href='http://www.theshanecenter.org/wp-content/uploads/20
@@ -473,7 +427,7 @@ URL:http://www.theshanecenter.org/event/auditions-broadway-bound/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1831@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
@@ -498,7 +452,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1834@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
@@ -523,7 +477,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1839@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://
@@ -549,7 +503,7 @@ X-COST:Adults: $16  Senior/Students: $13    Children (17-): $10
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1842@www.theshanecenter.org
-DTSTAMP:20150920T002312Z
+DTSTAMP:20150921T224745Z
 CATEGORIES;LANGUAGE=en-US:Community Theatre Productions
 CONTACT:Shane Center Box Office\; 406-222-1420\; tickets@theshanecenter.org
 DESCRIPTION:<p><a style='line-height: 25.200000762939453px\;' href='http://

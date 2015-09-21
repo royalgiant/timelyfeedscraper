@@ -1,0 +1,1135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.13.128.86//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.ueberwald-gymnasium.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:82@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>ADAC-Aktion „Achtung Auto“ für die Jgst. 5je Klasse 2 Stunde
+ n</p>
+DTSTART;TZID=Europe/Berlin:20150921T080000
+DTEND;TZID=Europe/Berlin:20150921T080000
+SEQUENCE:0
+SUMMARY:ADAC-Aktion „Achtung Auto“ für die Jgst. 5 je Klasse 2 Stunden
+URL:http://www.ueberwald-gymnasium.de/event/adac-aktion-achtung-auto-fuer-d
+ ie-jgst-5-je-klasse-2-stunden/
+END:VEVENT
+BEGIN:VEVENT
+UID:83@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150921T080000
+DTEND;TZID=Europe/Berlin:20150921T080000
+SEQUENCE:0
+SUMMARY:Nachbereitung Betriebspraktikum Jgst. E1
+URL:http://www.ueberwald-gymnasium.de/event/nachbereitung-betriebspraktikum
+ -jgst-e1/
+END:VEVENT
+BEGIN:VEVENT
+UID:84@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150923T193000
+DTEND;TZID=Europe/Berlin:20150923T193000
+SEQUENCE:0
+SUMMARY:Elternabend Jgst. E1 im großen Musiksaal\, Wahl der Elternbeiräte
+URL:http://www.ueberwald-gymnasium.de/event/elternabend-jgst-e1-im-grossen-
+ musiksaal-wahl-der-elternbeiraete/
+END:VEVENT
+BEGIN:VEVENT
+UID:85@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150925T080000
+DTEND;TZID=Europe/Berlin:20150925T080000
+SEQUENCE:0
+SUMMARY:Gesundheitstag für die Jgst. 7 (Frau U. Arnold)
+URL:http://www.ueberwald-gymnasium.de/event/gesundheitstag-fuer-die-jgst-7-
+ frau-u-arnold/
+END:VEVENT
+BEGIN:VEVENT
+UID:86@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150928T193000
+DTEND;TZID=Europe/Berlin:20150928T193000
+SEQUENCE:0
+SUMMARY:Elternabend der Jgst. 5 allgemeine Informationen im Musiksaal\, dan
+  ach Wahl der Elternbeiräte in den Klassenräumen
+URL:http://www.ueberwald-gymnasium.de/event/elternabend-der-jgst-5-allgemei
+ ne-informationen-im-musiksaal-dan-ach-wahl-der-elternbeiraete-in-den-klass
+ enraeumen/
+END:VEVENT
+BEGIN:VEVENT
+UID:89@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150930T000000
+DTEND;TZID=Europe/Berlin:20150930T000000
+SEQUENCE:0
+SUMMARY:Leichtathletik Kreisentscheid WK IV Jgst. 6 – 7 in Bensheim (Herr V
+  ollmer)
+URL:http://www.ueberwald-gymnasium.de/event/leichtathletik-kreisentscheid-w
+ k-iv-jgst-6-7-in-bensheim-herr-v-ollmer/
+END:VEVENT
+BEGIN:VEVENT
+UID:87@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150930T193000
+DTEND;TZID=Europe/Berlin:20150930T193000
+SEQUENCE:0
+SUMMARY:Mitgliederversammlung des Fördervereins des ÜWG e.V. in der Bibliot
+  hek
+URL:http://www.ueberwald-gymnasium.de/event/mitgliederversammlung-des-foerd
+ ervereins-des-uewg-e-v-in-der-bibliot-hek/
+END:VEVENT
+BEGIN:VEVENT
+UID:88@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151005T200000
+DTEND;TZID=Europe/Berlin:20151005T200000
+SEQUENCE:0
+SUMMARY:Präsentation Embrace England im Musiksaal (Herr Berghaus)
+URL:http://www.ueberwald-gymnasium.de/event/praesentation-embrace-england-i
+ m-musiksaal-herr-berghaus/
+END:VEVENT
+BEGIN:VEVENT
+UID:90@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151013T000000
+DTEND;TZID=Europe/Berlin:20151015T235500
+SEQUENCE:0
+SUMMARY:Gute Zeiten – schlechte Zeiten (GZSZ) für die Jgst. 8 (Frau Fibian\
+ \ \, Frau Riedinger)
+URL:http://www.ueberwald-gymnasium.de/event/gute-zeiten-schlechte-zeiten-gz
+ sz-fuer-die-jgst-8-frau-fibian-frau-riedinger/
+END:VEVENT
+BEGIN:VEVENT
+UID:91@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151016T080000
+DTEND;TZID=Europe/Berlin:20151016T080000
+SEQUENCE:0
+SUMMARY:2. Std. Ehrungen in der Aula 3. Std. gemeinsames Frühstück nach der
+   3. Std. Unterrichtsschluss
+URL:http://www.ueberwald-gymnasium.de/event/2-std-ehrungen-in-der-aula-3-st
+ d-gemeinsames-fruehstueck-nach-der-3-std-unterrichtsschluss/
+END:VEVENT
+BEGIN:VEVENT
+UID:69@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151019T000000
+DTEND;TZID=Europe/Berlin:20151031T000000
+SEQUENCE:0
+SUMMARY:Herbstferien
+URL:http://www.ueberwald-gymnasium.de/event/herbstferien/
+END:VEVENT
+BEGIN:VEVENT
+UID:92@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151102T000000
+DTEND;TZID=Europe/Berlin:20151104T125500
+SEQUENCE:0
+SUMMARY:Kennenlernfahrt der Jgst. 5 nach Breuberg
+URL:http://www.ueberwald-gymnasium.de/event/kennenlernfahrt-der-jgst-5-nach
+ -breuberg/
+END:VEVENT
+BEGIN:VEVENT
+UID:93@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151103T000000
+DTEND;TZID=Europe/Berlin:20151106T235500
+SEQUENCE:0
+SUMMARY:Reflexionstage der Klasse 9B in der Jugendtagungsstätte Don Bosco\,
+   Mainz
+URL:http://www.ueberwald-gymnasium.de/event/reflexionstage-der-klasse-9b-in
+ -der-jugendtagungsstaette-don-bosco-mainz/
+END:VEVENT
+BEGIN:VEVENT
+UID:94@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151104T000000
+DTEND;TZID=Europe/Berlin:20151104T000000
+SEQUENCE:0
+SUMMARY:Tischtennis Kreisentscheid WK III Jgst. 7 – 9 in Rimbach (Herr Hörs
+  ch)
+URL:http://www.ueberwald-gymnasium.de/event/tischtennis-kreisentscheid-wk-i
+ ii-jgst-7-9-in-rimbach-herr-hoers-ch/
+END:VEVENT
+BEGIN:VEVENT
+UID:95@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151110T000000
+DTEND;TZID=Europe/Berlin:20151113T235500
+SEQUENCE:0
+SUMMARY:Reflexionstage der Klasse 9D in der Jugendtagungsstätte Don Bosco\,
+   Mainz
+URL:http://www.ueberwald-gymnasium.de/event/reflexionstage-der-klasse-9d-in
+ -der-jugendtagungsstaette-don-bosco-mainz/
+END:VEVENT
+BEGIN:VEVENT
+UID:167@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Im MIZ: Lilo Beil liest aus „Mord auf 4 Pfoten“ und andere T
+ ext e zur Herbst- und Vorweihnachtszeit </p>
+DTSTART;TZID=Europe/Berlin:20151120T200000
+DTEND;TZID=Europe/Berlin:20151120T200000
+SEQUENCE:0
+SUMMARY:Im MIZ: Lilo Beil liest aus „Mord auf 4 Pfoten“
+URL:http://www.ueberwald-gymnasium.de/event/im-miz-lilo-beil-liest-aus-mord
+ -auf-4-pfoten/
+END:VEVENT
+BEGIN:VEVENT
+UID:96@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151123T000000
+DTEND;TZID=Europe/Berlin:20151130T235500
+SEQUENCE:0
+SUMMARY:Französische Schüler/innen aus Vézelise zu Gast in der Jgst. 9 (Fra
+  u Reinheimer-Wolf)
+URL:http://www.ueberwald-gymnasium.de/event/franzoesische-schuelerinnen-aus
+ -vezelise-zu-gast-in-der-jgst-9-fra-u-reinheimer-wolf/
+END:VEVENT
+BEGIN:VEVENT
+UID:97@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151125T000000
+DTEND;TZID=Europe/Berlin:20151125T000000
+SEQUENCE:0
+SUMMARY:Volleyball Kreisentscheid WK II und III Jgst. 7 – Q1 in Wald-Michel
+  bach (Herr Vollmer)
+URL:http://www.ueberwald-gymnasium.de/event/volleyball-kreisentscheid-wk-ii
+ -und-iii-jgst-7-q1-in-wald-michel-bach-herr-vollmer/
+END:VEVENT
+BEGIN:VEVENT
+UID:98@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151125T140000
+DTEND;TZID=Europe/Berlin:20151125T140000
+SEQUENCE:0
+SUMMARY:Gesamtkonferenz (großer Musiksaal)
+URL:http://www.ueberwald-gymnasium.de/event/gesamtkonferenz-grosser-musiksa
+ al/
+END:VEVENT
+BEGIN:VEVENT
+UID:99@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151130T193000
+DTEND;TZID=Europe/Berlin:20151130T193000
+SEQUENCE:0
+SUMMARY:Schulkonferenz (Konferenzraum)
+URL:http://www.ueberwald-gymnasium.de/event/schulkonferenz-konferenzraum-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:100@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Weihnachtsmarkt Wald-MichelbachStand des Fördervereins\, Auf
+ tri tt der Big-Banddes ÜWG\, Beteiligung durch das Kollegiumund die Schull
+ eitun g </p>
+DTSTART;TZID=Europe/Berlin:20151204T000000
+DTEND;TZID=Europe/Berlin:20151206T235500
+SEQUENCE:0
+SUMMARY:Weihnachtsmarkt Wald-Michelbach Stand des Fördervereins\, Auftritt 
+  der Big-Band des ÜWG\, Beteiligung durch das Kollegium und die Schulleitu
+ ng
+URL:http://www.ueberwald-gymnasium.de/event/weihnachtsmarkt-wald-michelbach
+ -stand-des-foerdervereins-auftritt-der-big-band-des-uewg-beteiligung-durch
+ -das-kollegium-und-die-schulleitung/
+END:VEVENT
+BEGIN:VEVENT
+UID:101@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151209T000000
+DTEND;TZID=Europe/Berlin:20151209T000000
+SEQUENCE:0
+SUMMARY:Handball Kreisentscheid WK II und III Mädchen Jgst. 7 – Q1 in Heppe
+  nheim (Herr Trautmann)
+URL:http://www.ueberwald-gymnasium.de/event/handball-kreisentscheid-wk-ii-u
+ nd-iii-maedchen-jgst-7-q1-in-heppe-nheim-herr-trautmann/
+END:VEVENT
+BEGIN:VEVENT
+UID:102@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151216T000000
+DTEND;TZID=Europe/Berlin:20151216T000000
+SEQUENCE:0
+SUMMARY:Volleyball Regionalentscheid WK II und III Jgst. 7 – Q1 in Bensheim
+   (Herr Vollmer)
+URL:http://www.ueberwald-gymnasium.de/event/volleyball-regionalentscheid-wk
+ -ii-und-iii-jgst-7-q1-in-bensheim-herr-vollmer/
+END:VEVENT
+BEGIN:VEVENT
+UID:103@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151216T080000
+DTEND;TZID=Europe/Berlin:20151216T080000
+SEQUENCE:0
+SUMMARY:Adventskonzert: Generalprobe in der ev. Kirche
+URL:http://www.ueberwald-gymnasium.de/event/adventskonzert-generalprobe-in-
+ der-ev-kirche/
+END:VEVENT
+BEGIN:VEVENT
+UID:104@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>jeweils ab 19 Uhr</p>
+DTSTART;TZID=Europe/Berlin:20151217T190000
+DTEND;TZID=Europe/Berlin:20151218T223000
+SEQUENCE:0
+SUMMARY:Adventskonzert in der ev. Kirche
+URL:http://www.ueberwald-gymnasium.de/event/adventskonzert-in-der-ev-kirche
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:105@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151222T080000
+DTEND;TZID=Europe/Berlin:20151222T080000
+SEQUENCE:0
+SUMMARY:1. Std. gemeinsames Frühstück 2. Std. Ehrungen in der Aula nach der
+   3. Std. Unterrichtsschluss
+URL:http://www.ueberwald-gymnasium.de/event/1-std-gemeinsames-fruehstueck-2
+ -std-ehrungen-in-der-aula-nach-der-3-std-unterrichtsschluss/
+END:VEVENT
+BEGIN:VEVENT
+UID:70@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20151223T000000
+DTEND;TZID=Europe/Berlin:20160109T000000
+SEQUENCE:0
+SUMMARY:Weihnachtsferien
+URL:http://www.ueberwald-gymnasium.de/event/weihnachtsferien/
+END:VEVENT
+BEGIN:VEVENT
+UID:106@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160120T140000
+DTEND;TZID=Europe/Berlin:20160120T140000
+SEQUENCE:0
+SUMMARY:Zeugniskonferenzen
+URL:http://www.ueberwald-gymnasium.de/event/zeugniskonferenzen-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:107@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160121T140000
+DTEND;TZID=Europe/Berlin:20160121T140000
+SEQUENCE:0
+SUMMARY:Zeugniskonferenzen
+URL:http://www.ueberwald-gymnasium.de/event/zeugniskonferenzen/
+END:VEVENT
+BEGIN:VEVENT
+UID:109@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160127T000000
+DTEND;TZID=Europe/Berlin:20160129T235500
+SEQUENCE:0
+SUMMARY:Big-Band Freizeit (Herr Schertel\, Herr Römer)
+URL:http://www.ueberwald-gymnasium.de/event/big-band-freizeit-herr-schertel
+ -herr-roemer/
+END:VEVENT
+BEGIN:VEVENT
+UID:108@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160127T000000
+DTEND;TZID=Europe/Berlin:20160127T000000
+SEQUENCE:0
+SUMMARY:Handball Kreisentscheid WK IV Jgst. 6 – 7 in Birkenau (Herr Trautma
+  nn)
+URL:http://www.ueberwald-gymnasium.de/event/handball-kreisentscheid-wk-iv-j
+ gst-6-7-in-birkenau-herr-trautma-nn/
+END:VEVENT
+BEGIN:VEVENT
+UID:110@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160129T080000
+DTEND;TZID=Europe/Berlin:20160129T080000
+SEQUENCE:0
+SUMMARY:Ende des 1. Halbjahres 3. Std. Zeugnisausgabe nach der 3. Std. Unte
+  rrichtsschluss
+URL:http://www.ueberwald-gymnasium.de/event/ende-des-1-halbjahres-3-std-zeu
+ gnisausgabe-nach-der-3-std-unte-rrichtsschluss/
+END:VEVENT
+BEGIN:VEVENT
+UID:112@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160201T000000
+DTEND;TZID=Europe/Berlin:20160201T000000
+SEQUENCE:0
+SUMMARY:Q4: Meldung zur Abiturprüfung
+URL:http://www.ueberwald-gymnasium.de/event/q4-meldung-zur-abiturpruefung/
+END:VEVENT
+BEGIN:VEVENT
+UID:111@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160201T080000
+DTEND;TZID=Europe/Berlin:20160201T080000
+SEQUENCE:0
+SUMMARY:Beginn des 2. Halbjahres
+URL:http://www.ueberwald-gymnasium.de/event/beginn-des-2-halbjahres/
+END:VEVENT
+BEGIN:VEVENT
+UID:113@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160203T140000
+DTEND;TZID=Europe/Berlin:20160203T140000
+SEQUENCE:0
+SUMMARY:Gesamtkonferenz (großer Musiksaal)
+URL:http://www.ueberwald-gymnasium.de/event/gesamtkonferenz-grosser-musiksa
+ al-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:114@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160208T000000
+DTEND;TZID=Europe/Berlin:20160208T000000
+SEQUENCE:0
+SUMMARY:Rosenmontag\, beweglicher Ferientag
+URL:http://www.ueberwald-gymnasium.de/event/rosenmontag-beweglicher-ferient
+ ag/
+END:VEVENT
+BEGIN:VEVENT
+UID:115@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160209T000000
+DTEND;TZID=Europe/Berlin:20160209T000000
+SEQUENCE:0
+SUMMARY:Studientag\, kein Unterricht
+URL:http://www.ueberwald-gymnasium.de/event/studientag-kein-unterricht/
+END:VEVENT
+BEGIN:VEVENT
+UID:116@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Volleyball Landesentscheid WK II und III Jgst.7 – Q1 in Wies
+ bad en / Rüsselsheim (HerrVollmer) </p>
+DTSTART;TZID=Europe/Berlin:20160217T000000
+DTEND;TZID=Europe/Berlin:20160217T000000
+SEQUENCE:0
+SUMMARY:Volleyball Landesentscheid WK II und III
+URL:http://www.ueberwald-gymnasium.de/event/volleyball-landesentscheid-wk-i
+ i-und-iii/
+END:VEVENT
+BEGIN:VEVENT
+UID:117@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160219T150000
+DTEND;TZID=Europe/Berlin:20160219T200000
+SEQUENCE:0
+SUMMARY:Elternsprechtag
+URL:http://www.ueberwald-gymnasium.de/event/elternsprechtag/
+END:VEVENT
+BEGIN:VEVENT
+UID:118@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160226T000000
+DTEND;TZID=Europe/Berlin:20160304T235500
+SEQUENCE:0
+SUMMARY:Skilehrgang der Jgst. 7 in St. Jakob / Südtirol
+URL:http://www.ueberwald-gymnasium.de/event/skilehrgang-der-jgst-7-in-st-ja
+ kob-suedtirol/
+END:VEVENT
+BEGIN:VEVENT
+UID:119@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160301T000000
+DTEND;TZID=Europe/Berlin:20160308T235500
+SEQUENCE:0
+SUMMARY:Schüleraustausch Vézelise in der Jgst. 9 (Frau Reinheimer-Wolf)
+URL:http://www.ueberwald-gymnasium.de/event/schueleraustausch-vezelise-in-d
+ er-jgst-9-frau-reinheimer-wolf/
+END:VEVENT
+BEGIN:VEVENT
+UID:120@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Volleyball Regionalentscheid WK IV Jgst. 6 –7 in Wald-Michel
+ bac h (Herr Vollmer) </p>
+DTSTART;TZID=Europe/Berlin:20160302T000000
+DTEND;TZID=Europe/Berlin:20160302T000000
+SEQUENCE:0
+SUMMARY:Volleyball Regionalentscheid WK IV
+URL:http://www.ueberwald-gymnasium.de/event/volleyball-regionalentscheid-wk
+ -iv/
+END:VEVENT
+BEGIN:VEVENT
+UID:121@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160302T193000
+DTEND;TZID=Europe/Berlin:20160302T193000
+SEQUENCE:0
+SUMMARY:Elternabend für die Jgst. 9 zur gymnasialen Oberstufe im großen Mus
+  iksaal
+URL:http://www.ueberwald-gymnasium.de/event/elternabend-fuer-die-jgst-9-zur
+ -gymnasialen-oberstufe-im-grossen-mus-iksaal/
+END:VEVENT
+BEGIN:VEVENT
+UID:122@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160307T000000
+DTEND;TZID=Europe/Berlin:20160316T235500
+SEQUENCE:0
+SUMMARY:Besuch in der Jgst. 9 von englischen Gästen aus Harrogate
+URL:http://www.ueberwald-gymnasium.de/event/besuch-in-der-jgst-9-von-englis
+ chen-gaesten-aus-harrogate/
+END:VEVENT
+BEGIN:VEVENT
+UID:123@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160307T000000
+DTEND;TZID=Europe/Berlin:20160308T235500
+SEQUENCE:0
+SUMMARY:unterrichtsfrei für Q4\, Lehrer stehen in ihren Stunden für Beratun
+  g zur Verfügung
+URL:http://www.ueberwald-gymnasium.de/event/unterrichtsfrei-fuer-q4-lehrer-
+ stehen-in-ihren-stunden-fuer-beratun-g-zur-verfuegung/
+END:VEVENT
+BEGIN:VEVENT
+UID:125@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160309T000000
+DTEND;TZID=Europe/Berlin:20160323T235500
+SEQUENCE:0
+SUMMARY:Abitur 2016: schriftliche Abiturprüfungen
+URL:http://www.ueberwald-gymnasium.de/event/abitur-2016-schriftliche-abitur
+ pruefungen/
+END:VEVENT
+BEGIN:VEVENT
+UID:124@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Informationsabend für die Eltern der Jgst. 6 zur Wahl der 2.
+  Fr emdsprache (großer Musiksaal) </p>
+DTSTART;TZID=Europe/Berlin:20160309T193000
+DTEND;TZID=Europe/Berlin:20160309T193000
+SEQUENCE:0
+SUMMARY:Informationsabend für die Eltern der Jgst. 6 zur Wahl der 2. Fremds
+  prache (großer Musiksaal)
+URL:http://www.ueberwald-gymnasium.de/event/informationsabend-fuer-die-elte
+ rn-der-jgst-6-zur-wahl-der-2-fremds-prache-grosser-musiksaal/
+END:VEVENT
+BEGIN:VEVENT
+UID:126@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Handball Landesentscheid WK II und IIIMädchen Jgst. 7 – Q1 i
+ n B ensheim (HerrTrautmann) </p>
+DTSTART;TZID=Europe/Berlin:20160316T000000
+DTEND;TZID=Europe/Berlin:20160316T000000
+SEQUENCE:0
+SUMMARY:Handball Landesentscheid WK II und III Mädchen Jgst. 7 – Q1 in Bens
+  heim (Herr Trautmann)
+URL:http://www.ueberwald-gymnasium.de/event/handball-landesentscheid-wk-ii-
+ und-iii-maedchen-jgst-7-q1-in-bens-heim-herr-trautmann/
+END:VEVENT
+BEGIN:VEVENT
+UID:127@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160323T000000
+DTEND;TZID=Europe/Berlin:20160324T235500
+SEQUENCE:0
+SUMMARY:Abitur 2016: Ausgabe der Aufgabenstellungen für die Präsentationspr
+  üfungen
+URL:http://www.ueberwald-gymnasium.de/event/abitur-2016-ausgabe-der-aufgabe
+ nstellungen-fuer-die-praesentationspr-uefungen/
+END:VEVENT
+BEGIN:VEVENT
+UID:128@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160324T000000
+DTEND;TZID=Europe/Berlin:20160324T000000
+SEQUENCE:0
+SUMMARY:Abitur 2016: Abgabe der BLL
+URL:http://www.ueberwald-gymnasium.de/event/abitur-2016-abgabe-der-bll/
+END:VEVENT
+BEGIN:VEVENT
+UID:129@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160324T080000
+DTEND;TZID=Europe/Berlin:20160324T080000
+SEQUENCE:0
+SUMMARY:3. Std. gemeinsames Frühstück nach der 3. Std. Unterrichtsschluss
+URL:http://www.ueberwald-gymnasium.de/event/3-std-gemeinsames-fruehstueck-n
+ ach-der-3-std-unterrichtsschluss/
+END:VEVENT
+BEGIN:VEVENT
+UID:71@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feiertag</p>
+DTSTART;TZID=Europe/Berlin:20160325T000000
+DTEND;TZID=Europe/Berlin:20160325T000000
+SEQUENCE:0
+SUMMARY:Karfreitag
+URL:http://www.ueberwald-gymnasium.de/event/karfreitag/
+END:VEVENT
+BEGIN:VEVENT
+UID:130@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160325T000000
+DTEND;TZID=Europe/Berlin:20160325T000000
+SEQUENCE:0
+SUMMARY:Karfreitag\, unterrichtsfrei
+URL:http://www.ueberwald-gymnasium.de/event/karfreitag-unterrichtsfrei/
+END:VEVENT
+BEGIN:VEVENT
+UID:131@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160328T000000
+DTEND;TZID=Europe/Berlin:20160328T000000
+SEQUENCE:0
+SUMMARY:Ostermontag\, unterrichtsfrei
+URL:http://www.ueberwald-gymnasium.de/event/ostermontag-unterrichtsfrei/
+END:VEVENT
+BEGIN:VEVENT
+UID:132@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160329T000000
+DTEND;TZID=Europe/Berlin:20160408T235500
+SEQUENCE:0
+SUMMARY:Osterferien
+URL:http://www.ueberwald-gymnasium.de/event/osterferien-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:134@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160427T000000
+DTEND;TZID=Europe/Berlin:20160427T000000
+SEQUENCE:0
+SUMMARY:Leichtathletik Kreisentscheid WK II und III Jgst. 7 – E1 in Lampert
+  heim (Herr Vollmer)
+URL:http://www.ueberwald-gymnasium.de/event/leichtathletik-kreisentscheid-w
+ k-ii-und-iii-jgst-7-e1-in-lampert-heim-herr-vollmer/
+END:VEVENT
+BEGIN:VEVENT
+UID:135@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160428T000000
+DTEND;TZID=Europe/Berlin:20160428T000000
+SEQUENCE:0
+SUMMARY:Girl’s Day – Boy’s Day
+URL:http://www.ueberwald-gymnasium.de/event/girls-day-boys-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:73@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Tag der Arbeit\, frei</p>
+DTSTART;TZID=Europe/Berlin:20160501T000000
+DTEND;TZID=Europe/Berlin:20160501T000000
+SEQUENCE:0
+SUMMARY:1. Mai
+URL:http://www.ueberwald-gymnasium.de/event/1-mai/
+END:VEVENT
+BEGIN:VEVENT
+UID:136@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160502T000000
+DTEND;TZID=Europe/Berlin:20160502T000000
+SEQUENCE:0
+SUMMARY:Abitur 2016: Beginn der sportpraktischen Prüfungen
+URL:http://www.ueberwald-gymnasium.de/event/abitur-2016-beginn-der-sportpra
+ ktischen-pruefungen/
+END:VEVENT
+BEGIN:VEVENT
+UID:137@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160505T000000
+DTEND;TZID=Europe/Berlin:20160505T000000
+SEQUENCE:0
+SUMMARY:Christi Himmelfahrt
+URL:http://www.ueberwald-gymnasium.de/event/christi-himmelfahrt-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:138@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160506T000000
+DTEND;TZID=Europe/Berlin:20160506T000000
+SEQUENCE:0
+SUMMARY:beweglicher Ferientag (nach Himmelfahrt)
+URL:http://www.ueberwald-gymnasium.de/event/beweglicher-ferientag-nach-himm
+ elfahrt/
+END:VEVENT
+BEGIN:VEVENT
+UID:142@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160513T000000
+DTEND;TZID=Europe/Berlin:20160513T000000
+SEQUENCE:0
+SUMMARY:Ende der Kursphase Q4
+URL:http://www.ueberwald-gymnasium.de/event/ende-der-kursphase-q4/
+END:VEVENT
+BEGIN:VEVENT
+UID:141@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160513T000000
+DTEND;TZID=Europe/Berlin:20160513T000000
+SEQUENCE:0
+SUMMARY:Q4: Zeugnisausgabe und Mitteilung der Ergebnisse in den Kursen Q4
+URL:http://www.ueberwald-gymnasium.de/event/q4-zeugnisausgabe-und-mitteilun
+ g-der-ergebnisse-in-den-kursen-q4/
+END:VEVENT
+BEGIN:VEVENT
+UID:75@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>frei</p>
+DTSTART;TZID=Europe/Berlin:20160516T000000
+DTEND;TZID=Europe/Berlin:20160516T000000
+SEQUENCE:0
+SUMMARY:Pfingstmontag
+URL:http://www.ueberwald-gymnasium.de/event/pfingstmontag-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:143@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160516T000000
+DTEND;TZID=Europe/Berlin:20160516T000000
+SEQUENCE:0
+SUMMARY:Pfingstmontag\, unterrichtsfrei
+URL:http://www.ueberwald-gymnasium.de/event/pfingstmontag-unterrichtsfrei/
+END:VEVENT
+BEGIN:VEVENT
+UID:145@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160518T000000
+DTEND;TZID=Europe/Berlin:20160518T000000
+SEQUENCE:0
+SUMMARY:Beach-Volleyball Regionalentscheid Jgst. E1 – Q1 in Michelstadt (He
+  rr Vollmer)
+URL:http://www.ueberwald-gymnasium.de/event/beach-volleyball-regionalentsch
+ eid-jgst-e1-q1-in-michelstadt-he-rr-vollmer/
+END:VEVENT
+BEGIN:VEVENT
+UID:146@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Q4: Mitteilung der Ergebnisse der schriftlichenAbiturarbeite
+ n s owie über zusätzlichemündliche Prüfungen\,Meldung der 24 Grundkurse </
+ p>
+DTSTART;TZID=Europe/Berlin:20160520T000000
+DTEND;TZID=Europe/Berlin:20160520T000000
+SEQUENCE:0
+SUMMARY:Q4: Mitteilung der Ergebnisse der schriftlichen Abiturarbeiten sowi
+  e über zusätzliche mündliche Prüfungen\, Meldung der 24 Grundkurse
+URL:http://www.ueberwald-gymnasium.de/event/q4-mitteilung-der-ergebnisse-de
+ r-schriftlichen-abiturarbeiten-sowi-e-ueber-zusaetzliche-muendliche-pruefu
+ ngen-meldung-der-24-grundkurse/
+END:VEVENT
+BEGIN:VEVENT
+UID:147@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160523T000000
+DTEND;TZID=Europe/Berlin:20160523T000000
+SEQUENCE:0
+SUMMARY:Abitur 2016: letzter Termin für die Meldung für zusätzliche mündlic
+  he Prüfungen
+URL:http://www.ueberwald-gymnasium.de/event/abitur-2016-letzter-termin-fuer
+ -die-meldung-fuer-zusaetzliche-muendlic-he-pruefungen/
+END:VEVENT
+BEGIN:VEVENT
+UID:149@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160526T000000
+DTEND;TZID=Europe/Berlin:20160526T000000
+SEQUENCE:0
+SUMMARY:Fronleichnam
+URL:http://www.ueberwald-gymnasium.de/event/fronleichnam-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:150@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160527T000000
+DTEND;TZID=Europe/Berlin:20160527T000000
+SEQUENCE:0
+SUMMARY:beweglicher Ferientag (nach Fronleichnam)
+URL:http://www.ueberwald-gymnasium.de/event/beweglicher-ferientag-nach-fron
+ leichnam/
+END:VEVENT
+BEGIN:VEVENT
+UID:151@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160530T000000
+DTEND;TZID=Europe/Berlin:20160601T235500
+SEQUENCE:0
+SUMMARY:Abitur 2016: Präsentationsprüfungen\, Kolloquien BLL
+URL:http://www.ueberwald-gymnasium.de/event/abitur-2016-praesentationspruef
+ ungen-kolloquien-bll/
+END:VEVENT
+BEGIN:VEVENT
+UID:152@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160601T000000
+DTEND;TZID=Europe/Berlin:20160601T000000
+SEQUENCE:0
+SUMMARY:Volleyball Landesentscheid WK IV Jgst. 6 – 7 in Kriftel (Herr Vollm
+  er)
+URL:http://www.ueberwald-gymnasium.de/event/volleyball-landesentscheid-wk-i
+ v-jgst-6-7-in-kriftel-herr-vollm-er/
+END:VEVENT
+BEGIN:VEVENT
+UID:153@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160606T000000
+DTEND;TZID=Europe/Berlin:20160606T000000
+SEQUENCE:0
+SUMMARY:Abitur 2016: Aushang des Prüfungsplans für die mündlichen Prüfungen
+URL:http://www.ueberwald-gymnasium.de/event/abitur-2016-aushang-des-pruefun
+ gsplans-fuer-die-muendlichen-pruefungen/
+END:VEVENT
+BEGIN:VEVENT
+UID:154@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160613T000000
+DTEND;TZID=Europe/Berlin:20160617T235500
+SEQUENCE:0
+SUMMARY:Abitur 2016: mündliche Prüfungen (Mo 13.06.2016 unterrichtsfrei für
+   die Jgst. 5 – Q2)
+URL:http://www.ueberwald-gymnasium.de/event/abitur-2016-muendliche-pruefung
+ en-mo-13-06-2016-unterrichtsfrei-fuer-die-jgst-5-q2/
+END:VEVENT
+BEGIN:VEVENT
+UID:155@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160615T000000
+DTEND;TZID=Europe/Berlin:20160624T235500
+SEQUENCE:0
+SUMMARY:Austausch England – Fahrt mit der Jgst. 9 nach Harrogate (Herr Berg
+  haus)
+URL:http://www.ueberwald-gymnasium.de/event/austausch-england-fahrt-mit-der
+ -jgst-9-nach-harrogate-herr-berg-haus/
+END:VEVENT
+BEGIN:VEVENT
+UID:156@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160625T180000
+DTEND;TZID=Europe/Berlin:20160625T180000
+SEQUENCE:0
+SUMMARY:Abiturentlassfeier und Abiball in der Rudi-Wünzer-Halle Wald-Michel
+  bach
+URL:http://www.ueberwald-gymnasium.de/event/abiturentlassfeier-und-abiball-
+ in-der-rudi-wuenzer-halle-wald-michel-bach/
+END:VEVENT
+BEGIN:VEVENT
+UID:158@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160629T193000
+DTEND;TZID=Europe/Berlin:20160629T193000
+SEQUENCE:0
+SUMMARY:Schulkonferenz (Konferenzraum)
+URL:http://www.ueberwald-gymnasium.de/event/schulkonferenz-konferenzraum-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:159@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160704T140000
+DTEND;TZID=Europe/Berlin:20160704T140000
+SEQUENCE:0
+SUMMARY:Versetzungskonferenzen
+URL:http://www.ueberwald-gymnasium.de/event/versetzungskonferenzen-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:160@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160705T140000
+DTEND;TZID=Europe/Berlin:20160705T140000
+SEQUENCE:0
+SUMMARY:Versetzungskonferenzen
+URL:http://www.ueberwald-gymnasium.de/event/versetzungskonferenzen-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:161@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160706T000000
+DTEND;TZID=Europe/Berlin:20160706T000000
+SEQUENCE:0
+SUMMARY:Beach-Volleyball Landesentscheid Jgst. E1 – Q1 in Hünfeld (Herr Vol
+  lmer)
+URL:http://www.ueberwald-gymnasium.de/event/beach-volleyball-landesentschei
+ d-jgst-e1-q1-in-huenfeld-herr-vol-lmer/
+END:VEVENT
+BEGIN:VEVENT
+UID:162@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160706T190000
+DTEND;TZID=Europe/Berlin:20160706T190000
+SEQUENCE:0
+SUMMARY:Sommerkonzert in der Aula des ÜWG
+URL:http://www.ueberwald-gymnasium.de/event/sommerkonzert-in-der-aula-des-u
+ ewg-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:163@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160707T190000
+DTEND;TZID=Europe/Berlin:20160707T190000
+SEQUENCE:0
+SUMMARY:Sommerkonzert in der Aula des ÜWG
+URL:http://www.ueberwald-gymnasium.de/event/sommerkonzert-in-der-aula-des-u
+ ewg/
+END:VEVENT
+BEGIN:VEVENT
+UID:77@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160718T000000
+DTEND;TZID=Europe/Berlin:20160827T000000
+SEQUENCE:0
+SUMMARY:Sommerferien
+URL:http://www.ueberwald-gymnasium.de/event/sommerferien-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:164@ssl-account.com/moodle.ueberwald-gymnasium.de
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160718T000000
+DTEND;TZID=Europe/Berlin:20160826T235500
+SEQUENCE:0
+SUMMARY:Sommerferien
+URL:http://www.ueberwald-gymnasium.de/event/sommerferien-3/
+END:VEVENT
+END:VCALENDAR

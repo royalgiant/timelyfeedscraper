@@ -23,69 +23,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-370@greenmeadowsevents.com
-DTSTAMP:20150920T002134Z
-CATEGORIES;LANGUAGE=en-US:OPEN
-CONTACT:
-DESCRIPTION:<p>Opening Weekend!  BARNYARD BASH WEEKEND!</p>\n<p>Only our “s
- pecial” general admission rate is offered this weekend.  You must buy your
-  ticket at the gate when you arrive\, no advanced purchases allowed\, NO C
- OUPONS ACCEPTED THIS WEEKEND.  The admission cost is $12.00 per person\, a
- ges 24 months and older\, CASH ONLY.  </p>\n<p>Annual pass holders are wel
- come to use their passes this weekend\, too!</p>\n<p>WE WILL NOT HAVE Adva
- nced Group Rates for our Barnyard Bash weekend.</p>
-DTSTART;VALUE=DATE:20150919
-DTEND;VALUE=DATE:20150920
-GEO:+39.346139;-77.31218
-LOCATION:Urbana Farm @ 10102 Fingerboard Road\, Ijamsville\, MD 21754\, USA
-RDATE;TZID=America/New_York:20150920T000000
-SEQUENCE:0
-SUMMARY:MD: Barnyard Bash
-URL:http://greenmeadowsevents.com/event/2015-barnyard-bash
-X-COST:$12 ages 24 months & older CASH ONLY
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-207@gmpettingfarm.wpengine.com
-DTSTAMP:20150920T002134Z
-CATEGORIES;LANGUAGE=en-US:CLOSED
-CONTACT:
-DESCRIPTION:<p>Our petting farm is closed at this time. We will be back in 
- October of 2015.</p>
-DTSTART;VALUE=DATE:20150919
-DTEND;VALUE=DATE:20150920
-GEO:+32.635532;-97.044578
-LOCATION:Grand Prairie @ 5610 Lake Ridge Parkway\, Grand Prairie\, TX 75052
- \, USA
-RDATE;TZID=America/New_York:20150915T000000
-RDATE;TZID=America/New_York:20150916T000000
-RDATE;TZID=America/New_York:20150917T000000
-RDATE;TZID=America/New_York:20150918T000000
-RDATE;TZID=America/New_York:20150919T000000
-RDATE;TZID=America/New_York:20150920T000000
-RDATE;TZID=America/New_York:20150921T000000
-RDATE;TZID=America/New_York:20150922T000000
-RDATE;TZID=America/New_York:20150923T000000
-RDATE;TZID=America/New_York:20150924T000000
-RDATE;TZID=America/New_York:20150925T000000
-RDATE;TZID=America/New_York:20150926T000000
-RDATE;TZID=America/New_York:20150927T000000
-RDATE;TZID=America/New_York:20150928T000000
-RDATE;TZID=America/New_York:20150929T000000
-RDATE;TZID=America/New_York:20150930T000000
-RDATE;TZID=America/New_York:20151001T000000
-RDATE;TZID=America/New_York:20151002T000000
-RDATE;TZID=America/New_York:20151003T000000
-RDATE;TZID=America/New_York:20151004T000000
-RDATE;TZID=America/New_York:20151005T000000
-RDATE;TZID=America/New_York:20151006T000000
-RDATE;TZID=America/New_York:20151007T000000
-SEQUENCE:0
-SUMMARY:TX: CLOSED
-URL:http://greenmeadowsevents.com/event/201509-grand-prairie-closed
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-372@greenmeadowsevents.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:CLOSED
 CONTACT:
 DESCRIPTION:<p>Petting farm is closed today.</p>
@@ -165,8 +104,47 @@ SUMMARY:MD: CLOSED
 URL:http://greenmeadowsevents.com/event/md-2015-september-december-closed
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-207@gmpettingfarm.wpengine.com
+DTSTAMP:20150921T224659Z
+CATEGORIES;LANGUAGE=en-US:CLOSED
+CONTACT:
+DESCRIPTION:<p>Our petting farm is closed at this time. We will be back in 
+ October of 2015.</p>
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150922
+GEO:+32.635532;-97.044578
+LOCATION:Grand Prairie @ 5610 Lake Ridge Parkway\, Grand Prairie\, TX 75052
+ \, USA
+RDATE;TZID=America/New_York:20150915T000000
+RDATE;TZID=America/New_York:20150916T000000
+RDATE;TZID=America/New_York:20150917T000000
+RDATE;TZID=America/New_York:20150918T000000
+RDATE;TZID=America/New_York:20150919T000000
+RDATE;TZID=America/New_York:20150920T000000
+RDATE;TZID=America/New_York:20150921T000000
+RDATE;TZID=America/New_York:20150922T000000
+RDATE;TZID=America/New_York:20150923T000000
+RDATE;TZID=America/New_York:20150924T000000
+RDATE;TZID=America/New_York:20150925T000000
+RDATE;TZID=America/New_York:20150926T000000
+RDATE;TZID=America/New_York:20150927T000000
+RDATE;TZID=America/New_York:20150928T000000
+RDATE;TZID=America/New_York:20150929T000000
+RDATE;TZID=America/New_York:20150930T000000
+RDATE;TZID=America/New_York:20151001T000000
+RDATE;TZID=America/New_York:20151002T000000
+RDATE;TZID=America/New_York:20151003T000000
+RDATE;TZID=America/New_York:20151004T000000
+RDATE;TZID=America/New_York:20151005T000000
+RDATE;TZID=America/New_York:20151006T000000
+RDATE;TZID=America/New_York:20151007T000000
+SEQUENCE:0
+SUMMARY:TX: CLOSED
+URL:http://greenmeadowsevents.com/event/201509-grand-prairie-closed
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-371@greenmeadowsevents.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:OPEN
 CONTACT:
 DESCRIPTION:<p>Our summer 2015 season has ended. We will re-open for visito
@@ -215,7 +193,7 @@ URL:http://greenmeadowsevents.com/event/urbana-2015-september-november-open
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-373@greenmeadowsevents.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:OPEN
 CONTACT:
 DESCRIPTION:<p>Advanced Group Rate is $10.00 per person\, ages 24 months an

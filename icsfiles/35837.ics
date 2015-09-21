@@ -23,116 +23,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-452@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
-CATEGORIES:
-CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
- stor@gracechurchmiami.org
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T093000
-DTEND;TZID=America/New_York:20150920T102500
-GEO:+25.767315;-80.238817
-LOCATION:Grace Church of the First Born (Fort Lauderdale) @ 551 Southwest 2
- 7th Avenue\, Miami\, FL 33135\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Sunday School – FTL Branch
-URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-school-ne-branch
- -3/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-449@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
-CATEGORIES:
-CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
- stor@gracechurchmiami.org
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T100000
-DTEND;TZID=America/New_York:20150920T105500
-GEO:+25.913273;-80.167748
-LOCATION:Grace Church of the First Born of Miami @ 14900 Northeast 16th Ave
- nue\, Miami\, FL 33161\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Sunday School – NE Branch
-URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-school-ne-branch
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-450@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
-CATEGORIES:
-CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
- stor@gracechurchmiami.org
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T100000
-DTEND;TZID=America/New_York:20150920T105500
-GEO:+25.939389;-80.260758
-LOCATION:Grace Church of the First Born (Northwest Miami) @ 18201 Northwest
-  37th Avenue\, Miami Gardens\, FL 33056\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Sunday School – NW Branch
-URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-school-ne-branch
- -2/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-442@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
-CATEGORIES:
-CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
- stor@gracechurchmiami.org
-DESCRIPTION:<p>Join us in our weekly Sunday morning Worship Service.</p>
-DTSTART;TZID=America/New_York:20150920T103000
-GEO:+26.114531;-80.178248
-LOCATION:Grace Church of the First Born (Fort Lauderdale) @ 551 Southwest 2
- 7th Avenue\, Fort Lauderdale\, FL 33312\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Morning Worship – FTL Branch
-URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-morning-service-
- 2-2/
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-441@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
-CATEGORIES:
-CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
- stor@gracechurchmiami.org
-DESCRIPTION:<p>Join us in our weekly Sunday morning Worship Service.</p>
-DTSTART;TZID=America/New_York:20150920T110000
-EXRULE:FREQ=MONTHLY;BYDAY=1SU;WKST=MO
-GEO:+25.913273;-80.167748
-LOCATION:Grace Church of the First Born of Miami @ 14900 Northeast 16th Ave
- nue\, Miami\, FL 33161\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Morning Worship – NE Branch
-URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-morning-service-
- 2/
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-203@acedevhost.com/1/gracechurch
-DTSTAMP:20150920T002156Z
-CATEGORIES:
-CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
- stor@gracechurchmiami.org
-DESCRIPTION:<p>Join us in our weekly Sunday Morning Worship Service.</p>
-DTSTART;TZID=America/New_York:20150920T110000
-GEO:+25.939389;-80.260758
-LOCATION:Grace Church of the First Born (Northwest Miami) @ 18201 Northwest
-  37th Avenue\, Miami Gardens\, FL 33056\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Morning Worship – NW Branch
-URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-morning-service/
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-455@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
+DTSTAMP:20150921T224721Z
 CATEGORIES:
 CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
  stor@gracechurchmiami.org
@@ -163,7 +55,7 @@ URL:http://gracechurchmiami.org/1/gracechurch/event/evening-worship-ne-bran
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-460@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
+DTSTAMP:20150921T224721Z
 CATEGORIES:
 CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
  stor@gracechurchmiami.org
@@ -182,7 +74,7 @@ URL:http://gracechurchmiami.org/1/gracechurch/event/bible-study-and-praying
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-446@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
+DTSTAMP:20150921T224721Z
 CATEGORIES:
 CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
  stor@gracechurchmiami.org
@@ -200,7 +92,7 @@ URL:http://gracechurchmiami.org/1/gracechurch/event/bible-study-and-praying
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-458@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
+DTSTAMP:20150921T224721Z
 CATEGORIES:
 CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
  stor@gracechurchmiami.org
@@ -218,7 +110,7 @@ URL:http://gracechurchmiami.org/1/gracechurch/event/bible-study-and-praying
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-464@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
+DTSTAMP:20150921T224721Z
 CATEGORIES:
 CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
  stor@gracechurchmiami.org
@@ -247,8 +139,116 @@ URL:http://gracechurchmiami.org/1/gracechurch/event/youth-ministry-meeting-
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-452@gracechurchmiami.org/1/gracechurch
+DTSTAMP:20150921T224721Z
+CATEGORIES:
+CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
+ stor@gracechurchmiami.org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T093000
+DTEND;TZID=America/New_York:20150927T102500
+GEO:+25.767315;-80.238817
+LOCATION:Grace Church of the First Born (Fort Lauderdale) @ 551 Southwest 2
+ 7th Avenue\, Miami\, FL 33135\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Sunday School – FTL Branch
+URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-school-ne-branch
+ -3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-449@gracechurchmiami.org/1/gracechurch
+DTSTAMP:20150921T224721Z
+CATEGORIES:
+CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
+ stor@gracechurchmiami.org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T100000
+DTEND;TZID=America/New_York:20150927T105500
+GEO:+25.913273;-80.167748
+LOCATION:Grace Church of the First Born of Miami @ 14900 Northeast 16th Ave
+ nue\, Miami\, FL 33161\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Sunday School – NE Branch
+URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-school-ne-branch
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-450@gracechurchmiami.org/1/gracechurch
+DTSTAMP:20150921T224721Z
+CATEGORIES:
+CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
+ stor@gracechurchmiami.org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T100000
+DTEND;TZID=America/New_York:20150927T105500
+GEO:+25.939389;-80.260758
+LOCATION:Grace Church of the First Born (Northwest Miami) @ 18201 Northwest
+  37th Avenue\, Miami Gardens\, FL 33056\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Sunday School – NW Branch
+URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-school-ne-branch
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-442@gracechurchmiami.org/1/gracechurch
+DTSTAMP:20150921T224721Z
+CATEGORIES:
+CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
+ stor@gracechurchmiami.org
+DESCRIPTION:<p>Join us in our weekly Sunday morning Worship Service.</p>
+DTSTART;TZID=America/New_York:20150927T103000
+GEO:+26.114531;-80.178248
+LOCATION:Grace Church of the First Born (Fort Lauderdale) @ 551 Southwest 2
+ 7th Avenue\, Fort Lauderdale\, FL 33312\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Morning Worship – FTL Branch
+URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-morning-service-
+ 2-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-441@gracechurchmiami.org/1/gracechurch
+DTSTAMP:20150921T224721Z
+CATEGORIES:
+CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
+ stor@gracechurchmiami.org
+DESCRIPTION:<p>Join us in our weekly Sunday morning Worship Service.</p>
+DTSTART;TZID=America/New_York:20150927T110000
+EXRULE:FREQ=MONTHLY;BYDAY=1SU;WKST=MO
+GEO:+25.913273;-80.167748
+LOCATION:Grace Church of the First Born of Miami @ 14900 Northeast 16th Ave
+ nue\, Miami\, FL 33161\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Morning Worship – NE Branch
+URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-morning-service-
+ 2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-203@acedevhost.com/1/gracechurch
+DTSTAMP:20150921T224721Z
+CATEGORIES:
+CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
+ stor@gracechurchmiami.org
+DESCRIPTION:<p>Join us in our weekly Sunday Morning Worship Service.</p>
+DTSTART;TZID=America/New_York:20150927T110000
+GEO:+25.939389;-80.260758
+LOCATION:Grace Church of the First Born (Northwest Miami) @ 18201 Northwest
+  37th Avenue\, Miami Gardens\, FL 33056\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Morning Worship – NW Branch
+URL:http://gracechurchmiami.org/1/gracechurch/event/sunday-morning-service/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-457@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
+DTSTAMP:20150921T224721Z
 CATEGORIES:
 CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
  stor@gracechurchmiami.org
@@ -267,7 +267,7 @@ URL:http://gracechurchmiami.org/1/gracechurch/event/evening-worship-ne-bran
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-444@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
+DTSTAMP:20150921T224721Z
 CATEGORIES:
 CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
  stor@gracechurchmiami.org
@@ -286,7 +286,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-454@gracechurchmiami.org/1/gracechurch
-DTSTAMP:20150920T002156Z
+DTSTAMP:20150921T224721Z
 CATEGORIES:
 CONTACT:Grace Church of the First Born of Miami\, Inc\; (305) 947-7997\; pa
  stor@gracechurchmiami.org

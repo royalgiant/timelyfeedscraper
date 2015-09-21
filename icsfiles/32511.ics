@@ -23,48 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-11021@sektor3.szczecin.pl
-DTSTAMP:20150920T003828Z
-CATEGORIES:
-CONTACT:http://pzumaratonszczecinski.pl
-DESCRIPTION:<p>\n	W strefie PZU w hali Azoty Arena\, w trakcie trwającego 1.
-  PZU Maratonu Szczecińskiego tj. 19 września\, odbywać się będzie charytat
- ywna akcja 'Podziel się kilometrem'. Idea akcji jest bardzo prosta. Do dys
- pozycji będą bieżnie\, rowery stacjonarne i orbitreki. Każdy przejechany\,
-  przebiegnięty lub przećwiczony 1 km na tych urządzeniach będzie oznaczał 
- 10 zł przekazane przez PZU na rzecz Zachodniopomorskiego Hospicjum dla Dzi
- eci i Dorosłych oraz Hearts World Wide Foundaion w Szczecinie. Jest to świ
- etny sposób na połączenie aktywności fizycznej z pomaganiem.\n</p>\n<p>\n	P
- onad to na miejscu będzie można skorzystać z bezpłatnych porad lekarzy spe
- cjalistów: kardiologa i ortopedy\, a także dietetyka i fizjiterapeuty.\n</
- p>\n<p>\n	<a href='http://pzumaratonszczecinski.pl' onclick='__gaTracker('s
- end'\, 'event'\, 'outbound-article'\, 'http://pzumaratonszczecinski.pl'\, 
- 'http://pzumaratonszczecinski.pl')\;'>http://pzumaratonszczecinski.pl</a>
- \n</p>\n<p>\n	 \n</p>\n<p style='text-align: center\;'>\n	<iframe allowfulls
- creen='' frameborder='0' height='281' mozallowfullscreen='' src='https://p
- layer.vimeo.com/video/136812434' webkitallowfullscreen='' width='500'></if
- rame>\n</p>\n<p>\n	<a href='https://vimeo.com/136812434' onclick='__gaTrack
- er('send'\, 'event'\, 'outbound-article'\, 'https://vimeo.com/136812434'\,
-  '1. PZU Maraton Szczeciński – trasa')\;'>1. PZU Maraton Szczeciński – tra
- sa</a> from <a href='https://vimeo.com/user40376851' onclick='__gaTracker(
- 'send'\, 'event'\, 'outbound-article'\, 'https://vimeo.com/user40376851'\,
-  'Ruchowa Akademia Zdrowia')\;'>Ruchowa Akademia Zdrowia</a> on <a href='h
- ttps://vimeo.com' onclick='__gaTracker('send'\, 'event'\, 'outbound-articl
- e'\, 'https://vimeo.com'\, 'Vimeo')\;'>Vimeo</a>.</p>
-DTSTART;TZID=Europe/Warsaw:20150919T090000
-DTEND;TZID=Europe/Warsaw:20150919T160000
-GEO:+53.457997;+14.49381
-LOCATION:Azoty Arena @ Azoty Arena\, Władysława Szafera 3/5/7\, 70-953 Szcz
- ecin
-SEQUENCE:0
-SUMMARY:Podziel się kilometrem z hospicjum
-URL:http://sektor3.szczecin.pl/event/podziel-sie-kilometrem-z-hospicjum/
-X-TAGS;LANGUAGE=pl-PL:Azoty Arena\,maraton PZU\,Szczecin\,Zachodniopomorski
- e Hospicjum dla dzieci
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-11029@sektor3.szczecin.pl
-DTSTAMP:20150920T003828Z
+DTSTAMP:20150921T225328Z
 CATEGORIES;LANGUAGE=pl-PL:Szkolenia Sektora 3
 CONTACT:Jan Karpierz\; j.karpierz@sektor3.szczecin.pl\; http://sektor3.szcz
  ecin.pl
@@ -101,7 +61,7 @@ X-TAGS;LANGUAGE=pl-PL:granty dla NGO\,mini szkolenie\,Sektor 3\,Szczecin
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11046@sektor3.szczecin.pl
-DTSTAMP:20150920T003828Z
+DTSTAMP:20150921T225328Z
 CATEGORIES:
 CONTACT:Anna Biały\; biuro@polites.org.pl\; http://www.polites.org.pl
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -142,7 +102,7 @@ X-TAGS;LANGUAGE=pl-PL:Dworcowa 19\,Polites\,RCW\,stowarzyszenie Polites
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-10938@sektor3.szczecin.pl
-DTSTAMP:20150920T003828Z
+DTSTAMP:20150921T225328Z
 CATEGORIES:
 CONTACT:Rowerowy Szczecin\; biuro@rowerowy.szczecin.pl\; https://www.facebo
  ok.com/events/904596386288642/
@@ -180,7 +140,7 @@ X-TAGS;LANGUAGE=pl-PL:masa krytyczna\,rower\,Rowerowy Szczecin\,Szczecin
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11040@sektor3.szczecin.pl
-DTSTAMP:20150920T003828Z
+DTSTAMP:20150921T225328Z
 CATEGORIES;LANGUAGE=pl-PL:Szkolenia Sektora 3
 CONTACT:Jan Karpierz\; j.karpierz@sektor3.szczecin.pl\; http://sektor3.szcz
  ecin.pl/szkolenie-pr-w-organizacji/
@@ -227,7 +187,7 @@ X-TAGS;LANGUAGE=pl-PL:NGO\,Sektor 3 Szczecin. organizacje pozarządowe\,Szko
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11056@sektor3.szczecin.pl
-DTSTAMP:20150920T003828Z
+DTSTAMP:20150921T225328Z
 CATEGORIES:
 CONTACT:Krzysztof Sowa\; k.sowa@hot-point.pl\; http://poszukiwaniaskarbow.p
  l

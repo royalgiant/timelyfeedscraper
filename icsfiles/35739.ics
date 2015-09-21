@@ -16,29 +16,8 @@ TZNAME:JST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-317@info.rokkosan.net
-DTSTAMP:20150920T002251Z
-CATEGORIES;LANGUAGE=ja:その他のイベント
-CONTACT:http://www.rokkosan.net/event-info/aozora/nigaoe/
-DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>似顔絵コーナー</strong></spa
- n></p>\n<div class='rd_box'>牧場の思い出に！牧場を背景に似顔絵をお描きします。</div>\n<p><img class
- ='alignnone wp-image-320 size-full' src='http://info.rokkosan.net/wp-conte
- nt/uploads/2014/11/pic_e75.jpg' alt='似顔絵コーナー' width='300' height='318' /><
- /p>
-DTSTART;TZID=Asia/Tokyo:20150919T093000
-DTEND;TZID=Asia/Tokyo:20150919T160000
-EXDATE;TZID=Asia/Tokyo:20150408T093000
-EXDATE;TZID=Asia/Tokyo:20150415T093000
-EXDATE;TZID=Asia/Tokyo:20150422T093000
-LOCATION:南売店横　※天候により、六甲山Q・B・Bチーズ館、まきば夢工房1F
-RRULE:FREQ=WEEKLY;UNTIL=20151129T235959Z;BYDAY=SU,WE,SA;WKST=MO
-SEQUENCE:0
-SUMMARY:似顔絵コーナー
-X-COST:1\,300円～
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-103@info.rokkosan.net
-DTSTAMP:20150920T002251Z
+DTSTAMP:20150921T224738Z
 CATEGORIES;LANGUAGE=ja:もの作り体験
 CONTACT:http://www.rokkosan.net/event-info/taiken/woolcraft/
 DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>自然を使おう!　ウールクラフト</stro
@@ -56,8 +35,8 @@ DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>自然を使おう!　ウ�
  /><a href='http://info.rokkosan.net/wp-content/uploads/2014/10/woolcraft_i
  nfo.mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/woolcraft_inf
  o.mp3</a></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150919T100000
-DTEND;TZID=Asia/Tokyo:20150919T120000
+DTSTART;TZID=Asia/Tokyo:20150921T100000
+DTEND;TZID=Asia/Tokyo:20150921T120000
 EXDATE;TZID=Asia/Tokyo:20150303T100000
 EXDATE;TZID=Asia/Tokyo:20150310T100000
 EXDATE;TZID=Asia/Tokyo:20150317T100000
@@ -70,37 +49,8 @@ X-COST:【単品】・羊のマスコット人形:720円・フェルトボール
  920円
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-92@info.rokkosan.net
-DTSTAMP:20150920T002251Z
-CATEGORIES;LANGUAGE=ja:動物ふれあい体験\,動物イベント
-CONTACT:http://info.rokkosan.net/horse_riding/
-DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>乗馬体験(引き馬)</strong></s
- pan></p>\n<div class='rd_box'>ポニーに乗って、リンクを一周します。<br />\n【対象】4才以上小学生まで<br /
- >\n・ポニー乗馬(午前):10:00～11:30　1回/日<br />\n<span style='color: #ff6600\;'>※雨天中止
- </span></div>\n<div class='image'><img class='alignnone wp-image-93 size-f
- ull' src='http://info.rokkosan.net/wp-content/uploads/2014/10/pic_e22.jpg'
-  alt='乗馬体験' width='300' height='225' /></div>\n<div class='rd_box'>\n<p> <
- i class='fa fa-volume-up'><span style='color: transparent\; display: none\
- ;'>icon-volume-up</span></i> 音声でポーニー乗馬をご案内！</p>\n<audio class='wp-audio-sh
- ortcode' id='audio-771-2' preload='none' style='width: 100%\; visibility: 
- hidden\;' controls='controls'><source type='audio/mpeg' src='http://info.r
- okkosan.net/wp-content/uploads/2014/10/pony_jyoba.mp3?_=2' /><a href='http
- ://info.rokkosan.net/wp-content/uploads/2014/10/pony_jyoba.mp3'>http://inf
- o.rokkosan.net/wp-content/uploads/2014/10/pony_jyoba.mp3</a></audio>\n</di
- v>
-DTSTART;TZID=Asia/Tokyo:20150919T100000
-DTEND;TZID=Asia/Tokyo:20150919T113000
-EXDATE;TZID=Asia/Tokyo:20150419T100000
-LOCATION:【北エリア】ポニーリンク
-RRULE:FREQ=WEEKLY;UNTIL=20151130T235959Z;BYDAY=SU,SA;WKST=MO
-SEQUENCE:0
-SUMMARY:ポニーの乗馬体験
-X-TAGS;LANGUAGE=ja:レギュラーイベント\,馬
-X-COST:300円
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-94@info.rokkosan.net
-DTSTAMP:20150920T002251Z
+DTSTAMP:20150921T224738Z
 CATEGORIES;LANGUAGE=ja:食のイベント\,食作り体験
 CONTACT:http://www.rokkosan.net/food_making/
 DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>美味しいを作ろう！体験教室</strong
@@ -110,14 +60,14 @@ DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>美味しいを作ろう�
  作り体験教室' width='300' height='225' /></div>\n<div class='rd_box'>\n<p> <i cl
  ass='fa fa-volume-up'><span style='color: transparent\; display: none\;'>i
  con-volume-up</span></i> 音声で「美味しいを作ろう体験教室」をご案内！</p>\n<audio class='wp-audi
- o-shortcode' id='audio-771-3' preload='none' style='width: 100%\; visibili
+ o-shortcode' id='audio-771-2' preload='none' style='width: 100%\; visibili
  ty: hidden\;' controls='controls'><source type='audio/mpeg' src='http://in
- fo.rokkosan.net/wp-content/uploads/2014/10/shokutsukuritaiken.mp3?_=3' /><
+ fo.rokkosan.net/wp-content/uploads/2014/10/shokutsukuritaiken.mp3?_=2' /><
  a href='http://info.rokkosan.net/wp-content/uploads/2014/10/shokutsukurita
  iken.mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/shokutsukuri
  taiken.mp3</a></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150919T100000
-DTEND;TZID=Asia/Tokyo:20150919T120000
+DTSTART;TZID=Asia/Tokyo:20150921T100000
+DTEND;TZID=Asia/Tokyo:20150921T120000
 EXDATE;TZID=Asia/Tokyo:20150202T100000
 EXDATE;TZID=Asia/Tokyo:20150203T100000
 EXDATE;TZID=Asia/Tokyo:20150210T100000
@@ -135,7 +85,7 @@ X-COST:アイスクリーム・フローズンヨーグルト・バター各820�
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-97@info.rokkosan.net
-DTSTAMP:20150920T002251Z
+DTSTAMP:20150921T224738Z
 CATEGORIES;LANGUAGE=ja:動物ふれあい体験\,動物イベント
 CONTACT:http://www.rokkosan.net/event-info/animal/milk/
 DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>子牛のミルクやり体験</strong></
@@ -145,14 +95,14 @@ DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>子牛のミルクやり�
  01/pic_e148.jpg' alt='子牛のミルクやり体験' width='300' height='300' /></div>\n<div 
  class='rd_box'>\n<p> <i class='fa fa-volume-up'><span style='color: transp
  arent\; display: none\;'>icon-volume-up</span></i> 音声で「子牛のミルクやり体験」をご案内！</p
- >\n<audio class='wp-audio-shortcode' id='audio-771-4' preload='none' style
+ >\n<audio class='wp-audio-shortcode' id='audio-771-3' preload='none' style
  ='width: 100%\; visibility: hidden\;' controls='controls'><source type='au
  dio/mpeg' src='http://info.rokkosan.net/wp-content/uploads/2014/10/koushi_
- milk.mp3?_=4' /><a href='http://info.rokkosan.net/wp-content/uploads/2014/
+ milk.mp3?_=3' /><a href='http://info.rokkosan.net/wp-content/uploads/2014/
  10/koushi_milk.mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/ko
  ushi_milk.mp3</a></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150919T113000
-DTEND;TZID=Asia/Tokyo:20150919T120000
+DTSTART;TZID=Asia/Tokyo:20150921T113000
+DTEND;TZID=Asia/Tokyo:20150921T120000
 EXDATE;TZID=Asia/Tokyo:20150202T113000
 EXDATE;TZID=Asia/Tokyo:20150203T113000
 EXDATE;TZID=Asia/Tokyo:20150210T113000
@@ -171,7 +121,7 @@ X-COST:200円/1本
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-114@info.rokkosan.net
-DTSTAMP:20150920T002251Z
+DTSTAMP:20150921T224738Z
 CATEGORIES;LANGUAGE=ja:もの作り体験
 CONTACT:http://www.rokkosan.net/event-info/taiken/woolcraft/
 DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>自然を使おう!　ウールクラフト</stro
@@ -182,13 +132,13 @@ DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>自然を使おう!　ウ�
  eight='225' /></div>\n<div class='rd_box'>\n<p> <i class='fa fa-volume-up'
  ><span style='color: transparent\; display: none\;'>icon-volume-up</span><
  /i> 音声で「ウールクラフト教室」をご案内！</p>\n<audio class='wp-audio-shortcode' id='audio-7
- 71-5' preload='none' style='width: 100%\; visibility: hidden\;' controls='
+ 71-4' preload='none' style='width: 100%\; visibility: hidden\;' controls='
  controls'><source type='audio/mpeg' src='http://info.rokkosan.net/wp-conte
- nt/uploads/2014/10/woolcraft_info.mp3?_=5' /><a href='http://info.rokkosan
+ nt/uploads/2014/10/woolcraft_info.mp3?_=4' /><a href='http://info.rokkosan
  .net/wp-content/uploads/2014/10/woolcraft_info.mp3'>http://info.rokkosan.n
  et/wp-content/uploads/2014/10/woolcraft_info.mp3</a></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150919T130000
-DTEND;TZID=Asia/Tokyo:20150919T160000
+DTSTART;TZID=Asia/Tokyo:20150921T130000
+DTEND;TZID=Asia/Tokyo:20150921T160000
 EXDATE;TZID=Asia/Tokyo:20150303T130000
 EXDATE;TZID=Asia/Tokyo:20150310T130000
 EXDATE;TZID=Asia/Tokyo:20150317T130000
@@ -202,7 +152,7 @@ X-COST:【単品】・羊のマスコット人形:720円・フェルトボール
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-117@info.rokkosan.net
-DTSTAMP:20150920T002251Z
+DTSTAMP:20150921T224738Z
 CATEGORIES;LANGUAGE=ja:食のイベント\,食作り体験
 CONTACT:http://www.rokkosan.net/food_making/
 DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>美味しいを作ろう！体験教室</strong
@@ -212,14 +162,14 @@ DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>美味しいを作ろう�
  作り体験教室' width='300' height='225' /></div>\n<div class='rd_box'>\n<p> <i cl
  ass='fa fa-volume-up'><span style='color: transparent\; display: none\;'>i
  con-volume-up</span></i> 音声で「美味しいを作ろう体験教室」のご案内！</p>\n<audio class='wp-audi
- o-shortcode' id='audio-771-6' preload='none' style='width: 100%\; visibili
+ o-shortcode' id='audio-771-5' preload='none' style='width: 100%\; visibili
  ty: hidden\;' controls='controls'><source type='audio/mpeg' src='http://in
- fo.rokkosan.net/wp-content/uploads/2014/10/shokutsukuritaiken.mp3?_=6' /><
+ fo.rokkosan.net/wp-content/uploads/2014/10/shokutsukuritaiken.mp3?_=5' /><
  a href='http://info.rokkosan.net/wp-content/uploads/2014/10/shokutsukurita
  iken.mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/shokutsukuri
  taiken.mp3</a></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150919T130000
-DTEND;TZID=Asia/Tokyo:20150919T160000
+DTSTART;TZID=Asia/Tokyo:20150921T130000
+DTEND;TZID=Asia/Tokyo:20150921T160000
 EXDATE;TZID=Asia/Tokyo:20150202T130000
 EXDATE;TZID=Asia/Tokyo:20150203T130000
 EXDATE;TZID=Asia/Tokyo:20150210T130000
@@ -236,66 +186,37 @@ SUMMARY:美味しいを作ろう！体験教室【午後の部】
 X-COST:アイスクリーム・フローズンヨーグルト・バター各820円　チーズ・ミルクプリン各1\,030円　
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-86@info.rokkosan.net
-DTSTAMP:20150920T002251Z
-CATEGORIES;LANGUAGE=ja:動物イベント
-CONTACT:http://www.rokkosan.net/event-info/animal/oikomiishow/
-DESCRIPTION:<p><strong>シープドッグショー</strong></p>\n<div class='rd_box'>牧羊犬とトレーナ
- ーとのコンビで、トレーナーの手足となり号令に従い羊を柵に追い込んでいく「牧羊犬」の活躍をお楽しみ下さい。</div>\n<p><img class=
- 'alignnone wp-image-2122 size-full' src='http://info.rokkosan.net/wp-conte
- nt/uploads/2015/03/sheepdog_show.png' alt='シープドッグショー' width='300' height='
- 306' /></p>\n<div class='rd_box'>\n<p> <i class='fa fa-volume-up'><span st
- yle='color: transparent\; display: none\;'>icon-volume-up</span></i> 音声で「シ
- ープドッグショー」をご案内！</p>\n<audio class='wp-audio-shortcode' id='audio-771-7' pre
- load='none' style='width: 100%\; visibility: hidden\;' controls='controls'
- ><source type='audio/mpeg' src='http://info.rokkosan.net/wp-content/upload
- s/2014/10/seepdog_show.mp3?_=7' /><a href='http://info.rokkosan.net/wp-con
- tent/uploads/2014/10/seepdog_show.mp3'>http://info.rokkosan.net/wp-content
- /uploads/2014/10/seepdog_show.mp3</a></audio>\n</div>\n<p><div class='yout
- ube-container'><iframe src='//www.youtube.com/embed/xSh8_wnzjJw?rel=0' wid
- th='560' height='315' frameborder='0' allowfullscreen='allowfullscreen'></
- iframe></div></p>
-DTSTART;TZID=Asia/Tokyo:20150919T133000
-DTEND;TZID=Asia/Tokyo:20150919T134500
-EXDATE;TZID=Asia/Tokyo:20150419T133000
-LOCATION:【南エリア】シープドッグショー会場
-RRULE:FREQ=WEEKLY;UNTIL=20151129T235959Z;BYDAY=SU,SA;WKST=MO
-SEQUENCE:0
-SUMMARY:シープドッグショー
-X-TAGS;LANGUAGE=ja:レギュラーイベント\,牧羊犬\,羊
-X-COST:無料
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-2196@info.rokkosan.net
-DTSTAMP:20150920T002251Z
+UID:ai1ec-89@info.rokkosan.net
+DTSTAMP:20150921T224738Z
 CATEGORIES;LANGUAGE=ja:動物ふれあい体験\,動物イベント
 CONTACT:http://info.rokkosan.net/horse_riding/
-DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>乗馬体験(引き馬)</strong></s
- pan></p>\n<div class='rd_box'>木曽馬や道産子に乗って、リンクを一周します。<br />\n【対象】4才以上大人の方まで
- 。<br />\n在来馬乗馬(午後):13:30～14:30と15:00～17:00　2回/日　※11月は～16:00迄<br />\n<span 
- style='color: #ff6600\;'>※雨天中止</span></div>\n<div class='image'><img class
- ='alignnone wp-image-90 size-full' src='http://info.rokkosan.net/wp-conten
- t/uploads/2014/10/pic_e21.jpg' alt='乗馬体験' width='300' height='225' /></div
- >\n<div class='rd_box'>\n<p><i class='fa fa-volume-up'><span style='color:
-  transparent\; display: none\;'>icon-volume-up</span></i> 音声で乗馬体験をご案内！</p>
- \n<audio class='wp-audio-shortcode' id='audio-771-8' preload='none' style=
- 'width: 100%\; visibility: hidden\;' controls='controls'><source type='aud
- io/mpeg' src='http://info.rokkosan.net/wp-content/uploads/2014/10/jyobatai
- ken.mp3?_=8' /><a href='http://info.rokkosan.net/wp-content/uploads/2014/1
- 0/jyobataiken.mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/jyo
- bataiken.mp3</a></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150919T133000
-DTEND;TZID=Asia/Tokyo:20150919T143000
+DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>乗馬体験(引き馬)平日</strong><
+ /span></p>\n<div class='rd_box'>木曽馬や道産子に乗って、リンクを一周します。<br />\n【対象】4才以上大人の方
+ まで。<br />\n<span style='color: #ff6600\;'>※雨天中止</span></div>\n<p><a href='
+ http://info.rokkosan.net/wp-content/uploads/2014/10/jyoba.png' rel='lightb
+ ox[771]'><img class='alignnone size-full wp-image-2120' src='http://info.r
+ okkosan.net/wp-content/uploads/2014/10/jyoba.png' alt='乗馬体験' width='300' h
+ eight='217' /></a></p>\n<div class='rd_box'>\n<p> <i class='fa fa-volume-u
+ p'><span style='color: transparent\; display: none\;'>icon-volume-up</span
+ ></i> 音声で「乗馬体験」のご案内！</p>\n<audio class='wp-audio-shortcode' id='audio-771-
+ 6' preload='none' style='width: 100%\; visibility: hidden\;' controls='con
+ trols'><source type='audio/mpeg' src='http://info.rokkosan.net/wp-content/
+ uploads/2014/10/jyobataiken.mp3?_=6' /><a href='http://info.rokkosan.net/w
+ p-content/uploads/2014/10/jyobataiken.mp3'>http://info.rokkosan.net/wp-con
+ tent/uploads/2014/10/jyobataiken.mp3</a></audio>\n</div>
+DTSTART;TZID=Asia/Tokyo:20150921T133000
+DTEND;TZID=Asia/Tokyo:20150921T143000
+EXDATE;TZID=Asia/Tokyo:20150514T133000
 LOCATION:【北エリア】ポニーリンク
-RRULE:FREQ=WEEKLY;UNTIL=20151130T235959Z;BYDAY=SU,SA;WKST=MO
+RRULE:FREQ=WEEKLY;UNTIL=20151130T235959Z;BYDAY=MO,TU,WE,TH,FR;WKST=MO
 SEQUENCE:0
-SUMMARY:乗馬体験(土日祝)在来馬①
-X-TAGS;LANGUAGE=ja:レギュラーイベント\,馬
-X-COST:ポニー:300円　在来馬:500円
+SUMMARY:乗馬体験 【平日在来馬】
+X-TAGS;LANGUAGE=ja:馬
+X-COST:500円
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-110@info.rokkosan.net
-DTSTAMP:20150920T002251Z
+DTSTAMP:20150921T224738Z
 CATEGORIES;LANGUAGE=ja:動物ふれあい体験\,動物イベント
 CONTACT:http://www.rokkosan.net/event-info/animal/milk/
 DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>子牛のミルクやり体験</strong></
@@ -305,14 +226,14 @@ DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>子牛のミルクやり�
  1/pic_e148.jpg' alt='子牛のミルクやり体験' width='300' height='300' /></div>\n<div c
  lass='rd_box'>\n<p> <i class='fa fa-volume-up'><span style='color: transpa
  rent\; display: none\;'>icon-volume-up</span></i> 音声で「子牛のミルクやり体験」をご案内！</p>
- \n<audio class='wp-audio-shortcode' id='audio-771-9' preload='none' style=
+ \n<audio class='wp-audio-shortcode' id='audio-771-7' preload='none' style=
  'width: 100%\; visibility: hidden\;' controls='controls'><source type='aud
  io/mpeg' src='http://info.rokkosan.net/wp-content/uploads/2014/10/koushi_m
- ilk.mp3?_=9' /><a href='http://info.rokkosan.net/wp-content/uploads/2014/1
+ ilk.mp3?_=7' /><a href='http://info.rokkosan.net/wp-content/uploads/2014/1
  0/koushi_milk.mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/kou
  shi_milk.mp3</a></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150919T143000
-DTEND;TZID=Asia/Tokyo:20150919T150000
+DTSTART;TZID=Asia/Tokyo:20150921T143000
+DTEND;TZID=Asia/Tokyo:20150921T150000
 EXDATE;TZID=Asia/Tokyo:20150202T143000
 EXDATE;TZID=Asia/Tokyo:20150203T143000
 EXDATE;TZID=Asia/Tokyo:20150210T143000
@@ -330,36 +251,8 @@ X-TAGS;LANGUAGE=ja:牛
 X-COST:200/1本
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-123@info.rokkosan.net
-DTSTAMP:20150920T002251Z
-CATEGORIES;LANGUAGE=ja:動物ふれあい体験\,動物イベント
-CONTACT:http://info.rokkosan.net/horse_riding/
-DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>乗馬体験(引き馬)</strong></s
- pan></p>\n<div class='rd_box'>木曽馬や道産子に乗って、リンクを一周します。<br />\n【対象】4才以上大人の方まで
- 。<br />\n在来馬乗馬(午後):13:30～14:30と15:00～17:00　2回/日　※11月は～16:00迄<br />\n<span 
- style='color: #ff6600\;'>※雨天中止</span></div>\n<div class='image'><img class
- ='alignnone wp-image-90 size-full' src='http://info.rokkosan.net/wp-conten
- t/uploads/2014/10/pic_e21.jpg' alt='乗馬体験' width='300' height='225' /></div
- >\n<div class='rd_box'>\n<p> <i class='fa fa-volume-up'><span style='color
- : transparent\; display: none\;'>icon-volume-up</span></i> 音声で乗馬体験をご案内！</p
- >\n<audio class='wp-audio-shortcode' id='audio-771-10' preload='none' styl
- e='width: 100%\; visibility: hidden\;' controls='controls'><source type='a
- udio/mpeg' src='http://info.rokkosan.net/wp-content/uploads/2014/10/jyobat
- aiken.mp3?_=10' /><a href='http://info.rokkosan.net/wp-content/uploads/201
- 4/10/jyobataiken.mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/
- jyobataiken.mp3</a></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150919T150000
-DTEND;TZID=Asia/Tokyo:20150919T164500
-LOCATION:【北エリア】ポニーリンク
-RRULE:FREQ=WEEKLY;UNTIL=20151130T235959Z;BYDAY=SU,SA;WKST=MO
-SEQUENCE:0
-SUMMARY:乗馬体験(土日祝)在来馬②
-X-TAGS;LANGUAGE=ja:レギュラーイベント\,馬
-X-COST:ポニー:300円　在来馬:500円
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-105@info.rokkosan.net
-DTSTAMP:20150920T002251Z
+DTSTAMP:20150921T224738Z
 CATEGORIES;LANGUAGE=ja:動物イベント
 CONTACT:http://www.rokkosan.net/event-info/animal/sheepbell/
 DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>シープベルを鳴らそう</strong></
@@ -372,14 +265,14 @@ DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>シープベルを鳴ら�
  ng' alt='シープベルを鳴らそう' width='300' height='183' /></p>\n<div class='rd_box'>
  \n<p> <i class='fa fa-volume-up'><span style='color: transparent\; display
  : none\;'>icon-volume-up</span></i> 音声で「シープベルを鳴らそう」をご案内！</p>\n<audio class
- ='wp-audio-shortcode' id='audio-771-11' preload='none' style='width: 100%\
- ; visibility: hidden\;' controls='controls'><source type='audio/mpeg' src=
- 'http://info.rokkosan.net/wp-content/uploads/2014/10/sheep_bell.mp3?_=11' 
- /><a href='http://info.rokkosan.net/wp-content/uploads/2014/10/sheep_bell.
- mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/sheep_bell.mp3</a
- ></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150919T153000
-DTEND;TZID=Asia/Tokyo:20150919T154500
+ ='wp-audio-shortcode' id='audio-771-8' preload='none' style='width: 100%\;
+  visibility: hidden\;' controls='controls'><source type='audio/mpeg' src='
+ http://info.rokkosan.net/wp-content/uploads/2014/10/sheep_bell.mp3?_=8' />
+ <a href='http://info.rokkosan.net/wp-content/uploads/2014/10/sheep_bell.mp
+ 3'>http://info.rokkosan.net/wp-content/uploads/2014/10/sheep_bell.mp3</a><
+ /audio>\n</div>
+DTSTART;TZID=Asia/Tokyo:20150921T153000
+DTEND;TZID=Asia/Tokyo:20150921T154500
 EXDATE;TZID=Asia/Tokyo:20150612T153000
 LOCATION:【南エリア】めん羊舎前
 RRULE:FREQ=DAILY;UNTIL=20151130T235959Z
@@ -389,32 +282,139 @@ X-TAGS;LANGUAGE=ja:羊
 X-COST:無料
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-89@info.rokkosan.net
-DTSTAMP:20150920T002251Z
+UID:ai1ec-317@info.rokkosan.net
+DTSTAMP:20150921T224738Z
+CATEGORIES;LANGUAGE=ja:その他のイベント
+CONTACT:http://www.rokkosan.net/event-info/aozora/nigaoe/
+DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>似顔絵コーナー</strong></spa
+ n></p>\n<div class='rd_box'>牧場の思い出に！牧場を背景に似顔絵をお描きします。</div>\n<p><img class
+ ='alignnone wp-image-320 size-full' src='http://info.rokkosan.net/wp-conte
+ nt/uploads/2014/11/pic_e75.jpg' alt='似顔絵コーナー' width='300' height='318' /><
+ /p>
+DTSTART;TZID=Asia/Tokyo:20150923T093000
+DTEND;TZID=Asia/Tokyo:20150923T160000
+EXDATE;TZID=Asia/Tokyo:20150408T093000
+EXDATE;TZID=Asia/Tokyo:20150415T093000
+EXDATE;TZID=Asia/Tokyo:20150422T093000
+LOCATION:南売店横　※天候により、六甲山Q・B・Bチーズ館、まきば夢工房1F
+RRULE:FREQ=WEEKLY;UNTIL=20151129T235959Z;BYDAY=SU,WE,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:似顔絵コーナー
+X-COST:1\,300円～
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-92@info.rokkosan.net
+DTSTAMP:20150921T224738Z
 CATEGORIES;LANGUAGE=ja:動物ふれあい体験\,動物イベント
 CONTACT:http://info.rokkosan.net/horse_riding/
-DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>乗馬体験(引き馬)平日</strong><
- /span></p>\n<div class='rd_box'>木曽馬や道産子に乗って、リンクを一周します。<br />\n【対象】4才以上大人の方
- まで。<br />\n<span style='color: #ff6600\;'>※雨天中止</span></div>\n<p><a href='
- http://info.rokkosan.net/wp-content/uploads/2014/10/jyoba.png' rel='lightb
- ox[771]'><img class='alignnone size-full wp-image-2120' src='http://info.r
- okkosan.net/wp-content/uploads/2014/10/jyoba.png' alt='乗馬体験' width='300' h
- eight='217' /></a></p>\n<div class='rd_box'>\n<p> <i class='fa fa-volume-u
- p'><span style='color: transparent\; display: none\;'>icon-volume-up</span
- ></i> 音声で「乗馬体験」のご案内！</p>\n<audio class='wp-audio-shortcode' id='audio-771-
- 12' preload='none' style='width: 100%\; visibility: hidden\;' controls='co
- ntrols'><source type='audio/mpeg' src='http://info.rokkosan.net/wp-content
- /uploads/2014/10/jyobataiken.mp3?_=12' /><a href='http://info.rokkosan.net
- /wp-content/uploads/2014/10/jyobataiken.mp3'>http://info.rokkosan.net/wp-c
- ontent/uploads/2014/10/jyobataiken.mp3</a></audio>\n</div>
-DTSTART;TZID=Asia/Tokyo:20150921T133000
-DTEND;TZID=Asia/Tokyo:20150921T143000
-EXDATE;TZID=Asia/Tokyo:20150514T133000
+DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>乗馬体験(引き馬)</strong></s
+ pan></p>\n<div class='rd_box'>ポニーに乗って、リンクを一周します。<br />\n【対象】4才以上小学生まで<br /
+ >\n・ポニー乗馬(午前):10:00～11:30　1回/日<br />\n<span style='color: #ff6600\;'>※雨天中止
+ </span></div>\n<div class='image'><img class='alignnone wp-image-93 size-f
+ ull' src='http://info.rokkosan.net/wp-content/uploads/2014/10/pic_e22.jpg'
+  alt='乗馬体験' width='300' height='225' /></div>\n<div class='rd_box'>\n<p> <
+ i class='fa fa-volume-up'><span style='color: transparent\; display: none\
+ ;'>icon-volume-up</span></i> 音声でポーニー乗馬をご案内！</p>\n<audio class='wp-audio-sh
+ ortcode' id='audio-771-9' preload='none' style='width: 100%\; visibility: 
+ hidden\;' controls='controls'><source type='audio/mpeg' src='http://info.r
+ okkosan.net/wp-content/uploads/2014/10/pony_jyoba.mp3?_=9' /><a href='http
+ ://info.rokkosan.net/wp-content/uploads/2014/10/pony_jyoba.mp3'>http://inf
+ o.rokkosan.net/wp-content/uploads/2014/10/pony_jyoba.mp3</a></audio>\n</di
+ v>
+DTSTART;TZID=Asia/Tokyo:20150926T100000
+DTEND;TZID=Asia/Tokyo:20150926T113000
+EXDATE;TZID=Asia/Tokyo:20150419T100000
 LOCATION:【北エリア】ポニーリンク
-RRULE:FREQ=WEEKLY;UNTIL=20151130T235959Z;BYDAY=MO,TU,WE,TH,FR;WKST=MO
+RRULE:FREQ=WEEKLY;UNTIL=20151130T235959Z;BYDAY=SU,SA;WKST=MO
 SEQUENCE:0
-SUMMARY:乗馬体験 【平日在来馬】
-X-TAGS;LANGUAGE=ja:馬
-X-COST:500円
+SUMMARY:ポニーの乗馬体験
+X-TAGS;LANGUAGE=ja:レギュラーイベント\,馬
+X-COST:300円
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-86@info.rokkosan.net
+DTSTAMP:20150921T224738Z
+CATEGORIES;LANGUAGE=ja:動物イベント
+CONTACT:http://www.rokkosan.net/event-info/animal/oikomiishow/
+DESCRIPTION:<p><strong>シープドッグショー</strong></p>\n<div class='rd_box'>牧羊犬とトレーナ
+ ーとのコンビで、トレーナーの手足となり号令に従い羊を柵に追い込んでいく「牧羊犬」の活躍をお楽しみ下さい。</div>\n<p><img class=
+ 'alignnone wp-image-2122 size-full' src='http://info.rokkosan.net/wp-conte
+ nt/uploads/2015/03/sheepdog_show.png' alt='シープドッグショー' width='300' height='
+ 306' /></p>\n<div class='rd_box'>\n<p> <i class='fa fa-volume-up'><span st
+ yle='color: transparent\; display: none\;'>icon-volume-up</span></i> 音声で「シ
+ ープドッグショー」をご案内！</p>\n<audio class='wp-audio-shortcode' id='audio-771-10' pr
+ eload='none' style='width: 100%\; visibility: hidden\;' controls='controls
+ '><source type='audio/mpeg' src='http://info.rokkosan.net/wp-content/uploa
+ ds/2014/10/seepdog_show.mp3?_=10' /><a href='http://info.rokkosan.net/wp-c
+ ontent/uploads/2014/10/seepdog_show.mp3'>http://info.rokkosan.net/wp-conte
+ nt/uploads/2014/10/seepdog_show.mp3</a></audio>\n</div>\n<p><div class='yo
+ utube-container'><iframe src='//www.youtube.com/embed/xSh8_wnzjJw?rel=0' w
+ idth='560' height='315' frameborder='0' allowfullscreen='allowfullscreen'>
+ </iframe></div></p>
+DTSTART;TZID=Asia/Tokyo:20150926T133000
+DTEND;TZID=Asia/Tokyo:20150926T134500
+EXDATE;TZID=Asia/Tokyo:20150419T133000
+LOCATION:【南エリア】シープドッグショー会場
+RRULE:FREQ=WEEKLY;UNTIL=20151129T235959Z;BYDAY=SU,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:シープドッグショー
+X-TAGS;LANGUAGE=ja:レギュラーイベント\,牧羊犬\,羊
+X-COST:無料
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2196@info.rokkosan.net
+DTSTAMP:20150921T224738Z
+CATEGORIES;LANGUAGE=ja:動物ふれあい体験\,動物イベント
+CONTACT:http://info.rokkosan.net/horse_riding/
+DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>乗馬体験(引き馬)</strong></s
+ pan></p>\n<div class='rd_box'>木曽馬や道産子に乗って、リンクを一周します。<br />\n【対象】4才以上大人の方まで
+ 。<br />\n在来馬乗馬(午後):13:30～14:30と15:00～17:00　2回/日　※11月は～16:00迄<br />\n<span 
+ style='color: #ff6600\;'>※雨天中止</span></div>\n<div class='image'><img class
+ ='alignnone wp-image-90 size-full' src='http://info.rokkosan.net/wp-conten
+ t/uploads/2014/10/pic_e21.jpg' alt='乗馬体験' width='300' height='225' /></div
+ >\n<div class='rd_box'>\n<p><i class='fa fa-volume-up'><span style='color:
+  transparent\; display: none\;'>icon-volume-up</span></i> 音声で乗馬体験をご案内！</p>
+ \n<audio class='wp-audio-shortcode' id='audio-771-11' preload='none' style
+ ='width: 100%\; visibility: hidden\;' controls='controls'><source type='au
+ dio/mpeg' src='http://info.rokkosan.net/wp-content/uploads/2014/10/jyobata
+ iken.mp3?_=11' /><a href='http://info.rokkosan.net/wp-content/uploads/2014
+ /10/jyobataiken.mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/j
+ yobataiken.mp3</a></audio>\n</div>
+DTSTART;TZID=Asia/Tokyo:20150926T133000
+DTEND;TZID=Asia/Tokyo:20150926T143000
+LOCATION:【北エリア】ポニーリンク
+RRULE:FREQ=WEEKLY;UNTIL=20151130T235959Z;BYDAY=SU,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:乗馬体験(土日祝)在来馬①
+X-TAGS;LANGUAGE=ja:レギュラーイベント\,馬
+X-COST:ポニー:300円　在来馬:500円
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-123@info.rokkosan.net
+DTSTAMP:20150921T224738Z
+CATEGORIES;LANGUAGE=ja:動物ふれあい体験\,動物イベント
+CONTACT:http://info.rokkosan.net/horse_riding/
+DESCRIPTION:<p><span style='color: #6aab2d\;'><strong>乗馬体験(引き馬)</strong></s
+ pan></p>\n<div class='rd_box'>木曽馬や道産子に乗って、リンクを一周します。<br />\n【対象】4才以上大人の方まで
+ 。<br />\n在来馬乗馬(午後):13:30～14:30と15:00～17:00　2回/日　※11月は～16:00迄<br />\n<span 
+ style='color: #ff6600\;'>※雨天中止</span></div>\n<div class='image'><img class
+ ='alignnone wp-image-90 size-full' src='http://info.rokkosan.net/wp-conten
+ t/uploads/2014/10/pic_e21.jpg' alt='乗馬体験' width='300' height='225' /></div
+ >\n<div class='rd_box'>\n<p> <i class='fa fa-volume-up'><span style='color
+ : transparent\; display: none\;'>icon-volume-up</span></i> 音声で乗馬体験をご案内！</p
+ >\n<audio class='wp-audio-shortcode' id='audio-771-12' preload='none' styl
+ e='width: 100%\; visibility: hidden\;' controls='controls'><source type='a
+ udio/mpeg' src='http://info.rokkosan.net/wp-content/uploads/2014/10/jyobat
+ aiken.mp3?_=12' /><a href='http://info.rokkosan.net/wp-content/uploads/201
+ 4/10/jyobataiken.mp3'>http://info.rokkosan.net/wp-content/uploads/2014/10/
+ jyobataiken.mp3</a></audio>\n</div>
+DTSTART;TZID=Asia/Tokyo:20150926T150000
+DTEND;TZID=Asia/Tokyo:20150926T164500
+LOCATION:【北エリア】ポニーリンク
+RRULE:FREQ=WEEKLY;UNTIL=20151130T235959Z;BYDAY=SU,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:乗馬体験(土日祝)在来馬②
+X-TAGS;LANGUAGE=ja:レギュラーイベント\,馬
+X-COST:ポニー:300円　在来馬:500円
 END:VEVENT
 END:VCALENDAR

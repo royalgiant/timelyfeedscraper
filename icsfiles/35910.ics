@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-481@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Nederland
 CONTACT:Live In Europe BV\; adrian.rooymans@gmail.com
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -62,7 +62,7 @@ URL:http://www.gitaarmaarwaar.com/event/vicente-amigo/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-594@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:België\,Cc Deurne
 CONTACT:http://www.antwerpengitaarfestival.be/
 DESCRIPTION:<p>In het weekend van 27\, 28 en 29 november 2015 ligt het cent
@@ -113,41 +113,8 @@ X-TAGS;LANGUAGE=nl-NL:Antwerpen Gitaar Festival\,Atanas Ourkouzounov\,Cedri
  McAllister\,Mie Ogura\,Rafaël Aguirre\,wedstrijd
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-554@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
-CATEGORIES;LANGUAGE=nl-NL:Concertgebouw Amsterdam\,Nederland
-CONTACT:Mevrouw Gitaar\; info@mevrouwgitaar.com\; http://meestersopdegitaar
- .nl/concerten-15-16/montenegrin-guitar-duo/
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://i1.wp.com/www.gitaarmaarwaar.com/wp-content/uploads/2015/07/montenegrin
- -guitar-duo.jpg?fit=300%2C300' width='' height='' /></div><p>Een fenomenaa
- l optreden als openingsconcert van een nieuw seizoen Meesters op de Gitaar
-  \, verzorgd door Goran Krivokapic en Danijel Cerovic\, samen beter bekend
-  als het Montenegrin Guitar Duo.</p>\n<p>Beide heren kunnen bogen op een i
- mposante solocarrière maar samen lijken ze nóg sterker dan de som der dele
- n: in en in muzikaal\, spatzuiver en superstrak. Op het programma staan o.
- a. de Engelse Suites van Johann Sebastian Bach. Oorspronkelijk voor klavec
- imbel geschreven maar dankzij het Montenegrin Guitar Duo kunt u ze in Het 
- Concertgebouw beluisteren in een bewerking voor twee gitaren. In een uniek
-  project heeft het duo de suites (BWV 806 – 811) opgenomen voor het cd-lab
- el Naxos.</p>
-DTSTART;TZID=Europe/Brussels:20150919T201500
-DTEND;TZID=Europe/Brussels:20150919T223000
-GEO:+52.355837;+4.879196
-LOCATION:Concertgebouw Amsterdam @ Concertgebouwplein\, 1071 Amsterdam\, Ne
- derland
-SEQUENCE:0
-SUMMARY:Meesters op de Gitaar: Montenegrin Guitar Duo
-URL:http://www.gitaarmaarwaar.com/event/meesters-op-gitaar-montenegrin-guit
- ar-duo/
-X-TAGS;LANGUAGE=nl-NL:amsterdam\,klassiek gitaar\,meesters op de gitaar
-X-COST:€ 40\,- | met korting € 35\,-| tot 15 jaar € 15\,-
-X-TICKETS-URL:http://www.concertgebouw.nl/concerten/montenegrin-guitar-duo-
- engelse-suites-van-bach
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-647@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:België
 CONTACT:http://www.curieus.be/oost-vlaanderen/kalender/detail/encordes-gita
  arkwartet-door-curieus-zwalm#.Ve9U4vntlBd
@@ -171,7 +138,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-645@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Nederland\,Volksabdij Ossendrecht
 CONTACT:leongitaar.2@gmail.com
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -199,7 +166,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-655@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Nederland
 CONTACT:Gerard en Berdie Pasmans\; 06 4040 9337\; info@cultuurboerderij.nl\
  ; http://www.cultuurboerderij.nl/
@@ -244,8 +211,72 @@ X-COST:€ 10\,-
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-665@www.gitaarmaarwaar.com
+DTSTAMP:20150921T224710Z
+CATEGORIES;LANGUAGE=nl-NL:België
+CONTACT:A Croch'Note asbl\; acrochnote@hotmail.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i0.wp.com/www.gitaarmaarwaar.com/wp-content/uploads/2015/09/IMG_1570.jp
+ g?fit=300%2C300' width='' height='' /></div><p>Concert in duo gitaar en dw
+ arsfluit van Catherine Struys en Luca Magni.<br />\nOp het programma: M. C
+ astelnuovo-Tedesco\, L. Boutros\, A. Piazzolla\,…</p>\n<p>Inkom: 10€</p>
+DTSTART;TZID=Europe/Brussels:20151023T203000
+GEO:+51.053512;+3.714107
+LOCATION:Koetshuis @ Theresianenstraat 6\, 9000 Gent\, België
+SEQUENCE:0
+SUMMARY:Duo Catherine Struys (gitaar) en Luca Magni (dwarsfluit)
+URL:http://www.gitaarmaarwaar.com/event/duo-catherine-struys-gitaar-en-luca
+ -magni-dwarsfluit/
+X-COST:10€
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-663@www.gitaarmaarwaar.com
+DTSTAMP:20150921T224710Z
+CATEGORIES;LANGUAGE=nl-NL:België
+CONTACT:A Croch'Note asbl\; 0477/91.60.39\; acrochnote@hotmail.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/www.gitaarmaarwaar.com/wp-content/uploads/2015/09/IMG_1563.jp
+ g?fit=300%2C300' width='' height='' /></div><p>Concert en duo guitare et f
+ lûte traversière par Catherine Struys et le flûtiste italien\, Luca Magni.
+ <br />\nAu programme\, des oeuvres de M. Castelnuovo-Tedesco\, A. Piazzoll
+ a\, L. Boutros…<br />\nPAF: 8€ (étudiants\, pensionnés\, sans emploi) / 10
+ €</p>
+DTSTART;TZID=Europe/Brussels:20151024T160000
+GEO:+50.472443;+4.837169
+LOCATION:Sacré-Coeur de Saint-Servais @ Chaussée de Waterloo\, 5002 Namur\,
+  België
+SEQUENCE:0
+SUMMARY:Duo Catherine Struys (guitare) et Luca Magni (flûte traversière)
+URL:http://www.gitaarmaarwaar.com/event/duo-catherine-struys-guitare-et-luc
+ a-magni-flute-traversiere/
+X-COST:8€ / 10€
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-667@www.gitaarmaarwaar.com
+DTSTAMP:20150921T224710Z
+CATEGORIES;LANGUAGE=nl-NL:België
+CONTACT:A Croch'Note asbl\; 0477/91.60.39\; acrochnote@hotmail.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i0.wp.com/www.gitaarmaarwaar.com/wp-content/uploads/2015/09/IMG_1562.jp
+ g?fit=300%2C300' width='' height='' /></div><p>Concert en duo guitare et f
+ lûte traversière par Catherine Struys et Luca Magni (Italie).<br />\nAu pr
+ ogramme: M. Castelnuovo-Tedesco\, A. Piazzolla\, L. Boutros…</p>\n<p>PAF: 
+ 8€ / 10€</p>
+DTSTART;TZID=Europe/Brussels:20151025T170000
+GEO:+50.822382;+4.345492
+LOCATION:Cellule 133a @ Ducpétiauxlaan 133\, 1060 Sint-Gillis\, België
+SEQUENCE:0
+SUMMARY:Duo Catherine Struys (guitare) et Luca Magni (flûte traversière)
+URL:http://www.gitaarmaarwaar.com/event/duo-catherine-struys-guitare-et-luc
+ a-magni-flute-traversiere-2/
+X-COST:8€ / 10€
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-631@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Nederland
 CONTACT:Walter Stadhouders\; gitaarstudio@gmail.com\; http://www.gitaarstud
  io.com/extra/nootstop
@@ -269,7 +300,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-611@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:België\,Sint-Hubertuskapel Monasterium Poortacker
  e\,Vzw Gitaar\, maar waar?
 CONTACT:Koen Caspeele\; 0497/89.48.35\; reservatie@gitaarmaarwaar.com
@@ -350,7 +381,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-608@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:België\,Sint-Hubertuskapel Monasterium Poortacker
  e\,Vzw Gitaar\, maar waar?
 CONTACT:Koen Caspeele\; 0497/89.48.35\; reservatie@gitaarmaarwaar.com
@@ -418,7 +449,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-648@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:België
 CONTACT:Gitaarensemble Alegria  vzw\; +31485144339\; marleen.casteele@gmail
  .com
@@ -438,7 +469,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-636@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:België
 CONTACT:LudArt\; ludwig@ludart.be
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -456,7 +487,7 @@ URL:http://www.gitaarmaarwaar.com/event/opendeurdag-gitaarbouwer/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-596@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:België\,Cc Deurne
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -496,7 +527,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-597@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:België\,Cc Deurne
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -537,7 +568,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-556@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Concertgebouw Amsterdam\,Nederland
 CONTACT:Mevrouw Gitaar\; info@mevrouwgitaar.com\; http://www.concertgebouw.
  nl/concerten/zoran-dukic-pavel-steidl-thomas-fellow-reentko-dirks
@@ -572,7 +603,7 @@ X-TICKETS-URL:http://www.concertgebouw.nl/concerten/zoran-dukic-pavel-steid
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-577@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Nederland\,Oude Ettense Kerk
 CONTACT:Gelders Gitaristen Podium\; +316 22488503\; info@gitaristenpodium.n
  l\; http://www.gitaristenpodium.nl/index.php?component=13&agendaid=47
@@ -598,7 +629,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-579@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Nederland\,Oude Ettense Kerk
 CONTACT:Gelders Gitaristen Podium\; +31622488503\; info@gitaristenpodium.nl
  \; http://www.gitaristenpodium.nl/index.php?component=13&agendaid=48
@@ -623,7 +654,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-633@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Nederland
 CONTACT:Walter Stadhouders\; +31649864558\; gitaarstudio@gmail.com\; http:/
  /www.gitaarstudio.com/extra/nootstop
@@ -649,7 +680,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-558@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Concertgebouw Amsterdam\,Nederland
 CONTACT:Mevrouw Gitaar\; info@mevrouwgitaar.com\; http://www.concertgebouw.
  nl/concerten/ana-vidovic-van-wonderkind-tot-gevestigde-naam
@@ -684,7 +715,7 @@ X-TICKETS-URL:http://www.concertgebouw.nl/concerten/ana-vidovic-van-wonderk
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-581@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Nederland\,Oude Ettense Kerk
 CONTACT:Gelders Gitaristen Podium\; 0622488503\; info@gitaristenpodium.nl\;
   http://www.gitaristenpodium.nl/index.php?component=13&agendaid=49
@@ -707,7 +738,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-583@www.gitaarmaarwaar.com
-DTSTAMP:20150920T002141Z
+DTSTAMP:20150921T224710Z
 CATEGORIES;LANGUAGE=nl-NL:Nederland\,Oude Ettense Kerk
 CONTACT:Gelders Gitaristen Podium\; 0622488503\; info@gitaristenpodium.nl\;
   http://www.gitaristenpodium.nl/index.php?component=13&agendaid=50

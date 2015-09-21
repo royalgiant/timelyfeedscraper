@@ -24,98 +24,20 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-828@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Mercy
 CONTACT:Lynn Hall
 DESCRIPTION:
-DTSTART;VALUE=DATE:20150920
-DTEND;VALUE=DATE:20150921
+DTSTART;VALUE=DATE:20150921
+DTEND;VALUE=DATE:20150922
 RRULE:FREQ=DAILY;UNTIL=20150927T235959Z
 SEQUENCE:0
 SUMMARY:Family Promise Guests join us
 URL:http://stelmopres.dreamhosters.com/event/family-promise-guests-join-us/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-797@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
-CATEGORIES;LANGUAGE=en-US:Sunday School for All
-CONTACT:Sarah Nichols children\, Shelley Madueme adults
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T091500
-DTEND;TZID=America/New_York:20150920T101500
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday School for All
-URL:http://stelmopres.dreamhosters.com/event/sunday-school-for-all/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-798@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
-CATEGORIES;LANGUAGE=en-US:Morning Worship
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T103000
-DTEND;TZID=America/New_York:20150920T121500
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Morning Worship
-URL:http://stelmopres.dreamhosters.com/event/morning-worship/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-801@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
-CATEGORIES;LANGUAGE=en-US:Youth Groups
-CONTACT:Sarah Nichols
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T180000
-DTEND;TZID=America/New_York:20150920T193000
-RDATE;TZID=America/New_York:20150913T180000
-RDATE;TZID=America/New_York:20150920T180000
-RDATE;TZID=America/New_York:20150927T180000
-RDATE;TZID=America/New_York:20151011T180000
-RDATE;TZID=America/New_York:20151018T180000
-RDATE;TZID=America/New_York:20151025T180000
-RDATE;TZID=America/New_York:20151108T180000
-RDATE;TZID=America/New_York:20151115T180000
-RDATE;TZID=America/New_York:20151122T180000
-RDATE;TZID=America/New_York:20151129T180000
-RDATE;TZID=America/New_York:20151213T180000
-RDATE;TZID=America/New_York:20151220T180000
-RDATE;TZID=America/New_York:20160110T180000
-RDATE;TZID=America/New_York:20160117T180000
-RDATE;TZID=America/New_York:20160124T180000
-RDATE;TZID=America/New_York:20160131T180000
-RDATE;TZID=America/New_York:20160214T180000
-RDATE;TZID=America/New_York:20160221T180000
-RDATE;TZID=America/New_York:20160228T180000
-RDATE;TZID=America/New_York:20160313T180000
-RDATE;TZID=America/New_York:20160320T180000
-RDATE;TZID=America/New_York:20160327T180000
-RDATE;TZID=America/New_York:20160410T180000
-RDATE;TZID=America/New_York:20160417T180000
-RDATE;TZID=America/New_York:20160424T180000
-RDATE;TZID=America/New_York:20160508T180000
-RDATE;TZID=America/New_York:20160515T180000
-RDATE;TZID=America/New_York:20160522T180000
-RDATE;TZID=America/New_York:20160529T180000
-RDATE;TZID=America/New_York:20160612T180000
-RDATE;TZID=America/New_York:20160619T180000
-RDATE;TZID=America/New_York:20160626T180000
-RDATE;TZID=America/New_York:20160710T180000
-RDATE;TZID=America/New_York:20160717T180000
-RDATE;TZID=America/New_York:20160724T180000
-RDATE;TZID=America/New_York:20160731T180000
-RDATE;TZID=America/New_York:20160814T180000
-RDATE;TZID=America/New_York:20160821T180000
-RDATE;TZID=America/New_York:20160828T180000
-SEQUENCE:0
-SUMMARY:Middle & High School Youth Groups
-URL:http://stelmopres.dreamhosters.com/event/middle-high-school-youth-group
- s/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-802@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Bible Study
 CONTACT:Jim Lees
 DESCRIPTION:
@@ -137,7 +59,7 @@ X-COST:purchase workbook\, or check with Jim Lees for scholarship
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-803@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Prayer
 CONTACT:Scot Redpath
 DESCRIPTION:
@@ -150,7 +72,7 @@ URL:http://stelmopres.dreamhosters.com/event/mens-prayer-group/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-820@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Community Event
 CONTACT:Ed Sunder
 DESCRIPTION:
@@ -163,7 +85,7 @@ URL:http://stelmopres.dreamhosters.com/event/boy-scouts-usa/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-821@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -176,7 +98,7 @@ URL:http://stelmopres.dreamhosters.com/event/homeschool-co-op-uses-church/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-806@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:High School Youth Group
 CONTACT:
 DESCRIPTION:
@@ -229,7 +151,7 @@ URL:http://stelmopres.dreamhosters.com/event/high-school-youth-group-potluc
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-834@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Missions
 CONTACT:David Peterson
 DESCRIPTION:
@@ -243,7 +165,7 @@ URL:http://stelmopres.dreamhosters.com/event/missions-ministry-group-meetin
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-822@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES:
 CONTACT:Herb and Susan Lea
 DESCRIPTION:
@@ -256,7 +178,7 @@ URL:http://stelmopres.dreamhosters.com/event/stephen-ministry-in-session/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-804@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Prayer
 CONTACT:Cal and Susan Boroughs
 DESCRIPTION:
@@ -270,7 +192,7 @@ URL:http://stelmopres.dreamhosters.com/event/wednesday-night-prayer-group/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-824@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Prayer\,Session Meeting
 CONTACT:Rev. Cal Boroughs
 DESCRIPTION:<p>Members and visitors are welcome to join the Session for pra
@@ -285,7 +207,7 @@ URL:http://stelmopres.dreamhosters.com/event/session-meets-usually-2nd-4th-
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-830@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Bible Study\,Women's Fellowship
 CONTACT:Marylu Carl
 DESCRIPTION:
@@ -325,7 +247,7 @@ URL:http://stelmopres.dreamhosters.com/event/every-other-friday-womens-book
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-825@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Irresponsible Ladies Group\,Women's Fellowship
 CONTACT:Marylu Carl
 DESCRIPTION:
@@ -339,8 +261,86 @@ URL:http://stelmopres.dreamhosters.com/event/womens-fellowship/
 X-COST:Free at homes\, minimal at restaurants
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-797@stelmopres.dreamhosters.com
+DTSTAMP:20150921T224715Z
+CATEGORIES;LANGUAGE=en-US:Sunday School for All
+CONTACT:Sarah Nichols children\, Shelley Madueme adults
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T091500
+DTEND;TZID=America/New_York:20150927T101500
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday School for All
+URL:http://stelmopres.dreamhosters.com/event/sunday-school-for-all/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-798@stelmopres.dreamhosters.com
+DTSTAMP:20150921T224715Z
+CATEGORIES;LANGUAGE=en-US:Morning Worship
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T103000
+DTEND;TZID=America/New_York:20150927T121500
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Morning Worship
+URL:http://stelmopres.dreamhosters.com/event/morning-worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-801@stelmopres.dreamhosters.com
+DTSTAMP:20150921T224715Z
+CATEGORIES;LANGUAGE=en-US:Youth Groups
+CONTACT:Sarah Nichols
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T180000
+DTEND;TZID=America/New_York:20150927T193000
+RDATE;TZID=America/New_York:20150913T180000
+RDATE;TZID=America/New_York:20150920T180000
+RDATE;TZID=America/New_York:20150927T180000
+RDATE;TZID=America/New_York:20151011T180000
+RDATE;TZID=America/New_York:20151018T180000
+RDATE;TZID=America/New_York:20151025T180000
+RDATE;TZID=America/New_York:20151108T180000
+RDATE;TZID=America/New_York:20151115T180000
+RDATE;TZID=America/New_York:20151122T180000
+RDATE;TZID=America/New_York:20151129T180000
+RDATE;TZID=America/New_York:20151213T180000
+RDATE;TZID=America/New_York:20151220T180000
+RDATE;TZID=America/New_York:20160110T180000
+RDATE;TZID=America/New_York:20160117T180000
+RDATE;TZID=America/New_York:20160124T180000
+RDATE;TZID=America/New_York:20160131T180000
+RDATE;TZID=America/New_York:20160214T180000
+RDATE;TZID=America/New_York:20160221T180000
+RDATE;TZID=America/New_York:20160228T180000
+RDATE;TZID=America/New_York:20160313T180000
+RDATE;TZID=America/New_York:20160320T180000
+RDATE;TZID=America/New_York:20160327T180000
+RDATE;TZID=America/New_York:20160410T180000
+RDATE;TZID=America/New_York:20160417T180000
+RDATE;TZID=America/New_York:20160424T180000
+RDATE;TZID=America/New_York:20160508T180000
+RDATE;TZID=America/New_York:20160515T180000
+RDATE;TZID=America/New_York:20160522T180000
+RDATE;TZID=America/New_York:20160529T180000
+RDATE;TZID=America/New_York:20160612T180000
+RDATE;TZID=America/New_York:20160619T180000
+RDATE;TZID=America/New_York:20160626T180000
+RDATE;TZID=America/New_York:20160710T180000
+RDATE;TZID=America/New_York:20160717T180000
+RDATE;TZID=America/New_York:20160724T180000
+RDATE;TZID=America/New_York:20160731T180000
+RDATE;TZID=America/New_York:20160814T180000
+RDATE;TZID=America/New_York:20160821T180000
+RDATE;TZID=America/New_York:20160828T180000
+SEQUENCE:0
+SUMMARY:Middle & High School Youth Groups
+URL:http://stelmopres.dreamhosters.com/event/middle-high-school-youth-group
+ s/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-799@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Fellowship
 CONTACT:Joni\, Lynn\, Susan
 DESCRIPTION:<p>Please bring a main dish to serve 12\, and either a side dis
@@ -356,7 +356,7 @@ X-COST:Free: Please bring enough food to feed 12. Visitors\, just come!
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-829@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES:
 CONTACT:Paige Wichman\, Cal Boroughs\; Paige.wichman@gmail.com
 DESCRIPTION:
@@ -372,7 +372,7 @@ URL:http://stelmopres.dreamhosters.com/event/community-association-of-histo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-805@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Youth Groups
 CONTACT:Sarah Nichols
 DESCRIPTION:<p>Please RSVP to Sarah by Tuesday morning!</p>
@@ -385,7 +385,7 @@ URL:http://stelmopres.dreamhosters.com/event/youth-groups-potluck-dinner/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-823@stelmopres.dreamhosters.com
-DTSTAMP:20150920T002145Z
+DTSTAMP:20150921T224715Z
 CATEGORIES;LANGUAGE=en-US:Session Meeting
 CONTACT:Rev. Cal Boroughs
 DESCRIPTION:

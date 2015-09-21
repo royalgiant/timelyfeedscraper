@@ -1,25 +1,32 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//84.85.247.222//NONSGML kigkonsult.se iCalcreator 2.20//
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-FROM-URL:http://bubblefun.erixon.nl
-X-WR-TIMEZONE:Europe/Amsterdam
-BEGIN:VTIMEZONE
-TZID:Europe/Amsterdam
-X-LIC-LOCATION:Europe/Amsterdam
-BEGIN:STANDARD
-DTSTART:20151025T030000
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-TZNAME:CET
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20150329T020000
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-RDATE:20160327T020000
-TZNAME:CEST
-END:DAYLIGHT
-END:VTIMEZONE
-END:VCALENDAR
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>

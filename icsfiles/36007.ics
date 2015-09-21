@@ -23,22 +23,8 @@ TZNAME:AEDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-163@pelicanwaters.org/wp
-DTSTAMP:20150920T002130Z
-CATEGORIES;LANGUAGE=en-US:Red Rubbish
-CONTACT:
-DESCRIPTION:<p>Red (waste) bin collection</p>\n<div style='clear:both\;'></
- div>
-DTSTART;VALUE=DATE:20150920
-DTEND;VALUE=DATE:20150921
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=MO;WKST=MO
-SEQUENCE:0
-SUMMARY:Red Bin
-URL:http://pelicanwaters.org/?ai1ec_event=red-bin
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-164@pelicanwaters.org/wp
-DTSTAMP:20150920T002130Z
+DTSTAMP:20150921T224658Z
 CATEGORIES;LANGUAGE=en-US:Red and Yellow Rubbish
 CONTACT:
 DESCRIPTION:<p>Red (waste) and Yellow (recycling) bin collection</p>\n<div 
@@ -52,7 +38,7 @@ URL:http://pelicanwaters.org/?ai1ec_event=red-yellow-bin
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-162@pelicanwaters.org/wp
-DTSTAMP:20150920T002130Z
+DTSTAMP:20150921T224658Z
 CATEGORIES;LANGUAGE=en-US:Lawn Mowing
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -62,5 +48,19 @@ RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=FR;WKST=MO
 SEQUENCE:0
 SUMMARY:Lawn Mowing
 URL:http://pelicanwaters.org/?ai1ec_event=lawn-mowing
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-163@pelicanwaters.org/wp
+DTSTAMP:20150921T224658Z
+CATEGORIES;LANGUAGE=en-US:Red Rubbish
+CONTACT:
+DESCRIPTION:<p>Red (waste) bin collection</p>\n<div style='clear:both\;'></
+ div>
+DTSTART;VALUE=DATE:20151005
+DTEND;VALUE=DATE:20151006
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Red Bin
+URL:http://pelicanwaters.org/?ai1ec_event=red-bin
 END:VEVENT
 END:VCALENDAR

@@ -23,40 +23,8 @@ TZNAME:PDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-380@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
-CATEGORIES;LANGUAGE=en-US:Music
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=US/Pacific:20150918T190000
-DTEND;TZID=US/Pacific:20150918T220000
-SEQUENCE:0
-SUMMARY:Saffel
-URL:http://corkscrewbar.com/csb/event/saffel/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-387@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
-CATEGORIES;LANGUAGE=en-US:Music
-CONTACT:
-DESCRIPTION:<h1>Rico McDaniel</h1>\n<h2><em>Guitar and Vocals</em></h2>\n<p
- >Originally from Berkeley California\, by way of Woodstock\, New York\, Ri
- co writes most of the original material The Contingents perform. When not 
- on stage Rico spends his days throwing stale breadcrumbs at pigeons in the
-  park</p>\n<h1>Jeremy Gorman</h1>\n<h2><em>Guitar \, Ukelele and Vocals</e
- m></h2>\n<p>Also originally from Berkeley California\, Jeremy has been a p
- art of the Sonoma County music scene for many years. When not working\, go
- ing to school or playing music\, Jeremy studies the works of Prof. Anne El
- k who has a very interesting theory about the Brontosaurus…</p>
-DTSTART;TZID=US/Pacific:20150919T190000
-DTEND;TZID=US/Pacific:20150919T220000
-SEQUENCE:0
-SUMMARY:The Contingents
-URL:http://corkscrewbar.com/csb/event/the-contingents-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-356@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
+DTSTAMP:20150921T224803Z
 CATEGORIES;LANGUAGE=en-US:Music
 CONTACT:TumbleWeed Pacific\; 707.789.0505\; booking@corkscrewbar.com\; http
  s://www.facebook.com/events/696747070441671/
@@ -83,7 +51,7 @@ X-TAGS;LANGUAGE=en-US:beer\,charcuterie\,cheese\,music\,songwriter\,wine
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-158@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-US:Literary
 CONTACT:TumbleWeed Pacific\; 707.789.0505\; booking@corkscrewbar.com\; http
  s://www.facebook.com/events/1588167641397053/
@@ -109,7 +77,7 @@ X-TAGS;LANGUAGE=en-US:Author Reading\,beer\,charcuterie\,cheese\,literary\,
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-381@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-US:Music
 CONTACT:
 DESCRIPTION:
@@ -121,7 +89,7 @@ URL:http://corkscrewbar.com/csb/event/the-sticky-notes-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-382@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-US:Music
 CONTACT:
 DESCRIPTION:
@@ -133,7 +101,7 @@ URL:http://corkscrewbar.com/csb/event/lady-grace/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-388@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-US:Music
 CONTACT:https://www.facebook.com/events/1586286221641871/
 DESCRIPTION:<p><span class='fsl'>Todos Santos is Wendy Fitz\, Gary Bauman\,
@@ -150,7 +118,7 @@ URL:http://corkscrewbar.com/csb/event/todos-santos-the-band-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-389@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-US:Music
 CONTACT:https://www.facebook.com/events/1647363618877924
 DESCRIPTION:<p>This Country Music Singer/Songwriter and Nashville Recording
@@ -182,19 +150,39 @@ URL:http://corkscrewbar.com/csb/event/erica-sunshine-lee/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-403@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-US:Music
-CONTACT:
-DESCRIPTION:
+CONTACT:https://www.facebook.com/events/1701894990044731/
+DESCRIPTION:<p>Karen Bradley has spend 20+ years “behaving” herself behind 
+ the cameras on movie sets and backstage big stage shows…However\, she lear
+ ned to play guitar at 16 and has been hooked on playing and singing the so
+ ngs of her youth ever since . 7 years ago she decided to put her playing a
+ nd singing to the test in the NorthBay club’s of “Peri’s” in Fairfax \, “H
+ opmonk Tavern” in Novato\, the” Fenix ” in San Rafael and even “Sweetwater
+ ” in Mill Valley. She brings a hot mix of old classic Country\,swing\, Pop
+  of the 60’s and more. So…… she is now Karen”behaving” Bradley. Come join 
+ the fun!</p>
 DTSTART;TZID=US/Pacific:20151002T190000
 DTEND;TZID=US/Pacific:20151002T220000
 SEQUENCE:0
-SUMMARY:Karen Acting Bradley
+SUMMARY:Karen Behaving Bradley
 URL:http://corkscrewbar.com/csb/event/karen-behaving-bradley/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-406@corkscrewbar.com/csb
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:https://www.facebook.com/events/836830406413904/
+DESCRIPTION:
+DTSTART;TZID=US/Pacific:20151003T190000
+DTEND;TZID=US/Pacific:20151003T220000
+SEQUENCE:0
+SUMMARY:French Oak Gypsies
+URL:http://corkscrewbar.com/csb/event/french-oak-gypsies-3-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-402@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-US:Music
 CONTACT:https://www.facebook.com/events/1665326577013392/
 DESCRIPTION:<p>Featuring Gary Vogensen\, Julie Bernard & Russ Gauthier\, Th
@@ -210,8 +198,50 @@ SUMMARY:The Rivertown Trio
 URL:http://corkscrewbar.com/csb/event/402/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-407@corkscrewbar.com/csb
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:https://www.facebook.com/events/420313024831013/
+DESCRIPTION:<p>Carrie Jackson Revival is a four-piece band out of Petaluma\
+ , CA that brings together soulful singer/songwriter music with American ro
+ ots rock. Featuring original songs mixed with songs by great American root
+ s artists like Patty Griffin\, Gillian Welch\, and Greg Brown.</p>
+DTSTART;TZID=US/Pacific:20151009T190000
+DTEND;TZID=US/Pacific:20151009T220000
+SEQUENCE:0
+SUMMARY:Carrie Jackson Revival
+URL:http://corkscrewbar.com/csb/event/carrie-jackson-revival-is-a-four-piec
+ e-band-out-of-petaluma-ca-that-brings-together-soulful-singersongwriter-mu
+ sic-with-american-roots-rock-featuring-original-songs-mixed-with-songs-by-
+ great-americ/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-409@corkscrewbar.com/csb
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:https://www.facebook.com/events/1472742666349673/
+DESCRIPTION:<p><span class='fsl'>Ain’t Misbehavin’ – Acoustic variety – Vin
+ tage & Western Swing\, bluegrass\, jazzy ballads. Marin County musicians B
+ arry & Annie Ernst and Philip Richardson perform an eclectic variety of st
+ yles from Vintage Swing to contemporary numbers\, including ballads\, blue
+ grass\, originals\, and more. Featuring mellow harmonies and hot fiddlin’ 
+ from laid back to joint jumpin’. Favorites include selections from Fats Wa
+ ller\, the Boswell Sisters\, Cole Porter\, Bob Wills\, and Sons of the Pio
+ neers and more.</span></p>\n<p>Members: Barry Ernst\, lead vocal\, guitar\
+ ; Annie Ernst\, upright bass\, harmony vocal\, guitar\; Phil Richardson\, 
+ fiddle and banjo.</p>\n<p><a href='http://l.facebook.com/l.php?u=http%3A%2
+ F%2Fwww.barryandannie.com%2F&h=_AQE2rpAM&enc=AZNPZ2928mdzecG_B20q5LfvsVuAW
+ JOJ3ushuiSiZPEKIysL6lp4azzWl7lpOpTqouQ&s=1' target='_blank' rel='nofollow 
+ nofollow'>www.barryandannie.com</a></p>
+DTSTART;TZID=US/Pacific:20151010T190000
+DTEND;TZID=US/Pacific:20151010T220000
+SEQUENCE:0
+SUMMARY:Ain’t Misbehavin’
+URL:http://corkscrewbar.com/csb/event/aint-misbehavin-4-3-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-162@corkscrewbar.com/csb
-DTSTAMP:20150920T002403Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-US:Music
 CONTACT:TumbleWeed Pacific\; 707.789.0505\; booking@corkscrewbar.com
 DESCRIPTION:<p><span class='fsl'>Staggerwing began nearly five years ago in
@@ -234,5 +264,121 @@ SUMMARY:Staggerwing
 URL:http://corkscrewbar.com/csb/event/staggerwing/
 X-TAGS;LANGUAGE=en-US:beer\,charcuterie\,cheese\,guitar\,music\,songwriter\
  ,wine
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-410@corkscrewbar.com/csb
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:https://www.facebook.com/events/1683627918538657/
+DESCRIPTION:<p>Domestic Harmony is a blend of voices\, of styles and genres
+ . We play tunes from the American Songbook: pop tunes from the 50s\, 60s a
+ nd 70s\, some more current still\, and a sprinkling of tunes from other ti
+ mes. Most you know\, and most you love. We write about a third of our musi
+ c. We find that people quickly love those songs\, too\, and ask for them b
+ y name. You’ll hear some pop\, some soft rock\, some R & B\, some jazz\, s
+ ome folk.</p>\n<p>We relish the dance of voices\, the twining and twinning
+  of strings\, the space between the notes\, the song beyond the notes sung
+  and played. Our songs are our own\, whether written by us or borrowed fro
+ m another time\, another artist or band. You might hear the Beatles or Smo
+ key Robinson\, Dylan or Dusty Springfield\, Leonard Cohen or Bonnie Raitt\
+ , The Everly Brothers or Eva Cassidy. Whatever it is\, vocal harmony is th
+ e thing\, with a smile and bounce to its step.</p>
+DTSTART;TZID=US/Pacific:20151016T190000
+DTEND;TZID=US/Pacific:20151016T220000
+SEQUENCE:0
+SUMMARY:Domestic Harmony
+URL:http://corkscrewbar.com/csb/event/domestic-harmony-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-411@corkscrewbar.com/csb
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:https://www.facebook.com/events/976575642404544/
+DESCRIPTION:<p>Joel Schick<br />\nVocals Guitar Harmonica</p>\n<p>Original 
+ Americana<br />\nBrand new oldies of the ’30s\, ’40s\, ’50s & ’60s<br />\n
+ Blues\, R&B\, Country\, Rock ‘n’ Roll\, DooWop\, Folk\, Celtic\, Jazz</p>
+ \n<p>Lyrics run from funny to touching\, insightful to intense\, soulful t
+ o silly<br />\nListeners have been reminded of<br />\nTom Waits\, Randy Ne
+ wman\, John Prine\,<br />\nLieber & Stoller\, Tom Lehrer\, Shel Silverstei
+ n</p>
+DTSTART;TZID=US/Pacific:20151020T183000
+DTEND;TZID=US/Pacific:20151020T210000
+SEQUENCE:0
+SUMMARY:Joel Schick
+URL:http://corkscrewbar.com/csb/event/joel-schick-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-412@corkscrewbar.com/csb
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:
+DESCRIPTION:<p><span class='fsl'>Brooke has a background in musical theater
+ \, Morgan has a background in jazz and traditional folk music. Together th
+ ey blend their talents to give a captivating performance that features pas
+ sionate singing\, great guitar playing and fine fiddling. Their repertoire
+  consists of show tunes\, original melodies\, rousing pub songs and more!<
+ /span></p>\n<p><a href='http://www.brookemcgowan.com/bio.html' target='_bl
+ ank' rel='nofollow nofollow'>http://<wbr />www.brookemcgowan.com/<wbr />bi
+ o.html</a></p>
+DTSTART;TZID=US/Pacific:20151023T190000
+DTEND;TZID=US/Pacific:20151023T220000
+GEO:+38.234274;-122.639997
+LOCATION:Corkscrew Wine Bar @ 100 Petaluma Boulevard North\, Petaluma\, CA 
+ 94952\, USA
+SEQUENCE:0
+SUMMARY:Brooke & the Caterpillar
+URL:http://corkscrewbar.com/csb/event/brooke-the-caterpillar-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-413@corkscrewbar.com/csb
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:TumbleWeed Pacific\; booking@corkscrewbar.com\; https://www.faceboo
+ k.com/events/574473962654516/
+DESCRIPTION:<p><span class='fsl'>The Rains are a husband and wife duo who w
+ eave a special sound with their strong songwriting and unique harmonies. T
+ heir original Country/Americana tunes achieve that delicate balance betwee
+ n being both heartfelt and commercially viable.</span></p>\n<p>Marty Raino
+ ne is a native of New York City. His first musical influences were Bob Dyl
+ an\, Donovan and many of the early Greenwich Village folk scene artists. H
+ e was later influenced by Buck Owens and Merle Haggard. Marty moved to Nas
+ hville\, TN in 1992 where he was mentored by the great Harlan Howard. He h
+ as had songs recorded by the Fox Brothers\, Miko Marks and many others.</p
+ >\n<p>Carol Hashe Rainone\, originally from Santa Cruz\, California spent 
+ many years in Nashville involved in the songwriting scene. She has perform
+ ed her original songs at the Bluebird Café\, Douglas Corner Café and the l
+ egendary Joe’s Village Inn. Her co-written song\, Airplane Light\, was the
+  Grand Prize winner of the ASCAP Foundation/Lilith Fair Songwriting Contes
+ t.</p>\n<p>It was in Nashville that Marty met Carol and after writing and 
+ performing together for many years\, they discovered they had a harmony bl
+ end all their own. They decided to form The Rains.</p>
+DTSTART;TZID=US/Pacific:20151024T190000
+DTEND;TZID=US/Pacific:20151024T220000
+GEO:+38.234274;-122.639997
+LOCATION:Corkscrew Wine Bar @ 100 Petaluma Boulevard North\, Petaluma\, CA 
+ 94952\, USA
+SEQUENCE:0
+SUMMARY:The Rains
+URL:http://corkscrewbar.com/csb/event/the-rains-3-2/
+X-TAGS;LANGUAGE=en-US:beer\,charcuterie\,cheese\,music\,songwriter\,wine
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-414@corkscrewbar.com/csb
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-US:Music
+CONTACT:https://www.facebook.com/events/1558102027783468/
+DESCRIPTION:<p><span class='fsl'>This old-time string band will get your to
+ es tapping with music that spans at least a hundred years. Their tight har
+ monies and boot stompin’ fiddle tunes will remind you of times past when l
+ ive music was the only entertainment on a Saturday night. Check out HomeBr
+ ew for Old-time traditional music\, Irish\, Country\, Folk\, Blues and lit
+ tle Jazz thrown in for fun.</span></p>\n<p>Lauren Ruhl: fiddle\, tenor ban
+ jo<br />\nDana Allen: vocals\, guitar\, dancing chicken<br />\nBrooke Lynn
+  McGowan\; guitar and vocals<br />\nAna Anzore: upright bass</p>
+DTSTART;TZID=US/Pacific:20151030T190000
+DTEND;TZID=US/Pacific:20151030T220000
+SEQUENCE:0
+SUMMARY:Home Brew
+URL:http://corkscrewbar.com/csb/event/home-brew-2-2/
 END:VEVENT
 END:VCALENDAR

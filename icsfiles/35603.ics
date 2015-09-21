@@ -23,78 +23,8 @@ TZNAME:CDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-147@eplsocceronline.com
-DTSTAMP:20150920T002321Z
-CATEGORIES;LANGUAGE=en-US:Arsenal
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://eplsocceronline.com/wp-content/uploads/2015/08/Arsenal-300x175.jpg' wid
- th='300' height='175' /></div>
-DTSTART;TZID=America/Chicago:20150919T064500
-DTEND;TZID=America/Chicago:20150919T084500
-GEO:+51.481663;-0.190956
-LOCATION:Stamford Bridge @ Fulham Road\, Fulham\, London SW6\, UK
-SEQUENCE:0
-SUMMARY:Arsenal at Chelsea
-URL:http://eplsocceronline.com/event/arsenal-at-chelsea/
-X-TAGS;LANGUAGE=en-US:Chelsea\,Match Week 06
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-129@eplsocceronline.com
-DTSTAMP:20150920T002321Z
-CATEGORIES;LANGUAGE=en-US:Manchester City
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://eplsocceronline.com/wp-content/uploads/2015/08/Manchester-City-300x175.
- jpg' width='300' height='175' /></div>
-DTSTART;TZID=America/Chicago:20150919T113000
-DTEND;TZID=America/Chicago:20150919T133000
-GEO:+53.483138;-2.200395
-LOCATION:Etihad Stadium @ Ashton New Road\, Manchester\, Manchester M11\, U
- K
-SEQUENCE:0
-SUMMARY:Manchester City vs West Ham United
-URL:http://eplsocceronline.com/event/manchester-city-vs-west-ham-united/
-X-TAGS;LANGUAGE=en-US:Match Week 06\,West Ham
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-132@eplsocceronline.com
-DTSTAMP:20150920T002321Z
-CATEGORIES;LANGUAGE=en-US:Manchester United
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://eplsocceronline.com/wp-content/uploads/2015/08/Manchester-United-300x17
- 5.jpg' width='300' height='175' /></div>
-DTSTART;TZID=America/Chicago:20150920T100000
-DTEND;TZID=America/Chicago:20150920T120000
-GEO:+50.906713;-1.390571
-LOCATION:St Mary's stadium @ Britannia Road\, Southampton\, Southampton SO1
- 4\, UK
-SEQUENCE:0
-SUMMARY:Manchester United at Southampton
-URL:http://eplsocceronline.com/event/manchester-united-at-southampton/
-X-TAGS;LANGUAGE=en-US:Match Week 06\,Southampton
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-150@eplsocceronline.com
-DTSTAMP:20150920T002321Z
-CATEGORIES;LANGUAGE=en-US:Liverpool
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://eplsocceronline.com/wp-content/uploads/2015/08/Liverpool-300x175.jpg' w
- idth='300' height='175' /></div>
-DTSTART;TZID=America/Chicago:20150920T120000
-DTEND;TZID=America/Chicago:20150920T140000
-GEO:+53.431405;-2.959987
-LOCATION:Anfield @ Anfield Road\, Liverpool\, Merseyside L4\, UK
-SEQUENCE:0
-SUMMARY:Liverpool vs Norwich City
-URL:http://eplsocceronline.com/event/liverpool-vs-norwich-city/
-X-TAGS;LANGUAGE=en-US:Match Week 06\,Norwich City
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-287@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Manchester City
 CONTACT:
 DESCRIPTION:
@@ -109,7 +39,7 @@ X-TAGS;LANGUAGE=en-US:Manchester City\,Match Week 07\,Tottenham Hotspurs
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-288@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Arsenal
 CONTACT:
 DESCRIPTION:
@@ -125,7 +55,7 @@ X-TAGS;LANGUAGE=en-US:Arsenal\,Leicester City\,Match Week 07
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-289@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Liverpool
 CONTACT:
 DESCRIPTION:
@@ -140,7 +70,7 @@ X-TAGS;LANGUAGE=en-US:Aston Villa\,Liverpool\,Match Week 07
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-290@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Manchester United
 CONTACT:
 DESCRIPTION:
@@ -156,7 +86,7 @@ X-TAGS;LANGUAGE=en-US:Manchester United\,Match Week 07\,Sunderland
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-291@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Manchester City
 CONTACT:
 DESCRIPTION:
@@ -171,7 +101,7 @@ X-TAGS;LANGUAGE=en-US:Manchester City\,Match Week 08\,Newcastle United
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-292@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Liverpool
 CONTACT:
 DESCRIPTION:
@@ -186,7 +116,7 @@ X-TAGS;LANGUAGE=en-US:Everton\,Liverpool\,Match Week 08
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-293@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Arsenal
 CONTACT:
 DESCRIPTION:
@@ -201,7 +131,7 @@ X-TAGS;LANGUAGE=en-US:Arsenal\,Manchester United\,Match Week 08
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-294@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Manchester United
 CONTACT:
 DESCRIPTION:
@@ -216,7 +146,7 @@ X-TAGS;LANGUAGE=en-US:Arsenal\,Manchester United\,Match Week 08
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-295@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Liverpool
 CONTACT:
 DESCRIPTION:
@@ -231,7 +161,7 @@ X-TAGS;LANGUAGE=en-US:Liverpool\,Match Week 09\,Tottenham Hotspurs
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-297@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Manchester City
 CONTACT:
 DESCRIPTION:
@@ -246,7 +176,7 @@ X-TAGS;LANGUAGE=en-US:Bournemouth\,Manchester City\,Match Week 09
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-296@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Manchester United
 CONTACT:
 DESCRIPTION:
@@ -261,7 +191,7 @@ X-TAGS;LANGUAGE=en-US:Everton\,Manchester United\,Match Week 09
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-298@eplsocceronline.com
-DTSTAMP:20150920T002321Z
+DTSTAMP:20150921T224750Z
 CATEGORIES;LANGUAGE=en-US:Arsenal
 CONTACT:
 DESCRIPTION:

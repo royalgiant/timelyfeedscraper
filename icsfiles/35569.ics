@@ -23,62 +23,8 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-1940@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
-CATEGORIES:
-CONTACT:Jonathan Currie\; 028 7963 2128\; jjcurrie@unionroad.org.uk
-DESCRIPTION:
-DTSTART;TZID=Europe/London:20150920T120000
-DTEND;TZID=Europe/London:20150920T131500
-EXDATE;TZID=Europe/London:20160306T120000
-GEO:+54.756587;-6.608036
-LOCATION:Union Road Presbyterian Church @ Union Road\, Magherafelt\, Magher
- afelt BT45\, UK
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Morning Worship
-URL:http://www.unionroad.org.uk/event/morning-worship/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1941@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
-CATEGORIES:
-CONTACT:Jonathan Currie\; 028 7963 2128\; jjcurrie@unionroad.org.uk
-DESCRIPTION:
-DTSTART;TZID=Europe/London:20150920T183000
-DTEND;TZID=Europe/London:20150920T194500
-EXDATE;TZID=Europe/London:20131012T183000
-EXDATE;TZID=Europe/London:20131215T183000
-EXDATE;TZID=Europe/London:20131222T183000
-EXDATE;TZID=Europe/London:20141012T183000
-GEO:+54.756587;-6.608036
-LOCATION:Union Road Presbyterian Church @ Union Road\, Magherafelt\, Magher
- afelt BT45\, UK
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Evening Worship and Fellowship
-URL:http://www.unionroad.org.uk/event/evening-worship-and-fellowship/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-3743@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>A youth fellowship group for students attending secondary sc
- hool.</p>\n<p>Wind down your weekend and prepare for the week ahead by wor
- shipping\, playing games and eating supper with other young people your ag
- e.</p>\n<p>Click <a title='Encounter' href='http://www.unionroad.org.uk/mi
- nistries/youth/encounter/'>here</a> for more info.</p>
-DTSTART;TZID=Europe/London:20150920T194500
-DTEND;TZID=Europe/London:20150920T213000
-RRULE:FREQ=WEEKLY;UNTIL=20151004T235959Z;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Encounter
-URL:http://www.unionroad.org.uk/event/encounter-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1942@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:Jonathan Currie\; 028 7963 2128\; jjcurrie@unionroad.org.uk
 DESCRIPTION:
@@ -99,8 +45,62 @@ SUMMARY:Midweek Prayer
 URL:http://www.unionroad.org.uk/event/midweek-prayer/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1940@www.unionroad.org.uk
+DTSTAMP:20150921T224751Z
+CATEGORIES:
+CONTACT:Jonathan Currie\; 028 7963 2128\; jjcurrie@unionroad.org.uk
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150927T120000
+DTEND;TZID=Europe/London:20150927T131500
+EXDATE;TZID=Europe/London:20160306T120000
+GEO:+54.756587;-6.608036
+LOCATION:Union Road Presbyterian Church @ Union Road\, Magherafelt\, Magher
+ afelt BT45\, UK
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Morning Worship
+URL:http://www.unionroad.org.uk/event/morning-worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1941@www.unionroad.org.uk
+DTSTAMP:20150921T224751Z
+CATEGORIES:
+CONTACT:Jonathan Currie\; 028 7963 2128\; jjcurrie@unionroad.org.uk
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150927T183000
+DTEND;TZID=Europe/London:20150927T194500
+EXDATE;TZID=Europe/London:20131012T183000
+EXDATE;TZID=Europe/London:20131215T183000
+EXDATE;TZID=Europe/London:20131222T183000
+EXDATE;TZID=Europe/London:20141012T183000
+GEO:+54.756587;-6.608036
+LOCATION:Union Road Presbyterian Church @ Union Road\, Magherafelt\, Magher
+ afelt BT45\, UK
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Evening Worship and Fellowship
+URL:http://www.unionroad.org.uk/event/evening-worship-and-fellowship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3743@www.unionroad.org.uk
+DTSTAMP:20150921T224751Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>A youth fellowship group for students attending secondary sc
+ hool.</p>\n<p>Wind down your weekend and prepare for the week ahead by wor
+ shipping\, playing games and eating supper with other young people your ag
+ e.</p>\n<p>Click <a title='Encounter' href='http://www.unionroad.org.uk/mi
+ nistries/youth/encounter/'>here</a> for more info.</p>
+DTSTART;TZID=Europe/London:20150927T194500
+DTEND;TZID=Europe/London:20150927T213000
+RRULE:FREQ=WEEKLY;UNTIL=20151004T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Encounter
+URL:http://www.unionroad.org.uk/event/encounter-3/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-3680@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:info@unionroad.org.uk
 DESCRIPTION:
@@ -115,7 +115,7 @@ URL:http://www.unionroad.org.uk/event/pw-every-home-crusade/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3744@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>A youth fellowship group for students attending secondary sc
@@ -132,7 +132,7 @@ URL:http://www.unionroad.org.uk/event/encounter-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3681@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:info@unionroad.org.uk
 DESCRIPTION:
@@ -147,7 +147,7 @@ URL:http://www.unionroad.org.uk/event/pw-gift-date/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3682@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:info@unionroad.org.uk
 DESCRIPTION:
@@ -162,7 +162,7 @@ URL:http://www.unionroad.org.uk/event/pw-christmas-night/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3745@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>A youth fellowship group for students attending secondary sc
@@ -178,7 +178,7 @@ URL:http://www.unionroad.org.uk/event/encounter-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3683@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:info@unionroad.org.uk
 DESCRIPTION:
@@ -193,7 +193,7 @@ URL:http://www.unionroad.org.uk/event/pw-christine-white/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3684@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:info@unionroad.org.uk
 DESCRIPTION:
@@ -208,7 +208,7 @@ URL:http://www.unionroad.org.uk/event/pw-charlenes-project/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3686@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:info@unionroad.org.uk
 DESCRIPTION:
@@ -223,7 +223,7 @@ URL:http://www.unionroad.org.uk/event/pw-service-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3685@www.unionroad.org.uk
-DTSTAMP:20150920T002333Z
+DTSTAMP:20150921T224751Z
 CATEGORIES:
 CONTACT:info@unionroad.org.uk
 DESCRIPTION:

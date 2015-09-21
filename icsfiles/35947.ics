@@ -23,59 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-65@www.evangile76-ser.com/ser6
-DTSTAMP:20150920T002138Z
-CATEGORIES;LANGUAGE=fr-FR:Réunion hebdomadaire
-CONTACT:
-DESCRIPTION:<p>Culte de louange et d’adoration avec chants et partage de la
-  Parole de Dieu (la Bible).</p>\n<p>Réunion ouverte à tout public. Entrée 
- libre et gratuite.</p>
-DTSTART;TZID=Europe/Paris:20150920T093000
-DTEND;TZID=Europe/Paris:20150920T110000
-GEO:+49.384839;+1.099978
-LOCATION:18 Rue Edouard Branly\, 76800 Saint-Étienne-du-Rouvray\, France
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:1er culte
-URL:http://www.evangile76-ser.com/ser6/event/culte1/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-68@www.evangile76-ser.com/ser6
-DTSTAMP:20150920T002138Z
-CATEGORIES;LANGUAGE=fr-FR:Réunion hebdomadaire
-CONTACT:
-DESCRIPTION:<p>Culte de louange et d’adoration avec chants et partage de la
-  Parole de Dieu (la Bible).</p>\n<p>Réunion ouverte à tout public. Entrée 
- libre et gratuite.</p>
-DTSTART;TZID=Europe/Paris:20150920T111500
-DTEND;TZID=Europe/Paris:20150920T130000
-GEO:+49.384839;+1.099978
-LOCATION:18 Rue Edouard Branly\, 76800 Saint-Étienne-du-Rouvray\, France
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:2ème culte
-URL:http://www.evangile76-ser.com/ser6/event/culte2/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-75@www.evangile76-ser.com/ser6
-DTSTAMP:20150920T002138Z
-CATEGORIES;LANGUAGE=fr-FR:Réunion hebdomadaire
-CONTACT:
-DESCRIPTION:<p>Réunion « Je partage ma foi »\, avec chants et prédication d
- e l’évangile.</p>\n<p>Réunion ouverte à tout public. Entrée libre et gratu
- ite.</p>
-DTSTART;TZID=Europe/Paris:20150920T170000
-DTEND;TZID=Europe/Paris:20150920T181500
-GEO:+49.384839;+1.099978
-LOCATION:18 Rue Edouard Branly\, 76800 Saint-Étienne-du-Rouvray\, France
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Je partage ma foi
-URL:http://www.evangile76-ser.com/ser6/event/75/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-66@www.evangile76-ser.com/ser6
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224708Z
 CATEGORIES;LANGUAGE=fr-FR:Réunion hebdomadaire
 CONTACT:
 DESCRIPTION:<p>Culte de prière et d’intercession. Chants\, partage de la Pa
@@ -89,5 +38,56 @@ RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
 SEQUENCE:0
 SUMMARY:Réunion de prière
 URL:http://www.evangile76-ser.com/ser6/event/priere/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-65@www.evangile76-ser.com/ser6
+DTSTAMP:20150921T224708Z
+CATEGORIES;LANGUAGE=fr-FR:Réunion hebdomadaire
+CONTACT:
+DESCRIPTION:<p>Culte de louange et d’adoration avec chants et partage de la
+  Parole de Dieu (la Bible).</p>\n<p>Réunion ouverte à tout public. Entrée 
+ libre et gratuite.</p>
+DTSTART;TZID=Europe/Paris:20150927T093000
+DTEND;TZID=Europe/Paris:20150927T110000
+GEO:+49.384839;+1.099978
+LOCATION:18 Rue Edouard Branly\, 76800 Saint-Étienne-du-Rouvray\, France
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:1er culte
+URL:http://www.evangile76-ser.com/ser6/event/culte1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-68@www.evangile76-ser.com/ser6
+DTSTAMP:20150921T224708Z
+CATEGORIES;LANGUAGE=fr-FR:Réunion hebdomadaire
+CONTACT:
+DESCRIPTION:<p>Culte de louange et d’adoration avec chants et partage de la
+  Parole de Dieu (la Bible).</p>\n<p>Réunion ouverte à tout public. Entrée 
+ libre et gratuite.</p>
+DTSTART;TZID=Europe/Paris:20150927T111500
+DTEND;TZID=Europe/Paris:20150927T130000
+GEO:+49.384839;+1.099978
+LOCATION:18 Rue Edouard Branly\, 76800 Saint-Étienne-du-Rouvray\, France
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:2ème culte
+URL:http://www.evangile76-ser.com/ser6/event/culte2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-75@www.evangile76-ser.com/ser6
+DTSTAMP:20150921T224708Z
+CATEGORIES;LANGUAGE=fr-FR:Réunion hebdomadaire
+CONTACT:
+DESCRIPTION:<p>Réunion « Je partage ma foi »\, avec chants et prédication d
+ e l’évangile.</p>\n<p>Réunion ouverte à tout public. Entrée libre et gratu
+ ite.</p>
+DTSTART;TZID=Europe/Paris:20150927T170000
+DTEND;TZID=Europe/Paris:20150927T181500
+GEO:+49.384839;+1.099978
+LOCATION:18 Rue Edouard Branly\, 76800 Saint-Étienne-du-Rouvray\, France
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Je partage ma foi
+URL:http://www.evangile76-ser.com/ser6/event/75/
 END:VEVENT
 END:VCALENDAR

@@ -1,13 +1,198 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>/n</p>
-<hr>
-<address>Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 Server at 70.32.107.36 Port 80</address>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//70.32.107.36//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://ccsesa.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-12728@ccsesa.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=en-US:Calendar Event
+CONTACT:JaConya Merchant\; (916) 446-3095\; jmerchant@ccsesa.org
+DESCRIPTION:<p><span style='color: #000000\;'></p>\n</div>\n</div>\n</div>
+ \n</div>\n</div>\n</div>\n</form>\n</div>\n<div style='clear:both\;'></div
+ >
+DTSTART;TZID=America/Los_Angeles:20151004T100000
+DTEND;TZID=America/Los_Angeles:20151006T103000
+GEO:+38.348741;-122.264528
+LOCATION:The Silverado Resort and Spa @ 1600 Atlas Peak Road\, Napa\, CA 94
+ 558\, USA
+SEQUENCE:0
+SUMMARY:CCSESA October General Membership Meeting
+URL:http://ccsesa.org/event/ccsesa-october-general-membership-meeting/
+X-COST:$350
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12738@ccsesa.org
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:Donna Somers\; (530) 478-6400 x219\; dsomers@nevco.org
+DESCRIPTION:<p style='text-align: center\;'><strong><span style='color: #00
+ 0000\;'><span style='color: #ff6600\;'>Please mail all checks to CCSESA: 1
+ 121 L Street\, Suite 510 Sacramento\, CA 95814</span><br />\nAny cancellat
+ ions will be non-refundable after October 5\, 2015.</span><br />\n<span st
+ yle='color: #000000\;'> Please contact Donna Somers at</span> <a href='mai
+ lto:dsomers@nevco.org'>dsomers@nevco.org</a> <span style='color: #000000\;
+ '>if you have any questions.  </span></strong></p>\n<p style='text-align: 
+ center\;'><a href='http://ccsesa.org/wp-content/uploads/2015/08/AB-1200-Ag
+ enda1.jpg'><img class='alignnone wp-image-12838' src='http://ccsesa.org/wp
+ -content/uploads/2015/08/AB-1200-Agenda1.jpg' alt='' width='500' height='3
+ 89' /></a></p>\n<div style='clear:both\;'></div>
+DTSTART;TZID=America/Los_Angeles:20151016T083000
+DTEND;TZID=America/Los_Angeles:20151016T163000
+GEO:+38.6956;-121.758244
+LOCATION:Yolo County Office of Education @ 1280 Santa Anita Court\, Woodlan
+ d\, CA 95776\, USA
+SEQUENCE:0
+SUMMARY:BASC-PDC: Fall AB 1200 Conference – Yolo
+URL:http://ccsesa.org/event/basc-pdc-fall-ab-1200-conference-yolo/
+X-COST:$30 - Please make checks payable to: CCSESA 1121 L Street\, Suite 51
+ 0 Sacramento\, CA 95814
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12740@ccsesa.org
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:Donna Somers\; (530) 478-6400 x219\; dsomers@nevco.org
+DESCRIPTION:<p style='text-align: center\;'><strong><span style='color: #00
+ 0000\;'><span style='color: #ff6600\;'>Please mail all checks to CCSESA: 1
+ 121 L Street\, Suite 510 Sacramento\, CA 95814</span><br />\nAny cancellat
+ ions will be non-refundable after October 5\, 2015.</span><br />\n<span st
+ yle='color: #000000\;'> Please contact Donna Somers at</span> <a href='mai
+ lto:dsomers@nevco.org'>dsomers@nevco.org</a> <span style='color: #000000\;
+ '>if you have any questions.  </span></strong></p>\n<p style='text-align: 
+ center\;'><a href='http://ccsesa.org/wp-content/uploads/2015/08/AB-1200-Ag
+ enda1.jpg'><img class='alignnone wp-image-12838' src='http://ccsesa.org/wp
+ -content/uploads/2015/08/AB-1200-Agenda1.jpg' alt='' width='500' height='3
+ 89' /></a></p>\n<div style='clear:both\;'></div>
+DTSTART;TZID=America/Los_Angeles:20151019T083000
+DTEND;TZID=America/Los_Angeles:20151019T163000
+GEO:+34.103619;-117.56974
+LOCATION:San Bernardino Superintendent of Schools: West End Educational Ser
+ vices Center @ 8265 Aspen Street\, Rancho Cucamonga\, CA 91730\, USA
+SEQUENCE:0
+SUMMARY:BASC-PDC: Fall AB 1200 Conference – San Bernardino
+URL:http://ccsesa.org/event/basc-pdc-fall-ab-1200-conference-san-bernardino
+ /
+X-COST:$30 - Please make checks payable to: CCSESA 1121 L Street\, Suite 51
+ 0 Sacramento\, CA 95814
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-11151@ccsesa.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=en-US:Calendar Event\,Special Education Administrators 
+ of County Offices
+CONTACT:Tangee Pinheiro\; (559) 265-3051\; tpinheiro@fcoe.org
+DESCRIPTION:<h5 style='text-align: center\;'>Thursday: 8:00am-5:00pm</h5>\n
+ <h5 style='text-align: center\;'>Friday: 8:00am-12:00pm</h5>\n<div style='
+ clear:both\;'></div>
+DTSTART;TZID=America/Los_Angeles:20151119T080000
+DTEND;TZID=America/Los_Angeles:20151120T120000
+GEO:+38.654577;-121.529458
+LOCATION:Homewood Suites @ 3001 Advantage Way\, Sacramento\, CA 95834\, USA
+SEQUENCE:0
+SUMMARY:SEACO November 2015 Meeting
+URL:http://ccsesa.org/event/11151/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12704@ccsesa.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=en-US:Calendar Event\,Special Education Administrators 
+ of County Offices
+CONTACT:Tangee Pinheiro\; (559) 265-3051\; tpinheiro@fcoe.org
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;TZID=America/Los_Angeles:20160117T080000
+DTEND;TZID=America/Los_Angeles:20160118T120000
+GEO:+36.600238;-121.894676
+LOCATION:TBD @ Monterey\, CA\, USA
+SEQUENCE:0
+SUMMARY:SEACO January 2016 Meeting
+URL:http://ccsesa.org/event/seaco-meeting-7-2-2-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12689@ccsesa.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=en-US:Calendar Event\,Special Education Administrators 
+ of County Offices
+CONTACT:Tangee Pinheiro\; (559) 265-3051\; tpinheiro@fcoe.org
+DESCRIPTION:<h5 style='text-align: center\;'>Thursday: 8:00am-5:00pm</h5>\n
+ <h5 style='text-align: center\;'>Friday: 8:00am-12:00pm</h5>\n<div style='
+ clear:both\;'></div>
+DTSTART;TZID=America/Los_Angeles:20160317T080000
+DTEND;TZID=America/Los_Angeles:20160318T120000
+GEO:+38.654577;-121.529458
+LOCATION:Homewood Suites @ 3001 Advantage Way\, Sacramento\, CA 95834\, USA
+SEQUENCE:0
+SUMMARY:SEACO March 2016 Meeting
+URL:http://ccsesa.org/event/seaco-meeting-7-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12698@ccsesa.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=en-US:Calendar Event\,Special Education Administrators 
+ of County Offices
+CONTACT:Tangee Pinheiro\; (559) 265-3051\; tpinheiro@fcoe.org
+DESCRIPTION:<h5 style='text-align: center\;'>Thursday: 8:00am-5:00pm</h5>\n
+ <h5 style='text-align: center\;'>Friday: 8:00am-12:00pm</h5>\n<div style='
+ clear:both\;'></div>
+DTSTART;TZID=America/Los_Angeles:20160519T080000
+DTEND;TZID=America/Los_Angeles:20160520T120000
+GEO:+38.654577;-121.529458
+LOCATION:Homewood Suites @ 3001 Advantage Way\, Sacramento\, CA 95834\, USA
+SEQUENCE:0
+SUMMARY:SEACO May 2016 Meeting
+URL:http://ccsesa.org/event/seaco-meeting-7-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12700@ccsesa.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=en-US:Calendar Event\,Special Education Administrators 
+ of County Offices
+CONTACT:Tangee Pinheiro\; (559) 265-3051\; tpinheiro@fcoe.org
+DESCRIPTION:<h5 style='text-align: center\;'>Thursday: 8:00am-5:00pm</h5>\n
+ <h5 style='text-align: center\;'>Friday: 8:00am-12:00pm</h5>\n<div style='
+ clear:both\;'></div>
+DTSTART;TZID=America/Los_Angeles:20160915T080000
+DTEND;TZID=America/Los_Angeles:20160916T120000
+GEO:+38.654577;-121.529458
+LOCATION:Homewood Suites @ 3001 Advantage Way\, Sacramento\, CA 95834\, USA
+SEQUENCE:0
+SUMMARY:SEACO September 2016 Meeting
+URL:http://ccsesa.org/event/seaco-meeting-7-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-12702@ccsesa.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=en-US:Calendar Event\,Special Education Administrators 
+ of County Offices
+CONTACT:Tangee Pinheiro\; (559) 265-3051\; tpinheiro@fcoe.org
+DESCRIPTION:<h5 style='text-align: center\;'>Thursday: 8:00am-5:00pm</h5>\n
+ <h5 style='text-align: center\;'>Friday: 8:00am-12:00pm</h5>\n<div style='
+ clear:both\;'></div>
+DTSTART;TZID=America/Los_Angeles:20161117T080000
+DTEND;TZID=America/Los_Angeles:20161118T120000
+GEO:+38.654577;-121.529458
+LOCATION:Homewood Suites @ 3001 Advantage Way\, Sacramento\, CA 95834\, USA
+SEQUENCE:0
+SUMMARY:SEACO November 2016 Meeting
+URL:http://ccsesa.org/event/seaco-meeting-7-2-2-3/
+END:VEVENT
+END:VCALENDAR

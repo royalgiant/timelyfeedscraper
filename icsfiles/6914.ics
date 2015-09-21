@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-1215@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Holidays
 CONTACT:
 DESCRIPTION:
@@ -36,7 +36,7 @@ URL:http://www.audubonbaptist.org/event/daylight-savings-ends-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1211@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Holidays
 CONTACT:
 DESCRIPTION:
@@ -48,7 +48,7 @@ URL:http://www.audubonbaptist.org/event/thanksgiving-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1216@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Holidays
 CONTACT:
 DESCRIPTION:
@@ -60,7 +60,7 @@ URL:http://www.audubonbaptist.org/event/christmas-eve/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1217@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Holidays
 CONTACT:
 DESCRIPTION:
@@ -72,7 +72,7 @@ URL:http://www.audubonbaptist.org/event/christmas-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1218@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Holidays
 CONTACT:
 DESCRIPTION:
@@ -83,76 +83,8 @@ SUMMARY:New Year’s Eve
 URL:http://www.audubonbaptist.org/event/new-years-eve/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-1222@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Church Events
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/Kentucky/Louisville:20150919T100000
-DTEND;TZID=America/Kentucky/Louisville:20150919T113000
-GEO:+38.207261;-85.731122
-LOCATION:Audubon Baptist Church @ 1046 Hess Lane\, Louisville\, KY 40217\, 
- USA
-RRULE:FREQ=MONTHLY;COUNT=7;BYDAY=3SA
-SEQUENCE:0
-SUMMARY:Baptist Women
-URL:http://www.audubonbaptist.org/event/baptist-women/
-X-COST:Free
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1196@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Church Events
-CONTACT:
-DESCRIPTION:<p>Join us for one of our Bible studies that meet before our re
- gular worship service.</p>
-DTSTART;TZID=America/Kentucky/Louisville:20150920T093000
-DTEND;TZID=America/Kentucky/Louisville:20150920T101500
-GEO:+38.207261;-85.731122
-LOCATION:Audubon Baptist Church @ 1046 Hess Lane\, Louisville\, KY 40217\, 
- USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday School
-URL:http://www.audubonbaptist.org/event/bible-study/
-X-COST:Free
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1197@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Church Events
-CONTACT:
-DESCRIPTION:<p>Join us for our weekly worship service.</p>
-DTSTART;TZID=America/Kentucky/Louisville:20150920T103000
-DTEND;TZID=America/Kentucky/Louisville:20150920T114500
-GEO:+38.207261;-85.731122
-LOCATION:Audubon Baptist Church @ 1046 Hess Lane\, Louisville\, KY 40217\, 
- USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Worship Service
-URL:http://www.audubonbaptist.org/event/worship-service/
-X-COST:Free
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1473@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Church Events
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/Kentucky/Louisville:20150920T170000
-DTEND;TZID=America/Kentucky/Louisville:20150920T190000
-EXDATE;TZID=America/Kentucky/Louisville:20150712T170000
-EXDATE;TZID=America/Kentucky/Louisville:20150809T170000
-EXDATE;TZID=America/Kentucky/Louisville:20150913T170000
-RRULE:FREQ=WEEKLY;UNTIL=20150927T235959Z;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Small Groups
-URL:http://www.audubonbaptist.org/event/bible-study-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1481@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Church Events\,Community Events
 CONTACT:
 DESCRIPTION:<p><strong>T</strong>aking<br />\n<strong>O</strong>ff<br />\n<
@@ -166,7 +98,7 @@ URL:http://www.audubonbaptist.org/event/t-o-p-s/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1198@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Church Events
 CONTACT:
 DESCRIPTION:<p>Join us for our weekly fellowship meals.</p>
@@ -184,7 +116,7 @@ X-COST:Free for first-time visitors\; $3 returning guests
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1199@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Church Events
 CONTACT:Kristen Ferguson
 DESCRIPTION:<p>Children in elementary school are invited to join us for Bib
@@ -202,7 +134,7 @@ X-COST:Free
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1225@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Church Events
 CONTACT:
 DESCRIPTION:
@@ -219,7 +151,7 @@ X-COST:Free
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1200@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Church Events
 CONTACT:
 DESCRIPTION:<p>Join us for our mid-week worship service.</p>
@@ -235,8 +167,72 @@ URL:http://www.audubonbaptist.org/event/worship-service-2/
 X-COST:Free
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1539@www.audubonbaptist.org
+DTSTAMP:20150921T224630Z
+CATEGORIES;LANGUAGE=en-US:Church Events\,Community Events
+CONTACT:
+DESCRIPTION:<hr />\n<p>Bring your own chair.</p>\n<p>Admission to the movie
+  is free. Popcorn and light refreshments 50c – $5.</p>\n<p> </p>
+DTSTART;TZID=America/Kentucky/Louisville:20150925T200000
+DTEND;TZID=America/Kentucky/Louisville:20150925T220000
+SEQUENCE:0
+SUMMARY:Movie Night: Despicable Me
+URL:http://www.audubonbaptist.org/event/movie-night-despicable-me/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1196@www.audubonbaptist.org
+DTSTAMP:20150921T224630Z
+CATEGORIES;LANGUAGE=en-US:Church Events
+CONTACT:
+DESCRIPTION:<p>Join us for one of our Bible studies that meet before our re
+ gular worship service.</p>
+DTSTART;TZID=America/Kentucky/Louisville:20150927T093000
+DTEND;TZID=America/Kentucky/Louisville:20150927T101500
+GEO:+38.207261;-85.731122
+LOCATION:Audubon Baptist Church @ 1046 Hess Lane\, Louisville\, KY 40217\, 
+ USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday School
+URL:http://www.audubonbaptist.org/event/bible-study/
+X-COST:Free
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1197@www.audubonbaptist.org
+DTSTAMP:20150921T224630Z
+CATEGORIES;LANGUAGE=en-US:Church Events
+CONTACT:
+DESCRIPTION:<p>Join us for our weekly worship service.</p>
+DTSTART;TZID=America/Kentucky/Louisville:20150927T103000
+DTEND;TZID=America/Kentucky/Louisville:20150927T114500
+GEO:+38.207261;-85.731122
+LOCATION:Audubon Baptist Church @ 1046 Hess Lane\, Louisville\, KY 40217\, 
+ USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Worship Service
+URL:http://www.audubonbaptist.org/event/worship-service/
+X-COST:Free
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1473@www.audubonbaptist.org
+DTSTAMP:20150921T224630Z
+CATEGORIES;LANGUAGE=en-US:Church Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Kentucky/Louisville:20150927T170000
+DTEND;TZID=America/Kentucky/Louisville:20150927T190000
+EXDATE;TZID=America/Kentucky/Louisville:20150712T170000
+EXDATE;TZID=America/Kentucky/Louisville:20150809T170000
+EXDATE;TZID=America/Kentucky/Louisville:20150913T170000
+RRULE:FREQ=WEEKLY;UNTIL=20150927T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Small Groups
+URL:http://www.audubonbaptist.org/event/bible-study-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1483@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Church Events
 CONTACT:
 DESCRIPTION:
@@ -249,7 +245,7 @@ URL:http://www.audubonbaptist.org/event/baptist-women-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1484@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Church Events
 CONTACT:
 DESCRIPTION:
@@ -262,7 +258,7 @@ URL:http://www.audubonbaptist.org/event/deacons-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1485@www.audubonbaptist.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES;LANGUAGE=en-US:Church Events
 CONTACT:
 DESCRIPTION:
@@ -272,5 +268,22 @@ RRULE:FREQ=MONTHLY;COUNT=7;BYDAY=2TH
 SEQUENCE:0
 SUMMARY:Trustees Meeting
 URL:http://www.audubonbaptist.org/event/trustees-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1222@www.audubonbaptist.org
+DTSTAMP:20150921T224630Z
+CATEGORIES;LANGUAGE=en-US:Church Events
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Kentucky/Louisville:20151017T100000
+DTEND;TZID=America/Kentucky/Louisville:20151017T113000
+GEO:+38.207261;-85.731122
+LOCATION:Audubon Baptist Church @ 1046 Hess Lane\, Louisville\, KY 40217\, 
+ USA
+RRULE:FREQ=MONTHLY;COUNT=7;BYDAY=3SA
+SEQUENCE:0
+SUMMARY:Baptist Women
+URL:http://www.audubonbaptist.org/event/baptist-women/
+X-COST:Free
 END:VEVENT
 END:VCALENDAR

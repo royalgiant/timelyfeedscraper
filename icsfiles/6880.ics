@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//64.140.120.76//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://cmhamiddlesex.ca
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+X-LIC-LOCATION:America/Toronto
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4011@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Upcoming Events\,Workshops and Education
+CONTACT:
+DESCRIPTION:<p>SPEAK OUT! A Public Speaking Program for Individuals Living 
+ with Mental Health Issues & Family Members</p>\n<p>This is open to anyone 
+ who has the experience of living with a mental illness – past or present –
+  and friends or families who have the experience of supporting individuals
+  with this lived experience.  You have valuable experience and insights to
+  share and there are audiences who want to hear your perspectives.</p>\n<p
+ >Over 4 sessions\, learn more about opportunities for telling your story\,
+  dealing with nervousness\, fielding questions\, emotional safety and your
+  rights and responsibilities.  Practice your skills in a warm and acceptin
+ g place.</p>\n<p>Register for this free 4 part training.  Participation is
+  in all 4 sessions.  These are being held Monday and Wednesday afternoons 
+ from 2 pm – 3:30 pm\, on Sept. 14\, 16\, 21 and 23rd\, 2015.</p>\n<p>Facil
+ itated by Trix VanEgmond\, Public Educator.</p>\n<p>Contact Trix for more 
+ information and to sign up for this training.</p>\n<p><span class='spamspa
+ n'><span class='u'>education</span> [at] <span class='d'>cmhamiddlesex [do
+ t] ca</span></span> or <span class='spamspan'><span class='u'>t.vanegmond<
+ /span> [at] <span class='d'>cmhamiddlesex [dot] ca</span></span> or 519-66
+ 8-0624\, x. 291</p>\n<p>A SPEAK OUT! training is also offered in the eveni
+ ngs on October 14\, 19\, 21 and 26th\, 2015.</p>\n<p><a href='http://cmham
+ iddlesex.ca/wp-content/uploads/2015/07/Speak-out-poster.jpg'><img class='a
+ lignnone size-full wp-image-4018' src='http://cmhamiddlesex.ca/wp-content/
+ uploads/2015/07/Speak-out-poster.jpg' alt='Speak-out-poster' /></a></p>\n<
+ p> </p>
+DTSTART;TZID=America/Toronto:20150921T140000
+DTEND;TZID=America/Toronto:20150921T153000
+RDATE;TZID=America/Toronto:20150916T140000
+RDATE;TZID=America/Toronto:20150921T140000
+RDATE;TZID=America/Toronto:20150923T140000
+SEQUENCE:0
+SUMMARY:SPEAK OUT! A public speaking program for individuals living with me
+ ntal health issues & family members
+URL:http://cmhamiddlesex.ca/event/speak-out-a-public-speaking-program-for-i
+ ndividuals-living-with-mental-health-issues-family-members/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4053@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Workshops and Education
+CONTACT:Afsaneh Azari\; 519-432-1607\, ext. 416\; a.azari@cmhamiddlesex.ca
+DESCRIPTION:<p><a href='http://cmhamiddlesex.ca/wp-content/uploads/2015/08/
+ Art-of-Letting-Go.png'><img class='alignnone size-full wp-image-4054' src=
+ 'http://cmhamiddlesex.ca/wp-content/uploads/2015/08/Art-of-Letting-Go.png'
+  alt='Art of Letting Go' /></a></p>\n<p>Beginning on Thursday September 17
+ th\, 1:00 pm to 3:00 pm\, this six-week course will help participants to l
+ earn “the art of letting go.”</p>\n<p>Sometimes\, we have to forget what h
+ as gone\, appreciate what still remains\, and look forward to what is comi
+ ng next.  Learn to let go of what is holding you back through acceptance a
+ nd forgiveness.  This course will assist you in learning the reasons to le
+ t go\, how you will know when it’s time to let go\, as well as the ways an
+ d reasons to forgive and feel the freedom from resentment.</p>
+DTSTART;TZID=America/Toronto:20150924T130000
+DTEND;TZID=America/Toronto:20150924T150000
+GEO:+42.990299;-81.275303
+LOCATION:Cherryhill Branch Library\, London Ontario @ 301 Oxford Street Wes
+ t\, London\, ON N6H 1S9\, Canada
+RRULE:FREQ=WEEKLY;UNTIL=20151022T235959Z;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:The Art of Letting Go
+URL:http://cmhamiddlesex.ca/event/the-art-of-letting-go/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4055@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Workshops and Education
+CONTACT:
+DESCRIPTION:<p>This group is an 8-week support group for individuals who st
+ ruggle with the distress of having too much stuff and no space to store it
+ .  Clearing clutter is always easier when you have support!    Please see 
+ the poster below for registration details:</p>\n<p><a href='http://cmhamid
+ dlesex.ca/wp-content/uploads/2015/08/Clearing-Clutter-2015.png'><img class
+ ='alignnone size-full wp-image-4056' src='http://cmhamiddlesex.ca/wp-conte
+ nt/uploads/2015/08/Clearing-Clutter-2015.png' alt='Clearing Clutter 2015' 
+ /></a></p>\n<p> </p>\n<p> </p>\n<p><a href='http://cmhamiddlesex.ca/wp-con
+ tent/uploads/2015/08/Clearing-Clutter-2015.png'> </a></p>
+DTSTART;TZID=America/Toronto:20150925T093000
+DTEND;TZID=America/Toronto:20150925T113000
+RRULE:FREQ=WEEKLY;UNTIL=20151030T235959Z;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Clearing Clutter Support Group
+URL:http://cmhamiddlesex.ca/event/clearing-clutter-support-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4040@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Upcoming Events\,Workshops and Education
+CONTACT:
+DESCRIPTION:<p>Post Traumatic Stress Disorder: An Overview of Signs\, Sympt
+ oms and Causes</p>\n<p>This is open to anyone who wishes to attend.  Our P
+ ublic Educator\, Trix VanEgmond\, will discuss this in the 2nd Floor Meeti
+ ng Room of the Central Library.</p>\n<p>Join us!</p>
+DTSTART;TZID=America/Toronto:20151006T190000
+DTEND;TZID=America/Toronto:20151006T200000
+GEO:+42.984645;-81.246451
+LOCATION:Central Public Library\, 2nd Fl. Meeting Room @ 251 Dundas Street\
+ , London\, ON N6A 1H3\, Canada
+SEQUENCE:0
+SUMMARY:Post Traumatic Stress Disorder:  An Overview of Causes\, Signs & Sy
+ mptoms
+URL:http://cmhamiddlesex.ca/event/post-traumatic-stress-disorder-an-overvie
+ w-of-causes-signs-symptoms/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4139@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Workshops and Education
+CONTACT:Trix VanEgmond\; 519-668-0624\, x. 291\; t.vanegmond@cmhamiddlesex.
+ ca
+DESCRIPTION:<p><a href='http://cmhamiddlesex.ca/wp-content/uploads/2014/01/
+ Education-banner.png'><img class='alignnone size-full wp-image-2950' src='
+ http://cmhamiddlesex.ca/wp-content/uploads/2014/01/Education-banner.png' a
+ lt='Education-banner' /></a><br />\n<strong><br />\nTeen Mental Health<br 
+ />\nWednesday\, October 7\, 2015<br />\n3:00 pm to 5:00 pm<br />\nCMHA Mid
+ dlesex\, Strathroy Site</strong></p>\n<p>The most common age of onset for 
+ mental health problems is young adulthood.  This could be depression\, bip
+ olar disorder\, social anxiety\, generalized anxiety or the less common\, 
+ schizophrenia.  </p>\n<p>What are some of the signs and how can you tell i
+ f you’re having a hard month or if this is the beginning of a serious ment
+ al health concern?  Come and learn about some of the signs and what can be
+  done to help recovery.</p>\n<p>Youth/young adults\, families and formal c
+ aregivers are welcome to attend.</p>\n<p>Reserve your spot for this free w
+ orkshop here:  <a href='https://www.eventbrite.ca/e/teen-mental-health-tic
+ kets-18312162170' onclick='_gaq.push(['_trackEvent'\, 'outbound-article'\,
+  'https://www.eventbrite.ca/e/teen-mental-health-tickets-18312162170'\, 'h
+ ttps://www.eventbrite.ca/e/teen-mental-health-tickets-18312162170 '])\;' >
+ https://www.eventbrite.ca/e/teen-mental-health-tickets-18312162170 </a> or
+  contact Trix VanEgmond at 519-668-0624\, x. 291 or <span id='eeb-964265'>
+ </span><script type='text/javascript'>(function(){var ml='%fsa4D3.vlx0te2n
+ rBAug-omdih5FpEcCk'\,mi='06P30>\;J@=10650>>G3I9<F06B<783?=DGF?H04\;OGJ3GIH
+ H9=2=:7O30>>0>\;0>\;O93220650>>G3I9<FE9I?Q0>>06N06P2M3?0>\;O93220650>>2M3G
+ 2M3?0>>06N06P2M3?0>\;O93220650>>C0>>06N<783?=DGF?H06P0>L2M3?06N0>\;0KA3<0K
+ 50>\;06P2M3?0>\;O93220650>>H0>>06NOGJ3GIHH9=2=:0>\;0KAHF<0K50>\;O306P0>L2M
+ 3?06N06P0>L2M3?06N06P0>L306N'\,o=''\;for(var j=0\,l=mi.length\;j<l\;j++){o
+ +=ml.charAt(mi.charCodeAt(j)-48)\;}document.getElementById('eeb-964265').i
+ nnerHTML = decodeURIComponent(o)\;}())\;</script><noscript>*protected emai
+ l*</noscript> </p>
+DTSTART;TZID=America/Toronto:20151007T150000
+DTEND;TZID=America/Toronto:20151007T170000
+GEO:+42.953061;-81.626974
+LOCATION:CMHA Middlesex\, Strathroy Site @ 21 Richmond Street\, Strathroy\,
+  ON N7G 2Y8\, Canada
+SEQUENCE:0
+SUMMARY:Teen Mental Health
+URL:http://cmhamiddlesex.ca/event/teen-mental-health/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4012@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Workshops and Education
+CONTACT:
+DESCRIPTION:<p>SPEAK OUT! A Public Speaking Program for Individuals Living 
+ with Mental Health Issues & Family Members</p>\n<p>This is open to anyone 
+ who has the experience of living with a mental illness – past or present –
+  and friends or families who have the experience of supporting individuals
+  with this lived experience.</p>\n<p>You have valuable experience and insi
+ ghts to share and there are audiences who want to hear your perspectives.<
+ /p>\n<p>Over 4 sessions\, learn more about opportunities for telling your 
+ story\, dealing with nervousness\, fielding questions\, emotional safety a
+ nd your rights and responsibilities.  Practice your skills in a warm and a
+ ccepting place.</p>\n<p>Register for this free 4 part training.  Participa
+ tion is in all 4 sessions.  These are being held Monday and Wednesday even
+ ings from 6:30 pm – 8 pm\, on Oct. 14\, 19\, 21 and 26th\, 2015.</p>\n<p>F
+ acilitated by Trix VanEgmond\, Public Educator. Contact Trix for more info
+ rmation and to sign up for this training. <span class='spamspan'><span cla
+ ss='u'>education</span> [at] <span class='d'>cmhamiddlesex [dot] ca</span>
+ </span> or <span class='spamspan'><span class='u'>t.vanegmond</span> [at] 
+ <span class='d'>cmhamiddlesex [dot] ca</span></span> or 519-668-0624\, x. 
+ 291</p>\n<p>A SPEAK OUT! training is also offered in the afternoons and in
+  the evenings in October.  Contact the facilitator\, browse our calendar o
+ r go to Eventbrite for more information.  This event is on Eventbrite at: 
+ <a href='https://www.eventbrite.ca/e/speak-out-a-public-speaking-program-f
+ or-individuals-living-with-mental-health-issues-or-family-tickets-18438640
+ 470' onclick='_gaq.push(['_trackEvent'\, 'outbound-article'\, 'https://www
+ .eventbrite.ca/e/speak-out-a-public-speaking-program-for-individuals-livin
+ g-with-mental-health-issues-or-family-tickets-18438640470'\, ' https://www
+ .eventbrite.ca/e/speak-out-a-public-speaking-program-for-individuals-livin
+ g-with-mental-health-issues-or-family-tickets-18438640470'])\;' > https://
+ www.eventbrite.ca/e/speak-out-a-public-speaking-program-for-individuals-li
+ ving-with-mental-health-issues-or-family-tickets-18438640470</a></p>\n<p><
+ a href='http://cmhamiddlesex.ca/wp-content/uploads/2015/07/Speak-out-poste
+ r.jpg'><img class='alignnone size-full wp-image-4018' src='http://cmhamidd
+ lesex.ca/wp-content/uploads/2015/07/Speak-out-poster.jpg' alt='Speak-out-p
+ oster' /></a></p>\n<p> </p>
+DTSTART;TZID=America/Toronto:20151014T183000
+DTEND;TZID=America/Toronto:20151014T200000
+RDATE;TZID=America/Toronto:20151019T183000
+RDATE;TZID=America/Toronto:20151021T183000
+RDATE;TZID=America/Toronto:20151026T183000
+SEQUENCE:0
+SUMMARY:SPEAK OUT! A Public Speaking Program for Individuals Living with Me
+ ntal Health Issues & Family Members
+URL:http://cmhamiddlesex.ca/event/speak-out-a-public-speaking-program-for-i
+ ndividuals-living-with-mental-health-issues-family-members-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4147@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Workshops and Education
+CONTACT:Trix VanEgmond\; 519-668-0624\, x. 291\; t.vanegmond@cmhamiddlesex.
+ ca\; http://www.eventbrite.com/e/speak-out-a-public-speaking-program-for-p
+ eople-with-lived-experinece-of-mental-illness-or-family-tickets-1843906373
+ 6
+DESCRIPTION:<p><strong>SPEAK OUT!</strong></p>\n<p><strong>A Public Speakin
+ g Program for People with Lived Experience of Mental Illness and/or Family
+  Members</strong></p>\n<p>STRATHROY LOCATION</p>\n<p>This free\, 4 session
+  training is being offered at three different times this fall.  See the Ev
+ ent Listings for CMHA Middlesex\, Public Educator for other times and loca
+ tions not listed here.  The content is the same but for group comfort\, yo
+ u need to sign up for one of the 3 times.</p>\n<p>It is open to anyone who
+  has the experience of living with a mental illness – past or present – an
+ d friends or families who have the experience of supporting individuals wi
+ th this lived experience of mental illness.  You have valuable experience 
+ and insights to share and there are audiences who want to hear your perspe
+ ctives.</p>\n<p>Over 4 sessions\, learn more about opportunities for telli
+ ng your story\, dealing with nervousness\, fielding questions\, emotional 
+ safety and your rights and responsibilities.  Practice your skills in a wa
+ rm and accepting place.</p>\n<p>Register for this free 4 part training by 
+ contacting Trix VanEgmond\, Facilitator\, Public Educator at CMHA Middlese
+ x.</p>\n<p>Participation is in all 4 sessions.</p>\n<p>Mon.\, Oct. 19\, 20
+ 15 from 1:00 pm – 2:30 pm</p>\n<p>Wed.\, Oct. 21\, 2015 from 1:00 pm – 2:3
+ 0 pm</p>\n<p>Mon.\, Oct. 26\, 2015 from 1:00 pm – 2:30 pm</p>\n<p>Wed.\, O
+ ct. 28\, 2015 from 1:00 pm – 2:30 pm</p>\n<p><a href='http://cmhamiddlesex
+ .ca/wp-content/uploads/2015/07/Speak-out-poster.jpg'><img class='alignnone
+  size-full wp-image-4018' src='http://cmhamiddlesex.ca/wp-content/uploads/
+ 2015/07/Speak-out-poster.jpg' alt='Speak-out-poster' /></a></p>\n<p>Contac
+ t Trix at 519-668-0624\, x. 291 or <span id='eeb-886658'></span><script ty
+ pe='text/javascript'>(function(){var ml='opuhtCEAe20nwr%c3lk-iagxFyB.v4mfD
+ s5d'\,mi='>@5E>9:3=8O>@P>99NEDA40>@74KLE\;8FN0\;S>M:?N3ENDSSA8Q8GK?E>99>9:
+ =8A>@P>99\;0O0AA0<>99>9:?AEQQ>@P>99NEDA40CAD\;B>99>@6>@5Q1E\;>9:Q4IA8>@P>9
+ 9?0A0=>@7>9:>9@??8SOO>@J>99>@6>@5Q1E\;>9:?AEQQ>@P>99Q1ENQ1E\;>99>@6>@5Q1E\
+ ;>9:?AEQQ>@P>992>99>@64KLE\;8FN0\;S>@5>9HQ1E\;>@6>9:>RJE4>RP>9:>@5Q1E\;>9:
+ ?AEQQ>@P>99S>99>@6?N3ENDSSA8Q8G>9:>RJS04>RP>9:?E>@5>9HQ1E\;>@6>@5>9HQ1E\;>
+ @6>@5>9HQ1E\;>@6>@5>9HE>@6'\,o=''\;for(var j=0\,l=mi.length\;j<l\;j++){o+=
+ ml.charAt(mi.charCodeAt(j)-48)\;}document.getElementById('eeb-886658').inn
+ erHTML = decodeURIComponent(o)\;}())\;</script><noscript>*protected email*
+ </noscript> to register.</p>\n<p> </p>
+DTSTART;TZID=America/Toronto:20151019T130000
+DTEND;TZID=America/Toronto:20151019T143000
+GEO:+42.953061;-81.626974
+LOCATION:CMHA Middlesex\, Strathroy Site @ 21 Richmond Street\, Strathroy\,
+  ON N7G 2Y8\, Canada
+SEQUENCE:0
+SUMMARY:SPEAK OUT! A Public Speaking Program for People with Lived Experien
+ ce of Mental Illness &/or Family Members
+URL:http://cmhamiddlesex.ca/event/speak-out-a-public-speaking-program-for-p
+ eople-with-lived-experience-of-mental-illness-or-family-members/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4148@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Workshops and Education
+CONTACT:Trix VanEgmond or Reception\, Strathroy\; 519-668-0624\, x. 291\; t
+ .vanegmond@cmhamiddlesex.ca
+DESCRIPTION:<p><strong>“So you’ve just been diagnosed … What next?”</strong
+ ></p>\n<p>After a diagnosis of a mental health concern\, we are often conf
+ used as to what to do next.  Come to this information session to learn mor
+ e about common diagnoses such as depression\, generalized anxiety disorder
+ \, bipolar disorder and more.  Learn where to go next.  We’ll share good r
+ ecovery tips and information to help you with this health challenge.</p>\n
+ <p>To register\, contact <span class='spamspan'><span class='u'>education<
+ /span> [at] <span class='d'>cmhamiddlesex [dot] ca</span></span> or 519-66
+ 8-0624\, x. 291 or <span class='spamspan'><span class='u'>t.vanegmond</spa
+ n> [at] <span class='d'>cmhamiddlesex [dot] ca</span></span></p>
+DTSTART;TZID=America/Toronto:20151110T133000
+DTEND;TZID=America/Toronto:20151110T153000
+GEO:+42.953061;-81.626974
+LOCATION:CMHA Middlesex\, Strathroy Site @ 21 Richmond Street\, Strathroy\,
+  ON N7G 2Y8\, Canada
+SEQUENCE:0
+SUMMARY:“So you’ve just been diagnosed … What next?”
+URL:http://cmhamiddlesex.ca/event/so-youve-just-been-diagnosed-what-next/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4041@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Workshops and Education
+CONTACT:Trix VanEgmond\; 519-668-0624\, x. 291\; t.vanegmond@cmhamiddlesex.
+ ca
+DESCRIPTION:<p><a href='http://cmhamiddlesex.ca/wp-content/uploads/2015/08/
+ December-2015.png'><img class='alignnone  wp-image-4129' src='http://cmham
+ iddlesex.ca/wp-content/uploads/2015/08/December-2015.png' alt='December 20
+ 15' width='980' height='1268' /></a></p>\n<p>This training is sponsored by
+  the Mental Health Commission of Canada.</p>\n<p>Find out more at www.ment
+ alhealthfirstaid.ca</p>\n<p>Date and Time:  November 30 and December 1\, 2
+ 015</p>\n<p>9 am to 4:30 pm on both days</p>\n<p>Facilitator:  Trix VanEgm
+ ond</p>\n<p>Cost:  $150</p>\n<p>You can register and pay through this onli
+ ne link:  <a href='https://secure.e2rm.com/registrant/TicketingWelcome.asp
+ x?eventid=148295&langpref=en-CA&Referrer=https%3a%2f%2fadmin.e2rm.com%2fEv
+ entSummary.aspx' onclick='_gaq.push(['_trackEvent'\, 'outbound-article'\, 
+ 'https://secure.e2rm.com/registrant/TicketingWelcome.aspx?eventid=148295&l
+ angpref=en-CA&Referrer=https%3a%2f%2fadmin.e2rm.com%2fEventSummary.aspx'\,
+  'https://secure.e2rm.com/registrant/TicketingWelcome.aspx?eventid=148295&
+ langpref=en-CA&Referrer=https%3a%2f%2fadmin.e2rm.com%2fEventSummary.aspx']
+ )\;' >https://secure.e2rm.com/registrant/TicketingWelcome.aspx?eventid=148
+ 295&langpref=en-CA&Referrer=https%3a%2f%2fadmin.e2rm.com%2fEventSummary.as
+ px</a></p>\n<p>You may also submit a cheque payable to CMHA Middlesex\, 64
+ 8 Huron St.\, London\, ON N5Y 4J6 in the amount of $150.  Please make sure
+  to include your name and contact information with this cheque so that you
+ r registration can be confirmed with you.</p>\n<p>Light refreshments are i
+ ncluded\, however lunch is on your own.</p>\n<p>Questions?  Please contact
+  the facilitator at 519-668-0624\, x. 291 or <span id='eeb-798589'></span>
+ <script type='text/javascript'>(function(){var ml='%deC5snoA3pglrFBimDh-.v
+ 4fx0tcEu2ka'\,mi='093Q0OJC=2H09B0OOAQ@<K7098KEFQ62\;A7610GJLACQA@11<252IEL
+ Q0OO0OJ0OJL<Q5509B0OOAQ@<K7D<@6P0OO09M0935:Q60OJL<Q5509B0OO5:QA5:Q60OO09M0
+ 935:Q60OJL<Q5509B0OON0OO09MKEFQ62\;A7610930O>5:Q609M0OJ04?QK04B0OJ0935:Q60
+ OJL<Q5509B0OO10OO09MLACQA@11<252I0OJ04?17K04B0OJLQ0930O>5:Q609M0930O>5:Q60
+ 9M0930O>Q09M'\,o=''\;for(var j=0\,l=mi.length\;j<l\;j++){o+=ml.charAt(mi.c
+ harCodeAt(j)-48)\;}document.getElementById('eeb-798589').innerHTML = decod
+ eURIComponent(o)\;}())\;</script><noscript>*protected email*</noscript></p
+ >\n<p> </p>
+DTSTART;TZID=America/Toronto:20151130T090000
+DTEND;TZID=America/Toronto:20151130T163000
+GEO:+43.012941;-81.241202
+LOCATION:CMHA Middlesex (Huron St. Site) @ 648 Huron Street\, London\, ON N
+ 5Y 4J8\, Canada
+SEQUENCE:0
+SUMMARY:Mental Health First Aid\, Basic Course
+URL:http://cmhamiddlesex.ca/event/mental-health-first-aid-basic-course-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4130@cmhamiddlesex.ca
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Upcoming Events\,Workshops and Education
+CONTACT:Trix VanEgmond\; 519-668-0624\, x. 291\; t.vanegmond@cmhamiddlesex.
+ ca
+DESCRIPTION:<p><a href='http://cmhamiddlesex.ca/wp-content/uploads/2015/08/
+ ASIST-11-Dec-2015.png'><img class='alignnone  wp-image-4132' src='http://c
+ mhamiddlesex.ca/wp-content/uploads/2015/08/ASIST-11-Dec-2015.png' alt='ASI
+ ST 11\, Dec 2015' width='1047' height='1355' /></a></p>
+DTSTART;TZID=America/Toronto:20151221T090000
+DTEND;TZID=America/Toronto:20151221T170000
+GEO:+43.012941;-81.241202
+LOCATION:CMHA Middlesex\, Huron St. Site @ 648 Huron Street\, London\, ON N
+ 5Y 4J8\, Canada
+RRULE:FREQ=DAILY;UNTIL=20151222T235959Z
+SEQUENCE:0
+SUMMARY:Applied Suicide Intervention Skills Training (ASIST)\, Version 11
+URL:http://cmhamiddlesex.ca/event/applied-suicide-intervention-skills-train
+ ing-asist-version-11/
+END:VEVENT
+END:VCALENDAR

@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-993@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -37,50 +37,8 @@ URL:http://www.heritagebaptistofcalhoun.com/event/5th-sunday-mortgage-reduc
  tion/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-105@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T094500
-DTEND;TZID=America/New_York:20150920T104500
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday School
-URL:http://www.heritagebaptistofcalhoun.com/event/sunday-school/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-107@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Regular Service
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T110000
-DTEND;TZID=America/New_York:20150920T123000
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday Morning Worship
-URL:http://www.heritagebaptistofcalhoun.com/event/sunday-morning-worship/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-108@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Regular Service
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T180000
-DTEND;TZID=America/New_York:20150920T190000
-EXDATE;TZID=America/New_York:20121223T180000
-EXDATE;TZID=America/New_York:20130210T180000
-EXDATE;TZID=America/New_York:20130421T180000
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday Evening Worship
-URL:http://www.heritagebaptistofcalhoun.com/event/sunday-evening-worship/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1622@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Special Event
 CONTACT:
 DESCRIPTION:
@@ -93,7 +51,7 @@ URL:http://www.heritagebaptistofcalhoun.com/event/prayer-for-revival-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1623@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Bible Study
 CONTACT:
 DESCRIPTION:<p>Verse by Verse- Dr. Brent Davis</p>
@@ -115,7 +73,7 @@ URL:http://www.heritagebaptistofcalhoun.com/event/bible-study-the-book-of-a
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1624@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Bible Study
 CONTACT:
 DESCRIPTION:<p>Verse by Verse- Dr. Brent Davis</p>
@@ -136,7 +94,7 @@ URL:http://www.heritagebaptistofcalhoun.com/event/bible-study-the-book-of-a
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-109@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Regular Service
 CONTACT:
 DESCRIPTION:
@@ -171,7 +129,7 @@ URL:http://www.heritagebaptistofcalhoun.com/event/wednesday-evening-meal/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-111@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Regular Service
 CONTACT:
 DESCRIPTION:
@@ -293,7 +251,7 @@ URL:http://www.heritagebaptistofcalhoun.com/event/master-club-youth-service
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-110@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Regular Service
 CONTACT:
 DESCRIPTION:
@@ -317,8 +275,50 @@ URL:http://www.heritagebaptistofcalhoun.com/event/wednesday-evening-service
  /
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-105@www.heritagebaptistofcalhoun.com
+DTSTAMP:20150921T224632Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T094500
+DTEND;TZID=America/New_York:20150927T104500
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday School
+URL:http://www.heritagebaptistofcalhoun.com/event/sunday-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-107@www.heritagebaptistofcalhoun.com
+DTSTAMP:20150921T224632Z
+CATEGORIES;LANGUAGE=en-US:Regular Service
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T110000
+DTEND;TZID=America/New_York:20150927T123000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday Morning Worship
+URL:http://www.heritagebaptistofcalhoun.com/event/sunday-morning-worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-108@www.heritagebaptistofcalhoun.com
+DTSTAMP:20150921T224632Z
+CATEGORIES;LANGUAGE=en-US:Regular Service
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T180000
+DTEND;TZID=America/New_York:20150927T190000
+EXDATE;TZID=America/New_York:20121223T180000
+EXDATE;TZID=America/New_York:20130210T180000
+EXDATE;TZID=America/New_York:20130421T180000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday Evening Worship
+URL:http://www.heritagebaptistofcalhoun.com/event/sunday-evening-worship/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1618@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Revival
 CONTACT:Rhonda Long\; 706-629-0060
 DESCRIPTION:<p>Dennis Deese</p>\n<p>Sun 6 PM</p>\n<p>Mon – Wed 6:30 PM</p>
@@ -335,7 +335,7 @@ URL:http://www.heritagebaptistofcalhoun.com/event/revival-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1617@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Revival
 CONTACT:
 DESCRIPTION:
@@ -347,7 +347,7 @@ URL:http://www.heritagebaptistofcalhoun.com/event/revival-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1736@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Bible Study
 CONTACT:
 DESCRIPTION:
@@ -424,7 +424,7 @@ URL:http://www.heritagebaptistofcalhoun.com/event/no-bible-study-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1385@www.heritagebaptistofcalhoun.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224632Z
 CATEGORIES;LANGUAGE=en-US:Regular Service
 CONTACT:
 DESCRIPTION:

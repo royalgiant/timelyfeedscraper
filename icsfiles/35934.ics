@@ -1,13 +1,75 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>/n</p>
-<hr>
-<address>Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 Server at 77.40.236.195 Port 80</address>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//77.40.236.195//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://royrvik.webloft.no
+X-WR-TIMEZONE:Europe/Oslo
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-5628@eksport.webloft.no
+DTSTAMP:20150921T224737Z
+CATEGORIES:
+CONTACT:Petter von Krogh\; +4799451201\; webloft@bfk.no\; http://webloft.no
+DESCRIPTION:<p>Hvem skal få bestemme hvor scooterne slipper til? Biblioteke
+ t har invitert ordfører\, rådmann og lederne for de politiske utvalgene i 
+ kommunen til å møte kommunens tre største grunneiere.</p>
+DTSTART;TZID=Europe/Oslo:20160401T180000
+DTEND;TZID=Europe/Oslo:20160401T203000
+GEO:+59.743716;+10.194052
+LOCATION:Drammensbiblioteket @ Papirbredden - Drammen Kunnskapspark\, Grønl
+ and 58\, 3045 Drammen\, Norge
+SEQUENCE:0
+SUMMARY:Onsdagsdebatten: snøscooterkjøring
+URL:http://royrvik.webloft.no/?ai1ec_event=paneldebatt-om-snoscooterkjoring
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5630@eksport.webloft.no
+DTSTAMP:20150921T224737Z
+CATEGORIES:
+CONTACT:Petter von Krogh\; +47 99 45 12 01\; webloft@bfk.no\; http://weblof
+ t.no
+DESCRIPTION:<p>Vi fortsetter braksuksessen fra i fjor og klinker til med no
+ k en Baktus-festival. Gratis frukt og drikke til alle. Premier til alle so
+ m har kledd seg ut! Biblioteket ønsker velkommen til både voksne og barn!<
+ /p>
+DTSTART;TZID=Europe/Oslo:20160430T100000
+DTEND;TZID=Europe/Oslo:20160430T160000
+LOCATION:Biblioteket
+SEQUENCE:0
+SUMMARY:Barnefestivalen Baktus
+URL:http://royrvik.webloft.no/?ai1ec_event=barnefestivalen-baktus
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5629@eksport.webloft.no
+DTSTAMP:20150921T224737Z
+CATEGORIES:
+CONTACT:Petter von Krogh\; +47 9945101\; webloft@bfk.no\; http://webloft.no
+DESCRIPTION:<p>Litteraturviter Patricia von Klagenfürst setter nobelprisvin
+ ner Patrick Modianos forfatterskap under lupen. Velkommen til litteraturaf
+ ten i biblioteket!</p>
+DTSTART;TZID=Europe/Oslo:20160601T190000
+DTEND;TZID=Europe/Oslo:20160601T210000
+LOCATION:Biblioteket
+SEQUENCE:0
+SUMMARY:Modiano – avenypoet i verdensklasse
+URL:http://royrvik.webloft.no/?ai1ec_event=patrick-modiano-avenypoet-i-verd
+ ensklasse
+END:VEVENT
+END:VCALENDAR

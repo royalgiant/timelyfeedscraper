@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//203.77.215.70//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://raudhotuljannah.web.id
+X-WR-TIMEZONE:Atlantic/Azores
+BEGIN:VTIMEZONE
+TZID:Atlantic/Azores
+X-LIC-LOCATION:Atlantic/Azores
+BEGIN:STANDARD
+DTSTART:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0100
+TZNAME:AZOT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T000000
+TZOFFSETFROM:-0100
+TZOFFSETTO:+0000
+RDATE:20160327T000000
+TZNAME:AZOST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-70@raudhotuljannah.web.id
+DTSTAMP:20150921T224653Z
+CATEGORIES:
+CONTACT:Bpk. Esa
+DESCRIPTION:<div class='addtoany_share_save_container addtoany_content_bott
+ om'><div class='a2a_kit a2a_kit_size_32 addtoany_list a2a_target' id='wpa2
+ a_1'><a class='a2a_button_facebook' href='http://www.addtoany.com/add_to/f
+ acebook?linkurl=http%3A%2F%2Fraudhotuljannah.web.id%2Fkeikhlasan-berqurban
+ %2F&linkname=Keikhlasan%20berqurban' title='Facebook' rel='nofollow' targe
+ t='_blank'></a><a class='a2a_button_twitter' href='http://www.addtoany.com
+ /add_to/twitter?linkurl=http%3A%2F%2Fraudhotuljannah.web.id%2Fkeikhlasan-b
+ erqurban%2F&linkname=Keikhlasan%20berqurban' title='Twitter' rel='nofollow
+ ' target='_blank'></a><a class='a2a_button_google_plus' href='http://www.a
+ ddtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fraudhotuljannah.web.id
+ %2Fkeikhlasan-berqurban%2F&linkname=Keikhlasan%20berqurban' title='Google+
+ ' rel='nofollow' target='_blank'></a><a class='a2a_dd addtoany_share_save'
+  href='https://www.addtoany.com/share_save'></a>\n<script type='text/javas
+ cript'><!--\nwpa2a.script_load()\;\n//--></script>\n</div></div>
+DTSTART;TZID=Atlantic/Azores:20150924T080000
+DTEND;TZID=Atlantic/Azores:20150924T170000
+GEO:-06.570463;+106.742684
+LOCATION:Mushola Raudhotuljannah @ Pakuan Regency\, Margajaya\, Bogor Barat
+ \, Kota Bogor\, Jawa Barat 16116\, Indonesia
+SEQUENCE:0
+SUMMARY:Qurban
+URL:http://raudhotuljannah.web.id/event/70/
+END:VEVENT
+END:VCALENDAR

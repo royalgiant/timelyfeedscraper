@@ -1,2 +1,25 @@
-<br />
-<b>Fatal error</b>:  Out of memory (allocated 39321600) (tried to allocate 380189 bytes) in <b>/homepages/21/d20275445/htdocs/app574625625/wp-content/plugins/all-in-one-event-calendar/lib/cache/strategy/db.php</b> on line <b>51</b><br />
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//82.165.89.50//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://beautyblog.andreas-spang.net
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR

@@ -23,74 +23,8 @@ TZNAME:CDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-13738@ucim.org
-DTSTAMP:20150920T002113Z
-CATEGORIES;LANGUAGE=en-US:Open Invite\,Upcoming
-CONTACT:
-DESCRIPTION:<p>CGIT is celebrating 100 years! Come share your stories & mem
- ories.<img class='wp-image-12885 alignleft' src='http://ucim.org/wp-conten
- t/uploads/2015/05/cgit-300x71.jpg' alt='cgit' width='200' height='48' /></
- p>
-DTSTART;TZID=America/Winnipeg:20150919T130000
-DTEND;TZID=America/Winnipeg:20150919T160000
-SEQUENCE:0
-SUMMARY:100th Anniversary of CGIT Tea
-URL:http://ucim.org/event/100th-anniversary-of-cgit-tea/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-13737@ucim.org
-DTSTAMP:20150920T002113Z
-CATEGORIES;LANGUAGE=en-US:children\,Upcoming
-CONTACT:
-DESCRIPTION:<p><img class='alignleft size-medium wp-image-13664' src='http:
- //ucim.org/wp-content/uploads/2015/08/ChildrenChurchFeatured-300x145.jpg' 
- alt='ChildrenChurchFeatured' width='300' height='145' /></p>
-DTSTART;TZID=America/Winnipeg:20150920T103000
-DTEND;TZID=America/Winnipeg:20150920T113000
-SEQUENCE:0
-SUMMARY:Children’s Church Begins
-URL:http://ucim.org/event/childrens-church-begins/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-14042@ucim.org
-DTSTAMP:20150920T002113Z
-CATEGORIES;LANGUAGE=en-US:Upcoming
-CONTACT:
-DESCRIPTION:<p><img class='alignleft size-medium wp-image-13756' src='http:
- //ucim.org/wp-content/uploads/2015/05/nature-featured-image-300x138.jpg' a
- lt='nature featured image' width='300' height='138' />We will Go and Explo
- re who God is Calling Us 2 B.</p>\n<p>You may ask\, “Where will we go?” If
-  interested\, get ready to participate and see!</p>\n<p>More details <stro
- ng>here.</strong></p>
-DTSTART;TZID=America/Winnipeg:20150920T103000
-DTEND;TZID=America/Winnipeg:20150920T113000
-SEQUENCE:0
-SUMMARY:Talking Teens Starts
-URL:http://ucim.org/event/talking-teens-starts/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-14215@ucim.org
-DTSTAMP:20150920T002113Z
-CATEGORIES;LANGUAGE=en-US:Worship
-CONTACT:
-DESCRIPTION:<p><img class='alignleft size-medium wp-image-13807' src='http:
- //ucim.org/wp-content/uploads/2015/08/Meadowood-Cross-and-light-213x300.jp
- g' alt='Meadowood Cross and light' width='213' height='300' />View the wee
- kly <span style='text-decoration: underline\;'><strong><a href='http://www
- .ucim.org/wp-content/text/15920.ucim.bulletin.pdf' target='_blank'>bulleti
- n</a></strong></span> and <span style='text-decoration: underline\;'><stro
- ng><a href='http://www.ucim.org/wp-content/text/150920.ucim.announce.pdf' 
- target='_blank'>announcements</a></strong></span>.</p>\n<p><em>(available 
- late Friday afternoon.)</em></p>
-DTSTART;TZID=America/Winnipeg:20150920T103000
-DTEND;TZID=America/Winnipeg:20150920T113000
-SEQUENCE:0
-SUMMARY:Worship
-URL:http://ucim.org/event/worship-3/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-13975@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:program\,Upcoming
 CONTACT:
 DESCRIPTION:<p><img class='alignnone wp-image-13520 size-thumbnail' src='ht
@@ -104,7 +38,7 @@ URL:http://ucim.org/event/ucw-potluck/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14095@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:community groups
 CONTACT:
 DESCRIPTION:<p>Children age 5-7</p>\n<p>Weekly meetings</p>
@@ -117,7 +51,7 @@ URL:http://ucim.org/event/beavers/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13976@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:program\,Upcoming
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-12332' src='http:
@@ -131,7 +65,7 @@ URL:http://ucim.org/event/seniors-lunch/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14096@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:community groups
 CONTACT:
 DESCRIPTION:<p>Weekly meetings for children 8-10 years</p>
@@ -144,7 +78,7 @@ URL:http://ucim.org/event/cubs/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14106@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:music
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13686' src='http:
@@ -161,7 +95,7 @@ URL:http://ucim.org/event/choir/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14103@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:community groups
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13886' src='http:
@@ -178,7 +112,7 @@ URL:http://ucim.org/event/st-vital-art-group/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14102@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:community groups
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-full wp-image-79' src='http://uci
@@ -195,7 +129,7 @@ URL:http://ucim.org/event/baby-and-me/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14098@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:community groups
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-104' src='http://
@@ -212,7 +146,7 @@ URL:http://ucim.org/event/brownies/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13952@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:program
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-full wp-image-13947' src='http://
@@ -229,7 +163,7 @@ URL:http://ucim.org/event/interpreting-whispers/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14107@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:program
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13917' src='http:
@@ -262,7 +196,7 @@ URL:http://ucim.org/event/handiworks/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14044@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:program\,Upcoming
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13918' src='http:
@@ -277,7 +211,7 @@ URL:http://ucim.org/event/mens-group-starts/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13953@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:program
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13759' src='http:
@@ -296,7 +230,7 @@ URL:http://ucim.org/event/disciple/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14100@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:community groups
 CONTACT:
 DESCRIPTION:
@@ -309,7 +243,7 @@ URL:http://ucim.org/event/scouts/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14048@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Upcoming
 CONTACT:
 DESCRIPTION:<p><strong><img class='alignleft size-medium wp-image-11688' sr
@@ -329,7 +263,7 @@ URL:http://ucim.org/event/submission-deadline-for-book-of-lives/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14000@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Worship
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13807' src='http:
@@ -351,7 +285,7 @@ URL:http://ucim.org/event/worship-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14050@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Upcoming
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-14051' src='http:
@@ -375,7 +309,7 @@ URL:http://ucim.org/event/adult-membership-program-begins/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13718@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Open Invite\,Upcoming
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13719' src='http:
@@ -389,7 +323,7 @@ URL:http://ucim.org/event/pastoral-care-workshop/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13742@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Worship
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13398' src='http:
@@ -409,7 +343,7 @@ URL:http://ucim.org/event/worship-communion-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14065@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Senior's Home Worship
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-12127' src='http:
@@ -435,7 +369,7 @@ URL:http://ucim.org/event/worship-at-river-park-gardens/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13978@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:program
 CONTACT:
 DESCRIPTION:
@@ -448,7 +382,7 @@ URL:http://ucim.org/event/church-council/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14059@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Senior's Home Worship
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-full wp-image-13951' src='http://
@@ -476,7 +410,7 @@ URL:http://ucim.org/event/golden-links-lodge-worship/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13974@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:program
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13918' src='http:
@@ -492,7 +426,7 @@ URL:http://ucim.org/event/mens-group/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13717@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Annual Event\,Upcoming
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-11864' src='http:
@@ -506,7 +440,7 @@ URL:http://ucim.org/event/annual-fall-supper/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13743@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Worship
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13398' src='http:
@@ -526,7 +460,7 @@ URL:http://ucim.org/event/worship-communion-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-14064@ucim.org
-DTSTAMP:20150920T002113Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Senior's Home Worship
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-full wp-image-14068' src='http://
@@ -553,7 +487,7 @@ URL:http://ucim.org/event/vista-park-lodge-worship-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-13740@ucim.org
-DTSTAMP:20150920T002114Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Worship
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-13398' src='http:

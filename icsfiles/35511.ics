@@ -1,12 +1,59 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>
-</p>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//62.149.140.210//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.atanorofficinaelementi.com
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+X-LIC-LOCATION:Europe/Rome
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-911@www.atanorofficinaelementi.com
+DTSTAMP:20150921T224758Z
+CATEGORIES:
+CONTACT:Romano Venturi\; +39 051 562238\; info@officinaelementi.com
+DESCRIPTION:<p style='text-align: justify\;'><span style='color: #141823\;'
+ >Atanor è lieta di invitarvi presso il suo laboratorio in via Bertocchi 63
+ /A per presentarvi tutti i corsi 2015/2016.</span><br />\n<span style='col
+ or: #141823\;'>Durante il pomeriggio sarà possibile chiedere informazioni 
+ sui vecchi e nuovi corsi\, parlare con i docenti ed effettuare direttament
+ e l’iscrizione ai corsi (i corsi partiranno da metà ottobre).<br />\n</spa
+ n><span style='color: #141823\;'>Inoltre grazie alla collaborazione dei no
+ stri artigiani potrete cimentarvi in piccoli laboratori gratuiti\, per pot
+ er mettere alla prova le vostre capacità manuali e scegliere il corso più 
+ adatto a voi.</span></p>\n<p style='text-align: justify\;'><div class='w3e
+ den'><!-- WPDM Link Template: Default Template --><div class='wpdm-link-tp
+ l link-btn [color]' data-durl='http://www.atanorofficinaelementi.com/?wpdm
+ dl=920' >    <div class='media'>        <div class='pull-left'><img class=
+ 'wpdm_icon'   src='http://www.atanorofficinaelementi.com/wp-content/plugin
+ s/download-manager/file-type-icons/pdf.png' /></div>        <div class='me
+ dia-body'><strong class='ptitle'>Open Lab Laboratorio Atanor <span class='
+ label label-default' style='font-weight: 400\;'>1.89 MB</span></strong>   
+          <div><strong><a class='wpdm-download-link wpdm-download-locked [b
+ tnclass]' rel='noindex nofollow' href='http://www.atanorofficinaelementi.c
+ om/?wpdmdl=920'><i class=''></i>Download</a></strong></div>        </div> 
+    </div></div><div style='clear: both'></div></div>
+DTSTART;TZID=Europe/Rome:20150926T160000
+DTEND;TZID=Europe/Rome:20150926T180000
+GEO:+44.500373;+11.291448
+LOCATION:Atanor @ Via Nino Bertocchi\, 40133 Bologna\, Italia 63/a
+SEQUENCE:0
+SUMMARY:Open Lab Laboratorio Atanor
+URL:http://www.atanorofficinaelementi.com/event/evento-test-1/
+END:VEVENT
+END:VCALENDAR

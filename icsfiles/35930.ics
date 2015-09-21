@@ -1,69 +1,1608 @@
-<!DOCTYPE html>
-	<!--[if IE 8]>
-		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="fr-FR">
-	<![endif]-->
-	<!--[if !(IE 8) ]><!-->
-		<html xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR">
-	<!--<![endif]-->
-	<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Auberge du Potam Flamboyant &rsaquo; Se connecter</title>
-	<link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=3.8.5' type='text/css' media='all' />
-<link rel='stylesheet' id='dashicons-css'  href='http://89.84.187.2/wp-includes/css/dashicons.min.css?ver=3.8.5' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-admin-css'  href='http://89.84.187.2/wp-admin/css/wp-admin.min.css?ver=3.8.5' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='http://89.84.187.2/wp-includes/css/buttons.min.css?ver=3.8.5' type='text/css' media='all' />
-<link rel='stylesheet' id='colors-fresh-css'  href='http://89.84.187.2/wp-admin/css/colors.min.css?ver=3.8.5' type='text/css' media='all' />
-<!--[if lte IE 7]>
-<link rel='stylesheet' id='ie-css'  href='http://89.84.187.2/wp-admin/css/ie.min.css?ver=3.8.5' type='text/css' media='all' />
-<![endif]-->
-<meta name='robots' content='noindex,follow' />
-	</head>
-	<body class="login login-action-login wp-core-ui">
-	<div id="login">
-		<h1><a href="http://www.wordpress-fr.net/" title="Propulsé par WordPress">Auberge du Potam Flamboyant</a></h1>
-	
-<form name="loginform" id="loginform" action="http://89.84.187.2/wp-login.php" method="post">
-	<p>
-		<label for="user_login">Identifiant<br />
-		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
-	</p>
-	<p>
-		<label for="user_pass">Mot de passe<br />
-		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
-	</p>
-		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Se souvenir de moi</label></p>
-	<p class="submit">
-		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Se connecter" />
-		<input type="hidden" name="redirect_to" value="http://89.84.187.2/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events" />
-		<input type="hidden" name="testcookie" value="1" />
-	</p>
-</form>
-
-<p id="nav">
-	<a href="http://89.84.187.2/wp-login.php?action=lostpassword" title="Récupération de mot de passe">Mot de passe oublié&nbsp;?</a>
-</p>
-
-<script type="text/javascript">
-function wp_attempt_focus(){
-setTimeout( function(){ try{
-d = document.getElementById('user_login');
-d.focus();
-d.select();
-} catch(e){}
-}, 200);
-}
-
-wp_attempt_focus();
-if(typeof wpOnload=='function')wpOnload();
-</script>
-
-	<p id="backtoblog"><a href="http://89.84.187.2/" title="Êtes-vous perdu(e)&nbsp;?">&larr; Retour sur Auberge du Potam Flamboyant</a></p>
-	
-	</div>
-
-	
-	<link rel='stylesheet' id='ai1ec_style-css'  href='//89.84.187.2/wp-content/plugins/all-in-one-event-calendar/cache/bad68064_ai1ec_parsed_css.css?ver=2.3.3' type='text/css' media='all' />
-	<div class="clear"></div>
-	</body>
-	</html>
-	
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//89.84.187.2//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://89.84.187.2
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738332d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC2<br />\nTAOUS Khalid<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150921T133000
+DTEND;TZID=Europe/Paris:20150921T153000
+LOCATION:Ile du Saulcy_D202
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC2: UFD52 EC2 Analyse des données
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec2-ufd52-ec2-analyse-d
+ es-donnees-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38373636382d302d30
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr4 UFT50 EC1<br />\nPETER Lydia<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150921T133000
+DTEND;TZID=Europe/Paris:20150921T153000
+LOCATION:Ile du Saulcy_C204
+SEQUENCE:0
+SUMMARY:TD Gr4 UFT50 EC1: UFT50 EC1 PPE\, stage & déontologie
+URL:http://89.84.187.2/index.php/event/td-gr4-uft50-ec1-uft50-ec1-ppe-stage
+ -deontologie-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032362d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC2 Psychologie clinique<br />\nTARQUINIO Cyril<br 
+ />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150922T083000
+DTEND;TZID=Europe/Paris:20150922T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC2 Psychologie clinique
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec2-psychologie-clinique-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031382d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC2 Psychologie du travail<br />\nLANFRANCHI Jean-B
+ aptiste<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150922T103000
+DTEND;TZID=Europe/Paris:20150922T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec2-psychologie-du-travail-
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738322d302d30
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC1<br />\nMULLER Laurent<br />\n(Exporté le:22
+ /09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150922T133000
+DTEND;TZID=Europe/Paris:20150922T153000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC1: UFD52 EC1 Recueil des données quantitatives & rec
+ herche doc.
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec1-ufd52-ec1-recueil-d
+ es-donnees-quantitatives-recherche-doc-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150923T083000
+DTEND;TZID=Europe/Paris:20150923T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033302d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 1  Psychologie sociale<br />\nLANFRANCHI Jean-Ba
+ ptiste<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150923T103000
+DTEND;TZID=Europe/Paris:20150923T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 1  Psychologie sociale
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-1-psychologie-sociale-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032312d302d30
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC1<br />\nSPITZ Élisabeth<br />\n(Exporté le:2
+ 2/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150923T133000
+DTEND;TZID=Europe/Paris:20150923T153000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC1: UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec1-ufd54-ec1-psycholog
+ ie-de-la-sante-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033342d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 2  Psychologie du développement<br />\nLEMETAYER
+  Fabienne<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150924T083000
+DTEND;TZID=Europe/Paris:20150924T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-2-psychologie-du-develop
+ pement-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033332d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC2<br />\nLEMETAYER Fabienne<br />\n(Exporté l
+ e:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150924T153000
+DTEND;TZID=Europe/Paris:20150924T173000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC2: UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec2-ufd55-ec-2-psycholo
+ gie-du-developpement-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738332d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC2<br />\nTAOUS Khalid<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150928T133000
+DTEND;TZID=Europe/Paris:20150928T153000
+LOCATION:Ile du Saulcy_D202
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC2: UFD52 EC2 Analyse des données
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec2-ufd52-ec2-analyse-d
+ es-donnees-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38333835312d302d30
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TP Gr7 UFD51 EC1<br />\nBOUAYED Jaouad<br />\n(Exporté le:22
+ /09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150928T133000
+DTEND;TZID=Europe/Paris:20150928T173000
+LOCATION:Ile du Saulcy_TP Physio
+SEQUENCE:0
+SUMMARY:TP Gr7 UFD51 EC1: UFD51 EC1 Neurobiologie des fonctions sensorielle
+ s
+URL:http://89.84.187.2/index.php/event/tp-gr7-ufd51-ec1-ufd51-ec1-neurobiol
+ ogie-des-fonctions-sensorielles/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032362d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC2 Psychologie clinique<br />\nTARQUINIO Cyril<br 
+ />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150929T083000
+DTEND;TZID=Europe/Paris:20150929T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC2 Psychologie clinique
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec2-psychologie-clinique-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031382d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC2 Psychologie du travail<br />\nLANFRANCHI Jean-B
+ aptiste<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150929T103000
+DTEND;TZID=Europe/Paris:20150929T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec2-psychologie-du-travail-
+ 4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738322d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC1<br />\nMULLER Laurent<br />\n(Exporté le:22
+ /09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150929T133000
+DTEND;TZID=Europe/Paris:20150929T153000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC1: UFD52 EC1 Recueil des données quantitatives & rec
+ herche doc.
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec1-ufd52-ec1-recueil-d
+ es-donnees-quantitatives-recherche-doc-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031372d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC2<br />\nLANFRANCHI Jean-Baptiste<br />\n(Exp
+ orté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150929T153000
+DTEND;TZID=Europe/Paris:20150929T173000
+LOCATION:Ile du Saulcy_D106
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC2: UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec2-ufd53-ec2-psycholog
+ ie-du-travail-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031342d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC1 Psychologie ergonomique<br />\nBASTIEN Christia
+ n<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150929T173000
+DTEND;TZID=Europe/Paris:20150929T193000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec1-psychologie-ergonomique
+ -5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150930T083000
+DTEND;TZID=Europe/Paris:20150930T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033302d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 1  Psychologie sociale<br />\nFOINTIAT Valérie<b
+ r />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150930T103000
+DTEND;TZID=Europe/Paris:20150930T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 1  Psychologie sociale
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-1-psychologie-sociale-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032322d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC1 Psychologie de la santé<br />\nSPITZ Élisabeth<
+ br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150930T133000
+DTEND;TZID=Europe/Paris:20150930T153000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec1-psychologie-de-la-sante
+ -5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032392d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC1<br />\nPELT Audrey<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20150930T153000
+DTEND;TZID=Europe/Paris:20150930T173000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC1: Psychologie sociale
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec1-psychologie-sociale
+ -5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033342d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 2  Psychologie du développement<br />\nLEMETAYER
+  Fabienne<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151001T083000
+DTEND;TZID=Europe/Paris:20151001T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-2-psychologie-du-develop
+ pement-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034392d302d30
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC1 Neurobiologie des fonctions sensorielles<br />
+ \nSOULIMANI Rachid<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151001T103000
+DTEND;TZID=Europe/Paris:20151001T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC1 Neurobiologie des fonctions sensorielles
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec1-neurobiologie-des-fonct
+ ions-sensorielles-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033332d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC2<br />\nLEMETAYER Fabienne<br />\n(Exporté l
+ e:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151001T153000
+DTEND;TZID=Europe/Paris:20151001T173000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC2: UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec2-ufd55-ec-2-psycholo
+ gie-du-developpement-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38333935372d302d30
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TP Gr7 UFD51 EC2<br />\nBOUAYED Jaouad<br />\n(Exporté le:22
+ /09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151002T083000
+DTEND;TZID=Europe/Paris:20151002T123000
+LOCATION:Ile du Saulcy_TP Physio
+SEQUENCE:0
+SUMMARY:TP Gr7 UFD51 EC2: UFD51 EC2 Psychopharmacologie
+URL:http://89.84.187.2/index.php/event/tp-gr7-ufd51-ec2-ufd51-ec2-psychopha
+ rmacologie/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032352d302d30
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC2<br />\nPETER Lydia<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151003T083000
+DTEND;TZID=Europe/Paris:20151003T103000
+LOCATION:Ile du Saulcy_D204
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC2: UFD54 EC2 Psychologie clinique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec2-ufd54-ec2-psycholog
+ ie-clinique-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032352d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC2<br />\nHOUBRE Barbara<br />\n(Exporté le:22
+ /09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151003T103000
+DTEND;TZID=Europe/Paris:20151003T123000
+LOCATION:Ile du Saulcy_D204
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC2: UFD54 EC2 Psychologie clinique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec2-ufd54-ec2-psycholog
+ ie-clinique-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738332d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC2<br />\nTAOUS Khalid<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151005T133000
+DTEND;TZID=Europe/Paris:20151005T153000
+LOCATION:Ile du Saulcy_D202
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC2: UFD52 EC2 Analyse des données
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec2-ufd52-ec2-analyse-d
+ es-donnees-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38373636382d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr4 UFT50 EC1<br />\nPETER Lydia<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151005T133000
+DTEND;TZID=Europe/Paris:20151005T153000
+LOCATION:Ile du Saulcy_C204
+SEQUENCE:0
+SUMMARY:TD Gr4 UFT50 EC1: UFT50 EC1 PPE\, stage & déontologie
+URL:http://89.84.187.2/index.php/event/td-gr4-uft50-ec1-uft50-ec1-ppe-stage
+ -deontologie-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032362d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC2 Psychologie clinique<br />\nTARQUINIO Cyril<br 
+ />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151006T083000
+DTEND;TZID=Europe/Paris:20151006T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC2 Psychologie clinique
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec2-psychologie-clinique-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031372d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC2<br />\nLANFRANCHI Jean-Baptiste<br />\n(Exp
+ orté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151006T153000
+DTEND;TZID=Europe/Paris:20151006T173000
+LOCATION:Ile du Saulcy_D106
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC2: UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec2-ufd53-ec2-psycholog
+ ie-du-travail-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031342d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC1 Psychologie ergonomique<br />\nBASTIEN Christia
+ n<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151006T173000
+DTEND;TZID=Europe/Paris:20151006T193000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec1-psychologie-ergonomique
+ -4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151007T083000
+DTEND;TZID=Europe/Paris:20151007T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033302d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 1  Psychologie sociale<br />\nFOINTIAT Valérie<b
+ r />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151007T103000
+DTEND;TZID=Europe/Paris:20151007T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 1  Psychologie sociale
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-1-psychologie-sociale-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032312d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC1<br />\nSPITZ Élisabeth<br />\n(Exporté le:2
+ 2/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151007T133000
+DTEND;TZID=Europe/Paris:20151007T153000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC1: UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec1-ufd54-ec1-psycholog
+ ie-de-la-sante-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032392d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC1<br />\nPELT Audrey<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151007T153000
+DTEND;TZID=Europe/Paris:20151007T173000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC1: Psychologie sociale
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec1-psychologie-sociale
+ -4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033342d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 2  Psychologie du développement<br />\nLEMETAYER
+  Fabienne<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151008T083000
+DTEND;TZID=Europe/Paris:20151008T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-2-psychologie-du-develop
+ pement-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034392d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC1 Neurobiologie des fonctions sensorielles<br />
+ \nSOULIMANI Rachid<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151008T103000
+DTEND;TZID=Europe/Paris:20151008T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC1 Neurobiologie des fonctions sensorielles
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec1-neurobiologie-des-fonct
+ ions-sensorielles-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033332d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC2<br />\nLEMETAYER Fabienne<br />\n(Exporté l
+ e:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151008T153000
+DTEND;TZID=Europe/Paris:20151008T173000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC2: UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec2-ufd55-ec-2-psycholo
+ gie-du-developpement-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032352d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC2<br />\nHOUBRE Barbara<br />\n(Exporté le:22
+ /09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151010T083000
+DTEND;TZID=Europe/Paris:20151010T103000
+LOCATION:Ile du Saulcy_D204
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC2: UFD54 EC2 Psychologie clinique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec2-ufd54-ec2-psycholog
+ ie-clinique-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032352d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC2<br />\nPETER Lydia<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151010T103000
+DTEND;TZID=Europe/Paris:20151010T123000
+LOCATION:Ile du Saulcy_D204
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC2: UFD54 EC2 Psychologie clinique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec2-ufd54-ec2-psycholog
+ ie-clinique/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738332d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC2<br />\nTAOUS Khalid<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151012T133000
+DTEND;TZID=Europe/Paris:20151012T153000
+LOCATION:Ile du Saulcy_D202
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC2: UFD52 EC2 Analyse des données
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec2-ufd52-ec2-analyse-d
+ es-donnees-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032362d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC2 Psychologie clinique<br />\nTARQUINIO Cyril<br 
+ />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151013T083000
+DTEND;TZID=Europe/Paris:20151013T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC2 Psychologie clinique
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec2-psychologie-clinique-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738322d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC1<br />\nFREIRE FONSECA DA LUZ Rita<br />\n(E
+ xporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151013T133000
+DTEND;TZID=Europe/Paris:20151013T153000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC1: UFD52 EC1 Recueil des données quantitatives & rec
+ herche doc.
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec1-ufd52-ec1-recueil-d
+ es-donnees-quantitatives-recherche-doc-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031372d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC2<br />\nLANFRANCHI Jean-Baptiste<br />\n(Exp
+ orté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151013T153000
+DTEND;TZID=Europe/Paris:20151013T173000
+LOCATION:Ile du Saulcy_D106
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC2: UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec2-ufd53-ec2-psycholog
+ ie-du-travail-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031342d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC1 Psychologie ergonomique<br />\nBASTIEN Christia
+ n<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151013T173000
+DTEND;TZID=Europe/Paris:20151013T193000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec1-psychologie-ergonomique
+ -3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151014T083000
+DTEND;TZID=Europe/Paris:20151014T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033302d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 1  Psychologie sociale<br />\nLANFRANCHI Jean-Ba
+ ptiste<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151014T103000
+DTEND;TZID=Europe/Paris:20151014T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 1  Psychologie sociale
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-1-psychologie-sociale-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032322d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC1 Psychologie de la santé<br />\nSPITZ Élisabeth<
+ br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151014T133000
+DTEND;TZID=Europe/Paris:20151014T153000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec1-psychologie-de-la-sante
+ -4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032392d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC1<br />\nPELT Audrey<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151014T153000
+DTEND;TZID=Europe/Paris:20151014T173000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC1: Psychologie sociale
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec1-psychologie-sociale
+ -3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033342d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 2  Psychologie du développement<br />\nLEMETAYER
+  Fabienne<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151015T083000
+DTEND;TZID=Europe/Paris:20151015T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-2-psychologie-du-develop
+ pement-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034392d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC1 Neurobiologie des fonctions sensorielles<br />
+ \nSOULIMANI Rachid<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151015T103000
+DTEND;TZID=Europe/Paris:20151015T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC1 Neurobiologie des fonctions sensorielles
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec1-neurobiologie-des-fonct
+ ions-sensorielles-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033332d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC2<br />\nLEMETAYER Fabienne<br />\n(Exporté l
+ e:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151015T153000
+DTEND;TZID=Europe/Paris:20151015T173000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC2: UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec2-ufd55-ec-2-psycholo
+ gie-du-developpement-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031332d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC1<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151015T173000
+DTEND;TZID=Europe/Paris:20151015T193000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC1: UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec1-ufd53-ec1-psycholog
+ ie-ergonomique-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738332d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC2<br />\nTAOUS Khalid<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151019T133000
+DTEND;TZID=Europe/Paris:20151019T153000
+LOCATION:Ile du Saulcy_D202
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC2: UFD52 EC2 Analyse des données
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec2-ufd52-ec2-analyse-d
+ es-donnees-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38373636382d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr4 UFT50 EC1<br />\nPETER Lydia<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151019T133000
+DTEND;TZID=Europe/Paris:20151019T153000
+LOCATION:Ile du Saulcy_C204
+SEQUENCE:0
+SUMMARY:TD Gr4 UFT50 EC1: UFT50 EC1 PPE\, stage & déontologie
+URL:http://89.84.187.2/index.php/event/td-gr4-uft50-ec1-uft50-ec1-ppe-stage
+ -deontologie-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032362d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC2 Psychologie clinique<br />\nTARQUINIO Cyril<br 
+ />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151020T083000
+DTEND;TZID=Europe/Paris:20151020T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC2 Psychologie clinique
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec2-psychologie-clinique/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738322d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC1<br />\nFREIRE FONSECA DA LUZ Rita<br />\n(E
+ xporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151020T133000
+DTEND;TZID=Europe/Paris:20151020T153000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC1: UFD52 EC1 Recueil des données quantitatives & rec
+ herche doc.
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec1-ufd52-ec1-recueil-d
+ es-donnees-quantitatives-recherche-doc-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031372d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC2<br />\nLANFRANCHI Jean-Baptiste<br />\n(Exp
+ orté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151020T153000
+DTEND;TZID=Europe/Paris:20151020T173000
+LOCATION:Ile du Saulcy_D106
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC2: UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec2-ufd53-ec2-psycholog
+ ie-du-travail-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031342d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC1 Psychologie ergonomique<br />\nBASTIEN Christia
+ n<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151020T173000
+DTEND;TZID=Europe/Paris:20151020T193000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec1-psychologie-ergonomique
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151021T083000
+DTEND;TZID=Europe/Paris:20151021T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033302d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 1  Psychologie sociale<br />\nFOINTIAT Valérie<b
+ r />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151021T103000
+DTEND;TZID=Europe/Paris:20151021T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 1  Psychologie sociale
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-1-psychologie-sociale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032312d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC1<br />\nSPITZ Élisabeth<br />\n(Exporté le:2
+ 2/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151021T133000
+DTEND;TZID=Europe/Paris:20151021T153000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC1: UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec1-ufd54-ec1-psycholog
+ ie-de-la-sante-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032392d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC1<br />\nPELT Audrey<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151021T153000
+DTEND;TZID=Europe/Paris:20151021T173000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC1: Psychologie sociale
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec1-psychologie-sociale
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033342d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD55 EC 2  Psychologie du développement<br />\nLEMETAYER
+  Fabienne<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151022T083000
+DTEND;TZID=Europe/Paris:20151022T103000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/cm-ufd55-ec-2-psychologie-du-develop
+ pement/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034392d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC1 Neurobiologie des fonctions sensorielles<br />
+ \nSOULIMANI Rachid<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151022T103000
+DTEND;TZID=Europe/Paris:20151022T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC1 Neurobiologie des fonctions sensorielles
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec1-neurobiologie-des-fonct
+ ions-sensorielles-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363033332d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC2<br />\nLEMETAYER Fabienne<br />\n(Exporté l
+ e:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151022T153000
+DTEND;TZID=Europe/Paris:20151022T173000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC2: UFD55 EC 2  Psychologie du développement
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec2-ufd55-ec-2-psycholo
+ gie-du-developpement/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738332d302d36
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC2<br />\nTAOUS Khalid<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151102T133000
+DTEND;TZID=Europe/Paris:20151102T153000
+LOCATION:Ile du Saulcy_D202
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC2: UFD52 EC2 Analyse des données
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec2-ufd52-ec2-analyse-d
+ es-donnees-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738322d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC1<br />\nFREIRE FONSECA DA LUZ Rita<br />\n(E
+ xporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151103T133000
+DTEND;TZID=Europe/Paris:20151103T153000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC1: UFD52 EC1 Recueil des données quantitatives & rec
+ herche doc.
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec1-ufd52-ec1-recueil-d
+ es-donnees-quantitatives-recherche-doc-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031342d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC1 Psychologie ergonomique<br />\nBASTIEN Christia
+ n<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151103T173000
+DTEND;TZID=Europe/Paris:20151103T193000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec1-psychologie-ergonomique
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d36
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151104T083000
+DTEND;TZID=Europe/Paris:20151104T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032322d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC1 Psychologie de la santé<br />\nSPITZ Élisabeth<
+ br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151104T133000
+DTEND;TZID=Europe/Paris:20151104T153000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec1-psychologie-de-la-sante
+ -3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032392d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD55 EC1<br />\nPELT Audrey<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151104T153000
+DTEND;TZID=Europe/Paris:20151104T173000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD55 EC1: Psychologie sociale
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd55-ec1-psychologie-sociale
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034392d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC1 Neurobiologie des fonctions sensorielles<br />
+ \nSOULIMANI Rachid<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151105T103000
+DTEND;TZID=Europe/Paris:20151105T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC1 Neurobiologie des fonctions sensorielles
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec1-neurobiologie-des-fonct
+ ions-sensorielles-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031332d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC1<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151105T173000
+DTEND;TZID=Europe/Paris:20151105T193000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC1: UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec1-ufd53-ec1-psycholog
+ ie-ergonomique-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738332d302d37
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC2<br />\nTAOUS Khalid<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151109T133000
+DTEND;TZID=Europe/Paris:20151109T153000
+LOCATION:Ile du Saulcy_D202
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC2: UFD52 EC2 Analyse des données
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec2-ufd52-ec2-analyse-d
+ es-donnees-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38373636382d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr4 UFT50 EC1<br />\nPETER Lydia<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151109T133000
+DTEND;TZID=Europe/Paris:20151109T153000
+LOCATION:Ile du Saulcy_C204
+SEQUENCE:0
+SUMMARY:TD Gr4 UFT50 EC1: UFT50 EC1 PPE\, stage & déontologie
+URL:http://89.84.187.2/index.php/event/td-gr4-uft50-ec1-uft50-ec1-ppe-stage
+ -deontologie-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031382d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC2 Psychologie du travail<br />\nTISSERANT Pascal<
+ br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151110T103000
+DTEND;TZID=Europe/Paris:20151110T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec2-psychologie-du-travail-
+ 3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738322d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC1<br />\nFREIRE FONSECA DA LUZ Rita<br />\n(E
+ xporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151110T133000
+DTEND;TZID=Europe/Paris:20151110T153000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC1: UFD52 EC1 Recueil des données quantitatives & rec
+ herche doc.
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec1-ufd52-ec1-recueil-d
+ es-donnees-quantitatives-recherche-doc-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031372d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC2<br />\nLANFRANCHI Jean-Baptiste<br />\n(Exp
+ orté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151110T153000
+DTEND;TZID=Europe/Paris:20151110T173000
+LOCATION:Ile du Saulcy_D204
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC2: UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec2-ufd53-ec2-psycholog
+ ie-du-travail/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034392d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC1 Neurobiologie des fonctions sensorielles<br />
+ \nSOULIMANI Rachid<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151112T103000
+DTEND;TZID=Europe/Paris:20151112T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC1 Neurobiologie des fonctions sensorielles
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec1-neurobiologie-des-fonct
+ ions-sensorielles/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738332d302d38
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC2<br />\nTAOUS Khalid<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151116T133000
+DTEND;TZID=Europe/Paris:20151116T153000
+LOCATION:Ile du Saulcy_D202
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC2: UFD52 EC2 Analyse des données
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec2-ufd52-ec2-analyse-d
+ es-donnees/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031382d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC2 Psychologie du travail<br />\nTISSERANT Pascal<
+ br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151117T103000
+DTEND;TZID=Europe/Paris:20151117T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec2-psychologie-du-travail-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738322d302d36
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC1<br />\nFREIRE FONSECA DA LUZ Rita<br />\n(E
+ xporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151117T133000
+DTEND;TZID=Europe/Paris:20151117T153000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC1: UFD52 EC1 Recueil des données quantitatives & rec
+ herche doc.
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec1-ufd52-ec1-recueil-d
+ es-donnees-quantitatives-recherche-doc-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d37
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151118T083000
+DTEND;TZID=Europe/Paris:20151118T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032312d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC1<br />\nSPITZ Élisabeth<br />\n(Exporté le:2
+ 2/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151118T133000
+DTEND;TZID=Europe/Paris:20151118T153000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC1: UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec1-ufd54-ec1-psycholog
+ ie-de-la-sante-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363035382d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC2 Psychopharmacologie<br />\nSOULIMANI Rachid<br 
+ />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151119T103000
+DTEND;TZID=Europe/Paris:20151119T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC2 Psychopharmacologie
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec2-psychopharmacologie-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031332d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC1<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151119T173000
+DTEND;TZID=Europe/Paris:20151119T193000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC1: UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec1-ufd53-ec1-psycholog
+ ie-ergonomique-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38373636382d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr4 UFT50 EC1<br />\nPETER Lydia<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151123T133000
+DTEND;TZID=Europe/Paris:20151123T153000
+LOCATION:Ile du Saulcy_C204
+SEQUENCE:0
+SUMMARY:TD Gr4 UFT50 EC1: UFT50 EC1 PPE\, stage & déontologie
+URL:http://89.84.187.2/index.php/event/td-gr4-uft50-ec1-uft50-ec1-ppe-stage
+ -deontologie-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031382d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD53 EC2 Psychologie du travail<br />\nTISSERANT Pascal<
+ br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151124T103000
+DTEND;TZID=Europe/Paris:20151124T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD53 EC2 Psychologie du travail
+URL:http://89.84.187.2/index.php/event/cm-ufd53-ec2-psychologie-du-travail/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738322d302d37
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC1<br />\nFREIRE FONSECA DA LUZ Rita<br />\n(E
+ xporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151124T133000
+DTEND;TZID=Europe/Paris:20151124T153000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC1: UFD52 EC1 Recueil des données quantitatives & rec
+ herche doc.
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec1-ufd52-ec1-recueil-d
+ es-donnees-quantitatives-recherche-doc-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d38
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151125T083000
+DTEND;TZID=Europe/Paris:20151125T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032322d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC1 Psychologie de la santé<br />\nSPITZ Élisabeth<
+ br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151125T133000
+DTEND;TZID=Europe/Paris:20151125T153000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec1-psychologie-de-la-sante
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363035382d302d33
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC2 Psychopharmacologie<br />\nSOULIMANI Rachid<br 
+ />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151126T103000
+DTEND;TZID=Europe/Paris:20151126T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC2 Psychopharmacologie
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec2-psychopharmacologie-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031332d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC1<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151127T153000
+DTEND;TZID=Europe/Paris:20151127T173000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC1: UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec1-ufd53-ec1-psycholog
+ ie-ergonomique-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38353738322d302d38
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD52 EC1<br />\nFREIRE FONSECA DA LUZ Rita<br />\n(E
+ xporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151201T133000
+DTEND;TZID=Europe/Paris:20151201T153000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD52 EC1: UFD52 EC1 Recueil des données quantitatives & rec
+ herche doc.
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd52-ec1-ufd52-ec1-recueil-d
+ es-donnees-quantitatives-recherche-doc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d39
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151202T083000
+DTEND;TZID=Europe/Paris:20151202T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032312d302d34
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC1<br />\nSPITZ Élisabeth<br />\n(Exporté le:2
+ 2/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151202T133000
+DTEND;TZID=Europe/Paris:20151202T153000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC1: UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec1-ufd54-ec1-psycholog
+ ie-de-la-sante-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363035382d302d30
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC2 Psychopharmacologie<br />\nSOULIMANI Rachid<br 
+ />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151203T103000
+DTEND;TZID=Europe/Paris:20151203T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC2 Psychopharmacologie
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec2-psychopharmacologie-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031332d302d32
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC1<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151203T173000
+DTEND;TZID=Europe/Paris:20151203T193000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC1: UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec1-ufd53-ec1-psycholog
+ ie-ergonomique-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363031332d302d30
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD53 EC1<br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151204T153000
+DTEND;TZID=Europe/Paris:20151204T173000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD53 EC1: UFD53 EC1 Psychologie ergonomique
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd53-ec1-ufd53-ec1-psycholog
+ ie-ergonomique/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d38373636382d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr4 UFT50 EC1<br />\nPETER Lydia<br />\n(Exporté le:22/09
+ /2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151207T133000
+DTEND;TZID=Europe/Paris:20151207T153000
+LOCATION:Ile du Saulcy_C204
+SEQUENCE:0
+SUMMARY:TD Gr4 UFT50 EC1: UFT50 EC1 PPE\, stage & déontologie
+URL:http://89.84.187.2/index.php/event/td-gr4-uft50-ec1-uft50-ec1-ppe-stage
+ -deontologie/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d3130
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151209T083000
+DTEND;TZID=Europe/Paris:20151209T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032322d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD54 EC1 Psychologie de la santé<br />\nSPITZ Élisabeth<
+ br />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151209T133000
+DTEND;TZID=Europe/Paris:20151209T153000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/cm-ufd54-ec1-psychologie-de-la-sante
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363035382d302d31
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>CM UFD51 EC2 Psychopharmacologie<br />\nSOULIMANI Rachid<br 
+ />\n(Exporté le:22/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151210T103000
+DTEND;TZID=Europe/Paris:20151210T123000
+LOCATION:Ile du Saulcy_AMPHI PASCAL
+SEQUENCE:0
+SUMMARY:CM UFD51 EC2 Psychopharmacologie
+URL:http://89.84.187.2/index.php/event/cm-ufd51-ec2-psychopharmacologie/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363034302d302d3131
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFT50 EC2<br />\nTAYLOR Aaron<br />\n(Exporté le:22/0
+ 9/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151216T083000
+DTEND;TZID=Europe/Paris:20151216T103000
+LOCATION:Ile du Saulcy_D102
+SEQUENCE:0
+SUMMARY:TD Gr3 UFT50 EC2: EC Anglais
+URL:http://89.84.187.2/index.php/event/td-gr3-uft50-ec2-ec-anglais/
+END:VEVENT
+BEGIN:VEVENT
+UID:ADE60312e706c616e6e696e67554c5f323031355f323031362d37363032312d302d35
+DTSTAMP:20150921T224706Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>TD Gr3 UFD54 EC1<br />\nSPITZ Élisabeth<br />\n(Exporté le:2
+ 2/09/2015 00:09)</p>
+DTSTART;TZID=Europe/Paris:20151216T133000
+DTEND;TZID=Europe/Paris:20151216T153000
+LOCATION:Ile du Saulcy_D208
+SEQUENCE:0
+SUMMARY:TD Gr3 UFD54 EC1: UFD54 EC1 Psychologie de la santé
+URL:http://89.84.187.2/index.php/event/td-gr3-ufd54-ec1-ufd54-ec1-psycholog
+ ie-de-la-sante/
+END:VEVENT
+END:VCALENDAR

@@ -22,23 +22,4 @@ RDATE:20160313T020000
 TZNAME:CDT
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:ai1ec-2907@www.savingpaws.net
-DTSTAMP:20150920T002148Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Lake Park Pub Meat Raffle</p>\n<p>N8904 Lake Park Road</p>\n
- <p>Menasha\, WI  54952<a href='http://www.savingpaws.net/wp-content/upload
- s/2015/08/Lake-Park-Meat-Raffle-Poster.jpg' data-rel='prettyPhoto[this_pag
- e]' title=''><img class='alignnone size-full wp-image-2908' src='http://ww
- w.savingpaws.net/wp-content/uploads/2015/08/Lake-Park-Meat-Raffle-Poster.j
- pg' alt='Lake Park Meat Raffle Poster' width='320' height='495' /></a></p>
-DTSTART;TZID=America/Chicago:20150919T180000
-DTEND;TZID=America/Chicago:20150919T180000
-GEO:+44.2145;-88.363357
-LOCATION:Lake Park Pub @ Lake Park Road\, Menasha\, WI 54952\, USA
-SEQUENCE:0
-SUMMARY:Lake Park Pub Meat Raffle
-URL:http://savingpaws.com/event/lake-park-pub-meat-raffle/
-END:VEVENT
 END:VCALENDAR

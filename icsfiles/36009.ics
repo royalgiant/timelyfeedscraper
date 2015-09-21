@@ -23,105 +23,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-404@newvisionmiami.com
-DTSTAMP:20150920T002134Z
-CATEGORIES;LANGUAGE=en-US:General
-CONTACT:New Vision \; 3057514955\; info@newvisionmiami.com
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://newvisionmiami.com/wp-content/uploads/2013/04/bible-study_724_482_80-30
- 0x199.jpg' width='300' height='199' /></div><p>Sunday school classes at Ne
- w Vision are intended to give members a chance to affiliate with a small g
- roup for learning\, mutual support\, and service to the church and communi
- ty.  Each class has a different size\, character\, and learning style.</p>
-DTSTART;TZID=America/New_York:20150920T134500
-DTEND;TZID=America/New_York:20150920T143000
-EXDATE;TZID=America/New_York:20130707T134500
-EXDATE;TZID=America/New_York:20130714T134500
-LOCATION:New Vision Emmanuel Baptist Church @ 7321 Northeast 2nd Avenue\, M
- iami\, FL 33138\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday School
-URL:http://newvisionmiami.com/event/sunday-school/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-405@newvisionmiami.com
-DTSTAMP:20150920T002134Z
-CATEGORIES;LANGUAGE=en-US:All\,General
-CONTACT:
-DESCRIPTION:<p>Sunday Worship Service at New Vision is an experience where 
- you will be touched\, renewed and changed as you participate in an unique 
- and exciting experience. Worship Service is a celebration of our wonderful
-  Lord and Savior\, Jesus Christ in a musical style that will bless you. An
- d it’s followed by a timely message from God’s Word that will encourage an
- d challenge you in your relationship with Christ. It’s the best way to sta
- rt your week off right!</p>
-DTSTART;TZID=America/New_York:20150920T104500
-DTEND;TZID=America/New_York:20150920T130000
-EXDATE;TZID=America/New_York:20130714T104500
-RRULE:FREQ=WEEKLY
-SEQUENCE:0
-SUMMARY:Sunday Worship Service
-URL:http://newvisionmiami.com/event/sunday-worship-service/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-893@newvisionmiami.com
-DTSTAMP:20150920T002134Z
-CATEGORIES;LANGUAGE=en-US:All
-CONTACT:Ruth Maurat\; 305-751-4955\; dance@newvisionmiami.com
-DESCRIPTION:<p><a href='http://newvision.rosiemedia.biz/wp-content/uploads/
- 2013/04/107.jpg'><img class='alignleft  wp-image-357' src='http://newvisio
- n.rosiemedia.biz/wp-content/uploads/2013/04/107-300x168.jpg' alt='Annual C
- onference' width='270' height='151' data-id='357' /></a>New Vision Dance M
- inistry is a ministry of talent that allows individuals to minister their 
- personal testimony through dance.</p>\n<p><img src='https://encrypted-tbn2
- .gstatic.com/images?q=tbn:ANd9GcRx6lx3Ngl9g7l8ub7nsh8oVswvl9ad65FewRyafsS-
- Dd7PVlCoVg' alt='' width='100' height='60' /><strong>!</strong> Ever wante
- d to take worship to a whole new level?</p>\n<p><strong><img src='https://
- encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLzSwc3ShTVexjg7k0HHdUzdMoKq
- tZLZ8CulNRszDW5TDS-RxZqQ' alt='' width='100' height='60' />!</strong> Anyo
- ne can praise\, but do you have the passion?</p>\n<p><img src='https://enc
- rypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqPZOH2RdonvLsnKyEJ3LuDf6tj-058
- TGF0WyPCdZlrhukX862' alt='' width='100' height='29' /><strong>!</strong> D
- o you ever have the impulse of wanting to break out and dance when you hea
- r a beat?</p>\n<p>If you answered yes to any of the following questions\, 
- then this ministry is for you.</p>
-DTSTART;TZID=America/New_York:20150920T133000
-DTEND;TZID=America/New_York:20150920T160000
-EXDATE;TZID=America/New_York:20130714T133000
-EXDATE;TZID=America/New_York:20140713T133000
-GEO:+25.842493;-80.19185
-LOCATION:New Vision Emmanuel Baptist Church @ 7321 Northeast 2nd Avenue\, M
- iami\, FL 33138\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Dance Rehearsal
-URL:http://newvisionmiami.com/event/dance-rehearsal/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1367@newvisionmiami.com
-DTSTAMP:20150920T002134Z
-CATEGORIES:
-CONTACT:Max Joseph\; 785863321\; marriage@newvisionmiami.com
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://newvisionmiami.com/wp-content/uploads/2013/05/550420.gif' width='118' h
- eight='180' /></div><p>The Marriage Ministry will encourage and support ma
- rried couples to model the scriptures by providing spiritual leadership an
- d resources within our church.</p>\n<p>We meet monthly to have an open\, C
- hristian forum for real issues facing marriages today.</p>\n<h4 style='tex
- t-align: left\;'></h4>
-DTSTART;TZID=America/New_York:20150920T210000
-DTEND;TZID=America/New_York:20150920T220000
-EXDATE;TZID=America/New_York:20131215T210000
-LOCATION:New Vision @ 7321 Northeast 2nd Avenue\, Miami\, FL 33138\, USA
-RRULE:FREQ=MONTHLY;BYDAY=3SU
-SEQUENCE:0
-SUMMARY:Marriage Ministry Meeting
-URL:http://newvisionmiami.com/event/marriage-ministry-meeting/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-966@newvisionmiami.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:All\,General
 CONTACT:Jacques Moses Joseph/Joel Michel\; 786-506-1012\; athletic@newvisio
  nmiami.com
@@ -158,7 +61,7 @@ X-COST:Daily-$3/Weekly-$10/One-on-one Session:$50
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-402@newvisionmiami.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:General
 CONTACT:Dickinson Merrin \; 7868385754\; dmerrin@newvisionmiami.com
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -186,7 +89,7 @@ URL:http://newvisionmiami.com/event/bible-study/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-406@newvisionmiami.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:All\,Men's Ministry
 CONTACT:Fednel\,Rosni\; 7862471888\, 3053032804
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -209,8 +112,50 @@ SUMMARY:Men’s Basketball
 URL:http://newvisionmiami.com/event/mens-basketball/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-404@newvisionmiami.com
+DTSTAMP:20150921T224659Z
+CATEGORIES;LANGUAGE=en-US:General
+CONTACT:New Vision \; 3057514955\; info@newvisionmiami.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newvisionmiami.com/wp-content/uploads/2013/04/bible-study_724_482_80-30
+ 0x199.jpg' width='300' height='199' /></div><p>Sunday school classes at Ne
+ w Vision are intended to give members a chance to affiliate with a small g
+ roup for learning\, mutual support\, and service to the church and communi
+ ty.  Each class has a different size\, character\, and learning style.</p>
+DTSTART;TZID=America/New_York:20150927T134500
+DTEND;TZID=America/New_York:20150927T143000
+EXDATE;TZID=America/New_York:20130707T134500
+EXDATE;TZID=America/New_York:20130714T134500
+LOCATION:New Vision Emmanuel Baptist Church @ 7321 Northeast 2nd Avenue\, M
+ iami\, FL 33138\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday School
+URL:http://newvisionmiami.com/event/sunday-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-405@newvisionmiami.com
+DTSTAMP:20150921T224659Z
+CATEGORIES;LANGUAGE=en-US:All\,General
+CONTACT:
+DESCRIPTION:<p>Sunday Worship Service at New Vision is an experience where 
+ you will be touched\, renewed and changed as you participate in an unique 
+ and exciting experience. Worship Service is a celebration of our wonderful
+  Lord and Savior\, Jesus Christ in a musical style that will bless you. An
+ d it’s followed by a timely message from God’s Word that will encourage an
+ d challenge you in your relationship with Christ. It’s the best way to sta
+ rt your week off right!</p>
+DTSTART;TZID=America/New_York:20150927T104500
+DTEND;TZID=America/New_York:20150927T130000
+EXDATE;TZID=America/New_York:20130714T104500
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Sunday Worship Service
+URL:http://newvisionmiami.com/event/sunday-worship-service/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1420@newvisionmiami.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:General
 CONTACT:Br. Dickinson Merrin\; teaching@newvisionmiami.com
 DESCRIPTION:
@@ -224,8 +169,42 @@ X-COST:Free to Church Members
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-893@newvisionmiami.com
+DTSTAMP:20150921T224659Z
+CATEGORIES;LANGUAGE=en-US:All
+CONTACT:Ruth Maurat\; 305-751-4955\; dance@newvisionmiami.com
+DESCRIPTION:<p><a href='http://newvision.rosiemedia.biz/wp-content/uploads/
+ 2013/04/107.jpg'><img class='alignleft  wp-image-357' src='http://newvisio
+ n.rosiemedia.biz/wp-content/uploads/2013/04/107-300x168.jpg' alt='Annual C
+ onference' width='270' height='151' data-id='357' /></a>New Vision Dance M
+ inistry is a ministry of talent that allows individuals to minister their 
+ personal testimony through dance.</p>\n<p><img src='https://encrypted-tbn2
+ .gstatic.com/images?q=tbn:ANd9GcRx6lx3Ngl9g7l8ub7nsh8oVswvl9ad65FewRyafsS-
+ Dd7PVlCoVg' alt='' width='100' height='60' /><strong>!</strong> Ever wante
+ d to take worship to a whole new level?</p>\n<p><strong><img src='https://
+ encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLzSwc3ShTVexjg7k0HHdUzdMoKq
+ tZLZ8CulNRszDW5TDS-RxZqQ' alt='' width='100' height='60' />!</strong> Anyo
+ ne can praise\, but do you have the passion?</p>\n<p><img src='https://enc
+ rypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqPZOH2RdonvLsnKyEJ3LuDf6tj-058
+ TGF0WyPCdZlrhukX862' alt='' width='100' height='29' /><strong>!</strong> D
+ o you ever have the impulse of wanting to break out and dance when you hea
+ r a beat?</p>\n<p>If you answered yes to any of the following questions\, 
+ then this ministry is for you.</p>
+DTSTART;TZID=America/New_York:20150927T133000
+DTEND;TZID=America/New_York:20150927T160000
+EXDATE;TZID=America/New_York:20130714T133000
+EXDATE;TZID=America/New_York:20140713T133000
+GEO:+25.842493;-80.19185
+LOCATION:New Vision Emmanuel Baptist Church @ 7321 Northeast 2nd Avenue\, M
+ iami\, FL 33138\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Dance Rehearsal
+URL:http://newvisionmiami.com/event/dance-rehearsal/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-407@newvisionmiami.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:All\,General
 CONTACT:New Vision \; 305-751-4955\; info@newvisionmiami.com
 DESCRIPTION:<p><a href='http://newvisionmiami.com/wp-content/uploads/2013/0
@@ -253,7 +232,7 @@ URL:http://newvisionmiami.com/event/fasting-and-prayer/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1453@newvisionmiami.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:All\,Men's Ministry
 CONTACT:Rosny Telfort\; men@newvisionmiami.com\; http://newvisionmiami.com
 DESCRIPTION:<p>We invite all men to Come and Grow as you commit to being a 
@@ -276,7 +255,7 @@ URL:http://newvisionmiami.com/event/mens-ministry-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-421@newvisionmiami.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES;LANGUAGE=en-US:All\,Women's Connection
 CONTACT:Louineze Mertil \; 305-807-9284\; LMERTIL@NEWVISIONMIAMI.COM
 DESCRIPTION:<p><a href='http://newvisionmiami.com/wp-content/uploads/2013/0
@@ -298,7 +277,7 @@ URL:http://newvisionmiami.com/event/womens-connection-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-926@newvisionmiami.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES:
 CONTACT:Cindy Pierre and Eric Remonvil\; teenvision@newvisionmiami.com
 DESCRIPTION:<p><a href='http://newvision.rosiemedia.biz/wp-content/uploads/
@@ -317,8 +296,29 @@ SUMMARY:Teen Vision Youth
 URL:http://newvisionmiami.com/event/teen-vision-youth/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1367@newvisionmiami.com
+DTSTAMP:20150921T224659Z
+CATEGORIES:
+CONTACT:Max Joseph\; 785863321\; marriage@newvisionmiami.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://newvisionmiami.com/wp-content/uploads/2013/05/550420.gif' width='118' h
+ eight='180' /></div><p>The Marriage Ministry will encourage and support ma
+ rried couples to model the scriptures by providing spiritual leadership an
+ d resources within our church.</p>\n<p>We meet monthly to have an open\, C
+ hristian forum for real issues facing marriages today.</p>\n<h4 style='tex
+ t-align: left\;'></h4>
+DTSTART;TZID=America/New_York:20151018T210000
+DTEND;TZID=America/New_York:20151018T220000
+EXDATE;TZID=America/New_York:20131215T210000
+LOCATION:New Vision @ 7321 Northeast 2nd Avenue\, Miami\, FL 33138\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Marriage Ministry Meeting
+URL:http://newvisionmiami.com/event/marriage-ministry-meeting/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1521@newvisionmiami.com
-DTSTAMP:20150920T002134Z
+DTSTAMP:20150921T224659Z
 CATEGORIES:
 CONTACT:Dickinson & Belinda Merrin\; music@newvisionmiami.com
 DESCRIPTION:<p><a href='http://newvisionmiami.com/wp-content/uploads/2013/0

@@ -1,11 +1,160 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>/n</p>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//84.16.92.153//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.lilot.org
+X-WR-TIMEZONE:Europe/Zurich
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1455@www.lilot.org
+DTSTAMP:20150921T224751Z
+CATEGORIES;LANGUAGE=fr-FR:Manifestations
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+SEQUENCE:0
+SUMMARY:Journée de la santé mentale
+URL:http://www.lilot.org/event/journee-de-la-sante-mentale/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1456@www.lilot.org
+DTSTAMP:20150921T224751Z
+CATEGORIES;LANGUAGE=fr-FR:Manifestations
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>Le 30 octobre a été institué p
+ ar le canton de Vaud «Journée des proches aidants» depuis quatre ans. En 2
+ 015\, il y aura des événements qui se dérouleront dans toute la Suisse rom
+ ande.</p>\n<p><strong>*l’îlot*</strong>\, associée au Graap\, a décidé d’o
+ rganiser une journée de rencontres et de contacts dans le cadre de l’Hôpit
+ al de Cery\, avec les proches\, mais aussi avec les professionnels\, pour 
+ bien marquer l’importance du rôle des proches.</p>\n<p style='text-align: 
+ justify\;'>En fin d’après-midi\, une conférence intitulée «L’expertise des
+  proches» présentera les implications des proches face à la maladie et à s
+ on environnement à un large public de professionnels\, de proches et de pa
+ tients.</p>\n<p style='text-align: justify\;'>Cette conférence se dérouler
+ a de 17h30 à 19h salle Christian Muller et sera suivie d’un apéritif offer
+ t.</p>
+DTSTART;VALUE=DATE:20151030
+DTEND;VALUE=DATE:20151031
+SEQUENCE:0
+SUMMARY:Journée des proches aidants
+URL:http://www.lilot.org/event/journee-des-proches-aidants-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1442@www.lilot.org
+DTSTAMP:20150921T224751Z
+CATEGORIES;LANGUAGE=fr-FR:Triangle
+CONTACT:
+DESCRIPTION:<p><span style='text-decoration: underline\;'><strong>Thème de 
+ ce triangle</strong></span> : Un traitement pour qui ? Pour quoi ? Pourquo
+ i ?</p>\n<p><a href='http://www.lilot.org/wp-content/uploads/2015/01/Invit
+ ation-23-septembre-Triangle-Un-traitement-pour-qui-pourquoiv2-low-def.jpg'
+ ><img class='alignnone size-medium wp-image-1607' src='http://www.lilot.or
+ g/wp-content/uploads/2015/01/Invitation-23-septembre-Triangle-Un-traitemen
+ t-pour-qui-pourquoiv2-low-def-212x300.jpg' alt='Invitation 23 septembre - 
+ Triangle - Un traitement pour qui - pourquoiv2 (low def)' width='212' heig
+ ht='300' /></a></p>
+DTSTART;TZID=Europe/Zurich:20150923T190000
+DTEND;TZID=Europe/Zurich:20150923T210000
+GEO:+46.440394;+6.894018
+LOCATION:Centre thérapeutique de jour @ Rue des Vergers 2\, 1815 Clarens\, 
+ Suisse
+SEQUENCE:0
+SUMMARY:Triangle de Nant
+URL:http://www.lilot.org/event/triangle-de-nant/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1438@www.lilot.org
+DTSTAMP:20150921T224751Z
+CATEGORIES;LANGUAGE=fr-FR:Partage
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Zurich:20151005T200000
+DTEND;TZID=Europe/Zurich:20151005T220000
+GEO:+46.523193;+6.619054
+LOCATION:Ecole de la Source @ Rue de Sébeillon 1\, 1004 Lausanne\, Suisse
+SEQUENCE:0
+SUMMARY:Soirée de partage
+URL:http://www.lilot.org/event/soiree-de-partage-9-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1447@www.lilot.org
+DTSTAMP:20150921T224751Z
+CATEGORIES;LANGUAGE=fr-FR:Triangle
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Zurich:20151007T190000
+DTEND;TZID=Europe/Zurich:20151007T210000
+GEO:+46.782021;+6.646634
+LOCATION:Centre Psychiatrique du Nord Vaudois @ Avenue des Sports 12\, 1400
+  Yverdon-les-Bains\, Suisse
+SEQUENCE:0
+SUMMARY:Triangle d’Yverdon
+URL:http://www.lilot.org/event/triangle-de-nant-2-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1609@www.lilot.org
+DTSTAMP:20150921T224751Z
+CATEGORIES;LANGUAGE=fr-FR:Conférence
+CONTACT:
+DESCRIPTION:<p style='text-align: justify\;'>En fin d’après-midi\, dans le 
+ cadre de la journée des proches aidants\, une conférence intitulée «L’expe
+ rtise des proches» présentera les implications des proches face à la malad
+ ie et à son environnement à un large public de professionnels\, de proches
+  et de patients.</p>\n<p style='text-align: justify\;'>Cette conférence se
+  déroulera à l’Hôpital de Cery\, <a href='http://files.chuv.ch/internet-do
+ cs/dpc/formation/dpc_formacon_cnp_forel.pdf'>salle Christian Müller\,</a> 
+ de 17h30 à 19h et sera suivie d’un apéritif offert.</p>
+DTSTART;TZID=Europe/Zurich:20151030T173000
+DTEND;TZID=Europe/Zurich:20151030T190000
+GEO:+46.547326;+6.607841
+LOCATION:Hôpital de Cery @ Route de Cery\, 1008 Prilly\, Suisse
+SEQUENCE:0
+SUMMARY:Conférence « L’expertise des proches »
+URL:http://www.lilot.org/event/conference-lexpertise-des-proches/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1439@www.lilot.org
+DTSTAMP:20150921T224751Z
+CATEGORIES;LANGUAGE=fr-FR:Partage
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Zurich:20151102T200000
+DTEND;TZID=Europe/Zurich:20151102T220000
+GEO:+46.523193;+6.619054
+LOCATION:Ecole de la Source @ Rue de Sébeillon 1\, 1004 Lausanne\, Suisse
+SEQUENCE:0
+SUMMARY:Soirée de partage
+URL:http://www.lilot.org/event/soiree-de-partage-9-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1448@www.lilot.org
+DTSTAMP:20150921T224751Z
+CATEGORIES;LANGUAGE=fr-FR:Repas
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Zurich:20151202T190000
+SEQUENCE:0
+SUMMARY:Repas de fin d’année de l’îlot
+URL:http://www.lilot.org/event/repas-estival-de-lilot/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

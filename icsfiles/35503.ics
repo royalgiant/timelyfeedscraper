@@ -1,8 +1,981 @@
-<html>
-<head><title>400 Request Header Or Cookie Too Large</title></head>
-<body bgcolor="white">
-<center><h1>400 Bad Request</h1></center>
-<center>Request Header Or Cookie Too Large</center>
-<hr><center>nginx</center>
+
+<!DOCTYPE html>
+
+<!-- WordPress Theme by WPExplorer (http://www.wpexplorer.com) -->
+<html lang="nl-NL" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
+	<title>frontpage - Nederlandstalig Netwerk Basisinkomen | Nederlandstalig Netwerk Basisinkomen</title>
+	<link rel="pingback" href="http://basisinkomen.net/obi/xmlrpc.php" />
+	
+<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://basisinkomen.net/obi/" />
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="frontpage - Nederlandstalig Netwerk Basisinkomen" />
+<meta property="og:url" content="http://basisinkomen.net/obi/" />
+<meta property="og:site_name" content="Nederlandstalig Netwerk Basisinkomen" />
+<meta property="og:image" content="http://basisinkomen.net/obi/wp-content/uploads/2015/01/02_ubie_on_black_centered-square-1024x1024-54bcc4ffv1_site_icon.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/basisinkomen.net\/obi\/","name":"Nederlandstalig Netwerk Basisinkomen","potentialAction":{"@type":"SearchAction","target":"http:\/\/basisinkomen.net\/obi\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Nederlandstalig Netwerk Basisinkomen &raquo; Feed" href="http://basisinkomen.net/obi/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Nederlandstalig Netwerk Basisinkomen &raquo; Reactiesfeed" href="http://basisinkomen.net/obi/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Nederlandstalig Netwerk Basisinkomen &raquo; frontpage Reactiesfeed" href="http://basisinkomen.net/obi/frontpage/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/basisinkomen.net\/obi\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='http://basisinkomen.net/obi/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css' type='text/css' media='all' />
+<link rel='stylesheet' id='otw_grid_manager-css'  href='http://basisinkomen.net/obi/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_grid_manager/css/otw-grid.css' type='text/css' media='all' />
+<link rel='stylesheet' id='general_foundicons-css'  href='http://basisinkomen.net/obi/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_shortcode/css/general_foundicons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='social_foundicons-css'  href='http://basisinkomen.net/obi/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_shortcode/css/social_foundicons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='otw_shortocde-css'  href='http://basisinkomen.net/obi/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_shortcode/css/otw_shortcode.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://basisinkomen.net/obi/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='symple_shortcode_styles-css'  href='http://basisinkomen.net/obi/wp-content/plugins/symple-shortcodes/shortcodes/css/symple_shortcodes_styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://basisinkomen.net/obi/wp-content/plugins/wp-to-twitter/css/twitter-feed.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pytheas-style-css'  href='http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/css/prettyphoto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://basisinkomen.net/obi/wp-content/plugins/symple-shortcodes/shortcodes/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_image_widget-css'  href='http://basisinkomen.net/obi/wp-content/plugins/jetpack/modules/widgets/image-widget/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-top-posts-widget-css'  href='http://basisinkomen.net/obi/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://basisinkomen.net/obi/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://basisinkomen.net/obi/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://basisinkomen.net/obi/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='shortlink' href='http://wp.me/P4pcPd-LP' />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/css/ancient-ie.css" /><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]--><!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/css/font-awesome-ie7.min.css" media="screen" /><link rel="stylesheet" type="text/css" href="http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/css/css/antient-ie.css" media="screen" /><![endif]--><link rel="icon" href="http://i1.wp.com/basisinkomen.net/obi/wp-content/uploads/2015/01/02_ubie_on_black_centered-square-1024x1024-54bcc4ffv1_site_icon.png?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="http://i1.wp.com/basisinkomen.net/obi/wp-content/uploads/2015/01/02_ubie_on_black_centered-square-1024x1024-54bcc4ffv1_site_icon.png?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://i1.wp.com/basisinkomen.net/obi/wp-content/uploads/2015/01/02_ubie_on_black_centered-square-1024x1024-54bcc4ffv1_site_icon.png?fit=180%2C180">
+<meta name="msapplication-TileImage" content="http://i1.wp.com/basisinkomen.net/obi/wp-content/uploads/2015/01/02_ubie_on_black_centered-square-1024x1024-54bcc4ffv1_site_icon.png?fit=270%2C270">
+			<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://basisinkomen.net/obi/?custom-css=1&#038;csblog=1&#038;cscache=6&#038;csrev=34" />
+			</head>
+
+<!-- Begin Body -->
+<body class="home page page-id-2965 page-template page-template-templates page-template-template-frontpage page-template-templatestemplate-frontpage-php body symple-shortcodes  symple-shortcodes-responsive">
+
+    <div id="wrap" class="container clr">
+    
+        <header id="masthead" class="site-header clr" role="banner">
+        
+            <div class="logo">
+                                    <a href="http://basisinkomen.net/obi/" title="Nederlandstalig Netwerk Basisinkomen" rel="home"><img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/nnbnew.png" alt="Nederlandstalig Netwerk Basisinkomen" /></a>
+                            </div><!-- .logo -->   
+             
+            <div class="masthead-right">
+            	                	<div class="masthead-right-content">
+                		<i class="icon-twitter"></i>@basisinkomen<br />
+<a href="http://basisinkomen.net/obi/voor-iedereen-voor-engeltjes-en-bengeltjes/" target="_blank"><img class="alignleft wp-image-1169" src="http://basisinkomen.net/obi/wp-content/uploads/2015/02/vooriedereen-300x170.jpg" alt="vooriedereen" width="212" height="120" /></a>                	</div><!-- .masterhead-right-content -->
+                                                    <div class="masthead-search">
+                        
+<form method="get" id="searchform" class="searchform" action="http://basisinkomen.net/obi/" role="search">
+	<input type="search" class="field" name="s" value="" id="s" placeholder="Search&hellip;" />
+	<button type="submit" class="submit" id="searchsubmit"><i class="icon-search"></i></button>
+</form>                    </div><!-- /masthead-search -->
+                            </div><!-- .masthead-right -->
+            
+        </header><!-- .header -->
+        
+            
+    
+        <div id="navbar" class="navbar clr">
+        
+        	<nav id="site-navigation" class="navigation main-navigation clr" role="navigation">
+            	<span class="nav-toggle">Menu<i class="toggle-icon icon-arrow-down"></i></span>
+				<div class="menu-hoofdmenu-container"><ul id="menu-hoofdmenu" class="nav-menu dropdown-menu"><li id="menu-item-2993" class="icon-home menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2965 current_page_item menu-item-2993"><a href="http://basisinkomen.net/obi/">Home</a></li>
+<li id="menu-item-256" class="icon-book menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-256"><a href="http://basisinkomen.net/obi/handvest-van-het-nederlandstalig-netwerk-basisinkomen/">Handvest NNB <i class="icon-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-3834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3834"><a href="http://basisinkomen.net/obi/de-4-criteria-voor-een-onvoorwaardelijk-basisinkomen/">De 4 criteria voor een onvoorwaardelijk basisinkomen</a></li>
+</ul>
+</li>
+<li id="menu-item-261" class="icon-group menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="http://basisinkomen.net/obi/calendar/">Kalender</a></li>
+<li id="menu-item-77" class="icon-question-sign menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-77"><a href="http://basisinkomen.net/obi/vaakgestelde-vragen/">Vaakgestelde vragen <i class="icon-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-735" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-735"><a href="http://basisinkomen.net/obi/category/geschiedens/">Geschiedenis</a></li>
+	<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-736"><a href="http://basisinkomen.net/obi/vaakgestelde-vragen/">FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-112" class="icon-check menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://basisinkomen.net/obi/politieke-partijen-met-basisinkomen-het-programma/">Politiek</a></li>
+<li id="menu-item-453" class="icon-bookmark menu-item menu-item-type-post_type menu-item-object-services menu-item-has-children dropdown menu-item-453"><a href="http://basisinkomen.net/obi/services/promotie/">Promotie <i class="icon-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-807" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-807"><a href="http://basisinkomen.net/obi/services/promotie/">Webshop</a></li>
+	<li id="menu-item-3745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3745"><a href="http://basisinkomen.net/obi/testimonial">Funding</a></li>
+	<li id="menu-item-805" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-805"><a href="http://basisinkomen.net/obi/hoe-en-wat-over-basisteams-voor-promotie-van-het-basisinkomen/">Hoe en Wat over Basisteams</a></li>
+	<li id="menu-item-810" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-810"><a href="http://basisinkomen.net/obi/5-stappen-op-weg-naar-obi-ambassadeursschap/">5 stappen op weg naar OBi-ambassadeursschap</a></li>
+	<li id="menu-item-3703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3703"><a href="http://basisinkomen.net/obi/alle-banners-van-unconditional-basic-income-europe-ubie/">Alle banners van Unconditional Basic Income Europe &#8211; UBIE</a></li>
+</ul>
+</li>
+<li id="menu-item-122" class="icon-pencil menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-122"><a href="http://basisinkomen.net/obi/contact/">Contact <i class="icon-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="http://basisinkomen.net/obi/contact/">Contactformulier</a></li>
+	<li id="menu-item-4693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4693"><a href="http://basisinkomen.net/obi/inschrijven-nieuwsbrief/">Inschrijven Nieuwsbrief</a></li>
+	<li id="menu-item-779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-779"><a href="http://basisinkomen.net/obi/hier-kun-je-een-evenement-insturen/">Hier kun je een evenement insturen</a></li>
+	<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="http://basisinkomen.net/obi/aanmeldformulier-vrijwilligers-basisinkomen/">Aanmeldformulier Vrijwilligers Basisinkomen</a></li>
+	<li id="menu-item-806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806"><a href="http://basisinkomen.net/obi/formulier-basisteams/">Formulier Basisteams</a></li>
+	<li id="menu-item-3892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3892"><a href="http://basisinkomen.net/obi/sociale-media-over-basisinkomen/">Sociale Media over basisinkomen</a></li>
+</ul>
+</li>
+</ul></div>            </nav><!-- #site-navigation -->
+            
+			<ul id="social" class="clr"><li><a href="http://twitter.com/basisinkomen" title="twitter" target="_blank"><img src="http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/images/social/twitter.png" alt="twitter" /></a></li><li><a href="https://www.facebook.com/groups/netwerkbasisinkomen/" title="facebook" target="_blank"><img src="http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/images/social/facebook.png" alt="facebook" /></a></li></ul><!-- #social -->            
+        </div><!-- #navbar -->
+        
+    <div id="main" class="site-main row clr fitvids">
+    
+		        
+        
+        
+			<div id="home-slider-wrap" class="clr flexslider-container">
+				<div id="home-slider" class="flexslider">
+					<div id="home-slider-loader"><i class="icon-spinner icon-spin"></i></div>
+					<ul class="slides">
+																			<li>
+								<div class="slide-inner fitvids">
+																			<a href="http://week-van-het-basisinkomen.nl" title="week van het basisinkomen" target="_blank">
+											<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/09/2015_8th_BIW-with-date-NL.jpg" alt="week van het basisinkomen" />
+										</a>
+																		</div><!--/ slide-inner -->
+							</li>
+																	</ul><!-- /slides -->
+				</div><!-- /home-slider -->
+			</div><!-- /home-slider-wrap -->
+		
+<div id="home-wrap" class="clr">
+
+	 
+	    
+        <div id="home-tagline" class="clr">
+            Nederlandstalig Netwerk Basisinkomen        </div>
+        <!-- /home-tagline -->
+        
+            
+		
+		<div id="home-services">		
+							<h2 class="heading">
+					<span>Wat We Doen</span>
+				</h2>
+						
+			<div class="row clr">			
+				        
+    <article id="#post-217" class="service-entry span_8 col clr-margin post-217 services type-services status-publish format-standard has-post-thumbnail hentry services_tag-basisinkomen services_tag-button services_tag-buttons services_tag-caps services_tag-dvd services_tag-flyer services_tag-mugs services_tag-obi services_tag-petje services_tag-promotie services_tag-shirts services_tag-t-shirt services_tag-ubi services_tag-ubie services_tag-webshop">
+    
+    	            <div class="service-icon">
+                <i class="icon-eye-open"></i>
+            </div><!-- .service-icon -->
+		        
+        <div class="service-entry-details clr">
+        	<h3 class="service-entry-title"><a href="http://basisinkomen.net/obi/services/promotie/" title="Promotie" rel="bookmark">Promotie</a></h3>
+			Promotionele activiteiten voor het Onvoorwaardelijk Basisinkomen. Het creeëren van een overzicht van alle mogelijk bronnen over het Basisinkomen. Er zijn diverse webshops om met zaken om het OBI te promoten Onze eigen webshop, de producten zijn nog veelbelovend, heb je een idee, stuur het in en we maken er een&hellip;       </div><!-- .service-entry-details -->
+       
+    </article><!-- .service-entry -->
+
+        
+    <article id="#post-213" class="service-entry span_8 col  post-213 services type-services status-publish format-standard has-post-thumbnail hentry services_tag-faq services_tag-gesprek services_tag-leesgroepen services_tag-lezingen services_tag-publicaties services_tag-studie services_tag-veelgestgelde-vragen services_tag-voorlichting">
+    
+    	            <div class="service-icon">
+                <i class="icon-briefcase"></i>
+            </div><!-- .service-icon -->
+		        
+        <div class="service-entry-details clr">
+        	<h3 class="service-entry-title"><a href="http://basisinkomen.net/obi/services/voorlichting/" title="Voorlichting" rel="bookmark">Voorlichting</a></h3>
+			Voorlichting geven over Onvoorwaardelijk basisinkomen op alle mogelijke manieren. In studiedagen, lezingen, publicaties  en opiniestukken de verschillende dimensies van dit streven naar basisinkomen aan bod laten komen: de onderliggende ethiek, de analyse van de bestaande toestand, de ontwikkeling van alternatieven alsook de strategie. In rondetafelgesprekken, seminaries en leesgroepen mensen de&hellip;       </div><!-- .service-entry-details -->
+       
+    </article><!-- .service-entry -->
+
+        
+    <article id="#post-207" class="service-entry span_8 col  post-207 services type-services status-publish format-standard has-post-thumbnail hentry services_tag-agenda services_tag-bijeenkomsten services_tag-evenementen services_tag-kalender">
+    
+    	            <div class="service-icon">
+                <i class="icon-cloud"></i>
+            </div><!-- .service-icon -->
+		        
+        <div class="service-entry-details clr">
+        	<h3 class="service-entry-title"><a href="http://basisinkomen.net/obi/services/bijeenkomsten/" title="Bijeenkomsten" rel="bookmark">Bijeenkomsten</a></h3>
+			Het Nederlandstalig Netwerk Basisinkomen houdt een kalender bij met bijeenkomsten om het Onvoorwaardelijk Basisinkomen te promoten. Iedereen is vrij om evenementen en bijeenkomsten met als thema basisinkomen in te sturen voor plaatsing in de agenda op deze website. Stuur je info met een link via het speciale evenementenformulier        </div><!-- .service-entry-details -->
+       
+    </article><!-- .service-entry -->
+
+<div class="clr"></div>			 </div><!-- /row clr -->			 
+		</div><!-- /home-services -->      	
+					<div id="home-portfolio">       
+									<h2 class="heading">
+						<span>Basisinkomen-ondersteunende Organisaties</span>
+					</h2>
+				          
+				<div class="row clr">       
+					
+
+    <article id="#post-7255" class="portfolio-entry col span_4 clr-margin post-7255 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basisinkomen portfolio_tag-verenigd-links portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/verenigd-links/" title="Verenigd Links" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/09/verenigdlinks-700x350.jpg" alt="Verenigd Links" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/verenigd-links/" title="Verenigd Links" rel="bookmark">Verenigd Links</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Verenigd Links ziet de invoering van het basisinkomen als de enige uitweg uit de crisis.&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-4808" class="portfolio-entry col span_4  post-4808 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/blauwvuur/" title="Blauwvuur" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/06/blauwvuur.jpg" alt="Blauwvuur" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/blauwvuur/" title="Blauwvuur" rel="bookmark">Blauwvuur</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Onafhankelijk Op eigen manier, in diversiteit Toch met elkaar Verandering organiseren Kruisverbanden maken Bedrijfsmatig Samen heel&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-4133" class="portfolio-entry col span_4  post-4133 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basisinkomen portfolio_tag-burgerdividend portfolio_tag-eigendomsprincipe portfolio_tag-gelijkheidsprincipe portfolio_tag-geoisme portfolio_tag-vrijheidsprincipe portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/geoisme-en-het-basisinkomen/" title="Geoïsme en het Basisinkomen" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/05/planet-earth-700x350.jpg" alt="Geoïsme en het Basisinkomen" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/geoisme-en-het-basisinkomen/" title="Geoïsme en het Basisinkomen" rel="bookmark">Geoïsme en het Basisinkomen</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Het burgerdividend De technologische vooruitgang zorgt ervoor dat steeds meer onaangenaam werk geautomatiseerd kan worden,&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-3072" class="portfolio-entry col span_4  post-3072 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/de-lange-mars/" title="De Lange Mars" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/04/delangemars-700x258.jpg" alt="De Lange Mars" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/de-lange-mars/" title="De Lange Mars" rel="bookmark">De Lange Mars</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Iedereen wordt uitgenodigd alle nieuwtjes op het gebied van het Basis Inkomen op Infopunt BI&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-2151" class="portfolio-entry col span_4  post-2151 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry">
+               <a href="http://basisinkomen.net/obi/portfolio/global-basic-income-foundation/" title="Global Basic Income Foundation" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/GBI-Logo3.gif" alt="Global Basic Income Foundation" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/global-basic-income-foundation/" title="Global Basic Income Foundation" rel="bookmark">Global Basic Income Foundation</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Een basisinkomen is een onvoorwaardelijk minimuminkomen voor iedereen en geeft alle mensen bestaanszekerheid. Het is&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-1873" class="portfolio-entry col span_4  post-1873 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basisinkomen portfolio_tag-brandstof portfolio_tag-economie portfolio_tag-verkiezingsprogramma portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/de-groenen/" title="De Groenen" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2014/06/degroenen.jpg" alt="De Groenen" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/de-groenen/" title="De Groenen" rel="bookmark">De Groenen</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Basisinkomen: Brandstof van de economie Het onvoorwaardelijk basisinkomen staat centraal in ons verkiezingsprogramma en onderscheidt ons&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+<div class="clr"></div>
+
+    <article id="#post-1802" class="portfolio-entry col span_4 clr-margin post-1802 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basisbehoefte portfolio_tag-basisinkomen portfolio_tag-vivant portfolio_tag-vrijheid-rechtvaardig-bestaanszekerheid">
+               <a href="http://basisinkomen.net/obi/portfolio/vivant/" title="Vivant" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2014/03/vivantlogo.png" alt="Vivant" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/vivant/" title="Vivant" rel="bookmark">Vivant</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Een basisinkomen voor iedereen! Vrijheid kan niet bestaan zonder twee dingen. Eerst en vooral heb&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-1799" class="portfolio-entry col span_4  post-1799 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basisinkomen portfolio_tag-experiment portfolio_tag-lab portfolio_tag-toeslagen-korgingen-inkomen portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/mies/" title="MIES" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/mies-400x350.png" alt="MIES" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/mies/" title="MIES" rel="bookmark">MIES</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Links en rechts zijn het er eigenlijk wel over eens dat de verzorgingsstaat dringend aan&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-1752" class="portfolio-entry col span_4  post-1752 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-belastingen portfolio_tag-duurzaam portfolio_tag-samenleving portfolio_tag-sociale-zekerheid portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/1752/" title="Perikles stichting" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/perikles_logo_blauw.png" alt="Perikles stichting" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/1752/" title="Perikles stichting" rel="bookmark">Perikles stichting</a></h2>
+            <div class="portfolio-entry-excerpt">
+                De Periklesstichting wil een sociale zekerheid neerzetten, waarbij de relatie met de samenleving hersteld wordt. Niet alleen uitkeringsgerechtigden dienen&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-3205" class="portfolio-entry col span_4  post-3205 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/stichting-evs-ecovrede/" title="Stichting EVS EcoVrede" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/04/Logo-EcoVrede-700x143.jpg" alt="Stichting EVS EcoVrede" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/stichting-evs-ecovrede/" title="Stichting EVS EcoVrede" rel="bookmark">Stichting EVS EcoVrede</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Stichting Ecologisch Vernieuwende Samenleving EVS – Arnhem e.o. is actief met nieuwe vormen van economie. Wij&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-1766" class="portfolio-entry col span_4  post-1766 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-debat portfolio_tag-denktank portfolio_tag-ecologie portfolio_tag-opinie portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/oikos/" title="Oikos" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/oikos.jpg" alt="Oikos" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/oikos/" title="Oikos" rel="bookmark">Oikos</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Oikos is een onafhankelijke denktank die werkt aan sociaal-ecologische verandering door het maatschappelijk debat te&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-1759" class="portfolio-entry col span_4  post-1759 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basisinkomen portfolio_tag-keuzevrijheid portfolio_tag-levensloop portfolio_tag-nederland portfolio_tag-nieuw portfolio_tag-samenleving portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/nieuw-nederland/" title="Nieuw Nederland" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/Nieuw-Nederland-Nu-700x204.jpg" alt="Nieuw Nederland" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/nieuw-nederland/" title="Nieuw Nederland" rel="bookmark">Nieuw Nederland</a></h2>
+            <div class="portfolio-entry-excerpt">
+                De gedachte dat de economie eenvoudiger moet worden neemt toe. Het basisinkomen biedt een gelijke&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+<div class="clr"></div>
+
+    <article id="#post-904" class="portfolio-entry col span_4 clr-margin post-904 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-partij portfolio_tag-politiek portfolio_tag-systeem portfolio_tag-van-binnen-uit-veranderen portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/de-samenleving/" title="De Samenleving" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/02/de-samenleving-e1422988547656.png" alt="De Samenleving" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/de-samenleving/" title="De Samenleving" rel="bookmark">De Samenleving</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Het belangrijkste doel van De Samenleving is om het politieke systeem van binnen uit te&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-802" class="portfolio-entry col span_4  post-802 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basisinkomen portfolio_tag-menswaardig portfolio_tag-volkspartij portfolio_tag-zelfontplooing portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/de-ware-volkspartij/" title="De Ware Volkspartij" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2014/03/warevolkspartij.gif" alt="De Ware Volkspartij" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/de-ware-volkspartij/" title="De Ware Volkspartij" rel="bookmark">De Ware Volkspartij</a></h2>
+            <div class="portfolio-entry-excerpt">
+                WVP/warevolkspartij.nl een partij die het basisinkomen actief steunt/promoot. Algemeen basisinkomen voor iedereen In het huidige&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-740" class="portfolio-entry col span_4  post-740 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-belgie portfolio_tag-denktank portfolio_tag-maakbare-maatschappij portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/mama-maakbare-maatschappij-een-filosofische-partijdenktank/" title="MAMA &#8211; Maakbare Maatschappij &#8211; een filosofische partij/denktank" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/01/mamapartij-banner-nieuw-2-700x276.jpg" alt="MAMA &#8211; Maakbare Maatschappij &#8211; een filosofische partij/denktank" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/mama-maakbare-maatschappij-een-filosofische-partijdenktank/" title="MAMA &#8211; Maakbare Maatschappij &#8211; een filosofische partij/denktank" rel="bookmark">MAMA &#8211; Maakbare Maatschappij &#8211; een filosofische partij/denktank</a></h2>
+            <div class="portfolio-entry-excerpt">
+                MAMA wil zoeken naar een nieuw evenwicht en de herverdeling van werk door middel van&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-1740" class="portfolio-entry col span_4  post-1740 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-economie portfolio_tag-geldsysteem portfolio_tag-inplementatie portfolio_tag-pilots portfolio_tag-samenleving portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/stichting-ecovrede/" title="Stichting EcoVrede" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/ecovrede.jpg" alt="Stichting EcoVrede" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/stichting-ecovrede/" title="Stichting EcoVrede" rel="bookmark">Stichting EcoVrede</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Samenleving Basisinkomen en Lokaal Geld. Stichting EcoVrede is een groot voorstander van de invoering van&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-1750" class="portfolio-entry col span_4  post-1750 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basisinkomen portfolio_tag-belastingsysteem portfolio_tag-bonus portfolio_tag-heffing-toegevoegde-waarde portfolio_tag-loonheffing portfolio_tag-ruilen portfolio_tag-uitkering portfolio_tag-verzekering portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/prohef/" title="Prohef" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/logo-prohef.jpg" alt="Prohef" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/prohef/" title="Prohef" rel="bookmark">Prohef</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Stichting Prohef wil deze absurditeit in ons stelsel opheffen. Loonheffingen werken als ‘accijns op arbeid’en&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-1737" class="portfolio-entry col span_4  post-1737 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-besluitvorming portfolio_tag-financiering portfolio_tag-maatschappij portfolio_tag-village-trade-center portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/het-veerhuis/" title="Het Veerhuis" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/veerhuis.jpg" alt="Het Veerhuis" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/het-veerhuis/" title="Het Veerhuis" rel="bookmark">Het Veerhuis</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Het Veerhuis en het basisinkomen.  Het Veerhuis heeft veel met het basisinkomen. Pieter Kooistra, bedenker&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+<div class="clr"></div>
+
+    <article id="#post-1763" class="portfolio-entry col span_4 clr-margin post-1763 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-armoede portfolio_tag-dialoog portfolio_tag-geld portfolio_tag-pppp portfolio_tag-problematiek portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/now-initiatief/" title="NOW initiatief" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/now.png" alt="NOW initiatief" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/now-initiatief/" title="NOW initiatief" rel="bookmark">NOW initiatief</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Aan de hand van de vier pijlers People, Planet, Profit en Pneuma en de daaronder&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-1746" class="portfolio-entry col span_4  post-1746 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/dynamisch-nederland/" title="Dynamisch Nederland" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/logo-dynamisch-nederland1.jpg" alt="Dynamisch Nederland" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/dynamisch-nederland/" title="Dynamisch Nederland" rel="bookmark">Dynamisch Nederland</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Dynamisch Nederland staat voor samenwerking. Samenwerking vanuit eigenheid. De mensen van het kernteam zijn overtuigd&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-516" class="portfolio-entry col span_4  post-516 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-beleid portfolio_tag-npi portfolio_tag-synergie portfolio_tag-vereenvoudiging portfolio_tag-voortouw portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/netwerk-politieke-innovatie-npi/" title="Netwerk Politieke Innovatie &#8211; NPI" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2014/11/netwerk-PI.jpg" alt="Netwerk Politieke Innovatie &#8211; NPI" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/netwerk-politieke-innovatie-npi/" title="Netwerk Politieke Innovatie &#8211; NPI" rel="bookmark">Netwerk Politieke Innovatie &#8211; NPI</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Het NPI daagt politici uit om het voortouw te hernemen in het ontwikkelen van de&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-226" class="portfolio-entry col span_4  post-226 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basic portfolio_tag-basicincome portfolio_tag-bien portfolio_tag-europe portfolio_tag-income portfolio_tag-world portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/basic-income-earth-network/" title="Basic Income Earth Network" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2014/06/bienlogo-700x350.png" alt="Basic Income Earth Network" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/basic-income-earth-network/" title="Basic Income Earth Network" rel="bookmark">Basic Income Earth Network</a></h2>
+            <div class="portfolio-entry-excerpt">
+                De Basic Income Earth Network (BIEN) werd opgericht in 1986 als het  Basic Income European Network.  en&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-224" class="portfolio-entry col span_4  post-224 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/unconditional-basic-income-europe/" title="Unconditional Basic Income Europe" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2014/06/01_ubie_on_white_left_arranged-213.jpg" alt="Unconditional Basic Income Europe" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/unconditional-basic-income-europe/" title="Unconditional Basic Income Europe" rel="bookmark">Unconditional Basic Income Europe</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Onvoorwaardelijk (Unconditional) Basisinkomen Europa (UBIE) is een netwerk van organisaties en individuen van verschillende culturen, talen,&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+
+
+    <article id="#post-219" class="portfolio-entry col span_4  post-219 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-belgisch portfolio_tag-netwerk portfolio_tag-pluralistisch portfolio_tag-promotie portfolio_tag-vlaams portfolio_tag-waals">
+               <a href="http://basisinkomen.net/obi/portfolio/belgisch-netwerk-basisinkomen/" title="Belgisch Netwerk Basisinkomen" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2014/06/basisinkomen.be_.gif" alt="Belgisch Netwerk Basisinkomen" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/belgisch-netwerk-basisinkomen/" title="Belgisch Netwerk Basisinkomen" rel="bookmark">Belgisch Netwerk Basisinkomen</a></h2>
+            <div class="portfolio-entry-excerpt">
+                Het Belgisch Netwerk voor het Basisinkomen is een neutraal en pluralistisch platform ter ondersteuning van&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+<div class="clr"></div>
+
+    <article id="#post-200" class="portfolio-entry col span_4 clr-margin post-200 portfolio type-portfolio status-publish format-standard has-post-thumbnail hentry portfolio_tag-basisinkomen portfolio_tag-bien portfolio_tag-cn portfolio_tag-fnv portfolio_tag-ppr portfolio_tag-vbi portfolio_tag-vereniging portfolio_category-organisaties">
+               <a href="http://basisinkomen.net/obi/portfolio/vereniging-basisinkomen/" title="Vereniging Basisinkomen" rel="bookmark" class="portfolio-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2014/06/Logo2-vbi-blauw-400-300.png" alt="Vereniging Basisinkomen" class="portfolio-entry-img" />
+        </a>
+                <div class="portfolio-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/portfolio/vereniging-basisinkomen/" title="Vereniging Basisinkomen" rel="bookmark">Vereniging Basisinkomen</a></h2>
+            <div class="portfolio-entry-excerpt">
+                De Vereniging Basisinkomen is in Nederland opgericht in 1991 maar al veel eerder werd er&hellip;            </div><!-- .portfolio-entry-excerpt -->
+        </div><!-- .portfolio-entry-description -->
+    </article><!-- /portfolio-entry -->
+
+				</div><!-- /row -->         
+			</div><!-- /home-portfolio -->      	
+					<div id="home-jetpack-testimonial">       
+									<h2 class="heading">
+						<span>Experimenten en Crowdfunding</span>
+					</h2>
+				          
+				<div class="row clr">       
+					
+
+    <article id="#post-3413" class="jetpack-testimonial-entry col span_6 clr-margin post-3413 jetpack-testimonial type-jetpack-testimonial status-publish has-post-thumbnail hentry">
+               <a href="http://basisinkomen.net/obi/testimonial/fietstocht-ubi-basisinkomen/" title="Fietstocht Ubi-basisinkomen" rel="bookmark" class="jetpack-testimonial-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/04/fietstocht-ubi-basisinkomen-666x350.png" alt="Fietstocht Ubi-basisinkomen" class="portfolio-entry-img" />
+        </a>
+                <div class=jetpack-testimonial-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/testimonial/fietstocht-ubi-basisinkomen/" title="Fietstocht Ubi-basisinkomen" rel="bookmark">Fietstocht Ubi-basisinkomen</a></h2>
+            <div class="jetpack-testimonial-entry-excerpt">
+                Sinds juli 2014 maakt Roderik korte video's over het Universeel Basis Inkomen. Op eigen kracht&hellip;            </div><!-- .jetpack-testimonial-entry-excerpt -->
+        </div><!-- .jetpack-testimonial-entry-description -->
+    </article><!-- /jetpack-testimonial-entry -->
+
+
+
+    <article id="#post-2982" class="jetpack-testimonial-entry col span_6  post-2982 jetpack-testimonial type-jetpack-testimonial status-publish has-post-thumbnail hentry">
+               <a href="http://basisinkomen.net/obi/testimonial/ons-basisinkomen-wageningen/" title="Ons Basisinkomen Wageningen" rel="bookmark" class="jetpack-testimonial-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/04/basisinkomen-wageningen-666x350.png" alt="Ons Basisinkomen Wageningen" class="portfolio-entry-img" />
+        </a>
+                <div class=jetpack-testimonial-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/testimonial/ons-basisinkomen-wageningen/" title="Ons Basisinkomen Wageningen" rel="bookmark">Ons Basisinkomen Wageningen</a></h2>
+            <div class="jetpack-testimonial-entry-excerpt">
+                Samen het eerste basisinkomen van Nederland realiseren. Ecodorp Wageningen gaat experimenteren met een onvoorwaardelijk basisinkomen&hellip;            </div><!-- .jetpack-testimonial-entry-excerpt -->
+        </div><!-- .jetpack-testimonial-entry-description -->
+    </article><!-- /jetpack-testimonial-entry -->
+
+
+
+    <article id="#post-2964" class="jetpack-testimonial-entry col span_6  post-2964 jetpack-testimonial type-jetpack-testimonial status-publish has-post-thumbnail hentry">
+               <a href="http://basisinkomen.net/obi/testimonial/ons-basisinkomen-groningen/" title="Ons Basisinkomen Groningen" rel="bookmark" class="jetpack-testimonial-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/04/ons-basisinkomen-groningen.jpg" alt="Ons Basisinkomen Groningen" class="portfolio-entry-img" />
+        </a>
+                <div class=jetpack-testimonial-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/testimonial/ons-basisinkomen-groningen/" title="Ons Basisinkomen Groningen" rel="bookmark">Ons Basisinkomen Groningen</a></h2>
+            <div class="jetpack-testimonial-entry-excerpt">
+                Een basisinkomen? Dat regelen we zelf! We wachten niet op de politiek; we gaan zelf&hellip;            </div><!-- .jetpack-testimonial-entry-excerpt -->
+        </div><!-- .jetpack-testimonial-entry-description -->
+    </article><!-- /jetpack-testimonial-entry -->
+
+
+
+    <article id="#post-2989" class="jetpack-testimonial-entry col span_6  post-2989 jetpack-testimonial type-jetpack-testimonial status-publish has-post-thumbnail hentry">
+               <a href="http://basisinkomen.net/obi/testimonial/sjir-zijn-basisinkomen/" title="Sjir zijn (basis)inkomen" rel="bookmark" class="jetpack-testimonial-entry-img-link">
+            <img src="http://basisinkomen.net/obi/wp-content/uploads/2015/04/sjir-480x350.jpg" alt="Sjir zijn (basis)inkomen" class="portfolio-entry-img" />
+        </a>
+                <div class=jetpack-testimonial-entry-description">
+            <h2><a href="http://basisinkomen.net/obi/testimonial/sjir-zijn-basisinkomen/" title="Sjir zijn (basis)inkomen" rel="bookmark">Sjir zijn (basis)inkomen</a></h2>
+            <div class="jetpack-testimonial-entry-excerpt">
+                Maakt u met mij een basisinkomen mogelijk? Ik heb het afgelopen jaar ontzettend veel bereikt&hellip;            </div><!-- .jetpack-testimonial-entry-excerpt -->
+        </div><!-- .jetpack-testimonial-entry-description -->
+    </article><!-- /jetpack-testimonial-entry -->
+
+				</div><!-- /row -->         
+			</div><!-- /home-jetpack-testimonial -->      	
+					<div id="home-blog" class="row clr">       
+									<h2 class="heading">
+						<span>Begeleidend Nieuws</span>
+					</h2>
+				       
+				<div class="row clr">    
+					           
+					<div class="home-blog-entry span_6 col clr-margin post-7393 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-transitie tag-basisinkomen tag-belasting tag-betalen tag-financiering">
+													<a href="http://basisinkomen.net/obi/hoe-kan-een-basisinkomen-gefinancierd-worden/" title="Hoe kan een basisinkomen gefinancierd worden?" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/09/linconditionnel-numero1-une-520x350.jpg" alt="Hoe kan een basisinkomen gefinancierd worden?" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/hoe-kan-een-basisinkomen-gefinancierd-worden/" title="Hoe kan een basisinkomen gefinancierd worden?">Hoe kan een basisinkomen gefinancierd worden?</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Het is geen gemakkelijke opgave om zoveel mogelijk financieringsbronnen voor een basisinkomen&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-7252 post type-post status-publish format-standard has-post-thumbnail hentry category-politiek">
+													<a href="http://basisinkomen.net/obi/verenigd-links-is-voor-het-basisinkomen/" title="Verenigd Links is voor het basisinkomen" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/09/verenigdlinks-700x350.jpg" alt="Verenigd Links is voor het basisinkomen" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/verenigd-links-is-voor-het-basisinkomen/" title="Verenigd Links is voor het basisinkomen">Verenigd Links is voor het basisinkomen</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Steeds meer mensen in Nederland krijgen in de gaten dat een onvoorwaardelijk&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-6809 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-transitie tag-basisinkomen tag-genoeg tag-inkomensongelijkheid tag-minimum tag-obi tag-parade-van-pen tag-vangnet tag-vermogenden tag-voorwaardig">
+													<a href="http://basisinkomen.net/obi/basisinkomen-een-sociaal-vangnet-voor-het-leven/" title="Basisinkomen? Een sociaal vangnet voor het leven!" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/09/Fish-safety-net-700x350.png" alt="Basisinkomen? Een sociaal vangnet voor het leven!" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/basisinkomen-een-sociaal-vangnet-voor-het-leven/" title="Basisinkomen? Een sociaal vangnet voor het leven!">Basisinkomen? Een sociaal vangnet voor het leven!</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Onvoorwaardelijk Basisinkomen; Een sociaal vangnet voor het leven! Dit is het motto&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-5917 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-geschiedens">
+													<a href="http://basisinkomen.net/obi/hoe-het-basisinkomen-de-wereld-verovert-vanuit-nederland/" title="Hoe het basisinkomen de wereld verovert vanuit Nederland" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/08/obi-in-nederlandse-gemeenten-juli2015-627x350.jpg" alt="Hoe het basisinkomen de wereld verovert vanuit Nederland" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/hoe-het-basisinkomen-de-wereld-verovert-vanuit-nederland/" title="Hoe het basisinkomen de wereld verovert vanuit Nederland">Hoe het basisinkomen de wereld verovert vanuit Nederland</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Twee jaar geleden had bijna niemand ervan gehoord. Maar inmiddels zijn er&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					<div class="clr"></div>           
+					<div class="home-blog-entry span_6 col clr-margin post-5627 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-transitie">
+													<a href="http://basisinkomen.net/obi/nieuw-platform-voor-basisinkomen-van-start/" title="Nieuw platform voor basisinkomen van start" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/07/convenant_getekend-700x350.jpg" alt="Nieuw platform voor basisinkomen van start" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/nieuw-platform-voor-basisinkomen-van-start/" title="Nieuw platform voor basisinkomen van start">Nieuw platform voor basisinkomen van start</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Diverse organisaties uit het Nederlandstalig Netwerk Basisinkomen hebben de koppen bij elkaar gestoken&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-5304 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-transitie tag-basisinkomen tag-hoog-genoeg">
+													<a href="http://basisinkomen.net/obi/hoe-hoog-is-dat-onvoorwaardelijk-basisinkomen-nou-eigenlijk/" title="Hoe hoog is dat Onvoorwaardelijk Basisinkomen nou eigenlijk?" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/07/hooggenoeg200.png" alt="Hoe hoog is dat Onvoorwaardelijk Basisinkomen nou eigenlijk?" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/hoe-hoog-is-dat-onvoorwaardelijk-basisinkomen-nou-eigenlijk/" title="Hoe hoog is dat Onvoorwaardelijk Basisinkomen nou eigenlijk?">Hoe hoog is dat Onvoorwaardelijk Basisinkomen nou eigenlijk?</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Er gaan veel cijfers rond over de hoogte van het basisinkomen. Hoe hoog&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-4832 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-transitie tag-complementaire-munt tag-lets tag-lokale-munt tag-wir">
+													<a href="http://basisinkomen.net/obi/10-argumenten-voor-een-onvoorwaardelijke-basisinkomen-in-een-lokale-complementaire-munt/" title="10 argumenten voor een onvoorwaardelijk basisinkomen in een lokale complementaire munt." class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/06/igor-byttebier-intro-complementaire-munten-7-728-700x350.jpg" alt="10 argumenten voor een onvoorwaardelijk basisinkomen in een lokale complementaire munt." class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/10-argumenten-voor-een-onvoorwaardelijke-basisinkomen-in-een-lokale-complementaire-munt/" title="10 argumenten voor een onvoorwaardelijk basisinkomen in een lokale complementaire munt.">10 argumenten voor een onvoorwaardelijk basisinkomen in een lokale complementaire munt.</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Lokale complementaire munten worden opgezet in samenwerking met gemeentes, burger-consumenten en burger-ondernemers.&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-4687 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen">
+													<a href="http://basisinkomen.net/obi/g1000-groningen-gaat-voor-basisinkomen/" title="G1000 Groningen gaat voor Basisinkomen" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/06/g1000g-700x350.jpg" alt="G1000 Groningen gaat voor Basisinkomen" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/g1000-groningen-gaat-voor-basisinkomen/" title="G1000 Groningen gaat voor Basisinkomen">G1000 Groningen gaat voor Basisinkomen</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Het is gelukt! De eerste G1000 in Groningen! Op zaterdag 6 juni kwamen&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					<div class="clr"></div>           
+					<div class="home-blog-entry span_6 col clr-margin post-4327 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen tag-basisinkomen tag-bregman tag-canoy tag-gratis-geld tag-standing tag-tegenlicht tag-vpro">
+													<a href="http://basisinkomen.net/obi/overzicht-publicaties-vpro-tegenlicht-over-basisinkomen/" title="Overzicht publicaties VPRO / tegenlicht over Basisinkomen" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/05/gratisgeld.jpg" alt="Overzicht publicaties VPRO / tegenlicht over Basisinkomen" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/overzicht-publicaties-vpro-tegenlicht-over-basisinkomen/" title="Overzicht publicaties VPRO / tegenlicht over Basisinkomen">Overzicht publicaties VPRO / tegenlicht over Basisinkomen</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Is onvoorwaardelijk basisinkomen een utopie of een haalbare optie. Alles wat VPRO&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-4297 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen tag-basisinkomen tag-crowdfunding tag-experiment tag-jaarinkomen tag-obi">
+													<a href="http://basisinkomen.net/obi/eerste-12000-bereikt-voor-crowdfunded-jaarinkomen/" title="Eerste 12000 bereikt voor crowdfunded jaarinkomen" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/05/ons12000-700x200.jpg" alt="Eerste 12000 bereikt voor crowdfunded jaarinkomen" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/eerste-12000-bereikt-voor-crowdfunded-jaarinkomen/" title="Eerste 12000 bereikt voor crowdfunded jaarinkomen">Eerste 12000 bereikt voor crowdfunded jaarinkomen</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Bij de initiatieven die lopen voor het crowdfunden van een inkomen om&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-4103 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-transitie tag-aanvaarden tag-basisinkomen tag-consolideren tag-frustratie tag-kubler-ross tag-onderhandelen tag-ontkenning tag-rouwen tag-stress tag-toepassen tag-transitie tag-verandering tag-woede">
+													<a href="http://basisinkomen.net/obi/van-rouwproces-tot-basisinkomen/" title="Van rouwproces tot Basisinkomen" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/05/competentiecurve-700x350.jpg" alt="Van rouwproces tot Basisinkomen" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/van-rouwproces-tot-basisinkomen/" title="Van rouwproces tot Basisinkomen">Van rouwproces tot Basisinkomen</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Omgaan met veranderingen is niet eenvoudig. Het kost tijd en energie voor een&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-3907 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-transitie tag-basisinkomen tag-bijstand tag-experimenten tag-meetups tag-tegenlicht">
+													<a href="http://basisinkomen.net/obi/basisinkomen-is-een-bottom-up-proces/" title="Basisinkomen is een bottom-up proces" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/05/tegelicht.jpg" alt="Basisinkomen is een bottom-up proces" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/basisinkomen-is-een-bottom-up-proces/" title="Basisinkomen is een bottom-up proces">Basisinkomen is een bottom-up proces</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Groningen, Leeuwarden, Tilburg, Nijmegen. Overal in het land starten burgers, verenigingen en&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					<div class="clr"></div>           
+					<div class="home-blog-entry span_6 col clr-margin post-3809 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen tag-basisinkomen tag-beoordeling tag-criteria tag-logo tag-onvoorwaardelijk tag-voorwaarden">
+													<a href="http://basisinkomen.net/obi/de-4-criteria-voor-een-onvoorwaardelijk-basisinkomen/" title="De 4 criteria voor een onvoorwaardelijk basisinkomen" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/05/4kriteria-obi-vierkant-450x350.jpg" alt="De 4 criteria voor een onvoorwaardelijk basisinkomen" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/de-4-criteria-voor-een-onvoorwaardelijk-basisinkomen/" title="De 4 criteria voor een onvoorwaardelijk basisinkomen">De 4 criteria voor een onvoorwaardelijk basisinkomen</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Het Duitse netwerk Grundeinkommen heeft de 4 kriteria waar een onvoorwaardelijk basisinkomen&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-3746 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen tag-basisinkomen tag-facebook tag-media tag-social tag-social-media tag-twitter">
+													<a href="http://basisinkomen.net/obi/sociale-media-over-basisinkomen/" title="Sociale Media over basisinkomen" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/05/Social-Media-700x350.jpg" alt="Sociale Media over basisinkomen" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/sociale-media-over-basisinkomen/" title="Sociale Media over basisinkomen">Sociale Media over basisinkomen</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Hier een overzicht sociale media en websites over basisinkomen -inclusief lokale groepen:						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-2959 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-politiek tag-burgerinitiatief tag-citizens-initiative tag-ebi tag-eci tag-eu tag-timmermans">
+													<a href="http://basisinkomen.net/obi/open-brief-frans-timmermans-van-21-europese-burgerinitiatieven-savetheeci/" title="Open brief Frans Timmermans van 21 Europese Burgerinitiatieven #savetheECI" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/04/timmermansbrief-700x350.jpg" alt="Open brief Frans Timmermans van 21 Europese Burgerinitiatieven #savetheECI" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/open-brief-frans-timmermans-van-21-europese-burgerinitiatieven-savetheeci/" title="Open brief Frans Timmermans van 21 Europese Burgerinitiatieven #savetheECI">Open brief Frans Timmermans van 21 Europese Burgerinitiatieven #savetheECI</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Op 13 April 2015 is ter gelegenheid van de Dag van het Europees Burgerinitiatief&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					           
+					<div class="home-blog-entry span_6 col  post-2480 post type-post status-publish format-standard has-post-thumbnail hentry category-diversen category-politiek tag-basisinkomen tag-onvoorwaardelijk tag-slavenarbeid tag-vrijheid">
+													<a href="http://basisinkomen.net/obi/voorstanders-basisinkomen-halen-bakzeil-slavenarbeid-maakt-gelukkig/" title="Voorstanders #basisinkomen halen bakzeil; slavenarbeid maakt gelukkig!" class="home-blog-entry-img-link">
+								<img src="http://basisinkomen.net/obi/wp-content/uploads/2015/04/29fema.600.jpg" alt="Voorstanders #basisinkomen halen bakzeil; slavenarbeid maakt gelukkig!" class="blog-entry-img" />
+							</a>
+												<h2><a href="http://basisinkomen.net/obi/voorstanders-basisinkomen-halen-bakzeil-slavenarbeid-maakt-gelukkig/" title="Voorstanders #basisinkomen halen bakzeil; slavenarbeid maakt gelukkig!">Voorstanders #basisinkomen halen bakzeil; slavenarbeid maakt gelukkig!</a></h2>
+						<div class="home-blog-entry-excerpt">
+							Na uitgebreid non-onderzoek door de autoriteiten blijkt dat de ontvangers van een onvoorwaardelijk&hellip;						</div><!-- /home-blog-entry-excerpt -->
+					</div><!-- /home-blog-entry -->
+					<div class="clr"></div>				 </div><!-- /row -->         
+			</div><!-- /home-blog -->      	
+		
+</div><!-- /home-wrap -->  
+ 
+
+
+    </div><!-- /main-content -->     
+                
+            <footer id="footer" class="site-footer">
+            
+                <div id="footer-widgets" class="row clr">
+                
+                    <div class="footer-box span_6 col clr-margin">
+                        <div class="footer-widget widget_image clr"><div class="jetpack-image-container"><a href="http://ubie.org"><img src="http://basisinkomen.net/obi/wp-content/uploads/2015/03/NL-02_ubie_on_black_centered-w240-BENL.png" class="alignnone" width="240" height="336" /></a></div>
+</div><div class="footer-widget widget_text clr">			<div class="textwidget"><iframe width="233" height="131" src="https://www.youtube.com/embed/pkNLui2HP5U?rel=0" frameborder="0" allowfullscreen></iframe></div>
+		</div><style scoped type="text/css">.utcw-7m17qp9 {word-wrap:break-word;text-transform:lowercase;text-align:center}.utcw-7m17qp9 span,.utcw-7m17qp9 a{border-width:0px}.utcw-7m17qp9 span:hover,.utcw-7m17qp9 a:hover{border-width:0px}</style><div class="footer-widget widget_utcw clr"><h6 class="widget-title">Trefwoorden</h6><div class="utcw-7m17qp9"><a class="tag-link-483 utcw-tag utcw-tag-lets" href="http://basisinkomen.net/obi/tag/lets/" style="font-size:10px;color:#422cc1" title="1 topic">lets</a> <a class="tag-link-197 utcw-tag utcw-tag-uvrm" href="http://basisinkomen.net/obi/tag/uvrm/" style="font-size:10px;color:#ce1126" title="1 topic">uvrm</a> <a class="tag-link-499 utcw-tag utcw-tag-politiek" href="http://basisinkomen.net/obi/tag/politiek/" style="font-size:11.818181818182px;color:#4e6ac6" title="3 topics">Politiek</a> <a class="tag-link-112 utcw-tag utcw-tag-ubie" href="http://basisinkomen.net/obi/tag/ubie/" style="font-size:10.909090909091px;color:#051755" title="2 topics">ubie</a> <a class="tag-link-501 utcw-tag utcw-tag-basisinkomen" href="http://basisinkomen.net/obi/tag/basisinkomen/" style="font-size:30px;color:#3d27b7" title="23 topics">basisinkomen</a> <a class="tag-link-406 utcw-tag utcw-tag-tegenlicht" href="http://basisinkomen.net/obi/tag/tegenlicht/" style="font-size:10.909090909091px;color:#6969d1" title="2 topics">tegenlicht</a> <a class="tag-link-170 utcw-tag utcw-tag-suffertje" href="http://basisinkomen.net/obi/tag/suffertje/" style="font-size:10px;color:#4a2b51" title="1 topic">suffertje</a> <a class="tag-link-329 utcw-tag utcw-tag-ecb" href="http://basisinkomen.net/obi/tag/ecb/" style="font-size:10px;color:#5d5331" title="1 topic">ecb</a> <a class="tag-link-60 utcw-tag utcw-tag-internationaal" href="http://basisinkomen.net/obi/tag/internationaal/" style="font-size:10.909090909091px;color:#fcabea" title="2 topics">internationaal</a> <a class="tag-link-320 utcw-tag utcw-tag-eci" href="http://basisinkomen.net/obi/tag/eci/" style="font-size:10.909090909091px;color:#9cccd9" title="2 topics">eci</a> <a class="tag-link-169 utcw-tag utcw-tag-krant" href="http://basisinkomen.net/obi/tag/krant/" style="font-size:10px;color:#d90e05" title="1 topic">krant</a> <a class="tag-link-484 utcw-tag utcw-tag-wir" href="http://basisinkomen.net/obi/tag/wir/" style="font-size:10px;color:#9adc16" title="1 topic">wir</a> <a class="tag-link-301 utcw-tag utcw-tag-participatie" href="http://basisinkomen.net/obi/tag/participatie/" style="font-size:10px;color:#c02b80" title="1 topic">participatie</a> <a class="tag-link-61 utcw-tag utcw-tag-sociale-inclusie" href="http://basisinkomen.net/obi/tag/sociale-inclusie/" style="font-size:10.909090909091px;color:#873098" title="2 topics">sociale inclusie</a> <a class="tag-link-127 utcw-tag utcw-tag-rechts" href="http://basisinkomen.net/obi/tag/rechts/" style="font-size:10px;color:#dc6dbf" title="1 topic">rechts</a> <a class="tag-link-123 utcw-tag utcw-tag-onvoorwaardelijk" href="http://basisinkomen.net/obi/tag/onvoorwaardelijk/" style="font-size:11.818181818182px;color:#94d628" title="3 topics">onvoorwaardelijk</a> <a class="tag-link-356 utcw-tag utcw-tag-burgerinitiatief" href="http://basisinkomen.net/obi/tag/burgerinitiatief/" style="font-size:10px;color:#652054" title="1 topic">Burgerinitiatief</a> <a class="tag-link-44 utcw-tag utcw-tag-crash" href="http://basisinkomen.net/obi/tag/crash/" style="font-size:10px;color:#b67da7" title="1 topic">crash</a> <a class="tag-link-529 utcw-tag utcw-tag-inkomensongelijkheid" href="http://basisinkomen.net/obi/tag/inkomensongelijkheid/" style="font-size:10px;color:#e87953" title="1 topic">inkomensongelijkheid</a> <a class="tag-link-63 utcw-tag utcw-tag-sociale-samenhang" href="http://basisinkomen.net/obi/tag/sociale-samenhang/" style="font-size:10.909090909091px;color:#d2151f" title="2 topics">sociale samenhang</a> <a class="tag-link-204 utcw-tag utcw-tag-dwangarbied" href="http://basisinkomen.net/obi/tag/dwangarbied/" style="font-size:10px;color:#abee2e" title="1 topic">dwangarbied</a> <a class="tag-link-408 utcw-tag utcw-tag-experimenten" href="http://basisinkomen.net/obi/tag/experimenten/" style="font-size:10px;color:#b1890a" title="1 topic">experimenten</a> <a class="tag-link-430 utcw-tag utcw-tag-toepassen" href="http://basisinkomen.net/obi/tag/toepassen/" style="font-size:10px;color:#c74935" title="1 topic">toepassen</a> <a class="tag-link-196 utcw-tag utcw-tag-esh" href="http://basisinkomen.net/obi/tag/esh/" style="font-size:10px;color:#48d065" title="1 topic">esh</a> <a class="tag-link-443 utcw-tag utcw-tag-bregman" href="http://basisinkomen.net/obi/tag/bregman/" style="font-size:10px;color:#e0add2" title="1 topic">bregman</a> <a class="tag-link-135 utcw-tag utcw-tag-wederkerigheid" href="http://basisinkomen.net/obi/tag/wederkerigheid/" style="font-size:10px;color:#9f41a8" title="1 topic">wederkerigheid</a> <a class="tag-link-179 utcw-tag utcw-tag-transitie" href="http://basisinkomen.net/obi/tag/transitie/" style="font-size:10.909090909091px;color:#c8a6c8" title="2 topics">transitie</a> <a class="tag-link-528 utcw-tag utcw-tag-genoeg" href="http://basisinkomen.net/obi/tag/genoeg/" style="font-size:10px;color:#1c5d45" title="1 topic">genoeg</a> <a class="tag-link-134 utcw-tag utcw-tag-ledigheid" href="http://basisinkomen.net/obi/tag/ledigheid/" style="font-size:10px;color:#c345be" title="1 topic">ledigheid</a> <a class="tag-link-503 utcw-tag utcw-tag-debat" href="http://basisinkomen.net/obi/tag/debat/" style="font-size:10.909090909091px;color:#1617d3" title="2 topics">debat</a> <a class="tag-link-14 utcw-tag utcw-tag-europa" href="http://basisinkomen.net/obi/tag/europa/" style="font-size:13.636363636364px;color:#36c3c2" title="5 topics">europa</a> <a class="tag-link-111 utcw-tag utcw-tag-ubi" href="http://basisinkomen.net/obi/tag/ubi/" style="font-size:10.909090909091px;color:#64744b" title="2 topics">ubi</a> <a class="tag-link-357 utcw-tag utcw-tag-citizens-initiative" href="http://basisinkomen.net/obi/tag/citizens-initiative/" style="font-size:10px;color:#6e3b94" title="1 topic">citizens initiative</a> <a class="tag-link-447 utcw-tag utcw-tag-social-media" href="http://basisinkomen.net/obi/tag/social-media/" style="font-size:10px;color:#a48365" title="1 topic">social media</a> <a class="tag-link-91 utcw-tag utcw-tag-doelmatigheid" href="http://basisinkomen.net/obi/tag/doelmatigheid/" style="font-size:10px;color:#096312" title="1 topic">doelmatigheid</a> <a class="tag-link-507 utcw-tag utcw-tag-bijstand" href="http://basisinkomen.net/obi/tag/bijstand/" style="font-size:10.909090909091px;color:#dc0353" title="2 topics">bijstand</a> <a class="tag-link-321 utcw-tag utcw-tag-grassroots" href="http://basisinkomen.net/obi/tag/grassroots/" style="font-size:10px;color:#84cbf9" title="1 topic">grassroots</a> <a class="tag-link-90 utcw-tag utcw-tag-verandering" href="http://basisinkomen.net/obi/tag/verandering/" style="font-size:10.909090909091px;color:#4de756" title="2 topics">verandering</a> <a class="tag-link-422 utcw-tag utcw-tag-rouwen" href="http://basisinkomen.net/obi/tag/rouwen/" style="font-size:10px;color:#92aa9b" title="1 topic">rouwen</a> <a class="tag-link-115 utcw-tag utcw-tag-theorie" href="http://basisinkomen.net/obi/tag/theorie/" style="font-size:10px;color:#51c1b3" title="1 topic">theorie</a> <a class="tag-link-205 utcw-tag utcw-tag-verbod" href="http://basisinkomen.net/obi/tag/verbod/" style="font-size:10px;color:#24f776" title="1 topic">verbod</a> <a class="tag-link-330 utcw-tag utcw-tag-gratis-geld" href="http://basisinkomen.net/obi/tag/gratis-geld/" style="font-size:10.909090909091px;color:#e65bea" title="2 topics">gratis geld</a> <a class="tag-link-110 utcw-tag utcw-tag-obi" href="http://basisinkomen.net/obi/tag/obi/" style="font-size:11.818181818182px;color:#31c925" title="3 topics">obi</a> <a class="tag-link-99 utcw-tag utcw-tag-activisten" href="http://basisinkomen.net/obi/tag/activisten/" style="font-size:10px;color:#c66da9" title="1 topic">activisten</a> <a class="tag-link-189 utcw-tag utcw-tag-lieferinge" href="http://basisinkomen.net/obi/tag/lieferinge/" style="font-size:10px;color:#2b770c" title="1 topic">lieferinge</a></div></div><div class="footer-widget widget_facebook_likebox clr">		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/basisinkomen.net" data-height="130" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/basisinkomen.net"><a href="https://www.facebook.com/basisinkomen.net"></a></blockquote></div>
+		</div>
+		<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/nl_NL/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+		</div>                    </div><!-- .footer-box -->
+                    
+                    <div class="footer-box span_6 col">
+                        <div class="footer-widget widget_text clr">			<div class="textwidget"><script type="text/javascript" src="http://widgets.paper.li/javascripts/sr.subscribe.min.js"></script>
+<script type="text/javascript">
+paperli.subscribe.show({
+id: '2aac6bfc-dc96-42de-801d-67dec227adf7',
+domain: 'paper.basicincome-europe.org',
+width: '100%',
+locale: {"title":"The Daily Basic Income Paper","email.placeholder":"je emailadres","subscribe":"Abonneer Nu!"},
+style: '.subscribe-widget{background-color:#e5e5e5;}h2{color:#000;}.btn-info{background-color:#01187e;border-color:#01187e;color:#fff;}'
+});
+</script></div>
+		</div><div class="footer-widget widget_nav_menu clr"><h6 class="widget-title">Basisinkomen Websites</h6><div class="menu-links-container"><ul id="menu-links" class="menu"><li id="menu-item-483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-483"><a target="_blank" href="http://basisinkomen.nu">Basisinkomen wiewathoe</a></li>
+<li id="menu-item-303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-303"><a target="_blank" href="http://basisinkomen.net">Nederlandstalig Netwerk Basisinkomen</a></li>
+<li id="menu-item-288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-288"><a target="_blank" href="http://basisinkomen.be">Netwerk Basisinkomen België</a></li>
+<li id="menu-item-287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287"><a target="_blank" href="http://basisinkomen.nl/wp">Vereniging Basisinkomen</a></li>
+<li id="menu-item-484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-484"><a target="_blank" href="http://basisinkomen.info">Basisinkomen FAQ</a></li>
+<li id="menu-item-292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-292"><a target="_blank" href="http://Basisinkomen.eu">Basisinkomen Europa</a></li>
+<li id="menu-item-327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-327"><a target="_blank" href="http://week-van-het-basisinkomen.nl">Week van het Basisinkomen</a></li>
+<li id="menu-item-1456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1456"><a target="_blank" href="http://basicincomeday.org/nederlands-1-mei-dag-van-het-basisinkomen/">Dag van het Basisinkomen</a></li>
+<li id="menu-item-289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289"><a target="_blank" href="http://basicincome-europe.org">Unconditional Basic Income Europe</a></li>
+<li id="menu-item-290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290"><a target="_blank" href="http://basicincome.org">Basic Income Earth Network</a></li>
+<li id="menu-item-291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-291"><a target="_blank" href="http://paper.basicincome-europe.org">The Daily Basic Income Paper</a></li>
+<li id="menu-item-1868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1868"><a href="http://www.basisinkomenfryslan.nl/">Basisinkomen Fryslân</a></li>
+</ul></div></div><div class="footer-widget widget_nav_menu clr"><h6 class="widget-title">Basisinkomen Social Media</h6><div class="menu-social-media-container"><ul id="menu-social-media" class="menu"><li id="menu-item-3730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3730"><a href="https://www.facebook.com/basisinkomen.net">Basisinkomen.net</a></li>
+<li id="menu-item-296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-296"><a target="_blank" href="https://www.facebook.com/groups/netwerkbasisinkomen/">Netwerk Basisinkomen</a></li>
+<li id="menu-item-293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293"><a target="_blank" href="https://www.facebook.com/VerenigingBasisinkomen">Vereniging Basisinkomen</a></li>
+<li id="menu-item-294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-294"><a target="_blank" href="https://www.facebook.com/ECI.BasicIncome">Basic Income Europe</a></li>
+<li id="menu-item-630" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-630"><a href="https://www.linkedin.com/groups?gid=2670201">Linkedin basisinkomen</a></li>
+<li id="menu-item-297" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-297"><a target="_blank" href="https://www.facebook.com/lists/459509290764967">Worldwide Basic Income Groups</a></li>
+<li id="menu-item-298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-298"><a target="_blank" href="http://basicincomeday.org">Basic Income Day may 1st</a></li>
+<li id="menu-item-299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-299"><a target="_blank" href="http://basicincomeweek.org">Basic Income Week</a></li>
+<li id="menu-item-7440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7440"><a href="http://twitter.com/basicincomeweek">Twitter @basicincomeweek</a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-300"><a target="_blank" href="http://twitter.com/basisinkomen">Twitter @basisinkomen</a></li>
+<li id="menu-item-7437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7437"><a target="_blank" href="http://twitter.com/basisinkomen1">Twitter @basisinkomen1 (autobot)</a></li>
+<li id="menu-item-7439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7439"><a href="http://twitter.com/basisinkomenA">Twitter @basisinkomenA (Assen)</a></li>
+<li id="menu-item-301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-301"><a target="_blank" href="http://twitter.com/basicincomebelg">Twitter @BasicincomeBelg</a></li>
+<li id="menu-item-302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-302"><a target="_blank" href="http://twitter.com/basicincomeEU">Twitter @BasicincomeEU</a></li>
+<li id="menu-item-4436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4436"><a target="_blank" href="http://twitter.com/basicincome">Twitter @basicincome</a></li>
+<li id="menu-item-4437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4437"><a target="_blank" href="https://twitter.com/basicincomeun">Twitter @basicincomeUN</a></li>
+<li id="menu-item-4438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4438"><a target="_blank" href="http://twitter.com/rbasicincome">Twitter @rBasicincome (reddit)</a></li>
+<li id="menu-item-7438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7438"><a target="_blank" href="http://twitter.com/ubiebot">Twitter @UBIbot (autobot)</a></li>
+</ul></div></div><div class="footer-widget widget_wysija clr"><h6 class="widget-title">Meld u aan voor onze nieuwsbrief</h6><div class="widget_wysija_cont"><div id="msg-form-wysija-2" class="wysija-msg ajax"></div><form id="form-wysija-2" method="post" action="#wysija" class="widget_wysija">
+<p class="wysija-paragraph">
+    <label>E-mail <span class="wysija-required">*</span></label>
+    
+    	<input type="text" name="wysija[user][email]" class="wysija-input validate[required,custom[email]]" title="E-mail"  value="" />
+    
+    
+    
+    <span class="abs-req">
+        <input type="text" name="wysija[user][abs][email]" class="wysija-input validated[abs][email]" value="" />
+    </span>
+    
+</p>
+<input class="wysija-submit wysija-submit-field" type="submit" value="Abonneren!" />
+
+    <input type="hidden" name="form_id" value="1" />
+    <input type="hidden" name="action" value="save" />
+    <input type="hidden" name="controller" value="subscribers" />
+    <input type="hidden" value="1" name="wysija-page" />
+
+    
+        <input type="hidden" name="wysija[user_list][list_ids]" value="1" />
+    
+ </form></div></div>                    </div><!-- .footer-box -->
+                    
+                    <div class="footer-box span_6 col">
+                        <div class="footer-widget widget_nav_menu clr"><h6 class="widget-title">Lokale Facebook Groepen</h6><div class="menu-lokale-groepen-container"><ul id="menu-lokale-groepen" class="menu"><li id="menu-item-4420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4420"><a href="https://www.facebook.com/groups/basisinkomen.achterhoek/">Achterhoek</a></li>
+<li id="menu-item-2420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2420"><a href="https://www.facebook.com/groups/basisinkomen.alkmaar/">Alkmaar</a></li>
+<li id="menu-item-313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-313"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.almere/">Almere</a></li>
+<li id="menu-item-4379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4379"><a href="https://www.facebook.com/groups/basisinkomen.amersfoort/">Amersfoort</a></li>
+<li id="menu-item-306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-306"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.amsterdam/">Amsterdam</a></li>
+<li id="menu-item-316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-316"><a target="_blank" href="https://www.facebook.com/groups/179536822194088/">Antwerpen</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a target="_blank" href="https://www.facebook.com/groups/basicincome.anomymus/">Anonymus</a></li>
+<li id="menu-item-5174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5174"><a href="https://www.facebook.com/groups/basisinkomen.apeldoorn/">Apeldoorn</a></li>
+<li id="menu-item-3891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3891"><a href="https://www.facebook.com/groups/basisinkomen.arnhem">Arnhem</a></li>
+<li id="menu-item-1543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1543"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.assen/">Assen</a></li>
+<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-318"><a target="_blank" href="https://www.facebook.com/groups/229932543809848/">Brussel</a></li>
+<li id="menu-item-4330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4330"><a href="https://www.facebook.com/groups/basisinkomen.denbosch">Den Bosch</a></li>
+<li id="menu-item-310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-310"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.denhaag/">Den Haag</a></li>
+<li id="menu-item-7207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7207"><a href="https://www.facebook.com/groups/basisinkomen.deventer">Deventer</a></li>
+<li id="menu-item-304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-304"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.eindhoven/">Eindhoven</a></li>
+<li id="menu-item-4557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4557"><a>Enschede</a></li>
+<li id="menu-item-915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-915"><a href="https://www.facebook.com/groups/basisinkomen.gent">Gent (BE)</a></li>
+<li id="menu-item-5002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5002"><a href="https://www.facebook.com/groups/basisinkomen.groenehart/">Het Groene Hart van de Randstad</a></li>
+<li id="menu-item-307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-307"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.groningen/">Groningen</a></li>
+<li id="menu-item-5212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5212"><a href="https://www.facebook.com/groups/basisinkomen.haarlem">Haarlem</a></li>
+<li id="menu-item-5933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5933"><a href="https://www.facebook.com/groups/basisinkomen.hengelo">Hengelo</a></li>
+<li id="menu-item-6850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6850"><a href="https://www.facebook.com/groups/basisinkomen.hoogeveen">Hoogeveen</a></li>
+<li id="menu-item-5709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5709"><a href="https://www.facebook.com/groups/basisinkomen.kampen">Kampen</a></li>
+<li id="menu-item-314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-314"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.leeuwarden/">Leeuwarden</a></li>
+<li id="menu-item-3187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3187"><a href="https://www.facebook.com/groups/basisinkomen.leiden">Leiden</a></li>
+<li id="menu-item-317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-317"><a target="_blank" href="https://www.facebook.com/groups/217354038405491/">Leuven / Vlaams Brabant</a></li>
+<li id="menu-item-3367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3367"><a href="https://www.facebook.com/groups/basisinkomen.limburg">Limburg (BE/NL)</a></li>
+<li id="menu-item-305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-305"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.maastricht/">Maastricht</a></li>
+<li id="menu-item-4510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4510"><a href="https://www.facebook.com/groups/basisinkomen.meppel/">Meppel</a></li>
+<li id="menu-item-311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-311"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.nijmegen/">Nijmegen</a></li>
+<li id="menu-item-309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-309"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.rotterdam/">Rotterdam</a></li>
+<li id="menu-item-3010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3010"><a href="https://www.facebook.com/groups/basisinkomen.texel">Texel</a></li>
+<li id="menu-item-459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.tilburg/">Tilburg</a></li>
+<li id="menu-item-3055" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3055"><a href="https://www.facebook.com/groups/basisinkomen.twente">Twente</a></li>
+<li id="menu-item-308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-308"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.utrecht/">Utrecht</a></li>
+<li id="menu-item-7561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7561"><a href="https://www.facebook.com/groups/basisinkomen.veenendaal/">Veenendaal</a></li>
+<li id="menu-item-4625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4625"><a href="https://www.facebook.com/groups/basisinkomen.vlaardingen/">Vlaardingen</a></li>
+<li id="menu-item-4743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4743"><a href="https://www.facebook.com/groups/basisinkomen.vlissingen">Vlissingen</a></li>
+<li id="menu-item-4086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4086"><a href="https://www.facebook.com/groups/basisinkomen.waalwijk/">Waalwijk</a></li>
+<li id="menu-item-3056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3056"><a href="https://www.facebook.com/groups/basisinkomen.wageningen">Wageningen</a></li>
+<li id="menu-item-1347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1347"><a href="https://www.facebook.com/groups/347014222156712/">West-Vlaanderen</a></li>
+<li id="menu-item-312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-312"><a target="_blank" href="https://www.facebook.com/groups/basisinkomen.zwolle/">Zwolle</a></li>
+</ul></div></div>                    </div><!-- .footer-box -->
+                    
+                    <div class="footer-box span_6 col">
+                                            </div><!-- .footer-box -->
+                    
+                </div><!-- #footer-widgets -->
+                
+            </footer><!-- #footer -->
+            
+                
+        <div id="footer-bottom" class="row clr">
+        
+            <div id="copyright" class="span_12 col clr-margin" role="contentinfo">
+                <a href="http://wordpress.org" title="WordPress">WordPress</a>Theme by<a href="http://wpexplorer.me" title="WPExplorer">WPExplorer</a>            </div><!-- /copyright -->
+            
+            <div id="footer-menu" class="span_12 col">
+                <div class="menu-footermenu-container"><ul id="menu-footermenu" class="menu"><li id="menu-item-1648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1648"><a href="http://basisinkomen.net/obi/handvest-van-het-nederlandstalig-netwerk-basisinkomen/">Handvest</a></li>
+<li id="menu-item-1646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1646"><a href="http://basisinkomen.net/obi/calendar/">Kalender</a></li>
+<li id="menu-item-1647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1647"><a href="http://basisinkomen.net/obi/shops/">Shops</a></li>
+<li id="menu-item-1649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1649"><a href="http://basisinkomen.net/obi/contact/">Contact</a></li>
+<li id="menu-item-1645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1645"><a href="http://basisinkomen.net/obi/hier-kun-je-een-evenement-insturen/">Hier kun je een evenement insturen</a></li>
+</ul></div>            </div><!-- /footer-menu -->
+            
+        </div><!-- /footer-bottom -->
+        
+    </div><!-- /wrap -->
+
+	<div style="display:none">
+	</div>
+<!-- Inline jetpack_facebook_likebox -->
+<style id='jetpack_facebook_likebox-inline-css' type='text/css'>
+.widget_facebook_likebox {
+	overflow: hidden;
+}
+
+</style>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/plugins/jetpack/modules/photon/photon.js'></script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/basisinkomen.net\/obi\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Verzenden ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/plugins/jetpack/modules/wpgroho.js'></script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/js/retina.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lightboxLocalize = {"theme":"facebook"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/js/prettyphoto.js'></script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/js/prettyphoto-init.js'></script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/js/global.js'></script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/plugins/symple-shortcodes/shortcodes/js/flexslider.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var flexLocalize = {"slideshow":"true","randomize":"false","animation":"fade","direction":"horizontal","slideshowSpeed":"7000","animationSpeed":"600"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/themes/wpex-pytheas/js/slider-home.js'></script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/plugins/wysija-newsletters/js/validate/languages/jquery.validationEngine-nl.js'></script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/plugins/wysija-newsletters/js/validate/jquery.validationEngine.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wysijaAJAX = {"action":"wysija_ajax","controller":"ai1ec_exporter_controller","ajaxurl":"http:\/\/basisinkomen.net\/obi\/wp-admin\/admin-ajax.php","loadingTrans":"Laden...","is_rtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://basisinkomen.net/obi/wp-content/plugins/wysija-newsletters/js/front-subscribers.js'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201539.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.7',blog:'65112847',post:'2965',tz:'2',srv:'basisinkomen.net'} ]);
+	_stq.push([ 'clickTrackerInit', '65112847', '2965' ]);
+</script>
 </body>
 </html>
+<!-- Dynamic page generated in 1.872 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-21 10:50:26 -->

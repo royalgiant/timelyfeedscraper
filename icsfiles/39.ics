@@ -9,62 +9,14 @@ BEGIN:VTIMEZONE
 TZID:Etc/GMT0
 X-LIC-LOCATION:Etc/GMT0
 BEGIN:STANDARD
-DTSTART:20150920T002111
+DTSTART:20150921T224632
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-632@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p><a href='http://earthdanceradio.org.uk/wp-content/uploads/20
- 14/07/jay.jpg'><img class='alignleft size-full wp-image-673' src='http://e
- arthdanceradio.org.uk/wp-content/uploads/2014/07/lab_sqr.jpg' alt='' width
- ='500' height='461' /></a></p>
-DTSTART;TZID=Etc/GMT0:20150920T170000
-DTEND;TZID=Etc/GMT0:20150920T190000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Jay Hill
-URL:http://earthdanceradio.org.uk/ai1ec-event/jay-hill/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-621@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p><a href='http://earthdanceradio.org.uk/wp-content/uploads/20
- 14/07/sun.jpg'><img class='alignleft size-full wp-image-675' src='http://e
- arthdanceradio.org.uk/wp-content/uploads/2014/07/essentials_sqr.jpg' alt='
- ' width='500' height='461' /></a></p>
-DTSTART;TZID=Etc/GMT0:20150920T190000
-DTEND;TZID=Etc/GMT0:20150920T210000
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Kelly Lloyd & Will Postlethwaite – Sunday Essentials
-URL:http://earthdanceradio.org.uk/ai1ec-event/kelly-lloyd-will-postlethwait
- e-sunday-essentials/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-668@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p><img class='alignleft wp-image-636 size-full' src='http://ea
- rthdanceradio.org.uk/wp-content/uploads/2014/07/koji.jpg' alt='' width='50
- 0' height='461' /></p>
-DTSTART;TZID=Etc/GMT0:20150920T210000
-DTEND;TZID=Etc/GMT0:20150920T230000
-RRULE:FREQ=WEEKLY;INTERVAL=4;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Adham Nasr – Deviate
-URL:http://earthdanceradio.org.uk/ai1ec-event/adham-nasr-deviate/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-650@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-651 size-full' src='http://ea
@@ -79,7 +31,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/rich-ginders/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-599@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-605 size-full' src='http://ea
@@ -94,7 +46,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/justin-cookee-back2life/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-655@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-677 size-full' src='http://ea
@@ -109,7 +61,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/psypirate/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-613@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-614 size-full' src='http://ea
@@ -124,7 +76,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/mr-black-habitual-sessions/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-683@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-full wp-image-636' src='http://ea
@@ -139,7 +91,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/sonic-union/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-619@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><a href='http://earthdanceradio.org.uk/wp-content/uploads/20
@@ -155,7 +107,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/bradshaw-jooste-recycle/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-681@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-full wp-image-636' src='http://ea
@@ -169,8 +121,25 @@ SUMMARY:Fallas
 URL:http://earthdanceradio.org.uk/ai1ec-event/fallas/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-621@earthdanceradio.org.uk
+DTSTAMP:20150921T224632Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://earthdanceradio.org.uk/wp-content/uploads/20
+ 14/07/sun.jpg'><img class='alignleft size-full wp-image-675' src='http://e
+ arthdanceradio.org.uk/wp-content/uploads/2014/07/essentials_sqr.jpg' alt='
+ ' width='500' height='461' /></a></p>
+DTSTART;TZID=Etc/GMT0:20150927T190000
+DTEND;TZID=Etc/GMT0:20150927T210000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Kelly Lloyd & Will Postlethwaite – Sunday Essentials
+URL:http://earthdanceradio.org.uk/ai1ec-event/kelly-lloyd-will-postlethwait
+ e-sunday-essentials/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-634@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-674 size-full' src='http://ea
@@ -185,7 +154,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/koji/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-598@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-601' src='http://earthdancera
@@ -200,7 +169,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/clark-pullar/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-602@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-671 size-full' src='http://ea
@@ -215,7 +184,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/bear-winder-bear-drop/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-680@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-full wp-image-629' src='http://ea
@@ -230,7 +199,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/maya-perceptors/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-604@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-609 size-full' src='http://ea
@@ -245,7 +214,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/neil-browne-the-code/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-682@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-629 size-full' src='http://ea
@@ -260,7 +229,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/bio-mech/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-615@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-616 size-full' src='http://ea
@@ -275,7 +244,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/jasmin-housewife-sessions/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-626@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-627 size-full' src='http://ea
@@ -289,8 +258,24 @@ SUMMARY:Verve
 URL:http://earthdanceradio.org.uk/ai1ec-event/verve/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-632@earthdanceradio.org.uk
+DTSTAMP:20150921T224632Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://earthdanceradio.org.uk/wp-content/uploads/20
+ 14/07/jay.jpg'><img class='alignleft size-full wp-image-673' src='http://e
+ arthdanceradio.org.uk/wp-content/uploads/2014/07/lab_sqr.jpg' alt='' width
+ ='500' height='461' /></a></p>
+DTSTART;TZID=Etc/GMT0:20151004T170000
+DTEND;TZID=Etc/GMT0:20151004T190000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Jay Hill
+URL:http://earthdanceradio.org.uk/ai1ec-event/jay-hill/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-669@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224632Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-601' src='http://earthdancera
@@ -305,7 +290,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/benny-b-sides/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-623@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-624 size-full' src='http://ea
@@ -320,7 +305,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/niquid-incognito-radio/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-628@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-629 size-full' src='http://ea
@@ -335,7 +320,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/fordy/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-630@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-631 size-full' src='http://ea
@@ -350,7 +335,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/timmy-seashoe/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-679@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-full wp-image-636' src='http://ea
@@ -365,7 +350,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/dj-anita/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-637@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-678 size-full' src='http://ea
@@ -380,7 +365,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/dubwise/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-670@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft size-full wp-image-636' src='http://ea
@@ -395,7 +380,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/afshinio/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-644@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-645 size-full' src='http://ea
@@ -410,7 +395,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/amber-fyrbeat/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-646@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-667 size-full' src='http://ea
@@ -425,7 +410,7 @@ URL:http://earthdanceradio.org.uk/ai1ec-event/ettica/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-648@earthdanceradio.org.uk
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><img class='alignleft wp-image-649 size-full' src='http://ea
@@ -437,5 +422,20 @@ RRULE:FREQ=WEEKLY;INTERVAL=4;BYDAY=FR;WKST=MO
 SEQUENCE:0
 SUMMARY:Gavin Black – Dark Harlot
 URL:http://earthdanceradio.org.uk/ai1ec-event/gavin-black-dark-harlot/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-668@earthdanceradio.org.uk
+DTSTAMP:20150921T224633Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><img class='alignleft wp-image-636 size-full' src='http://ea
+ rthdanceradio.org.uk/wp-content/uploads/2014/07/koji.jpg' alt='' width='50
+ 0' height='461' /></p>
+DTSTART;TZID=Etc/GMT0:20151018T210000
+DTEND;TZID=Etc/GMT0:20151018T230000
+RRULE:FREQ=WEEKLY;INTERVAL=4;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Adham Nasr – Deviate
+URL:http://earthdanceradio.org.uk/ai1ec-event/adham-nasr-deviate/
 END:VEVENT
 END:VCALENDAR

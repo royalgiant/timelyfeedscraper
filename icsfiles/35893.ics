@@ -22,21 +22,4 @@ RDATE:20160327T020000
 TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:ai1ec-11637@chirostine.be
-DTSTAMP:20150920T002142Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p><a href='http://chirostine.be/wp-content/uploads/2014/10/Zon
- dagwerking2_614x400.jpg'><img class='alignleft size-thumbnail wp-image-113
- 90' src='http://chirostine.be/wp-content/uploads/2014/10/Zondagwerking2_61
- 4x400-150x150.jpg' alt='Zondagwerking2_614x400' width='150' height='150' /
- ></a>Een nieuw werkjaar gaat van start op zondag <strong>20 september</str
- ong>.</p>
-DTSTART;TZID=Europe/Brussels:20150920T140000
-DTEND;TZID=Europe/Brussels:20150920T180000
-SEQUENCE:0
-SUMMARY:Start werkjaar 2015 – 2016
-URL:http://chirostine.be/event/start-werkjaar-2015-2016/
-END:VEVENT
 END:VCALENDAR

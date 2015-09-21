@@ -23,36 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-113@events.s12.at
-DTSTAMP:20150920T002107Z
-CATEGORIES;LANGUAGE=de-DE:Fans
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=Europe/Vienna:20150919T173000
-DTEND;TZID=Europe/Vienna:20150919T220000
-GEO:+47.816282;+12.998215
-LOCATION:Abseits @ Red Bull Arena\, Stadionstraße 2/3\, 5071\, Österreich
-SEQUENCE:0
-SUMMARY:Public Viewing: WAC vs. RBS
-URL:http://events.s12.at/Veranstaltung/public-viewing-wac-vs-rbs/
-END:VEVENT
-BEGIN:VEVENT
-UID:matchday#9#RZ Pellets WAC-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002107Z
-CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=Europe/Vienna:20150919T183000
-DTEND;TZID=Europe/Vienna:20150919T200000
-LOCATION:Lavanttal-Arena
-SEQUENCE:0
-SUMMARY:RZ Pellets WAC -vs- FC Red Bull Salzburg
-URL:http://events.s12.at/Veranstaltung/rz-pellets-wac-vs-fc-red-bull-salzbu
- rg-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:round#2. Runde#SV Horn-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -65,7 +37,7 @@ URL:http://events.s12.at/Veranstaltung/sv-horn-vs-fc-red-bull-salzburg/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#11#SKN St. Pölten-vs-FC Liefering
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -77,8 +49,22 @@ SUMMARY:SKN St. Pölten -vs- FC Liefering
 URL:http://events.s12.at/Veranstaltung/skn-st-poelten-vs-fc-liefering-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-114@events.s12.at
+DTSTAMP:20150921T224626Z
+CATEGORIES;LANGUAGE=de-DE:Fans
+CONTACT:Fanbeirat\; fanbeirat@redbulls.com
+DESCRIPTION:
+DTSTART;TZID=Europe/Vienna:20150925T190000
+DTEND;TZID=Europe/Vienna:20150925T230000
+GEO:+47.816282;+12.998215
+LOCATION:Abseits @ Red Bull Arena\, Stadionstraße 2/3\, 5071\, Österreich
+SEQUENCE:0
+SUMMARY:5. Fan-Stammtisch
+URL:http://events.s12.at/Veranstaltung/5-fan-stammtisch/
+END:VEVENT
+BEGIN:VEVENT
 UID:matchday#10#FC Red Bull Salzburg-vs-SV Mattersburg
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -92,7 +78,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-sv-mattersbu
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-110@events.s12.at
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:Fans
 CONTACT:
 DESCRIPTION:<p>Details zum Turnier folgen…</p>
@@ -104,7 +90,7 @@ URL:http://events.s12.at/Veranstaltung/fanclubturnier/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#12#FC Liefering-vs-KSV 1919
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -117,7 +103,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-ksv-1919-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#11#SK Rapid Wien-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -131,7 +117,7 @@ URL:http://events.s12.at/Veranstaltung/sk-rapid-wien-vs-fc-red-bull-salzbur
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#13#SV Austria Salzburg-vs-FC Liefering
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -145,7 +131,7 @@ URL:http://events.s12.at/Veranstaltung/sv-austria-salzburg-vs-fc-liefering-
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#12#FC Red Bull Salzburg-vs-FC Admira Wacker Mödling
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -159,7 +145,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-fc-admira-wa
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#14#FC Liefering-vs-FC Wacker Innsbruck
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -173,7 +159,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-fc-wacker-innsbruck-
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#15#SC Wiener Neustadt-vs-FC Liefering
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -187,7 +173,7 @@ URL:http://events.s12.at/Veranstaltung/sc-wiener-neustadt-vs-fc-liefering-2
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#13#FC Red Bull Salzburg-vs-SV Josko Ried
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -201,7 +187,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-sv-josko-rie
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#14#CASHPOINT SCR Altach-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -215,7 +201,7 @@ URL:http://events.s12.at/Veranstaltung/cashpoint-scr-altach-vs-fc-red-bull-
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#16#FC Liefering-vs-SC Austria Lustenau
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -229,7 +215,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-sc-austria-lustenau-
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#17#Floridsdorfer AC-vs-FC Liefering
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -242,7 +228,7 @@ URL:http://events.s12.at/Veranstaltung/floridsdorfer-ac-vs-fc-liefering-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#15#FK Austria Wien-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -256,7 +242,7 @@ URL:http://events.s12.at/Veranstaltung/fk-austria-wien-vs-fc-red-bull-salzb
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#18#FC Liefering-vs-LASK Linz
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -269,7 +255,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-lask-linz-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#16#FC Red Bull Salzburg-vs-SK Puntigamer Sturm Graz
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -283,7 +269,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-sk-puntigame
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#19#SK Austria Klagenfurt-vs-FC Liefering
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -297,7 +283,7 @@ URL:http://events.s12.at/Veranstaltung/sk-austria-klagenfurt-vs-fc-lieferin
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#17#SV Grödig-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -311,7 +297,7 @@ URL:http://events.s12.at/Veranstaltung/sv-groedig-vs-fc-red-bull-salzburg-2
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#18#FC Red Bull Salzburg-vs-RZ Pellets WAC
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -325,7 +311,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-rz-pellets-w
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#19#SV Mattersburg-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -339,7 +325,7 @@ URL:http://events.s12.at/Veranstaltung/sv-mattersburg-vs-fc-red-bull-salzbu
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#20#FC Red Bull Salzburg-vs-SK Rapid Wien
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -353,7 +339,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-sk-rapid-wie
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#21#FC Admira Wacker Mödling-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -367,7 +353,7 @@ URL:http://events.s12.at/Veranstaltung/fc-admira-wacker-moedling-vs-fc-red-
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#22#SV Josko Ried-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224626Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -381,7 +367,7 @@ URL:http://events.s12.at/Veranstaltung/sv-josko-ried-vs-fc-red-bull-salzbur
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#23#FC Red Bull Salzburg-vs-CASHPOINT SCR Altach
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -395,7 +381,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-cashpoint-sc
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#20#FC Liefering-vs-SKN St. Pölten
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -408,7 +394,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-skn-st-poelten/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#24#FC Red Bull Salzburg-vs-FK Austria Wien
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -422,7 +408,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-fk-austria-w
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#25#SK Puntigamer Sturm Graz-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -436,7 +422,7 @@ URL:http://events.s12.at/Veranstaltung/sk-puntigamer-sturm-graz-vs-fc-red-b
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#21#KSV 1919-vs-FC Liefering
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -449,7 +435,7 @@ URL:http://events.s12.at/Veranstaltung/ksv-1919-vs-fc-liefering/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#26#FC Red Bull Salzburg-vs-SV Grödig
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -462,7 +448,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-sv-groedig/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#22#FC Liefering-vs-SV Austria Salzburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -475,7 +461,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-sv-austria-salzburg/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#27#RZ Pellets WAC-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -489,7 +475,7 @@ URL:http://events.s12.at/Veranstaltung/rz-pellets-wac-vs-fc-red-bull-salzbu
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#23#FC Wacker Innsbruck-vs-FC Liefering
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -502,7 +488,7 @@ URL:http://events.s12.at/Veranstaltung/fc-wacker-innsbruck-vs-fc-liefering/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#24#FC Liefering-vs-SC Wiener Neustadt
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -515,7 +501,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-sc-wiener-neustadt/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#28#FC Red Bull Salzburg-vs-SV Mattersburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -529,7 +515,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-sv-mattersbu
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#25#SC Austria Lustenau-vs-FC Liefering
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -542,7 +528,7 @@ URL:http://events.s12.at/Veranstaltung/sc-austria-lustenau-vs-fc-liefering/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#29#SK Rapid Wien-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -556,7 +542,7 @@ URL:http://events.s12.at/Veranstaltung/sk-rapid-wien-vs-fc-red-bull-salzbur
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#26#FC Liefering-vs-Floridsdorfer AC
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -569,7 +555,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-floridsdorfer-ac/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#30#FC Red Bull Salzburg-vs-FC Admira Wacker Mödling
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -583,7 +569,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-fc-admira-wa
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#27#LASK Linz-vs-FC Liefering
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -596,7 +582,7 @@ URL:http://events.s12.at/Veranstaltung/lask-linz-vs-fc-liefering/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#28#FC Liefering-vs-SK Austria Klagenfurt
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -610,7 +596,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-sk-austria-klagenfur
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#31#FC Red Bull Salzburg-vs-SV Josko Ried
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -624,7 +610,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-sv-josko-rie
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#29#SKN St. Pölten-vs-FC Liefering
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -637,7 +623,7 @@ URL:http://events.s12.at/Veranstaltung/skn-st-poelten-vs-fc-liefering/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#32#CASHPOINT SCR Altach-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -651,7 +637,7 @@ URL:http://events.s12.at/Veranstaltung/cashpoint-scr-altach-vs-fc-red-bull-
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#30#FC Liefering-vs-KSV 1919
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -664,7 +650,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-ksv-1919/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#31#SV Austria Salzburg-vs-FC Liefering
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -677,7 +663,7 @@ URL:http://events.s12.at/Veranstaltung/sv-austria-salzburg-vs-fc-liefering/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#33#FK Austria Wien-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -691,7 +677,7 @@ URL:http://events.s12.at/Veranstaltung/fk-austria-wien-vs-fc-red-bull-salzb
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#32#FC Liefering-vs-FC Wacker Innsbruck
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -704,7 +690,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-fc-wacker-innsbruck/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#34#FC Red Bull Salzburg-vs-SK Puntigamer Sturm Graz
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -718,7 +704,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-sk-puntigame
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#33#SC Wiener Neustadt-vs-FC Liefering
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -731,7 +717,7 @@ URL:http://events.s12.at/Veranstaltung/sc-wiener-neustadt-vs-fc-liefering/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#35#SV Grödig-vs-FC Red Bull Salzburg
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -744,7 +730,7 @@ URL:http://events.s12.at/Veranstaltung/sv-groedig-vs-fc-red-bull-salzburg/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#34#FC Liefering-vs-SC Austria Lustenau
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -757,7 +743,7 @@ URL:http://events.s12.at/Veranstaltung/fc-liefering-vs-sc-austria-lustenau/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#36#FC Red Bull Salzburg-vs-RZ Pellets WAC
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Red Bull Salzburg
 CONTACT:
 DESCRIPTION:
@@ -771,7 +757,7 @@ URL:http://events.s12.at/Veranstaltung/fc-red-bull-salzburg-vs-rz-pellets-w
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#35#Floridsdorfer AC-vs-FC Liefering
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:
@@ -784,7 +770,7 @@ URL:http://events.s12.at/Veranstaltung/floridsdorfer-ac-vs-fc-liefering/
 END:VEVENT
 BEGIN:VEVENT
 UID:matchday#36#FC Liefering-vs-LASK Linz
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224627Z
 CATEGORIES;LANGUAGE=de-DE:FC Liefering
 CONTACT:
 DESCRIPTION:

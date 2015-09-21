@@ -23,40 +23,8 @@ TZNAME:PDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-695@demo.puremediagraphics.com/first-apostolic
-DTSTAMP:20150920T002107Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/Los_Angeles:20150918T193000
-GEO:+37.292199;-80.061369
-LOCATION:123 West Main Street\, Salem\, VA 24153\, USA
-RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=SU
-SEQUENCE:0
-SUMMARY:Youth Service
-URL:http://demo.puremediagraphics.com/hope-fellowship/event/friday-youth-se
- rvice/
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-692@demo.puremediagraphics.com/first-apostolic
-DTSTAMP:20150920T002107Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/Los_Angeles:20150920T100000
-GEO:+37.292199;-80.061369
-LOCATION:123 West Main Street\, Salem\, VA 24153\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday Service AM
-URL:http://demo.puremediagraphics.com/hope-fellowship/event/sunday-morning-
- service/
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-693@demo.puremediagraphics.com/first-apostolic
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -72,7 +40,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-694@demo.puremediagraphics.com/first-apostolic
-DTSTAMP:20150920T002107Z
+DTSTAMP:20150921T224633Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -84,6 +52,38 @@ SEQUENCE:0
 SUMMARY:Bible Study
 URL:http://demo.puremediagraphics.com/hope-fellowship/event/tuesday-bible-s
  tudy/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-695@demo.puremediagraphics.com/first-apostolic
+DTSTAMP:20150921T224633Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150925T193000
+GEO:+37.292199;-80.061369
+LOCATION:123 West Main Street\, Salem\, VA 24153\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Youth Service
+URL:http://demo.puremediagraphics.com/hope-fellowship/event/friday-youth-se
+ rvice/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-692@demo.puremediagraphics.com/first-apostolic
+DTSTAMP:20150921T224633Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150927T100000
+GEO:+37.292199;-80.061369
+LOCATION:123 West Main Street\, Salem\, VA 24153\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday Service AM
+URL:http://demo.puremediagraphics.com/hope-fellowship/event/sunday-morning-
+ service/
 X-INSTANT-EVENT:1
 END:VEVENT
 END:VCALENDAR

@@ -17,7 +17,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-130@agenda.e342.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224739Z
 CATEGORIES:
 CONTACT:Andrea\; 41104500\; email@email.com\; http://www.web.com
 DESCRIPTION:<p><a href='http://agenda.e342.com/wp-content/uploads/2015/09/T
@@ -36,8 +36,8 @@ DESCRIPTION:<p><a href='http://agenda.e342.com/wp-content/uploads/2015/09/T
  derit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Exce
  pteur sint occaecat cupidatat non proident\, sunt in culpa qui officia des
  erunt mollit anim id est laborum.</p>
-DTSTART;TZID=America/Argentina/Buenos_Aires:20150919T093000
-DTEND;TZID=America/Argentina/Buenos_Aires:20150919T104500
+DTSTART;TZID=America/Argentina/Buenos_Aires:20150921T093000
+DTEND;TZID=America/Argentina/Buenos_Aires:20150921T104500
 GEO:-34.61708;-58.38083
 LOCATION:Teatro 9 Julio @ Avenida 9 de Julio 100\, Ciudad Autónoma de Bueno
  s Aires\, Argentina
@@ -49,7 +49,7 @@ X-COST:100
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-262@agenda.e342.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224739Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Lorem ipsum dolor sit amet\, consectetur adipiscing elit\, s
@@ -76,7 +76,7 @@ X-COST:P$ 30
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-259@agenda.e342.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224739Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><a href='http://agenda.e342.com/wp-content/uploads/2015/09/g
@@ -108,7 +108,7 @@ X-COST:50
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-258@agenda.e342.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224739Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><a href='http://agenda.e342.com/wp-content/uploads/2015/09/A

@@ -1,51 +1,13 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//97.68.188.130//NONSGML kigkonsult.se iCalcreator 2.20//
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-FROM-URL:http://simmen.dyndns-server.com:8080
-X-WR-TIMEZONE:America/New_York
-BEGIN:VTIMEZONE
-TZID:America/New_York
-X-LIC-LOCATION:America/New_York
-BEGIN:STANDARD
-DTSTART:20151101T020000
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-TZNAME:EST
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20150308T020000
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-RDATE:20160313T020000
-TZNAME:EDT
-END:DAYLIGHT
-END:VTIMEZONE
-BEGIN:VEVENT
-UID:ai1ec-593@simmen.dyndns-server.com
-DTSTAMP:20150920T002416Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://simmen.dyndns-server.com:8080/wp-content/uploads/2014/10/Fireside1-300x
- 300.jpg' width='300' height='300' /></div><p>Pull up a chair and join us f
- or a Fireside Gathering\, our monthly meet-up for new and veteran Hearthst
- one players. Free WiFi\, a full beer and food menu\, specials\, and a tave
- rn atmosphere – the perfect complement to your infinite VICTORY! Prepare f
- or glory! (Laptops and iPads welcome. Please have battery consideration as
-  we do not have outlets currently to support charging.) Ages 18+ after 8 p
- .m.</p>\n<p>* Hearthstone players receive 5% off their total bill with pro
- of of play.<br />\n* Choose from HORDE or ALLIANCE drink specials<br />\n*
-  Feast on an exclusive menu item.<br />\n* No registration required. </p>
-DTSTART;TZID=America/New_York:20151020T193000
-GEO:+28.548941;-81.1941
-LOCATION:The Cloak & Blaster @ 875 Woodbury Road #108\, Orlando\, FL 32828\
- , USA
-RRULE:FREQ=MONTHLY;UNTIL=20160101T235959Z;BYDAY=3TU
-SEQUENCE:0
-SUMMARY:Fireside Gathering
-URL:http://simmen.dyndns-server.com:8080/event/test-event-for-awesomeness/
-X-INSTANT-EVENT:1
-END:VEVENT
-END:VCALENDAR
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+Size of a request header field exceeds server limit.<br />
+<pre>
+cookie
+</pre>/n</p>
+<hr>
+<address>Apache/2.2.3 (CentOS) Server at www.cloaksandblasters.com Port 80</address>
+</body></html>

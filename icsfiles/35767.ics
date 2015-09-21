@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-2212@fsmbc.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224732Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -36,26 +36,8 @@ SUMMARY:First Lady Dawn Tatum’s Birthday
 URL:http://fsmbc.com/event/first-lady-dawn-tatums-birthday/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-2172@fsmbc.com
-DTSTAMP:20150920T002201Z
-CATEGORIES:
-CONTACT:Church Secretary \; 269-964-9637\; fsmbc@fsmbc.com
-DESCRIPTION:
-DTSTART;TZID=America/Detroit:20150920T053000
-DTEND;TZID=America/Detroit:20150920T074500
-GEO:+42.311031;-85.193286
-LOCATION:First Salem Missionary Baptist Church  @ 370 Capital Avenue Southw
- est\, Battle Creek\, MI 49015\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:LIVE WORSHIP EXPERIENCE
-URL:http://fsmbc.com/event/live-worship-experience/
-X-TAGS;LANGUAGE=en-US:BIBLE\,excitement\,fun\,Guest\,LIVE\,LOVE\,Members\,m
- usic\,PREACHING\,teaching\,Word\,Worship
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-3073@fsmbc.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224732Z
 CATEGORIES:
 CONTACT:Sis. Ann Thompson\, Church Secretary \; 269-964-9637\; fsmbc@fsmbc.
  com
@@ -74,7 +56,7 @@ URL:http://fsmbc.com/event/discipleship-empowerment-academy-d-e-a/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2176@fsmbc.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224732Z
 CATEGORIES:
 CONTACT:Ann Thompson\, Church Secretary \; 269-964-9637\; fsmbc@fsmbc.com
 DESCRIPTION:
@@ -97,7 +79,7 @@ X-TAGS;LANGUAGE=en-US:BIBLE\,GOD\,noon\,of\,Study\,Word
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3077@fsmbc.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224732Z
 CATEGORIES:
 CONTACT:Ann Thompson\, Church Secretary \; 269-964-9637\; fsmbc@fsmbc.com
 DESCRIPTION:<p style='text-align: center\;'><a href='http://fsmbc.com/wp-co
@@ -116,8 +98,26 @@ X-TAGS;LANGUAGE=en-US:app\,BIBLE\,GOD\,jesus\,LIVE\,mobile\,Now\,stream\,St
  udy\,ustream\,website
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-2172@fsmbc.com
+DTSTAMP:20150921T224732Z
+CATEGORIES:
+CONTACT:Church Secretary \; 269-964-9637\; fsmbc@fsmbc.com
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20150927T053000
+DTEND;TZID=America/Detroit:20150927T074500
+GEO:+42.311031;-85.193286
+LOCATION:First Salem Missionary Baptist Church  @ 370 Capital Avenue Southw
+ est\, Battle Creek\, MI 49015\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:LIVE WORSHIP EXPERIENCE
+URL:http://fsmbc.com/event/live-worship-experience/
+X-TAGS;LANGUAGE=en-US:BIBLE\,excitement\,fun\,Guest\,LIVE\,LOVE\,Members\,m
+ usic\,PREACHING\,teaching\,Word\,Worship
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-2167@fsmbc.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224732Z
 CATEGORIES:
 CONTACT:Dr. Craig Tatum\; 269-964-9637\; fsmbc@fsmbc.com
 DESCRIPTION:
@@ -136,7 +136,7 @@ X-TAGS;LANGUAGE=en-US:Brotherhood\,fellowship\,Learning\,men\,saturday\,tea
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2165@fsmbc.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224732Z
 CATEGORIES:
 CONTACT:Dr. Craig Tatum\; 269-964-9637\; fsmbc@fsmbc.com
 DESCRIPTION:
@@ -154,7 +154,7 @@ X-TAGS;LANGUAGE=en-US:students\,Sunday school\,teaching\,training\,youth
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2166@fsmbc.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224732Z
 CATEGORIES:
 CONTACT:First Lady Dawn Tatum\; 269-964-9637\; fsmbc@fsmbc.com
 DESCRIPTION:<p><a href='http://fsmbc.com/wp-content/uploads/2014/01/wow-log
@@ -175,7 +175,7 @@ X-TAGS;LANGUAGE=en-US:fun\,Gathering\,Learning\,wisdom\,women
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2218@fsmbc.com
-DTSTAMP:20150920T002201Z
+DTSTAMP:20150921T224732Z
 CATEGORIES:
 CONTACT:Ann Thompson\, Church Secretary \; 269-964-9637\; fsmbc@fsmbc.com
 DESCRIPTION:

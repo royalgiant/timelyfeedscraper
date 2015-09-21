@@ -23,32 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-238@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
-CATEGORIES;LANGUAGE=fr-FR:CM1-CM2
-CONTACT:
-DESCRIPTION:<p>Copier les mots de la dictée 4</p>
-DTSTART;VALUE=DATE:20150921
-DTEND;VALUE=DATE:20150922
-SEQUENCE:0
-SUMMARY:Français
-URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=francais
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-239@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
-CATEGORIES;LANGUAGE=fr-FR:CM1-CM2
-CONTACT:
-DESCRIPTION:<p>Faire signer le cahier du jour et le rapporter</p>
-DTSTART;VALUE=DATE:20150921
-DTEND;VALUE=DATE:20150922
-SEQUENCE:0
-SUMMARY:Signature
-URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=signature
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-240@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
+DTSTAMP:20150921T224800Z
 CATEGORIES;LANGUAGE=fr-FR:CM1-CM2
 CONTACT:
 DESCRIPTION:<p>Poser et calculer les quatre opérations</p>
@@ -60,7 +36,7 @@ URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=mathematiques
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-237@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
+DTSTAMP:20150921T224800Z
 CATEGORIES;LANGUAGE=fr-FR:CM1-CM2
 CONTACT:
 DESCRIPTION:<p>Apprendre les mots de vocabulaire.</p>\n<p>Réécouter les pag
@@ -73,7 +49,7 @@ URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=english
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-136@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
+DTSTAMP:20150921T224800Z
 CATEGORIES;LANGUAGE=fr-FR:Ecole
 CONTACT:
 DESCRIPTION:
@@ -86,7 +62,7 @@ URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-ce2-
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-137@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
+DTSTAMP:20150921T224800Z
 CATEGORIES;LANGUAGE=fr-FR:Ecole
 CONTACT:
 DESCRIPTION:
@@ -98,7 +74,7 @@ URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-ps
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-138@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
+DTSTAMP:20150921T224800Z
 CATEGORIES;LANGUAGE=fr-FR:Ecole
 CONTACT:
 DESCRIPTION:
@@ -111,7 +87,7 @@ URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-ce1-
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-139@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
+DTSTAMP:20150921T224800Z
 CATEGORIES;LANGUAGE=fr-FR:Ecole
 CONTACT:
 DESCRIPTION:
@@ -124,7 +100,7 @@ URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-gs-v
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-140@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
+DTSTAMP:20150921T224800Z
 CATEGORIES;LANGUAGE=fr-FR:Ecole
 CONTACT:
 DESCRIPTION:
@@ -137,7 +113,7 @@ URL:http://boisdecene-stejeannedarc.fr/?ai1ec_event=reunion-de-rentree-ms-v
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-141@boisdecene-stejeannedarc.fr
-DTSTAMP:20150920T002357Z
+DTSTAMP:20150921T224800Z
 CATEGORIES;LANGUAGE=fr-FR:Ecole
 CONTACT:
 DESCRIPTION:

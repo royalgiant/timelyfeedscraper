@@ -23,73 +23,8 @@ TZNAME:PDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-822@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
-CATEGORIES:
-CONTACT:Caroline Wildflower\; 379-5376\; ckwildflower@gmail.com
-DESCRIPTION:<p>JACK&JOE~ Jack Reid and Joe Breskin</p>\n<p>A unique blend o
- f Americana – cowboy music\, some folk\, a little blues\, and “BlueBilly S
- wing”.  You may not know the name\, but you’ll know the music when you hea
- r it!  </p>
-DTSTART;TZID=America/Los_Angeles:20150918T180000
-DTEND;TZID=America/Los_Angeles:20150918T203000
-GEO:+42.460713;-87.825089
-LOCATION:Friends Meetinghouse @ Sheridan Road & 19th Street\, Zion\, IL 600
- 99\, USA
-SEQUENCE:0
-SUMMARY:Meetinghouse Concert 7 pm Jack Reid & Joe Breskin
-URL:http://ptquaker.org/event/meetinghouse-concert-7-pm-jack-reid-joe-bresk
- in/
-X-COST:$5-$50 donation
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-823@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
-CATEGORIES:
-CONTACT:PT Sangha\; gc@ptsangha.org\; http://ptsangha.org
-DESCRIPTION:
-DTSTART;TZID=America/Los_Angeles:20150919T090000
-DTEND;TZID=America/Los_Angeles:20150919T170000
-GEO:+48.113693;-122.790439
-LOCATION:Friends Meetinghouse @ 19th Street & Sheridan Street\, Port Townse
- nd\, WA 98368\, USA
-RDATE;TZID=America/Los_Angeles:20151219T090000
-SEQUENCE:0
-SUMMARY:Day of Mindfulness (Rental)
-URL:http://ptquaker.org/event/day-of-mindfulness-rental/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-735@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/Los_Angeles:20150920T093000
-DTEND;TZID=America/Los_Angeles:20150920T100000
-RRULE:FREQ=WEEKLY
-SEQUENCE:0
-SUMMARY:Gathering time & singing
-URL:http://ptquaker.org/event/gathering-time-singing/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-373@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
-CATEGORIES;LANGUAGE=en-US:Public\,Worship
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/Los_Angeles:20150920T100000
-DTEND;TZID=America/Los_Angeles:20150920T110000
-GEO:+48.11347;-122.790993
-LOCATION:Port Townsend Friends Meetinghouse @ 1841 Sheridan Street\, Port T
- ownsend\, WA 98368\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:10 am Meeting for Worship
-URL:http://ptquaker.org/event/meeting-for-worship/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1030@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Committee Meeting
 CONTACT:Sandy
 DESCRIPTION:
@@ -102,7 +37,7 @@ URL:http://ptquaker.org/event/outreach-committee-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-407@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Committee Meeting\,Worship
 CONTACT:
 DESCRIPTION:
@@ -116,7 +51,7 @@ URL:http://ptquaker.org/event/spiritual-nurture/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-379@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Public\,Worship
 CONTACT:
 DESCRIPTION:
@@ -132,7 +67,7 @@ URL:http://ptquaker.org/event/midweek-meeting-for-worship/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-691@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Rental
 CONTACT:ptsangha@gmail.com\; http://ptsangha.org
 DESCRIPTION:
@@ -145,7 +80,7 @@ URL:http://ptquaker.org/event/rental/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1022@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Committee Meeting
 CONTACT:Craig Rennebohm\; 379-6371\; wcrenne@comcast.net
 DESCRIPTION:<p>Mark your calendar:  <span class='aBn' tabindex='0' data-ter
@@ -167,7 +102,7 @@ URL:http://ptquaker.org/event/peace-and-social-concerns-working-group/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-818@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Rental
 CONTACT:PT Sangha
 DESCRIPTION:
@@ -182,8 +117,37 @@ SUMMARY:Mindfulness Meditation Class (Rental)
 URL:http://ptquaker.org/event/mindfulness-meditation-class-rental/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-735@ptquaker.org/wp
+DTSTAMP:20150921T224707Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150927T093000
+DTEND;TZID=America/Los_Angeles:20150927T100000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Gathering time & singing
+URL:http://ptquaker.org/event/gathering-time-singing/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-373@ptquaker.org/wp
+DTSTAMP:20150921T224707Z
+CATEGORIES;LANGUAGE=en-US:Public\,Worship
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150927T100000
+DTEND;TZID=America/Los_Angeles:20150927T110000
+GEO:+48.11347;-122.790993
+LOCATION:Port Townsend Friends Meetinghouse @ 1841 Sheridan Street\, Port T
+ ownsend\, WA 98368\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:10 am Meeting for Worship
+URL:http://ptquaker.org/event/meeting-for-worship/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1024@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Concert or Lecture\,Public
 CONTACT:Clint\; 379-5376\; clintw327@gmail.com
 DESCRIPTION:<p>Video & discussion  of this key-note presentation</p>
@@ -197,7 +161,7 @@ URL:http://ptquaker.org/event/quakercraft-becoming-the-quakers-the-world-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1010@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Public
 CONTACT:Caroline Wildflower\; 379-5376\; ckwildflower@gmail.com
 DESCRIPTION:<p>People come to share one poem around the circle</p>
@@ -212,7 +176,7 @@ URL:http://ptquaker.org/event/poetry-sharing-circle-230/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1009@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Rental
 CONTACT:Fred Nussbaum\; 503-936-6792\; fredtrain@aol.com
 DESCRIPTION:
@@ -228,7 +192,7 @@ X-COST:donation
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1026@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Committee Meeting
 CONTACT:Caroline
 DESCRIPTION:<p>Among other things on the agenda will be review of the Sched
@@ -243,7 +207,7 @@ URL:http://ptquaker.org/event/meetinghouse-committee-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-448@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Committee Meeting
 CONTACT:
 DESCRIPTION:
@@ -257,7 +221,7 @@ URL:http://ptquaker.org/event/ministry-counsel-private/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1018@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES:
 CONTACT:Caroline Wildflower\; 379-5376\; ckwildflower@gmail.com
 DESCRIPTION:<p>A movie\, Race: the Power of Illusion\, will be shown and pe
@@ -273,7 +237,7 @@ URL:http://ptquaker.org/event/conversations-on-race-630/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-690@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Rental
 CONTACT:Maureen Morgan (Mtg. Rep = Connie)\; 344-2991
 DESCRIPTION:
@@ -287,7 +251,7 @@ URL:http://ptquaker.org/event/ufo-group-rental-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-684@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Public
 CONTACT:Ministry and Counsel
 DESCRIPTION:<p>M&C will lead a discussion on the Advices and Queries of the
@@ -312,7 +276,7 @@ URL:http://ptquaker.org/event/684/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1029@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Committee Meeting
 CONTACT:Hazel
 DESCRIPTION:<p>Hazel’s house</p>
@@ -324,7 +288,7 @@ URL:http://ptquaker.org/event/finance-committee-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1027@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Committee Meeting
 CONTACT:
 DESCRIPTION:
@@ -342,7 +306,7 @@ URL:http://ptquaker.org/event/meetinghouse-committee-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-980@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Peace &amp\; Social Concerns Event
 CONTACT:Hannah Russell\; 344-4889\; ponder.hannah@gmail.com
 DESCRIPTION:<p>Closed groups for Conversations On Race</p>
@@ -361,7 +325,7 @@ URL:http://ptquaker.org/event/conversations-on-race/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-414@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Public\,Worship
 CONTACT:Clint
 DESCRIPTION:
@@ -376,7 +340,7 @@ URL:http://ptquaker.org/event/meeting-for-worship-with-concern-for-business
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-406@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Committee Meeting\,Worship
 CONTACT:
 DESCRIPTION:
@@ -390,7 +354,7 @@ URL:http://ptquaker.org/event/spiritual-nurture-closed-group/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1025@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES:
 CONTACT:Clint\; 379-5376\; clintw327@gmail.com
 DESCRIPTION:
@@ -403,7 +367,7 @@ URL:http://ptquaker.org/event/wave-food-drive-drop-off-point/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1011@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Public\,Rental
 CONTACT:John Morton
 DESCRIPTION:
@@ -417,7 +381,7 @@ URL:http://ptquaker.org/event/concert/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-768@ptquaker.org/wp
-DTSTAMP:20150920T002138Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Committee Meeting
 CONTACT:Caroline Wildflower
 DESCRIPTION:<p>Meets the Wed before Monthly Business Meeting</p>
@@ -436,5 +400,21 @@ RRULE:FREQ=MONTHLY;BYDAY=2WE
 SEQUENCE:0
 SUMMARY:Meetinghouse Committee
 URL:http://ptquaker.org/event/meetinghouse-committee-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-823@ptquaker.org/wp
+DTSTAMP:20150921T224707Z
+CATEGORIES:
+CONTACT:PT Sangha\; gc@ptsangha.org\; http://ptsangha.org
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151219T090000
+DTEND;TZID=America/Los_Angeles:20151219T170000
+GEO:+48.113693;-122.790439
+LOCATION:Friends Meetinghouse @ 19th Street & Sheridan Street\, Port Townse
+ nd\, WA 98368\, USA
+RDATE;TZID=America/Los_Angeles:20151219T090000
+SEQUENCE:0
+SUMMARY:Day of Mindfulness (Rental)
+URL:http://ptquaker.org/event/day-of-mindfulness-rental/
 END:VEVENT
 END:VCALENDAR

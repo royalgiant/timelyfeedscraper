@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//74.208.41.123//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://oteroconservatives.com
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+RDATE:20160313T020000
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-281@oteroconservatives.com
+DTSTAMP:20150921T224649Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='addtoany_share_save_container addtoany_content_bott
+ om'><div class='a2a_kit a2a_kit_size_32 addtoany_list a2a_target' id='wpa2
+ a_1'><a class='a2a_button_facebook' href='http://www.addtoany.com/add_to/f
+ acebook?linkurl=http%3A%2F%2Foteroconservatives.com%2Fcounty-commission-me
+ eting-report-september-10-2015&linkname=County%20Commission%20Meeting%20Re
+ port%20September%2010%2C%202015' title='Facebook' rel='nofollow' target='_
+ blank'></a><a class='a2a_button_twitter' href='http://www.addtoany.com/add
+ _to/twitter?linkurl=http%3A%2F%2Foteroconservatives.com%2Fcounty-commissio
+ n-meeting-report-september-10-2015&linkname=County%20Commission%20Meeting%
+ 20Report%20September%2010%2C%202015' title='Twitter' rel='nofollow' target
+ ='_blank'></a><a class='a2a_button_google_plus' href='http://www.addtoany.
+ com/add_to/google_plus?linkurl=http%3A%2F%2Foteroconservatives.com%2Fcount
+ y-commission-meeting-report-september-10-2015&linkname=County%20Commission
+ %20Meeting%20Report%20September%2010%2C%202015' title='Google+' rel='nofol
+ low' target='_blank'></a><a class='a2a_dd addtoany_share_save' href='https
+ ://www.addtoany.com/share_save'></a>\n<script type='text/javascript'><!--
+ \nwpa2a.script_load()\;\n//--></script>\n</div></div>
+DTSTART;TZID=America/Denver:20150922T190000
+GEO:+32.898854;-105.944954
+LOCATION:Alamogordo City Commission Meeting @ 1376 E 9th St\, Alamogordo\, 
+ NM 88310\, USA
+SEQUENCE:0
+SUMMARY:
+URL:http://oteroconservatives.com/event/281
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-164@oteroconservatives.com
+DTSTAMP:20150921T224649Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Come out and support your veterans!!!!!!</p>\n<div class='ad
+ dtoany_share_save_container addtoany_content_bottom'><div class='a2a_kit a
+ 2a_kit_size_32 addtoany_list a2a_target' id='wpa2a_2'><a class='a2a_button
+ _facebook' href='http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2
+ F%2Foteroconservatives.com%2Fcounty-commission-meeting-report-september-10
+ -2015&linkname=County%20Commission%20Meeting%20Report%20September%2010%2C%
+ 202015' title='Facebook' rel='nofollow' target='_blank'></a><a class='a2a_
+ button_twitter' href='http://www.addtoany.com/add_to/twitter?linkurl=http%
+ 3A%2F%2Foteroconservatives.com%2Fcounty-commission-meeting-report-septembe
+ r-10-2015&linkname=County%20Commission%20Meeting%20Report%20September%2010
+ %2C%202015' title='Twitter' rel='nofollow' target='_blank'></a><a class='a
+ 2a_button_google_plus' href='http://www.addtoany.com/add_to/google_plus?li
+ nkurl=http%3A%2F%2Foteroconservatives.com%2Fcounty-commission-meeting-repo
+ rt-september-10-2015&linkname=County%20Commission%20Meeting%20Report%20Sep
+ tember%2010%2C%202015' title='Google+' rel='nofollow' target='_blank'></a>
+ <a class='a2a_dd addtoany_share_save' href='https://www.addtoany.com/share
+ _save'></a></div></div>
+DTSTART;TZID=America/Denver:20151107T100000
+GEO:+32.899928;-105.941524
+LOCATION:Veterans Day Parade @ East 10th Street\, Alamogordo\, NM 88310\, U
+ SA
+SEQUENCE:0
+SUMMARY:Veterans Day Parade
+URL:http://oteroconservatives.com/event/veterans-day-parade
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

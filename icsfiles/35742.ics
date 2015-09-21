@@ -16,26 +16,8 @@ TZNAME:JST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-1631@www.kodomobst.org
-DTSTAMP:20150920T002204Z
-CATEGORIES:
-CONTACT:市川子ども文化ステーション　中央地区\; 047-332-3024\; i_chuou@icnet.ne.jp
-DESCRIPTION:<p>こどがつくるまち　ミニ☆いちかわ(現代産業科学館会場)のこどもスタッフ会議です。</p><p>※こどもスタッフの募集は終
- 了しています。</p>
-DTSTART;VALUE=DATE:20150920
-DTEND;VALUE=DATE:20150921
-GEO:+35.714857;+139.932507
-LOCATION:千葉現代産業科学館 @ 日本\, 〒272-0015 千葉県市川市鬼高１丁目１−３
-RDATE;TZID=Asia/Tokyo:20150913T000000
-RDATE;TZID=Asia/Tokyo:20150920T000000
-RDATE;TZID=Asia/Tokyo:20151011T000000
-SEQUENCE:0
-SUMMARY:ミニ☆いちかわ　こどもスタッフ会議
-URL:http://www.kodomobst.org/event/1631.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1605@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:あそぶ
 CONTACT:http://www.kodomobst.org/info/2029.html
 DESCRIPTION:<p>企画から運営まで子どもの実行委員たちが、何度も会議を重ねて取り組みます。 まちには、子どもたちのアイデアがいっぱい詰まっ
@@ -50,8 +32,26 @@ SUMMARY:子どもがつくるまち「ミニ☆いちかわ2015」
 URL:http://www.kodomobst.org/event/1605.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1631@www.kodomobst.org
+DTSTAMP:20150921T224739Z
+CATEGORIES:
+CONTACT:市川子ども文化ステーション　中央地区\; 047-332-3024\; i_chuou@icnet.ne.jp
+DESCRIPTION:<p>こどがつくるまち　ミニ☆いちかわ(現代産業科学館会場)のこどもスタッフ会議です。</p><p>※こどもスタッフの募集は終
+ 了しています。</p>
+DTSTART;VALUE=DATE:20151011
+DTEND;VALUE=DATE:20151012
+GEO:+35.714857;+139.932507
+LOCATION:千葉現代産業科学館 @ 日本\, 〒272-0015 千葉県市川市鬼高１丁目１−３
+RDATE;TZID=Asia/Tokyo:20150913T000000
+RDATE;TZID=Asia/Tokyo:20150920T000000
+RDATE;TZID=Asia/Tokyo:20151011T000000
+SEQUENCE:0
+SUMMARY:ミニ☆いちかわ　こどもスタッフ会議
+URL:http://www.kodomobst.org/event/1631.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-901@ver2.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES:
 CONTACT:市川子ども文化ステーション　北地区\; 047-3397744\; ichikawaoyakogekijo@yahoo.co.jp
 DESCRIPTION:<p>子育て中のママの交流スペース♡ 保育スタッフがいるのでお母さん同士おしゃべりなどできます♪初めての方でもスタッフが交流の
@@ -69,7 +69,7 @@ X-COST:200円(お茶代)
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2195@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:幼児サークル
 CONTACT:
 DESCRIPTION:<p>バス遠足　</p><p>☆対象　1才から入園前のお子さんとお母さん<br /> ☆会費　入会金300円・月会費1000円
@@ -100,7 +100,7 @@ X-TAGS;LANGUAGE=ja:行徳地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-162@ver2.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:幼児サークル
 CONTACT:http://ver2.kodomobst.org/info/118.html
 DESCRIPTION:<p><span class='title'>わいわいキッズ(中央地区　おやこサークル）</span></p><p><span
@@ -135,7 +135,7 @@ X-TAGS;LANGUAGE=ja:中央地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2222@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:幼児サークル
 CONTACT:http://www.kodomobst.org/info/686.html
 DESCRIPTION:<p>0歳～未就園児のおやこふれあいサークルです。</p><p>いつでも見学大歓迎です(^o^)</p>
@@ -149,7 +149,7 @@ X-TAGS;LANGUAGE=ja:北地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-164@ver2.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:幼児サークル
 CONTACT:http://ver2.kodomobst.org/info/118.html
 DESCRIPTION:<p><span class='event-when'>わくわくキッズ(中央地区　おやこサークル）</span></p><di
@@ -172,7 +172,7 @@ URL:http://www.kodomobst.org/event/164.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1606@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:企画から運営まで子どもの実行委員たちが、何度も会議を重ねて取り組みます。\nまちには、子どもたちのアイデアがいっぱい詰まったお
@@ -188,7 +188,7 @@ URL:http://www.kodomobst.org/event/1606.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-165@ver2.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:幼児サークル
 CONTACT:http://ver2.kodomobst.org/info/118.html
 DESCRIPTION:<p><span class='title'>ぴょんぴょんキッズ(中央地区　おやこサークル）</span></p><p><sp
@@ -223,7 +223,7 @@ X-TAGS;LANGUAGE=ja:中央地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2190@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:幼児サークル
 CONTACT:
 DESCRIPTION:<p>☆対象　1才から入園前のお子さんとお母さん<br /> ☆日時　月1~2回　10:30~12:00<br /> ☆内容　
@@ -258,7 +258,7 @@ X-TAGS;LANGUAGE=ja:行徳地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2192@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:幼児サークル
 CONTACT:
 DESCRIPTION:<p>☆対象　1才から入園前のお子さんとお母さん<br />☆日時　月1~2回　10:30~12:00<br />☆内容　手遊
@@ -293,7 +293,7 @@ X-TAGS;LANGUAGE=ja:行徳地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1751@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -312,7 +312,7 @@ X-TAGS;LANGUAGE=ja:北地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2191@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:幼児サークル
 CONTACT:
 DESCRIPTION:<p>☆対象　1才から入園前のお子さんとお母さん<br />\n☆日時　月1~2回　10:30~12:00<br />\n☆内
@@ -348,7 +348,7 @@ X-TAGS;LANGUAGE=ja:行徳地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2193@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:幼児サークル
 CONTACT:
 DESCRIPTION:<p>☆対象　1才から入園前のお子さんとお母さん<br /> ☆日時　月1~2回　10:30~12:00<br /> ☆内容　
@@ -384,7 +384,7 @@ X-TAGS;LANGUAGE=ja:行徳地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1752@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -403,7 +403,7 @@ X-TAGS;LANGUAGE=ja:中央地区\,北地区\,行徳地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1753@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
 CONTACT:
 DESCRIPTION:<p>☆幼児から大人<br /> ～迫力のタップと捧腹絶倒のパフォーマンス・コント。タップにパーカッション・生演奏の音楽・ジャ
@@ -420,7 +420,7 @@ X-TAGS;LANGUAGE=ja:中央地区\,北地区\,行徳地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1754@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
 CONTACT:
 DESCRIPTION:<p>☆幼児・小学生<br /> ～ざんさんが、からだままごと語りだす！おかしくてゆかいで、子どもたちは思わず表現したくなる。
@@ -434,7 +434,7 @@ URL:http://www.kodomobst.org/event/1754.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1755@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
 CONTACT:
 DESCRIPTION:<p>☆幼児から大人<br /> ～ケンハモとは鍵盤ハーモニカのこと。ピアノ・バイオリン・チェロを従えて魅せる聴かせる音色。後
@@ -450,7 +450,7 @@ X-TAGS;LANGUAGE=ja:中央地区\,北地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1756@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:みる\,鑑賞例会
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -469,7 +469,7 @@ X-TAGS;LANGUAGE=ja:行徳地区
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1874@www.kodomobst.org
-DTSTAMP:20150920T002204Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=ja:鑑賞例会
 CONTACT:
 DESCRIPTION:<p>☆高学年・大人</p><p>◆斉藤組</p>

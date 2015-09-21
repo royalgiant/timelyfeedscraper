@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en-US" class="ie6"><![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US" class="ie7"><![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US" class="ie8"><![endif]-->
+<!--[if IE 9 ]>    <html lang="en-US" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US"><!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://prosperity.michaeldpollock.com/xmlrpc.php">
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<title>WP-Prosperity | WP-Prosperity Development Site by Michael D. Pollock</title>
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="WP-Prosperity &raquo; Feed" href="http://prosperity.michaeldpollock.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WP-Prosperity &raquo; Comments Feed" href="http://prosperity.michaeldpollock.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/prosperity.michaeldpollock.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://prosperity.michaeldpollock.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='pac-styles-css'  href='http://prosperity.michaeldpollock.com/wp-content/plugins/woocommerce-product-archive-customiser/assets/css/pac.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pac-layout-styles-css'  href='http://prosperity.michaeldpollock.com/wp-content/plugins/woocommerce-product-archive-customiser/assets/css/layout.css?ver=4.3.1' type='text/css' media='only screen and (min-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//prosperity.michaeldpollock.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//prosperity.michaeldpollock.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.4.6' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//prosperity.michaeldpollock.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wcqi-css-css'  href='http://prosperity.michaeldpollock.com/wp-content/plugins/woocommerce-quantity-increment/assets/css/wc-quantity-increment.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/fonts/font-awesome/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bootstrap.min.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/flexslider.css?ver=2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-shortcodes-css'  href='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/shortcodes.css?ver=2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-woocommerce-css'  href='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/woocommerce.css?ver=2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='default-google-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C600%2C700%2C300italic%2C400italic%2C600italic%2C700italic%7CPT+Serif%3A400%2C700%2C400italic%2C700italic&#038;ver=2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://prosperity.michaeldpollock.com/wp-includes/css/dashicons.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-print_styles-css'  href='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/style-print.css?ver=2.6' type='text/css' media='print' />
+<link rel='stylesheet' id='theme-main-styles-css'  href='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/style.css?ver=2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-custom_styles-css'  href='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/style-custom.css?ver=2.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/plugins/woocommerce-quantity-increment/assets/js/wc-quantity-increment.min.js?ver=4.3.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://prosperity.michaeldpollock.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://prosperity.michaeldpollock.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<meta name="generator" content="WooCommerce 2.4.6" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- Custom Styles from Theme Setting Page -->
+<style type="text/css">
+.site-container, .unboxed .site-inner, .unboxed .wrap { max-width:1280px; }
+.unboxed .slideslider .flex-caption-wrap { max-width:1280px !important; }
+.site-header .wrap { height:100px;}
+h1.site-title, .site-title { font-family:PT Serif;font-style:normal;font-weight:normal;font-size:24px;text-transform:none; }
+h1,h2,h3,h4,h5,h6 { font-family:PT Serif;font-style:normal;font-weight:normal;text-transform:none; }
+h2.widgettitle, h2.widget-title {font-size:18px;}
+h1 {font-size:30px;}
+h2 {font-size:28px;}
+h3 {font-size:26px;}
+h4 {font-size:24px;}
+h5 {font-size:20px;}
+h6 {font-size:18px;}
+body { font-family:Source Sans Pro;font-style:normal;font-weight:normal;font-size:16px;line-height:1.5;text-transform:none; }
+.site-inner .sidebar { font-family:Source Sans Pro;font-style:normal;font-weight:normal;font-size:14px;line-height:1.5;text-transform:none; }
+.nav-primary { font-family:Source Sans Pro;font-style:normal;font-weight:normal;font-size:14px;text-transform:none; }
+.nav-secondary { font-family:Source Sans Pro;font-style:normal;font-weight:normal;font-size:14px;text-transform:none; }
+.nav-fixed { font-family:Source Sans Pro;font-style:normal;font-weight:normal;font-size:14px;text-transform:none; }
+.comment-metadata,.wp-caption,.wp-caption-text,.entry-caption,.gallery-caption,.entry-media .thumb-caption,.sitemap-entry-meta,.entry-meta { font-family:Source Sans Pro;font-style:normal;font-weight:normal;font-size:14px;text-transform:none; }
+.site-container { border: 0; }
+.site-container { border-color:#000000; }
+</style>
+<!-- WooCommerce Colors -->
+<style type="text/css">
+p.demo_store{background-color:#ad74a2;color:#fff;}.woocommerce .woocommerce-message,.woocommerce .woocommerce-error,.woocommerce .woocommerce-info{background-color:#fff;color:#5e5e5e;}.woocommerce small.note{color:#777;}.woocommerce .woocommerce-breadcrumb{color:#777;}.woocommerce .woocommerce-breadcrumb a{color:#777;}.woocommerce div.product span.price,.woocommerce div.product p.price{color:#369;}.woocommerce div.product .stock{color:#369;}.woocommerce div.product .woocommerce-tabs ul.tabs li{border:1px solid #dfdbdf;background-color:#f7f6f7;}.woocommerce div.product .woocommerce-tabs ul.tabs li a{color:#5e5e5e;}.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover{color:#777;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active{background:#fff;border-bottom-color:#fff;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before{box-shadow:2px 2px 0 #fff;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active:after{box-shadow:-2px 2px 0 #fff;}.woocommerce div.product .woocommerce-tabs ul.tabs li:before,.woocommerce div.product .woocommerce-tabs ul.tabs li:after{border:1px solid #dfdbdf;position:absolute;bottom:-1px;width:5px;height:5px;content:" ";}.woocommerce div.product .woocommerce-tabs ul.tabs li:before{left:-6px;-webkit-border-bottom-right-radius:4px;-moz-border-bottom-right-radius:4px;border-bottom-right-radius:4px;border-width:0 1px 1px 0;box-shadow:2px 2px 0 #f7f6f7;}.woocommerce div.product .woocommerce-tabs ul.tabs li:after{right:-6px;-webkit-border-bottom-left-radius:4px;-moz-border-bottom-left-radius:4px;border-bottom-left-radius:4px;border-width:0 0 1px 1px;box-shadow:-2px 2px 0 #f7f6f7;}.woocommerce div.product .woocommerce-tabs ul.tabs:before{border-bottom:1px solid #dfdbdf;}.woocommerce span.onsale{background-color:#369;color:#fff;}.woocommerce ul.products li.product .price{color:#369;}.woocommerce ul.products li.product .price .from{color:rgba(102, 102, 102, 0.5);}.woocommerce nav.woocommerce-pagination ul{border:1px solid #dfdbdf;}.woocommerce nav.woocommerce-pagination ul li{border-right:1px solid #dfdbdf;}.woocommerce nav.woocommerce-pagination ul li span.current,.woocommerce nav.woocommerce-pagination ul li a:hover,.woocommerce nav.woocommerce-pagination ul li a:focus{background:#f7f6f7;color:#978a97;}.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce #respond input#submit{color:#5e5e5e;background-color:#f7f6f7;}.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce #respond input#submit:hover{background-color:#e6e5e6;color:#5e5e5e;}.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt{background-color:#ad74a2;color:#fff;}.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce #respond input#submit.alt:hover{background-color:#9c6391;color:#fff;}.woocommerce a.button.alt.disabled,.woocommerce button.button.alt.disabled,.woocommerce input.button.alt.disabled,.woocommerce #respond input#submit.alt.disabled,.woocommerce a.button.alt:disabled,.woocommerce button.button.alt:disabled,.woocommerce input.button.alt:disabled,.woocommerce #respond input#submit.alt:disabled,.woocommerce a.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled],.woocommerce input.button.alt:disabled[disabled],.woocommerce #respond input#submit.alt:disabled[disabled],.woocommerce a.button.alt.disabled:hover,.woocommerce button.button.alt.disabled:hover,.woocommerce input.button.alt.disabled:hover,.woocommerce #respond input#submit.alt.disabled:hover,.woocommerce a.button.alt:disabled:hover,.woocommerce button.button.alt:disabled:hover,.woocommerce input.button.alt:disabled:hover,.woocommerce #respond input#submit.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce #respond input#submit.alt:disabled[disabled]:hover{background-color:#ad74a2;color:#fff;}.woocommerce a.button:disabled:hover,.woocommerce button.button:disabled:hover,.woocommerce input.button:disabled:hover,.woocommerce #respond input#submit:disabled:hover,.woocommerce a.button.disabled:hover,.woocommerce button.button.disabled:hover,.woocommerce input.button.disabled:hover,.woocommerce #respond input#submit.disabled:hover,.woocommerce a.button:disabled[disabled]:hover,.woocommerce button.button:disabled[disabled]:hover,.woocommerce input.button:disabled[disabled]:hover,.woocommerce #respond input#submit:disabled[disabled]:hover{background-color:#f7f6f7;}.woocommerce #reviews h2 small{color:#777;}.woocommerce #reviews h2 small a{color:#777;}.woocommerce #reviews #comments ol.commentlist li .meta{color:#777;}.woocommerce #reviews #comments ol.commentlist li img.avatar{background:#f7f6f7;border:1px solid #f0eef0;}.woocommerce #reviews #comments ol.commentlist li .comment-text{border:1px solid #f0eef0;}.woocommerce #reviews #comments ol.commentlist #respond{border:1px solid #f0eef0;}.woocommerce .star-rating:before{color:#dfdbdf;}.woocommerce.widget_shopping_cart .total,.woocommerce .widget_shopping_cart .total{border-top:3px double #f7f6f7;}.woocommerce form.login,.woocommerce form.checkout_coupon,.woocommerce form.register{border:1px solid #dfdbdf;}.woocommerce .order_details li{border-right:1px dashed #dfdbdf;}.woocommerce .widget_price_filter .ui-slider .ui-slider-handle{background-color:#ad74a2;}.woocommerce .widget_price_filter .ui-slider .ui-slider-range{background-color:#ad74a2;}.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content{background-color:#69305e;}.woocommerce-cart table.cart td.actions .coupon .input-text{border:1px solid #dfdbdf;}.woocommerce-cart .cart-collaterals .cart_totals p small{color:#777;}.woocommerce-cart .cart-collaterals .cart_totals table small{color:#777;}.woocommerce-cart .cart-collaterals .cart_totals .discount td{color:#369;}.woocommerce-cart .cart-collaterals .cart_totals tr td,.woocommerce-cart .cart-collaterals .cart_totals tr th{border-top:1px solid #f7f6f7;}.woocommerce-checkout .checkout .create-account small{color:#777;}.woocommerce-checkout #payment{background:#f7f6f7;}.woocommerce-checkout #payment ul.payment_methods{border-bottom:1px solid #dfdbdf;}.woocommerce-checkout #payment div.payment_box{background-color:#ebe9eb;color:#5e5e5e;}.woocommerce-checkout #payment div.payment_box input.input-text,.woocommerce-checkout #payment div.payment_box textarea{border-color:#d3ced3;border-top-color:#c7c0c7;}.woocommerce-checkout #payment div.payment_box ::-webkit-input-placeholder{color:#c7c0c7;}.woocommerce-checkout #payment div.payment_box :-moz-placeholder{color:#c7c0c7;}.woocommerce-checkout #payment div.payment_box :-ms-input-placeholder{color:#c7c0c7;}.woocommerce-checkout #payment div.payment_box span.help{color:#777;}.woocommerce-checkout #payment div.payment_box:after{content:"";display:block;border:8px solid #ebe9eb;border-right-color:transparent;border-left-color:transparent;border-top-color:transparent;position:absolute;top:-3px;left:0;margin:-1em 0 0 2em;}
+</style>
+<!--/WooCommerce Colors-->
+</head>
+
+<body class="home blog c-sw two-column unboxed darkheader nav-arrows standard-blog " itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+	
+	
+	<!-- OUTER SITE CONTAINER (.site-container) -->
+	<div class="site-container">
+
+		
+		
+				<!-- SITE HEADER (.site-header) -->
+		<header class="site-header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+
+			<div class="wrap">
+
+				<div class="site-branding">
+					<a href="http://prosperity.michaeldpollock.com/" title="WP-Prosperity" rel="home">
+						<h1 class="site-title" itemprop="headline">
+							WP-Prosperity						</h1>
+											</a>
+				</div><!-- .site-branding -->
+
+				<!-- HEADER NAVIGATION (.nav-secondary) -->
+<nav class="nav-secondary" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+	<div class="wrap">
+
+		<span title="Display Menu" class="menu-toggle">
+			<i class="fa fa-navicon"></i>
+		</span>
+
+		<ul id="secnav" class="nav-menu"><li id="menu-item-11233" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-has-children menu-item-11233"><a href="http://prosperity.michaeldpollock.com/">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-11073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11073"><a href="#">Category Groups</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11164"><a href="http://prosperity.michaeldpollock.com/blog/blog-arranged-by-category/">Side-by-Side</a></li>
+		<li id="menu-item-11165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11165"><a href="http://prosperity.michaeldpollock.com/blog/blog-arranged-by-category-stacked/">Stacked</a></li>
+	</ul>
+</li>
+	<li id="menu-item-11075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11075"><a href="#">Grid Blog</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11155"><a href="http://prosperity.michaeldpollock.com/blog/blog-test/">2 Column</a></li>
+		<li id="menu-item-11156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11156"><a href="http://prosperity.michaeldpollock.com/blog/blog-three-column/">3 Column</a></li>
+		<li id="menu-item-11157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11157"><a href="http://prosperity.michaeldpollock.com/blog/blog-4-column/">4 Column</a></li>
+	</ul>
+</li>
+	<li id="menu-item-11074" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11074"><a href="#">Classic Blog</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11154"><a href="http://prosperity.michaeldpollock.com/blog/blog-thumbnails-top/">Media Top</a></li>
+		<li id="menu-item-11153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11153"><a href="http://prosperity.michaeldpollock.com/blog/blog-thumbnails-right/">Media Right</a></li>
+		<li id="menu-item-11163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11163"><a href="http://prosperity.michaeldpollock.com/blog/standard-blog/">Media Left</a></li>
+	</ul>
+</li>
+	<li id="menu-item-11076" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11076"><a href="#">Masonry Blog</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11158"><a href="http://prosperity.michaeldpollock.com/blog/my-test-page/">2 Column</a></li>
+		<li id="menu-item-11159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11159"><a href="http://prosperity.michaeldpollock.com/blog/blog-masonry-3-column/">3 Column</a></li>
+		<li id="menu-item-11160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11160"><a href="http://prosperity.michaeldpollock.com/blog/blog-masonry/">4 Column</a></li>
+	</ul>
+</li>
+	<li id="menu-item-11072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11072"><a href="#">Wide Page</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11161"><a href="http://prosperity.michaeldpollock.com/wide-page-1/">Wide Page Example 1</a></li>
+		<li id="menu-item-11166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11166"><a href="http://prosperity.michaeldpollock.com/wide-page-alt/">Wide Page  Example 2</a></li>
+		<li id="menu-item-11167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11167"><a href="http://prosperity.michaeldpollock.com/wide-page-3/">Wide Page  Example 3</a></li>
+		<li id="menu-item-11162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11162"><a href="http://prosperity.michaeldpollock.com/widgetized-page/">Widgetized Page</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-11048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11048"><a href="#">Sliders</a>
+<ul class="sub-menu">
+	<li id="menu-item-11103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11103"><a href="http://prosperity.michaeldpollock.com/features/slider-narrow-featured-content/">Narrow Featured Content</a></li>
+	<li id="menu-item-11114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11114"><a href="http://prosperity.michaeldpollock.com/features/alternate-narrow-featured-content/">Narrow Featured Content 2</a></li>
+	<li id="menu-item-11104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11104"><a href="http://prosperity.michaeldpollock.com/features/slider-wide-featured-content-slider/">Wide Featured Content</a></li>
+	<li id="menu-item-11115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11115"><a href="http://prosperity.michaeldpollock.com/features/alternate-wide-featured-content/">Wide Featured Content 2</a></li>
+	<li id="menu-item-11105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11105"><a href="http://prosperity.michaeldpollock.com/features/slider-full-width-featured-pages/">Featured Pages</a></li>
+	<li id="menu-item-11116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11116"><a href="http://prosperity.michaeldpollock.com/features/featured-slides-slideshow/">Featured Slides</a></li>
+	<li id="menu-item-11107" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11107"><a href="http://prosperity.michaeldpollock.com/2013/08/photo-gallery-5-2/">Gallery Slider</a></li>
+	<li id="menu-item-11106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11106"><a href="http://prosperity.michaeldpollock.com/shortcodes/slideshow-shortcode/">Slideshow Shortcode</a></li>
+</ul>
+</li>
+<li id="menu-item-11051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11051"><a href="#">Layouts</a>
+<ul class="sub-menu">
+	<li id="menu-item-11148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11148"><a href="http://prosperity.michaeldpollock.com/page-layouts/content-sidebar-wide/">Content | Sidebar-Wide</a></li>
+	<li id="menu-item-11143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11143"><a href="http://prosperity.michaeldpollock.com/page-layouts/sidebar-wide-content/">Sidebar-Wide | Content</a></li>
+	<li id="menu-item-11146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11146"><a href="http://prosperity.michaeldpollock.com/page-layouts/content-sidebar-narrow-2/">Content | Sidebar-Narrow</a></li>
+	<li id="menu-item-11141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11141"><a href="http://prosperity.michaeldpollock.com/page-layouts/sidebar-narrow-content-2/">Sidebar-Narrow | Content</a></li>
+	<li id="menu-item-11142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11142"><a href="http://prosperity.michaeldpollock.com/page-layouts/sidebar-narrow-content-sidebar-wide/">Sidebar-Narrow | Content | Sidebar-Wide</a></li>
+	<li id="menu-item-11147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11147"><a href="http://prosperity.michaeldpollock.com/page-layouts/content-sidebar-narrow-sidebar-wide/">Content | Sidebar-Narrow | Sidebar-Wide</a></li>
+	<li id="menu-item-11144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11144"><a href="http://prosperity.michaeldpollock.com/page-layouts/sidebar-wide-content-sidebar-narrow/">Sidebar-Wide | Content | Sidebar-Narrow</a></li>
+	<li id="menu-item-11145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11145"><a href="http://prosperity.michaeldpollock.com/page-layouts/sidebar-wide-sidebar-narrow-content/">Sidebar-Wide | Sidebar-Narrow | Content</a></li>
+	<li id="menu-item-11149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11149"><a href="http://prosperity.michaeldpollock.com/page-layouts/full-width/">Full-Width</a></li>
+</ul>
+</li>
+<li id="menu-item-11045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11045"><a href="#">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-11043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11043"><a href="/404/">404 Page</a></li>
+	<li id="menu-item-11079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11079"><a href="http://prosperity.michaeldpollock.com/page-templates/all-authors-page/">All Authors Page</a></li>
+	<li id="menu-item-11080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11080"><a href="http://prosperity.michaeldpollock.com/page-templates/archives-by-category/">Archives by Category</a></li>
+	<li id="menu-item-11081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11081"><a href="http://prosperity.michaeldpollock.com/page-templates/archives-by-month/">Archives by Month</a></li>
+	<li id="menu-item-11082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11082"><a href="http://prosperity.michaeldpollock.com/page-templates/image-gallery/">Archives Image Gallery</a></li>
+	<li id="menu-item-11044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11044"><a href="/blog/author/michaeldpollock/">Author Archive Page</a></li>
+	<li id="menu-item-11049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11049"><a href="http://wp-prosperity.com/blog/categories/photos/">Category Archive Page</a></li>
+	<li id="menu-item-11085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11085"><a href="http://prosperity.michaeldpollock.com/features/contact-us/">Contact</a></li>
+	<li id="menu-item-11086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11086"><a href="http://prosperity.michaeldpollock.com/page-templates/featured-pages/">Featured Pages</a></li>
+	<li id="menu-item-11083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11083"><a href="http://prosperity.michaeldpollock.com/page-templates/landing-page/">Landing Page</a></li>
+	<li id="menu-item-11084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11084"><a href="http://prosperity.michaeldpollock.com/page-templates/site-map/">Site Map</a></li>
+</ul>
+</li>
+<li id="menu-item-11060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11060"><a href="#">Shortcodes</a>
+<ul class="sub-menu">
+	<li id="menu-item-11127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11127"><a href="http://prosperity.michaeldpollock.com/shortcodes/accordions-toggles/">Accordion/ Toggle Shortcode</a></li>
+	<li id="menu-item-11128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11128"><a href="http://prosperity.michaeldpollock.com/shortcodes/alert-boxed/">Alert/Info Box Shortcode</a></li>
+	<li id="menu-item-11129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11129"><a href="http://prosperity.michaeldpollock.com/shortcodes/button-shortcode/">Button Shortcode</a></li>
+	<li id="menu-item-11130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11130"><a href="http://prosperity.michaeldpollock.com/shortcodes/columns-shortcode/">Columns Shortcode</a></li>
+	<li id="menu-item-11131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11131"><a href="http://prosperity.michaeldpollock.com/shortcodes/divider-shortcode/">Divider Shortcode</a></li>
+	<li id="menu-item-11132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11132"><a href="http://prosperity.michaeldpollock.com/shortcodes/icon-box/">Icon Box Shortcode</a></li>
+	<li id="menu-item-11133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11133"><a href="http://prosperity.michaeldpollock.com/shortcodes/portfolio-shortcode/">Portfolio Shortcode</a></li>
+	<li id="menu-item-11134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11134"><a href="http://prosperity.michaeldpollock.com/shortcodes/posts-shortcode/">Posts Shortcode</a></li>
+	<li id="menu-item-11180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11180"><a href="http://prosperity.michaeldpollock.com/shortcodes/posts-by-category-shortcode/">Posts-by-Category Shortcode</a></li>
+	<li id="menu-item-11135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11135"><a href="http://prosperity.michaeldpollock.com/shortcodes/slideshow-shortcode/">Slideshow Shortcode</a></li>
+	<li id="menu-item-11136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11136"><a href="http://prosperity.michaeldpollock.com/shortcodes/social-icons-shortcode/">Social Icons Shortcode</a></li>
+	<li id="menu-item-11137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11137"><a href="http://prosperity.michaeldpollock.com/shortcodes/tabs-shortcode/">Tabs Shortcode</a></li>
+	<li id="menu-item-11138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11138"><a href="http://prosperity.michaeldpollock.com/shortcodes/tooltips/">Tooltips Shortcode</a></li>
+	<li id="menu-item-11139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11139"><a href="http://prosperity.michaeldpollock.com/shortcodes/video-shortcode/">Video Shortcode</a></li>
+	<li id="menu-item-11140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11140"><a href="http://prosperity.michaeldpollock.com/shortcodes/wide-content-shortcode/">Wide Content Shortcode</a></li>
+</ul>
+</li>
+</ul>
+	</div><!-- .wrap -->
+
+</nav> 
+<!-- END SECONDARY NAVIGATION (.nav-secondary) -->
+			</div><!-- .wrap -->
+
+		</header>
+		<!-- END SITE HEADER (.site-header) -->
+		
+		
+		
+		
+		<!-- INNER SITE CONTAINER (.site-inner) -->
+		<div class="site-inner">
+
+			<div class="site-inner-wrap">
+
+			<div class="tb-col-border narrow"></div>
+
+			<div class="tb-col-border wide"></div>
+
+			<!-- PRIMARY CONTENT AREA (#primary) -->
+			<div id="primary" class="content-area">
+
+				<!-- CONTENT AREA (.site-content) -->
+				<main id="content" class="site-content" itemprop="mainContentOfPage">
+
+					<div class="article-container thumbs-top blog-container" itemscope="itemscope" itemtype="http://schema.org/Blog">						<article id="post-11534" class="col-sm-12 nothumb post-11534 post type-post status-publish format-standard hentry category-uncategorized uncategorized" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2015/08/test-post-2/" rel="bookmark">test post &#8211; hide title</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2015-08-27T14:28:59+00:00">August 27, 2015</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2015/08/test-post-2/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+											
+									<div class="entry-content" itemprop="text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam ut nunc quis nisi tincidunt tincidunt. Pellentesque enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2015/08/test-post-2/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/uncategorized/" rel="category tag">Uncategorized</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-11523" class="col-sm-12 post-11523 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized uncategorized" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2015/08/new-recipe-3/" rel="bookmark">Test Recipe</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2015-08-25T22:02:02+00:00">August 25, 2015</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2015/08/new-recipe-3/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2015/08/new-recipe-3/" title="Test Recipe">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2015/08/food-740x493.jpg" alt="Test Recipe" class="landscape large-thumbnail" width="740" height="493" itemprop="image" />				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam ut nunc quis nisi tincidunt tincidunt. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2015/08/new-recipe-3/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/uncategorized/" rel="category tag">Uncategorized</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-118" class="col-sm-12 post-118 post type-post status-publish format-standard has-post-thumbnail hentry category-articles articles" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2014/12/this-is-a-test-post-8/" rel="bookmark">Post With Comments</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2014-12-11T09:32:23+00:00">December 11, 2014</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2014/12/this-is-a-test-post-8/#comments">15 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2014/12/this-is-a-test-post-8/" title="Post With Comments">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2014/01/newfeat33-740x493.jpg" alt="Post With Comments" class="landscape large-thumbnail" width="740" height="493" itemprop="image" /><span class="thumb-caption">this is the image caption.</span>				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>This is a featured WordPress Post. You can show Pages or Posts in the featured content slider. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2014/12/this-is-a-test-post-8/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/blog/articles/" rel="category tag">Articles</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-955" class="col-sm-12 post-955 post type-post status-publish format-standard has-post-thumbnail hentry category-people people" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-video-post-2/" rel="bookmark">Staring Into the Distance</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2014-02-15T15:47:29+00:00">February 15, 2014</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-video-post-2/#comments">1 Comment</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-video-post-2/" title="Staring Into the Distance">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2014/05/newfeat6-740x493.jpg" alt="Staring Into the Distance" class="landscape large-thumbnail" width="740" height="493" itemprop="image" /><span class="thumb-caption">Staring off into the distance.</span>				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>This is a featured WordPress Post. You can show Pages or Posts in the featured content slider. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-video-post-2/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/photos/people/" rel="category tag">People</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-962" class="col-sm-12 post-962 post type-post status-publish format-standard has-post-thumbnail hentry category-technology-blog technology-blog" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-test-post-3-2/" rel="bookmark">3-Column Test Post</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2014-02-12T10:25:13+00:00">February 12, 2014</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-test-post-3-2/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-test-post-3-2/" title="3-Column Test Post">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2014/02/newfeat18-740x493.jpg" alt="3-Column Test Post" class="landscape large-thumbnail" width="740" height="493" itemprop="image" />				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>This is a featured WordPress Post. You can show Pages or Posts in the featured content slider. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-test-post-3-2/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/blog/technology-blog/" rel="category tag">Technology</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-3031" class="col-sm-12 post-3031 post type-post status-publish format-standard has-post-thumbnail hentry category-cityscapes cityscapes" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2014/02/shortcode-test-2/" rel="bookmark">It&#8217;s Always Time for Tea</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2014-02-08T16:52:02+00:00">February 8, 2014</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2014/02/shortcode-test-2/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2014/02/shortcode-test-2/" title="It&#8217;s Always Time for Tea">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2014/02/newfeat32-740x493.jpg" alt="It&#039;s Always Time for Tea" class="landscape large-thumbnail" width="740" height="493" itemprop="image" />				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam ut nunc quis nisi tincidunt tincidunt. Pellentesque enim. Sed et leo nec augue mollis pharetra. Lorem ipsum [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2014/02/shortcode-test-2/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/photos/cityscapes/" rel="category tag">CityScapes</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-3318" class="col-sm-12 post-3318 post type-post status-publish format-standard has-post-thumbnail hentry category-articles articles" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2014/02/this-is-just-the-best-photo/" rel="bookmark">She Loves Her Mac</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2014-02-04T12:32:01+00:00">February 4, 2014</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2014/02/this-is-just-the-best-photo/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2014/02/this-is-just-the-best-photo/" title="She Loves Her Mac">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2014/02/newfeat23-740x493.jpg" alt="She Loves Her Mac" class="landscape large-thumbnail" width="740" height="493" itemprop="image" /><span class="thumb-caption">My girlfriend lovers her Mac.</span>				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam ut nunc quis nisi tincidunt tincidunt. Pellentesque enim. Sed et leo nec augue mollis pharetra. Lorem ipsum [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2014/02/this-is-just-the-best-photo/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/blog/articles/" rel="category tag">Articles</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-2287" class="col-sm-12 post-2287 post type-post status-publish format-standard has-post-thumbnail hentry category-cityscapes cityscapes" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2014/02/beautiful-boston-harbor-at-dusk/" rel="bookmark">Busy Restaurant</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2014-02-03T09:36:43+00:00">February 3, 2014</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2014/02/beautiful-boston-harbor-at-dusk/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2014/02/beautiful-boston-harbor-at-dusk/" title="Busy Restaurant">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2013/02/newfeat8-740x493.jpg" alt="Busy Restaurant" class="landscape large-thumbnail" width="740" height="493" itemprop="image" /><span class="thumb-caption">Busy day in the cafe.</span>				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam ut nunc quis nisi tincidunt tincidunt. Pellentesque enim. Sed et leo nec augue mollis pharetra. Lorem ipsum [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2014/02/beautiful-boston-harbor-at-dusk/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/photos/cityscapes/" rel="category tag">CityScapes</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-950" class="col-sm-12 post-950 post type-post status-publish format-standard has-post-thumbnail hentry category-cityscapes cityscapes" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-test-post-2-2/" rel="bookmark">Cool Outdoor Cafe</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2014-02-01T15:20:53+00:00">February 1, 2014</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-test-post-2-2/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-test-post-2-2/" title="Cool Outdoor Cafe">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2013/02/newfeat9-740x493.jpg" alt="Cool Outdoor Cafe" class="landscape large-thumbnail" width="740" height="493" itemprop="image" />				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam ut nunc quis nisi tincidunt tincidunt. Pellentesque enim. Sed et leo nec augue mollis pharetra. Lorem ipsum [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2014/02/this-is-a-test-post-2-2/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/photos/cityscapes/" rel="category tag">CityScapes</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-2463" class="col-sm-12 post-2463 post type-post status-publish format-standard has-post-thumbnail hentry category-technology-blog technology-blog" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="" title="Post Format: standard"></a>				<a href="http://prosperity.michaeldpollock.com/2014/01/foggy-landscape-early-morning-mist/" rel="bookmark">Just Another Test Post</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2014-01-24T09:51:44+00:00">January 24, 2014</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2014/01/foggy-landscape-early-morning-mist/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2014/01/foggy-landscape-early-morning-mist/" title="Just Another Test Post">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2014/01/newfeat25-740x493.jpg" alt="Just Another Test Post" class="landscape large-thumbnail" width="740" height="493" itemprop="image" /><span class="thumb-caption">Nice hot cup of coffee.</span>				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam ut nunc quis nisi tincidunt tincidunt. Pellentesque enim. Sed et leo nec augue mollis pharetra. Lorem ipsum [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2014/01/foggy-landscape-early-morning-mist/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/blog/technology-blog/" rel="category tag">Technology</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-14" class="col-sm-12 post-14 post type-post status-publish format-quote has-post-thumbnail hentry category-quotes post_format-post-format-quote quotes" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="http://prosperity.michaeldpollock.com/type/quote/" title="Post Format: quote"></a>				<a href="http://prosperity.michaeldpollock.com/2013/09/this-is-a-test-post-2/" rel="bookmark">Steve Jobs on Focus</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2013-09-20T23:20:53+00:00">September 20, 2013</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/janesmith2/" title="View all posts by Jane" itemprop="url" rel="author"><span itemprop="name">Jane</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2013/09/this-is-a-test-post-2/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2013/09/this-is-a-test-post-2/" title="Steve Jobs on Focus">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2014/02/jobs-740x493.jpg" alt="Steve Jobs on Focus" class="landscape large-thumbnail" width="740" height="493" itemprop="image" />				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>&#8220;People think focus means saying yes to the thing you&#8217;ve got to focus on. But that&#8217;s not what it means at all. It means saying no to the hundred other good ideas that there are &#8230; I&#8217;m actually as proud of the things we haven&#8217;t done as the things I have done. Innovation is saying &#8216;no&#8217; to 1,000 things.&#8221;</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2013/09/this-is-a-test-post-2/" title="Read the Rest of this Post" itemprop="url">Read More &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/blog/quotes/" rel="category tag">Quotes</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+						<article id="post-954" class="col-sm-12 post-954 post type-post status-publish format-gallery has-post-thumbnail hentry category-galleries post_format-post-format-gallery galleries" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+							
+							<div class="entry-wrap">
+
+								<div class="entry-container">
+
+									 
+										<header class="entry-header">
+													<h2 class="entry-title" itemprop="headline">
+			<span>
+				<a class="formaticon" href="http://prosperity.michaeldpollock.com/type/gallery/" title="Post Format: gallery"></a>				<a href="http://prosperity.michaeldpollock.com/2013/08/photo-gallery-5-2/" rel="bookmark">Gallery Slider</a>
+			</span>
+		</h2>
+	<div class="entry-meta"><span class="date"><i class="fa fa-clock-o"></i><time class="entry-date" itemprop="datePublished" datetime="2013-08-10T15:39:07+00:00">August 10, 2013</time></span><span class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">By <a class="entry-author-link" href="http://prosperity.michaeldpollock.com/author/michaeldpollock/" title="View all posts by Michael" itemprop="url" rel="author"><span itemprop="name">Michael</span></a></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="http://prosperity.michaeldpollock.com/2013/08/photo-gallery-5-2/#respond">0 Comments</a></span></div><!-- .entry-meta -->										</header><!-- .entry-header -->
+									
+														<div class="entry-media">
+				<a class="post-thumbnail large" href="http://prosperity.michaeldpollock.com/2013/08/photo-gallery-5-2/" title="Gallery Slider">
+					<img src="http://prosperity.michaeldpollock.com/wp-content/uploads/2014/02/newfeat28-740x493.jpg" alt="Gallery Slider" class="landscape large-thumbnail" width="740" height="493" itemprop="image" /><span class="thumb-caption">Hungry anyone?</span>				</a>
+			</div>
+		
+									<div class="entry-content" itemprop="text">
+										<p>WP-Prosperity can convert your WordPress image galleries into a sliding gallery. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis risus at nisl blandit feugiat. Ut vel orci quis sem dapibus iaculis. Aliquam ut nunc quis nisi tincidunt tincidunt. [&#8230;]</p>
+<p class="read-more"><a class="more-link button" href="http://prosperity.michaeldpollock.com/2013/08/photo-gallery-5-2/" title="Read the Rest of this Post" itemprop="url">View Gallery &raquo;</a></p>									</div><!-- .entry-content -->
+
+								</div> <!-- .entry-container -->
+
+								<footer class="entry-footer">
+									<div class="entry-meta"><span class="categories-links"><i class="fa fa-folder-open"></i><a href="http://prosperity.michaeldpollock.com/category/photos/galleries/" rel="category tag">Galleries</a></span><meta itemprop="image" content="http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/bg18.jpg"></div><!-- .entry-meta -->								</footer><!-- .entry-footer -->
+
+							</div> <!-- .entry-wrap -->						</article> <!-- article.post -->
+
+</div> <!-- article-container -->		<div id="next-posts">
+			<a href="http://prosperity.michaeldpollock.com/page/2/?plugin=all-in-one-event-calendar&#038;controller=ai1ec_exporter_controller&#038;action=export_events" >Load More Entries</a>		</div>
+	
+					
+				</main><!-- END CONTENT AREA (.site-content) -->
+
+				
+			</div><!-- END PRIMARY CONTENT AREA (#primary) -->
+
+
+
+			<!-- SECONDARY CONTENT AREA (#secondary) -->
+			<div id="secondary" class="sidebar-area">
+
+				<!-- SIDEBAR-WIDE TOP (.sidebar-wide-top) -->
+				<aside class="sidebar sidebar-wide-top" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+					<section id="null-instagram-feed-4" class="widget null-instagram-feed"><div class="widget-wrap"><h2 class="widget-title widgettitle">Follow us @Instagram</h2><ul class="instagram-pics"><li class=""><a href="//instagram.com/p/76FYeBBgYA" target="_blank"  class=""><img src="https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/s750x750/sh0.08/e35/11939638_938511449552356_1739798784_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/75ka25hgZ-" target="_blank"  class=""><img src="https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/s640x640/sh0.08/e35/11348163_130665830619124_426381703_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/75TCQbBgZ8" target="_blank"  class=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s480x480/e35/11849920_1641415586107316_1197440520_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/73hbghBgef" target="_blank"  class=""><img src="https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/s750x750/sh0.08/e35/11887263_446827928837697_126670145_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/71EEgzBgWG" target="_blank"  class=""><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s750x750/sh0.08/e35/11918015_809899845774133_917823958_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/7ywnXthgao" target="_blank"  class=""><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s750x750/sh0.08/e35/11917799_1013190085368006_908351532_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/7yaOXRhgS8" target="_blank"  class=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s750x750/sh0.08/e35/11931102_426279727582645_11193594_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/7x7phcBgXi" target="_blank"  class=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/11821197_973342256037181_35772547_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/7xehIxhgRj" target="_blank"  class=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s480x480/e35/11375904_134276756923075_1679338514_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li></ul></div></section><section id="search-2" class="widget widget_search"><div class="widget-wrap"><h2 class="widget-title widgettitle">search</h2><form method="get" class="search-form clearfix" action="http://prosperity.michaeldpollock.com/">
+	<label><span class="screen-reader-text">Search for: </span></label>
+	<i class="fa fa-search"></i>
+	<input type="text" class="search-field" placeholder="Enter Search Terms" value="" name="s" title="Enter Search Terms" /><input type="submit" class="search-submit" value="Search" />
+</form></div></section><section id="archives-3" class="widget widget_archive"><div class="widget-wrap"><h2 class="widget-title widgettitle">archives</h2>		<ul>
+	<li><a href='http://prosperity.michaeldpollock.com/2015/08/'>August 2015</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/12/'>December 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/09/'>September 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/02/'>February 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/01/'>January 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/09/'>September 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/08/'>August 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/02/'>February 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/01/'>January 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/12/'>December 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/06/'>June 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/02/'>February 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/01/'>January 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/12/'>December 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/11/'>November 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/09/'>September 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/08/'>August 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/07/'>July 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/06/'>June 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/02/'>February 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/01/'>January 2011</a></li>
+		</ul>
+</div></section>				</aside><!-- END SIDEBAR-WIDE TOP (.sidebar-wide-top) -->
+
+				
+					<!-- SIDEBAR-WIDE BOTTOM (.sidebar-wide-bottom) -->
+					<div class="sidebar-wide-bottom">
+
+						<!-- SIDEBAR-WIDE BOTTOM-LEFT (.sidebar-wide-bottom-left) -->
+						<aside class="sidebar sidebar-wide-bottom-left" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+							<section id="archives-4" class="widget widget_archive"><div class="widget-wrap"><h2 class="widget-title widgettitle">archives</h2>		<ul>
+	<li><a href='http://prosperity.michaeldpollock.com/2015/08/'>August 2015</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/12/'>December 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/09/'>September 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/02/'>February 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/01/'>January 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/09/'>September 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/08/'>August 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/02/'>February 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/01/'>January 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/12/'>December 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/06/'>June 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/02/'>February 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/01/'>January 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/12/'>December 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/11/'>November 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/09/'>September 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/08/'>August 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/07/'>July 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/06/'>June 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/02/'>February 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/01/'>January 2011</a></li>
+		</ul>
+</div></section>						</aside><!-- END SIDEBAR-WIDE BOTTOM-LEFT (.sidebar-wide-bottom-left) -->
+
+						<!-- SIDEBAR-WIDE BOTTOM-RIGHT (.sidebar-wide-bottom-right) -->
+						<aside class="sidebar sidebar-wide-bottom-right" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+							<section id="archives-5" class="widget widget_archive"><div class="widget-wrap"><h2 class="widget-title widgettitle">archives</h2>		<ul>
+	<li><a href='http://prosperity.michaeldpollock.com/2015/08/'>August 2015</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/12/'>December 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/09/'>September 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/02/'>February 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2014/01/'>January 2014</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/09/'>September 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/08/'>August 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/02/'>February 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2013/01/'>January 2013</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/12/'>December 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/06/'>June 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/02/'>February 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2012/01/'>January 2012</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/12/'>December 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/11/'>November 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/09/'>September 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/08/'>August 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/07/'>July 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/06/'>June 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/02/'>February 2011</a></li>
+	<li><a href='http://prosperity.michaeldpollock.com/2011/01/'>January 2011</a></li>
+		</ul>
+</div></section>						</aside><!-- END SIDEBAR-WIDE BOTTOM-RIGHT (.sidebar-wide-bottom-right) -->
+
+					</div><!-- END SIDEBAR-WIDE BOTTOM (.sidebar-wide-bottom) -->
+
+				
+			</div><!-- END SECONDARY CONTENT AREA (#secondary) -->
+
+
+		</div><!-- .site-inner-wrap -->
+
+		</div><!-- END INNER SITE CONTAINER (.site-inner) -->
+
+		
+		
+		<!-- SITE FOOTER (.site-footer) -->
+		<footer class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+
+			<div class="wrap">
+
+				<ul id="footernav" class="footer-nav-menu"><li id="menu-item-11046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11046"><a href="http://wp-prosperity.com/">Home</a></li>
+<li id="menu-item-11117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11117"><a href="http://prosperity.michaeldpollock.com/blog/">Blog</a></li>
+<li id="menu-item-11096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11096"><a href="http://prosperity.michaeldpollock.com/portfolio-page/">Portfolio</a></li>
+<li id="menu-item-11097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11097"><a href="http://prosperity.michaeldpollock.com/shop-2/">Shop</a></li>
+<li id="menu-item-11095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11095"><a href="http://prosperity.michaeldpollock.com/forums/">Forums</a></li>
+<li id="menu-item-11098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11098"><a href="http://prosperity.michaeldpollock.com/features/contact-us/">Contact</a></li>
+</ul> 
+						<div class="site-info hasnav">
+							&copy; WP-Prosperity. 
+<a href="http://www.michaeldpollock.com/?p=12692" title="WordPress Theme">
+Premium WordPress Theme</a>.						</div>
+					
+			</div><!-- .wrap -->
+
+		</footer><!-- END SITE FOOTER (.site-footer) -->
+
+	</div><!-- END OUTER SITE CONTAINER (.site-container) -->
+
+	<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/prosperity.michaeldpollock.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/prosperity.michaeldpollock.com\/shop-2\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//prosperity.michaeldpollock.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.4.6'></script>
+<script type='text/javascript' src='//prosperity.michaeldpollock.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//prosperity.michaeldpollock.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.4.6'></script>
+<script type='text/javascript' src='//prosperity.michaeldpollock.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//prosperity.michaeldpollock.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.4.6'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/js/bootstrap.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/js/plugins.js?ver=2.6'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/js/jquery.isotope.min.js?ver=5.26'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/js/jquery.infinitescroll.min.js?ver=2.0b2.120519'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/js/manual-trigger.js?ver=2.0b2.110617'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/js/jquery.isotope.sloppy-masonry.min.js?ver=2.6'></script>
+<script type='text/javascript' src='http://prosperity.michaeldpollock.com/wp-content/themes/wp-prosperity/js/functions.js?ver=2.6'></script>
+
+	<div id="backtotop"><i class="fa fa-angle-up fa-lg"></i></div>
+
+</body>
+
+</html>

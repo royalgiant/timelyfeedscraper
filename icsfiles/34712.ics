@@ -1,25 +1,11 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//198.154.254.136//NONSGML kigkonsult.se iCalcreator 2.20//
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-FROM-URL:http://yankeespringsmeadows.com
-X-WR-TIMEZONE:America/Denver
-BEGIN:VTIMEZONE
-TZID:America/Denver
-X-LIC-LOCATION:America/Denver
-BEGIN:STANDARD
-DTSTART:20151101T020000
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-TZNAME:MST
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20150308T020000
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-RDATE:20160313T020000
-TZNAME:MDT
-END:DAYLIGHT
-END:VTIMEZONE
-END:VCALENDAR
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+Size of a request header field exceeds server limit.<br />
+<pre>
+cookie
+</pre>/n</p>
+</body></html>

@@ -1,11 +1,62 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>/n</p>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//193.200.98.48//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://southsidecommunitycentre.co.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-153@southsidecommunitycentre.co.uk
+DTSTAMP:20150921T224754Z
+CATEGORIES;LANGUAGE=en-US:Community/Culture
+CONTACT:
+DESCRIPTION:<p>Committee meeting</p>
+DTSTART;TZID=Europe/London:20151013T184500
+DTEND;TZID=Europe/London:20151013T210000
+LOCATION:Room 2
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+SEQUENCE:0
+SUMMARY:South Side Community Centre Management Committee
+URL:http://southsidecommunitycentre.co.uk/event/south-side-community-centre
+ -management-committee/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-150@southsidecommunitycentre.co.uk
+DTSTAMP:20150921T224754Z
+CATEGORIES;LANGUAGE=en-US:Community/Culture
+CONTACT:Julie\; 0131 659 7842\; Julie.Hannah@edinburgh.gov.uk
+DESCRIPTION:<p style='text-align: justify\;'>Community Circle is an interna
+ tional model. The purpose of creating Community Circles was to shift the f
+ ocus from what people were lacking\; a job\, income\, child care to work\,
+  etc. to making connections between people – based upon what they each had
+  as valuable resources to offer one another.</p>\n<ul>\n<li>We invite you 
+ to bring along an offering of some food\,</li>\n<li>It is a chance to meet
+  new people\,</li>\n<li>It is an opportunity to chat and share ideas</li>
+ \n</ul>
+DTSTART;TZID=Europe/London:20151027T170000
+DTEND;TZID=Europe/London:20151027T200000
+EXRULE:FREQ=YEARLY;UNTIL=20151223T235959Z;BYDAY=4TU;BYMONTH=7,8,9
+LOCATION:Cafe
+RRULE:FREQ=MONTHLY;UNTIL=20151223T235959Z;BYDAY=4TU
+SEQUENCE:0
+SUMMARY:Community Circle
+URL:http://southsidecommunitycentre.co.uk/event/community-circle/
+END:VEVENT
+END:VCALENDAR

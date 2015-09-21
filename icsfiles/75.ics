@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:s4mb243nf327vean7ucfqhl84k@google.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -36,7 +36,7 @@ URL:http://ourladyoflourdes-cle.com/event/st-wenceslaus-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:5df23j6sllp9dm7v9jvlpv3pks@google.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -47,45 +47,8 @@ SUMMARY:Catholic Comm Campaign
 URL:http://ourladyoflourdes-cle.com/event/catholic-comm-campaign/
 END:VEVENT
 BEGIN:VEVENT
-UID:lqa2fbqvm4la164fgldendugs4@google.com
-DTSTAMP:20150920T002110Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<div style='clear:both\;'></div>
-DTSTART;TZID=America/New_York:20150919T093000
-DTEND;TZID=America/New_York:20150919T103000
-RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SA
-SEQUENCE:0
-SUMMARY:Teacher Catechists
-URL:http://ourladyoflourdes-cle.com/event/teacher-catechists/
-END:VEVENT
-BEGIN:VEVENT
-UID:jkkch08rh9bmnid9g85m4gman4@google.com
-DTSTAMP:20150920T002110Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<div style='clear:both\;'></div>
-DTSTART;TZID=America/New_York:20150919T110000
-DTEND;TZID=America/New_York:20150919T120000
-SEQUENCE:0
-SUMMARY:Quincienera
-URL:http://ourladyoflourdes-cle.com/event/quincienera-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:i66h1os92hlqnsh4hlfshcho18@google.com
-DTSTAMP:20150920T002110Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<div style='clear:both\;'></div>
-DTSTART;TZID=America/New_York:20150919T130000
-DTEND;TZID=America/New_York:20150919T140000
-SEQUENCE:0
-SUMMARY:Wedding
-URL:http://ourladyoflourdes-cle.com/event/wedding-11/
-END:VEVENT
-BEGIN:VEVENT
 UID:gi6r72u0uu7hcfogdg5drenuvg@google.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -98,7 +61,7 @@ URL:http://ourladyoflourdes-cle.com/event/juan-xxiii-meeting-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:g8ffljb60pjsasop31nptit1so@google.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -110,7 +73,7 @@ URL:http://ourladyoflourdes-cle.com/event/youth-group-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:p0she1o333bq6jkm5rug2cbsq8@google.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -122,7 +85,7 @@ URL:http://ourladyoflourdes-cle.com/event/community-meal-33/
 END:VEVENT
 BEGIN:VEVENT
 UID:tl1vqq5354pnok9fhr9r73l3u8@google.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -134,8 +97,21 @@ SUMMARY:Choir
 URL:http://ourladyoflourdes-cle.com/event/choir-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:lqa2fbqvm4la164fgldendugs4@google.com
+DTSTAMP:20150921T224631Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div style='clear:both\;'></div>
+DTSTART;TZID=America/New_York:20150926T093000
+DTEND;TZID=America/New_York:20150926T103000
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SA
+SEQUENCE:0
+SUMMARY:Teacher Catechists
+URL:http://ourladyoflourdes-cle.com/event/teacher-catechists/
+END:VEVENT
+BEGIN:VEVENT
 UID:lr6a4b6mllcoqfdbhjptdiajuc@google.com
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224631Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -147,7 +123,7 @@ URL:http://ourladyoflourdes-cle.com/event/community-breakfast-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:5f1akhapq27583nalum1ltqs2o@google.com
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224631Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -159,7 +135,7 @@ URL:http://ourladyoflourdes-cle.com/event/community-meal-32/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2195h68qej6r4j9l6li5fuvao@google.com
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224631Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -171,7 +147,7 @@ URL:http://ourladyoflourdes-cle.com/event/youth-group/
 END:VEVENT
 BEGIN:VEVENT
 UID:oltaqqreaueotq9il194u7k5gc@google.com
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224631Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -183,7 +159,7 @@ URL:http://ourladyoflourdes-cle.com/event/ozanam-center-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:9tok40orp9gunrdg0tde5v7qns@google.com
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224631Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>
@@ -195,7 +171,7 @@ URL:http://ourladyoflourdes-cle.com/event/psr-grades-1-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:fpunujc493dbpfs5j9nair9jg4@google.com
-DTSTAMP:20150920T002111Z
+DTSTAMP:20150921T224631Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div style='clear:both\;'></div>

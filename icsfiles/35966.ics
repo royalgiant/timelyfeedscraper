@@ -23,23 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:270@kyuvb.de
-DTSTAMP:20150920T002135Z
-CATEGORIES;LANGUAGE=de-DE:Offene Trainings
-CONTACT:
-DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
-  Gäste aus anderen Vereinen willkommen\, 5 EUR / Person Beteiligung an Hal
- lenmiete.</p>
-DTSTART;VALUE=DATE:20150920
-DTEND;VALUE=DATE:20150921
-LOCATION:Erlangen
-SEQUENCE:0
-SUMMARY:Offenes Sonntagstraining
-URL:http://www.kyuvb.de/event/offenes-sonntagstraining-74/
-END:VEVENT
-BEGIN:VEVENT
 UID:279@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Offene Trainings
 CONTACT:
 DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
@@ -54,7 +39,7 @@ URL:http://www.kyuvb.de/event/offenes-sonntagstraining-75/
 END:VEVENT
 BEGIN:VEVENT
 UID:282@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Wettkämpfe
 CONTACT:
 DESCRIPTION:<p>Offener Wettkampf</p>
@@ -67,7 +52,7 @@ URL:http://www.kyuvb.de/event/100-pfeile-schiessen-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:283@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Landeslehrgänge anderer Bundesländer
 CONTACT:
 DESCRIPTION:<p>Landeslehrgang des LV Niedersachsen</p>
@@ -79,8 +64,22 @@ SUMMARY:Prüfungslehrgang bis 1. Kyu
 URL:http://www.kyuvb.de/event/pruefungslehrgang-bis-1-kyu-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:284@kyuvb.de
+DTSTAMP:20150921T224704Z
+CATEGORIES;LANGUAGE=de-DE:Bundeslehrgänge
+CONTACT:
+DESCRIPTION:<p>Lehrgang zum Thema Mokuroku für Schützen ab 1. Dan\, bevorzu
+ gt Trainer</p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151019
+LOCATION:Karlsruhe
+SEQUENCE:0
+SUMMARY:Bundeslehrgang Mokuroku
+URL:http://www.kyuvb.de/event/bundeslehrgang-mokuroku-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:280@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Landeslehrgänge Bayern
 CONTACT:
 DESCRIPTION:<p>Prüfungslehrgang mit Prüfungsmöglichkeit bis 1. Kyu.</p>
@@ -93,7 +92,7 @@ URL:http://www.kyuvb.de/event/pruefungslehrgang-bis-1-kyu-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:271@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Offene Trainings
 CONTACT:
 DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
@@ -108,7 +107,7 @@ URL:http://www.kyuvb.de/event/offenes-sonntagstraining-73/
 END:VEVENT
 BEGIN:VEVENT
 UID:281@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Bundeslehrgänge
 CONTACT:
 DESCRIPTION:<p>Bundeslehrgang mit Manfred Speidel und Feliks Hoff</p>
@@ -121,7 +120,7 @@ URL:http://www.kyuvb.de/event/bundeslehrgang-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:272@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Offene Trainings
 CONTACT:
 DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
@@ -136,7 +135,7 @@ URL:http://www.kyuvb.de/event/offenes-sonntagstraining-72/
 END:VEVENT
 BEGIN:VEVENT
 UID:273@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Offene Trainings
 CONTACT:
 DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
@@ -151,7 +150,7 @@ URL:http://www.kyuvb.de/event/offenes-sonntagstraining-71/
 END:VEVENT
 BEGIN:VEVENT
 UID:274@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Offene Trainings
 CONTACT:
 DESCRIPTION:<p>Training in Erlangen von 10:00 bis 14:00\, ab 9:30 aufbauen.
@@ -166,7 +165,7 @@ URL:http://www.kyuvb.de/event/offenes-sonntagstraining-70/
 END:VEVENT
 BEGIN:VEVENT
 UID:276@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Internationale Lehrgänge
 CONTACT:
 DESCRIPTION:<p>Nähere Informationen unter <a href='http://www.kyudo.de'>www
@@ -180,7 +179,7 @@ URL:http://www.kyuvb.de/event/b-seminar-pruefung-zum-3-4-dan/
 END:VEVENT
 BEGIN:VEVENT
 UID:277@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Internationale Lehrgänge
 CONTACT:
 DESCRIPTION:<p>Nähere Informationen unter <a href='http://www.kyudo.de'>www
@@ -194,7 +193,7 @@ URL:http://www.kyuvb.de/event/a-seminar-pruefung-zum-5-dan-hoeher/
 END:VEVENT
 BEGIN:VEVENT
 UID:278@kyuvb.de
-DTSTAMP:20150920T002135Z
+DTSTAMP:20150921T224704Z
 CATEGORIES;LANGUAGE=de-DE:Internationale Lehrgänge
 CONTACT:
 DESCRIPTION:<p>Nähere Informationen unter <a href='http://www.kyudo.de'>www

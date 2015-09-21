@@ -23,39 +23,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-5036@hugsforbrady.org
-DTSTAMP:20150920T002253Z
-CATEGORIES:
-CONTACT:Rich Domotor\; 732-322-4162\; queball81@aol.com\; http://hugsforbra
- dy.org/kickball/
-DESCRIPTION:<p>(Rain date will be Sunday\, September 20\, 2015)</p>
-DTSTART;VALUE=DATE:20150919
-DTEND;VALUE=DATE:20150920
-GEO:+40.404066;-74.56304
-LOCATION:Woodlot Park @ 124 New Road\, Monmouth Junction\, NJ 08852\, USA
-SEQUENCE:0
-SUMMARY:Kickball for Grown Ups
-URL:http://hugsforbrady.org/event/kickball-for-grown-ups-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-5035@hugsforbrady.org
-DTSTAMP:20150920T002253Z
-CATEGORIES:
-CONTACT:Rich Domotor\; 732-322-4162\; queball81@aol.com\; http://hugsforbra
- dy.org/kickball/
-DESCRIPTION:<p>(This is the Rain date for Kickball for Grown-ups on Saturda
- y\, September 19\, 2015)</p>
-DTSTART;VALUE=DATE:20150920
-DTEND;VALUE=DATE:20150921
-GEO:+40.404066;-74.56304
-LOCATION:Woodlot Park @ 124 New Road\, Monmouth Junction\, NJ 08852\, USA
-SEQUENCE:0
-SUMMARY:Kickball for Grown Ups (Rain Date)
-URL:http://hugsforbrady.org/event/kickball-for-grown-ups/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-5038@hugsforbrady.org
-DTSTAMP:20150920T002253Z
+DTSTAMP:20150921T224749Z
 CATEGORIES:
 CONTACT:Jeff Hawkins at OTB New Brunswick\; 732-979-2192\; http://hugsforbr
  ady.org/on-the-border-hosts-11th-annual-charity-golf-classic/
@@ -79,7 +48,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-5081@hugsforbrady.org
-DTSTAMP:20150920T002253Z
+DTSTAMP:20150921T224749Z
 CATEGORIES:
 CONTACT:Michelle Hoffman\; mhoffmann@hugsforbrady.org\; http://hugsforbrady
  .org

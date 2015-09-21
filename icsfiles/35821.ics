@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//23.253.155.236//NONSGML kigkonsult.se iCalcreator 2.20//
+PRODID:-//172.24.16.236//NONSGML kigkonsult.se iCalcreator 2.20//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-FROM-URL:http://kidsandfitness.com
@@ -23,24 +23,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-2404@kidsandfitness.com
-DTSTAMP:20150920T002154Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150919T090000
-DTEND;TZID=America/New_York:20150919T100000
-RDATE;TZID=America/New_York:20150912T090000
-RDATE;TZID=America/New_York:20150919T090000
-RDATE;TZID=America/New_York:20150926T090000
-SEQUENCE:0
-SUMMARY:HIIT (High Intensity Interval Training) Family class
-URL:http://kidsandfitness.com/event/hiit-high-intensity-interval-training-f
- amily-class/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-2405@kidsandfitness.com
-DTSTAMP:20150920T002154Z
+DTSTAMP:20150921T224720Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Please call for more information on our NEW Autism Fitness C
@@ -58,7 +42,7 @@ URL:http://kidsandfitness.com/event/sensory-fitness-class/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2356@kidsandfitness.com
-DTSTAMP:20150920T002154Z
+DTSTAMP:20150921T224720Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -75,5 +59,21 @@ SEQUENCE:0
 SUMMARY:Teacher Work Day
 URL:http://kidsandfitness.com/event/teacher-work-day/
 X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2404@kidsandfitness.com
+DTSTAMP:20150921T224720Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T090000
+DTEND;TZID=America/New_York:20150926T100000
+RDATE;TZID=America/New_York:20150912T090000
+RDATE;TZID=America/New_York:20150919T090000
+RDATE;TZID=America/New_York:20150926T090000
+SEQUENCE:0
+SUMMARY:HIIT (High Intensity Interval Training) Family class
+URL:http://kidsandfitness.com/event/hiit-high-intensity-interval-training-f
+ amily-class/
 END:VEVENT
 END:VCALENDAR

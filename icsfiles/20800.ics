@@ -23,89 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-6389@www.britsoc.nl
-DTSTAMP:20150920T002123Z
-CATEGORIES;LANGUAGE=en-US:Britsoc sports
-CONTACT:Simon Lake\; golf@britsoc.nl
-DESCRIPTION:<h1>Amsterdam Expat Golf 2015 – British Society of Amsterdam</h
- 1>\n<p><b><a href='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013
- /08/Britsoc-Golf-logo-with-ball.jpg'><img class='alignleft size-medium wp-
- image-9165' src='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013/0
- 8/Britsoc-Golf-logo-with-ball.jpg?resize=300%2C188' alt='Britsoc-Golf-logo
- -with-ball' data-recalc-dims='1' /></a></b></p>\n<p><b>About:</b><b> </b>T
- hree morning tee times are being set for the 2015 season so join this very
-  social and international group of English speaking golf lovers for 18 hol
- es and a drink or two after. <b>When: </b>Every Saturday or Sunday morning
- \, played all through winter and summer. The core season used to be May th
- rough September (as per the current event text)\, however we agreed additi
- onal winter times with the club for Oct to Feb. <b>Where: </b>Golf Club de
-  Hoge Dijk (Olympus)\, Abcouderstraatweg 46\, Amsterdam Zuid (near the AMC
-  in Amsterdam Zuidoost) <b>Cost: – </b>approx. €60 – to be advised at star
- t of season <b>Contact:  </b><span style='color: #000000\;'>Simon Lake and
-  </span>Liz Wen  <a href='mailto:britsocgolf@gmail.com'>britsocgolf@gmail.
- com</a> <b>Registration required?  </b>Yes\, by Wednesday  for following w
- eekend.  Include phone number and email. Places are on a first come\, firs
- t served basis. Confirmation of your place\, day and tee time plus fees wi
- ll be sent out Thursday morning. Confirmation is also sent to the Club and
-  cancellations must be registered with them and the above contact. Once re
- gistered\, players are advised each Monday of following weekend schedule.<
- /p>\n<p><a href='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013/0
- 8/DSC_0068-raw.jpg'><img class='alignleft size-large wp-image-9166' src='h
- ttp://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013/08/DSC_0068-raw.jpg
- ?resize=940%2C529' alt='DSC_0068-raw' data-recalc-dims='1' /></a></p>
-DTSTART;TZID=Europe/Amsterdam:20150919T080000
-DTEND;TZID=Europe/Amsterdam:20150919T130000
-GEO:+52.282831;+4.964588
-LOCATION:Golf Club de Hoge Dijk (Olympus) @ Abcouderstraatweg\, Zuidoost\, 
- The Netherlands
-RRULE:FREQ=WEEKLY;BYDAY=SU,SA;WKST=MO
-SEQUENCE:0
-SUMMARY:Amsterdam Expat Golf 2015 – British Society of Amsterdam
-URL:http://www.britsoc.nl/event/britsoc-golf/
-X-COST:€60
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-6395@www.britsoc.nl
-DTSTAMP:20150920T002123Z
-CATEGORIES;LANGUAGE=en-US:Britsoc sports
-CONTACT:Sharron Reed \; soft.tennis@britsoc.nl
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://i2.wp.com/www.britsoc.nl/wp-content/uploads/2013/01/Softtennis-4247_jpg
- .jpg?fit=300%2C300' width='' height='' /></div><p>About:  Ever picked up a
-  racket?  Then you’ll be able to pick-up this Japanese version of lawn ten
- nis (played outside if dry).  The game uses a lighter ball and more spin t
- han regular tennis.</p>\n<p>Cost:</p>\n<p class='p1'>€ 6 (members)\; € 7 (
- non-members)</p>\n<p>Contact Sharron for more information\, including free
-  swimming or sauna at the <span id='bc7ef003-6a04-46f1-b453-1c4543e250b9' 
- class='GINGER_SOFTWARE_mark'><span id='8d35b42a-0afb-4f3e-9fa5-69c2b535c61
- d' class='GINGER_SOFTWARE_mark'>centre</span></span>.</p>\n<h2>The Britsoc
-  Summer Tennis Tournament 2014</h2>\n<p>Dear everyone\,</p>\n<p>It has bee
- n a while since we’ve had one\, so we have decided to <span id='f171716b-2
- 67d-476b-a74d-8ba4594bdb0f' class='GINGER_SOFTWARE_mark'>organise</span> a
-  summer tennis tournament on Sunday August 3rd at Amstelpark/Spa Zuiver. T
- imes to be confirmed but probably starting around midday and ending around
-  4/5pm.</p>\n<p>Can you please let me know if you are interested in playin
- g. It will most likely take the form of the soft tennis tournament earlier
-  in the year\; mixed doubles playing with a different partner every time. 
- As always\, there is the pool/sauna to use afterwards and of course the ba
- r!</p>\n<p>Please forward the email onto anyone else you think might be in
- terested.</p>\n<p>Thanks\,</p>\n<p>Interested? Reply <span id='1eda5a40-6e
- b8-4051-b49e-ad5637c1cbff' class='GINGER_SOFTWARE_mark'>with</span> this e
- mail link to <a href='mailto:browesn@gmail.com'>Natalie</a></p>
-DTSTART;TZID=Europe/Amsterdam:20150920T160000
-DTEND;TZID=Europe/Amsterdam:20150920T180000
-GEO:+52.331585;+4.853308
-LOCATION:Amstelpark Tennis Centre @ Koenenkade 8\, 1081 KH Amsterdam\, The 
- Netherlands
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Soft Tennis
-URL:http://www.britsoc.nl/event/soft-tennis/
-X-COST:€ 6 (members)\; € 7 (non-members)
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-6394@www.britsoc.nl
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224648Z
 CATEGORIES;LANGUAGE=en-US:Britsoc sports
 CONTACT:Paul Huxley \; squash@britsoc.nl
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -131,7 +50,7 @@ X-COST:Maximum 10 Euros for members\, 12 Euros for none members
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-6388@www.britsoc.nl
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224648Z
 CATEGORIES;LANGUAGE=en-US:Britsoc sports
 CONTACT:Geoff Dudley   \; tennis@britsoc.nl
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -159,7 +78,7 @@ X-COST:€ 7 (members)\; € 8 (non-members)
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-6390@www.britsoc.nl
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224648Z
 CATEGORIES;LANGUAGE=en-US:Britsoc sports
 CONTACT:David Pollack \; badmin2@britsoc.nl
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -190,7 +109,7 @@ X-COST:One-off for whole season – €90 for BritSoc members\, €100 non-membe
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-6396@www.britsoc.nl
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224648Z
 CATEGORIES;LANGUAGE=en-US:Britsoc Events
 CONTACT:Mark Ligtenstein\; 035-8878034\; bridge@britsoc.nl
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -215,7 +134,7 @@ URL:http://www.britsoc.nl/event/bridge/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8635@www.britsoc.nl
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224648Z
 CATEGORIES;LANGUAGE=en-US:Britsoc Events
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -388,8 +307,89 @@ URL:http://www.britsoc.nl/event/britsoc-annual-general-meeting-2015/
 X-COST:Free. Members Only Event
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-6389@www.britsoc.nl
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=en-US:Britsoc sports
+CONTACT:Simon Lake\; golf@britsoc.nl
+DESCRIPTION:<h1>Amsterdam Expat Golf 2015 – British Society of Amsterdam</h
+ 1>\n<p><b><a href='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013
+ /08/Britsoc-Golf-logo-with-ball.jpg'><img class='alignleft size-medium wp-
+ image-9165' src='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013/0
+ 8/Britsoc-Golf-logo-with-ball.jpg?resize=300%2C188' alt='Britsoc-Golf-logo
+ -with-ball' data-recalc-dims='1' /></a></b></p>\n<p><b>About:</b><b> </b>T
+ hree morning tee times are being set for the 2015 season so join this very
+  social and international group of English speaking golf lovers for 18 hol
+ es and a drink or two after. <b>When: </b>Every Saturday or Sunday morning
+ \, played all through winter and summer. The core season used to be May th
+ rough September (as per the current event text)\, however we agreed additi
+ onal winter times with the club for Oct to Feb. <b>Where: </b>Golf Club de
+  Hoge Dijk (Olympus)\, Abcouderstraatweg 46\, Amsterdam Zuid (near the AMC
+  in Amsterdam Zuidoost) <b>Cost: – </b>approx. €60 – to be advised at star
+ t of season <b>Contact:  </b><span style='color: #000000\;'>Simon Lake and
+  </span>Liz Wen  <a href='mailto:britsocgolf@gmail.com'>britsocgolf@gmail.
+ com</a> <b>Registration required?  </b>Yes\, by Wednesday  for following w
+ eekend.  Include phone number and email. Places are on a first come\, firs
+ t served basis. Confirmation of your place\, day and tee time plus fees wi
+ ll be sent out Thursday morning. Confirmation is also sent to the Club and
+  cancellations must be registered with them and the above contact. Once re
+ gistered\, players are advised each Monday of following weekend schedule.<
+ /p>\n<p><a href='http://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013/0
+ 8/DSC_0068-raw.jpg'><img class='alignleft size-large wp-image-9166' src='h
+ ttp://i0.wp.com/www.britsoc.nl/wp-content/uploads/2013/08/DSC_0068-raw.jpg
+ ?resize=940%2C529' alt='DSC_0068-raw' data-recalc-dims='1' /></a></p>
+DTSTART;TZID=Europe/Amsterdam:20150926T080000
+DTEND;TZID=Europe/Amsterdam:20150926T130000
+GEO:+52.282831;+4.964588
+LOCATION:Golf Club de Hoge Dijk (Olympus) @ Abcouderstraatweg\, Zuidoost\, 
+ The Netherlands
+RRULE:FREQ=WEEKLY;BYDAY=SU,SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Amsterdam Expat Golf 2015 – British Society of Amsterdam
+URL:http://www.britsoc.nl/event/britsoc-golf/
+X-COST:€60
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6395@www.britsoc.nl
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=en-US:Britsoc sports
+CONTACT:Sharron Reed \; soft.tennis@britsoc.nl
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i2.wp.com/www.britsoc.nl/wp-content/uploads/2013/01/Softtennis-4247_jpg
+ .jpg?fit=300%2C300' width='' height='' /></div><p>About:  Ever picked up a
+  racket?  Then you’ll be able to pick-up this Japanese version of lawn ten
+ nis (played outside if dry).  The game uses a lighter ball and more spin t
+ han regular tennis.</p>\n<p>Cost:</p>\n<p class='p1'>€ 6 (members)\; € 7 (
+ non-members)</p>\n<p>Contact Sharron for more information\, including free
+  swimming or sauna at the <span id='bc7ef003-6a04-46f1-b453-1c4543e250b9' 
+ class='GINGER_SOFTWARE_mark'><span id='8d35b42a-0afb-4f3e-9fa5-69c2b535c61
+ d' class='GINGER_SOFTWARE_mark'>centre</span></span>.</p>\n<h2>The Britsoc
+  Summer Tennis Tournament 2014</h2>\n<p>Dear everyone\,</p>\n<p>It has bee
+ n a while since we’ve had one\, so we have decided to <span id='f171716b-2
+ 67d-476b-a74d-8ba4594bdb0f' class='GINGER_SOFTWARE_mark'>organise</span> a
+  summer tennis tournament on Sunday August 3rd at Amstelpark/Spa Zuiver. T
+ imes to be confirmed but probably starting around midday and ending around
+  4/5pm.</p>\n<p>Can you please let me know if you are interested in playin
+ g. It will most likely take the form of the soft tennis tournament earlier
+  in the year\; mixed doubles playing with a different partner every time. 
+ As always\, there is the pool/sauna to use afterwards and of course the ba
+ r!</p>\n<p>Please forward the email onto anyone else you think might be in
+ terested.</p>\n<p>Thanks\,</p>\n<p>Interested? Reply <span id='1eda5a40-6e
+ b8-4051-b49e-ad5637c1cbff' class='GINGER_SOFTWARE_mark'>with</span> this e
+ mail link to <a href='mailto:browesn@gmail.com'>Natalie</a></p>
+DTSTART;TZID=Europe/Amsterdam:20150927T160000
+DTEND;TZID=Europe/Amsterdam:20150927T180000
+GEO:+52.331585;+4.853308
+LOCATION:Amstelpark Tennis Centre @ Koenenkade 8\, 1081 KH Amsterdam\, The 
+ Netherlands
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Soft Tennis
+URL:http://www.britsoc.nl/event/soft-tennis/
+X-COST:€ 6 (members)\; € 7 (non-members)
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-6593@www.britsoc.nl
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224648Z
 CATEGORIES;LANGUAGE=en-US:Bonfire Night\,Britsoc Events
 CONTACT:Craig Douglas\; bonfirenight@douglas-ventures.com\; http://www.brit
  soc.nl

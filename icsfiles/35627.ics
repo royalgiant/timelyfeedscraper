@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ql3kr3m65o06neptho426pvbtg@google.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Nerd Nite
 CONTACT:
 DESCRIPTION:<p>Nerd Nite Orlando is an evening of entertaining yet thought-
@@ -48,7 +48,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,networking\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225106076@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Florida Creatives Happy Hour<br />\nMonday\, September 21 at
@@ -68,7 +68,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
 END:VEVENT
 BEGIN:VEVENT
 UID:event_czhgklytmbcc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, September 21 at 6:30 PM</p>\n
@@ -88,7 +88,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_rnxsjlytmbcc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, September 21 at 7:00 PM</p>\n
@@ -107,13 +107,13 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225290325@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nTuesday\, September 22 at 12:00 PM</p>
- \n<p>P.J. Leimgruber  COO & Co-Founder at NeoReach Inc.  Overview: We will
-  be discussing different types of content marketing and DIY strategies aim
- ed at b…</p>\n<p>Details: http://www.meetup.com/Starter-Studio/events/2252
+ \n<p>P.J. Leimgruber COO & Co-Founder at NeoReach Inc. Overview: We will b
+ e discussing different types of content marketing and DIY strategies aimed
+  at bud…</p>\n<p>Details: http://www.meetup.com/Starter-Studio/events/2252
  90325/</p>
 DTSTART;TZID=America/New_York:20150922T120000
 DTEND;TZID=America/New_York:20150922T130000
@@ -121,13 +121,14 @@ GEO:+28.54;-81.37
 LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
  hurch Street Exchange)\, Orlando\, FL)
 SEQUENCE:0
-SUMMARY:Brown Bag Lunch: Content Marketing and SEO – P.J. Leimgruber
+SUMMARY:Starter Studio Brown Bag Lunch: Content Marketing and SEO – P.J. Le
+ imgruber
 URL:http://orlandotech.org/event/brown-bag-lunch-seo-internet-marketing/
 X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225342933@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nTuesday\, September 22 at 6:30 PM</p>\n
@@ -146,7 +147,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225370885@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>WordPress Orlando<br />\nTuesday\, September 22 at 6:30 PM</
@@ -166,7 +167,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical\,wordpress
 END:VEVENT
 BEGIN:VEVENT
 UID:event_224856062@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>University Ruby<br />\nTuesday\, September 22 at 7:00 PM</p>
@@ -184,8 +185,29 @@ URL:http://orlandotech.org/event/1-year-anniversary-ruby/
 X-TAGS;LANGUAGE=en-US:business\,creative\,Javascript\,ruby\,technical
 END:VEVENT
 BEGIN:VEVENT
+UID:event_225520131@meetup.com
+DTSTAMP:20150921T224748Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>WordPress Orlando<br />\nWednesday\, September 23 at 10:00 A
+ M</p>\n<p>Anyone who knows me (David Laietta) knows that one of my favorit
+ e coffeeshops (and some of the best coffee in Orlando) is Austin’s Coffee 
+ on 17-92 and…</p>\n<p>Details: http://www.meetup.com/WordPress-Orlando/eve
+ nts/225520131/</p>
+DTSTART;TZID=America/New_York:20150923T100000
+DTEND;TZID=America/New_York:20150923T130000
+GEO:+28.54;-81.37
+LOCATION:Austin's Coffee House (929 W Fairbanks Ave\, Winter Park\, FL 3278
+ 9)
+SEQUENCE:0
+SUMMARY:WordPress Support and Fundraiser at Austin’s Coffee
+URL:http://orlandotech.org/event/wordpress-support-and-fundraiser-at-austin
+ s-coffee/
+X-TAGS;LANGUAGE=en-US:business\,creative\,technical\,wordpress
+END:VEVENT
+BEGIN:VEVENT
 UID:event_225064867@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Central Florida Android Developers Group<br />\nWednesday\, 
@@ -207,7 +229,7 @@ X-TAGS;LANGUAGE=en-US:android\,business\,creative\,IoT\,Javascript\,mobile
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225065089@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando iOS Developer Group<br />\nWednesday\, September 23 
@@ -227,7 +249,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,IoT\,Javascript\,mobile deve
 END:VEVENT
 BEGIN:VEVENT
 UID:event_224448556@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>EdTech Orlando<br />\nWednesday\, September 23 at 7:00 PM</p
@@ -248,7 +270,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,edtech\,IoT\,Javascript\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_ltvlflytmbgc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nThursday\, September 24 at 7:45 AM</p>
@@ -267,7 +289,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225444994@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nThursday\, September 24 at 12:00 PM</p
@@ -281,14 +303,14 @@ GEO:+28.54;-81.37
 LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
  hurch Street Exchange)\, Orlando\, FL)
 SEQUENCE:0
-SUMMARY:Starter Studio Brown Bag –  Investment types and terms
+SUMMARY:Starter Studio Brown Bag Lunch –  Investment Types and Terms
 URL:http://orlandotech.org/event/starter-studio-brown-bag-investment-types-
  and-terms/
 X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_222856203@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, September
@@ -308,7 +330,7 @@ X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_222568353@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>TechHire<br />\nFriday\, September 25 at 5:00 PM</p>\n<p>Sta
@@ -326,7 +348,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,networking\,tech
 END:VEVENT
 BEGIN:VEVENT
 UID:event_czhgklytmblc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, September 28 at 6:30 PM</p>\n
@@ -345,7 +367,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_rnxsjlytmblc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, September 28 at 7:00 PM</p>\n
@@ -364,7 +386,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkytmbmc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, September 29 at 9:
@@ -385,7 +407,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225029048@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nTuesday\, September 29 at 12:00 PM</p>
@@ -399,14 +421,15 @@ GEO:+28.54;-81.37
 LOCATION:Canvs Co-working space (101 S. Garland Ave (1st floor of the Old C
  hurch Street Exchange)\, Orlando\, FL)
 SEQUENCE:0
-SUMMARY:Brown Bag Lunch: Building a mailing list and generating buzz
+SUMMARY:Starter Studio Brown Bag Lunch: Building a Mailing List and Generat
+ ing Buzz
 URL:http://orlandotech.org/event/brown-bag-lunch-the-ins-outs-of-digital-ad
  vertising/
 X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_jvvdjlytnbcb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nThursday\, October 1 at 6:00 PM</p>\n<p
@@ -425,7 +448,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225370094@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Design with a Purpose<br />\nThursday\, October 1 at 6:45 PM
@@ -446,7 +469,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,networking\,tech
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223670555@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>TechHire<br />\nMonday\, October 5 at 5:00 PM</p>\n<p>10/5  
@@ -466,14 +489,14 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,networking\,tech
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223670518@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
-DESCRIPTION:<p>Wearable Tech and IoT<br />\nMonday\, October 5 at 6:00 PM</
- p>\n<p>The Future of Wearable Tech and IoT  We are teaming up with the Orl
- ando IoT Meetup Group.  Get ready for a cool\, casual\, conversational and
-  interactiv…</p>\n<p>Details: http://www.meetup.com/watchdevs/events/22367
- 0518/</p>
+DESCRIPTION:<p>Wearable Tech\, iBeacon and IoT<br />\nMonday\, October 5 at
+  6:00 PM</p>\n<p>The Future of Wearable Tech and IoT  We are teaming up wi
+ th the Orlando IoT Meetup Group for this meetup. Get ready for a casual\, 
+ conversational and i…</p>\n<p>Details: http://www.meetup.com/watchdevs/eve
+ nts/223670518/</p>
 DTSTART;TZID=America/New_York:20151005T180000
 DTEND;TZID=America/New_York:20151005T190000
 GEO:+28.54;-81.37
@@ -487,7 +510,7 @@ X-TAGS;LANGUAGE=en-US:wearable
 END:VEVENT
 BEGIN:VEVENT
 UID:event_czhgklytnbhb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 5 at 6:30 PM</p>\n<p>
@@ -506,7 +529,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_rnxsjlytnbhb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 5 at 7:00 PM</p>\n<p>
@@ -523,7 +546,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225290772@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nTuesday\, October 6 at 12:00 PM</p>\n<
@@ -542,7 +565,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dqkznkytnbjb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, October 6 at 6:30 PM</p>\n
@@ -561,7 +584,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
 END:VEVENT
 BEGIN:VEVENT
 UID:event_djcfghytnbjb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, October 6 at 
@@ -580,7 +603,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223401989@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, October 8
@@ -599,7 +622,7 @@ X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qclblkytnbmb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nFriday\, October 9 at 7:30 AM</p>\n<p>L
@@ -619,7 +642,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_czhgklytnbqb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 12 at 6:30 PM</p>\n<p
@@ -639,7 +662,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_rnxsjlytnbqb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 12 at 7:00 PM</p>\n<p
@@ -656,7 +679,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkytnbrb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, October 13 at 9:00
@@ -677,7 +700,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225290810@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nTuesday\, October 13 at 12:00 PM</p>\n
@@ -695,7 +718,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225116688@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nTuesday\, October 13 at 12:00 PM</p>\n
@@ -715,7 +738,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225451248@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Lean Startup Practitioners<br />\nTuesday\, October 13 at 6:
@@ -735,7 +758,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
 END:VEVENT
 BEGIN:VEVENT
 UID:event_fglwclytnbrb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, October
@@ -755,7 +778,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qnpkvhytnbsb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, October 14 
@@ -775,17 +798,19 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_222019790@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Orlando Tech
 CONTACT:
 DESCRIPTION:<p>Orlando Tech<br />\nThursday\, October 15 at 7:00 PM</p>\n<p
- >Hello Orlando Tech Community!  We’re looking forward to an amazing night 
- of demos! We hope you’ll join us. If you’d like to demo your product at an
-  up…</p>\n<p>Details: http://www.meetup.com/Orlando-Tech/events/222019790/
- </p>
+ >RSVP to Orlando Tech Meetup: http://bit.ly/otmOCT2015  Hello Orlando Tech
+  Community!  We’re looking forward to an amazing night of demos! We hope y
+ ou’…</p>\n<p>Fee: Suggested Donation: USD 5.00 per person</p>\n<p>Details:
+  http://www.meetup.com/Orlando-Tech/events/222019790/</p>
 DTSTART;TZID=America/New_York:20151015T190000
 DTEND;TZID=America/New_York:20151015T220000
 GEO:+28.54;-81.37
+LOCATION:Church Street Exchange (101 South Garland Avenue\, Orlando\, FL 32
+ 801)
 SEQUENCE:0
 SUMMARY:October 2015 Orlando Tech Meetup
 URL:http://orlandotech.org/event/october-2015-orlando-tech-meetup/
@@ -794,7 +819,7 @@ X-TAGS;LANGUAGE=en-US:android\,business\,creative\,Funding\,networking\,tec
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dftrdjytnbtb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, October 15 a
@@ -813,17 +838,18 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_hfpqklytnbvb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nFriday\, October 16 at 7:30 AM</p>\n<p>
  We are starting a NEW Lean Coffee group in the Baldwin Park & Winter Park 
  area and would love to see you there! It will be hosted at Stardust Coffee
-  e…</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/hfpqklytnb
- vb/</p>
+  e…</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/225510603/
+ </p>
 DTSTART;TZID=America/New_York:20151016T073000
 DTEND;TZID=America/New_York:20151016T083000
 GEO:+28.54;-81.37
+LOCATION:Stardust Coffee (1842 E. Winter Park road\, Orlando\, FL 32803)
 SEQUENCE:0
 SUMMARY:Lean Coffee Orlando (Baldwin Park/Winter Park)
 URL:http://orlandotech.org/event/lean-coffee-orlando-baldwin-parkwinter-par
@@ -832,7 +858,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223443879@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Orlando Tech
 CONTACT:
 DESCRIPTION:<p>O-Tech Pub Crawl<br />\nFriday\, October 16 at 5:00 PM</p>\n
@@ -851,7 +877,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223425569@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:The Iron Yard
 CONTACT:
 DESCRIPTION:<p>The Iron Yard – Orlando<br />\nMonday\, October 19 at 6:30 P
@@ -870,7 +896,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,ruby\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_czhgklytnbzb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 19 at 6:30 PM</p>\n<p
@@ -889,7 +915,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_rnxsjlytnbzb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nMonday\, October 19 at 7:00 PM</p>\n<p
@@ -906,7 +932,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225290829@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Starter Studio<br />\nTuesday\, October 20 at 12:00 PM</p>\n
@@ -924,7 +950,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225046180@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>University Mobile<br />\nTuesday\, October 20 at 7:00 PM</p>
@@ -942,7 +968,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223401995@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, October 2
@@ -962,7 +988,7 @@ X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkytnbkc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, October 27 at 9:00
@@ -982,7 +1008,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225045766@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>University Ruby<br />\nTuesday\, October 27 at 7:00 PM</p>\n
@@ -999,7 +1025,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Javascript\,ruby\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225263271@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>EdTech Orlando<br />\nWednesday\, October 28 at 7:00 PM</p>
@@ -1019,7 +1045,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,edtech\,IoT\,Javascript\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_ltvlflytnbmc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nThursday\, October 29 at 7:45 AM</p>\n<
@@ -1037,7 +1063,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dqkznkytpbfb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, November 3 at 8:00 PM</p>
@@ -1053,7 +1079,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
 END:VEVENT
 BEGIN:VEVENT
 UID:event_djcfghytpbfb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, November 3 at
@@ -1072,17 +1098,18 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_jvvdjlytpbhb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nThursday\, November 5 at 6:00 PM</p>\n<
  p>Come join us at BrassTap. Bring a friend\, sip a beverage and chat about
   agile. No real agenda – just telling stories\, sharing tips\, asking ques
- tions\, …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/jvvd
- jlytpbhb/</p>
+ tions\, …</p>\n<p>Details: http://www.meetup.com/Agile-Orlando/events/2255
+ 10615/</p>
 DTSTART;TZID=America/New_York:20151105T180000
 DTEND;TZID=America/New_York:20151105T210000
 GEO:+28.54;-81.37
+LOCATION:BrassTap (1632 N Mills Ave\, Orlando\, FL)
 SEQUENCE:0
 SUMMARY:Burndown with Beverage
 URL:http://orlandotech.org/event/burndown-with-beverage-4/
@@ -1090,7 +1117,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225345568@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Orlando Tech
 CONTACT:
 DESCRIPTION:<p>Orlando Tech<br />\nFriday\, November 6 at 6:30 PM</p>\n<p>R
@@ -1109,7 +1136,7 @@ X-TAGS;LANGUAGE=en-US:android\,business\,creative\,Funding\,networking\,tec
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkytpbnb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, November 10 at 9:0
@@ -1129,7 +1156,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_fglwclytpbnb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, Novembe
@@ -1148,7 +1175,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qnpkvhytpbpb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, November 11
@@ -1167,7 +1194,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_225385491@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, November 
@@ -1187,7 +1214,7 @@ X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qclblkytpbrb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nFriday\, November 13 at 7:30 AM</p>\n<p
@@ -1207,7 +1234,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223283564@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:The Iron Yard
 CONTACT:
 DESCRIPTION:<p>The Iron Yard – Orlando<br />\nMonday\, November 16 at 6:30 
@@ -1227,7 +1254,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,ruby\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_222019800@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Orlando Tech
 CONTACT:
 DESCRIPTION:<p>Orlando Tech<br />\nThursday\, November 19 at 7:00 PM</p>\n<
@@ -1246,7 +1273,7 @@ X-TAGS;LANGUAGE=en-US:android\,business\,creative\,Funding\,networking\,tec
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dftrdjytpbzb@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, November 19 
@@ -1265,7 +1292,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_hfpqklytpbbc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nFriday\, November 20 at 7:30 AM</p>\n<p
@@ -1284,7 +1311,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223443884@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Orlando Tech
 CONTACT:
 DESCRIPTION:<p>O-Tech Pub Crawl<br />\nFriday\, November 20 at 5:00 PM</p>
@@ -1303,7 +1330,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkytpbgc@meetup.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, November 24 at 9:0
@@ -1323,7 +1350,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dqkznkytqbcb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, December 1 at 6:30 PM</p>
@@ -1340,7 +1367,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
 END:VEVENT
 BEGIN:VEVENT
 UID:event_djcfghytqbcb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, December 1 at
@@ -1359,7 +1386,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_jvvdjlytqbfb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nThursday\, December 3 at 6:00 PM</p>\n<
@@ -1377,7 +1404,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223283534@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:The Iron Yard
 CONTACT:
 DESCRIPTION:<p>The Iron Yard – Orlando<br />\nMonday\, December 7 at 6:30 P
@@ -1396,7 +1423,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,iOS\,Javascript\,ruby\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkytqblb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, December 8 at 9:00
@@ -1416,7 +1443,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_fglwclytqblb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, Decembe
@@ -1435,7 +1462,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qnpkvhytqbmb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, December 9 
@@ -1454,7 +1481,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223402013@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>ONETUG – Orlando .NET User Group<br />\nThursday\, December 
@@ -1475,7 +1502,7 @@ X-TAGS;LANGUAGE=en-US:.net\,business\,creative\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qclblkytqbpb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nFriday\, December 11 at 7:30 AM</p>\n<p
@@ -1493,7 +1520,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_222019814@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Orlando Tech
 CONTACT:
 DESCRIPTION:<p>Orlando Tech<br />\nThursday\, December 17 at 7:00 PM</p>\n<
@@ -1512,7 +1539,7 @@ X-TAGS;LANGUAGE=en-US:android\,business\,creative\,Funding\,networking\,tec
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dftrdjytqbwb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, December 17 
@@ -1531,7 +1558,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_hfpqklytqbxb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nFriday\, December 18 at 7:30 AM</p>\n<p
@@ -1550,7 +1577,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223443890@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Orlando Tech
 CONTACT:
 DESCRIPTION:<p>O-Tech Pub Crawl<br />\nFriday\, December 18 at 5:00 PM</p>
@@ -1569,7 +1596,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkytqbdc@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, December 22 at 9:0
@@ -1589,7 +1616,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkyvcbhb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, January 5 at 9:00 
@@ -1609,7 +1636,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dqkznkyvcbhb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, January 5 at 6:30 PM</p>\n
@@ -1626,7 +1653,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
 END:VEVENT
 BEGIN:VEVENT
 UID:event_djcfghyvcbhb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, January 5 at 
@@ -1645,7 +1672,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_jvvdjlyvcbkb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nThursday\, January 7 at 6:00 PM</p>\n<p
@@ -1663,7 +1690,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qclblkyvcblb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nFriday\, January 8 at 7:30 AM</p>\n<p>L
@@ -1681,7 +1708,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_223675374@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Beacon Meetup<br />\nMonday\, January 11 at 6:00 PM</p>\n<p>
@@ -1700,7 +1727,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,networking\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_fglwclyvcbqb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, January
@@ -1719,7 +1746,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qnpkvhyvcbrb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, January 13 
@@ -1738,7 +1765,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkyvcbzb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, January 19 at 9:00
@@ -1758,7 +1785,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dftrdjyvcbcc@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, January 21 a
@@ -1777,7 +1804,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qccgzkyvdbdb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Orlando Open Coffee Club<br />\nTuesday\, February 2 at 9:00
@@ -1797,7 +1824,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Funding\,Javascript\,networking\,
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dqkznkyvdbdb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, February 2 at 6:30 PM</p>
@@ -1814,7 +1841,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
 END:VEVENT
 BEGIN:VEVENT
 UID:event_djcfghyvdbdb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, February 2 at
@@ -1833,7 +1860,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_jvvdjlyvdbgb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nThursday\, February 4 at 6:00 PM</p>\n<
@@ -1851,7 +1878,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_fglwclyvdbmb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, Februar
@@ -1871,7 +1898,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qnpkvhyvdbnb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, February 10
@@ -1890,7 +1917,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qclblkyvdbqb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nFriday\, February 12 at 7:30 AM</p>\n<p
@@ -1908,7 +1935,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dftrdjyvdbxb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, February 18 
@@ -1927,7 +1954,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dqkznkyvfbcb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Code For Orlando<br />\nTuesday\, March 1 at 6:30 PM</p>\n<p
@@ -1943,7 +1970,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,Health Tech\,iOS\,IoT\,Javascript
 END:VEVENT
 BEGIN:VEVENT
 UID:event_djcfghyvfbcb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nTuesday\, March 1 at 8:
@@ -1962,7 +1989,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_jvvdjlyvfbfb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nThursday\, March 3 at 6:00 PM</p>\n<p>C
@@ -1980,7 +2007,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_fglwclyvfblb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Sports & Entertainment Tech Orlando<br />\nTuesday\, March 8
@@ -2000,7 +2027,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,networking\,tech
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qnpkvhyvfbmb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nWednesday\, March 9 at 
@@ -2019,7 +2046,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,python\,technica
 END:VEVENT
 BEGIN:VEVENT
 UID:event_qclblkyvfbpb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Agile Orlando<br />\nFriday\, March 11 at 7:30 AM</p>\n<p>Le
@@ -2037,7 +2064,7 @@ X-TAGS;LANGUAGE=en-US:business\,creative\,IoT\,Javascript\,technical
 END:VEVENT
 BEGIN:VEVENT
 UID:event_dftrdjyvfbwb@meetup.com
-DTSTAMP:20150920T002320Z
+DTSTAMP:20150921T224748Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>The Orlando Python User Group<br />\nThursday\, March 17 at 

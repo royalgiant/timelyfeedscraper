@@ -1,25 +1,1821 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//37.17.224.43//NONSGML kigkonsult.se iCalcreator 2.20//
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-FROM-URL:http://kochkursvegan.de
-X-WR-TIMEZONE:Europe/Berlin
-BEGIN:VTIMEZONE
-TZID:Europe/Berlin
-X-LIC-LOCATION:Europe/Berlin
-BEGIN:STANDARD
-DTSTART:20151025T030000
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-TZNAME:CET
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20150329T020000
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-RDATE:20160327T020000
-TZNAME:CEST
-END:DAYLIGHT
-END:VTIMEZONE
-END:VCALENDAR
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vegane Kochkurse | Vegan Einfach</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://kochkursvegan.de/xmlrpc.php">
+<!--[if lt IE 9]>
+	<script src="http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/html5shiv.js"></script>
+<![endif]-->
+
+<title>Vegane Kochkurse | Vegan Einfach</title>
+<link rel="alternate" type="application/rss+xml" title="Vegane Kochkurse &raquo; Feed" href="http://kochkursvegan.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Vegane Kochkurse &raquo; Kommentar-Feed" href="http://kochkursvegan.de/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/kochkursvegan.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bwg_frontend-css'  href='http://kochkursvegan.de/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.2.59' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_font-awesome-css'  href='http://kochkursvegan.de/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_mCustomScrollbar-css'  href='http://kochkursvegan.de/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css?ver=1.2.59' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://kochkursvegan.de/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.0.8.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}.largeredbtn{font-family:"Raleway",sans-serif;font-weight:900;font-size:16px;line-height:60px;color:#fff !important;text-decoration:none;padding-left:40px;padding-right:80px;padding-top:22px;padding-bottom:22px;background:rgb(234,91,31); background:-moz-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(234,91,31,1)),color-stop(100%,rgba(227,58,12,1))); background:-webkit-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%); background:-o-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%); background:-ms-linear-gradient(top,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%); background:linear-gradient(to bottom,rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5b1f',endColorstr='#e33a0c',GradientType=0 )}.largeredbtn:hover{background:rgb(227,58,12); background:-moz-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(227,58,12,1)),color-stop(100%,rgba(234,91,31,1))); background:-webkit-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%); background:-o-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%); background:-ms-linear-gradient(top,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%); background:linear-gradient(to bottom,rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e33a0c',endColorstr='#ea5b1f',GradientType=0 )}.fullrounded img{-webkit-border-radius:400px;-moz-border-radius:400px;border-radius:400px}
+</style>
+<link rel='stylesheet' id='easy-facebook-likebox-plugin-styles-css'  href='http://kochkursvegan.de/wp-content/plugins/easy-facebook-likebox/public/assets/css/public.css?ver=4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-popup-styles-css'  href='http://kochkursvegan.de/wp-content/plugins/easy-facebook-likebox/public/assets/popup/magnific-popup.css?ver=4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='accesspress-parallax-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C500%2C700%7COxygen%3A400%2C300%2C700&#038;ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='accesspress-parallax-font-awesome-css'  href='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/css/font-awesome.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='accesspress-parallax-bx-slider-css'  href='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/css/jquery.bxslider.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='accesspress-parallax-nivo-lightbox-css'  href='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/css/nivo-lightbox.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='accesspress-parallax-animate-css'  href='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/css/animate.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='accesspress-parallax-style-css'  href='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='accesspress-parallax-responsive-css'  href='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/css/responsive.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://kochkursvegan.de/wp-content/plugins/tablepress/css/default.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='scroll-triggered-boxes-css'  href='http://kochkursvegan.de/wp-content/plugins/scroll-triggered-boxes/assets/css/styles.min.css?ver=2.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://kochkursvegan.de/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/photo-gallery/js/bwg_frontend.js?ver=1.2.59'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/photo-gallery/js/jquery.mobile.js?ver=1.2.59'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.2.59'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectL10n = {"bwg_field_required":"Feld ist erforderlich.","bwg_mail_validation":"Dies ist keine g\u00fcltige E-Mail-Adresse.","bwg_search_result":"Es gibt keine Bilder, die Ihren Such."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js?ver=1.2.59'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/easy-facebook-likebox/public/assets/popup/jquery.magnific-popup.min.js?ver=4.2'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/easy-facebook-likebox/public/assets/js/jquery.cookie.js?ver=4.2'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/easy-facebook-likebox/public/assets/js/public.js?ver=4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://kochkursvegan.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://kochkursvegan.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<script type='text/javascript'>
+var tminusnow = 'http://kochkursvegan.de/wp-content/plugins/jquery-t-countdown-widget/js/now.php';
+</script><link type='image/png' rel='icon' href=''/>
+<style type='text/css' media='all'>#section-27{ background:url(http://kochkursvegan.de/wp-content/uploads/2015/05/2020x1200-weiss-tranparent.png) no-repeat scroll top left ; background-size:auto; color:#0a0a0a}
+#section-27 .overlay { background:url(http://kochkursvegan.de/wp-content/themes/accesspress-parallax/images/overlay0.png);}
+#section-376{ background:url(http://kochkursvegan.de/wp-content/uploads/2015/06/kochen33.jpg) no-repeat fixed top left ; background-size:auto; color:#0a0a0a}
+#section-376 .overlay { background:url(http://kochkursvegan.de/wp-content/themes/accesspress-parallax/images/overlay0.png);}
+#section-383{ background:url(http://kochkursvegan.de/wp-content/uploads/2015/07/gutschein100.jpg) no-repeat fixed top left ; background-size:auto; color:#000000}
+#section-383 .overlay { background:url(http://kochkursvegan.de/wp-content/themes/accesspress-parallax/images/overlay0.png);}
+#section-51{ background:url() no-repeat scroll top left ; background-size:auto; color:#0a0a0a}
+#section-51 .overlay { background:url(http://kochkursvegan.de/wp-content/themes/accesspress-parallax/images/overlay0.png);}
+#main-slider .overlay{display:none};</style>
+<script>
+    jQuery(document).ready(function($){
+       wow = new WOW(
+        {
+          offset:  200 
+        }
+      )
+      wow.init();
+    });
+    </script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://kochkursvegan.de/wp-content/uploads/2015/03/hintergrundbild.jpg'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+<meta name="generator" content="Powered by Slider Revolution 5.0.8.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type="text/css">
+/* Custom Styles for Box 413 */
+.stb-413 {
+background: #ffffff !important;
+}
+
+/* Custom Styles for Box 291 */
+.stb-291 {
+background: #7c7c7c !important;
+border-color: #a30000 !important;
+border-width: 3px !important;
+border-style: solid !important;
+max-width: 150px;
+@media ( max-width: 150px ) { #stb-291 { display: none !important; } }
+}
+
+</style>
+
+
+<!-- BEGIN GADWP v4.8.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-61524807-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Tracking -->
+
+</head>
+
+<body class="home blog custom-background parallax-on">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="logo-side">
+		<div class="mid-content clearfix">
+		<div id="site-logo">
+					<h1 class="site-title"><a href="http://kochkursvegan.de/" rel="home">Vegane Kochkurse</a></h1>
+			<h2 class="site-description">Vegan Einfach</h2>
+				</div>
+
+		<nav id="site-navigation" class="main-navigation">
+		<div class="menu-toggle">Menu</div>
+				
+			<ul id="menu-mein-menue" class="nav"><li id="menu-item-410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-410"><a href="http://shop.kochkursvegan.de/">Kochkurse</a></li>
+<li id="menu-item-445" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445"><a href="http://shop.kochkursvegan.de/mein-kochbuch/">Mein Kochbuch</a></li>
+<li id="menu-item-416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-416"><a href="http://shop.kochkursvegan.de/kochkurse/">Termine</a></li>
+<li id="menu-item-411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-411"><a href="http://shop.kochkursvegan.de/shop/">Kochkurse &#8211; Preise</a></li>
+<li id="menu-item-412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-412"><a href="http://shop.kochkursvegan.de/shopinformationen/">Infos</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://kochkursvegan.de/impressum/">Impressum</a></li>
+</ul>		
+		</nav><!-- #site-navigation -->
+		</div>
+
+
+			<div class="social-icons">
+				<a href="https://www.facebook.com/kochkursvegan?fref=ts" class="facebook" data-title="Facebook" target="_blank"><i class="fa fa-facebook"></i><span></span></a>
+		
+		
+				<a href="https://plus.google.com/u/0/b/109438109676609499366/109438109676609499366/about" class="gplus" data-title="Google Plus" target="_blank"><i class="fa fa-google-plus"></i><span></span></a>
+		
+		
+				<a href="https://www.pinterest.com/aleinadaion/" class="pinterest" data-title="Pinterest" target="_blank"><i class="fa fa-pinterest"></i><span></span></a>
+		
+		
+		
+		
+				<a href="https://instagram.com/veganekochkurse/" class="instagram" data-title="instagram" target="_blank"><i class="fa fa-instagram"></i><span></span></a>
+				
+			</div>
+
+	<script>
+	jQuery(document).ready(function($){
+		$(window).resize(function(){
+			 var socialHeight = $('.social-icons').outerHeight();
+			 $('.social-icons').css('margin-top',-(socialHeight/2));
+		}).resize();
+	});
+	</script>
+	</header><!-- #masthead -->
+
+
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.0.8.5 fullwidth mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner tp-overflow-hidden" style="display:none;" data-version="5.0.8.5">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-1" data-transition="3dcurtain-vertical" data-slotamount="7"  data-easein="default" data-easeout="default" data-masterspeed="1200"  data-thumb="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/slider100-100x50.jpg"  data-delay="7820"  data-rotate="0"  data-saveperformance="off"  data-title="Anfang" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/slider100.jpg"  alt=""  data-bgposition="center top" data-bgfit="100% 100%" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-1" 
+			 data-x="218" 
+			 data-y="420" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:right;s:2000;e:Power3.easeInOut;" 
+			 data-transform_out="x:left;s:1200;s:1200;" 
+			data-start="1900" 
+			data-responsive_offset="on" 
+
+			 data-end="7600" 
+
+			style="z-index: 5;"><img src="http://kochkursvegan.de/wp-content/uploads/2015/05/Tafel-kochkurs.png" alt="" width="500" height="286" data-ww="552px" data-hh="327px" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption mediumbgmein2   tp-resizeme" 
+			 id="slide-1-layer-2" 
+			 data-x="854" 
+			 data-y="219" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:right;s:1900;e:Power3.easeInOut;" 
+			 data-transform_out="x:right;s:1250;s:1250;" 
+			data-start="750" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			 data-end="6580" 
+
+			style="z-index: 6; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(127, 140, 141, 0.81);padding:10px 10px 10px 10px;border-color:rgba(255, 255, 255, 1.00);">Planen sie doch einmal etwas Besonderes 
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<a class="tp-caption   tp-resizeme" 
+ href="http://shop.kochkursvegan.de" target="_blank"			 id="slide-1-layer-3" 
+			 data-x="center" data-hoffset="809" 
+			 data-y="center" data-voffset="323" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;rZ:348;"
+ 
+			 data-transform_in="x:right;s:1600;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:2;" 
+			data-start="1900" 
+			data-actions=''
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 7;"><img src="http://kochkursvegan.de/wp-content/uploads/2015/05/termine.png" alt="" width="206" height="183" data-ww="198px" data-hh="157px" data-no-retina> 
+		</a>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-2" data-transition="3dcurtain-vertical" data-slotamount="7"  data-easein="default" data-easeout="default" data-masterspeed="1200"  data-thumb="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Unbenannt-1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Unbenannt-1.jpg"  alt=""  data-bgposition="left top" data-bgfit="100% 100%" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption meine-50   tp-resizeme" 
+			 id="slide-2-layer-1" 
+			 data-x="center" data-hoffset="-91" 
+			 data-y="center" data-voffset="-241" 
+						data-width="['306']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;s:800;e:Quad.easeOut;" 
+			 data-transform_out="x:left;s:1400;s:1400;" 
+			data-start="1600" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			 data-end="3350" 
+
+			style="z-index: 5; min-width: 306px; max-width: 306px; white-space: normal; color: rgba(255, 255, 255, 1.00);background-color:rgba(167, 12, 12, 0.81);padding:10px 10px 10px 10px;border-color:rgba(0, 0, 0, 1.00);">Das vegane Kochevent 
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-2-layer-2" 
+			 data-x="213" 
+			 data-y="449" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:right;s:2000;e:Quad.easeOut;" 
+			 data-transform_out="x:left;s:1000;s:1000;" 
+			data-start="2900" 
+			data-responsive_offset="on" 
+
+			 data-end="7600" 
+
+			style="z-index: 6;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/ich.png" alt="" width="500" height="375" data-ww="266" data-hh="192" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption meine-50   tp-resizeme" 
+			 id="slide-2-layer-3" 
+			 data-x="261" 
+			 data-y="390" 
+						data-width="['186']"
+			data-height="['40']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:left;s:1500;e:Quad.easeOut;" 
+			 data-transform_out="x:left;s:300;s:300;" 
+			data-start="3750" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			 data-end="7800" 
+
+			style="z-index: 7; min-width: 186px; max-width: 186px; max-width: 40px; max-width: 40px; white-space: normal; color: rgba(255, 255, 255, 1.00);background-color:rgba(167, 12, 12, 0.81);padding:10px 10px 10px 10px;border-color:rgba(0, 0, 0, 1.00);">mit Vegan-Köchin 
+		</div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption meine-50   tp-resizeme" 
+			 id="slide-2-layer-4" 
+			 data-x="272" 
+			 data-y="664" 
+						data-width="['151']"
+			data-height="['40']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:left;s:300;e:Quad.easeOut;" 
+			 data-transform_out="x:left;s:300;s:300;" 
+			data-start="4450" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			 data-end="8300" 
+
+			style="z-index: 8; min-width: 151px; max-width: 151px; max-width: 40px; max-width: 40px; white-space: normal; color: rgba(255, 255, 255, 1.00);background-color:rgba(167, 12, 12, 0.81);padding:10px 10px 10px 10px;border-color:rgba(0, 0, 0, 1.00);">Daniela Noia 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-3" data-transition="3dcurtain-vertical" data-slotamount="7"  data-easein="default" data-easeout="default" data-masterspeed="1200"  data-thumb="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Kochkurs101-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Kochkurs101.jpg"  alt=""  data-bgposition="center top" data-bgfit="100% 100%" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-1" 
+			 data-x="307" 
+			 data-y="169" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:2000;e:Power3.easeInOut;" 
+			 data-transform_out="x:right;" 
+			data-start="1600" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5;"><img src="http://kochkursvegan.de/wp-content/uploads/2015/05/tafel60.png" alt="" width="400" height="438" data-ww="610" data-hh="378" data-no-retina> 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-4" data-transition="3dcurtain-vertical" data-slotamount="7"  data-easein="default" data-easeout="default" data-masterspeed="1200"  data-thumb="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Kochkurs100-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Kochkurs100.jpg"  alt=""  data-bgposition="center bottom" data-bgfit="100% 100%" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-4-layer-1" 
+			 data-x="198" 
+			 data-y="686" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="500" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/vorspeise.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption meine-15   tp-resizeme" 
+			 id="slide-4-layer-2" 
+			 data-x="262" 
+			 data-y="859" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 6; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(107, 107, 107, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 11, 20, 1.00);">Vorspeisen 
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-4-layer-3" 
+			 data-x="427" 
+			 data-y="536" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="1200" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 7;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Hauptgericht.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-4-layer-4" 
+			 data-x="648" 
+			 data-y="384" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="1900" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 8;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Pastagerichte.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption meine-15   tp-resizeme" 
+			 id="slide-4-layer-5" 
+			 data-x="474" 
+			 data-y="710" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="1200" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 9; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(107, 107, 107, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 11, 20, 1.00);">Hauptgerichte 
+		</div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption meine-15   tp-resizeme" 
+			 id="slide-4-layer-6" 
+			 data-x="701" 
+			 data-y="559" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="1900" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 10; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(107, 107, 107, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 11, 20, 1.00);">Pastagerichte 
+		</div>
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-4-layer-7" 
+			 data-x="873" 
+			 data-y="234" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="2600" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 11;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/salat.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-4-layer-8" 
+			 data-x="1099" 
+			 data-y="132" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="3300" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 12;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/eintopf.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption meine-15   tp-resizeme" 
+			 id="slide-4-layer-9" 
+			 data-x="961" 
+			 data-y="403" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="2400" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 13; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(107, 107, 107, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 11, 20, 1.00);">Salate 
+		</div>
+
+		<!-- LAYER NR. 10 -->
+		<div class="tp-caption meine-15   tp-resizeme" 
+			 id="slide-4-layer-10" 
+			 data-x="1129" 
+			 data-y="308" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="3100" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 14; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(107, 107, 107, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 11, 20, 1.00);">Suppen & Eintöpfe 
+		</div>
+
+		<!-- LAYER NR. 11 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-4-layer-11" 
+			 data-x="142" 
+			 data-y="47" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1900;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="700" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 15;"><img src="http://kochkursvegan.de/wp-content/uploads/2015/05/tafel72.png" alt="" width="1500" height="1000" data-ww="612" data-hh="401" data-no-retina> 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-5" data-transition="3dcurtain-vertical" data-slotamount="7"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Rubrik-Backen-12-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/Rubrik-Backen-12.jpg"  alt=""  width="2200" height="1469" data-bgposition="center bottom" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption mein   tp-resizeme" 
+			 id="slide-5-layer-1" 
+			 data-x="center" data-hoffset="-211" 
+			 data-y="center" data-voffset="-206" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1400;e:Power3.easeInOut;" 
+			 data-transform_out="x:right;" 
+			data-start="500" 
+			data-splitin="words" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			data-elementdelay="0.1" 
+			 data-end="6600" 
+
+			style="z-index: 5; white-space: nowrap; color: rgba(213, 211, 211, 1.00);border-color:rgba(0, 0, 0, 1.00);">Ich zeige Ihnen wie SIE teuflisch leckere, vegane  Backwaren herstellen... 
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-5-layer-2" 
+			 data-x="224" 
+			 data-y="690" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="500" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 6;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/torten101.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption meine-14   tp-resizeme" 
+			 id="slide-5-layer-3" 
+			 data-x="308" 
+			 data-y="862" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 7; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(120, 71, 23, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 129, 11, 1.00);">Torten 
+		</div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-5-layer-4" 
+			 data-x="525" 
+			 data-y="688" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="1200" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 8;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/brot.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-5-layer-5" 
+			 data-x="826" 
+			 data-y="688" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="1900" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 9;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/brötchen.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption meine-14   tp-resizeme" 
+			 id="slide-5-layer-6" 
+			 data-x="620" 
+			 data-y="863" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="1200" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 10; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(120, 71, 23, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 129, 11, 1.00);">Brot 
+		</div>
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption meine-14   tp-resizeme" 
+			 id="slide-5-layer-7" 
+			 data-x="895" 
+			 data-y="863" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="1900" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 11; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(120, 71, 23, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 129, 11, 1.00);">Brötchen 
+		</div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption meine-14   tp-resizeme" 
+			 id="slide-5-layer-8" 
+			 data-x="1203" 
+			 data-y="863" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="2600" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 12; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(120, 71, 23, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 129, 11, 1.00);">Kuchen 
+		</div>
+
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-5-layer-9" 
+			 data-x="1126" 
+			 data-y="690" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="2600" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 13;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/kuchen.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 10 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-5-layer-10" 
+			 data-x="1425" 
+			 data-y="686" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="3300" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 14;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/backen100.png" alt="" width="500" height="375" data-ww="250" data-hh="162" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 11 -->
+		<div class="tp-caption meine-14   tp-resizeme" 
+			 id="slide-5-layer-11" 
+			 data-x="1488" 
+			 data-y="863" 
+						data-width="auto"
+			data-height="auto"
+			data-transform_idle=""
+ 
+			 data-transform_in="x:left;s:1200;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="3300" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 15; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(120, 71, 23, 0.81);padding:10px 10px 10px 10px;border-color:rgba(168, 129, 11, 1.00);">Backwaren 
+		</div>
+
+		<!-- LAYER NR. 12 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-5-layer-12" 
+			 data-x="1209" 
+			 data-y="339" 
+						data-width=""
+			data-height=""
+			data-transform_idle=""
+ 
+			 data-transform_in="x:right;s:1800;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;" 
+			data-start="700" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 16;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/kreidetafel101.png" alt="" width="700" height="600" data-ww="491" data-hh="361" data-no-retina> 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-6" data-transition="slidedown" data-slotamount="1"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="http://kochkursvegan.de/wp-content/uploads/2015/05/kochkurs4-100x50.jpg"  data-delay="15000"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/2015/05/kochkurs4.jpg"  alt=""  width="1980" height="1322" data-bgposition="center top" data-kenburns="on" data-duration="16000" data-ease="Linear.easeNone" data-scalestart="110" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-6-layer-1" 
+			 data-x="1107" 
+			 data-y="359" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:left;s:1800;e:Power3.easeInOut;" 
+			 data-transform_out="x:left;s:1500;s:1500;" 
+			data-start="500" 
+			data-responsive_offset="on" 
+
+			 data-end="7500" 
+
+			style="z-index: 5;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider1/vegan.png" alt="" width="800" height="531" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption mediumbgorangemein   tp-resizeme" 
+			 id="slide-6-layer-2" 
+			 data-x="221" 
+			 data-y="344" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:right;s:1900;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:1800;" 
+			data-start="850" 
+			data-splitin="words" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			data-elementdelay="0.1" 
+			
+			style="z-index: 6; white-space: nowrap; color: rgba(255, 255, 255, 1.00);background-color:rgba(243, 156, 18, 100.00);padding:10px 10px 10px 10px;border-color:rgba(255, 214, 88, 1.00);">Ich freue mich auf einen tollen Kochabend mit Ihnen... 
+		</div>
+	</li>
+</ul>
+<div class="tp-bannertimer" style="height: 5px; background-color: rgba(0, 0, 0, 0.15);"></div>	</div>
+<script>
+					var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3A%23000%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3A%23000%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3A%23fff%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A.hesperiden.tp-bullets%20%7B%0A%7D%0A.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%22%20%22%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20%23999999%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20%23999999%200%25%2C%20%23e1e1e1%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-gradient%28linear%2C%20left%20top%2C%20left%20bottom%2C%20color-stop%280%25%2C%23999999%29%2C%20%0A%20%20%20%20color-stop%28100%25%2C%23e1e1e1%29%29%3B%20%2F%2A%20chrome%2Csafari4%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%22%23999999%22%2C%20endcolorstr%3D%22%23e1e1e1%22%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20%23e5e5e5%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.hesperiden%20.tp-bullet%3Ahover%2C%0A.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3A%23666%3B%0A%7D%0A.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER -->
+		<div id="content" class="site-content no-slider">
+	
+		
+
+
+			<section class="parallax-section clearfix team_template" id="section-27">
+		
+					<div class="mid-content">
+														<h1><span>Kochkurse in Wuppertal</span></h1>
+
+					<div class="parallax-content">
+											<div class="page-content">
+						<p style="text-align: center;">Nach langem Suchen habe ich nun eine geeignete Räumlichkeit gefunden in der ich vegane Kochkurse in lockerer Atmosphäre anbieten kann.</p>
+<p style="text-align: left;">Meine Kochkurse richten sich an Kochbegeisterte die einfach Spaß am Kochen, Backen und Gemüse schnippeln haben. Auch wenn Sie bisher noch niemals eine Kartoffel geschält haben, sind Sie in meinem Kochkurs bestens aufgehoben. Ich zeige in erster Linie leckere, vegane und einfache Gerichte die jeder sehr gut zu Hause, und ohne teure Zutaten aus dem Reformhaus umsetzten kann, und wie sie Ihren täglichen Speiseplan mit einfachen Zutaten schmackhaft und gesund zubereiten können.</p>
+<p style="text-align: left;">Wenn Sie offen für Neues, neugierig geworden sind, und Lust haben unter meiner Anleitung an einem Kochkurs bei dem Sie selbst den Kochlöffel schwingen, teilzunehmen, würde ich mich auf ein gemeinsames Kochvergnügen mit Ihnen freuen.</p>
+<h2 style="text-align: center;">Zu den Kochkursen mit Terminen und Preisen geht es <a href="http://shop.kochkursvegan.de/" target="_blank">HIER</a> entlang</h2>
+<p style="text-align: left;">
+<p style="text-align: left;">Wenn Sie sich einen veganen Kochkurs mit mir wünschen, würde ich mich freuen von Ihnen zu hören. Haben sie Fragen zu meinen Preisen oder zum Ablauf, dann kontaktieren sie mich einfach<br />
+per mail: <a href="mailto:info@vegan-ganzeinfach.de">info@vegan-ganzeinfach.de</a> , oder wünschen Sie ein persönliches Gespräch Tel: 01578-5287970</p>
+<p style="text-align: center;">Liebe Grüße<br />
+Daniela</p>
+						</div>
+										</div> 
+							
+					
+					
+	<div class="team-listing clearfix">
+			<div class="team-tab">
+			<div class="team-slider">
+			
+			<a id="team-24" href="#" class="clearfix team-image wow fadeInLeft" data-wow-delay="0.25s">
+								<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Daniela-Noia-150x150.jpg" alt="Vegan Köchin">
+							</a>
+
+						</div>
+		</div>
+		
+				<div class="team-content wow fadeIn" data-wow-delay="1.5s">
+		
+		<div class="clearfix team-list team-24">
+						<div class="team-big-image">
+			<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Daniela-Noia-380x380.jpg" alt="Vegan Köchin">
+			</div>
+			
+			<div class="team-detail">
+				<h3>Vegan Köchin</h3>
+				<p>Daniela Noia</p>
+			</div>
+		</div>
+
+				</div>
+			</div><!-- #primary -->
+
+
+
+        		
+						</div>
+					</section>
+	
+			<section class="parallax-section clearfix default_template" id="section-376">
+		
+					<div class="mid-content">
+														<h1><span>Über Mich</span></h1>
+
+					<div class="parallax-content">
+											<div class="page-content">
+						<p>Daniela Noia,</p>
+<p>ich bin 48 Jahre jung und komme aus  Wuppertal, dem schönen bergischen Land mit der berühmten Schwebebahn.</p>
+<p>Da ich mich seit Jahren vegan, also rein pflanzlich ernähre, biete ich in meinen Kochkursen ausschließlich die vegane Küche an. Das Aussuchen, Zubereiten und Anrichten von frischen Gemüsesorten ist für mich mehr als nur eine Berufung. Es ist Liebe! Liebe zu frischem Gemüse, möglichst regional und saisonal.</p>
+<p>Als ich gerade anfing mich pflanzlich zu ernähren habe ich sehr viele verschiede Arten von „Fleischersatzprodukten“ probiert, konnte mich allerdings damit nicht anfreunden. Somit bereite ich mit Ihnen zusammen ausschließlich Gerichte zu, die aus einfachen, gesunden und sehr leckeren uns allen bekannten Lebensmitteln bestehen.</p>
+<p>Tofu, Seitan, Tempeh und Lupinenschnitzel sind für die meisten Menschen Fremdwörter, also warum bleiben wir dann nicht bei den Lebensmitteln die wir alle gut kennen. Ich zeige Ihnen wie man aus Hülsenfrüchten, Nüssen und frischem Gemüse hervorragende Gerichte für die tägliche Zubereitung zu Hause zaubern kann.</p>
+<p>Ich freue mich auf ein gemeinsames Kochvergnügen mit Ihnen,</p>
+<p>Daniela Noia</p>
+						</div>
+										</div> 
+							
+					
+					
+	<div class="content-area">
+
+	</div><!-- #primary -->
+
+
+
+        		
+						</div>
+					</section>
+	
+			<section class="parallax-section clearfix team_template" id="section-383">
+		
+					<div class="mid-content">
+														<h1><span>Gutscheine</span></h1>
+
+					<div class="parallax-content">
+											<div class="page-content">
+						<p>Machen Sie ihren Liebsten oder Anderen doch mal eine Freude und verschenken Sie einen Gutschein für einen veganen Kochkurs.<br />
+Ob zum Geburtstag, zu Weihnachten, Ostern, Muttertag, zum Namenstag, nach dem Examen oder für Freunde oder zu jedem anderen Anlass, zwischendurch.<br />
+Ein Gutschein für das vegane Kochevent ist immer ein köstliches und schmackhaftes Geschenk.</p>
+<p>Gutschein erwerben Sie <strong><a href="http://shop.kochkursvegan.de/produkt/gutschein/" target="_blank">HIER</a></strong></p>
+						</div>
+										</div> 
+							
+					
+					
+	<div class="team-listing clearfix">
+			<div class="team-tab">
+			<div class="team-slider">
+			
+			<a id="team-386" href="#" class="clearfix team-image wow fadeInLeft" data-wow-delay="0.25s">
+								<img src="http://kochkursvegan.de/wp-content/uploads/2015/07/gutschein-150x150.jpg" alt="Gutschein">
+							</a>
+
+						</div>
+		</div>
+		
+				<div class="team-content wow fadeIn" data-wow-delay="1.5s">
+		
+		<div class="clearfix team-list team-386">
+						<div class="team-big-image">
+			<img src="http://kochkursvegan.de/wp-content/uploads/2015/07/gutschein-380x380.jpg" alt="Gutschein">
+			</div>
+			
+			<div class="team-detail">
+				<h3>Gutschein</h3>
+							</div>
+		</div>
+
+				</div>
+			</div><!-- #primary -->
+
+
+
+        		
+						</div>
+					</section>
+	
+			<section class="parallax-section clearfix portfolio_template" id="section-51">
+		
+					<div class="mid-content">
+														<h1><span>Galerie</span></h1>
+
+					<div class="parallax-content">
+											<div class="page-content">
+						<h4 style="text-align: center;"><span style="color: #ff6600;"><strong><em>Hier eine kleine Auswahl aus meinen vielen veganen Rezepten und Menüs.</em></strong></span></h4>
+						</div>
+										</div> 
+							
+					
+					
+	<div class="portfolio-listing clearfix">
+	
+		<a href="http://kochkursvegan.de/schwarzer-reis-in-papaya/" class="portfolio-list wow fadeInUp" data-wow-delay="0.25s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/schwarzer-Reis-in-Papaya-groß-560x450.jpg" alt="Schwarzer Reis in Papaya">
+						</div>
+			<h3>Schwarzer Reis in Papaya</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/vanillesuppe-mit-zimtbanane/" class="portfolio-list wow fadeInUp" data-wow-delay="0.5s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Vanillesuppe-mit-Zimtbanane-560x450.jpg" alt="Vanillesuppe mit Zimtbanane">
+						</div>
+			<h3>Vanillesuppe mit Zimtbanane</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/vollkornspagetti-mit-paprikacreme/" class="portfolio-list wow fadeInUp" data-wow-delay="0.75s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Vollkornspagetti-mit-Paprikacreme-560x450.jpg" alt="Vollkornspagetti mit Paprikacreme">
+						</div>
+			<h3>Vollkornspagetti mit Paprikacreme</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/mangold-mit-salzkartoffeln/" class="portfolio-list wow fadeInUp" data-wow-delay="1s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Kichererbsen-“orientalisch”-mit-Basmatireis-560x450.jpg" alt="Kichererbsen “orientalisch” mit Basmatireis">
+						</div>
+			<h3>Kichererbsen “orientalisch” mit Basmatireis</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/frischer-obstsalat-mit-mandelcreme/" class="portfolio-list wow fadeInUp" data-wow-delay="1.25s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Frischer-Obstsalat-mit-Mandelcreme-560x450.jpg" alt="Frischer Obstsalat mit Mandelcreme">
+						</div>
+			<h3>Frischer Obstsalat mit Mandelcreme</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/schokoladen-mousse/" class="portfolio-list wow fadeInUp" data-wow-delay="1.5s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Schokoladen-Mousse-560x450.jpg" alt="Schokoladen-Mousse">
+						</div>
+			<h3>Schokoladen-Mousse</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/linseneintopf-mit-gemuesewuerstchen/" class="portfolio-list wow fadeInUp" data-wow-delay="1.75s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Mango-Curry-560x450.jpg" alt="Mango Curry">
+						</div>
+			<h3>Mango Curry</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/quarkbaellchen/" class="portfolio-list wow fadeInUp" data-wow-delay="2s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Quarkbällchen-560x450.jpg" alt="Quarkbällchen">
+						</div>
+			<h3>Quarkbällchen</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/moehren-ingwersueppchen/" class="portfolio-list wow fadeInUp" data-wow-delay="2.25s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Möhren-Ingwersüppchen-560x450.jpg" alt="Möhren Ingwersüppchen">
+						</div>
+			<h3>Möhren Ingwersüppchen</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/salatgurke-mit-orangen-risotto/" class="portfolio-list wow fadeInUp" data-wow-delay="2.5s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Salatgurke-mit-Orangen-Risotto-560x450.jpg" alt="Salatgurke mit Orangen-Risotto">
+						</div>
+			<h3>Salatgurke mit Orangen-Risotto</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/gemueseomelett/" class="portfolio-list wow fadeInUp" data-wow-delay="2.75s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Feldsalat-mit-karamellisierten-Birnen-und-lauwarmen-Dressing-560x450.jpg" alt="Feldsalat mit karamellisierten Birnen und lauwarmen Dressing">
+						</div>
+			<h3>Feldsalat mit karamellisierten Birnen und lauwarmen Dressing</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/gemueseschnitzel-mit-champignons-und-kartoffelstifte/" class="portfolio-list wow fadeInUp" data-wow-delay="3s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Gemüseschnitzel-mit-Champignons-und-Kartoffelstifte-560x450.jpg" alt="Gemüseschnitzel mit Champignons und Kartoffelstifte">
+						</div>
+			<h3>Gemüseschnitzel mit Champignons und Kartoffelstifte</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/grillteller/" class="portfolio-list wow fadeInUp" data-wow-delay="3.25s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Grillteller-560x450.jpg" alt="Grillteller">
+						</div>
+			<h3>Grillteller</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/gebackene-banane-mit-vanilleeis/" class="portfolio-list wow fadeInUp" data-wow-delay="3.5s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/gebackene-Banane-mit-Vanilleeis-560x450.jpg" alt="gebackene Banane mit Vanilleeis">
+						</div>
+			<h3>gebackene Banane mit Vanilleeis</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/wurzelgemuese-mit-kartoffelstampf/" class="portfolio-list wow fadeInUp" data-wow-delay="3.75s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Wurzelgemüse-mit-Kartoffelstampf-560x450.jpg" alt="Wurzelgemüse mit Kartoffelstampf">
+						</div>
+			<h3>Wurzelgemüse mit Kartoffelstampf</h3>
+		</a>
+
+		
+		<a href="http://kochkursvegan.de/kunterbunte-nudelpfanne/" class="portfolio-list wow fadeInUp" data-wow-delay="4s">
+		<div class="portfolio-overlay"><span>+</span></div>
+			<div class="portfolio-image">
+							<img src="http://kochkursvegan.de/wp-content/uploads/2015/03/Kunterbunte-Nudelpfanne-560x450.jpg" alt="Kunterbunte Nudelpfanne">
+						</div>
+			<h3>Kunterbunte Nudelpfanne</h3>
+		</a>
+
+			</div><!-- #primary -->
+
+
+
+        		
+						</div>
+					</section>
+	</div>
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+				<div class="top-footer footer-column-4">
+			<div class="mid-content">
+            <div class="top-footer-wrap clearfix">
+								<div class="footer-block">
+					<aside id="rev-slider-widget-3" class="widget widget_revslider"><h2 class="widget-title">Mein erstes Kochbuch</h2>
+<div id="rev_slider_4_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.0.8.5 auto mode -->
+	<div id="rev_slider_4_2" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.8.5">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-13" data-transition="random" data-slotamount="7"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-rotate="0"  data-saveperformance="off"  data-title="meine gruppe" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider6/ich7000-55.jpg"  alt=""  data-bgposition="center top" data-bgfit="100% 100%" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption boxshadow   tp-resizeme" 
+			 id="slide-13-layer-1" 
+			 data-x="13" 
+			 data-y="6" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:left;s:1800;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="1500" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider6/umschlag-vorne-7000.jpg" alt="" width="1000" height="1367" data-ww="203" data-hh="239" data-no-retina> 
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-13-layer-2" 
+			 data-x="14" 
+			 data-y="258" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:right;s:1700;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="2500" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 6;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/slider6/vorlagebuchhandel5.jpg" alt="" width="293" height="61" data-ww="202" data-hh="23" data-no-retina> 
+		</div>
+	</li>
+</ul>
+<div class="tp-bannertimer" style="height: 5px; background-color: rgba(0, 0, 0, 0.15);"></div>	</div>
+</div><!-- END REVOLUTION SLIDER --></aside>				</div>
+				
+								<div class="footer-block">
+					<aside id="rc_widget-2" class="widget widget_rc_widget"><h2 class="widget-title">Kontakt</h2><ul class="vcard" itemscope itemtype="http://schema.org/FoodEstablishment"><li class="fn  org" itemprop="name"><strong>Kochkurs Vegan</strong></li><li itemprop="description">Daniela Noia</li><li><div class="adr" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span class="postal-code" itemprop="postalCode">42287</span>&nbsp;<span class="locality" itemprop="addressLocality">Wuppertal</span><br></div></li><li class="tel" itemprop="telephone">01578-5287970</li><li class="email" itemprop="email"><a href="mailto:k&#111;&#99;hk&#117;&#114;&#115;&#64;k&#111;c&#104;kursv&#101;g&#97;n&#46;d&#101;">kochkurs@kochkursvegan.de</a></li></ul><a href="https://google.com/maps/place/+42287+Wuppertal+/" target="_blank"><img src="http://maps.googleapis.com/maps/api/staticmap?center=+42287+Wuppertal+&amp;zoom=15&amp;size=200x100&amp;sensor=false&amp;markers=+42287+Wuppertal+" alt="Map for  42287 Wuppertal " width="200" height="100"></a></aside><aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://kochkursvegan.de/impressum/">Impressum</a></li>
+<li id="menu-item-372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-372"><a href="http://shop.kochkursvegan.de/">Kochkurse / Termine</a></li>
+<li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="http://kochkursvegan.de/agbs/">AGB´s</a></li>
+</ul></div></aside>				</div>
+				
+								<div class="footer-block">
+					<aside id="rev-slider-widget-4" class="widget widget_revslider"><h2 class="widget-title">Meine Facebook Gruppe</h2>
+<div id="rev_slider_9_3_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#e9e9e9;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.0.8.5 auto mode -->
+	<div id="rev_slider_9_3" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.8.5">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-36" data-transition="slideremovehorizontal,curtain-2" data-slotamount="default,default"  data-easein="default,default" data-easeout="default,default" data-masterspeed="default,default"  data-rotate="0,0"  data-saveperformance="off"  data-title="Slide" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/revslider/gruppe/schwarzer-Reis-in-Papaya-groß.jpg"  alt=""  width="2200" height="1470" data-bgposition="center center" data-bgfit="100% 100%" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<a class="tp-caption   tp-resizeme" 
+ href="https://www.facebook.com/groups/946275442058590/" target="_blank"			 id="slide-36-layer-1" 
+			 data-x="2" 
+			 data-y="166" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:left;s:900;e:Power2.easeInOut;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-actions=''
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/gruppe/Facebook-gruppe.jpg" alt="" width="300" height="80" data-ww="229px" data-hh="80px" data-no-retina> 
+		</a>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-37" data-transition="slideremovehorizontal,curtain-2" data-slotamount="default,default"  data-easein="default,default" data-easeout="default,default" data-masterspeed="default,default"  data-rotate="0,0"  data-saveperformance="off"  data-title="Slide" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/2015/09/DSC03140.jpg"  alt=""  width="1000" height="668" data-bgposition="center center" data-bgfit="100% 100%" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<a class="tp-caption   tp-resizeme" 
+ href="https://www.facebook.com/groups/946275442058590/" target="_blank"			 id="slide-37-layer-1" 
+			 data-x="2" 
+			 data-y="113" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:left;s:900;e:Power2.easeInOut;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-actions=''
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5;"><img src="http://kochkursvegan.de/wp-content/uploads/revslider/gruppe/Facebook-gruppe.jpg" alt="" width="300" height="80" data-ww="229px" data-hh="80px" data-no-retina> 
+		</a>
+	</li>
+</ul>
+<div class="tp-bannertimer" style="height: 5px; background-color: rgba(0, 0, 0, 0.15);"></div>	</div>
+</div><!-- END REVOLUTION SLIDER --></aside>				</div>
+				
+								<div class="footer-block">
+					<aside id="rev-slider-widget-2" class="widget widget_revslider"><h2 class="widget-title">Anzeige</h2>
+<div id="rev_slider_2_4_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.0.8.5 auto mode -->
+	<div id="rev_slider_2_4" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.8.5">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-7" data-transition="3dcurtain-horizontal" data-slotamount="7"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://kochkursvegan.de/wp-content/uploads/2015/05/daniel-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/2015/05/daniel.jpg"  alt=""  width="1327" height="872" data-bgposition="center top" data-bgfit="100% 100%" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<a class="tp-caption   tp-resizeme" 
+ href="http://www.survival-werk.de" target="_blank"			 id="slide-7-layer-1" 
+			 data-x="center" data-hoffset="2" 
+			 data-y="center" data-voffset="-2" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;rZ:342;"
+ 
+			 data-transform_in="x:right;s:1500;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:2;" 
+			data-start="500" 
+			data-actions=''
+			data-responsive_offset="on" 
+
+			 data-end="8998" 
+
+			style="z-index: 5;">
+				<div class="rs-looped rs-pulse"  data-easing="Power3.easeInOut" data-speed="2" data-zoomstart="1" data-zoomend="2"><img src="http://kochkursvegan.de/wp-content/uploads/2015/05/link.png" alt="" width="494" height="74" data-ww="253px" data-hh="34px" data-no-retina> 
+				</div>
+		</a>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-8" data-transition="3dcurtain-horizontal" data-slotamount="7"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://kochkursvegan.de/wp-content/uploads/2015/05/header-imbiss100-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="imbiss" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://kochkursvegan.de/wp-content/uploads/2015/05/header-imbiss100.jpg"  alt=""  width="1920" height="1080" data-bgposition="center top" data-bgfit="100% 100%" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<a class="tp-caption   tp-resizeme" 
+ href="http://www.imbissnrw.de" target="_blank"			 id="slide-8-layer-1" 
+			 data-x="center" data-hoffset="4" 
+			 data-y="center" data-voffset="-2" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+			data-transform_idle="o:1;rZ:349;"
+ 
+			 data-transform_in="x:left;s:1500;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:2;" 
+			data-start="500" 
+			data-actions=''
+			data-responsive_offset="on" 
+
+			 data-end="8998" 
+
+			style="z-index: 5;">
+				<div class="rs-looped rs-pulse"  data-easing="Power3.easeInOut" data-speed="2" data-zoomstart="1" data-zoomend="2"><img src="http://kochkursvegan.de/wp-content/uploads/2015/05/link1.png" alt="" width="413" height="74" data-ww="267px" data-hh="43px" data-no-retina> 
+				</div>
+		</a>
+	</li>
+</ul>
+<div class="tp-bannertimer" style="height: 5px; background-color: rgba(0, 0, 0, 0.15);"></div>	</div>
+<script>
+					var htmlDivCss = unescape(".hesperiden.tp-bullets%20%7B%0A%7D%0A.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%22%20%22%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20%23999999%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20%23999999%200%25%2C%20%23e1e1e1%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-gradient%28linear%2C%20left%20top%2C%20left%20bottom%2C%20color-stop%280%25%2C%23999999%29%2C%20%0A%20%20%20%20color-stop%28100%25%2C%23e1e1e1%29%29%3B%20%2F%2A%20chrome%2Csafari4%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%22%23999999%22%2C%20endcolorstr%3D%22%23e1e1e1%22%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20%23e5e5e5%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.hesperiden%20.tp-bullet%3Ahover%2C%0A.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3A%23666%3B%0A%7D%0A.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></aside>				</div>
+				 
+            </div>
+			</div>
+		</div>
+				
+
+		<div class="bottom-footer">
+			<div class="mid-content clearfix">
+				<div  class="copy-right">
+					&copy; 2015 Vegane Kochkurse  
+				</div><!-- .copy-right -->
+				<div class="site-info">
+					AccessPress Parallax by <a href="http://accesspressthemes.com/" title="AccessPress Themes" target="_blank">AccessPress Themes</a>
+				</div><!-- .site-info -->
+			</div>
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+<div id="go-top"><a href="#page"><i class="fa fa-angle-up"></i></a></div>
+
+<!-- Scroll Triggered Boxes v2.1.1 - https://wordpress.org/plugins/scroll-triggered-boxes/-->			<div class="stb-container stb-center-container">
+				<div class="scroll-triggered-box stb stb-413 stb-center"
+				     id="stb-413"
+				     style="display: none;">
+					<div class="stb-content">
+						<p><a href="http://shop.kochkursvegan.de/mein-kochbuch/" target="_blank"><img class="alignnone wp-image-443 size-large" src="http://kochkursvegan.de/wp-content/uploads/2015/09/kochbuch-popup-1024x576.jpg" alt="kochbuch popup" width="640" height="360" /></a></p>
+					</div>
+					<span class="stb-close">&times;</span>
+				</div>
+			</div>
+						<div class="stb-container stb-bottom-left-container">
+				<div class="scroll-triggered-box stb stb-291 stb-bottom-left"
+				     id="stb-291"
+				     style="display: none;">
+					<div class="stb-content">
+						<p><a href="http://shop.kochkursvegan.de/"><img class="alignnone size-full wp-image-289" src="http://kochkursvegan.de/wp-content/uploads/2015/05/termine.png" alt="termine" width="206" height="183" /></a></p>
+					</div>
+					<span class="stb-close">&times;</span>
+				</div>
+			</div>
+			<div id="stb-overlay"></div><!-- / Scroll Triggered Box -->		<script type='text/javascript' defer="defer" src='http://kochkursvegan.de/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?rev=5.0.8.5'></script>
+		<script type='text/javascript' defer="defer" src='http://kochkursvegan.de/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?rev=5.0.8.5'></script>
+		<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss=".tp-caption.meine-15,.meine-15{font-size:20px;line-height:9px;font-weight:400;font-family:\"Open Sans\";color:rgb(255,255,255);text-decoration:none;padding:10px;background-color:rgba(107,107,107,0.811765);border-width:1px;border-color:rgb(168,11,20);border-style:solid}.tp-caption.mein,.mein{font-size:30px;font-weight:700;color:rgb(213,211,211);text-decoration:none;background-color:transparent;border-width:0px;border-color:rgb(0,0,0);border-style:none;text-shadow:none}.tp-caption.mein:hover,.mein:hover{font-size:44px;font-weight:700;color:rgb(213,211,211);text-decoration:none;background-color:transparent;border-width:0px;border-color:rgb(0,0,0);border-style:none;text-shadow:none}.tp-caption.meine-14,.meine-14{font-size:20px;line-height:9px;font-weight:400;font-family:\"Open Sans\";color:rgb(255,255,255);text-decoration:none;padding:10px;background-color:rgba(120,71,23,0.811765);border-width:1px;border-color:rgb(168,129,11);border-style:solid}.tp-caption.mediumbgmein2,.mediumbgmein2{font-size:20px;line-height:20px;font-weight:800;font-family:\"Open Sans\";color:rgb(255,255,255);text-decoration:none;padding:10px;background-color:rgba(127,140,141,0.811765);border-width:6px;border-color:rgb(255,255,255);border-style:double}.tp-caption.meine-50,.meine-50{font-size:20px;line-height:9px;font-weight:400;font-family:\"Open Sans\";color:rgb(255,255,255);font-style:italic;text-decoration:none;padding:10px;background-color:rgba(167,12,12,0.811765);border-width:5px;border-color:rgb(0,0,0);border-style:double}.tp-caption.mediumbgorangemein,.mediumbgorangemein{font-size:20px;line-height:20px;font-weight:800;font-family:\"Open Sans\";color:rgb(255,255,255);text-decoration:none;padding:10px;background-color:rgb(243,156,18);border-width:12px;border-color:rgb(255,214,88);border-style:double}";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}
+				else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_1_1');
+					e.gridwidth = [2100];
+					e.gridheight = [960];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+						
+				
+			setREVStartSize();
+			function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>"
+						jQuery(sliderID).show().html(errorMessage);
+				}
+						var tpj=jQuery;
+			tpj.noConflict();
+			var revapi1;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_1_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_1_1");
+				}else{
+					revapi1 = tpj("#rev_slider_1_1").show().revolution({
+						sliderType:"standard",
+						jsFileLocation:"http://kochkursvegan.de/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+							onHoverStop:"on",
+							touch:{
+								touchenabled:"on",
+								swipe_threshold: 75,
+								swipe_min_touches: 1,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+							,
+							arrows: {
+								style:"hesperiden",
+								enable:true,
+								hide_onmobile:false,
+								hide_onleave:false,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								}
+							}
+							,
+							bullets: {
+								enable:true,
+								hide_onmobile:false,
+								style:"hesperiden",
+								hide_onleave:false,
+								direction:"horizontal",
+								h_align:"center",
+								v_align:"bottom",
+								h_offset:0,
+								v_offset:20,
+								space:5,
+								tmp:''
+							}
+						},
+						gridwidth:2100,
+						gridheight:960,
+						lazyType:"none",
+						shadow:2,
+						spinner:"spinner0",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss=".tp-caption.boxshadow,.boxshadow{-moz-box-shadow:0px 0px 20px rgba(0,0,0,0.5);-webkit-box-shadow:0px 0px 20px rgba(0,0,0,0.5);box-shadow:0px 0px 20px rgba(0,0,0,0.5)}";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}
+				else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_4_2');
+					e.gridwidth = [233];
+					e.gridheight = [300];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+						
+				
+			setREVStartSize();
+			function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>"
+						jQuery(sliderID).show().html(errorMessage);
+				}
+						var tpj=jQuery;
+			tpj.noConflict();
+			var revapi4;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_4_2").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_4_2");
+				}else{
+					revapi4 = tpj("#rev_slider_4_2").show().revolution({
+						sliderType:"standard",
+						jsFileLocation:"http://kochkursvegan.de/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+							onHoverStop:"on",
+							touch:{
+								touchenabled:"on",
+								swipe_threshold: 75,
+								swipe_min_touches: 1,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+						},
+						gridwidth:233,
+						gridheight:300,
+						lazyType:"none",
+						shadow:2,
+						spinner:"spinner0",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}
+				else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_9_3');
+					e.gridwidth = [233];
+					e.gridheight = [300];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+						
+				
+			setREVStartSize();
+			function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>"
+						jQuery(sliderID).show().html(errorMessage);
+				}
+						var tpj=jQuery;
+			
+			var revapi9;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_9_3").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_9_3");
+				}else{
+					revapi9 = tpj("#rev_slider_9_3").show().revolution({
+						sliderType:"standard",
+						jsFileLocation:"http://kochkursvegan.de/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							onHoverStop:"off",
+						},
+						gridwidth:233,
+						gridheight:300,
+						lazyType:"none",
+						shadow:2,
+						spinner:"spinner0",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}
+				else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_2_4');
+					e.gridwidth = [233];
+					e.gridheight = [300];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+						
+				
+			setREVStartSize();
+			function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>"
+						jQuery(sliderID).show().html(errorMessage);
+				}
+						var tpj=jQuery;
+			tpj.noConflict();
+			var revapi2;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_2_4").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_2_4");
+				}else{
+					revapi2 = tpj("#rev_slider_2_4").show().revolution({
+						sliderType:"standard",
+						jsFileLocation:"http://kochkursvegan.de/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+							onHoverStop:"on",
+							touch:{
+								touchenabled:"on",
+								swipe_threshold: 75,
+								swipe_min_touches: 1,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+							,
+							bullets: {
+								enable:true,
+								hide_onmobile:false,
+								style:"hesperiden",
+								hide_onleave:false,
+								direction:"horizontal",
+								h_align:"center",
+								v_align:"bottom",
+								h_offset:0,
+								v_offset:20,
+								space:5,
+								tmp:''
+							}
+						},
+						gridwidth:233,
+						gridheight:300,
+						lazyType:"none",
+						shadow:2,
+						spinner:"spinner0",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var tCountAjax = {"ajaxurl":"http:\/\/kochkursvegan.de\/wp-admin\/admin-ajax.php","countdownNonce":"efefd48062"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/jquery-t-countdown-widget/js/jquery.t-countdown.js?ver=1.5.4'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/wow.js?ver=1.0'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/SmoothScroll.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/parallax.js?ver=1.1.3'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/jquery.scrollTo.min.js?ver=1.4.14'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/jquery.localScroll.min.js?ver=1.3.5'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/jquery.nav.js?ver=2.2.0'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/jquery.bxslider.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/jquery.easing.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/jquery.actual.min.js?ver=1.0.16'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/nivo-lightbox.min.js?ver=1.2.0'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/themes/accesspress-parallax/js/custom.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var STB_Global_Options = {"testMode":""};
+var STB_Box_Options = {"413":{"id":413,"title":"Kochbuch","trigger":"percentage","triggerPercentage":30,"triggerElementSelector":"","animation":"slide","cookieTime":1,"autoHide":true,"autoShow":true,"position":"center","minimumScreenWidth":0},"291":{"id":291,"title":"","trigger":"percentage","triggerPercentage":55,"triggerElementSelector":"","animation":"slide","cookieTime":0,"autoHide":true,"autoShow":true,"position":"bottom-left","minimumScreenWidth":150}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://kochkursvegan.de/wp-content/plugins/scroll-triggered-boxes/assets/js/script.min.js?ver=2.1.1'></script>
+</body>
+</html>

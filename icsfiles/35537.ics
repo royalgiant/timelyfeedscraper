@@ -23,32 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:nrdbkkfkp6pabq0akenai0doc4@google.com
-DTSTAMP:20150920T002347Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Konsert – Mikael Järlestrand</p>
-DTSTART;TZID=Europe/Oslo:20150919T180000
-DTEND;TZID=Europe/Oslo:20150919T193000
-SEQUENCE:0
-SUMMARY:Konsert – Mikael Järlestrand
-URL:http://nesttunbedehus.no/event/konsert-mikael-jarlestrand/
-END:VEVENT
-BEGIN:VEVENT
-UID:0qj59rprghggcr11bkmsrdlvqc@google.com
-DTSTAMP:20150920T002347Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Mikael Järlestrand</p>
-DTSTART;TZID=Europe/Oslo:20150920T110000
-DTEND;TZID=Europe/Oslo:20150920T123000
-SEQUENCE:0
-SUMMARY:Formiddagsmøte m/Søndagsskole
-URL:http://nesttunbedehus.no/event/formiddagsmote-msondagsskole-8/
-END:VEVENT
-BEGIN:VEVENT
 UID:gcgoj2ablcg106k08d2pjfus5k@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Andakt v/Ingvar Skeie</p>
@@ -60,7 +36,7 @@ URL:http://nesttunbedehus.no/event/arsmote-nesttun-indremisjon/
 END:VEVENT
 BEGIN:VEVENT
 UID:ar47uirsb2mtb1hhhdq1icek04@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -76,7 +52,7 @@ URL:http://nesttunbedehus.no/event/bibel-og-bonn-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:h62flfb3succeihmqsjrldc2vs@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -88,7 +64,7 @@ URL:http://nesttunbedehus.no/event/fest-radio-fana/
 END:VEVENT
 BEGIN:VEVENT
 UID:e6ndo69479ph2vs9cb51tsqbro@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>1-4. Klasse</p>
@@ -101,7 +77,7 @@ URL:http://nesttunbedehus.no/event/ya/
 END:VEVENT
 BEGIN:VEVENT
 UID:517sns0a8a3ns1sn3d5amre5ts@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>5-7. Klasse</p>
@@ -114,7 +90,7 @@ URL:http://nesttunbedehus.no/event/chiru/
 END:VEVENT
 BEGIN:VEVENT
 UID:vhle1m4sv8b6l8gk16s9rhqh1g@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Nils kåre Strøm\, Wenche Østebø</p>
@@ -127,7 +103,7 @@ URL:http://nesttunbedehus.no/event/moteuke-nlm-ni/
 END:VEVENT
 BEGIN:VEVENT
 UID:t134g3uprk0bfru6md2f5cqu0c@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Erling Wanvik</p>
@@ -145,7 +121,7 @@ URL:http://nesttunbedehus.no/event/formiddagstreff-13/
 END:VEVENT
 BEGIN:VEVENT
 UID:rgvqo20mho4euhdgon040u779k@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Nils kåre Strøm\, Wenche Østebø</p>
@@ -157,7 +133,7 @@ URL:http://nesttunbedehus.no/event/formiddagsmote-msondagsskole-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:2015107190000-ar47uirsb2mtb1hhhdq1icek04@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -169,7 +145,7 @@ URL:http://nesttunbedehus.no/event/optimisten-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:0hs358s3bsqdlp9dv7gcsn3lck@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Søndagsskolen har ansvar</p>
@@ -181,7 +157,7 @@ URL:http://nesttunbedehus.no/event/familiemote-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151014113000-t134g3uprk0bfru6md2f5cqu0c@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Annbjørg Barane</p>
@@ -193,7 +169,7 @@ URL:http://nesttunbedehus.no/event/formiddagstreff-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:qa32jt547cra02digs6e5foo1o@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Harry Wiig Andersen\, sang av Norhordalandsmusikken</p>
@@ -205,7 +181,7 @@ URL:http://nesttunbedehus.no/event/hostfest-nlm/
 END:VEVENT
 BEGIN:VEVENT
 UID:fm3dhoq1e63r597n40c96usj40@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Rune Øystese\, NLA</p>
@@ -217,7 +193,7 @@ URL:http://nesttunbedehus.no/event/formiddagsmote-msondagsskole-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151028113000-t134g3uprk0bfru6md2f5cqu0c@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Tora H. Skeie</p>
@@ -229,7 +205,7 @@ URL:http://nesttunbedehus.no/event/formiddagstreff-10/
 END:VEVENT
 BEGIN:VEVENT
 UID:9jlp63v6ipa60f7mc1c1b7o7qs@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Odd Bjarne Skogestad</p>
@@ -241,7 +217,7 @@ URL:http://nesttunbedehus.no/event/sabbatskveld/
 END:VEVENT
 BEGIN:VEVENT
 UID:bvlmvdhgt0t3b30m6f3rbgmts0@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Per Braaten</p>
@@ -253,7 +229,7 @@ URL:http://nesttunbedehus.no/event/formiddagsmote-msondagsskole-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:2015114190000-ar47uirsb2mtb1hhhdq1icek04@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -265,7 +241,7 @@ URL:http://nesttunbedehus.no/event/optimisten-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:anqphqkgl55dvlsb382gpet90g@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Ingebjørg Brekke\, Bergen Indremisjon</p>
@@ -277,7 +253,7 @@ URL:http://nesttunbedehus.no/event/familiemote-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151111113000-t134g3uprk0bfru6md2f5cqu0c@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Malvin Ommedal\, Boliviamisj\, NLM</p>
@@ -289,7 +265,7 @@ URL:http://nesttunbedehus.no/event/formiddagstreff-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:jbcrdskkfjgtmjojfgmmthm74o@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Malvin Ommedal\, Boliviamisj\, NLM</p>
@@ -301,7 +277,7 @@ URL:http://nesttunbedehus.no/event/misjonstreff-mutlodning/
 END:VEVENT
 BEGIN:VEVENT
 UID:i61u0853hfmqhlshrnpucjet9g@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Willy Landro\, MI</p>
@@ -313,7 +289,7 @@ URL:http://nesttunbedehus.no/event/formiddagsmote-msondagsskole-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:82lok0fqu4rff36ei0eam6s84s@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Andreas Evensen\, MI\, Sang av Barnehagen</p>
@@ -325,7 +301,7 @@ URL:http://nesttunbedehus.no/event/julemesse-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:n126hu2uu8157irnhg17ikuh9g@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Roald Evensen\, ImF</p>
@@ -337,7 +313,7 @@ URL:http://nesttunbedehus.no/event/julemesse/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151125113000-t134g3uprk0bfru6md2f5cqu0c@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Kurt Urhaug\, Evangelisten</p>
@@ -349,7 +325,7 @@ URL:http://nesttunbedehus.no/event/formiddagstreff-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:q78r7g9jemdkrd9ud2b0r5vnvg@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Ole Andreas Wastvedt\, P7</p>
@@ -361,7 +337,7 @@ URL:http://nesttunbedehus.no/event/formiddagsmote-msondagsskole-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:2015122190000-ar47uirsb2mtb1hhhdq1icek04@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -373,7 +349,7 @@ URL:http://nesttunbedehus.no/event/optimisten-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:gukg50n85d7qv72t3defu2uvg4@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -385,7 +361,7 @@ URL:http://nesttunbedehus.no/event/familiemote-adventmote/
 END:VEVENT
 BEGIN:VEVENT
 UID:43vac7n1t1d20bc1uvgva5qts4@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -397,7 +373,7 @@ URL:http://nesttunbedehus.no/event/bibel-og-bonn-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:rltsarfs6162sjsofus704r9ls@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Magnar Ådlandsvik\, MI</p>
@@ -409,7 +385,7 @@ URL:http://nesttunbedehus.no/event/formiddagsmote-msondagsskole-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:k0pncn0fuoq7id6kofbtfuaqok@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>kurt Urhayg\, Evangelisten</p>
@@ -421,7 +397,7 @@ URL:http://nesttunbedehus.no/event/formiddagsmote-msondagsskole/
 END:VEVENT
 BEGIN:VEVENT
 UID:0kcr7pi4dvm8g080bt3i5dpqus@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -433,7 +409,7 @@ URL:http://nesttunbedehus.no/event/vi-synger-julen-inn/
 END:VEVENT
 BEGIN:VEVENT
 UID:g53d4cmq4lfn4f2qt2l2sqbbqc@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -445,7 +421,7 @@ URL:http://nesttunbedehus.no/event/romjulsmote/
 END:VEVENT
 BEGIN:VEVENT
 UID:fss708l5756u9ti7fk1uqlbdkk@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Arnfinn Norheim</p>
@@ -457,7 +433,7 @@ URL:http://nesttunbedehus.no/event/voksenfest-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ga5mmntnhea191n4aqc02vgalg@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -469,7 +445,7 @@ URL:http://nesttunbedehus.no/event/optimisten-julefest/
 END:VEVENT
 BEGIN:VEVENT
 UID:2k5n9ek6gkrs6npudlplt1g4rg@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Andreas Evensen</p>
@@ -481,7 +457,7 @@ URL:http://nesttunbedehus.no/event/familiejulefesten/
 END:VEVENT
 BEGIN:VEVENT
 UID:vcdrrin56bbq9fkudgg8diho9g@google.com
-DTSTAMP:20150920T002347Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:

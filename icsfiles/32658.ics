@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:25222@calendar.tamu.edu
-DTSTAMP:20150920T003759Z
+DTSTAMP:20150921T225316Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Educators: Mentors that make a lasting impact is going to be
@@ -43,8 +43,21 @@ URL:http://devvac.tamu.edu/event/latino-educators-mentors-that-make-a-lasti
  ng-impact/
 END:VEVENT
 BEGIN:VEVENT
+UID:26292@calendar.tamu.edu
+DTSTAMP:20150921T225316Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Denver:20150922T180000
+DTEND;TZID=America/Denver:20150922T210000
+LOCATION:Memorial Student Center (MSC) Room 2406A
+SEQUENCE:0
+SUMMARY:Stand and Deliver (1988)
+URL:http://devvac.tamu.edu/event/stand-and-deliver-1988/
+END:VEVENT
+BEGIN:VEVENT
 UID:25029@calendar.tamu.edu
-DTSTAMP:20150920T003759Z
+DTSTAMP:20150921T225316Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>“Long Tall Sally” and “Whole Lotta Shakin’ Goin’ On” are jus
@@ -67,14 +80,30 @@ SUMMARY:Grady Gaines and The Texas Upsetters
 URL:http://devvac.tamu.edu/event/grady-gaines-and-the-texas-upsetters/
 END:VEVENT
 BEGIN:VEVENT
+UID:26294@calendar.tamu.edu
+DTSTAMP:20150921T225316Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Grab your best costumes and join Aggie Cinema as they host G
+ rease (1978) Sing-a-long and Costume Nite. Follow the story of good girl S
+ andy and greaser Danny as they discover after falling in love one summer\,
+  they now attend the same school.</p>
+DTSTART;TZID=America/Denver:20150925T190000
+DTEND;TZID=America/Denver:20150925T220000
+LOCATION:Memorial Student Center (MSC) Room 2406 A&B
+SEQUENCE:0
+SUMMARY:Grease (1978) Sing-a-long & Costume Nite
+URL:http://devvac.tamu.edu/event/grease-1978-sing-a-long-costume-nite/
+END:VEVENT
+BEGIN:VEVENT
 UID:26277@calendar.tamu.edu
-DTSTAMP:20150920T003759Z
+DTSTAMP:20150921T225316Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Come join MSC Town Hall for Coffeehouse!  Our featured Texas
   A&M student performers will be Jimmy Granger and Friends\, followed by Ma
- tt Lucas and Friend.   You won’t want to miss these talented Aggies!  As a
- lways\, there will also be FREE COFFEE!!!</p>
+ tt Lucas and Friend. You won’t want to miss these talented Aggies!  As alw
+ ays\, there will also be FREE COFFEE!!!</p>
 DTSTART;TZID=America/Denver:20150930T170000
 DTEND;TZID=America/Denver:20150930T190000
 LOCATION:MSC Lower Level
@@ -83,23 +112,94 @@ SUMMARY:Coffeehouse Series
 URL:http://devvac.tamu.edu/event/coffeehouse-series-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:25432@calendar.tamu.edu
-DTSTAMP:20150920T003759Z
+UID:25224@calendar.tamu.edu
+DTSTAMP:20150921T225316Z
 CATEGORIES:
 CONTACT:
-DESCRIPTION:<p>MSC Student Conference on National Affairs presents this pro
- gram that will host a variety of speakers\, each with particular experienc
- es in countering terrorism. The program will allow students to actively en
- gage with the guest in a personal learning environment. The issues being d
- iscussed will deepen the students understanding of US Foreign Policy\, the
-  decision making process of covert operations\, and the interactions betwe
- en the intelligence community and Washington.</p>
-DTSTART;TZID=America/Denver:20150930T170000
-DTEND;TZID=America/Denver:20150930T200000
-LOCATION:Memorial Student Center (MSC) Room Gates Ballroom
+DESCRIPTION:<p>MSC CAMAC is glad to invite the Texas A&M student body and f
+ aculty to this year’s Latin Dance Night on October 7th\, 2015. Dancing is 
+ known to be one of the most meaningful factors in which the Hispanic/Latin
+ o culture is expressed. Come with an open mind\, enjoy good company and fo
+ od\, as we learn about various dance styles such as bachata\, cumbia\, nor
+ teña\, huapango\,etc. in the Hispanic/Latino culture through performances\
+ , dance competitions\, and informational presentations on each style of mu
+ sic.</p>
+DTSTART;TZID=America/Denver:20151007T190000
+DTEND;TZID=America/Denver:20151007T230000
+LOCATION:Texas A&M University Room MSC 2400
 SEQUENCE:0
-SUMMARY:How the U.S. Counters Terrorism: Covert and Overt Operations
-URL:http://devvac.tamu.edu/event/how-the-u-s-counters-terrorism-covert-and-
- overt-operations/
+SUMMARY:Latin Dance Night
+URL:http://devvac.tamu.edu/event/latin-dance-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:25435@calendar.tamu.edu
+DTSTAMP:20150921T225316Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Swon Brothers is a country music duo that was recently n
+ ominated as Vocal Duo of the Year by ACM.</p>
+DTSTART;TZID=America/Denver:20151009T193000
+DTEND;TZID=America/Denver:20151009T220000
+LOCATION:Rudder Theatre Complex Room Rudder Auditorium
+SEQUENCE:0
+SUMMARY:The Swon Brothers
+URL:http://devvac.tamu.edu/event/the-swon-brothers/
+END:VEVENT
+BEGIN:VEVENT
+UID:26295@calendar.tamu.edu
+DTSTAMP:20150921T225316Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>You won’t want to miss Amy Schumer in this com-rom film that
+  follows the life of a career woman who is afraid to commit to a relations
+ hip. These fears are tested as she finally meets a good guy.</p>
+DTSTART;TZID=America/Denver:20151009T203000
+DTEND;TZID=America/Denver:20151009T230000
+LOCATION:Memorial Student Center (MSC) Room 2406 A&B
+SEQUENCE:0
+SUMMARY:Trainwreck (2015)
+URL:http://devvac.tamu.edu/event/trainwreck-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:25034@calendar.tamu.edu
+DTSTAMP:20150921T225316Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Iggity-Ziggity-Zaggity-Zooom! A kind witch and her cat are f
+ lying happily along on their broomstick when a stormy wind blows the witch
+ ’s hat\, bow and wand away into the night. With the help of a daft dog\, a
+  beautiful bird and a friendly frog\, her belongings are retrieved. But th
+ is broomstick’s not meant for five and – CRACK! – it snaps in two! When a 
+ hungry dragon appears\, who will save the poor witch? And will there ever 
+ be room on the broom for everyone? Enjoy songs\, laughs and scary fun with
+  ROOM ON THE BROOM – adapted from The New York Times best-selling book by 
+ Julia Donaldson & Axel Scheffler.</p>
+DTSTART;TZID=America/Denver:20151011T140000
+DTEND;TZID=America/Denver:20151011T150000
+LOCATION:Rudder Theatre Complex Room Rudder Theatre
+SEQUENCE:0
+SUMMARY:Room on the Broom
+URL:http://devvac.tamu.edu/event/room-on-the-broom-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:25037@calendar.tamu.edu
+DTSTAMP:20150921T225316Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Iggity-Ziggity-Zaggity-Zooom! A kind witch and her cat are f
+ lying happily along on their broomstick when a stormy wind blows the witch
+ ’s hat\, bow and wand away into the night. With the help of a daft dog\, a
+  beautiful bird and a friendly frog\, her belongings are retrieved. But th
+ is broomstick’s not meant for five and – CRACK! – it snaps in two! When a 
+ hungry dragon appears\, who will save the poor witch? And will there ever 
+ be room on the broom for everyone? Enjoy songs\, laughs and scary fun with
+  ROOM ON THE BROOM – adapted from The New York Times best-selling book by 
+ Julia Donaldson & Axel Scheffler.</p>
+DTSTART;TZID=America/Denver:20151011T160000
+DTEND;TZID=America/Denver:20151011T170000
+LOCATION:Rudder Theatre Complex Room Rudder Theatre
+SEQUENCE:0
+SUMMARY:Room on the Broom
+URL:http://devvac.tamu.edu/event/room-on-the-broom/
 END:VEVENT
 END:VCALENDAR

@@ -23,8 +23,36 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ai1ec-1008@dekalbgop.org
+DTSTAMP:20150921T224639Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:Brian Anderson\, Chairman\; 678-468-7293\; chairman@dekalbgop.org\;
+  http://www.dekalbgop.org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T193000
+DTEND;TZID=America/New_York:20150924T210000
+LOCATION:TBD
+SEQUENCE:0
+SUMMARY:County Committee Meeting
+URL:http://dekalbgop.org/event/county-committee-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-877@dekalbgop.org
+DTSTAMP:20150921T224639Z
+CATEGORIES;LANGUAGE=en-US:Meeting
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T193000
+DTEND;TZID=America/New_York:20150924T203000
+LOCATION:DeKalb GOP Headquarters @ 1532 Dunwoody Village Court\, Ste #100\,
+  Atlanta\, GA 30338
+SEQUENCE:0
+SUMMARY:September County Committee Meeting
+URL:http://dekalbgop.org/event/dekalb-gop-september-meeting/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-197@dekalbgop.org
-DTSTAMP:20150920T002114Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Repeating
 CONTACT:
 DESCRIPTION:<img src='http://dekalbgop.org/wp-content/gallery/images/jimtys
@@ -47,8 +75,8 @@ DESCRIPTION:<img src='http://dekalbgop.org/wp-content/gallery/images/jimtys
  __gaTracker('send'\, 'event'\, 'outbound-article'\, 'http://georgiaabc.com
  /DGOP/calendar/'\, 'calendar.')\;' title='Calendar of Events'>calendar.</a
  ></strong>
-DTSTART;TZID=America/New_York:20150919T080000
-DTEND;TZID=America/New_York:20150919T090000
+DTSTART;TZID=America/New_York:20150926T080000
+DTEND;TZID=America/New_York:20150926T090000
 GEO:+33.847045;-84.25566
 LOCATION:Panera Bread #600629 Near Northlake Mall @ 2100 Henderson Mill Roa
  d Northeast\, Atlanta\, GA 30345\, USA
@@ -58,36 +86,8 @@ SUMMARY:Jim Tysinger Breakfast Forum
 URL:http://dekalbgop.org/event/jim-tysinger-breakfast-forum/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-1008@dekalbgop.org
-DTSTAMP:20150920T002114Z
-CATEGORIES;LANGUAGE=en-US:Meeting
-CONTACT:Brian Anderson\, Chairman\; 678-468-7293\; chairman@dekalbgop.org\;
-  http://www.dekalbgop.org
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150924T193000
-DTEND;TZID=America/New_York:20150924T210000
-LOCATION:TBD
-SEQUENCE:0
-SUMMARY:County Committee Meeting
-URL:http://dekalbgop.org/event/county-committee-meeting/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-877@dekalbgop.org
-DTSTAMP:20150920T002114Z
-CATEGORIES;LANGUAGE=en-US:Meeting
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150924T193000
-DTEND;TZID=America/New_York:20150924T203000
-LOCATION:DeKalb GOP Headquarters @ 1532 Dunwoody Village Court\, Ste #100\,
-  Atlanta\, GA 30338
-SEQUENCE:0
-SUMMARY:September County Committee Meeting
-URL:http://dekalbgop.org/event/dekalb-gop-september-meeting/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1009@dekalbgop.org
-DTSTAMP:20150920T002114Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:GOP
 CONTACT:Georgia GOP\; http://www.gagop.org
 DESCRIPTION:<p>The Georgia Republican Party will host a celebration for gun
@@ -113,7 +113,7 @@ X-TICKETS-URL:http://www.gagop.org/2aday
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-878@dekalbgop.org
-DTSTAMP:20150920T002114Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:Meeting
 CONTACT:
 DESCRIPTION:
@@ -127,7 +127,7 @@ URL:http://dekalbgop.org/event/dekalb-gop-november-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1004@dekalbgop.org
-DTSTAMP:20150920T002114Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:GOP
 CONTACT:
 DESCRIPTION:
@@ -139,7 +139,7 @@ URL:http://dekalbgop.org/event/2016-precinct-mass-meetings/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1005@dekalbgop.org
-DTSTAMP:20150920T002114Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:GOP
 CONTACT:
 DESCRIPTION:
@@ -151,7 +151,7 @@ URL:http://dekalbgop.org/event/2016-county-conventions/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1006@dekalbgop.org
-DTSTAMP:20150920T002114Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:GOP
 CONTACT:
 DESCRIPTION:
@@ -163,7 +163,7 @@ URL:http://dekalbgop.org/event/2016-district-conventions/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1007@dekalbgop.org
-DTSTAMP:20150920T002114Z
+DTSTAMP:20150921T224639Z
 CATEGORIES;LANGUAGE=en-US:GOP
 CONTACT:Adam Pipkin\; adam@gagop.org\; http://www.gagop.org
 DESCRIPTION:

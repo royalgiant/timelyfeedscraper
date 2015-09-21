@@ -1,11 +1,40 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>/n</p>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//206.188.192.55//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://icarejax.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-235@icarejax.org
+DTSTAMP:20150921T224801Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151027T190000
+DTEND;TZID=America/New_York:20151027T203000
+GEO:+30.3261;-81.585412
+LOCATION:Christ the King Catholic Church @ 720 Arlington Road North\, Jacks
+ onville\, FL 32211\, USA
+SEQUENCE:0
+SUMMARY:ICARE Community Problems Assembly
+URL:http://icarejax.org/event/icare-community-problems-assembly/
+END:VEVENT
+END:VCALENDAR

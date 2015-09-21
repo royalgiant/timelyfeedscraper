@@ -22,4 +22,37 @@ RDATE:20160313T020000
 TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-79012@wkkg.com
+DTSTAMP:20150921T224801Z
+CATEGORIES;LANGUAGE=en-US:Concerts - Indiana
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20151009T200000
+GEO:+39.77448;-86.151075
+LOCATION:Murat Theatre at Old National Centre\, Indianapolis\, IN @ 502 N N
+ ew Jersey St\, Indianapolis\, IN 46204\, USA
+SEQUENCE:0
+SUMMARY:Lee Brice
+URL:http://wkkg.com/event/lee-brice/
+X-TICKETS-URL:http://concerts.livenation.com/event/05004EF476EC14F9?crosssi
+ te=TM_US:1139623:41109?crosssite=TM_US:1139623:41109
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-79014@wkkg.com
+DTSTAMP:20150921T224801Z
+CATEGORIES;LANGUAGE=en-US:Concerts - Indiana
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20151015T200000
+GEO:+39.77448;-86.151075
+LOCATION:Egyption Room at Old National Centre\, Indianapolis\, IN @ 502 N N
+ ew Jersey St\, Indianapolis\, IN 46204\, USA
+SEQUENCE:0
+SUMMARY:Chase Rice
+URL:http://wkkg.com/event/chase-rice/
+X-TICKETS-URL:http://concerts.livenation.com/event/05004EF7EE868E75
+X-INSTANT-EVENT:1
+END:VEVENT
 END:VCALENDAR

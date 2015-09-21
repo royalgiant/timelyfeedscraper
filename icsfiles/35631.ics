@@ -43,10 +43,10 @@ img.emoji {
 <link rel='stylesheet' id='vantage-style-css'  href='http://petragarzes.myiadtsa.net/wp/wp-content/themes/vantage/style.css?ver=1.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='vantage-fontawesome-css'  href='http://petragarzes.myiadtsa.net/wp/wp-content/themes/vantage/fontawesome/css/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-add-custom-css-css'  href='http://petragarzes.myiadtsa.net/wp?display_custom_css=css&#038;ver=4.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='jetpack_css-css'  href='http://petragarzes.myiadtsa.net/wp/wp-content/plugins/jetpack/css/jetpack.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://petragarzes.myiadtsa.net/wp/wp-content/plugins/jetpack/css/jetpack.css?ver=3.7' type='text/css' media='all' />
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/plugins/so-widgets-bundle/widgets/so-google-map-widget/js/js-map.min.js?ver=1.4.4669976943'></script>
+<script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/plugins/so-widgets-bundle/widgets/so-google-map-widget/js/js-map.min.js?ver=1.4.42132921675'></script>
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/themes/vantage/js/jquery.flexslider.min.js?ver=2.1'></script>
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/themes/vantage/js/jquery.touchSwipe.min.js?ver=1.6.6'></script>
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/themes/vantage/js/jquery.theme-main.min.js?ver=1.4.2'></script>
@@ -57,7 +57,7 @@ img.emoji {
 <meta name="generator" content="WooCommerce 2.4.6" />
 <link rel='canonical' href='http://petragarzes.myiadtsa.net/wp/' />
 <link rel='shortlink' href='http://wp.me/P6CGbs-d' />
-<!-- <meta name="vfb" version="2.8.4" /> -->
+<!-- <meta name="vfb" version="2.8.5" /> -->
 <style type='text/css'>img#wpstats{display:none}</style>	<!--[if lt IE 9]>
 		<script src="http://petragarzes.myiadtsa.net/wp/wp-content/themes/vantage/js/html5.js" type="text/javascript"></script>
 	<![endif]-->
@@ -120,10 +120,69 @@ img.emoji {
 </form>
 			</div>
 		
-					<div class="menu-main-nav-container"><ul id="menu-main-nav" class="menu"><li id="menu-item-1271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1271"><a href="http://petragarzes.myiadtsa.net/wp/about/"><span class="fa fa-bell"></span>About</a></li>
-<li id="menu-item-1273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1273"><a href="http://petragarzes.myiadtsa.net/wp/programs-page/">Programs</a></li>
-<li id="menu-item-1274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1274"><a href="http://petragarzes.myiadtsa.net/wp/support/">Support</a></li>
-<li id="menu-item-1272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1272"><a href="http://petragarzes.myiadtsa.net/wp/media/">Media</a></li>
+					<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-1362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1362"><a href="http://petragarzes.myiadtsa.net/wp/about/"><span class="fa fa-bullhorn"></span>About</a>
+<ul class="sub-menu">
+	<li id="menu-item-1363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1363"><a href="http://petragarzes.myiadtsa.net/wp/about/levis-boycott/">Levi&#8217;s Boycott</a></li>
+	<li id="menu-item-1364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1364"><a href="http://petragarzes.myiadtsa.net/wp/about/newsletter/">Newsletter</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365"><a href="http://petragarzes.myiadtsa.net/wp/about/newsletter/newsletter-archives/">Newsletter Archives</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1383"><a href="http://petragarzes.myiadtsa.net/wp/programs-page/"><span class="fa fa-university"></span>Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-1382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1382"><a href="http://petragarzes.myiadtsa.net/wp/popular-education-meetings/">Popular Education Meetings</a></li>
+	<li id="menu-item-1384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1384"><a href="http://petragarzes.myiadtsa.net/wp/programs-page/food-pantry/">Food Pantry</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1368"><a href="http://petragarzes.myiadtsa.net/wp/catering/">Catering</a>
+		<ul class="sub-menu">
+			<li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a href="http://petragarzes.myiadtsa.net/wp/catering/online-menu/">Online Menu</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-1385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1385"><a href="http://petragarzes.myiadtsa.net/wp/programs-page/threads-of-justice/">Threads Of Justice</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1386"><a href="http://petragarzes.myiadtsa.net/wp/shop/">Shop</a>
+		<ul class="sub-menu">
+			<li id="menu-item-1396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1396"><a href="http://petragarzes.myiadtsa.net/wp/cart/">Cart</a></li>
+			<li id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a href="http://petragarzes.myiadtsa.net/wp/checkout/">Checkout</a></li>
+			<li id="menu-item-1379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1379"><a href="http://petragarzes.myiadtsa.net/wp/my-account/">My Account</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-1387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1387"><a href="http://petragarzes.myiadtsa.net/wp/summer-youth-leadership-program/">Summer Youth Leadership Program</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1388"><a href="http://petragarzes.myiadtsa.net/wp/summer-youth-leadership-program/summer-youth-leadership-program-registration-form/">Application for Summer Leadership Program</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1389"><a href="http://petragarzes.myiadtsa.net/wp/support/"><span class="fa fa-support"></span>Support</a>
+<ul class="sub-menu">
+	<li id="menu-item-1390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1390"><a href="http://petragarzes.myiadtsa.net/wp/support/become-a-member/">Become a Member</a></li>
+	<li id="menu-item-1391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1391"><a href="http://petragarzes.myiadtsa.net/wp/support/madrinans-padrinos/">Madrinans &#038; Padrinos</a></li>
+	<li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1392"><a href="http://petragarzes.myiadtsa.net/wp/support/members/">Members</a></li>
+	<li id="menu-item-1393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1393"><a href="http://petragarzes.myiadtsa.net/wp/support/partner-organizations/">Partner Organizations</a></li>
+	<li id="menu-item-1394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1394"><a href="http://petragarzes.myiadtsa.net/wp/support/volunteers/">Volunteers</a></li>
+	<li id="menu-item-1397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1397"><a href="http://petragarzes.myiadtsa.net/wp/donate-today/">Donate</a></li>
+</ul>
+</li>
+<li id="menu-item-1376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1376"><a href="http://petragarzes.myiadtsa.net/wp/media/"><span class="fa fa-file-video-o"></span>Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a href="http://petragarzes.myiadtsa.net/wp/media/gallery/">Gallery</a></li>
+	<li id="menu-item-1378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1378"><a href="http://petragarzes.myiadtsa.net/wp/media/videos/">Videos</a></li>
+	<li id="menu-item-1380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1380"><a href="http://petragarzes.myiadtsa.net/wp/newspaper-articles/">Newspaper Articles</a></li>
+</ul>
+</li>
+<li id="menu-item-1366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1366"><a href="http://petragarzes.myiadtsa.net/wp/cal/"><span class="fa fa-calendar"></span>Calendar/Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-1373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1373"><a href="http://petragarzes.myiadtsa.net/wp/events/">Events</a></li>
+</ul>
+</li>
+<li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371"><a href="http://petragarzes.myiadtsa.net/wp/contact/"><span class="fa fa-phone"></span>Contact</a></li>
 </ul></div>			</div>
 </nav><!-- .site-navigation .main-navigation -->
 
@@ -227,7 +286,7 @@ img.emoji {
 		<div class="sow-carousel-wrapper"
 		     data-query="post_type=post&amp;tax_query=category:news&amp;orderby=null&amp;order=DESC&amp;posts_per_page=&amp;sticky=&amp;additional="
 		     data-found-posts="1"
-		     data-ajax-url="http://petragarzes.myiadtsa.net/wp/wp-admin/admin-ajax.php?_widgets_nonce=3f82904fd4"
+		     data-ajax-url="http://petragarzes.myiadtsa.net/wp/wp-admin/admin-ajax.php?_widgets_nonce=fefb1a15e7"
 			>
 			<ul class="sow-carousel-items">
 									<li class="sow-carousel-item">
@@ -253,13 +312,69 @@ img.emoji {
 	<footer id="colophon" class="site-footer" role="contentinfo">
 
 	<div id="footer-widgets" class="full-container">
-		<aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13 current_page_item menu-item-906"><a href="http://petragarzes.myiadtsa.net/wp/">Home Page</a></li>
-<li id="menu-item-907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-907"><a href="http://petragarzes.myiadtsa.net/wp/about/">About</a></li>
-<li id="menu-item-908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-908"><a href="http://petragarzes.myiadtsa.net/wp/support/become-a-member/">Become a Member</a></li>
-<li id="menu-item-909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-909"><a href="http://petragarzes.myiadtsa.net/wp/catering/">Catering</a></li>
-<li id="menu-item-912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-912"><a href="http://petragarzes.myiadtsa.net/wp/programs-page/">Programs</a></li>
-<li id="menu-item-913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-913"><a href="http://petragarzes.myiadtsa.net/wp/support/">Support</a></li>
-<li id="menu-item-914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-914"><a href="http://petragarzes.myiadtsa.net/wp/sustainability/">Sustainability</a></li>
+		<aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1362"><a href="http://petragarzes.myiadtsa.net/wp/about/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1363"><a href="http://petragarzes.myiadtsa.net/wp/about/levis-boycott/">Levi&#8217;s Boycott</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1364"><a href="http://petragarzes.myiadtsa.net/wp/about/newsletter/">Newsletter</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365"><a href="http://petragarzes.myiadtsa.net/wp/about/newsletter/newsletter-archives/">Newsletter Archives</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1383"><a href="http://petragarzes.myiadtsa.net/wp/programs-page/">Programs</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1382"><a href="http://petragarzes.myiadtsa.net/wp/popular-education-meetings/">Popular Education Meetings</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1384"><a href="http://petragarzes.myiadtsa.net/wp/programs-page/food-pantry/">Food Pantry</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1368"><a href="http://petragarzes.myiadtsa.net/wp/catering/">Catering</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a href="http://petragarzes.myiadtsa.net/wp/catering/online-menu/">Online Menu</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1385"><a href="http://petragarzes.myiadtsa.net/wp/programs-page/threads-of-justice/">Threads Of Justice</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1386"><a href="http://petragarzes.myiadtsa.net/wp/shop/">Shop</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1396"><a href="http://petragarzes.myiadtsa.net/wp/cart/">Cart</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a href="http://petragarzes.myiadtsa.net/wp/checkout/">Checkout</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1379"><a href="http://petragarzes.myiadtsa.net/wp/my-account/">My Account</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1387"><a href="http://petragarzes.myiadtsa.net/wp/summer-youth-leadership-program/">Summer Youth Leadership Program</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1388"><a href="http://petragarzes.myiadtsa.net/wp/summer-youth-leadership-program/summer-youth-leadership-program-registration-form/">Application for Summer Leadership Program</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1389"><a href="http://petragarzes.myiadtsa.net/wp/support/">Support</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1390"><a href="http://petragarzes.myiadtsa.net/wp/support/become-a-member/">Become a Member</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1391"><a href="http://petragarzes.myiadtsa.net/wp/support/madrinans-padrinos/">Madrinans &#038; Padrinos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1392"><a href="http://petragarzes.myiadtsa.net/wp/support/members/">Members</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1393"><a href="http://petragarzes.myiadtsa.net/wp/support/partner-organizations/">Partner Organizations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1394"><a href="http://petragarzes.myiadtsa.net/wp/support/volunteers/">Volunteers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1397"><a href="http://petragarzes.myiadtsa.net/wp/donate-today/">Donate</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1376"><a href="http://petragarzes.myiadtsa.net/wp/media/">Media</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a href="http://petragarzes.myiadtsa.net/wp/media/gallery/">Gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1378"><a href="http://petragarzes.myiadtsa.net/wp/media/videos/">Videos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1380"><a href="http://petragarzes.myiadtsa.net/wp/newspaper-articles/">Newspaper Articles</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1366"><a href="http://petragarzes.myiadtsa.net/wp/cal/">Calendar/Events</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1373"><a href="http://petragarzes.myiadtsa.net/wp/events/">Events</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371"><a href="http://petragarzes.myiadtsa.net/wp/contact/">Contact</a></li>
 </ul></div></aside><aside id="sow-button-5" class="widget widget_sow-button"><div class="so-widget-sow-button so-widget-sow-button-atom-9a01ce061a8a"><div class="ow-button-base ow-button-align-center">
 
 	
@@ -318,15 +433,15 @@ var gce = {"ajaxurl":"http:\/\/petragarzes.myiadtsa.net\/wp\/wp-admin\/admin-aja
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/plugins/google-calendar-events/js/gce-script.js?ver=2.3.2'></script>
-<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201538'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201539'></script>
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/plugins/google-calendar-events/js/imagesloaded.pkgd.min.js?ver=3.1.8'></script>
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/plugins/so-widgets-bundle/js/jquery.touchSwipe.min.js?ver=1.6.6'></script>
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/plugins/so-widgets-bundle/widgets/so-post-carousel-widget/js/carousel.min.js?ver=1.4.4'></script>
 <script type='text/javascript' src='http://petragarzes.myiadtsa.net/wp/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider-min.js?ver=3.3.4.1'></script>
-<script type='text/javascript' src='http://stats.wp.com/e-201538.js' async defer></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201539.js' async defer></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.6.1',blog:'97876638',post:'13',tz:'0',srv:'petragarzes.myiadtsa.net'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:3.7',blog:'97876638',post:'13',tz:'0',srv:'petragarzes.myiadtsa.net'} ]);
 	_stq.push([ 'clickTrackerInit', '97876638', '13' ]);
 </script>
 <script type="text/javascript">/* Run FooBox FREE (v1.0.7) */

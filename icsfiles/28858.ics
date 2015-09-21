@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html lang="hu-HU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="jSKqS9CwDK1XtkJJIPSHA1WbIUzrMsRmV6bsCrAOWaE" />
+<title>Budaörsi Gazdakör</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.budaorsigazdakor.hu/xmlrpc.php">
+
+
+<!-- All in One SEO Pack 2.2.7.1 by Michael Torbert of Semper Fi Web Design[236,292] -->
+<meta name="description" itemprop="description" content="A Budaörsi Gazdakör weboldala" />
+
+<meta name="keywords" itemprop="keywords" content="Budaörsi Gazdakör, Budaörs, Gazdakör, Gazdapiac, Gazdák, Zsámbék-medence és térsége Gazdakör, Termékek" />
+<link rel='next' href='http://www.budaorsigazdakor.hu/page/2/?plugin=all-in-one-event-calendar&#038;controller=ai1ec_exporter_controller&#038;action=export_events' />
+
+<link rel="canonical" href="http://www.budaorsigazdakor.hu/" />
+<!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="alternate" type="application/rss+xml" title="Budaörsi Gazdakör &raquo; hírcsatorna" href="http://www.budaorsigazdakor.hu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Budaörsi Gazdakör &raquo; hozzászólás hírcsatorna" href="http://www.budaorsigazdakor.hu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.budaorsigazdakor.hu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://www.budaorsigazdakor.hu/wp-includes/css/dashicons.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='my-calendar-reset-css'  href='http://www.budaorsigazdakor.hu/wp-content/plugins/my-calendar/css/reset.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='my-calendar-style-css'  href='http://www.budaorsigazdakor.hu/wp-content/plugins/my-calendar/styles/twentyfifteen.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/css/font-awesome.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bxslider-style-css'  href='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/css/jquery.bxslider.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ticker-style-css'  href='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/css/ticker-style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='noivolightbox-style-css'  href='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/css/nivo-lightbox.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='scrollcss-css'  href='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/css/jquery.mCustomScrollbar.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google font-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A400%2C100%2C100italic%2C300%2C300italic%2C400italic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='profitmag-style-css'  href='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='profitmag-responsive-css'  href='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/css/responsive.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/js/nivo-lightbox.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/js/jquery.slicknav.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/js/modernizr.min.js?ver=2.6.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.budaorsigazdakor.hu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.budaorsigazdakor.hu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+
+<style type="text/css">
+<!--
+/* Styles by My Calendar - Joseph C Dolson http://www.joedolson.com/ */
+
+.mc-main .mc_general .event-title, .mc-main .mc_general .event-title a { background: #ffffcc; color: #000000; }
+.mc-main .mc_general .event-title a:hover, .mc-main .mc_general .event-title a:focus { background: #ffffff;}
+.mc-event-visible {
+display: block!important;
+}
+-->
+</style>
+<script type='text/javascript'>
+	jQuery('html').addClass('mcjs');
+	jQuery(document).ready( function($) { $('html').removeClass('mcjs') } );
+</script>
+<!-- <meta name="NextGEN" version="2.1.9" /> -->
+<link rel="shortcut icon" type="image/png" href="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/fav.png"/><style type="text/css"></style><meta property="og:site_name" content="Budaörsi Gazdakör">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="hu_HU">
+<meta property="fb:app_id" content="510333642462292">
+<meta property="og:title" content="Budaörsi Gazdakör">
+<meta property="og:description" content="A Budaörsi Gazdakör weboldala">
+<meta property="og:url" content="http://www.budaorsigazdakor.hu">
+</head>
+
+<body class="home blog boxed-layout right_sidebar">
+
+<div id="page" class="hfeed site">
+	
+
+	<header id="masthead" class="site-header clearfix" role="banner">
+        <div class="top-header-block clearfix">
+            <div class="wrapper">
+                                                        <div class="header-latest-posts f-left">                                                                    
+                                    <ul id="js-latest" class="js-hidden">                        
+                                                                                
+                                            <li><a href="http://www.budaorsigazdakor.hu/2015/09/21/biatorbagyi-egeszsegnapon-jart-a-gazdakor/" title="Biatorbágyi Egészségnapon járt a Gazdakör">Biatorbágyi Egészségnapon járt a Gazdakör</a></li>
+                                             
+                                                                                
+                                            <li><a href="http://www.budaorsigazdakor.hu/2015/09/21/egyuttmukodo-partnereket-keres-a-gazdakor/" title="Együttműködő partnereket keres a Gazdakör">Együttműködő partnereket keres a Gazdakör</a></li>
+                                             
+                                                                                
+                                            <li><a href="http://www.budaorsigazdakor.hu/2015/09/17/szeptember-15-ig-kell-befizetni-az-agrar-karenyhitesi-hozzajarulast/" title="Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást">Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást</a></li>
+                                             
+                                                                                
+                                            <li><a href="http://www.budaorsigazdakor.hu/2015/09/17/mit-kell-ahhoz-tenni-hogy-lehessen-szerdan-piac-budaorson/" title="Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?">Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?</a></li>
+                                             
+                                                                                
+                                            <li><a href="http://www.budaorsigazdakor.hu/2015/09/15/szeptember-19-ei-arak-a-budaorsi-gazdapiacon/" title="Szeptember 19-ei árak a Budaörsi Gazdapiacon">Szeptember 19-ei árak a Budaörsi Gazdapiacon</a></li>
+                                             
+                                                                        </ul>
+                                </div> <!-- .header-latest-posts -->
+                                                
+                        <div class="right-header f-right">
+                                                    </div>
+             </div>          
+         </div><!-- .top-header-block -->
+
+        <div class="wrapper header-wrapper clearfix">
+        		<div class="header-container"> 
+                
+                    
+                    
+                    <div class="site-branding clearfix">
+            			<div class="site-logo f-left">
+                            <a href="http://www.budaorsigazdakor.hu/" rel="home">
+                                                                    <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/cropped-copy-fejlec11.jpg" alt="Budaörsi Gazdakör" />
+                                                            </a>
+                        </div>
+                        
+                                                			
+            		</div>
+            
+            		<nav id="site-navigation" class="main-navigation clearfix menu-left" role="navigation" >
+            			<div class="desktop-menu clearfix">
+                        <div class="menu-1-menu-container"><ul id="menu-1-menu" class="menu"><li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-18"><a href="http://www.budaorsigazdakor.hu/">Címlap</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46"><a href="http://www.budaorsigazdakor.hu/category/gazdakor/">Gazdakör</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-333"><a href="http://www.budaorsigazdakor.hu/category/kozerdeku/">Közérdekű</a></li>
+</ul>
+</li>
+<li id="menu-item-47" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47"><a href="http://www.budaorsigazdakor.hu/category/gazdapiac/">Gazdapiac</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48"><a href="http://www.budaorsigazdakor.hu/category/termekeink/">Termékeink</a>
+<ul class="sub-menu">
+	<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="http://www.budaorsigazdakor.hu/hagyomanyos/">Hagyományos</a></li>
+	<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="http://www.budaorsigazdakor.hu/bio/">BIO</a></li>
+</ul>
+</li>
+<li id="menu-item-358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-358"><a href="http://www.budaorsigazdakor.hu/category/tanacsadas/">Tanácsadás</a></li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://www.budaorsigazdakor.hu/kapcsolat/">Kapcsolat</a></li>
+</ul></div>                        <div class="search-block">
+                                                    </div>
+                        </div>
+                        <div class="responsive-slick-menu clearfix"></div>
+                        
+            		</nav><!-- #site-navigation -->
+        
+                </div> <!-- .header-container -->
+        </div><!-- header-wrapper-->
+        
+	</header><!-- #masthead -->
+    
+
+    <div class="wrapper content-wrapper clearfix">
+
+        <div class="slider-feature-wrap clearfix">
+            <!-- Slider -->
+                                  <script type="text/javascript">
+                jQuery(document).ready(function() {
+                    
+                    jQuery('.home-bxslider').bxSlider( {
+                        speed: 2000,
+                        auto: true,
+                        controls: true,
+                        pager: false,
+                        
+                    });
+                })
+            </script>
+            
+                        <div class="slider-section">
+                <ul class="home-bxslider">	
+                                					   
+                                    
+            						            										
+            								<li>
+                                                <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/biatorbagy2-660x365.jpg" />
+                                                <div class="slider-desc">
+                                                    <div class="slide-date">
+                                                        <i class="fa fa-calendar"></i>szeptember 21, 2015                                                    </div>
+                                                    <div class="slider-details">
+                                                    <div class="slide-title"><a href="http://www.budaorsigazdakor.hu/2015/09/21/biatorbagyi-egeszsegnapon-jart-a-gazdakor/">Biatorbágyi Egészségnapon járt a Gazdakör</a></div>
+                                                    <div class="slide-caption"></div>
+                                                    </div>
+                                                </div>
+                                            </li>
+            
+            					            										
+            								<li>
+                                                <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/lecsoparti-600x365.jpg" />
+                                                <div class="slider-desc">
+                                                    <div class="slide-date">
+                                                        <i class="fa fa-calendar"></i>szeptember 21, 2015                                                    </div>
+                                                    <div class="slider-details">
+                                                    <div class="slide-title"><a href="http://www.budaorsigazdakor.hu/2015/09/21/egyuttmukodo-partnereket-keres-a-gazdakor/">Együttműködő partnereket keres a Gazdakör</a></div>
+                                                    <div class="slide-caption"></div>
+                                                    </div>
+                                                </div>
+                                            </li>
+            
+            					            										
+            								<li>
+                                                <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/IMGL6892-660x365.jpg" />
+                                                <div class="slider-desc">
+                                                    <div class="slide-date">
+                                                        <i class="fa fa-calendar"></i>szeptember 17, 2015                                                    </div>
+                                                    <div class="slider-details">
+                                                    <div class="slide-title"><a href="http://www.budaorsigazdakor.hu/2015/09/17/szeptember-15-ig-kell-befizetni-az-agrar-karenyhitesi-hozzajarulast/">Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást</a></div>
+                                                    <div class="slide-caption"></div>
+                                                    </div>
+                                                </div>
+                                            </li>
+            
+            					            										
+            								<li>
+                                                <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/gazdapiac.jpg" />
+                                                <div class="slider-desc">
+                                                    <div class="slide-date">
+                                                        <i class="fa fa-calendar"></i>szeptember 17, 2015                                                    </div>
+                                                    <div class="slider-details">
+                                                    <div class="slide-title"><a href="http://www.budaorsigazdakor.hu/2015/09/17/mit-kell-ahhoz-tenni-hogy-lehessen-szerdan-piac-budaorson/">Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?</a></div>
+                                                    <div class="slide-caption"></div>
+                                                    </div>
+                                                </div>
+                                            </li>
+            
+            					            										
+            								<li>
+                                                <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/alma-660x365.jpg" />
+                                                <div class="slider-desc">
+                                                    <div class="slide-date">
+                                                        <i class="fa fa-calendar"></i>szeptember 15, 2015                                                    </div>
+                                                    <div class="slider-details">
+                                                    <div class="slide-title"><a href="http://www.budaorsigazdakor.hu/2015/09/15/szeptember-19-ei-arak-a-budaorsi-gazdapiacon/">Szeptember 19-ei árak a Budaörsi Gazdapiacon</a></div>
+                                                    <div class="slide-caption"></div>
+                                                    </div>
+                                                </div>
+                                            </li>
+            
+            					    	
+            				  
+                                      
+                </ul>
+            </div>
+            
+            <!-- Featured Post Beside Slider -->
+                            <div class="besides-block">
+                    <div class="beside-post clearfix">
+                        <a href="http://www.budaorsigazdakor.hu/2015/09/21/biatorbagyi-egeszsegnapon-jart-a-gazdakor/">
+                            <figure class="beside-thumb clearfix">
+                                <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/biatorbagy2-240x172.jpg" alt="Biatorbágyi Egészségnapon járt a Gazdakör" title="Biatorbágyi Egészségnapon járt a Gazdakör"/>
+                                <div class="overlay"></div>
+                            </figure>
+                            <div class="beside-caption clearfix">
+                                <h3 class="post-title">Biatorbágyi Egészségnapon járt a Gazdakör</h3>
+                                <div class="post-date"><i class="fa fa-calendar"></i>szeptember 21, 2015</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="beside-post clearfix">
+                        <a href="http://www.budaorsigazdakor.hu/2015/09/21/egyuttmukodo-partnereket-keres-a-gazdakor/">
+                            <figure class="beside-thumb clearfix">
+                                <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/lecsoparti-240x172.jpg" alt="Együttműködő partnereket keres a Gazdakör" title="Együttműködő partnereket keres a Gazdakör"/>
+                                <div class="overlay"></div>
+                            </figure>
+                            <div class="beside-caption clearfix">
+                                <h3 class="post-title">Együttműködő partnereket keres a Gazdakör</h3>
+                                <div class="post-date"><i class="fa fa-calendar"></i>szeptember 21, 2015</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="beside-post clearfix">
+                        <a href="http://www.budaorsigazdakor.hu/2015/09/17/szeptember-15-ig-kell-befizetni-az-agrar-karenyhitesi-hozzajarulast/">
+                            <figure class="beside-thumb clearfix">
+                                <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/IMGL6892-240x172.jpg" alt="Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást" title="Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást"/>
+                                <div class="overlay"></div>
+                            </figure>
+                            <div class="beside-caption clearfix">
+                                <h3 class="post-title">Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást</h3>
+                                <div class="post-date"><i class="fa fa-calendar"></i>szeptember 17, 2015</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="beside-post clearfix">
+                        <a href="http://www.budaorsigazdakor.hu/2015/09/17/mit-kell-ahhoz-tenni-hogy-lehessen-szerdan-piac-budaorson/">
+                            <figure class="beside-thumb clearfix">
+                                <img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/gazdapiac-240x172.jpg" alt="Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?" title="Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?"/>
+                                <div class="overlay"></div>
+                            </figure>
+                            <div class="beside-caption clearfix">
+                                <h3 class="post-title">Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?</h3>
+                                <div class="post-date"><i class="fa fa-calendar"></i>szeptember 17, 2015</div>
+                            </div>
+                        </a>
+                    </div>
+                </div><!-- .beides-block -->
+        	
+                    </div>    
+            <div id="home-content" class="site-content">
+    
+   <div id="primary" class="content-area">
+    <main id="main" class="site-main" role="main">
+                <!-- Featured Block One -->
+            <div class="home-featured-block">
+                                        <a href="http://www.budaorsigazdakor.hu/category/http://www.budaorsigazdakor.hu/category/gazdakor/"><h2 class="block-title"><span class="bordertitle-red"></span>Gazdakör</h2></a>
+                        <div class="feature-post-wrap clearfix">
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/21/biatorbagyi-egeszsegnapon-jart-a-gazdakor/" title="Biatorbágyi Egészségnapon járt a Gazdakör" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/biatorbagy2-265x153.jpg" alt="Biatorbágyi Egészségnapon járt a Gazdakör" title="Biatorbágyi Egészségnapon járt a Gazdakör" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/21/biatorbagyi-egeszsegnapon-jart-a-gazdakor/" title="Biatorbágyi Egészségnapon járt a Gazdakör" >Biatorbágyi Egészségnapon járt a Gazdakör</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 21, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/21/egyuttmukodo-partnereket-keres-a-gazdakor/" title="Együttműködő partnereket keres a Gazdakör" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/lecsoparti-265x153.jpg" alt="Együttműködő partnereket keres a Gazdakör" title="Együttműködő partnereket keres a Gazdakör" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/21/egyuttmukodo-partnereket-keres-a-gazdakor/" title="Együttműködő partnereket keres a Gazdakör" >Együttműködő partnereket keres a Gazdakör</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 21, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/17/mit-kell-ahhoz-tenni-hogy-lehessen-szerdan-piac-budaorson/" title="Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/gazdapiac-265x153.jpg" alt="Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?" title="Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/17/mit-kell-ahhoz-tenni-hogy-lehessen-szerdan-piac-budaorson/" title="Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?" >Mit kell ahhoz tenni, hogy lehessen szerdán piac Budaörsön?</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 17, 2015</div>
+                                </div>
+                            </div>
+                <div class='clear'></div>                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/07/osszefogas-a-budaorsi-oszibarackert/" title="Összefogás a budaörsi őszibarackért" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/753x440-265x153.jpg" alt="Összefogás a budaörsi őszibarackért" title="Összefogás a budaörsi őszibarackért" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/07/osszefogas-a-budaorsi-oszibarackert/" title="Összefogás a budaörsi őszibarackért" >Összefogás a budaörsi őszibarackért</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 07, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/04/legyen-a-szerda-is-piac-nap/" title="Legyen a szerda is piac nap" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/kisberk_balazs-265x153.jpg" alt="Legyen a szerda is piac nap" title="Legyen a szerda is piac nap" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/04/legyen-a-szerda-is-piac-nap/" title="Legyen a szerda is piac nap" >Legyen a szerda is piac nap</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 04, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/08/31/idesuss-a-gazdakor-is-ott-volt-budaors-napjan/" title="IDESÜSS, a Gazdakör is ott volt Budaörs Napján" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/idesuss_budaors14-265x153.jpg" alt="IDESÜSS, a Gazdakör is ott volt Budaörs Napján" title="IDESÜSS, a Gazdakör is ott volt Budaörs Napján" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/08/31/idesuss-a-gazdakor-is-ott-volt-budaors-napjan/" title="IDESÜSS, a Gazdakör is ott volt Budaörs Napján" >IDESÜSS, a Gazdakör is ott volt Budaörs Napján</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>augusztus 31, 2015</div>
+                                </div>
+                            </div>
+                <div class='clear'></div>                  </div>
+            </div>  
+            <!-- End of Featured Block One -->  
+            
+        
+        
+                <!-- Featured Block Two -->
+            <div class="home-featured-block clearfix">
+                                        <a href="http://www.budaorsigazdakor.hu/category/http://www.budaorsigazdakor.hu/category/gazdapiac/"><h2 class="block-title"><span class="bordertitle-red"></span>Gazdapiac</h2></a>
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/15/szeptember-19-ei-arak-a-budaorsi-gazdapiacon/" title="Szeptember 19-ei árak a Budaörsi Gazdapiacon" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/alma-265x153.jpg" alt="Szeptember 19-ei árak a Budaörsi Gazdapiacon" title="Szeptember 19-ei árak a Budaörsi Gazdapiacon" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/15/szeptember-19-ei-arak-a-budaorsi-gazdapiacon/" title="Szeptember 19-ei árak a Budaörsi Gazdapiacon" >Szeptember 19-ei árak a Budaörsi Gazdapiacon</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 15, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/15/le-kell-szamolni-a-nagykereskedok-uralmaval/" title="Le kell számolni a nagykereskedők uralmával!" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/IMGL6749-265x153.jpg" alt="Le kell számolni a nagykereskedők uralmával!" title="Le kell számolni a nagykereskedők uralmával!" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/15/le-kell-szamolni-a-nagykereskedok-uralmaval/" title="Le kell számolni a nagykereskedők uralmával!" >Le kell számolni a nagykereskedők uralmával!</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 15, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/09/szeptember-12-ei-arak-a-gazdapiacon/" title="Szeptember 12-ei árak a Gazdapiacon" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/pisztráng-265x153.jpg" alt="Szeptember 12-ei árak a Gazdapiacon" title="Szeptember 12-ei árak a Gazdapiacon" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/09/szeptember-12-ei-arak-a-gazdapiacon/" title="Szeptember 12-ei árak a Gazdapiacon" >Szeptember 12-ei árak a Gazdapiacon</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 09, 2015</div>
+                                </div>
+                            </div>
+                <div class='clear'></div>                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/09/a-hetvegen-lesz-a-ii-gazdanap-budaorson-3/" title="A hétvégén lesz a II. Gazdanap Budaörsön" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/gazdanapwebre2-265x153.jpg" alt="A hétvégén lesz a II. Gazdanap Budaörsön" title="A hétvégén lesz a II. Gazdanap Budaörsön" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/09/a-hetvegen-lesz-a-ii-gazdanap-budaorson-3/" title="A hétvégén lesz a II. Gazdanap Budaörsön" >A hétvégén lesz a II. Gazdanap Budaörsön</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 09, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/02/szeptember-5-ei-arak-a-gazdapiacon/" title="Szeptember 5-ei árak a Gazdapiacon" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/retek2-265x153.jpg" alt="Szeptember 5-ei árak a Gazdapiacon" title="Szeptember 5-ei árak a Gazdapiacon" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/02/szeptember-5-ei-arak-a-gazdapiacon/" title="Szeptember 5-ei árak a Gazdapiacon" >Szeptember 5-ei árak a Gazdapiacon</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 02, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post clearfix">
+                                <figure class="post-thumb clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/08/28/gazdanap-lesz-budaorson-zuzaporkoltet-foznek-a-gazdak/" title="GAZDANAP lesz Budaörsön &#8211; Zúzapörköltet főznek a gazdák" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/zuzaporkolt-265x153.jpg" alt="GAZDANAP lesz Budaörsön &#8211; Zúzapörköltet főznek a gazdák" title="GAZDANAP lesz Budaörsön &#8211; Zúzapörköltet főznek a gazdák" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/08/28/gazdanap-lesz-budaorson-zuzaporkoltet-foznek-a-gazdak/" title="GAZDANAP lesz Budaörsön &#8211; Zúzapörköltet főznek a gazdák" >GAZDANAP lesz Budaörsön &#8211; Zúzapörköltet főznek a gazdák</a></h3>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>augusztus 28, 2015</div>
+                                </div>
+                            </div>
+                <div class='clear'></div>            </div>   
+            <!-- Featured Block Two --> 
+        
+    
+    
+    
+                
+             <!-- End Featured Block Three --> 
+    
+        
+                            <div class="mid-section-ads">
+                            <a href="http://www.budaorsigazdakor.hu/category/termekeink/"><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/also_banner.jpg"></a>
+                        </div>
+        
+    
+                
+                        
+        
+    
+    <div class="single-col clearfix">
+                
+            <!-- Featured Block Left -->
+            <div class="home-featured-block-single-col">
+                                        <h2 class="block-title"><span class="bordertitle-red"></span>Termékeink</h2>
+                                            <div class="featured-post-block-coltype clearfix">
+                                <figure class="post-thumb-mini clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/08/21/augusztus-22-ei-arak-a-gazdapiacon/" title="Augusztus 22-ei árak a Budaörsi Gazdapiacon" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/szilva-174x111.jpg" alt="Augusztus 22-ei árak a Budaörsi Gazdapiacon" title="Augusztus 22-ei árak a Budaörsi Gazdapiacon" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/08/21/augusztus-22-ei-arak-a-gazdapiacon/" title="Augusztus 22-ei árak a Budaörsi Gazdapiacon" >Augusztus 22-ei árak a Budaörsi Gazdapiacon</a></h3>
+                                    <p>2015. augusztus 22-én ismét kiváló árakkal várják a</p>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>augusztus 21, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post-block-coltype clearfix">
+                                <figure class="post-thumb-mini clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/08/15/a-jo-szilvalekvar-fo-osszetevoi-turelem-es-tisztelet/" title="A jó szilvalekvár fő összetevői: türelem és tisztelet" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/szilva-174x111.png" alt="A jó szilvalekvár fő összetevői: türelem és tisztelet" title="A jó szilvalekvár fő összetevői: türelem és tisztelet" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/08/15/a-jo-szilvalekvar-fo-osszetevoi-turelem-es-tisztelet/" title="A jó szilvalekvár fő összetevői: türelem és tisztelet" >A jó szilvalekvár fő összetevői: türelem és tisztelet</a></h3>
+                                    <p>2015. augusztus 15-én Bánfi Zoltán gazda jóvoltából</p>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>augusztus 15, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post-block-coltype clearfix">
+                                <figure class="post-thumb-mini clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/08/14/augusztus-15-ei-arak-a-budaorsi-gazdapiacon/" title="Augusztus 15-ei árak a Budaörsi Gazdapiacon" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/paprika_paradicsom-174x111.jpg" alt="Augusztus 15-ei árak a Budaörsi Gazdapiacon" title="Augusztus 15-ei árak a Budaörsi Gazdapiacon" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/08/14/augusztus-15-ei-arak-a-budaorsi-gazdapiacon/" title="Augusztus 15-ei árak a Budaörsi Gazdapiacon" >Augusztus 15-ei árak a Budaörsi Gazdapiacon</a></h3>
+                                    <p>2015. augusztus 15-én ismét kiváló árakkal várják a</p>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>augusztus 14, 2015</div>
+                                </div>
+                            </div>
+                            </div>   
+            <!-- End Featured Block Lefte --> 
+       
+    
+    
+    
+                
+            <!-- Featured Block Right -->
+            <div class="home-featured-block-single-col">
+                                        <h2 class="block-title"><span class="bordertitle-red"></span>Közérdekű</h2>
+                                            <div class="featured-post-block-coltype clearfix">
+                                <figure class="post-thumb-mini clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/17/szeptember-15-ig-kell-befizetni-az-agrar-karenyhitesi-hozzajarulast/" title="Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/IMGL6892-174x111.jpg" alt="Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást" title="Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/17/szeptember-15-ig-kell-befizetni-az-agrar-karenyhitesi-hozzajarulast/" title="Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást" >Szeptember 15-ig kell befizetni az agrár-kárenyhítési hozzájárulást</a></h3>
+                                    <p>
+
+Szeptember 15-ig kell a gazdáknak befizetniük az</p>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 17, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post-block-coltype clearfix">
+                                <figure class="post-thumb-mini clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/09/500-millio-euro-erteku-intezkedescsomagot-kinal-brusszel-az-unios-tej-es-sertesagazatnak-2/" title="500 millió euró értékű intézkedéscsomagot kínál Brüsszel az uniós tej- és sertéságazatnak" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/sertes-174x111.jpg" alt="500 millió euró értékű intézkedéscsomagot kínál Brüsszel az uniós tej- és sertéságazatnak" title="500 millió euró értékű intézkedéscsomagot kínál Brüsszel az uniós tej- és sertéságazatnak" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/09/500-millio-euro-erteku-intezkedescsomagot-kinal-brusszel-az-unios-tej-es-sertesagazatnak-2/" title="500 millió euró értékű intézkedéscsomagot kínál Brüsszel az uniós tej- és sertéságazatnak" >500 millió euró értékű intézkedéscsomagot kínál Brüsszel az uniós tej- és sertéságazatnak</a></h3>
+                                    <p>Az uniós mezőgazdasági miniszterek hétfői rendkívüli</p>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 09, 2015</div>
+                                </div>
+                            </div>
+                                            <div class="featured-post-block-coltype clearfix">
+                                <figure class="post-thumb-mini clearfix">
+                                                                                <a href="http://www.budaorsigazdakor.hu/2015/09/06/szeptember-15-ig-kell-megfizetni-a-karenyhitesi-hozzajarulast/" title="Szeptember 15-ig kell megfizetni a kárenyhítési hozzájárulást" ><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/09/mvh_logo_0-174x111.jpg" alt="Szeptember 15-ig kell megfizetni a kárenyhítési hozzájárulást" title="Szeptember 15-ig kell megfizetni a kárenyhítési hozzájárulást" /></a>
+                                                                    </figure>
+                                
+                                <div class="post-desc clearfix">
+                                    <h3 class="feature-main-title"><a href="http://www.budaorsigazdakor.hu/2015/09/06/szeptember-15-ig-kell-megfizetni-a-karenyhitesi-hozzajarulast/" title="Szeptember 15-ig kell megfizetni a kárenyhítési hozzájárulást" >Szeptember 15-ig kell megfizetni a kárenyhítési hozzájárulást</a></h3>
+                                    <p>
+
+Az agrárkár-enyhítési rendszerben tag</p>
+                                    <div class="post-date feature-main-date"><i class="fa fa-calendar"></i>szeptember 06, 2015</div>
+                                </div>
+                            </div>
+                            </div>  
+    
+     </div><!--single-col-->
+            <!-- End Featured Block Left -->
+            
+            <!-- Popular Widget Area -->
+                                        <div class="home-featured-block popular-widget-area clearfix">
+                         		<aside id="profitmag-popular-posts-3" class="widget profitmag_widget_popular_entries">		<h3 class="widget-title"><span>Legolvasottab cikek</span></h3>		<ul>
+					<li>
+				<figure class="popular-image clearfix">
+                                                                            <a href="http://www.budaorsigazdakor.hu/2015/08/28/gazdanap-lesz-budaorson-zuzaporkoltet-foznek-a-gazdak/"><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/zuzaporkolt-193x112.jpg" alt="GAZDANAP lesz Budaörsön &#8211; Zúzapörköltet főznek a gazdák" title="GAZDANAP lesz Budaörsön &#8211; Zúzapörköltet főznek a gazdák" /></a>
+                                    </figure>
+                
+                <p class="post-desc">
+                    <a href="http://www.budaorsigazdakor.hu/2015/08/28/gazdanap-lesz-budaorson-zuzaporkoltet-foznek-a-gazdak/">GAZDANAP lesz Budaörsön &#8211; Zúzapörköltet főznek a gazdák</a>
+                    <div class="post-date"><i class="fa fa-calendar"></i>augusztus 28, 2015</div>
+                </p>
+			
+			</li>
+					<li>
+				<figure class="popular-image clearfix">
+                                                                            <a href="http://www.budaorsigazdakor.hu/2015/08/19/nyarbucsuztato-grill-parti/"><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/nyarbucsuztato_grill_parti_15_08_19-193x112.jpg" alt="Nyárbúcsúztató grill parti" title="Nyárbúcsúztató grill parti" /></a>
+                                    </figure>
+                
+                <p class="post-desc">
+                    <a href="http://www.budaorsigazdakor.hu/2015/08/19/nyarbucsuztato-grill-parti/">Nyárbúcsúztató grill parti</a>
+                    <div class="post-date"><i class="fa fa-calendar"></i>augusztus 19, 2015</div>
+                </p>
+			
+			</li>
+					<li>
+				<figure class="popular-image clearfix">
+                                                                            <a href="http://www.budaorsigazdakor.hu/2015/08/21/a-gazdak-nem-kukoricaznakk/"><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/kukorica-193x112.jpg" alt="A gazdák „nem kukoricáznak”" title="A gazdák „nem kukoricáznak”" /></a>
+                                    </figure>
+                
+                <p class="post-desc">
+                    <a href="http://www.budaorsigazdakor.hu/2015/08/21/a-gazdak-nem-kukoricaznakk/">A gazdák „nem kukoricáznak”</a>
+                    <div class="post-date"><i class="fa fa-calendar"></i>augusztus 21, 2015</div>
+                </p>
+			
+			</li>
+					<li>
+				<figure class="popular-image clearfix">
+                                                                            <a href="http://www.budaorsigazdakor.hu/2015/08/28/anyatejes-napon-vett-reszt-a-gazdakor/"><img src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap-193x112.jpg" alt="Anyatejes Napon vett részt a Gazdakör" title="Anyatejes Napon vett részt a Gazdakör" /></a>
+                                    </figure>
+                
+                <p class="post-desc">
+                    <a href="http://www.budaorsigazdakor.hu/2015/08/28/anyatejes-napon-vett-reszt-a-gazdakor/">Anyatejes Napon vett részt a Gazdakör</a>
+                    <div class="post-date"><i class="fa fa-calendar"></i>augusztus 28, 2015</div>
+                </p>
+			
+			</li>
+				</ul>
+		</aside>                        </div>
+                            <!-- End Popular Widget Area -->
+            
+            
+            <!-- Media Gallery -->            
+                                <div class="home-media-gallery">
+                        <h2 class="block-title"><span class="bordertitle-red"></span>Képgaléria
+</h2>
+                        
+                  <div class="gallery-block">
+                        <div id="gallery-slider" class="flexslider">
+                            <ul class="slides">
+                                                                <li><img id="previewHolder" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap7-818x537.jpg" alt="Gallery" /></li>
+                                                        </ul>
+                        </div>
+                   
+		                    <div id="gallery-carousel" class="flexslider clearfix scroll-content">
+		                        <ul class="slides ">
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap7-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap7-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap6-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap6-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap5-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap5-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap4-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap4-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap3-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap3-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap2-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap2-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/anyatejesnap-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/07/nyuszi2-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/07/nyuszi2.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/szilva-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/szilva-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/szilva_fozes_15_08_15_2-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/szilva_fozes_15_08_15_2-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/paprika_paradicsom-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/paprika_paradicsom-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/paradicsom-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/paradicsom-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/fokhagyma-71x40.jpg" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/fokhagyma-818x537.jpg" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/kukorica-71x40.png" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/kukorica-818x537.png" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/kukorica2-71x40.png" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/kukorica2-818x537.png" /></li>
+		                                		                                        <li><img class="fullPreview" src="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/kukorica3-71x40.png" alt="Gallery" data-image-full="http://www.budaorsigazdakor.hu/wp-content/uploads/2015/08/kukorica3-818x537.png" /></li>
+		                                		                        </ul>
+		                    </div>
+                     </div><!--gallery-block-->
+                </div>
+               
+            <!-- End Media Gallery -->
+                         
+        
+   
+    </main><!-- #main -->
+</div><!-- #primary -->
+                    
+
+            <div id="secondary-right" class="widget-area secondary-sidebar f-right clearfix" role="complementary">
+                        <div id="sidebar-section-top" class="widget-area sidebar clearfix">
+                 <aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.budaorsigazdakor.hu/" >
+	<div><label class="screen-reader-text" for="s"></label>
+	<input type="text" value="" name="s" id="s" placeholder="SEARCH" />
+	<input type="submit" id="searchsubmit" value="Keresés" />
+	</div>
+	</form></aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title"><span>Videó</span></h3>			<div class="textwidget"><iframe width="300" height="169" src="https://www.youtube.com/embed/jGx_bGY2GfI" frameborder="0" allowfullscreen></iframe></div>
+		</aside><aside id="my_calendar_mini_widget-2" class="widget widget_my_calendar_mini_widget"><h3 class="widget-title"><span>Eseménynaptár</span></h3><div id="mc_mini_widget-2" class="mc-main mini month mc_mini_widget-2" aria-live='assertive' aria-atomic='true'>
+<table class="my-calendar-table">
+<caption class="heading my-calendar-month">szeptember 2015 </caption>
+<thead>
+<tr class='mc-row'>
+<th scope="col" class='day-heading mon'><span aria-hidden='true'><abbr title="Monday">M</abbr></span><span class='screen-reader-text'>hétfő</span></th scope="col">
+<th scope="col" class='day-heading tues'><span aria-hidden='true'><abbr title="Tuesday">K</abbr></span><span class='screen-reader-text'>kedd</span></th scope="col">
+<th scope="col" class='day-heading wed'><span aria-hidden='true'><abbr title="Wednesday">Sze</abbr></span><span class='screen-reader-text'>szerda</span></th scope="col">
+<th scope="col" class='day-heading thur'><span aria-hidden='true'><abbr title="Thursday">Cs</abbr></span><span class='screen-reader-text'>csütörtök</span></th scope="col">
+<th scope="col" class='day-heading fri'><span aria-hidden='true'><abbr title="Friday">P</abbr></span><span class='screen-reader-text'>péntek</span></th scope="col">
+<th scope="col" class='weekend-heading sat'><span aria-hidden='true'><abbr title="Saturday">Szo</abbr></span><span class='screen-reader-text'>szombat</span></th scope="col">
+<th scope="col" class='weekend-heading sun'><span aria-hidden='true'><abbr title="Sunday">S</abbr></span><span class='screen-reader-text'>vasárnap</span></th scope="col">
+
+</tr>
+</thead>
+<tbody><tr class='mc-row'>
+												<td class='no-events hét past-day past-date  nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>31</span><span class='screen-reader-text'>2015-08-31</span></span>
+												</td>
+
+												<td class='no-events ked past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>1</span><span class='screen-reader-text'>2015-09-01</span></span>
+												</td>
+
+												<td class='no-events sze past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>2</span><span class='screen-reader-text'>2015-09-02</span></span>
+												</td>
+
+												<td class='no-events csü past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>3</span><span class='screen-reader-text'>2015-09-03</span></span>
+												</td>
+
+												<td class='no-events pén past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>4</span><span class='screen-reader-text'>2015-09-04</span></span>
+												</td>
+
+												<td class='no-events szo past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>5</span><span class='screen-reader-text'>2015-09-05</span></span>
+												</td>
+
+												<td class='no-events vas past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>6</span><span class='screen-reader-text'>2015-09-06</span></span>
+												</td>
+</tr>
+<tr class='mc-row'>
+												<td class='no-events hét past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>7</span><span class='screen-reader-text'>2015-09-07</span></span>
+												</td>
+
+												<td class='no-events ked past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>8</span><span class='screen-reader-text'>2015-09-08</span></span>
+												</td>
+
+												<td class='no-events sze past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>9</span><span class='screen-reader-text'>2015-09-09</span></span>
+												</td>
+
+												<td class='no-events csü past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>10</span><span class='screen-reader-text'>2015-09-10</span></span>
+												</td>
+
+												<td class='no-events pén past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>11</span><span class='screen-reader-text'>2015-09-11</span></span>
+												</td>
+
+												<td id='mini-2015-09-12' class='szo past-day past-date weekend  has-events author1 mcat_general day-with-date'>
+													<a href='http://www.budaorsigazdakor.hu/naptar/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events&amp;yr=2015&amp;month=09&amp;dy=12&amp;time=day&amp;mcat=all' class='mc-date trigger'><span aria-hidden='true'>12</span><span class='screen-reader-text'><span class='screen-reader-text'>2015-09-12</span></span></a><div id='date-2015-09-12' class='calendar-events'><div id='mc_4-12-mini' class='mc-mc_4 mini-event mc_general vevent'>
+<h3 class='event-title summary' id='mc_4-12-mini-title'><img src="http://www.budaorsigazdakor.hu/wp-content/plugins/my-calendar/images/icons/event.png" alt="Category: General" class="category-icon" style="background:#ffffcc" />09:00: Gazdanap lesz Budaörsön</h3>
+<div id='mc_4-12-mini-details' class='details no-image' role='alert' aria-labelledby='mc_4-12-mini-title'>
+
+<button aria-controls='mc_4-12-mini-details' class='mc-toggle close'><img src="http://www.budaorsigazdakor.hu/wp-content/plugins/my-calendar/images/event-close.png" alt='Close' /></button><div class='time-block'><p><span class='mc-event-date'>2015-09-12</span> 
+
+		<span class='event-time dtstart'>
+			<time class='value-title' datetime='2015-09-12T09:00:00' title='2015-09-12T09:00:00'>09:00</time>
+		</span>
+					<span class='time-separator'> &ndash; </span>
+					<span class='end-time dtend'>
+						<time class='value-title' datetime='2015-09-12T12:00:00' title='2015-09-12T12:00:00'>12:00</time>
+					</span>
+	</div><div class='location'></div><div class='longdesc'><h2>2015. szeptember 12-én 9 órakor ünnepélyes megnyitóval kezdődik a második Gazdanap Budaörsön.</h2>
+<div></div>
+<div><strong>Az esemény fővédnőke:</strong> Obreczán Ferenc Főtitkár, MAGOSZ</div>
+<div></div>
+<div><strong>A rendezvény helyszíne:</strong> Budaörsi Gazdapiac</div>
+<div></div>
+<div><strong>Programok:</strong></div>
+<div></div>
+<div>Arcfestés és lufihajtogatás a gyerekeknek</div>
+<div></div>
+<div>Élőben fellép a <strong>Budaörsi Görög Nemzetiségi Önkormányzat Elismus </strong>tánccsoport is eredeti hagyományos énekekkel.</div>
+<div>Méhészbemutató</div>
+<div>Sajt készítés</div>
+<div>Vaj készítés</div>
+<div>Borászati bemutató és must készítés</div>
+<div></div>
+<div><strong>Díszvedégként kitelepül és bemutatja városát:</strong></div>
+<div>Zsámbék és Pilisszentiván Önkormányzata</div>
+<h2><em><strong>11 órától megkóstolható a GAZDAKÖRI zúzapörkölt, hiszen 400 fő részére főznek ingyenesen a gazdák.</strong></em></h2>
+<div></div>
+<div>A programot ünnepélyesen megnyitja a Gyepük népe Egyesület énekesei</div>
+<div><strong>Obreczán Ferenc</strong> Főtitkát MAGOSZ</div>
+<div><strong>Kisberk Balázs</strong> elnök, Zsámbéki-medence és térsége Gazdakör</div>
+<div></div>
+<div><strong>Sok-sok meglepetés és móka vár mindenkit a Budaörsi Gazdanapon!</strong></div>
+<h2><strong>Hamarosan bővebb tájékoztatást is olvashatnak weboldalunkon a programokkal kapcsolatban.</strong></h2>
+</div><div class='sharing'><p class='mc_details'><a href='http://www.budaorsigazdakor.hu/naptar/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events&amp;mc_id=4'>More<span class="screen-reader-text"> about Gazdanap lesz Budaörsön</span></a></p>
+</div><button aria-controls='mc_4-12-mini-details' class='mc-toggle close'><img src="http://www.budaorsigazdakor.hu/wp-content/plugins/my-calendar/images/event-close.png" alt='Close' /></button></div><!--ends .details--></div></div>
+												</td>
+
+												<td class='no-events vas past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>13</span><span class='screen-reader-text'>2015-09-13</span></span>
+												</td>
+</tr>
+<tr class='mc-row'>
+												<td class='no-events hét past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>14</span><span class='screen-reader-text'>2015-09-14</span></span>
+												</td>
+
+												<td class='no-events ked past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>15</span><span class='screen-reader-text'>2015-09-15</span></span>
+												</td>
+
+												<td class='no-events sze past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>16</span><span class='screen-reader-text'>2015-09-16</span></span>
+												</td>
+
+												<td class='no-events csü past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>17</span><span class='screen-reader-text'>2015-09-17</span></span>
+												</td>
+
+												<td class='no-events pén past-day past-date   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>18</span><span class='screen-reader-text'>2015-09-18</span></span>
+												</td>
+
+												<td class='no-events szo past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>19</span><span class='screen-reader-text'>2015-09-19</span></span>
+												</td>
+
+												<td class='no-events vas past-day past-date weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>20</span><span class='screen-reader-text'>2015-09-20</span></span>
+												</td>
+</tr>
+<tr class='mc-row'>
+												<td class='no-events hét current-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>21</span><span class='screen-reader-text'>2015-09-21</span></span>
+												</td>
+
+												<td class='no-events ked future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>22</span><span class='screen-reader-text'>2015-09-22</span></span>
+												</td>
+
+												<td class='no-events sze future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>23</span><span class='screen-reader-text'>2015-09-23</span></span>
+												</td>
+
+												<td class='no-events csü future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>24</span><span class='screen-reader-text'>2015-09-24</span></span>
+												</td>
+
+												<td class='no-events pén future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>25</span><span class='screen-reader-text'>2015-09-25</span></span>
+												</td>
+
+												<td class='no-events szo future-day weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>26</span><span class='screen-reader-text'>2015-09-26</span></span>
+												</td>
+
+												<td class='no-events vas future-day weekend  day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>27</span><span class='screen-reader-text'>2015-09-27</span></span>
+												</td>
+</tr>
+<tr class='mc-row'>
+												<td class='no-events hét future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>28</span><span class='screen-reader-text'>2015-09-28</span></span>
+												</td>
+
+												<td class='no-events ked future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>29</span><span class='screen-reader-text'>2015-09-29</span></span>
+												</td>
+
+												<td class='no-events sze future-day   day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>30</span><span class='screen-reader-text'>2015-09-30</span></span>
+												</td>
+
+												<td class='no-events csü future-day  nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>1</span><span class='screen-reader-text'>2015-10-01</span></span>
+												</td>
+
+												<td class='no-events pén future-day  nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>2</span><span class='screen-reader-text'>2015-10-02</span></span>
+												</td>
+
+												<td class='no-events szo future-day weekend nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>3</span><span class='screen-reader-text'>2015-10-03</span></span>
+												</td>
+
+												<td class='no-events vas future-day weekend nextmonth day-with-date'>
+													<span class='mc-date no-events'><span aria-hidden='true'>4</span><span class='screen-reader-text'>2015-10-04</span></span>
+												</td>
+</tr>
+
+</tbody>
+</table><div class='mc_bottomnav'>
+				<div class="my-calendar-nav">
+					<ul>
+						<li class="my-calendar-prev"><a href="http://www.budaorsigazdakor.hu/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events&amp;yr=2015&amp;month=8&amp;dy=&amp;cid=mc_mini_widget-2" rel="nofollow" data-rel="mc_mini_widget-2"><span class='maybe-hide'>Előző</span></a></li><li class="my-calendar-next"><a href="http://www.budaorsigazdakor.hu/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events&amp;yr=2015&amp;month=10&amp;dy=&amp;cid=mc_mini_widget-2" rel="nofollow" data-rel="mc_mini_widget-2"><span class='maybe-hide'>Következő</span></a></li>
+					</ul>
+				</div><div class="my-calendar-date-switcher">
+            <form action="http://www.budaorsigazdakor.hu" method="get"><div><input type="hidden" name="cid" value="mc_mini_widget-2" /><input type="hidden" name="plugin" value="all-in-one-event-calendar" /><input type="hidden" name="controller" value="ai1ec_exporter_controller" /><input type="hidden" name="action" value="export_events" />
+            <label class="maybe-hide" for="mc_mini_widget-2-month">Hónap:</label> <select id="mc_mini_widget-2-month" name="month">
+<option value='1'>január</option>
+<option value='2'>február</option>
+<option value='3'>március</option>
+<option value='4'>április</option>
+<option value='5'>május</option>
+<option value='6'>június</option>
+<option value='7'>július</option>
+<option value='8'>augusztus</option>
+<option value='9' selected="selected">szeptember</option>
+<option value='10'>október</option>
+<option value='11'>november</option>
+<option value='12'>december</option>
+</select>
+
+            <label class="maybe-hide" for="mc_mini_widget-2-year">Year:</label> <select id="mc_mini_widget-2-year" name="yr">
+<option value="2015" selected="selected">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+</select> <input type="submit" class="button" value="Go" /></div>
+	</form></div></div></div></aside><aside id="text-5" class="widget widget_text"><h3 class="widget-title"><span>Facebook</span></h3>			<div class="textwidget"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v2.4&appId=498023320213446";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-page" data-href="https://www.facebook.com/ZsambekiMedenceGazdakor" data-width="270" data-height="600" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ZsambekiMedenceGazdakor"><a href="https://www.facebook.com/ZsambekiMedenceGazdakor">Zsámbéki-medence és térsége Gazdakör</a></blockquote></div></div></div>
+		</aside>                </div>
+                
+                
+        
+                    
+                    
+            
+                    
+                
+        
+        
+                
+                </div>
+    
+        
+
+	</div><!-- #content -->
+    </div><!-- content-wrapper-->
+
+	<footer id="colophon" class="site-footer clearrfix" role="contentinfo">
+        <div class="wrapper footer-wrapper clearfix">
+
+                <div class="top-bottom clearfix">
+                		<div id="footer-top">
+                            <div class="footer-columns">
+                                
+                                                                        <div class="footer1 col">
+                                                                                                <div class="footer-logo" class="footer-widget">
+                                                     <aside id="text-4" class="widget widget_text"><h3 class="widget-title"><span>Partnereink</span></h3>			<div class="textwidget"><a href="http://www.budaors.hu" target="_blank"><img src="/wp-content/uploads/2015/08/budaors_onkormanyzat_logo.jpg"></a>
+<a href="http://www.voroskereszt.hu" target="_blank"><img src="/wp-content/uploads/2015/08/magyar_voroskerszt.jpg"></a>
+<a href="http://www.magosz.hu" target="_blank"><img src="/wp-content/uploads/2015/08/magosz_logo_color.jpg"></a>
+<a href="https://www.facebook.com/BudaorsiGazdapiac?fref=ts" target="_blank"><img src="/wp-content/uploads/2015/08/budaorsigazdapiac.jpg"></a>
+<a href="http://www.nak.hu" target="_blank"><img src="/wp-content/uploads/2015/08/nemzetiagrargazdasagikamara.jpg"></a>
+
+</div>
+		</aside>                                                    </div>
+                                                    
+                                                    
+                                                                                        
+                                                                                                    
+                                        </div>
+                                        
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                                        
+                            </div>
+                        
+                        </div><!-- #foter-top -->
+                        
+                        <div id="footer-bottom">                            
+                                                        </div><!-- #foter-bottom -->
+                </div><!-- top-bottom-->
+                <div class="footer-copyright border t-center">
+                    <p>                        
+                                    Budaörsi Gazdakör                                                </p>
+                    <p>2015</p>
+                </div>
+
+        </div><!-- footer-wrapper-->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- ngg_resource_manager_marker --><script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/js/jquery.bxslider.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/js/jquery.ticker.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/js/jquery.mCustomScrollbar.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/js/jquery.mousewheel.min.js?ver=2.0.19'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/themes/profitmag/js/custom.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"appId":"510333642462292"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/hu_HU\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/plugins/my-calendar/js/mc-grid.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/plugins/my-calendar/js/mc-list.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/plugins/my-calendar/js/mc-mini.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.budaorsigazdakor.hu/wp-content/plugins/my-calendar/js/mc-ajax.js?ver=4.3.1'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66907707-1', 'auto');
+  ga('send', 'pageview');
+
+</script><div id="fb-root"></div>
+</body>
+</html>
+  
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced (Requested URI contains query)
+Database Caching 2/170 queries in 0.042 seconds using disk
+Object Caching 7726/8189 objects using disk
+
+ Served from: www.budaorsigazdakor.hu @ 2015-09-21 22:46:49 by W3 Total Cache -->

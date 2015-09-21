@@ -1,11 +1,48 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>/n</p>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//173.236.165.100//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.tg8.com.au
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+X-LIC-LOCATION:Australia/Melbourne
+BEGIN:STANDARD
+DTSTART:20150405T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+RDATE:20160403T030000
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20151004T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:EST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-49@www.new.tg8.com.au
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-AU:Victoria
+CONTACT:Winston Lewinsmith\; 0432377478
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.tg8.com.au/wp-content/uploads/2015/06/Melb-Black-and-White-Tuesdays
+ -online-212x300.jpg' width='212' height='300' /></div><p>Registration 7pm.
+ <br />\nBusiness Overview: 7:30pm till 8:15pm</p>\n<p>IBO’s: $10 \, Guests
+  FREE.</p>\n<p>Plenty of Free Parking at hotel. Enter via Queens Lane.</p>
+ \n<p>Business Attire Please.</p>\n<p><a href='http://www.new.tg8.com.au/wp
+ -content/uploads/2015/06/Melb-Black-and-White-Tuesdays-online.pdf'>Downloa
+ d Melbourne BOM Flier</a></p>
+DTSTART;TZID=Australia/Melbourne:20150922T193000
+DTEND;TZID=Australia/Melbourne:20150922T201500
+GEO:-37.837781;+144.973715
+LOCATION:Bayview Eden @ 6 Queens Road\, Melbourne VIC 3004\, Australia
+RRULE:FREQ=WEEKLY;UNTIL=20151125T235959Z;BYDAY=TU;WKST=MO
+SEQUENCE:0
+SUMMARY:Melbourne Tuesday BOM
+URL:http://www.tg8.com.au/event/melbourne-bom/
+X-COST:IBO's $10\, Guests FREE
+END:VEVENT
+END:VCALENDAR

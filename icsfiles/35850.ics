@@ -23,28 +23,8 @@ TZNAME:MDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-3349@50.87.248.123/~clearvp0
-DTSTAMP:20150920T002149Z
-CATEGORIES;LANGUAGE=en-US:BoMo
-CONTACT:
-DESCRIPTION:<p><strong>Timberline Church</strong><br />\n360 Crossroads Blv
- d – Windsor<br />\n9:45am – 11:30am</p>\n<p><strong>*NEW STOP*<br />\nMoun
- tain Vista Meadows</strong><br />\n78th & 79th Ave – Greeley<br />\n12:00p
- m-1:00pm</p>\n<p><strong>Peakview Estates</strong><br />\nSundance Dr & Sa
- ratoga Way—Windsor<br />\n1:30pm-2:30pm (storytime at 2:00pm)</p>\n<p><str
- ong> </strong></p>\n<p> </p>\n<p> </p>
-DTSTART;TZID=America/Denver:20150920T094500
-DTEND;TZID=America/Denver:20150920T143000
-EXDATE;TZID=America/Denver:20150523T094500
-EXDATE;TZID=America/Denver:20150906T094500
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:BoMo Stops & Storytimes
-URL:http://clearviewlibrary.org/event/bomo-stops-storytimes-7/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-7890@50.87.248.123/~clearvp0
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:BoMo
 CONTACT:
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/ai1ec_event/bomo-stops-
@@ -65,10 +45,11 @@ RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=SU
 SEQUENCE:0
 SUMMARY:BoMo Stops & Storytimes
 URL:http://clearviewlibrary.org/event/bomo-stops-storytimes-2/
+X-TAGS;LANGUAGE=en-US:BoMo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11274@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Andrea\; 970.686.5603\; andrea@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -90,7 +71,7 @@ X-TAGS;LANGUAGE=en-US:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11293@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G. \; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-11232' src='http:
@@ -109,7 +90,7 @@ URL:http://clearviewlibrary.org/event/paws-patty-zanny-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-10887@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids
 CONTACT:Lynley\; 970.686.5603\; lynley@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -145,7 +126,7 @@ URL:http://clearviewlibrary.org/event/weird-science-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11295@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -163,7 +144,7 @@ URL:http://clearviewlibrary.org/event/paws-catherine-phoebe-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-10791@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:All Ages
 CONTACT:
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -184,7 +165,7 @@ URL:http://clearviewlibrary.org/event/ask-a-geek/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-7446@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsella@clearviewlibrary.org
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-11338' src='http:
@@ -201,7 +182,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1019@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:BoMo
 CONTACT:BoMo Staff\; 970.518.1420\; como@myclearview.info
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/ai1ec_event/bomo-stops-
@@ -229,10 +210,11 @@ RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=SU
 SEQUENCE:0
 SUMMARY:BoMo Stops & Storytimes
 URL:http://clearviewlibrary.org/event/bomo-stops-storytimes-4/
+X-TAGS;LANGUAGE=en-US:BoMo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11491@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -249,7 +231,7 @@ URL:http://clearviewlibrary.org/event/get-your-vote-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8516@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Ally\; 970.686.5603\; ally@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -273,7 +255,7 @@ X-TAGS;LANGUAGE=en-US:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11283@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Andrea\; 970.686.5603\; andrea@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -295,7 +277,7 @@ X-TAGS;LANGUAGE=en-US:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11261@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids
 CONTACT:Kat\; 970.686.5603\; kat@clearviewlibrary.org
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-10195' src='http:
@@ -314,7 +296,7 @@ URL:http://clearviewlibrary.org/event/lego-club-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11287@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -333,7 +315,7 @@ URL:http://clearviewlibrary.org/event/paws-lyn-tess-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11218@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:Ally\; 970-686-5603\; programs@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -355,7 +337,7 @@ X-TAGS;LANGUAGE=en-US:Adult Programming
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1015@50.87.248.123/~clearvp0
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:BoMo
 CONTACT:BoMo Staff\; 970.518.1420\; bomo@myclearview.info
 DESCRIPTION:<p><strong><img class='alignleft size-medium wp-image-6922' src
@@ -380,10 +362,11 @@ RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
 SEQUENCE:0
 SUMMARY:BoMo Stops & Storytimes
 URL:http://clearviewlibrary.org/event/bomo-stops-storytimes-3/
+X-TAGS;LANGUAGE=en-US:BoMo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11262@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Andrea\; 970.686.5603\; andrea@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -406,7 +389,7 @@ X-TAGS;LANGUAGE=en-US:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11329@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids\,Tweens
 CONTACT:Lynley\; 970.686.5603\; lynley@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -427,7 +410,7 @@ URL:http://clearviewlibrary.org/event/homeschoolers-minecraft/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11039@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids\,Tweens
 CONTACT:Lynley\; 970.686.5603\; lynley@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -461,7 +444,7 @@ URL:http://clearviewlibrary.org/event/getting-crafty/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1024@50.87.248.123/~clearvp0
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:BoMo
 CONTACT:BoMo Staff\; 970.518.1420\; bomo@myclearview.info
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-10049' src='http:
@@ -485,10 +468,11 @@ RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
 SEQUENCE:0
 SUMMARY:BoMo Stops & Storytimes
 URL:http://clearviewlibrary.org/event/bomo-stops-storytimes-5/
+X-TAGS;LANGUAGE=en-US:BoMo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11260@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids\,Tweens
 CONTACT:Lynley\; 970.686.5603\; lynley@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -511,7 +495,7 @@ URL:http://clearviewlibrary.org/event/minecraft-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11118@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Teens\,Tweens
 CONTACT:Brittany\; 970.686.5603\; brittany@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -576,31 +560,31 @@ DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
  ue='' class='medium' tabindex='5'   />\n                        </div></li
  ><li id='field_365_6' class='gfield gform_validation_container field_subla
  bel_below field_description_below' ><label class='gfield_label' for='input
- _365_6' >Name</label><div class='ginput_container'><input name='input_6' i
- d='input_365_6' type='text' value='' /></div><div class='gfield_descriptio
- n'>This field is for validation purposes and should be left unchanged.</di
- v></li>\n                            </ul></div>\n        <div class='gfor
- m_footer top_label'> <input type='submit' id='gform_submit_button_365' cla
- ss='gform_button button' value='Submit' tabindex='6' onclick='if(window['g
- f_submitting_365']){return false\;}  window['gf_submitting_365']=true\;  '
-  /> \n            <input type='hidden' class='gform_hidden' name='is_submi
- t_365' value='1' />\n            <input type='hidden' class='gform_hidden'
-  name='gform_submit' value='365' />\n            \n            <input type
- ='hidden' class='gform_hidden' name='gform_unique_id' value='' />\n       
-      <input type='hidden' class='gform_hidden' name='state_365' value='WyJ
- bXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n            <in
- put type='hidden' class='gform_hidden' name='gform_target_page_number_365'
-  id='gform_target_page_number_365' value='0' />\n            <input type='
- hidden' class='gform_hidden' name='gform_source_page_number_365' id='gform
- _source_page_number_365' value='1' />\n            <input type='hidden' na
- me='gform_field_values' value='' />\n            \n        </div>\n       
-                  </form>\n                        </div><script type='text
- /javascript'> jQuery(document).bind('gform_post_render'\, function(event\,
-  formId\, currentPage){if(formId == 365) {} } )\;jQuery(document).bind('gf
- orm_post_conditional_logic'\, function(event\, formId\, fields\, isInit){}
-  )\;</script><script type='text/javascript'> jQuery(document).ready(functi
- on(){jQuery(document).trigger('gform_post_render'\, [365\, 1]) } )\; </scr
- ipt>\n<p> </p>\n<p> </p>
+ _365_6' >Comments</label><div class='ginput_container'><input name='input_
+ 6' id='input_365_6' type='text' value='' /></div><div class='gfield_descri
+ ption'>This field is for validation purposes and should be left unchanged.
+ </div></li>\n                            </ul></div>\n        <div class='
+ gform_footer top_label'> <input type='submit' id='gform_submit_button_365'
+  class='gform_button button' value='Submit' tabindex='6' onclick='if(windo
+ w['gf_submitting_365']){return false\;}  window['gf_submitting_365']=true\
+ ;  ' /> \n            <input type='hidden' class='gform_hidden' name='is_s
+ ubmit_365' value='1' />\n            <input type='hidden' class='gform_hid
+ den' name='gform_submit' value='365' />\n            \n            <input 
+ type='hidden' class='gform_hidden' name='gform_unique_id' value='' />\n   
+          <input type='hidden' class='gform_hidden' name='state_365' value=
+ 'WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n           
+  <input type='hidden' class='gform_hidden' name='gform_target_page_number_
+ 365' id='gform_target_page_number_365' value='0' />\n            <input ty
+ pe='hidden' class='gform_hidden' name='gform_source_page_number_365' id='g
+ form_source_page_number_365' value='1' />\n            <input type='hidden
+ ' name='gform_field_values' value='' />\n            \n        </div>\n   
+                      </form>\n                        </div><script type='
+ text/javascript'> jQuery(document).bind('gform_post_render'\, function(eve
+ nt\, formId\, currentPage){if(formId == 365) {} } )\;jQuery(document).bind
+ ('gform_post_conditional_logic'\, function(event\, formId\, fields\, isIni
+ t){} )\;</script><script type='text/javascript'> jQuery(document).ready(fu
+ nction(){jQuery(document).trigger('gform_post_render'\, [365\, 1]) } )\; <
+ /script>\n<p> </p>\n<p> </p>
 DTSTART;TZID=America/Denver:20150924T160000
 DTEND;TZID=America/Denver:20150924T170000
 SEQUENCE:0
@@ -610,7 +594,7 @@ URL:http://clearviewlibrary.org/event/robotics-studio-google-cardboard-virt
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11323@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:All Ages
 CONTACT:Ally\; 970-686-5603\; Ally@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -646,7 +630,7 @@ URL:http://clearviewlibrary.org/event/board-game-night-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-5129@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Board Meeting
 CONTACT:
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -664,7 +648,7 @@ URL:http://clearviewlibrary.org/event/special-meeting-of-the-library-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11267@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -686,7 +670,7 @@ X-TAGS;LANGUAGE=en-US:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1028@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:BoMo
 CONTACT:BoMo Staff\; 970.518.1420\; bomo@myclearview.info
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/ai1ec_event/bomo-stops-
@@ -717,10 +701,11 @@ RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=SU
 SEQUENCE:0
 SUMMARY:BoMo Stops & Storytimes
 URL:http://clearviewlibrary.org/event/bomo-stops-storytimes-6/
+X-TAGS;LANGUAGE=en-US:BoMo
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11270@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -741,7 +726,7 @@ X-TAGS;LANGUAGE=en-US:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11272@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -763,12 +748,12 @@ X-TAGS;LANGUAGE=en-US:Storytime
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11024@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids
 CONTACT:Kat\; 686-5603 ext 316\; kat@clearviewlibrary.org
-DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
- 5/07/fridays-in-severance-300x250.jpg' alt='fridays-in-severance' width='3
- 00' height='250' class='alignleft size-medium wp-image-11036' />Join us in
+DESCRIPTION:<p><img class='alignleft size-medium wp-image-11036' src='http:
+ //clearviewlibrary.org/wp-content/uploads/2015/07/fridays-in-severance-300
+ x250.jpg' alt='fridays-in-severance' width='300' height='250' />Join us in
  side Town Hall  every Friday from 4:00pm-5:00pm for something fun and diff
  erent each week.  Programs include science experiments\, LEGO building\, r
  obotics and more!</p>\n<p>No registration is required.</p>
@@ -782,7 +767,7 @@ URL:http://clearviewlibrary.org/event/fun-fridays-in-severance/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11219@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:Ally\; 970-686-5603\; programs@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -808,7 +793,7 @@ X-TAGS;LANGUAGE=en-US:Adult Programming
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11296@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -826,7 +811,7 @@ URL:http://clearviewlibrary.org/event/paws-karen-reno-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11167@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Teens
 CONTACT:Brittany\; 970.686.5603\; brittany@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -843,8 +828,29 @@ SUMMARY:Nerdfighters – A Teen Hangout
 URL:http://clearviewlibrary.org/event/teen-hangout-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-3349@50.87.248.123/~clearvp0
+DTSTAMP:20150921T224739Z
+CATEGORIES;LANGUAGE=en-US:BoMo
+CONTACT:
+DESCRIPTION:<p><strong>Timberline Church</strong><br />\n360 Crossroads Blv
+ d – Windsor<br />\n9:45am – 11:30am</p>\n<p><strong>*NEW STOP*<br />\nMoun
+ tain Vista Meadows</strong><br />\n78th & 79th Ave – Greeley<br />\n12:00p
+ m-1:00pm</p>\n<p><strong>Peakview Estates</strong><br />\nSundance Dr & Sa
+ ratoga Way—Windsor<br />\n1:30pm-2:30pm (storytime at 2:00pm)</p>\n<p><str
+ ong> </strong></p>\n<p> </p>\n<p> </p>
+DTSTART;TZID=America/Denver:20150927T094500
+DTEND;TZID=America/Denver:20150927T143000
+EXDATE;TZID=America/Denver:20150523T094500
+EXDATE;TZID=America/Denver:20150906T094500
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:BoMo Stops & Storytimes
+URL:http://clearviewlibrary.org/event/bomo-stops-storytimes-7/
+X-TAGS;LANGUAGE=en-US:BoMo
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-11298@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -862,7 +868,7 @@ URL:http://clearviewlibrary.org/event/paws-catherine-dubya/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11220@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:Ally\; 970-686-5603\; programs@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -883,7 +889,7 @@ X-TAGS;LANGUAGE=en-US:Adult Programming
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11289@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-11229' src='http:
@@ -903,7 +909,7 @@ URL:http://clearviewlibrary.org/event/paws-jerry-gremlin-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11121@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Teens\,Tweens
 CONTACT:Brittany\; 970.686.5603\; brittany@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -971,32 +977,32 @@ DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
          <input name='input_4' id='input_352_4' type='text' value='' class=
  'medium' tabindex='5'   />\n                        </div></li><li id='fie
  ld_352_6' class='gfield gform_validation_container field_sublabel_below fi
- eld_description_below' ><label class='gfield_label' for='input_352_6' >Nam
- e</label><div class='ginput_container'><input name='input_6' id='input_352
- _6' type='text' value='' /></div><div class='gfield_description'>This fiel
- d is for validation purposes and should be left unchanged.</div></li>\n   
-                          </ul></div>\n        <div class='gform_footer top
- _label'> <input type='submit' id='gform_submit_button_352' class='gform_bu
- tton button' value='Submit' tabindex='6' onclick='if(window['gf_submitting
- _352']){return false\;}  window['gf_submitting_352']=true\;  ' /> \n      
-       <input type='hidden' class='gform_hidden' name='is_submit_352' value
- ='1' />\n            <input type='hidden' class='gform_hidden' name='gform
- _submit' value='352' />\n            \n            <input type='hidden' cl
- ass='gform_hidden' name='gform_unique_id' value='' />\n            <input 
- type='hidden' class='gform_hidden' name='state_352' value='WyJbXSIsImRmZDM
- 5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n            <input type='hi
- dden' class='gform_hidden' name='gform_target_page_number_352' id='gform_t
- arget_page_number_352' value='0' />\n            <input type='hidden' clas
- s='gform_hidden' name='gform_source_page_number_352' id='gform_source_page
- _number_352' value='1' />\n            <input type='hidden' name='gform_fi
- eld_values' value='' />\n            \n        </div>\n                   
-      </form>\n                        </div><script type='text/javascript'
- > jQuery(document).bind('gform_post_render'\, function(event\, formId\, cu
- rrentPage){if(formId == 352) {} } )\;jQuery(document).bind('gform_post_con
- ditional_logic'\, function(event\, formId\, fields\, isInit){} )\;</script
- ><script type='text/javascript'> jQuery(document).ready(function(){jQuery(
- document).trigger('gform_post_render'\, [352\, 1]) } )\; </script>\n<p> </
- p>
+ eld_description_below' ><label class='gfield_label' for='input_352_6' >Ema
+ il</label><div class='ginput_container'><input name='input_6' id='input_35
+ 2_6' type='text' value='' /></div><div class='gfield_description'>This fie
+ ld is for validation purposes and should be left unchanged.</div></li>\n  
+                           </ul></div>\n        <div class='gform_footer to
+ p_label'> <input type='submit' id='gform_submit_button_352' class='gform_b
+ utton button' value='Submit' tabindex='6' onclick='if(window['gf_submittin
+ g_352']){return false\;}  window['gf_submitting_352']=true\;  ' /> \n     
+        <input type='hidden' class='gform_hidden' name='is_submit_352' valu
+ e='1' />\n            <input type='hidden' class='gform_hidden' name='gfor
+ m_submit' value='352' />\n            \n            <input type='hidden' c
+ lass='gform_hidden' name='gform_unique_id' value='' />\n            <input
+  type='hidden' class='gform_hidden' name='state_352' value='WyJbXSIsImRmZD
+ M5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n            <input type='h
+ idden' class='gform_hidden' name='gform_target_page_number_352' id='gform_
+ target_page_number_352' value='0' />\n            <input type='hidden' cla
+ ss='gform_hidden' name='gform_source_page_number_352' id='gform_source_pag
+ e_number_352' value='1' />\n            <input type='hidden' name='gform_f
+ ield_values' value='' />\n            \n        </div>\n                  
+       </form>\n                        </div><script type='text/javascript
+ '> jQuery(document).bind('gform_post_render'\, function(event\, formId\, c
+ urrentPage){if(formId == 352) {} } )\;jQuery(document).bind('gform_post_co
+ nditional_logic'\, function(event\, formId\, fields\, isInit){} )\;</scrip
+ t><script type='text/javascript'> jQuery(document).ready(function(){jQuery
+ (document).trigger('gform_post_render'\, [352\, 1]) } )\; </script>\n<p> <
+ /p>
 DTSTART;TZID=America/Denver:20151001T160000
 DTEND;TZID=America/Denver:20151001T170000
 SEQUENCE:0
@@ -1005,7 +1011,7 @@ URL:http://clearviewlibrary.org/event/robotics-studio-bot-walker-session-1/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11507@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:Ally\; 970-686-5603\; programs@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -1028,7 +1034,7 @@ X-TAGS;LANGUAGE=en-US:Adult Programming
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11503@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -1049,8 +1055,40 @@ URL:http://clearviewlibrary.org/event/whimsical-wobblers-2/
 X-TAGS;LANGUAGE=en-US:Storytime
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-11656@clearviewlibrary.org
+DTSTAMP:20150921T224739Z
+CATEGORIES;LANGUAGE=en-US:Adults\,Kids\,Teens\,Tweens
+CONTACT:Michael Ross\; michael@clearviewlibrary.org
+DESCRIPTION:<p>Come join us for Open Play! We will have stations setup with
+  Legos\, K’nex\, Snap Circuits\, and Arts and Crafts supplies!</p>\n<p>For
+  kids 5+\, and kids at heart.</p>\n<p>When: First and third Fridays of the
+  month. 3:00-4:30pm</p>\n<p>Ages: 5+<a href='http://clearviewlibrary.org/w
+ p-content/uploads/2015/09/Crossfire-Chaos-Roller-Coaster.jpg'><img class='
+ aligncenter size-medium wp-image-11659' src='http://clearviewlibrary.org/w
+ p-content/uploads/2015/09/Crossfire-Chaos-Roller-Coaster-297x300.jpg' alt=
+ 'Crossfire-Chaos-Roller-Coaster' width='297' height='300' /></a></p>
+DTSTART;TZID=America/Denver:20151002T150000
+DTEND;TZID=America/Denver:20151002T163000
+GEO:+40.471952;-104.901241
+LOCATION:Large Meeting Room @ 720 3rd St\, Windsor\, CO 80550\, USA
+RDATE;TZID=America/Denver:20151002T150000
+RDATE;TZID=America/Denver:20151016T150000
+RDATE;TZID=America/Denver:20151106T150000
+RDATE;TZID=America/Denver:20151120T150000
+RDATE;TZID=America/Denver:20151204T150000
+RDATE;TZID=America/Denver:20151218T150000
+RDATE;TZID=America/Denver:20160115T150000
+RDATE;TZID=America/Denver:20160205T150000
+RDATE;TZID=America/Denver:20160219T150000
+RDATE;TZID=America/Denver:20160304T150000
+RDATE;TZID=America/Denver:20160318T150000
+SEQUENCE:0
+SUMMARY:Open Play
+URL:http://clearviewlibrary.org/event/open-play/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-11446@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Karen\; 970.686.5603\; karen@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -1070,7 +1108,7 @@ URL:http://clearviewlibrary.org/event/crafty-tales-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11530@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G. \; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-11232' src='http:
@@ -1089,7 +1127,7 @@ URL:http://clearviewlibrary.org/event/paws-patty-zanny-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-10888@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids
 CONTACT:Lynley\; 970.686.5603\; lynley@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -1123,7 +1161,7 @@ URL:http://clearviewlibrary.org/event/weird-science-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11531@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -1142,7 +1180,7 @@ URL:http://clearviewlibrary.org/event/paws-catherine-phoebe-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-3885@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:
 DESCRIPTION:<p>Meets regularly in the small meeting room on the first Monda
@@ -1160,7 +1198,7 @@ URL:http://clearviewlibrary.org/event/book-club-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11532@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -1179,7 +1217,7 @@ URL:http://clearviewlibrary.org/event/paws-lyn-tess-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11427@clearviewlibrary.org
-DTSTAMP:20150920T002149Z
+DTSTAMP:20150921T224739Z
 CATEGORIES:
 CONTACT:Heather\; 970.686.5603\; heather@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -1271,7 +1309,7 @@ URL:http://clearviewlibrary.org/event/between-the-lines-book-club/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11425@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids
 CONTACT:Karen\; 970.686.5603\; karen@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -1371,7 +1409,7 @@ URL:http://clearviewlibrary.org/event/reading-bugs-book-club-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11515@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:Ally\; 970-686-5603\; programs@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -1396,7 +1434,7 @@ X-TAGS;LANGUAGE=en-US:Adult Programming
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11534@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@myclearview.info
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -1416,7 +1454,7 @@ URL:http://clearviewlibrary.org/event/paws-tammy-chloe/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11041@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids\,Tweens
 CONTACT:Lynley\; 970.686.5603\; lynley@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -1447,7 +1485,7 @@ URL:http://clearviewlibrary.org/event/getting-crafty-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11310@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Andrea\; 970.686.5603\; andrea@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -1510,7 +1548,7 @@ DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
  ='input_368_5' class='textarea medium' tabindex='5'    rows='10' cols='50'
  ></textarea>\n				</div></li><li id='field_368_6' class='gfield gform_validati
  on_container field_sublabel_below field_description_below' ><label class='
- gfield_label' for='input_368_6' >Phone</label><div class='ginput_container
+ gfield_label' for='input_368_6' >Email</label><div class='ginput_container
  '><input name='input_6' id='input_368_6' type='text' value='' /></div><div
   class='gfield_description'>This field is for validation purposes and shou
  ld be left unchanged.</div></li>\n                            </ul></div>
@@ -1544,7 +1582,7 @@ URL:http://clearviewlibrary.org/event/story-explorers-a-visitor-for-bear/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11123@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Teens\,Tweens
 CONTACT:Brittany\; 970.686.5603\; brittany@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -1613,31 +1651,31 @@ DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
  353_4' type='text' value='' class='medium' tabindex='5'   />\n            
              </div></li><li id='field_353_6' class='gfield gform_validation
  _container field_sublabel_below field_description_below' ><label class='gf
- ield_label' for='input_353_6' >Email</label><div class='ginput_container'>
- <input name='input_6' id='input_353_6' type='text' value='' /></div><div c
- lass='gfield_description'>This field is for validation purposes and should
-  be left unchanged.</div></li>\n                            </ul></div>\n 
-        <div class='gform_footer top_label'> <input type='submit' id='gform
- _submit_button_353' class='gform_button button' value='Submit' tabindex='6
- ' onclick='if(window['gf_submitting_353']){return false\;}  window['gf_sub
- mitting_353']=true\;  ' /> \n            <input type='hidden' class='gform
- _hidden' name='is_submit_353' value='1' />\n            <input type='hidde
- n' class='gform_hidden' name='gform_submit' value='353' />\n            \n
-             <input type='hidden' class='gform_hidden' name='gform_unique_i
- d' value='' />\n            <input type='hidden' class='gform_hidden' name
- ='state_353' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl
- 0=' />\n            <input type='hidden' class='gform_hidden' name='gform_
- target_page_number_353' id='gform_target_page_number_353' value='0' />\n  
-           <input type='hidden' class='gform_hidden' name='gform_source_pag
- e_number_353' id='gform_source_page_number_353' value='1' />\n            
- <input type='hidden' name='gform_field_values' value='' />\n            \n
-         </div>\n                        </form>\n                        <
- /div><script type='text/javascript'> jQuery(document).bind('gform_post_ren
- der'\, function(event\, formId\, currentPage){if(formId == 353) {} } )\;jQ
- uery(document).bind('gform_post_conditional_logic'\, function(event\, form
- Id\, fields\, isInit){} )\;</script><script type='text/javascript'> jQuery
- (document).ready(function(){jQuery(document).trigger('gform_post_render'\,
-  [353\, 1]) } )\; </script>\n<p> </p>
+ ield_label' for='input_353_6' >Comments</label><div class='ginput_containe
+ r'><input name='input_6' id='input_353_6' type='text' value='' /></div><di
+ v class='gfield_description'>This field is for validation purposes and sho
+ uld be left unchanged.</div></li>\n                            </ul></div>
+ \n        <div class='gform_footer top_label'> <input type='submit' id='gf
+ orm_submit_button_353' class='gform_button button' value='Submit' tabindex
+ ='6' onclick='if(window['gf_submitting_353']){return false\;}  window['gf_
+ submitting_353']=true\;  ' /> \n            <input type='hidden' class='gf
+ orm_hidden' name='is_submit_353' value='1' />\n            <input type='hi
+ dden' class='gform_hidden' name='gform_submit' value='353' />\n           
+  \n            <input type='hidden' class='gform_hidden' name='gform_uniqu
+ e_id' value='' />\n            <input type='hidden' class='gform_hidden' n
+ ame='state_353' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5Yzg
+ xIl0=' />\n            <input type='hidden' class='gform_hidden' name='gfo
+ rm_target_page_number_353' id='gform_target_page_number_353' value='0' />
+ \n            <input type='hidden' class='gform_hidden' name='gform_source
+ _page_number_353' id='gform_source_page_number_353' value='1' />\n        
+     <input type='hidden' name='gform_field_values' value='' />\n          
+   \n        </div>\n                        </form>\n                     
+    </div><script type='text/javascript'> jQuery(document).bind('gform_post
+ _render'\, function(event\, formId\, currentPage){if(formId == 353) {} } )
+ \;jQuery(document).bind('gform_post_conditional_logic'\, function(event\, 
+ formId\, fields\, isInit){} )\;</script><script type='text/javascript'> jQ
+ uery(document).ready(function(){jQuery(document).trigger('gform_post_rende
+ r'\, [353\, 1]) } )\; </script>\n<p> </p>
 DTSTART;TZID=America/Denver:20151008T160000
 DTEND;TZID=America/Denver:20151008T170000
 SEQUENCE:0
@@ -1645,8 +1683,39 @@ SUMMARY:Robotics Studio: Bot Walker Session 2
 URL:http://clearviewlibrary.org/event/robotics-studio-bot-walker-session-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-11648@clearviewlibrary.org
+DTSTAMP:20150921T224739Z
+CATEGORIES;LANGUAGE=en-US:All Ages
+CONTACT:Ally\; 970-686-5603\; Ally@clearviewlibrary.org
+DESCRIPTION:<p>Come join us on the Children’s floor and learn to play some 
+ new games! A variety of games will be available. Ages 8+ are welcome and n
+ o registration is required.</p>\n<p>Come in and learn to play some new gam
+ es!  This weeks’ game of focus will be Munchkin.  You and your friends com
+ pete to kill monsters and grab magic items – and what magic items! Don the
+  Horny Helmet and the Boots of Butt Kicking. Wield the Staff of Napalm or 
+ maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Pott
+ ed Plant and the Drooling Slime\, and work your way up to the Plutonium Dr
+ agon. Everyone begins the game as a Level 1 Human with NO Class (heh-heh) 
+ and via cards\, they acquire Races (Elf\, Dwarf\, etc.)\, Classes (Thief\,
+  Wizard\, Cleric\, etc.)\, Items\, Armor\, Potions\, and more to combat hi
+ deous monsters like the Level 4 Undead Horse\, the Level 10 Net Troll\, an
+ d the Level 14 Unspeakably Awful\, Indescribable Horror (very nasty\, inde
+ ed). The object of the game is to reach Level 10. Levels are acquired via 
+ the slaying of monsters and the selling of acquired treasure (1\,000 Gold 
+ Pieces equals 1 Level). Very silly and a lot of fun! For 3-5 players ages 
+ 10+. Plays in 30-45 minutes.</p>\n<p> </p>
+DTSTART;TZID=America/Denver:20151008T170000
+DTEND;TZID=America/Denver:20151008T193000
+GEO:+40.471952;-104.901241
+LOCATION:Windsor-Severance Library @ 720 3rd Street\, Windsor\, CO 80550\, 
+ USA
+SEQUENCE:0
+SUMMARY:Board Game Night!
+URL:http://clearviewlibrary.org/event/board-game-night-4/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-11173@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids
 CONTACT:Amy\; 970.686.5603\; amy@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -1696,17 +1765,17 @@ DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
  ext' value='' class='medium' tabindex='4'   />\n                        </
  div></li><li id='field_376_4' class='gfield gform_validation_container fie
  ld_sublabel_below field_description_below' ><label class='gfield_label' fo
- r='input_376_4' >Email</label><div class='ginput_container'><input name='i
- nput_4' id='input_376_4' type='text' value='' /></div><div class='gfield_d
- escription'>This field is for validation purposes and should be left uncha
- nged.</div></li>\n                            </ul></div>\n        <div cl
- ass='gform_footer top_label'> <input type='submit' id='gform_submit_button
- _376' class='gform_button button' value='Submit' tabindex='5' onclick='if(
- window['gf_submitting_376']){return false\;}  window['gf_submitting_376']=
- true\;  ' /> \n            <input type='hidden' class='gform_hidden' name=
- 'is_submit_376' value='1' />\n            <input type='hidden' class='gfor
- m_hidden' name='gform_submit' value='376' />\n            \n            <i
- nput type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+ r='input_376_4' >Name</label><div class='ginput_container'><input name='in
+ put_4' id='input_376_4' type='text' value='' /></div><div class='gfield_de
+ scription'>This field is for validation purposes and should be left unchan
+ ged.</div></li>\n                            </ul></div>\n        <div cla
+ ss='gform_footer top_label'> <input type='submit' id='gform_submit_button_
+ 376' class='gform_button button' value='Submit' tabindex='5' onclick='if(w
+ indow['gf_submitting_376']){return false\;}  window['gf_submitting_376']=t
+ rue\;  ' /> \n            <input type='hidden' class='gform_hidden' name='
+ is_submit_376' value='1' />\n            <input type='hidden' class='gform
+ _hidden' name='gform_submit' value='376' />\n            \n            <in
+ put type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
  \n            <input type='hidden' class='gform_hidden' name='state_376' v
  alue='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n      
        <input type='hidden' class='gform_hidden' name='gform_target_page_nu
@@ -1729,7 +1798,7 @@ URL:http://clearviewlibrary.org/event/friday-night-lights/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11535@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-11230' src='http:
@@ -1747,7 +1816,7 @@ URL:http://clearviewlibrary.org/event/paws-karen-gryphon-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11454@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Teens
 CONTACT:Brittany\; 970.686.5603\; brittany@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -1766,7 +1835,7 @@ URL:http://clearviewlibrary.org/event/nerdfighters-a-teen-hangout/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11457@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Kids\,Tweens
 CONTACT:Amy\; 970.686.5603\; amy@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -1815,31 +1884,31 @@ DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
  _2' type='text' value='' class='medium' tabindex='4'   />\n               
           </div></li><li id='field_377_4' class='gfield gform_validation_co
  ntainer field_sublabel_below field_description_below' ><label class='gfiel
- d_label' for='input_377_4' >Comments</label><div class='ginput_container'>
- <input name='input_4' id='input_377_4' type='text' value='' /></div><div c
- lass='gfield_description'>This field is for validation purposes and should
-  be left unchanged.</div></li>\n                            </ul></div>\n 
-        <div class='gform_footer top_label'> <input type='submit' id='gform
- _submit_button_377' class='gform_button button' value='Submit' tabindex='5
- ' onclick='if(window['gf_submitting_377']){return false\;}  window['gf_sub
- mitting_377']=true\;  ' /> \n            <input type='hidden' class='gform
- _hidden' name='is_submit_377' value='1' />\n            <input type='hidde
- n' class='gform_hidden' name='gform_submit' value='377' />\n            \n
-             <input type='hidden' class='gform_hidden' name='gform_unique_i
- d' value='' />\n            <input type='hidden' class='gform_hidden' name
- ='state_377' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl
- 0=' />\n            <input type='hidden' class='gform_hidden' name='gform_
- target_page_number_377' id='gform_target_page_number_377' value='0' />\n  
-           <input type='hidden' class='gform_hidden' name='gform_source_pag
- e_number_377' id='gform_source_page_number_377' value='1' />\n            
- <input type='hidden' name='gform_field_values' value='' />\n            \n
-         </div>\n                        </form>\n                        <
- /div><script type='text/javascript'> jQuery(document).bind('gform_post_ren
- der'\, function(event\, formId\, currentPage){if(formId == 377) {} } )\;jQ
- uery(document).bind('gform_post_conditional_logic'\, function(event\, form
- Id\, fields\, isInit){} )\;</script><script type='text/javascript'> jQuery
- (document).ready(function(){jQuery(document).trigger('gform_post_render'\,
-  [377\, 1]) } )\; </script>\n<p> </p>
+ d_label' for='input_377_4' >Phone</label><div class='ginput_container'><in
+ put name='input_4' id='input_377_4' type='text' value='' /></div><div clas
+ s='gfield_description'>This field is for validation purposes and should be
+  left unchanged.</div></li>\n                            </ul></div>\n    
+     <div class='gform_footer top_label'> <input type='submit' id='gform_su
+ bmit_button_377' class='gform_button button' value='Submit' tabindex='5' o
+ nclick='if(window['gf_submitting_377']){return false\;}  window['gf_submit
+ ting_377']=true\;  ' /> \n            <input type='hidden' class='gform_hi
+ dden' name='is_submit_377' value='1' />\n            <input type='hidden' 
+ class='gform_hidden' name='gform_submit' value='377' />\n            \n   
+          <input type='hidden' class='gform_hidden' name='gform_unique_id' 
+ value='' />\n            <input type='hidden' class='gform_hidden' name='s
+ tate_377' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0='
+  />\n            <input type='hidden' class='gform_hidden' name='gform_tar
+ get_page_number_377' id='gform_target_page_number_377' value='0' />\n     
+        <input type='hidden' class='gform_hidden' name='gform_source_page_n
+ umber_377' id='gform_source_page_number_377' value='1' />\n            <in
+ put type='hidden' name='gform_field_values' value='' />\n            \n   
+      </div>\n                        </form>\n                        </di
+ v><script type='text/javascript'> jQuery(document).bind('gform_post_render
+ '\, function(event\, formId\, currentPage){if(formId == 377) {} } )\;jQuer
+ y(document).bind('gform_post_conditional_logic'\, function(event\, formId\
+ , fields\, isInit){} )\;</script><script type='text/javascript'> jQuery(do
+ cument).ready(function(){jQuery(document).trigger('gform_post_render'\, [3
+ 77\, 1]) } )\; </script>\n<p> </p>
 DTSTART;TZID=America/Denver:20151010T140000
 DTEND;TZID=America/Denver:20151010T160000
 SEQUENCE:0
@@ -1848,7 +1917,7 @@ URL:http://clearviewlibrary.org/event/american-girl-party/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11516@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:Ally\; 970-686-5603\; programs@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -2054,7 +2123,7 @@ X-TAGS;LANGUAGE=en-US:Adult Programming
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11085@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Andrea\; 970.686.5603\; andrea@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -2071,7 +2140,7 @@ URL:http://clearviewlibrary.org/event/slime/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11517@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:Ally\; 970-686-5603\; programs@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -2096,7 +2165,7 @@ X-TAGS;LANGUAGE=en-US:Adult Programming
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-6325@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Teens
 CONTACT:Nathan\; 970-686-5603\; nathan@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -2150,39 +2219,39 @@ DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
  4' type='text' value='' class='medium' tabindex='5'   />\n                
          </div></li><li id='field_86_5' class='gfield gform_validation_cont
  ainer field_sublabel_below field_description_below' ><label class='gfield_
- label' for='input_86_5' >Name</label><div class='ginput_container'><input 
- name='input_5' id='input_86_5' type='text' value='' /></div><div class='gf
- ield_description'>This field is for validation purposes and should be left
-  unchanged.</div></li>\n                            </ul></div>\n        <
- div class='gform_footer top_label'> <input type='submit' id='gform_submit_
- button_86' class='gform_button button' value='Submit' tabindex='6' onclick
- ='if(window['gf_submitting_86']){return false\;}  window['gf_submitting_86
- ']=true\;  ' /> \n            <input type='hidden' class='gform_hidden' na
- me='is_submit_86' value='1' />\n            <input type='hidden' class='gf
- orm_hidden' name='gform_submit' value='86' />\n            \n            <
- input type='hidden' class='gform_hidden' name='gform_unique_id' value='' /
- >\n            <input type='hidden' class='gform_hidden' name='state_86' v
- alue='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n      
-       <input type='hidden' class='gform_hidden' name='gform_target_page_nu
- mber_86' id='gform_target_page_number_86' value='0' />\n            <input
-  type='hidden' class='gform_hidden' name='gform_source_page_number_86' id=
- 'gform_source_page_number_86' value='1' />\n            <input type='hidde
- n' name='gform_field_values' value='' />\n            \n        </div>\n  
-                       </form>\n                        </div><script type=
- 'text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {'g
- f_currency_config':{'name':'U.S. Dollar'\,'symbol_left':'$'\,'symbol_right
- ':''\,'symbol_padding':''\,'thousand_separator':'\,'\,'decimal_separator':
- '.'\,'decimals':2}\,'base_url':'http:\\/\\/clearviewlibrary.org\\/wp-conte
- nt\\/plugins\\/gravityforms'\,'number_formats':[]\,'spinnerUrl':'http:\\/\
- \/clearviewlibrary.org\\/wp-content\\/plugins\\/gravityforms\\/images\\/sp
- inner.gif'}\;jQuery(document).bind('gform_post_render'\, function(event\, 
- formId\, currentPage){if(formId == 86) {if(!/(android)/i.test(navigator.us
- erAgent)){jQuery('#input_86_3').mask('(999) 999-9999').bind('keypress'\, f
- unction(e){if(e.which == 13){jQuery(this).blur()\;} } )\;}} } )\;jQuery(do
- cument).bind('gform_post_conditional_logic'\, function(event\, formId\, fi
- elds\, isInit){} )\;</script><script type='text/javascript'> jQuery(docume
- nt).ready(function(){jQuery(document).trigger('gform_post_render'\, [86\, 
- 1]) } )\; </script>
+ label' for='input_86_5' >Phone</label><div class='ginput_container'><input
+  name='input_5' id='input_86_5' type='text' value='' /></div><div class='g
+ field_description'>This field is for validation purposes and should be lef
+ t unchanged.</div></li>\n                            </ul></div>\n        
+ <div class='gform_footer top_label'> <input type='submit' id='gform_submit
+ _button_86' class='gform_button button' value='Submit' tabindex='6' onclic
+ k='if(window['gf_submitting_86']){return false\;}  window['gf_submitting_8
+ 6']=true\;  ' /> \n            <input type='hidden' class='gform_hidden' n
+ ame='is_submit_86' value='1' />\n            <input type='hidden' class='g
+ form_hidden' name='gform_submit' value='86' />\n            \n            
+ <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' 
+ />\n            <input type='hidden' class='gform_hidden' name='state_86' 
+ value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n     
+        <input type='hidden' class='gform_hidden' name='gform_target_page_n
+ umber_86' id='gform_target_page_number_86' value='0' />\n            <inpu
+ t type='hidden' class='gform_hidden' name='gform_source_page_number_86' id
+ ='gform_source_page_number_86' value='1' />\n            <input type='hidd
+ en' name='gform_field_values' value='' />\n            \n        </div>\n 
+                        </form>\n                        </div><script type
+ ='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {'
+ gf_currency_config':{'name':'U.S. Dollar'\,'symbol_left':'$'\,'symbol_righ
+ t':''\,'symbol_padding':''\,'thousand_separator':'\,'\,'decimal_separator'
+ :'.'\,'decimals':2}\,'base_url':'http:\\/\\/clearviewlibrary.org\\/wp-cont
+ ent\\/plugins\\/gravityforms'\,'number_formats':[]\,'spinnerUrl':'http:\\/
+ \\/clearviewlibrary.org\\/wp-content\\/plugins\\/gravityforms\\/images\\/s
+ pinner.gif'}\;jQuery(document).bind('gform_post_render'\, function(event\,
+  formId\, currentPage){if(formId == 86) {if(!/(android)/i.test(navigator.u
+ serAgent)){jQuery('#input_86_3').mask('(999) 999-9999').bind('keypress'\, 
+ function(e){if(e.which == 13){jQuery(this).blur()\;} } )\;}} } )\;jQuery(d
+ ocument).bind('gform_post_conditional_logic'\, function(event\, formId\, f
+ ields\, isInit){} )\;</script><script type='text/javascript'> jQuery(docum
+ ent).ready(function(){jQuery(document).trigger('gform_post_render'\, [86\,
+  1]) } )\; </script>
 DTSTART;TZID=America/Denver:20151014T173000
 DTEND;TZID=America/Denver:20151014T193000
 GEO:+40.471952;-104.901241
@@ -2195,7 +2264,7 @@ URL:http://clearviewlibrary.org/event/teen-video-game-night-4-2-2-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11312@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Andrea\; 970.686.5603\; andrea@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -2257,37 +2326,37 @@ DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
  put_369_5' class='textarea medium' tabindex='5'    rows='10' cols='50'></t
  extarea>\n				</div></li><li id='field_369_6' class='gfield gform_validation_c
  ontainer field_sublabel_below field_description_below' ><label class='gfie
- ld_label' for='input_369_6' >Name</label><div class='ginput_container'><in
- put name='input_6' id='input_369_6' type='text' value='' /></div><div clas
- s='gfield_description'>This field is for validation purposes and should be
-  left unchanged.</div></li>\n                            </ul></div>\n    
-     <div class='gform_footer top_label'> <input type='submit' id='gform_su
- bmit_button_369' class='gform_button button' value='Submit' tabindex='6' o
- nclick='if(window['gf_submitting_369']){return false\;}  window['gf_submit
- ting_369']=true\;  ' /> \n            <input type='hidden' class='gform_hi
- dden' name='is_submit_369' value='1' />\n            <input type='hidden' 
- class='gform_hidden' name='gform_submit' value='369' />\n            \n   
-          <input type='hidden' class='gform_hidden' name='gform_unique_id' 
- value='' />\n            <input type='hidden' class='gform_hidden' name='s
- tate_369' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0='
-  />\n            <input type='hidden' class='gform_hidden' name='gform_tar
- get_page_number_369' id='gform_target_page_number_369' value='0' />\n     
-        <input type='hidden' class='gform_hidden' name='gform_source_page_n
- umber_369' id='gform_source_page_number_369' value='1' />\n            <in
- put type='hidden' name='gform_field_values' value='' />\n            \n   
-      </div>\n                        </form>\n                        </di
- v><script type='text/javascript'> if(typeof gf_global == 'undefined') var 
- gf_global = {'gf_currency_config':{'name':'U.S. Dollar'\,'symbol_left':'$'
- \,'symbol_right':''\,'symbol_padding':''\,'thousand_separator':'\,'\,'deci
- mal_separator':'.'\,'decimals':2}\,'base_url':'http:\\/\\/clearviewlibrary
- .org\\/wp-content\\/plugins\\/gravityforms'\,'number_formats':[]\,'spinner
- Url':'http:\\/\\/clearviewlibrary.org\\/wp-content\\/plugins\\/gravityform
- s\\/images\\/spinner.gif'}\;jQuery(document).bind('gform_post_render'\, fu
- nction(event\, formId\, currentPage){if(formId == 369) {} } )\;jQuery(docu
- ment).bind('gform_post_conditional_logic'\, function(event\, formId\, fiel
- ds\, isInit){} )\;</script><script type='text/javascript'> jQuery(document
- ).ready(function(){jQuery(document).trigger('gform_post_render'\, [369\, 1
- ]) } )\; </script>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>
+ ld_label' for='input_369_6' >Phone</label><div class='ginput_container'><i
+ nput name='input_6' id='input_369_6' type='text' value='' /></div><div cla
+ ss='gfield_description'>This field is for validation purposes and should b
+ e left unchanged.</div></li>\n                            </ul></div>\n   
+      <div class='gform_footer top_label'> <input type='submit' id='gform_s
+ ubmit_button_369' class='gform_button button' value='Submit' tabindex='6' 
+ onclick='if(window['gf_submitting_369']){return false\;}  window['gf_submi
+ tting_369']=true\;  ' /> \n            <input type='hidden' class='gform_h
+ idden' name='is_submit_369' value='1' />\n            <input type='hidden'
+  class='gform_hidden' name='gform_submit' value='369' />\n            \n  
+           <input type='hidden' class='gform_hidden' name='gform_unique_id'
+  value='' />\n            <input type='hidden' class='gform_hidden' name='
+ state_369' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=
+ ' />\n            <input type='hidden' class='gform_hidden' name='gform_ta
+ rget_page_number_369' id='gform_target_page_number_369' value='0' />\n    
+         <input type='hidden' class='gform_hidden' name='gform_source_page_
+ number_369' id='gform_source_page_number_369' value='1' />\n            <i
+ nput type='hidden' name='gform_field_values' value='' />\n            \n  
+       </div>\n                        </form>\n                        </d
+ iv><script type='text/javascript'> if(typeof gf_global == 'undefined') var
+  gf_global = {'gf_currency_config':{'name':'U.S. Dollar'\,'symbol_left':'$
+ '\,'symbol_right':''\,'symbol_padding':''\,'thousand_separator':'\,'\,'dec
+ imal_separator':'.'\,'decimals':2}\,'base_url':'http:\\/\\/clearviewlibrar
+ y.org\\/wp-content\\/plugins\\/gravityforms'\,'number_formats':[]\,'spinne
+ rUrl':'http:\\/\\/clearviewlibrary.org\\/wp-content\\/plugins\\/gravityfor
+ ms\\/images\\/spinner.gif'}\;jQuery(document).bind('gform_post_render'\, f
+ unction(event\, formId\, currentPage){if(formId == 369) {} } )\;jQuery(doc
+ ument).bind('gform_post_conditional_logic'\, function(event\, formId\, fie
+ lds\, isInit){} )\;</script><script type='text/javascript'> jQuery(documen
+ t).ready(function(){jQuery(document).trigger('gform_post_render'\, [369\, 
+ 1]) } )\; </script>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>
 DTSTART;TZID=America/Denver:20151015T100000
 DTEND;TZID=America/Denver:20151015T103000
 SEQUENCE:0
@@ -2296,7 +2365,7 @@ URL:http://clearviewlibrary.org/event/story-explorers-leaf-man/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11370@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970-686-5603\; marsella@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -2316,7 +2385,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11125@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Teens\,Tweens
 CONTACT:Brittany\; 970.686.5603\; brittany@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -2385,37 +2454,37 @@ DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
  t_354_4' type='text' value='' class='medium' tabindex='5'   />\n          
                </div></li><li id='field_354_6' class='gfield gform_validati
  on_container field_sublabel_below field_description_below' ><label class='
- gfield_label' for='input_354_6' >Name</label><div class='ginput_container'
- ><input name='input_6' id='input_354_6' type='text' value='' /></div><div 
- class='gfield_description'>This field is for validation purposes and shoul
- d be left unchanged.</div></li>\n                            </ul></div>\n
-         <div class='gform_footer top_label'> <input type='submit' id='gfor
- m_submit_button_354' class='gform_button button' value='Submit' tabindex='
- 6' onclick='if(window['gf_submitting_354']){return false\;}  window['gf_su
- bmitting_354']=true\;  ' /> \n            <input type='hidden' class='gfor
- m_hidden' name='is_submit_354' value='1' />\n            <input type='hidd
- en' class='gform_hidden' name='gform_submit' value='354' />\n            
- \n            <input type='hidden' class='gform_hidden' name='gform_unique
- _id' value='' />\n            <input type='hidden' class='gform_hidden' na
- me='state_354' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5Yzgx
- Il0=' />\n            <input type='hidden' class='gform_hidden' name='gfor
- m_target_page_number_354' id='gform_target_page_number_354' value='0' />\n
-             <input type='hidden' class='gform_hidden' name='gform_source_p
- age_number_354' id='gform_source_page_number_354' value='1' />\n          
-   <input type='hidden' name='gform_field_values' value='' />\n            
- \n        </div>\n                        </form>\n                       
-  </div><script type='text/javascript'> if(typeof gf_global == 'undefined')
-  var gf_global = {'gf_currency_config':{'name':'U.S. Dollar'\,'symbol_left
- ':'$'\,'symbol_right':''\,'symbol_padding':''\,'thousand_separator':'\,'\,
- 'decimal_separator':'.'\,'decimals':2}\,'base_url':'http:\\/\\/clearviewli
- brary.org\\/wp-content\\/plugins\\/gravityforms'\,'number_formats':[]\,'sp
- innerUrl':'http:\\/\\/clearviewlibrary.org\\/wp-content\\/plugins\\/gravit
- yforms\\/images\\/spinner.gif'}\;jQuery(document).bind('gform_post_render'
- \, function(event\, formId\, currentPage){if(formId == 354) {} } )\;jQuery
- (document).bind('gform_post_conditional_logic'\, function(event\, formId\,
-  fields\, isInit){} )\;</script><script type='text/javascript'> jQuery(doc
- ument).ready(function(){jQuery(document).trigger('gform_post_render'\, [35
- 4\, 1]) } )\; </script>\n<p> </p>
+ gfield_label' for='input_354_6' >Comments</label><div class='ginput_contai
+ ner'><input name='input_6' id='input_354_6' type='text' value='' /></div><
+ div class='gfield_description'>This field is for validation purposes and s
+ hould be left unchanged.</div></li>\n                            </ul></di
+ v>\n        <div class='gform_footer top_label'> <input type='submit' id='
+ gform_submit_button_354' class='gform_button button' value='Submit' tabind
+ ex='6' onclick='if(window['gf_submitting_354']){return false\;}  window['g
+ f_submitting_354']=true\;  ' /> \n            <input type='hidden' class='
+ gform_hidden' name='is_submit_354' value='1' />\n            <input type='
+ hidden' class='gform_hidden' name='gform_submit' value='354' />\n         
+    \n            <input type='hidden' class='gform_hidden' name='gform_uni
+ que_id' value='' />\n            <input type='hidden' class='gform_hidden'
+  name='state_354' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5Y
+ zgxIl0=' />\n            <input type='hidden' class='gform_hidden' name='g
+ form_target_page_number_354' id='gform_target_page_number_354' value='0' /
+ >\n            <input type='hidden' class='gform_hidden' name='gform_sourc
+ e_page_number_354' id='gform_source_page_number_354' value='1' />\n       
+      <input type='hidden' name='gform_field_values' value='' />\n         
+    \n        </div>\n                        </form>\n                    
+     </div><script type='text/javascript'> if(typeof gf_global == 'undefine
+ d') var gf_global = {'gf_currency_config':{'name':'U.S. Dollar'\,'symbol_l
+ eft':'$'\,'symbol_right':''\,'symbol_padding':''\,'thousand_separator':'\,
+ '\,'decimal_separator':'.'\,'decimals':2}\,'base_url':'http:\\/\\/clearvie
+ wlibrary.org\\/wp-content\\/plugins\\/gravityforms'\,'number_formats':[]\,
+ 'spinnerUrl':'http:\\/\\/clearviewlibrary.org\\/wp-content\\/plugins\\/gra
+ vityforms\\/images\\/spinner.gif'}\;jQuery(document).bind('gform_post_rend
+ er'\, function(event\, formId\, currentPage){if(formId == 354) {} } )\;jQu
+ ery(document).bind('gform_post_conditional_logic'\, function(event\, formI
+ d\, fields\, isInit){} )\;</script><script type='text/javascript'> jQuery(
+ document).ready(function(){jQuery(document).trigger('gform_post_render'\, 
+ [354\, 1]) } )\; </script>\n<p> </p>
 DTSTART;TZID=America/Denver:20151015T160000
 DTEND;TZID=America/Denver:20151015T170000
 SEQUENCE:0
@@ -2424,7 +2493,7 @@ URL:http://clearviewlibrary.org/event/robotics-studio-bot-walker-session-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11455@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Teens
 CONTACT:Brittany\; 970.686.5603\; brittany@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -2444,7 +2513,7 @@ URL:http://clearviewlibrary.org/event/teen-poetry-slam/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11468@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:All Ages
 CONTACT:Andrea\; 970.686.5603\; Andrea@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
@@ -2464,26 +2533,8 @@ SUMMARY:Campfire Tales
 URL:http://clearviewlibrary.org/event/campfire-tales-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-11583@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
-CATEGORIES;LANGUAGE=en-US:Kids\,Tweens
-CONTACT:Lynley\; 970.686.5603\; lynley@clearviewlibrary.org
-DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2014
- /02/Board-Game-Friday.png'><img class=' size-medium wp-image-7619 alignlef
- t' src='http://clearviewlibrary.org/wp-content/uploads/2014/02/Board-Game-
- Friday-300x225.png' alt='Board Game Friday' width='300' height='225' /></a
- >Trouble? Headbandz? Blokus? Grab a game and challenge your friends! Child
- ren and tweens are invited to hang out and play a variety of board games a
- t this event on Monday\, October 19th. No registration is required.</p>
-DTSTART;TZID=America/Denver:20151019T150000
-DTEND;TZID=America/Denver:20151019T163000
-SEQUENCE:0
-SUMMARY:Board Games
-URL:http://clearviewlibrary.org/event/board-games/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-11354@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -2500,7 +2551,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11518@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:Ally\; 970-686-5603\; programs@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -2606,7 +2657,7 @@ X-TAGS;LANGUAGE=en-US:Adult Programming
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11314@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Andrea\; 970.686.5603\; andrea@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -2669,37 +2720,37 @@ DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
  5' class='textarea medium' tabindex='5'    rows='10' cols='50'></textarea>
  \n				</div></li><li id='field_370_6' class='gfield gform_validation_container
   field_sublabel_below field_description_below' ><label class='gfield_label
- ' for='input_370_6' >Name</label><div class='ginput_container'><input name
- ='input_6' id='input_370_6' type='text' value='' /></div><div class='gfiel
- d_description'>This field is for validation purposes and should be left un
- changed.</div></li>\n                            </ul></div>\n        <div
-  class='gform_footer top_label'> <input type='submit' id='gform_submit_but
- ton_370' class='gform_button button' value='Submit' tabindex='6' onclick='
- if(window['gf_submitting_370']){return false\;}  window['gf_submitting_370
- ']=true\;  ' /> \n            <input type='hidden' class='gform_hidden' na
- me='is_submit_370' value='1' />\n            <input type='hidden' class='g
- form_hidden' name='gform_submit' value='370' />\n            \n           
-  <input type='hidden' class='gform_hidden' name='gform_unique_id' value=''
-  />\n            <input type='hidden' class='gform_hidden' name='state_370
- ' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n   
-          <input type='hidden' class='gform_hidden' name='gform_target_page
- _number_370' id='gform_target_page_number_370' value='0' />\n            <
- input type='hidden' class='gform_hidden' name='gform_source_page_number_37
- 0' id='gform_source_page_number_370' value='1' />\n            <input type
- ='hidden' name='gform_field_values' value='' />\n            \n        </d
- iv>\n                        </form>\n                        </div><scrip
- t type='text/javascript'> if(typeof gf_global == 'undefined') var gf_globa
- l = {'gf_currency_config':{'name':'U.S. Dollar'\,'symbol_left':'$'\,'symbo
- l_right':''\,'symbol_padding':''\,'thousand_separator':'\,'\,'decimal_sepa
- rator':'.'\,'decimals':2}\,'base_url':'http:\\/\\/clearviewlibrary.org\\/w
- p-content\\/plugins\\/gravityforms'\,'number_formats':[]\,'spinnerUrl':'ht
- tp:\\/\\/clearviewlibrary.org\\/wp-content\\/plugins\\/gravityforms\\/imag
- es\\/spinner.gif'}\;jQuery(document).bind('gform_post_render'\, function(e
- vent\, formId\, currentPage){if(formId == 370) {} } )\;jQuery(document).bi
- nd('gform_post_conditional_logic'\, function(event\, formId\, fields\, isI
- nit){} )\;</script><script type='text/javascript'> jQuery(document).ready(
- function(){jQuery(document).trigger('gform_post_render'\, [370\, 1]) } )\;
-  </script>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>
+ ' for='input_370_6' >Phone</label><div class='ginput_container'><input nam
+ e='input_6' id='input_370_6' type='text' value='' /></div><div class='gfie
+ ld_description'>This field is for validation purposes and should be left u
+ nchanged.</div></li>\n                            </ul></div>\n        <di
+ v class='gform_footer top_label'> <input type='submit' id='gform_submit_bu
+ tton_370' class='gform_button button' value='Submit' tabindex='6' onclick=
+ 'if(window['gf_submitting_370']){return false\;}  window['gf_submitting_37
+ 0']=true\;  ' /> \n            <input type='hidden' class='gform_hidden' n
+ ame='is_submit_370' value='1' />\n            <input type='hidden' class='
+ gform_hidden' name='gform_submit' value='370' />\n            \n          
+   <input type='hidden' class='gform_hidden' name='gform_unique_id' value='
+ ' />\n            <input type='hidden' class='gform_hidden' name='state_37
+ 0' value='WyJbXSIsImRmZDM5NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n  
+           <input type='hidden' class='gform_hidden' name='gform_target_pag
+ e_number_370' id='gform_target_page_number_370' value='0' />\n            
+ <input type='hidden' class='gform_hidden' name='gform_source_page_number_3
+ 70' id='gform_source_page_number_370' value='1' />\n            <input typ
+ e='hidden' name='gform_field_values' value='' />\n            \n        </
+ div>\n                        </form>\n                        </div><scri
+ pt type='text/javascript'> if(typeof gf_global == 'undefined') var gf_glob
+ al = {'gf_currency_config':{'name':'U.S. Dollar'\,'symbol_left':'$'\,'symb
+ ol_right':''\,'symbol_padding':''\,'thousand_separator':'\,'\,'decimal_sep
+ arator':'.'\,'decimals':2}\,'base_url':'http:\\/\\/clearviewlibrary.org\\/
+ wp-content\\/plugins\\/gravityforms'\,'number_formats':[]\,'spinnerUrl':'h
+ ttp:\\/\\/clearviewlibrary.org\\/wp-content\\/plugins\\/gravityforms\\/ima
+ ges\\/spinner.gif'}\;jQuery(document).bind('gform_post_render'\, function(
+ event\, formId\, currentPage){if(formId == 370) {} } )\;jQuery(document).b
+ ind('gform_post_conditional_logic'\, function(event\, formId\, fields\, is
+ Init){} )\;</script><script type='text/javascript'> jQuery(document).ready
+ (function(){jQuery(document).trigger('gform_post_render'\, [370\, 1]) } )\
+ ; </script>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>
 DTSTART;TZID=America/Denver:20151022T100000
 DTEND;TZID=America/Denver:20151022T103000
 SEQUENCE:0
@@ -2708,7 +2759,7 @@ URL:http://clearviewlibrary.org/event/story-explorers-wheres-my-teddy/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11464@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Teens\,Tweens
 CONTACT:Brittany\; 970.686.5603\; brittany@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -2809,8 +2860,38 @@ SUMMARY:Robotics Studio: Arduino Dice
 URL:http://clearviewlibrary.org/event/robotics-studio-arduino-dice/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-11650@clearviewlibrary.org
+DTSTAMP:20150921T224739Z
+CATEGORIES;LANGUAGE=en-US:All Ages
+CONTACT:Ally\; 970-686-5603\; Ally@clearviewlibrary.org
+DESCRIPTION:<p>Come join us on the Children’s floor and learn to play some 
+ new games! A variety of games will be available. Ages 8+ are welcome and n
+ o registration is required.</p>\n<p>This weeks’ game of focus will be Tick
+ et to Ride.  October 2\, 1900 – it’s 28 years to the day that noted London
+  eccentric\, Phileas Fogg accepted and then won a bet that he could travel
+  “Around the World in 80 Days.” Now\, at the dawn of the century\, some ol
+ d friends have gathered to celebrate Fogg’s impetuous and lucrative gamble
+  – and to propose a new wager of their own. The stakes: $1 million in a wi
+ nner-takes-all competition. The objective: to see the most cities in North
+  America – in just 7 days. Ticket to Ride is a cross-country train adventu
+ re game. Players collect train cards that enable them to claim railway rou
+ tes connecting cities throughout North America. The longer the routes\, th
+ e more points they earn. Additional points come to those who can fulfill t
+ heir Destination Tickets by connecting two distant cities\, and to the pla
+ yer who builds the longest continuous railway. For 2 to 5 players ages 8 a
+ nd older. Playing time: 30-60 minutes.</p>\n<p> </p>
+DTSTART;TZID=America/Denver:20151022T170000
+DTEND;TZID=America/Denver:20151022T193000
+GEO:+40.471952;-104.901241
+LOCATION:Windsor-Severance Library @ 720 3rd Street\, Windsor\, CO 80550\, 
+ USA
+SEQUENCE:0
+SUMMARY:Board Game Night!
+URL:http://clearviewlibrary.org/event/board-game-night-5/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-11456@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Tweens
 CONTACT:Amy\; 970.686.5603\; amy@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -2900,7 +2981,7 @@ URL:http://clearviewlibrary.org/event/paint-your-own-mason-jar/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11537@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -2918,7 +2999,7 @@ URL:http://clearviewlibrary.org/event/paws-karen-reno-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11538@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -2936,7 +3017,7 @@ URL:http://clearviewlibrary.org/event/paws-catherine-dubya-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11519@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults
 CONTACT:Ally\; 970-686-5603\; programs@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -3042,7 +3123,7 @@ X-TAGS;LANGUAGE=en-US:Adult Programming
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11539@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:PAWS
 CONTACT:Monica G.\; 970.686.5603\; monicag@clearviewlibrary.org
 DESCRIPTION:<p><img class='alignleft size-medium wp-image-11229' src='http:
@@ -3060,7 +3141,7 @@ URL:http://clearviewlibrary.org/event/paws-jerry-gremlin-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11316@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Little Ones (0-5)
 CONTACT:Andrea\; 970.686.5603\; andrea@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -3162,7 +3243,7 @@ URL:http://clearviewlibrary.org/event/story-explorers-hush-a-thai-lullaby/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11452@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Teens\,Tweens
 CONTACT:Brittany\; 970.686.5603\; brittany@clearviewlibrary.org
 DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
@@ -3226,38 +3307,38 @@ DESCRIPTION:<p><a href='http://clearviewlibrary.org/wp-content/uploads/2015
        <input name='input_4' id='input_374_4' type='text' value='' class='m
  edium' tabindex='5'   />\n                        </div></li><li id='field
  _374_6' class='gfield gform_validation_container field_sublabel_below fiel
- d_description_below' ><label class='gfield_label' for='input_374_6' >Email
- </label><div class='ginput_container'><input name='input_6' id='input_374_
- 6' type='text' value='' /></div><div class='gfield_description'>This field
-  is for validation purposes and should be left unchanged.</div></li>\n    
-                         </ul></div>\n        <div class='gform_footer top_
- label'> <input type='submit' id='gform_submit_button_374' class='gform_but
- ton button' value='Submit' tabindex='6' onclick='if(window['gf_submitting_
- 374']){return false\;}  window['gf_submitting_374']=true\;  ' /> \n       
-      <input type='hidden' class='gform_hidden' name='is_submit_374' value=
- '1' />\n            <input type='hidden' class='gform_hidden' name='gform_
- submit' value='374' />\n            \n            <input type='hidden' cla
- ss='gform_hidden' name='gform_unique_id' value='' />\n            <input t
- ype='hidden' class='gform_hidden' name='state_374' value='WyJbXSIsImRmZDM5
- NTFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n            <input type='hid
- den' class='gform_hidden' name='gform_target_page_number_374' id='gform_ta
- rget_page_number_374' value='0' />\n            <input type='hidden' class
- ='gform_hidden' name='gform_source_page_number_374' id='gform_source_page_
- number_374' value='1' />\n            <input type='hidden' name='gform_fie
- ld_values' value='' />\n            \n        </div>\n                    
-     </form>\n                        </div><script type='text/javascript'>
-  if(typeof gf_global == 'undefined') var gf_global = {'gf_currency_config'
- :{'name':'U.S. Dollar'\,'symbol_left':'$'\,'symbol_right':''\,'symbol_padd
- ing':''\,'thousand_separator':'\,'\,'decimal_separator':'.'\,'decimals':2}
- \,'base_url':'http:\\/\\/clearviewlibrary.org\\/wp-content\\/plugins\\/gra
- vityforms'\,'number_formats':[]\,'spinnerUrl':'http:\\/\\/clearviewlibrary
- .org\\/wp-content\\/plugins\\/gravityforms\\/images\\/spinner.gif'}\;jQuer
- y(document).bind('gform_post_render'\, function(event\, formId\, currentPa
- ge){if(formId == 374) {} } )\;jQuery(document).bind('gform_post_conditiona
- l_logic'\, function(event\, formId\, fields\, isInit){} )\;</script><scrip
- t type='text/javascript'> jQuery(document).ready(function(){jQuery(documen
- t).trigger('gform_post_render'\, [374\, 1]) } )\; </script>\n<p> </p>\n<p>
-  </p>\n<p> </p>
+ d_description_below' ><label class='gfield_label' for='input_374_6' >Name<
+ /label><div class='ginput_container'><input name='input_6' id='input_374_6
+ ' type='text' value='' /></div><div class='gfield_description'>This field 
+ is for validation purposes and should be left unchanged.</div></li>\n     
+                        </ul></div>\n        <div class='gform_footer top_l
+ abel'> <input type='submit' id='gform_submit_button_374' class='gform_butt
+ on button' value='Submit' tabindex='6' onclick='if(window['gf_submitting_3
+ 74']){return false\;}  window['gf_submitting_374']=true\;  ' /> \n        
+     <input type='hidden' class='gform_hidden' name='is_submit_374' value='
+ 1' />\n            <input type='hidden' class='gform_hidden' name='gform_s
+ ubmit' value='374' />\n            \n            <input type='hidden' clas
+ s='gform_hidden' name='gform_unique_id' value='' />\n            <input ty
+ pe='hidden' class='gform_hidden' name='state_374' value='WyJbXSIsImRmZDM5N
+ TFhYmI5MjcwZTRjM2FlZmVhZGFhNWQ5YzgxIl0=' />\n            <input type='hidd
+ en' class='gform_hidden' name='gform_target_page_number_374' id='gform_tar
+ get_page_number_374' value='0' />\n            <input type='hidden' class=
+ 'gform_hidden' name='gform_source_page_number_374' id='gform_source_page_n
+ umber_374' value='1' />\n            <input type='hidden' name='gform_fiel
+ d_values' value='' />\n            \n        </div>\n                     
+    </form>\n                        </div><script type='text/javascript'> 
+ if(typeof gf_global == 'undefined') var gf_global = {'gf_currency_config':
+ {'name':'U.S. Dollar'\,'symbol_left':'$'\,'symbol_right':''\,'symbol_paddi
+ ng':''\,'thousand_separator':'\,'\,'decimal_separator':'.'\,'decimals':2}\
+ ,'base_url':'http:\\/\\/clearviewlibrary.org\\/wp-content\\/plugins\\/grav
+ ityforms'\,'number_formats':[]\,'spinnerUrl':'http:\\/\\/clearviewlibrary.
+ org\\/wp-content\\/plugins\\/gravityforms\\/images\\/spinner.gif'}\;jQuery
+ (document).bind('gform_post_render'\, function(event\, formId\, currentPag
+ e){if(formId == 374) {} } )\;jQuery(document).bind('gform_post_conditional
+ _logic'\, function(event\, formId\, fields\, isInit){} )\;</script><script
+  type='text/javascript'> jQuery(document).ready(function(){jQuery(document
+ ).trigger('gform_post_render'\, [374\, 1]) } )\; </script>\n<p> </p>\n<p> 
+ </p>\n<p> </p>
 DTSTART;TZID=America/Denver:20151029T160000
 DTEND;TZID=America/Denver:20151029T170000
 SEQUENCE:0
@@ -3267,7 +3348,7 @@ URL:http://clearviewlibrary.org/event/robotics-studio-frankentoy-dissection
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11364@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3285,7 +3366,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11366@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3302,7 +3383,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11373@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3319,7 +3400,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11383@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970-686-5603\; marsella@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3339,7 +3420,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11375@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3356,7 +3437,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11377@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970-686-5603\; marsella@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3376,7 +3457,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11405@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970-686-5603\; marsella@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3396,7 +3477,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11394@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3413,7 +3494,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11384@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3430,7 +3511,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11379@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970-686-5603\; marsella@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3450,7 +3531,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11396@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3467,7 +3548,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11386@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970-686-5603\; marsella@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3487,7 +3568,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11387@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3504,7 +3585,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11389@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201
@@ -3521,7 +3602,7 @@ X-TAGS;LANGUAGE=en-US:book club
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11398@clearviewlibrary.org
-DTSTAMP:20150920T002150Z
+DTSTAMP:20150921T224739Z
 CATEGORIES;LANGUAGE=en-US:Adults\,Book Club
 CONTACT:Marsella\; 970.686.5603\; marsellla@clearviewlibrary.org
 DESCRIPTION:<p><img src='http://clearviewlibrary.org/wp-content/uploads/201

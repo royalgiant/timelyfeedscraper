@@ -23,21 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20.09.2015-20:00-KM-DsgBlueDanube-DsgSpiceBalls
-DTSTAMP:20150920T002351Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>DSG Oberliga (2. Runde)</p>
-DTSTART;TZID=Europe/Vienna:20150920T200000
-DTEND;TZID=Europe/Vienna:20150920T214000
-LOCATION:Leopoldau (Eipeldauerstr. 6\, 1210 Wien)
-SEQUENCE:0
-SUMMARY:Dsg Blue Danube : Dsg Spice Balls
-URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-spice-balls/
-END:VEVENT
-BEGIN:VEVENT
 UID:28.09.2015-20:20-KM-DsgNeusimmering-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (3. Runde)</p>
@@ -50,7 +37,7 @@ URL:http://www.bluedanubefc.com/event/dsg-neusimmering-dsg-blue-danube/
 END:VEVENT
 BEGIN:VEVENT
 UID:03.10.2015-18:00-KM-DsgBlueDanube-DSGGießhübl
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (4. Runde)</p>
@@ -63,7 +50,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-gieshubl/
 END:VEVENT
 BEGIN:VEVENT
 UID:11.10.2015-18:00-KM-DsgH-Town-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (5. Runde)</p>
@@ -76,7 +63,7 @@ URL:http://www.bluedanubefc.com/event/dsg-h-town-dsg-blue-danube/
 END:VEVENT
 BEGIN:VEVENT
 UID:17.10.2015-18:00-KM-DsgBlueDanube-DSGLokomotiveDöbling
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (6. Runde)</p>
@@ -90,7 +77,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-lokomotive-doblin
 END:VEVENT
 BEGIN:VEVENT
 UID:26.10.2015-16:00-KM-DSGLottatori-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (7. Runde)</p>
@@ -104,7 +91,7 @@ URL:http://www.bluedanubefc.com/event/dsg-lottatori-dsg-blue-danube/
 END:VEVENT
 BEGIN:VEVENT
 UID:30.10.2015-20:00-KM-DSGTorpedo03-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (8. Runde)</p>
@@ -117,7 +104,7 @@ URL:http://www.bluedanubefc.com/event/dsg-torpedo-03-dsg-blue-danube/
 END:VEVENT
 BEGIN:VEVENT
 UID:07.11.2015-16:00-KM-DsgBlueDanube-DSGViennaInternationals
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (9. Runde)</p>
@@ -131,7 +118,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-vienna-internatio
 END:VEVENT
 BEGIN:VEVENT
 UID:15.11.2015-15:00-KM-DSGSektionWestside-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (10. Runde)</p>
@@ -144,7 +131,7 @@ URL:http://www.bluedanubefc.com/event/dsg-sektion-westside-dsg-blue-danube/
 END:VEVENT
 BEGIN:VEVENT
 UID:21.11.2015-16:00-KM-DsgBlueDanube-DsgMannerTitans
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (11. Runde)</p>
@@ -157,7 +144,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-manner-titans/
 END:VEVENT
 BEGIN:VEVENT
 UID:10.03.2016-22:22-KM-DsgBlueDanube-DSGUnionJosefstadt
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (12. Runde)</p>
@@ -170,7 +157,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-union-josefstadt/
 END:VEVENT
 BEGIN:VEVENT
 UID:17.03.2016-22:22-KM-DsgSpiceBalls-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (13. Runde)</p>
@@ -183,7 +170,7 @@ URL:http://www.bluedanubefc.com/event/dsg-spice-balls-dsg-blue-danube/
 END:VEVENT
 BEGIN:VEVENT
 UID:07.04.2016-22:22-KM-DsgBlueDanube-DsgNeusimmering
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (14. Runde)</p>
@@ -196,7 +183,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-neusimmering/
 END:VEVENT
 BEGIN:VEVENT
 UID:14.04.2016-22:22-KM-DSGGießhübl-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (15. Runde)</p>
@@ -209,7 +196,7 @@ URL:http://www.bluedanubefc.com/event/dsg-gieshubl-dsg-blue-danube/
 END:VEVENT
 BEGIN:VEVENT
 UID:21.04.2016-22:22-KM-DsgBlueDanube-DsgH-Town
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (16. Runde)</p>
@@ -222,7 +209,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-h-town/
 END:VEVENT
 BEGIN:VEVENT
 UID:28.04.2016-22:22-KM-DSGLokomotiveDöbling-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (17. Runde)</p>
@@ -236,7 +223,7 @@ URL:http://www.bluedanubefc.com/event/dsg-lokomotive-dobling-dsg-blue-danub
 END:VEVENT
 BEGIN:VEVENT
 UID:05.05.2016-22:22-KM-DsgBlueDanube-DSGLottatori
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (18. Runde)</p>
@@ -249,7 +236,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-lottatori/
 END:VEVENT
 BEGIN:VEVENT
 UID:12.05.2016-22:22-KM-DsgBlueDanube-DSGTorpedo03
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (19. Runde)</p>
@@ -262,7 +249,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-torpedo-03/
 END:VEVENT
 BEGIN:VEVENT
 UID:26.05.2016-22:22-KM-DSGViennaInternationals-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (20. Runde)</p>
@@ -276,7 +263,7 @@ URL:http://www.bluedanubefc.com/event/dsg-vienna-internationals-dsg-blue-da
 END:VEVENT
 BEGIN:VEVENT
 UID:02.06.2016-22:22-KM-DsgBlueDanube-DSGSektionWestside
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (21. Runde)</p>
@@ -289,7 +276,7 @@ URL:http://www.bluedanubefc.com/event/dsg-blue-danube-dsg-sektion-westside/
 END:VEVENT
 BEGIN:VEVENT
 UID:09.06.2016-22:22-KM-DsgMannerTitans-DsgBlueDanube
-DTSTAMP:20150920T002351Z
+DTSTAMP:20150921T224758Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>DSG Oberliga (22. Runde)</p>

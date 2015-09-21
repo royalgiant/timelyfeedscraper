@@ -4,7 +4,10 @@
 </head><body>
 <h1>Bad Request</h1>
 <p>Your browser sent a request that this server could not understand.<br />
-</p>
+Size of a request header field exceeds server limit.<br />
+<pre>
+cookie
+</pre>/n</p>
 <hr>
 <address>Apache Server at host356.hostmonster.com Port 80</address>
 </body></html>

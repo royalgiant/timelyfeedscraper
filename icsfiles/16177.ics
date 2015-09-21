@@ -23,52 +23,8 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-107@www.penninecrc.org
-DTSTAMP:20150920T001609Z
-CATEGORIES;LANGUAGE=en-US:Coaching\,Recreation
-CONTACT:Andrew Carden\; 07866692410\; info@penninecanoeclub.org.uk
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.penninecrc.org/wp-content/uploads/2012/09/Lewis-300x200.png' width=
- '300' height='200' /></div><p>The Saturday Sessions are growing in popular
- ity</p>\n<p>Please view the poster for sessions details <a href='http://ww
- w.penninecanoeclub.org.uk/wp-content/uploads/2012/10/Kayak.pdf'>Kayak</a><
- /p>\n<p>The Sessions is run in partnership with Kirklees Atcive Leisure an
- d aimed at young people but not to the exclusion of adults.</p>\n<p>Partic
- ipants should register for a KAL card.</p>\n<p>This session takes paddlers
-  to the level of paddler power passport or 1 star.</p>\n<p>If you are intr
- ested in the session please contact the Andrew on 07980811628 or info@penn
- inecanoe club.org.uk</p>\n<p>You will be asked to complete the attached re
- gistraion form <a href='http://www.penninecanoeclub.org.uk/wp-content/uplo
- ads/2012/10/Session-Form-2012-132.docx'>Session Form 2012-13</a></p>
-DTSTART;TZID=Europe/London:20150919T150000
-DTEND;TZID=Europe/London:20150919T160000
-EXDATE;TZID=Europe/London:20150613T150000
-EXDATE;TZID=Europe/London:20150620T150000
-EXDATE;TZID=Europe/London:20150627T150000
-EXDATE;TZID=Europe/London:20150704T150000
-EXDATE;TZID=Europe/London:20150711T150000
-EXDATE;TZID=Europe/London:20150718T150000
-EXDATE;TZID=Europe/London:20150725T150000
-EXDATE;TZID=Europe/London:20150801T150000
-EXDATE;TZID=Europe/London:20150808T150000
-EXDATE;TZID=Europe/London:20150815T150000
-EXDATE;TZID=Europe/London:20150822T150000
-EXDATE;TZID=Europe/London:20150829T150000
-EXDATE;TZID=Europe/London:20150905T150000
-EXDATE;TZID=Europe/London:20150912T150000
-GEO:+53.689384;-1.627798
-LOCATION:Dewsbury Sports Centre @ Longcauseway\, Dewsbury\, West Yorkshire 
- WF12 8EN\, UK
-RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
-SEQUENCE:0
-SUMMARY:Coaching Sessions Paddlepower Passport
-URL:http://www.penninecrc.org/?ai1ec_event=kids-session-paddlepower-passpor
- t-beginners
-X-COST:£5.80 (£4.85 with a KAL card)
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-103@www.penninecanoeclub.org.uk
-DTSTAMP:20150920T001609Z
+DTSTAMP:20150921T224130Z
 CATEGORIES;LANGUAGE=en-US:Canoe Polo
 CONTACT:Andrew Carden or David Edwards\; 07866692410\; Canoepolo@penninecan
  oeclub.org.uk
@@ -105,7 +61,7 @@ X-COST:£4:50
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-106@www.penninecrc.org
-DTSTAMP:20150920T001609Z
+DTSTAMP:20150921T224130Z
 CATEGORIES;LANGUAGE=en-US:Recreation
 CONTACT:Aaron Emms\; 07725 742 495\; aaronemms@me.com
 DESCRIPTION:<p>This Club night allows members to develop their skills in an
@@ -175,7 +131,7 @@ X-COST:Members £3.50 Adults\, £3:00 Under 18's\, None Members Adults £ Unde
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-104@www.penninecanoeclub.org.uk
-DTSTAMP:20150920T001609Z
+DTSTAMP:20150921T224130Z
 CATEGORIES;LANGUAGE=en-US:C Team Competition\,Canoe Polo
 CONTACT:Andrew Carden or David Edwards\; 07866692410\; canoepolo@penninecan
  oeclub.org.uk
@@ -217,16 +173,77 @@ URL:http://www.penninecrc.org/?ai1ec_event=water-polo-training-c-team
 X-COST:£3:50
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-107@www.penninecrc.org
+DTSTAMP:20150921T224130Z
+CATEGORIES;LANGUAGE=en-US:Coaching\,Recreation
+CONTACT:Andrew Carden\; 07866692410\; info@penninecanoeclub.org.uk
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.penninecrc.org/wp-content/uploads/2012/09/Lewis-300x200.png' width=
+ '300' height='200' /></div><p>The Saturday Sessions are growing in popular
+ ity</p>\n<p>Please view the poster for sessions details <a href='http://ww
+ w.penninecanoeclub.org.uk/wp-content/uploads/2012/10/Kayak.pdf'>Kayak</a><
+ /p>\n<p>The Sessions is run in partnership with Kirklees Active Leisure an
+ d aimed at young people but not to the exclusion of adults.</p>\n<p>Partic
+ ipants should register for a KAL card.</p>\n<p>This session takes paddlers
+  to the level of paddler power passport or 1 star.</p>\n<p>If you are inte
+ rested in the session please contact the Andrew on 07980811628 or info@pen
+ ninecrc.org or fill in the form below.</p>\n<p>You will be asked to comple
+ te the attached registration form <a href='http://www.penninecanoeclub.org
+ .uk/wp-content/uploads/2012/10/Session-Form-2012-132.docx'>Session Form 20
+ 12-13</a></p>\n<div id='contact-form-1092'>\n<form action='http://www.penn
+ inecrc.org/?p=1092#contact-form-1092' method='post' class='contact-form co
+ mmentsblock'>\n\n<div>\n		<label for='g1092-name' class='grunion-field-label
+  name'>Name<span>(required)</span></label>\n		<input type='text' name='g1092
+ -name' id='g1092-name' value='' class='name'  required aria-required='true
+ '/>\n	</div>\n\n<div>\n		<label for='g1092-email' class='grunion-field-label 
+ email'>Email<span>(required)</span></label>\n		<input type='email' name='g10
+ 92-email' id='g1092-email' value='' class='email'  required aria-required=
+ 'true'/>\n	</div>\n\n<div>\n		<label for='contact-form-comment-g1092-comment'
+  class='grunion-field-label textarea'>Comment<span>(required)</span></labe
+ l>\n		<textarea name='g1092-comment' id='contact-form-comment-g1092-comment'
+  rows='20'  required aria-required='true'></textarea>\n	</div>\n	<p class='c
+ ontact-submit'>\n		<input type='submit' value='Submit »' class='pushbutton-w
+ ide'/>\n		<input type='hidden' name='contact-form-id' value='1092' />\n		<inpu
+ t type='hidden' name='action' value='grunion-contact-form' />\n	</p>\n</for
+ m>\n</div>
+DTSTART;TZID=Europe/London:20150926T150000
+DTEND;TZID=Europe/London:20150926T160000
+EXDATE;TZID=Europe/London:20150613T150000
+EXDATE;TZID=Europe/London:20150620T150000
+EXDATE;TZID=Europe/London:20150627T150000
+EXDATE;TZID=Europe/London:20150704T150000
+EXDATE;TZID=Europe/London:20150711T150000
+EXDATE;TZID=Europe/London:20150718T150000
+EXDATE;TZID=Europe/London:20150725T150000
+EXDATE;TZID=Europe/London:20150801T150000
+EXDATE;TZID=Europe/London:20150808T150000
+EXDATE;TZID=Europe/London:20150815T150000
+EXDATE;TZID=Europe/London:20150822T150000
+EXDATE;TZID=Europe/London:20150829T150000
+EXDATE;TZID=Europe/London:20150905T150000
+EXDATE;TZID=Europe/London:20150912T150000
+GEO:+53.689384;-1.627798
+LOCATION:Dewsbury Sports Centre @ Longcauseway\, Dewsbury\, West Yorkshire 
+ WF12 8EN\, UK
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Coaching Sessions Paddlepower Passport
+URL:http://www.penninecrc.org/?ai1ec_event=kids-session-paddlepower-passpor
+ t-beginners
+X-COST:£5.80 (£4.85 with a KAL card)
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-456@www.penninecanoeclub.org.uk
-DTSTAMP:20150920T001609Z
+DTSTAMP:20150921T224130Z
 CATEGORIES:
 CONTACT:Viv\; secratery@penninecanoeclub.org.uk
-DESCRIPTION:<p>Please contact <a href='mailto:Secratery@penninecanoeclub.or
- g.uk'>Secratery@penninecanoeclub.org.uk</a> for minutes\, agendas and to r
- equest attendance.</p>
-DTSTART;TZID=Europe/London:20151005T180000
-DTEND;TZID=Europe/London:20151005T200000
-LOCATION:Navigation Pub @ Mirfield\, West Yorkshire\, UK
+DESCRIPTION:<p>Please contact <a href='mailto:Secratery@penninecrc.org'>Sec
+ ratery@penninecrc.org</a> for minutes\, agendas and to request attendance.
+ </p>
+DTSTART;TZID=Europe/London:20151005T190000
+DTEND;TZID=Europe/London:20151005T210000
+GEO:+53.680122;-1.713321
+LOCATION:Pear Tree Pub @ Mirfield\, West Yorkshire\, UK
 RRULE:FREQ=MONTHLY;BYDAY=1MO
 SEQUENCE:0
 SUMMARY:Club Committee Meeting

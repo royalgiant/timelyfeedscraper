@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:9ffhrkjt6uj7dvghgoaoi2mr48@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:
@@ -36,7 +36,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=bb-week
 END:VEVENT
 BEGIN:VEVENT
 UID:qoimv649lh3fem2durn8koi78k@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:
@@ -51,7 +51,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=company-section-week
 END:VEVENT
 BEGIN:VEVENT
 UID:9bfe7ft61757l3fmvcher8j51s@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:
@@ -63,7 +63,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=explorer-fun-day
 END:VEVENT
 BEGIN:VEVENT
 UID:sqg683g3ef1ctfskrie4bma2q8@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:
@@ -78,7 +78,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=junior-section-weeke
 END:VEVENT
 BEGIN:VEVENT
 UID:rtbtnc6mf7m4q1fn31di82teio@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:
@@ -90,14 +90,100 @@ SUMMARY:Company Section Camp
 URL:http://therockingturtle.com/wordpress/?ai1ec_event=company-section-camp
 END:VEVENT
 BEGIN:VEVENT
+UID:epucdq62b3em2dv6p783tqensc@google.com
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
+CONTACT:
+DESCRIPTION:<p>For Girls in P5 to P7<br />\nNew members always welcome</p>
+DTSTART;TZID=Atlantic/Azores:20150921T173000
+DTEND;TZID=Atlantic/Azores:20150921T190000
+LOCATION:Church Halls
+RRULE:FREQ=WEEKLY;UNTIL=20151214T183000Z;BYDAY=MO
+SEQUENCE:0
+SUMMARY:GB – Juniors
+URL:http://therockingturtle.com/wordpress/?ai1ec_event=juniors-3
+END:VEVENT
+BEGIN:VEVENT
+UID:9c3pgb9if574pe8am87epkbb1s@google.com
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
+CONTACT:
+DESCRIPTION:<p>for Girls in Year 11 to age 18<br />\nNew members always wel
+ come.</p>
+DTSTART;TZID=Atlantic/Azores:20150921T180000
+DTEND;TZID=Atlantic/Azores:20150921T200000
+LOCATION:Church Halls
+RRULE:FREQ=WEEKLY;UNTIL=20151214T190000Z;BYDAY=MO
+SEQUENCE:0
+SUMMARY:GB – Brigaders
+URL:http://therockingturtle.com/wordpress/?ai1ec_event=brigaders-3
+END:VEVENT
+BEGIN:VEVENT
+UID:r0bfcm8t8kqjd6jlpptt4do7gk@google.com
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
+CONTACT:
+DESCRIPTION:<p>for Girls in Year 8 to Year 10<br />\nnew members always wel
+ come</p>
+DTSTART;TZID=Atlantic/Azores:20150921T180000
+DTEND;TZID=Atlantic/Azores:20150921T200000
+LOCATION:Church Halls
+RRULE:FREQ=WEEKLY;UNTIL=20151214T190000Z;BYDAY=MO
+SEQUENCE:0
+SUMMARY:GB – Seniors
+URL:http://therockingturtle.com/wordpress/?ai1ec_event=seniors-2
+END:VEVENT
+BEGIN:VEVENT
+UID:71og4bg2j103u536tfbbhv8uv0@google.com
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-GB:Boys Brigade
+CONTACT:
+DESCRIPTION:<p>for boys in P1 to P4<br />\nNew members always welcome</p>
+DTSTART;TZID=Atlantic/Azores:20150924T171500
+DTEND;TZID=Atlantic/Azores:20150924T183000
+LOCATION:Church Halls
+RRULE:FREQ=WEEKLY;UNTIL=20151022T171500Z;BYDAY=TH
+SEQUENCE:0
+SUMMARY:BB – Anchor Boys
+URL:http://therockingturtle.com/wordpress/?ai1ec_event=anchor-boys-3
+END:VEVENT
+BEGIN:VEVENT
+UID:tlk9q30shorvvljntc88kg4mv4@google.com
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-GB:Boys Brigade
+CONTACT:
+DESCRIPTION:<p>for boys in P5 to P7<br />\nNew Members always welcome</p>
+DTSTART;TZID=Atlantic/Azores:20150924T171500
+DTEND;TZID=Atlantic/Azores:20150924T184500
+LOCATION:Church Halls
+RRULE:FREQ=WEEKLY;UNTIL=20151022T171500Z;BYDAY=TH
+SEQUENCE:0
+SUMMARY:BB – Junior Section
+URL:http://therockingturtle.com/wordpress/?ai1ec_event=junior-section-3
+END:VEVENT
+BEGIN:VEVENT
+UID:rv6emh74t40rr9g969ps1822pg@google.com
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-GB:Boys Brigade
+CONTACT:
+DESCRIPTION:<p>For Boys in Year 8 to Age 18</p>
+DTSTART;TZID=Atlantic/Azores:20150924T183000
+DTEND;TZID=Atlantic/Azores:20150924T210000
+LOCATION:Church Halls
+RRULE:FREQ=WEEKLY;UNTIL=20151217T193000Z;BYDAY=TH
+SEQUENCE:0
+SUMMARY:BB – Company Section
+URL:http://therockingturtle.com/wordpress/?ai1ec_event=company-section-2
+END:VEVENT
+BEGIN:VEVENT
 UID:eoatk4tnnca52q6ucluos0ffqc@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>for Girls aged 3 to P4<br />\nNew members always welcome. </
  p>
-DTSTART;TZID=Atlantic/Azores:20150919T093000
-DTEND;TZID=Atlantic/Azores:20150919T110000
+DTSTART;TZID=Atlantic/Azores:20150926T093000
+DTEND;TZID=Atlantic/Azores:20150926T110000
 EXDATE;TZID=Atlantic/Azores:20151212T093000
 LOCATION:Church Halls
 RRULE:FREQ=WEEKLY;UNTIL=20151212T103000Z;BYDAY=SA
@@ -107,12 +193,12 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=explorer-section-2
 END:VEVENT
 BEGIN:VEVENT
 UID:mlbov6mgfhdkkaava9spqj7n8c@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:
-DTSTART;TZID=Atlantic/Azores:20150920T093000
-DTEND;TZID=Atlantic/Azores:20150920T095000
+DTSTART;TZID=Atlantic/Azores:20150927T093000
+DTEND;TZID=Atlantic/Azores:20150927T095000
 LOCATION:Lower School Room
 RRULE:FREQ=WEEKLY;BYDAY=SU
 SEQUENCE:0
@@ -121,12 +207,12 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=prayer-meeting-2
 END:VEVENT
 BEGIN:VEVENT
 UID:ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:
-DTSTART;TZID=Atlantic/Azores:20150920T100000
-DTEND;TZID=Atlantic/Azores:20150920T110000
+DTSTART;TZID=Atlantic/Azores:20150927T100000
+DTEND;TZID=Atlantic/Azores:20150927T110000
 EXDATE;TZID=Atlantic/Azores:20150906T100000
 EXDATE;TZID=Atlantic/Azores:20150913T100000
 EXDATE;TZID=Atlantic/Azores:20150920T100000
@@ -148,26 +234,53 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
  ce-25
 END:VEVENT
 BEGIN:VEVENT
-UID:2015920110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+UID:pmrd9h1k3a3jusf5gdf8s1pf1g@google.com
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-GB:Boys Brigade
+CONTACT:
+DESCRIPTION:<p>Boys to meet at 10:30am </p>
+DTSTART;TZID=Atlantic/Azores:20150927T110000
+DTEND;TZID=Atlantic/Azores:20150927T120000
+LOCATION:Church Halls
+SEQUENCE:0
+SUMMARY:BB – Enrolment Service
+URL:http://therockingturtle.com/wordpress/?ai1ec_event=enrolment-service
+END:VEVENT
+BEGIN:VEVENT
+UID:2015927110000-ot57djpcv900nhlcir6mkp4nc4@google.com
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
-DESCRIPTION:<p>Mr Andy Downey</p>
-DTSTART;TZID=Atlantic/Azores:20150920T110000
-DTEND;TZID=Atlantic/Azores:20150920T120000
+DESCRIPTION:<p>BB Enrolement Service<br />\nRev William McCully</p>
+DTSTART;TZID=Atlantic/Azores:20150927T110000
+DTEND;TZID=Atlantic/Azores:20150927T120000
 SEQUENCE:0
 SUMMARY:Sunday Morning Service
 URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
- ce-22
+ ce-21
+END:VEVENT
+BEGIN:VEVENT
+UID:1s50vvhk2t0eoet4rj3r3jdsvs@google.com
+DTSTAMP:20150921T224804Z
+CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Atlantic/Azores:20150927T143000
+DTEND;TZID=Atlantic/Azores:20150927T163000
+LOCATION:1st Holywood Presbyterian Church
+SEQUENCE:0
+SUMMARY:Company District Parade
+URL:http://therockingturtle.com/wordpress/?ai1ec_event=company-district-par
+ ade
 END:VEVENT
 BEGIN:VEVENT
 UID:jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:
-DTSTART;TZID=Atlantic/Azores:20150920T180000
-DTEND;TZID=Atlantic/Azores:20150920T190000
+DTSTART;TZID=Atlantic/Azores:20150927T180000
+DTEND;TZID=Atlantic/Azores:20150927T190000
 EXDATE;TZID=Atlantic/Azores:20150426T180000
 EXDATE;TZID=Atlantic/Azores:20150503T180000
 EXDATE;TZID=Atlantic/Azores:20150517T180000
@@ -194,149 +307,8 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
  ce
 END:VEVENT
 BEGIN:VEVENT
-UID:2015920190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
-CONTACT:
-DESCRIPTION:<p>Ordination of Elders Service of Installation by Presbytery</
- p>
-DTSTART;TZID=Atlantic/Azores:20150920T190000
-DTEND;TZID=Atlantic/Azores:20150920T200000
-LOCATION:Church Halls
-SEQUENCE:0
-SUMMARY:Sunday Evening Service
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
- ce-25
-END:VEVENT
-BEGIN:VEVENT
-UID:epucdq62b3em2dv6p783tqensc@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
-CONTACT:
-DESCRIPTION:<p>For Girls in P5 to P7<br />\nNew members always welcome</p>
-DTSTART;TZID=Atlantic/Azores:20150921T173000
-DTEND;TZID=Atlantic/Azores:20150921T190000
-LOCATION:Church Halls
-RRULE:FREQ=WEEKLY;UNTIL=20151214T183000Z;BYDAY=MO
-SEQUENCE:0
-SUMMARY:GB – Juniors
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=juniors-3
-END:VEVENT
-BEGIN:VEVENT
-UID:9c3pgb9if574pe8am87epkbb1s@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
-CONTACT:
-DESCRIPTION:<p>for Girls in Year 11 to age 18<br />\nNew members always wel
- come.</p>
-DTSTART;TZID=Atlantic/Azores:20150921T180000
-DTEND;TZID=Atlantic/Azores:20150921T200000
-LOCATION:Church Halls
-RRULE:FREQ=WEEKLY;UNTIL=20151214T190000Z;BYDAY=MO
-SEQUENCE:0
-SUMMARY:GB – Brigaders
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=brigaders-3
-END:VEVENT
-BEGIN:VEVENT
-UID:r0bfcm8t8kqjd6jlpptt4do7gk@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
-CONTACT:
-DESCRIPTION:<p>for Girls in Year 8 to Year 10<br />\nnew members always wel
- come</p>
-DTSTART;TZID=Atlantic/Azores:20150921T180000
-DTEND;TZID=Atlantic/Azores:20150921T200000
-LOCATION:Church Halls
-RRULE:FREQ=WEEKLY;UNTIL=20151214T190000Z;BYDAY=MO
-SEQUENCE:0
-SUMMARY:GB – Seniors
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=seniors-2
-END:VEVENT
-BEGIN:VEVENT
-UID:71og4bg2j103u536tfbbhv8uv0@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:Boys Brigade
-CONTACT:
-DESCRIPTION:<p>for boys in P1 to P4<br />\nNew members always welcome</p>
-DTSTART;TZID=Atlantic/Azores:20150924T171500
-DTEND;TZID=Atlantic/Azores:20150924T183000
-LOCATION:Church Halls
-RRULE:FREQ=WEEKLY;UNTIL=20151022T171500Z;BYDAY=TH
-SEQUENCE:0
-SUMMARY:BB – Anchor Boys
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=anchor-boys-3
-END:VEVENT
-BEGIN:VEVENT
-UID:tlk9q30shorvvljntc88kg4mv4@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:Boys Brigade
-CONTACT:
-DESCRIPTION:<p>for boys in P5 to P7<br />\nNew Members always welcome</p>
-DTSTART;TZID=Atlantic/Azores:20150924T171500
-DTEND;TZID=Atlantic/Azores:20150924T184500
-LOCATION:Church Halls
-RRULE:FREQ=WEEKLY;UNTIL=20151022T171500Z;BYDAY=TH
-SEQUENCE:0
-SUMMARY:BB – Junior Section
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=junior-section-3
-END:VEVENT
-BEGIN:VEVENT
-UID:rv6emh74t40rr9g969ps1822pg@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:Boys Brigade
-CONTACT:
-DESCRIPTION:<p>For Boys in Year 8 to Age 18</p>
-DTSTART;TZID=Atlantic/Azores:20150924T183000
-DTEND;TZID=Atlantic/Azores:20150924T210000
-LOCATION:Church Halls
-RRULE:FREQ=WEEKLY;UNTIL=20151217T193000Z;BYDAY=TH
-SEQUENCE:0
-SUMMARY:BB – Company Section
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=company-section-2
-END:VEVENT
-BEGIN:VEVENT
-UID:pmrd9h1k3a3jusf5gdf8s1pf1g@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:Boys Brigade
-CONTACT:
-DESCRIPTION:<p>Boys to meet at 10:30am </p>
-DTSTART;TZID=Atlantic/Azores:20150927T110000
-DTEND;TZID=Atlantic/Azores:20150927T120000
-LOCATION:Church Halls
-SEQUENCE:0
-SUMMARY:BB – Enrolment Service
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=enrolment-service
-END:VEVENT
-BEGIN:VEVENT
-UID:2015927110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
-CONTACT:
-DESCRIPTION:<p>BB Enrolement Service<br />\nRev William McCully</p>
-DTSTART;TZID=Atlantic/Azores:20150927T110000
-DTEND;TZID=Atlantic/Azores:20150927T120000
-SEQUENCE:0
-SUMMARY:Sunday Morning Service
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
- ce-21
-END:VEVENT
-BEGIN:VEVENT
-UID:1s50vvhk2t0eoet4rj3r3jdsvs@google.com
-DTSTAMP:20150920T002404Z
-CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=Atlantic/Azores:20150927T143000
-DTEND;TZID=Atlantic/Azores:20150927T163000
-LOCATION:1st Holywood Presbyterian Church
-SEQUENCE:0
-SUMMARY:Company District Parade
-URL:http://therockingturtle.com/wordpress/?ai1ec_event=company-district-par
- ade
-END:VEVENT
-BEGIN:VEVENT
 UID:2015927190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Exposing the Truth – Peter 3:13-17<br />\nMr Rob Baille</p>
@@ -350,7 +322,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:2015104110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Harvest Service<br />\nPloughing on the Rocky Ground – Amos 
@@ -364,7 +336,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:2015104190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Harvest<br />\nThe Lazy Farmer – Proverbs 24:30-32<br />\nRe
@@ -379,7 +351,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151011110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>A Suffering Church – Rev 2:8-11<br />\nRev William McCully</
@@ -393,7 +365,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:ua013qs6vifjmqu60to00vmouo@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:
@@ -407,7 +379,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=explorer-ditrict-ser
 END:VEVENT
 BEGIN:VEVENT
 UID:20151011190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Summer Teams Reports<br />\nMr Robert Baille</p>
@@ -421,7 +393,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151018110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>GB Enrolement Service<br />\nMr Robert Baille</p>
@@ -434,7 +406,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:g46b1ah7p2ubp2qvuiaeol0dj8@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:
@@ -448,7 +420,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151018190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Crown Jesus<br />\nMr Philip Kerr</p>
@@ -462,7 +434,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:mbfc6jbp774s1cdur9u4i6bfoo@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Living the Truth Eph:4</p>
@@ -475,7 +447,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=pre-communion-servic
 END:VEVENT
 BEGIN:VEVENT
 UID:2015111110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>A Compromising Church – Rev 2:12-17<br />\nRev William McCul
@@ -489,7 +461,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:2015111190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Esther 1 – An Awkard Moment</p>
@@ -503,7 +475,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:tnhjfi0j688egj23d7g0kj7vng@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:<p>For boys in P1 to P4<br />\nNew Members always welcome</p>
@@ -516,7 +488,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=anchor-boys-2
 END:VEVENT
 BEGIN:VEVENT
 UID:t2sjqlbpa3d9vmlivsbo1358u4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:<p>For boys in P5 to P7<br />\nNew Members always welcome.</p>
@@ -530,7 +502,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=junior-section-2
 END:VEVENT
 BEGIN:VEVENT
 UID:2015118110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Remembrance Sunday<br />\nA Permissive Church – Rev 2:18-29<
@@ -544,7 +516,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:2015118190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Esther 2 : Beauty and the Beast</p>
@@ -558,7 +530,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151115110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>A Dying Church – Rev 3:1-6<br />\nRev William McCully</p>
@@ -571,7 +543,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151115190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Esther 3<br />\nA Despicable Individual</p>
@@ -585,7 +557,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151122190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Esther 4 : She who dares wins !</p>
@@ -599,7 +571,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151129110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>An indifferent Church – Rev 3:14-22<br />\nRev William McCul
@@ -613,7 +585,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151129190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>UFM<br />\nDavid Morrow</p>
@@ -627,7 +599,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:2015126110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Bible Sunday</p>
@@ -640,7 +612,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:2015126190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Esther 5 – A ruffled mind makes a restless pillow!</p>
@@ -654,7 +626,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151212103000-eoatk4tnnca52q6ucluos0ffqc@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>for Girls aged 3 to P4<br />\nNew members always welcome. </
@@ -669,7 +641,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=explorer-section-nat
 END:VEVENT
 BEGIN:VEVENT
 UID:20151213110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Christmas Focus</p>
@@ -682,7 +654,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:fbo30q6sb9j5u1otlrncd63324@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:
@@ -696,7 +668,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=company-carol-servic
 END:VEVENT
 BEGIN:VEVENT
 UID:20151213190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Esther 6 – You make your bed – lie in it!</p>
@@ -710,7 +682,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151220110000-ot57djpcv900nhlcir6mkp4nc4@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>LightZone – Nativity</p>
@@ -723,7 +695,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-morning-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:20151220190000-jit7b0j2roqd308q8n39ptu12g@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Dundonald Presbyterian Church
 CONTACT:
 DESCRIPTION:<p>Carols by Candlelight</p>
@@ -737,7 +709,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=sunday-evening-servi
 END:VEVENT
 BEGIN:VEVENT
 UID:f2t6ft64cd32l0kfltkgaet8ek@google.com
-DTSTAMP:20150920T002404Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>For Girls aged 3 to P4<br />\nNew members always welcome</p>
@@ -751,7 +723,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=explorer-section
 END:VEVENT
 BEGIN:VEVENT
 UID:iilefvbqsbfgj00n699gldksd4@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>For Girls in P5 to P7<br />\nNew members always welcome</p>
@@ -765,7 +737,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=juniors-2
 END:VEVENT
 BEGIN:VEVENT
 UID:878mpmgd2ec1a0iod8dqr01keg@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>For girls in year 11 to aged 18<br />\nNew members always we
@@ -780,7 +752,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=brigaders-2
 END:VEVENT
 BEGIN:VEVENT
 UID:2b1389ullg8bm7mdpshn1ju91o@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>for Girls in year 8 to year 10<br />\nNew members always wel
@@ -795,7 +767,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=seniors
 END:VEVENT
 BEGIN:VEVENT
 UID:93le98sq2dbobgm1o2243afas8@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:<p>For boys in P1 to P4<br />\nNew Members always welcome</p>
@@ -809,7 +781,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=anchor-boys
 END:VEVENT
 BEGIN:VEVENT
 UID:bsp35sd7g5i7ivesjjgape9am4@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:<p>For boys in P5 to P7<br />\nNew Members always welcome.</p>
@@ -823,7 +795,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=junior-section
 END:VEVENT
 BEGIN:VEVENT
 UID:5b5lks748tfl4s98iesqucikqs@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:<p>For boys in Year 8 to age 18<br />\nNew Members always Welco
@@ -838,7 +810,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=company-section
 END:VEVENT
 BEGIN:VEVENT
 UID:4kl0auhourotgdmsc3fojfv048@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:
@@ -853,7 +825,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=past-members-and-off
 END:VEVENT
 BEGIN:VEVENT
 UID:lv9btojaklqhi6k3k3or1f68co@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:Boys Brigade
 CONTACT:
 DESCRIPTION:
@@ -866,7 +838,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=annual-display-2
 END:VEVENT
 BEGIN:VEVENT
 UID:29larb8fbrmso7ij5pqmki44jc@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>For Girls aged 3 to P4<br />\nNew members always welcome</p>
@@ -880,7 +852,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=explorers
 END:VEVENT
 BEGIN:VEVENT
 UID:lkvjtm862v70639curqg9thehg@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>For Girls in P5 to P7<br />\nNew members always welcome</p>
@@ -894,7 +866,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=juniors
 END:VEVENT
 BEGIN:VEVENT
 UID:bv5lvgct1em7el74hh8a2jfjf4@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>Fro girls in Year 11 to age 18<br />\nNew members always wel
@@ -909,7 +881,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=brigaders
 END:VEVENT
 BEGIN:VEVENT
 UID:nus333nugvo1kph899acmdp20s@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224804Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:<p>For girls in year 8 to year 10<br />\nNew members always wel
@@ -924,7 +896,7 @@ URL:http://therockingturtle.com/wordpress/?ai1ec_event=senior
 END:VEVENT
 BEGIN:VEVENT
 UID:0sq8sr5kt9uqv4ide5t5k3iaeo@google.com
-DTSTAMP:20150920T002405Z
+DTSTAMP:20150921T224805Z
 CATEGORIES;LANGUAGE=en-GB:GIrls Brigade
 CONTACT:
 DESCRIPTION:

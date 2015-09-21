@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-849@bbtheme4.local
-DTSTAMP:20150920T002408Z
+DTSTAMP:20150921T224801Z
 CATEGORIES;LANGUAGE=en-US:Home Featured
 CONTACT:Blackbaud\; 1.800.443.9441
 DESCRIPTION:<p>At vero eos et accusamus et iusto odio dignissimos ducimus q
@@ -39,8 +39,8 @@ DESCRIPTION:<p>At vero eos et accusamus et iusto odio dignissimos ducimus q
  diandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a
   sapiente delectus\, ut aut reiciendis voluptatibus maiores alias consequa
  tur aut perferendis doloribus asperiores repellat.</p>
-DTSTART;TZID=America/New_York:20150919T120000
-DTEND;TZID=America/New_York:20150919T150000
+DTSTART;TZID=America/New_York:20150926T120000
+DTEND;TZID=America/New_York:20150926T150000
 GEO:+32.868848;-79.918925
 LOCATION:Blackbaud @ 2000 Daniel Island Drive\, Charleston\, SC 29492\, USA
 RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
@@ -52,7 +52,7 @@ X-TICKETS-URL:http://google.com
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-843@bbtheme4.local
-DTSTAMP:20150920T002408Z
+DTSTAMP:20150921T224801Z
 CATEGORIES;LANGUAGE=en-US:Home Featured
 CONTACT:Blackbaud\; 1.800.443.9441\; media@blackbaud.com\; http://blackbaud
  .com

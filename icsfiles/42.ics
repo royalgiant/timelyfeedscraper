@@ -23,25 +23,8 @@ TZNAME:PDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-24482@longbeachcitychurch.org
-DTSTAMP:20150920T002112Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/Los_Angeles:20150920T100000
-DTEND;TZID=America/Los_Angeles:20150920T113000
-LOCATION:Cesar Chavez Park @ 401 Golden Ave\, Long Beach\, CA 90802
-RDATE;TZID=America/Los_Angeles:20150906T100000
-RDATE;TZID=America/Los_Angeles:20150913T100000
-RDATE;TZID=America/Los_Angeles:20150920T100000
-RDATE;TZID=America/Los_Angeles:20150927T100000
-SEQUENCE:0
-SUMMARY:Sunday Service
-URL:http://longbeachcitychurch.org/event/sunday-service-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-24466@longbeachcitychurch.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES:
 CONTACT:Long Beach City Church\; 562.344.5128
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -128,7 +111,7 @@ URL:http://longbeachcitychurch.org/event/flow-bible-study-7pm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-24478@longbeachcitychurch.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -141,8 +124,25 @@ URL:http://longbeachcitychurch.org/event/last-service-in-cesar-chavez-commu
  nity-center/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-24482@longbeachcitychurch.org
+DTSTAMP:20150921T224636Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150927T100000
+DTEND;TZID=America/Los_Angeles:20150927T113000
+LOCATION:Cesar Chavez Park @ 401 Golden Ave\, Long Beach\, CA 90802
+RDATE;TZID=America/Los_Angeles:20150906T100000
+RDATE;TZID=America/Los_Angeles:20150913T100000
+RDATE;TZID=America/Los_Angeles:20150920T100000
+RDATE;TZID=America/Los_Angeles:20150927T100000
+SEQUENCE:0
+SUMMARY:Sunday Service
+URL:http://longbeachcitychurch.org/event/sunday-service-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-24479@longbeachcitychurch.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -155,7 +155,7 @@ URL:http://longbeachcitychurch.org/event/first-service-in-new-building/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-24469@longbeachcitychurch.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES:
 CONTACT:Long Beach City Church\; 562.344.5128\; info@longbeachcitychurch.co
  m
@@ -238,7 +238,7 @@ URL:http://longbeachcitychurch.org/event/sunday-service/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-24470@longbeachcitychurch.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:

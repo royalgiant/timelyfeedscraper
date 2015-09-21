@@ -1,57 +1,13 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//50.87.54.21//NONSGML kigkonsult.se iCalcreator 2.20//
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-FROM-URL:http://conservationplainfield.com
-X-WR-TIMEZONE:America/Chicago
-BEGIN:VTIMEZONE
-TZID:America/Chicago
-X-LIC-LOCATION:America/Chicago
-BEGIN:STANDARD
-DTSTART:20151101T020000
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-TZNAME:CST
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20150308T020000
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-RDATE:20160313T020000
-TZNAME:CDT
-END:DAYLIGHT
-END:VTIMEZONE
-BEGIN:VEVENT
-UID:ai1ec-35@conservationplainfield.com
-DTSTAMP:20150920T002124Z
-CATEGORIES:
-CONTACT:info@conservationplainfield.com
-DESCRIPTION:
-DTSTART;TZID=America/Chicago:20151021T183000
-DTEND;TZID=America/Chicago:20151021T200000
-GEO:+41.608111;-88.212813
-LOCATION:Plainfield Village Hall @ 24401 Lockport St\, Plainfield\, IL 6054
- 4\, USA
-SEQUENCE:0
-SUMMARY:Conservation Plainfield Monthly Meeting
-URL:http://conservationplainfield.com/?ai1ec_event=conservation-plainfield-
- monthly-meeting
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-36@conservationplainfield.com
-DTSTAMP:20150920T002124Z
-CATEGORIES:
-CONTACT:info@conservationplainfield.com
-DESCRIPTION:
-DTSTART;TZID=America/Chicago:20151118T183000
-DTEND;TZID=America/Chicago:20151118T200000
-GEO:+41.608111;-88.212813
-LOCATION:Plainfield Village Hall @ 24401 Lockport St\, Plainfield\, IL 6054
- 4\, USA
-SEQUENCE:0
-SUMMARY:Conservation Plainfield Monthly Meeting
-URL:http://conservationplainfield.com/?ai1ec_event=conservation-plainfield-
- monthly-meeting-2
-END:VEVENT
-END:VCALENDAR
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+Size of a request header field exceeds server limit.<br />
+<pre>
+cookie
+</pre>/n</p>
+<hr>
+<address>Apache Server at rsb26.rhostbh.com Port 80</address>
+</body></html>

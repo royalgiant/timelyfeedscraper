@@ -15,4 +15,20 @@ TZOFFSETTO:-0600
 TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-2231@www.lfelsalvador.org
+DTSTAMP:20150921T225013Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>\n	<img alt='016' class='aligncenter size-medium wp-image-223
+ 2' height='334' src='http://www.lfelsalvador.org/wp-content/uploads/2015/0
+ 9/016-250x334.jpg' style='line-height: 20.8px\;' width='250' /></p>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+LOCATION:Liceo Francés de San Salvador
+SEQUENCE:0
+SUMMARY:Jornada inaugural del proyecto cívico
+URL:http://www.lfelsalvador.org/event/jornada-inaugural-del-proyecto-civico
+ /
+END:VEVENT
 END:VCALENDAR

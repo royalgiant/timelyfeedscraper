@@ -63,7 +63,7 @@ img.emoji {
 <script type='text/javascript' src='http://webprojekt.info.pl/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var _zm_alr_settings = {"ajaxurl":"http:\/\/webprojekt.info.pl\/wp-admin\/admin-ajax.php","login_handle":"","register_handle":"","redirect":"http:\/\/webprojekt.info.pl\/","wp_logout_url":"http:\/\/webprojekt.info.pl\/witaj?action=logout&redirect_to=http%3A%2F%2Fwebprojekt.info.pl&_wpnonce=1b67ff0228","logout_text":"Logout","close_text":"Close","pre_load_forms":"zm_alr_misc_pre_load_no","logged_in_text":"You are already logged in","registered_text":"You are already registered","dialog_width":"265","dialog_height":"auto"};
+var _zm_alr_settings = {"ajaxurl":"http:\/\/webprojekt.info.pl\/wp-admin\/admin-ajax.php","login_handle":"","register_handle":"","redirect":"http:\/\/webprojekt.info.pl\/","wp_logout_url":"http:\/\/webprojekt.info.pl\/witaj?action=logout&redirect_to=http%3A%2F%2Fwebprojekt.info.pl&_wpnonce=ffaf633796","logout_text":"Logout","close_text":"Close","pre_load_forms":"zm_alr_misc_pre_load_no","logged_in_text":"You are already logged in","registered_text":"You are already registered","dialog_width":"265","dialog_height":"auto"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://webprojekt.info.pl/wp-content/plugins/zm-ajax-login-register/assets/scripts.js?ver=4.3.1'></script>
@@ -93,7 +93,7 @@ var _zm_alr_settings = {"ajaxurl":"http:\/\/webprojekt.info.pl\/wp-admin\/admin-
 					
 					data.action = 'revslider_ajax_call_front';
 					data.client_action = 'get_slider_html';
-					data.token = 'e332df6d19';
+					data.token = '023769b4da';
 					data.type = obj.type;
 					data.id = obj.id;
 					data.aspectratio = obj.aspectratio;
@@ -262,10 +262,10 @@ jQuery(document).ready(function() {
 <section id="twitterbar" class="container clone_1 section-twitterbar fix"><div class="texture"><div class="content"><div class="content-pad"><div class="tbubble"><div class="tbubble-pad">Set your Twitter account name in your settings to use the TwitterBar Section.</div></div></div></div></div></section><div id="cred" class="pagelines" style="display: block; visibility: visible;"><img src="http://webprojekt.info.pl/wp-content/themes/pagelines/images/pagelines.png" alt="" /></div><div class="clear"></div>		</div>
 	</footer>
 </div>
-        <div id="ajax-login-register-login-dialog" class="zm_alr_login_dialog zm_alr_dialog ajax-login-register-container" title="Login" data-security="8c30f2551f">
+        <div id="ajax-login-register-login-dialog" class="zm_alr_login_dialog zm_alr_dialog ajax-login-register-container" title="Login" data-security="a4949edf85">
             <div id="ajax-login-register-login-target" class="ajax-login-register-login-dialog">Loading...            </div>
                     </div>
-            <div id="ajax-login-register-dialog" class="zm_alr_register_dialog zm_alr_dialog ajax-login-register-container" title="Register" data-security="5f68df5d2e" style="display: none;">
+            <div id="ajax-login-register-dialog" class="zm_alr_register_dialog zm_alr_dialog ajax-login-register-container" title="Register" data-security="d8dee09757" style="display: none;">
             <div id="ajax-login-register-target" class="ajax-login-register-dialog">Loading...</div>
                     </div>
     

@@ -16,43 +16,8 @@ TZNAME:SAST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-687@www.vaalmarinarpa.co.za
-DTSTAMP:20150920T003947Z
-CATEGORIES:
-CONTACT:Louise Linde\; 082 8953427
-DESCRIPTION:<p>The art and craft market is always well attended with a vari
- ety of stalls offering various items. Should you wish to have a stall here
-  please contact Louise directly. Scrumptious breakfasts and light lunches 
- and a delightfull Curio shop is available on the day.</p>
-DTSTART;TZID=Africa/Johannesburg:20150919T080000
-DTEND;TZID=Africa/Johannesburg:20150919T140000
-GEO:-26.880695;+28.225873
-LOCATION:821 Anchovy Road @ Anchovy Road\, Vaal Marina\, 1945\, South Afric
- a
-RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
-SEQUENCE:0
-SUMMARY:The Station\, Art\, Craft & food market
-URL:http://www.vaalmarinarpa.co.za/event/the-station-art-craft-food-market/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-693@www.vaalmarinarpa.co.za
-DTSTAMP:20150920T003947Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>We have been asked to hold an open meeting for any one to at
- tend to voice their opinion or ask for info that they may not have about w
- hat has been hapening in the area. All are welcome</p>
-DTSTART;TZID=Africa/Johannesburg:20150919T100000
-DTEND;TZID=Africa/Johannesburg:20150919T113000
-GEO:-26.871213;+28.232613
-LOCATION:Community Hall @ Vaal Marina\, Vaal Marina\, South Africa
-SEQUENCE:0
-SUMMARY:Open Rate Payers meeting
-URL:http://www.vaalmarinarpa.co.za/event/open-rate-payers-meeting/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-648@www.vaalmarinarpa.co.za
-DTSTAMP:20150920T003947Z
+DTSTAMP:20150921T225405Z
 CATEGORIES;LANGUAGE=en-US:CPF
 CONTACT:Wally Sime\; 071 959 3022 \;  zs6wal@absamail.co.za
 DESCRIPTION:<p><b>The meetings will be held in the Council Chamber of the C
@@ -74,8 +39,27 @@ SUMMARY:Vaal Marina CPF
 URL:http://www.vaalmarinarpa.co.za/event/vaal-marina-cpf-agm/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-687@www.vaalmarinarpa.co.za
+DTSTAMP:20150921T225405Z
+CATEGORIES:
+CONTACT:Louise Linde\; 082 8953427
+DESCRIPTION:<p>The art and craft market is always well attended with a vari
+ ety of stalls offering various items. Should you wish to have a stall here
+  please contact Louise directly. Scrumptious breakfasts and light lunches 
+ and a delightfull Curio shop is available on the day.</p>
+DTSTART;TZID=Africa/Johannesburg:20150926T080000
+DTEND;TZID=Africa/Johannesburg:20150926T140000
+GEO:-26.880695;+28.225873
+LOCATION:821 Anchovy Road @ Anchovy Road\, Vaal Marina\, 1945\, South Afric
+ a
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:The Station\, Art\, Craft & food market
+URL:http://www.vaalmarinarpa.co.za/event/the-station-art-craft-food-market/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-706@www.vaalmarinarpa.co.za
-DTSTAMP:20150920T003947Z
+DTSTAMP:20150921T225405Z
 CATEGORIES:
 CONTACT:Bary Hewstone\; 083 777 3777\; baza@hewstone.com
 DESCRIPTION:<p>The Bluegum Spring Picnic at the Vaal dam brings the opening
@@ -98,7 +82,7 @@ X-TAGS;LANGUAGE=en-US:Spring day
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-708@www.vaalmarinarpa.co.za
-DTSTAMP:20150920T003947Z
+DTSTAMP:20150921T225405Z
 CATEGORIES;LANGUAGE=en-US:Tourism
 CONTACT:Gareth Williams-Wynn\; +2711 7061500\; gareth@the-architect.co.za\;
   http://www.vaaldam.org
@@ -110,8 +94,4 @@ DTEND;TZID=Africa/Johannesburg:20151009T191500
 GEO:-26.876262;+28.23766
 LOCATION:Vaalnest Hotel
 SEQUENCE:0
-SUMMARY:Vaal Marina Business & Tourism meeting
-URL:http://www.vaalmarinarpa.co.za/event/vaal-marina-business-tourism-meeti
- ng/
-END:VEVENT
-END:VCALENDAR
+SUMMARY:Vaal Marina Business & T

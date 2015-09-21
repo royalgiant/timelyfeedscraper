@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//206.190.150.84//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://j109.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-610@nelly.gendns.com/~jorg/blog
+DTSTAMP:20150921T224645Z
+CATEGORIES;LANGUAGE=en-US:Regattas\,Southern California
+CONTACT:http://sdyc.org/race/index.php/calendar/events/2983/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://j109.org/blog/wp-content/uploads/2015/01/jfest_logo_2015.jpg' width='18
+ 0' height='180' /></div><p>SDYC is inviting J/Boats from all over SoCal to
+  come and participate in Fall sailing in San Diego!</p>\n<p>One design fle
+ ets slated for J/Fest include the fast growing\, super hot J/70 fleet as w
+ ell as J/22\, J/24\, J/80\, J/105\, J/109\, and J/120 fleets.</p>\n<p>Any 
+ J/Boat is eligible to participate\, and all are welcome to race in One Des
+ ign\, PHRF\, and J/Cruise classes.</p>\n<p>Fun on and off the water includ
+ es competitive racing on the water and social events after sailing!</p>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150928
+GEO:+32.719072;-117.229901
+LOCATION:San Diego YC @ 1011 Anchorage Lane\, San Diego\, CA 92106\, USA
+SEQUENCE:0
+SUMMARY:J/Fest San Diego
+URL:http://j109.org/event/jfest-san-diego/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-450@nelly.gendns.com/~jorg/blog
+DTSTAMP:20150921T224645Z
+CATEGORIES;LANGUAGE=en-US:Long Island Sound (CT / NY)\,Regattas
+CONTACT:http://www.americanyc.org/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://j109.org/blog/wp-content/uploads/2015/01/ayclogo_color1.gif' width='166
+ ' height='166' /></div>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150928
+GEO:+40.941347;-73.696327
+LOCATION:American YC @ 499 Stuyvesant Avenue\, Rye\, NY 10580\, USA
+SEQUENCE:0
+SUMMARY:AYC Fall Series
+URL:http://j109.org/event/ayc-fall-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-451@nelly.gendns.com/~jorg/blog
+DTSTAMP:20150921T224645Z
+CATEGORIES;LANGUAGE=en-US:Long Island Sound (CT / NY)\,Regattas
+CONTACT:http://www.americanyc.org/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://j109.org/blog/wp-content/uploads/2015/01/ayclogo_color1.gif' width='166
+ ' height='166' /></div>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151005
+GEO:+40.941347;-73.696327
+LOCATION:American YC @ 499 Stuyvesant Avenue\, Rye\, NY 10580\, USA
+SEQUENCE:0
+SUMMARY:AYC Fall Series
+URL:http://j109.org/event/ayc-fall-series-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-654@nelly.gendns.com/~jorg/blog
+DTSTAMP:20150921T224645Z
+CATEGORIES;LANGUAGE=en-US:Long Island Sound (CT / NY)\,Regattas
+CONTACT:Barry Gold\; 914-320-5660\; barry@stormtrysailfoundation.org\; http
+ ://www.stormtrysailfoundation.org/intercollegiate.htm
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://j109.org/blog/wp-content/uploads/2015/02/iintercollegiate.jpg' width='1
+ 85' height='100' /></div><p>The Storm Trysail Intercollegiate Offshore Reg
+ atta seeks to help college sailors transition out of dinghys and into big 
+ boats. The Intercollegiate Offshore Regatta is a free event for the studen
+ t sailors as well as for the boat owners. Many thanks to the help of our s
+ ponsors.</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151012
+GEO:+40.923597;-73.745692
+LOCATION:Larchmont YC @ 1 Woodbine Avenue\, Larchmont\, NY 10538\, USA
+SEQUENCE:0
+SUMMARY:Intercollegiate Offshore Regatta
+URL:http://j109.org/event/intercollegiate-offshore-regatta/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-680@nelly.gendns.com/~jorg/blog
+DTSTAMP:20150921T224645Z
+CATEGORIES;LANGUAGE=en-US:Galveston Bay\,Regattas
+CONTACT:http://www.jfestsouthwest.com/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://j109.org/blog/wp-content/uploads/2015/02/jfest2015logo-295x300.jpg' wid
+ th='295' height='300' /></div><p>Part of the 2015 J/109 Galveston Bay Cham
+ pionship series</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151012
+GEO:+29.558921;-95.030889
+LOCATION:Lakewood YC @ 2425 East Nasa Parkway\, Seabrook\, TX 77586\, USA
+SEQUENCE:0
+SUMMARY:J-Fest Southwest
+URL:http://j109.org/event/j-fest-southwest/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2004@j109.org/blog
+DTSTAMP:20150921T224645Z
+CATEGORIES;LANGUAGE=en-US:Class Business\,Key Event
+CONTACT:Bud Rogers\; secretary@j109.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://j109.org/blog/wp-content/uploads/2015/04/j109-logo.jpg' width='54' heig
+ ht='87' /></div><p>The 2015 J/109 Class Annual meeting will be held on <sp
+ an style='color: #000080\;'><strong>Thursday 22 October at 6:30pm East Coa
+ st</strong></span> time in New York City.  The meeting location is:</p>\n<
+ p style='padding-left: 30px\;'><strong><span style='color: #000080\;'>Offi
+ ces of REDI Global Technologies</span></strong><br />\n<strong><span style
+ ='color: #000080\;'>80 Pine St. 27th floor </span></strong><br />\n<strong
+ ><span style='color: #000080\;'>New York\, NY 10005  </span></strong></p>
+ \n<p style='padding-left: 30px\;'>Ask for Jonathan Rechtschaffer at the bu
+ ilding security desk upon arrival.</p>\n<h3><strong><span style='color: #0
+ 00080\;'>Those attending in person please <a href='http://j109.org/rsvpmak
+ er/rsvp-form-j109-class-2015-annual-meeting-2015-10-22/'>RSVP online at th
+ is link</a></span></strong></h3>\n<ul>\n<li>A dial in number will be provi
+ de upon request for those desiring to call in by contacting the J/109 Clas
+ s Secretary <a href='mailto:secretary@j109.org' target='_blank'>secretary@
+ j109.org</a> via email.</li>\n</ul>\n<p><strong><span style='color: #00008
+ 0\;'>The agenda is as follows:</span></strong></p>\n<ol>\n<li>Welcome & Pr
+ esident’s report on 2015 accomplishments – Class President</li>\n<li>Repor
+ ts from Fleet representatives</li>\n<li>Finance report and proposed 2016 b
+ udget – Class Treasurer</li>\n<li>US Sailing MVP Program discounts for J/1
+ 09 Class – Class Treasurer</li>\n<li>North American Championship – Class P
+ resident\n<ol>\n<li>2016 Location (NYYC Race Week 12-16 July 2016)</li>\n<
+ li>European Fleet Potential Participation</li>\n<li>Potential for Loaner B
+ oats & Class insurance via Burgee Program</li>\n<li>Planning for 2017 and 
+ beyond – potential for other YCs to host a dedicated event</li>\n</ol>\n</
+ li>\n<li>Proposed Schedule for 2016 class events (Need inputs from all the
+  districts before meeting) – Class Secretary</li>\n<li>Proposed Fleet Redi
+ stribution so all boats are included in a fleet – Class Secretary</li>\n<l
+ i>Planned website improvements for 2016\n<ol>\n<li>Sail tag registration</
+ li>\n<li>Add fields for cell phone\, work phone with check mark on preferr
+ ed number\, add US Sailing Number with link to persons US Sailing record\,
+  add ISAF code (for later regatta registration upgrade)</li>\n<li>Forum up
+ grade</li>\n<li>Unified login across website for membership and forum</li>
+ \n<li>Content update for PHRF and IRC ratings</li>\n<li>Email tools for Ex
+ ecutive Board</li>\n<li>Feedback on existing site and other potential chan
+ ges\, fixes or improvements</li>\n</ol>\n</li>\n<li>Class Measurers Report
+ \n<ol>\n<li>Rule Changes Vote on Inhauler systems</li>\n<li>Discussion on 
+ Bob Stay Addition</li>\n</ol>\n</li>\n<li>Other new business and discussio
+ n.</li>\n</ol>
+DTSTART;TZID=America/New_York:20151022T183000
+DTEND;TZID=America/New_York:20151022T203000
+GEO:+40.706014;-74.006788
+LOCATION:Offices of REDI Global Technologies @ 80 Pine Street\, New York\, 
+ NY 10005\, USA
+SEQUENCE:0
+SUMMARY:J/109 Class 2015 Annual Meeting
+URL:http://j109.org/event/j109-class-2015-annual-meeting/
+X-TICKETS-URL:http://j109.org/rsvpmaker/rsvp-form-j109-class-2015-annual-me
+ eting-2015-10-22/
+END:VEVENT
+END:VCALENDAR

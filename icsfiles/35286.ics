@@ -1,47 +1,370 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <title>Indiana - Sons of the American Revolution</title>
-    <link href="scripts/StyleMaster.css" rel="stylesheet" type="text/css" />
-</head>
-<!-- Horizontal Menu Section -->
-<!-- End of Menu Section -->
-<body>
-    <!---Standard Page Top --->
-    <table border="0" cellpadding="0" cellspacing="0" width="800">
-        <tr>
-            <td valign="bottom">
-                <center><br />
-                    <img src="objects/ribbon.gif" alt="ribbon" width="100%" height="4" />
-                    </center>
-            </td>
-        </tr>
-    </table>
-    <!--- Main Page Body --->
-    <table align="top" border="0" cellpadding="2" cellspacing="0" width="800">
-        <tr>
-            <td>
-                <br />
-                <br />
-                <center>
-                    <strong>&nbsp;INSSAR.org is under maintenance and temporarily unavailable.</strong><br />
-                    <br />
-                    <img src="objects/const.gif" /><br /><br />
-                </center>
-            </td>
-        </tr>
-
-    </table>
-    <!-- Footer -->
-    <table border="0" cellpadding="0" cellspacing="0" width="800">
-        <tr>
-            <td valign="bottom">
-                <center>
-                    <img src="objects/ribbon.gif" alt="ribbon" width="100%" height="4" />
-                    <span style="font-size: 8pt">&copy; 2015 Indiana Society Sons of the American Revolution
-                        - www.inssar.org</span></center>
-            </td>
-        </tr>
-    </table>
-</body>
-</html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//8.8.246.210//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://inssar.org
+X-WR-TIMEZONE:America/Indiana/Indianapolis
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+X-LIC-LOCATION:America/Indiana/Indianapolis
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-566@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:National - District
+CONTACT:Debbie Smalley\; 502-589-1776 ext. 6123\; dsmalley@sar.org\; https:
+ //www.sar.org/node/1758
+DESCRIPTION:<p>NSSAR Fall Leadership Meeting<br />\nNSSAR Headquarters<br /
+ >\n809 W Main St<br />\nLouisville\, KY 40202<br />\nSept 25-26\, 2015</p>
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150927
+GEO:+38.257373;-85.763338
+LOCATION:NSSAR Headquarters @ 809 West Main Street\, Louisville\, KY 40202\
+ , USA
+SEQUENCE:0
+SUMMARY:Fall Leadership Meeting
+URL:http://inssar.org/event/fall-leadership-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-896@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:National - District
+CONTACT:T. rex Legler\; t.leglerii@comcast.net\; http://cdsar.org
+DESCRIPTION:<p>The 2015 National Society Central District (comprised of the
+  Indiana\, Kentucky\, West Virginia and Ohio Societies) will convene on Oc
+ tober 23rd through the 25th in Madison\, Indiana.</p>\n<p>Lodging reservat
+ ions must be made by <strong>September 15</strong>.<br />\nDeadline for re
+ gistering is <strong>October 9</strong>.</p>\n<p><a href='http://inssar.or
+ g/docs/CentralDistrictMtg_1015.pdf'>Details in Registration Form</a></p>
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151025
+GEO:+38.744492;-85.417246
+LOCATION:Clifty Falls State Park @ Madison\, IN\, USA
+SEQUENCE:0
+SUMMARY:Central District Annual Meeting
+URL:http://inssar.org/event/central-district-annual-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-985@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Color Guard
+CONTACT:Ed HJitchcock\; 812-339-0840\; eeh.1938@gmail.com
+DESCRIPTION:<p>2015 Persimmon Festival Parade at Mitchell<br />\nMuster: 1:
+ 00 PM<br />\nStep: 2:00 PM<br />\nThe parade will start at Lehigh Field on
+  the east side of Mitchell.</p>\n<p>Please contact Ed Hitchcock\, Phone 81
+ 2-339-0840\, if anyone will like to participate or any further information
+ .</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150926T130000
+GEO:+38.737849;-86.460772
+LOCATION:Lehigh Field @ 419 Lake St\, Mitchell\, IN 47446\, USA
+SEQUENCE:0
+SUMMARY:Persimmon Festival – Mitchell
+URL:http://inssar.org/event/persimmon-festival-mitchell/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-965@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Color Guard
+CONTACT:Ken Gilkey\; kengilkey@wowway.com
+DESCRIPTION:<p>Grave-Marking for Patriot Jonathan Jaquess<br />\nSunday Sep
+ t. 27\, 2015<br />\nJaquess Cemetery\, Poseyville\, IN.<br />\nMuster: 2:0
+ 0 PM CDT  <strong>NOTE CENTRAL TIME ZONE</strong><br />\nStep:   3:00 PM C
+ DT<br />\nTask: Host Grave-Marking</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20150927T140000
+GEO:+38.1686;-87.7895
+SEQUENCE:0
+SUMMARY:Patriot Jonathan Jaquess Grave Marking
+URL:http://inssar.org/event/patriot-grave-marking/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-934@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Chapter Meeting
+CONTACT:Randall Eckley\; r.eckley@comcast.net
+DESCRIPTION:<p>Duneland Chapter meetings are held in the second floor meeti
+ ng room<br />\nValparaiso Public Library\,103 Jefferson Street\, Valparais
+ o\, IN<br />\n10:30 AM <strong>Central Time</strong><br />\nFirst Saturday
+  of February\, April\, June\, August\, October and December.   </p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151003T103000
+GEO:+41.469066;-87.058932
+LOCATION:Valparaiso Public Library @ 103 Jefferson Street\, Valparaiso\, IN
+  46383\, USA
+SEQUENCE:0
+SUMMARY:Duneland Chapter
+URL:http://inssar.org/event/duneland-chapter-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-801@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Indiana Society
+CONTACT:Dave Peters\; reticular@yahoo.com
+DESCRIPTION:<p>Location:<br />\nHoliday Inn @ IPFW and The Coliseum<br />\n
+ 4111 Paul Shaffer Drive<br />\nFort Wayne\, Indiana 46825</p>\n<p>Front De
+ sk telephone: (260) 482-3800</p>\n<p>A block of 10 Rooms with a King bed a
+ nd walk-in shower at $105.00 for the night of October 9th have been reserv
+ ed.  Reservations must be made by September 26.  Reservations made after t
+ his date will be provided on a space available basis at the prevailing rat
+ e.</p>\n<p>Registration will begin at 9:30 a.m.</p>\n<p><a href='http://in
+ ssar.org/docs/INSSARmtg_1015.pdf' target='_blank'>Pre-Registration Form</a
+ ></p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151010T100000
+GEO:+41.117493;-85.121669
+LOCATION:Holiday Inn @ IPFW @ 4111 Paul Shaffer Drive\, Fort Wayne\, IN 468
+ 25\, USA
+SEQUENCE:0
+SUMMARY:House of Delegates Mtg
+URL:http://inssar.org/event/house-of-delegates-mtg-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-938@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Chapter Meeting
+CONTACT:Robert Cunningham\; rpcunnin@indiana.edu
+DESCRIPTION:<p>Genealogical Library in the McGrady-Brockman Building\, 7th.
+  & Hart Streets\, Vincennes<br />\n(Across the street from the Public Libr
+ ary)</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151017T133000
+GEO:+38.679423;-87.523089
+LOCATION:McGrady Brockman House @ 614 North 7th Street\, Vincennes\, IN 475
+ 91\, USA
+SEQUENCE:0
+SUMMARY:George Rogers Clark Chapter
+URL:http://inssar.org/event/george-rogers-clark-chapter-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-984@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Color Guard
+CONTACT:Ed Hitchcock\; 812-339-0840\; eeh.1938@gmail.com
+DESCRIPTION:<p>Grave markings for Patriots Henry Marley and Robert Hall in 
+ Green Hill Cemetery on the west side of Orleans\, IN<br />\nMuster: 2:00 P
+ M<br />\nStep: 3:00 PM</p>\n<p>Directions to the Cemetery:<br />\nSouth to
+  Orleans on State Hwy 37\, turn right at the traffic light on the Public S
+ quare in Orleans\, go five blocks west to the cemetery.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151018T140000
+GEO:+38.662801;-86.460496
+LOCATION:Greenhill Cemetery @ 615 W Jefferson St\, Orleans\, IN 47452\, USA
+SEQUENCE:0
+SUMMARY:Patriot Grave Marking
+URL:http://inssar.org/event/patriot-grave-marking-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-839@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Chapter Meeting
+CONTACT:Allen Manning\; algmanning@hotmail.com
+DESCRIPTION:<p>When:  6 PM on 3 March\; 5 May\; 7 July\; 1 September\, and 
+ 3 November<br />\nWhere: Hanover Masonic Lodge<br />\n               239 W
+ . Main St<br />\n               Hanover IN 47243</p>\n<p>A light meal is a
+ vailable for a small donation.  Donations of paperback books and recent ma
+ gazines for the VA Hospital are welcome.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151103T180000
+DTEND;TZID=America/Indiana/Indianapolis:20151103T193000
+GEO:+38.714467;-85.477835
+LOCATION:Hanover Masonic Lodge @ 239 West Main Street\, Hanover\, IN 47243\
+ , USA
+SEQUENCE:0
+SUMMARY:Clifty Creek Chapter
+URL:http://inssar.org/event/clifty-creek-chapter-3-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-891@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Color Guard
+CONTACT:Stuart\; 317-341-3109\; sar.stuart@gmail.com
+DESCRIPTION:<p>Muster at the Expo Hall Indy State Fairgrounds at 2:00\, ste
+ p at 3:00.<br />\nWelcome new citizens and hand out flags.  Please let me 
+ know if you will participate.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151106T140000
+DTEND;TZID=America/Indiana/Indianapolis:20151106T163000
+LOCATION:Indy State Fairgrounds
+SEQUENCE:0
+SUMMARY:Naturalization Court @ International Festival
+URL:http://inssar.org/event/naturalization-court-international-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-975@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Chapter Meeting
+CONTACT:Phil DeHaven\; pdehaven@centurylink.net
+DESCRIPTION:<p>Meetings are held in the Fellowship House of the Hazelwood C
+ hristian Church (Disciples of Christ). Members\, guests\, prospective memb
+ ers\, and visitors assemble in the dining room\, Meetings begin at 10:00 A
+ M (EST).</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151107T100000
+GEO:+40.198505;-85.400997
+LOCATION:Hazelwood Christian Church @ 1400 West University Avenue\, Muncie\
+ , IN 47303\, USA
+SEQUENCE:0
+SUMMARY:Continental Chapter
+URL:http://inssar.org/event/continental-chapter-7/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-910@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Color Guard
+CONTACT:Mark Kreps\; 765 288 4643\; mjkreps@gmail.com\; https://goo.gl/maps
+ /myfb7
+DESCRIPTION:<p><a href='http://www.google.com/url?sa=t&rct=j&q=&esrc=s&sour
+ ce=web&cd=2&cad=rja&uact=8&ved=0CCoQFjAB&url=http%3A%2F%2Fwww.hmdb.org%2Fm
+ arker.asp%3Fmarker%3D52758&ei=3QgcVZy9NdLjoATrh4CwBQ&usg=AFQjCNGL2JQmL0KZ-
+ HPjKYyNy_KWJKaxXw&sig2=QCUkKQSp768c_l0uz_QKpA&bvm=bv.89744112\,d.aWw'><spa
+ n style='color: #1a0dab'>La Balme Massacre Site Marker</span></a></p>\n<p>
+ Annual Commemoration- Northern Commander Mark Kreps. Please let me know if
+  you are interested in participating in this Indiana color guard event. My
+  email address is <mjkreps@gmail.com></p>\n<p>This map can be used for giv
+ ing you directions from you location to La Balme Massacre Site <https://go
+ o.gl/maps/myfb7></p>\n<p>The host chapter is the Col Augustin de LaBalme C
+ hapter\, NSDAR in Columbia City and the official contact for this event is
+  Charlotte Blair\, <a href='mailto:csblair@embarqmail.com'>csblair@embarqm
+ ail.com</a>.  Her  cellphone <a href='tel:260-229-0908'>260-229-0908</a>.<
+ /p>\n<p>Muster 13:00</p>\n<p>March 13:30</p>\n<p>Ceremony is about an hour
+  long.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151107T130000
+DTEND;TZID=America/Indiana/Indianapolis:20151107T143000
+GEO:+41.162825;-85.353484
+LOCATION:La Balme Massacre Site @ Whitley County\, IN\, USA
+SEQUENCE:0
+SUMMARY:Col. Augustin La Balme Massacre Site Commemoration
+URL:http://inssar.org/event/col-augustin-la-balme-massacre-site-commemorati
+ on/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-951@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Color Guard
+CONTACT:Stuart\; 317-341-3109\; sar.stuart@gmail.com
+DESCRIPTION:<p>Wednesday\, 11 Nov 2015 muster in the Scottish Rite parking 
+ lot at 10:15\, step at 11:30-ish.  Parade the colors.  Please let me know 
+ if you will participate.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151111T101500
+DTEND;TZID=America/Indiana/Indianapolis:20151111T123000
+GEO:+39.776172;-86.158271
+LOCATION:Scottish Rite Parking Lot @ 650 North Meridian Street\, Indianapol
+ is\, IN 46204\, USA
+SEQUENCE:0
+SUMMARY:Indy Veterans Day Parade
+URL:http://inssar.org/event/indy-veterans-day-parade/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-821@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Chapter Meeting
+CONTACT:Wayne Eells\; Wayne@GM4JH.com
+DESCRIPTION:<p>Dinner: 18:00 – 19:00<br />\nMCL Cafeteria Castleton 5520 Ca
+ stleton Corner Lane Indianapolis\, IN</p>\n<p>Topic: <em>Awards and Electi
+ ons</em></p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151111T190000
+DTEND;TZID=America/Indiana/Indianapolis:20151111T203000
+GEO:+39.91165;-86.073889
+LOCATION:MCL Castleton @ 5520 Castleton Corner Lane\, Indianapolis\, IN 462
+ 50\, USA
+SEQUENCE:0
+SUMMARY:Clarence A. Cook Chapter
+URL:http://inssar.org/event/clarence-cook-chapter-2-2-2-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-968@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Color Guard
+CONTACT:Ken Gilkey
+DESCRIPTION:<p>Veteran’s Day Parade<br />\nSAT. Nov. 14\, 2015<br />\nMuste
+ r: 1:00 PM CST <strong>NOTE CENTRAL TIME ZONE</strong><br />\nTropicano Ca
+ sino\, Riverside Drive\, Evansville\, IN.<br />\nStep: 2:00 PM CST<br />\n
+ Task: Parade The Colors</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151114T130000
+GEO:+37.971559;-87.57109
+LOCATION:Tropicano Parking Lot @ Evansville\, IN\, USA
+SEQUENCE:0
+SUMMARY:Veterans Day Parade\, Evansville
+URL:http://inssar.org/event/veterans-day-parade-evansville-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-894@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Chapter Meeting
+CONTACT:James Arnold\; JimIndySAR@aol.com
+DESCRIPTION:<p>6 PM Dinner<br />\n7 PM Meeting</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151117T190000
+GEO:+38.871951;-86.49473
+LOCATION:Free Methodist Church @ 630 R Street\, Bedford\, IN 47421\, USA
+SEQUENCE:0
+SUMMARY:Daniel Guthrie Chapter
+URL:http://inssar.org/event/daniel-guthrie-chapter-6/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-964@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Chapter Meeting
+CONTACT:Ken Gilkey\; kengilkey@wowway.com
+DESCRIPTION:<p>Ohio Valley Chapter Meeting<br />\nSAT. Nov. 21\, 2015<br />
+ \n10:00 AM CST <strong>NOTE CENTRAL TIME ZONE</strong><br />\nWillard Libr
+ ary Evansville In.</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151121T100000
+GEO:+37.978345;-87.573998
+LOCATION:Willard Library @ 21 North 1st Avenue\, Evansville\, IN 47710\, US
+ A
+SEQUENCE:0
+SUMMARY:Ohio Valley Chapter
+URL:http://inssar.org/event/ohio-valley-chapter-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-972@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Chapter Meeting
+CONTACT:Jeff W. Jones\; jwjone@hotmail.com
+DESCRIPTION:<p>Anthony Halberstadt Chapter Meeting<br />\nDon Hall’s Old Ga
+ s House Restaurant<br />\n305 East Superior Street<br />\nFort Wayne IN 46
+ 802</p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151205T103000
+GEO:+41.083117;-85.136493
+LOCATION:Don Hall's Old Gas House @ 305 East Superior Street\, Fort Wayne\,
+  IN 46802\, USA
+SEQUENCE:0
+SUMMARY:Anthony Halberstadt Chapter
+URL:http://inssar.org/event/anthony-halberstadt-chapter-5/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-935@inssar.org
+DTSTAMP:20150921T224816Z
+CATEGORIES;LANGUAGE=en-US:Chapter Meeting
+CONTACT:Randall Eckley\; r.eckley@comcast.net
+DESCRIPTION:<p>Duneland Chapter meetings are held in the second floor meeti
+ ng room<br />\nValparaiso Public Library\,103 Jefferson Street\, Valparais
+ o\, IN<br />\n10:30 AM <strong>Central Time</strong><br />\nFirst Saturday
+  of February\, April\, June\, August\, October and December.   </p>
+DTSTART;TZID=America/Indiana/Indianapolis:20151205T103000
+GEO:+41.469066;-87.058932
+LOCATION:Valparaiso Public Library @ 103 Jefferson Street\, Valparaiso\, IN
+  46383\, USA
+SEQUENCE:0
+SUMMARY:Duneland Chapter
+URL:http://inssar.org/event/duneland-chapter-4/
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

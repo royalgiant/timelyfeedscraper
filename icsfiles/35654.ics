@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-180@brandonbritishclub.com
-DTSTAMP:20150920T002326Z
+DTSTAMP:20150921T224747Z
 CATEGORIES;LANGUAGE=en-US:weekly
 CONTACT:Matthew Hall\; mhall@vaco.com
 DESCRIPTION:<p>Football Football Football!</p>\n<p> </p>\n<p><a href='http:
@@ -32,8 +32,8 @@ DESCRIPTION:<p>Football Football Football!</p>\n<p> </p>\n<p><a href='http:
  ='alignleft size-full wp-image-181' alt='soccer' src='http://brandonbritis
  hclub.com/wp-content/uploads/2013/07/soccer.png' width='231' height='218' 
  /></a></p>
-DTSTART;TZID=America/New_York:20150919T170000
-DTEND;TZID=America/New_York:20150919T184500
+DTSTART;TZID=America/New_York:20150926T170000
+DTEND;TZID=America/New_York:20150926T184500
 LOCATION:Baysl  @ 3104 South Kings Avenue\, Brandon\, FL 33511\, USA
 RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
 SEQUENCE:0

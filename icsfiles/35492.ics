@@ -1,11 +1,74 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>/n</p>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//31.47.240.144//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://piratenpartei-saarlouis.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-32931@piratenpartei-saarlouis.de
+DTSTAMP:20150921T224810Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='shariff' data-title='Piraten Saarlouis sammeln Unte
+ rschriften gegen die anlasslose Vorratsdatenspeicherung (VDS)' data-info-u
+ rl='http://ct.de/-2467514' data-backend-url='http://piratenpartei-saarloui
+ s.de/wp-content/plugins/shariff-sharing/backend/index.php' data-temp='/tmp
+ ' data-ttl='60' data-service='gftr' data-services='['googleplus'\,'faceboo
+ k'\,'twitter'\,'reddit'\,'whatsapp'\,'mail']' data-image='' data-url='http
+ ://piratenpartei-saarlouis.de/blog/2015/08/25/piraten-saarlouis-sammeln-un
+ terschriften-gegen-die-anlasslose-vorratsdatenspeicherung-vds/' data-lang=
+ 'de' data-theme='round' data-orientation='horizontal'></div>
+DTSTART;TZID=Europe/Berlin:20151007T190000
+DTEND;TZID=Europe/Berlin:20151007T230000
+GEO:+49.335309;+6.7511
+LOCATION:Glühwürmchen Dillingen/Saar @ Römerstraße 16\, 66740 Saarlouis\, D
+ eutschland
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:Vorstandssitzung und Infoabend der Piratenpartei Kreisverband Saarl
+ ouis
+URL:http://piratenpartei-saarlouis.de/blog/event/vorstandssitzung-und-infoa
+ bend-der-piratenpartei-kreisverband-saarlouis/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-37535@piratenpartei-saarlouis.de
+DTSTAMP:20150921T224810Z
+CATEGORIES;LANGUAGE=de-DE:Termine
+CONTACT:
+DESCRIPTION:<div class='shariff' data-title='Piraten Saarlouis sammeln Unte
+ rschriften gegen die anlasslose Vorratsdatenspeicherung (VDS)' data-info-u
+ rl='http://ct.de/-2467514' data-backend-url='http://piratenpartei-saarloui
+ s.de/wp-content/plugins/shariff-sharing/backend/index.php' data-temp='/tmp
+ ' data-ttl='60' data-service='gftr' data-services='['googleplus'\,'faceboo
+ k'\,'twitter'\,'reddit'\,'whatsapp'\,'mail']' data-image='' data-url='http
+ ://piratenpartei-saarlouis.de/blog/2015/08/25/piraten-saarlouis-sammeln-un
+ terschriften-gegen-die-anlasslose-vorratsdatenspeicherung-vds/' data-lang=
+ 'de' data-theme='round' data-orientation='horizontal'></div>
+DTSTART;TZID=Europe/Berlin:20151010T100000
+DTEND;TZID=Europe/Berlin:20151010T180000
+GEO:+49.315587;+6.750497
+LOCATION:Großer Markt\, 66740 Saarlouis\, Deutschland
+SEQUENCE:0
+SUMMARY:Infostand zu TTIP Saarlouis
+URL:http://piratenpartei-saarlouis.de/blog/event/infostand-zu-ttip-saarloui
+ s/
+END:VEVENT
+END:VCALENDAR

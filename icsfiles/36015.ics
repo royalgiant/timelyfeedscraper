@@ -23,16 +23,180 @@ TZNAME:PDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ai1ec-1368@www.thchapel.org
+DTSTAMP:20150921T224656Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.thchapel.org/wp-content/uploads/2013/08/butterflyssmall-300x187.jpg
+ ' width='300' height='187' /></div><p>Geared toward women 30ish and younge
+ r\, single or married. Bible study and fellowship.</p>\n<p>See Beth Little
+  for details.</p>\n<p> </p>
+DTSTART;TZID=America/Los_Angeles:20150921T010000
+DTEND;TZID=America/Los_Angeles:20150921T020000
+LOCATION:Chapel in the Pines
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=SU
+SEQUENCE:0
+SUMMARY:Daughters of Eve
+URL:http://www.thchapel.org/event/daughters-of-eve/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1454@www.thchapel.org
+DTSTAMP:20150921T224656Z
+CATEGORIES:
+CONTACT:Pastor Wayne\; 586-3284\; assistpastor@thchapel.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.thchapel.org/wp-content/uploads/2013/08/Biblestudy1-300x199.jpg' wi
+ dth='300' height='199' /></div><p>This is an adult Bible Study. All adults
+  are welcome!</p>\n<p>See Pastor Wayne Sparks for details.</p>
+DTSTART;TZID=America/Los_Angeles:20150922T020000
+DTEND;TZID=America/Los_Angeles:20150922T040000
+LOCATION:Coffee shop - Higher Grounds
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Adult Bible Study
+URL:http://www.thchapel.org/event/adult-bible-study/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1460@www.thchapel.org
+DTSTAMP:20150921T224656Z
+CATEGORIES:
+CONTACT:Pastor Dennis\; 586-3284\; pastor@thchapel.org
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.thchapel.org/wp-content/uploads/2013/08/Staffmeetings2-300x177.jpg'
+  width='300' height='177' /></div><p>Staff meetings for the Chapel staff.<
+ /p>
+DTSTART;TZID=America/Los_Angeles:20150922T160000
+DTEND;TZID=America/Los_Angeles:20150922T180000
+LOCATION:Chapel in the Pines
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Staff Meetings
+URL:http://www.thchapel.org/event/staff-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1373@www.thchapel.org
+DTSTAMP:20150921T224656Z
+CATEGORIES:
+CONTACT:Beth Little
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.thchapel.org/wp-content/uploads/2013/08/womensbiblestudy1-300x167.j
+ pg' width='300' height='167' /></div><p>Women of all ages are welcome for 
+ this Bible study\, fellowship\, and prayer time.</p>
+DTSTART;TZID=America/Los_Angeles:20150923T170000
+DTEND;TZID=America/Los_Angeles:20150923T183000
+LOCATION:Chapel in the Pines\, in the cottage.
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Ladies Bible Study
+URL:http://www.thchapel.org/event/ladies-bible-study/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1371@www.thchapel.org
+DTSTAMP:20150921T224656Z
+CATEGORIES:
+CONTACT:Lacy Porter\; 599-4713
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.thchapel.org/wp-content/uploads/2013/08/rubies-300x175.jpg' width='
+ 300' height='175' /></div><p>This Bible study and fellowship is for young 
+ mothers every other week.</p>\n<p>Childcare provided. Meet at the coffee s
+ hop\, (Higher Grounds).</p>\n<p>See Lacy Porter for details.</p>\n<p>Also 
+ she checks the RR Facebook page. <a href='https://www.facebook.com/groups/
+ 176408572407397/' target='_blank'>https://www.facebook.com/groups/17640857
+ 2407397/</a></p>
+DTSTART;TZID=America/Los_Angeles:20150923T170000
+DTEND;TZID=America/Los_Angeles:20150923T180000
+EXDATE;TZID=America/Los_Angeles:20130821T170000
+EXDATE;TZID=America/Los_Angeles:20130828T170000
+EXDATE;TZID=America/Los_Angeles:20130904T170000
+EXDATE;TZID=America/Los_Angeles:20130918T170000
+EXDATE;TZID=America/Los_Angeles:20131002T170000
+EXDATE;TZID=America/Los_Angeles:20131016T170000
+EXDATE;TZID=America/Los_Angeles:20131030T170000
+EXDATE;TZID=America/Los_Angeles:20131113T170000
+EXDATE;TZID=America/Los_Angeles:20131127T170000
+EXDATE;TZID=America/Los_Angeles:20131211T170000
+LOCATION:Chapel in the Pine\, coffee shop
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Righteous Rubies
+URL:http://www.thchapel.org/event/righteous-rubies/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1446@www.thchapel.org
+DTSTAMP:20150921T224656Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.thchapel.org/wp-content/uploads/2013/08/golf1a-300x225.jpg' width='
+ 300' height='225' /></div><p><b>Mountain</b> <b>Springs</b> Golf Club</p>
+ \n<p>17566 Lime Kiln Rd\, Sonora\, CA ‎ (209) 532-1000</p>\n<p><a href='ht
+ tp://www.mountainspringsgolf.com' target='_blank'>mountainspringsgolf.com<
+ /a></p>\n<p> </p>
+DTSTART;TZID=America/Los_Angeles:20150923T210000
+DTEND;TZID=America/Los_Angeles:20150923T230000
+LOCATION:Mountain Springs Golf Course\, Sonora @ 17566 Lime Kiln Road\, Son
+ ora\, CA 95370\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Men’s Golf
+URL:http://www.thchapel.org/event/mens-golf/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-2119@www.thchapel.org
+DTSTAMP:20150921T224656Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.thchapel.org/wp-content/uploads/2014/08/Wedbiblestudy-300x274.jpg' 
+ width='300' height='274' /></div><p>The Bible Study is always at Chapel in
+  the Pines\, but where they meet can vary.</p>\n<p>In the Cottage\, Old Ch
+ apel or even in the Main Sanctuary.</p>\n<p>Contacts are: Patty Sonnenfelt
+ \, or John & Donna Warnock</p>
+DTSTART;TZID=America/Los_Angeles:20150923T164700
+DTEND;TZID=America/Los_Angeles:20150923T174700
+GEO:+38.044118;-120.23344
+LOCATION:Chapel in the Pines @ 18580 Cherokee Drive\, Twain Harte\, CA 9538
+ 3\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Wednesday Night Bible Study
+URL:http://www.thchapel.org/event/wednesday-night-bible-study/
+X-TAGS;LANGUAGE=en-US:Bible Study
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1451@www.thchapel.org
+DTSTAMP:20150921T224656Z
+CATEGORIES:
+CONTACT:Church Office for details\; 586-3284
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.thchapel.org/wp-content/uploads/2013/08/I-want-you2small-300x210.jp
+ g' width='300' height='210' /></div><p><span style='color: #000000\;'>Kids
+  Kingdom Builders 6:30 PM. Contact is KerryAnn Buck</span></p>\n<p><span s
+ tyle='color: #000000\;'>Jr. High Youth Group (7th and 8th Grade) 6:30 PM. 
+ Contact is Ali Ortmann</span></p>\n<p><span style='color: #000000\;'>High 
+ School Youth Group (9th – 12th Grade) 6:30 PM. Contact is Todd Wealty</spa
+ n></p>\n<p><span style='color: #000000\;'>The Bridge (College age) 6:30 PM
+ . Contact is Daniel Porter</span></p>\n<p> </p>
+DTSTART;TZID=America/Los_Angeles:20150923T183000
+DTEND;TZID=America/Los_Angeles:20150923T200000
+LOCATION:Chapel in the Pines
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Youth Groups
+URL:http://www.thchapel.org/event/youth-groups/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1456@www.thchapel.org
-DTSTAMP:20150920T002131Z
+DTSTAMP:20150921T224656Z
 CATEGORIES:
 CONTACT:Pastor Dennis\; 586-3284\; pastor@thchapel.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
  ://www.thchapel.org/wp-content/uploads/2013/08/Prayer1-300x199.jpg' width=
  '300' height='199' /></div><p>Time for prayer. All are welcome to attend.<
  /p>\n<p> </p>
-DTSTART;TZID=America/Los_Angeles:20150919T150000
-DTEND;TZID=America/Los_Angeles:20150919T160000
+DTSTART;TZID=America/Los_Angeles:20150926T150000
+DTEND;TZID=America/Los_Angeles:20150926T160000
 LOCATION:Prayer Room in the main sanctuary
 RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
 SEQUENCE:0
@@ -41,15 +205,15 @@ URL:http://www.thchapel.org/event/prayer/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1376@www.thchapel.org
-DTSTAMP:20150920T002131Z
+DTSTAMP:20150921T224656Z
 CATEGORIES:
 CONTACT:Mary L. Egger\; sec@thchapel.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
  ://www.thchapel.org/wp-content/uploads/2013/08/Muffinssmall2-300x224.jpg' 
  width='300' height='224' /></div><p>A time for Bible study and fellowship 
  for women of all ages. They meet every other week at 9 AM.</p>
-DTSTART;TZID=America/Los_Angeles:20150919T090000
-DTEND;TZID=America/Los_Angeles:20150919T113000
+DTSTART;TZID=America/Los_Angeles:20150926T090000
+DTEND;TZID=America/Los_Angeles:20150926T113000
 EXDATE;TZID=America/Los_Angeles:20130914T090000
 EXDATE;TZID=America/Los_Angeles:20130921T090000
 EXDATE;TZID=America/Los_Angeles:20131005T090000
@@ -96,7 +260,7 @@ URL:http://www.thchapel.org/event/muffins-and-a-message/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1367@www.thchapel.org
-DTSTAMP:20150920T002131Z
+DTSTAMP:20150921T224656Z
 CATEGORIES:
 CONTACT:Chapel Office\; (209) 586-3284\; pastor@thchapel.org
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -105,8 +269,8 @@ DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
  nd usually ends around 11:45 AM</p>\n<p>Child care\, (Sunday school or Chi
  ldren’s Church) is provided. We also have a nursing room for young mothers
  .</p>
-DTSTART;TZID=America/Los_Angeles:20150920T170000
-DTEND;TZID=America/Los_Angeles:20150920T190000
+DTSTART;TZID=America/Los_Angeles:20150927T170000
+DTEND;TZID=America/Los_Angeles:20150927T190000
 EXDATE;TZID=America/Los_Angeles:20131006T170000
 EXDATE;TZID=America/Los_Angeles:20140323T170000
 LOCATION:Chapel in the Pines
@@ -114,169 +278,5 @@ RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
 SEQUENCE:0
 SUMMARY:Sunday Service
 URL:http://www.thchapel.org/event/sunday-service/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1368@www.thchapel.org
-DTSTAMP:20150920T002131Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.thchapel.org/wp-content/uploads/2013/08/butterflyssmall-300x187.jpg
- ' width='300' height='187' /></div><p>Geared toward women 30ish and younge
- r\, single or married. Bible study and fellowship.</p>\n<p>See Beth Little
-  for details.</p>\n<p> </p>
-DTSTART;TZID=America/Los_Angeles:20150921T010000
-DTEND;TZID=America/Los_Angeles:20150921T020000
-LOCATION:Chapel in the Pines
-RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=SU
-SEQUENCE:0
-SUMMARY:Daughters of Eve
-URL:http://www.thchapel.org/event/daughters-of-eve/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1454@www.thchapel.org
-DTSTAMP:20150920T002131Z
-CATEGORIES:
-CONTACT:Pastor Wayne\; 586-3284\; assistpastor@thchapel.org
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.thchapel.org/wp-content/uploads/2013/08/Biblestudy1-300x199.jpg' wi
- dth='300' height='199' /></div><p>This is an adult Bible Study. All adults
-  are welcome!</p>\n<p>See Pastor Wayne Sparks for details.</p>
-DTSTART;TZID=America/Los_Angeles:20150922T020000
-DTEND;TZID=America/Los_Angeles:20150922T040000
-LOCATION:Coffee shop - Higher Grounds
-RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=SU
-SEQUENCE:0
-SUMMARY:Adult Bible Study
-URL:http://www.thchapel.org/event/adult-bible-study/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1460@www.thchapel.org
-DTSTAMP:20150920T002131Z
-CATEGORIES:
-CONTACT:Pastor Dennis\; 586-3284\; pastor@thchapel.org
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.thchapel.org/wp-content/uploads/2013/08/Staffmeetings2-300x177.jpg'
-  width='300' height='177' /></div><p>Staff meetings for the Chapel staff.<
- /p>
-DTSTART;TZID=America/Los_Angeles:20150922T160000
-DTEND;TZID=America/Los_Angeles:20150922T180000
-LOCATION:Chapel in the Pines
-RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=SU
-SEQUENCE:0
-SUMMARY:Staff Meetings
-URL:http://www.thchapel.org/event/staff-meetings/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1373@www.thchapel.org
-DTSTAMP:20150920T002131Z
-CATEGORIES:
-CONTACT:Beth Little
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.thchapel.org/wp-content/uploads/2013/08/womensbiblestudy1-300x167.j
- pg' width='300' height='167' /></div><p>Women of all ages are welcome for 
- this Bible study\, fellowship\, and prayer time.</p>
-DTSTART;TZID=America/Los_Angeles:20150923T170000
-DTEND;TZID=America/Los_Angeles:20150923T183000
-LOCATION:Chapel in the Pines\, in the cottage.
-RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
-SEQUENCE:0
-SUMMARY:Ladies Bible Study
-URL:http://www.thchapel.org/event/ladies-bible-study/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1371@www.thchapel.org
-DTSTAMP:20150920T002131Z
-CATEGORIES:
-CONTACT:Lacy Porter\; 599-4713
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.thchapel.org/wp-content/uploads/2013/08/rubies-300x175.jpg' width='
- 300' height='175' /></div><p>This Bible study and fellowship is for young 
- mothers every other week.</p>\n<p>Childcare provided. Meet at the coffee s
- hop\, (Higher Grounds).</p>\n<p>See Lacy Porter for details.</p>\n<p>Also 
- she checks the RR Facebook page. <a href='https://www.facebook.com/groups/
- 176408572407397/' target='_blank'>https://www.facebook.com/groups/17640857
- 2407397/</a></p>
-DTSTART;TZID=America/Los_Angeles:20150923T170000
-DTEND;TZID=America/Los_Angeles:20150923T180000
-EXDATE;TZID=America/Los_Angeles:20130821T170000
-EXDATE;TZID=America/Los_Angeles:20130828T170000
-EXDATE;TZID=America/Los_Angeles:20130904T170000
-EXDATE;TZID=America/Los_Angeles:20130918T170000
-EXDATE;TZID=America/Los_Angeles:20131002T170000
-EXDATE;TZID=America/Los_Angeles:20131016T170000
-EXDATE;TZID=America/Los_Angeles:20131030T170000
-EXDATE;TZID=America/Los_Angeles:20131113T170000
-EXDATE;TZID=America/Los_Angeles:20131127T170000
-EXDATE;TZID=America/Los_Angeles:20131211T170000
-LOCATION:Chapel in the Pine\, coffee shop
-RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
-SEQUENCE:0
-SUMMARY:Righteous Rubies
-URL:http://www.thchapel.org/event/righteous-rubies/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1446@www.thchapel.org
-DTSTAMP:20150920T002131Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.thchapel.org/wp-content/uploads/2013/08/golf1a-300x225.jpg' width='
- 300' height='225' /></div><p><b>Mountain</b> <b>Springs</b> Golf Club</p>
- \n<p>17566 Lime Kiln Rd\, Sonora\, CA ‎ (209) 532-1000</p>\n<p><a href='ht
- tp://www.mountainspringsgolf.com' target='_blank'>mountainspringsgolf.com<
- /a></p>\n<p> </p>
-DTSTART;TZID=America/Los_Angeles:20150923T210000
-DTEND;TZID=America/Los_Angeles:20150923T230000
-LOCATION:Mountain Springs Golf Course\, Sonora @ 17566 Lime Kiln Road\, Son
- ora\, CA 95370\, USA
-RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
-SEQUENCE:0
-SUMMARY:Men’s Golf
-URL:http://www.thchapel.org/event/mens-golf/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-2119@www.thchapel.org
-DTSTAMP:20150920T002131Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.thchapel.org/wp-content/uploads/2014/08/Wedbiblestudy-300x274.jpg' 
- width='300' height='274' /></div><p>The Bible Study is always at Chapel in
-  the Pines\, but where they meet can vary.</p>\n<p>In the Cottage\, Old Ch
- apel or even in the Main Sanctuary.</p>\n<p>Contacts are: Patty Sonnenfelt
- \, or John & Donna Warnock</p>
-DTSTART;TZID=America/Los_Angeles:20150923T164700
-DTEND;TZID=America/Los_Angeles:20150923T174700
-GEO:+38.044118;-120.23344
-LOCATION:Chapel in the Pines @ 18580 Cherokee Drive\, Twain Harte\, CA 9538
- 3\, USA
-RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
-SEQUENCE:0
-SUMMARY:Wednesday Night Bible Study
-URL:http://www.thchapel.org/event/wednesday-night-bible-study/
-X-TAGS;LANGUAGE=en-US:Bible Study
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1451@www.thchapel.org
-DTSTAMP:20150920T002131Z
-CATEGORIES:
-CONTACT:Church Office for details\; 586-3284
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.thchapel.org/wp-content/uploads/2013/08/I-want-you2small-300x210.jp
- g' width='300' height='210' /></div><p><span style='color: #000000\;'>Kids
-  Kingdom Builders 6:30 PM. Contact is KerryAnn Buck</span></p>\n<p><span s
- tyle='color: #000000\;'>Jr. High Youth Group (7th and 8th Grade) 6:30 PM. 
- Contact is Ali Ortmann</span></p>\n<p><span style='color: #000000\;'>High 
- School Youth Group (9th – 12th Grade) 6:30 PM. Contact is Todd Wealty</spa
- n></p>\n<p><span style='color: #000000\;'>The Bridge (College age) 6:30 PM
- . Contact is Daniel Porter</span></p>\n<p> </p>
-DTSTART;TZID=America/Los_Angeles:20150923T183000
-DTEND;TZID=America/Los_Angeles:20150923T200000
-LOCATION:Chapel in the Pines
-RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
-SEQUENCE:0
-SUMMARY:Youth Groups
-URL:http://www.thchapel.org/event/youth-groups/
 END:VEVENT
 END:VCALENDAR

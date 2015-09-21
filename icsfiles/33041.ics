@@ -23,70 +23,69 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:jgosqueh8o66r9esrh0o6j26bg@google.com
-DTSTAMP:20150920T003553Z
+UID:gncljpunvnhfvnq9bstuknv180@google.com
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
-DTSTART;VALUE=DATE:20150920
-DTEND;VALUE=DATE:20150921
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+LOCATION:Styers Orchard
 SEQUENCE:0
-SUMMARY:Rally Day
-URL:http://www.christmethodist.net/event/rally-day-2
+SUMMARY:Night at Styers Orchard
+URL:http://www.christmethodist.net/event/night-at-styers-orchard
 END:VEVENT
 BEGIN:VEVENT
-UID:k66a2101ac16fhll64qdes7kos@google.com
-DTSTAMP:20150920T003553Z
+UID:s6v79bsrr3ldmgjcs702965bc4@google.com
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
-DTSTART;TZID=America/New_York:20150919T080000
-DTEND;TZID=America/New_York:20150919T090000
+DTSTART;VALUE=DATE:20151011
+DTEND;VALUE=DATE:20151012
 SEQUENCE:0
-SUMMARY:Mens Breakfast
-URL:http://www.christmethodist.net/event/mens-breakfast-11
+SUMMARY:Blessing of the Animals
+URL:http://www.christmethodist.net/event/blessing-of-the-animals-4
 END:VEVENT
 BEGIN:VEVENT
-UID:fo8srgfj85out826aj3pof240g@google.com
-DTSTAMP:20150920T003553Z
+UID:heqjfb04bp1sjkm85c56h0q3ns@google.com
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
-DTSTART;TZID=America/New_York:20150919T093000
-DTEND;TZID=America/New_York:20150919T103000
+DTSTART;VALUE=DATE:20151018
+DTEND;VALUE=DATE:20151019
 SEQUENCE:0
-SUMMARY:Safe Sanctuary Training
-URL:http://www.christmethodist.net/event/safe-sanctuary-training-4
+SUMMARY:Friends Club Hayride
+URL:http://www.christmethodist.net/event/friends-club-hayride-2
 END:VEVENT
 BEGIN:VEVENT
-UID:1rh308umep0pjj9u6lhcbh2pdc@google.com
-DTSTAMP:20150920T003553Z
+UID:62ovsgipri3608s8ql36q6990g@google.com
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T093000
-DTEND;TZID=America/New_York:20150920T103000
-RRULE:FREQ=WEEKLY;COUNT=6;BYDAY=SU
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
 SEQUENCE:0
-SUMMARY:Sunday School
-URL:http://www.christmethodist.net/event/sunday-school-15
+SUMMARY:Trunk or Treat
+URL:http://www.christmethodist.net/event/trunk-or-treat-2
 END:VEVENT
 BEGIN:VEVENT
-UID:f2492la2o8eph1nn4fsuk27kbk@google.com
-DTSTAMP:20150920T003553Z
+UID:mh6tr37c5icp1osjd815jsdp2k@google.com
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T103000
-DTEND;TZID=America/New_York:20150920T113000
-RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SU
+DTSTART;VALUE=DATE:20151028
+DTEND;VALUE=DATE:20151029
 SEQUENCE:0
-SUMMARY:Hands for Christ
-URL:http://www.christmethodist.net/event/hands-for-christ-6
+SUMMARY:Charge Conference
+URL:http://www.christmethodist.net/event/charge-conference
 END:VEVENT
 BEGIN:VEVENT
 UID:ettp8u5gghku5mbg18kchug5v8@google.com
-DTSTAMP:20150920T003553Z
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -98,7 +97,7 @@ URL:http://www.christmethodist.net/event/cumw-get-together
 END:VEVENT
 BEGIN:VEVENT
 UID:re2sal5tb02qjui2n44d95nf7g@google.com
-DTSTAMP:20150920T003553Z
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -110,7 +109,7 @@ URL:http://www.christmethodist.net/event/nominating-committee
 END:VEVENT
 BEGIN:VEVENT
 UID:hnpn1uov4lh386ouv95r0hh6eo@google.com
-DTSTAMP:20150920T003553Z
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -123,7 +122,7 @@ URL:http://www.christmethodist.net/event/crochet-group
 END:VEVENT
 BEGIN:VEVENT
 UID:f7ur5e9t0lhla84rdiq8e630cs@google.com
-DTSTAMP:20150920T003553Z
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -136,7 +135,7 @@ URL:http://www.christmethodist.net/event/friends-club-5
 END:VEVENT
 BEGIN:VEVENT
 UID:m3h0se96tnl3mhpl7grbu01ldg@google.com
-DTSTAMP:20150920T003553Z
+DTSTAMP:20150921T225220Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -145,5 +144,31 @@ DTEND;TZID=America/New_York:20150926T103000
 SEQUENCE:0
 SUMMARY:Hospitality Training Event
 URL:http://www.christmethodist.net/event/hospitality-training-event
+END:VEVENT
+BEGIN:VEVENT
+UID:1rh308umep0pjj9u6lhcbh2pdc@google.com
+DTSTAMP:20150921T225220Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T093000
+DTEND;TZID=America/New_York:20150927T103000
+RRULE:FREQ=WEEKLY;COUNT=6;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Sunday School
+URL:http://www.christmethodist.net/event/sunday-school-15
+END:VEVENT
+BEGIN:VEVENT
+UID:f2492la2o8eph1nn4fsuk27kbk@google.com
+DTSTAMP:20150921T225220Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T103000
+DTEND;TZID=America/New_York:20150927T113000
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Hands for Christ
+URL:http://www.christmethodist.net/event/hands-for-christ-6
 END:VEVENT
 END:VCALENDAR

@@ -24,14 +24,14 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-970@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 LG aufgelegt
 CONTACT:Heinz Käppler
 DESCRIPTION:<h6>SSK7 RuKa LG aufgelegt :<strong> </strong></h6>\n<h6><stron
  g>SSV Hemsbach</strong> – SSV Rittenweier 1</h6>
 DTSTART;TZID=Europe/Berlin:20150925T180000
-GEO:+49.60051;+8.628332
-LOCATION:SSV Hemsbach @ 69502 Hemsbach\, Deutschland
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
 SEQUENCE:0
 SUMMARY:LG aufgelegt: SSV Hemsbach – SSV Rittenweier 1
 URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-ruka-lg-aufgelegt-ss
@@ -39,8 +39,55 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-ruka-lg-aufgelegt-ss
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1043@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 2.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20150926T140000
+GEO:+49.55509;+8.669895
+LOCATION:SSV Weinheim @ Birkenauer Talstraße 1\, 69469 Weinheim\, Deutschla
+ nd
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Weinheim – SSV Hemsbach 3
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-sv-sandhofen-ss
+ v-hemsbach-1-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1042@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 2.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20150926T140000
+GEO:+49.559985;+8.48892
+LOCATION:Sv Sandhofen @ Alter Frankfurter Weg 15\, 68307 Mannheim\, Deutsch
+ land
+SEQUENCE:0
+SUMMARY:VL Gewehr: SV Sandhofen – SSV Hemsbach 1
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-sv-sandhofen-ss
+ v-hemsbach-1
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1031@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Pistole
+CONTACT:Rolf Aefelein
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionspistole – 3.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151003T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Pistole: SSV Hemsbach 1 – SSV Sulzbach
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-pistole-ssv-hemsbach-1
+ -ssv-sulzbach
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-999@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:BSV LL N LG
 CONTACT:Manfred SCHWARZ
 DESCRIPTION:<p>BSV Landesliga Nord Luftgewehr 1.Wettkampf</p>
@@ -54,8 +101,86 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lg-sv-walldorf-ssv-h
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1008@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:BSV LL N LP
+CONTACT:
+DESCRIPTION:<p>BSV Landesliga Nord Luftpistole 1.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151004T093000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach  @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:LL N LP: SSV Hemsbach I – SSV Maischenberg III
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lp-ssv-hemsbach-i-ss
+ v-maischenberg-iii
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1020@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 LG aufgelegt
+CONTACT:Heinz Käppler
+DESCRIPTION:<h6>SSK7 RuKa LG aufgelegt: 11.Wettkampf</h6>
+DTSTART;TZID=Europe/Berlin:20151008T180000
+GEO:+49.464134;+8.602398
+LOCATION:SG Neckarhausen @ Hauptstraße 389\, 68535 Edingen-Neckarhausen\, D
+ eutschland
+SEQUENCE:0
+SUMMARY:LG aufgelegt: SG Neckarhausen – SSV Hemsbach
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-ruka-lg-aufgelegt-ss
+ v-hemsbach-ssv-rittenweier-1-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1045@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 3.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151010T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Hemsbach 1 – SSV Weinheim 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-hemsbach-1-
+ ssv-weinheim-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1044@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 3.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151010T140000
+GEO:+49.55509;+8.669895
+LOCATION:SSV Weinheim @ Birkenauer Talstraße 1\, 69469 Weinheim\, Deutschla
+ nd
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Weinheim 1 – SSV Hemsbach 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-weinheim-ss
+ v-hemsbach-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1046@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 3.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151010T140000
+GEO:+49.559985;+8.48892
+LOCATION:Sv Sandhofen @ Alter Frankfurter Weg 15\, 68307 Mannheim\, Deutsch
+ land
+SEQUENCE:0
+SUMMARY:VL Gewehr: SV Sandhofen – SSV Hemsbach 3
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-sv-sandhofen-ss
+ v-hemsbach-3
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-992@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KLA LG
 CONTACT:Heinz KÄPPLER
 DESCRIPTION:<p>SSK7 Kreisliga A Luftgewehr 1.Wettkampf</p>
@@ -70,7 +195,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-981@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KOL LG
 CONTACT:Rainer BÖHM
 DESCRIPTION:<p>SSK7 Kreisoberliga Luftgewehr 1.Wettkampf</p>
@@ -83,8 +208,54 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=lg-hemsbach2-weinheim1
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1073@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 AEV
+CONTACT:
+DESCRIPTION:<p>SSK7 AEV 2016: 1.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151017T093000
+GEO:+49.55509;+8.669895
+LOCATION:SSV Weinheim @ Birkenauer Talstraße 1\, 69469 Weinheim\, Deutschla
+ nd
+SEQUENCE:0
+SUMMARY:SSK7 AEV: Weinheim
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-aev-weinheim
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1036@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Pistole
+CONTACT:Rolf Aefelein
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionspistole – 4.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151017T140000
+GEO:+49.446594;+8.475076
+LOCATION:SVgg Neckarau @ Baloghweg 14\, 68199 Mannheim\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Pistole: SSV Hemsbach 2 – SVgg Neckarau 1
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-pistole-ssv-hemsbach-1
+ -ssv-sulzbach-2-3
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1032@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Pistole
+CONTACT:Rolf Aefelein
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionspistole – 4.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151017T140000
+GEO:+49.55509;+8.669895
+LOCATION:SSV Weinheim @ Birkenauer Talstraße 1\, 69469 Weinheim\, Deutschla
+ nd
+SEQUENCE:0
+SUMMARY:VL Pistole: SSV Weinheim 1 – SSV Hemsbach 1
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-pistole-ssv-hemsbach-1
+ -ssv-sulzbach-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1000@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:BSV LL N LG
 CONTACT:Manfred SCHWARZ
 DESCRIPTION:<p>BSV Landesliga Nord Luftgewehr 2.Wettkampf</p>
@@ -98,8 +269,68 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lg-sv-walldorf-ssv-h
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1010@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:BSV LL N LP
+CONTACT:
+DESCRIPTION:<p>BSV Landesliga Nord Luftpistole 2.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151018T093000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach  @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:LL N LP: SSV Hemsbach I – SSV Necharau I
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lp-ssv-hemsbach-i-ss
+ v-maischenberg-iii-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1022@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 LG aufgelegt
+CONTACT:Heinz Käppler
+DESCRIPTION:<h6>SSK7 RuKa LG aufgelegt :<b> 12.Wettkampf</b></h6>
+DTSTART;TZID=Europe/Berlin:20151023T180000
+GEO:+49.480849;+8.740161
+LOCATION:SSV Altenbach  @ Altenbach\, 69198 Schriesheim\, Deutschland
+SEQUENCE:0
+SUMMARY:LG aufgelegt: SSV Altenbach – SSV Hemsbach
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-ruka-lg-aufgelegt-ss
+ v-hemsbach-ssv-rittenweier-1-3
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1048@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 4.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151024T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Hemsbach 3 – SSV Hemsbach 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-hemsbach-3-
+ ssv-hemsbach-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1047@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 4.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151024T140000
+GEO:+49.579064;+8.664555
+LOCATION:SSV Sulzbach @ Mühlberg 1\, 69469 Weinheim\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Sulzbach – SSV Hemsbach 1
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-sulzbach-ss
+ v-hemsbach-1
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-993@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KLA LG
 CONTACT:Heinz KÄPPLER
 DESCRIPTION:<p>SSK7 Kreisliga A Luftgewehr 1.Wettkampf</p>
@@ -114,7 +345,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-985@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KOL LG
 CONTACT:Manfred SCHWARZ
 DESCRIPTION:<h6>SSK7 Kreisoberliga Luftgewehr 2.Wettkampf</h6>
@@ -125,8 +356,37 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=lg-hemsbach2-weinheim1-2
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1074@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 AEV
+CONTACT:
+DESCRIPTION:<p>SSK7 AEV 2016: 2.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151031T093000
+GEO:+49.507318;+8.706909
+LOCATION:SSV Rittenweier @ Höhenweg\, 69469 Weinheim\, Deutschland
+SEQUENCE:0
+SUMMARY:SSK7 AEV: Rittenweier
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-aev-weinheim-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1034@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Pistole
+CONTACT:Rolf Aefelein
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionspistole – 5.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151031T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Pistole: SSV Hemsbach 1 – SSV Hemsbach 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-pistole-ssv-hemsbach-1
+ -ssv-sulzbach-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1001@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:BSV LL N LG
 CONTACT:Manfred SCHWARZ
 DESCRIPTION:<p>BSV Landesliga Nord Luftgewehr 3.Wettkampf</p>
@@ -141,8 +401,69 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lg-sv-walldorf-ssv-h
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1011@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:BSV LL N LP
+CONTACT:
+DESCRIPTION:<p>BSV Landesliga Nord Luftpistole 3.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151101T093000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach  @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:LL N LP: SSV Hemsbach I – SSV Wieblingen I
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lp-ssv-hemsbach-i-ss
+ v-maischenberg-iii-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1024@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 LG aufgelegt
+CONTACT:Heinz Käppler
+DESCRIPTION:<h6>SSK7 RuKa LG aufgelegt :<b> 13.Wettkampf</b></h6>
+DTSTART;TZID=Europe/Berlin:20151104T180000
+GEO:+49.509993;+8.633068
+LOCATION:SG Heddesheim @ Am Bundesbahnhof 15\, 68542 Heddesheim\, Deutschla
+ nd
+SEQUENCE:0
+SUMMARY:LG aufgelegt: SG Heddesheim – SSV Hemsbach
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-ruka-lg-aufgelegt-ss
+ v-hemsbach-ssv-rittenweier-1-3-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1050@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 5.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151107T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Hemsbach 1 – SSV Hemsbach 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-hemsbach-3-
+ ssv-hemsbach-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1051@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 5.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151107T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Hemsbach 3 – SSV Weinheim 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-hemsbach-3-
+ ssv-hemsbach-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-994@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KLA LG
 CONTACT:Heinz KÄPPLER
 DESCRIPTION:<p>SSK7 Kreisliga A Luftgewehr 3.Wettkampf</p>
@@ -157,7 +478,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-983@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KOL LG
 CONTACT:Rainer BÖHM
 DESCRIPTION:<p>SSK7 Kreisoberliga Luftgewehr 3.Wettkampf</p>
@@ -171,7 +492,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1003@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:BSV LL N LG
 CONTACT:Manfred SCHWARZ
 DESCRIPTION:<p>BSV Landesliga Nord Luftgewehr 4.Wettkampf</p>
@@ -185,8 +506,82 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lg-sv-walldorf-ssv-h
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1014@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:BSV LL N LP
+CONTACT:
+DESCRIPTION:<p>BSV Landesliga Nord Luftpistole 4.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151114T093000
+GEO:+49.31292;+8.62281
+LOCATION:SV Walldorf @ Rennbahnstr. 69\, 69190 Walldorf\, Deutschland
+SEQUENCE:0
+SUMMARY:LL N LP: SV Walldorf II – SSV Hemsbach I
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lp-ssv-hemsbach-i-ss
+ v-maischenberg-iii-2-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1076@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 AEV
+CONTACT:
+DESCRIPTION:<p>SSK7 AEV 2016: 3.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151114T093000
+GEO:+49.614863;+8.641539
+LOCATION:SSV Laudenbach
+SEQUENCE:0
+SUMMARY:SSK7 AEV: Laudenbach
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-aev-weinheim-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1038@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Pistole
+CONTACT:Rolf Aefelein
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionspistole – 6.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151114T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Pistole: SSV Hemsbach 1 – SVgg Neckarau 1
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-pistole-ssv-sulzbach-s
+ sv-hemsbach-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1037@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Pistole
+CONTACT:Rolf Aefelein
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionspistole – 6.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151114T140000
+GEO:+49.579064;+8.664555
+LOCATION:SSV Sulzbach @ Mühlberg 1\, 69469 Weinheim\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Pistole: SSV Sulzbach – SSV Hemsbach 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-pistole-ssv-sulzbach-s
+ sv-hemsbach-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1026@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 LG aufgelegt
+CONTACT:Heinz Käppler
+DESCRIPTION:<h6>SSK7 RuKa LG aufgelegt :<b> 14.Wettkampf</b></h6>
+DTSTART;TZID=Europe/Berlin:20151120T180000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach  @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:LG aufgelegt: SSV Hemsbach – SSV Schriesheim
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-ruka-lg-aufgelegt-ss
+ v-hemsbach-ssv-rittenweier-1-3-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-986@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KOL LG
 CONTACT:Rainer BÖHM
 DESCRIPTION:<p>SSK7 Kreisoberliga Luftgewehr 4.Wettkampf</p>
@@ -199,8 +594,69 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=lg-hemsbach2-weinheim1-3
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1053@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 6.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151121T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Hemsbach 2 – SSV Sandhofen
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-hemsbach-3-
+ ssv-hemsbach-2-2-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1052@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 6.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151121T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Hemsbach 3 – SSV Sulzbach
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-hemsbach-3-
+ ssv-hemsbach-2-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1078@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 AEV
+CONTACT:
+DESCRIPTION:<p>SSK7 AEV 2016: 4.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151128T093000
+GEO:+49.509993;+8.633068
+LOCATION:SG Heddesheim @ Am Bundesbahnhof 15\, 68542 Heddesheim\, Deutschla
+ nd
+SEQUENCE:0
+SUMMARY:SSK7 AEV: Heddesheim
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-aev-weinheim-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1039@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Pistole
+CONTACT:Rolf Aefelein
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionspistole – 7.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151128T140000
+GEO:+49.611909;+8.456899
+LOCATION:SSV Lampertheim @ Rosenaustraße 20\, 68623 Lampertheim\, Deutschla
+ nd
+SEQUENCE:0
+SUMMARY:VL Pistole: SSV Lampertheim –  SSV Hemsbach 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-pistole-ssv-sulzbach-s
+ sv-hemsbach-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1004@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:BSV LL N LG
 CONTACT:Manfred SCHWARZ
 DESCRIPTION:<p>BSV Landesliga Nord Luftgewehr 5.Wettkampf</p>
@@ -214,8 +670,83 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lg-sv-walldorf-ssv-h
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1013@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:BSV LL N LP
+CONTACT:
+DESCRIPTION:<p>BSV Landesliga Nord Luftpistole 5.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151129T093000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach  @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:LL N LP: SSV Hemsbach I – SV Dielheim I
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lp-ssv-hemsbach-i-ss
+ v-maischenberg-iii-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1080@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 AEV
+CONTACT:
+DESCRIPTION:<p>SSK7 AEV 2016: 5.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151205T093000
+GEO:+49.532403;+8.668483
+LOCATION:SSV Lützelsachsen @ Dornbachweg\, 69469 Weinheim\, Deutschland
+SEQUENCE:0
+SUMMARY:SSK7 AEV: Lützelsachsen
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-aev-weinheim-2-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1054@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 7.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151205T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Hemsbach 1 – SSV Weinheim 1
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-hemsbach-3-
+ ssv-hemsbach-2-2-2-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1055@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Gewehr
+CONTACT:
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionsgewehr – 7.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20151205T140000
+GEO:+49.55509;+8.669895
+LOCATION:SSV Weinheim @ Birkenauer Talstraße 1\, 69469 Weinheim\, Deutschla
+ nd
+SEQUENCE:0
+SUMMARY:VL Gewehr: SSV Weinheim 2 – SSV Hemsbach 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-gewehr-ssv-weinheim-ss
+ v-hemsbach-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1041@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 VL Pistole
+CONTACT:Rolf Aefelein
+DESCRIPTION:<p>SSK7 VL-RuKa Perkussionspistole – 8.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151205T140000
+GEO:+49.600626;+8.628015
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach\, Deutschland
+SEQUENCE:0
+SUMMARY:VL Pistole: SSV Hemsbach 2 – SVgg Neckarau 2
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=vl-pistole-ssv-sulzbach-s
+ sv-hemsbach-2-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-995@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KLA LG
 CONTACT:Heinz KÄPPLER
 DESCRIPTION:<p>SSK7 Kreisliga A Luftgewehr 5.Wettkampf</p>
@@ -230,7 +761,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-987@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KOL LG
 CONTACT:Rainer BÖHM
 DESCRIPTION:<p>SSK7 Kreisoberliga Luftgewehr 5.Wettkampf</p>
@@ -245,7 +776,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1006@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:BSV LL N LG
 CONTACT:Manfred SCHWARZ
 DESCRIPTION:<p>BSV Landesliga Nord Luftgewehr 6.Wettkampf</p>
@@ -259,8 +790,23 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lg-sv-walldorf-ssv-h
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1016@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:BSV LL N LP
+CONTACT:
+DESCRIPTION:<p>BSV Landesliga Nord Luftpistole 6.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20151213T093000
+GEO:+49.43458;+8.53709
+LOCATION:SV Rheinau @ Stangenbrunnenweg 7\, 68219 Mannheim\, Deutschland
+SEQUENCE:0
+SUMMARY:LL N LP: SV Rheinau I – SSV Hemsbach I
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lp-ssv-hemsbach-i-ss
+ v-maischenberg-iii-2-2-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-997@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KLA LG
 CONTACT:Heinz KÄPPLER
 DESCRIPTION:<p>SSK7 Kreisliga A Luftgewehr 6.Wettkampf</p>
@@ -275,7 +821,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-988@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KOL LG
 CONTACT:Rainer BÖHM
 DESCRIPTION:<p>SSK7 Kreisoberliga Luftgewehr 6.Wettkampf</p>
@@ -289,8 +835,23 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=lg-hemsbach2-weinheim1-3-
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1081@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:SSK7 AEV
+CONTACT:
+DESCRIPTION:<p>SSK7 AEV 2016: 6.Wettkampftag</p>
+DTSTART;TZID=Europe/Berlin:20160123T093000
+GEO:+49.532403;+8.668483
+LOCATION:SSV Hemsbach @ An der Weide 4\, 69502 Hemsbach
+SEQUENCE:0
+SUMMARY:SSK7 AEV: Hemsbach
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ssk7-aev-weinheim-2-2-2-2
+ -2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1007@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:BSV LL N LG
 CONTACT:Manfred SCHWARZ
 DESCRIPTION:<p>BSV Landesliga Nord Luftgewehr 7.Wettkampf</p>
@@ -304,8 +865,24 @@ URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lg-sv-walldorf-ssv-h
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1018@ssv-hemsbach.de/wordpress
+DTSTAMP:20150921T224712Z
+CATEGORIES;LANGUAGE=de-DE:BSV LL N LP
+CONTACT:
+DESCRIPTION:<p>BSV Landesliga Nord Luftpistole 7.Wettkampf</p>
+DTSTART;TZID=Europe/Berlin:20160124T093000
+GEO:+49.55509;+8.669895
+LOCATION:SSV Weinheim  @ Birkenauer Talstraße 1\, 69469 Weinheim\, Deutschl
+ and
+SEQUENCE:0
+SUMMARY:LL N LP: SSV Weinheim I – SSV Hemsbach I
+URL:http://ssv-hemsbach.de/wordpress/?ai1ec_event=ll-n-lp-ssv-hemsbach-i-ss
+ v-maischenberg-iii-2-2-2-2-2-2
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-996@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KLA LG
 CONTACT:Heinz KÄPPLER
 DESCRIPTION:<p>SSK7 Kreisliga A Luftgewehr 7.Wettkampf</p>
@@ -320,7 +897,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-989@ssv-hemsbach.de/wordpress
-DTSTAMP:20150920T002146Z
+DTSTAMP:20150921T224712Z
 CATEGORIES;LANGUAGE=de-DE:SSK7 KOL LG
 CONTACT:Rainer BÖHM
 DESCRIPTION:<p>SSK7 Kreisoberliga Luftgewehr 7.Wettkampf</p>

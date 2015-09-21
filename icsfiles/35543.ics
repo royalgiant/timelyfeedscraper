@@ -23,41 +23,8 @@ TZNAME:BRST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-169@institutobazzi.com
-DTSTAMP:20150920T002346Z
-CATEGORIES;LANGUAGE=pt-BR:SÃO PAULO
-CONTACT:(11) 3675-2986\; paula.sudan@wcca.com.br\; http://institutobazzi.co
- m/
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://i1.wp.com/institutobazzi.com/wp-content/uploads/2015/06/2015-02-CURSO-E
- STRATÉGIAS-TERAPÊUTICAS-PARA-AS-DOENÇAS-DA-ALMA-SAO-PAULO.jpg?fit=300%2C30
- 0' width='' height='' /></div><p>Terapias à vidas passadas\, técnicas que 
- atuam na muldimensionalidade\, Coaching evolutivo\, Constelação Sistêmica\
- , terapêutica para quadros psicóticos com interferências espirituais e tan
- tas outras estratégias voltadas às doenças da alma.</p>\n<a class='lts_but
- ton lts_button_default lt_rounded lt_circular lt_flat '  style='background
- :#6b88f2\;color:#ffffff!important\;border-color:#6b88f2\;' href='http://in
- stitutobazzi.com/curso-sao-paulo-curso-estrategias-terapeuticas-para-as-do
- encas-da-alma-201502/'>MAIS INFORMAÇÕES</a>
-DTSTART;VALUE=DATE:20150919
-DTEND;VALUE=DATE:20150920
-GEO:-23.449855;-46.617193
-LOCATION:INSTITUTO BAZZI @ Avenida Nova Cantareira\, 5880 - Tucuruvi\, São 
- Paulo - SP\, 02341-002\, Brasil
-RDATE;TZID=America/Sao_Paulo:20150919T000000
-RDATE;TZID=America/Sao_Paulo:20151003T000000
-RDATE;TZID=America/Sao_Paulo:20151017T000000
-RDATE;TZID=America/Sao_Paulo:20151114T000000
-RDATE;TZID=America/Sao_Paulo:20151212T000000
-SEQUENCE:0
-SUMMARY:CURSO SÃO PAULO – 2015/02 – CURSO ESTRATÉGIAS TERAPÊUTICAS PARA AS 
- DOENÇAS DA ALMA
-URL:http://institutobazzi.com/event/curso-sao-paulo-201502-curso-estrategia
- s-terapeuticas-para-as-doencas-da-alma/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-168@institutobazzi.com
-DTSTAMP:20150920T002346Z
+DTSTAMP:20150921T224757Z
 CATEGORIES;LANGUAGE=pt-BR:CAMPINAS
 CONTACT:(19) 3368-8801\; cintia@wcca.com.br\; http://institutobazzi.com/
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -86,5 +53,38 @@ SUMMARY:CURSO CAMPINAS – 2015/02 – ESTRATÉGIAS TERAPÊUTICAS PARA AS DOENÇ
   DA ALMA
 URL:http://institutobazzi.com/event/curso-campinas-201502-estrategias-terap
  euticas-para-as-doencas-da-alma/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-169@institutobazzi.com
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=pt-BR:SÃO PAULO
+CONTACT:(11) 3675-2986\; paula.sudan@wcca.com.br\; http://institutobazzi.co
+ m/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://i1.wp.com/institutobazzi.com/wp-content/uploads/2015/06/2015-02-CURSO-E
+ STRATÉGIAS-TERAPÊUTICAS-PARA-AS-DOENÇAS-DA-ALMA-SAO-PAULO.jpg?fit=300%2C30
+ 0' width='' height='' /></div><p>Terapias à vidas passadas\, técnicas que 
+ atuam na muldimensionalidade\, Coaching evolutivo\, Constelação Sistêmica\
+ , terapêutica para quadros psicóticos com interferências espirituais e tan
+ tas outras estratégias voltadas às doenças da alma.</p>\n<a class='lts_but
+ ton lts_button_default lt_rounded lt_circular lt_flat '  style='background
+ :#6b88f2\;color:#ffffff!important\;border-color:#6b88f2\;' href='http://in
+ stitutobazzi.com/curso-sao-paulo-curso-estrategias-terapeuticas-para-as-do
+ encas-da-alma-201502/'>MAIS INFORMAÇÕES</a>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+GEO:-23.449855;-46.617193
+LOCATION:INSTITUTO BAZZI @ Avenida Nova Cantareira\, 5880 - Tucuruvi\, São 
+ Paulo - SP\, 02341-002\, Brasil
+RDATE;TZID=America/Sao_Paulo:20150919T000000
+RDATE;TZID=America/Sao_Paulo:20151003T000000
+RDATE;TZID=America/Sao_Paulo:20151017T000000
+RDATE;TZID=America/Sao_Paulo:20151114T000000
+RDATE;TZID=America/Sao_Paulo:20151212T000000
+SEQUENCE:0
+SUMMARY:CURSO SÃO PAULO – 2015/02 – CURSO ESTRATÉGIAS TERAPÊUTICAS PARA AS 
+ DOENÇAS DA ALMA
+URL:http://institutobazzi.com/event/curso-sao-paulo-201502-curso-estrategia
+ s-terapeuticas-para-as-doencas-da-alma/
 END:VEVENT
 END:VCALENDAR

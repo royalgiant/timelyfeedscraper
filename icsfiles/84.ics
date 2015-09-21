@@ -23,20 +23,46 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6ue4o0j7bscd29jpdpdu1mjap4@google.com
-DTSTAMP:20150920T002108Z
+UID:cesomj55k9o98od8c6644017to@google.com
+DTSTAMP:20150921T224628Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
-DTSTART;VALUE=DATE:20150921
+DTSTART;VALUE=DATE:20150922
 DTEND;VALUE=DATE:20150923
 SEQUENCE:0
-SUMMARY:Bin: abwesend
-URL:http://www.igs-morbach.de/event/bin-abwesend/
+SUMMARY:Klassenstufe 8: Auswertung Potentialanalyse Teil 1 (abgesagt)
+URL:http://www.igs-morbach.de/event/klassenstufe-8-auswertung-potentialanal
+ yse-teil-1-abgesagt/
+END:VEVENT
+BEGIN:VEVENT
+UID:7c9a05s898jjpbj1472ueekrn8@google.com
+DTSTAMP:20150921T224628Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150922
+DTEND;VALUE=DATE:20150923
+SEQUENCE:0
+SUMMARY:Wahlen Elternsprecher Stufe 11
+URL:http://www.igs-morbach.de/event/wahlen-elternsprecher-stufe-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:d5p9nult16ootlfd1c5eboroek@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Ersatztermine für Elternsprecherwahlen
+URL:http://www.igs-morbach.de/event/ersatztermine-fuer-elternsprecherwahlen
+ /
 END:VEVENT
 BEGIN:VEVENT
 UID:t12du4n0v814b21p3bvp0s1n1g@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -47,8 +73,21 @@ SUMMARY:Fin: Jahrestagung kRel in Trier
 URL:http://www.igs-morbach.de/event/fin-jahrestagung-krel-in-trier/
 END:VEVENT
 BEGIN:VEVENT
+UID:pn3tfgno5t0gaas3m83m9lapbg@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150925
+SEQUENCE:0
+SUMMARY:Stufe 10 Fahrt nach Verdun (Ruh\, Diw\, Wag\, Wil\, Snei\, HarP)
+URL:http://www.igs-morbach.de/event/stufe-10-fahrt-nach-verdun-ruh-diw-wag-
+ wil-snei-harp/
+END:VEVENT
+BEGIN:VEVENT
 UID:2la265r4k7vj2qhajv6vt1vhsc@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -60,7 +99,7 @@ URL:http://www.igs-morbach.de/event/bre-fb-adhs/
 END:VEVENT
 BEGIN:VEVENT
 UID:vbi7500cs7au7b7eu4jhbrsfm4@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -72,7 +111,7 @@ URL:http://www.igs-morbach.de/event/wolf-schmidt-bbd-ehs/
 END:VEVENT
 BEGIN:VEVENT
 UID:51hqq536vlvevvd3bje8s9b9fc@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -84,7 +123,7 @@ URL:http://www.igs-morbach.de/event/fin-fb-sport-in-konz/
 END:VEVENT
 BEGIN:VEVENT
 UID:4sdiqpcit81op46rlbje4p5rfs@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -95,8 +134,32 @@ SUMMARY:Scu: Schulbibliothekstag in Koblenz
 URL:http://www.igs-morbach.de/event/scu-schulbibliothekstag-in-koblenz/
 END:VEVENT
 BEGIN:VEVENT
+UID:lsshgurmhdfmoqeoidki7mlong@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150930
+DTEND;VALUE=DATE:20151001
+SEQUENCE:0
+SUMMARY:Wahlen Schulelternbeirat
+URL:http://www.igs-morbach.de/event/wahlen-schulelternbeirat/
+END:VEVENT
+BEGIN:VEVENT
+UID:qnv6uetlqu6co18uptmnur6cjs@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151002
+SEQUENCE:0
+SUMMARY:Frühester Umwahltermin MSS 11
+URL:http://www.igs-morbach.de/event/fruehester-umwahltermin-mss-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:qn01e9pokeuooc92tpakftl47c@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Hochzeit</p>
@@ -108,7 +171,7 @@ URL:http://www.igs-morbach.de/event/mei-beurlaubt/
 END:VEVENT
 BEGIN:VEVENT
 UID:ktjaovknov6uopeqolaad7e2e8@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -120,7 +183,7 @@ URL:http://www.igs-morbach.de/event/scae-fb-bilogie-in-speyer/
 END:VEVENT
 BEGIN:VEVENT
 UID:iplkk5ignt773e66lja2jsdlm0@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -132,7 +195,7 @@ URL:http://www.igs-morbach.de/event/dio-fb-informatik-in-speyer-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:knf8eo6spa0eahfb9lmbf0vbqg@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -145,7 +208,7 @@ URL:http://www.igs-morbach.de/event/nykharp-praxisanleitertreffen-fuer-fsj-
 END:VEVENT
 BEGIN:VEVENT
 UID:fr0odlg2sdd4ujssvok5c75p3s@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -157,7 +220,7 @@ URL:http://www.igs-morbach.de/event/donell-seminar-drk/
 END:VEVENT
 BEGIN:VEVENT
 UID:jlq2flkq74p5aq52mst5pa58m8@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -169,7 +232,7 @@ URL:http://www.igs-morbach.de/event/dus-mss-leitertagung-mainz/
 END:VEVENT
 BEGIN:VEVENT
 UID:mrcmuevurjks8ck2ce9bjp7i9c@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -181,7 +244,7 @@ URL:http://www.igs-morbach.de/event/gesamtkonferenz-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:a4fs39j6l232l1np9qdmualc0s@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Fördern und GTS</p>
@@ -192,8 +255,20 @@ SUMMARY:Praktikum Jeldrik Stablo
 URL:http://www.igs-morbach.de/event/praktikum-jeldrik-stablo/
 END:VEVENT
 BEGIN:VEVENT
+UID:di9t41bst61eauqtop7f97ncd8@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151013
+DTEND;VALUE=DATE:20151014
+SEQUENCE:0
+SUMMARY:Busschule (Klassenstufe 5)
+URL:http://www.igs-morbach.de/event/busschule-klassenstufe-5/
+END:VEVENT
+BEGIN:VEVENT
 UID:bi17ofq6gmrvs8k3pk94b4st8o@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -205,7 +280,7 @@ URL:http://www.igs-morbach.de/event/busschule-neue-5er/
 END:VEVENT
 BEGIN:VEVENT
 UID:p82ttb8meraj57a7m17shs0o3g@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -217,7 +292,7 @@ URL:http://www.igs-morbach.de/event/blutspendetermin/
 END:VEVENT
 BEGIN:VEVENT
 UID:2jumf1r7jf7ksjc0sigofi81f0@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -229,7 +304,7 @@ URL:http://www.igs-morbach.de/event/dus-nyk-fb-edoo-sys-mz/
 END:VEVENT
 BEGIN:VEVENT
 UID:v2ot1r1vlvaetcu6b3vas14lu0@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -241,8 +316,20 @@ URL:http://www.igs-morbach.de/event/harj-fb-sport-in-bad-duerkheim-ab-13-uh
  r/
 END:VEVENT
 BEGIN:VEVENT
+UID:b7ap2e08qdpurtfmuiul4m2gok@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151103
+SEQUENCE:0
+SUMMARY:Herbstferien
+URL:http://www.igs-morbach.de/event/herbstferien-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:70orkl4vm0n5qdm9g7nnoauuis@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -253,8 +340,21 @@ SUMMARY:FSJ Niklas Donell SG 3. Seminar
 URL:http://www.igs-morbach.de/event/fsj-niklas-donell-sg-3-seminar/
 END:VEVENT
 BEGIN:VEVENT
+UID:nvrl7o69h14caic5itgeujb7og@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151114
+SEQUENCE:0
+SUMMARY:Busschule (innerhalb der ersten 2 Wochen nach den Herbstferien)
+URL:http://www.igs-morbach.de/event/busschule-innerhalb-der-ersten-2-wochen
+ -nach-den-herbstferien/
+END:VEVENT
+BEGIN:VEVENT
 UID:lvm1uki1qql7qnhibka95cctlk@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -267,7 +367,7 @@ URL:http://www.igs-morbach.de/event/erste-teamsitzung-mss-lf-lehrer-gf-deut
 END:VEVENT
 BEGIN:VEVENT
 UID:eo7uohs6hfhl7pj8gq37l7shpo@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -278,8 +378,20 @@ SUMMARY:Hal: FB “Jugend debattiert” in Speyer
 URL:http://www.igs-morbach.de/event/hal-fb-jugend-debattiert-in-speyer/
 END:VEVENT
 BEGIN:VEVENT
+UID:ippqh8saejgelagpaiscr9lhtk@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151103
+SEQUENCE:0
+SUMMARY:Spätester Umwahltermin MSS 11
+URL:http://www.igs-morbach.de/event/spaetester-umwahltermin-mss-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:2vqc13dp9ebf0ancudbon7o2rk@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -291,7 +403,7 @@ URL:http://www.igs-morbach.de/event/erste-hilfe-kollegium/
 END:VEVENT
 BEGIN:VEVENT
 UID:jkl5n6n0drh64gp4tmdm8jpt78@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -304,7 +416,7 @@ URL:http://www.igs-morbach.de/event/paedagogische-dienstgespraeche-stufe-7-
 END:VEVENT
 BEGIN:VEVENT
 UID:oe7o0rtjnh8f978lescj5f3r7c@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -316,7 +428,7 @@ URL:http://www.igs-morbach.de/event/umstufungskonferenzen/
 END:VEVENT
 BEGIN:VEVENT
 UID:39au7ma50ot6nog6bnl208nqoo@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -329,7 +441,7 @@ URL:http://www.igs-morbach.de/event/paedagogische-dienstgespraeche-stufe-56
 END:VEVENT
 BEGIN:VEVENT
 UID:u8i03tlc84q66pkt8a6ue70ieo@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -340,8 +452,32 @@ SUMMARY:Fin: FB Sport in Wittlich
 URL:http://www.igs-morbach.de/event/fin-fb-sport-in-wittlich/
 END:VEVENT
 BEGIN:VEVENT
+UID:1i8j4bacd27kj6hjip5ooru804@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151120
+DTEND;VALUE=DATE:20151121
+SEQUENCE:0
+SUMMARY:Tag der offenen Tür Klassenstufe 9-11
+URL:http://www.igs-morbach.de/event/tag-der-offenen-tuer-klassenstufe-9-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:alv38kqmbdlq0tnoemmt5mcqos@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151121
+DTEND;VALUE=DATE:20151122
+SEQUENCE:0
+SUMMARY:Tag der offenen Tür Klassenstufe 5-8
+URL:http://www.igs-morbach.de/event/tag-der-offenen-tuer-klassenstufe-5-8/
+END:VEVENT
+BEGIN:VEVENT
 UID:5f43aj7p9rfghak0p0lq4iaebs@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -353,7 +489,7 @@ URL:http://www.igs-morbach.de/event/offenes-i-team/
 END:VEVENT
 BEGIN:VEVENT
 UID:8spcqt5el98gr4h468o569m880@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -365,7 +501,7 @@ URL:http://www.igs-morbach.de/event/zweite-teamsitzung-10/
 END:VEVENT
 BEGIN:VEVENT
 UID:t46la6cgiluqh1hp92mje1b858@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -376,8 +512,34 @@ SUMMARY:Zweite Teamsitzung 9
 URL:http://www.igs-morbach.de/event/zweite-teamsitzung-9/
 END:VEVENT
 BEGIN:VEVENT
+UID:9chqi5l5c18hk68vfj07kkrq5k@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151217
+DTEND;VALUE=DATE:20151218
+SEQUENCE:0
+SUMMARY:Schüler-Lehrer-Elterngespräche Stufe 9/10.  Stufe 9 und Stufe 10 ha
+ ben unterrichtsfrei
+URL:http://www.igs-morbach.de/event/schueler-lehrer-elterngespraeche-stufe-
+ 910-stufe-9-und-stufe-10-haben-unterrichtsfrei/
+END:VEVENT
+BEGIN:VEVENT
+UID:hjbg3d3ibl231844j46gu5lv5o@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151223
+DTEND;VALUE=DATE:20160111
+SEQUENCE:0
+SUMMARY:Weihnachtsferien
+URL:http://www.igs-morbach.de/event/weihnachtsferien/
+END:VEVENT
+BEGIN:VEVENT
 UID:3ksf4lo947chc345ovki6u97q0@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -389,7 +551,7 @@ URL:http://www.igs-morbach.de/event/fsj-niklas-donell-sg-4-seminar/
 END:VEVENT
 BEGIN:VEVENT
 UID:ef24dll2n8o5hdjk07qees9mgc@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -400,8 +562,20 @@ SUMMARY:Blutspendetermin
 URL:http://www.igs-morbach.de/event/blutspendetermin-7/
 END:VEVENT
 BEGIN:VEVENT
+UID:o2deb3lav9adcvelf07gmvdjd0@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160113
+DTEND;VALUE=DATE:20160129
+SEQUENCE:0
+SUMMARY:Praktikum MSS 11
+URL:http://www.igs-morbach.de/event/praktikum-mss-11/
+END:VEVENT
+BEGIN:VEVENT
 UID:mfo6h62ik7smhl6vh9ffpljedg@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -413,7 +587,7 @@ URL:http://www.igs-morbach.de/event/dienstbesprechung-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:u50olrkbapi8qhnmj628mrn464@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -425,7 +599,7 @@ URL:http://www.igs-morbach.de/event/zeugniskonferenzen-567-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:kf65rt1k2b7bv9t6r9rbh0jpd0@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -436,8 +610,21 @@ SUMMARY:Zeugniskonferenzen 8\,9\,10\,11
 URL:http://www.igs-morbach.de/event/zeugniskonferenzen-891011-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:r8cqt1ne2e95oi5ceim1358rm8@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160125
+DTEND;VALUE=DATE:20160126
+SEQUENCE:0
+SUMMARY:Elternabend Praxistag/Lemo/Jugend debattiert
+URL:http://www.igs-morbach.de/event/elternabend-praxistaglemojugend-debatti
+ ert/
+END:VEVENT
+BEGIN:VEVENT
 UID:3am2cbp31kgsfgg33u2s15c14o@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -448,8 +635,45 @@ SUMMARY:Abwahl Freibereich MSS
 URL:http://www.igs-morbach.de/event/abwahl-freibereich-mss-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:h14ai20u04c35rdb02m1lvdbsg@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160129
+DTEND;VALUE=DATE:20160130
+SEQUENCE:0
+SUMMARY:Ende 1. Schulhalbjahr\, Ausgabe der Halbjahreszeugnisse
+URL:http://www.igs-morbach.de/event/ende-1-schulhalbjahr-ausgabe-der-halbja
+ hreszeugnisse/
+END:VEVENT
+BEGIN:VEVENT
+UID:3l59f7hagf625segkp2m8gite0@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160204
+DTEND;VALUE=DATE:20160205
+SEQUENCE:0
+SUMMARY:Fastnachtfeier in der Schule
+URL:http://www.igs-morbach.de/event/fastnachtfeier-in-der-schule/
+END:VEVENT
+BEGIN:VEVENT
+UID:rg9seao8m6svggmdq3p1svncp0@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160205
+DTEND;VALUE=DATE:20160206
+SEQUENCE:0
+SUMMARY:Ausgleichstag für ToffT
+URL:http://www.igs-morbach.de/event/ausgleichstag-fuer-tofft/
+END:VEVENT
+BEGIN:VEVENT
 UID:2prlpfu7sh7oqkgo8dbvi0n3mk@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -460,8 +684,34 @@ SUMMARY:Studientag
 URL:http://www.igs-morbach.de/event/studientag/
 END:VEVENT
 BEGIN:VEVENT
+UID:94k40dj1mg1u95gm03upsr1bbs@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SEQUENCE:0
+SUMMARY:Späteste Abgabe Präsentation Praktikum MSS 11
+URL:http://www.igs-morbach.de/event/spaeteste-abgabe-praesentation-praktiku
+ m-mss-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:g1t84hujd4oo0fk2ptsfsu5ot0@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SEQUENCE:0
+SUMMARY:Spätester Abwahltermin für die GTS kommendes Jahr
+URL:http://www.igs-morbach.de/event/spaetester-abwahltermin-fuer-die-gts-ko
+ mmendes-jahr/
+END:VEVENT
+BEGIN:VEVENT
 UID:nu0qgpmn1vif2j9lp3ku083jt4@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -473,7 +723,7 @@ URL:http://www.igs-morbach.de/event/praesentation-praktikum-mss-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:i0vhh8umqvolf7m0drcc0q0r3g@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -485,7 +735,7 @@ URL:http://www.igs-morbach.de/event/1-und-2-projekttag-1-bis-6-stunde/
 END:VEVENT
 BEGIN:VEVENT
 UID:v4ev2dakbce4nrri43n06g581g@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -496,8 +746,20 @@ SUMMARY:Letzter Praxistag
 URL:http://www.igs-morbach.de/event/letzter-praxistag/
 END:VEVENT
 BEGIN:VEVENT
+UID:lv2pfoa56o21kvqd6cao3ldoas@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160302
+DTEND;VALUE=DATE:20160316
+SEQUENCE:0
+SUMMARY:Betriebspraktikum 9
+URL:http://www.igs-morbach.de/event/betriebspraktikum-9/
+END:VEVENT
+BEGIN:VEVENT
 UID:iqnaudujh3j7kege3e7jagehmg@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -509,7 +771,7 @@ URL:http://www.igs-morbach.de/event/fsj-niklas-donell-sg-5-seminar/
 END:VEVENT
 BEGIN:VEVENT
 UID:i7ggustfgpelrbpfoe9jqmsumk@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -521,7 +783,7 @@ URL:http://www.igs-morbach.de/event/gesamtkonferenz-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:3dmkob1inhnuicfhaf6t7q8img@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -533,7 +795,7 @@ URL:http://www.igs-morbach.de/event/gesamtkonferenz-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:snkv88c0rlh5nkm8ug5iejt540@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -545,7 +807,7 @@ URL:http://www.igs-morbach.de/event/blutspendetermin-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:fevl2h7ms7cpc1lr8h286bjev8@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -557,7 +819,7 @@ URL:http://www.igs-morbach.de/event/nachbereitung-praktikum-9er/
 END:VEVENT
 BEGIN:VEVENT
 UID:4bkg9u7tlsvak9kuqcm6ktitco@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -569,8 +831,20 @@ URL:http://www.igs-morbach.de/event/letzter-tag-fuer-antrag-freiwilliges-zu
  ruecktreten/
 END:VEVENT
 BEGIN:VEVENT
+UID:71lt9ln3vf0qen4cqmnqq63q5s@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160318
+DTEND;VALUE=DATE:20160404
+SEQUENCE:0
+SUMMARY:Osterferien
+URL:http://www.igs-morbach.de/event/osterferien-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:d33jbad09pg64fukvcb2n0p18k@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -584,8 +858,45 @@ URL:http://www.igs-morbach.de/event/einladung-lehrkraefte-bzw-referenten-fu
  ch/
 END:VEVENT
 BEGIN:VEVENT
+UID:r32qn8gn5t8vqdnmfbm5kglmk4@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160411
+DTEND;VALUE=DATE:20160416
+LOCATION:Berlin
+SEQUENCE:0
+SUMMARY:Abschlussfahrt 9. Klassen nach Berlin
+URL:http://www.igs-morbach.de/event/abschlussfahrt-9-klassen-nach-berlin/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca6e6r0fvjl3ccfq2r69iet14o@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160418
+DTEND;VALUE=DATE:20160421
+SEQUENCE:0
+SUMMARY:Klassenfahrt Stufe 5 (2 Klassen)
+URL:http://www.igs-morbach.de/event/klassenfahrt-stufe-5-2-klassen-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:3ahf9booej2gqb5oqc1h7d76nc@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160420
+DTEND;VALUE=DATE:20160423
+SEQUENCE:0
+SUMMARY:Klassenfahrt Stufe 5 (2 Klassen)
+URL:http://www.igs-morbach.de/event/klassenfahrt-stufe-5-2-klassen/
+END:VEVENT
+BEGIN:VEVENT
 UID:fn7b5e9cetbkaqvqnsd3gc43ac@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -597,8 +908,21 @@ URL:http://www.igs-morbach.de/event/zweite-teamsitzung-mss-lf-lehrer-gf-deu
  tsch/
 END:VEVENT
 BEGIN:VEVENT
+UID:5ko6cqf4vujues3a8q9cun78fg@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160426
+DTEND;VALUE=DATE:20160427
+SEQUENCE:0
+SUMMARY:Internationaler Projekttag der UNESCO- Projektschulen
+URL:http://www.igs-morbach.de/event/internationaler-projekttag-der-unesco-p
+ rojektschulen/
+END:VEVENT
+BEGIN:VEVENT
 UID:edfa4ck5hrltelkp3d771bcrck@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -611,7 +935,7 @@ URL:http://www.igs-morbach.de/event/ausgabe-der-einladung-wpf-elterninforma
 END:VEVENT
 BEGIN:VEVENT
 UID:sf2upvfk6rgrago5ttn28hqq3c@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -623,7 +947,7 @@ URL:http://www.igs-morbach.de/event/dritte-teamsitzung-10-monita/
 END:VEVENT
 BEGIN:VEVENT
 UID:8aii5ska56i8a552fhfbulfh9s@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -634,8 +958,20 @@ SUMMARY:Dritte Teamsitzung 9 (Monita)
 URL:http://www.igs-morbach.de/event/dritte-teamsitzung-9-monita/
 END:VEVENT
 BEGIN:VEVENT
+UID:jg5069trogpgrfbsalkd1auljo@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160506
+DTEND;VALUE=DATE:20160507
+SEQUENCE:0
+SUMMARY:Beweglicher Ferientag
+URL:http://www.igs-morbach.de/event/beweglicher-ferientag-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:6h8gs9qbipckels92hnep3ekh8@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -648,7 +984,7 @@ URL:http://www.igs-morbach.de/event/spaetester-mahntermin-zulassung-in-mss-
 END:VEVENT
 BEGIN:VEVENT
 UID:5qc7k7k5lonft50tgek5r2tn7s@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -659,8 +995,21 @@ SUMMARY:Letzter Tag Versand Monita
 URL:http://www.igs-morbach.de/event/letzter-tag-versand-monita/
 END:VEVENT
 BEGIN:VEVENT
+UID:0aijjb1jqv1ml0h7p6enbg10d8@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160517
+DTEND;VALUE=DATE:20160519
+SEQUENCE:0
+SUMMARY:Aktion Achtung Auto im zweiten Halbjahr
+URL:http://www.igs-morbach.de/event/aktion-achtung-auto-im-zweiten-halbjahr
+ /
+END:VEVENT
+BEGIN:VEVENT
 UID:m3htcce94ecgh1t2q82ph9a7a0@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -674,7 +1023,7 @@ URL:http://www.igs-morbach.de/event/ausgabe-der-schuelerbriefe-und-bewerbun
 END:VEVENT
 BEGIN:VEVENT
 UID:24auf6altj69dhbqtnqu9g6978@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -687,7 +1036,7 @@ URL:http://www.igs-morbach.de/event/ausgabe-der-schuelerbriefe-wg-wpf-franz
 END:VEVENT
 BEGIN:VEVENT
 UID:3s8jt77icca78ftedigqmn8m90@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -699,8 +1048,20 @@ URL:http://www.igs-morbach.de/event/klassenstufe-7-moog-radnykdia-klassenfa
  hrt-in-homburg/
 END:VEVENT
 BEGIN:VEVENT
+UID:3u4u2mmn49j17gmbe7qbrts1r0@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160527
+DTEND;VALUE=DATE:20160528
+SEQUENCE:0
+SUMMARY:Beweglicher Ferientag
+URL:http://www.igs-morbach.de/event/beweglicher-ferientag/
+END:VEVENT
+BEGIN:VEVENT
 UID:0e2vtsau4ncjc4mb5h3trmkpo0@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -712,7 +1073,7 @@ URL:http://www.igs-morbach.de/event/offenes-i-team-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:29fjrhu3d3fmp15qrn7dvo3cio@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -725,7 +1086,7 @@ URL:http://www.igs-morbach.de/event/3-5-projekttag-1-6-stunde-und-praesenta
 END:VEVENT
 BEGIN:VEVENT
 UID:5c32vl3tp2s4f3p8dhvo7h5438@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -737,7 +1098,7 @@ URL:http://www.igs-morbach.de/event/gesamtkonferenz-oder-dienstbesprechung/
 END:VEVENT
 BEGIN:VEVENT
 UID:18d0fs9ikhpuulc36nv9e2ph7c@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -749,7 +1110,7 @@ URL:http://www.igs-morbach.de/event/zeitkorridor-kursfahrt-stufe-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:1fb9btbcclctt6ij9q35ou2kvk@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -761,7 +1122,7 @@ URL:http://www.igs-morbach.de/event/dritte-teamsitzung-mss-lf-lehrer/
 END:VEVENT
 BEGIN:VEVENT
 UID:scdl6c74el0c79uso1igg38md4@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -773,7 +1134,7 @@ URL:http://www.igs-morbach.de/event/blutspendetermin-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:a8cjmce33b7c4g2v4kdjj7gjo8@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -786,7 +1147,7 @@ URL:http://www.igs-morbach.de/event/abgabeschluss-wpf-bewerbungen-klassenst
 END:VEVENT
 BEGIN:VEVENT
 UID:oe1g5l6ht63kbolghbbibjq0f4@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -797,8 +1158,32 @@ SUMMARY:Teamgespräch Klassenstufe 6 wg. WPF
 URL:http://www.igs-morbach.de/event/teamgespraech-klassenstufe-6-wg-wpf-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:3v1lq8jf9ug129abcjb0uannr4@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160628
+DTEND;VALUE=DATE:20160629
+SEQUENCE:0
+SUMMARY:Wandertag
+URL:http://www.igs-morbach.de/event/wandertag/
+END:VEVENT
+BEGIN:VEVENT
+UID:q25c4bq089ail8rh9i0anlkk9s@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160629
+DTEND;VALUE=DATE:20160713
+SEQUENCE:0
+SUMMARY:Betriebspraktikum Klassenstufe 8
+URL:http://www.igs-morbach.de/event/betriebspraktikum-klassenstufe-8/
+END:VEVENT
+BEGIN:VEVENT
 UID:s66mg0uglhidglnklllv1o44n4@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -810,7 +1195,7 @@ URL:http://www.igs-morbach.de/event/zeugniskonferenzen-567/
 END:VEVENT
 BEGIN:VEVENT
 UID:ncj61sq6e65rlv8trobo5ltbi4@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -822,7 +1207,7 @@ URL:http://www.igs-morbach.de/event/zeugniskonferenzen-891011/
 END:VEVENT
 BEGIN:VEVENT
 UID:fvprfehgjtaptfvs89akq7dg24@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -834,8 +1219,20 @@ URL:http://www.igs-morbach.de/event/tag-der-artenvielfalt-donnerstag-oder-f
  reitag/
 END:VEVENT
 BEGIN:VEVENT
+UID:uvlajp2imlk194uvajpbbllot0@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160711
+DTEND;VALUE=DATE:20160712
+SEQUENCE:0
+SUMMARY:Anmeldung Aufnahmeprüfung MSS
+URL:http://www.igs-morbach.de/event/anmeldung-aufnahmepruefung-mss/
+END:VEVENT
+BEGIN:VEVENT
 UID:ama23s1v7vnh940r04dg7aspss@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -847,7 +1244,7 @@ URL:http://www.igs-morbach.de/event/mitteilung-wegen-nachpruefung/
 END:VEVENT
 BEGIN:VEVENT
 UID:9r31tov3odg2pjnc5bj3ltpi6s@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -859,7 +1256,7 @@ URL:http://www.igs-morbach.de/event/wahl-sportkurse-mss-121/
 END:VEVENT
 BEGIN:VEVENT
 UID:rog11onv92r7k8g11a7e03huu8@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -872,7 +1269,7 @@ URL:http://www.igs-morbach.de/event/aufnahmepruefung-mss-mathematik-englisc
 END:VEVENT
 BEGIN:VEVENT
 UID:h8vitqounqpgls241l44090gk0@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -884,7 +1281,7 @@ URL:http://www.igs-morbach.de/event/aufnahmepruefung-mss-deutsch-mdl-prfg/
 END:VEVENT
 BEGIN:VEVENT
 UID:pkfjlofpmdboup5m530h1t0o5c@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -895,8 +1292,58 @@ SUMMARY:Abwahl Freibereich MSS
 URL:http://www.igs-morbach.de/event/abwahl-freibereich-mss/
 END:VEVENT
 BEGIN:VEVENT
+UID:9q2l3l6sm0912o4v8ei4tsk38o@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160715
+DTEND;VALUE=DATE:20160716
+SEQUENCE:0
+SUMMARY:Spätester Rückmeldetermin der Eltern wegen Nachprüfung
+URL:http://www.igs-morbach.de/event/spaetester-rueckmeldetermin-der-eltern-
+ wegen-nachpruefung/
+END:VEVENT
+BEGIN:VEVENT
+UID:1dre2p7kbt6lcimji20cavril4@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160715
+DTEND;VALUE=DATE:20160716
+SEQUENCE:0
+SUMMARY:Zeugnisausgabe Jahreszeugnisse Ende 2. Schulhalbjahr
+URL:http://www.igs-morbach.de/event/zeugnisausgabe-jahreszeugnisse-ende-2-s
+ chulhalbjahr/
+END:VEVENT
+BEGIN:VEVENT
+UID:imrvvrmlptu469a6g3mjhdiu00@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160718
+DTEND;VALUE=DATE:20160829
+SEQUENCE:0
+SUMMARY:Sommerferien
+URL:http://www.igs-morbach.de/event/sommerferien/
+END:VEVENT
+BEGIN:VEVENT
+UID:155qmehs3379p1lha7l28tfbbc@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160826
+DTEND;VALUE=DATE:20160827
+SEQUENCE:0
+SUMMARY:Termin Nachprüfung
+URL:http://www.igs-morbach.de/event/termin-nachpruefung/
+END:VEVENT
+BEGIN:VEVENT
 UID:f19mbn90apl8sggbq0jvh0da1s@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -907,8 +1354,20 @@ SUMMARY:Blutspendetermin
 URL:http://www.igs-morbach.de/event/blutspendetermin-9/
 END:VEVENT
 BEGIN:VEVENT
+UID:o7q1bijuehpukpin7c53fcjta4@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161010
+DTEND;VALUE=DATE:20161024
+SEQUENCE:0
+SUMMARY:Herbstferien
+URL:http://www.igs-morbach.de/event/herbstferien/
+END:VEVENT
+BEGIN:VEVENT
 UID:r9i8g5s9bpmhj8ga4c55p9duj4@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -920,7 +1379,7 @@ URL:http://www.igs-morbach.de/event/blutspendetermin-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:ogleipnhi0fst8lhdqib84a5bs@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -933,7 +1392,7 @@ URL:http://www.igs-morbach.de/event/fk-kath-religion-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:gq20lcsseaiqc5471idqrhu6bs@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:MAILTO:verwaltung@igs-morbach.de
 DESCRIPTION:
@@ -945,7 +1404,7 @@ URL:http://www.igs-morbach.de/event/fachkonferenz-ev-religion-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:ckmqg273h2gukcfvr1jggo7j7o@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -958,7 +1417,7 @@ URL:http://www.igs-morbach.de/event/gs-morbach-elternwahlen-19-00-uhr-und-1
 END:VEVENT
 BEGIN:VEVENT
 UID:ccq62p9pclim8b9j75ijib9k61hmabb26phjabb66lj3copp6oo36ohn74@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -970,7 +1429,7 @@ URL:http://www.igs-morbach.de/event/elternabend-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:i0h6uf5rdoqhcmfnfn1sv047hg@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:MAILTO:verwaltung@igs-morbach.de
 DESCRIPTION:<p>Planung 1. Projekttag am 05.10.2015 (offenes Team)</p>
@@ -983,7 +1442,7 @@ URL:http://www.igs-morbach.de/event/planung-projektwoche/
 END:VEVENT
 BEGIN:VEVENT
 UID:bgri0nigo5kuc8jael0kq4h6do@google.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -997,8 +1456,20 @@ URL:http://www.igs-morbach.de/event/aok-schmecken-solls-c108-17-45-21-30-uh
  r/
 END:VEVENT
 BEGIN:VEVENT
+UID:kskpn0rmhhlbg0mh757u946vio@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Fr. Dr. Kees</p>
+DTSTART;TZID=Europe/Berlin:20150923T193000
+DTEND;TZID=Europe/Berlin:20150923T203000
+SEQUENCE:0
+SUMMARY:Elternbildung “Mobbing”
+URL:http://www.igs-morbach.de/event/elternbildung-mobbing-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:q75l0hjbl8tj319c2jocee5ocs@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1010,7 +1481,7 @@ URL:http://www.igs-morbach.de/event/elternbildung-mobbing/
 END:VEVENT
 BEGIN:VEVENT
 UID:eest2irh5q0cgbbmi28pdpdirk@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:MAILTO:verwaltung@igs-morbach.de
 DESCRIPTION:
@@ -1022,7 +1493,7 @@ URL:http://www.igs-morbach.de/event/seb-sitzung-mit-grillen/
 END:VEVENT
 BEGIN:VEVENT
 UID:o3gs3sto77mudtpdbd1i86tpc4@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1035,7 +1506,7 @@ URL:http://www.igs-morbach.de/event/fk-englisch/
 END:VEVENT
 BEGIN:VEVENT
 UID:604l36eb21cbb2jdbd67h5h8jk@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:MAILTO:verwaltung@igs-morbach.de
 DESCRIPTION:
@@ -1048,7 +1519,7 @@ URL:http://www.igs-morbach.de/event/sportfachkonferenz-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ofn38uqo8nhmmv51358ed9r03s@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1059,8 +1530,22 @@ SUMMARY:GTS Team
 URL:http://www.igs-morbach.de/event/gts-team-16/
 END:VEVENT
 BEGIN:VEVENT
+UID:q2fftbct56r9ies9g6hpa9nn6s@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20150928T190000
+DTEND;TZID=Europe/Berlin:20150928T203000
+SEQUENCE:0
+SUMMARY:Gemeinsamer Elternabend 8. Klassen. Berufsorientierung 8. und 9. Sc
+ huljahr
+URL:http://www.igs-morbach.de/event/gemeinsamer-elternabend-8-klassen-beruf
+ sorientierung-8-und-9-schuljahr/
+END:VEVENT
+BEGIN:VEVENT
 UID:5o8jfcokhtfoeo8v1qt972md24@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1074,7 +1559,7 @@ URL:http://www.igs-morbach.de/event/teil-2-vorbereitungsworkshop-praxistag-
 END:VEVENT
 BEGIN:VEVENT
 UID:l5p86sbdcla8hlc7lldpvv4fq8@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1086,7 +1571,7 @@ URL:http://www.igs-morbach.de/event/gs-morbach-seb-wahl-20-00-uhr/
 END:VEVENT
 BEGIN:VEVENT
 UID:03vh42s93f7nbhemcthhufi1rs@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1099,7 +1584,7 @@ URL:http://www.igs-morbach.de/event/for-fb-systemische-familientherapie-in-
 END:VEVENT
 BEGIN:VEVENT
 UID:9k7tjrf3btnugr34fbofs6f2f8@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1111,7 +1596,7 @@ URL:http://www.igs-morbach.de/event/fachkonferenz-gl/
 END:VEVENT
 BEGIN:VEVENT
 UID:pcfoci1icb3a341cvaiqd23kvg@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:MAILTO:verwaltung@igs-morbach.de
 DESCRIPTION:
@@ -1124,7 +1609,7 @@ URL:http://www.igs-morbach.de/event/fk-nawibiologie/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d7a70i4jkhjrvg0jvc87t1qn4@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1138,7 +1623,7 @@ URL:http://www.igs-morbach.de/event/aok-mediterrane-kueche-c-108-17-45-21-3
 END:VEVENT
 BEGIN:VEVENT
 UID:vad5ur38fosjkeuv6jmp1v70co@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1150,7 +1635,7 @@ URL:http://www.igs-morbach.de/event/gesamtkonferenz-10/
 END:VEVENT
 BEGIN:VEVENT
 UID:hium5pgjodtfcctpapm25qqdbk@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1162,7 +1647,7 @@ URL:http://www.igs-morbach.de/event/wolf-schmidt-bp-13-00-16-00-uhr-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:g22jd8ljo0v83he15jvujpns50@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1174,7 +1659,7 @@ URL:http://www.igs-morbach.de/event/wolf-schmidt-bp-13-00-16-00-uhr/
 END:VEVENT
 BEGIN:VEVENT
 UID:b6m5i48ok11s6e7q2q0fak0jjo@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1186,7 +1671,7 @@ URL:http://www.igs-morbach.de/event/kaffee-mit-gs-lehrern-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:f7o09qp33guue4bvj2b6m2vv6g@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1198,7 +1683,7 @@ URL:http://www.igs-morbach.de/event/vierteljahresgespraech-oepr-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:47c4mic3i2gna0muqtsgn1t2gg@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1211,7 +1696,7 @@ URL:http://www.igs-morbach.de/event/zweite-teamsitzung-8-und-zweite-teamsit
 END:VEVENT
 BEGIN:VEVENT
 UID:dpbdfu62vo1edk5lrl5a1e7m1g@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1224,7 +1709,7 @@ URL:http://www.igs-morbach.de/event/zweite-teamsitzung-7-und-zweite-teamsit
 END:VEVENT
 BEGIN:VEVENT
 UID:q7etvc7pmths8go7baktkaad70@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1237,7 +1722,7 @@ URL:http://www.igs-morbach.de/event/for-fb-systemische-familientherapie-in-
 END:VEVENT
 BEGIN:VEVENT
 UID:sfl6n38o3fuc37qvk2l37bpq2c@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1251,7 +1736,7 @@ URL:http://www.igs-morbach.de/event/info-abipro-zulassung-12-quali-block-1-
 END:VEVENT
 BEGIN:VEVENT
 UID:umsje9jq0isqtdas55p8k51ejk@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1262,8 +1747,20 @@ SUMMARY:Anmeldung neue 5er
 URL:http://www.igs-morbach.de/event/anmeldung-neue-5er-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:1sj2e1f44f2qgedsg4eudouvgs@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160129T150000
+DTEND;TZID=Europe/Berlin:20160129T200000
+SEQUENCE:0
+SUMMARY:Anmeldung neue 5er
+URL:http://www.igs-morbach.de/event/anmeldung-neue-5er-6/
+END:VEVENT
+BEGIN:VEVENT
 UID:04t7v36vtq1t57s48gh98pfbjk@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224629Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1274,8 +1771,32 @@ SUMMARY:Anmeldung neue 5er
 URL:http://www.igs-morbach.de/event/anmeldung-neue-5er-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:asvpj7ak9fb9tqb0fs8tuffg04@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160130T090000
+DTEND;TZID=Europe/Berlin:20160130T130000
+SEQUENCE:0
+SUMMARY:Anmeldung neue 5er
+URL:http://www.igs-morbach.de/event/anmeldung-neue-5er-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:devmrfosfnid6d29ojqfd191ts@google.com
+DTSTAMP:20150921T224629Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160201T080000
+DTEND;TZID=Europe/Berlin:20160204T130000
+SEQUENCE:0
+SUMMARY:Anmeldung MSS IGS- Schüler
+URL:http://www.igs-morbach.de/event/anmeldung-mss-igs-schueler/
+END:VEVENT
+BEGIN:VEVENT
 UID:61i032b64og0amamg0bplqu98g@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1286,8 +1807,20 @@ SUMMARY:Anmeldung neue 5er
 URL:http://www.igs-morbach.de/event/anmeldung-neue-5er/
 END:VEVENT
 BEGIN:VEVENT
+UID:kvkkid5o17r1nl92ip9j6nspg0@google.com
+DTSTAMP:20150921T224630Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160201T090000
+DTEND;TZID=Europe/Berlin:20160201T160000
+SEQUENCE:0
+SUMMARY:Anmeldung neue 5er
+URL:http://www.igs-morbach.de/event/anmeldung-neue-5er-4/
+END:VEVENT
+BEGIN:VEVENT
 UID:lu2haqmi3jh1glkkj14quttde4@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1300,7 +1833,7 @@ URL:http://www.igs-morbach.de/event/anmeldung-mss-schueler-anderer-schulen-
 END:VEVENT
 BEGIN:VEVENT
 UID:csvse57s77b3e1tal8m29mmrcs@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1312,8 +1845,56 @@ URL:http://www.igs-morbach.de/event/anmeldung-mss-schueler-anderer-schulen-
  3/
 END:VEVENT
 BEGIN:VEVENT
+UID:g3bk016rfs14a61v4uro84tsq8@google.com
+DTSTAMP:20150921T224630Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160225T160000
+DTEND;TZID=Europe/Berlin:20160225T200000
+SEQUENCE:0
+SUMMARY:Elternsprechtag
+URL:http://www.igs-morbach.de/event/elternsprechtag-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:e36mls63lea1c2f3lh7gm87bqk@google.com
+DTSTAMP:20150921T224630Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160226T090000
+DTEND;TZID=Europe/Berlin:20160226T130000
+SEQUENCE:0
+SUMMARY:Elternsprechtag
+URL:http://www.igs-morbach.de/event/elternsprechtag-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:skh5sh1v40g2v3ae35vedhjpo8@google.com
+DTSTAMP:20150921T224630Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160309T080000
+DTEND;TZID=Europe/Berlin:20160309T160000
+SEQUENCE:0
+SUMMARY:Exkursionstag
+URL:http://www.igs-morbach.de/event/exkursionstag/
+END:VEVENT
+BEGIN:VEVENT
+UID:u9aenbrj2shsbuhnu422e4c6fc@google.com
+DTSTAMP:20150921T224630Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160317T080000
+DTEND;TZID=Europe/Berlin:20160317T130500
+SEQUENCE:0
+SUMMARY:Känguru der Mathematik\, Wettbewerb
+URL:http://www.igs-morbach.de/event/kaenguru-der-mathematik-wettbewerb/
+END:VEVENT
+BEGIN:VEVENT
 UID:19hd1rhet6qbpc5q70kn7au3qc@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1326,7 +1907,7 @@ URL:http://www.igs-morbach.de/event/for-fb-systemische-familientherapie-in-
 END:VEVENT
 BEGIN:VEVENT
 UID:9729m0fr04stm91s0fpjn1f7dc@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1339,7 +1920,7 @@ URL:http://www.igs-morbach.de/event/dritte-teamsitzung-7-und-dritte-teamsit
 END:VEVENT
 BEGIN:VEVENT
 UID:l5e3c6n15qh4ecg66m0qn44lp4@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1351,8 +1932,33 @@ URL:http://www.igs-morbach.de/event/dritte-teamsitzung-8-und-dritte-teamsit
  zung-6/
 END:VEVENT
 BEGIN:VEVENT
+UID:vmr3rtv2c4ui2jr9ffv4kg7bao@google.com
+DTSTAMP:20150921T224630Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160517T190000
+DTEND;TZID=Europe/Berlin:20160517T203000
+SEQUENCE:0
+SUMMARY:WPF-Elterninformationsabend Klassenstufe 5
+URL:http://www.igs-morbach.de/event/wpf-elterninformationsabend-klassenstuf
+ e-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:qrin5krptmut5scl7eni3hvjn4@google.com
+DTSTAMP:20150921T224630Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160610T160000
+DTEND;TZID=Europe/Berlin:20160610T183000
+SEQUENCE:0
+SUMMARY:Kennenlernnachmittag
+URL:http://www.igs-morbach.de/event/kennenlernnachmittag/
+END:VEVENT
+BEGIN:VEVENT
 UID:60i8d9c7846alntg4chqs7956c@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -1363,8 +1969,32 @@ SUMMARY:Kennenlerntag neue 5er
 URL:http://www.igs-morbach.de/event/kennenlerntag-neue-5er-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:uqo2cq9eeo0t7fet6d8trth20o@google.com
+DTSTAMP:20150921T224630Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160610T190000
+DTEND;TZID=Europe/Berlin:20160610T213000
+SEQUENCE:0
+SUMMARY:IGS- Gala
+URL:http://www.igs-morbach.de/event/igs-gala-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:htgdn9toptpd9f8ramokl91704@google.com
+DTSTAMP:20150921T224630Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/Berlin:20160708T180000
+DTEND;TZID=Europe/Berlin:20160708T210000
+SEQUENCE:0
+SUMMARY:Abschlussfeier 2015/2016
+URL:http://www.igs-morbach.de/event/abschlussfeier-20152016/
+END:VEVENT
+BEGIN:VEVENT
 UID:q30cegjup66mbc5dm3b7nrq2e0@google.com
-DTSTAMP:20150920T002109Z
+DTSTAMP:20150921T224630Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:

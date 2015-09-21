@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-800@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Water
 CONTACT:Marina Manager\; 401-841-3283
 DESCRIPTION:
@@ -39,7 +39,7 @@ URL:http://chnyc.us/event/navy-marina-closed-for-season/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-863@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Business
 CONTACT:https://chnyc.us/online-membership/
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -59,7 +59,7 @@ URL:http://chnyc.us/event/chnyc-membership-renewal-available/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-864@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Business
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -78,7 +78,7 @@ URL:http://chnyc.us/event/chnyc-membership-year-starts/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-801@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Water
 CONTACT:Marina Manager\; 401-841-3283
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -95,7 +95,7 @@ URL:http://chnyc.us/event/navy-marina-open-for-season/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-802@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Water
 CONTACT:Marina Manager\; 401-841-3283
 DESCRIPTION:
@@ -108,24 +108,8 @@ SUMMARY:Marina Closed for Season
 URL:http://chnyc.us/event/marina-closed-for-season/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-860@chnyc.us/blog
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Water
-CONTACT:http://jyc.org/
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://chnyc.us/blog/wp-content/uploads/2015/04/phrf-231x300.jpg' width='231' 
- height='300' /></div>
-DTSTART;TZID=America/New_York:20150920T133000
-DTEND;TZID=America/New_York:20150920T153000
-LOCATION:Jamestown YC
-RRULE:FREQ=WEEKLY;UNTIL=20151005T235959Z
-SEQUENCE:0
-SUMMARY:PHRF Racing Fall Series
-URL:http://chnyc.us/event/phrf-racing-fall-series/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1054@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Water
 CONTACT:Jane Eaton\; race.chair@chnyc.us\; http://chnyc.us/wednesday-night-
  racing/
@@ -155,7 +139,7 @@ URL:http://chnyc.us/event/rhodes-19-summer-series-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1085@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Water
 CONTACT:Ron Oard\; shields@chnyc.us\; http://shieldsfleet9.com/
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -174,8 +158,24 @@ SUMMARY:Shields Summer Series
 URL:http://chnyc.us/event/shields-summer-series-sept/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-860@chnyc.us/blog
+DTSTAMP:20150921T224637Z
+CATEGORIES;LANGUAGE=en-US:Water
+CONTACT:http://jyc.org/
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://chnyc.us/blog/wp-content/uploads/2015/04/phrf-231x300.jpg' width='231' 
+ height='300' /></div>
+DTSTART;TZID=America/New_York:20150927T133000
+DTEND;TZID=America/New_York:20150927T153000
+LOCATION:Jamestown YC
+RRULE:FREQ=WEEKLY;UNTIL=20151005T235959Z
+SEQUENCE:0
+SUMMARY:PHRF Racing Fall Series
+URL:http://chnyc.us/event/phrf-racing-fall-series/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1110@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Water
 CONTACT:Sail Newport\; (401) 846-1983\; info@sailnewport.org\; http://www.s
  ailnewport.org/regattas/sailForPride/sfh2015.html
@@ -217,7 +217,7 @@ X-TICKETS-URL:http://www.sailnewport.org/regattas/sailForPride/sfh2015.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-909@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Business
 CONTACT:Mary Saluto\; secretary@chnyc.us
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -234,7 +234,7 @@ URL:http://chnyc.us/event/chnyc-board-meeting-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-910@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Business
 CONTACT:Mary Saluto\; secretary@chnyc.us
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -251,7 +251,7 @@ URL:http://chnyc.us/event/chnyc-board-meeting-12/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-963@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Social
 CONTACT:CHNYC Social Coordinators\; social@chnyc.us
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -273,7 +273,7 @@ URL:http://chnyc.us/event/chnyc-fall-dinner/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-911@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Business
 CONTACT:Mary Saluto\; secretary@chnyc.us
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -290,7 +290,7 @@ URL:http://chnyc.us/event/chnyc-board-meeting-13/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1205@chnyc.us/blog
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224637Z
 CATEGORIES;LANGUAGE=en-US:Social
 CONTACT:CHNYC Social Coordinators\; social@chnyc.us
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http

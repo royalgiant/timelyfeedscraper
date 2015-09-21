@@ -34,7 +34,7 @@
             <div class="cf-column">
               <div class="cf-highlight-inverse cf-form-stacked">
                 <form class="challenge-form" id="challenge-form" action="/cdn-cgi/l/chk_captcha" method="get">
-<script type="text/javascript" src="/cdn-cgi/scripts/cf.challenge.js" data-type="normal"  data-ray="22896da5dad627e6" async></script>
+<script type="text/javascript" src="/cdn-cgi/scripts/cf.challenge.js" data-type="normal"  data-ray="229953c0e2ac27f2" async></script>
 <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
   <iframe src="//www.google.com/recaptcha/api/noscript?k=6LeT6gcAAAAAAAZ_yDmTMqPH57dJQZdQcu6VFqog" height="300" width="500" frameborder="0"></iframe>
   <input type="hidden" name="recaptcha_response_field" value="manual_challenge">
@@ -78,9 +78,9 @@
 
       <div class="cf-error-footer cf-wrapper">
   <p>
-    <span class="cf-footer-item">CloudFlare Ray ID: <strong>22896da5dad627e6</strong></span>
+    <span class="cf-footer-item">CloudFlare Ray ID: <strong>229953c0e2ac27f2</strong></span>
     <span class="cf-footer-separator">&bull;</span>
-    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 96.49.32.169</span>
+    <span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 96.49.144.68</span>
     <span class="cf-footer-separator">&bull;</span>
     <span class="cf-footer-item"><span data-translate="performance_security_by">Performance &amp; security by</span> <a data-orig-proto="https" data-orig-ref="www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">CloudFlare</a></span>
     

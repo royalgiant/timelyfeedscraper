@@ -23,34 +23,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-307@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
-CATEGORIES;LANGUAGE=en-US:Rally Party
-CONTACT:
-DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
- c='http://www.redskinsrally.com/wp-content/uploads/2015/08/Redskins-Rally-
- 264x500.jpg' alt='Redskins Rally' width='264' height='500' />Can’t Make It
-  to the Game?</strong></h3>\n<h4>Redskins vs Rams (1:00 EST)</h4>\n<p>Join
-  Redskins fans for a great game watching experience at an official Bud Lig
- ht Redskins Rally Party!</p>\n<p><span style='text-decoration: underline\;
- '>Redskins Rally Parties are FREE to attend and Feature:</span></p>\n<ul>
- \n<li>Appearance by Washington Redskins Cheerleaders</li>\n<li>On-site giv
- eaways</li>\n<li>Raffle for a pair of Bud Light Club Level Tickets to the 
- next Redskins home game at FedExField and more!</li>\n</ul>\n<p><img class
- =' size-full wp-image-297 alignnone' src='http://www.redskinsrally.com/wp-
- content/uploads/2015/08/BDL_GoodSportLogoLacesNew_4C.png' alt='BDL_GoodSpo
- rtLogoLacesNew_4C' width='304' height='224' /></p>
-DTSTART;TZID=America/New_York:20150920T123000
-DTEND;TZID=America/New_York:20150920T143000
-GEO:+38.982523;-77.095277
-LOCATION:The Barking Dog @ 4723 Elm Street\, Bethesda\, MD 20814\, USA
-SEQUENCE:0
-SUMMARY:Redskins Rally
-URL:http://www.redskinsrally.com/event/redskins-rally-barking-dog-bethesda/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-2200@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Road Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -76,7 +50,7 @@ URL:http://www.redskinsrally.com/event/redskins-road-rally-dorrians/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-4528@www.redskinsrally.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Tailgate
 CONTACT:
 DESCRIPTION:<p><a href='http://www.eventbrite.com/e/redskins-road-rally-tai
@@ -99,7 +73,7 @@ X-TICKETS-URL:http://www.eventbrite.com/e/redskins-road-rally-tailgate-part
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1788@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -126,7 +100,7 @@ URL:http://www.redskinsrally.com/event/redskins-rally-looneys-pub-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1789@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -152,7 +126,7 @@ URL:http://www.redskinsrally.com/event/redskins-rally-penn-social/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2203@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -175,7 +149,7 @@ URL:http://www.redskinsrally.com/event/redskins-road-rally-hudson-grill/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1790@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -203,7 +177,7 @@ URL:http://www.redskinsrally.com/event/redskins-rally-cornerstone-grill-and
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-4530@www.redskinsrally.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Tailgate
 CONTACT:
 DESCRIPTION:<p><a href='http://www.eventbrite.com/e/redskins-road-rally-tai
@@ -227,7 +201,7 @@ X-TICKETS-URL:http://www.eventbrite.com/e/redskins-road-rally-tailgate-part
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1792@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -254,7 +228,7 @@ URL:http://www.redskinsrally.com/event/redskins-rally-port-tobacco-marina/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1791@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -280,7 +254,7 @@ URL:http://www.redskinsrally.com/event/redskins-rally-old-glory-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1793@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -307,7 +281,7 @@ URL:http://www.redskinsrally.com/event/redskins-rally-big-stick/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2205@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -329,7 +303,7 @@ URL:http://www.redskinsrally.com/event/redskins-road-rally-whiskey-river/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1794@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -356,7 +330,7 @@ URL:http://www.redskinsrally.com/event/redskins-rally-the-blaguard/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1795@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -382,7 +356,7 @@ URL:http://www.redskinsrally.com/event/redskins-rally-redline/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2206@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -404,7 +378,7 @@ URL:http://www.redskinsrally.com/event/redskins-road-rally-maeve/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1798@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -431,7 +405,7 @@ URL:http://www.redskinsrally.com/event/redskins-rally-exchange-saloon/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2208@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Road Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr
@@ -454,7 +428,7 @@ URL:http://www.redskinsrally.com/event/redskins-road-rally-champps/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1801@redskinsrally.dev1-ironistic.com
-DTSTAMP:20150920T003837Z
+DTSTAMP:20150921T225339Z
 CATEGORIES;LANGUAGE=en-US:Rally Party
 CONTACT:
 DESCRIPTION:<h3><strong><img class='alignright size-medium wp-image-298' sr

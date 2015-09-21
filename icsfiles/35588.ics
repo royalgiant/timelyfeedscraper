@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-12504@dswaa.org.au
-DTSTAMP:20150920T002329Z
+DTSTAMP:20150921T224753Z
 CATEGORIES;LANGUAGE=en-US:DSW Workshops
 CONTACT:Bruce Munday\; 0417895249\; brucemunday42@gmail.com
 DESCRIPTION:<p>A <strong>two-day</strong> dry stone wall workshop will be h
@@ -44,7 +44,7 @@ X-COST:$200
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-12506@dswaa.org.au
-DTSTAMP:20150920T002329Z
+DTSTAMP:20150921T224753Z
 CATEGORIES:
 CONTACT:Bruce Munday\; 0417895249\; brucemunday42@gmail.com
 DESCRIPTION:<p>A <strong>two-day</strong> dry stone wall workshop will be h
@@ -63,8 +63,29 @@ URL:http://dswaa.org.au/event/dry-stone-walls-workshop-3/
 X-COST:$200
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-12515@dswaa.org.au
+DTSTAMP:20150921T224753Z
+CATEGORIES:
+CONTACT:Ian (Wally) Carline\; stonemason01@westnet.com.au
+DESCRIPTION:<p>We will be taking them first off to see the heritage wall Wa
+ lly has built then off to the building site. They will see templates erect
+ ed and a base being put in\, how to dress stone and how to ‘pack before yo
+ u stack’. How to recognise copers and put to one side before starting to p
+ rogress with building. This workshop is for home projects only\, NOT for c
+ ommercial works.</p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151019
+GEO:-42.304218;+147.405457
+LOCATION:Nicholas Weeding’s Farm @ Sandy Lane\, Oatlands TAS 7120\, Austral
+ ia
+SEQUENCE:0
+SUMMARY:DSW workshop Tas
+URL:http://dswaa.org.au/event/dsw-workshop-tas/
+X-COST:$240
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-12509@dswaa.org.au
-DTSTAMP:20150920T002329Z
+DTSTAMP:20150921T224753Z
 CATEGORIES;LANGUAGE=en-US:DSW Workshops
 CONTACT:Bruce Munday\; 0417895249\; brucemunday42@gmail.com
 DESCRIPTION:<p><span style='color: #ff0000\;'>THIS WORKSHOP IS NOW FULL</sp
@@ -85,7 +106,7 @@ X-COST:$200
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-12516@dswaa.org.au
-DTSTAMP:20150920T002329Z
+DTSTAMP:20150921T224753Z
 CATEGORIES:
 CONTACT:Bruce Munday\; 0417895249\; bruce.m42@bigpond.com
 DESCRIPTION:<p>A weekend self-drive tour of some of the notable dry stone w

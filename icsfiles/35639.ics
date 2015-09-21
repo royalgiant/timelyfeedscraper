@@ -23,23 +23,8 @@ TZNAME:CDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-11100@www.nshsband.org
-DTSTAMP:20150920T002325Z
-CATEGORIES;LANGUAGE=en-US:Region
-CONTACT:
-DESCRIPTION:
-DTSTART;VALUE=DATE:20150919
-DTEND;VALUE=DATE:20150920
-GEO:+32.940207;-97.174916
-LOCATION:Southlake Carroll Senior HS @ 1501 West Southlake Boulevard\, Sout
- hlake\, TX 76092\, USA
-SEQUENCE:0
-SUMMARY:All-Region Jazz Auditions
-URL:http://www.nshsband.org/event/all-region-jazz-auditions/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-11063@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:
 DESCRIPTION:
@@ -53,7 +38,7 @@ URL:http://www.nshsband.org/event/11063/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11157@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Practice
 CONTACT:
 DESCRIPTION:
@@ -65,7 +50,7 @@ URL:http://www.nshsband.org/event/vento-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11102@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:
@@ -80,7 +65,7 @@ URL:http://www.nshsband.org/event/area-jazz-recording/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11002@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:Trevor Kay\; 972-968-5327\; kaytr@cfbisd.edu
 DESCRIPTION:<p>21st Annual Tournament of Champions Marching Contest</p>\n<p
@@ -96,7 +81,7 @@ URL:http://www.nshsband.org/event/tournament-of-champions/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11010@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:
 DESCRIPTION:
@@ -111,7 +96,7 @@ URL:http://www.nshsband.org/event/marching-contest-tbd/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11011@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:
 DESCRIPTION:
@@ -126,7 +111,7 @@ URL:http://www.nshsband.org/event/uil-region-24-marching-contest-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11012@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:
 DESCRIPTION:
@@ -141,7 +126,7 @@ URL:http://www.nshsband.org/event/uil-area-marching-contest/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11062@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:
 DESCRIPTION:
@@ -155,7 +140,7 @@ URL:http://www.nshsband.org/event/uil-state-marching-contest/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11070@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:
 DESCRIPTION:
@@ -170,7 +155,7 @@ URL:http://www.nshsband.org/event/lone-star-classic-drumline-competition/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11103@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:
@@ -185,7 +170,7 @@ URL:http://www.nshsband.org/event/all-region-jazz-clinicconcert/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11104@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:<p>5:00pm @ Wakeland HS</p>
@@ -199,7 +184,7 @@ URL:http://www.nshsband.org/event/all-region-auditions-5a-phase-1/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11106@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:<p>5:00pm @ Lewisville HS</p>
@@ -214,7 +199,7 @@ URL:http://www.nshsband.org/event/all-region-auditions-6a-phase-1/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11105@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:<p>5:00pm @ Wakeland HS</p>
@@ -228,7 +213,7 @@ URL:http://www.nshsband.org/event/all-region-auditions-5a-phase-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11107@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:<p>1:00pm @ Colleyville Heritage HS</p>
@@ -243,7 +228,7 @@ URL:http://www.nshsband.org/event/all-region-auditions-6a-phase-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11108@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:<p>8:00am @ Colleyville Heritage HS</p>
@@ -258,7 +243,7 @@ URL:http://www.nshsband.org/event/all-region-auditions-freshman-audition/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11099@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:
@@ -273,7 +258,7 @@ URL:http://www.nshsband.org/event/area-auditions-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11110@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:School/District
 CONTACT:
 DESCRIPTION:
@@ -288,7 +273,7 @@ URL:http://www.nshsband.org/event/nshs-musical/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11109@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:
@@ -300,7 +285,7 @@ URL:http://www.nshsband.org/event/all-region-clinicconcert-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11119@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:
@@ -314,7 +299,7 @@ URL:http://www.nshsband.org/event/solo-ensemble-contest/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11111@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Band Activities
 CONTACT:
 DESCRIPTION:
@@ -326,7 +311,7 @@ URL:http://www.nshsband.org/event/tmea-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11159@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:
 DESCRIPTION:
@@ -341,7 +326,7 @@ URL:http://www.nshsband.org/event/orchestra-uil-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11160@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Band Activities
 CONTACT:
 DESCRIPTION:
@@ -353,7 +338,7 @@ URL:http://www.nshsband.org/event/new-york-trip/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11112@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:School/District
 CONTACT:
 DESCRIPTION:
@@ -365,7 +350,7 @@ URL:http://www.nshsband.org/event/spring-break-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11113@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:
 DESCRIPTION:
@@ -380,7 +365,7 @@ URL:http://www.nshsband.org/event/high-school-pre-uil-contest/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11120@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Contests
 CONTACT:
 DESCRIPTION:
@@ -394,7 +379,7 @@ URL:http://www.nshsband.org/event/uil-concert-sightreading-contest-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11066@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Practice
 CONTACT:
 DESCRIPTION:<p>Show block</p>
@@ -414,7 +399,7 @@ URL:http://www.nshsband.org/event/rehearsal-18/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11069@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Practice
 CONTACT:
 DESCRIPTION:
@@ -431,7 +416,7 @@ URL:http://www.nshsband.org/event/rehearsal-standridge-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11067@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Practice
 CONTACT:
 DESCRIPTION:<p>Show block.</p>
@@ -451,7 +436,7 @@ URL:http://www.nshsband.org/event/rehearsal-23/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11054@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Football
 CONTACT:
 DESCRIPTION:<p>4:15pm call time at Standridge Stadium.</p>\n<p>Rehearsal 4:
@@ -467,7 +452,7 @@ URL:http://www.nshsband.org/event/homecoming-vs-bryan-adams/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11135@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Practice
 CONTACT:
 DESCRIPTION:
@@ -482,7 +467,7 @@ URL:http://www.nshsband.org/event/troyannpregame-rehearsal-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11055@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Football
 CONTACT:
 DESCRIPTION:<p>4:30pm call time in Newman Smith band hall.</p>
@@ -496,7 +481,7 @@ URL:http://www.nshsband.org/event/game-thomas-jefferson/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11068@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Practice
 CONTACT:
 DESCRIPTION:<p>Show block.</p>
@@ -517,7 +502,7 @@ URL:http://www.nshsband.org/event/rehearsal-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11056@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Football
 CONTACT:
 DESCRIPTION:<p>4:15pm call time at Standridge Stadium.</p>\n<p>Rehearsal 4:
@@ -534,7 +519,7 @@ URL:http://www.nshsband.org/event/game-vs-woodrow-wilson/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11136@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Practice
 CONTACT:
 DESCRIPTION:
@@ -549,7 +534,7 @@ URL:http://www.nshsband.org/event/troyannpregame-rehearsal-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11057@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Football
 CONTACT:
 DESCRIPTION:<p>4:15pm call time at Standridge Stadium.</p>\n<p>Rehearsal 4:
@@ -565,7 +550,7 @@ URL:http://www.nshsband.org/event/game-vs-north-dallas/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11058@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Football
 CONTACT:
 DESCRIPTION:<p>5:00pm call time in the Newman Smith band hall.</p>
@@ -579,7 +564,7 @@ URL:http://www.nshsband.org/event/game-conrad/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11137@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Practice
 CONTACT:
 DESCRIPTION:
@@ -594,7 +579,7 @@ URL:http://www.nshsband.org/event/troyannpregame-rehearsal-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11059@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Football
 CONTACT:
 DESCRIPTION:<p>4:15pm call time at Standridge Stadium.</p>\n<p>Rehearsal 4:
@@ -610,7 +595,7 @@ URL:http://www.nshsband.org/event/game-senior-night-vs-hillcrest/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11060@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Football
 CONTACT:
 DESCRIPTION:<p>6:00pm call time at Standridge Stadium.</p>
@@ -625,7 +610,7 @@ URL:http://www.nshsband.org/event/game-creekview/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11096@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Concerts
 CONTACT:
 DESCRIPTION:
@@ -640,7 +625,7 @@ URL:http://www.nshsband.org/event/jazz-winter-concert/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11097@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Concerts
 CONTACT:
 DESCRIPTION:
@@ -655,7 +640,7 @@ URL:http://www.nshsband.org/event/dan-f-long-winter-concert/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11098@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Concerts
 CONTACT:
 DESCRIPTION:
@@ -670,7 +655,7 @@ URL:http://www.nshsband.org/event/nshs-bands-winter-concert/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11158@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Concerts
 CONTACT:
 DESCRIPTION:
@@ -684,7 +669,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11114@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Concerts
 CONTACT:
 DESCRIPTION:
@@ -699,7 +684,7 @@ URL:http://www.nshsband.org/event/drum-dance-concert/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11115@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Concerts
 CONTACT:
 DESCRIPTION:
@@ -714,7 +699,7 @@ URL:http://www.nshsband.org/event/percussion-concert-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11121@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Band Activities
 CONTACT:
 DESCRIPTION:
@@ -729,7 +714,7 @@ URL:http://www.nshsband.org/event/band-banquet-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11156@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Region
 CONTACT:
 DESCRIPTION:
@@ -741,7 +726,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11116@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Concerts
 CONTACT:
 DESCRIPTION:
@@ -756,7 +741,7 @@ URL:http://www.nshsband.org/event/nshs-bands-spring-concert/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11117@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Concerts
 CONTACT:
 DESCRIPTION:
@@ -771,7 +756,7 @@ URL:http://www.nshsband.org/event/polk-spring-concert-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-11118@www.nshsband.org
-DTSTAMP:20150920T002325Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Band Activities
 CONTACT:
 DESCRIPTION:<p>10:00am – 12:30pm…Marching</p>\n<p>12:30pm – 2:00pm…Cookout!

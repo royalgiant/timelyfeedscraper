@@ -1,18 +1,13 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//41.138.92.70//NONSGML kigkonsult.se iCalcreator 2.20//
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-FROM-URL:http://haimachristou.co.za
-X-WR-TIMEZONE:Africa/Harare
-BEGIN:VTIMEZONE
-TZID:Africa/Harare
-X-LIC-LOCATION:Africa/Harare
-BEGIN:STANDARD
-DTSTART:19030301T000000
-TZOFFSETFROM:+021020
-TZOFFSETTO:+0200
-TZNAME:CAT
-END:STANDARD
-END:VTIMEZONE
-END:VCALENDAR
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+Size of a request header field exceeds server limit.<br />
+<pre>
+cookie
+</pre>/n</p>
+<hr>
+<address>Apache/2.2.29 (Unix) Server at interworx-default-sites.com Port 80</address>
+</body></html>

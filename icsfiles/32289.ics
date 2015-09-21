@@ -23,42 +23,8 @@ TZNAME:PDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-154@go-yoga.ca
-DTSTAMP:20150920T003917Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p><input name='cmd' type='hidden' value='_s-xclick' />This gen
- tle hatha yoga class is for those who new to yoga or are looking to ease b
- ack into a practice after an injury. (All levels)</p>\n<p>Days & Times: Su
- ndays\, 2pm-3pm</p>\n<p>Location: Holland Point Park</p>\n<form action='ht
- tps://www.paypal.com/cgi-bin/webscr' method='post' target='paypal'><input 
- name='cmd' type='hidden' value='_s-xclick' /><br />\n<input name='hosted_b
- utton_id' type='hidden' value='JGCXNZLXKGHZY' /></p>\n<table>\n<tbody>\n<t
- r>\n<td><input name='on0' type='hidden' value='Buy Classes' />Buy Classes<
- /td>\n</tr>\n<tr>\n<td><select name='os0'><option value='Drop In'>Drop In 
- $6.00 CAD</option><option value='5 Classes'>5 Classes $25.00 CAD</option><
- option value='10 Classes'>10 Classes $40.00 CAD</option></select></td>\n</
- tr>\n</tbody>\n</table>\n<p><input name='currency_code' type='hidden' valu
- e='CAD' /><input alt='PayPal - The safer\, easier way to pay online!' name
- ='submit' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' 
- type='image' /><br />\n<img src='https://www.paypalobjects.com/en_US/i/scr
- /pixel.gif' alt='' width='1' height='1' border='0' /></p>\n</form>\n<p><im
- g src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' alt='' width='
- 1' height='1' border='0' /><iframe src='https://www.google.com/maps/embed?
- pb=!1m18!1m12!1m3!1d2648.371510276724!2d-123.37670705!3d48.41101155000001!
- 2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548f74b8cbb3f7a9%3A0x8
- dfa65d0469a6c70!2sHolland+Point+Park!5e0!3m2!1sen!2sca!4v1434075144025' wi
- dth='307' height='230' frameborder='0'></iframe></p>
-DTSTART;TZID=America/Vancouver:20150920T140000
-DTEND;TZID=America/Vancouver:20151122T140000
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Yoga for Beginners
-URL:http://go-yoga.ca/index.php/event/yoga-for-beginners/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-139@go-yoga.ca
-DTSTAMP:20150920T003917Z
+DTSTAMP:20150921T225351Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<form action='https://www.paypal.com/cgi-bin/webscr' method='po
@@ -82,8 +48,8 @@ DESCRIPTION:<form action='https://www.paypal.com/cgi-bin/webscr' method='po
  0001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548f74b8cbb3f7a9%
  3A0x8dfa65d0469a6c70!2sHolland+Point+Park!5e0!3m2!1sen!2sca!4v143407514402
  5' width='400' height='300' frameborder='0'></iframe></p>
-DTSTART;TZID=America/Vancouver:20150920T150000
-DTEND;TZID=America/Vancouver:20151122T150000
+DTSTART;TZID=America/Vancouver:20150924T150000
+DTEND;TZID=America/Vancouver:20151126T150000
 EXRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,FR,SA;WKST=MO
 RRULE:FREQ=DAILY
 SEQUENCE:0
@@ -92,7 +58,7 @@ URL:http://go-yoga.ca/index.php/event/restorative-yoga/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-158@go-yoga.ca
-DTSTAMP:20150920T003917Z
+DTSTAMP:20150921T225351Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Days & Times: Sundays\, 2pm-3pm</p>\n<p>Location: Holland Po
@@ -122,7 +88,7 @@ URL:http://go-yoga.ca/index.php/event/yoga-for-runners-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-156@go-yoga.ca
-DTSTAMP:20150920T003917Z
+DTSTAMP:20150921T225351Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>This gentle yoga practice uses therapeutic yoga postures (as
@@ -154,5 +120,39 @@ RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=MO
 SEQUENCE:0
 SUMMARY:Yoga For The Mind
 URL:http://go-yoga.ca/index.php/event/yoga-for-the-mind/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-154@go-yoga.ca
+DTSTAMP:20150921T225351Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><input name='cmd' type='hidden' value='_s-xclick' />This gen
+ tle hatha yoga class is for those who new to yoga or are looking to ease b
+ ack into a practice after an injury. (All levels)</p>\n<p>Days & Times: Su
+ ndays\, 2pm-3pm</p>\n<p>Location: Holland Point Park</p>\n<form action='ht
+ tps://www.paypal.com/cgi-bin/webscr' method='post' target='paypal'><input 
+ name='cmd' type='hidden' value='_s-xclick' /><br />\n<input name='hosted_b
+ utton_id' type='hidden' value='JGCXNZLXKGHZY' /></p>\n<table>\n<tbody>\n<t
+ r>\n<td><input name='on0' type='hidden' value='Buy Classes' />Buy Classes<
+ /td>\n</tr>\n<tr>\n<td><select name='os0'><option value='Drop In'>Drop In 
+ $6.00 CAD</option><option value='5 Classes'>5 Classes $25.00 CAD</option><
+ option value='10 Classes'>10 Classes $40.00 CAD</option></select></td>\n</
+ tr>\n</tbody>\n</table>\n<p><input name='currency_code' type='hidden' valu
+ e='CAD' /><input alt='PayPal - The safer\, easier way to pay online!' name
+ ='submit' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' 
+ type='image' /><br />\n<img src='https://www.paypalobjects.com/en_US/i/scr
+ /pixel.gif' alt='' width='1' height='1' border='0' /></p>\n</form>\n<p><im
+ g src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' alt='' width='
+ 1' height='1' border='0' /><iframe src='https://www.google.com/maps/embed?
+ pb=!1m18!1m12!1m3!1d2648.371510276724!2d-123.37670705!3d48.41101155000001!
+ 2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548f74b8cbb3f7a9%3A0x8
+ dfa65d0469a6c70!2sHolland+Point+Park!5e0!3m2!1sen!2sca!4v1434075144025' wi
+ dth='307' height='230' frameborder='0'></iframe></p>
+DTSTART;TZID=America/Vancouver:20150927T140000
+DTEND;TZID=America/Vancouver:20151129T140000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Yoga for Beginners
+URL:http://go-yoga.ca/index.php/event/yoga-for-beginners/
 END:VEVENT
 END:VCALENDAR

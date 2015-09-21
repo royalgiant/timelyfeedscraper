@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//111.223.233.22//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.991smartfm.com.au
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+X-LIC-LOCATION:Australia/Melbourne
+BEGIN:STANDARD
+DTSTART:20150405T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+RDATE:20160403T030000
+TZNAME:AEST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20151004T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-346@www.991smartfm.com.au
+DTSTAMP:20150921T224634Z
+CATEGORIES:
+CONTACT:Roger Day\; 50329166\; secretary@rra.org.au\; http://www.rra.org.au
+DESCRIPTION:<p>The Residents and Ratepayers Association will be holding the
+ ir monthly meeting. All members of the Community are welcome to attend and
+  we meet at the Swan Hill Club at 7:30pm.</p>
+DTSTART;TZID=Australia/Melbourne:20151006T193000
+DTEND;TZID=Australia/Melbourne:20151006T210000
+EXRULE:FREQ=YEARLY;BYDAY=1TU;BYMONTH=1
+LOCATION:Swan Hill Club @ 1-15 McCallum Street\, Swan Hill\, Victoria\, Aus
+ tralia 3585
+RRULE:FREQ=MONTHLY;BYDAY=1TU
+SEQUENCE:0
+SUMMARY:Residents & Ratepayers Assoc
+URL:http://www.991smartfm.com.au/event/rrassociation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-450@www.991smartfm.com.au
+DTSTAMP:20150921T224634Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Swan Hill sporting car club meets on the second Sunday of th
+ e every month\, excluding January and February. Please check our calendar 
+ for event dates.</p>\n<p>Our monthly events take place at Jack Chisolm Res
+ erve\, Swan Hill — Ultima Rd\, Swan Hill\, Victoria 3585</p>\n<p>We have a
+  unique track on the fact it has Twin (2) tracks 1.8 k in length with a br
+ idged crossover making a great track to experience.</p>\n<p>Autocross is a
+  cost effective way to enter into motor sport\, with cars ranging from a s
+ tandard road vehicle to a rally spec type vehicle it is up to you.</p>\n<p
+ >There are requirements to drive\, which are managed by CAMS. For more inf
+ ormation on the regulations and requirements follow the link. http://www.c
+ ams.com.au/motor-sport/regulations/cams-manual/general-requirements All ca
+ rs must pass scrutineering before each event.</p>\n<p>Spectators are more 
+ than welcome. Admission is free and there is a BBQ lunch and soft drink av
+ ailable on the day.</p>\n<p>Most event days start with scrutineering at 9a
+ m\, and racing starts at 10am. Lunch is prepared at 1pm\, and racing conlc
+ udes at 2.30 pm. Please check the calendar for further details prior to th
+ e event.</p>
+DTSTART;TZID=Australia/Melbourne:20151011T080000
+DTEND;TZID=Australia/Melbourne:20151011T144500
+EXDATE;TZID=Australia/Melbourne:20150111T080000
+EXDATE;TZID=Australia/Melbourne:20150208T080000
+RRULE:FREQ=MONTHLY;BYDAY=2SU
+SEQUENCE:0
+SUMMARY:Swan Hill Sporting Car Club
+URL:http://www.991smartfm.com.au/event/swan-hill-sporting-car-club/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-480@www.991smartfm.com.au
+DTSTAMP:20150921T224634Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Meeting at Woorinen South Community Hall.</p>
+DTSTART;TZID=Australia/Melbourne:20151021T193000
+DTEND;TZID=Australia/Melbourne:20151021T213000
+RRULE:FREQ=MONTHLY;COUNT=4;INTERVAL=2;BYDAY=3WE
+SEQUENCE:0
+SUMMARY:Woorinen and District Progress Association Meeting
+URL:http://www.991smartfm.com.au/event/woorinen-district-progress-associati
+ on-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-484@www.991smartfm.com.au
+DTSTAMP:20150921T224634Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Meeting at Woorinen South Community Hall.</p>
+DTSTART;TZID=Australia/Melbourne:20151118T193000
+DTEND;TZID=Australia/Melbourne:20151118T213000
+SEQUENCE:0
+SUMMARY:Woorinen and District Progress Association AGM
+URL:http://www.991smartfm.com.au/event/woorinen-and-district-progress-assoc
+ iation-agm/
+END:VEVENT
+END:VCALENDAR

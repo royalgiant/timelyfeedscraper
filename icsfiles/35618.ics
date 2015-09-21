@@ -23,73 +23,21 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e3d2kbaodhhf1n3r63glkl4srg@google.com
-DTSTAMP:20150920T002319Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>You must arrive at Hometown Harley-Davidson in Winterville\,
-  NC no later than 11:00am.  Riders are welcome to arrive as early as 9:00a
- m in order to enjoy entertainment by Still Standing and Outlaw Entertainme
- nt\, and fellowship. We will be leaving Hometown Harley-Davidson for a nic
- e country ride at 12:00pm. The ride will leave Hometown to go by the accid
- ent site\, which is located between Eureka and Fremont. We will then\, sto
- p in Fremont to refuel and rest for about 30 minutes. Afterward\, we will 
- ride by the cemetary and be on our way back to Hometown. This is an escort
- ed ride. This ride is approximately 70 miles round-trip. Chili cook-off wi
- ll begin at 12:00pm. We will also have funnel cakes\, and sausage dogs alo
- ng with other festivities such as\, live band\, 50/50 drawing\, door prize
- s\, grand prize drawing\, voting on chili \, and presenting Jacob’s Memori
- al Plaque Winner (the county that has the most riders to attend)  plus $50
- 0 to go to their charity of choice.  Furtherest rider or group will receiv
- e a trophy\, as well</p>
-DTSTART;TZID=America/New_York:20150919T110000
-DTEND;TZID=America/New_York:20150919T220000
-LOCATION:2300 Elaines Way\, Winterville\, NC 28590
-SEQUENCE:0
-SUMMARY:5th Annual Jacob’s Run
-URL:http://bfcrva.org/event/5th-annual-jacobs-run/
-END:VEVENT
-BEGIN:VEVENT
-UID:9fe53thn9qi7lt4uc92rl1g0j8@google.com
-DTSTAMP:20150920T002319Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>(Rain or Shine) Registration: 10:00am. Ride Departs at 11:30
- am. Donation: $20.00 per bike. The first 50 Riders that register before Se
- ptember 4\, 2015 will receive a ride shirt.<br />\nAll procceds raised go 
- to the Special Olympics. There will be a 50/50 raffle\, raffle prizes and 
- music by Tommy Cummings. Ride shirts will be available for purchase at the
-  event. The winners will be announced at the end of the event. Lunch will 
- be provided after the<br />\nride. Ride Information: This is a group ride.
-  The route will be about 85 miles total. The ride is set up to be escorted
-  by the State Police\, Prince George Police and members of Blue Knights Va
- . XVII. The route will have a short fuel/rest stop and will end at the sta
- rt point.</p>
-DTSTART;TZID=America/New_York:20150919T140000
-DTEND;TZID=America/New_York:20150919T190000
-LOCATION:10010 County Drive\, Disputanta\, Virginia 23842
-SEQUENCE:0
-SUMMARY:Special Olympics – Ride for the Torch
-URL:http://bfcrva.org/event/special-olympics-ride-for-the-torch/
-END:VEVENT
-BEGIN:VEVENT
-UID:ui2pkiog1ehu654nihvjqoigmo@google.com
-DTSTAMP:20150920T002319Z
+UID:avsff81ecih1n1c1qetlt2u2lc@google.com
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T100000
-DTEND;TZID=America/New_York:20150920T110000
-LOCATION:South Forty Campgrounds\, 2809 Courtland Road\, Petersburg\, Va 23
- 805
-RRULE:FREQ=MONTHLY;COUNT=5;BYDAY=3SU;WKST=SU
+DTSTART;VALUE=DATE:20160507
+DTEND;VALUE=DATE:20160508
+LOCATION:Richmond Harley
 SEQUENCE:0
-SUMMARY:36 Kickstand Chapel
-URL:http://bfcrva.org/event/36-kickstand-chapel/
+SUMMARY:1st Annual 36 BDRF Ride
+URL:http://bfcrva.org/event/1st-annual-36-bdrf-ride/
 END:VEVENT
 BEGIN:VEVENT
 UID:bhrld8s1ur7nhuvv897esghf7s@google.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Registration begins at 9:30am. Last bike out at 11:00am. Sto
@@ -107,7 +55,7 @@ URL:http://bfcrva.org/event/ride-in-for-luanne/
 END:VEVENT
 BEGIN:VEVENT
 UID:5sfk2unutqk916jsijog93879o@google.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Registration 2pm-4pm. $15.00 per rider. $10.00 for additiona
@@ -123,13 +71,12 @@ URL:http://bfcrva.org/event/4th-annual-journey-home-poker-run/
 END:VEVENT
 BEGIN:VEVENT
 UID:t7anuqne1mr27ut82kqnjkqcio_R20141027T233000@google.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Location changes.</p>
 DTSTART;TZID=America/New_York:20150928T193000
 DTEND;TZID=America/New_York:20150928T220000
-EXDATE;TZID=America/New_York:20141027T193000
 EXDATE;TZID=America/New_York:20141222T193000
 LOCATION:Changes monthly
 RRULE:FREQ=MONTHLY;BYDAY=4MO;WKST=SU
@@ -139,7 +86,7 @@ URL:http://bfcrva.org/event/fhc-meeting-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:htnn3ek51h5jhkqc2vj1ikhjcs_R20150404T120000@google.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Monthly breakfast and brief meeting with the various motorcy
@@ -154,7 +101,7 @@ URL:http://bfcrva.org/event/biker-breakfast/
 END:VEVENT
 BEGIN:VEVENT
 UID:gi8rdi1ubgqkchb3ec7vu57kvg@google.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Monthly Chapter Meeting</p>
@@ -169,7 +116,7 @@ URL:http://bfcrva.org/event/bfc-chapter-meeting-638/
 END:VEVENT
 BEGIN:VEVENT
 UID:0ien9fuqj0ilqqbvgclcc2oq7c@google.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Sponsored by Sons of Dominion M/C. The poker run starts at C
@@ -186,8 +133,23 @@ SUMMARY:3rd Annual Poker Run for Autism
 URL:http://bfcrva.org/event/3rd-annual-poker-run-for-autism/
 END:VEVENT
 BEGIN:VEVENT
+UID:ui2pkiog1ehu654nihvjqoigmo@google.com
+DTSTAMP:20150921T224750Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151018T100000
+DTEND;TZID=America/New_York:20151018T110000
+LOCATION:South Forty Campgrounds\, 2809 Courtland Road\, Petersburg\, Va 23
+ 805
+RRULE:FREQ=MONTHLY;COUNT=5;BYDAY=3SU;WKST=SU
+SEQUENCE:0
+SUMMARY:36 Kickstand Chapel
+URL:http://bfcrva.org/event/36-kickstand-chapel/
+END:VEVENT
+BEGIN:VEVENT
 UID:2527gflldvp8kv6esvo5mctdj4@google.com
-DTSTAMP:20150920T002319Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Registration begins at 8:00am. Police escorted ride leaving 

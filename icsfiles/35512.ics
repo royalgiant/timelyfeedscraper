@@ -1,14 +1,340 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>
-</p>
-<hr>
-<address>Apache Server at virtualhost.118.139.185.1 Port 80</address>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//118.139.185.1//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.dhahampasala.org
+X-WR-TIMEZONE:Atlantic/Azores
+BEGIN:VTIMEZONE
+TZID:Atlantic/Azores
+X-LIC-LOCATION:Atlantic/Azores
+BEGIN:STANDARD
+DTSTART:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:-0100
+TZNAME:AZOT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T000000
+TZOFFSETFROM:-0100
+TZOFFSETTO:+0000
+RDATE:20160327T000000
+TZNAME:AZOST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-1301@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150925
+DTEND;VALUE=DATE:20150926
+SEQUENCE:0
+SUMMARY:ඊද් උත්සව නිවාඩුව
+URL:http://www.dhahampasala.org/event/%e0%b6%8a%e0%b6%af%e0%b7%8a-%e0%b6%8b
+ %e0%b6%ad%e0%b7%8a%e0%b7%83%e0%b7%80-%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b7%8f%
+ e0%b6%a9%e0%b7%94%e0%b7%80/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1315@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151003
+SEQUENCE:0
+SUMMARY:ඇගයීමේ පරීක්ෂණ සියලුම පන්ති සඳහා
+URL:http://www.dhahampasala.org/event/%e0%b6%87%e0%b6%9c%e0%b6%ba%e0%b7%93%
+ e0%b6%b8%e0%b7%9a-%e0%b6%b4%e0%b6%bb%e0%b7%93%e0%b6%9a%e0%b7%8a%e0%b7%82%e
+ 0%b6%ab-%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%94%e0%b6%b8-%e0%b6%b4%e
+ 0%b6%b1/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1314@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: center\;'><strong>2015-2016 අධ්‍යයන වසර ස
+ ඳහා සිසුන් බඳවා ගැනීම</strong></p>\n<p style='text-align: center\;'>ඩුබායි
+  දහම් පාසලේ 2015-2016 අධ්‍යයන වසර සඳහා සිසුන් බඳවා ගැනීම<br />\n2015 සැප්ත
+ ැම්බර් මස 11\, 18 සහ ඔක්තෝබර් මස 02 සිකුරාදා දිනයන්හිදී\,<br />\nපෙ.ව. 9:3
+ 0 සිට 11:30 දක්වා ද\,<br />\nප.ව. 1:45 සිට 3:45 දක්වා ද\,<br />\nඩුබායි කො
+ න්සල් ජනරාල් කාර්යාලයේ පිහිටි දහම් පාසල් පරිශ්‍රයේදී සිදුකෙරෙනු ඇත.</p>\n<
+ p><span style='text-decoration: underline\;'>සුදුසුකම්:<br />\n</span><br 
+ />\n<strong>1 වසර සඳහා ඇතුලත් කිරීමට :</strong> 2015 අගෝස්තු මස 31 දිනට වය
+ ස අවුරුදු 6 සම්පුර්ණ කළ හෝ දිනපතා පාසලේ 1 වසරේ අධ්‍යාපනය ලබන දරුවන් හට 201
+ 5-2016 අධ්‍යයන වසරට ඇතුලත් වීමට සුදුසුකම් ලබනු ඇත. වැඩි විස්තර නීතිරීති මා
+ ලාව සහ අයදුම් පත කියවීමෙන් ලබාගත හැක.</p>\n<p><strong>2 වසර සහ ඉහල පන්ති ස
+ ඳහා ඇතුලත් කිරීම :</strong> මෙම පන්ති සඳහා දරුවන් ඇතුලත් කිරීම ඒ ඒ පන්තියට
+  අදාල පරීක්ෂණයකින් පසුව සිදුකරනු ලැබේ. පරීක්ෂණය පැවැත්වෙන දිනය අපගේ වෙබ්අඩ
+ වියෙන් හෝ සංවිධාන කමිටුව විසින් දැනුම් දෙනු ඇත.</p>\n<p><span style='text-
+ decoration: underline\;'><strong>පන්ති පැවැත්වෙන වේලාවන්:<br />\n</strong>
+ </span><br />\n1\, 2 සහ 3 වසර සඳහා පන්ති පස්වරු 1:10 සිට 4:15 දක්වා පැවැත්
+ වෙන අතර<br />\n4 සිට 8 වසර දක්වා පන්ති පෙරවරු 8:55 සිට දහවල් 12:35 දක්වා ප
+ ැවැත්වෙන බව කරුණාවෙන් සලකන්න.</p>\n<p><span style='text-decoration: underl
+ ine\;'><strong>අයදුම්පත:<br />\n</strong></span><br />\nසිසුන් ඇතුලත් කිරී
+ ම සඳහා වැඩි විස්තර (සුදුසුකම් සහ නීතිරීති මාලාව) සහ අයදුම්පත අපගේ වෙබ් අඩව
+ ියට පිවිසීමෙන් ලබාගත හැක : <a href='http://www.dhahampasala.org/wp-content
+ /uploads/2015/09/3-Application-and-Rules.pdf' target='blank'><span style='
+ background-color: #ffff00\;'>අයදුම් පත සහ නීතිරීති මාලාව </span></a></p>\n
+ <p>නීති රීති මාලාව කියවා සම්පුර්ණ කරන ලද අයදුම් පත් අදාළ ඇමිණුම් සමග ඉහත ද
+ ිනයන්හීදී සංවිධායක මණ්ඩලය වෙත පැමිණ බාරදෙන මෙන් කරුණාවෙන් ඉල්ලා සිටිමු. em
+ ail මගින් එවන අයදුම්පත් සහ අසම්පූර්ණ අයදුම්පත් බාර නොගන්නා බවද කරුණාවෙන් ස
+ ලකන්න.</p>\n<p>වැඩි විස්තර ලබා ගැනීම සඳහා ලියන්න: email: <a href='mailto:d
+ ahampasaladubai@gmail.com'><span style='color: #0000ff\;'>dahampasaladubai
+ @gmail.com</span></a></p>\n<p>ස්තුතියි\,<br />\nසංවිධායක මණ්ඩලය</p>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151003
+SEQUENCE:0
+SUMMARY:නව වසරට සිසුන් බඳවා ගැනීම
+URL:http://www.dhahampasala.org/event/%e0%b6%b1%e0%b7%80-%e0%b7%80%e0%b7%83
+ %e0%b6%bb%e0%b6%a7-%e0%b7%83%e0%b7%92%e0%b7%83%e0%b7%94%e0%b6%b1%e0%b7%8a-
+ %e0%b6%b6%e0%b6%b3%e0%b7%80%e0%b7%8f-%e0%b6%9c%e0%b7%90%e0%b6%b1%e0%b7%93%
+ e0%b6%b8-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1316@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151009
+DTEND;VALUE=DATE:20151010
+SEQUENCE:0
+SUMMARY:නව අධ්‍යයන වසරේ නව පන්ති සහ 1 වසර පන්ති ආරම්භය
+URL:http://www.dhahampasala.org/event/%e0%b6%b1%e0%b7%80-%e0%b6%85%e0%b6%b0
+ %e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b6%b1-%e0%b7%80%e0%b7%83%e0%b6%bb%
+ e0%b7%9a-%e0%b6%b1%e0%b7%80-%e0%b6%b4%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%92-
+ %e0%b7%83/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1317@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+SEQUENCE:0
+SUMMARY:ගුරු දෙගුරු මහා සභා රැස්වීම
+URL:http://www.dhahampasala.org/event/%e0%b6%9c%e0%b7%94%e0%b6%bb%e0%b7%94-
+ %e0%b6%af%e0%b7%99%e0%b6%9c%e0%b7%94%e0%b6%bb%e0%b7%94-%e0%b6%b8%e0%b7%84%
+ e0%b7%8f-%e0%b7%83%e0%b6%b7%e0%b7%8f-%e0%b6%bb%e0%b7%90%e0%b7%83%e0%b7%8a%
+ e0%b7%80/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1318@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151030
+DTEND;VALUE=DATE:20151031
+SEQUENCE:0
+SUMMARY:වර්ෂ අවසාන සීල පිංකම
+URL:http://www.dhahampasala.org/event/%e0%b7%80%e0%b6%bb%e0%b7%8a%e0%b7%82-
+ %e0%b6%85%e0%b7%80%e0%b7%83%e0%b7%8f%e0%b6%b1-%e0%b7%83%e0%b7%93%e0%b6%bd-
+ %e0%b6%b4%e0%b7%92%e0%b6%82%e0%b6%9a%e0%b6%b8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1341@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151211
+DTEND;VALUE=DATE:20151212
+SEQUENCE:0
+SUMMARY:ගුරු දෙගුරු හමුව (Open house)
+URL:http://www.dhahampasala.org/event/%e0%b6%9c%e0%b7%94%e0%b6%bb%e0%b7%94-
+ %e0%b6%af%e0%b7%99%e0%b6%9c%e0%b7%94%e0%b6%bb%e0%b7%94-%e0%b7%84%e0%b6%b8%
+ e0%b7%94%e0%b7%80-open-house/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1319@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151231
+DTEND;VALUE=DATE:20160101
+SEQUENCE:0
+SUMMARY:සර්ව රාත්‍රික පිරිත් පිංකම
+URL:http://www.dhahampasala.org/event/%e0%b7%83%e0%b6%bb%e0%b7%8a%e0%b7%80-
+ %e0%b6%bb%e0%b7%8f%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a-%
+ e0%b6%b4%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8a-%e0%b6%b4%e0%b7%92%e
+ 0%b6%82/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1320@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+SEQUENCE:0
+SUMMARY:හීල සහ දවල් දානය
+URL:http://www.dhahampasala.org/event/%e0%b7%84%e0%b7%93%e0%b6%bd-%e0%b7%83
+ %e0%b7%84-%e0%b6%af%e0%b7%80%e0%b6%bd%e0%b7%8a-%e0%b6%af%e0%b7%8f%e0%b6%b1
+ %e0%b6%ba/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1321@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160109
+DTEND;VALUE=DATE:20160110
+SEQUENCE:0
+SUMMARY:ගුරු කමිටු සුහද හමුව
+URL:http://www.dhahampasala.org/event/%e0%b6%9c%e0%b7%94%e0%b6%bb%e0%b7%94-
+ %e0%b6%9a%e0%b6%b8%e0%b7%92%e0%b6%a7%e0%b7%94-%e0%b7%83%e0%b7%94%e0%b7%84%
+ e0%b6%af-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1322@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160122
+DTEND;VALUE=DATE:20160123
+SEQUENCE:0
+SUMMARY:ළමා චිත්‍ර තරගය
+URL:http://www.dhahampasala.org/event/%e0%b7%85%e0%b6%b8%e0%b7%8f-%e0%b6%a0
+ %e0%b7%92%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb-%e0%b6%ad%e0%b6%bb%e0%b6%9c%
+ e0%b6%ba/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1323@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160205
+DTEND;VALUE=DATE:20160206
+SEQUENCE:0
+SUMMARY:නිදහස් උත්සවය
+URL:http://www.dhahampasala.org/event/%e0%b6%b1%e0%b7%92%e0%b6%af%e0%b7%84%
+ e0%b7%83%e0%b7%8a-%e0%b6%8b%e0%b6%ad%e0%b7%8a%e0%b7%83%e0%b7%80%e0%b6%ba/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1324@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160320
+DTEND;VALUE=DATE:20160321
+SEQUENCE:0
+SUMMARY:අත් අකුරු තරගය
+URL:http://www.dhahampasala.org/event/%e0%b6%85%e0%b6%ad%e0%b7%8a-%e0%b6%85
+ %e0%b6%9a%e0%b7%94%e0%b6%bb%e0%b7%94-%e0%b6%ad%e0%b6%bb%e0%b6%9c%e0%b6%ba/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1325@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160408
+DTEND;VALUE=DATE:20160409
+SEQUENCE:0
+SUMMARY:සිඟිති අලුත් අවුරුදු උළෙල
+URL:http://www.dhahampasala.org/event/%e0%b7%83%e0%b7%92%e0%b6%9f%e0%b7%92%
+ e0%b6%ad%e0%b7%92-%e0%b6%85%e0%b6%bd%e0%b7%94%e0%b6%ad%e0%b7%8a-%e0%b6%85%
+ e0%b7%80%e0%b7%94%e0%b6%bb%e0%b7%94%e0%b6%af%e0%b7%94-%e0%b6%8b%e0%b7%85%e
+ 0%b7%99/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1326@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160422
+DTEND;VALUE=DATE:20160423
+SEQUENCE:0
+SUMMARY:දහම් පාසල 14 වන සංවත්සර පිංකම
+URL:http://www.dhahampasala.org/event/%e0%b6%af%e0%b7%84%e0%b6%b8%e0%b7%8a-
+ %e0%b6%b4%e0%b7%8f%e0%b7%83%e0%b6%bd-14-%e0%b7%80%e0%b6%b1-%e0%b7%83%e0%b6
+ %82%e0%b7%80%e0%b6%ad%e0%b7%8a%e0%b7%83%e0%b6%bb-%e0%b6%b4%e0%b7%92%e0%b6%
+ 82%e0%b6%9a/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1327@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160506
+DTEND;VALUE=DATE:20160507
+SEQUENCE:0
+SUMMARY:වෙසක් උත්සවය
+URL:http://www.dhahampasala.org/event/%e0%b7%80%e0%b7%99%e0%b7%83%e0%b6%9a%
+ e0%b7%8a-%e0%b6%8b%e0%b6%ad%e0%b7%8a%e0%b7%83%e0%b7%80%e0%b6%ba/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1328@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160513
+DTEND;VALUE=DATE:20160514
+SEQUENCE:0
+SUMMARY:දහම් පාසල නිවාඩු දීම
+URL:http://www.dhahampasala.org/event/%e0%b6%af%e0%b7%84%e0%b6%b8%e0%b7%8a-
+ %e0%b6%b4%e0%b7%8f%e0%b7%83%e0%b6%bd-%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b7%8f%
+ e0%b6%a9%e0%b7%94-%e0%b6%af%e0%b7%93%e0%b6%b8/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1329@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160520
+DTEND;VALUE=DATE:20160521
+SEQUENCE:0
+SUMMARY:වෙසක් සීල සමාදන් වීමේ පිංකම – වැඩිහිටි
+URL:http://www.dhahampasala.org/event/%e0%b7%80%e0%b7%99%e0%b7%83%e0%b6%9a%
+ e0%b7%8a-%e0%b7%83%e0%b7%93%e0%b6%bd-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%af%
+ e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%b4%e0%b7%92%
+ e0%b6%82/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1330@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160521
+DTEND;VALUE=DATE:20160522
+SEQUENCE:0
+SUMMARY:වෙසක් සීල සමාදන් වීමේ පිංකම – සිසුන්
+URL:http://www.dhahampasala.org/event/%e0%b7%80%e0%b7%99%e0%b7%83%e0%b6%9a%
+ e0%b7%8a-%e0%b7%83%e0%b7%93%e0%b6%bd-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%af%
+ e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%b4%e0%b7%92%
+ e0%b6%82-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1331@exclusivewebarts.com/dp
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160624
+DTEND;VALUE=DATE:20160625
+SEQUENCE:0
+SUMMARY:පොසොන් සීල සමාදන් වීමේ පිංකම
+URL:http://www.dhahampasala.org/event/%e0%b6%b4%e0%b7%9c%e0%b7%83%e0%b7%9c%
+ e0%b6%b1%e0%b7%8a-%e0%b7%83%e0%b7%93%e0%b6%bd-%e0%b7%83%e0%b6%b8%e0%b7%8f%
+ e0%b6%af%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%b4%
+ e0%b7%92/
+END:VEVENT
+END:VCALENDAR

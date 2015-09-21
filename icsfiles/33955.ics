@@ -23,82 +23,8 @@ TZNAME:CDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-197@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
-CATEGORIES;LANGUAGE=en-US:Yoga Classes
-CONTACT:Amrit
-DESCRIPTION:
-DTSTART;TZID=America/Chicago:20150919T103000
-DTEND;TZID=America/Chicago:20150919T114500
-EXDATE;TZID=America/Chicago:20140405T103000
-RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=undefined
-SEQUENCE:0
-SUMMARY:Kundalini Yoga & Meditation
-URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
- 3/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1285@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
-CATEGORIES;LANGUAGE=en-US:Yoga Classes
-CONTACT:Amrit Khalsa\; 210-828-4177\; info@totallydivineyoga.com
-DESCRIPTION:
-DTSTART;TZID=America/Chicago:20150919T133000
-DTEND;TZID=America/Chicago:20150919T171500
-GEO:+29.510187;-98.468992
-LOCATION:Healing Sessions @ 1607 West Lawndale Drive\, San Antonio\, TX 782
- 09\, USA
-SEQUENCE:0
-SUMMARY:Healing Light & Bliss Sessions
-URL:http://www.totallydivineyoga.com/event/healing-light-bliss-sessions/
-X-COST:$75 if pd by 9/13 OR $100 after
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1286@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
-CATEGORIES;LANGUAGE=en-US:Yoga Classes
-CONTACT:Amrit Khalsa\; 210-828-4177\; info@totallydivineyoga.com
-DESCRIPTION:
-DTSTART;TZID=America/Chicago:20150920T090000
-DTEND;TZID=America/Chicago:20150920T114500
-GEO:+29.510187;-98.468992
-LOCATION:Healing Sessions @ 1607 West Lawndale Drive\, San Antonio\, TX 782
- 09\, USA
-SEQUENCE:0
-SUMMARY:Healing Light & Bliss Sessions
-URL:http://www.totallydivineyoga.com/event/healing-light-bliss-sessions-2/
-X-COST:$75 if pd by 9/13 OR $100 after
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-452@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
-CATEGORIES;LANGUAGE=en-US:Yoga Classes
-CONTACT:Amrit
-DESCRIPTION:
-DTSTART;TZID=America/Chicago:20150920T103000
-DTEND;TZID=America/Chicago:20150920T120000
-EXDATE;TZID=America/Chicago:20150906T103000
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
-SEQUENCE:0
-SUMMARY:Kundalini Yoga\, 10 Light Bodies\, Gong & Meditation
-URL:http://www.totallydivineyoga.com/event/kundalini-yoga-w-gong-meditation
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-1246@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
-CATEGORIES;LANGUAGE=en-US:Yoga Classes
-CONTACT:Amrit \; 210-828-4177\; info@totallydivineyoga.com
-DESCRIPTION:
-DTSTART;TZID=America/Chicago:20150920T130000
-DTEND;TZID=America/Chicago:20150920T160000
-SEQUENCE:0
-SUMMARY:Yogashop for Fall Equinox
-URL:http://www.totallydivineyoga.com/event/yogashop-for-fall-equinox/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-188@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Manavjot/Lisa
 DESCRIPTION:
@@ -113,7 +39,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-5
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1287@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Amrit Khalsa\; 210-828-4177\; info@totallydivineyoga.com
 DESCRIPTION:
@@ -129,7 +55,7 @@ X-COST:$75 if pd by 9/13 OR $100 after
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-741@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Adeshpal/Jamie
 DESCRIPTION:
@@ -143,7 +69,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1254@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:
 DESCRIPTION:
@@ -157,7 +83,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-190@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Sat Bachan
 DESCRIPTION:
@@ -171,7 +97,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-6
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-165@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Liv Kiret
 DESCRIPTION:
@@ -188,7 +114,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-chakras/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1255@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Amrit\; 210-828-4177
 DESCRIPTION:
@@ -202,7 +128,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-168@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Sat Bachan
 DESCRIPTION:
@@ -218,7 +144,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-169@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Sat Bachan
 DESCRIPTION:
@@ -234,7 +160,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-192@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Liv Kiret - Jasmine
 DESCRIPTION:
@@ -249,7 +175,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-8
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-193@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Adeshpal - Jamie
 DESCRIPTION:
@@ -264,7 +190,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-9
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-194@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Prabhudan - Michelle
 DESCRIPTION:
@@ -279,7 +205,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-164@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Liv Kiret - Jasmine
 DESCRIPTION:
@@ -296,7 +222,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-170@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Amrit
 DESCRIPTION:
@@ -313,7 +239,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-3
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-172@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Amrit
 DESCRIPTION:
@@ -328,7 +254,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-4
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-695@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Siri Chandra - Cristina
 DESCRIPTION:
@@ -345,7 +271,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-7
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1168@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Siri Chandra\; 210-828-4177\; info@totallydivineyoga.com
 DESCRIPTION:
@@ -360,7 +286,7 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-2
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-196@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Amrit
 DESCRIPTION:
@@ -374,8 +300,23 @@ URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
  2/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-197@www.totallydivineyoga.com
+DTSTAMP:20150921T225029Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150926T103000
+DTEND;TZID=America/Chicago:20150926T114500
+EXDATE;TZID=America/Chicago:20140405T103000
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=undefined
+SEQUENCE:0
+SUMMARY:Kundalini Yoga & Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-gong-meditation-1
+ 3/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-792@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:
 DESCRIPTION:
@@ -386,8 +327,23 @@ SUMMARY:Fall Equinox Group Meditation
 URL:http://www.totallydivineyoga.com/event/fall-equinox-group-meditation/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-452@www.totallydivineyoga.com
+DTSTAMP:20150921T225029Z
+CATEGORIES;LANGUAGE=en-US:Yoga Classes
+CONTACT:Amrit
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150927T103000
+DTEND;TZID=America/Chicago:20150927T120000
+EXDATE;TZID=America/Chicago:20150906T103000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Kundalini Yoga\, 10 Light Bodies\, Gong & Meditation
+URL:http://www.totallydivineyoga.com/event/kundalini-yoga-w-gong-meditation
+ /
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1247@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:
 DESCRIPTION:
@@ -399,7 +355,7 @@ URL:http://www.totallydivineyoga.com/event/candlelight-meditation/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-578@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Amrit\, Matt\, Liv Kiret
 DESCRIPTION:
@@ -413,7 +369,7 @@ URL:http://www.totallydivineyoga.com/event/group-meditation/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-907@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Amrit Kaur Khalsa\; 210-828-4177\; info@totallydivineyoga.com
 DESCRIPTION:
@@ -428,7 +384,7 @@ X-COST:$45 if pd by April 12th or $55 if pd after April 12th
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-579@www.totallydivineyoga.com
-DTSTAMP:20150920T003208Z
+DTSTAMP:20150921T225029Z
 CATEGORIES;LANGUAGE=en-US:Yoga Classes
 CONTACT:Amrit/Liv Kiret
 DESCRIPTION:

@@ -285,4 +285,847 @@ img.emoji {
 			.skinset-header #bbpress-forums li.bbp-body .hentry.super-sticky:before,
 			.skinset-header #bbpress-forums li.bbp-body .hentry.sticky:before,
 			.woocommerce.skinset-header .widget_price_filter .ui-slider .ui-slider-range,
-			.wooc
+			.woocommerce.skinset-header .widget_price_filter .ui-slider .ui-slider-handle,
+			.skinset-header input[type="submit"] { 
+ 			background-color:#141414; }
+			.skinset-menu ul ul acronym,.skinset-menu ul ul  abbr,.skinset-header acronym, .skinset-header abbr { 
+ 			border-bottom: 1px dashed #141414; }
+			.skinset-menu.nv-skin {
+			
+			filter:none;
+			-ms-filter:none;
+			
+			}
+			.skinset-menu .woocommerce .woocommerce-error, 
+			.skinset-menu .woocommerce .woocommerce-info, 
+			.skinset-menu .woocommerce .woocommerce-message,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-closed,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-trash,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-spam,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.super-sticky,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.sticky { 
+ 			border-color:#545454; }
+			
+			.skinset-menu a,
+			.skinset-menu #content span.price,
+			.skinset-menu .fonticon i.inherit,
+			.skinset-menu #content span.amount,
+			.skinset-menu .woocommerce .woocommerce-info:before,
+			.skinset-menu span.text_linkcolor {
+			color:#545454; }
+			
+			.skinset-menu span.nvcolor,
+			.skinset-menu span.dropcap.two.link_color,
+			.skinset-menu span.highlight.one,
+			.skinset-menu .post-metadata li.post-date,
+			.skinset-menu .commentlist .reply a,
+			.skinset-menu div.header-infobar,
+			.skinset-menu div.item-list-tabs ul li a span,
+			.skinset-menu .widget_display_stats dd strong,
+			.skinset-menu div.bbp-template-notice,
+			.skinset-menu div#message.updated,
+			.skinset-menu .hoverimg i,
+			.skinset-menu .hovervid i,
+			.skinset-menu span.activity,
+			.skinset-menu a.button,
+			.skinset-menu button.button,
+			.skinset-menu .fonticon.background,
+			.skinset-menu .button.link_color,
+			.skinset-menu .action-icons i,
+			.skinset-menu #respond input#submit.alt,
+			.skinset-menu a.button.alt,
+			.skinset-menu button.button.alt,
+			.skinset-menu input.button.alt,
+			.skinset-menu.woocommerce span.onsale,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-closed:before,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-trash:before,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-spam:before,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.super-sticky:before,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.sticky:before,
+			.woocommerce.skinset-menu .widget_price_filter .ui-slider .ui-slider-range,
+			.woocommerce.skinset-menu .widget_price_filter .ui-slider .ui-slider-handle,
+			.skinset-menu input[type="submit"] { 
+ 			background-color:#545454; }
+			.skinset-menu acronym, .skinset-menu abbr { 
+ 			border-bottom: 1px dashed #545454; }
+			.skinset-footer.nv-skin {
+			
+			filter:none;
+			-ms-filter:none;
+			
+			}.skinset-footer  input[type="text"],.skinset-footer input[type="password"],.skinset-footer input[type="file"],.skinset-footer textarea,.skinset-footer input { 
+ 			background-color:#f9f9f9;
+			border-top-color:#e5e5e5;
+			border-left-color:#e5e5e5;
+			
+			border-bottom-color:#ffffff;
+			border-right-color:#ffffff;
+			 }
+			.skinset-custom-1.nv-skin {
+			
+			filter:none;
+			-ms-filter:none;
+			
+			}#primary-wrapper #nv-tabs {margin-top:60px;}#primary-wrapper #header-logo {margin-top:5px;}#two-column{
+	width: 500px;
+}
+#two-column #left{
+	width: 200px;
+	float: left;
+}
+#two-column #right{
+	width: 250px;
+	float: right;
+}
+#two-column p{
+	margin-bottom: 5px;
+}
+#two-column input[type="text"]{
+	border:none;
+	border:1px solid #000;
+	font-size :14px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	width: 540px;
+	padding: 5px;
+}
+#two-column #right input[type="text"], #two-column #left input[type="text"]{
+	width:240px;
+}
+#two-column textarea {
+    position: relative;
+    padding: 5px;
+    border:1px solid #000;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    width: 540px;
+}
+#two-column input[type="submit"]{
+        width: 200px;
+	padding: 10px 10px;
+        margin: 10px 10px 10px 10px;
+	background:#ffffff;
+	color:#000000;
+	border: 0px solid #white;
+	float:left;
+	font-size: 12px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+}
+#two-column input[type="text"]:focus, #two-column textarea:focus{
+	background: #eee;
+}
+#two-column input[type="submit"]:hover{
+	background:#005aff;
+	color:#white;
+	border: 0px solid #222;
+}
+
+
+#top {
+    position: fixed;
+top:0;
+
+}@media only screen and (max-width: 767px) {.boxed {
+width:100%;
+margin: 0;
+padding: 0px 5px 0px 5px;
+display:none;
+}
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.0.2' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='wp-lightbox-2.min.css-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ngfb_sharing_buttons-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/nextgen-facebook/cache/sharing-styles-id-1.min.css?ver=8.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='northvantage-style-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='northvantage-responsive-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/stylesheets/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=4.6.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='font-awesome-social-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/stylesheets/font-icons/css/font-awesome-social.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/pinterest-pin-it-button-for-images/ppibfi_pinterest.js?ver=4.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CUFON_REPLACE = {"html_tags":"h1,h2,h3,h4,h5,span.dropcap"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/js/cufon.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/js/cufon/PlayfairDisplay.cufonfonts.js'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.0.2'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.0.2'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/js/waypoints-sticky.min.js?ver=1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://216.172.104.2/~lowcountrykitche/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://216.172.104.2/~lowcountrykitche/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='canonical' href='http://216.172.104.2/~lowcountrykitche/' />
+<link rel='shortlink' href='http://216.172.104.2/~lowcountrykitche/' />
+<!-- <meta name="NextGEN" version="2.1.15" /> -->
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://216.172.104.2/~lowcountrykitche/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]-->
+
+<!-- ngfb meta tags begin -->
+<meta name="ngfb:comment" content="ngfb meta tags begin"/>
+<meta name="generator" content="NGFB 8.9.2G -UM"/>
+<meta property="og:url" content="http://216.172.104.2/~lowcountrykitche/"/>
+<meta property="og:type" content="article"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:site_name" content="Kitchen Magic of the Lowcountry"/>
+<meta property="og:title" content="Kitchen Magic of the Lowcountry - Lowcountry Kitchen Remodeling"/>
+<meta property="article:published_time" content="2015-08-19T17:24:40+00:00"/>
+<meta property="article:modified_time" content="2015-09-17T13:58:23+00:00"/>
+<!-- og:image:1 --><meta property="og:image" content="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/KML_screencap_AUG2015-600x600.png"/>
+<!-- og:image:1 --><meta property="og:image:width" content="600"/>
+<!-- og:image:1 --><meta property="og:image:height" content="600"/>
+<meta itemprop="name" content="Kitchen Magic of the Lowcountry - Lowcountry Kitchen Remodeling"/>
+<meta itemprop="headline" content="Kitchen Magic of the Lowcountry - Lowcountry Kitchen Remodeling"/>
+<meta itemprop="datepublished" content="2015-08-19T17:24:40+00:00"/>
+<meta itemprop="url" content="http://216.172.104.2/~lowcountrykitche/"/>
+<!-- image:1 --><meta itemprop="image" content="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/KML_screencap_AUG2015-600x600.png"/>
+<script type="application/ld+json">{
+	"@context":"http://schema.org",
+	"@type":"WebSite",
+	"url":"http://216.172.104.2/~lowcountrykitche",
+	"name":"Kitchen Magic of the Lowcountry",
+	"potentialAction":{
+		"@type":"SearchAction",
+		"target":"http://216.172.104.2/~lowcountrykitche?s={search_term_string}",
+		"query-input":"required name=search_term_string"
+	}
+}</script><script type="application/ld+json">{
+	"@context":"http://schema.org",
+	"@type":"Organization",
+	"url":"http://216.172.104.2/~lowcountrykitche",
+	"logo":"",
+	"image":"",
+	"sameAs":[
+	]
+}</script>
+<meta name="ngfb:comment" content="ngfb meta tags end"/>
+<!-- ngfb meta tags end -->
+
+<script type="text/javascript" id="ngfb-header-script">
+	window.___gcfg = { lang: "en-US" };
+	function ngfb_insert_js( script_id, url, async ) {
+		if ( document.getElementById( script_id + "-js" ) ) return;
+		var async = typeof async !== "undefined" ? async : true;
+		var script_pos = document.getElementById( script_id );
+		var js = document.createElement( "script" );
+		js.id = script_id + "-js";
+		js.async = async;
+		js.type = "text/javascript";
+		js.language = "JavaScript";
+		js.src = url;
+		script_pos.parentNode.insertBefore( js, script_pos );
+	};
+</script>
+<!-- ngfb header javascript begin -->
+<script type="text/javascript" id="fb-script-header">ngfb_insert_js( "fb-script-header", "http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=" );</script>
+<script type="text/javascript" id="gplus-script-header">ngfb_insert_js( "gplus-script-header", "http://apis.google.com/js/plusone.js" );</script>
+<script type="text/javascript" id="twitter-script-header">ngfb_insert_js( "twitter-script-header", "http://platform.twitter.com/widgets.js" );</script>
+<!-- ngfb header javascript end -->
+<meta name="generator" content="Powered by Slider Revolution 5.0.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1441746021381{background-color: #efefef !important;}.vc_custom_1440771857116{background-color: #031066 !important;}.vc_custom_1441745630697{background-color: #f0f0f0 !important;}.vc_custom_1441746086367{background-color: #efefef !important;}.vc_custom_1440771038544{background-color: #f0f0f0 !important;}.vc_custom_1440025580111{background-color: #f0f0f0 !important;}.vc_custom_1440025604468{background-color: #f0f0f0 !important;}.vc_custom_1440771914706{background-color: #043566 !important;}.vc_custom_1442000282267{background-color: #001833 !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+    <!--[if IE 7]>
+    <link href="http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/stylesheets/ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if lte IE 8]>	
+    <script src="http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/js/ie7.js" type="text/javascript"></script>
+    <link href="http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/stylesheets/ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    
+    
+<link rel="stylesheet" type="text/css" href="http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/js/jquery.datetimepicker.css"/ >
+<script src="http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/js/jquery.datetimepicker.js"></script>
+<script>
+jQuery(document).ready(function() {
+	jQuery('#LEADCF91').datetimepicker({
+		format:'n.j.Y g:i A',
+		formatTime:'g:i A',
+		allowTimes:['10:00 AM', '3:00 PM', '7:00 PM']
+	});
+});
+</script>
+
+<script>
+jQuery(document).ready(function() {
+	jQuery(".eventtitle").click(function() {
+		jQuery(this).next(".eventdetail").toggle();
+	});
+
+	jQuery('#region').change(function(){
+		var jumpto = 'http://216.172.104.2/~lowcountrykitche//?region=' + jQuery('#region').val() + '#events';
+		window.location.href = jumpto;			
+	});
+
+	jQuery('#viewmore').click(function() {
+		jQuery('.toggle1').toggle("fast");
+		jQuery('.toggle2').toggle("fast");
+		return false;
+	});				
+
+});
+</script>
+
+<link rel='stylesheet' id='metaslider-nivo-slider-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/ml-slider/assets/sliders/nivoslider/nivo-slider.css?ver=3.3.4.1' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider-public-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.3.4.1' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider-nivo-slider-default-css'  href='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/ml-slider/assets/sliders/nivoslider/themes/default/default.css?ver=3.3.4.1' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='vc_google_fonts_abril_fatfaceregular-css'  href='//fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&#038;ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_lato100100italic300300italicregularitalic700700italic900900italic-css'  href='//fonts.googleapis.com/css?family=Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;ver=4.3.1' type='text/css' media='all' />
+</head>
+<body class="home page page-id-6 page-template-default skinset-background loaded nv-skin wpb-js-composer js-comp-ver-4.6.2 vc_responsive">
+
+    <div id="primary-wrapper" class="nv-light">
+    	<div class="site-inwrap clearfix ">
+        <a id="top"></a>
+        
+		
+<div id="custom-layer5-color" class="custom-layer"></div>
+<div id="custom-layer5" class="custom-layer ">
+</div> 
+
+		<div id="toppanel">			
+					
+            <div class="tab-wrap">
+				<ul class="icon-dock clearfix">
+                            <li class="customfield collapse"><div class="custom-content"><p style="text-align: center;"><span class="xlarge-text supersize-text">GET AN ESTIMATE: <a href="phone:8437376870">(843) 737-6870</a></span> &nbsp; &nbsp; <span class="SMALL-text">Customer Service: <a href="phone:8439527685">(843) 952-7685</a></span></p></div></li>				</ul>
+			</div> <!-- / tab-wrap -->
+		            
+		</div> <!--/toppanel -->
+	
+<div id="mobile-tabs" class="skinset-main nv-skin "><div class="mobilemenu-init clearfix skinset-main nv-skin"><a href="#"><i class="fa fa-times fa-lg"></i></a></div><ul id="mobilemenu" class="menu hide-on-desktops"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu"><a href="http://216.172.104.2/~lowcountrykitche/index.php/products/"><span class="menutitle">Products</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/custom-cabinets/"><span class="menutitle">Custom Cabinets</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/countertops-and-backsplashes/"><span class="menutitle">Countertops</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/storage-and-accessories/"><span class="menutitle">Storage and Accessories</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/showroom/"><span class="menutitle">Showroom</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu"><a href="http://216.172.104.2/~lowcountrykitche/index.php/5-steps-to-a-kitchen-remodel/"><span class="menutitle">Info For Remodeling</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/5-steps-to-a-kitchen-remodel/"><span class="menutitle">5 Steps to a Kitchen Remodel</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/news-and-info/"><span class="menutitle">News and Info</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/faq/"><span class="menutitle">FAQ</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/full-gallery/"><span class="menutitle">Gallery</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="http://216.172.104.2/~lowcountrykitche/index.php/recognition/"><span class="menutitle">Why Kitchen Magic</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/company-story/"><span class="menutitle">Company Story</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/testimonials/"><span class="menutitle">Reviews</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/our-pledge/"><span class="menutitle">Our Pledge</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/recognition/"><span class="menutitle">Recognition</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/manufactured-in-the-usa/"><span class="menutitle">Made in the USA</span></a></li>
+</ul>
+</li>
+</ul>
+</div><div class="header-wrap pages sticky-header ">		<div class="header-skin-wrap">
+			<div id="custom-layer1" class="custom-layer"></div>
+			<div id="custom-layer2" class="custom-layer"></div>
+			        </div>     
+        <div class="wrapper">
+			<header id="header" class="skinset-header row nv-skin droppanel pages divider-disabled">            
+        	
+			<div class="mobilemenu-init skinset-main nv-skin"><a href="#" ><i class="fa fa-bars fa-lg"></i></a></div>                    
+                <div id="header-logo" class="left">
+                    <div id="logo">
+                        
+						<a href="http://216.172.104.2/~lowcountrykitche/">
+				
+															<img src="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/KM-Logo-e1440005791741.png" class="primary" alt="Kitchen Magic of the Lowcountry" />								
+							                      
+						</a>
+                           
+						                    </div>
+                    <div class="clear"></div>
+                   </div><!-- /header-logo -->
+	 			<nav id="nv-tabs" class="static right"><ul id="dyndropmenu" class="menu clearfix hide-on-phones"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu"><a href="http://216.172.104.2/~lowcountrykitche/index.php/products/"><span class="menutitle">Products</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/custom-cabinets/"><span class="menutitle">Custom Cabinets</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/countertops-and-backsplashes/"><span class="menutitle">Countertops</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/storage-and-accessories/"><span class="menutitle">Storage and Accessories</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/showroom/"><span class="menutitle">Showroom</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu"><a href="http://216.172.104.2/~lowcountrykitche/index.php/5-steps-to-a-kitchen-remodel/"><span class="menutitle">Info For Remodeling</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/5-steps-to-a-kitchen-remodel/"><span class="menutitle">5 Steps to a Kitchen Remodel</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/news-and-info/"><span class="menutitle">News and Info</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/faq/"><span class="menutitle">FAQ</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/full-gallery/"><span class="menutitle">Gallery</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="http://216.172.104.2/~lowcountrykitche/index.php/recognition/"><span class="menutitle">Why Kitchen Magic</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/company-story/"><span class="menutitle">Company Story</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/testimonials/"><span class="menutitle">Reviews</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/our-pledge/"><span class="menutitle">Our Pledge</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/recognition/"><span class="menutitle">Recognition</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://216.172.104.2/~lowcountrykitche/index.php/manufactured-in-the-usa/"><span class="menutitle">Made in the USA</span></a></li>
+</ul>
+</li>
+</ul></nav><!-- /nv-tabs --><div class="clear"></div>			            
+                
+			</header><!-- /header -->     
+        </div>
+    </div><div class="wrapper main">
+<div class="content-wrap row">
+	<div class="disabled skinset-main nv-skin columns twelve divider-medium">
+<div class="row main-row">
+	<div id="content" class="columns twelve layout_one">    	<div id="slidercontainer" style="position: relative; clear:both;">
+      	<div id="slider1" style="position: absolute; z-index: 1; width: 100%;"><!-- meta slider -->
+<div style="width: 100%;" class="metaslider metaslider-nivo metaslider-807 ml-slider">
+    
+    <div id="metaslider_container_807">
+        <div class='slider-wrapper theme-default'>
+            <div class='ribbon'></div>
+            <div id='metaslider_807' class='nivoSlider'>
+                <img src="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/Home-Page-Slider-Images-60-4-700x300.jpg" height="300" width="700" alt="" class="slider-807 slide-407" />
+                <img src="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/Home-Page-Slider-Image-60-1-700x300.jpg" height="300" width="700" alt="" class="slider-807 slide-406" />
+                <img src="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/Home-Page-Slider-Image-3-1500x380_c-700x300.jpg" height="300" width="700" alt="" class="slider-807 slide-95" />
+            </div>
+        </div>
+        
+    </div>
+    <script type="text/javascript">
+        var metaslider_807 = function($) {
+            $('#metaslider_807').nivoSlider({ 
+                boxCols:7,
+                boxRows:5,
+                pauseTime:3000,
+                effect:"fade",
+                controlNav:false,
+                directionNav:true,
+                pauseOnHover:true,
+                animSpeed:600,
+                prevText:"&lt;",
+                nextText:"&gt;",
+                slices:15,
+                manualAdvance:false
+            });
+        };
+        var timer_metaslider_807 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_807, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_807, 1) : metaslider_807(window.jQuery);
+        };
+        timer_metaslider_807();
+    </script>
+</div>
+<!--// meta slider--></div>
+        <div id="slider2" style="position: absolute; z-index: 2;">
+
+<div class="aboveform">
+<h2 style="color: white !important; font-size: 26px;">Schedule an In-Home Design Consultation!</h2>
+</div>
+<form name="WebToLeads1642940000000087043" id="contactform" action="http://216.172.104.2/~lowcountrykitche/send.php" method="post" class="homecontact">
+
+	 <!-- Do not remove this code. -->
+	<input type='text' style='display:none;' name='xnQsjsdp' value='1fad55c58ef468d661c86505e83509bef10d4e54011dc2ab6ecb48142704f733'/>
+	<input type='hidden' name='zc_gad' id='zc_gad' value=''/>
+	<input type='text' style='display:none;' name='xmIwtLD' value='9ea20280725a187e68689e6e79e8cea86f41e419e68609242d6b26ae431f426e'/>
+	<input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/>
+
+	<input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;www.lowcountrykitchenmagic.com/thanks' /> 
+	 <!-- Do not remove this code. -->
+
+<div class="formcolumn">
+
+<input type="text" id="First_Name" name="First_Name" value="First Name" onfocus="formrule(this);" onblur="formrule2(this);" tabindex="1" />
+
+<input type="text" id="Phone" name="Phone" value="Phone Number" onfocus="formrule(this);" onblur="formrule2(this);" tabindex="3" />
+
+<input type="email" id="Email" name="Email" value="Email" onfocus="formrule(this);" onblur="formrule2(this);" tabindex="5" />
+
+<fieldset>
+<legend>SERVICES REQUESTED:</legend>
+<ul>
+<li><input type="checkbox" name="LEADCF2a" id="LEADCF2a" value="Cabinet&#x20;Reface" class="noborder"  tabindex="7" /> &nbsp;Cabinet Reface</li>
+<li><input type="checkbox" name="LEADCF2b" id="LEADCF2b" value="Custom&#x20;Cabinets" class="noborder" tabindex="8" /> &nbsp;Custom Cabinets</li>
+<li><input type="checkbox" name="LEADCF2c" id="LEADCF2c" value="Countertops" class="noborder" tabindex="9" /> &nbsp;Countertops</li>
+</ul>
+</fieldset>
+
+<textarea id="LEADCF3" name="LEADCF3" onfocus="formrule(this);" onblur="formrule2(this);" style="margin: 1em 0; height: 70px !important;" tabindex="13">What would you like us to know about your project needs, ideas or vision?</textarea>
+
+</div>
+
+<div class="formcolumn">
+<input type="text" id="Last_Name" name="Last_Name" value="Last Name" onfocus="formrule(this);" onblur="formrule2(this);" tabindex="2" />
+
+<input type="text" id="Street" name="Street" value="Address" onfocus="formrule(this);" onblur="formrule2(this);" tabindex="4" />
+
+<input type="text" id="LEADCF1" name="LEADCF1" value="Where did you hear about us?" onfocus="formrule(this);" onblur="formrule2(this);" tabindex="6" />
+
+<input type="text" id="LEADCF91" name="LEADCF91" value="Requested Date and Time" onfocus="formrule(this);" onblur="formrule2(this);" tabindex="10" />
+
+<fieldset>
+<legend>Do you own the home?</legend>
+<ul>
+<li><input type="radio" id="LEADCF102" name="LEADCF102" value="yes" class="noborder" tabindex="11" /> &nbsp;Yes</li>
+<li><input type="radio" id="LEADCF102" name="LEADCF102" value="no" class="noborder" tabindex="12" /> &nbsp;No</li>
+</ul>
+</fieldset>
+
+
+</div>
+
+<input class="button" type="submit" value="REQUEST ESTIMATE" tabindex="14" style="margin: 1em 0;" />
+
+</form>
+
+
+</div>
+      </div>
+			<div style="clear: both; height: 490px;">&nbsp;</div>
+    <article id="post-6" class="post-6 page type-page status-publish hentry">           
+
+                 
+        <section class="entry">
+            <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"  class="vc_row wpb_row row vc_row-no-padding"><div class="wpb_column vc_column_container columns twelve vc_hidden-lg vc_hidden-md"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1441745630697">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span class="xlarge-text supersize-text">GET AN ESTIMATE: <a href="phone:8437376870">(843)737-6870</a></span><br />
+<span class="small-text">Customer Service: <a href="phone:8439527685">(843)952-7685</a></span></p>
+
+		</div> 
+	</div> </div></div></div><div class="vc_row-full-width"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"  class="vc_row wpb_row row vc_custom_1441746021381"><div class="wpb_column vc_column_container columns twelve"><div class="wpb_wrapper"><h2 style="text-align: center;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1441746086367">Services</h2></div></div></div><div class="vc_row-full-width"></div><div  style="color:#0a0a0a;" class="vc_row wpb_row row"><div class="wpb_column vc_column_container columns four"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 20px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1440771038544">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><strong><span class="big-text large-text">Cabinet Refacing</span></strong></p>
+
+		</div> 
+	</div> 
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<a href="http://216.172.104.2/~lowcountrykitche/index.php/cabinet-refacing/" target="_self"><div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="480" src="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/kitchen1.jpg" class="vc_single_image-img attachment-large" alt="kitchen1" data-wp-pid="32" /></div></a>
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 20px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+	<div class="vc_btn3-container vc_btn3-center"><a style="background-color:#ededed; color:#666666;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-custom" href="http://216.172.104.2/~lowcountrykitche/index.php/cabinet-refacing/" title="" target="_self">LEARN MORE</a></div>	<div class="vc_empty_space"  style="height: 32px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+</div></div><div class="wpb_column vc_column_container columns four"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 20px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1440025580111">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><strong><span class="big-text large-text">Custom Cabinetry</span></strong></p>
+
+		</div> 
+	</div> 
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<a href="http://216.172.104.2/~lowcountrykitche/index.php/custom-cabinets/" target="_self"><div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="480" src="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/image.png" class="vc_single_image-img attachment-large" alt="image" data-wp-pid="390" /></div></a>
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 20px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+	<div class="vc_btn3-container vc_btn3-center"><a style="background-color:#ededed; color:#666666;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-custom" href="http://216.172.104.2/~lowcountrykitche/index.php/custom-cabinets/" title="" target="_self">LEARN MORE</a></div>	<div class="vc_empty_space"  style="height: 32px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+</div></div><div class="wpb_column vc_column_container columns four"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 20px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1440025604468">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><strong><span class="big-text large-text">Luxury Countertops</span></strong></p>
+
+		</div> 
+	</div> 
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<a href="http://216.172.104.2/~lowcountrykitche/index.php/countertops-and-backsplashes/" target="_self"><div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="480" src="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/image-1.png" class="vc_single_image-img attachment-large" alt="image-1" data-wp-pid="391" /></div></a>
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 20px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+	<div class="vc_btn3-container vc_btn3-center"><a style="background-color:#ededed; color:#666666;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-custom" href="http://216.172.104.2/~lowcountrykitche/index.php/countertops-and-backsplashes/" title="" target="_self">LEARN MORE</a></div>	<div class="vc_empty_space"  style="height: 32px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+</div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"  style="color:#ffffff;" class="vc_row wpb_row row vc_custom_1440771857116 vc_row-no-padding"><div class="wpb_column vc_column_container columns twelve vc_custom_1440771914706"><div class="wpb_wrapper"><h2 style="color: #ffffff;text-align: center;font-family:Lato;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1442000282267">Why Choose Kitchen Magic</h2>
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="611" height="124" src="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/association-large.png" class="vc_single_image-img attachment-large" alt="association-large" data-wp-pid="86" /></div>
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 32px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+<h4 style="color: #ffffff;text-align: center;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading">ABC's Lowcountry Live Chooses Kitchen Magic</h4>
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<div style="margin: 0px auto; text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/nsqkITsKbyw" frameborder="0" allowfullscreen></iframe></div>
+		</div> 
+	</div> 	<div class="vc_empty_space"  style="height: 32px" ><span
+			class="vc_empty_space_inner"></span></div>
+
+</div></div></div><div class="vc_row-full-width"></div>
+                    
+                        <div class="clear"></div>
+        </section><!-- /entry -->  
+		
+    </article>
+		<div class="clear"></div>
+<div id="events">
+
+	  <div style="width: 50%; height: auto; float: left;" id="homeevent_l"><h2>Visit Our Mobile Showroom</h2></div>
+  <div style="width: 50%; height: auto; float: right;" id="homeevent_r">
+  
+	<p align="right" style="margin:0;padding:0;"><strong>REGION:</strong>
+        <select name="region" id="region" onchange="MM_jumpMenuGo2('region','parent',0)" style="display: inline !important; width: auto !important;">
+          <option value="" selected="selected">ALL</option>
+          <option value="Charleston" >Charleston</option>
+          <option value="Myrtle" >Myrtle</option>
+        </select></p>
+
+		</div>
+    
+  <p style="padding-top: 10px; clear: both;">We bring a mobile showroom with samples and information to home shows, festivals, cook-offs and many other events in your area.  We are also at the Costco exit fence every day in Myrtle Beach and Charleston. Here's where we're going to be at next:</p>
+  
+	        
+            <table style="background-color: #ffffff;" width="100%" border="1" cellspacing="3" cellpadding="3" class="events tablesorter">
+            <thead>
+              <tr>
+                <th width="40%"><strong>EVENT</strong></th>
+                <th width="40%"><strong>LOCATION</strong></th>
+                <th width="20%"><strong>DATE/TIME</strong></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top"><div class="eventtitle"><strong>Taste of Charleston</strong></div><div class="eventdetail">This year will mark the 35th anniversary of the Lowcountry’s culinary event of the year, The <em>Southern Living</em> Taste of Charleston, hosted by the Greater Charleston Restaurant Association, Inc (GCRA).  A 3-day event showcasing taste-tempting delights served by Charleston restaurants.</div></td>
+   
+                   <td valign="top">Boone Hall Plantation        <br><a href="https://maps.google.com?q=1235+Long+Point+Road,+Mount+Pleasant,+SC+29464,+USA" target="_blank">1235 Long Point Road, Mount Pleasant, SC 29464, USA</a></td>
+             
+                
+                <td valign="top">
+																Sep 25, 2015<br>
+								10:00 am                								- 5:00 pm                                </td>
+              </tr>
+                            <tr>
+                <td valign="top"><div class="eventtitle"><strong>Southern Living's Taste of Charleston</strong></div><div class="eventdetail"></div></td>
+   
+                   <td valign="top">Boone Hall Plantation        <br><a href="https://maps.google.com?q=1235+Longpoint+Road,+Mount+Pleasant,++SC+29464" target="_blank">1235 Longpoint Road, Mount Pleasant,  SC 29464</a></td>
+             
+                
+                <td valign="top">
+																Sep 25, 2015<br>
+								10:00 am                								- 5:00 pm                                </td>
+              </tr>
+                            <tr>
+                <td valign="top"><div class="eventtitle"><strong>Wine, Women, and Shoes</strong></div><div class="eventdetail">Benefiting Florence Crittenton, Brave is Beautiful. Designer shopping, Savory food bites, Glamorous Fashion Show, Key to the closet drawing, Charming “shoe guys”, and more.</div></td>
+   
+                   <td valign="top">Daniel Island Club        <br><a href="https://maps.google.com?q=600+Island+Park+Drive,+Charleston,+SC+29492,+USA" target="_blank">600 Island Park Drive, Charleston, SC 29492, USA</a></td>
+             
+                
+                <td valign="top">
+																Sep 27, 2015<br>
+								1:00 pm                								- 5:00 pm                                </td>
+              </tr>
+                            <tr>
+                <td valign="top"><div class="eventtitle"><strong>Bacon Fest</strong></div><div class="eventdetail"></div></td>
+   
+                   <td valign="top">Bacon Fest        <br><a href="https://maps.google.com?q=4640+Hwy+17+S,+North+Myrtle+Beach,+SC+29582" target="_blank">4640 Hwy 17 S, North Myrtle Beach, SC 29582</a></td>
+             
+                
+                <td valign="top">
+																Oct 10, 2015<br>
+								9:00 am                								- 5:00 pm                                </td>
+              </tr>
+                            <tr>
+                <td valign="top"><div class="eventtitle"><strong>Bazaar at the Point</strong></div><div class="eventdetail">This free, community event focused on locally sourced products, arts, and crafts provides a fun, family-friendly atmosphere every fourth Sunday of the month beginning in April with a variety of local vendors to check out. Specialty food and drinks, live music, and crafts are only a few of the many activities you’ll experience. <em>Charleston Harbor Resort &amp; Marina. 20 Patriots Point Rd, Mt Pleasant. Sunday, 11am-2pm. Free. (888) 856-0028, <a href="http://www.charlestonharborresort.com/" target="_blank">www.charlestonharborresort.com</a></em></div></td>
+   
+                   <td valign="top">Charleston Harbor Resort and Marina        <br><a href="https://maps.google.com?q=20+Patriots+Point+Road,+Mount+Pleasant,+SC+29464,+USA" target="_blank">20 Patriots Point Road, Mount Pleasant, SC 29464, USA</a></td>
+             
+                
+                <td valign="top">
+																Oct 18, 2015<br>
+								11:00 am                								- 2:00 pm                                </td>
+              </tr>
+                            <tr class="toggle2"><td colspan="3"><p align="center"><a href="#" id="viewmore">VIEW MORE EVENTS</a></p></td></tr>
+                            <tr class="toggle1">
+                <td valign="top"><div class="eventtitle"><strong>Charleston's Mac Off</strong></div><div class="eventdetail">No other food combines love, comfort, and Southern roots like Mac and Cheese. This melt in your mouth mainstay is a classic that is served as a side dish, a pasta entrée, a casserole, fried appetizer or even dessert on many Charleston menus. The Mac Off is an event that gives tribute to our love of this versatile cheesy dish and we are seeking to crown the best of the best.
+
+The Annual Charleston Mac Off is a mac &amp; cheese cook-off between local chefs, restaurants, food trucks and caterers to crown the best mac &amp; cheese in Charleston. Participants will compete for one of 3 awards:</div></td>
+   
+                   <td valign="top">The Grove at Patriots Point        <br><a href="https://maps.google.com?q=40+Patriots+Point+Road,+Mount+Pleasant,+SC+29464,+USA" target="_blank">40 Patriots Point Road, Mount Pleasant, SC 29464, USA</a></td>
+             
+                
+                <td valign="top">
+																Oct 24, 2015<br>
+								2:00 pm                								- 7:00 pm                                </td>
+              </tr>
+                            <tr class="toggle1">
+                <td valign="top"><div class="eventtitle"><strong>What Women Want Expo</strong></div><div class="eventdetail">The 4th annual What Women Want Expo is a chance for women from all around the Lowcountry to come together and experience products and services just for women.
+
+What Women Want Expo features over 75 vendors from all over the region who provide unique presentations, products, services, arts, entertainment and activities geared towards women. You can find anything to cater to any type of women from health and fitness products to the latest fashion and leisure activities. Whatever your needs are, you can find it at the What Women Want Expo!</div></td>
+   
+                   <td valign="top">Charleston Area Convention Center        <br><a href="https://maps.google.com?q=5001+Coliseum+Drive,+North+Charleston,+SC+29418,+USA" target="_blank">5001 Coliseum Drive, North Charleston, SC 29418, USA</a></td>
+             
+                
+                <td valign="top">
+																Nov 14, 2015<br>
+								10:00 pm                								- 8:15 pm                                </td>
+              </tr>
+                            <tr class="toggle1">
+                <td valign="top"><div class="eventtitle"><strong>Boone Hall Plantation's Wine Under the Oaks</strong></div><div class="eventdetail"></div></td>
+   
+                   <td valign="top">Boone Hall Plantation's Wine Under the Oaks        <br><a href="https://maps.google.com?q=1235+Long+Point+Road+Mt.+Pleasant,+SC+29464" target="_blank">1235 Long Point Road Mt. Pleasant, SC 29464</a></td>
+             
+                
+                <td valign="top">
+																Dec 06, 2015<br>
+								1:00 pm                								- 5:00 pm                                </td>
+              </tr>
+                            <tr class="toggle1">
+                <td valign="top"><div class="eventtitle"><strong>Charleston Build, Remodel & Landscape Expo</strong></div><div class="eventdetail">Sat. (Jan 10) 10:00 AM - 8:00 PM
+Sun. (Jan 11) 10:00 AM - 5:00 PM
+Fri. (Jan 16) 2:00 PM - 8:00 PM
+Sat. (Jan 17) 10:00 AM - 8:00 PM
+Sun. (Jan 18) 10:00 AM - 5:00 PM
+
+Celebrating its <strong>15<sup>th</sup> year</strong>, the <strong>2016</strong> <strong>Build, Remodel &amp; Landscape Expo</strong> is once again “the place to be” for the latest innovations, offerings and ideas in the home building and remodeling industries<strong>January 9-10 &amp; 15-17</strong>!
+
+Held at the Exchange Park Fairgrounds in Ladson, the <strong>2016</strong> <strong>Build, Remodel &amp; Landscape Expo</strong> will connect you to the area’s leading remodelers, builders, and design professionals.
+
+For two jam-packed weekends, you’ll find wall-to-wall displays and exhibits. You’ll also have the opportunity to speak directly with experts and receive helpful “insiders” advice to turn your dream home or other home improvement project into a reality.
+
+You’ll also learn the latest trends in design trends, product offerings, maintenance tips, and more on everything to do with kitchen and bath remodeling, roofing, flooring, home security, water conditioning, insulation, windows and exterior products, and much more. You’ll also discover the latest landscaping options and strategies.</div></td>
+   
+                   <td valign="top">EXCHANGE PARK FAIRGROUNDS - EXHIBIT BUILDING        <br><a href="https://maps.google.com?q=9850+U.S.+78,+Ladson,+SC+29456,+USA" target="_blank">9850 U.S. 78, Ladson, SC 29456, USA</a></td>
+             
+                
+                <td valign="top">
+																Jan 15, 2016<br>
+								10:00 am                								- 8:00 pm                                </td>
+              </tr>
+                            <tr class="toggle1">
+                <td valign="top"><div class="eventtitle"><strong>Charleston Remodeling Expo</strong></div><div class="eventdetail"></div></td>
+   
+                   <td valign="top">North Charleston Convention Center        <br><a href="https://maps.google.com?q=5001+Coliseum+Drive,+N.+Charleston,+SC+29418" target="_blank">5001 Coliseum Drive, N. Charleston, SC 29418</a></td>
+             
+                
+                <td valign="top">
+																Mar 04, 2016<br>
+								10:00 am                								- 5:00 pm                                </td>
+              </tr>
+                          </tbody>
+          </table>
+
+<img class="aligncenter wp-image-759 size-large" src="http://216.172.104.2/~lowcountrykitche/wp-content/uploads/2015/08/KML_screencap_AUG2015-1024x576.png" alt="KML_screencap_AUG2015" width="611" height="344" style="border: 3px solid red; margin-top: 50px;" />
+
+      </div>
+
+	
+	</div><!-- #content -->
+</div><!-- / row -->
+<div class="clear"></div>
+</div><!-- /skinset-main-->
+<div class="clear"></div>
+</div><!-- /content-wrapper --></div><!-- /wrapper -->    
+	<div id="footer-wrap">
+    	
+        <div id="custom-layer3" class="custom-layer "></div>
+        <div id="custom-layer4" class="custom-layer "></div>
+
+		        
+        <div class="wrapper">
+            <footer id="footer" class="clearfix row skinset-footer nv-skin enabled divider-medium">
+                <div class="content">
+                                            <div class="block columns  one_column last">
+                        
+                            <ul>
+                                <li id="text-2" class="widget widget_text">			<div class="textwidget">
+	<div class="socialicons display center  clearfix">
+		<ul>
+			 
+		<li class="dock-tab social-facebook">
+			<a href="https://www.facebook.com/KitchenMagicLowcountry?fref=ts" title="Facebook" target="_blank"><i class="social-icon fa fa-lg fa-facebook"></i></a>
+		</li> 
+		<li class="dock-tab social-linkedin">
+			<a href="https://www.linkedin.com/company/2369825?trk=tyah&trkInfo=clickedVertical%3Acompany%2Cidx%3A1-2-2%2CtarId%3A1437082591381%2Ctas%3Akitchen%20magic" title="LinkedIn" target="_blank"><i class="social-icon fa fa-lg fa-linkedin"></i></a>
+		</li> 
+		<li class="dock-tab social-pinterest">
+			<a href="https://pinterest.com//kmoflowcountry/" title="Pinterest" target="_blank"><i class="social-icon fa fa-lg fa-pinterest"></i></a>
+		</li> 
+		</ul>
+	</div>
+	<div class="clear"></div></div>
+		</li>
+<li id="text-3" class="widget widget_text">			<div class="textwidget"><center>LOW COUNTRY KITCHEN MAGIC<br>
+635 East Bay Building C | Charleston, SC 29403<br>
+(843) 779-1155</center></div>
+		</li>
+                            </ul>
+                        
+                        </div>
+                                        </div><!-- / row -->           
+            </footer><!-- / footer -->
+        </div><!-- / wrapper -->
+               
+			<div class="lowerfooter-wrap skinset-footer nv-skin clearfix divider-medium">
+            	<div class="wrapper">
+                    <div class="lowerfooter">
+                        <div class="row">
+                            <div class="lowfooterleft columns six">&copy; 2015 Kitchen Magic of the Lowcountry</div>
+                            <div class="lowfooterright columns six">Powered by <a href="http://www.acoda.com" title="DynamiX Business WordPress Theme" target="_blank">DynamiX</a></div>
+                        </div>
+                    </div><!-- / lowerfooter -->	
+                </div><!-- / wrapper -->
+			</div><!-- / lowerfooter-wrap -->
+		        
+	</div><!-- / footer-wrap -->
+    
+	    <div class="autototop"><a href="#"></a></div>
+
+<!-- I would like to give a great thankyou to WordPress for their amazing platform -->
+<!-- Theme Design by themeva - http://themeva.com -->
+
+<!-- ngg_resource_manager_marker --><script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/216.172.104.2\/~lowcountrykitche\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"fitToScreen":"0","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","loopImages":"","resizeCenter":"","marginSize":"0","linkTarget":"","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","prevLinkText":"\u00ab Previous","nextLinkText":"Next \u00bb","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","jqlb_overlay_opacity":"80","jqlb_overlay_color":"#000000","jqlb_overlay_close":"1","jqlb_border_width":"10","jqlb_border_color":"#ffffff","jqlb_border_radius":"0","jqlb_image_info_background_transparency":"100","jqlb_image_info_bg_color":"#ffffff","jqlb_image_info_text_color":"#000000","jqlb_image_info_text_fontsize":"10","jqlb_show_text_for_image":"1","jqlb_next_image_title":"next image","jqlb_previous_image_title":"previous image","jqlb_next_button_image":"http:\/\/216.172.104.2\/~lowcountrykitche\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/next.gif","jqlb_previous_button_image":"http:\/\/216.172.104.2\/~lowcountrykitche\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/prev.gif","jqlb_maximum_width":"","jqlb_maximum_height":"","jqlb_show_close_button":"1","jqlb_close_image_title":"close image gallery","jqlb_close_image_max_heght":"22","jqlb_image_for_close_lightbox":"http:\/\/216.172.104.2\/~lowcountrykitche\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/closelabel.gif","jqlb_keyboard_navigation":"1","jqlb_popup_size_fix":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/wp-lightbox-2/wp-lightbox-2.min.js?ver=1.3.4.1'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/js/jquery.fancybox.min.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var NV_SCRIPT = {"template_url":"http:\/\/216.172.104.2\/~lowcountrykitche\/wp-content\/themes\/DynamiX","branding_2x":"","branding_2x_dimensions":"","branding_sec_2x":"","branding_sec_2x_dimensions":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/js/nv-script.pack.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/themes/DynamiX/js/jquery.reflection.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/ml-slider/assets/sliders/nivoslider/jquery.nivo.slider.pack.js?ver=3.3.4.1'></script>
+<script type='text/javascript' src='http://216.172.104.2/~lowcountrykitche/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.6.2'></script>
+<div id="gc_message_bar" class="gc_message_bar_bottom_open"><div id="gc_message_bar_layout"><div id="gc_message_bar_wrapper"><div id="gc_message_bar_content" class="gc_message_bar_contentSetting3"><a target="_blank" rel="nofollow" id="gc_message_bar_button_a" class="gc_message_bar_buttonSetting3" href="?gc_message_bar_redirect"><span id="gc_message_bar_button"><span id="gc_message_bar_buttontext">REQUEST AN ESTIMATE</span></span></a></div></div></div></div><!-- ngfb footer javascript begin -->
+<!-- ngfb footer javascript end -->
+</div>
+</div>
+</body>
+</html>

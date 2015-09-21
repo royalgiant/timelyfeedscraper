@@ -23,35 +23,8 @@ TZNAME:CDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-8321@www.austinags.org
-DTSTAMP:20150920T002131Z
-CATEGORIES;LANGUAGE=en-US:Upcoming Events
-CONTACT:
-DESCRIPTION:<p>Can’t make it to Kyle Field to see the Aggies BTHO Nevada? J
- oin fellow Aggies at Third Base South Park Meadows! Be sure and get there 
- early for good seating at the Capital City A&M Club (CCAMC) Watch Party!</
- p>\n<p>Representatives from the CCAMC & Talk 1370 AM – 3 Guys Sports Show 
- will be hosting the Aggie Watch Party at Third Base Sports Bar South Park 
- Meadows! There will prizes & drawings throughout the watch party. Third Ba
- se South Park Meadows will offer discount to CCAMC Members with wrist band
- s!</p>\n<p>Want to watch the game but can’t make the trip to South Austin?
-  Third Base Northwest (13301 US 183\, Bldg E\, Austin\, TX 78750) has you 
- covered. Accept Facebook event for the Third Base Northwest location by Fr
- iday before the game. Reserved seating for Aggies will be based on number 
- of folks who accepted the Northwest Watch Party invite!</p>\n<p>Gig’em!</p
- >
-DTSTART;TZID=America/Chicago:20150919T110000
-GEO:+30.159754;-97.794143
-LOCATION:Third Base Sports Bar - Southpark Meadows @ 9600 S I-35\, Austin\,
-  TX 78748\, USA
-SEQUENCE:0
-SUMMARY:Aggie Watch Party – Texas A&M vs Nevada
-URL:http://www.austinags.org/event/aggie-watch-party-texas-am-vs-nevada/
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-8298@www.austinags.org
-DTSTAMP:20150920T002131Z
+DTSTAMP:20150921T224655Z
 CATEGORIES;LANGUAGE=en-US:Upcoming Events
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -73,7 +46,7 @@ URL:http://www.austinags.org/event/september-happy-hour/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8250@www.austinags.org
-DTSTAMP:20150920T002131Z
+DTSTAMP:20150921T224655Z
 CATEGORIES;LANGUAGE=en-US:Past Events\,Professional Programs\,Upcoming Even
  ts
 CONTACT:Brian Reynolds\; 512-569-2059\; brian@briansellsaustinhomes.com
@@ -110,7 +83,7 @@ URL:http://www.austinags.org/event/reveille-group-breakfast/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8343@www.austinags.org
-DTSTAMP:20150920T002131Z
+DTSTAMP:20150921T224655Z
 CATEGORIES;LANGUAGE=en-US:Professional Programs\,Upcoming Events
 CONTACT:Eric Foster\; 903-227-6480\; eric.foster@onesourcenetworks.com
 DESCRIPTION:<p>Branigan has been involved in the acquisition\, disposition 
@@ -150,7 +123,7 @@ X-COST:$35
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8336@www.austinags.org
-DTSTAMP:20150920T002131Z
+DTSTAMP:20150921T224655Z
 CATEGORIES;LANGUAGE=en-US:Upcoming Events
 CONTACT:
 DESCRIPTION:<p>Join us for our October Happy Hour on Thursday\, October 22n
@@ -163,9 +136,9 @@ URL:http://www.austinags.org/event/october-happy-hour/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8261@www.austinags.org
-DTSTAMP:20150920T002131Z
-CATEGORIES;LANGUAGE=en-US:Upcoming Events
-CONTACT:
+DTSTAMP:20150921T224655Z
+CATEGORIES;LANGUAGE=en-US:Professional Programs\,Upcoming Events
+CONTACT:John Romero
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
  ://www.austinags.org/wp-content/uploads/2015/09/cam-jobs-street-sign-clip-
  art-300x225.jpg' width='300' height='225' /></div><p>Whether you are happy
@@ -173,12 +146,16 @@ DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
  iness owner looking to hire….learn from the pros!</p>\n<p>A panel of Aggie
   headhunters and HR professionals from different industries will help you 
  get ready for your next big opportunity!</p>
-DTSTART;TZID=America/Chicago:20151022T173000
-DTEND;TZID=America/Chicago:20151022T193000
-LOCATION:TBD
+DTSTART;TZID=America/Chicago:20151029T173000
+DTEND;TZID=America/Chicago:20151029T190000
+GEO:+30.342939;-97.67841
+LOCATION:Quantum Digital @ 8702 Cross Park Dr #200\, Austin\, TX 78754\, US
+ A
 SEQUENCE:0
-SUMMARY:Save the Date: Aggie Professional Development Panel
+SUMMARY:Aggie Professional Development Panel – 29 October
 URL:http://www.austinags.org/event/save-the-date-aggie-professional-develop
  ment-seminar-and-networking/
+X-COST:Free for members/ $10 for non members.
+X-TICKETS-URL:https://www.austinags.org/?post_type=product&p=8358
 END:VEVENT
 END:VCALENDAR

@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:cu9l6qhnf5ib532jnf147t2fco@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Join us for Ladies Tea at 2:00pm today • Faith World Outreac
@@ -38,7 +38,7 @@ URL:http://dev16.fwo.org/event/ladies-tea/
 END:VEVENT
 BEGIN:VEVENT
 UID:h1j5lrbc05q8n6g1srop38n5gg@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -50,61 +50,8 @@ SUMMARY:Pastor and Mrs Weiss Anniversary
 URL:http://dev16.fwo.org/event/pastor-and-mrs-weiss-anniversary/
 END:VEVENT
 BEGIN:VEVENT
-UID:lbkmqve350lser98rdcl7ojlj0@google.com
-DTSTAMP:20150920T002344Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Join us this morning\, Saturday • Men’s Prayer with Pastor W
- eiss • 7:00am\, Faith World Outreach Church • Bartlett\, IL</p>
-DTSTART;TZID=America/Chicago:20150919T070000
-DTEND;TZID=America/Chicago:20150919T073000
-LOCATION:Faith World Outreach Church\, Bartlett
-RRULE:FREQ=WEEKLY;BYDAY=SA
-SEQUENCE:0
-SUMMARY:Men’s Prayer
-URL:http://dev16.fwo.org/event/mens-prayer/
-END:VEVENT
-BEGIN:VEVENT
-UID:0mlbaa85m8oo7kr0vltidvo48c@google.com
-DTSTAMP:20150920T002344Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Join us for Men’s Discipleship at 8:00am today • Faith World
-  Outreach Church • Bartlett\, IL • Led by Pastor Ed Weiss</p>
-DTSTART;TZID=America/Chicago:20150919T074500
-DTEND;TZID=America/Chicago:20150919T084500
-EXDATE;TZID=America/Chicago:20150627T074500
-EXDATE;TZID=America/Chicago:20150905T074500
-EXDATE;TZID=America/Chicago:20150912T074500
-LOCATION:Faith World Outreach\, Bartlett\, IL\, United States
-RRULE:FREQ=WEEKLY;BYDAY=SA
-SEQUENCE:0
-SUMMARY:Men’s Discipleship
-URL:http://dev16.fwo.org/event/mens-discipleship/
-END:VEVENT
-BEGIN:VEVENT
-UID:FFF40D7F-C781-4005-AF13-6C9F61408471
-DTSTAMP:20150920T002344Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Join us today\, Sunday • Pastor Ed Weiss • Faith World Outre
- ach Church • Bartlett\, IL • Starting at 11:00am\, fwo.org/live</p>
-DTSTART;TZID=America/Chicago:20150920T103000
-DTEND;TZID=America/Chicago:20150920T120000
-EXDATE;TZID=America/Chicago:20140622T103000
-EXDATE;TZID=America/Chicago:20141109T103000
-EXDATE;TZID=America/Chicago:20141130T103000
-EXDATE;TZID=America/Chicago:20150503T103000
-EXDATE;TZID=America/Chicago:20150510T103000
-LOCATION:Faith World Outreach\, Bartlett\, IL
-RRULE:FREQ=WEEKLY;BYDAY=SU
-SEQUENCE:0
-SUMMARY:Bartlett Service
-URL:http://dev16.fwo.org/event/bartlett-service-6/
-END:VEVENT
-BEGIN:VEVENT
 UID:DF8214CE-BF02-4143-95DF-3CA2E90015A2
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Join us tonight\, Sunday • Pastor Ed Weiss • Faith World Out
@@ -124,7 +71,7 @@ URL:http://dev16.fwo.org/event/evening-service-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:1e90j4vb9hth3hiebm29acs3o8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>one hour- just come and pray. Pray for revival\, our nation 
@@ -139,7 +86,7 @@ URL:http://dev16.fwo.org/event/prayer-for-revival/
 END:VEVENT
 BEGIN:VEVENT
 UID:o0hco848c8gltaejt1g34503ac@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Join us today\, Tuesdays • Ladies’ Bible Study with Mrs. Wei
@@ -155,7 +102,7 @@ URL:http://dev16.fwo.org/event/ladies-bible-study-38/
 END:VEVENT
 BEGIN:VEVENT
 UID:DB5F1F9C-4F96-4729-9FF3-191AB863EA0C
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Join us tonight\, Thursday • Pastor Ed Weiss • Faith World O
@@ -182,7 +129,7 @@ URL:http://dev16.fwo.org/event/mid-week-service-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:2015925190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -195,8 +142,61 @@ SUMMARY:Youth Redeemed-Night of Worship
 URL:http://dev16.fwo.org/event/youth-redeemed-night-of-worship-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:lbkmqve350lser98rdcl7ojlj0@google.com
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us this morning\, Saturday • Men’s Prayer with Pastor W
+ eiss • 7:00am\, Faith World Outreach Church • Bartlett\, IL</p>
+DTSTART;TZID=America/Chicago:20150926T070000
+DTEND;TZID=America/Chicago:20150926T073000
+LOCATION:Faith World Outreach Church\, Bartlett
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SEQUENCE:0
+SUMMARY:Men’s Prayer
+URL:http://dev16.fwo.org/event/mens-prayer/
+END:VEVENT
+BEGIN:VEVENT
+UID:0mlbaa85m8oo7kr0vltidvo48c@google.com
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us for Men’s Discipleship at 8:00am today • Faith World
+  Outreach Church • Bartlett\, IL • Led by Pastor Ed Weiss</p>
+DTSTART;TZID=America/Chicago:20150926T074500
+DTEND;TZID=America/Chicago:20150926T084500
+EXDATE;TZID=America/Chicago:20150627T074500
+EXDATE;TZID=America/Chicago:20150905T074500
+EXDATE;TZID=America/Chicago:20150912T074500
+LOCATION:Faith World Outreach\, Bartlett\, IL\, United States
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SEQUENCE:0
+SUMMARY:Men’s Discipleship
+URL:http://dev16.fwo.org/event/mens-discipleship/
+END:VEVENT
+BEGIN:VEVENT
+UID:FFF40D7F-C781-4005-AF13-6C9F61408471
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us today\, Sunday • Pastor Ed Weiss • Faith World Outre
+ ach Church • Bartlett\, IL • Starting at 11:00am\, fwo.org/live</p>
+DTSTART;TZID=America/Chicago:20150927T103000
+DTEND;TZID=America/Chicago:20150927T120000
+EXDATE;TZID=America/Chicago:20140622T103000
+EXDATE;TZID=America/Chicago:20141109T103000
+EXDATE;TZID=America/Chicago:20141130T103000
+EXDATE;TZID=America/Chicago:20150503T103000
+EXDATE;TZID=America/Chicago:20150510T103000
+LOCATION:Faith World Outreach\, Bartlett\, IL
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Bartlett Service
+URL:http://dev16.fwo.org/event/bartlett-service-6/
+END:VEVENT
+BEGIN:VEVENT
 UID:l9iggml8a8e58bo9g11s49ullo@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Join us tonight\, Wednesdays • Ladies’ Fellowship with Mrs. 
@@ -215,7 +215,7 @@ URL:http://dev16.fwo.org/event/ladies-fellowship/
 END:VEVENT
 BEGIN:VEVENT
 UID:2015102190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -229,7 +229,7 @@ URL:http://dev16.fwo.org/event/youth-redeemed-drama-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:2015109190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -243,7 +243,7 @@ URL:http://dev16.fwo.org/event/youth-redeemed-service-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -311,7 +311,7 @@ URL:http://dev16.fwo.org/event/youth-redeemed-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151023190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -325,7 +325,7 @@ URL:http://dev16.fwo.org/event/youth-redeemed-fun-night-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151030190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -339,7 +339,7 @@ URL:http://dev16.fwo.org/event/youth-redeemed-night-of-worship-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151113190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -353,7 +353,7 @@ URL:http://dev16.fwo.org/event/youth-redeemed-service-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151120190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -367,7 +367,7 @@ URL:http://dev16.fwo.org/event/youth-redeemed-fun-night-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:2015124190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -381,7 +381,7 @@ URL:http://dev16.fwo.org/event/youth-redeemed-drama/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151211190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 
@@ -395,7 +395,7 @@ URL:http://dev16.fwo.org/event/youth-redeemed-christmas-party-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:20151218190000-gh2q2t8bik4q629kt4quit0ci8@google.com
-DTSTAMP:20150920T002344Z
+DTSTAMP:20150921T224757Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Don’t miss Youth Redeemed • Tonight at 7:00 pm • Bartlett\, 

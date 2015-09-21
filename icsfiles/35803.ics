@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.25.45.140//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.krangh.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3783@www.krangh.de
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=de-DE:Let's Play
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.krangh.de/wp-content/uploads/2012/12/Star-Trek-Online-4-icon.png' w
+ idth='256' height='256' /></div><p>Geplanter Release einer neuen Folge des
+  „Let’s Play: Star Trek Online“.</p>
+DTSTART;TZID=Europe/Berlin:20150921T180000
+DTEND;TZID=Europe/Berlin:20150921T181500
+EXDATE;TZID=Europe/Berlin:20140516T180000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;WKST=undefined
+SEQUENCE:0
+SUMMARY:Let’s Play: Star Trek Online
+URL:http://www.krangh.de/event/lets-play-star-trek-online/
+X-TAGS;LANGUAGE=de-DE:Star Trek
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4168@www.krangh.de
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=de-DE:Let's Play
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.krangh.de/wp-content/uploads/2013/01/Wolfenstein-The-New-Order_128x
+ 128.png' width='128' height='128' /></div><p>Geplanter Release einer neuen
+  Folge des „Let’s Play: Wolfenstein – The New Order“.</p>
+DTSTART;TZID=Europe/Berlin:20150921T190000
+DTEND;TZID=Europe/Berlin:20150921T191500
+RRULE:FREQ=DAILY
+SEQUENCE:0
+SUMMARY:Let’s Play: Wolfenstein – The New Order
+URL:http://www.krangh.de/event/lets-play-wolfenstein-the-new-order/
+X-TAGS;LANGUAGE=de-DE:Wolfenstein
+END:VEVENT
+END:VCALENDAR

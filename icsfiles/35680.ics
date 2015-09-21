@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.185.118.125//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://copperrocketpub.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-131@copperrocketpub.com
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us every Sunday night for Maitland’s only Comedy Venue 
+ featuring some of Orlando’s most talented comedians performing full sets</
+ p>\n<p>Open Mic for starting comics at 8:30pm</p>\n<p>S.I.N. Discounts app
+ ly 10pm-2am</p>
+DTSTART;TZID=America/New_York:20150920T210000
+DTEND;TZID=America/New_York:20150920T230000
+GEO:+28.618529;-81.365737
+LOCATION:The Copper Rocket Pub @ 106 Lake Avenue\, Maitland\, FL 32751\, US
+ A
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Comedy Night
+URL:http://copperrocketpub.com/event/comedy-night/
+END:VEVENT
+END:VCALENDAR

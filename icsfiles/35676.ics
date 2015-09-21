@@ -1,8 +1,4035 @@
-<html>
-<head><title>400 Request Header Or Cookie Too Large</title></head>
-<body bgcolor="white">
-<center><h1>400 Bad Request</h1></center>
-<center>Request Header Or Cookie Too Large</center>
-<hr><center>nginx</center>
-</body>
-</html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.175.208.129//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.templeisraelnc.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hebcal-20150922-7ba1909cb77651bc189fcb92b78a2626
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Day of Atonement</p>\n<p>http://www.hebcal.com/holidays/yom-
+ kippur?tag=ical</p>
+DTSTART;VALUE=DATE:20150922
+DTEND;VALUE=DATE:20150923
+SEQUENCE:0
+SUMMARY:Erev Yom Kippur
+URL:http://www.templeisraelnc.org/event/kol_nidre/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214908@www.templeisraelnc.org
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.templeisraelnc.org/wp-content/uploads/KO
+ L-NIDRE-FLYER-whole-page.jpg'><img class='aligncenter size-large wp-image-
+ 214910' src='http://www.templeisraelnc.org/wp-content/uploads/KOL-NIDRE-FL
+ YER-whole-page-684x1024.jpg' alt='Microsoft Word - KOL NIDRE FLYER - whole
+  page.docx' width='684' height='1024' /></a></p>
+DTSTART;VALUE=DATE:20150922
+DTEND;VALUE=DATE:20150923
+SEQUENCE:0
+SUMMARY:Kol Nidre Annual Food Drive
+URL:http://www.templeisraelnc.org/event/kol-nidre-annual-food-drive/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214583@www.templeisraelnc.org
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150922
+DTEND;VALUE=DATE:20150923
+SEQUENCE:0
+SUMMARY:TI Office closes at 1:00pm
+URL:http://www.templeisraelnc.org/event/ti-office-closes-at-100pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214584@www.templeisraelnc.org
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+SEQUENCE:0
+SUMMARY:TI Office Closed
+URL:http://www.templeisraelnc.org/event/ti-office-closed/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150923-6d1036bc2e3a7c743225174c4feb5d1f
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Day of Atonement</p>\n<p>http://www.hebcal.com/holidays/yom-
+ kippur?tag=ical</p>
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+SEQUENCE:0
+SUMMARY:Yom Kippur
+URL:http://www.templeisraelnc.org/event/yom-kippur-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150926-a35e033edd1710c17a0191552f3174aa
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Deuteronomy 32:1 – 32:52<br />\nHaftarah: II Samuel 2
+ 2:1 – 22:51</p>\n<p>http://www.hebcal.com/sedrot/haazinu?tag=ical</p>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150927
+SEQUENCE:0
+SUMMARY:Parashat Ha’Azinu
+URL:http://www.templeisraelnc.org/event/parashat-haazinu-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150927-44eb489369f6f97785755ba41046fe2b
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20150927
+DTEND;VALUE=DATE:20150928
+SEQUENCE:0
+SUMMARY:Erev Sukkot
+URL:http://www.templeisraelnc.org/event/erev-sukkot-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150928-a56b81f3f712167d3bc4ac0ddebe0c5b
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20150928
+DTEND;VALUE=DATE:20150929
+SEQUENCE:0
+SUMMARY:Sukkot I
+URL:http://www.templeisraelnc.org/event/sukkot-i-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150929-cecbce95444249f3c74acb96fc40b550
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20150929
+DTEND;VALUE=DATE:20150930
+SEQUENCE:0
+SUMMARY:Sukkot II
+URL:http://www.templeisraelnc.org/event/sukkot-ii-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150930-77d0901fd0f84a3199b95bd6f58fe4ca
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20150930
+DTEND;VALUE=DATE:20151001
+SEQUENCE:0
+SUMMARY:Sukkot III (CH”M)
+URL:http://www.templeisraelnc.org/event/sukkot-iii-chm-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151001-4db63c640d40394c52c87f245320ae9a
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20151001
+DTEND;VALUE=DATE:20151002
+SEQUENCE:0
+SUMMARY:Sukkot IV (CH”M)
+URL:http://www.templeisraelnc.org/event/sukkot-iv-chm-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151002-0ad86ebcc40b8a4914f8b88eb9136c15
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151003
+SEQUENCE:0
+SUMMARY:Sukkot V (CH”M)
+URL:http://www.templeisraelnc.org/event/sukkot-v-chm-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151003-643ea91fc232dd50821348888bfdd5e7
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+SEQUENCE:0
+SUMMARY:Sukkot VI (CH”M)
+URL:http://www.templeisraelnc.org/event/sukkot-vi-chm-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151004-e2feb074e916c6e595792b0016194da7
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20151004
+DTEND;VALUE=DATE:20151005
+SEQUENCE:0
+SUMMARY:Sukkot VII (Hoshana Raba)
+URL:http://www.templeisraelnc.org/event/sukkot-vii-hoshana-raba-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151005-6da05ddf411dec94bb214fbf867a32ab
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Eighth Day of Assembly</p>\n<p>http://www.hebcal.com/holiday
+ s/shmini-atzeret?tag=ical</p>
+DTSTART;VALUE=DATE:20151005
+DTEND;VALUE=DATE:20151006
+SEQUENCE:0
+SUMMARY:Shmini Atzeret
+URL:http://www.templeisraelnc.org/event/shmini-atzeret-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151006-b79b3416f8079f8ef391fbe755e3d729
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Day of Celebrating the Torah</p>\n<p>http://www.hebcal.com/h
+ olidays/simchat-torah?tag=ical</p>
+DTSTART;VALUE=DATE:20151006
+DTEND;VALUE=DATE:20151007
+SEQUENCE:0
+SUMMARY:Simchat Torah
+URL:http://www.templeisraelnc.org/event/simchat-torah-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151010-d04c9712ae4c2ec5b8ad67c54244551b
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 1:1 – 6:8<br />\nHaftarah: Isaiah 42:5 – 43:1
+ 0</p>\n<p>http://www.hebcal.com/sedrot/bereshit?tag=ical</p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151011
+SEQUENCE:0
+SUMMARY:Parashat Bereshit
+URL:http://www.templeisraelnc.org/event/parashat-bereshit-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151013-340a76f6a26ffdf68aecfde5f06feef9
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Cheshvan</p>\n<p>http://www.hebcal.c
+ om/holidays/rosh-chodesh-cheshvan?tag=ical</p>
+DTSTART;VALUE=DATE:20151013
+DTEND;VALUE=DATE:20151014
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Cheshvan
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-cheshvan-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151014-340a76f6a26ffdf68aecfde5f06feef9
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Cheshvan</p>\n<p>http://www.hebcal.c
+ om/holidays/rosh-chodesh-cheshvan?tag=ical</p>
+DTSTART;VALUE=DATE:20151014
+DTEND;VALUE=DATE:20151015
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Cheshvan
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-cheshvan-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151017-ed2b1884981234d4b442e69c761c18ef
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 6:9 – 11:32<br />\nHaftarah: Isaiah 54:1 – 55
+ :5</p>\n<p>http://www.hebcal.com/sedrot/noach?tag=ical</p>
+DTSTART;VALUE=DATE:20151017
+DTEND;VALUE=DATE:20151018
+SEQUENCE:0
+SUMMARY:Parashat Noach
+URL:http://www.templeisraelnc.org/event/parashat-noach-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldh9aonieg6vn0etpqmjo6rkk@google.com
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151024
+SEQUENCE:0
+SUMMARY:Guess Who’s Coming To Shabbas
+URL:http://www.templeisraelnc.org/event/guess-whos-coming-to-shabbas/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151024-e00a09a23175a2f4b8df48039e9add1b
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 12:1 – 17:27<br />\nHaftarah: Isaiah 40:27 – 
+ 41:16</p>\n<p>http://www.hebcal.com/sedrot/lechlecha?tag=ical</p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+SEQUENCE:0
+SUMMARY:Parashat Lech-Lecha
+URL:http://www.templeisraelnc.org/event/parashat-lech-lecha-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151031-bdefc7544d277c68386a92e0366cec80
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 18:1 – 22:24<br />\nHaftarah: II Kings 4:1 – 
+ 4:37</p>\n<p>http://www.hebcal.com/sedrot/vayera?tag=ical</p>
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151101
+SEQUENCE:0
+SUMMARY:Parashat Vayera
+URL:http://www.templeisraelnc.org/event/parashat-vayera-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151107-0ef400345560fee40beafa5f4c437d1c
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 23:1 – 25:18<br />\nHaftarah: I Kings 1:1 – 1
+ :31</p>\n<p>http://www.hebcal.com/sedrot/chayeisara?tag=ical</p>
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+SEQUENCE:0
+SUMMARY:Parashat Chayei Sara
+URL:http://www.templeisraelnc.org/event/parashat-chayei-sara-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151112-7934267d5cbddf9fb4f6f49f76dd1e6b
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Kislev</p>\n<p>http://www.hebcal.com
+ /holidays/rosh-chodesh-kislev?tag=ical</p>
+DTSTART;VALUE=DATE:20151112
+DTEND;VALUE=DATE:20151113
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Kislev
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-kislev-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151113-7934267d5cbddf9fb4f6f49f76dd1e6b
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Kislev</p>\n<p>http://www.hebcal.com
+ /holidays/rosh-chodesh-kislev?tag=ical</p>
+DTSTART;VALUE=DATE:20151113
+DTEND;VALUE=DATE:20151114
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Kislev
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-kislev-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151114-966aa395fdb9a0a832645e3dcad1ef09
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 25:19 – 28:9<br />\nHaftarah: Malachi 1:1 – 2
+ :7</p>\n<p>http://www.hebcal.com/sedrot/toldot?tag=ical</p>
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151115
+SEQUENCE:0
+SUMMARY:Parashat Toldot
+URL:http://www.templeisraelnc.org/event/parashat-toldot-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151121-1f489837c381bf1af83f24848ab5a907
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 28:10 – 32:3<br />\nHaftarah: Hosea 12:13 – 1
+ 4:10</p>\n<p>http://www.hebcal.com/sedrot/vayetzei?tag=ical</p>
+DTSTART;VALUE=DATE:20151121
+DTEND;VALUE=DATE:20151122
+SEQUENCE:0
+SUMMARY:Parashat Vayetzei
+URL:http://www.templeisraelnc.org/event/parashat-vayetzei-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160311-904ab79ddaad1fda2ea594dda2ca7949
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Adar</p>\n<p>http://www.hebcal.com/h
+ olidays/rosh-chodesh-adar?tag=ical</p>
+DTSTART;VALUE=DATE:20160311
+DTEND;VALUE=DATE:20160312
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Adar II
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-adar-ii/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160312-db1cfeeb98985d38804fba71e4870123
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Exodus 38:21 – 40:38<br />\nHaftarah: I Kings 7:51 – 
+ 8:21</p>\n<p>http://www.hebcal.com/sedrot/pekudei?tag=ical</p>
+DTSTART;VALUE=DATE:20160312
+DTEND;VALUE=DATE:20160313
+SEQUENCE:0
+SUMMARY:Parashat Pekudei
+URL:http://www.templeisraelnc.org/event/parashat-pekudei/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160319-56cad1136c70ca3979d126c9a68b460e
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 1:1 – 5:26<br />\nHaftarah: I Samuel 15:2 –
+  15:34</p>\n<p>http://www.hebcal.com/sedrot/vayikra?tag=ical</p>
+DTSTART;VALUE=DATE:20160319
+DTEND;VALUE=DATE:20160320
+SEQUENCE:0
+SUMMARY:Parashat Vayikra
+URL:http://www.templeisraelnc.org/event/parashat-vayikra/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160319-bee027ba629f9ee3df407b12cf65a434
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Shabbat before Purim</p>\n<p>http://www.hebcal.com/holidays/
+ shabbat-zachor?tag=ical</p>
+DTSTART;VALUE=DATE:20160319
+DTEND;VALUE=DATE:20160320
+SEQUENCE:0
+SUMMARY:Shabbat Zachor
+URL:http://www.templeisraelnc.org/event/shabbat-zachor/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160323-0ab3f6b11c0e368f53763117582d3c52
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Purim is one of the most joyous and fun holidays on the Jewi
+ sh calendar</p>\n<p>http://www.hebcal.com/holidays/purim?tag=ical</p>
+DTSTART;VALUE=DATE:20160323
+DTEND;VALUE=DATE:20160324
+SEQUENCE:0
+SUMMARY:Erev Purim
+URL:http://www.templeisraelnc.org/event/erev-purim/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160323-f86f11c399cdce9dc229e1913b526086
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Fast of Esther</p>\n<p>http://www.hebcal.com/holidays/taanit
+ -esther?tag=ical</p>
+DTSTART;VALUE=DATE:20160323
+DTEND;VALUE=DATE:20160324
+SEQUENCE:0
+SUMMARY:Ta’anit Esther
+URL:http://www.templeisraelnc.org/event/taanit-esther/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160324-2d2f953ea88dce316bd3b19fb2b768d9
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Purim is one of the most joyous and fun holidays on the Jewi
+ sh calendar</p>\n<p>http://www.hebcal.com/holidays/purim?tag=ical</p>
+DTSTART;VALUE=DATE:20160324
+DTEND;VALUE=DATE:20160325
+SEQUENCE:0
+SUMMARY:Purim
+URL:http://www.templeisraelnc.org/event/purim/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160325-9a8d0573697d10b4d622b320b29c0eaf
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Purim celebrated in Jerusalem and walled cities</p>\n<p>http
+ ://www.hebcal.com/holidays/shushan-purim?tag=ical</p>
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160326
+SEQUENCE:0
+SUMMARY:Shushan Purim
+URL:http://www.templeisraelnc.org/event/shushan-purim/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160326-58f80aa7d21720fc609c3755ac43fad0
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 6:1 – 8:36<br />\nHaftarah: Jeremiah 7:21 –
+  8:3\; 9:22 – 9:23</p>\n<p>http://www.hebcal.com/sedrot/tzav?tag=ical</p>
+DTSTART;VALUE=DATE:20160326
+DTEND;VALUE=DATE:20160327
+SEQUENCE:0
+SUMMARY:Parashat Tzav
+URL:http://www.templeisraelnc.org/event/parashat-tzav/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160402-d7d5aa42246047c3ae31f806c7c41a0b
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 9:1 – 11:47<br />\nHaftarah: Ezekiel 36:16 
+ – 36:38</p>\n<p>http://www.hebcal.com/sedrot/shmini?tag=ical</p>
+DTSTART;VALUE=DATE:20160402
+DTEND;VALUE=DATE:20160403
+SEQUENCE:0
+SUMMARY:Parashat Shmini
+URL:http://www.templeisraelnc.org/event/parashat-shmini/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160402-7782fc9e1a665ab19cbf53192dde398a
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Shabbat after Purim</p>\n<p>http://www.hebcal.com/holidays/s
+ habbat-parah?tag=ical</p>
+DTSTART;VALUE=DATE:20160402
+DTEND;VALUE=DATE:20160403
+SEQUENCE:0
+SUMMARY:Shabbat Parah
+URL:http://www.templeisraelnc.org/event/shabbat-parah/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160409-171dc2ccce4f4c5b4a83c5a31b72f1fb
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 12:1 – 13:59<br />\nHaftarah: Ezekiel 45:16
+  – 46:18</p>\n<p>http://www.hebcal.com/sedrot/tazria?tag=ical</p>
+DTSTART;VALUE=DATE:20160409
+DTEND;VALUE=DATE:20160410
+SEQUENCE:0
+SUMMARY:Parashat Tazria
+URL:http://www.templeisraelnc.org/event/parashat-tazria/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160409-c93412c0eb833166a5e5b5abd61fabe1
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Nisan</p>\n<p>http://www.hebcal.com/
+ holidays/rosh-chodesh-nisan?tag=ical</p>
+DTSTART;VALUE=DATE:20160409
+DTEND;VALUE=DATE:20160410
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Nisan
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-nisan/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160409-657ca73ef00cfd83860e968eec1b093e
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Shabbat before Rosh Chodesh Nissan</p>\n<p>http://www.hebcal
+ .com/holidays/shabbat-hachodesh?tag=ical</p>
+DTSTART;VALUE=DATE:20160409
+DTEND;VALUE=DATE:20160410
+SEQUENCE:0
+SUMMARY:Shabbat HaChodesh
+URL:http://www.templeisraelnc.org/event/shabbat-hachodesh/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160416-ce5fd881af75fc33ec834d57252b361c
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 14:1 – 15:33<br />\nHaftarah: Malachi 3:4 –
+  3:24</p>\n<p>http://www.hebcal.com/sedrot/metzora?tag=ical</p>
+DTSTART;VALUE=DATE:20160416
+DTEND;VALUE=DATE:20160417
+SEQUENCE:0
+SUMMARY:Parashat Metzora
+URL:http://www.templeisraelnc.org/event/parashat-metzora/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160416-dac5f72ee03e5738fb572a09439e7ad0
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Shabbat before Pesach</p>\n<p>http://www.hebcal.com/holidays
+ /shabbat-hagadol?tag=ical</p>
+DTSTART;VALUE=DATE:20160416
+DTEND;VALUE=DATE:20160417
+SEQUENCE:0
+SUMMARY:Shabbat HaGadol
+URL:http://www.templeisraelnc.org/event/shabbat-hagadol/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160421-62c37ac727c62e3aeef59dcd63c45894
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Fast of the First Born</p>\n<p>http://www.hebcal.com/holiday
+ s/taanit-bechorot?tag=ical</p>
+DTSTART;VALUE=DATE:20160421
+DTEND;VALUE=DATE:20160422
+SEQUENCE:0
+SUMMARY:Ta’anit Bechorot
+URL:http://www.templeisraelnc.org/event/taanit-bechorot/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160422-6fa29675cbcb1ccb27f62fd980f5e78f
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Passover\, the Feast of Unleavened Bread</p>\n<p>http://www.
+ hebcal.com/holidays/pesach?tag=ical</p>
+DTSTART;VALUE=DATE:20160422
+DTEND;VALUE=DATE:20160423
+SEQUENCE:0
+SUMMARY:Erev Pesach
+URL:http://www.templeisraelnc.org/event/erev-pesach/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160423-6388dd2905b574ccb1fd196f13522f31
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Passover\, the Feast of Unleavened Bread</p>\n<p>http://www.
+ hebcal.com/holidays/pesach?tag=ical</p>
+DTSTART;VALUE=DATE:20160423
+DTEND;VALUE=DATE:20160424
+SEQUENCE:0
+SUMMARY:Pesach I
+URL:http://www.templeisraelnc.org/event/pesach-i/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160424-4eb0a796982fac6a649157f12b7d1435
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160424
+DTEND;VALUE=DATE:20160425
+SEQUENCE:0
+SUMMARY:1st day of the Omer
+URL:http://www.templeisraelnc.org/event/1st-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160424-a12a5eb5a4d96cc7ee7b51960527dfa3
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Passover\, the Feast of Unleavened Bread</p>\n<p>http://www.
+ hebcal.com/holidays/pesach?tag=ical</p>
+DTSTART;VALUE=DATE:20160424
+DTEND;VALUE=DATE:20160425
+SEQUENCE:0
+SUMMARY:Pesach II
+URL:http://www.templeisraelnc.org/event/pesach-ii/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160425-af3fe9e12341d83b707136f8d9e6c8bc
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160425
+DTEND;VALUE=DATE:20160426
+SEQUENCE:0
+SUMMARY:2nd day of the Omer
+URL:http://www.templeisraelnc.org/event/2nd-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160425-6a93cc5396a3363519e79f5a51e52463
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Passover\, the Feast of Unleavened Bread</p>\n<p>http://www.
+ hebcal.com/holidays/pesach?tag=ical</p>
+DTSTART;VALUE=DATE:20160425
+DTEND;VALUE=DATE:20160426
+SEQUENCE:0
+SUMMARY:Pesach III (CH”M)
+URL:http://www.templeisraelnc.org/event/pesach-iii-chm/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160426-71ea73d728b1647f1ff32ad8709ffb12
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160426
+DTEND;VALUE=DATE:20160427
+SEQUENCE:0
+SUMMARY:3rd day of the Omer
+URL:http://www.templeisraelnc.org/event/3rd-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160426-9aa2b465ac701c91c46747ceb0d71129
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Passover\, the Feast of Unleavened Bread</p>\n<p>http://www.
+ hebcal.com/holidays/pesach?tag=ical</p>
+DTSTART;VALUE=DATE:20160426
+DTEND;VALUE=DATE:20160427
+SEQUENCE:0
+SUMMARY:Pesach IV (CH”M)
+URL:http://www.templeisraelnc.org/event/pesach-iv-chm/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160427-c1341e1a4a23bc0a3a760d2c690f6027
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160427
+DTEND;VALUE=DATE:20160428
+SEQUENCE:0
+SUMMARY:4th day of the Omer
+URL:http://www.templeisraelnc.org/event/4th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160427-62a02aad8874f4b8b6d9fb8bb937cc8d
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Passover\, the Feast of Unleavened Bread</p>\n<p>http://www.
+ hebcal.com/holidays/pesach?tag=ical</p>
+DTSTART;VALUE=DATE:20160427
+DTEND;VALUE=DATE:20160428
+SEQUENCE:0
+SUMMARY:Pesach V (CH”M)
+URL:http://www.templeisraelnc.org/event/pesach-v-chm/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160428-6b923aea80dc818bb6342c8c20769ed5
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160428
+DTEND;VALUE=DATE:20160429
+SEQUENCE:0
+SUMMARY:5th day of the Omer
+URL:http://www.templeisraelnc.org/event/5th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160428-006e11c8a7691f498384ea0eca35f8e3
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Passover\, the Feast of Unleavened Bread</p>\n<p>http://www.
+ hebcal.com/holidays/pesach?tag=ical</p>
+DTSTART;VALUE=DATE:20160428
+DTEND;VALUE=DATE:20160429
+SEQUENCE:0
+SUMMARY:Pesach VI (CH”M)
+URL:http://www.templeisraelnc.org/event/pesach-vi-chm/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160429-05c0eeb14fae7b819f7167b133fb3f97
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160429
+DTEND;VALUE=DATE:20160430
+SEQUENCE:0
+SUMMARY:6th day of the Omer
+URL:http://www.templeisraelnc.org/event/6th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160429-bd3f6d75d835ef6b8ff373a4df117270
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Passover\, the Feast of Unleavened Bread</p>\n<p>http://www.
+ hebcal.com/holidays/pesach?tag=ical</p>
+DTSTART;VALUE=DATE:20160429
+DTEND;VALUE=DATE:20160430
+SEQUENCE:0
+SUMMARY:Pesach VII
+URL:http://www.templeisraelnc.org/event/pesach-vii/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160430-63b62639258a0c09815bfb7ccdb59656
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160430
+DTEND;VALUE=DATE:20160501
+SEQUENCE:0
+SUMMARY:7th day of the Omer
+URL:http://www.templeisraelnc.org/event/7th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160430-0b1b9c0ab0c87836afa59def9d170b1f
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Passover\, the Feast of Unleavened Bread</p>\n<p>http://www.
+ hebcal.com/holidays/pesach?tag=ical</p>
+DTSTART;VALUE=DATE:20160430
+DTEND;VALUE=DATE:20160501
+SEQUENCE:0
+SUMMARY:Pesach VIII
+URL:http://www.templeisraelnc.org/event/pesach-viii/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160501-be8181ec8de99a672d222c3404292334
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+SEQUENCE:0
+SUMMARY:8th day of the Omer
+URL:http://www.templeisraelnc.org/event/8th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160502-d1c238d75f78be07b4dce831a53628fb
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+SEQUENCE:0
+SUMMARY:9th day of the Omer
+URL:http://www.templeisraelnc.org/event/9th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160503-c85d3d313e1b8366c5d94400c3b907de
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160503
+DTEND;VALUE=DATE:20160504
+SEQUENCE:0
+SUMMARY:10th day of the Omer
+URL:http://www.templeisraelnc.org/event/10th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160504-b63323ff6befbda92b0313d740ed1206
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160504
+DTEND;VALUE=DATE:20160505
+SEQUENCE:0
+SUMMARY:11th day of the Omer
+URL:http://www.templeisraelnc.org/event/11th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160505-2e4b9c6b43b943e9dea0fc8bb40fb5e9
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160505
+DTEND;VALUE=DATE:20160506
+SEQUENCE:0
+SUMMARY:12th day of the Omer
+URL:http://www.templeisraelnc.org/event/12th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160505-e9949b6e7d8d39a1ab2e262530d524d3
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Holocaust Memorial Day</p>\n<p>http://www.hebcal.com/holiday
+ s/yom-hashoah?tag=ical</p>
+DTSTART;VALUE=DATE:20160505
+DTEND;VALUE=DATE:20160506
+SEQUENCE:0
+SUMMARY:Yom HaShoah
+URL:http://www.templeisraelnc.org/event/yom-hashoah/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160506-17e1a28c9f4d5b4efca4a72e09433e78
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160506
+DTEND;VALUE=DATE:20160507
+SEQUENCE:0
+SUMMARY:13th day of the Omer
+URL:http://www.templeisraelnc.org/event/13th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160507-5f7c07ffd538525989454cfe51c820ba
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160507
+DTEND;VALUE=DATE:20160508
+SEQUENCE:0
+SUMMARY:14th day of the Omer
+URL:http://www.templeisraelnc.org/event/14th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160507-29f601d20e7522536d341386cf7419cc
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 16:1 – 18:30<br />\nHaftarah: I Samuel 20:1
+ 8 – 20:42</p>\n<p>http://www.hebcal.com/sedrot/achreimot?tag=ical</p>
+DTSTART;VALUE=DATE:20160507
+DTEND;VALUE=DATE:20160508
+SEQUENCE:0
+SUMMARY:Parashat Achrei Mot
+URL:http://www.templeisraelnc.org/event/parashat-achrei-mot/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160508-caca97f9699a03359c9f4c0efadde8ea
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160508
+DTEND;VALUE=DATE:20160509
+SEQUENCE:0
+SUMMARY:15th day of the Omer
+URL:http://www.templeisraelnc.org/event/15th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160508-62f36e89e54af3102c67549455b30b1c
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Iyyar</p>\n<p>http://www.hebcal.com/
+ holidays/rosh-chodesh-iyyar?tag=ical</p>
+DTSTART;VALUE=DATE:20160508
+DTEND;VALUE=DATE:20160509
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Iyyar
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-iyyar-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160509-554734ac3eaf881943242d6df3b7a4d3
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160509
+DTEND;VALUE=DATE:20160510
+SEQUENCE:0
+SUMMARY:16th day of the Omer
+URL:http://www.templeisraelnc.org/event/16th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160509-62f36e89e54af3102c67549455b30b1c
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Iyyar</p>\n<p>http://www.hebcal.com/
+ holidays/rosh-chodesh-iyyar?tag=ical</p>
+DTSTART;VALUE=DATE:20160509
+DTEND;VALUE=DATE:20160510
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Iyyar
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-iyyar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160510-03258c82f7f0babf586e8e6ac5ca216b
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160510
+DTEND;VALUE=DATE:20160511
+SEQUENCE:0
+SUMMARY:17th day of the Omer
+URL:http://www.templeisraelnc.org/event/17th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160511-820d23c383ef6bd44ab04a6a71b703d7
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160511
+DTEND;VALUE=DATE:20160512
+SEQUENCE:0
+SUMMARY:18th day of the Omer
+URL:http://www.templeisraelnc.org/event/18th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160511-32777c7fc7c6d8331db3f3a90db788fa
+DTSTAMP:20150921T224745Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Israeli Memorial Day</p>\n<p>http://www.hebcal.com/holidays/
+ yom-hazikaron?tag=ical</p>
+DTSTART;VALUE=DATE:20160511
+DTEND;VALUE=DATE:20160512
+SEQUENCE:0
+SUMMARY:Yom HaZikaron
+URL:http://www.templeisraelnc.org/event/yom-hazikaron/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160512-5ca5a29ee2c5944d88c657951541fedc
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160512
+DTEND;VALUE=DATE:20160513
+SEQUENCE:0
+SUMMARY:19th day of the Omer
+URL:http://www.templeisraelnc.org/event/19th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160512-67385250f79fdb13281ee0646eb0d720
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Israeli Independence Day</p>\n<p>http://www.hebcal.com/holid
+ ays/yom-haatzmaut?tag=ical</p>
+DTSTART;VALUE=DATE:20160512
+DTEND;VALUE=DATE:20160513
+SEQUENCE:0
+SUMMARY:Yom HaAtzma’ut
+URL:http://www.templeisraelnc.org/event/yom-haatzmaut/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160513-019b8ccf54bad382d7f5725ed3f83177
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160513
+DTEND;VALUE=DATE:20160514
+SEQUENCE:0
+SUMMARY:20th day of the Omer
+URL:http://www.templeisraelnc.org/event/20th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160514-af6c4d80807e30c3dc00195c107fc3f5
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160514
+DTEND;VALUE=DATE:20160515
+SEQUENCE:0
+SUMMARY:21st day of the Omer
+URL:http://www.templeisraelnc.org/event/21st-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160514-6a2c1b297f6aa20a66a5993c2e5ea5f2
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 19:1 – 20:27<br />\nHaftarah: Amos 9:7 – 9:
+ 15</p>\n<p>http://www.hebcal.com/sedrot/kedoshim?tag=ical</p>
+DTSTART;VALUE=DATE:20160514
+DTEND;VALUE=DATE:20160515
+SEQUENCE:0
+SUMMARY:Parashat Kedoshim
+URL:http://www.templeisraelnc.org/event/parashat-kedoshim/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160515-a6bb0379c116aef8cadb830e4507edab
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160515
+DTEND;VALUE=DATE:20160516
+SEQUENCE:0
+SUMMARY:22nd day of the Omer
+URL:http://www.templeisraelnc.org/event/22nd-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160516-8dfd16e25cf90d1b703d7887eceb3b15
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160516
+DTEND;VALUE=DATE:20160517
+SEQUENCE:0
+SUMMARY:23rd day of the Omer
+URL:http://www.templeisraelnc.org/event/23rd-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160517-e9692e6fa92c9e4bbb32af9270fe5361
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160517
+DTEND;VALUE=DATE:20160518
+SEQUENCE:0
+SUMMARY:24th day of the Omer
+URL:http://www.templeisraelnc.org/event/24th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160518-31f6c3f029d66ba9886dd434153348ed
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160518
+DTEND;VALUE=DATE:20160519
+SEQUENCE:0
+SUMMARY:25th day of the Omer
+URL:http://www.templeisraelnc.org/event/25th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160519-c44a00ff7b6747b779f2dc00d62e7590
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160519
+DTEND;VALUE=DATE:20160520
+SEQUENCE:0
+SUMMARY:26th day of the Omer
+URL:http://www.templeisraelnc.org/event/26th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160520-5714d6afda216468e802393123351bc1
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160520
+DTEND;VALUE=DATE:20160521
+SEQUENCE:0
+SUMMARY:27th day of the Omer
+URL:http://www.templeisraelnc.org/event/27th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160521-e2225e94ed5842db86933b407dac7d94
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160521
+DTEND;VALUE=DATE:20160522
+SEQUENCE:0
+SUMMARY:28th day of the Omer
+URL:http://www.templeisraelnc.org/event/28th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160521-0f360b2b9f7ff87e738d10534fee0975
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 21:1 – 24:23<br />\nHaftarah: Ezekiel 44:15
+  – 44:31</p>\n<p>http://www.hebcal.com/sedrot/emor?tag=ical</p>
+DTSTART;VALUE=DATE:20160521
+DTEND;VALUE=DATE:20160522
+SEQUENCE:0
+SUMMARY:Parashat Emor
+URL:http://www.templeisraelnc.org/event/parashat-emor/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160522-f3d435a6bd6fe0454bacfcc5ec087566
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160522
+DTEND;VALUE=DATE:20160523
+SEQUENCE:0
+SUMMARY:29th day of the Omer
+URL:http://www.templeisraelnc.org/event/29th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160522-1b421c53cd2703ad639d5cfc522074c7
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Second Passover\, one month after Passover</p>\n<p>http://ww
+ w.hebcal.com/holidays/pesach-sheni?tag=ical</p>
+DTSTART;VALUE=DATE:20160522
+DTEND;VALUE=DATE:20160523
+SEQUENCE:0
+SUMMARY:Pesach Sheni
+URL:http://www.templeisraelnc.org/event/pesach-sheni/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160523-b3aa380523dc7a3ee76d847a1774a9ba
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160523
+DTEND;VALUE=DATE:20160524
+SEQUENCE:0
+SUMMARY:30th day of the Omer
+URL:http://www.templeisraelnc.org/event/30th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160524-179c8093f6e121aaa224d74883cc1a6d
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160524
+DTEND;VALUE=DATE:20160525
+SEQUENCE:0
+SUMMARY:31st day of the Omer
+URL:http://www.templeisraelnc.org/event/31st-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160525-0e4ec66cd086dcd7852767b079bec625
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160525
+DTEND;VALUE=DATE:20160526
+SEQUENCE:0
+SUMMARY:32nd day of the Omer
+URL:http://www.templeisraelnc.org/event/32nd-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160526-aaaaf881b96a0010e368cc011ea244cc
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160526
+DTEND;VALUE=DATE:20160527
+SEQUENCE:0
+SUMMARY:33rd day of the Omer
+URL:http://www.templeisraelnc.org/event/33rd-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160526-e84dc26b348e00915a3ef721cf801057
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>33rd day of counting the Omer</p>\n<p>http://www.hebcal.com/
+ holidays/lag-bomer?tag=ical</p>
+DTSTART;VALUE=DATE:20160526
+DTEND;VALUE=DATE:20160527
+SEQUENCE:0
+SUMMARY:Lag B’Omer
+URL:http://www.templeisraelnc.org/event/lag-bomer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160527-c6af1d763ae522e5bfe5d450c99f7317
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160527
+DTEND;VALUE=DATE:20160528
+SEQUENCE:0
+SUMMARY:34th day of the Omer
+URL:http://www.templeisraelnc.org/event/34th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160528-cb282371f1c74d7877323b0a8582ea62
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160528
+DTEND;VALUE=DATE:20160529
+SEQUENCE:0
+SUMMARY:35th day of the Omer
+URL:http://www.templeisraelnc.org/event/35th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160528-43fbad3572bbfe31412e41d32e188427
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 25:1 – 26:2<br />\nHaftarah: Jeremiah 32:6 
+ – 32:27</p>\n<p>http://www.hebcal.com/sedrot/behar?tag=ical</p>
+DTSTART;VALUE=DATE:20160528
+DTEND;VALUE=DATE:20160529
+SEQUENCE:0
+SUMMARY:Parashat Behar
+URL:http://www.templeisraelnc.org/event/parashat-behar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160529-e9c394812e8e7696dd87a449cd67f86e
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160529
+DTEND;VALUE=DATE:20160530
+SEQUENCE:0
+SUMMARY:36th day of the Omer
+URL:http://www.templeisraelnc.org/event/36th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160530-38dd2521bba1154421ac9200d213c6a5
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:37th day of the Omer
+URL:http://www.templeisraelnc.org/event/37th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160531-48e36830089aea891311e07398c37516
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160531
+DTEND;VALUE=DATE:20160601
+SEQUENCE:0
+SUMMARY:38th day of the Omer
+URL:http://www.templeisraelnc.org/event/38th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160601-d0275b20d2a11dff267a1e4778e6381b
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160601
+DTEND;VALUE=DATE:20160602
+SEQUENCE:0
+SUMMARY:39th day of the Omer
+URL:http://www.templeisraelnc.org/event/39th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160602-6b8df28bc3aa284b50c423d2a7d78374
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160602
+DTEND;VALUE=DATE:20160603
+SEQUENCE:0
+SUMMARY:40th day of the Omer
+URL:http://www.templeisraelnc.org/event/40th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160603-a0fd3d0b660fabf22f6f37b6bbbdf417
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160603
+DTEND;VALUE=DATE:20160604
+SEQUENCE:0
+SUMMARY:41st day of the Omer
+URL:http://www.templeisraelnc.org/event/41st-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160604-80666f11058ce3cc8414c10c9a4fdb18
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160604
+DTEND;VALUE=DATE:20160605
+SEQUENCE:0
+SUMMARY:42nd day of the Omer
+URL:http://www.templeisraelnc.org/event/42nd-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160604-35eb0f1761592791b707198de2dfd479
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Leviticus 26:3 – 27:34<br />\nHaftarah: Jeremiah 16:1
+ 9 – 17:14</p>\n<p>http://www.hebcal.com/sedrot/bechukotai?tag=ical</p>
+DTSTART;VALUE=DATE:20160604
+DTEND;VALUE=DATE:20160605
+SEQUENCE:0
+SUMMARY:Parashat Bechukotai
+URL:http://www.templeisraelnc.org/event/parashat-bechukotai/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160605-bde9eeb90431ea7217ad4c362de728e5
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160605
+DTEND;VALUE=DATE:20160606
+SEQUENCE:0
+SUMMARY:43rd day of the Omer
+URL:http://www.templeisraelnc.org/event/43rd-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160605-04fa5a48c510843c4782c805143c9435
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Jerusalem Day</p>\n<p>http://www.hebcal.com/holidays/yom-yer
+ ushalayim?tag=ical</p>
+DTSTART;VALUE=DATE:20160605
+DTEND;VALUE=DATE:20160606
+SEQUENCE:0
+SUMMARY:Yom Yerushalayim
+URL:http://www.templeisraelnc.org/event/yom-yerushalayim/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160606-59a8538c3fd35af3575579dbfbce407d
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160606
+DTEND;VALUE=DATE:20160607
+SEQUENCE:0
+SUMMARY:44th day of the Omer
+URL:http://www.templeisraelnc.org/event/44th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160607-7a93104df2d387c270f3362e4d9a5b1a
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160607
+DTEND;VALUE=DATE:20160608
+SEQUENCE:0
+SUMMARY:45th day of the Omer
+URL:http://www.templeisraelnc.org/event/45th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160607-67988b8d7dc0a4c1b2efb3224a3439a0
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Sivan</p>\n<p>http://www.hebcal.com/
+ holidays/rosh-chodesh-sivan?tag=ical</p>
+DTSTART;VALUE=DATE:20160607
+DTEND;VALUE=DATE:20160608
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Sivan
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-sivan/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160608-748546aea354a6984b0a2a9a1175976a
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160608
+DTEND;VALUE=DATE:20160609
+SEQUENCE:0
+SUMMARY:46th day of the Omer
+URL:http://www.templeisraelnc.org/event/46th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160609-72661128e0bd0622acdf4e5e75a59e73
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160609
+DTEND;VALUE=DATE:20160610
+SEQUENCE:0
+SUMMARY:47th day of the Omer
+URL:http://www.templeisraelnc.org/event/47th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160610-20a8062e1c61975a21ffeaec2aed360e
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160610
+DTEND;VALUE=DATE:20160611
+SEQUENCE:0
+SUMMARY:48th day of the Omer
+URL:http://www.templeisraelnc.org/event/48th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160611-072602e1f90369e4b07fbd7b867619ef
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160611
+DTEND;VALUE=DATE:20160612
+SEQUENCE:0
+SUMMARY:49th day of the Omer
+URL:http://www.templeisraelnc.org/event/49th-day-of-the-omer/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160611-92fb237371295607b152371f548ef03b
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Festival of Weeks\, commemorates the giving of the Torah at 
+ Mount Sinai</p>\n<p>http://www.hebcal.com/holidays/shavuot?tag=ical</p>
+DTSTART;VALUE=DATE:20160611
+DTEND;VALUE=DATE:20160612
+SEQUENCE:0
+SUMMARY:Erev Shavuot
+URL:http://www.templeisraelnc.org/event/erev-shavuot/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160611-96670ad4aaf02d071206bcb967091748
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Numbers 1:1 – 4:20<br />\nHaftarah: Hosea 2:1 – 2:22<
+ /p>\n<p>http://www.hebcal.com/sedrot/bamidbar?tag=ical</p>
+DTSTART;VALUE=DATE:20160611
+DTEND;VALUE=DATE:20160612
+SEQUENCE:0
+SUMMARY:Parashat Bamidbar
+URL:http://www.templeisraelnc.org/event/parashat-bamidbar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160612-f35c83329f2e5b221d5a6f0500dbbd1d
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Festival of Weeks\, commemorates the giving of the Torah at 
+ Mount Sinai</p>\n<p>http://www.hebcal.com/holidays/shavuot?tag=ical</p>
+DTSTART;VALUE=DATE:20160612
+DTEND;VALUE=DATE:20160613
+SEQUENCE:0
+SUMMARY:Shavuot I
+URL:http://www.templeisraelnc.org/event/shavuot-i/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160613-3b32040f0b8d1e63b1632780b718d45a
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Festival of Weeks\, commemorates the giving of the Torah at 
+ Mount Sinai</p>\n<p>http://www.hebcal.com/holidays/shavuot?tag=ical</p>
+DTSTART;VALUE=DATE:20160613
+DTEND;VALUE=DATE:20160614
+SEQUENCE:0
+SUMMARY:Shavuot II
+URL:http://www.templeisraelnc.org/event/shavuot-ii/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160618-36736e53c2ba2d2fc47c4e61c677c531
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Numbers 4:21 – 7:89<br />\nHaftarah: Judges 13:2 – 13
+ :25</p>\n<p>http://www.hebcal.com/sedrot/nasso?tag=ical</p>
+DTSTART;VALUE=DATE:20160618
+DTEND;VALUE=DATE:20160619
+SEQUENCE:0
+SUMMARY:Parashat Nasso
+URL:http://www.templeisraelnc.org/event/parashat-nasso/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160625-24093232b38901ffd597ba3c7005195e
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Numbers 8:1 – 12:16<br />\nHaftarah: Zechariah 2:14 –
+  4:7</p>\n<p>http://www.hebcal.com/sedrot/behaalotcha?tag=ical</p>
+DTSTART;VALUE=DATE:20160625
+DTEND;VALUE=DATE:20160626
+SEQUENCE:0
+SUMMARY:Parashat Beha’alotcha
+URL:http://www.templeisraelnc.org/event/parashat-behaalotcha/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161012-6d1036bc2e3a7c743225174c4feb5d1f
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Day of Atonement</p>\n<p>http://www.hebcal.com/holidays/yom-
+ kippur?tag=ical</p>
+DTSTART;VALUE=DATE:20161012
+DTEND;VALUE=DATE:20161013
+SEQUENCE:0
+SUMMARY:Yom Kippur
+URL:http://www.templeisraelnc.org/event/yom-kippur/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161015-a35e033edd1710c17a0191552f3174aa
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Deuteronomy 32:1 – 32:52<br />\nHaftarah: II Samuel 2
+ 2:1 – 22:51</p>\n<p>http://www.hebcal.com/sedrot/haazinu?tag=ical</p>
+DTSTART;VALUE=DATE:20161015
+DTEND;VALUE=DATE:20161016
+SEQUENCE:0
+SUMMARY:Parashat Ha’Azinu
+URL:http://www.templeisraelnc.org/event/parashat-haazinu/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161016-44eb489369f6f97785755ba41046fe2b
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20161016
+DTEND;VALUE=DATE:20161017
+SEQUENCE:0
+SUMMARY:Erev Sukkot
+URL:http://www.templeisraelnc.org/event/erev-sukkot/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161017-a56b81f3f712167d3bc4ac0ddebe0c5b
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20161017
+DTEND;VALUE=DATE:20161018
+SEQUENCE:0
+SUMMARY:Sukkot I
+URL:http://www.templeisraelnc.org/event/sukkot-i/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161018-cecbce95444249f3c74acb96fc40b550
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20161018
+DTEND;VALUE=DATE:20161019
+SEQUENCE:0
+SUMMARY:Sukkot II
+URL:http://www.templeisraelnc.org/event/sukkot-ii/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161019-77d0901fd0f84a3199b95bd6f58fe4ca
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20161019
+DTEND;VALUE=DATE:20161020
+SEQUENCE:0
+SUMMARY:Sukkot III (CH”M)
+URL:http://www.templeisraelnc.org/event/sukkot-iii-chm/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161020-4db63c640d40394c52c87f245320ae9a
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20161020
+DTEND;VALUE=DATE:20161021
+SEQUENCE:0
+SUMMARY:Sukkot IV (CH”M)
+URL:http://www.templeisraelnc.org/event/sukkot-iv-chm-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161021-0ad86ebcc40b8a4914f8b88eb9136c15
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20161021
+DTEND;VALUE=DATE:20161022
+SEQUENCE:0
+SUMMARY:Sukkot V (CH”M)
+URL:http://www.templeisraelnc.org/event/sukkot-v-chm/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161022-643ea91fc232dd50821348888bfdd5e7
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20161022
+DTEND;VALUE=DATE:20161023
+SEQUENCE:0
+SUMMARY:Sukkot VI (CH”M)
+URL:http://www.templeisraelnc.org/event/sukkot-vi-chm/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161023-e2feb074e916c6e595792b0016194da7
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Feast of Tabernacles</p>\n<p>http://www.hebcal.com/holidays/
+ sukkot?tag=ical</p>
+DTSTART;VALUE=DATE:20161023
+DTEND;VALUE=DATE:20161024
+SEQUENCE:0
+SUMMARY:Sukkot VII (Hoshana Raba)
+URL:http://www.templeisraelnc.org/event/sukkot-vii-hoshana-raba/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161024-6da05ddf411dec94bb214fbf867a32ab
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Eighth Day of Assembly</p>\n<p>http://www.hebcal.com/holiday
+ s/shmini-atzeret?tag=ical</p>
+DTSTART;VALUE=DATE:20161024
+DTEND;VALUE=DATE:20161025
+SEQUENCE:0
+SUMMARY:Shmini Atzeret
+URL:http://www.templeisraelnc.org/event/shmini-atzeret/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161025-b79b3416f8079f8ef391fbe755e3d729
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Day of Celebrating the Torah</p>\n<p>http://www.hebcal.com/h
+ olidays/simchat-torah?tag=ical</p>
+DTSTART;VALUE=DATE:20161025
+DTEND;VALUE=DATE:20161026
+SEQUENCE:0
+SUMMARY:Simchat Torah
+URL:http://www.templeisraelnc.org/event/simchat-torah-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161029-d04c9712ae4c2ec5b8ad67c54244551b
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 1:1 – 6:8<br />\nHaftarah: Isaiah 42:5 – 43:1
+ 0</p>\n<p>http://www.hebcal.com/sedrot/bereshit?tag=ical</p>
+DTSTART;VALUE=DATE:20161029
+DTEND;VALUE=DATE:20161030
+SEQUENCE:0
+SUMMARY:Parashat Bereshit
+URL:http://www.templeisraelnc.org/event/parashat-bereshit/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161101-340a76f6a26ffdf68aecfde5f06feef9
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Cheshvan</p>\n<p>http://www.hebcal.c
+ om/holidays/rosh-chodesh-cheshvan?tag=ical</p>
+DTSTART;VALUE=DATE:20161101
+DTEND;VALUE=DATE:20161102
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Cheshvan
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-cheshvan-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161102-340a76f6a26ffdf68aecfde5f06feef9
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Cheshvan</p>\n<p>http://www.hebcal.c
+ om/holidays/rosh-chodesh-cheshvan?tag=ical</p>
+DTSTART;VALUE=DATE:20161102
+DTEND;VALUE=DATE:20161103
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Cheshvan
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-cheshvan/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161105-ed2b1884981234d4b442e69c761c18ef
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 6:9 – 11:32<br />\nHaftarah: Isaiah 54:1 – 55
+ :5</p>\n<p>http://www.hebcal.com/sedrot/noach?tag=ical</p>
+DTSTART;VALUE=DATE:20161105
+DTEND;VALUE=DATE:20161106
+SEQUENCE:0
+SUMMARY:Parashat Noach
+URL:http://www.templeisraelnc.org/event/parashat-noach/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161112-e00a09a23175a2f4b8df48039e9add1b
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 12:1 – 17:27<br />\nHaftarah: Isaiah 40:27 – 
+ 41:16</p>\n<p>http://www.hebcal.com/sedrot/lechlecha?tag=ical</p>
+DTSTART;VALUE=DATE:20161112
+DTEND;VALUE=DATE:20161113
+SEQUENCE:0
+SUMMARY:Parashat Lech-Lecha
+URL:http://www.templeisraelnc.org/event/parashat-lech-lecha/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161119-bdefc7544d277c68386a92e0366cec80
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 18:1 – 22:24<br />\nHaftarah: II Kings 4:1 – 
+ 4:37</p>\n<p>http://www.hebcal.com/sedrot/vayera?tag=ical</p>
+DTSTART;VALUE=DATE:20161119
+DTEND;VALUE=DATE:20161120
+SEQUENCE:0
+SUMMARY:Parashat Vayera
+URL:http://www.templeisraelnc.org/event/parashat-vayera/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161126-0ef400345560fee40beafa5f4c437d1c
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 23:1 – 25:18<br />\nHaftarah: I Kings 1:1 – 1
+ :31</p>\n<p>http://www.hebcal.com/sedrot/chayeisara?tag=ical</p>
+DTSTART;VALUE=DATE:20161126
+DTEND;VALUE=DATE:20161127
+SEQUENCE:0
+SUMMARY:Parashat Chayei Sara
+URL:http://www.templeisraelnc.org/event/parashat-chayei-sara/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161201-7934267d5cbddf9fb4f6f49f76dd1e6b
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Kislev</p>\n<p>http://www.hebcal.com
+ /holidays/rosh-chodesh-kislev?tag=ical</p>
+DTSTART;VALUE=DATE:20161201
+DTEND;VALUE=DATE:20161202
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Kislev
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-kislev/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161203-966aa395fdb9a0a832645e3dcad1ef09
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 25:19 – 28:9<br />\nHaftarah: Malachi 1:1 – 2
+ :7</p>\n<p>http://www.hebcal.com/sedrot/toldot?tag=ical</p>
+DTSTART;VALUE=DATE:20161203
+DTEND;VALUE=DATE:20161204
+SEQUENCE:0
+SUMMARY:Parashat Toldot
+URL:http://www.templeisraelnc.org/event/parashat-toldot/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161210-1f489837c381bf1af83f24848ab5a907
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 28:10 – 32:3<br />\nHaftarah: Hosea 12:13 – 1
+ 4:10</p>\n<p>http://www.hebcal.com/sedrot/vayetzei?tag=ical</p>
+DTSTART;VALUE=DATE:20161210
+DTEND;VALUE=DATE:20161211
+SEQUENCE:0
+SUMMARY:Parashat Vayetzei
+URL:http://www.templeisraelnc.org/event/parashat-vayetzei/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161217-d33edb110fd7eef31fa0220a0f815537
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 32:4 – 36:43<br />\nHaftarah: Obadiah 1:1 – 1
+ :21</p>\n<p>http://www.hebcal.com/sedrot/vayishlach?tag=ical</p>
+DTSTART;VALUE=DATE:20161217
+DTEND;VALUE=DATE:20161218
+SEQUENCE:0
+SUMMARY:Parashat Vayishlach
+URL:http://www.templeisraelnc.org/event/parashat-vayishlach/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161224-bdae7298ae4a99dede01a740670ebcf8
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Jewish festival of rededication\, also known as the Fest
+ ival of Lights</p>\n<p>http://www.hebcal.com/holidays/chanukah?tag=ical</p
+ >
+DTSTART;VALUE=DATE:20161224
+DTEND;VALUE=DATE:20161225
+SEQUENCE:0
+SUMMARY:Chanukah: 1 Candle
+URL:http://www.templeisraelnc.org/event/chanukah-1-candle/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161224-760b3ee433d09413bb04bc19f425df58
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 37:1 – 40:23<br />\nHaftarah: Amos 2:6 – 3:8<
+ /p>\n<p>http://www.hebcal.com/sedrot/vayeshev?tag=ical</p>
+DTSTART;VALUE=DATE:20161224
+DTEND;VALUE=DATE:20161225
+SEQUENCE:0
+SUMMARY:Parashat Vayeshev
+URL:http://www.templeisraelnc.org/event/parashat-vayeshev/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161225-25d3be25146c6797ce2a013e516ff49b
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Jewish festival of rededication\, also known as the Fest
+ ival of Lights</p>\n<p>http://www.hebcal.com/holidays/chanukah?tag=ical</p
+ >
+DTSTART;VALUE=DATE:20161225
+DTEND;VALUE=DATE:20161226
+SEQUENCE:0
+SUMMARY:Chanukah: 2 Candles
+URL:http://www.templeisraelnc.org/event/chanukah-2-candles/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161226-836ce4e8422bc1fdf1366a07058a699a
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Jewish festival of rededication\, also known as the Fest
+ ival of Lights</p>\n<p>http://www.hebcal.com/holidays/chanukah?tag=ical</p
+ >
+DTSTART;VALUE=DATE:20161226
+DTEND;VALUE=DATE:20161227
+SEQUENCE:0
+SUMMARY:Chanukah: 3 Candles
+URL:http://www.templeisraelnc.org/event/chanukah-3-candles/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161227-4c246853ff47b1112447d3b4486f6148
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Jewish festival of rededication\, also known as the Fest
+ ival of Lights</p>\n<p>http://www.hebcal.com/holidays/chanukah?tag=ical</p
+ >
+DTSTART;VALUE=DATE:20161227
+DTEND;VALUE=DATE:20161228
+SEQUENCE:0
+SUMMARY:Chanukah: 4 Candles
+URL:http://www.templeisraelnc.org/event/chanukah-4-candles/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161228-c699968c641837a5d5913441b15bb2ed
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Jewish festival of rededication\, also known as the Fest
+ ival of Lights</p>\n<p>http://www.hebcal.com/holidays/chanukah?tag=ical</p
+ >
+DTSTART;VALUE=DATE:20161228
+DTEND;VALUE=DATE:20161229
+SEQUENCE:0
+SUMMARY:Chanukah: 5 Candles
+URL:http://www.templeisraelnc.org/event/chanukah-5-candles/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161229-a1041467f3ef44b8bed3ba9fd60f1dbc
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Jewish festival of rededication\, also known as the Fest
+ ival of Lights</p>\n<p>http://www.hebcal.com/holidays/chanukah?tag=ical</p
+ >
+DTSTART;VALUE=DATE:20161229
+DTEND;VALUE=DATE:20161230
+SEQUENCE:0
+SUMMARY:Chanukah: 6 Candles
+URL:http://www.templeisraelnc.org/event/chanukah-6-candles/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161230-356365b3f938628a5e79337131fa41c6
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Jewish festival of rededication\, also known as the Fest
+ ival of Lights</p>\n<p>http://www.hebcal.com/holidays/chanukah?tag=ical</p
+ >
+DTSTART;VALUE=DATE:20161230
+DTEND;VALUE=DATE:20161231
+SEQUENCE:0
+SUMMARY:Chanukah: 7 Candles
+URL:http://www.templeisraelnc.org/event/chanukah-7-candles/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161230-95970ea11b5595cf56fc6ff86a1dc6af
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The new Hebrew month of Tevet</p>\n<p>http://www.hebcal.com/
+ holidays/rosh-chodesh-tevet?tag=ical</p>
+DTSTART;VALUE=DATE:20161230
+DTEND;VALUE=DATE:20161231
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Tevet
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-tevet/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161231-ecaab0c9dd195bcd398f577dceee3743
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The Jewish festival of rededication\, also known as the Fest
+ ival of Lights</p>\n<p>http://www.hebcal.com/holidays/chanukah?tag=ical</p
+ >
+DTSTART;VALUE=DATE:20161231
+DTEND;VALUE=DATE:20170101
+SEQUENCE:0
+SUMMARY:Chanukah: 8 Candles
+URL:http://www.templeisraelnc.org/event/chanukah-8-candles/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161231-949cf87cdc056ec8df7113bf99e9be5f
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Torah: Genesis 41:1 – 44:17<br />\nHaftarah: Zechariah 2:14-
+ 4:7</p>\n<p>http://www.hebcal.com/sedrot/miketz?tag=ical</p>
+DTSTART;VALUE=DATE:20161231
+DTEND;VALUE=DATE:20170101
+SEQUENCE:0
+SUMMARY:Parashat Miketz
+URL:http://www.templeisraelnc.org/event/parashat-miketz/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-212805@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150921T193000
+EXDATE;TZID=America/New_York:20150914T193000
+EXDATE;TZID=America/New_York:20150922T193000
+EXDATE;TZID=America/New_York:20150923T193000
+EXDATE;TZID=America/New_York:20150928T193000
+EXDATE;TZID=America/New_York:20151004T193000
+EXDATE;TZID=America/New_York:20151005T193000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Minyan
+URL:http://www.templeisraelnc.org/event/minyan-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-213189@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join us on Tuesdays for a lively discussion\, with Rabbi Tra
+ cy Klirs\, on the weekly parsha (reading from the Torah portion). Topics h
+ ave included: managing in crisis mode\, wearing “holy clothes\,” preventin
+ g a dark outlook\, entering in a relationship with God\, visiting the sick
+ \, and having a hard heart. Join us for more great conversations to come.<
+ /p>
+DTSTART;TZID=America/New_York:20150922T093000
+DTEND;TZID=America/New_York:20150922T103000
+EXDATE;TZID=America/New_York:20150915T093000
+EXDATE;TZID=America/New_York:20151006T093000
+RRULE:FREQ=WEEKLY;BYDAY=TU;WKST=SU
+SEQUENCE:0
+SUMMARY:Tuesdays with Torah
+URL:http://www.templeisraelnc.org/event/tuesdays-with-torah/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150922-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150922T190300
+DTEND;TZID=America/New_York:20150922T192100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-44/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214654@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>**Seated by 7:15pm. Service begins\, 7:30pm</p>
+DTSTART;TZID=America/New_York:20150922T193000
+SEQUENCE:0
+SUMMARY:Kol Nidre Service
+URL:http://www.templeisraelnc.org/event/kol-nidre-service-3/
+X-COST:various
+X-TICKETS-URL:http://www.templeisraelnc.org/product/high-holy-day-tickets/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214655@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T100000
+SEQUENCE:0
+SUMMARY:Yom Kippur Morning Service
+URL:http://www.templeisraelnc.org/event/yom-kippur-morning-service/
+X-COST:various
+X-TICKETS-URL:http://www.templeisraelnc.org/product/high-holy-day-tickets/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214656@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>*Start/end time is approximate</p>
+DTSTART;TZID=America/New_York:20150923T123000
+DTEND;TZID=America/New_York:20150923T130000
+SEQUENCE:0
+SUMMARY:Sermon
+URL:http://www.templeisraelnc.org/event/sermon-2/
+X-COST:various
+X-TICKETS-URL:http://www.templeisraelnc.org/product/high-holy-day-tickets/
+END:VEVENT
+BEGIN:VEVENT
+UID:teft2lrn8ljrln41er00ue7p88@google.com
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T123000
+DTEND;TZID=America/New_York:20150923T133000
+EXDATE;TZID=America/New_York:20140416T123000
+EXDATE;TZID=America/New_York:20140702T123000
+EXDATE;TZID=America/New_York:20140709T123000
+EXDATE;TZID=America/New_York:20140716T123000
+EXDATE;TZID=America/New_York:20140723T123000
+EXDATE;TZID=America/New_York:20140730T123000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SEQUENCE:0
+SUMMARY:Torah Sparks
+URL:http://www.templeisraelnc.org/event/torah-sparks-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214657@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>*Start time is approximate</p>
+DTSTART;TZID=America/New_York:20150923T130000
+SEQUENCE:0
+SUMMARY:Yizkor
+URL:http://www.templeisraelnc.org/event/yizkor-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214659@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T163000
+LOCATION:Mindy Ellen Levine Chapel
+SEQUENCE:0
+SUMMARY:Restorative Yoga
+URL:http://www.templeisraelnc.org/event/restorative-yoga-4/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214658@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T163000
+LOCATION:Morris & Sylvia Speizman Sanctuary
+SEQUENCE:0
+SUMMARY:Study Session
+URL:http://www.templeisraelnc.org/event/study-session-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214660@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T173000
+LOCATION:Morris & Sylvia Speizman Sanctuary
+SEQUENCE:0
+SUMMARY:Micha Service/Ne’ilah
+URL:http://www.templeisraelnc.org/event/micha-serviceneilah/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150923-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T200200
+DTEND;TZID=America/New_York:20150923T200300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-43/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214661@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150923T201500
+LOCATION:Leon & Sandra Levine Social Hall
+SEQUENCE:0
+SUMMARY:Break Fast
+URL:http://www.templeisraelnc.org/event/break-fast-3/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-212807@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150924T073000
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Minyan
+URL:http://www.templeisraelnc.org/event/minyan-8/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:4oeoh4mmnrn6rubsqc07b9t58s@google.com
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150925T181500
+DTEND;TZID=America/New_York:20150925T191500
+EXDATE;TZID=America/New_York:20140627T181500
+EXDATE;TZID=America/New_York:20140725T181500
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SEQUENCE:0
+SUMMARY:Shabbat Service
+URL:http://www.templeisraelnc.org/event/shabbat-service-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150925-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150925T185900
+DTEND;TZID=America/New_York:20150925T191700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-43/
+END:VEVENT
+BEGIN:VEVENT
+UID:vdhc8mp85hcngtbfn8v1ctuqog@google.com
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T093000
+DTEND;TZID=America/New_York:20150926T103000
+EXDATE;TZID=America/New_York:20140201T093000
+EXDATE;TZID=America/New_York:20140208T093000
+EXDATE;TZID=America/New_York:20140329T093000
+EXDATE;TZID=America/New_York:20140412T093000
+EXDATE;TZID=America/New_York:20140607T093000
+EXDATE;TZID=America/New_York:20140913T093000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SEQUENCE:0
+SUMMARY:Shabbat service
+URL:http://www.templeisraelnc.org/event/shabbat-service-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214825@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.templeisraelnc.org/wp-content/uploads/TI
+ _CMS_AnnClarkFlyer_r1FINAL.jpg'><img class='aligncenter size-large wp-imag
+ e-214949' src='http://www.templeisraelnc.org/wp-content/uploads/TI_CMS_Ann
+ ClarkFlyer_r1FINAL-795x1024.jpg' alt='TI_CMS_AnnClarkFlyer_r1FINAL' width=
+ '795' height='1024' /></a></p>
+DTSTART;TZID=America/New_York:20150926T093000
+DTEND;TZID=America/New_York:20150926T120000
+SEQUENCE:0
+SUMMARY:Shabbat Service\, with Guest Speaker Ann Clark (CMS Superintendent)
+URL:http://www.templeisraelnc.org/event/shabbat-service-with-guest-speaker-
+ ann-clark/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214880@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='shortcode-toggle toggle-torah-tots open default bor
+ der'>\n<div class='toggle-content'>\n<p><strong><span style='text-decorati
+ on: underline\;'>CHECK OUT OUR 2015-2016 SCHEDULE BELOW</span>. </strong><
+ strong><img class='alignright wp-image-211934' src='http://www.templeisrae
+ lnc.org/wp-content/uploads/Purim-2013_running-happy_crop-300x262.jpg' alt=
+ 'Purim 2013_running happy_crop' width='191' height='167' /></strong></p>\n
+ <p><strong>Torah Tots on Friday Evenings\, 5:45-6:45 pm (Mindy Ellen Levin
+ e Chapel)</strong><br />\nCome rock out with Miss Patty and Rabbi Noam as 
+ we welcome in Shabbat with your favorite songs\, prayers\, candle-lighting
+ \, dancing and a healthy Kid-dush snack!</p>\n<p><strong>2015/2016 Dates:<
+ /strong><br />\nFriday\, <strong>September  11</strong>\, 5:45 pm – <stron
+ g>Creation of the World</strong><br />\nFriday\, <strong>October 9</strong
+ >\, 5:45 pm – <strong>Simchat Torah Special</strong><br />\nFriday\, <stro
+ ng>November 13</strong>\, 5:45 pm – <strong>Rosh Chodesh Special</strong> 
+ (New Moon celebration)<br />\nFriday\, <strong>December 11</strong>\, 5:45
+ pm – <strong>Hanukkah Special</strong><br />\nFriday\, <strong>January 8</
+ strong>\, 5:45 pm<br />\nFriday\, <strong>February 12</strong>\, 5:45 pm<b
+ r />\nFriday\, <strong>March 11</strong>\, 5:45 pm<br />\nFriday\, <strong
+ >April 8</strong>\, 5:45 pm<br />\nFriday\, <strong>May 13</strong>\, 5:45
+  pm –<strong> Israel</strong><strong> Special<br />\n</strong>Friday\, <st
+ rong>June 10</strong>\, 5:45 pm – <strong>Shavuot Special</strong></p>\n<d
+ iv class='woo-sc-hr'></div>\n<p><strong>Torah Tots on Saturday Mornings\, 
+ 10:00-11:30 am (Mindy Ellen Levine Chapel)</strong></p>\n<p>Join us for fu
+ n Shabbat songs\, a Torah parade and a story – followed by a yummy Kid-dus
+ h snack and hands-on creative activities!</p>\n<p><strong>2015/2016 Dates:
+ </strong></p>\n<p>Saturday\, <strong>September 26</strong>\, 10 am – Sukko
+ t Special<br />\nSaturday\, <strong>October 24</strong>\, 10 am – <strong>
+ 120th Anniversary Special</strong><br />\nSaturday\, <strong>November 21</
+ strong>\, 10 am – <strong>Thanksgiving Special</strong><br />\nSaturday\, 
+ <strong>December 19</strong>\, 10 am<br />\nSaturday\, <strong>January  23
+ </strong>\, <strong>2015</strong> 10 am – <strong>Tu Bishvat Special</stro
+ ng><br />\nSaturday\, <strong>February 27</strong>\, 10 am<br />\nSaturday
+ \, <strong>March 26</strong>\, 10 am — <strong>Purim Special</strong><br /
+ >\nSaturday\, <strong>April 23</strong>\, 10 am –<strong> Passover Special
+ </strong><br />\nSaturday\, <strong>May 21</strong>\, 10am –<strong>120th 
+ Anniversary Special</strong></p>\n<p> </p>\n</div>\n</div>\n<p> </p>
+DTSTART;TZID=America/New_York:20150926T100000
+RDATE;TZID=America/New_York:20151023T100000
+RDATE;TZID=America/New_York:20151120T100000
+RDATE;TZID=America/New_York:20151218T100000
+RDATE;TZID=America/New_York:20160122T100000
+RDATE;TZID=America/New_York:20160226T100000
+RDATE;TZID=America/New_York:20160325T100000
+RDATE;TZID=America/New_York:20160422T100000
+RDATE;TZID=America/New_York:20160521T100000
+SEQUENCE:0
+SUMMARY:Torah Tots
+URL:http://www.templeisraelnc.org/event/torah-tots-41/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-212806@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T173000
+EXDATE;TZID=America/New_York:20150726T173000
+EXDATE;TZID=America/New_York:20150913T173000
+EXDATE;TZID=America/New_York:20150927T173000
+RRULE:FREQ=WEEKLY;BYDAY=SU,SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Minyan
+URL:http://www.templeisraelnc.org/event/minyan-4/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150926-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150926T195700
+DTEND;TZID=America/New_York:20150926T195800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-42/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214561@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T090000
+EXDATE;TZID=America/New_York:20150726T090000
+EXDATE;TZID=America/New_York:20150914T090000
+EXDATE;TZID=America/New_York:20150915T090000
+EXDATE;TZID=America/New_York:20150923T090000
+EXDATE;TZID=America/New_York:20150928T090000
+EXDATE;TZID=America/New_York:20151004T090000
+EXDATE;TZID=America/New_York:20151006T090000
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Minyan
+URL:http://www.templeisraelnc.org/event/minyan-27/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214692@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:Rabbi Noam Raucher\; 7043622796\; rabbiraucher@templeisraelnc.org
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T091500
+DTEND;TZID=America/New_York:20150927T121500
+RDATE;TZID=America/New_York:20150927T091500
+RDATE;TZID=America/New_York:20151004T091500
+RDATE;TZID=America/New_York:20151011T091500
+RDATE;TZID=America/New_York:20151018T091500
+RDATE;TZID=America/New_York:20151025T091500
+RDATE;TZID=America/New_York:20151101T091500
+RDATE;TZID=America/New_York:20151108T091500
+RDATE;TZID=America/New_York:20151115T091500
+RDATE;TZID=America/New_York:20151122T091500
+RDATE;TZID=America/New_York:20151206T091500
+RDATE;TZID=America/New_York:20151213T091500
+RDATE;TZID=America/New_York:20160110T091500
+RDATE;TZID=America/New_York:20160124T091500
+RDATE;TZID=America/New_York:20160131T091500
+RDATE;TZID=America/New_York:20160207T091500
+RDATE;TZID=America/New_York:20160221T091500
+RDATE;TZID=America/New_York:20160228T091500
+RDATE;TZID=America/New_York:20160306T091500
+RDATE;TZID=America/New_York:20160313T091500
+RDATE;TZID=America/New_York:20160320T091500
+RDATE;TZID=America/New_York:20160403T091500
+RDATE;TZID=America/New_York:20160410T091500
+RDATE;TZID=America/New_York:20160417T091500
+RDATE;TZID=America/New_York:20160501T091500
+RDATE;TZID=America/New_York:20160515T091500
+RDATE;TZID=America/New_York:20160522T091500
+SEQUENCE:0
+SUMMARY:Temple Israel Religious School
+URL:http://www.templeisraelnc.org/event/temple-israel-religious-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214912@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: center\;'><span style='color: #ff0000\;'>
+ <strong><a style='color: #ff0000\;' href='http://www.templeisraelnc.org/pr
+ oduct/salsa-in-the-sukkah-dinner/'>TO RSVP via PayPal\, CLICK HERE</a></st
+ rong></span></p>\n<p style='text-align: center\;'><strong><em>*payments fo
+ r dinner via PayPal\, credit card or check only</em></strong></p>\n<p><a h
+ ref='http://www.templeisraelnc.org/wp-content/uploads/TI_SalsaSukkoh15_fly
+ er_r4FINAL.jpg'><img class='aligncenter size-large wp-image-214923' src='h
+ ttp://www.templeisraelnc.org/wp-content/uploads/TI_SalsaSukkoh15_flyer_r4F
+ INAL-820x1024.jpg' alt='TI_SalsaSukkoh15_flyer_r4FINAL' width='820' height
+ ='1024' /></a></p>
+DTSTART;TZID=America/New_York:20150927T173000
+SEQUENCE:0
+SUMMARY:Salsa In The Sukkah
+URL:http://www.templeisraelnc.org/event/salsa-in-the-sukkah/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214662@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T181500
+SEQUENCE:0
+SUMMARY:Erev Sukkot Service
+URL:http://www.templeisraelnc.org/event/erev-sukkot-service/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150927-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T185600
+DTEND;TZID=America/New_York:20150927T191400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-42/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214663@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150928T093000
+SEQUENCE:0
+SUMMARY:Sukkot Morning Service
+URL:http://www.templeisraelnc.org/event/sukkot-morning-service/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214664@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150928T181500
+SEQUENCE:0
+SUMMARY:Sukkot Evening Service
+URL:http://www.templeisraelnc.org/event/sukkot-evening-service/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214665@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150929T093000
+SEQUENCE:0
+SUMMARY:Sukkot Morning Service
+URL:http://www.templeisraelnc.org/event/sukkot-morning-service-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20150929-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150929T195300
+DTEND;TZID=America/New_York:20150929T195400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-41/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214970@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.templeisraelnc.org/wp-content/uploads/Ci
+ gars-Scotch-and-Sukkah-invite2.jpg'><img class='aligncenter size-large wp-
+ image-214971' src='http://www.templeisraelnc.org/wp-content/uploads/Cigars
+ -Scotch-and-Sukkah-invite2-792x1024.jpg' alt='Microsoft Word - Cigars Scot
+ ch and Sukkah invite.docx' width='792' height='1024' /></a></p>
+DTSTART;TZID=America/New_York:20150930T193000
+LOCATION:Temple Israel\, in the Sukkah
+SEQUENCE:0
+SUMMARY:Men’s Club: SCOTCH & CIGARS in the SUKKAH
+URL:http://www.templeisraelnc.org/event/mens-club-scotch-cigars-in-the-sukk
+ ah/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214771@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.templeisraelnc.org/wp-content/uploads/TI
+ SC-Sukkah-Dinner-2015.jpg'><img class='aligncenter size-large wp-image-214
+ 940' src='http://www.templeisraelnc.org/wp-content/uploads/TISC-Sukkah-Din
+ ner-2015-791x1024.jpg' alt='TISC Sukkah Dinner 2015' width='791' height='1
+ 024' /></a></p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151001T180000
+SEQUENCE:0
+SUMMARY:Social Club: Adult-Only Dinner in the Sukkah
+URL:http://www.templeisraelnc.org/event/social-club-adult-only-dinner-in-th
+ e-sukkah/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151002-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151002T184900
+DTEND;TZID=America/New_York:20151002T190700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-41/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214914@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: center\;'><span style='color: #ff0000\;'>
+ <strong><a style='color: #ff0000\;' href='http://www.templeisraelnc.org/pr
+ oduct/shabbat-dinner/'>TO RSVP via PayPal\, CLICK HERE</a></strong></span>
+ </p>\n<p style='text-align: center\;'><strong><em>*payments for dinner via
+  PayPal\, credit card or check only</em></strong></p>\n<p><a href='http://
+ www.templeisraelnc.org/wp-content/uploads/TI_SouthernFriedShabbatFlyer_r3F
+ INAL.jpg'><img class='aligncenter size-large wp-image-214930' src='http://
+ www.templeisraelnc.org/wp-content/uploads/TI_SouthernFriedShabbatFlyer_r3F
+ INAL-807x1024.jpg' alt='TI_SouthernFriedShabbatFlyer_r3FINAL' width='807' 
+ height='1024' /></a></p>\n<p> </p>
+DTSTART;TZID=America/New_York:20151002T191500
+SEQUENCE:0
+SUMMARY:Southern Fried Shabbat
+URL:http://www.templeisraelnc.org/event/southern-fried-shabbat/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151003-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151003T194800
+DTEND;TZID=America/New_York:20151003T194900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-40/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214666@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151004T093000
+SEQUENCE:0
+SUMMARY:Hoshana Rabbah Morning Service
+URL:http://www.templeisraelnc.org/event/hoshana-rabbah-morning-service/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214953@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.templeisraelnc.org/wp-content/uploads/TI
+ _LLParentClassFlyer2015_r3FINAL.jpg'><img class='aligncenter size-large wp
+ -image-214954' src='http://www.templeisraelnc.org/wp-content/uploads/TI_LL
+ ParentClassFlyer2015_r3FINAL-791x1024.jpg' alt='TI_LLParentClassFlyer2015_
+ r3FINAL' width='791' height='1024' /></a></p>
+DTSTART;TZID=America/New_York:20151004T103000
+DTEND;TZID=America/New_York:20151004T120000
+SEQUENCE:0
+SUMMARY:Today’s Jewish Parent
+URL:http://www.templeisraelnc.org/event/todays-jewish-parent/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214667@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151004T173000
+LOCATION:Mindy Ellen Levine Chapel
+SEQUENCE:0
+SUMMARY:Erev Shemini Atzeret Service
+URL:http://www.templeisraelnc.org/event/erev-shemini-atzeret-service/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151004-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151004T184600
+DTEND;TZID=America/New_York:20151004T190400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-40/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214668@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151005T093000
+LOCATION:Morris & Sylvia Speizman Sanctuary
+SEQUENCE:0
+SUMMARY:Shemini Atzeret Service
+URL:http://www.templeisraelnc.org/event/shemini-atzeret-service/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214670@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p style='text-align: center\;'><span style='color: #ff0000\;'>
+ <strong><a style='color: #ff0000\;' href='http://www.templeisraelnc.org/pr
+ oduct/simchat-torah-hotdog-dinner/'>TO RSVP via PayPal\, click here</a></s
+ trong></span></p>\n<p style='text-align: center\;'><strong><em>*payments f
+ or dinner via PayPal\, credit card or check only</em></strong></p>\n<p><a 
+ href='http://www.templeisraelnc.org/wp-content/uploads/TI_DrumStrong2015fl
+ yer_w120.jpg'><img class='aligncenter size-large wp-image-214933' src='htt
+ p://www.templeisraelnc.org/wp-content/uploads/TI_DrumStrong2015flyer_w120-
+ 811x1024.jpg' alt='TI_DrumStrong2015flyer_w120' width='811' height='1024' 
+ /></a></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p
+ > </p>
+DTSTART;TZID=America/New_York:20151005T181500
+LOCATION:Morris & Sylvia Speizman Sanctuary
+SEQUENCE:0
+SUMMARY:Erev Simchat Torah
+URL:http://www.templeisraelnc.org/event/erev-simchat-torah/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214671@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151006T093000
+SEQUENCE:0
+SUMMARY:Simchat Torah Morning Service
+URL:http://www.templeisraelnc.org/event/simchat-torah-morning-service/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151006-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151006T194300
+DTEND;TZID=America/New_York:20151006T194400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-39/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214878@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><strong>CHECK OUT OUR 2015-2016 SCHEDULE BELOW. </strong><st
+ rong><img class='alignright wp-image-211934' src='http://4f0qhz22bbe6bm0i6
+ 55z4lj3.wpengine.netdna-cdn.com/wp-content/uploads/Purim-2013_running-happ
+ y_crop-300x262.jpg' alt='Purim 2013_running happy_crop' width='191' height
+ ='167' /></strong></p>\n<p><strong>Torah Tots on Friday Evenings\, 5:45-6:
+ 45 pm (Mindy Ellen Levine Chapel)</strong><br />\nCome rock out with Miss 
+ Patty and Rabbi Noam as we welcome in Shabbat with your favorite songs\, p
+ rayers\, candle-lighting\, dancing and a healthy Kid-dush snack!</p>\n<p><
+ strong>2015/2016 Dates:</strong><br />\nFriday\, <strong>September  11</st
+ rong>\, 5:45 pm – <strong>Creation of the World</strong><br />\nFriday\, <
+ strong>October 9</strong>\, 5:45 pm – <strong>Simchat Torah Special</stron
+ g><br />\nFriday\, <strong>November 13</strong>\, 5:45 pm – <strong>Rosh C
+ hodesh Special</strong> (New Moon celebration)<br />\nFriday\, <strong>Dec
+ ember 11</strong>\, 5:45pm – <strong>Hanukkah Special</strong><br />\nFrid
+ ay\, <strong>January 8</strong>\, 5:45 pm<br />\nFriday\, <strong>February
+  12</strong>\, 5:45 pm<br />\nFriday\, <strong>March 11</strong>\, 5:45 pm
+ <br />\nFriday\, <strong>April 8</strong>\, 5:45 pm<br />\nFriday\, <stron
+ g>May 13</strong>\, 5:45 pm –<strong> Israel</strong><strong> Special</str
+ ong></p>\n<div class='woo-sc-hr'></div>\n<p><strong>Torah Tots on Saturday
+  Mornings\, 10:00-11:30 am (Mindy Ellen Levine Chapel)</strong></p>\n<p>Jo
+ in us for fun Shabbat songs\, a Torah parade and a story – followed by a y
+ ummy Kid-dush snack and hands-on creative activities!</p>\n<p><strong>2015
+ /2016 Dates:</strong></p>\n<p>Saturday\, <strong>September 26</strong>\, 1
+ 0 am – Sukkot Special<br />\nSaturday\, <strong>October 24</strong>\, 10 a
+ m – <strong>120th Anniversary Special</strong><br />\nSaturday\, <strong>N
+ ovember 28</strong>\, 10 am – <strong>Thanksgiving Special</strong><br />
+ \nSaturday\, <strong>December 19</strong>\, 10 am<br />\nSaturday\, <stron
+ g>January  23</strong>\, <strong>2015</strong> 10 am – <strong>Tu Bishvat 
+ Special</strong><br />\nSaturday\, <strong>February 27</strong>\, 10 am<br
+  />\nSaturday\, <strong>March 26</strong>\, 10 am — <strong>Purim Special<
+ /strong><br />\nSaturday\, <strong>April 23</strong>\, 10 am –<strong> Pas
+ sover Special</strong><br />\nSaturday\, <strong>May 21</strong>\, 10am –<
+ strong>120th Anniversary Special<br />\n</strong>Saturday\,<strong> June 1
+ 0</strong>\, 10 am –<strong> Shavuot Special</strong></p>
+DTSTART;TZID=America/New_York:20151009T174500
+RDATE;TZID=America/New_York:20151009T174500
+RDATE;TZID=America/New_York:20151113T174500
+RDATE;TZID=America/New_York:20151211T174500
+RDATE;TZID=America/New_York:20160108T174500
+RDATE;TZID=America/New_York:20160212T174500
+RDATE;TZID=America/New_York:20160311T174500
+RDATE;TZID=America/New_York:20160408T174500
+RDATE;TZID=America/New_York:20160513T174500
+SEQUENCE:0
+SUMMARY:Torah Tots
+URL:http://www.templeisraelnc.org/event/torah-tots-27/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151009-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151009T183900
+DTEND;TZID=America/New_York:20151009T185700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-39/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151010-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151010T193800
+DTEND;TZID=America/New_York:20151010T193900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-38/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214955@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.templeisraelnc.org/wp-content/uploads/TI
+ _LLParentClassFlyer2015_r3FINAL.jpg'><img class='aligncenter size-large wp
+ -image-214954' src='http://www.templeisraelnc.org/wp-content/uploads/TI_LL
+ ParentClassFlyer2015_r3FINAL-791x1024.jpg' alt='TI_LLParentClassFlyer2015_
+ r3FINAL' width='791' height='1024' /></a></p>
+DTSTART;TZID=America/New_York:20151011T093000
+DTEND;TZID=America/New_York:20151011T110000
+RDATE;TZID=America/New_York:20151018T093000
+RDATE;TZID=America/New_York:20151025T093000
+SEQUENCE:0
+SUMMARY:Today’s Jewish Parent
+URL:http://www.templeisraelnc.org/event/todays-jewish-parent-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151016-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151016T183000
+DTEND;TZID=America/New_York:20151016T184800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-38/
+END:VEVENT
+BEGIN:VEVENT
+UID:13k43jfg11k76g4dkqj6r9l3no@google.com
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151017T100000
+DTEND;TZID=America/New_York:20151017T110000
+EXDATE;TZID=America/New_York:20140315T100000
+EXDATE;TZID=America/New_York:20140419T100000
+EXDATE;TZID=America/New_York:20140621T100000
+EXDATE;TZID=America/New_York:20140719T100000
+EXDATE;TZID=America/New_York:20140816T100000
+LOCATION:Bride/Music Room
+RRULE:FREQ=MONTHLY;BYDAY=3SA
+SEQUENCE:0
+SUMMARY:Kavanah
+URL:http://www.templeisraelnc.org/event/kavanah/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-213207@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151017T130000
+LOCATION:TI Boardroom
+RDATE;TZID=America/New_York:20151114T130000
+RDATE;TZID=America/New_York:20151219T130000
+RDATE;TZID=America/New_York:20160116T130000
+RDATE;TZID=America/New_York:20160213T130000
+RDATE;TZID=America/New_York:20160312T130000
+RDATE;TZID=America/New_York:20160409T130000
+RDATE;TZID=America/New_York:20160514T130000
+RDATE;TZID=America/New_York:20160611T130000
+SEQUENCE:0
+SUMMARY:Rosh Chodesh Study Group
+URL:http://www.templeisraelnc.org/event/rosh-chodesh-study-group/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151017-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151017T192900
+DTEND;TZID=America/New_York:20151017T193000
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-37/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214694@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Please join us for a lively program featuring the music of V
+ iva Klezmer\, as a thank you to our wonderful members in appreciation for 
+ the strong support given to Temple Israel Sisterhood and Torah Fund.</p>
+DTSTART;TZID=America/New_York:20151018T123000
+DTEND;TZID=America/New_York:20151018T150000
+LOCATION:Leon & Sandra Levine Social Hall
+SEQUENCE:0
+SUMMARY:Sisterhood: Membership & Torah Fund Luncheon
+URL:http://www.templeisraelnc.org/event/214694/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151023-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151023T182100
+DTEND;TZID=America/New_York:20151023T183900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-37/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-213208@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151024T173000
+SEQUENCE:0
+SUMMARY:120th Anniversary Kickoff Celebration
+URL:http://www.templeisraelnc.org/event/120th-anniversary-kickoff-celebrati
+ on/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151024-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151024T192000
+DTEND;TZID=America/New_York:20151024T192100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-36/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151030-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151030T181400
+DTEND;TZID=America/New_York:20151030T183200
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-36/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151031-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151031T191300
+DTEND;TZID=America/New_York:20151031T191400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-35/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214684@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151101T160000
+DTEND;TZID=America/New_York:20151101T170000
+RDATE;TZID=America/New_York:20160207T160000
+RDATE;TZID=America/New_York:20160403T160000
+SEQUENCE:0
+SUMMARY:Cantor & Friends
+URL:http://www.templeisraelnc.org/event/cantor-friends-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151106-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151106T170700
+DTEND;TZID=America/New_York:20151106T172500
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-35/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151107-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151107T180600
+DTEND;TZID=America/New_York:20151107T180700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-34/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214772@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Join the TI Social Club’s outing to see “<strong>Bad Jews</s
+ trong>\,” a comedy at Actor’s Theatre of Charlotte. Dinner at a local rest
+ aurant will follow the performance.</p>
+DTSTART;TZID=America/New_York:20151108T140000
+SEQUENCE:0
+SUMMARY:Social Club: Actor’s Theatre of Charlotte
+URL:http://www.templeisraelnc.org/event/social-club-actors-theatre-of-charl
+ otte/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151113-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151113T170100
+DTEND;TZID=America/New_York:20151113T171900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-34/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151114-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151114T180100
+DTEND;TZID=America/New_York:20151114T180200
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-33/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214873@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.templeisraelnc.org/wp-content/uploads/GD
+ JL.jpg'><img class='aligncenter size-large wp-image-214874' src='http://ww
+ w.templeisraelnc.org/wp-content/uploads/GDJL-805x1024.jpg' alt='GDJL.pdf' 
+ width='805' height='1024' /></a></p>
+DTSTART;TZID=America/New_York:20151115T083000
+DTEND;TZID=America/New_York:20151115T143000
+LOCATION:Shalom Park
+SEQUENCE:0
+SUMMARY:Global Day of Jewish Learning
+URL:http://www.templeisraelnc.org/event/global-day-of-jewish-learning/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151120-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151120T165700
+DTEND;TZID=America/New_York:20151120T171500
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-33/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20151121-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151121T175700
+DTEND;TZID=America/New_York:20151121T175800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-32/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214927@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.templeisraelnc.org/wp-content/uploads/Bu
+ yIsraeli_Raffle2015.jpg'><img class='aligncenter size-large wp-image-21492
+ 8' src='http://www.templeisraelnc.org/wp-content/uploads/BuyIsraeli_Raffle
+ 2015-819x1024.jpg' alt='BuyIsraeli_Raffle2015' width='819' height='1024' /
+ ></a></p>
+DTSTART;TZID=America/New_York:20151122T100000
+DTEND;TZID=America/New_York:20151122T140000
+SEQUENCE:0
+SUMMARY:Hadassah presents: Israeli Products Fair
+URL:http://www.templeisraelnc.org/event/hadassah-presents-israeli-products-
+ fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214695@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151206T123000
+DTEND;TZID=America/New_York:20151206T150000
+LOCATION:Leon & Sandra Levine Social Hall
+SEQUENCE:0
+SUMMARY:Sisterhood: Hanukkah Party
+URL:http://www.templeisraelnc.org/event/sisterhood-hanukkah-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214773@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151213T123000
+LOCATION:Leon & Sandra Levine Social Club
+SEQUENCE:0
+SUMMARY:Social Club: Annual Hanukkah Luncheon & Program
+URL:http://www.templeisraelnc.org/event/social-club-annual-hanukkah-luncheo
+ n-program/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-213209@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160117T100000
+DTEND;TZID=America/New_York:20160117T130000
+SEQUENCE:0
+SUMMARY:YOM GEMILUT HASADIM
+URL:http://www.templeisraelnc.org/event/yom-gemilut-hasadim/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-213210@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://www.templeisraelnc.org/wp-content/uploads/Ro
+ omInnLogo.jpg'><img class='alignleft wp-image-211496 ' src='http://www.tem
+ pleisraelnc.org/wp-content/uploads/RoomInnLogo-300x247.jpg' alt='RoomInnLo
+ go' width='236' height='194' /></a></p>
+DTSTART;TZID=America/New_York:20160123T173000
+DTEND;TZID=America/New_York:20160124T073000
+RDATE;TZID=America/New_York:20160130T173000
+RDATE;TZID=America/New_York:20160206T173000
+SEQUENCE:0
+SUMMARY:ROOM IN THE INN
+URL:http://www.templeisraelnc.org/event/room-in-the-inn-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214774@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160131T123000
+LOCATION:Leon & Sandra Levine Social Hall
+SEQUENCE:0
+SUMMARY:Social Club: Paid-Up Membership Luncheon & Program
+URL:http://www.templeisraelnc.org/event/social-club-paid-up-membership-lunc
+ heon-program/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214703@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160220T093000
+SEQUENCE:0
+SUMMARY:Sisterhood Shabbat Services
+URL:http://www.templeisraelnc.org/event/sisterhood-shabbat-2/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214704@www.templeisraelnc.org
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160306T090000
+SEQUENCE:0
+SUMMARY:Sisterhood: Hamantashen Baking
+URL:http://www.templeisraelnc.org/event/sisterhood-hamantashen-baking/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160311-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160311T181000
+DTEND;TZID=America/New_York:20160311T182800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-32/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160312-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160312T191100
+DTEND;TZID=America/New_York:20160312T191200
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-31/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160318-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160318T191600
+DTEND;TZID=America/New_York:20160318T193400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-31/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160319-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160319T201700
+DTEND;TZID=America/New_York:20160319T201800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160325-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160325T192100
+DTEND;TZID=America/New_York:20160325T193900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160326-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224746Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160326T202200
+DTEND;TZID=America/New_York:20160326T202300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160401-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160401T192700
+DTEND;TZID=America/New_York:20160401T194500
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160402-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160402T202800
+DTEND;TZID=America/New_York:20160402T202900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160408-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160408T193300
+DTEND;TZID=America/New_York:20160408T195100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160409-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160409T203300
+DTEND;TZID=America/New_York:20160409T203400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160415-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160415T193800
+DTEND;TZID=America/New_York:20160415T195600
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160416-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160416T203900
+DTEND;TZID=America/New_York:20160416T204000
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160422-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160422T194400
+DTEND;TZID=America/New_York:20160422T200200
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160423-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160423T204500
+DTEND;TZID=America/New_York:20160423T204600
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160424-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160424T204500
+DTEND;TZID=America/New_York:20160424T204600
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160428-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160428T194900
+DTEND;TZID=America/New_York:20160428T200700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160429-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160429T195000
+DTEND;TZID=America/New_York:20160429T200800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160430-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160430T205000
+DTEND;TZID=America/New_York:20160430T205100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160506-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160506T195500
+DTEND;TZID=America/New_York:20160506T201300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160507-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160507T205600
+DTEND;TZID=America/New_York:20160507T205700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-22/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160513-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160513T200100
+DTEND;TZID=America/New_York:20160513T201900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-22/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160514-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160514T210200
+DTEND;TZID=America/New_York:20160514T210300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160520-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160520T200600
+DTEND;TZID=America/New_York:20160520T202400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160521-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160521T210700
+DTEND;TZID=America/New_York:20160521T210800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160527-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160527T201100
+DTEND;TZID=America/New_York:20160527T202900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160528-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160528T211200
+DTEND;TZID=America/New_York:20160528T211300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160603-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160603T201600
+DTEND;TZID=America/New_York:20160603T203400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160604-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160604T211600
+DTEND;TZID=America/New_York:20160604T211700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-214696@www.templeisraelnc.org
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160605T110000
+DTEND;TZID=America/New_York:20160605T130000
+LOCATION:Leon & Sandra Levine Social Hall
+SEQUENCE:0
+SUMMARY:Sisterhood: Closing Brunch
+URL:http://www.templeisraelnc.org/event/sisterhood-closing-brunch-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160610-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160610T201900
+DTEND;TZID=America/New_York:20160610T203700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160613-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160613T212100
+DTEND;TZID=America/New_York:20160613T212200
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160617-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160617T202200
+DTEND;TZID=America/New_York:20160617T204000
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160618-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160618T212200
+DTEND;TZID=America/New_York:20160618T212300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20160624-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20160624T202300
+DTEND;TZID=America/New_York:20160624T204100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161011-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161011T183500
+DTEND;TZID=America/New_York:20161011T185300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161012-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161012T193400
+DTEND;TZID=America/New_York:20161012T193500
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161014-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161014T183100
+DTEND;TZID=America/New_York:20161014T184900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161015-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161015T193000
+DTEND;TZID=America/New_York:20161015T193100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161016-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161016T182900
+DTEND;TZID=America/New_York:20161016T184700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161018-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161018T192600
+DTEND;TZID=America/New_York:20161018T192700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161021-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161021T182300
+DTEND;TZID=America/New_York:20161021T184100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161022-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161022T192100
+DTEND;TZID=America/New_York:20161022T192200
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161023-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161023T182000
+DTEND;TZID=America/New_York:20161023T183800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161025-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161025T191800
+DTEND;TZID=America/New_York:20161025T191900
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161028-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161028T181500
+DTEND;TZID=America/New_York:20161028T183300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161029-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161029T191400
+DTEND;TZID=America/New_York:20161029T191500
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161104-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161104T180800
+DTEND;TZID=America/New_York:20161104T182600
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161105-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161105T190700
+DTEND;TZID=America/New_York:20161105T190800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161111-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161111T170200
+DTEND;TZID=America/New_York:20161111T172000
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161112-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161112T180100
+DTEND;TZID=America/New_York:20161112T180200
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161118-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161118T165800
+DTEND;TZID=America/New_York:20161118T171600
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161119-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161119T175700
+DTEND;TZID=America/New_York:20161119T175800
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161125-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161125T165500
+DTEND;TZID=America/New_York:20161125T171300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161126-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161126T175400
+DTEND;TZID=America/New_York:20161126T175500
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161202-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161202T165300
+DTEND;TZID=America/New_York:20161202T171100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161203-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161203T175300
+DTEND;TZID=America/New_York:20161203T175400
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161209-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161209T165300
+DTEND;TZID=America/New_York:20161209T171100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161210-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161210T175400
+DTEND;TZID=America/New_York:20161210T175500
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161216-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161216T165500
+DTEND;TZID=America/New_York:20161216T171300
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161217-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161217T175600
+DTEND;TZID=America/New_York:20161217T175700
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161223-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161223T165800
+DTEND;TZID=America/New_York:20161223T171600
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161224-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161224T175900
+DTEND;TZID=America/New_York:20161224T180000
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-42-min-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161230-cac1aa4933d054b960677b3a4a2254b3-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161230T170300
+DTEND;TZID=America/New_York:20161230T172100
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Candle lighting
+URL:http://www.templeisraelnc.org/event/candle-lighting/
+END:VEVENT
+BEGIN:VEVENT
+UID:hebcal-20161231-2515cbb2ddf445798634cc45b9113551-28226
+DTSTAMP:20150921T224747Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20161231T180400
+DTEND;TZID=America/New_York:20161231T180500
+LOCATION:Charlotte
+SEQUENCE:0
+SUMMARY:Havdalah (42 min)
+URL:http://www.templeisraelnc.org/event/havdalah-50-min/
+END:VEVENT
+END:VCALENDAR

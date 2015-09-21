@@ -22,18 +22,4 @@ RDATE:20160327T010000
 TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:ai1ec-153@www.bagoaz.eus
-DTSTAMP:20150920T002158Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://www.bagoaz.eus/wp-content/uploads/2015/08/ATELIERS-01-300x212.jpg' widt
- h='300' height='212' /></div>
-DTSTART;TZID=Europe/London:20150919T083000
-DTEND;TZID=Europe/London:20150919T123000
-SEQUENCE:0
-SUMMARY:Atelier Citoyen | Jardunaldiak
-URL:http://www.bagoaz.eus/event/atelier-citoyen/
-END:VEVENT
 END:VCALENDAR

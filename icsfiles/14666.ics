@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//46.30.212.18//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.leckereinfach.de
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-257@www.leckereinfach.de
+DTSTAMP:20150921T224641Z
+CATEGORIES;LANGUAGE=de-DE:Food Event
+CONTACT:http://www.boui-boui-bilk.de/info#veranstaltungen
+DESCRIPTION:<h1 class='hv1'>GOODFOOD FESTIVAL</h1>\n<h1 id='u33084-9' class
+ ='sv1'>03. – 04. OKTOBER 2015</h1>\n<p class='body'>Hinter dem Good Food F
+ estival verbirgt sich ein Wochenende voller Geschmack\, Genuss und kulinar
+ ischer Entdeckungen aus der Region. Unter dem Motto „Entdecken. Schmecken.
+  Selbermachen“ findet es zum zweiten Mal am 03. und 04. Oktober 2015 im Bo
+ ui Boui Bilk in Düsseldorf statt.<br />\nUnd das Motto ist Programm! Entde
+ ckt alte Gemüsesorten aus dem Rheinland\, schmeckt euch durch frühlingshaf
+ te Pestos und ein Streetfood-Angebot oder lernt Wildkräuter zu erkennen un
+ d Pralinen selber herzustellen.<br />\nUnd auch an Familien und Kinder ist
+  gedacht. Es wird unterschiedliche Mit-Mach-Angebote für Kinder geben.</p>
+ \n<p>Sa 11:00–22:00 Uhr // So 11:00–20:00 Uhr<br />\nEintritt: 3 Euro</p>
+ \n<p class='body'><a href='http://www.leckereinfach.de/wp-content/uploads/
+ 2015/05/good-food.jpg'><img class='alignright wp-image-113 size-full' src=
+ 'http://www.leckereinfach.de/wp-content/uploads/2015/05/good-food-e1434481
+ 952971.jpg' alt='good food' width='239' height='210' /></a></p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151005
+GEO:+51.203307;+6.774434
+LOCATION:Düsseldorf-Bilk @ Suitbertusstraße 149\, 40223 Düsseldorf\, Deutsc
+ hland
+RRULE:FREQ=DAILY;COUNT=1
+SEQUENCE:0
+SUMMARY:GOOD FOOD FESTIVAL
+URL:http://www.leckereinfach.de/?ai1ec_event=good-food-festival-2
+X-TAGS;LANGUAGE=de-DE:Festivals
+X-COST:3\,00 EUR pro Person
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-281@www.leckereinfach.de
+DTSTAMP:20150921T224641Z
+CATEGORIES;LANGUAGE=de-DE:Kochtreff\,Live Cooking
+CONTACT:Rainer E. Becker\; 0151 70071965\; hallo@leckereinfach.de
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://www.leckereinfach.de/wp-content/uploads/2015/01/kochtreff-termine-300x7
+ 4.jpg' width='300' height='74' /></div><div class='subnav row'>\n<div clas
+ s='col-sm-8'>\n<h3 style='text-align: justify\;'>Wer eins der leistungsfäh
+ igsten Küchengeräte der Welt besitzt\, möchte die vielen Möglichkeiten\, d
+ ie es bietet\, natürlich optimal nutzen. Aus diesem Grund bieten wir spezi
+ elle Thermomix Kochkurse an.</h3>\n</div>\n</div>\n<div class='row'>\n<h3 
+ class='col-md-4' style='text-align: justify\;'></h3>\n<div class='col-md-8
+ '>\n<div class='txt-comp'>\n<hr />\n<h3>ZUSCHAUEN\, PROBIEREN\, MEHR ERFAH
+ REN</h3>\n<p>In unserem Basis-Kochkurs erhalten Sie clevere und leckere Id
+ een für die Thermomix Küche. Neben Rezepten für jeden Tag bekommen Sie spe
+ zielle Tipps & Tricks für Einsteiger.</p>\n<p>Den Abschluss eines erlebnis
+ reichen Abends bildet immer ein gemeinsames Essen der zubereiteten Köstlic
+ hkeiten.</p>\n<p>Die Teilnahme ist kostenlos. Gerne können Sie einen Genie
+ ßer mitbringen\, der den Thermomix live erleben möchte.</p>\n<p><strong>Be
+ i Interesse wenden Sie sich bitte an mich\, da eine Teilnahme nur nach vor
+ heriger Anmeldung möglich ist.</strong><br />\n<strong>Wir freuen uns auf 
+ Sie!</strong></p>\n</div>\n</div>\n</div>
+DTSTART;TZID=Europe/Berlin:20150922T190000
+DTEND;TZID=Europe/Berlin:20150922T213000
+GEO:+51.21103;+7.14003
+LOCATION:Thermomix-Studio Cronenberg @ Hauptstraße 117\, 42349 Wuppertal\, 
+ Deutschland
+SEQUENCE:0
+SUMMARY:Thermomix® – BASIS KOCHKURS
+URL:http://www.leckereinfach.de/?ai1ec_event=thermomix-basis-kochkurs-4
+END:VEVENT
+END:VCALENDAR

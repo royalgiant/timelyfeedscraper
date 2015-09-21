@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//157.112.145.8//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://aikido-shinkawaclub.jp
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+DTSTART:19510908T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+0900
+TZNAME:JST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3873@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:火曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150921T153000
+DTEND;TZID=Asia/Tokyo:20150921T170000
+SEQUENCE:0
+SUMMARY:田端先生＠一般クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e7%94%b0%e7%ab%af%e5%85%88%
+ e7%94%9f%ef%bc%a0%e4%b8%80%e8%88%ac%e3%82%af%e3%83%a9%e3%82%b9-132
+X-TAGS;LANGUAGE=ja:一般
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3874@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:木曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150924T110000
+DTEND;TZID=Asia/Tokyo:20150924T123000
+SEQUENCE:0
+SUMMARY:田野倉＠女性クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e7%94%b0%e9%87%8e%e5%80%89%
+ ef%bc%a0%e5%a5%b3%e6%80%a7%e3%82%af%e3%83%a9%e3%82%b9-83
+X-TAGS;LANGUAGE=ja:女性
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3875@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:木曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150924T170000
+DTEND;TZID=Asia/Tokyo:20150924T180000
+SEQUENCE:0
+SUMMARY:田端先生＠青帯以上
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e7%94%b0%e7%ab%af%e5%85%88%
+ e7%94%9f%ef%bc%a0%e9%9d%92%e5%b8%af%e4%bb%a5%e4%b8%8a-75
+X-TAGS;LANGUAGE=ja:青帯以上
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3876@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:木曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150924T200000
+DTEND;TZID=Asia/Tokyo:20150924T210000
+SEQUENCE:0
+SUMMARY:飯田先生＠一般クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e9%a3%af%e7%94%b0%e5%85%88%
+ e7%94%9f%ef%bc%a0%e4%b8%80%e8%88%ac%e3%82%af%e3%83%a9%e3%82%b9-84
+X-TAGS;LANGUAGE=ja:一般
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3877@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>サポート募集してます。</p>\n<p>級位、段位、学年、年齢は不問なのでサポートして頂ける方は田端代表までご連絡くださ
+ い。</p>
+DTSTART;TZID=Asia/Tokyo:20150926T090000
+DTEND;TZID=Asia/Tokyo:20150926T114500
+GEO:+35.68829;+139.565438
+LOCATION:三鷹市立第六小学校 @ 日本\, 〒181-0013 東京都三鷹市下連雀６丁目１３−１ 連雀学園三鷹市立第六小学校
+SEQUENCE:0
+SUMMARY:三鷹市立第六小学校 合気道教室
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e4%b8%89%e9%b7%b9%e5%b8%82%
+ e7%ab%8b%e7%ac%ac%e5%85%ad%e5%b0%8f%e5%ad%a6%e6%a0%a1-%e5%90%88%e6%b0%97%e
+ 9%81%93%e6%95%99%e5%ae%a4-8
+X-TAGS;LANGUAGE=ja:イベント
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3878@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:土曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150926T130000
+DTEND;TZID=Asia/Tokyo:20150926T135000
+SEQUENCE:0
+SUMMARY:渡邊・竹下＠年少クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e6%b8%a1%e9%82%8a%e3%83%bb%
+ e7%ab%b9%e4%b8%8b%ef%bc%a0%e5%b9%b4%e5%b0%91%e3%82%af%e3%83%a9%e3%82%b9-2
+X-TAGS;LANGUAGE=ja:年少
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3879@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:土曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150926T140000
+DTEND;TZID=Asia/Tokyo:20150926T145000
+SEQUENCE:0
+SUMMARY:中村先生・竹下＠年中クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e4%b8%ad%e6%9d%91%e5%85%88%
+ e7%94%9f%e3%83%bb%e7%ab%b9%e4%b8%8b%ef%bc%a0%e5%b9%b4%e4%b8%ad%e3%82%af%e3
+ %83%a9%e3%82%b9
+X-TAGS;LANGUAGE=ja:年中
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3880@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:土曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150926T150000
+DTEND;TZID=Asia/Tokyo:20150926T155000
+SEQUENCE:0
+SUMMARY:中村先生・竹下＠年長クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e4%b8%ad%e6%9d%91%e5%85%88%
+ e7%94%9f%e3%83%bb%e7%ab%b9%e4%b8%8b%ef%bc%a0%e5%b9%b4%e9%95%b7%e3%82%af%e3
+ %83%a9%e3%82%b9
+X-TAGS;LANGUAGE=ja:年長
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3881@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:土曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150926T160000
+DTEND;TZID=Asia/Tokyo:20150926T173000
+SEQUENCE:0
+SUMMARY:田端先生＠一般クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e7%94%b0%e7%ab%af%e5%85%88%
+ e7%94%9f%ef%bc%a0%e4%b8%80%e8%88%ac%e3%82%af%e3%83%a9%e3%82%b9-133
+X-TAGS;LANGUAGE=ja:一般
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3882@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:日曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150927T093000
+DTEND;TZID=Asia/Tokyo:20150927T102000
+SEQUENCE:0
+SUMMARY:田端先生・久保山＠年少クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e7%94%b0%e7%ab%af%e5%85%88%
+ e7%94%9f%e3%83%bb%e4%b9%85%e4%bf%9d%e5%b1%b1%ef%bc%a0%e5%b9%b4%e5%b0%91%e3
+ %82%af%e3%83%a9%e3%82%b9-4
+X-TAGS;LANGUAGE=ja:年少
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3884@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:日曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150927T103000
+DTEND;TZID=Asia/Tokyo:20150927T112000
+SEQUENCE:0
+SUMMARY:田端先生・久保山＠年中クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e7%94%b0%e7%ab%af%e5%85%88%
+ e7%94%9f%e3%83%bb%e4%b9%85%e4%bf%9d%e5%b1%b1%ef%bc%a0%e5%b9%b4%e4%b8%ad%e3
+ %82%af%e3%83%a9%e3%82%b9-3
+X-TAGS;LANGUAGE=ja:年中
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3885@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:日曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150927T113000
+DTEND;TZID=Asia/Tokyo:20150927T123000
+SEQUENCE:0
+SUMMARY:田端先生・久保山＠年長クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e7%94%b0%e7%ab%af%e5%85%88%
+ e7%94%9f%e3%83%bb%e4%b9%85%e4%bf%9d%e5%b1%b1%ef%bc%a0%e5%b9%b4%e9%95%b7%e3
+ %82%af%e3%83%a9%e3%82%b9-2
+X-TAGS;LANGUAGE=ja:年長
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3886@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:日曜稽古
+CONTACT:
+DESCRIPTION:<p>※初級 一般はありません。</p>
+DTSTART;TZID=Asia/Tokyo:20150927T143000
+DTEND;TZID=Asia/Tokyo:20150927T160000
+SEQUENCE:0
+SUMMARY:金沢師範＠一般クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e9%87%91%e6%b2%a2%e5%b8%ab%
+ e7%af%84%ef%bc%a0%e4%b8%80%e8%88%ac%e3%82%af%e3%83%a9%e3%82%b9-14
+X-TAGS;LANGUAGE=ja:イベント\,一般\,金沢師範講習会
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3887@aikido-shinkawaclub.jp
+DTSTAMP:20150921T224648Z
+CATEGORIES;LANGUAGE=ja:火曜稽古
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20150929T153000
+DTEND;TZID=Asia/Tokyo:20150929T170000
+SEQUENCE:0
+SUMMARY:田端先生＠一般クラス
+URL:http://aikido-shinkawaclub.jp/?ai1ec_event=%e7%94%b0%e7%ab%af%e5%85%88%
+ e7%94%9f%ef%bc%a0%e4%b8%80%e8%88%ac%e3%82%af%e3%83%a9%e3%82%b9-134
+X-TAGS;LANGUAGE=ja:一般
+END:VEVENT
+END:VCALENDAR

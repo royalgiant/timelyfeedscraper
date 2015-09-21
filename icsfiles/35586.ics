@@ -1,12 +1,267 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>
-</p>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//107.180.26.64//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.perryceo.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:rgamo02k9e3fovjcua46k6sj0c@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151203
+DTEND;VALUE=DATE:20151204
+SEQUENCE:0
+SUMMARY:Chad’s Birthday
+URL:http://www.perryceo.org/event/chads-birthday/
+END:VEVENT
+BEGIN:VEVENT
+UID:gu04u54skkqn31t7i7vatnvg4s@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151230
+DTEND;VALUE=DATE:20151231
+SEQUENCE:0
+SUMMARY:Alaina’s Birthday
+URL:http://www.perryceo.org/event/alainas-birthday/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpmj12e86vdl1qmo8s8ltntpek@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160228
+DTEND;VALUE=DATE:20160229
+SEQUENCE:0
+SUMMARY:Sierra’s Birthday
+URL:http://www.perryceo.org/event/sierras-birthday/
+END:VEVENT
+BEGIN:VEVENT
+UID:3kn95rmnvt6ij554qgto0pnfr0@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160319
+DTEND;VALUE=DATE:20160320
+SEQUENCE:0
+SUMMARY:Kaveeka’s Birthday
+URL:http://www.perryceo.org/event/kaveekas-birthday/
+END:VEVENT
+BEGIN:VEVENT
+UID:q6m200amv5gstetmn909kaobq4@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160504
+DTEND;VALUE=DATE:20160505
+SEQUENCE:0
+SUMMARY:Trey’s Birthday
+URL:http://www.perryceo.org/event/treys-birthday/
+END:VEVENT
+BEGIN:VEVENT
+UID:jq36rriq7tepm02qvdviauh0s0@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160714
+DTEND;VALUE=DATE:20160715
+SEQUENCE:0
+SUMMARY:Carlie’s Birthday
+URL:http://www.perryceo.org/event/carlies-birthday/
+END:VEVENT
+BEGIN:VEVENT
+UID:n173c4b4v8j2qqb2ukeqp834e0@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160812
+DTEND;VALUE=DATE:20160813
+SEQUENCE:0
+SUMMARY:Matthew’s Birthday
+URL:http://www.perryceo.org/event/matthews-birthday/
+END:VEVENT
+BEGIN:VEVENT
+UID:to05r8l001kf7huc2vq524kabk@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150921T073000
+DTEND;TZID=America/Chicago:20150921T090000
+LOCATION:1116 S Washington St\, Du Quoin\, IL 62832\, USA
+SEQUENCE:0
+SUMMARY:Mr. Chip Banks\, Chip Banks Chevrolet-Buick
+URL:http://www.perryceo.org/event/home-base-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:pbus12g02l67iqioqt343olr10@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150922T073000
+DTEND;TZID=America/Chicago:20150922T090000
+LOCATION:15 E Main St\, Du Quoin\, IL 62832\, USA
+SEQUENCE:0
+SUMMARY:Mr. Jeff Tanner\, DuQuoin State Bank
+URL:http://www.perryceo.org/event/mr-jeff-tanner-duquoin-state-bank/
+END:VEVENT
+BEGIN:VEVENT
+UID:kmmp5gl41ud3g3266ku8rdq848@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T073000
+DTEND;TZID=America/Chicago:20150923T090000
+LOCATION:Home Base
+SEQUENCE:0
+SUMMARY:Mr. Dennis Bastien
+URL:http://www.perryceo.org/event/home-base-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:v1ijcqkfansdfsft4og3fmojuk@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150924T073000
+DTEND;TZID=America/Chicago:20150924T090000
+LOCATION:Home Base
+SEQUENCE:0
+SUMMARY:Mr. Josh Huite\, Parker Heating and Cooling Inc.
+URL:http://www.perryceo.org/event/mr-josh-huite-parker-heating-and-cooling-
+ inc/
+END:VEVENT
+BEGIN:VEVENT
+UID:ieeaa820fqp3220o7l0elmaals@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150925T073000
+DTEND;TZID=America/Chicago:20150925T090000
+EXDATE;TZID=America/Chicago:20150918T073000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SEQUENCE:0
+SUMMARY:Home Base
+URL:http://www.perryceo.org/event/home-base-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:599hm7f2q06hl3ilah6d5b5ql8@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150928T073000
+DTEND;TZID=America/Chicago:20150928T090000
+SEQUENCE:0
+SUMMARY:Home Base
+URL:http://www.perryceo.org/event/home-base-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:g8e1sue3dvi1md9fpdce9vcamo@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150929T073000
+DTEND;TZID=America/Chicago:20150929T090000
+LOCATION:5355 Goldeneye Rd\, Pinckneyville\, IL 62274\, USA
+SEQUENCE:0
+SUMMARY:Mr. Evan Engelhardt\, Illinois Harvest\, LLC
+URL:http://www.perryceo.org/event/mr-evan-englehardt-illinois-harvest-llc/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbhh4m69ghgs5cb56u55f4j6vg@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150930T073000
+DTEND;TZID=America/Chicago:20150930T090000
+LOCATION:Home Base
+SEQUENCE:0
+SUMMARY:Ms. Lisa Wild & Mr. Larry Wild\, Entrepreneurs
+URL:http://www.perryceo.org/event/ms-lisa-wild-mr-larry-wild-entrepreneurs/
+END:VEVENT
+BEGIN:VEVENT
+UID:cdv4iv5mlbautls1l8tv99abok@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151005T073000
+DTEND;TZID=America/Chicago:20151005T090000
+LOCATION:Home Base
+SEQUENCE:0
+SUMMARY:Mr. Curt Mowrer and Mr. Nickolas LeMay\, Rend Lake College Small Bu
+ siness Development Center
+URL:http://www.perryceo.org/event/mr-curt-mowrer-and-mr-nickolas-lemay-rend
+ -lake-college-small-business-development-center/
+END:VEVENT
+BEGIN:VEVENT
+UID:tu5nqk2bd4qofbl0j8snq38kac@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151006T073000
+DTEND;TZID=America/Chicago:20151006T090000
+LOCATION:203 S Walnut St\, Pinckneyville\, IL 62274\, USA
+SEQUENCE:0
+SUMMARY:Ms. Toni Engelhardt\, The Flower Patch
+URL:http://www.perryceo.org/event/ms-toni-englehardt-the-flower-patch/
+END:VEVENT
+BEGIN:VEVENT
+UID:pqp5kpuqpjqqglmvrvhkgi4ibc@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151007T080000
+DTEND;TZID=America/Chicago:20151007T150000
+LOCATION:1 Federal Reserve Bank Plaza\, St Louis\, MO 63102\, USA
+SEQUENCE:0
+SUMMARY:St. Louis Federal Reserve
+URL:http://www.perryceo.org/event/st-louis-federal-reserve/
+END:VEVENT
+BEGIN:VEVENT
+UID:vu1iq0lio8atei5pusil727cnc@google.com
+DTSTAMP:20150921T224752Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151008T073000
+DTEND;TZID=America/Chicago:20151008T090000
+SEQUENCE:0
+SUMMARY:Home Base
+URL:http://www.perryceo.org/event/home-base-14/
+END:VEVENT
+END:VCALENDAR

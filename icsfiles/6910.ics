@@ -23,29 +23,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-1616@humanepa.org
-DTSTAMP:20150920T002112Z
-CATEGORIES;LANGUAGE=en-US:HLLC\,HSBC\,MISC
-CONTACT:
-DESCRIPTION:<p>All Humane Pennsylvania locations will be closed Saturday Se
- ptember 19th\, 2015 for the 38th Annual Walk for the Animals and Walktober
- fest. Come join us at Jim Dietrich Park\, Muhlenberg! <a href='http://berk
- shumane.org/events/walk-for-the-animals/'>Click here for more information<
- /a>.<img class='aligncenter wp-image-1465 size-full' src='http://humanepa.
- org/wp-content/uploads/2014/07/2015-Walk-Art.jpg' alt='2015 Walk Art' widt
- h='926' height='558' /></p>
-DTSTART;VALUE=DATE:20150919
-DTEND;VALUE=DATE:20150920
-GEO:+40.40435;-75.970004
-LOCATION:38th Annual Walk for the Animals and Walktoberfest @ 4899 Stoudts 
- Ferry Bridge Rd\, Reading\, PA 19605\, USA
-SEQUENCE:0
-SUMMARY:All Humane Pennsylvania locations closed
-URL:http://humanepa.org/event/all-humane-pennsylvania-locations-closed-7/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1409@humanepa.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES;LANGUAGE=en-US:HLLC\,HSBC\,MISC
 CONTACT:
 DESCRIPTION:<p>Humane Society of Berks County and Humane League of Lancaste
@@ -59,7 +38,7 @@ URL:http://humanepa.org/event/all-humane-pennsylvania-locations-closed-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1306@humanepa.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES;LANGUAGE=en-US:HSBC
 CONTACT:
 DESCRIPTION:<p>Join us at the Humane League of Lancaster County on December
@@ -72,7 +51,7 @@ URL:http://humanepa.org/event/hllc-howliday-open-house-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1303@humanepa.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES;LANGUAGE=en-US:HLLC
 CONTACT:
 DESCRIPTION:<p>Join us at the Humane League of Lancaster County on December
@@ -85,7 +64,7 @@ URL:http://humanepa.org/event/hllc-howliday-open-house/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1410@humanepa.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES;LANGUAGE=en-US:HLLC\,HSBC\,MISC
 CONTACT:
 DESCRIPTION:<p>Humane Society of Berks County and Humane League of Lancaste
@@ -98,28 +77,8 @@ SUMMARY:ALL HUMANE PENNSYLVANIA LOCATIONS CLOSED
 URL:http://humanepa.org/event/all-humane-pennsylvania-locations-closed-6/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-1298@humanepa.org
-DTSTAMP:20150920T002112Z
-CATEGORIES;LANGUAGE=en-US:HSBC
-CONTACT:
-DESCRIPTION:<p>Join us for the 38th Annual Walk for the Animals and Walktob
- erfest Benefiting HSBC!</p>\n<div id='tab-details' class='event-tab-conten
- t visible clearfix'>\n<div id='event-details-right'>\n<p>The Humane Societ
- y of Berks County’s <a href='http://berkshumane.org/events/walk-for-the-an
- imals/' target='_blank'>Walk for the Animals & Walktoberfest</a> is the ol
- dest and largest animal welfare event in the region. For thirty-seven year
- s walkers have been helping to raise funds and awareness to improve the li
- ves of animals and the people who love them – and having lots of fun doing
-  it!</p>\n</div>\n<div class='clear'></div>\n</div>
-DTSTART;TZID=America/New_York:20150919T110000
-SEQUENCE:0
-SUMMARY:HSBC: WALK FOR THE ANIMALS
-URL:http://berkshumane.org/events/walk-for-the-animals/
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1453@humanepa.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES;LANGUAGE=en-US:HLLC
 CONTACT:POUR\; 717-290-8080
 DESCRIPTION:<p>POUR is once again going to the dogs during their fun and hi
@@ -142,7 +101,7 @@ URL:http://humanepa.org/event/1453/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1300@humanepa.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES;LANGUAGE=en-US:HLLC
 CONTACT:
 DESCRIPTION:<p>Join us for the 26th Annual Tailwagger’s Trot!</p>\n<p>The T
@@ -164,7 +123,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1454@humanepa.org
-DTSTAMP:20150920T002112Z
+DTSTAMP:20150921T224636Z
 CATEGORIES;LANGUAGE=en-US:HLLC
 CONTACT:POUR\; 717-290-8080
 DESCRIPTION:<p>POUR is once again going to the dogs during their fun and hi

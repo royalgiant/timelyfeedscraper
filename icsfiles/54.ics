@@ -26,7 +26,7 @@
 			
 			var password = psw.value;
 			
-			var shaObj = new jsSHA(hex_md5(password)+'2d75c49063f4650815302238a68ca707',"ASCII");
+			var shaObj = new jsSHA(hex_md5(password)+'b7f61a5965b0c5b03d01ba8afe077092',"ASCII");
 			psw.value = shaObj.getHash("SHA-256", "HEX");
 			
 			return true;

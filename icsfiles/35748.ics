@@ -23,26 +23,8 @@ TZNAME:WEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-23784@goalpoint.pt
-DTSTAMP:20150920T002438Z
-CATEGORIES;LANGUAGE=pt-PT:FC Porto\,SL Benfica
-CONTACT:
-DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
- ://goalpoint.pt/wp-content/uploads/2015/07/Brahimi800X433-300x162.jpg' wid
- th='300' height='162' /></div><p>Liga NOS 2015/16 | SPORTTV | O FC Porto r
- ecebe o SL Benfica no primeiro clássico da Liga.</p>
-DTSTART;TZID=Europe/Lisbon:20150920T191500
-DTEND;TZID=Europe/Lisbon:20150920T210000
-GEO:+41.16177;-8.583591
-LOCATION:Estádio do Dragão @ Estádio do Dragão\, 4350-415 Porto\, Portugal
-SEQUENCE:0
-SUMMARY:FC Porto vs SL Benfica
-URL:http://goalpoint.pt/blog/event/fc-porto-vs-sl-benfica
-X-TAGS;LANGUAGE=pt-PT:FC Porto\,Liga NOS 2015/16\,SL Benfica
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-23785@goalpoint.pt
-DTSTAMP:20150920T002438Z
+DTSTAMP:20150921T224852Z
 CATEGORIES;LANGUAGE=pt-PT:Sporting CP
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -62,7 +44,7 @@ X-TAGS;LANGUAGE=pt-PT:CD Nacional\,Liga NOS 2015/16\,Sporting CP
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-23786@goalpoint.pt
-DTSTAMP:20150920T002438Z
+DTSTAMP:20150921T224852Z
 CATEGORIES;LANGUAGE=pt-PT:FC Porto
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -79,7 +61,7 @@ X-TAGS;LANGUAGE=pt-PT:FC Porto\,Liga NOS 2015/16\,Moreirense FC
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-23788@goalpoint.pt
-DTSTAMP:20150920T002438Z
+DTSTAMP:20150921T224852Z
 CATEGORIES;LANGUAGE=pt-PT:SL Benfica
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -98,7 +80,7 @@ X-TAGS;LANGUAGE=pt-PT:Liga NOS 2015/16\,Paços de Ferreira\,SL Benfica
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-23789@goalpoint.pt
-DTSTAMP:20150920T002438Z
+DTSTAMP:20150921T224852Z
 CATEGORIES;LANGUAGE=pt-PT:Sporting CP
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http

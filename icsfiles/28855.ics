@@ -1,0 +1,635 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//104.28.15.16//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://post199.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20151012_60o30dr5c8o38e1g60o30dr4co@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Alabama\, American Samoa\, Arizona\, Colo
+ rado\, Connecticut\, District of Columbia\, Georgia\, Idaho\, Illinois\, I
+ ndiana\, Iowa\, Kansas\, Kentucky\, Louisiana\, Maine\, Maryland\, Massach
+ usetts\, Mississippi\, Missouri\, Montana\, Nebraska\, New Hampshire\, New
+  Jersey\, New Mexico\, New York\, North Carolina\, Northern Mariana Island
+ s\, Ohio\, Oklahoma\, Pennsylvania\, Rhode Island\, South Carolina\, Tenne
+ ssee\, Utah\, Virgin Islands\, Virginia\, West Virginia\, Wake Island</p>
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SEQUENCE:0
+SUMMARY:Columbus Day (regional holiday)
+URL:http://post199.org/news/event/columbus-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151031_60o30dr4cko30c1g60o30dr4co@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151101
+SEQUENCE:0
+SUMMARY:Halloween
+URL:http://post199.org/news/event/halloween-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151101_60o30c9o64o30dpj6sqj0dr4co@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:Daylight Saving Time ends
+URL:http://post199.org/news/event/daylight-saving-time-ends-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151111_60o30dr568o30c1g60o30dr4co@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151111
+DTEND;VALUE=DATE:20151112
+SEQUENCE:0
+SUMMARY:Veterans Day
+URL:http://post199.org/news/event/veterans-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151126_60o30dr5cco30e1g60o30dr4co@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151127
+SEQUENCE:0
+SUMMARY:Thanksgiving Day
+URL:http://post199.org/news/event/thanksgiving-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151224_60o30dr56ko30c1g60o30dr4co@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151224
+DTEND;VALUE=DATE:20151225
+SEQUENCE:0
+SUMMARY:Christmas Eve
+URL:http://post199.org/news/event/christmas-eve-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151225_60o30dr56go30c1g60o30dr4co@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+SEQUENCE:0
+SUMMARY:Christmas Day
+URL:http://post199.org/news/event/christmas-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20151226_60o30o9l74o3ac1g60o30dr4co@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151226
+DTEND;VALUE=DATE:20151227
+SEQUENCE:0
+SUMMARY:Day After Christmas Day
+URL:http://post199.org/news/event/day-after-christmas-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20151231_60o30dr4coo30c1g60o30dr4co@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151231
+DTEND;VALUE=DATE:20160101
+SEQUENCE:0
+SUMMARY:New Year’s Eve
+URL:http://post199.org/news/event/new-years-eve-2
+END:VEVENT
+BEGIN:VEVENT
+UID:20160101_60o30dr46oo30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+SEQUENCE:0
+SUMMARY:New Year’s Day
+URL:http://post199.org/news/event/new-years-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20160118_60o30dr56oo30e1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160118
+DTEND;VALUE=DATE:20160119
+SEQUENCE:0
+SUMMARY:Martin Luther King Day
+URL:http://post199.org/news/event/martin-luther-king-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20160214_60o30dr46so30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160214
+DTEND;VALUE=DATE:20160215
+SEQUENCE:0
+SUMMARY:Valentine’s Day
+URL:http://post199.org/news/event/valentines-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20160215_60o30dr570o30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SEQUENCE:0
+SUMMARY:Washington’s Birthday
+URL:http://post199.org/news/event/presidents-day-washingtons-birthday
+END:VEVENT
+BEGIN:VEVENT
+UID:20160313_60o30c9o60o30dpj6sqj0dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160313
+DTEND;VALUE=DATE:20160314
+SEQUENCE:0
+SUMMARY:Daylight Saving Time starts
+URL:http://post199.org/news/event/daylight-saving-time-starts
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1248@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<h1><a href='http://www.legion.org/publicrelations/214215/legio
+ n-birthday-march-15' onclick='__gaTracker('send'\, 'event'\, 'outbound-art
+ icle'\, 'http://www.legion.org/publicrelations/214215/legion-birthday-marc
+ h-15'\, '')\;'><img class='alignnone size-medium wp-image-1249' alt='03151
+ 1_Legion_Birthday_0081' src='http://post199.org/wp-content/uploads/2014/03
+ /031511_Legion_Birthday_0081-300x179.jpg' width='300' height='179' /></a><
+ /h1>\n<h1>Legion birthday March 15</h1>\n<div></div>\n<p dir='LTR' align='
+ LEFT'>March 15\, the designated birthday of The American Legion\, is the d
+ ay in 1919 when the first American Legion caucus\, held by members of the 
+ American Expeditionary Force\, convened in Paris. Much as the birthday of 
+ the United States is celebrated on July 4 – for the day in 1776 when revol
+ ting patriots declared the independence of the British colonies and the sp
+ irit of America was born – March 15 is the date on which the Legion came t
+ o life.</p>\n<p dir='LTR' align='LEFT'><a href='http://www.legion.org/publ
+ icrelations/214215/legion-birthday-march-15' onclick='__gaTracker('send'\,
+  'event'\, 'outbound-article'\, 'http://www.legion.org/publicrelations/214
+ 215/legion-birthday-march-15'\, 'http://www.legion.org/publicrelations/214
+ 215/legion-birthday-march-15')\;'>http://www.legion.org/publicrelations/21
+ 4215/legion-birthday-march-15</a></p>
+DTSTART;VALUE=DATE:20160315
+DTEND;VALUE=DATE:20160316
+RRULE:FREQ=YEARLY
+SEQUENCE:0
+SUMMARY:American Legion Birthday
+URL:http://post199.org/news/event/american-legion-birthday
+END:VEVENT
+BEGIN:VEVENT
+UID:20160327_60o30dr660o30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160327
+DTEND;VALUE=DATE:20160328
+SEQUENCE:0
+SUMMARY:Easter Sunday
+URL:http://post199.org/news/event/easter-sunday
+END:VEVENT
+BEGIN:VEVENT
+UID:20160413_60o30o9lc8o30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160413
+DTEND;VALUE=DATE:20160414
+SEQUENCE:0
+SUMMARY:Thomas Jefferson’s Birthday
+URL:http://post199.org/news/event/thomas-jeffersons-birthday
+END:VEVENT
+BEGIN:VEVENT
+UID:20160508_60o30dr560o30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160508
+DTEND;VALUE=DATE:20160509
+SEQUENCE:0
+SUMMARY:Mother’s Day
+URL:http://post199.org/news/event/mothers-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20160530_60o30dr56co30e1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160530
+DTEND;VALUE=DATE:20160531
+SEQUENCE:0
+SUMMARY:Memorial Day
+URL:http://post199.org/news/event/memorial-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20160619_60o30dr564o30e1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160619
+DTEND;VALUE=DATE:20160620
+SEQUENCE:0
+SUMMARY:Father’s Day
+URL:http://post199.org/news/event/fathers-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20160704_60o30dr470o30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160704
+DTEND;VALUE=DATE:20160705
+SEQUENCE:0
+SUMMARY:Independence Day
+URL:http://post199.org/news/event/independence-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20160905_60o30dr5c4o30e1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160905
+DTEND;VALUE=DATE:20160906
+SEQUENCE:0
+SUMMARY:Labor Day
+URL:http://post199.org/news/event/labor-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20161010_60o30dr5c8o38e1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Public holiday in: Alabama\, American Samoa\, Arizona\, Colo
+ rado\, Connecticut\, District of Columbia\, Georgia\, Idaho\, Illinois\, I
+ ndiana\, Iowa\, Kansas\, Kentucky\, Louisiana\, Maine\, Maryland\, Massach
+ usetts\, Mississippi\, Missouri\, Montana\, Nebraska\, New Hampshire\, New
+  Jersey\, New Mexico\, New York\, North Carolina\, Northern Mariana Island
+ s\, Ohio\, Oklahoma\, Pennsylvania\, Rhode Island\, South Carolina\, Tenne
+ ssee\, Utah\, Virgin Islands\, Virginia\, West Virginia\, Wake Island</p>
+DTSTART;VALUE=DATE:20161010
+DTEND;VALUE=DATE:20161011
+SEQUENCE:0
+SUMMARY:Columbus Day (regional holiday)
+URL:http://post199.org/news/event/columbus-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20161031_60o30dr4cko30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161031
+DTEND;VALUE=DATE:20161101
+SEQUENCE:0
+SUMMARY:Halloween
+URL:http://post199.org/news/event/halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:20161106_60o30c9o64o30dpj6sqj0dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161106
+DTEND;VALUE=DATE:20161107
+SEQUENCE:0
+SUMMARY:Daylight Saving Time ends
+URL:http://post199.org/news/event/daylight-saving-time-ends
+END:VEVENT
+BEGIN:VEVENT
+UID:20161108_60o30dr66go30e1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161108
+DTEND;VALUE=DATE:20161109
+SEQUENCE:0
+SUMMARY:Election Day
+URL:http://post199.org/news/event/election-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20161111_60o30dr568o30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161111
+DTEND;VALUE=DATE:20161112
+SEQUENCE:0
+SUMMARY:Veterans Day
+URL:http://post199.org/news/event/veterans-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20161124_60o30dr5cco30e1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161124
+DTEND;VALUE=DATE:20161125
+SEQUENCE:0
+SUMMARY:Thanksgiving Day
+URL:http://post199.org/news/event/thanksgiving-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20161224_60o30dr56ko30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161224
+DTEND;VALUE=DATE:20161225
+SEQUENCE:0
+SUMMARY:Christmas Eve
+URL:http://post199.org/news/event/christmas-eve
+END:VEVENT
+BEGIN:VEVENT
+UID:20161225_60o30dr56go30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161225
+DTEND;VALUE=DATE:20161226
+SEQUENCE:0
+SUMMARY:Christmas Day
+URL:http://post199.org/news/event/christmas-day
+END:VEVENT
+BEGIN:VEVENT
+UID:20161226_60o30dr56go30e1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161226
+DTEND;VALUE=DATE:20161227
+SEQUENCE:0
+SUMMARY:Christmas Day observed
+URL:http://post199.org/news/event/christmas-day-observed
+END:VEVENT
+BEGIN:VEVENT
+UID:20161231_60o30dr4coo30c1g60o30dr560@google.com
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20161231
+DTEND;VALUE=DATE:20170101
+SEQUENCE:0
+SUMMARY:New Year’s Eve
+URL:http://post199.org/news/event/new-years-eve
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-25438@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Test your wits in our exciting trivia contest every Wednesda
+ y night.  Different topics each week.</p>
+DTSTART;TZID=America/New_York:20150923T200000
+DTEND;TZID=America/New_York:20150923T230000
+RRULE:FREQ=WEEKLY;UNTIL=20160526T235959Z;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Trivia
+URL:http://post199.org/news/event/trivia
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-984@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>DOORS OPEN 6 PM\, BINGO STARTS AT 7:15 P</p>\n<p><a href='ht
+ tp://post199.org/bingo'>http://post199.org/bingo</a></p>
+DTSTART;TZID=America/New_York:20150924T180000
+GEO:+39.242574;-84.795408
+LOCATION:American Legion Post 199 Reception Hall @ 10700 Campbell Road\, Ha
+ rrison\, OH 45030\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Bingo
+URL:http://post199.org/news/event/bingo
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-25547@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ s://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11738125_852863594768907_6
+ 099484008236941734_n.jpg?oh=f45904bd54e6332473df53079c48d165&oe=56197918' 
+ width='640' height='441' /></div>
+DTSTART;TZID=America/New_York:20150925T190000
+GEO:+39.24115;-84.795059
+LOCATION:Yeager Benson American Legion post 199 @ 10700 Campbell Rd\, Harri
+ son\, OH\, 45030\, United States
+SEQUENCE:0
+SUMMARY:Karaoke & Music
+URL:http://post199.org/news/event/karaoke-music
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-982@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T120000
+EXRULE:FREQ=YEARLY;BYDAY=4SU;BYMONTH=1,11,12
+GEO:+39.242574;-84.795408
+LOCATION:American Legion Post 199 @ 10700 Campbell Road\, Harrison\, OH 450
+ 30\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4SU
+SEQUENCE:0
+SUMMARY:A.L.R. Meeting
+URL:http://post199.org/news/event/alr-meeting
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-989@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150928T190000
+EXDATE;TZID=America/New_York:20150525T190000
+GEO:+39.242574;-84.795408
+LOCATION:American Legion Post 199 @ 10700 Campbell Road\, Harrison\, OH 450
+ 30\, USA
+RRULE:FREQ=MONTHLY;BYDAY=4MO
+SEQUENCE:0
+SUMMARY:Exec Board Meeting
+URL:http://post199.org/news/event/exec-board-meeting
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1209@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>19:10 E-Board Meeting<br />\n19:30 Meeting</p>\n<p><span sty
+ le='text-decoration: underline\;'><strong>MAY 6\, 2015</strong></span><br 
+ />\n<strong>Installation</strong><br />\nYeager-Benson Post 199<br />\n107
+ 00 Campbell Rd.<br />\nHarrison\, OH 45030</p>\n<p><strong><span style='te
+ xt-decoration: underline\;'>July 1\, 2015</span><br />\nOrganizational Mee
+ ting</strong><br />\nHugh Watson Post 530<br />\n11100 Winton Rd.<br />\nG
+ reenhills\, OH 45218</p>\n<p><strong><span style='text-decoration: underli
+ ne\;'>August 5\, 2015</span></strong><br />\nMt. Washington Post 484<br />
+ \n1837 Sutton Ave.<br />\nCincinnati\, OH 45230</p>\n<p><strong><span styl
+ e='text-decoration: underline\;'>September 2\, 2015</span></strong><br />
+ \nYeager-Benson Post 199<br />\n10700 Campbell Rd.<br />\nHarrison\, OH 45
+ 030</p>\n<p><strong><span style='text-decoration: underline\;'>October 7\,
+  2015</span></strong><br />\nJohn R. Fox Post 631<br />\n546 N Wayne Ave.<
+ br />\nCincinnati\, OH 45215</p>\n<p><strong><span style='text-decoration:
+  underline\;'>November 4\, 2015</span></strong><br />\nMiller Stockum Post
+  485<br />\n29 E. State Rd.<br />\nCleves\, OH 45002</p>\n<p><strong><span
+  style='text-decoration: underline\;'>December 2\, 2015</span></strong><br
+  />\nHalker Flege Post 69<br />\n9000 Reading Rd.<br />\nReading\, OH 4521
+ 5</p>\n<p><strong><span style='text-decoration: underline\;'>January 6\, 2
+ 016</span></strong><br />\nLeland M. Barnett Post 123<br />\n5129 Montgome
+ ry Rd.<br />\nNorwood\, OH 45212</p>\n<p><strong><span style='text-decorat
+ ion: underline\;'>February 3\, 2016</span><br />\nLaw & Order</strong><br 
+ />\nChambers-Hautman Post 534<br />\n4618 River Rd.<br />\nCincinnati\, OH
+  45204</p>\n<p><strong><span style='text-decoration: underline\;'>March 3\
+ , 2016</span><br />\nAmericanism</strong><br />\nAnderson Post 318<br />\n
+ 6600 Clough Pike<br />\nCincinnati\, OH 45254</p>\n<p><strong><span style=
+ 'text-decoration: underline\;'>April 6\, 2016<br />\n</span></strong>Wesle
+ y Werner Post 513<br />\n7947 Hamilton Ave.<br />\nMt. Healthy\, OH 45231<
+ /p>\n<p><strong><span style='text-decoration: underline\;'>April 23\, 2016
+ </span><br />\nC & P Recognition Dinner</strong><br />\nYeager-Benson Post
+  199<br />\n10700 Campbell Rd.<br />\nHarrison\, OH 45030</p>\n<p><strong>
+ <span style='text-decoration: underline\;'>May 4\, 2016</span></strong><br
+  />\n<strong>Installation</strong><br />\nTBA</p>
+DTSTART;TZID=America/New_York:20151007T190000
+EXRULE:FREQ=YEARLY;BYDAY=1WE;BYMONTH=6
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+SEQUENCE:0
+SUMMARY:County Meeting
+URL:http://post199.org/news/event/county-meeting
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-978@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151012T190000
+GEO:+39.242574;-84.795408
+LOCATION:American Legion Post 199 @ 10700 Campbell Road\, Harrison\, OH 450
+ 30\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:Legion Meeting
+URL:http://post199.org/news/event/legion-meeting
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-979@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151014T193000
+GEO:+39.242574;-84.795408
+LOCATION:American Legion Post 199 @ 10700 Campbell Road\, Harrison\, OH 450
+ 30\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:S.A.L. Meeting
+URL:http://post199.org/news/event/s-a-l-meeting
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-25553@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Eggs\, bacon\, sausage\, potatoes\, pancakes\, milk\, juice\
+ , biscuits\, gravy and more! Adults $7.00 and children under 12 $4.00.</p>
+DTSTART;TZID=America/New_York:20151018T080000
+DTEND;TZID=America/New_York:20151018T090000
+GEO:+39.242574;-84.795408
+LOCATION:Yeager Benson Memorial American Legion Post 199 @ 10700 Campbell R
+ oad\, Harrison\, OH 45030\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Breakfast
+URL:http://post199.org/news/event/breakfast
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-980@post199.org
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20151021T193000
+EXRULE:FREQ=YEARLY;BYDAY=3WE;BYMONTH=6,7,8
+GEO:+39.242574;-84.795408
+LOCATION:American Legion Post 199 @ 10700 Campbell Road\, Harrison\, OH 450
+ 30\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+SEQUENCE:0
+SUMMARY:Ladies Auxiliary Meeting
+URL:http://post199.org/news/event/ladies-auxiliary-meeting
+X-INSTANT-EVENT:1
+END:VEVENT
+END:VCALENDAR

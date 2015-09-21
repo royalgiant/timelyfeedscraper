@@ -1,57 +1,12 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//62.149.142.61//NONSGML kigkonsult.se iCalcreator 2.20//
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-FROM-URL:http://www.svdonline.it/demo/sportart
-X-WR-TIMEZONE:Europe/Rome
-BEGIN:VTIMEZONE
-TZID:Europe/Rome
-X-LIC-LOCATION:Europe/Rome
-BEGIN:STANDARD
-DTSTART:20151025T030000
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-TZNAME:CET
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20150329T020000
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-RDATE:20160327T020000
-TZNAME:CEST
-END:DAYLIGHT
-END:VTIMEZONE
-BEGIN:VEVENT
-UID:ai1ec-33@www.svdonline.it/demo/sportart
-DTSTAMP:20150920T002415Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Il “Runningfest nasce a Savona nel <strong>2014</strong> com
- e allenamento di corsa in gruppo\, <strong>tutti i giovedì</strong> dell’a
- nno.</p>\n<p>L’iniziativa riscuote subito un grande successo e presto si f
- a in<strong> tre con uscite anche il martedì e la domenica</strong>\, dedi
- cate al trail\, al nordic walking e in generale alla scoperta dei sentieri
-  del territorio.</p>\n<p>Lo spirito è fare allenamento divertendosi e adeg
- uando il passo ai runners e ai camminatori meno veloci\, tutti identificab
- ili dalla riconoscibile t-shirt arancio fluo. I<strong>l ritrovo è da Spor
- tart in Via Trilussa</strong>: l’uscita di alcuni chilometri spesso termin
- a con una doccia e una cena in compagnia (in estate ai Bagni Corsaro). </p
- >\n<p>Organizzato da Sportart\, riferimento per lo sport da oltre 30anni p
- er savona e provincia\, insieme a partner importanti quali CARISA\, Ivg\, 
- Jeep Autoliguria\, Latte Tigullio\, Noene. </p>\n<div class='twttr_button'
- >\n						<a href='http://twitter.com/share?url=http://www.svdonline.it/demo/spor
- tart/blog/runningfest/&text=Runningfest' target='_blank' title='Click here
-  if you like this article.'>\n							<img src='http://www.svdonline.it/demo/sport
- art/wp-content/plugins/twitter-plugin/images/twitt.gif' alt='Twitt' />\n						</
- a>\n					</div>
-DTSTART;VALUE=DATE:20150920
-DTEND;VALUE=DATE:20160103
-GEO:+44.304223;+8.471301
-LOCATION:SportArt Savona @ Via Trilussa\, 51\, 17100 Savona SV\, Italia
-RRULE:FREQ=WEEKLY;BYDAY=SU,TU,TH;WKST=MO
-SEQUENCE:0
-SUMMARY:Runningfest
-URL:http://www.svdonline.it/demo/sportart/event/runningfest/
-END:VEVENT
-END:VCALENDAR
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+Size of a request header field exceeds server limit.<br />
+<pre>
+cookie
+</pre>
+</p>
+</body></html>

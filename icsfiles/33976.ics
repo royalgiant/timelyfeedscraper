@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-803@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Environnement
 CONTACT:
 DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
@@ -36,12 +36,12 @@ DTSTART;VALUE=DATE:20151003
 DTEND;VALUE=DATE:20151005
 LOCATION:Aéroparc - Yutz
 SEQUENCE:0
-SUMMARY:La Nature n’en fait qu’à sa tête !
+SUMMARY:La Nature n’en fait qu’à sa fête !
 URL:http://www.ville-yutz.fr/event/la-nature-nen-fait-qua-sa-tete/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-828@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Economie
 CONTACT:
 DESCRIPTION:<p>Organisée par Yutz’actif</p>
@@ -54,107 +54,8 @@ SUMMARY:Braderie
 URL:http://www.ville-yutz.fr/event/braderie/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-600@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
-CATEGORIES;LANGUAGE=fr-FR:Culture
-CONTACT:
-DESCRIPTION:<p><img class='aligncenter size-large wp-image-601' src='http:/
- /www.ville-yutz.fr/wp-content/uploads/2015/08/savary-2015-724x1024.jpg' al
- t='savary-2015' width='724' height='1024' /></p>
-DTSTART;TZID=Europe/Paris:20150919T140000
-DTEND;TZID=Europe/Paris:20150927T180000
-LOCATION:Maison des Bains
-SEQUENCE:0
-SUMMARY:Exposition Suzanne Savary
-URL:http://www.ville-yutz.fr/event/exposition-suzanne-savary/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-809@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
-CATEGORIES;LANGUAGE=fr-FR:Sport
-CONTACT:
-DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
- /Fête-de-cheval.jpg'><img class='size-full wp-image-810 aligncenter' src='
- http://www.ville-yutz.fr/wp-content/uploads/2015/09/Fête-de-cheval.jpg' al
- t='Fête de cheval' width='678' height='960' /></a></p>
-DTSTART;TZID=Europe/Paris:20150920T100000
-DTEND;TZID=Europe/Paris:20150920T180000
-GEO:+49.357493;+6.212148
-LOCATION:Centre Yutz Equitation @ 13 Rue de Poitiers\, 57970 Yutz\, France
-SEQUENCE:0
-SUMMARY:Fête du cheval à Yutz équitation
-URL:http://www.ville-yutz.fr/event/fete-du-cheval-a-yutz-equitation/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-784@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
-CATEGORIES;LANGUAGE=fr-FR:Culture
-CONTACT:
-DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
- /2015-09-20-fete-de-quartier-2015.jpg'><img class='size-full wp-image-785 
- aligncenter' src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/2015
- -09-20-fete-de-quartier-2015.jpg' alt='2015-09-20 fete de quartier 2015' w
- idth='3508' height='4961' /></a></p>
-DTSTART;TZID=Europe/Paris:20150920T120000
-DTEND;TZID=Europe/Paris:20150920T180000
-GEO:+49.346343;+6.182926
-LOCATION:Rue du Vieux Bourg\, 57970 Yutz\, France
-SEQUENCE:0
-SUMMARY:Fête de quartier – Associations de Haute-Yutz / CLCV
-URL:http://www.ville-yutz.fr/event/fete-de-quartier-associations-de-haute-y
- utz-clcv/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-786@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
-CATEGORIES;LANGUAGE=fr-FR:Culture
-CONTACT:
-DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
- /Flyer-Rdv-Automne1-1.jpg'><img class='size-full wp-image-788 aligncenter'
-  src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/Flyer-Rdv-Automn
- e1-1.jpg' alt='Flyer-Rdv-Automne.pptx' width='2250' height='3000' /></a></
- p>
-DTSTART;TZID=Europe/Paris:20150920T120000
-GEO:+49.349597;+6.184604
-LOCATION:Rue de Bourgogne\, 57970 Yutz\, France
-SEQUENCE:0
-SUMMARY:Rendez-vous de l’automne de l’association YAQ’A (Yutz Association Q
- uartier Ambanie)
-URL:http://www.ville-yutz.fr/event/rendez-vous-de-lautomne-de-lassociation-
- yaqa-yutz-association-quartier-ambanie/
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-596@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
-CATEGORIES;LANGUAGE=fr-FR:Commémoration
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=Europe/Paris:20150920T113000
-LOCATION:Parvis Eglise St-Nicolas
-SEQUENCE:0
-SUMMARY:Commémoration de la St-Michel
-URL:http://www.ville-yutz.fr/event/commemoration-de-la-st-michel/
-X-INSTANT-EVENT:1
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-598@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
-CATEGORIES;LANGUAGE=fr-FR:Culture
-CONTACT:
-DESCRIPTION:<p><img class='aligncenter size-large wp-image-599' src='http:/
- /www.ville-yutz.fr/wp-content/uploads/2015/08/harmonie-sept15-724x1024.jpg
- ' alt='harmonie-sept15' width='724' height='1024' /></p>
-DTSTART;TZID=Europe/Paris:20150920T150000
-DTEND;TZID=Europe/Paris:20150920T180000
-LOCATION:Salle Bestien
-SEQUENCE:0
-SUMMARY:Concert de l’Harmonie municipale
-URL:http://www.ville-yutz.fr/event/concert-de-lharmonie-municipale/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-763@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Santé\,Solidarité
 CONTACT:
 DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
@@ -172,7 +73,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-602@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Culture
 CONTACT:
 DESCRIPTION:<p><img class='aligncenter size-full wp-image-514' src='http://
@@ -187,7 +88,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-789@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Solidarité
 CONTACT:
 DESCRIPTION:<p>Deux parcours seront proposés aux participants : parcours ad
@@ -204,7 +105,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-829@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -218,7 +119,7 @@ URL:http://www.ville-yutz.fr/event/concert-des-joyeux-lurons/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-821@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Solidarité
 CONTACT:
 DESCRIPTION:<p>Dépôt de vêtements : Mardi 29 septembre de 9h à 16h</p>\n<p>
@@ -233,7 +134,7 @@ URL:http://www.ville-yutz.fr/event/bourse-aux-vetements-de-lavf/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-804@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Santé
 CONTACT:
 DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
@@ -252,7 +153,7 @@ URL:http://www.ville-yutz.fr/event/collecte-de-sang-organisee-par-lamicale-
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-813@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Solidarité
 CONTACT:
 DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
@@ -272,7 +173,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-822@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Culture
 CONTACT:
 DESCRIPTION:<p>Synopsis: Ils sont enfin de retour ! A force d’accumuler les
@@ -295,21 +196,28 @@ URL:http://www.ville-yutz.fr/event/soiree-theatre-les-garcons-cavaleurs-par
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-665@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+UID:ai1ec-834@www.ville-yutz.fr
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Culture
 CONTACT:
-DESCRIPTION:
-DTSTART;TZID=Europe/Paris:20151003T140000
+DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
+ /kakemono_artforeveryone_X31.jpg'><img class='aligncenter wp-image-836 siz
+ e-full' src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/kakemono_
+ artforeveryone_X31.jpg' alt='kakemono_artforeveryone.indd' width='3543' he
+ ight='6390' /></a></p>
+DTSTART;TZID=Europe/Paris:20151003T130000
 DTEND;TZID=Europe/Paris:20151011T180000
-LOCATION:Maison des Bains
+GEO:+49.362356;+6.192796
+LOCATION:la Maison des Bains @ 100 Grand Rue\, 57970 Yutz\, France
 SEQUENCE:0
-SUMMARY:Exposition Nicolas Carter
-URL:http://www.ville-yutz.fr/event/exposition-nicolas-cartier/
+SUMMARY:Exposition de Nicholas Carter –  « Art for every man\, every woman 
+ and every child »
+URL:http://www.ville-yutz.fr/event/exposition-de-nicholas-carter-art-for-ev
+ ery-man-every-woman-and-every-child/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-811@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Culture
 CONTACT:
 DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
@@ -327,7 +235,7 @@ URL:http://www.ville-yutz.fr/event/the-dansant/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-827@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Solidarité
 CONTACT:
 DESCRIPTION:
@@ -341,14 +249,32 @@ URL:http://www.ville-yutz.fr/event/job-dating-des-metiers-de-la-vente-a-dom
  icile/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-837@www.ville-yutz.fr
+DTSTAMP:20150921T225026Z
+CATEGORIES;LANGUAGE=fr-FR:Loisirs
+CONTACT:M.J.C. La Pépinière\; 03 82 56 20 73
+DESCRIPTION:<p><strong>Au menu :</strong> Tortillas de légumes et roquette\
+ , blanquette de la mer safranée et ses légumes\, soufflé Grand Marnier.</p
+ >\n<p><strong>Tarif :</strong> 35€ la séance (sur inscription uniquement)<
+ /p>
+DTSTART;TZID=Europe/Paris:20151008T190000
+GEO:+49.345993;+6.188412
+LOCATION:M.J.C. La Pépinière @ 30 Rue de la Pépinière\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Cours de cuisine avec Alex
+URL:http://www.ville-yutz.fr/event/cours-de-cuisine-avec-alex/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-830@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
+DTSTAMP:20150921T225026Z
 CATEGORIES;LANGUAGE=fr-FR:Culture
 CONTACT:
 DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
- /2015-10-11-st-ursule.jpg'><img class='aligncenter wp-image-831 size-full'
-  src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/2015-10-11-st-ur
- sule.jpg' alt='2015-10-11 st ursule' width='3508' height='4843' /></a></p>
+ /2015-10-11-st-ursule.jpg'><img class='aligncenter wp-image-831 size-large
+ ' src='http://www.ville-yutz.fr/wp-content/uploads/2015/09/2015-10-11-st-u
+ rsule-742x1024.jpg' alt='2015-10-11 st ursule' width='742' height='1024' /
+ ></a></p>
 DTSTART;TZID=Europe/Paris:20151011T090000
 DTEND;TZID=Europe/Paris:20151011T180000
 LOCATION:Angles rues Liberté/Bois/Chapelle
@@ -357,9 +283,59 @@ SUMMARY:Fête de la Sainte-Ursule
 URL:http://www.ville-yutz.fr/event/fete-de-la-sainte-ursule/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-839@www.ville-yutz.fr
+DTSTAMP:20150921T225026Z
+CATEGORIES;LANGUAGE=fr-FR:Environnement
+CONTACT:M.J.C. La Pépinière\; 03 82 56 20 73
+DESCRIPTION:<p><strong><a href='http://www.ville-yutz.fr/wp-content/uploads
+ /2015/09/EXPO.jpg'><img class='size-full wp-image-845 aligncenter' src='ht
+ tp://www.ville-yutz.fr/wp-content/uploads/2015/09/EXPO.jpg' alt='EXPO' wid
+ th='1536' height='1024' /></a>Expo champignons et plantes toxiques</strong
+ ></p>\n<p>Vous pourrez découvrir la grande diversité mycologique de notre 
+ région\, des informations sur la qualité gustative\, le danger de certaine
+ s espèces de champignons.</p>\n<p><em><strong>Entrée libre.</strong></em><
+ /p>
+DTSTART;TZID=Europe/Paris:20151011T100000
+DTEND;TZID=Europe/Paris:20151011T190000
+GEO:+49.345993;+6.188412
+LOCATION:M.J.C. La Pépinière @ 30 Rue de la Pépinière\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Expo champignons
+URL:http://www.ville-yutz.fr/event/expo-champignons/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-838@www.ville-yutz.fr
+DTSTAMP:20150921T225026Z
+CATEGORIES;LANGUAGE=fr-FR:Loisirs
+CONTACT:M.J.C. La Pépinière\; 03 82 56 20 73
+DESCRIPTION:<p>Cupcake et cake Pop Halloween</p>\n<p><strong>Tarif :</stron
+ g> 17€ la séance (sur inscription uniquement)</p>
+DTSTART;TZID=Europe/Paris:20151013T140000
+DTEND;TZID=Europe/Paris:20151013T150000
+GEO:+49.345993;+6.188412
+LOCATION:M.J.C. La Pépinière @ 30 Rue de la Pépinière\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Cours de pâtisserie avec Claire
+URL:http://www.ville-yutz.fr/event/cours-de-patisserie-avec-claire/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-841@www.ville-yutz.fr
+DTSTAMP:20150921T225026Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:M.J.C. La Pépinière\; 03 82 56 20 73
+DESCRIPTION:<p>Ouverture des portes à 20h</p>
+DTSTART;TZID=Europe/Paris:20151016T203000
+GEO:+49.345993;+6.188412
+LOCATION:M.J.C. La Pépinière @ 30 Rue de la Pépinière\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Concert – Chan Heurlin et Bibacoha
+URL:http://www.ville-yutz.fr/event/concert-chan-heurlin-et-bibacoha/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-753@www.ville-yutz.fr
-DTSTAMP:20150920T003159Z
-CATEGORIES;LANGUAGE=fr-FR:Solidarité
+DTSTAMP:20150921T225026Z
+CATEGORIES;LANGUAGE=fr-FR:Santé\,Solidarité
 CONTACT:
 DESCRIPTION:<p><a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09
  /octobre-rose-petite.jpg'><img class='size-full wp-image-754 aligncenter' 
@@ -370,6 +346,67 @@ LOCATION:Aéroparc
 SEQUENCE:0
 SUMMARY:Octobre rose
 URL:http://www.ville-yutz.fr/event/octobre-rose/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-840@www.ville-yutz.fr
+DTSTAMP:20150921T225026Z
+CATEGORIES;LANGUAGE=fr-FR:Loisirs
+CONTACT:M.J.C. La Pépinière\; 03 82 56 20 73
+DESCRIPTION:<p>Art floral japonais influencé à l’origine par le bouddhisme<
+ /p>\n<p><strong>Tarif :</strong> 19€ la séance (sur inscription uniquement
+ )</p>
+DTSTART;TZID=Europe/Paris:20151027T200000
+GEO:+49.345993;+6.188412
+LOCATION:M.J.C. La Pépinière @ 30 Rue de la Pépinière\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Atelier Ikebana
+URL:http://www.ville-yutz.fr/event/atelier-ikebana/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-842@www.ville-yutz.fr
+DTSTAMP:20150921T225026Z
+CATEGORIES:
+CONTACT:M.J.C. La Pépinière\; 03 82 56 20 73
+DESCRIPTION:<p><span style='color: #0000ff\;'>Monsieur PALOU\, conférencier
+  officiel du Royaume de Féeries par la Cie « LES UNS LES UNES »</span></p>
+ \n<p><strong>Synopsis :</strong> « En se référant aux contes du Petit Peup
+ le\, si intimement liés à la nature\, ce « conférencier » haut en couleurs
+ \, pose un regard sensible et poétique sur Dame Nature et les histoires d’
+ ici et d’ailleurs. »<br />\n<strong>Tarif :</strong> 5 euros –</p>\n<p><em
+ >Réservation conseillée – billets en prévente à la M.J.C.</em></p>
+DTSTART;TZID=Europe/Paris:20151030T150000
+GEO:+49.345993;+6.188412
+LOCATION:M.J.C. La Pépinière @ 30 Rue de la Pépinière\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Spectacle jeune public (à partir de 4 ans)
+URL:http://www.ville-yutz.fr/event/spectacle-jeune-public-a-partir-de-4-ans
+ /
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-843@www.ville-yutz.fr
+DTSTAMP:20150921T225026Z
+CATEGORIES;LANGUAGE=fr-FR:Culture
+CONTACT:M.J.C. La Pépinière\; 03 82 56 20 73
+DESCRIPTION:<p><strong>Synopsis :</strong> Que savez-vous de Jeanne la Gueu
+ se\, la cousine de Jeanne d’Arc ? Gardait-elle des moutons ? Etait-elle pu
+ celle ? Entendait-elle des voix ? Etait-elle pour le vote des étrangers ? 
+ Entre farce moyenâgeuse et parodie historique\, la pièce pastiche toutes l
+ es pseudo-légendes qui entourent cet emblème de notre histoire.<br />\n<st
+ rong><em>Entrée libre</em></strong> <em> (sous réserve de places disponibl
+ es)<a href='http://www.ville-yutz.fr/wp-content/uploads/2015/09/incognito.
+ jpg'><img class='aligncenter wp-image-844 size-full' src='http://www.ville
+ -yutz.fr/wp-content/uploads/2015/09/incognito.jpg' alt='incognito' width='
+ 800' height='600' /></a></em></p>
+DTSTART;TZID=Europe/Paris:20151106T203000
+GEO:+49.345993;+6.188412
+LOCATION:M.J.C. La Pépinière @ 30 Rue de la Pépinière\, 57970 Yutz\, France
+SEQUENCE:0
+SUMMARY:Soirée théâtre – « Jeanne la Gueuse » par la Cie INCOGNITO
+URL:http://www.ville-yutz.fr/event/soiree-theatre-jeanne-la-gueuse-par-la-c
+ ie-incognito/
 X-INSTANT-EVENT:1
 END:VEVENT
 END:VCALENDAR

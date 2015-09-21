@@ -1503,16 +1503,16 @@ jQuery(document).ready(function($) {
 													<span class='mc-date no-events'><span aria-hidden='true'>19</span><span class='screen-reader-text'>19/09/2015</span></span>
 												</td>
 
-												<td class='no-events Κυ current-day weekend  day-with-date'>
+												<td class='no-events Κυ past-day past-date weekend  day-with-date'>
 													<span class='mc-date no-events'><span aria-hidden='true'>20</span><span class='screen-reader-text'>20/09/2015</span></span>
 												</td>
 </tr>
 <tr class='mc-row'>
-												<td class='no-events Δε future-day   day-with-date'>
+												<td class='no-events Δε past-day past-date   day-with-date'>
 													<span class='mc-date no-events'><span aria-hidden='true'>21</span><span class='screen-reader-text'>21/09/2015</span></span>
 												</td>
 
-												<td class='no-events Τρ future-day   day-with-date'>
+												<td class='no-events Τρ current-day   day-with-date'>
 													<span class='mc-date no-events'><span aria-hidden='true'>22</span><span class='screen-reader-text'>22/09/2015</span></span>
 												</td>
 

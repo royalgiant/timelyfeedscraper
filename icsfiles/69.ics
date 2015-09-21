@@ -23,27 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-1994@www.virtuology-academy.com
-DTSTAMP:20150920T002108Z
-CATEGORIES:
-CONTACT:info@virtuology-academy.com\; http://www.virtuology-academy.com/en/
- sales2/
-DESCRIPTION:
-DTSTART;VALUE=DATE:20150921
-DTEND;VALUE=DATE:20150923
-GEO:+50.847443;+4.359185
-LOCATION:Co.Station  @ Place Sainte-Gudule 5\, 1000 Ville de Bruxelles\, Be
- lgique
-SEQUENCE:0
-SUMMARY:Sales Program
-URL:http://www.virtuology-academy.com/event/sales-academy/
-X-COST:900€ VAT Incl.
-X-TICKETS-URL:https://www.eventbrite.com/e/sales-program-tickets-1777694732
- 8
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-2009@www.virtuology-academy.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224628Z
 CATEGORIES:
 CONTACT:info@virtuology-academy.com\; http://www.virtuology-academy.com/en/
  startup2/
@@ -62,7 +43,7 @@ X-TICKETS-URL:https://www.eventbrite.com/e/startup-program-october-tickets-
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2382@www.virtuology-academy.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224628Z
 CATEGORIES:
 CONTACT:info@virtuology-academy.com\; http://www.virtuology-academy.com/en/
  coach2/
@@ -80,7 +61,7 @@ X-TICKETS-URL:https://www.eventbrite.com/e/coach-program-tickets-1789179885
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2011@www.virtuology-academy.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224628Z
 CATEGORIES:
 CONTACT:info@virtuology-academy.com\; http://www.virtuology-academy.com/en/
  startup2/
@@ -99,7 +80,7 @@ X-TICKETS-URL:https://www.eventbrite.com/e/startup-boost-december-tickets-1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1992@www.virtuology-academy.com
-DTSTAMP:20150920T002108Z
+DTSTAMP:20150921T224628Z
 CATEGORIES:
 CONTACT:info@virtuology-academy.com\; http://www.virtuology-academy.com/en/
  pimento2/

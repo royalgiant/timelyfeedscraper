@@ -1,13 +1,618 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>/n</p>
-<hr>
-<address>Apache/2.2.15 (CentOS) Server at cbcs.org Port 80</address>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//66.228.60.217//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.cbcs.org
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RDATE:20160313T020000
+TZNAME:CDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-4978@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Adult Ministries\,Special Events
+CONTACT:Calvary Baptist Church\; (920) 261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150927
+DTEND;VALUE=DATE:20151001
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+SEQUENCE:0
+SUMMARY:Mission’s Conference
+URL:http://www.cbcs.org/event/offices-closed/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5038@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Calvary Baptist Christian School
+CONTACT:School Office \; 920-262-0612\; main@cbcs.org
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+GEO:+43.171957;-88.732916
+LOCATION:Culvers @ 1722 S Church St\, Watertown\, WI 53094\, USA
+SEQUENCE:0
+SUMMARY:CBCS Culvers Day
+URL:http://www.cbcs.org/event/cbcs-culvers-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5039@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Youth Ministries
+CONTACT:Pastor Dwayne Morris\; 920-261-7237\; dmorris@cbcs.org
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151025
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:Teen Activity-Corn Maze
+URL:http://www.cbcs.org/event/teen-activity-corn-maze/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5006@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Calvary Baptist Christian School
+CONTACT:School Office\; 920-262-0612\; mani@cbcs.org
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151123
+DTEND;VALUE=DATE:20151128
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Christian School @ 792 Milford Street\, Watertown\
+ , WI 53094\, USA
+SEQUENCE:0
+SUMMARY:CBCS-Thanksgiving Break
+URL:http://www.cbcs.org/event/cbcs-thanksgiving-break/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5012@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES:
+CONTACT:Church\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151125
+DTEND;VALUE=DATE:20151126
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+SEQUENCE:0
+SUMMARY:No Services
+URL:http://www.cbcs.org/event/no-services-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5010@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Special Events
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151126
+DTEND;VALUE=DATE:20151128
+SEQUENCE:0
+SUMMARY:Happy Thanksgiving-CBCS & CBC Offices Closed
+URL:http://www.cbcs.org/event/happy-thanksgiving/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5045@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Special Events
+CONTACT:Church Office\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151223
+DTEND;VALUE=DATE:20151224
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:No Services
+URL:http://www.cbcs.org/event/no-services-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5043@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Special Events
+CONTACT:Church Office\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151224
+DTEND;VALUE=DATE:20151226
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:Merry Christmas-CBCS/CBC Offices Closed
+URL:http://www.cbcs.org/event/merry-christmas-cbcscbc-offices-closed/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4970@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Children's Ministries
+CONTACT:Pastor Randy Krystowiak\; 920-349-2967\; rkrystowiak@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T184500
+DTEND;TZID=America/Chicago:20150923T200000
+EXDATE;TZID=America/Chicago:20150901T184500
+EXDATE;TZID=America/Chicago:20151125T184500
+EXDATE;TZID=America/Chicago:20151223T184500
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Truth Trackers
+URL:http://www.cbcs.org/event/truth-trackers/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4968@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Youth Ministries
+CONTACT:Pastor Dwayne Morris\; (920) 261-7237\; dmorris@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T184500
+DTEND;TZID=America/Chicago:20150923T194500
+EXDATE;TZID=America/Chicago:20151125T184500
+EXDATE;TZID=America/Chicago:20151223T184500
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Youth Group
+URL:http://www.cbcs.org/event/youth-group/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4971@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Adult Ministries
+CONTACT:Calvary Baptist Church\; (920) 261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T190000
+DTEND;TZID=America/Chicago:20150923T200000
+EXDATE;TZID=America/Chicago:20151111T190000
+EXDATE;TZID=America/Chicago:20151125T190000
+EXDATE;TZID=America/Chicago:20151223T190000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Prayer Meeting
+URL:http://www.cbcs.org/event/prayer-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4972@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Adult Ministries
+CONTACT:Calvary Baptist Church\; (920) 261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T190000
+DTEND;TZID=America/Chicago:20150923T200000
+EXDATE;TZID=America/Chicago:20151125T190000
+EXDATE;TZID=America/Chicago:20151223T190000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Raven Ministry
+URL:http://www.cbcs.org/event/raven-ministry/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4997@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Ann Bolton\; 920-342-2284\; ann.bolton@mbu.edu
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150923T190000
+DTEND;TZID=America/Chicago:20150923T200000
+EXDATE;TZID=America/Chicago:20151125T190000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151209T235959Z;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Sign Language Class
+URL:http://www.cbcs.org/event/sign-language-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4974@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Women's Ministries
+CONTACT:Janet Tschida
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150924T070000
+DTEND;TZID=America/Chicago:20150924T080000
+GEO:+43.198127;-88.757093
+LOCATION:Connection Cafe @ 1308 West Main Street\, Watertown\, WI 53094\, U
+ SA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Ladies’ Bible Memory
+URL:http://www.cbcs.org/event/ladies-bible-memory/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4969@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Pastor Dean Kurtz\; (920) 261-7237\; dkurtz@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150925T190000
+DTEND;TZID=America/Chicago:20150925T210000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY:Newfocus
+URL:http://www.cbcs.org/event/newfocus/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4973@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Men's Ministries
+CONTACT:Pastor Robert Loggans\; (920) 261-7237\; bloggans@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150926T083000
+DTEND;TZID=America/Chicago:20150926T093000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Men’s Bible Study
+URL:http://www.cbcs.org/event/mens-bible-study/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4965@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Calvary Baptist Church\; (920) 261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150927T090000
+DTEND;TZID=America/Chicago:20150927T094500
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday School
+URL:http://www.cbcs.org/event/sunday-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4966@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Calvary Baptist Church \; (920) 261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150927T100000
+DTEND;TZID=America/Chicago:20150927T111000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Morning Worship Service
+URL:http://www.cbcs.org/event/morning-worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4967@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Calvary Baptist Church\; (920) 261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150927T170000
+DTEND;TZID=America/Chicago:20150927T180000
+EXDATE;TZID=America/Chicago:20150920T170000
+EXDATE;TZID=America/Chicago:20151004T170000
+EXDATE;TZID=America/Chicago:20151011T170000
+EXDATE;TZID=America/Chicago:20151025T170000
+EXDATE;TZID=America/Chicago:20151101T170000
+EXDATE;TZID=America/Chicago:20151108T170000
+EXDATE;TZID=America/Chicago:20151122T170000
+EXDATE;TZID=America/Chicago:20151206T170000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church  @ 792 Milford Street\, Watertown\, WI 5309
+ 4\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Evening Worship Service
+URL:http://www.cbcs.org/event/evening-worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4982@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Youth Ministries
+CONTACT:Pastor Dwayne Morris\; (920) 261-7237\; dmorris@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150927T183000
+DTEND;TZID=America/Chicago:20150927T200000
+SEQUENCE:0
+SUMMARY:Teen Afterglow – Bacon
+URL:http://www.cbcs.org/event/teen-afterglow/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5032@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Special Events
+CONTACT:Church Office\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150928T190000
+DTEND;TZID=America/Chicago:20150928T200000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:Ladies’ Night-Missions Conference
+URL:http://www.cbcs.org/event/ladies-only-night-missions-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5033@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Church Office\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20150929T190000
+DTEND;TZID=America/Chicago:20150929T200000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:Men’s Night-Missions Conference
+URL:http://www.cbcs.org/event/mens-night-missions-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4987@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Women's Ministries
+CONTACT:Kaite Washetas\; 920-285-1839\; katie.washetas@gmail.com
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151001T093000
+DTEND;TZID=America/Chicago:20151001T113000
+GEO:+39.274422;-80.362232
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown WI 53094
+RRULE:FREQ=MONTHLY;COUNT=4;BYDAY=1TH
+SEQUENCE:0
+SUMMARY:Mornings for Moms
+URL:http://www.cbcs.org/event/mornings-for-moms/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5034@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Church Office\; 920-261-2737\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151004T170000
+DTEND;TZID=America/Chicago:20151004T180000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:The Lord’s Supper/Others Offering
+URL:http://www.cbcs.org/event/the-lords-supperothers-offering-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5037@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Calvary Baptist Christian School
+CONTACT:Pastor Randy Krystowiak\; 92-261-7237\; rkrystowiak@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151006T183000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Christian School @ 792 Milford St\, Watertown\, WI
+  53094\, USA
+SEQUENCE:0
+SUMMARY:CBCS Board Meeting
+URL:http://www.cbcs.org/event/cbcs-board-meeting/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5035@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Church Office\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151011T170000
+DTEND;TZID=America/Chicago:20151011T180000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:Seminary Night
+URL:http://www.cbcs.org/event/seminary-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5036@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Church Office\; 920-261-7237\; Calvary@cbcs\,org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151025T170000
+DTEND;TZID=America/Chicago:20151025T180000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:Ben Everson
+URL:http://www.cbcs.org/event/ben-everson/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5000@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES:
+CONTACT:Church\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151101T170000
+DTEND;TZID=America/Chicago:20151101T180000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+SEQUENCE:0
+SUMMARY:The Lord’s Supper/Other’s Offering
+URL:http://www.cbcs.org/event/the-lords-supperothers-offering/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5002@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Calvary Baptist Christian School
+CONTACT:School Office\; 920-262-0612\; main@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151106T190000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Christian School @ 792 Milford Street\, Watertown\
+ , WI 53094\, USA
+SEQUENCE:0
+SUMMARY:CBCS Program-Around The World
+URL:http://www.cbcs.org/event/cbcs-program-around-the-world/
+X-INSTANT-EVENT:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5003@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES:
+CONTACT:Church\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151108T170000
+DTEND;TZID=America/Chicago:20151108T180000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+SEQUENCE:0
+SUMMARY:Tom Eckman-Missionary Report\, Argentina
+URL:http://www.cbcs.org/event/tom-eckman-missionary-report-argentina/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5004@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES:
+CONTACT:Church\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151111T190000
+DTEND;TZID=America/Chicago:20151111T200000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+SEQUENCE:0
+SUMMARY:Veteran’s Service
+URL:http://www.cbcs.org/event/veterans-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5005@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES:
+CONTACT:Church\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151122T170000
+DTEND;TZID=America/Chicago:20151122T180000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+SEQUENCE:0
+SUMMARY:Ron Fruin-Missionary Report\, Cambodia
+URL:http://www.cbcs.org/event/ron-fruin-missionary-report-cambodia/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5007@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES:
+CONTACT:Church\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151124T180000
+DTEND;TZID=America/Chicago:20151124T190000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+SEQUENCE:0
+SUMMARY:Thanksgiving Carry-In Dinner
+URL:http://www.cbcs.org/event/thanksgiving-carry-in-dinner/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5009@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES:
+CONTACT:Church\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151124T190000
+DTEND;TZID=America/Chicago:20151124T200000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford Street\, Watertown\, WI 53094
+ \, USA
+SEQUENCE:0
+SUMMARY:Thanksgiving Service
+URL:http://www.cbcs.org/event/thanksgiving-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5042@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Special Events
+CONTACT:Church Office\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151205T190000
+DTEND;TZID=America/Chicago:20151205T200000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:Christmas Musical
+URL:http://www.cbcs.org/event/christmas-musical-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5040@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Services
+CONTACT:Calvary Baptist Church\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151206T170000
+DTEND;TZID=America/Chicago:20151206T180000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:Christmas Musical
+URL:http://www.cbcs.org/event/christmas-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5041@www.cbcs.org
+DTSTAMP:20150921T225707Z
+CATEGORIES;LANGUAGE=en-US:Calvary Baptist Christian School
+CONTACT:School Office \; 920-262-0612\; main@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151213T153000
+DTEND;TZID=America/Chicago:20151213T163000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:CBCS Christmas Program
+URL:http://www.cbcs.org/event/cbcs-christmas-program/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5044@www.cbcs.org
+DTSTAMP:20150921T225708Z
+CATEGORIES:
+CONTACT:Church Office\; 920-261-7237\; calvary@cbcs.org
+DESCRIPTION:
+DTSTART;TZID=America/Chicago:20151224T180000
+DTEND;TZID=America/Chicago:20151224T190000
+GEO:+43.17666;-88.750626
+LOCATION:Calvary Baptist Church @ 792 Milford St\, Watertown\, WI 53094\, U
+ SA
+SEQUENCE:0
+SUMMARY:Christmas Eve Sacred Concert
+URL:http://www.cbcs.org/event/christmas-eve-sacred-concert/
+END:VEVENT
+END:VCALENDAR

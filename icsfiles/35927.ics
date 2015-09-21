@@ -23,45 +23,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-1664@crystalcoastmom.com
-DTSTAMP:20150920T002139Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Ages 13-18. The Teen Writing Group is a place for teens to b
- ring in their written works for peer review and critique. This is the plac
- e to go for sharing your literary pieces and getting helpful advice.  Not 
- every Saturday. Call (252) 393-6500 for more information.</p>
-DTSTART;TZID=America/New_York:20150919T103000
-DTEND;TZID=America/New_York:20150919T113000
-LOCATION:Western Carteret Public Library\, Cape Carteret
-RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
-SEQUENCE:0
-SUMMARY:Teen Writing Group
-URL:http://crystalcoastmom.com/event/teen-writing-group-west-carteret-publi
- c-library/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-872@crystalcoastmom.com
-DTSTAMP:20150920T002139Z
-CATEGORIES;LANGUAGE=en-US:Indoor
-CONTACT:Betty \; 252-269-1087
-DESCRIPTION:<p>Carolina Artist Studio Gallery in Morehead City will be hold
- ing free art classes for children every Saturday from 6:00-8:00 pm startin
- g in January. Ages 6 and up. Call 252-269-1087 for more information.</p>
-DTSTART;TZID=America/New_York:20150919T180000
-DTEND;TZID=America/New_York:20150919T200000
-GEO:+34.720784;-76.712916
-LOCATION:Carolina Artist Studio Gallery @ 801 Arendell Street\, Morehead Ci
- ty\, NC 28557\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
-SEQUENCE:0
-SUMMARY:Free Art Classes for Children
-URL:http://crystalcoastmom.com/event/free-art-classes-for-children/
-X-COST:Free of Charge
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-355@crystalcoastmom.com
-DTSTAMP:20150920T002139Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Indoor
 CONTACT:Patrick Conneely\; (252) 247-7281
 DESCRIPTION:<p>Chik-fil-A offers Family Nights to bring families together t
@@ -78,7 +41,7 @@ URL:http://crystalcoastmom.com/event/chik-fil-a-family-night/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-368@crystalcoastmom.com
-DTSTAMP:20150920T002139Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Indoor
 CONTACT:Ms. Laura\; 252-726-3012
 DESCRIPTION:<p>Suitable for ages 2-4 with their caregivers. Meets 10:30 Wed
@@ -98,7 +61,7 @@ X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1032@crystalcoastmom.com
-DTSTAMP:20150920T002139Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Indoor
 CONTACT:252.354.6350
 DESCRIPTION:<p>Bowling is played on a Wii console. It’s fun\, energetic\, a
@@ -118,7 +81,7 @@ X-COST:Free of charge
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-364@crystalcoastmom.com
-DTSTAMP:20150920T002139Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Indoor
 CONTACT:252.247.0066
 DESCRIPTION:<p>Open gym with mini bounce houses\, ball pits and trampolines
@@ -137,7 +100,7 @@ X-COST:$5 per child
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-910@crystalcoastmom.com
-DTSTAMP:20150920T002139Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Indoor
 CONTACT:Lynn Golitz\; 252-723-9516\; blusail@ec.rr.com
 DESCRIPTION:<p>This After School Program in Acrylics is ideal for the young
@@ -168,7 +131,7 @@ X-COST:$80 per month
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1662@crystalcoastmom.com
-DTSTAMP:20150920T002139Z
+DTSTAMP:20150921T224707Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>A fun program for 13-18 year olds\, based on a book or pop c
@@ -190,8 +153,45 @@ URL:http://crystalcoastmom.com/event/destinations-west-carteret-public-libr
  ary/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1664@crystalcoastmom.com
+DTSTAMP:20150921T224707Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Ages 13-18. The Teen Writing Group is a place for teens to b
+ ring in their written works for peer review and critique. This is the plac
+ e to go for sharing your literary pieces and getting helpful advice.  Not 
+ every Saturday. Call (252) 393-6500 for more information.</p>
+DTSTART;TZID=America/New_York:20150926T103000
+DTEND;TZID=America/New_York:20150926T113000
+LOCATION:Western Carteret Public Library\, Cape Carteret
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Teen Writing Group
+URL:http://crystalcoastmom.com/event/teen-writing-group-west-carteret-publi
+ c-library/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-872@crystalcoastmom.com
+DTSTAMP:20150921T224707Z
+CATEGORIES;LANGUAGE=en-US:Indoor
+CONTACT:Betty \; 252-269-1087
+DESCRIPTION:<p>Carolina Artist Studio Gallery in Morehead City will be hold
+ ing free art classes for children every Saturday from 6:00-8:00 pm startin
+ g in January. Ages 6 and up. Call 252-269-1087 for more information.</p>
+DTSTART;TZID=America/New_York:20150926T180000
+DTEND;TZID=America/New_York:20150926T200000
+GEO:+34.720784;-76.712916
+LOCATION:Carolina Artist Studio Gallery @ 801 Arendell Street\, Morehead Ci
+ ty\, NC 28557\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Free Art Classes for Children
+URL:http://crystalcoastmom.com/event/free-art-classes-for-children/
+X-COST:Free of Charge
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-261@crystalcoastmom.com
-DTSTAMP:20150920T002139Z
+DTSTAMP:20150921T224707Z
 CATEGORIES;LANGUAGE=en-US:Indoor
 CONTACT:252.354.6350
 DESCRIPTION:<p>Movies are family oriented and the event is open to the publ

@@ -23,26 +23,8 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-323@www.ebvocalstudio.it/wp
-DTSTAMP:20150920T002200Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p><a href='http://www.ebvocalstudio.it/wp/wp-content/uploads/2
- 015/08/openday.jpg'><img class='alignnone size-medium wp-image-326' src='h
- ttp://www.ebvocalstudio.it/wp/wp-content/uploads/2015/08/openday-212x300.j
- pg' alt='openday' width='212' height='300' /></a></p>
-DTSTART;TZID=Europe/Rome:20150919T100000
-DTEND;TZID=Europe/Rome:20150919T190000
-GEO:+45.676778;+9.233589
-LOCATION:EB Vocal Studio @ Via Silvio Pellico\, 17\, 20841 Carate Brianza M
- B\, Italia
-SEQUENCE:0
-SUMMARY:Open Day
-URL:http://www.ebvocalstudio.it/wp/event/open-day/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-319@www.ebvocalstudio.it/wp
-DTSTAMP:20150920T002200Z
+DTSTAMP:20150921T224729Z
 CATEGORIES:
 CONTACT:EB Vocal Studio\; + 39 348 75 04 731\; info@ebvocalstudio.it\; http
  ://www.ebvocalstudio.it
@@ -72,7 +54,7 @@ X-COST:70 euro
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-320@www.ebvocalstudio.it/wp
-DTSTAMP:20150920T002200Z
+DTSTAMP:20150921T224729Z
 CATEGORIES:
 CONTACT:EB Vocal Studio\; + 39 348 75 04 731\; info@ebvocalstudio.it\; http
  ://www.ebvocalstudio.it

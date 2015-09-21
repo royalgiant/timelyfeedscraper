@@ -23,70 +23,8 @@ TZNAME:MDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-8504@muirlakealliance.ca
-DTSTAMP:20150920T002144Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p><a href='http://muirlakealliance.ca/wp-content/uploads/2014/
- 11/Friday-Night-Plans.jpg'><img class='alignnone size-medium wp-image-3089
- ' src='http://muirlakealliance.ca/wp-content/uploads/2014/11/Friday-Night-
- Plans-231x300.jpg' alt='Friday Night Plans' width='231' height='300' /></a
- ></p>\n<p>We are meeting at the church this Friday to play GAMES!</p>\n<p>
- Bring a friend and join us!!  7:00 p.m. to 10:00 p.m.</p>
-DTSTART;TZID=America/Edmonton:20150918T190000
-DTEND;TZID=America/Edmonton:20150918T220000
-LOCATION:Muir Lake Community Alliance Church
-SEQUENCE:0
-SUMMARY:Friday Night Plans
-URL:http://muirlakealliance.ca/event/friday-night-plans-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-8501@muirlakealliance.ca
-DTSTAMP:20150920T002144Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>We try to create a casual atmosphere where you can meet new 
- friends\, get to know your neighbours and listen to messages relating to r
- eal\, everyday life.</p>\n<p>Please join us for songs of praise\, and a me
- ssage – Sunday mornings beginning at 10:00 a.m.</p>
-DTSTART;TZID=America/Edmonton:20150920T100000
-DTEND;TZID=America/Edmonton:20150920T111500
-GEO:+53.453859;-113.992507
-LOCATION:Muir Lake Community Alliance Church
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Sunday Morning Worship Service
-URL:http://muirlakealliance.ca/event/sunday-morning-worship-service/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-8502@muirlakealliance.ca
-DTSTAMP:20150920T002144Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p><a href='http://muirlakealliance.ca/wp-content/uploads/2014/
- 11/kidzone-logo.png'><img class='alignnone size-medium wp-image-3090' src=
- 'http://muirlakealliance.ca/wp-content/uploads/2014/11/kidzone-logo-300x19
- 8.png' alt='kidzone logo' width='300' height='198' /></a></p>\n<p>Parents\
- , bring your kids downstairs to Kid Zone where they can sing songs\, play 
- games and make crafts!  All while learning about God and His LOVE for us!!
- </p>\n<p>We offer the following for your children…</p>\n<p>Nursery for Age
- s 0 to 3 years – We offer a supervised nursery for your little ones to pla
- y while you get a break and enjoy the service.  (Parents are asked to sign
-  their children in and out.)</p>\n<p>Preschool Class for Ages 4 to Kinderg
- arten – (Parents are asked to sign their children in and out.)</p>\n<p>Low
- er Elementary Class for Grades 1 to 3</p>\n<p>Upper Elementary Class for G
- rades 4 to 6</p>
-DTSTART;TZID=America/Edmonton:20150920T101500
-DTEND;TZID=America/Edmonton:20150920T111500
-LOCATION:Muir Lake Community Alliance Church
-RRULE:FREQ=WEEKLY;UNTIL=20160626T235959Z;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Kid Zone – Sunday Mornings
-URL:http://muirlakealliance.ca/event/kid-zone-sunday-mornings/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-8507@muirlakealliance.ca
-DTSTAMP:20150920T002144Z
+DTSTAMP:20150921T224647Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><a href='http://muirlakealliance.ca/wp-content/uploads/2015/
@@ -106,7 +44,7 @@ URL:http://muirlakealliance.ca/event/ladies-morning-out-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-8505@muirlakealliance.ca
-DTSTAMP:20150920T002144Z
+DTSTAMP:20150921T224647Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p><a href='http://muirlakealliance.ca/wp-content/uploads/2015/
@@ -121,5 +59,71 @@ LOCATION:Muir Lake Community Alliance Church
 SEQUENCE:0
 SUMMARY:Friday Night Plan – CAR WASH!!
 URL:http://muirlakealliance.ca/event/friday-night-plan-car-wash/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8501@muirlakealliance.ca
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>We try to create a casual atmosphere where you can meet new 
+ friends\, get to know your neighbours and listen to messages relating to r
+ eal\, everyday life.</p>\n<p>Please join us for songs of praise\, and a me
+ ssage – Sunday mornings beginning at 10:00 a.m.</p>
+DTSTART;TZID=America/Edmonton:20150927T100000
+DTEND;TZID=America/Edmonton:20150927T111500
+GEO:+53.453859;-113.992507
+LOCATION:Muir Lake Community Alliance Church
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Sunday Morning Worship Service
+URL:http://muirlakealliance.ca/event/sunday-morning-worship-service/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8502@muirlakealliance.ca
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p><a href='http://muirlakealliance.ca/wp-content/uploads/2014/
+ 11/kidzone-logo.png'><img class='alignnone size-medium wp-image-3090' src=
+ 'http://muirlakealliance.ca/wp-content/uploads/2014/11/kidzone-logo-300x19
+ 8.png' alt='kidzone logo' width='300' height='198' /></a></p>\n<p>Parents\
+ , bring your kids downstairs to Kid Zone where they can sing songs\, play 
+ games and make crafts!  All while learning about God and His LOVE for us!!
+ </p>\n<p>We offer the following for your children…</p>\n<p>Nursery for Age
+ s 0 to 3 years – We offer a supervised nursery for your little ones to pla
+ y while you get a break and enjoy the service.  (Parents are asked to sign
+  their children in and out.)</p>\n<p>Preschool Class for Ages 4 to Kinderg
+ arten – (Parents are asked to sign their children in and out.)</p>\n<p>Low
+ er Elementary Class for Grades 1 to 3</p>\n<p>Upper Elementary Class for G
+ rades 4 to 6</p>
+DTSTART;TZID=America/Edmonton:20150927T101500
+DTEND;TZID=America/Edmonton:20150927T111500
+LOCATION:Muir Lake Community Alliance Church
+RRULE:FREQ=WEEKLY;UNTIL=20160626T235959Z;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Kid Zone – Sunday Mornings
+URL:http://muirlakealliance.ca/event/kid-zone-sunday-mornings/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8516@muirlakealliance.ca
+DTSTAMP:20150921T224647Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>We are heading into Edmonton to join <a href='http://www.gat
+ ewayalliancechurch.com/xlr8-youth/'>Gateway Alliance</a> for their monthly
+  OUTBREAK evening of fun games and worship!</p>\n<p>Meet at the church at 
+ 6:30 for rides\, and we should be back at the church by 10:00 for pick-up.
+ </p>\n<p><a href='http://muirlakealliance.ca/index.php?aam_media=3089'><im
+ g class='alignnone size-medium wp-image-3089' src='http://muirlakealliance
+ .ca/index.php?aam_media=3089&size=medium' alt='Friday Night Plans' width='
+ 231' height='300' /></a></p>
+DTSTART;TZID=America/Edmonton:20151002T183000
+DTEND;TZID=America/Edmonton:20151002T213000
+GEO:+53.60204;-113.56126
+LOCATION:Gateway Alliance Church Edmonton @ 13931 140 St NW\, Edmonton\, AB
+  T6V 1J8\, Canada
+SEQUENCE:0
+SUMMARY:Friday Night Plans – Outbreak @ Gateway
+URL:http://muirlakealliance.ca/event/friday-night-plans-outbreak-gateway/
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,970 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-Cookie
-</pre>/n</p>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//77.66.30.241//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://kano-kajak.org
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+X-LIC-LOCATION:Europe/Copenhagen
+BEGIN:STANDARD
+DTSTART:20151025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20160327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-15663@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Internationalt + diverse
+CONTACT:
+DESCRIPTION:<p><strong>Ladies and Gentlemen\, Dear Sportfirends\,</strong><
+ /p>\n<p><a href='https://drive.google.com/file/d/0B29tbIB8TxcwcWZjTVN0dTY4
+ alU/view?usp=sharing'> INVITATION</a></p>\n<p>It is our pleasure to invite
+  your athletes to participate on the oldest canoe/kayak sport event held i
+ n Slovak Republic – HARGAS MEMORIAL\,</p>\n<p>which will celebrate its 70t
+ h anniversary this year.</p>\n<p><strong>HARGAS MEMORIAL 2015 is four-day 
+ marathon event taking place on 23rd – 26th of September\, 2015</strong>.</
+ p>\n<p>It is located on the Danube River\, in the area from Bratislava to 
+ Šamorín.</p>\n<p> </p>\n<p><strong>PLEASE\, FORWARD THIS INFORMATION TO CL
+ UBS IN YOUR COUNTRY.</strong></p>\n<p> </p>\n<p>The first 8 boats in the f
+ inish will be rewarded with the prize money as follows:</p>\n<p>Seniors</p
+ >\n<p>15.000\,- EUR for K2 Men</p>\n<p>10.000\,- EUR for K1 Men</p>\n<p>10
+ .000\,- EUR for K1 Women</p>\n<p>10.000\,- EUR for C1 Men</p>\n<p> </p>\n<
+ p>Juniors</p>\n<p>5.000\,- EUR for K1 Men</p>\n<p>5.000\,- EUR for K1 Wome
+ n</p>\n<p> </p>\n<p>We are kindly asking you to inform your athletes to ma
+ ke entries by themselves through the web page <a href='http://www.hargasov
+ memorial.sk/'>www.hargasovmemorial.sk</a>.</p>\n<p>Closing date for all en
+ tries is 13th of September\, 2015.</p>\n<p>After the receipt of the entrie
+ s we will directly contact all competitors regarding further</p>\n<p>neces
+ sary information.</p>\n<p>Accreditation of competitors will be held in are
+ a of the ELEMENTS RESORT in Šamorín.</p>\n<p> </p>\n<p>For more informatio
+ n do not hesitate to contact us by email: <a href='mailto:info@hargasovmem
+ orial.sk'>info@hargasovmemorial.sk</a></p>\n<p> </p>\n<p>Best regards\,</p
+ >\n<p><strong> </strong></p>\n<p>Boris Bergendi</p>\n<p>Slovak Canoe Assoc
+ iation</p>\n<p> </p>
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150927
+SEQUENCE:0
+SUMMARY:HARGAS MEMORIAL 2015
+URL:http://kano-kajak.org/event/hargas-memorial-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14041@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p><strong>Forudsætninger:<br />\n</strong>Gennemført DKF Instr
+ uktør 3 (hav) kursus<br />\nEPP 4 (hav) *Min. 20 år<br />\nGyldigt førsteh
+ jælpsbevis på min. 12 timer<br />\nLogbog (min 2 års erfaring som DKF Inst
+ ruktør 2 (hav) med undervisning af forskellige grupper. Have roet min. 500
+  km og/eller 200 timer</p>\n<p><strong>Prøvebeskrivelse:<br />\n</strong>T
+ il denne prøve testes din forståelse af og viden om de undervisningsmetode
+ r og værktøjer\, du anvender. Det forventes\, at du både er i stand til at
+  formidle til grupper samt evaluere og dygtiggøre individuelle instruktøre
+ r og udøvere. Du besidder et meget bredt kendskab til havkajakroning og ka
+ n arbejde lang- og kortsigtet med strukturerede og mindre strukturerede un
+ dervisningsforløb. Prøven består af en række forberedte og uforberedte und
+ ervisningsopgaver.OBS: Du skal forvente\, at der ca. 4 uger før prøvedatoe
+ n udsendes opgaver\, der skal forberedes til prøvedagene. Du skal ligelede
+ s sørge for\, at du har en udførlig logbog klar til indsendelse ca. 4 uger
+  før prøven. Hvis det skønnes at du ikke lever op til logbogskravene\, kan
+  censorer vælge\, at udskyde din prøveaflæggelse til manglerne er bragt i 
+ orden.</p>\n<p><strong>Medbring:<br />\n</strong>Alt udstyr\, rotøj og kaj
+ ak + pagaj. Materiale fra tidligere kurser. Sengetøj og håndklæder.</p>\n<
+ p><strong>Sted: </strong>Øst (Endnu ikke bekræftet)</p>\n<p><strong>Varigh
+ ed:<br />\n</strong>Dag 1: 10-22<br />\nDag 2: 9-16</p>\n<p><strong>Overna
+ tning:</strong> Kun ved tilvalg.</p>\n<p><strong>Forplejning:</strong> Ja.
+ </p>\n<p><strong>Pris:<br />\n</strong></p>\n<p>Uden overnatning 2645\,00<
+ br />\nMed overnatning 2970\,00</p>\n<p> </p>\n<p><strong>NB:<br />\n</str
+ ong>Du skal være opmærksom på\, at en deltagerliste med mailadresser sende
+ s rundt til alle tilmeldte deltagere ved oprettelse af kursus\, så I selv 
+ indbyrdes kan arrangere fælles kørsel. Hvis ikke du ønsker dit navn på en 
+ sådan liste\, skal du gøre opmræksom på det ved tilmelding.</p>\n<p><stron
+ g>Tilmelding:<br />\n</strong><a href='http://kanokajakkurser.dk/index.php
+ ?main_page=product_info&cPath=219_222&products_id=1023'>Brug dette link</a
+ >. Husk at have dit eventuelle licensnummer klar.</p>\n<p><strong>Tilmeldi
+ ngsfrist:21/08/2015</strong></p>\n<p><strong>Venteliste:</strong> Hvis kur
+ set/prøven er overtegnet\, kan du skrive dig på en venteliste\, brug dette
+  <a href='https://docs.google.com/forms/d/1HLfxGsCD4ufxEHO6YRhjtSvD9izKDLM
+ XZnxAJGD6d8E/edit?usp=sharing'>link</a>.</p>\n<p> </p>\n<p> </p>\n<p> </p>
+ \n<p> </p>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150928
+LOCATION:Ikke fastlagt
+SEQUENCE:0
+SUMMARY:DKF instruktør 3 Hav Prøve – I3P02
+URL:http://kano-kajak.org/event/dkf-instruktoer-3-hav-proeve-i3p02/
+X-TAGS;LANGUAGE=da-DK:EPP\,Havkajak
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15756@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Internationalt + diverse\,Landshold &amp\; Elite
+CONTACT:
+DESCRIPTION:<p>Læs mere <a href='https://drive.google.com/file/d/0B29tbIB8T
+ xcwak5vem9qWjRSZFE/view?usp=sharing'>HER</a></p>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150928
+SEQUENCE:0
+SUMMARY:International Marathon of the Loire 2015
+URL:http://kano-kajak.org/event/international-marathon-of-the-loire-2015/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13660@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:<p>Læs mere på klubbens hjemmeside\, hvor invitationen og tilme
+ ldingslisten kan findes.</p>\n<p><a href='http://www.lyngby-kanoklub.dk/'>
+ LINK</a></p>\n<p> </p>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150927
+SEQUENCE:0
+SUMMARY:Mølleåens Blå Bånd – Lyngby
+URL:http://kano-kajak.org/event/moelleaaens-blaa-baand-lyngby/
+X-TAGS;LANGUAGE=da-DK:Konkurrence\,Løb
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14408@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Discipliner\,Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:<p><strong>Pris: Kr. 875<br />\nSted: Klitmøller<br />\nTilmeld
+ ing og betaling: <a href='http://kanokajakkurser.dk/index.php?main_page=pr
+ oduct_info&cPath=216&products_id=1070'>LINK</a></strong></p>\n<p> </p>\n<p
+ ><img class='aligncenter wp-image-6137 size-full' src='http://kano-kajak.o
+ rg/wp-content/uploads/2013/03/surf-2.jpg' alt='surf - 2' width='977' heigh
+ t='480' /></p>\n<p>Surfsymposium er modsat surfsamlingen fyldt med worksho
+ ps og muligheden for at lære teknikken omkring bølgesurf.</p>\n<p> </p>\n<
+ p>Symposiet byder på workshops med både havkajak og surfkajak\, så man som
+  havkajakroer kan få styr på sin teknik i høj bølgegang\, eller få sin før
+ ste tur i en surfkajak.</p>\n<p> </p>\n<h4>Også til de erfarne</h4>\n<p>De
+ r er også lektioner for de mere erfarne surfkajakroere\, som gerne vil pud
+ se teknikken lidt af og lære mere af de certificerede instruktører\, som s
+ tår for undervisningen. Man er velkommen til at tage sine klubkammerater m
+ ed sig og få en fælles oplevelse\, man kan tage med hjem. Bølgerne skal no
+ k stå for underholdningen.</p>\n<p> </p>\n<p> </p>\n<h4>Bølger og forplejn
+ ing</h4>\n<p>Surfsymposiet afholdes i eller omkring Cold Hawaii og der arr
+ angeres overnatning samt forplejning både lørdag og søndag. Symposiet har 
+ ud over workshops\, også foredrag og fitning af kajakker\, samt lektioner 
+ i rul i bølger.</p>\n<p> </p>\n<h4>DM i Surfkajak</h4>\n<p>Surfsymposiet b
+ yder på lidt for enhver\, som har lyst til udvide sin kajakhorisont i tryg
+ ge rammer. I forbindelse med Surfsumposium afholder Surfarbejdsgruppen DM 
+ i Surfkajak\, som deltagerne har mulighed for at tage del i eller heppe me
+ d fra sidelinjen. Der er som altid mulighed for at låne surfkajakker\, for
+  dem\, der ikke medbringer deres egen.</p>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150928
+SEQUENCE:0
+SUMMARY:Surfsymposium\, Klitmøller
+URL:http://kano-kajak.org/event/surfsymposium-klitmoeller-modsat-surfsamlin
+ gen-fyldt-med-workshops-og-muligheden-for-at-laere-teknikken-omkring-boelg
+ esurf/
+X-TAGS;LANGUAGE=da-DK:surfkajakcup\; surfkajak\,surfkajaksymposium
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15729@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Børn &amp\; Unge\,Discipliner\,Facebook\,Uddannel
+ se
+CONTACT:
+DESCRIPTION:<h3>Invitation fra DIF til Uddannelsesdag 2015:</h3>\n<p>DIF ha
+ r hermed glæden af at invitere jeres (DKF’s) undervisere til en spændende 
+ dag i Brøndby den 26. september 2015. Uddannelsesdagen er en kombination a
+ f et “skulderklap” og en ambition om at give jeres undervisere inspiration
+  til deres virke som undervisere i DIF og specialforbundene. Programmet ru
+ mmer både fælles emner og specifikke emner indenfor træning og ledelse. He
+ rudover er der god mulighed for at erfaringsudveksle og netværke med de øv
+ rige deltagere. Sted: Idrættens Hus\, Brøndby Stadion 20\, 2605 Brøndby.</
+ p>\n<h3>Se program <span style='color: #ff0000\;'><a style='color: #ff0000
+ \;' href='https://drive.google.com/file/d/0B1kdNDsMwKFoc2xXc0g2QWVEUkE/vie
+ w?usp=sharing'>her</a></span>.</h3>\n<p>DKF vil tilbyde op til 4 undervise
+ re at komme med til dette efter princippet ‘først til mølle’.<br />\nForbu
+ ndet betaler for din deltagelse.<br />\nDog\, hvis du melder fra senere en
+ d 10 dage før arrangementet\, betaler du selv.</p>\n<p><span style='line-h
+ eight: 1.5\;'>Skriv til mh@kano-kajak.dk\, hvis du er interesseret.</span>
+ </p>\n<div class='mainWrapper'>\n<div id='main' class='wrapper'>\n<div cla
+ ss='contentWrapper'>\n<div id='content'>\n<div class='cm-location-info'>\n
+ <p><strong><em>Sidste frist for tilmelding er den 1. september 2015.</em><
+ /strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>
+DTSTART;VALUE=DATE:20150926
+DTEND;VALUE=DATE:20150927
+SEQUENCE:0
+SUMMARY:Uddannelsesdag for undervisere i alle forbund
+URL:http://kano-kajak.org/event/uddannelsesdag-for-undervisere-i-alle-forbu
+ nd/
+X-TAGS;LANGUAGE=da-DK:DIF\,Instruktør\,Træner\,Uddannelse\,Undervisere
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14410@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:<p><img class='aligncenter wp-image-6954' src='http://kano-kaja
+ k.org/wp-content/uploads/2013/04/P4270237-300x225.jpg' alt='DKF surfsamlin
+ g april 2013' width='300' height='225' /></p>\n<p>Søndag d. 27. september 
+ afvikles DM i Surfkajak\, hvor alle uanset niveau kan stille op.</p>\n<p>D
+ esuden afvikles Denmark Open\, hvor også internationale deltagere har muli
+ ghed for at stille op og teste niveau mod de danske surfere. DM afsluttes 
+ med præmieoverrækkelse og tak til sponsorer og frivillige.</p>
+DTSTART;VALUE=DATE:20150927
+DTEND;VALUE=DATE:20150928
+SEQUENCE:0
+SUMMARY:DM i Surfkajak
+URL:http://kano-kajak.org/event/dm-i-surfkajak/
+X-TAGS;LANGUAGE=da-DK:Surfkajak\,surfkajakcup\,surfkajaksymposium
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14157@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p><strong>Forudsætninger:</strong> EPP 3 (tur/kap) kursus.</p>
+ \n<p><strong>Kursusbeskrivelse:</strong> Til denne prøve testes roerens te
+ knik\, sikkerhedsfærdigheder samt viden om træning. På EPP 3 er man ikke l
+ ængere at betragte som begynder\, og det forventes\, at man kan præstere o
+ g færdes sikkert og effektivt i EPP 3-forhold.</p>\n<p><strong>Medbring:</
+ strong> Alt udstyr\, rotøj og kajak + pagaj. Materiale fra tidligere kurse
+ r.</p>\n<p><strong>Sted: Vest</strong></p>\n<p><strong>Varighed:<br />\n</
+ strong><span style='font-size: 13px\;'>Dag 1: 9-17</span><span style='font
+ -size: 13px\;'><br />\n</span></p>\n<p><strong>Overnatning:</strong> Nej.<
+ /p>\n<p><strong>Forplejning:</strong> Nej.</p>\n<p><strong>Pris:</strong> 
+ (uden overnatning) 970\,00</p>\n<p><strong>NB:</strong> Du skal være opmær
+ ksom på\, at en deltagerliste med mailadresser sendes rundt til alle tilme
+ ldte deltagere efter oprettelse af kursus\, så I selv indbyrdes kan arrang
+ ere fælles kørsel. Hvis ikke du ønsker dit navn på en sådan liste\, skal d
+ u gøre opmærksom på det ved tilmelding.</p>\n<p><strong>Tilmelding: <a hre
+ f='http://kanokajakkurser.dk/index.php?main_page=product_info&cPath=218_22
+ 7&products_id=1050'>Meld til via shoppen via dette link.</a></strong><a hr
+ ef='http://kanokajakkurser.dk/index.php?main_page=product_info&cPath=218_2
+ 27&products_id=1049'> </a>Husk at have dit eventuelle licensnummer og klub
+ bens rabatkode klar!</p>\n<p><strong>Tilmeldingsfrist:</strong></p>\n<p><s
+ trong>Venteliste:</strong> Hvis kurset/prøven er overtegnet\, kan du skriv
+ e dig på en venteliste\, brug dette <a href='https://docs.google.com/forms
+ /d/1HLfxGsCD4ufxEHO6YRhjtSvD9izKDLMXZnxAJGD6d8E/edit?usp=sharing'>link</a>
+ .</p>\n<p> </p>\n<p> </p>
+DTSTART;VALUE=DATE:20150927
+DTEND;VALUE=DATE:20150928
+LOCATION:Nybro-Furå Kano og Kajakklub
+SEQUENCE:0
+SUMMARY:EPP 3 Tur/kap Prøve – EPP3TU-P04
+URL:http://kano-kajak.org/event/epp-3-turkap-proeve-epp3tu-p04/
+X-TAGS;LANGUAGE=da-DK:EPP\,Kapkajak\,Tur/kap\,Turkajak
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13661@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20150927
+DTEND;VALUE=DATE:20150928
+SEQUENCE:0
+SUMMARY:Tour de Kerteminde
+URL:http://kano-kajak.org/event/tour-de-kerteminde-2/
+X-TAGS;LANGUAGE=da-DK:Løb
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14061@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p><strong>Forudsætninger:</strong> EPP 3 HAV eller tilsvarende
+ .</p>\n<p><strong>Kursusbeskrivelse:</strong> Formålet med kurset er at gø
+ re roeren i stand til at færdes sikkert og forsvarligt på havet\, i kræven
+ de havforhold og åbent hav. inklusiv strømsteder og tidevandsstrøm. Samt g
+ øre roeren i stand til at forudsige og vurdere forhindringer\, der under s
+ ådanne forhold kan forekomme på havet\, og klare de problemer og redningss
+ ituationer\, der måtte opstå. En niveau 4 roer skal udvise ansvars- og gru
+ ppebevidsthed og kunne fungere som turleder i krævende farvand. <a href='h
+ ttp://goo.gl/ms0K2g'>Link til EPP niveaubeskrivelser</a>.</p>\n<p><strong>
+ Medbring:</strong> Kajak\, rotøj\, udstyr mv. Undervisningsmateriale fra f
+ oregående kurser. Soveudstyr: madras\, sovepose.</p>\n<p><strong>Sted:</st
+ rong> Esbjerg</p>\n<p><strong>Varighed:</strong> Dag 1: 10:00-18:00\; Dag 
+ 2: 9:00-17:00\; Dag 3: 9:00-17:00</p>\n<p><strong>Overnatning:</strong> Ja
+ . I klubhus.</p>\n<p><strong>Forplejning:</strong> Ja.</p>\n<p><strong>Pri
+ s:</strong> (med overnatning) 3700\,00</p>\n<p> </p>\n<p><strong>NB:</stro
+ ng> Du skal være opmærksom på\, at en deltagerliste med mailadresser sende
+ s rundt til alle tilmeldte deltagere efter oprettelse af kursus\, så I sel
+ v indbyrdes kan arrangere fælles kørsel. Hvis ikke du ønsker dit navn på e
+ n sådan liste\, skal du gøre opmærksom på det ved tilmelding.</p>\n<p><str
+ ong>Tilmelding:</strong> Brug dette<a href='http://kanokajakkurser.dk/inde
+ x.php?main_page=product_info&cPath=218_226&products_id=1029'> link.</a> Hu
+ sk at have dit eventuelle licensnummer klar!</p>\n<p><strong>Tilmeldingsfr
+ ist:</strong> 28/08/2015</p>\n<p><strong>Venteliste:</strong> Hvis kurset/
+ prøven er overtegnet\, kan du skrive dig på en venteliste\, brug dette <a 
+ href='https://docs.google.com/forms/d/1HLfxGsCD4ufxEHO6YRhjtSvD9izKDLMXZnx
+ AJGD6d8E/edit?usp=sharing'>link</a>.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p
+ > </p>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151005
+LOCATION:Esbjerg Kajakklub
+SEQUENCE:0
+SUMMARY:EPP 4 Hav Kursus – EPP4-K02
+URL:http://kano-kajak.org/event/epp-4-hav-kursus-epp4-k02-2/
+X-TAGS;LANGUAGE=da-DK:EPP\,Havkajak
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15758@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Internationalt + diverse
+CONTACT:
+DESCRIPTION:<p>Læs mere <a href='http://www.canoeicf.com.ua/index.php/2010-
+ 02-20-08-58-18-36'>HER</a></p>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151005
+SEQUENCE:0
+SUMMARY:International Flatwater Regatta and Marathon Rusanovka Ring
+URL:http://kano-kajak.org/event/international-flatwater-regatta-and-maratho
+ n-rusanovka-ring/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13662@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151005
+SEQUENCE:0
+SUMMARY:Efterårsregatta – Regatta Gladsaxe (foreløbig dato)
+URL:http://kano-kajak.org/event/efteraarsregatta-regatta-gladsaxe-foreloebi
+ g-dato/
+X-TAGS;LANGUAGE=da-DK:Sprint
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15812@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Internationalt + diverse
+CONTACT:
+DESCRIPTION:<p>Læs invitationen <a href='https://drive.google.com/file/d/0B
+ 29tbIB8TxcwYXlUdW5iWDMySlE/view?usp=sharing'>HER</a></p>\n<p>Yderligere in
+ formation her: <a href='http://www.kvargonauten.nl'>www.kvargonauten.nl</a
+ ></p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+SEQUENCE:0
+SUMMARY:International K4 marathon 2015 De Rijp
+URL:http://kano-kajak.org/event/international-k4-marathon-2015-de-rijp/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13700@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151004
+DTEND;VALUE=DATE:20151005
+SEQUENCE:0
+SUMMARY:O-løb: Ermelunden
+URL:http://kano-kajak.org/event/o-loeb-ermelunden/
+X-TAGS;LANGUAGE=da-DK:O-løb
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14028@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p><strong>Forudsætninger:<br />\n</strong>EPP 3 (hav) eller ti
+ lsvarende<br />\nDKF Instruktør 1 (hav)</p>\n<p><strong>Kursusbeskrivelse:
+ <br />\n</strong>Du har gennem dit arbejde som DKF Instruktør 1 fået mod p
+ å at videreudvikle din formidling af kajakfærdigheder og ledelse af aktivi
+ teter på vandet. På kurset udvides dit repertoire af praktiske\, pædagogis
+ ke og ledelsesmæssige redskaber til arbejdet med formidling af EPP 1-2 fær
+ digheder i forbindelse med frigivelsesforløb og begynderundervisning\, sam
+ t turledelse. Der arbejdes med undervisningsplanlægning\, teknikforevisnin
+ g\, lege og aktiviteter\, samt organisering og ledelse på vandet. Målet er
+ \, at du tager hjem med et godt billede af\, hvilke områder du kan udvikle
+  dig på\, og hvad der skal til for at bestå DKF Instruktør 2-prøven. <a hr
+ ef='http://goo.gl/ms0K2g'>Link til EPP niveaubeskrivelser</a>.</p>\n<p><st
+ rong>Medbring:<br />\n</strong>Alt udstyr\, rotøj og kajak + pagaj. Materi
+ ale fra tidligere kurser. Sengetøj og håndklæder.<strong><br />\n</strong>
+ </p>\n<p><strong>Sted:</strong> Kalundborg Vandrehjem</p>\n<p><strong>Vari
+ ghed:<br />\n</strong>Dag 1:10-22<br />\nDag 2: 9-16</p>\n<p><strong>Overn
+ atning:</strong> Kun ved tilvalg.</p>\n<p><strong>Forplejning:</strong> Ja
+ .</p>\n<p><strong>Pris:<br />\n</strong>Uden overnatning: 2645\,00<br />\n
+ Med overnatning: 2970\,00</p>\n<p><strong>NB:</strong></p>\n<p>Du skal vær
+ e opmærksom på\, at en deltagerliste med mailadresser sendes rundt til all
+ e tilmeldte deltagere efter oprettelse af kursus\, så I selv indbyrdes kan
+  arrangere fælles kørsel. Hvis ikke du ønsker dit navn på en sådan liste\,
+  skal du gøre opmærksom på det ved tilmelding.</p>\n<p><strong>Tilmelding:
+ <br />\n</strong>Brug dette<a href='http://kanokajakkurser.dk/index.php?ma
+ in_page=product_info&cPath=219_221&products_id=1036'> link.</a> Husk at ha
+ ve dit eventuelle licensnummer og klubbens rabatkode klar!</p>\n<p><strong
+ >Tilmeldingsfrist:</strong> 14/08/2015</p>\n<p><strong>Venteliste:</strong
+ > Hvis kurset/prøven er overtegnet\, kan du skrive dig på en venteliste\, 
+ brug dette <a href='https://docs.google.com/forms/d/1HLfxGsCD4ufxEHO6YRhjt
+ SvD9izKDLMXZnxAJGD6d8E/edit?usp=sharing'>link</a>.</p>\n<p> </p>\n<p> </p>
+ \n<p> </p>\n<p> </p>
+DTSTART;VALUE=DATE:20151010
+DTEND;VALUE=DATE:20151012
+LOCATION:Kalundborg Vandrehjem
+SEQUENCE:0
+SUMMARY:DKF instruktør 2 Hav Kursus – I2K04
+URL:http://kano-kajak.org/event/dkf-instruktoer-2-hav-kursus-i2k04/
+X-TAGS;LANGUAGE=da-DK:EPP\,Havkajak
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13663@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151011
+DTEND;VALUE=DATE:20151012
+SEQUENCE:0
+SUMMARY:Vinterræs – Kajakklubben Neptun
+URL:http://kano-kajak.org/event/vinterraes-kajakklubben-neptun/
+X-TAGS;LANGUAGE=da-DK:Vinterræs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14065@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p><strong>Forudsætninger:</strong> EPP 4 HAV KURSUS eller tils
+ varende.</p>\n<p><strong>Kursusbeskrivelse:</strong> Til denne prøve teste
+ s roerens evne til at færdes sikkert og forsvarligt på åbent hav i krævend
+ e forhold – inklusiv strømsteder og tidevandsstrøm. Desuden testes roerens
+  evne til at forudsige og vurdere forhindringer\, der under sådanne forhol
+ d kan forekomme\, samt evnen til at håndtere de problemer og redningssitua
+ tioner\, der måtte opstå. En niveau 4 roer skal udvise ansvars- og gruppeb
+ evidsthed og kunne fungere som turleder i krævende farvand. Pøven består a
+ f en praktisk og en skriftlig del. <a href='http://goo.gl/ms0K2g'>Link til
+  EPP niveaubeskrivelser</a>.</p>\n<p><strong>Medbring:</strong> Kajak\, pa
+ gaj\, ekstra pagaj\, rotøj og alt sikkerhedsudstyr. Materiale fra tidliger
+ e kurser. Soveudstyr: madras\, sovepose.</p>\n<p><strong>Sted:</strong> Es
+ bjerg</p>\n<p><strong>Varighed:</strong></p>\n<p>Dag 1: 19-22<br />\nDag 2
+ : 9-18<br />\nDag 3: 9-17</p>\n<p><strong>Overnatning:</strong> Ja. I klub
+ hus.</p>\n<p><strong>Forplejning:</strong> Ja.</p>\n<p><strong>Pris:</stro
+ ng> (med overnatning) 2645\,00</p>\n<p> </p>\n<p><strong>NB:</strong> Du s
+ kal være opmærksom på\, at en deltagerliste med mailadresser sendes rundt 
+ til alle tilmeldte deltagere efter oprettelse af kursus\, så I selv indbyr
+ des kan arrangere fælles kørsel. Hvis ikke du ønsker dit navn på en sådan 
+ liste\, skal du gøre opmærksom på det ved tilmelding.</p>\n<p><strong>Tilm
+ elding:</strong> Brug dette<a href='http://kanokajakkurser.dk/index.php?ma
+ in_page=product_info&cPath=218_226&products_id=1032'> link.</a> Husk at ha
+ ve dit eventuelle licensnummer klar!</p>\n<p><strong>Tilmeldingsfrist:</st
+ rong> 14/09/2015</p>\n<p><strong>Venteliste:</strong> Hvis kurset/prøven e
+ r overtegnet\, kan du skrive dig på en venteliste\, brug dette <a href='ht
+ tps://docs.google.com/forms/d/1HLfxGsCD4ufxEHO6YRhjtSvD9izKDLMXZnxAJGD6d8E
+ /edit?usp=sharing'>link</a>.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>
+DTSTART;VALUE=DATE:20151016
+DTEND;VALUE=DATE:20151019
+SEQUENCE:0
+SUMMARY:EPP 4 Hav Prøve – EPP4-P03
+URL:http://kano-kajak.org/event/epp-4-hav-proeve-epp4-p03/
+X-TAGS;LANGUAGE=da-DK:EPP\,Havkajak
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14035@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p><strong>Forudsætninger:<br />\n</strong>Min. 18 år<br />\nDK
+ F Instruktør 1 (hav)<br />\nEPP 3 (hav)<br />\nGennemført DKF Instruktør 2
+  (hav) kursus<br />\nFørstehjælpsbevis på min. 6 timer<br />\nLogbog (roet
+  min. 150 km)</p>\n<p><strong>Prøvebeskrivelse:<br />\n</strong>Til denne 
+ prøve testes dit kendskab til basale og let avancerede teknikker og færdig
+ heder samt grundlæggende metoder til videreformidling af disse. Du kan int
+ roducere nybegyndere til kajakroning og kan strukturere undervisnings­forl
+ øb af let erfarende roere (EPP 1-2). Det forventes\, at du på en kompetent
+  og sikker måde kan varetage ture for grupper. Prøven består af en skriftl
+ ig/teoretisk opgave\, praktiske opgaver i undervising\, formidling og fore
+ visning af EPP 1-2 færdigheder\, samt praktiske opgaver i organisation og 
+ ledelse af grupper på vandet. <a href='http://goo.gl/ms0K2g'>Link til EPP 
+ niveaubeskrivelser</a>.</p>\n<p><strong>Medbring:<br />\n</strong>Alt udst
+ yr\, rotøj og kajak + pagaj. Materiale fra tidligere kurser.</p>\n<p><stro
+ ng>Sted: Kalundborg Vandrehjem</strong></p>\n<p><strong>Varighed:<br />\n<
+ /strong>9-17</p>\n<p><strong>Overnatning: </strong>Nej</p>\n<p><strong>For
+ plejning: </strong>Nej</p>\n<p><strong>Pris: 970\,00</strong></p>\n<p><str
+ ong>NB:</strong></p>\n<p>Du skal være opmærksom på\, at en deltagerliste m
+ ed mailadresser sendes rundt til alle tilmeldte deltagere ved oprettelse a
+ f kursus\, så I selv indbyrdes kan arrangere fælles kørsel. Hvis ikke du ø
+ nsker dit navn på en sådan liste\, skal du gøre opmræksom på det ved tilme
+ lding.</p>\n<p><strong>Tilmelding:<br />\n</strong>Tilmelding foregår via 
+ shoppen – brug dette<a href='http://kanokajakkurser.dk/index.php?main_page
+ =product_info&cPath=219_221&products_id=1037'> link</a>. Husk at have dit 
+ licensnummer og klubbens rabatkode klar!</p>\n<p><strong>Tilmeldingsfrist:
+ </strong> 21/09/2015</p>\n<p><strong>Venteliste:</strong> Hvis kurset/prøv
+ en er overtegnet\, kan du skrive dig på en venteliste\, brug dette <a href
+ ='https://docs.google.com/forms/d/1HLfxGsCD4ufxEHO6YRhjtSvD9izKDLMXZnxAJGD
+ 6d8E/edit?usp=sharing'>link</a></p>
+DTSTART;VALUE=DATE:20151024
+DTEND;VALUE=DATE:20151026
+LOCATION:Kalundborg Vandrehjem
+SEQUENCE:0
+SUMMARY:DKF intruktør 2 hav Prøve – I2-P03
+URL:http://kano-kajak.org/event/dkf-intruktoer-2-hav-proeve-i2-p03/
+X-TICKETS-URL:http://kanokajakkurser.dk/index.php?main_page=product_info&cP
+ ath=219_221&products_id=1018
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14404@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:<p>Læs mere på surfkajakcup.dk <a href='http://www.surfkajakcup
+ .dk/'>LINK</a></p>\n<p>eller facebook:<a href='https://www.facebook.com/su
+ rfkajakcup?fref=ts'> LINK</a></p>
+DTSTART;VALUE=DATE:20151025
+DTEND;VALUE=DATE:20151026
+SEQUENCE:0
+SUMMARY:Surfkajak Cup 4: ØstDk søndag den 25.oktober
+URL:http://kano-kajak.org/event/surfkajak-cup-4-oestdk-soendag-den-25-oktob
+ er/
+X-TAGS;LANGUAGE=da-DK:surfkajakcup\; surfkajak
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15648@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Børn &amp\; Unge\,Turneringer &amp\; Arrangemente
+ r
+CONTACT:
+DESCRIPTION:<h2>Kalveboderne Rundt</h2>\n<p>– et løb (med løbesko) for hele
+  familien i de smukke omgivelser ved kalveboderne.</p>\n<p>Der er forskell
+ ige <a title='Klasser' href='http://www.hvidovrekajakklub.dk/kalveboderne_
+ rundt/?page_id=813'>distancer og klasser</a> for børn\, unge\, kvinder og 
+ mænd.</p>\n<p>Læs mere om arrangementet på klubbens hjemmeside <a href='ht
+ tp://www.hvidovrekajakklub.dk/kalveboderne_rundt/'>HER</a></p>
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151101
+LOCATION:Kalveboderne
+SEQUENCE:0
+SUMMARY:
+URL:http://kano-kajak.org/event/15648/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14026@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Klub &amp\; Miljø
+CONTACT:
+DESCRIPTION:<p>Instruktør: David Tetzschner<br />\nTilmelding: <a href='htt
+ p://kanokajakkurser.dk/index.php?main_page=product_info&cPath=216&products
+ _id=1081'>http://kanokajakkurser.dk/index.php?main_page=product_info&cPath
+ =216&products_id=1081</a></p>\n<p>Kl. 12.00 – 20.00 begge dage<br />\nPris
+ : 1.200 kr.</p>\n<p><iframe width='500' height='375' src='http://www.youtu
+ be.com/embed/cU0G9__Ufc0?feature=oembed' frameborder='0' allowfullscreen><
+ /iframe></p>\n<div>David Tetschner – mangeårig vinder af DM i Havkajak Rul
+  – og  Rudersdal Havkajaknørder inviterer til kursus i instruktion af kaja
+ krul. Kurset består i alt af seks timers teori og otte timers praksis.Medb
+ ring selv forplejning og rengjort udstyr klar til svømmehal.</div>\n<div><
+ /div>\n<div><strong>Sted:</strong> Kulturcenter Mariehøj/Trørødskolens svø
+ mmehal i Rudersdal kommune.</div>\n<div></div>\n<div></div>\n<h4>Teori – K
+ ulturcenter Mariehøj\, lørdag</h4>\n<p>Kajak og rul – Kajakrullets histori
+ e<br />\nForudsætninger for at lære at rulle<br />\nRullets faser<br />\nF
+ orskellige typer rul<br />\nOm at finde sit rul<br />\nVigtige elementer i
+  de fleste rul<br />\nVideocases.</p>\n<div></div>\n<h4>Praksis – I svømme
+ hallen\, lørdag</h4>\n<p>Øvelser på kant. Opvarmning og forøvelser.<br />
+ \nMakkerøvelser i vandet.<br />\nØvelser til de forskellige elementer i ru
+ llet.<br />\nInstruktørrollen og instruktørens fysiske placering i de fors
+ kellige øvelser.</p>\n<div></div>\n<div></div>\n<h4>Teori – Kulturcenter M
+ ariehøj\, søndag</h4>\n<div>Fordele og ulemper ved forskellige pagajtyper<
+ br />\nOm at rulle i forskellige kajaktyper<br />\nDen gode instruktør<br 
+ />\nPlanlægning og strukturering af rulleundervisningen. Herunder undervis
+ ning af hold<br />\nPædagogiske  og didaktiske tilgange</div>\n<div></div>
+ \n<h4>Praksis i svømmehallen\, søndag</h4>\n<p>Fejlretning – Når noget dri
+ ller<br />\nHønen eller ægget? Tolkninger og løsningsforslag til rul der i
+ kke virker.</p>\n<div></div>\n<div><b>Undervisning af kaniner – 4-5 kanine
+ r</b></div>\n<div>Når koden er knækket<br />\nAutomatisering af rullet.<br
+  />\nEfterbearbejdning af rullet.</div>\n<div>Evaluering.</div>\n<div></di
+ v>\n<div></div>\n<div><strong>Adresser</strong></div>\n<div><strong>Trørød
+ skolen Svømmehal (praktik)</strong><br />\nGammel Holtevej 2<br />\n2950 V
+ edbæk</div>\n<div></div>\n<p><strong>Kulturcenter Mariehøj (teori)</strong
+ ><br />\nMødelokale 4\, blå indgang<br />\nØverødvej 246<br />\n<span styl
+ e='line-height: 1.5\;'>2840 Holte.</span></p>
+DTSTART;VALUE=DATE:20151031
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:Instruktør i kajakrul 2
+URL:http://kano-kajak.org/event/instruktoer-i-kajakrul/
+X-TAGS;LANGUAGE=da-DK:Havkajak
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13665@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:Havneræs – Horsens
+URL:http://kano-kajak.org/event/havneraes-horsens/
+X-TAGS;LANGUAGE=da-DK:Havneræs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13701@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+SEQUENCE:0
+SUMMARY:O-løb: Lille Hareskov
+URL:http://kano-kajak.org/event/o-loeb-lille-hareskov/
+X-TAGS;LANGUAGE=da-DK:O-løb
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14037@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p><strong>Forudsætninger:<br />\n</strong>Min. 18 år<br />\nDK
+ F Instruktør 1 (hav)<br />\nEPP 3 (hav)<br />\nGennemført DKF Instruktør 2
+  (hav) kursus<br />\nFørstehjælpsbevis på min. 6 timer<br />\nLogbog (roet
+  min. 150 km)</p>\n<p><strong>Prøvebeskrivelse:<br />\n</strong>Til denne 
+ prøve testes dit kendskab til basale og let avancerede teknikker og færdig
+ heder samt grundlæggende metoder til videreformidling af disse. Du kan int
+ roducere nybegyndere til kajakroning og kan strukturere undervisnings­forl
+ øb af let erfarende roere (EPP 1-2). Det forventes\, at du på en kompetent
+  og sikker måde kan varetage ture for grupper. Prøven består af en skriftl
+ ig/teoretisk opgave\, praktiske opgaver i undervising\, formidling og fore
+ visning af EPP 1-2 færdigheder\, samt praktiske opgaver i organisation og 
+ ledelse af grupper på vandet. <a href='http://goo.gl/ms0K2g'>Link til EPP 
+ niveaubeskrivelser</a>.</p>\n<p><strong>Medbring:<br />\n</strong>Alt udst
+ yr\, rotøj og kajak + pagaj. Materiale fra tidligere kurser.</p>\n<p><stro
+ ng>Sted: Kalundborg Vandrehjem</strong></p>\n<p><strong>Varighed:<br />\n<
+ /strong>9-17</p>\n<p><strong>Overnatning: </strong>Nej</p>\n<p><strong>For
+ plejning: </strong>Nej</p>\n<p><strong>Pris: 970\,00</strong></p>\n<p><str
+ ong>NB:</strong></p>\n<p>Du skal være opmærksom på\, at en deltagerliste m
+ ed mailadresser sendes rundt til alle tilmeldte deltagere ved oprettelse a
+ f kursus\, så I selv indbyrdes kan arrangere fælles kørsel. Hvis ikke du ø
+ nsker dit navn på en sådan liste\, skal du gøre opmræksom på det ved tilme
+ lding.</p>\n<p><strong>Tilmelding:<br />\n</strong>Tilmelding foregår via 
+ shoppen – brug dette<a href='http://kanokajakkurser.dk/index.php?main_page
+ =product_info&cPath=219_221&products_id=1037'> link</a>. Husk at have dit 
+ licensnummer og klubbens rabatkode klar!</p>\n<p><strong>Tilmeldingsfrist:
+ </strong> 05/10/2015</p>\n<p><strong>Venteliste:</strong> Hvis kurset/prøv
+ en er overtegnet\, kan du skrive dig på en venteliste\, brug dette <a href
+ ='https://docs.google.com/forms/d/1HLfxGsCD4ufxEHO6YRhjtSvD9izKDLMXZnxAJGD
+ 6d8E/edit?usp=sharing'>link</a></p>
+DTSTART;VALUE=DATE:20151107
+DTEND;VALUE=DATE:20151108
+LOCATION:Kalundborg Vandrehjem
+SEQUENCE:0
+SUMMARY:DKF intruktør 2 hav Prøve – I2-P04
+URL:http://kano-kajak.org/event/dkf-intruktoer-2-hav-proeve-i2-p04/
+X-TICKETS-URL:http://kanokajakkurser.dk/index.php?main_page=product_info&cP
+ ath=219_221&products_id=1018
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13664@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151108
+DTEND;VALUE=DATE:20151109
+SEQUENCE:0
+SUMMARY:Vinterræs – Kajakklubben Neptun
+URL:http://kano-kajak.org/event/vinterraes-kajakklubben-neptun-2/
+X-TAGS;LANGUAGE=da-DK:Vinterræs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14043@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p><strong>Forudsætninger:<br />\n</strong>Gennemført DKF Instr
+ uktør 3 (hav) kursus<br />\nEPP 4 (hav) *Min. 20 år<br />\nGyldigt førsteh
+ jælpsbevis på min. 12 timer<br />\nLogbog (min 2 års erfaring som DKF Inst
+ ruktør 2 (hav) med undervisning af forskellige grupper. Have roet min. 500
+  km og/eller 200 timer</p>\n<p><strong>Prøvebeskrivelse:<br />\n</strong>T
+ il denne prøve testes din forståelse af og viden om de undervisningsmetode
+ r og værktøjer\, du anvender. Det forventes\, at du både er i stand til at
+  formidle til grupper samt evaluere og dygtiggøre individuelle instruktøre
+ r og udøvere. Du besidder et meget bredt kendskab til havkajakroning og ka
+ n arbejde lang- og kortsigtet med strukturerede og mindre strukturerede un
+ dervisningsforløb. Prøven består af en række forberedte og uforberedte und
+ ervisningsopgaver.OBS: Du skal forvente\, at der ca. 4 uger før prøvedatoe
+ n udsendes opgaver\, der skal forberedes til prøvedagene. Du skal ligelede
+ s sørge for\, at du har en udførlig logbog klar til indsendelse ca. 4 uger
+  før prøven. Hvis det skønnes at du ikke lever op til logbogskravene\, kan
+  censorer vælge\, at udskyde din prøveaflæggelse til manglerne er bragt i 
+ orden.</p>\n<p><strong>Medbring:<br />\n</strong>Alt udstyr\, rotøj og kaj
+ ak + pagaj. Materiale fra tidligere kurser. Sengetøj og håndklæder.</p>\n<
+ p><strong>Sted: </strong>Øst (Endnu ikke bekræftet)</p>\n<p><strong>Varigh
+ ed:<br />\n</strong>Dag 1: 10-22<br />\nDag 2: 9-16</p>\n<p><strong>Overna
+ tning:</strong> Kun ved tilvalg.</p>\n<p><strong>Forplejning:</strong> Ja.
+ </p>\n<p><strong>Pris:<br />\n</strong></p>\n<p>Uden overnatning 2645\,00<
+ br />\nMed overnatning 2970\,00</p>\n<p> </p>\n<p><strong>NB:<br />\n</str
+ ong>Du skal være opmærksom på\, at en deltagerliste med mailadresser sende
+ s rundt til alle tilmeldte deltagere ved oprettelse af kursus\, så I selv 
+ indbyrdes kan arrangere fælles kørsel. Hvis ikke du ønsker dit navn på en 
+ sådan liste\, skal du gøre opmræksom på det ved tilmelding.</p>\n<p><stron
+ g>Tilmelding:<br />\n</strong><a href='http://kanokajakkurser.dk/index.php
+ ?main_page=product_info&cPath=219_222&products_id=1039'>Brug dette link.</
+ a> Husk at have dit eventuelle licensnummer klar.</p>\n<p><strong>Tilmeldi
+ ngsfrist:12/10/2015</strong></p>\n<p><strong>Venteliste:</strong> Hvis kur
+ set/prøven er overtegnet\, kan du skrive dig på en venteliste\, brug dette
+  <a href='https://docs.google.com/forms/d/1HLfxGsCD4ufxEHO6YRhjtSvD9izKDLM
+ XZnxAJGD6d8E/edit?usp=sharing'>link</a>.</p>\n<p> </p>\n<p> </p>\n<p> </p>
+ \n<p> </p>
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151116
+LOCATION:Ikke fastlagt
+SEQUENCE:0
+SUMMARY:DKF instruktør 3 Hav Prøve – I3P03
+URL:http://kano-kajak.org/event/dkf-instruktoer-3-hav-proeve-i3p03/
+X-TAGS;LANGUAGE=da-DK:EPP\,Havkajak
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-14405@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:<p>Læs mere på surfkajakcup.dk <a href='http://www.surfkajakcup
+ .dk/'>LINK</a></p>\n<p>eller facebook:<a href='https://www.facebook.com/su
+ rfkajakcup?fref=ts'> LINK</a></p>
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151116
+SEQUENCE:0
+SUMMARY:Surfkajak cup 5: Finale 14. og 15. november
+URL:http://kano-kajak.org/event/surfkajak-cup-5-finale-14-og-15-november/
+X-TAGS;LANGUAGE=da-DK:Surfkajak\,surfkajakcup
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13666@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151206
+DTEND;VALUE=DATE:20151207
+SEQUENCE:0
+SUMMARY:Havneræs – Ry
+URL:http://kano-kajak.org/event/havneraes-ry/
+X-TAGS;LANGUAGE=da-DK:Havneræs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13702@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151206
+DTEND;VALUE=DATE:20151207
+SEQUENCE:0
+SUMMARY:O-løb: Vestskoven
+URL:http://kano-kajak.org/event/o-loeb-vestskoven/
+X-TAGS;LANGUAGE=da-DK:O-løb
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13676@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160103
+DTEND;VALUE=DATE:20160104
+SEQUENCE:0
+SUMMARY:Havneræs – Randers
+URL:http://kano-kajak.org/event/havneraes-randers-2/
+X-TAGS;LANGUAGE=da-DK:Havneræs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13703@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160110
+DTEND;VALUE=DATE:20160111
+SEQUENCE:0
+SUMMARY:O-løb: Helsingør
+URL:http://kano-kajak.org/event/o-loeb-helsingoer/
+X-TAGS;LANGUAGE=da-DK:O-løb
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13673@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160110
+DTEND;VALUE=DATE:20160111
+SEQUENCE:0
+SUMMARY:Vinterræs – Kajakklubben Neptun
+URL:http://kano-kajak.org/event/vinterraes-kajakklubben-neptun-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13677@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160207
+DTEND;VALUE=DATE:20160208
+SEQUENCE:0
+SUMMARY:Havneræs – Silkeborg
+URL:http://kano-kajak.org/event/havneraes-silkeborg-2/
+X-TAGS;LANGUAGE=da-DK:Havneræs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13704@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160207
+DTEND;VALUE=DATE:20160208
+SEQUENCE:0
+SUMMARY:O-løb: Farum Lillevang
+URL:http://kano-kajak.org/event/o-loeb-farum-lillevang/
+X-TAGS;LANGUAGE=da-DK:O-løb
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13681@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160214
+DTEND;VALUE=DATE:20160215
+SEQUENCE:0
+SUMMARY:Vinterræs – Kajakklubben Neptun
+URL:http://kano-kajak.org/event/vinterraes-kajakklubben-neptun-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13678@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160306
+DTEND;VALUE=DATE:20160307
+SEQUENCE:0
+SUMMARY:Havneræs – Odense
+URL:http://kano-kajak.org/event/havneraes-odense-2/
+X-TAGS;LANGUAGE=da-DK:Havneræs
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13705@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20160306
+DTEND;VALUE=DATE:20160307
+SEQUENCE:0
+SUMMARY:O-løb: Tokkekøb Hegn
+URL:http://kano-kajak.org/event/o-loeb-tokkekoeb-hegn/
+X-TAGS;LANGUAGE=da-DK:O-løb
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15457@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p>Alder: min. 15 år<br />\nEPP 2 (hav)<br />\nGyldigt førstehj
+ ælpsbevis på min. 6 timer</p>\n<p>Dette er første skridt i din fremtidige 
+ rolle som instruktør. Kurset gør dig i stand til at tage godt imod nybegyn
+ dere og på en sikker og forsvarlig måde gøre deres første møde med kano- o
+ g kajaksporten til en god\, sjov og lærerig oplevelse. Du lærer at formidl
+ e brugen af udstyr og de første tag på vandet gennem leg og brug af få og 
+ enkle fokuspunkter.<br />\nEn DKF Instruktør 1 betragtes som en hjælpeinst
+ ruktør\, der kan bistå en DKF Instruktør 2\, eller højere\, med begynderun
+ dervisning/frigivelse (EPP 1-2). En DKF Instruktør 1 kan således ikke være
+  hovedansvarlig for begynderinstruktion og frigivelse i klubber\, institut
+ ioner og lignende. Instruktøren kan kun arbejde alene i særligt beskyttet 
+ farvand.</p>\n<p>Kurset forventes afholdt på Fyn. Dette bekræftes ca. 1 må
+ ned før kursus afholdelese.</p>\n<p>Kurset er uden forplejning og overnatn
+ ing. Der planlægges overnatning i shelters.</p>\n<p>Tilmelding her <a href
+ ='http://kanokajakkurser.dk/index.php?main_page=product_info&products_id=1
+ 074'>LINK</a></p>\n<p> </p>
+DTSTART;TZID=Europe/Copenhagen:20150926T090000
+DTEND;TZID=Europe/Copenhagen:20150927T160000
+LOCATION:Fyn
+SEQUENCE:0
+SUMMARY:Instruktør 1 – Turkano
+URL:http://kano-kajak.org/event/instruktoer-1-turkano/
+X-TAGS;LANGUAGE=da-DK:turkano
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-13210@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:Mikael Andersen\; mka@andersen.mail.dk
+DESCRIPTION:<p><strong>Tour de Kerteminde</strong> er et indsamlingsløb til
+  fordel for verdens fattigste\, og al overskud går direkte til Folkekirken
+ s Nødhjælp.</p>\n<p>Løbet er primært et motionscykelløb med 1.000 deltager
+ e\, men vi tilbyder også en unik naturoplevelse på Kertinge Nor/Kerteminde
+  Bugt\, hvor alle typer af kajakker og kanoer samt baglænsroere kan deltag
+ e. Vi håber derfor\, at aktiviteterne på vandet vil tiltrække roere fra he
+ le landet.</p>\n<p>Den smukke rute går fra Munkebo Sejl- og Roklub via Ker
+ tinge Nor/Kerteminde Bugt til Kerteminde Kajakklub\, hvor der venter delta
+ gerne et velforsynet depot – herefter går turen tilbage til Munkebo Sejl- 
+ og Roklub igen. <b>I alt 18 kilometer</b>.</p>\n<p>Alle deltagere tidsregi
+ streres med chips\, og flot diplom med navn og tid kan downloades efter lø
+ bet.</p>\n<p>Tour de Kerteminde er kendt som et hyggeligt løb med gode dep
+ oter. Alle deltagere får rundstykker og kaffe inden start\, og i depotet f
+ år man juice\, kage og frugt. Når man kommer i mål står vi klar ved grille
+ n med store pølser og brød.</p>\n<p>Målområdet vil være fyldt med spændend
+ e stande og masser af tilskuere. Børn kan deltage gratis på den lukkede cy
+ kelbane.</p>\n<p> </p>\n<p>Læs mere her: <a href='http://www.tourdekertemi
+ nde.dk/' target='_blank'>www.tourdekerteminde.dk</a></p>
+DTSTART;TZID=Europe/Copenhagen:20150927T090000
+DTEND;TZID=Europe/Copenhagen:20150927T160000
+LOCATION:Kerteminde kajakklub
+SEQUENCE:0
+SUMMARY:Tour de Kerteminde
+URL:http://kano-kajak.org/event/tour-de-kerteminde/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-15564@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Turneringer &amp\; Arrangementer
+CONTACT:
+DESCRIPTION:<p>Støt Brysterne Løb holdes d. 3. oktober 2015 i Randers\, Hov
+ edstaden og Odense.</p>\n<p>Tilmeldingsfrist:19. september. Du kan finde i
+ nvitationer og tilmeldingsformular <a href='http://kanokajakkurser.dk/inde
+ x.php?main_page=index&cPath=216'>HER</a></p>\n<p>Mere info: <a href='mailt
+ o:il@kano-kajak.dk'>il@kano-kajak.dk</a></p>
+DTSTART;TZID=Europe/Copenhagen:20151003T064600
+DTEND;TZID=Europe/Copenhagen:20151003T074600
+SEQUENCE:0
+SUMMARY:Støt Brysterne (Kvindeløb)
+URL:http://kano-kajak.org/event/stoet-brysterne-kvindeloeb/
+X-TAGS;LANGUAGE=da-DK:Kræftens Bekæmpelse\,kvindeløb\,Lyserød lørdag\,støt 
+ bryster
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-16013@kano-kajak.org
+DTSTAMP:20150921T224757Z
+CATEGORIES;LANGUAGE=da-DK:Uddannelse
+CONTACT:
+DESCRIPTION:<p>Er du Havkajak Instruktør 3 (+) i DKF? Så er årets censorsam
+ ling weekenden for dig!</p>\n<p>Den 20.-22. november på Valdemars Slot på 
+ Tåsinge\, kan du blive skarpere på din instruktør 3 rolle og komme hjem me
+ d ny inspiration til dit instruktørarbejde.</p>\n<p>Vi sætter i år fokus p
+ å EPP3\, med en stor benchmarking workshop\, der gør dig og resten af delt
+ agerne klogere på hvordan EPP 3 niveauet defineres og evalueres. Derudover
+  får du nyt fra DKF samt viden om nye trends og tendenser indenfor dansk h
+ avkajakroning.</p>\n<p>Det er gratis at deltage. Indendørs overnatning sam
+ t forplejning fra lørdag morgen til søndag frokost er inkluderet. Du står 
+ selv for transporten\, samt forplejning fredag aften</p>\n<p>Kom og mød di
+ ne instruktørkolleger.</p>\n<p>Samlingen er organiseret af Tue Olesen\, Pe
+ rnille Svendsen og Morten Nilsson i samarbejde med DKF.</p>\n<p>Tilmelding
+ en er åben – klik her: <a href='http://kanokajakkurser.dk/index.php?main_p
+ age=product_info&cPath=216&products_id=1080' target='_blank'>LINK</a></p>
+DTSTART;TZID=Europe/Copenhagen:20151120T173000
+DTEND;TZID=Europe/Copenhagen:20151122T163000
+GEO:+55.022367;+10.653237
+LOCATION:Valdemar Slot @ Slotsalleen 100\, 5700 Svendborg\, Danmark
+SEQUENCE:0
+SUMMARY:Censorsamling havkajak 2015\, Valdemar Slot
+URL:http://kano-kajak.org/event/censorsamling/
+END:VEVENT
+END:VCALENDAR

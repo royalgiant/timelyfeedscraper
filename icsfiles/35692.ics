@@ -23,42 +23,8 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-5157@www.crossroadscamberley.co.uk
-DTSTAMP:20150920T002334Z
-CATEGORIES;LANGUAGE=en-GB:Sunday
-CONTACT:
-DESCRIPTION:<p><a href='http://www.crossroadscamberley.co.uk/wp-content/upl
- oads/2011/08/Christmas-Family-Service-056-150x150.jpg'><img class='size-fu
- ll wp-image-4437 alignleft' style='border: 10px solid black\; margin: 5px\
- ;' src='http://www.crossroadscamberley.co.uk/wp-content/uploads/2011/08/Ch
- ristmas-Family-Service-056-150x150.jpg' alt='Christmas-Family-Service-056-
- 150x150' width='150' height='150' /></a>The family services starts at 10.3
- 0am each Sunday at the church in Queen Mary Avenue\, Camberley. During the
-  services we sing hymns/choruses of praise. There is a time of prayer when
-  the congregation are encouraged to give thanks and share items of concern
- . A message is then delivered to the congregation from different speakers 
- within the church before which the children can go out to Sunday school le
- ssons.</p>
-DTSTART;TZID=Europe/London:20150920T093000
-DTEND;TZID=Europe/London:20150920T103000
-EXDATE;TZID=Europe/London:20120929T093000
-EXDATE;TZID=Europe/London:20121223T093000
-EXDATE;TZID=Europe/London:20130210T093000
-EXDATE;TZID=Europe/London:20130406T093000
-EXDATE;TZID=Europe/London:20131215T093000
-EXDATE;TZID=Europe/London:20131222T093000
-EXDATE;TZID=Europe/London:20150517T093000
-GEO:+51.333701;-0.76268
-LOCATION:Crossroads Evangelical Church\, Queen Mary Avenue\, Camberley\, Su
- rrey GU15 3BH\, UK
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Family Service
-URL:http://www.crossroadscamberley.co.uk/event/family-service-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-5172@www.crossroadscamberley.co.uk
-DTSTAMP:20150920T002334Z
+DTSTAMP:20150921T224743Z
 CATEGORIES;LANGUAGE=en-GB:Weekly Activities
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
@@ -82,8 +48,42 @@ URL:http://www.crossroadscamberley.co.uk/event/fellowship-group/
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-5157@www.crossroadscamberley.co.uk
+DTSTAMP:20150921T224743Z
+CATEGORIES;LANGUAGE=en-GB:Sunday
+CONTACT:
+DESCRIPTION:<p><a href='http://www.crossroadscamberley.co.uk/wp-content/upl
+ oads/2011/08/Christmas-Family-Service-056-150x150.jpg'><img class='size-fu
+ ll wp-image-4437 alignleft' style='border: 10px solid black\; margin: 5px\
+ ;' src='http://www.crossroadscamberley.co.uk/wp-content/uploads/2011/08/Ch
+ ristmas-Family-Service-056-150x150.jpg' alt='Christmas-Family-Service-056-
+ 150x150' width='150' height='150' /></a>The family services starts at 10.3
+ 0am each Sunday at the church in Queen Mary Avenue\, Camberley. During the
+  services we sing hymns/choruses of praise. There is a time of prayer when
+  the congregation are encouraged to give thanks and share items of concern
+ . A message is then delivered to the congregation from different speakers 
+ within the church before which the children can go out to Sunday school le
+ ssons.</p>
+DTSTART;TZID=Europe/London:20150927T093000
+DTEND;TZID=Europe/London:20150927T103000
+EXDATE;TZID=Europe/London:20120929T093000
+EXDATE;TZID=Europe/London:20121223T093000
+EXDATE;TZID=Europe/London:20130210T093000
+EXDATE;TZID=Europe/London:20130406T093000
+EXDATE;TZID=Europe/London:20131215T093000
+EXDATE;TZID=Europe/London:20131222T093000
+EXDATE;TZID=Europe/London:20150517T093000
+GEO:+51.333701;-0.76268
+LOCATION:Crossroads Evangelical Church\, Queen Mary Avenue\, Camberley\, Su
+ rrey GU15 3BH\, UK
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Family Service
+URL:http://www.crossroadscamberley.co.uk/event/family-service-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-5192@www.crossroadscamberley.co.uk
-DTSTAMP:20150920T002334Z
+DTSTAMP:20150921T224743Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http

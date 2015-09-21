@@ -23,34 +23,8 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-4617@www.wrightvigar.co.uk
-DTSTAMP:20150920T002125Z
-CATEGORIES;LANGUAGE=en-US:Events\,Shows
-CONTACT:01636 894056\; http://www.collinghamshow.com/index.html
-DESCRIPTION:<p>Wright Vigar are delighted to be supporting the annual Colli
- ngham Show and Ploughing Match. Just on the edge of the county of Nottingh
- amshire\, the award-winning village of Collingham is the perfect setting f
- or a traditional\, country show.</p>\n<p>Held on the third Saturday in Sep
- tember\, Collingham Show is now in its 164th year and proving as popular a
- s ever. From vintage vehicles to livestock\, bouncy castles to tug of war\
- , as well as trade stands\, refreshments and horse and pony classes\, ther
- e really is something for everyone!</p>\n<p>Attracting crowds of 3\,500- 4
- \,000 each year\, Collingham Show is definitely worth a visit – and we inv
- ite you to pop by our ring-side stand to say hello!</p>\n<p> </p>
-DTSTART;TZID=Europe/London:20150919T080000
-DTEND;TZID=Europe/London:20150919T160000
-GEO:+53.12319;-0.728093
-LOCATION:Larksfield @ Newark Road\, United Kingdom
-SEQUENCE:0
-SUMMARY:SHOW – Collingham Show and Ploughing Match
-URL:http://www.wrightvigar.co.uk/event/show-collingham-show-and-ploughing-m
- atch-3/
-X-COST:£6 for adults\, £5 for OAP's\, £4 for children 13 yrs and under
-X-TICKETS-URL:http://www.collinghamshow.com/index.html
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-2185@www.wrightvigar.co.uk
-DTSTAMP:20150920T002125Z
+DTSTAMP:20150921T224651Z
 CATEGORIES;LANGUAGE=en-US:Events\,Networking
 CONTACT:info@lincolnbusinessclub.co.uk\; http://www.lincolnbusinessclub.co.
  uk/
@@ -80,7 +54,7 @@ X-COST:£3.00 on the door
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-4618@www.wrightvigar.co.uk
-DTSTAMP:20150920T002125Z
+DTSTAMP:20150921T224651Z
 CATEGORIES;LANGUAGE=en-US:Events\,Shows
 CONTACT:01159 633654\; info@southwellploughingmatch.co.uk\; http://www.sout
  hwellploughingmatch.co.uk/
@@ -101,7 +75,7 @@ X-TICKETS-URL:http://www.southwellploughingmatch.co.uk/tickets/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2157@www.wrightvigar.co.uk
-DTSTAMP:20150920T002125Z
+DTSTAMP:20150921T224651Z
 CATEGORIES;LANGUAGE=en-US:Events\,Networking
 CONTACT:Newark Business Club\; http://www.newarkbusinessclub.co.uk/
 DESCRIPTION:<p>Team members from Wright Vigar are delighted to support this
@@ -127,7 +101,7 @@ X-COST:£5 on the door
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-4715@www.wrightvigar.co.uk
-DTSTAMP:20150920T002125Z
+DTSTAMP:20150921T224651Z
 CATEGORIES;LANGUAGE=en-US:Networking
 CONTACT:Aleksandra Tusien\; 01522 508750\; aleksandra.tusien@langleys.com
 DESCRIPTION:<p>Team members from Wright Vigar are delighted to support this
@@ -149,7 +123,7 @@ X-COST:12.50
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-2155@www.wrightvigar.co.uk
-DTSTAMP:20150920T002125Z
+DTSTAMP:20150921T224651Z
 CATEGORIES;LANGUAGE=en-US:Events\,Networking
 CONTACT:Lincoln Business Club\; info@lincolnbusinessclub.co.uk\; http://www
  .lincolnbusinessclub.co.uk/
@@ -168,7 +142,7 @@ X-COST:£3 on the door
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-5134@www.wrightvigar.co.uk
-DTSTAMP:20150920T002125Z
+DTSTAMP:20150921T224651Z
 CATEGORIES;LANGUAGE=en-US:Events\,Shows
 CONTACT:Jenny Stone\; 01529 301971\; events@communitylincs.com\; http://com
  munitylincs.com/lincolnshire-womens-enterprise-day/

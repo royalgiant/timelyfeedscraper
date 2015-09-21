@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-1766@droidlab.pt
-DTSTAMP:20150920T003557Z
+DTSTAMP:20150921T225221Z
 CATEGORIES;LANGUAGE=pt-PT:Novos Equipamentos
 CONTACT:WileyFox\; https://www.wileyfox.com/swift/
 DESCRIPTION:<p><a href='http://droidlab.pt/wp-content/uploads/2015/09/swift
@@ -43,8 +43,27 @@ X-TAGS;LANGUAGE=pt-PT:WileyFox Swift
 X-INSTANT-EVENT:1
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-2461@droidlab.pt
+DTSTAMP:20150921T225221Z
+CATEGORIES;LANGUAGE=pt-PT:Novos Equipamentos
+CONTACT:
+DESCRIPTION:<p><img class='aligncenter' src='http://i-cdn.phonearena.com/im
+ ages/articles/207806-image/mea.png' alt='' width='435' height='693' /></p>
+ \n<p>Evento Meizu Go Pro</p>\n<p>O ponto alto deste evento da <strong><a h
+ ref='http://droidlab.pt/category/equipamentos/meizu/'>Meizu</a></strong> s
+ erá a apresentação do novo <strong><a href='http://droidlab.pt/2440/meizu-
+ pro-5-mais-1-topo-de-gama-vindo-da-china/'>Meizu MX5 Pro</a></strong></p>
+DTSTART;TZID=Europe/Lisbon:20150923T143000
+DTEND;TZID=Europe/Lisbon:20150923T190000
+GEO:+39.904211;+116.407395
+LOCATION:Beijing National Convention center @ Beijing\, Beijing\, China
+SEQUENCE:0
+SUMMARY:Evento Meizu Go Pro
+URL:http://droidlab.pt/event/evento-meizu-go-pro/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-2435@droidlab.pt
-DTSTAMP:20150920T003557Z
+DTSTAMP:20150921T225221Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http

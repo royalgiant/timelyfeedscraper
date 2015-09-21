@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//192.145.239.20//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://bpapaloalto.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3561@mischance.net
+DTSTAMP:20150921T224636Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>The monthly BPA Community Happy Hour is an opportunity to me
+ et neighbors\, discuss current affairs of relevance to the community\, and
+  bring new ideas to the Board. All that in an informal setting – and the B
+ PA will buy your first drink. Please join us!</p>
+DTSTART;TZID=America/Los_Angeles:20151020T170000
+DTEND;TZID=America/Los_Angeles:20151020T180000
+LOCATION:Cibo
+RRULE:FREQ=MONTHLY;BYDAY=3TU
+SEQUENCE:0
+SUMMARY:BPA Community Happy Hour
+URL:http://bpapaloalto.org/event/bpa-community-happy-hour/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3020@mischance.net
+DTSTAMP:20150921T224636Z
+CATEGORIES;LANGUAGE=en-US:BPA affairs
+CONTACT:
+DESCRIPTION:<p>Monthly meeting of the Board of Directors of the Barron Park
+  Association. All members of the Barron Park Community are invited to atte
+ nd\, but should contact the President of the Barron Park Association [ <a 
+ href='mailto:president@bpapaloalto.org' target='_blank'>president@bpapaloa
+ lto.org</a> ] of their intent to attend the meeting for possible re-orderi
+ ng of the agenda and to insure adequate room for seating to accommodate th
+ em.</p>
+DTSTART;TZID=America/Los_Angeles:20151020T191500
+DTEND;TZID=America/Los_Angeles:20151020T210000
+EXDATE;TZID=America/Los_Angeles:20140819T191500
+EXDATE;TZID=America/Los_Angeles:20141216T191500
+EXDATE;TZID=America/Los_Angeles:20150616T191500
+EXDATE;TZID=America/Los_Angeles:20150721T191500
+RRULE:FREQ=MONTHLY;BYDAY=3TU
+SEQUENCE:0
+SUMMARY:BPA Board Meeting
+URL:http://bpapaloalto.org/event/bpa-board-meeting-3/
+END:VEVENT
+END:VCALENDAR

@@ -1,12 +1,274 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>400 Bad Request</title>
-</head><body>
-<h1>Bad Request</h1>
-<p>Your browser sent a request that this server could not understand.<br />
-Size of a request header field exceeds server limit.<br />
-<pre>
-cookie
-</pre>
-</p>
-</body></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//85.13.241.222//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://www.shpc.org.uk
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RDATE:20160327T010000
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-294@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20150924T194500
+DTEND;TZID=Europe/London:20150924T220000
+GEO:+51.637873;+0.491982
+LOCATION:Downham Village Hall  @ School Road\, Billericay\, Essex CM11\, UK
+SEQUENCE:0
+SUMMARY:Parish Council Meeting
+URL:http://www.shpc.org.uk/event/parish-council-meeting-26/
+X-TAGS;LANGUAGE=en-US:Parish Council Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-333@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Community
+CONTACT:Maike Windhorst\;  01268 733163\; maike@mountholly.co.uk
+DESCRIPTION:<p class='p1' style='text-align: center\;'>This is a genuine lo
+ cal market with home-grown and home-produced goods provided by local stall
+ holders. Same is true for refreshments.</p>\n<p class='p1' style='text-ali
+ gn: center\;'><span class='s1'>Get your cakes\, greeting cards\, crafts\, 
+ plants\, fruit and vegetables and other artisan goods from people in your 
+ neighbourhood.</span></p>\n<p class='p1' style='text-align: center\;'><spa
+ n class='s1'>Stalls by local charities and local table top sellers of seco
+ nd-hand items also very welcome. Tables are priced at £ 5.</span></p>\n<p 
+ class='p1' style='text-align: center\;'><span class='s1'>For more informat
+ ion call Maike on 01268 733163 or mail (<a href='mailto:maike@mountholly.c
+ o.uk'><span class='s2'>maike@mountholly.co.uk</span></a>).</span></p>
+DTSTART;TZID=Europe/London:20151003T103000
+DTEND;TZID=Europe/London:20151003T130000
+GEO:+51.637757;+0.472433
+LOCATION:Ramsden Heath Village Hall @ Ramsden Heath Village Hall\, Dowsett 
+ Ln\, Ramsden Heath\, Billericay\, Essex CM11 1HX\, UK
+SEQUENCE:0
+SUMMARY:Village Market
+URL:http://www.shpc.org.uk/event/village-market-7/
+X-TAGS;LANGUAGE=en-US:Ramsden Heath\,Village Market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-287@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151008T194500
+DTEND;TZID=Europe/London:20151008T220000
+GEO:+51.637757;+0.472433
+LOCATION:Ramsden Heath Village Hall @ Ramsden Heath Village Hall\, Dowsett 
+ Ln\, Ramsden Heath\, Billericay\, Essex CM11 1HX\, UK
+SEQUENCE:0
+SUMMARY:Parish Council Meeting
+URL:http://www.shpc.org.uk/event/parish-council-meeting-19/
+X-TAGS;LANGUAGE=en-US:Parish Council Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-366@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Community
+CONTACT:
+DESCRIPTION:<p class='p1' style='text-align: center\;'><a href='http://www.
+ shpc.org.uk/wp-content/uploads/2015/04/chelmsford-council.png'><img class=
+ 'aligncenter size-medium wp-image-367' src='http://www.shpc.org.uk/wp-cont
+ ent/uploads/2015/04/chelmsford-council-300x101.png' alt='chelmsford-counci
+ l' width='300' height='101' /></a></p>\n<p class='p1' style='text-align: c
+ enter\;'>Chelmsford City Council’s Mobile Information Centre will be <span
+  class='s1'>returning to the<br />\nRamsden Heath Christian Growth Centre 
+ on <b>Monday 13</b></span><span class='s2'><b><sup>th</sup></b></span><spa
+ n class='s1'><b> April between 10.00am and 11.30am. </b></span></p>\n<p cl
+ ass='p1' style='text-align: center\;'><span class='s1'>Please pop along if
+  you get the chance and feel free to pass this message on.</span></p>\n<p 
+ class='p1' style='text-align: center\;'><span class='s1'> </span>The servi
+ ce is free and offers help and advice to some of the most isolated and vul
+ nerable communities within the area to make our services more accessible.<
+ /p>\n<p class='p1' style='text-align: center\;'><span class='s1'>The Counc
+ il’s Mobile Customer Information Service now visits <b>15</b> rural commun
+ ities around the borough where public transport is perhaps less frequent\,
+  to ensure that residents with the greatest need for advice and support\, 
+ such as the elderly\, young families and those with mobility requirements\
+ , can access information and advice about Council services locally.  </spa
+ n></p>\n<p class='p1' style='text-align: center\;'><span class='s1'>A rang
+ e of enquiries are covered\, including:</span></p>\n<p class='p1' style='t
+ ext-align: center\;'><span class='s3'>·</span><span class='s4'>           
+  </span><span class='s1'>advice on how to seek help with housing benefit o
+ r Council Tax</span></p>\n<p class='p1' style='text-align: center\;'><span
+  class='s3'>·</span><span class='s4'>            </span><span class='s1'>r
+ eporting environmental problems</span></p>\n<p class='p1' style='text-alig
+ n: center\;'><span class='s3'>·</span><span class='s4'>            </span>
+ <span class='s1'>FREE replacement recycling sacks and dog waste bags</span
+ ></p>\n<p class='p1' style='text-align: center\;'><span class='s3'>·</span
+ ><span class='s4'>            </span><span class='s1'>providing informatio
+ n on leisure\, tourism\, local issues and much more</span></p>\n<p class='
+ p1' style='text-align: center\;'><span class='s1'>Many of the visits are a
+ ttended by partner organisations to promote or deliver their service. Thes
+ e include Essex Police\, who have been utilising the sessions to hold some
+  of their beat surgeries and the Community Liaison Officer from Essex Fire
+  & Rescue Service to promote fire safety in the home.</span></p>\n<p class
+ ='p1' style='text-align: center\;'><span class='s1'>Duties permitting\, yo
+ ur Police Community Support Officer for Ramsden Heath\, Downham\, South Ha
+ nningfield\, Stock and Margaretting\, Jemma Carr\, will be holding her “St
+ reet Meet” surgery in conjunction with my visit which provides a valuable 
+ link to the Police and Chelmsford City Council services making it easily a
+ ccessible to the community. </span></p>\n<p class='p1' style='text-align: 
+ center\;'><span class='s1'><b>Consequent visits to Ramsden Heath will be o
+ n the </b></span><span class='s5'><b>second Monday of each month</b></span
+ ><span class='s1'><b>.</b></span></p>\n<p class='p1' style='text-align: ce
+ nter\;'>For more information click <a href='http://www.chelmsford.gov.uk/m
+ obileinfo' target='_blank'>here</a>.</p>
+DTSTART;TZID=Europe/London:20151012T100000
+DTEND;TZID=Europe/London:20151012T113000
+GEO:+51.636006;+0.469675
+LOCATION:Ramsden Heath Christian Growth Centre @ 33 Heath Road\, Ramsden He
+ ath\, Billericay\, Essex CM11 1LZ\, UK
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+SEQUENCE:0
+SUMMARY:Mobile Customer Information Centre Visit
+URL:http://www.shpc.org.uk/event/mobile-customer-infromation-centre-visit/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-295@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151022T194500
+DTEND;TZID=Europe/London:20151022T220000
+GEO:+51.637873;+0.491982
+LOCATION:Downham Village Hall  @ School Road\, Billericay\, Essex CM11\, UK
+SEQUENCE:0
+SUMMARY:Parish Council Meeting
+URL:http://www.shpc.org.uk/event/parish-council-meeting-27/
+X-TAGS;LANGUAGE=en-US:Parish Council Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-288@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151105T194500
+DTEND;TZID=Europe/London:20151105T220000
+GEO:+51.637757;+0.472433
+LOCATION:Ramsden Heath Village Hall @ Ramsden Heath Village Hall\, Dowsett 
+ Ln\, Ramsden Heath\, Billericay\, Essex CM11 1HX\, UK
+SEQUENCE:0
+SUMMARY:Parish Council Meeting
+URL:http://www.shpc.org.uk/event/parish-council-meeting-20/
+X-TAGS;LANGUAGE=en-US:Parish Council Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-334@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Community
+CONTACT:Maike Windhorst\;  01268 733163\; maike@mountholly.co.uk
+DESCRIPTION:<p class='p1' style='text-align: center\;'>This is a genuine lo
+ cal market with home-grown and home-produced goods provided by local stall
+ holders. Same is true for refreshments.</p>\n<p class='p1' style='text-ali
+ gn: center\;'><span class='s1'>Get your cakes\, greeting cards\, crafts\, 
+ plants\, fruit and vegetables and other artisan goods from people in your 
+ neighbourhood.</span></p>\n<p class='p1' style='text-align: center\;'><spa
+ n class='s1'>Stalls by local charities and local table top sellers of seco
+ nd-hand items also very welcome. Tables are priced at £ 5.</span></p>\n<p 
+ class='p1' style='text-align: center\;'><span class='s1'>For more informat
+ ion call Maike on 01268 733163 or mail (<a href='mailto:maike@mountholly.c
+ o.uk'><span class='s2'>maike@mountholly.co.uk</span></a>).</span></p>
+DTSTART;TZID=Europe/London:20151107T103000
+DTEND;TZID=Europe/London:20151107T130000
+GEO:+51.637757;+0.472433
+LOCATION:Ramsden Heath Village Hall @ Ramsden Heath Village Hall\, Dowsett 
+ Ln\, Ramsden Heath\, Billericay\, Essex CM11 1HX\, UK
+SEQUENCE:0
+SUMMARY:Village Market
+URL:http://www.shpc.org.uk/event/village-market-8/
+X-TAGS;LANGUAGE=en-US:Ramsden Heath\,Village Market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-297@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151119T194500
+DTEND;TZID=Europe/London:20151119T220000
+GEO:+51.637873;+0.491982
+LOCATION:Downham Village Hall  @ School Road\, Billericay\, Essex CM11\, UK
+SEQUENCE:0
+SUMMARY:Parish Council Meeting
+URL:http://www.shpc.org.uk/event/parish-council-meeting-28/
+X-TAGS;LANGUAGE=en-US:Parish Council Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-289@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151203T194500
+DTEND;TZID=Europe/London:20151203T220000
+GEO:+51.637757;+0.472433
+LOCATION:Ramsden Heath Village Hall @ Ramsden Heath Village Hall\, Dowsett 
+ Ln\, Ramsden Heath\, Billericay\, Essex CM11 1HX\, UK
+SEQUENCE:0
+SUMMARY:Parish Council Meeting
+URL:http://www.shpc.org.uk/event/parish-council-meeting-21/
+X-TAGS;LANGUAGE=en-US:Parish Council Meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-335@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Community
+CONTACT:Maike Windhorst\;  01268 733163\; maike@mountholly.co.uk
+DESCRIPTION:<p class='p1' style='text-align: center\;'>This is a genuine lo
+ cal market with home-grown and home-produced goods provided by local stall
+ holders. Same is true for refreshments.</p>\n<p class='p1' style='text-ali
+ gn: center\;'><span class='s1'>Get your cakes\, greeting cards\, crafts\, 
+ plants\, fruit and vegetables and other artisan goods from people in your 
+ neighbourhood.</span></p>\n<p class='p1' style='text-align: center\;'><spa
+ n class='s1'>Stalls by local charities and local table top sellers of seco
+ nd-hand items also very welcome. Tables are priced at £ 5.</span></p>\n<p 
+ class='p1' style='text-align: center\;'><span class='s1'>For more informat
+ ion call Maike on 01268 733163 or mail (<a href='mailto:maike@mountholly.c
+ o.uk'><span class='s2'>maike@mountholly.co.uk</span></a>).</span></p>
+DTSTART;TZID=Europe/London:20151212T103000
+DTEND;TZID=Europe/London:20151212T130000
+GEO:+51.637757;+0.472433
+LOCATION:Ramsden Heath Village Hall @ Ramsden Heath Village Hall\, Dowsett 
+ Ln\, Ramsden Heath\, Billericay\, Essex CM11 1HX\, UK
+SEQUENCE:0
+SUMMARY:Village Market
+URL:http://www.shpc.org.uk/event/village-market-9/
+X-TAGS;LANGUAGE=en-US:Ramsden Heath\,Village Market
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-298@www.shpc.org.uk
+DTSTAMP:20150921T224749Z
+CATEGORIES;LANGUAGE=en-US:Council Meetings
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=Europe/London:20151217T194500
+DTEND;TZID=Europe/London:20151217T220000
+GEO:+51.637873;+0.491982
+LOCATION:Downham Village Hall  @ School Road\, Billericay\, Essex CM11\, UK
+SEQUENCE:0
+SUMMARY:Parish Council Meeting
+URL:http://www.shpc.org.uk/event/parish-council-meeting-29/
+X-TAGS;LANGUAGE=en-US:Parish Council Meeting
+END:VEVENT
+END:VCALENDAR

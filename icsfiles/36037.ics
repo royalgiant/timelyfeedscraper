@@ -23,35 +23,8 @@ TZNAME:PDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-1890@www.act1cv.org
-DTSTAMP:20150920T002127Z
-CATEGORIES:
-CONTACT:Dom Calvano\; 760-469-4633\; http://www.act1cv.org/wp-content/uploa
- ds/2014/07/BowlingFlyer.pdf
-DESCRIPTION:<h1 class='entry-title'>Let’s Go Bowling!</h1>\n<div class='ent
- ry-content'>\n<p>We’ll be bowling again on the 3rd Friday evening!<br />\n
- That’s the Friday right after our meeting.</p>\n<p>Click the image below t
- o download a flyer.<br />\nCome on out and have some fun with us….</p>\n<p
- ><a title='Bowling Flyer' href='http://www.act1cv.org/wp-content/uploads/2
- 014/06/BowlingACTIEveryThirdFriday.jpg'>Bowling Flyer</a><a href='http://w
- ww.act1cv.org/wp-content/uploads/2014/06/BowlingACTIEveryThirdFriday.jpg'>
- <img class='alignleft wp-image-2160 size-thumbnail' src='http://www.act1cv
- .org/wp-content/uploads/2014/06/BowlingACTIEveryThirdFriday-150x150.jpg' a
- lt='' width='150' height='150' /></a></p>\n</div>
-DTSTART;TZID=America/Los_Angeles:20150918T180000
-DTEND;TZID=America/Los_Angeles:20150918T210000
-GEO:+33.815002;-116.47495
-LOCATION:Palm Springs Lanes @ 68051 Ramon Road\, Cathedral City\, CA 92234\
- , USA
-RRULE:FREQ=MONTHLY;BYDAY=3FR
-SEQUENCE:0
-SUMMARY:Bowling for Dollars with ACT I
-URL:http://www.act1cv.org/event/bowling-for-dollars-with-act-i/
-X-COST:$20.00
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-2494@www.act1cv.org
-DTSTAMP:20150920T002127Z
+DTSTAMP:20150921T224654Z
 CATEGORIES:
 CONTACT:(760) 346-7772 \; http://www.act1cv.org/wp-content/uploads/2014/12/
  Caviar.pdf
@@ -69,5 +42,32 @@ SEQUENCE:0
 SUMMARY:Happy Hour welcomes Fall with Vodka and Caviar
 URL:http://www.act1cv.org/event/happy-hour-welcomes-fall-with-vodka-and-cav
  iar/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1890@www.act1cv.org
+DTSTAMP:20150921T224654Z
+CATEGORIES:
+CONTACT:Dom Calvano\; 760-469-4633\; http://www.act1cv.org/wp-content/uploa
+ ds/2014/07/BowlingFlyer.pdf
+DESCRIPTION:<h1 class='entry-title'>Let’s Go Bowling!</h1>\n<div class='ent
+ ry-content'>\n<p>We’ll be bowling again on the 3rd Friday evening!<br />\n
+ That’s the Friday right after our meeting.</p>\n<p>Click the image below t
+ o download a flyer.<br />\nCome on out and have some fun with us….</p>\n<p
+ ><a title='Bowling Flyer' href='http://www.act1cv.org/wp-content/uploads/2
+ 014/06/BowlingACTIEveryThirdFriday.jpg'>Bowling Flyer</a><a href='http://w
+ ww.act1cv.org/wp-content/uploads/2014/06/BowlingACTIEveryThirdFriday.jpg'>
+ <img class='alignleft wp-image-2160 size-thumbnail' src='http://www.act1cv
+ .org/wp-content/uploads/2014/06/BowlingACTIEveryThirdFriday-150x150.jpg' a
+ lt='' width='150' height='150' /></a></p>\n</div>
+DTSTART;TZID=America/Los_Angeles:20151016T180000
+DTEND;TZID=America/Los_Angeles:20151016T210000
+GEO:+33.815002;-116.47495
+LOCATION:Palm Springs Lanes @ 68051 Ramon Road\, Cathedral City\, CA 92234\
+ , USA
+RRULE:FREQ=MONTHLY;BYDAY=3FR
+SEQUENCE:0
+SUMMARY:Bowling for Dollars with ACT I
+URL:http://www.act1cv.org/event/bowling-for-dollars-with-act-i/
+X-COST:$20.00
 END:VEVENT
 END:VCALENDAR

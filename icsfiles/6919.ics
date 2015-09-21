@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+	<title>Website is under construction</title>	<meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://dev.westseattleblog.com/blog/xmlrpc.php" />
+	<link rel='stylesheet' id='_custom_fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic&#038;ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='_iconstyle-css'  href='http://dev.westseattleblog.com/blog/wp-content/plugins/maintenance/load/images/fonts-icon/icons.style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='_style-css'  href='http://dev.westseattleblog.com/blog/wp-content/plugins/maintenance/load/style.css?ver=4.3.1' type='text/css' media='all' />
+<style id='_style-inline-css' type='text/css'>
+body {background-color: #111111}.preloader {background-color: #111111}body {font-family: Open Sans; }.site-title, .preloader i, .login-form, .login-form a.lost-pass, .btn-open-login-form, .site-content, .user-content-wrapper, .user-content, footer {color: #ffffff;} .ie7 .login-form input[type="text"], .ie7 .login-form input[type="password"], .ie7 .login-form input[type="submit"]  {color: #ffffff} a.close-user-content, #mailchimp-box form input[type="submit"], .login-form input#submit.button  {border-color:#ffffff} .ie7 .company-name {color: #ffffff} 
+</style>
+<script type='text/javascript' src='http://dev.westseattleblog.com/blog/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://dev.westseattleblog.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://dev.westseattleblog.com/blog/wp-content/plugins/maintenance/load/js/jquery.placeholder.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://dev.westseattleblog.com/blog/wp-content/plugins/maintenance/load/js/jquery.backstretch.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://dev.westseattleblog.com/blog/wp-content/plugins/maintenance/load/js/jquery.blur.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://dev.westseattleblog.com/blog/wp-content/plugins/maintenance/load/js/jquery.frontend.min.js?ver=4.3.1'></script>
+		<script type="text/javascript">
+jQuery(document).ready(function() { 
+if (jQuery(window).height() < 768) {
+jQuery("body").backstretch("http://dev.westseattleblog.com/blog/wp-content/uploads/2014/12/mt-sample-background.jpg");
+}	else {
+jQuery(".main-container").backstretch("http://dev.westseattleblog.com/blog/wp-content/uploads/2014/12/mt-sample-background.jpg");
+}
+});</script>	</head>
+<body class="home blog maintenance  wpb-js-composer js-comp-ver-4.3.1 vc_responsive">
+	  	<div class="main-container">
+		<div class="preloader"><i></i></div>		<div id="wrapper">
+			<div class="center">
+				<header>
+					<a class="logo istext" rel="home" href="http://dev.westseattleblog.com/blog"><h1 class="site-title">West Seattle Blog...</h1></a>				</header>
+			</div>
+		
+			<div id="content" class="site-content">
+				<div class="center">
+					<h2 class="heading font-center">Maintenance mode is on</h2><h3 class="description font-center">Website will be available soon</h3>				</div>	
+			</div>
+		
+		</div> <!-- end wrapper -->		
+		<footer role="contentinfo">
+			<div class="center">
+				<a class="company-name" rel="footer" href="http://dev.westseattleblog.com/blog">&copy; West Seattle Blog... 2015</a>			</div>
+		</footer>
+					</div>
+				
+		<div class="login-form-container">
+			<form name="login-form" id="login-form" class="login-form" method="post"><label for="">User Login</label><span class="licon user-icon"><input type="text" name="log" id="log" value="" size="20"  class="input username" placeholder="Username"/></span><span class="picon pass-icon"><input type="password" name="pwd" id="login_password" value="" size="20"  class="input password" placeholder="Password" /></span><a class="lost-pass" href="http://dev.westseattleblog.com/blog/wp-login.php?action=lostpassword" title="Lost Password">Lost Password</a><input type="submit" class="button" name="submit" id="submit" value="Login" tabindex="4" /><input type="hidden" name="is_custom_login" value="1" /></form>						<div id="btn-open-login-form" class="btn-open-login-form">
+				<i class="foundicon-lock"></i>
+			</div>
+				</div>	
+		
+	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f2b6872daf","applicationID":"1726275","transactionName":"ZV1WNxZQWEBUAUMMCVwXYRENHl9dUQdPSxZaSA==","queueTime":0,"applicationTime":382,"atts":"SRpVQV5KS04=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script></body>
+</html>

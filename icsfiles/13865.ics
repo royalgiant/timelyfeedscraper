@@ -1,0 +1,504 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//50.87.150.60//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://thetableumc.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RDATE:20160313T020000
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-5225@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Reaching in Love
+CONTACT:Zack Pasillas\; zdpasillas@gmail.com\; http://www.theyogaseed.org
+DESCRIPTION:<p>Day-Long Yoga Seed Gathering.</p>
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151005
+GEO:+38.568831;-121.438146
+LOCATION:Social Hall\, Fireside Room\, & Lawn @ 5265 H Street\, Sacramento\
+ , CA 95819\, USA
+SEQUENCE:0
+SUMMARY:Yoga Seed
+URL:http://thetableumc.org/event/yoga-seed/
+X-TAGS;LANGUAGE=en-US:yoga\,yoga seed
+X-TICKETS-URL:http://www.theyogaseed.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4576@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Celebrations\, Weddings\, Memorials\, Etc.
+CONTACT:
+DESCRIPTION:
+DTSTART;VALUE=DATE:20151114
+DTEND;VALUE=DATE:20151115
+GEO:+38.568831;-121.438146
+LOCATION:Sanctuary @ 5265 H Street\, Sacramento\, CA 95819\, USA
+SEQUENCE:0
+SUMMARY:Matt Schlager & Megan Maddox Wedding
+URL:http://thetableumc.org/event/matt-schlager-megan-maddox-wedding/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1387@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:Mark\; 916 548-8771\; mark@riverunity.com
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150921T013000
+DTEND;TZID=America/Los_Angeles:20150921T023000
+LOCATION:Room 206 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Cocaine Anonymous
+URL:http://thetableumc.org/event/cocaine-anonymous-room-206/
+X-TAGS;LANGUAGE=en-US:12 step\,cocaine anonymous\,Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4019@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:Tom Barnett \; tommylee@mstar.net
+DESCRIPTION:<p>12 Step Recovery Group</p>
+DTSTART;TZID=America/Los_Angeles:20150922T020000
+DTEND;TZID=America/Los_Angeles:20150922T030000
+GEO:+38.568831;-121.438146
+LOCATION:Room 204 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=SU
+SEQUENCE:0
+SUMMARY:12 Step Recovery
+URL:http://thetableumc.org/event/12-step-recovery/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1385@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:http://www.aasacramento.org
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150922T020000
+DTEND;TZID=America/Los_Angeles:20150922T030000
+LOCATION:Room 204 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Alcoholics Anonymous
+URL:http://thetableumc.org/event/alcoholics-anonymous/
+X-TAGS;LANGUAGE=en-US:12 step\,AA\,Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1364@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:CABarringer@aol.com
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150922T020000
+DTEND;TZID=America/Los_Angeles:20150922T030000
+LOCATION:Room 206 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=MO;WKST=MO
+SEQUENCE:0
+SUMMARY:Keep Off the Grass (Marijuana Anonymous)
+URL:http://thetableumc.org/event/keep-off-the-grass-monday/
+X-TAGS;LANGUAGE=en-US:12 step\,Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4027@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Kitchen Tables
+CONTACT:
+DESCRIPTION:<p>While everyone is welcome in Worship\, our Sunday Kitchen Ta
+ bles are designed for those who’ve completed A Blueprint for Dischipleship
+  to grow in faith by watching over one another in love.  We respond to the
+  question:  how is it with your soul?  How are you doing in keeping John W
+ esley’s three rules for Christian living:  do no harm\, do good\, stay in 
+ love with God.</p>
+DTSTART;TZID=America/Los_Angeles:20150924T010000
+DTEND;TZID=America/Los_Angeles:20150924T030000
+GEO:+38.568831;-121.438146
+LOCATION:Upstairs Godly Play Room @ 5265 H Street\, Sacramento\, CA 95819\,
+  USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:Wednesday 6 PM Kitchen Table
+URL:http://thetableumc.org/event/wednesday-6-pm-kitchen-table/
+X-TAGS;LANGUAGE=en-US:Grow in faith\,Kitchen Table
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1363@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:Brian McKinsey\; 916 225-7251
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150924T013000
+DTEND;TZID=America/Los_Angeles:20150924T023000
+LOCATION:Room 205 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=MO
+SEQUENCE:0
+SUMMARY:Buddhist Twelve Step SANGHA
+URL:http://thetableumc.org/event/sangha/
+X-TAGS;LANGUAGE=en-US:12 step\,Buddhist\,Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3941@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:
+DESCRIPTION:<p>Alanon Group</p>
+DTSTART;TZID=America/Los_Angeles:20150924T020000
+DTEND;TZID=America/Los_Angeles:20150924T033000
+GEO:+38.568831;-121.438146
+LOCATION:Room 206 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=WE;WKST=SU
+SEQUENCE:0
+SUMMARY:You’re in the Right Place
+URL:http://thetableumc.org/event/youre-in-the-right-place/
+X-TAGS;LANGUAGE=en-US:Alanon
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4399@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:Jan Burch\; 916.501.5594\; jan@latimerburch.com
+DESCRIPTION:<p>Food Addicts Recovery Group</p>
+DTSTART;TZID=America/Los_Angeles:20150924T033000
+DTEND;TZID=America/Los_Angeles:20150924T050000
+GEO:+38.568831;-121.438146
+LOCATION:Room 206 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Food Addicts
+URL:http://thetableumc.org/event/food-addicts/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4806@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Kitchen Tables
+CONTACT:
+DESCRIPTION:<p>The gathering will be rooted in scripture as the group moves
+  through our Kitchen Table process\, responding to the question:  how is i
+ t with your soul?  How are you doing in keeping John Wesley’s three rules 
+ for Christian living:  do no harm\, do good\, stay in love with God.  This
+  group is open to all\, church member or not.  Child care is provided\, as
+  well as light snacks.</p>
+DTSTART;TZID=America/Los_Angeles:20150924T180000
+DTEND;TZID=America/Los_Angeles:20150924T193000
+GEO:+38.568831;-121.438146
+LOCATION:The Table UMC @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Thursday Evening Kitchen Table
+URL:http://thetableumc.org/event/thursday-evening-kitchen-table/
+X-TAGS;LANGUAGE=en-US:Grow in faith\,Kitchen Table
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4159@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Kitchen Tables
+CONTACT:Heidi van Beek\; heidi.vanbeek@gmail.com
+DESCRIPTION:<div class='ai1ec-event-avatar alignleft timely'><img src='http
+ ://thetableumc.org/wp-content/uploads/2013/03/image-2-200x300.jpg' width='
+ 200' height='300' /></div><p><span style='color: #000000\;'>This Kitchen T
+ able will meet in the Sanctuary on </span>Thursday evenings from 6:00-6:45
+  pm.  The gathering will be rooted in quiet meditation and prayer as the g
+ roup moves through our Kitchen Table process.  No experience with silent p
+ rayer necessary.  Contact Heidi van Beek for more information.  The group 
+ welcomes new people who have completed Blueprint for Discipleship.</p>
+DTSTART;TZID=America/Los_Angeles:20150925T010000
+DTEND;TZID=America/Los_Angeles:20150925T014500
+GEO:+38.568831;-121.438146
+LOCATION:Sanctuary  @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Thursday Evening Quiet Prayer / Meditation Kitchen Table
+URL:http://thetableumc.org/event/meditation-kitchen-table/
+X-TAGS;LANGUAGE=en-US:meditation\,prayer
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5074@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Reaching in Love
+CONTACT:Nicole Sanoski\; Nicole.sanoski@yahoo.com
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150924T183000
+DTEND;TZID=America/Los_Angeles:20150924T193000
+GEO:+38.568831;-121.438146
+LOCATION:Room 205 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=TH;WKST=SU
+SEQUENCE:0
+SUMMARY:Yin Yoga
+URL:http://thetableumc.org/event/yin-yoga/
+X-TAGS;LANGUAGE=en-US:yoga
+X-COST:Donations Accepted
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1384@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:CABarringer@aol.com
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150925T190000
+DTEND;TZID=America/Los_Angeles:20150925T200000
+LOCATION:Room 206 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Keep Off the Grass (Marijuana Anonymous)
+URL:http://thetableumc.org/event/keep-off-the-grass/
+X-TAGS;LANGUAGE=en-US:12 step\,Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4261@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:Tom Barnett\; <tommylee@mstar.net>
+DESCRIPTION:<p>Twelve Step Recovery Group</p>
+DTSTART;TZID=America/Los_Angeles:20150926T073000
+DTEND;TZID=America/Los_Angeles:20150926T083000
+GEO:+38.568831;-121.438146
+LOCATION:Room 205 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:12 Step Group
+URL:http://thetableumc.org/event/12-step-group/
+X-TAGS;LANGUAGE=en-US:12 Steps\,Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4022@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:Tom Barnett \; tommylee@mstar.net
+DESCRIPTION:<p>12 Step Recovery Group</p>
+DTSTART;TZID=America/Los_Angeles:20150926T073000
+DTEND;TZID=America/Los_Angeles:20150926T083000
+GEO:+38.568831;-121.438146
+LOCATION:Room 204 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:12 Step Recovery
+URL:http://thetableumc.org/event/12-step-recovery-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5075@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Reaching in Love
+CONTACT:Nicole Sanoski\; Nicole.sanoski@yahoo.com
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150926T113000
+DTEND;TZID=America/Los_Angeles:20150926T123000
+GEO:+38.568831;-121.438146
+LOCATION:Room 205 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=SU
+SEQUENCE:0
+SUMMARY:Yin Yoga
+URL:http://thetableumc.org/event/yin-yoga-2/
+X-TAGS;LANGUAGE=en-US:yoga
+X-COST:Donations Accepted
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1377@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Recovery Groups
+CONTACT:http://www.aasacramento.org
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150926T190000
+DTEND;TZID=America/Los_Angeles:20150926T200000
+LOCATION:Room 206 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SA;WKST=MO
+SEQUENCE:0
+SUMMARY:Alcoholics Anonymous Espee
+URL:http://thetableumc.org/event/alcoholics-anonymous-espee/
+X-TAGS;LANGUAGE=en-US:12 step\,AA\,Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1389@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Kitchen Tables
+CONTACT:
+DESCRIPTION:<p>While everyone is welcome in Worship\, our Sunday Kitchen Ta
+ bles are designed for those who’ve completed A Blueprint for Dischipleship
+  to grow in faith by watching over one another in love.  We respond to the
+  question:  how is it with your soul?  How are you doing in keeping John W
+ esley’s three rules for Christian living:  do no harm\, do good\, stay in 
+ love with God.</p>
+DTSTART;TZID=America/Los_Angeles:20150927T091500
+DTEND;TZID=America/Los_Angeles:20150927T101500
+LOCATION:Room 204 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Before Worship Kitchen Table
+URL:http://thetableumc.org/event/before-worship-kitchen-table/
+X-TAGS;LANGUAGE=en-US:Grow in faith\,Kitchen Table
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1390@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Kitchen Tables
+CONTACT:
+DESCRIPTION:<p>While everyone is welcome in Worship\, our Sunday Kitchen Ta
+ bles are designed for those who’ve completed A Blueprint for Dischipleship
+  to grow in faith by watching over one another in love.  We respond to the
+  question:  how is it with your soul?  How are you doing in keeping John W
+ esley’s three rules for Christian living:  do no harm\, do good\, stay in 
+ love with God.</p>
+DTSTART;TZID=America/Los_Angeles:20150927T120000
+DTEND;TZID=America/Los_Angeles:20150927T130000
+LOCATION:Room 204 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:After Worship Kitchen Table
+URL:http://thetableumc.org/event/after-worship-kitchen-table/
+X-TAGS;LANGUAGE=en-US:Grow in faith\,Kitchen Table
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1388@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Kitchen Tables
+CONTACT:Sara Warfield\; swarfield@ses.psr.edu
+DESCRIPTION:<p>While everyone is welcome in Worship\, our Sunday Youth Kitc
+ hen Table is designed for junior & senior hight students.  We respond to t
+ he question:  how is it with your soul?  How are you doing in keeping John
+  Wesley’s three rules for Christian living:  do no harm\, do good\, stay i
+ n love with God.</p>
+DTSTART;TZID=America/Los_Angeles:20150927T120000
+DTEND;TZID=America/Los_Angeles:20150927T133000
+LOCATION:Kitchen & Fireside Room @ 5265 H Street\, Sacramento\, CA 95819\, 
+ USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Youth Kitchen Table
+URL:http://thetableumc.org/event/youth-kt/
+X-TAGS;LANGUAGE=en-US:Grow in faith\,Kitchen Table
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4735@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Worship
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150927T093000
+DTEND;TZID=America/Los_Angeles:20150927T104500
+GEO:+38.568831;-121.438146
+LOCATION:Sanctuary @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Worship
+URL:http://thetableumc.org/event/worship-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1392@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Worship
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20150927T110000
+DTEND;TZID=America/Los_Angeles:20150927T121500
+GEO:+38.568831;-121.438146
+LOCATION:Sanctuary @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=MO
+SEQUENCE:0
+SUMMARY:Worship
+URL:http://thetableumc.org/event/worship/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5226@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Reaching in Love
+CONTACT:Zack Pasillas\; zdpasillas@gmail.com\; http://www.theyogaseed.org
+DESCRIPTION:<p>Set-up for Yoga Seed gathering on Saturday.</p>
+DTSTART;TZID=America/Los_Angeles:20151002T160000
+DTEND;TZID=America/Los_Angeles:20151002T230000
+GEO:+38.568831;-121.438146
+LOCATION:Social Hall & Fireside Room @ 5265 H Street\, Sacramento\, CA 9581
+ 9\, USA
+SEQUENCE:0
+SUMMARY:Yoga Seed Set-Up
+URL:http://thetableumc.org/event/yoga-seed-set-up/
+X-TAGS;LANGUAGE=en-US:yoga\,yoga seed
+X-TICKETS-URL:http://www.theyogaseed.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4957@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Reaching in Love
+CONTACT:Billie Hamilton\;  <billieham@gmail.com>
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151003T090000
+DTEND;TZID=America/Los_Angeles:20151003T120000
+GEO:+38.568831;-121.438146
+LOCATION:Room 206 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=MONTHLY;BYDAY=1SA
+SEQUENCE:0
+SUMMARY:Citizen Climate Change
+URL:http://thetableumc.org/event/citizen-climate-change/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1374@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Kitchen Tables
+CONTACT:
+DESCRIPTION:<p>Monthly luncheon gathering of retired women.</p>
+DTSTART;TZID=America/Los_Angeles:20151014T180000
+DTEND;TZID=America/Los_Angeles:20151014T200000
+LOCATION:Fireside Room @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:CEO Women
+URL:http://thetableumc.org/event/ceo-women/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1386@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Church Administration
+CONTACT:Eric Fredrickson
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151015T020000
+DTEND;TZID=America/Los_Angeles:20151015T040000
+LOCATION:Room 204 @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+SEQUENCE:0
+SUMMARY:Trustees
+URL:http://thetableumc.org/event/trustees-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4552@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Reaching in Love
+CONTACT:Joan Eddy\; 916-451-3831\;  eddyjk@comcast.net
+DESCRIPTION:<p>Community Workparty for women diagnosed with breast cancer\,
+  to make comfort pillows that are provided free of charge with the NBS tot
+ ebags. Monday\, October 19.</p>
+DTSTART;TZID=America/Los_Angeles:20151019T180000
+DTEND;TZID=America/Los_Angeles:20151019T210000
+GEO:+38.568831;-121.438146
+LOCATION:Social Hall & Kitchen @ 5265 H Street\, Sacramento\, CA 95819\, US
+ A
+SEQUENCE:0
+SUMMARY:Necessities Bag October 19
+URL:http://thetableumc.org/event/necessities-bag-october-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-1379@thetableumc.org
+DTSTAMP:20150921T224644Z
+CATEGORIES;LANGUAGE=en-US:Church Administration
+CONTACT:Mark Lingren
+DESCRIPTION:
+DTSTART;TZID=America/Los_Angeles:20151022T013000
+DTEND;TZID=America/Los_Angeles:20151022T033000
+LOCATION:Fireside Room @ 5265 H Street\, Sacramento\, CA 95819\, USA
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+SEQUENCE:0
+SUMMARY:Finance
+URL:http://thetableumc.org/event/finance/
+END:VEVENT
+END:VCALENDAR

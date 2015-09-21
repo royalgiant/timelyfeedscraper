@@ -22,24 +22,4 @@ RDATE:20160327T020000
 TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:ai1ec-7750@www.essafoot.fr
-DTSTAMP:20150920T003335Z
-CATEGORIES;LANGUAGE=fr-FR:Match Arbitre
-CONTACT:
-DESCRIPTION:<p><a href='http://www.essafoot.fr/wp-content/uploads/2014/11/1
- 460955_662579103857470_5091227308367354968_n.jpg'><img class='aligncenter 
- size-full wp-image-4679' src='http://www.essafoot.fr/wp-content/uploads/20
- 14/11/1460955_662579103857470_5091227308367354968_n.jpg' alt='1460955_6625
- 79103857470_5091227308367354968_n' width='194' height='292' /></a></p>
-DTSTART;TZID=Europe/Paris:20150919T150000
-GEO:+47.653398;-2.697342
-LOCATION:Stade Le Perenno 1 @ Le Pérenno\, 56450\, France
-SEQUENCE:0
-SUMMARY:Leo Koppe arbitre assistant 1 Vannes O.C vs Alençon U.S (U17 Cht Na
- tional 4ème journée)
-URL:http://www.essafoot.fr/event/leo-koppe-arbitre-vannes-menimur-vs-rennes
- -stade-2-u15-dh-2-2-2-3/
-X-INSTANT-EVENT:1
-END:VEVENT
 END:VCALENDAR

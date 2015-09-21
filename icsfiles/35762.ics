@@ -23,20 +23,18 @@ TZNAME:EEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-3269@eestihobune.ee
-DTSTAMP:20150920T002202Z
+UID:ai1ec-3991@eestihobune.ee
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
-DESCRIPTION:<p>Koostöös Keskkonnaametiga on EHS esindatud Ökomässul Tallinn
- as Patarei Merekindluse territooriumil</p>\n<p>Kohal eesti\, tori ja eesti
-  raskeveohobune.</p>\n<p>Rohkem infot-</p>\n<p><a href='http://www.keskkon
- naamet.ee/uudised-ja-artiklid/elavate-kulamaastike-kampaania/?highlight=%C
- 3%96kom%C3%A4ss' target='_blank'>http://www.keskkonnaamet.ee/uudised-ja-ar
- tiklid/elavate-kulamaastike-kampaania/?highlight=%C3%96kom%C3%A4ss</a></p>
-DTSTART;TZID=Europe/Tallinn:20150919T110000
+DESCRIPTION:<p><strong>2. – 4. oktoobrini </strong>toimub Saku Suurhallis j
+ uba 13. korda Baltimaade suurim rahvusvaheline ratsutamisvõistlus Tallinn 
+ International Horse Show.</p>\n<p><a href='http://www.ehs.ee/images/EHS201
+ 5/krista2015/Tallinn_International_Horse_Show_2015_kava.pdf'>Kava</a></p>
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151005
 SEQUENCE:0
-SUMMARY:Ökomäss 2015
-URL:http://eestihobune.ee/?ai1ec_event=okomass-2015
-X-INSTANT-EVENT:1
+SUMMARY:Tallinn International Horse Show
+URL:http://eestihobune.ee/?ai1ec_event=3991
 END:VEVENT
 END:VCALENDAR

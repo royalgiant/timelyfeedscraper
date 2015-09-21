@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-3373@teamevesham.org
-DTSTAMP:20150920T002140Z
+DTSTAMP:20150921T224710Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>C and B levels 25 mile ride from Virtua Health and Fitness –
@@ -37,8 +37,8 @@ DESCRIPTION:<p>C and B levels 25 mile ride from Virtua Health and Fitness –
  n for rest room use.  The ride is dependent on weather conditions\, please
   check <a title='Upcoming Rides' href='http://teamevesham.org/rides/'>Upco
  ming Rides</a> to assure that the ride has not been canceled.</p>
-DTSTART;TZID=America/New_York:20150919T200000
-DTEND;TZID=America/New_York:20150919T223000
+DTSTART;TZID=America/New_York:20150926T200000
+DTEND;TZID=America/New_York:20150926T223000
 GEO:+39.971664;-74.915477
 LOCATION:Virtua Health and Fitness – Moorestown @ 401 Young Avenue\, Haines
  port\, NJ 08036\, USA
@@ -46,26 +46,5 @@ RRULE:FREQ=WEEKLY;COUNT=20;BYDAY=SA;WKST=MO
 SEQUENCE:0
 SUMMARY:TE Saturday Ride
 URL:http://teamevesham.org/event/team-evesham-saturday-ride/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-189@teamevesham.org
-DTSTAMP:20150920T002141Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>All-level (A+\, A\, B+\, B\, C) ride.    The weeks starting 
- location and routes will be published in <a title='Upcoming Rides' href='h
- ttp://teamevesham.org/rides/' target='_blank'>Upcoming Rides</a> under Rid
- es. The ride is dependent on weather conditions\, please check <a title='U
- pcoming Rides' href='http://teamevesham.org/rides/'>Upcoming Rides</a> to 
- assure that the ride has not been canceled.</p>
-DTSTART;TZID=America/New_York:20150920T080000
-DTEND;TZID=America/New_York:20150920T120000
-GEO:+39.870518;-74.921774
-LOCATION:Rastelli Market Fresh @ 710 New Jersey 73\, Evesham Township\, NJ 
- 08053\, USA
-RRULE:FREQ=WEEKLY;COUNT=20
-SEQUENCE:0
-SUMMARY:TE Sunday Ride
-URL:http://teamevesham.org/event/team-evesham-sunday-ride/
 END:VEVENT
 END:VCALENDAR

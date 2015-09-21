@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-1237@rrgc.ca
-DTSTAMP:20150920T002355Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:Dave Ulch\; undrtkr@teksavvy.com
 DESCRIPTION:<p><strong>18th Annual Trap Shoot and Pig Roast Fundraiser for 
@@ -40,25 +40,8 @@ URL:http://rrgc.ca/event/huntington-disease-annual-trap-shoot/
 X-COST:$25 Entry fee for the Trap Shoot     $10 Pig roast Ticket
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-1235@rrgc.ca
-DTSTAMP:20150920T002355Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Two Skeet fields are open to the public every Sunday beginni
- ng at 10:00 AM (unless posted otherwise)</p>\n<p>Last sign-ups should be m
- ade by 2:00 PM</p>
-DTSTART;TZID=America/Toronto:20150920T100000
-DTEND;TZID=America/Toronto:20150920T140000
-EXRULE:FREQ=MONTHLY;BYDAY=SU;WKST=SU
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Skeet
-URL:http://rrgc.ca/event/skeet-2/
-X-COST:Non-Members $5.00 / Members $4.00
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1225@rrgc.ca
-DTSTAMP:20150920T002355Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Stand Alone CFSC / CRFSC / HEP Courses<br />\nCFSC/CRFSC or 
@@ -75,8 +58,25 @@ SUMMARY:One Stop Hunter Education and Firearms Training
 URL:http://rrgc.ca/event/one-stop-hunter-education-and-firearms-training/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-1235@rrgc.ca
+DTSTAMP:20150921T224750Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Two Skeet fields are open to the public every Sunday beginni
+ ng at 10:00 AM (unless posted otherwise)</p>\n<p>Last sign-ups should be m
+ ade by 2:00 PM</p>
+DTSTART;TZID=America/Toronto:20150927T100000
+DTEND;TZID=America/Toronto:20150927T140000
+EXRULE:FREQ=MONTHLY;BYDAY=SU;WKST=SU
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Skeet
+URL:http://rrgc.ca/event/skeet-2/
+X-COST:Non-Members $5.00 / Members $4.00
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-1243@rrgc.ca
-DTSTAMP:20150920T002355Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:Captain William Finlay\; finfms4@hotmail.com
 DESCRIPTION:<p>291 Air Cadet Rifle Teams practice on the main floors of the
@@ -91,7 +91,7 @@ URL:http://rrgc.ca/event/air-rifle/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1244@rrgc.ca
-DTSTAMP:20150920T002355Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:Captain William Finlay\; finfms4@hotmail.com
 DESCRIPTION:<p>Air Cadets are training with their air rifles on the main fl
@@ -106,7 +106,7 @@ URL:http://rrgc.ca/event/air-rifle-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1245@rrgc.ca
-DTSTAMP:20150920T002355Z
+DTSTAMP:20150921T224750Z
 CATEGORIES:
 CONTACT:Captain William Finlay\; finfms4@hotmail.com
 DESCRIPTION:<p>Air Cadets are training with their air rifles on the main fl

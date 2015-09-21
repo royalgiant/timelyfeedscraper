@@ -23,22 +23,8 @@ TZNAME:CDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:C9D8625F-3243-4B74-B529-9607627CB439
-DTSTAMP:20150920T002123Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<div class='shareaholic-canvas' data-app-id='285573' data-app='
- share_buttons' data-title='' data-link='' data-summary=''></div>
-DTSTART;TZID=America/Chicago:20150919T140000
-DTEND;TZID=America/Chicago:20150919T200000
-RRULE:FREQ=WEEKLY
-SEQUENCE:0
-SUMMARY:Fellowship Hall Open
-URL:http://www.blackabbeybrewing.com/main/event/fellowship-hall-open-7/
-END:VEVENT
-BEGIN:VEVENT
 UID:67254202-044A-4276-A835-773D55219876
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224650Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div class='shareaholic-canvas' data-app-id='285573' data-app='
@@ -52,7 +38,7 @@ URL:http://www.blackabbeybrewing.com/main/event/felllowship-hall-open/
 END:VEVENT
 BEGIN:VEVENT
 UID:23CF5F62-DC83-494B-9803-D0208F6D4F91
-DTSTAMP:20150920T002123Z
+DTSTAMP:20150921T224650Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<div class='shareaholic-canvas' data-app-id='285573' data-app='
@@ -64,5 +50,19 @@ RRULE:FREQ=WEEKLY
 SEQUENCE:0
 SUMMARY:Fellowship Hall Open
 URL:http://www.blackabbeybrewing.com/main/event/fellowship-hall-open-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:C9D8625F-3243-4B74-B529-9607627CB439
+DTSTAMP:20150921T224650Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<div class='shareaholic-canvas' data-app-id='285573' data-app='
+ share_buttons' data-title='' data-link='' data-summary=''></div>
+DTSTART;TZID=America/Chicago:20150926T140000
+DTEND;TZID=America/Chicago:20150926T200000
+RRULE:FREQ=WEEKLY
+SEQUENCE:0
+SUMMARY:Fellowship Hall Open
+URL:http://www.blackabbeybrewing.com/main/event/fellowship-hall-open-7/
 END:VEVENT
 END:VCALENDAR

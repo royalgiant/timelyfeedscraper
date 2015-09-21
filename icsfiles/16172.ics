@@ -252,7 +252,7 @@ img.emoji {
 		</div>
 						<div id="slider">
 					<div class="shell">
-						<div class="oneByOne_item"><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/Welcome_to.853ed5ecc7.png?resize=308%2C66" class="attachment-full" alt="Welcome_to.853ed5ecc7" style="position:absolute;left:0px;top:0px;" data-animate="fadeInLeft" /><img src="http://i2.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/Grace_Community_Church.687d44b334.png?resize=704%2C87" class="attachment-full" alt="Grace_Community_Church.687d44b334" style="position:absolute;left:100px;top:75px;" data-animate="fadeInLeft" /><img src="http://i2.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/Online.56e1addc5b.png?resize=196%2C66" class="attachment-full" alt="Online.56e1addc5b" style="position:absolute;left:700px;top:150px;" data-animate="fadeInLeft" /><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/sharing.250f29b5e9.png?resize=813%2C46" class="attachment-full" alt="sharing.250f29b5e9" style="position:absolute;left:50px;top:250px;" data-animate="fadeInRight" /><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/dry_and_thirsty.1ad52f7907.png?resize=340%2C45" class="attachment-full" alt="dry_and_thirsty.1ad52f7907" style="position:absolute;left:300px;top:300px;" data-animate="fadeInRight" /></div><div class="oneByOne_item"><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2015/09/Mens_breakfast_2015_1.c1a89a6998.jpg?resize=900%2C350" class="attachment-full" alt="Mens_breakfast_2015_1.c1a89a6998" style="position:absolute;left:50px;top:0px;" /></div><div class="oneByOne_item"><div class="text" data-animate="bounceInLeft" style="width:1000px; top:300px; left:0px;">
+						<div class="oneByOne_item"><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/Welcome_to.853ed5ecc7.png?resize=308%2C66" class="attachment-full" alt="Welcome_to.853ed5ecc7" style="position:absolute;left:0px;top:0px;" data-animate="fadeInLeft" /><img src="http://i2.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/Grace_Community_Church.687d44b334.png?resize=704%2C87" class="attachment-full" alt="Grace_Community_Church.687d44b334" style="position:absolute;left:100px;top:75px;" data-animate="fadeInLeft" /><img src="http://i2.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/Online.56e1addc5b.png?resize=196%2C66" class="attachment-full" alt="Online.56e1addc5b" style="position:absolute;left:700px;top:150px;" data-animate="fadeInLeft" /><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/sharing.250f29b5e9.png?resize=813%2C46" class="attachment-full" alt="sharing.250f29b5e9" style="position:absolute;left:50px;top:250px;" data-animate="fadeInRight" /><img src="http://i0.wp.com/www.gracemaryville.org/wp-content/uploads/2014/07/dry_and_thirsty.1ad52f7907.png?resize=340%2C45" class="attachment-full" alt="dry_and_thirsty.1ad52f7907" style="position:absolute;left:300px;top:300px;" data-animate="fadeInRight" /></div><div class="oneByOne_item"><div class="text" data-animate="bounceInLeft" style="width:1000px; top:300px; left:0px;">
 											<h3>Grace services are now streamed live and archived to view later!</h3>
 											
 											
@@ -339,12 +339,12 @@ Church Office Fax: (865) 984-0136</p>
 	<div id="main">		<div id="countdown">
 		
 							
-					<a href="#" id="countdown_link" onclick="jQuery.aecDialog({'id':158,'start':'2015-09-18 00:00:00','end':'2015-09-20 00:00:00'}); return false;">
+					<a href="#" id="countdown_link" onclick="jQuery.aecDialog({'id':169,'start':'2015-09-22 07:45:00','end':'2015-09-22 08:45:00'}); return false;">
 						<div class="shell">
 						
 														
-															<h4 class="countdown"><span>September 18, 2015 0 00 -14400</span></h4>
-								<h2>College/Career Ekklesia Conference in Florida</h2>
+															<h4 class="countdown"><span>September 22, 2015 7 45 -14400</span></h4>
+								<h2>Ladies Prayer Group</h2>
 														<span class="arrow"></span>
 							
 						</div>
@@ -365,26 +365,6 @@ Church Office Fax: (865) 984-0136</p>
 				<span class="prev"></span>
 					<span class="next"></span>				
 				<ul>				
-					<li>
-						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':158,'start':'2015-09-18 00:00:00','end':'2015-09-20 00:00:00'}); return false;">
-							<span class="date-area">Sep <strong>18</strong></span>
-							<h5>College/Career Ekklesia Conference in Florida</h5>
-							<p></p>
-															<p>All day</p>
-													</a>
-					</li>
-					
-								
-					<li>
-						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':138,'start':'2015-09-20 00:00:00','end':'2015-09-20 00:00:00'}); return false;">
-							<span class="date-area">Sep <strong>20</strong></span>
-							<h5>Fellowship Groups Kick Off</h5>
-							<p>Grace Community Church</p>
-															<p>All day</p>
-													</a>
-					</li>
-					
-								
 					<li>
 						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':169,'start':'2015-09-22 07:45:00','end':'2015-09-22 08:45:00'}); return false;">
 							<span class="date-area">Sep <strong>22</strong></span>
@@ -454,6 +434,36 @@ Church Office Fax: (865) 984-0136</p>
 													</a>
 					</li>
 					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':64,'start':'2015-09-27 08:30:00','end':'2015-09-27 10:00:00'}); return false;">
+							<span class="date-area">Sep <strong>27</strong></span>
+							<h5>Sunday School during 1st Service</h5>
+							<p>Grace Community Church</p>
+															<p class="ico-time">8:30am - 10:00am</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':177,'start':'2015-09-27 10:15:00','end':'2015-09-27 11:45:00'}); return false;">
+							<span class="date-area">Sep <strong>27</strong></span>
+							<h5>Sunday School during 2nd Service</h5>
+							<p>Grace Community Church</p>
+															<p class="ico-time">10:15am - 11:45am</p>
+													</a>
+					</li>
+					
+								
+					<li>
+						<a href="#" class="event-link" onclick="jQuery.aecDialog({'id':62,'start':'2015-09-27 10:15:00','end':'2015-09-27 11:45:00'}); return false;">
+							<span class="date-area">Sep <strong>27</strong></span>
+							<h5>Sunday Morning Worship (2nd Service)</h5>
+							<p>Grace Community Church</p>
+															<p class="ico-time">10:15am - 11:45am</p>
+													</a>
+					</li>
+					
 				</ul></div></div></div><div class="one_third last"><div id="socialcountplus-4" class="widget widget_socialcountplus"><h4>Check us out!</h4><div class="social-count-plus"><ul class="default"><li class="count-facebook"><a class="icon" href="https://www.facebook.com/492128917478701?fields=likes&#038;access_token=CAAQTyregjEgBAM6TZBY7lTuHWPW4mHVZAQU6GVpoHUm1ThWsrkZC4u033PGiHwbNZCjmYqLxy7NERgFKmBoRHe8fuyDteUB7NSe1PANiX7fXTHBABVvcKGo3xRjFDI4zwbMlp03mX5TpHpBoZAeXpWCz3c6VsK9FHubNpIJiStZBZASuf6W82gFEuvqPGeEoZAmyZAdyZA6SB6tH327miRPUyz&#038;expires=5182974" target="_blank"></a><span class="items"><span class="count" style="color: #333333 !important;">229</span><span class="label" style="color: #333333 !important;">likes</span></span></li><li class="count-youtube"><a class="icon" href="https://www.youtube.com/user/gracemaryville" target="_blank"></a><span class="items"><span class="count" style="color: #333333 !important;">0</span><span class="label" style="color: #333333 !important;">subscribers</span></span></li><li class="count-twitter"><a class="icon" href="https://twitter.com/gracemaryville" target="_blank"></a><span class="items"><span class="count" style="color: #333333 !important;">100</span><span class="label" style="color: #333333 !important;">followers</span></span></li></ul></div></div></div></div></div></div>	
 	</div>
 	
@@ -471,7 +481,7 @@ Church Office Fax: (865) 984-0136</p>
 			
 			<div class="shell">
 			
-				<div class="one_third"><div id="rss-2" class="widget widget_rss"><h4><a class='rsswidget' href='http://feeds.feedburner.com/gracemaryville/pWlZ'><img style='border:0' width='14' height='14' src='http://www.gracemaryville.org/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.gracemaryville.org/'>Grace RSS Feed</a></h4><ul><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/zLJL68G2_3g/01-Gods%20Choice%20of%20You%21.mp3'>Gods Choice of You!</a> <span class="rss-date">September 16, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/ISsFobvzgKo/01-Effective%20Prayer%20Part%206%20%20%20%20%20Pray%20for%20Holiness.mp3'>Effective Prayer Part 6     Pray for Holiness</a> <span class="rss-date">September 13, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/eTfsJiU8yek/01-Pauls%20Prayer%20for%20the%20Thessalonians%20Part%201.mp3'>Pauls Prayer for the Thessalonians Part 1</a> <span class="rss-date">September 9, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/jv1-2MHG_v8/01-Effective%20Prayer%20Part%205%20Desiring%20Gods%20Forgiveness.mp3'>Effective Prayer Part 5 Desiring Gods Forgiveness</a> <span class="rss-date">September 6, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/wbd_3VzTcmg/01-Introduction%20to%201%20Thessalonians.mp3'>Introduction to 1 Thessalonians</a> <span class="rss-date">September 2, 2015</span></li></ul></div></div><div class="one_third"></div><div class="one_third last"><div id="sermon-browser-popular" class="widget sermon-browser-popular"><h4>Most Popular Sermons</h4><p><a id="popular_sermons_trigger_w" href="#">Sermons</a></p><div id="sb_popular_wrapper_w"><div class="popular-sermons_w"><ul><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=818">What the Bible Says About Homosexuality Part 2  The Sinfulness of Homosexuality</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=649">The Blessedness of the Kingdom</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=655">Conflict Resolution Conference - Session 2 - Gentleness</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=644">The King Preaches the Kingdom</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=648">The King\'s Sermon - Part 1</a></li></ul></div></div><script type="text/javascript">jQuery.setSbCookie = function (value) {
+				<div class="one_third"><div id="rss-2" class="widget widget_rss"><h4><a class='rsswidget' href='http://feeds.feedburner.com/gracemaryville/pWlZ'><img style='border:0' width='14' height='14' src='http://www.gracemaryville.org/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.gracemaryville.org/'>Grace RSS Feed</a></h4><ul><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/gxHwinVVqRk/01-The%20Deadly%20Dangers%20of%20External%20Righteousness%20Part%2010%20Fasting.mp3'>The Deadly Dangers of External Righteousness Part 10 Fasting</a> <span class="rss-date">September 20, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/zLJL68G2_3g/01-Gods%20Choice%20of%20You%21.mp3'>Gods Choice of You!</a> <span class="rss-date">September 16, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/ISsFobvzgKo/01-Effective%20Prayer%20Part%206%20%20%20%20%20Pray%20for%20Holiness.mp3'>Effective Prayer Part 6     Pray for Holiness</a> <span class="rss-date">September 13, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/eTfsJiU8yek/01-Pauls%20Prayer%20for%20the%20Thessalonians%20Part%201.mp3'>Pauls Prayer for the Thessalonians Part 1</a> <span class="rss-date">September 9, 2015</span></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/gracemaryville/pWlZ/~3/jv1-2MHG_v8/01-Effective%20Prayer%20Part%205%20Desiring%20Gods%20Forgiveness.mp3'>Effective Prayer Part 5 Desiring Gods Forgiveness</a> <span class="rss-date">September 6, 2015</span></li></ul></div></div><div class="one_third"></div><div class="one_third last"><div id="sermon-browser-popular" class="widget sermon-browser-popular"><h4>Most Popular Sermons</h4><p><a id="popular_sermons_trigger_w" href="#">Sermons</a></p><div id="sb_popular_wrapper_w"><div class="popular-sermons_w"><ul><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=818">What the Bible Says About Homosexuality Part 2  The Sinfulness of Homosexuality</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=649">The Blessedness of the Kingdom</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=655">Conflict Resolution Conference - Session 2 - Gentleness</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=644">The King Preaches the Kingdom</a></li><li><a href="http://www.gracemaryville.org/sermons/?sermon_id=648">The King\'s Sermon - Part 1</a></li></ul></div></div><script type="text/javascript">jQuery.setSbCookie = function (value) {
 											document.cookie = "sb_popular="+encodeURIComponent(value);
 										 };</script><script type="text/javascript">jQuery.getSbCookie = function () {
 											var cookieValue = null;
@@ -532,7 +542,7 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.gracemaryville.org\/wp-content\/plugins\
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://www.gracemaryville.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3'></script>
-<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201538'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201539'></script>
 <script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Sepaa'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
@@ -562,7 +572,7 @@ var custom = {"is_rtl":"","locale":"en","start_of_week":"0","step_interval":"5",
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://www.gracemaryville.org/wp-content/themes/savior/_theme_settings/plugins/ajax-event-calendar/js/jquery.init_show_calendar.js?ver=1.0.2'></script>
-<script type='text/javascript' src='http://stats.wp.com/e-201538.js' async defer></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201539.js' async defer></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:3.7',blog:'96317856',post:'7',tz:'-4',srv:'www.gracemaryville.org'} ]);

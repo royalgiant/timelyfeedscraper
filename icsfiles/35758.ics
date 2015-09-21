@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:bda6f1ca-4f29-11e5-bee5-7bd6ae2e41c0
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>10th Annual Girls Conference Theme: “A Flower in God’s Exqui
@@ -37,64 +37,8 @@ SUMMARY:10th Girls Conference
 URL:http://www.graceistheplaceogontz.org/event/10th-girls-conference/
 END:VEVENT
 BEGIN:VEVENT
-UID:g96ao8mntldgqhsq24js07ka0o@google.com
-DTSTAMP:20150920T002340Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:<p>Church School for all ages</p>
-DTSTART;TZID=America/New_York:20150920T093000
-DTEND;TZID=America/New_York:20150920T103000
-LOCATION:7101 N 20th St\, Philadelphia\, PA 19138\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU
-SEQUENCE:0
-SUMMARY:Church School
-URL:http://www.graceistheplaceogontz.org/event/church-school/
-END:VEVENT
-BEGIN:VEVENT
-UID:4h5mu5d3kklunq6uoklj9lj7r4@google.com
-DTSTAMP:20150920T002340Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T110000
-DTEND;TZID=America/New_York:20150920T130000
-LOCATION:7101 N 20th St\, Philadelphia\, PA 19138\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU
-SEQUENCE:0
-SUMMARY:Children’s Church (ages 6-12)
-URL:http://www.graceistheplaceogontz.org/event/childrens-church-ages-6-12/
-END:VEVENT
-BEGIN:VEVENT
-UID:619f9cca-54a7-11e5-9d0c-6593b583185b
-DTSTAMP:20150920T002340Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T150000
-DTEND;TZID=America/New_York:20150920T172000
-LOCATION:Grace UMC\, 7101 N 20th St\, Philadelphia\, PA\, USA\, 19138
-SEQUENCE:0
-SUMMARY:Friends and Family Day
-URL:http://www.graceistheplaceogontz.org/event/friends-and-family-day/
-END:VEVENT
-BEGIN:VEVENT
-UID:tg2g396tncbeijahd8f5ganoac@google.com
-DTSTAMP:20150920T002340Z
-CATEGORIES:
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/New_York:20150920T150000
-DTEND;TZID=America/New_York:20150920T170000
-LOCATION:Grace United Methodist Church\, 7101 N 20th St\, Philadelphia\, PA
-  19138\, United States
-SEQUENCE:0
-SUMMARY:Worship Leader: Rev. Etta McCall
-URL:http://www.graceistheplaceogontz.org/event/worship-leader-rev-etta-mcca
- ll/
-END:VEVENT
-BEGIN:VEVENT
 UID:k7nueu731qg46ffnppn9uaio3c@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -108,7 +52,7 @@ URL:http://www.graceistheplaceogontz.org/event/women-of-thunder/
 END:VEVENT
 BEGIN:VEVENT
 UID:daqg63fupmep43vdmms85hg6ks@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -122,7 +66,7 @@ URL:http://www.graceistheplaceogontz.org/event/adult-bible-study/
 END:VEVENT
 BEGIN:VEVENT
 UID:tlqu5b0ej9e7hqa8ntlq9nrk80@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -137,7 +81,7 @@ URL:http://www.graceistheplaceogontz.org/event/senior-and-adult-bible-study
 END:VEVENT
 BEGIN:VEVENT
 UID:aqk8qlkln9m4dv6gojmlonf43k@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Women’s Day Choir Rehearsal. Every Thursday at 7PM\, startin
@@ -152,7 +96,7 @@ URL:http://www.graceistheplaceogontz.org/event/womens-day-choir-rehearsal/
 END:VEVENT
 BEGIN:VEVENT
 UID:5om9t2fi85jo933gm5f6sg5f8k@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -166,7 +110,7 @@ URL:http://www.graceistheplaceogontz.org/event/youth-bible-study/
 END:VEVENT
 BEGIN:VEVENT
 UID:3db6d2de-4f29-11e5-9e13-7bd6ae2e41c0
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -179,7 +123,7 @@ URL:http://www.graceistheplaceogontz.org/event/church-wide-cleanup/
 END:VEVENT
 BEGIN:VEVENT
 UID:isau0k3q2efngab7pv7m4grmv0@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Women 2 Women Sunday School</p>
@@ -192,8 +136,36 @@ SUMMARY:Women 2 Women Sunday School
 URL:http://www.graceistheplaceogontz.org/event/women-2-women-sunday-school/
 END:VEVENT
 BEGIN:VEVENT
+UID:g96ao8mntldgqhsq24js07ka0o@google.com
+DTSTAMP:20150921T224735Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:<p>Church School for all ages</p>
+DTSTART;TZID=America/New_York:20150927T093000
+DTEND;TZID=America/New_York:20150927T103000
+LOCATION:7101 N 20th St\, Philadelphia\, PA 19138\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Church School
+URL:http://www.graceistheplaceogontz.org/event/church-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:4h5mu5d3kklunq6uoklj9lj7r4@google.com
+DTSTAMP:20150921T224735Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20150927T110000
+DTEND;TZID=America/New_York:20150927T130000
+LOCATION:7101 N 20th St\, Philadelphia\, PA 19138\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SEQUENCE:0
+SUMMARY:Children’s Church (ages 6-12)
+URL:http://www.graceistheplaceogontz.org/event/childrens-church-ages-6-12/
+END:VEVENT
+BEGIN:VEVENT
 UID:79uri56qo4k42rpf9gt2p7adog@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -208,7 +180,7 @@ URL:http://www.graceistheplaceogontz.org/event/worship-leader-csm-franklin-
 END:VEVENT
 BEGIN:VEVENT
 UID:e960b924-4f29-11e5-a175-7bd6ae2e41c0
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -222,7 +194,7 @@ X-TAGS;LANGUAGE=en-US:Women's Day 2015
 END:VEVENT
 BEGIN:VEVENT
 UID:r4vrsoqmcjppmhcrcipumign88@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -237,7 +209,7 @@ URL:http://www.graceistheplaceogontz.org/event/worship-leader-csm-sam-marti
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3e2e22-dd25-11e2-aef1-21f65a32a5f9
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -250,7 +222,7 @@ URL:http://www.graceistheplaceogontz.org/event/mens-breakfast-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:gi1qqicl0qcc188un6kikfn6v0@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:<p>Women 2 Women Sunday School</p>
@@ -265,7 +237,7 @@ URL:http://www.graceistheplaceogontz.org/event/women-2-women-sunday-school-
 END:VEVENT
 BEGIN:VEVENT
 UID:mcsq6pk1amge3u22le6716idjs@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -280,7 +252,7 @@ URL:http://www.graceistheplaceogontz.org/event/worship-leader-csm-lezma-mil
 END:VEVENT
 BEGIN:VEVENT
 UID:1e4e0bdc-4f2a-11e5-90aa-7bd6ae2e41c0
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -294,7 +266,7 @@ X-TAGS;LANGUAGE=en-US:Women's Day 2015
 END:VEVENT
 BEGIN:VEVENT
 UID:5934504c-4f2a-11e5-8a3b-7bd6ae2e41c0
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:
@@ -308,7 +280,7 @@ X-TAGS;LANGUAGE=en-US:Women's Day 2015
 END:VEVENT
 BEGIN:VEVENT
 UID:18vld8ds12q4hpkb5ifbonraug@google.com
-DTSTAMP:20150920T002340Z
+DTSTAMP:20150921T224735Z
 CATEGORIES:
 CONTACT:
 DESCRIPTION:

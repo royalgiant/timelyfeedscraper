@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//208.76.80.65//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://nyackchamber.org
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:STANDARD
+DTSTART:20151101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150308T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RDATE:20160313T020000
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-44822@nyackchamber.org/Wordpress
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Community\,Farmers Market
+CONTACT:Nyack Chamber of Commerce\; 845-353-2221\; info@nyackchamber.org
+DESCRIPTION:<p>Nyack’s Outdoor Farmers’ Market </p>
+DTSTART;TZID=America/New_York:20150924T080000
+DTEND;TZID=America/New_York:20150924T140000
+GEO:+41.091672;-73.922365
+LOCATION:Main Street Parking Lot @ Main Street\, Nyack\, NY 10960\, USA
+RRULE:FREQ=WEEKLY;UNTIL=20151125T235959Z;BYDAY=TH;WKST=undefined
+SEQUENCE:0
+SUMMARY:Farmers’ Market
+URL:http://nyackchamber.org/event/farmers-market/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-44816@nyackchamber.org/Wordpress
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Chamber\,Community
+CONTACT:Nyack Chamber of Commerce\; 845-353-2221\; info@nyackchamber.org
+DESCRIPTION:<p>The Nyack Chamber of Commerce will host its annual Halloween
+  Parade on Saturday\, October 24 from 5:30 to 7:30 pm in the heart of Nyac
+ k. Festivities begin at 3:00 pm with live music in the municipal parking l
+ ot on Main Street.</p>\n<p>The event\, organized by the Chamber and sponso
+ red by leading local merchants\, is the largest parade of its kind outside
+  New York City. Building on a history of record-breaking crowds\, over 20\
+ ,000 spectators are expected to line the streets of Main and Broadway in N
+ yack for this fun-filled\, family-friendly event.</p>\n<p>3:00pm — live mu
+ sic in the Main Street parking lot</p>\n<p>4:00pm — parade assembly in Mem
+ orial Park</p>\n<p>5:30pm — parade steps off from Memorial Park and ends i
+ n the Main Street parking lot</p>\n<p>6:30pm — prize winners are announced
+  from the Main Street stage at the end of the parade.</p>
+DTSTART;TZID=America/New_York:20151024T150000
+DTEND;TZID=America/New_York:20151024T193000
+GEO:+41.088238;-73.916509
+LOCATION:Memorial Park @ Memorial Park\, Piermont Avenue\, Nyack\, NY 10960
+ \, USA
+SEQUENCE:0
+SUMMARY:Halloween Parade
+URL:http://nyackchamber.org/event/44816/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-44817@nyackchamber.org/Wordpress
+DTSTAMP:20150921T224634Z
+CATEGORIES;LANGUAGE=en-US:Community
+CONTACT:Nyack Chamber of Commerce\; 845-353-2221\; info@nyackchamber.org
+DESCRIPTION:<p>The Chamber of Commerce invites you to welcome the season at
+  the annual Holiday Lights of Nyack event. There will be live caroling\, r
+ efreshments\, a tree lighting\, a holiday story reading and a visit by San
+ ta. Local businesses contribute and offer special deals. Join us as we beg
+ in December in the holiday spirit.</p>
+DTSTART;TZID=America/New_York:20151205T160000
+DTEND;TZID=America/New_York:20151205T190000
+GEO:+41.091672;-73.922365
+LOCATION:Veteran's Park Gazebo @ Main Street\, Nyack\, NY 10960\, USA
+SEQUENCE:0
+SUMMARY:Holiday Lights of Nyack
+URL:http://nyackchamber.org/event/holiday-lights-of-nyack-2/
+END:VEVENT
+END:VCALENDAR

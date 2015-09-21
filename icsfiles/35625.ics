@@ -23,22 +23,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ai1ec-1673@www.gldl.com/wp
-DTSTAMP:20150920T002303Z
-CATEGORIES;LANGUAGE=en-US:Dive Travel\,Gilboa Quarry
-CONTACT:Jonathan Levine\; 616-502-7714\; jbl@jonathanblevine.me
-DESCRIPTION:
-DTSTART;VALUE=DATE:20150919
-DTEND;VALUE=DATE:20150921
-GEO:+41.015097;-83.933601
-LOCATION:Gilboa Quarry @ Gilboa\, OH\, USA
-SEQUENCE:0
-SUMMARY:Gilboa Quarry Trip
-URL:http://www.gldl.com/index.php/event/gilboa-quarry-trip-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-1164@www.gldl.com/wp
-DTSTAMP:20150920T002303Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Dive Travel
 CONTACT:
 DESCRIPTION:<p>Dates are tentative.</p>
@@ -50,7 +36,7 @@ URL:http://www.gldl.com/index.php/event/philippines-dive-trip/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1680@www.gldl.com/wp
-DTSTAMP:20150920T002303Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Great Lakes Dive Locker\,Open Water Diver
 CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
 DESCRIPTION:<p> </p>\n<p>This is the first night of classroom for PADI Open
@@ -86,7 +72,7 @@ X-COST:Call for Pricing
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1681@www.gldl.com/wp
-DTSTAMP:20150920T002303Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Great Lakes Dive Locker\,Open Water Diver
 CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
 DESCRIPTION:<p> </p>\n<p>This is the first night of classroom for PADI Open
@@ -122,7 +108,7 @@ X-COST:Call for Pricing
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1593@www.gldl.com/wp
-DTSTAMP:20150920T002303Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Lakeshore Scuba\,Local Fun Dive
 CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
 DESCRIPTION:<p>Mid week fun dive!</p>\n<p>Meet at Lakeshore Scuba for a div
@@ -149,7 +135,7 @@ X-TAGS;LANGUAGE=en-US:Fun Dive\,Lake Sixteen
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1686@www.gldl.com/wp
-DTSTAMP:20150920T002303Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Lakeshore Scuba\,PADI Specialty
 CONTACT:Jonathan Levine\; 616-502-7714\; jbl@jonathanblevine.me
 DESCRIPTION:
@@ -165,7 +151,7 @@ URL:http://www.gldl.com/index.php/event/fish-identification-knowledge-devel
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1676@www.gldl.com/wp
-DTSTAMP:20150920T002303Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Harbourtowne Beach\,Open Water Diver
 CONTACT:Jonathan Levine\; 616-502-7714\; jbl@jonathanblevine.me
 DESCRIPTION:
@@ -180,7 +166,7 @@ URL:http://www.gldl.com/index.php/event/open-water-diver-lake-training-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1677@www.gldl.com/wp
-DTSTAMP:20150920T002303Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Harbourtowne Beach\,PADI Core Continuing Educatio
  n
 CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
@@ -201,7 +187,7 @@ X-COST:$150 plus Materials
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1675@www.gldl.com/wp
-DTSTAMP:20150920T002304Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Lake Sixteen\,Open Water Diver
 CONTACT:Jonathan Levine\; 616-502-7714\; jbl@jonathanblevine.me
 DESCRIPTION:
@@ -215,7 +201,7 @@ URL:http://www.gldl.com/index.php/event/open-water-diver-lake-training-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1674@www.gldl.com/wp
-DTSTAMP:20150920T002304Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Lake Sixteen\,PADI Core Continuing Education
 CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
 DESCRIPTION:<p><a href='http://www.gldl.com/wp/wp-content/uploads/2014/02/B
@@ -234,7 +220,7 @@ X-COST:$150 plus Materials
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1678@www.gldl.com/wp
-DTSTAMP:20150920T002304Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Lakeshore Scuba\,Open Water Diver
 CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
 DESCRIPTION:<p> </p>\n<p>This is the first night of classroom for PADI Open
@@ -270,7 +256,7 @@ X-COST:Call for Pricing
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-1679@www.gldl.com/wp
-DTSTAMP:20150920T002304Z
+DTSTAMP:20150921T224748Z
 CATEGORIES;LANGUAGE=en-US:Lakeshore Scuba\,Open Water Diver
 CONTACT:Jonathan B. Levine\; 616-502-7714\; jbl@jonathanblevine.me
 DESCRIPTION:<p> </p>\n<p>This is the first night of classroom for PADI Open

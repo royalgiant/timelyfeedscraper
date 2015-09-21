@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai1ec-684@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Wider Quaker Events
 CONTACT:
 DESCRIPTION:<p><strong>Weaving Together Our Lives</strong></p>\n<p>FGC’s Mi
@@ -52,7 +52,7 @@ X-COST:See flyer.
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-686@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Wider Quaker Events
 CONTACT:
 DESCRIPTION:<p>Join Catherine Cox and April Allison (of Red Cedar Friends M
@@ -79,66 +79,8 @@ URL:http://redcedarfriends.org/event/a-contemplative-retreat-in-the-manner-
 X-COST:See link below.
 END:VEVENT
 BEGIN:VEVENT
-UID:ai1ec-685@redcedarfriends.org
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Wider Quaker Events
-CONTACT:Geoff Brieger 248 – 547 – 3073
-DESCRIPTION:<p>Lunch provided<br />\nYouth activities<br />\nMore informati
- on to follow</p>
-DTSTART;TZID=America/Detroit:20150919T090000
-DTEND;TZID=America/Detroit:20150919T160000
-LOCATION:Location TBA
-SEQUENCE:0
-SUMMARY:Green Pastures Quarterly Meeting Fall Meeting
-URL:http://redcedarfriends.org/event/green-pastures-quarterly-meeting-fall-
- meeting-2/
-X-COST:No cost\; free will contribution for lunch expenses
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-179@redcedarfriends.org
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:First Day School (children)
-CONTACT:(517) 371-1047
-DESCRIPTION:<p>religious ed and activities for children</p>
-DTSTART;TZID=America/Detroit:20150920T141500
-DTEND;TZID=America/Detroit:20150920T153000
-LOCATION:Meeting House @ 1400 Turner St\, Lansing\, MI 48906\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:First Day School
-URL:http://redcedarfriends.org/event/first-day-school/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-177@redcedarfriends.org
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Worship
-CONTACT:(517) 371-1047
-DESCRIPTION:<p>Worship in the manner of Friends.</p>
-DTSTART;TZID=America/Detroit:20150920T143000
-DTEND;TZID=America/Detroit:20150920T153000
-LOCATION:Meeting House @ 1400 Turner St\, Lansing\, MI 48906\, USA
-RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
-SEQUENCE:0
-SUMMARY:Worship
-URL:http://redcedarfriends.org/event/worship-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai1ec-189@redcedarfriends.org
-DTSTAMP:20150920T002110Z
-CATEGORIES;LANGUAGE=en-US:Meeting-sponsored Activities
-CONTACT:
-DESCRIPTION:
-DTSTART;TZID=America/Detroit:20150920T154500
-DTEND;TZID=America/Detroit:20150920T170000
-EXDATE;TZID=America/Detroit:20130120T154500
-RRULE:FREQ=MONTHLY;BYDAY=3SU
-SEQUENCE:0
-SUMMARY:Potluck
-URL:http://redcedarfriends.org/event/potluck/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai1ec-195@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Meeting-sponsored Activities
 CONTACT:(517) 371-1047
 DESCRIPTION:
@@ -151,8 +93,36 @@ SUMMARY:Meeting for Healing
 URL:http://redcedarfriends.org/event/meeting-for-healing/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-179@redcedarfriends.org
+DTSTAMP:20150921T224647Z
+CATEGORIES;LANGUAGE=en-US:First Day School (children)
+CONTACT:(517) 371-1047
+DESCRIPTION:<p>religious ed and activities for children</p>
+DTSTART;TZID=America/Detroit:20150927T101500
+DTEND;TZID=America/Detroit:20150927T113000
+LOCATION:Meeting House @ 1400 Turner St\, Lansing\, MI 48906\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:First Day School
+URL:http://redcedarfriends.org/event/first-day-school/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-177@redcedarfriends.org
+DTSTAMP:20150921T224647Z
+CATEGORIES;LANGUAGE=en-US:Worship
+CONTACT:(517) 371-1047
+DESCRIPTION:<p>Worship in the manner of Friends.</p>
+DTSTART;TZID=America/Detroit:20150927T103000
+DTEND;TZID=America/Detroit:20150927T113000
+LOCATION:Meeting House @ 1400 Turner St\, Lansing\, MI 48906\, USA
+RRULE:FREQ=WEEKLY;BYDAY=SU;WKST=SU
+SEQUENCE:0
+SUMMARY:Worship
+URL:http://redcedarfriends.org/event/worship-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-694@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Adult Religious Education
 CONTACT:
 DESCRIPTION:<p>Friends are invited to walk together in Hawk Meadows Park fo
@@ -168,7 +138,7 @@ URL:http://redcedarfriends.org/event/adult-religious-ed/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-695@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Adult Religious Education
 CONTACT:
 DESCRIPTION:<p>QuakerSpeak.com is a Quaker YouTube channel\, where videos c
@@ -187,7 +157,7 @@ URL:http://redcedarfriends.org/event/adult-religious-ed-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-696@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Adult Religious Education
 CONTACT:
 DESCRIPTION:<p><strong>Gamelan</strong></p>\n<p>10/10/2015 – 3:00 – 5:00</p
@@ -207,7 +177,7 @@ URL:http://redcedarfriends.org/event/adult-religious-ed-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-188@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Committees &amp\; Business Meeting
 CONTACT:(517) 371-1047
 DESCRIPTION:
@@ -220,8 +190,22 @@ SUMMARY:Meeting for Business
 URL:http://redcedarfriends.org/event/meeting-for-business/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai1ec-189@redcedarfriends.org
+DTSTAMP:20150921T224647Z
+CATEGORIES;LANGUAGE=en-US:Meeting-sponsored Activities
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Detroit:20151018T114500
+DTEND;TZID=America/Detroit:20151018T130000
+EXDATE;TZID=America/Detroit:20130120T114500
+RRULE:FREQ=MONTHLY;BYDAY=3SU
+SEQUENCE:0
+SUMMARY:Potluck
+URL:http://redcedarfriends.org/event/potluck/
+END:VEVENT
+BEGIN:VEVENT
 UID:ai1ec-697@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Adult Religious Education
 CONTACT:
 DESCRIPTION:<p><strong>But Who Do You Say I Am?</strong></p>\n<p>10/25/2015
@@ -244,7 +228,7 @@ URL:http://redcedarfriends.org/event/adult-religious-ed-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-698@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Adult Religious Education
 CONTACT:
 DESCRIPTION:<p><strong>Red Cedar Friends Panel</strong></p>\n<p>11/1/2015 –
@@ -261,7 +245,7 @@ URL:http://redcedarfriends.org/event/adult-religious-ed-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-699@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Adult Religious Education\,Meeting-sponsored Acti
  vities
 CONTACT:
@@ -279,7 +263,7 @@ URL:http://redcedarfriends.org/event/adult-religious-ed-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-700@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Adult Religious Education
 CONTACT:
 DESCRIPTION:<p><strong>Twilight Session</strong></p>\n<p>11/22/2015 – Noon 
@@ -296,7 +280,7 @@ URL:http://redcedarfriends.org/event/adult-religious-ed-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai1ec-701@redcedarfriends.org
-DTSTAMP:20150920T002110Z
+DTSTAMP:20150921T224647Z
 CATEGORIES;LANGUAGE=en-US:Adult Religious Education
 CONTACT:
 DESCRIPTION:<p><strong>Mass Incarceration and Prison Reform</strong></p>\n<
